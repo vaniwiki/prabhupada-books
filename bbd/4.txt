@@ -1,29 +1,47 @@
-~~bc:Chapter 4~~
-~~Title:Beyond Birth and Death 4: The Sky Beyond the Universe~~
+---json
+{
+    "canonical":"bbd:1",
+    "name":"Chapter 4",
+    "title":"Beyond Birth and Death 4: The Sky Beyond the Universe",
+    "description":"If even the higher planets in this universe are subject to birth and death, why do great yogīs strive for elevation to them? Although they may have many mystic powers, these yogīs still have the tendency to want to enjoy the facilities of material life. On the higher planets, it is possible to live for incredibly long lifetimes. The time calculation on these planets is indicated by Śrī Kṛṣṇa:"
+}
+---
 
 ====== The Sky Beyond the Universe ======
 
 If even the higher planets in this universe are subject to birth and death, why do great //yogīs// strive for elevation to them? Although they may have many mystic powers, these //yogīs// still have the tendency to want to enjoy the facilities of material life. On the higher planets, it is possible to live for incredibly long lifetimes. The time calculation on these planets is indicated by Śrī Kṛṣṇa:
 
-{{page>books:bg:8:17#text}}
+> sahasra-yuga-paryantam
+> ahar yad brahmaṇo viduḥ
+> rātriṁ yuga-sahasrāntāṁ
+> te ‘ho-rātra-vido janāḥ
 
 **"By human calculation, a thousand ages taken together is the duration of Brahmā's one day. And such also is the duration of his night."** [[books:bg:8:17|(Bg. 8.17)]]
 
 One //yuga// covers 4,300,000 years. This number multiplied by one thousand is calculated to be twelve hours of Brahmā on the planet Brahmaloka. Similarly, another twelve-hour period covers the night. Thirty such days equal a month, twelve months a year, and Brahmā lives for one hundred such years. Life on such a planet is indeed long, yet even after trillions of years, the inhabitants of Brahmaloka have to face death. Unless we go to the spiritual planets, there is no escape from death.
 
-{{page>books:bg:8:18#text}}
+> avyaktād vyaktayaḥ sarvāḥ
+> prabhavanty ahar-āgame
+> rātry-āgame pralīyante
+> tatraivāvyakta-saṁjñake
 
 **"When Brahmā's day is manifest, this multitude of living entities comes into being, and at the arrival of Brahmā's night, they are all annihilated."** [[books:bg:8:18|(Bg. 8.18)]] 
 
 At the end of the day of Brahmā, all the lower planetary systems are covered with water, and the beings on them are annihilated. After this devastation and after the night of Brahmā passes, in the morning when Brahmā arises there is again creation, and all these beings come forth. Thus subjection to creation and destruction is the nature of the material world.
 
-{{page>books:bg:8:19#text}}
+> bhūta-grāmaḥ sa evāyaṁ
+> bhūtvā bhūtvā pralīyate
+> rātry-āgame ‘vaśaḥ pārtha
+> prabhavaty ahar-āgame
 
 **"Again and again the day comes, and this host of beings is active; and again the night falls, O Pārtha, and they are helplessly dissolved."** [[books:bg:8:19|(Bg. 8.19)]] 
 
 Although the living entities do not like devastation, that devastation will come and overflood the planets until all living beings on the planets stay merged in water throughout the night of Brahmā. But as day comes, the water gradually disappears.
 
-{{page>books:bg:8:20#text}}
+> paras tasmāt tu bhāvo ‘nyo
+> ‘vyakto ‘vyaktāt sanātanaḥ
+> yaḥ sa sarveṣu bhūteṣu
+> naśyatsu na vinaśyati
 
 **"Yet there is another nature, which is eternal and is transcendental to this manifested and unmanifested matter. It is supreme and is never annihilated. When all in this world is annihilated, that part remains as it is."** [[books:bg:8:20|(Bg. 8.20)]] 
 
@@ -33,19 +51,28 @@ We cannot calculate the extent of the material universe, but we have Vedic infor
 
 In Vedic literatures there is a good deal of information about the material and spiritual skies. In the Second Canto of //Śrīmad-Bhāgavatam// there are descriptions of the spiritual sky and of its inhabitants. There is even information given that there are spiritual airplanes in the spiritual sky and that the liberated entities there travel about on these planes like lightning. Everything that we find here can also be found there in reality. Here in the material sky everything is an imitation, or shadow, of that which exists in the spiritual sky. As in a cinema we simply see a show or facsimile of the real thing, in //Śrīmad-Bhāgavatam// it is said that this material world is but a combination of matter modeled after the reality, just as a mannequin of a girl in a store window is modeled after a girl. Every sane man knows that the mannequin is an imitation. Śrīdhara Svāmī says that because the spiritual world is real, this material world, which is an imitation, //appears// to be real. We must understand the meaning of reality---reality means existence which cannot be vanquished; reality means eternity.
 
-{{page>books:bg:2:16#text}}
+> nāsato vidyate bhāvo
+> nābhāvo vidyate sataḥ
+> ubhayor api dṛṣṭo ‘ntas
+> tv anayos tattva-darśibhiḥ
 
 **"Those who are seers of the truth have concluded that of the nonexistent there is no endurance, and of the existent there is no cessation. This seers have concluded by studying the nature of both."** [[books:bg:2:16|(Bg. 2.16)]]
 
 Real pleasure is Kṛṣṇa, whereas material pleasure, which is temporary, is not actual. Those who can see things as they are do not take part in shadow pleasure. The real aim of human life is to attain to the spiritual sky, but as //Śrīmad-Bhāgavatam// points out, most people do not know about it. Human life is meant to understand reality and to be transferred into it. All Vedic literature instructs us not to remain in this darkness. The nature of this material world is darkness, but the spiritual world is full of light and yet is not illumined by fire or electricity. Kṛṣṇa hints of this in the Fifteenth Chapter of //Bhagavad-gītā// [[books:bg:15:6|(15.6)]]:
 
-{{page>books:bg:15:6#text}}
+> na tad bhāsayate sūryo
+> na śaśāṅko na pāvakaḥ
+> yad gatvā na nivartante
+> tad dhāma paramaṁ mama
 
 **"That abode of Mine is not illumined by the sun or moon, nor by electricity. One who reaches it never returns to this material world."**
 
 The spiritual world is called unmanifested because it cannot be perceived by material senses.
 
-{{page>books:bg:8:21#text}}
+> avyakto ‘kṣara ity uktas
+> tam āhuḥ paramāṁ gatim
+> yaṁ prāpya na nivartante
+> tad dhāma paramaṁ mama
 
 **"That supreme abode is called unmanifested and infallible, and it is the supreme destination. When one goes there, he never comes back. That is My supreme abode."** [[books:bg:8:21|(Bg. 8.21)]] 
 
@@ -53,7 +80,10 @@ A great journey is indicated in this verse. We have to be able to penetrate oute
 
 Everyone, then, should try to go to that //dhāma paramam//---Kṛṣṇa's supreme abode. Kṛṣṇa Himself comes to call us, and He gives us literatures as guidebooks and sends His bona fide representatives. We should take advantage of this facility given to human life. For one who reaches that supreme abode, penances, austerities, yogic meditations, and so on are no longer required, and for one who does not reach it, all penances and austerities are a useless waste of time. The human form of life is an opportunity to get this boon, and it is the duty of the state, parents, teachers, and guardians to elevate those who have acquired this human form of life to attain this perfection of life. Simply eating, sleeping, mating, and quarreling like cats and dogs is not civilization. We should properly utilize this human form of life and take advantage of this knowledge to prepare ourselves in Kṛṣṇa consciousness, so that twenty-four hours of the day we will be absorbed in Kṛṣṇa and at death at once transfer to that spiritual sky.
 
-{{page>books:bg:8:22#text}}
+> puruṣaḥ sa paraḥ pārtha
+> bhaktyā labhyas tv ananyayā
+> yasyāntaḥ-sthāni bhūtāni
+> yena sarvam idaṁ tatam
 
 **"The Supreme Personality of Godhead, who is greater than all, is attainable by unalloyed devotion. Although He is present in His abode, He is all-pervading, and everything is situated within Him."** [[books:bg:8:22|(Bg. 8.22)]]
 
@@ -74,7 +104,10 @@ Those who are filled with love of God see God constantly before them. It is not 
 
 Due to our material bondage, the covering of the material senses, we cannot understand what is spiritual. But this ignorance can be removed by this process of chanting Hare Kṛṣṇa. How is this? A sleeping man may be awakened by sound vibration. Although a man may be for all intents and purposes unconscious---he cannot see, feel, smell, etc.---the sense of hearing is so prominent that a sleeping man may be awakened just by sound vibration. Similarly, the spirit soul, although now overpowered by the sleep of material contact, can be revived by this transcendental sound vibration of Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. Hare Kṛṣṇa is simply an address to the Supreme Lord and His energies. //Hare// means energy, and //Kṛṣṇa// is the name of the Supreme Lord, so when we chant Hare Kṛṣṇa we are saying, "O energy of the Lord, O Lord, please accept me." We have no other prayer for acceptance by the Lord. There is no question of praying for daily bread, for the bread is always there. Hare Kṛṣṇa is but an address to the Supreme Lord, requesting Him to accept us. Lord Caitanya Mahāprabhu Himself prayed,
 
-{{page>books:cc:antya:20:32#text}}
+> ayi nanda-tanuja kiṅkaraṁ
+> patitaṁ māṁ viṣame bhavāmbudhau
+> kṛpayā tava pāda-paṅkaja-
+> sthita-dhūlī-sadṛśaṁ vicintaya
 
 **"O son of Mahārāja Nanda, I am Your eternal servitor, and although I am so, somehow or other I have fallen in the ocean of birth and death. Please, therefore, pick me up from this ocean of death and fix me as one of the atoms at Your lotus feet."** [[books:cc:antya:20:32|(Śikṣāṣṭaka 5)]]
 
@@ -88,7 +121,10 @@ From //Bhagavad-gītā// we have to accept that there is a spiritual universe wh
 
 The Śaṅkarites and Buddhists claim that the world beyond is void, but //Bhagavad-gītā// does not disappoint us like this. The philosophy of voidness has simply created atheists. We are spiritual beings, and we want enjoyment, but as soon as our future is void, we will become inclined to enjoy this material life. In this way, the impersonalists discuss the philosophy of voidism while trying as much as possible to enjoy this material life. One may enjoy speculation in this way, but there is no spiritual benefit.
 
-{{page>books:bg:18:54#text}}
+> brahma-bhūtaḥ prasannātmā
+> na śocati na kāṅkṣati
+> samaḥ sarveṣu bhūteṣu
+> mad-bhaktiṁ labhate parām
 
 **"One who is thus transcendentally situated at once realizes the Supreme Brahman. He never laments or desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me."** [[books:bg:18:54|(Bg. 18.54)]]
 

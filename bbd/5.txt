@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:Beyond Birth and Death 5: Associating with Kṛṣṇa~~
+---json
+{
+    "canonical":"bbd:5",
+    "name":"Chapter 5",
+    "title":"Beyond Birth and Death 5: Associating with Kṛṣṇa",
+    "description":"If one gets something superior, he naturally gives up all inferior things. We want enjoyment, but impersonalism and voidism have created such an atmosphere that we have become addicted to material enjoyment. There must be enjoyment in connection with the Supreme Person (puruṣaḥ sa paraḥ), whom we can see face to face. In the spiritual sky we are able to speak personally with God, play with Him, eat with Him, etc. All of this can be attained by bhaktyā---transcendental loving service. However, this service must be without adulteration, that is to say, we must love God without expecting material remuneration. Loving God to become one with Him is also a form of adulteration." 
+}
+---
 
 ====== Associating with Kṛṣṇa ======
 
@@ -9,7 +15,10 @@ One of the major differences between the spiritual sky and the material sky is t
 
 The inhabitants of the Vaikuṇṭha planets in the spiritual sky are all liberated souls. In //Śrīmad-Bhāgavatam// we are informed that their bodily features are exactly like God's. On some of these planets God is manifested with two arms, and on others He has four. The inhabitants of these planets, like the Supreme Lord, also manifest two and four arms, and it is said that one cannot distinguish between them and the Supreme Person. In the spiritual world there are five kinds of liberation. //Sāyujya-mukti// is a form of liberation in which one merges into the impersonal existence of the Supreme Lord, called Brahman. Another form of liberation is //sārūpya-mukti,// by which one receives features exactly like God's. Another is //sālokya-mukti,// by which one can live in the same planet with God. By //sārṣṭi-mukti// one can have opulences similar to the Supreme Lord's. Another type enables one to remain always with God as one of His associates, just like Arjuna, who is always with Kṛṣṇa as His friend. One can have any of these five forms of liberation, but of the five the //sāyujya-mukti,// merging with the impersonal aspect, is not accepted by Vaiṣṇava devotees. A Vaiṣṇava wishes to worship God as He is and retain his separate individuality to serve Him, whereas the Māyāvādī impersonal philosopher wishes to lose his individuality and merge into the existence of the Supreme. This merging is recommended neither by Śrī Kṛṣṇa in //Bhagavad-gītā// nor by the disciplic succession of Vaiṣṇava philosophers. Lord Caitanya Mahāprabhu wrote on this subject in His [[books:cc:antya:20:29|Śikṣāṣṭaka (4)]]:
 
-{{page>books:cc:antya:20:29#text}}
+> na dhanaṁ na janaṁ na sundarīṁ
+> kavitāṁ vā jagadīśa kāmaye
+> mama janmani jamanīśvare
+> bhavatād bhaktir ahaitukī tvayi
 
 **"O almighty Lord! I have no desire to accumulate wealth, nor have I any desire to enjoy beautiful women, nor do I want any number of followers. What I want only is that I may have Your causeless devotional service in my life, birth after birth."** 
 
@@ -17,45 +26,74 @@ Here Lord Caitanya Mahāprabhu refers to "birth after birth." When there is birt
 
 Although Śrī Kṛṣṇa indicates that He can be easily reached by one who is devoted to Him, there is an element of risk involved for the //yogīs// who practice other methods of //yoga.// For them, He has given directions in //Bhagavad-gītā// [[books:bg:8:23|(8.23)]] regarding the proper time to leave the gross body.
 
-{{page>books:bg:8:23#text}}
+> yatra kāle tv anāvṛttim
+> āvṛttiṁ caiva yoginaḥ
+> prayātā yānti taṁ kālaṁ
+> vakṣyāmi bharatarṣabha
 
 **"O best of the Bhāratas, I shall now explain to you the different times at which, passing away from this world, one does or does not come back."** 
 
 Here Kṛṣṇa indicates that if one is able to leave his body at a particular time, he can become liberated, never to return to the material world. On the other hand, he indicates that if one dies at another time, he has to return. There is this element of chance, but there is no question of chance for a devotee always in Kṛṣṇa consciousness, for he is guaranteed entrance into the abode of Kṛṣṇa by dint of his devotion to the Lord.
 
-{{page>books:bg:8:24#text}}
+> agnir jyotir ahaḥ śuklaḥ
+> ṣaṇ-māsā uttarāyaṇam
+> tatra prayātā gacchanti
+> brahma brahma-vido janāḥ
 
 **"Those who know the Supreme Brahman pass away from the world during the influence of the fiery god, in the light, at an auspicious moment, during the fortnight of the moon and the six months when the sun travels in the north."** [[books:bg:8:24|(Bg. 8.24)]] 
 
 The sun spends six months on the northern side of the equator and six months on the southern side. In //Śrīmad-Bhāgavatam// we have information that as the planets are moving, so also the sun is moving. If one dies when the sun is situated in the northern hemisphere, he attains liberation.
 
-{{page>books:bg:8:25#text}}
-{{page>books:bg:8:26#text}}
+> dhūmo rātris tathā kṛṣṇaḥ
+> ṣaṇ-māsā dakṣiṇāyanam
+> tatra cāndramasaṁ jyotir
+> yogī prāpya nivartate
+>
+> śukla-kṛṣṇe gatī hy ete
+> jagataḥ śāśvate mate
+> ekayā yāty anāvṛttim
+> anyayāvartate punaḥ
 
 **"The mystic who passes away from this world during the smoke, the night, the moonless fortnight, or in the six months when the sun passes to the south, or who reaches the moon planet, again comes back. According to the //Vedas,// there are two ways of passing from this world---one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns."** [[books:bg:8:25|(Bg. 8.25-26)]]
 
 This is all by chance. We do not know when we are going to die, and we may die accidentally at any time. But for one who is a //bhakti-yogī,// who is established in Kṛṣṇa consciousness, there is no question of chance. He is always sure.
 
-{{page>books:bg:8:27#text}}
+> naite sṛtī pārtha jānan
+> yogī muhyati kaścana
+> tasmāt sarveṣu kāleṣu
+> yoga-yukto bhavārjuna
 
 **"The devotees who know these two paths, O Arjuna, are never bewildered. Therefore, be always fixed in devotion."** [[books:bg:8:27|(Bg. 8.27)]]
 
 It has already been ascertained that at the time of death, if one can think of Kṛṣṇa, he is immediately transferred to the abode of Kṛṣṇa.
 
-{{page>books:bg:8:5#text}}
-{{page>books:bg:8:8#text}}
+> anta-kāle ca mām eva
+> smaran muktvā kalevaram
+> yaḥ prayāti sa mad-bhāvaṁ
+> yāti nāsty atra saṁśayaḥ
+
+> abhyāsa-yoga-yuktena
+> cetasā nānya-gāminā
+> paramaṁ puruṣaṁ divyaṁ
+> yāti pārthānucintayan
 
 **"And whoever, at the time of death, quits his body remembering Me alone, at once attains My nature. Of this there is no doubt. He who meditates on the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Pārtha [Arjuna], is sure to reach Me."** (Bg. [[books:bg:8:5|8.5]], [[books:bg:8:8|8.8]]) 
 
 Such meditation on Kṛṣṇa may seem very difficult, but it is not. If one practices Kṛṣṇa consciousness by chanting the //mahā-mantra,// Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare, he will be quickly helped. Kṛṣṇa and His name are nondifferent, and Kṛṣṇa and His transcendental abode are also nondifferent. By sound vibration we can have Kṛṣṇa associate with us. If, for instance, we chant Hare Kṛṣṇa on the street, we will see that Kṛṣṇa is going with us, just as when we look up and see the moon overhead, we perceive that it is also going with us. If Kṛṣṇa's inferior energy may appear to go with us, is it not possible for Kṛṣṇa Himself to be with us when we are chanting His names? He will keep us company, but we have to qualify to be in His company. If, however, we are always merged in the thought of Kṛṣṇa, we should rest assured that Kṛṣṇa is always with us. Lord Caitanya Mahāprabhu prays,
 
-{{page>books:cc:antya:20:16#text}}
+> nāmnām akāri bahudhā nija-sarva-śaktis
+> tatrārpitā niyamitaḥ smaraṇe na kālaḥ
+> etādṛśī tava kṛpā bhagavan mamāpi
+> durdaivam īdṛśam ihājani nānurāgaḥ
 
 **"O my Lord! Your holy name alone can render all benediction upon the living beings, and therefore You have hundreds and millions of names, like //Kṛṣṇa// and //Govinda.// In these transcendental names You have invested all Your transcendental energies, and there is no hard and fast rule for chanting these holy names. O my Lord! You have so kindly made approach to You easy by Your holy names, but unfortunate as I am, I have no attraction for them."** [[books:cc:antya:20:16|(Śikṣāṣṭaka 2)]]
 
 Merely by chanting we can have all the advantages of personal association with Kṛṣṇa. Lord Caitanya Mahāprabhu, who is not only considered to be a realized soul but an incarnation of Kṛṣṇa Himself, has pointed out that in this age of Kali, although men have no real facilities for self-realization, Kṛṣṇa is so kind that He has given this //śabda// (sound incarnation) to be utilized as the //yuga-dharma,// or way of realization of this age. No special qualification is necessary for this method; we need not even know Sanskrit. The vibrations of Hare Kṛṣṇa are so potent that anyone can immediately begin chanting them, without any knowledge of Sanskrit whatsoever.
 
-{{page>books:bg:8:28#text}}
+> vedeṣu yajñeṣu tapaḥsu caiva
+> dāneṣu yat puṇya-phalaṁ pradiṣṭam
+> atyeti tat sarvam idaṁ viditvā
+> yogī paraṁ sthānam upaiti cādyam
 
 **"A person who accepts the path of devotional service is not bereft of the results derived from studying the //Vedas,// performing austere sacrifices, giving charity, or pursuing philosophical and fruitive activities. At the end he reaches the supreme abode."** [[books:bg:8:28|(Bg. 8.28)]]
 

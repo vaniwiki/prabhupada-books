@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:Beyond Birth and Death 1: We Are Not These Bodies~~
+---json
+{
+    "canonical":"bbd:1",
+    "name":"Chapter 1",
+    "title":"Beyond Birth and Death 1: We Are Not These Bodies",
+    "description":"The very first step in self-realization is realizing one’s identity as separate from the body. "I am not this body but am spirit soul" is an essential realization for anyone who wants to transcend death and enter into the spiritual world beyond. It is not simply a matter of saying "I am not this body," but of actually realizing it. This is not as simple as it may seem at first. Although we are not these bodies but are pure consciousness, somehow or other we have become encased within the bodily dress. If we actually want the happiness and independence that transcend death, we have to establish ourselves and remain in our constitutional position as pure consciousness."
+}
+---
 
 ====== We Are Not These Bodies ======
 
@@ -48,9 +54,15 @@ The body is composed of senses, and the senses are always hungry after their obj
 
 It is imperative that we learn how to control the senses. The name gosvāmī is given to someone who has learned how to master the senses. Go means “senses,” and svāmī means “controller”; so one who can control the senses is to be considered a gosvāmī. Kṛṣṇa indicates that one who identifies with the illusory material body cannot establish himself in his proper identity as spirit soul. Bodily pleasure is flickering and intoxicating, and we cannot actually enjoy it, because of its momentary nature. Actual pleasure is of the soul, not the body. We have to mold our lives in such a way that we will not be diverted by bodily pleasure. If somehow we are diverted, it is not possible for us to establish our consciousness in its true identity beyond the body.
 
-{{page>books:bg:2:44#text}}
+> bhogaiśvarya-prasaktānāṁ
+> tayāpahṛta-cetasām
+> vyavasāyātmikā buddhiḥ
+> samādhau na vidhīyate
 
-{{page>books:bg:2:45#text}}
+> trai-guṇya-viṣayā vedā
+> nistrai-guṇyo bhavārjuna
+> nirdvandvo nitya-sattva-stho
+> niryoga-kṣema ātmavān
 
 **“In the minds of those who are too attached to sense enjoyment and material opulence, and who are bewildered by such things, the resolute determination for devotional service to the Supreme Lord does not take place. The Vedas deal with the subject of the three modes of material nature. Rise above these modes, O Arjuna. Be transcendental to all of them. Be free from all dualities and from all anxieties for gain and safety, and be established in the Self.”** [[books:bg:2:44|(Bg. 2.44–45)]]
 
@@ -64,7 +76,10 @@ The body must be considered a diseased condition. A diseased man cannot enjoy hi
 
 Actually, material enjoyment is not enjoyment at all. Real enjoyment does not cease. In the Mahābhārata there is a verse---ramante yogino ’nante---to the effect that the yogīs (yogino), those who are endeavoring to elevate themselves to the spiritual platform, are actually enjoying (ramante), but their enjoyment is anante, endless. This is because their enjoyment is in relation to the supreme enjoyer (Rāma), Śrī Kṛṣṇa. Bhagavān Śrī Kṛṣṇa is the real enjoyer, and Bhagavad-gītā [[books:bg:5:29|(5.29)]] confirms this:
 
-{{page>books:bg:5:29#text}}
+> bhoktāraṁ yajña-tapasāṁ
+> sarva-loka-maheśvaram
+> suhṛdaṁ sarva-bhūtānāṁ
+> jñātvā māṁ śāntim ṛcchati
 
 **“The sages, knowing Me as the ultimate enjoyer of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries.”**
 
@@ -74,19 +89,28 @@ An example of this relationship can be found in the material world between the h
 
 God expanded into many, and we constitute those expansions. God is one without a second, but He willed to become many in order to enjoy. We have experience that there is little or no enjoyment in sitting alone in a room talking to oneself. However, if there are five people present, our enjoyment is enhanced, and if we can discuss Kṛṣṇa before many, many people, the enjoyment is all the greater. Enjoyment means variety. God became many for His enjoyment, and thus our position is that of the enjoyed. That is our constitutional position and the purpose for our creation. Both enjoyer and enjoyed have consciousness, but the consciousness of the enjoyed is subordinate to the consciousness of the enjoyer. Although Kṛṣṇa is the enjoyer and we the enjoyed, the enjoyment can be participated in equally by everyone. Our enjoyment can be perfected when we participate in the enjoyment of God. There is no possibility of our enjoying separately on the bodily platform. Material enjoyment on the gross bodily platform is discouraged throughout Bhagavad-gītā.
 
-{{page>books:bg:2:14#text}}
+> mātrā-sparśās tu kaunteya
+> śītoṣṇa-sukha-duḥkha-dāḥ
+> āgamāpāyino 'nityās
+> tāṁs titikṣasva bhārata
 
 **“O son of Kuntī, the nonpermanent appearance of heat and cold, happiness and distress, and their disappearance in due course, are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed.”** [[books:bg:2:14|(Bg. 2.14)]]
 
 The gross material body is a result of the interaction of the modes of material nature, and it is doomed to destruction.
 
-{{page>books:bg:2:18#text}}
+> antavanta ime dehā
+> nityasyoktāḥ śarīriṇaḥ
+> anāśino 'prameyasya
+> tasmād yudhyasva bhārata
 
 **“Only the material body of the indestructible, immeasurable, and eternal living entity is subject to destruction; therefore, fight, O descendant of Bharata.”** [[books:bg:2:18|(Bg. 2.18)]]
 
 Śrī Kṛṣṇa therefore encourages us to transcend the bodily conception of existence and attain to our actual spiritual life.
 
-{{page>books:bg:14:20#text}}
+> guṇān etān atītya trīn
+> dehī deha-samudbhavān
+> janma-mṛtyu-jarā-duḥkhair
+> vimukto 'mṛtam aśnute
 
 **“When the embodied being is able to transcend these three modes [goodness, passion, and ignorance], he can become free from birth, death, old age, and their distresses and can enjoy nectar even in this life.”** [[books:bg:14:20|(Bg. 14.20)]]
 

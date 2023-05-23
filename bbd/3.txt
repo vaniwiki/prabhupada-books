@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:Beyond Birth and Death 3: Liberation from Material Planets~~
+---json
+{
+    "canonical":"bbd:3,
+    "name":"Chapter 3",
+    "title":"Beyond Birth and Death 3: Liberation from Material Planets",
+    "description":"The jñānīs and yogīs are generally impersonalists, and although they attain the temporary form of liberation by merging into the impersonal effulgence, the spiritual sky, according to Śrīmad-Bhāgavatam their knowledge is not considered pure. By penances, austerities, and meditations they can rise up to the platform of the Supreme Absolute, but as has been explained, they again fall down to the material world, because they have not taken Kṛṣṇa's personal features seriously. Unless one worships the lotus feet of Kṛṣṇa, he again has to descend to the material platform. The ideal attitude should be, \"I am Your eternal servitor. Please let me somehow engage in Your service.\""
+}
+---
 
 ====== Liberation from Material Planets ======
 
@@ -11,7 +17,10 @@ According to //Brahma-saṁhitā// there are two ways of acquiring knowledge---t
 
 The proper process for approaching Kṛṣṇa was given to humanity by Lord Caitanya Mahāprabhu, and Rūpa Gosvāmī, His first disciple, appreciated it. Rūpa Gosvāmī was a minister in the Muhammadan government, but he left the government to become a disciple of Caitanya Mahāprabhu. When he first went to see the Lord, Rūpa Gosvāmī approached Him with the following verse:
 
-{{page>books:cc:madhya:19:53#text}}
+> namo mahā-vadānyāya
+> kṛṣṇa-prema-pradāya te
+> kṛṣṇāya kṛṣṇa-caitanya-
+> nāmne gaura-tviṣe namaḥ
 
 **"I offer my respectful obeisances unto the Supreme Lord, Śrī Kṛṣṇa Caitanya, who is more magnanimous than any other //avatāra,// even Kṛṣṇa Himself, because He is bestowing freely what no one else has ever given---pure love of Kṛṣṇa."**
 [[books:cc:madhya:19:53|(Cc. Madhya 19.53)]]
@@ -20,7 +29,10 @@ Rūpa Gosvāmī called Caitanya Mahāprabhu "the most munificent, the most chari
 
 For one who dies in Kṛṣṇa consciousness, as stated before, entrance into Kṛṣṇaloka, the supreme abode where Kṛṣṇa resides, is guaranteed. At this point one may ask what the advantage is in going to that planet, and Kṛṣṇa Himself answers,
 
-{{page>books:bg:8:15#text}}
+> mām upetya punar janma
+> duḥkhālayam aśāśvatam
+> nāpnuvanti mahātmānaḥ
+> saṁsiddhiṁ paramāṁ gatāḥ
 
 **"After attaining Me, the great souls, who are //yogīs// in devotion, never return to this temporary world, which is full of miseries, because they have attained the highest perfection."** 
 [[books:bg:8:15|(Bg. 8.15)]]
@@ -33,7 +45,10 @@ An intelligent person knows that he does not want miseries, but they are inflict
 
 One may point out that although the devotees of Kṛṣṇa are trying to enter Kṛṣṇa's planet, everyone else is interested in going to the moon. Isn't going to the moon also perfection? The tendency to travel to other planets is always present in the living entity. One name for the living entity is //sarva-gata,// which means "one who wants to travel everywhere." Travel is part of the nature of the living entity. The desire to go to the moon is not a new thing. The //yogīs// also are interested in entering the higher planets, but in //Bhagavad-gītā// [[books:bg:8:16|(8.16)]] Kṛṣṇa points out that this will not be of any help.
 
-{{page>books:bg:8:16#text}}
+> ā-brahma-bhuvanāl lokāḥ
+> punar āvartino ‘rjuna
+> mām upetya tu kaunteya
+> punar janma na vidyate
 
 **"From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kuntī, never takes birth again."** 
 

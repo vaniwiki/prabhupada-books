@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:Beyond Birth and Death 2: Elevation at Death~~
+---json
+{
+    "canonical":"bbd:2",
+    "name":"Chapter 2",
+    "title":"Beyond Birth and Death 2: Elevation at Death",
+    "description":"There are different kinds of transcendentalists who are called yogīs---haṭha-yogīs, jñāna-yogīs, dhyāna-yogīs, and bhakti-yogīs---and all of them are eligible to be transferred to the spiritual world. The word yoga means "to link up," and the yoga systems are meant to enable us to link with the transcendental world. As mentioned in the previous chapter, originally we are all connected to the Supreme Lord, but now we have been affected by material contamination. The process is that we have to return to the spiritual world, and that process of linking up is called yoga. Another meaning of the word yoga is \"plus.\" At the present moment we are minus God, or minus the Supreme. When we add Kṛṣṇa---or God---to our lives, this human form of life becomes perfect."
+}
+---
 
 ====== Elevation at Death ======
 
@@ -7,26 +13,42 @@ There are different kinds of transcendentalists who are called //yogīs//---//ha
 
 At the time of death we have to finish that process of perfection. During our lifetime we have to practice the method of approaching that perfection so that at the time of death, when we have to give up this material body, that perfection can be realized.
 
-{{page>books:bg:8:10#text}}
+> prayāṇa-kāle manasācalena
+> bhaktyā yukto yoga-balena caiva
+> bhruvor madhye prāṇam āveśya samyak
+> sa taṁ paraṁ puruṣam upaiti divyam
 
 **"One who, at the time of death, fixes his life air between the eyebrows and in full devotion engages himself in remembering the Supreme Lord, will certainly attain to the Supreme Personality of Godhead."** [[books:bg:8:10|(Bg. 8.10)]]
 
 Just as a student studies a subject for four or five years and then takes his examination and receives a degree, similarly, with the subject of life, if we practice during our lives for the examination at the time of death, and if we pass the examination, we are transferred to the spiritual world. Our whole life is examined at the time of death.
 
-{{page>books:bg:8:6#text}}
+> yaṁ yaṁ vāpi smaran bhāvaṁ
+> tyajaty ante kalevaram
+> taṁ tam evaiti kaunteya
+> sadā tad-bhāva-bhāvitaḥ
 
 **"Whatever state of being one remembers when he quits his body, that state he will attain without fail."** [[books:bg:8:6|(Bg. 8.6)]]
 
 There is a Bengali proverb that says that whatever one does for perfection will be tested at the time of his death. In //Bhagavad-gītā// Kṛṣṇa describes what one should do when giving up the body. For the //dhyāna-yogī// (meditator) Śrī Kṛṣṇa speaks the following verses:
 
-{{page>books:bg:8:11#text}}
-{{page>books:bg:8:12#text}}
+> yad akṣaraṁ veda-vido vadanti
+> viśanti yad yatayo vīta-rāgāḥ
+> yad icchanto brahmacaryaṁ caranti
+> tat te padaṁ saṅgraheṇa pravakṣye
+>
+> sarva-dvārāṇi saṁyamya
+> mano hṛdi nirudhya ca
+> mūrdhny ādhāyātmanaḥ prāṇam
+> āsthito yoga-dhāraṇām
 
 **"Persons learned in the //Vedas,// who utter //oṁkāra// and who are great sages in the renounced order, enter into Brahman. Desiring such perfection, one practices celibacy. I shall now explain to you this process by which one may attain salvation. The yogic situation is that of detachment from all sensual engagements. Closing all the doors of the senses and fixing the mind on the heart and the life air at the top of the head, one establishes himself in //yoga.//"** [[books:bg:8:11|(Bg. 8.11-12)]]
 
 In the //yoga// system this process is called //pratyāhāra,// which means "just the opposite." Although during life the eyes are engaged in seeing worldly beauty, at death one has to retract the senses from their objects and see the beauty within. Similarly, the ears are accustomed to hearing so many sounds in the world, but at the moment of death one has to hear the transcendental //oṁkāra// from within.
 
-{{page>books:bg:8:13#text}}
+> oṁ ity ekākṣaraṁ brahma
+> vyāharan mām anusmaran
+> yaḥ prayāti tyajan dehaṁ
+> sa yāti paramāṁ gatim
 
 **"After being situated in this //yoga// practice and vibrating the sacred syllable //oṁ,// the supreme combination of letters, if one thinks of the Supreme Personality of Godhead and quits his body, he will certainly reach the spiritual planets."** [[books:bg:8:13|(Bg. 8.13)]] 
 
@@ -38,7 +60,10 @@ The generally accepted method for transferral to higher planets is the practice 
 
 If one tries to enter higher planets by mechanical means, instant death is assured, for the body cannot stand the radical changes in atmosphere. But if one attempts to go to higher planets by means of the //yoga// system, he will acquire a suitable body for entrance. We can see this demonstrated on this earth, for we know it is not possible for us to live in the sea, in a watery atmosphere, nor is it possible for aquatics to live on the earth. As we understand that even on this planet one has to have a particular type of body to live in a particular place, so a particular type of body is required for other planets. On the higher planets, bodies live much longer than on earth, for six months on earth is equal to one day on the higher planets. Thus the //Vedas// describe that those who live on higher planets live upward to ten thousand earth years. Yet despite such a long life span, death awaits everyone. Even if one lives twenty thousand or fifty thousand or even millions of years, in the material world the years are all counted, and death is there. How can we escape this subjugation by death? That is the lesson of //Bhagavad-gītā.//
 
-{{page>books:bg:2:20#text}}
+> na jāyate mriyate vā kadācin
+> nāyaṁ bhūtvā bhavitā vā na bhūyaḥ
+> ajo nityaḥ śāśvato ‘yaṁ purāṇo
+> na hanyate hanyamāne śarīre
 
 **"For the soul there is never birth nor death. Nor, once having been, does he ever cease to be. He is unborn, eternal, ever-existing, undying, and primeval. He is not slain when the body is slain."** [[books:bg:2:20|(Bg. 2.20)]]
 
@@ -48,7 +73,10 @@ The self, or soul, of the individual is a minute spiritual spark. The perfection
 
 //Oṁ ity ekākṣaraṁ brahma:// at the point of death the //yogī// can pronounce //oṁ, oṁkāra,// the concise form of transcendental sound vibration. If the //yogī// can vibrate this sound and at the same time remember Kṛṣṇa, or Viṣṇu (//mām anusmaran//), he attains the highest goal. It is the process of //yoga// to concentrate the mind on Viṣṇu. The impersonalists imagine some form of the Supreme Lord, but the personalists do not imagine this; they actually see. Whether one imagines Him or actually sees Him, one has to concentrate his mind on the personal form of Kṛṣṇa.
 
-{{page>books:bg:8:14#text}}
+> ananya-cetāḥ satataṁ
+> yo māṁ smarati nityaśaḥ
+> tasyāhaṁ sulabhaḥ pārtha
+> nitya-yuktasya yoginaḥ
 
 **"For one who remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service."** [[books:bg:8:14|(Bg. 8.14)]]
 

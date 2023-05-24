@@ -57,16 +57,11 @@ In this book you will discover the timeless science that great teachers have spo
 Here the world’s most distinguished teacher of the science of self-realization talks about meditating and practicing yoga in the modern age, gaining liberation from the law of karma, achieving superconsciousness, and much more.
 In all the interviews, lectures, essays, and letters chosen for this special book, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda speaks with startling clarity and power. He proves just how relevant the science of self-realization is to today's world and your own life.
 
-<WRAP centeralign>
 ===== Appreciations of Srīla Prabhupāda’s Work =====
 
 Over the years many people have expressed their appreciation for Śrīla Prabhupāda's work---bringing India's timeless science of self-realization to the West.
 
-{{fa>asterisk?20&color=#ccc}}
-{{fa>asterisk?20&color=#ccc}}
-{{fa>asterisk?20&color=#ccc}}
-</WRAP>
-
+<masonry>
 <blockquote>
 "His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda is doing valuable work, and his books are significant contributions to the salvation of mankind."
 <cite>Sri Lal Bahadur Shastri\\
@@ -156,3 +151,4 @@ Boston University, Boston, Massachusetts</cite>
 <cite>Dr. J. Bruce Long\\
 Department of Asian Studies, Cornell University</cite>
 </blockquote>
+</masonry>

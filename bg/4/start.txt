@@ -2,12 +2,10 @@
 ~~bc:Chapter 4~~
 
 /*
-{{description>Transcendental knowledge--the spiritual knowledge of the soul, of God, and their relationship--is both purifying and liberating. Such knowledge is the fruit of selfless devotional action (karma-yoga). The Lord explains the remote history of the Gita, the purpose and significance of His periodic descents to the material world, and the necessity of approaching a guru, a realized teacher.}}
-*/
+{{description>Transcendental knowledge—the spiritual knowledge of the soul, of God, and their relationship—is both purifying and liberating. Such knowledge is the fruit of selfless devotional action (karma-yoga). The Lord explains the remote history of the Gita, the purpose and significance of His periodic descents to the material world, and the necessity of approaching a guru, a realized teacher.}}
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_04_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 4}}
 
-/*
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
@@ -19,143 +17,139 @@ Plate 16 --- The Lord descends whenever there is a decline in religious principl
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate17.jpg?500&nolink |}}
-Plate 17 --- "In order to deliver the pious and to annihilate the miscreants..." [[books:bg:4:8|(Bg. 4.8)]]
+Plate 17 --- “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate18.jpg?500&nolink |}}
-Plate 18. --- "As they surrender to Me, I reward them accordingly." [[books:bg:4:11|(Bg. 4.11)]]
+Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
 </card>
 </container>
 */
 
-
-
-
-
 ====== Transcendental Knowledge ======
 
-  ; [[.4:1|Bg 4.1]]
+  ; [[books:bg:4:1|Bg 4.1]]
   : The Blessed Lord said: I instructed this imperishable science of yoga to the sun-god, Vivasvān, and Vivasvān instructed it to Manu, the father of mankind, and Manu in turn instructed it to Ikṣvāku.
 
-  ; [[.4:2|Bg 4.2]]
+  ; [[books:bg:4:2|Bg 4.2]]
   : This supreme science was thus received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost.
 
-  ; [[.4:3|Bg 4.3]]
+  ; [[books:bg:4:3|Bg 4.3]]
   : That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend; therefore you can understand the transcendental mystery of this science.
 
-  ; [[.4:4|Bg 4.4]]
+  ; [[books:bg:4:4|Bg 4.4]]
   : Arjuna said: The sun-god Vivasvān is senior by birth to You. How am I to understand that in the beginning You instructed this science to him?
 
-  ; [[.4:5|Bg 4.5]]
+  ; [[books:bg:4:5|Bg 4.5]]
   : The Blessed Lord said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!
 
-  ; [[.4:6|Bg 4.6]]
+  ; [[books:bg:4:6|Bg 4.6]]
   : Although I am unborn and My transcendental body never deteriorates, and although I am the Lord of all sentient beings, I still appear in every millennium in My original transcendental form.
 
-  ; [[.4:7|Bg 4.7]]
+  ; [[books:bg:4:7|Bg 4.7]]
   : Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself.
 
-  ; [[.4:8|Bg 4.8]]
+  ; [[books:bg:4:8|Bg 4.8]]
   : In order to deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself millennium after millennium.
 
-  ; [[.4:9|Bg 4.9]]
+  ; [[books:bg:4:9|Bg 4.9]]
   : One who knows the transcendental nature of My appearance and activities does not, upon leaving the body, take his birth again in this material world, but attains My eternal abode, O Arjuna.
 
-  ; [[.4:10|Bg 4.10]]
+  ; [[books:bg:4:10|Bg 4.10]]
   : Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me—and thus they all attained transcendental love for Me.
 
-  ; [[.4:11|Bg 4.11]]
+  ; [[books:bg:4:11|Bg 4.11]]
   : All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā.
 
-  ; [[.4:12|Bg 4.12]]
+  ; [[books:bg:4:12|Bg 4.12]]
   : Men in this world desire success in fruitive activities, and therefore they worship the demigods. Quickly, of course, men get results from fruitive work in this world.
 
-  ; [[.4:13|Bg 4.13]]
+  ; [[books:bg:4:13|Bg 4.13]]
   : According to the three modes of material nature and the work ascribed to them, the four divisions of human society were created by Me. And, although I am the creator of this system, you should know that I am yet the non-doer, being unchangeable.
 
-  ; [[.4:14|Bg 4.14]]
+  ; [[books:bg:4:14|Bg 4.14]]
   : There is no work that affects Me; nor do I aspire for the fruits of action. One who understands this truth about Me also does not become entangled in the fruitive reactions of work.
 
-  ; [[.4:15|Bg 4.15]]
+  ; [[books:bg:4:15|Bg 4.15]]
   : All the liberated souls in ancient times acted with this understanding and so attained liberation. Therefore, as the ancients, you should perform your duty in this divine consciousness.
 
-  ; [[.4:16|Bg 4.16]]
+  ; [[books:bg:4:16|Bg 4.16]]
   : Even the intelligent are bewildered in determining what is action and what is inaction. Now I shall explain to you what action is, knowing which you shall be liberated from all sins.
 
-  ; [[.4:17|Bg 4.17]]
+  ; [[books:bg:4:17|Bg 4.17]]
   : The intricacies of action are very hard to understand. Therefore one should know properly what action is, what forbidden action is, and what inaction is.
 
-  ; [[.4:18|Bg 4.18]]
+  ; [[books:bg:4:18|Bg 4.18]]
   : One who sees inaction in action, and action in inaction, is intelligent among men, and he is in the transcendental position, although engaged in all sorts of activities.
 
-  ; [[.4:19|Bg 4.19]]
+  ; [[books:bg:4:19|Bg 4.19]]
   : One is understood to be in full knowledge whose every act is devoid of desire for sense gratification. He is said by sages to be a worker whose fruitive action is burned up by the fire of perfect knowledge.
 
-  ; [[.4:20|Bg 4.20]]
+  ; [[books:bg:4:20|Bg 4.20]]
   : Abandoning all attachment to the results of his activities, ever satisfied and independent, he performs no fruitive action, although engaged in all kinds of undertakings.
 
-  ; [[.4:21|Bg 4.21]]
+  ; [[books:bg:4:21|Bg 4.21]]
   : Such a man of understanding acts with mind and intelligence perfectly controlled, gives up all sense of proprietorship over his possessions and acts only for the bare necessities of life. Thus working, he is not affected by sinful reactions.
 
-  ; [[.4:22|Bg 4.22]]
+  ; [[books:bg:4:22|Bg 4.22]]
   : He who is satisfied with gain which comes of its own accord, who is free from duality and does not envy, who is steady both in success and failure, is never entangled, although performing actions.
 
-  ; [[.4:23|Bg 4.23]]
+  ; [[books:bg:4:23|Bg 4.23]]
   : The work of a man who is unattached to the modes of material nature and who is fully situated in transcendental knowledge merges entirely into transcendence.
 
-  ; [[.4:24|Bg 4.24]]
+  ; [[books:bg:4:24|Bg 4.24]]
   : A person who is fully absorbed in Kṛṣṇa consciousness is sure to attain the spiritual kingdom because of his full contribution to spiritual activities, in which the consummation is absolute and that which is offered is of the same spiritual nature.
 
-  ; [[.4:25|Bg 4.25]]
+  ; [[books:bg:4:25|Bg 4.25]]
   : Some yogīs perfectly worship the demigods by offering different sacrifices to them, and some of them offer sacrifices in the fire of the Supreme Brahman.
 
-  ; [[.4:26|Bg 4.26]]
+  ; [[books:bg:4:26|Bg 4.26]]
   : Some of them sacrifice the hearing process and the senses in the fire of the controlled mind, and others sacrifice the objects of the senses, such as sound, in the fire of sacrifice.
 
-  ; [[.4:27|Bg 4.27]]
+  ; [[books:bg:4:27|Bg 4.27]]
   : Those who are interested in self-realization, in terms of mind and sense control, offer the functions of all the senses, as well as the vital force [breath], as oblations into the fire of the controlled mind.
 
-  ; [[.4:28|Bg 4.28]]
+  ; [[books:bg:4:28|Bg 4.28]]
   : There are others who, enlightened by sacrificing their material possessions in severe austerities, take strict vows and practice the yoga of eightfold mysticism, and others study the Vedas for the advancement of transcendental knowledge.
 
-  ; [[.4:29|Bg 4.29]]
+  ; [[books:bg:4:29|Bg 4.29]]
   : And there are even others who are inclined to the process of breath restraint to remain in trance, and they practice stopping the movement of the outgoing breath into the incoming, and incoming breath into the outgoing, and thus at last remain in trance, stopping all breathing. Some of them, curtailing the eating process, offer the outgoing breath into itself, as a sacrifice.
 
-  ; [[.4:30|Bg 4.30]]
+  ; [[books:bg:4:30|Bg 4.30]]
   : All these performers who know the meaning of sacrifice become cleansed of sinful reaction, and, having tasted the nectar of the remnants of such sacrifice, they go to the supreme eternal atmosphere.
 
-  ; [[.4:31|Bg 4.31]]
+  ; [[books:bg:4:31|Bg 4.31]]
   : O best of the Kuru dynasty, without sacrifice one can never live happily on this planet or in this life: what then of the next?
 
-  ; [[.4:32|Bg 4.32]]
+  ; [[books:bg:4:32|Bg 4.32]]
   : All these different types of sacrifice are approved by the Vedas, and all of them are born of different types of work. Knowing them as such, you will become liberated.
 
-  ; [[.4:33|Bg 4.33]]
+  ; [[books:bg:4:33|Bg 4.33]]
   : O chastiser of the enemy, the sacrifice of knowledge is greater than the sacrifice of material possessions. O son of Pṛthā, after all, the sacrifice of work culminates in transcendental knowledge.
 
-  ; [[.4:34|Bg 4.34]]
+  ; [[books:bg:4:34|Bg 4.34]]
   : Just try to learn the truth by approaching a spiritual master. Inquire from him submissively and render service unto him. The self-realized soul can impart knowledge unto you because he has seen the truth.
 
-  ; [[.4:35|Bg 4.35]]
+  ; [[books:bg:4:35|Bg 4.35]]
   : And when you have thus learned the truth, you will know that all living beings are but part of Me—and that they are in Me, and are Mine.
 
-  ; [[.4:36|Bg 4.36]]
+  ; [[books:bg:4:36|Bg 4.36]]
   : Even if you are considered to be the most sinful of all sinners, when you are situated in the boat of transcendental knowledge, you will be able to cross over the ocean of miseries.
 
-  ; [[.4:37|Bg 4.37]]
+  ; [[books:bg:4:37|Bg 4.37]]
   : As the blazing fire turns firewood to ashes, O Arjuna, so does the fire of knowledge burn to ashes all reactions to material activities.
 
-  ; [[.4:38|Bg 4.38]]
+  ; [[books:bg:4:38|Bg 4.38]]
   : In this world, there is nothing so sublime and pure as transcendental knowledge. Such knowledge is the mature fruit of all mysticism. And one who has achieved this enjoys the self within himself in due course of time.
 
-  ; [[.4:39|Bg 4.39]]
+  ; [[books:bg:4:39|Bg 4.39]]
   : A faithful man who is absorbed in transcendental knowledge and who subdues his senses quickly attains the supreme spiritual peace.
 
-  ; [[.4:40|Bg 4.40]]
+  ; [[books:bg:4:40|Bg 4.40]]
   : But ignorant and faithless persons who doubt the revealed scriptures do not attain God consciousness. For the doubting soul there is happiness neither in this world nor in the next.
 
-  ; [[.4:41|Bg 4.41]]
+  ; [[books:bg:4:41|Bg 4.41]]
   : Therefore, one who has renounced the fruits of his action, whose doubts are destroyed by transcendental knowledge, and who is situated firmly in the self, is not bound by works, O conqueror of riches.
 
-  ; [[.4:42|Bg 4.42]]
+  ; [[books:bg:4:42|Bg 4.42]]
   : Therefore the doubts which have arisen in your heart out of ignorance should be slashed by the weapon of knowledge. Armed with yoga, O Bhārata, stand and fight.

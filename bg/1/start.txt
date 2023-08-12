@@ -1,10 +1,13 @@
 ~~Title:Bhagavad-gītā As It Is 1: Observing the Armies on the Battlefield of Kurukṣetra~~
 ~~bc:Chapter 1~~
 
+/*
 {{description>As the opposing armies stand poised for battle, Arjuna, the mighty warrior, sees his intimate relatives, teachers and friends in both armies ready to fight and sacrifice their lives. Overcome by grief and pity, Arjuna fails in strength, his mind becomes bewildered, and he gives up his determination to fight.}}
+*/
 
 ====== Observing the Armies on the Battlefield of Kurukṣetra ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 1}}
 
 <card-columns>
@@ -33,6 +36,7 @@ Plate 5 — When Arjuna saw all different grades of friends and relatives, he be
 Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
 </card>
 </card-columns>
+*/
 
   ; [[books:bg:1:1|Bg 1.1]]
   : Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?

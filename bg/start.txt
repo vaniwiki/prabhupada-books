@@ -3,8 +3,11 @@
 
 {{description>A masterpiece of scriptural literature, Bhagavad-gita is a sacred “song” in the form of a battlefield dialogue between the Lord Sri Kṛṣṇa and Arjuna, His friend and disciple. Kṛṣṇa, acting as Arjuna’s adviser, instructs him in the science of self-realization, teaching him how to live as a devotee of the Lord and to thus reach the eternal spiritual world while continuing to perform his earthly duties.}}
 
-<card line-spacing="lg">
-<title 3 text-align="center">Bhagavad-gītā As It Is</title>
+
+====== Bhagavad-gītā As It Is ======
+
+<slide line-spacing="lg">
+
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 
   * [[books:bg:0a|Dedication]]
@@ -31,9 +34,9 @@
   - [[books:bg:17:|The Divisions of Faith]]
   - [[books:bg:18:|Conclusion — The Perfection of Renunciation]]
 
-</card>
+</slide>
 
-<card>
+<slide>
 {{:books:covers:bg1972.jpg|}}
 
 <blockquote>"By bringing us a new and living interpretation of a text already known to many A.C.(nbsp)Bhaktivedanta Swami Prabhupāda has increased our understanding manyfold."
@@ -42,9 +45,9 @@
 **A masterpiece of scriptural literature**, Bhagavad-gita is a sacred "song" in the form of a battlefield dialogue between the Lord Sri Kṛṣṇa and Arjuna, His friend and disciple. Kṛṣṇa, acting as Arjuna’s adviser, instructs him in the science of self-realization, teaching him how to live as a devotee of the Lord and to thus reach the eternal spiritual world while continuing to perform his earthly duties. Srila Prabhupada’s Gita, completely new in its authenticity, is addressed to all humanity, for it clearly teaches the purpose of the human form of life---to cultivate spiritual knowledge. This edition of the work presents this knowledge as it was originally handed down, without being adulterated by philosophical interpretation. It is fully indexed and cross-referenced and is illustrated with forty-four magnificent full-color paintings---original works painted especially for this volume to depict events in the Gita and exemplify the teachings of Kṛṣṇa. Containing the original Sanskrit text, Roman transliterations, English synonyms, translation and commentary, Bhagavad-gita As It Is is the most complete and authoritative transmission of this timeless scripture in print and the only one that does not obscure the true spirit of Kṛṣṇa’s teachings.
 
 **HIS DIVINE GRACE A.C. BHAKTIVEDANTA SWAMI PRABHUPĀDA**, the leading exponent of the science of Kṛṣṇa consciousness in the West and the world’s most distinguished teacher of Vedic religion and thought, is the author of Srimad-Bhagavatam, Kṛṣṇa and many other English versions of Vedic literature. He is a fully self-realized devotee of Lord Kṛṣṇa and is the latest disciple in a succession that originally began with Kṛṣṇa Himself. He is the founder and spiritual master of the international Society for Krishna Consciousness, which now has centers in major cities throughout the world.
-</card>
+</slide>
 
-<title 1 text-align="center">Reviews</title>
+===== Reviews =====
 
 <card-columns>
 <blockquote>“No work in all Indian literature is more quoted, because none is better loved, in the West, than the Bhagavad-gītā. Translation of such a work demands not only knowledge of Sanskrit, but an inward sympathy with the theme and a verbal artistry. For the poem is a symphony in which God is seen in all things. ... The Swami does a real service for students by investing the beloved Indian epic with fresh meaning. Whatever our outlook may be, we should all be grateful for the labor that has lead to this illuminating work.”

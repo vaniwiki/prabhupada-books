@@ -7,10 +7,10 @@
 <title 3 text-align="center">Bhagavad-gītā As It Is</title>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 
-  * [[.bg:0a|Dedication]]
-  * [[.bg:0b|Foreword]]
-  * [[.bg:0c|Preface]]
-  * [[.bg:0d|Introduction]]
+  * [[books:bg:0a|Dedication]]
+  * [[books:bg:0b|Foreword]]
+  * [[books:bg:0c|Preface]]
+  * [[books:bg:0d|Introduction]]
 
   - [[books:bg:1|Observing the Armies on the Battlefield of Kurukṣetra]]
   - [[books:bg:2|Contents of the Gītā Summarized]]

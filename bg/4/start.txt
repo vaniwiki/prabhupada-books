@@ -7,6 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_04_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 4}}
 
+/*
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
@@ -25,6 +26,7 @@ Plate 17 --- “In order to deliver the pious and to annihilate the miscreants..
 Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
 </card>
 </container>
+*/
 
   ; [[.4:1|Bg 4.1]]
   : The Blessed Lord said: I instructed this imperishable science of yoga to the sun-god, Vivasvān, and Vivasvān instructed it to Manu, the father of mankind, and Manu in turn instructed it to Ikṣvāku.

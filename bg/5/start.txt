@@ -1,22 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 5: Karma-yoga — Action in Kṛṣṇa Consciousness~~
-~~bc:Chapter 5~~
-
-{{description>Outwardly performing all actions but inwardly renouncing their fruits, the wise man, purified by the fire of transcendental knowledge, attains peace, detachment, forbearance, spiritual vision and bliss.}}
+---json
+{
+    "name":"Bg. 5",
+    "title":"Bhagavad-gītā 5: Karma-yoga — Action in Kṛṣṇa Consciousness",
+    "description":"Outwardly performing all actions but inwardly renouncing their fruits, the wise man, purified by the fire of transcendental knowledge, attains peace, detachment, forbearance, spiritual vision and bliss."
+}
+---
 
 ====== Karma-yoga — Action in Kṛṣṇa Consciousness ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_05_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 5}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate19.jpg?500&direct |}}
-Plate 19 --- He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate20.jpg?500&direct |}}
-Plate 20 --- The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]
-</card>
-</container>
 
   ; [[books:bg:5:1|Bg 5.1]]
   : Arjuna said: O Kṛṣṇa, first of all You ask me to renounce work, and then again You recommend work with devotion. Now will You kindly tell me definitely which of the two is more beneficial?

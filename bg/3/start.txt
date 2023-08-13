@@ -1,26 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 3: Karma-yoga~~
-~~bc:Chapter 3~~
-
-{{description>Everyone must engage in some sort of activity in this material world. But actions can either bind one to this world or liberate one from it. By acting for the pleasure of the Supreme, without selfish motives, one can be liberated from the law of karma (action and reaction) and attain transcendental knowledge of the self and the Supreme.}}
+---json
+{
+    "name":"Bg. 3",
+    "title":"Bhagavad-gītā 3: Karma-yoga",
+    "description":"Everyone must engage in some sort of activity in this material world. But actions can either bind one to this world or liberate one from it. By acting for the pleasure of the Supreme, without selfish motives, one can be liberated from the law of karma (action and reaction) and attain transcendental knowledge of the self and the Supreme."
+}
+---
 
 ====== Karma-yoga ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ artwork:bhagavad-gita:plate12.jpg?500&nolink |}}
-Plate 12 --- “Be thou happy by this sacrifice because its performance will bestow upon you all desirable things.” [[books:bg:3:10|(Bg. 3.10)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate13.jpg?500&nolink |}}
-Plate 13 --- The Demigods, being satisfied by the performance of sacrifice, supply all needs to man. [[books:bg:3:13|(Bg. 3.12)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate14.jpg?500&nolink |}}
-Plate 14 --- The living entity is covered by different degrees of lust. [[books:bg:3:38|(Bg. 3.38)]]
-</card>
-</container>
 
   ; [[books:bg:3:1|Bg 3.1]]
   : Arjuna said: O Janārdana, O Keśava, why do You urge me to engage in this ghastly warfare, if You think that intelligence is better than fruitive work?

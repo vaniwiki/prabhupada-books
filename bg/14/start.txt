@@ -1,18 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 14: The Three Modes Of Material Nature~~
-~~bc:Chapter 14~~
-
-{{description>All embodied souls are under the control of the three modes, or qualities, of material nature: goodness, passion, and ignorance. Lord Krishna explains what these modes are, how they act upon us, how one transcends them, and the symptoms of one who has attained the transcendental state.}}
+---json
+{
+    "name":"Bg. 14",
+    "title":"Bhagavad-gītā 14: The Three Modes Of Material Nature",
+    "description":"All embodied souls are under the control of the three modes, or qualities, of material nature: goodness, passion, and ignorance. Lord Krishna explains what these modes are, how they act upon us, how one transcends them, and the symptoms of one who has attained the transcendental state."
+}
+---
 
 ====== The Three Modes Of Material Nature ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_14_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 14}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate34.jpg?500&direct |}}
-Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
-</card>
-</container>
 
   ; [[books:bg:14:1|Bg 14.1]]
   : The Blessed Lord said: Again I shall declare to you this supreme wisdom, the best of all knowledge, knowing which all the sages have attained to supreme perfection.

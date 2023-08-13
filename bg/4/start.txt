@@ -1,34 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4: Transcendental Knowledge~~
-~~bc:Chapter 4~~
-
-/*
-{{description>Transcendental knowledge—the spiritual knowledge of the soul, of God, and their relationship—is both purifying and liberating. Such knowledge is the fruit of selfless devotional action (karma-yoga). The Lord explains the remote history of the Gita, the purpose and significance of His periodic descents to the material world, and the necessity of approaching a guru, a realized teacher.}}
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_04_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 4}}
-/*
-
-
-<carrousel element-width="250px" elements-min="3">
-<card>
-{{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
-Plate 15 --- The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate16.jpg?500&nolink |}}
-Plate 16 --- The Lord descends whenever there is a decline in religious principles. [[books:bg:4:7|(Bg. 4.7)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate17.jpg?500&nolink |}}
-Plate 17 --- “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate18.jpg?500&nolink |}}
-Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
-</card>
-</carrousel>
-
-
-
+---json
+{
+    "name":"Bg. 4",
+    "title":"Bhagavad-gītā 4: Transcendental Knowledge",
+    "description":"Transcendental knowledge—the spiritual knowledge of the soul, of God, and their relationship—is both purifying and liberating. Such knowledge is the fruit of selfless devotional action (karma-yoga). The Lord explains the remote history of the Gita, the purpose and significance of His periodic descents to the material world, and the necessity of approaching a guru, a realized teacher."
+}
+---
 
 ====== Transcendental Knowledge ======
 

@@ -1,30 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 18: Conclusion — The Perfection of Renunciation~~
-~~bc:Chapter 18~~
-
-{{description>Krishna explains the meaning of renunciation and the effects of the modes of nature on human consciousness and activity. He explains Brahman realization, the glories of the Bhagavad-gita, and the ultimate conclusion of the Gita: the highest path of religion is absolute, unconditional loving surrender unto Lord Krishna, which frees one from all sins, brings one to complete enlightenment, and enables one to return to Krishna’s eternal spiritual abode.}}
+---json
+{
+    "name":"Bg. 18",
+    "title":"Bhagavad-gītā 18: Conclusion — The Perfection of Renunciation",
+    "description":"Krishna explains the meaning of renunciation and the effects of the modes of nature on human consciousness and activity. He explains Brahman realization, the glories of the Bhagavad-gita, and the ultimate conclusion of the Gita: the highest path of religion is absolute, unconditional loving surrender unto Lord Krishna, which frees one from all sins, brings one to complete enlightenment, and enables one to return to Krishna’s eternal spiritual abode."
+}
+---
 
 ====== Conclusion — The Perfection of Renunciation ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-Gita-Verses-Purports/Ch_18_BG_With_Purports.mp3 |Bhagavad-gītā As It Is Chapter 18}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate41.jpg?500&direct |}}
-Plate 41 --- The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. [[books:bg:18:13-14|(Bg. 18.13-14)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate42.jpg?500&direct |}}
-Plate 42 --- By worship of the Lord, man can, in the performance of his own duty, become perfect. [[books:bg:18:42|(Bg. 18.42)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate43.jpg?500&direct |}}
-Plate 43 --- “Always think of Me and become My devotee. Worship Me and offer your homage unto Me.” [[books:bg:18:65|(Bg. 18.65)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate44.jpg?500&direct |}}
-Plate 44 --- “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” [[books:bg:18:72|(Bg. 18.72)]]
-</card>
-</container>
 
   ; [[books:bg:18:1|Bg 18.1]]
   : Arjuna said, O mighty-armed one, I wish to understand the purpose of renunciation [tyāga] and of the renounced order of life [sannyāsa], O killer of the Keśī demon, Hṛṣīkeśa.

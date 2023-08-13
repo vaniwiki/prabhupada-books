@@ -1,22 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 7: Knowledge of the Absolute~~
-~~bc:Chapter 7~~
-
-{{description>Lord Krishna is the Supreme Truth, the supreme cause and sustaining force of everything, both material and spiritual. Advanced souls surrender unto Him in devotion, whereas impious souls divert their minds to other objects of worship.}}
+---json
+{
+    "name":"Bg. 7",
+    "title":"Bhagavad-gītā 7: Knowledge of the Absolute",
+    "description":"Lord Krishna is the Supreme Truth, the supreme cause and sustaining force of everything, both material and spiritual. Advanced souls surrender unto Him in devotion, whereas impious souls divert their minds to other objects of worship."
+}
+---
 
 ====== Knowledge of the Absolute ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_07_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 7}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate25.jpg?500&nolink |}}
-Plate 25 --- Kṛṣṇa’s material and spiritual energies. [[books:bg:7:4|(Bg. 7.4)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate26.jpg?500&nolink |}}
-Plate 26 --- Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. [[books:bg:7:15|(Bg. 7.15)]]
-</card>
-</container>
 
   ; [[books:bg:7:1|Bg 7.1]]
   : Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.

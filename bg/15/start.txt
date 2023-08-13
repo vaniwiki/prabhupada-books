@@ -1,26 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 15: The Yoga of the Supreme Person~~
-~~bc:Chapter 15~~
-
-{{description>The ultimate purpose of Vedic knowledge is to detach one self from the entanglement of the material world and to understand Lord Krishna as the Supreme Personality of Godhead. One who understands Krishna ‘s supreme identity surrenders unto Him and engages in His devotional service.}}
+---json
+{
+    "name":"Bg. 15",
+    "title":"Bhagavad-gītā 15: The Yoga of the Supreme Person",
+    "description":"The ultimate purpose of Vedic knowledge is to detach one self from the entanglement of the material world and to understand Lord Krishna as the Supreme Personality of Godhead. One who understands Krishna‘s supreme identity surrenders unto Him and engages in His devotional service."
+}
+---
 
 ====== The Yoga of the Supreme Person ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_15_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 15}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate35.jpg?500&direct |}}
-Plate 35 --- There is a banyan tree which has its roots upward and its branches down. [[books:bg:15:1|(Bg. 15.1)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate36.jpg?500&direct |}}
-Plate 36 --- The spiritual and material worlds. [[books:bg:15:6|(Bg. 15.6)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate37.jpg?500&direct |}}
-Plate 37 --- The living entity in the material world carries his different conceptions of life as the air carries aromas. [[books:bg:15:8|(Bg. 15.8)]]
-</card>
-</container>
 
   ; [[books:bg:15:1|Bg 15.1]]
   : The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.

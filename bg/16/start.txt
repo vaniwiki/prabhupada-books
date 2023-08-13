@@ -1,22 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 16: The Divine And Demoniac Natures~~
-~~bc:Chapter 16~~
-
-{{description>Those who possess demoniac qualities and who live whimsically, without following the regulations of scripture, attain lower births and further material bondage. But those who possess divine qualities and regulated lives, abiding by scriptural authority, gradually attain spiritual perfection.}}
+---json
+{
+    "name":"Bg. 16",
+    "title":"Bhagavad-gītā 16: The Divine And Demoniac Natures",
+    "description":"Those who possess demoniac qualities and who live whimsically, without following the regulations of scripture, attain lower births and further material bondage. But those who possess divine qualities and regulated lives, abiding by scriptural authority, gradually attain spiritual perfection."
+}
+---
 
 ====== The Divine And Demoniac Natures ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_16_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 16}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ :artwork:bhagavad-gita:plate38.jpg?500&direct |}}
-Plate 38 --- Bewildered by false ego, strength, pride, lust and anger. [[books:bg:16:18|(Bg. 16.18)]]
-</card>
-<card>
-{{ :artwork:bhagavad-gita:plate39.jpg?500&direct |}}
-Plate 39 --- Lust, greed and anger are the three gates leading down to hell. [[books:bg:16:21|(Bg. 16.21)]]
-</card>
-</container>
 
   ; [[books:bg:16:1-3|Bg 16.1-3]]
   : The Blessed Lord said: Fearlessness, purification of one’s existence, cultivation of spiritual knowledge, charity, self-control, performance of sacrifice, study of the Vedas, austerity and simplicity; nonviolence, truthfulness, freedom from anger; renunciation, tranquility, aversion to faultfinding, compassion and freedom from covetousness; gentleness, modesty and steady determination; vigor, forgiveness, fortitude, cleanliness, freedom from envy and the passion for honor—these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature.

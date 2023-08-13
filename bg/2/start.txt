@@ -1,34 +1,12 @@
-~~Title:Bhagavad-gītā As It Is 2: Contents of the Gītā Summarized~~
-~~bc:Chapter 2~~
-
-{{description>Arjuna submits to Lord Krishna as His disciple, and Krishna begins His teachings to Arjuna by explaining the fundamental distinction between the temporary material body and the eternal spiritual soul. The Lord explains the process of transmigration, the nature of selfless service to the Supreme and the characteristics of a self-realized person.}}
+---json
+{
+    "name":"Bg. 2",
+    "title":"Bhagavad-gītā 2: Contents of the Gītā Summarized",
+    "description":"Arjuna submits to Lord Krishna as His disciple, and Krishna begins His teachings to Arjuna by explaining the fundamental distinction between the temporary material body and the eternal spiritual soul. The Lord explains the process of transmigration, the nature of selfless service to the Supreme and the characteristics of a self-realized person."
+}
+---
 
 ====== Contents of the Gītā Summarized ======
-
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_02_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 2}}
-
-<container float="end" class="col-12 col-md-6" spacing="pr-0">
-<card>
-{{ artwork:bhagavad-gita:plate07.jpg?500&nolink |}}
-Plate 7 --- The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate08.jpg?500&nolink |}}
-Plate 8 --- The soul changes bodies as a person changes garments. [[books:bg:2:13|(Bg. 2.13)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate09.jpg?500&nolink |}}
-Plate 9 --- The body changes but the soul remains the same. (p. 83-84)
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate10.jpg?500&nolink |}}
-Plate 10 --- Kṛṣṇa and the living entity are seated on the tree of the body. [[books:bg:2:22|(p. 102)]]
-</card>
-<card>
-{{ artwork:bhagavad-gita:plate11.jpg?500&nolink |}}
-Plate 11 --- While contemplating the objects of the senses, a person develops attachment for them. [[books:bg:2:62|(Bg. 2.62)]]
-</card>
-</container>
 
   ; [[books:bg:2:1|Bg 2.1]]
   : Sañjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words.

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 10.4-5",
+    "name":"4-5",
+    "h1":"Bg. 10.4-5",
     "title":"Bhagavad-gītā As It Is 10.4-5",
     "description":"Intelligence, knowledge, freedom from doubt and delusion, forgiveness, truthfulness, self-control and calmness, pleasure and pain, birth, death, fear, fearlessness, nonviolence, equanimity, satisfaction, austerity, charity, fame and infamy are created by Me alone."
 }

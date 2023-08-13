@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 10.37",
+    "name":"37",
+    "h1":"Bg. 10.37",
     "title":"Bhagavad-gītā As It Is 10.37",
     "description":"Of the descendants of Vṛṣṇi I am Vāsudeva, and of the Pāṇḍavas I am Arjuna. Of the sages I am Vyāsa, and among great thinkers I am Uśanā."
 }

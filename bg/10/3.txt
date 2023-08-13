@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 10.3",
+    "name":"3",
+    "h1":"Bg. 10.3",
     "title":"Bhagavad-gītā As It Is 10.3",
     "description":"He who knows Me as the unborn, as the beginningless, as the Supreme Lord of all the worlds—he, undeluded among men, is freed from all sins."
 }

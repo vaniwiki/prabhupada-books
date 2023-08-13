@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 1.21-22",
+    "name":"21-22",
+    "h1":"Bg. 1.21-22",
     "title":"Bhagavad-gītā As It Is 1.21-22",
     "description":"Arjuna said: O infallible one, please draw my chariot between the two armies so that I may see who is present here, who is desirous of fighting, and with whom I must contend in this great battle attempt."
 }

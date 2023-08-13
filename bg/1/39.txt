@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 1.39",
+    "name":"39",
+    "h1":"Bg. 1.39",
     "title":"Bhagavad-gītā As It Is 1.39",
     "description":"With the destruction of dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligious practice."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 1.3",
+    "name":"3",
+    "h1":"Bg. 1.3",
     "title":"Bhagavad-gītā As It Is 1.3",
     "description":"O my teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple, the son of Drupada."
 }

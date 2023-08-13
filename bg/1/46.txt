@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 1.46",
+    "name":"46",
+    "h1":"Bg. 1.46",
     "title":"Bhagavad-gītā As It Is 1.46",
     "description":"Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief."
 }

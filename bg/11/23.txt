@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 11.23",
+    "name":"23",
+    "h1":"Bg. 11.23",
     "title":"Bhagavad-gītā As It Is 11.23",
     "description":"O mighty-armed one, all the planets with their demigods are disturbed at seeing Your many faces, eyes, arms, bellies and legs and Your terrible teeth, and as they are disturbed, so am I."
 }

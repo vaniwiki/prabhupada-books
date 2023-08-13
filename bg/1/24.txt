@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 1.24",
+    "name":"24",
+    "h1":"Bg. 1.24",
     "title":"Bhagavad-gītā As It Is 1.24",
     "description":"Sañjaya said: O descendant of Bharata, being thus addressed by Arjuna, Lord Kṛṣṇa drew up the fine chariot in the midst of the armies of both parties."
 }

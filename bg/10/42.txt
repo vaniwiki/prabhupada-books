@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 10.42",
+    "name":"42",
+    "h1":"Bg. 10.42",
     "title":"Bhagavad-gītā As It Is 10.42",
     "description":"But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 11.5",
+    "name":"5",
+    "h1":"Bg. 11.5",
     "title":"Bhagavad-gītā As It Is 11.5",
     "description":"The Blessed Lord said: My dear Arjuna, O son of Pṛthā, behold now My opulences, hundreds of thousands of varied divine forms, multicolored like the sea."
 }

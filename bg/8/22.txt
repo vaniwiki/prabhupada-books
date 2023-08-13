@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 8.22",
+    "name":"22",
+    "h1":"Bg. 8.22",
     "title":"Bhagavad-gītā As It Is 8.22",
     "description":"The Supreme Personality of Godhead, who is greater than all, is attainable by unalloyed devotion. Although He is present in His abode, He is all-pervading, and everything is situated within Him."
 }

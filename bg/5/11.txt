@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 5.11",
+    "name":"11",
+    "h1":"Bg. 5.11",
     "title":"Bhagavad-gītā As It Is 5.11",
     "description":"The yogīs, abandoning attachment, act with body, mind, intelligence, and even with the senses, only for the purpose of purification."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 9.15",
+    "name":"15",
+    "h1":"Bg. 9.15",
     "title":"Bhagavad-gītā As It Is 9.15",
     "description":"Others, who are engaged in the cultivation of knowledge, worship the Supreme Lord as the one without a second, diverse in many, and in the universal form."
 }

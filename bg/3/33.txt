@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 3.33",
+    "name":"33",
+    "h1":"Bg. 3.33",
     "title":"Bhagavad-gītā As It Is 3.33",
     "description":"Even a man of knowledge acts according to his own nature, for everyone follows his nature. What can repression accomplish?"
 }

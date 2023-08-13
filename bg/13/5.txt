@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 13.5",
+    "name":"5",
+    "h1":"Bg. 13.5",
     "title":"Bhagavad-gītā As It Is 13.5",
     "description":"That knowledge of the field of activities and of the knower of activities is described by various sages in various Vedic writings—especially in the Vedānta-sūtra—and is presented with all reasoning as to cause and effect."
 }

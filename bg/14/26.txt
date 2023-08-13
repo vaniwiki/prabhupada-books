@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 14.26",
+    "name":"26",
+    "h1":"Bg. 14.26",
     "title":"Bhagavad-gītā As It Is 14.26",
     "description":"One who engages in full devotional service, who does not fall down in any circumstance, at once transcends the modes of material nature and thus comes to the level of Brahman."
 }

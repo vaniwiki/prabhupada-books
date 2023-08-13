@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 6.35",
+    "name":"35",
+    "h1":"Bg. 6.35",
     "title":"Bhagavad-gītā As It Is 6.35",
     "description":"The Blessed Lord said: O mighty-armed son of Kuntī, it is undoubtedly very difficult to curb the restless mind, but it is possible by constant practice and by detachment."
 }

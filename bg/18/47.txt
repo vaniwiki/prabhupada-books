@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 18.47",
+    "name":"47",
+    "h1":"Bg. 18.47",
     "title":"Bhagavad-gītā As It Is 18.47",
     "description":"It is better to engage in one's own occupation, even though one may perform it imperfectly, than to accept another's occupation and perform it perfectly. Prescribed duties, according to one's nature, are never affected by sinful reactions."
 }

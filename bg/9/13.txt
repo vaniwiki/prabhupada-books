@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 9.13",
+    "name":"13",
+    "h1":"Bg. 9.13",
     "title":"Bhagavad-gītā As It Is 9.13",
     "description":"O son of Pṛthā, those who are not deluded, the great souls, are under the protection of the divine nature. They are fully engaged in devotional service because they know Me as the Supreme Personality of Godhead, original and inexhaustible."
 }

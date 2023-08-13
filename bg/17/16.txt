@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 17.16",
+    "name":"16",
+    "h1":"Bg. 17.16",
     "title":"Bhagavad-gītā As It Is 17.16",
     "description":"And serenity, simplicity, gravity, self-control and purity of thought are the austerities of the mind."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 18.7",
+    "name":"7",
+    "h1":"Bg. 18.7",
     "title":"Bhagavad-gītā As It Is 18.7",
     "description":"Prescribed duties should never be renounced. If, by illusion, one gives up his prescribed duties, such renunciation is said to be in the mode of ignorance."
 }

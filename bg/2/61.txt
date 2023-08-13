@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.61",
+    "name":"61",
+    "h1":"Bg. 2.61",
     "title":"Bhagavad-gītā As It Is 2.61",
     "description":"One who restrains his senses and fixes his consciousness upon Me is known as a man of steady intelligence."
 }

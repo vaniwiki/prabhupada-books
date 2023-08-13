@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.64",
+    "name":"64",
+    "h1":"Bg. 2.64",
     "title":"Bhagavad-gītā As It Is 2.64",
     "description":"One who can control his senses by practicing the regulated principles of freedom can obtain the complete mercy of the Lord and thus become free from all attachment and aversion."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 3.6",
+    "name":"6",
+    "h1":"Bg. 3.6",
     "title":"Bhagavad-gītā As It Is 3.6",
     "description":"One who restrains the senses and organs of action, but whose mind dwells on sense objects, certainly deludes himself and is called a pretender."
 }

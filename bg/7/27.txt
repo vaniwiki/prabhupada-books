@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 7.27",
+    "name":"27",
+    "h1":"Bg. 7.27",
     "title":"Bhagavad-gītā As It Is 7.27",
     "description":"O scion of Bharata [Arjuna], O conquerer of the foe, all living entities are born into delusion, overcome by the dualities of desire and hate."
 }

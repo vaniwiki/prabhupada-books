@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.28",
+    "name":"28",
+    "h1":"Bg. 2.28",
     "title":"Bhagavad-gītā As It Is 2.28",
     "description":"All created beings are unmanifest in their beginning, manifest in their interim state, and unmanifest again when they are annihilated. So what need is there for lamentation?"
 }

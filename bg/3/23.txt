@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 3.23",
+    "name":"23",
+    "h1":"Bg. 3.23",
     "title":"Bhagavad-gītā As It Is 3.23",
     "description":"For, if I did not engage in work, O Pārtha, certainly all men would follow My path."
 }

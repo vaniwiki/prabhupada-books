@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.45",
+    "name":"45",
+    "h1":"Bg. 2.45",
     "title":"Bhagavad-gītā As It Is 2.45",
     "description":"The Vedas mainly deal with the subject of the three modes of material nature. Rise above these modes, O Arjuna. Be transcendental to all of them. Be free from all dualities and from all anxieties for gain and safety, and be established in the Self."
 }

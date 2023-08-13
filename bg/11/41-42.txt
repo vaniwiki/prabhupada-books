@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 11.41-42",
+    "name":"41-42",
+    "h1":"Bg. 11.41-42",
     "title":"Bhagavad-gītā As It Is 11.41-42",
     "description":"I have in the past addressed You as “O Kṛṣṇa,” “O Yādava,” “O my friend,” without knowing Your glories. Please forgive whatever I may have done in madness or in love. I have dishonored You many times while relaxing or while lying on the same bed or eating together, sometimes alone and sometimes in front of many friends. Please excuse me for all my offenses."
 }

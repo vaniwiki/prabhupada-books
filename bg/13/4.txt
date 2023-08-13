@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 13.4",
+    "name":"4",
+    "h1":"Bg. 13.4",
     "title":"Bhagavad-gītā As It Is 13.4",
     "description":"Now please hear My brief description of this field of activity and how it is constituted, what its changes are, whence it is produced, who that knower of the field of activities is, and what his influences are."
 }

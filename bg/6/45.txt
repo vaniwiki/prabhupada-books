@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 6.45",
+    "name":"45",
+    "h1":"Bg. 6.45",
     "title":"Bhagavad-gītā As It Is 6.45",
     "description":"But when the yogī engages himself with sincere endeavor in making further progress, being washed of all contaminations, then ultimately, after many, many births of practice, he attains the supreme goal."
 }

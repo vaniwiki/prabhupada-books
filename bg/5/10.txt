@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 5.10",
+    "name":"10",
+    "h1":"Bg. 5.10",
     "title":"Bhagavad-gītā As It Is 5.10",
     "description":"One who performs his duty without attachment, surrendering the results unto the Supreme God, is not affected by sinful action, as the lotus leaf is untouched by water."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 13.1-2",
+    "name":"1-2",
+    "h1":"Bg. 13.1-2",
     "title":"Bhagavad-gītā As It Is 13.1-2",
     "description":"Arjuna said: O my dear Kṛṣṇa, I wish to know about prakṛti [nature], Puruṣa [the enjoyer], and the field and the knower of the field, and of knowledge and the end of knowledge. The Blessed Lord then said: This body, O son of Kuntī, is called the field, and one who knows this body is called the knower of the field."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 11.32",
+    "name":"32",
+    "h1":"Bg. 11.32",
     "title":"Bhagavad-gītā As It Is 11.32",
     "description":"The Blessed Lord said: Time I am, destroyer of the worlds, and I have come to engage all people. With the exception of you [the Pāṇḍavas], all the soldiers here on both sides will be slain."
 }

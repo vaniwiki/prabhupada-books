@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 4.27",
+    "name":"27",
+    "h1":"Bg. 4.27",
     "title":"Bhagavad-gītā As It Is 4.27",
     "description":"Those who are interested in self-realization, in terms of mind and sense control, offer the functions of all the senses, as well as the vital force [breath], as oblations into the fire of the controlled mind."
 }

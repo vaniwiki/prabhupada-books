@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 16.23",
+    "name":"23",
+    "h1":"Bg. 16.23",
     "title":"Bhagavad-gītā As It Is 16.23",
     "description":"But he who discards scriptural injunctions and acts according to his own whims attains neither perfection, nor happiness, nor the supreme destination."
 }

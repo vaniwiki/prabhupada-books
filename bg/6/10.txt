@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 6.10",
+    "name":"10",
+    "h1":"Bg. 6.10",
     "title":"Bhagavad-gītā As It Is 6.10",
     "description":"A transcendentalist should always try to concentrate his mind on the Supreme Self; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness."
 }

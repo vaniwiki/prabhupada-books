@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.6",
+    "name":"6",
+    "h1":"Bg. 2.6",
     "title":"Bhagavad-gītā As It Is 2.6",
     "description":"Nor do we know which is better—conquering them or being conquered by them. The sons of Dhṛtarāṣṭra, whom if we killed we should not care to live, are now standing before us on this battlefield."
 }

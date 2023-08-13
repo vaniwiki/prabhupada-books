@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 9.22",
+    "name":"22",
+    "h1":"Bg. 9.22",
     "title":"Bhagavad-gītā As It Is 9.22",
     "description":"But those who worship Me with devotion, meditating on My transcendental form—to them I carry what they lack and preserve what they have."
 }

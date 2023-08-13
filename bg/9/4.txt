@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 9.4",
+    "name":"4",
+    "h1":"Bg. 9.4",
     "title":"Bhagavad-gītā As It Is 9.4",
     "description":"By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them."
 }

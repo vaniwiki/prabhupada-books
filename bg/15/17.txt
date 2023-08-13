@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 15.17",
+    "name":"17",
+    "h1":"Bg. 15.17",
     "title":"Bhagavad-gītā As It Is 15.17",
     "description":"Besides these two, there is the greatest living personality, the Lord Himself, who has entered into these worlds and is maintaining them."
 }

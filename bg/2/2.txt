@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.2",
+    "name":"2",
+    "h1":"Bg. 2.2",
     "title":"Bhagavad-gītā As It Is 2.2",
     "description":"The Supreme Person [Bhagavān] said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the progressive values of life. They do not lead to higher planets, but to infamy."
 }

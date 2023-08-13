@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 3.36",
+    "name":"36",
+    "h1":"Bg. 3.36",
     "title":"Bhagavad-gītā As It Is 3.36",
     "description":"Arjuna said: O descendant of Vṛṣṇi, by what is one impelled to sinful acts, even unwillingly, as if engaged by force?"
 }

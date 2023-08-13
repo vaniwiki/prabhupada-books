@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 3.22",
+    "name":"22",
+    "h1":"Bg. 3.22",
     "title":"Bhagavad-gītā As It Is 3.22",
     "description":"O son of Pṛthā, there is no work prescribed for Me within all the three planetary systems. Nor am I in want of anything, nor have I need to obtain anything—and yet I am engaged in work."
 }

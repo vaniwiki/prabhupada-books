@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 11.33",
+    "name":"33",
+    "h1":"Bg. 11.33",
     "title":"Bhagavad-gītā As It Is 11.33",
     "description":"Therefore get up and prepare to fight. After conquering your enemies you will enjoy a flourishing kingdom. They are already put to death by My arrangement, and you, O Savyasācin, can be but an instrument in the fight."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 7.14",
+    "name":"14",
+    "h1":"Bg. 7.14",
     "title":"Bhagavad-gītā As It Is 7.14",
     "description":"This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it."
 }

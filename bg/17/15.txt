@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 17.15",
+    "name":"15",
+    "h1":"Bg. 17.15",
     "title":"Bhagavad-gītā As It Is 17.15",
     "description":"Austerity of speech consists in speaking truthfully and beneficially and in avoiding speech that offends. One should also recite the Vedas regularly."
 }

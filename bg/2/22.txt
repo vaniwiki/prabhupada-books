@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.22",
+    "name":"22",
+    "h1":"Bg. 2.22",
     "title":"Bhagavad-gītā As It Is 2.22",
     "description":"As a person puts on new garments, giving up old ones, similarly, the soul accepts new material bodies, giving up the old and useless ones."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 8.24",
+    "name":"24",
+    "h1":"Bg. 8.24",
     "title":"Bhagavad-gītā As It Is 8.24",
     "description":"Those who know the Supreme Brahman pass away from the world during the influence of the fiery god, in the light, at an auspicious moment, during the fortnight of the moon and the six months when the sun travels in the north."
 }

@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 13.15",
+    "name":"15",
+    "h1":"Bg. 13.15",
     "title":"Bhagavad-gītā As It Is 13.15",
     "description":"The Supersoul is the original source of all senses, yet He is without senses. He is unattached, although He is the maintainer of all living beings. He transcends the modes of nature, and at the same time He is the master of all modes of material nature."
 }

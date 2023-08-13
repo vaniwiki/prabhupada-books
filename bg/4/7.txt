@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 4.7",
+    "name":"7",
+    "h1":"Bg. 4.7",
     "title":"Bhagavad-gītā As It Is 4.7",
     "description":"Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself."
 }

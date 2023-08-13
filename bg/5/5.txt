@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 5.5",
+    "name":"5",
+    "h1":"Bg. 5.5",
     "title":"Bhagavad-gītā As It Is 5.5",
     "description":"One who knows that the position reached by means of renunciation can also be attained by works in devotional service and who therefore sees that the path of works and the path of renunciation are one, sees things as they are."
 }

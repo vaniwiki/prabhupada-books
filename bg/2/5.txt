@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 2.5",
+    "name":"5",
+    "h1":"Bg. 2.5",
     "title":"Bhagavad-gītā As It Is 2.5",
     "description":"It is better to live in this world by begging than to live at the cost of the lives of great souls who are my teachers. Even though they are avaricious, they are nonetheless superiors. If they are killed, our spoils will be tainted with blood."
 }

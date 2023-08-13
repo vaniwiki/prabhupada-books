@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"Bg. 9.26",
+    "name":"26",
+    "h1":"Bg. 9.26",
     "title":"Bhagavad-gītā As It Is 9.26",
     "description":"If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it."
 }

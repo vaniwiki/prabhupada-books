@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.14~~
-~~bc:Text 14~~
-
-{{description>The austerity of the body consists in this: worship of the Supreme Lord, the brāhmaṇas, the spiritual master, and superiors like the father and mother. Cleanliness, simplicity, celibacy and nonviolence are also austerities of the body.}}
+---json
+{
+    "name":"Bg. 17.14",
+    "title":"Bhagavad-gītā As It Is 17.14",
+    "description":"The austerity of the body consists in this: worship of the Supreme Lord, the brāhmaṇas, the spiritual master, and superiors like the father and mother. Cleanliness, simplicity, celibacy and nonviolence are also austerities of the body."
+}
+---
 
 ====== Bg. 17.14 ======
 

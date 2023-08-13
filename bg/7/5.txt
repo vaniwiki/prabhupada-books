@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.5~~
-~~bc:Text 5~~
-
-{{description>Besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which are all living entities who are struggling with material nature and are sustaining the universe.}}
+---json
+{
+    "name":"Bg. 7.5",
+    "title":"Bhagavad-gītā As It Is 7.5",
+    "description":"Besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which are all living entities who are struggling with material nature and are sustaining the universe."
+}
+---
 
 ====== Bg. 7.5 ======
 

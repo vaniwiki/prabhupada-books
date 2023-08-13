@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.11~~
-~~bc:Text 11~~
-
-{{description>All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā.}}
+---json
+{
+    "name":"Bg. 4.11",
+    "title":"Bhagavad-gītā As It Is 4.11",
+    "description":"All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā."
+}
+---
 
 ====== Bg. 4.11 ======
 

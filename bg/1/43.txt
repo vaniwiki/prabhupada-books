@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.43~~
-~~bc:Text 43~~
-
-{{description>O Kṛṣṇa, maintainer of the people, I have heard by disciplic succession that those who destroy family traditions dwell always in hell.}}
+---json
+{
+    "name":"Bg. 1.43",
+    "title":"Bhagavad-gītā As It Is 1.43",
+    "description":"O Kṛṣṇa, maintainer of the people, I have heard by disciplic succession that those who destroy family traditions dwell always in hell."
+}
+---
 
 ====== Bg. 1.43 ======
 

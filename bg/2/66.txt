@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.66~~
-~~bc:Text 66~~
-
-{{description>One who is not in transcendental consciousness can have neither a controlled mind nor steady intelligence, without which there is no possibility of peace. And how can there be any happiness without peace?}}
+---json
+{
+    "name":"Bg. 2.66",
+    "title":"Bhagavad-gītā As It Is 2.66",
+    "description":"One who is not in transcendental consciousness can have neither a controlled mind nor steady intelligence, without which there is no possibility of peace. And how can there be any happiness without peace?"
+}
+---
 
 ====== Bg. 2.66 ======
 

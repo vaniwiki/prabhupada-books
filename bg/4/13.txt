@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.13~~
-~~bc:Text 13~~
-
-{{description>According to the three modes of material nature and the work ascribed to them, the four divisions of human society were created by Me. And, although I am the creator of this system, you should know that I am yet the non-doer, being unchangeable.}}
+---json
+{
+    "name":"Bg. 4.13",
+    "title":"Bhagavad-gītā As It Is 4.13",
+    "description":"According to the three modes of material nature and the work ascribed to them, the four divisions of human society were created by Me. And, although I am the creator of this system, you should know that I am yet the non-doer, being unchangeable."
+}
+---
 
 ====== Bg. 4.13 ======
 

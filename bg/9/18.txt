@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.18~~
-~~bc:Text 18~~
-
-{{description>I am the goal, the sustainer, the master, the witness, the abode, the refuge and the most dear friend. I am the creation and the annihilation, the basis of everything, the resting place and the eternal seed.}}
+---json
+{
+    "name":"Bg. 9.18",
+    "title":"Bhagavad-gītā As It Is 9.18",
+    "description":"I am the goal, the sustainer, the master, the witness, the abode, the refuge and the most dear friend. I am the creation and the annihilation, the basis of everything, the resting place and the eternal seed."
+}
+---
 
 ====== Bg. 9.18 ======
 

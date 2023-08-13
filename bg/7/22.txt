@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.22~~
-~~bc:Text 22~~
-
-{{description>Endowed with such a faith, he seeks favors of a particular demigod and obtains his desires. But in actuality these benefits are bestowed by Me alone.}}
+---json
+{
+    "name":"Bg. 7.22",
+    "title":"Bhagavad-gītā As It Is 7.22",
+    "description":"Endowed with such a faith, he seeks favors of a particular demigod and obtains his desires. But in actuality these benefits are bestowed by Me alone."
+}
+---
 
 ====== Bg. 7.22 ======
 

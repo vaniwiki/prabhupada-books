@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.25~~
-~~bc:Text 25~~
-
-{{description>The mystic who passes away from this world during the smoke, the night, the moonlight fortnight, or in the six months when the sun passes to the south, or who reaches the moon planet, again comes back.}}
+---json
+{
+    "name":"Bg. 8.25",
+    "title":"Bhagavad-gītā As It Is 8.25",
+    "description":"The mystic who passes away from this world during the smoke, the night, the moonlight fortnight, or in the six months when the sun passes to the south, or who reaches the moon planet, again comes back."
+}
+---
 
 ====== Bg. 8.25 ======
 

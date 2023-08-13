@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.68~~
-~~bc:Text 68~~
-
-{{description>Therefore, O mighty-armed, one whose senses are restrained from their objects is certainly of steady intelligence.}}
+---json
+{
+    "name":"Bg. 2.68",
+    "title":"Bhagavad-gītā As It Is 2.68",
+    "description":"Therefore, O mighty-armed, one whose senses are restrained from their objects is certainly of steady intelligence."
+}
+---
 
 ====== Bg. 2.68 ======
 

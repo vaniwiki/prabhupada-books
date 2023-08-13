@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.28~~
-~~bc:Text 28~~
-
-{{description>As the rivers flow into the sea, so all these great warriors enter Your blazing mouths and perish.}}
+---json
+{
+    "name":"Bg. 11.28",
+    "title":"Bhagavad-gītā As It Is 11.28",
+    "description":"As the rivers flow into the sea, so all these great warriors enter Your blazing mouths and perish."
+}
+---
 
 ====== Bg. 11.28 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.20~~
-~~bc:Text 20~~
-
-{{description>Even kings like Janaka and others attained the perfectional stage by performance of prescribed duties. Therefore, just for the sake of educating the people in general, you should perform your work.}}
+---json
+{
+    "name":"Bg. 3.20",
+    "title":"Bhagavad-gītā As It Is 3.20",
+    "description":"Even kings like Janaka and others attained the perfectional stage by performance of prescribed duties. Therefore, just for the sake of educating the people in general, you should perform your work."
+}
+---
 
 ====== Bg. 3.20 ======
 

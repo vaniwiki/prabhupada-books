@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.29~~
-~~bc:Text 29~~
-
-{{description>The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries.}}
+---json
+{
+    "name":"Bg. 5.29",
+    "title":"Bhagavad-gītā As It Is 5.29",
+    "description":"The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries."
+}
+---
 
 ====== Bg. 5.29 ======
 

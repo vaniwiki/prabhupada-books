@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.46~~
-~~bc:Text 46~~
-
-{{description>O universal Lord, I wish to see You in Your four-armed form, with helmeted head and with club, wheel, conch and lotus flower in Your hands. I long to see You in that form.}}
+---json
+{
+    "name":"Bg. 11.46",
+    "title":"Bhagavad-gītā As It Is 11.46",
+    "description":"O universal Lord, I wish to see You in Your four-armed form, with helmeted head and with club, wheel, conch and lotus flower in Your hands. I long to see You in that form."
+}
+---
 
 ====== Bg. 11.46 ======
 

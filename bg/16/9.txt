@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 16.9~~
-~~bc:Text 9~~
-
-{{description>Following such conclusions, the demoniac, who are lost to themselves and who have no intelligence, engage in unbeneficial, horrible works meant to destroy the world.}}
+---json
+{
+    "name":"Bg. 16.9",
+    "title":"Bhagavad-gītā As It Is 16.9",
+    "description":"Following such conclusions, the demoniac, who are lost to themselves and who have no intelligence, engage in unbeneficial, horrible works meant to destroy the world."
+}
+---
 
 ====== Bg. 16.9 ======
 

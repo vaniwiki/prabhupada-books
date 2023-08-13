@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.39~~
-~~bc:Text 39~~
-
-{{description>Thus, a man's pure consciousness is covered by his eternal enemy in the form of lust, which is never satisfied and which burns like fire.}}
+---json
+{
+    "name":"Bg. 3.39",
+    "title":"Bhagavad-gītā As It Is 3.39",
+    "description":"Thus, a man's pure consciousness is covered by his eternal enemy in the form of lust, which is never satisfied and which burns like fire."
+}
+---
 
 ====== Bg. 3.39 ======
 

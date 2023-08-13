@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.5~~
-~~bc:Text 5~~
-
-{{description>For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progrese in that discipline is always difficult for those who are embodied.}}
+---json
+{
+    "name":"Bg. 12.5",
+    "title":"Bhagavad-gītā As It Is 12.5",
+    "description":"For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progrese in that discipline is always difficult for those who are embodied."
+}
+---
 
 ====== Bg. 12.5 ======
 

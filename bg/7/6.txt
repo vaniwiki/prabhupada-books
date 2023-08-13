@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.6~~
-~~bc:Text 6~~
-
-{{description>Of all that is material and all that is spiritual in this world, know for certain that I am both its origin and dissolution.}}
+---json
+{
+    "name":"Bg. 7.6",
+    "title":"Bhagavad-gītā As It Is 7.6",
+    "description":"Of all that is material and all that is spiritual in this world, know for certain that I am both its origin and dissolution."
+}
+---
 
 ====== Bg. 7.6 ======
 

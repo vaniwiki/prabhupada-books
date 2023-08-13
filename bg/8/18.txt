@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.18~~
-~~bc:Text 18~~
-
-{{description>When Brahmā's day is manifest, this multitude of living entities comes into being, and at the arrival of Brahmā's night they are all annihilated.}}
+---json
+{
+    "name":"Bg. 8.18",
+    "title":"Bhagavad-gītā As It Is 8.18",
+    "description":"When Brahmā's day is manifest, this multitude of living entities comes into being, and at the arrival of Brahmā's night they are all annihilated."
+}
+---
 
 ====== Bg. 8.18 ======
 

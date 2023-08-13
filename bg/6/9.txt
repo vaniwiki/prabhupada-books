@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.9~~
-~~bc:Text 9~~
-
-{{description>A person is said to be still further advanced when he regards all—the honest well-wisher, friends and enemies, the envious, the pious, the sinner and those who are indifferent and impartial—with an equal mind.}}
+---json
+{
+    "name":"Bg. 6.9",
+    "title":"Bhagavad-gītā As It Is 6.9",
+    "description":"A person is said to be still further advanced when he regards all—the honest well-wisher, friends and enemies, the envious, the pious, the sinner and those who are indifferent and impartial—with an equal mind."
+}
+---
 
 ====== Bg. 6.9 ======
 

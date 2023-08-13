@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.19~~
-~~bc:Text 19~~
-
-{{description>Therefore, without being attached to the fruits of activities, one should act as a matter of duty; for by working without attachment, one attains the Supreme.}}
+---json
+{
+    "name":"Bg. 3.19",
+    "title":"Bhagavad-gītā As It Is 3.19",
+    "description":"Therefore, without being attached to the fruits of activities, one should act as a matter of duty; for by working without attachment, one attains the Supreme."
+}
+---
 
 ====== Bg. 3.19 ======
 

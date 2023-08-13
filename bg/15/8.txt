@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 15.8~~
-~~bc:Text 8~~
-
-{{description>The living entity in the material world carries his different conceptions of life from one body to another as the air carries aromas.}}
+---json
+{
+    "name":"Bg. 15.8",
+    "title":"Bhagavad-gītā As It Is 15.8",
+    "description":"The living entity in the material world carries his different conceptions of life from one body to another as the air carries aromas."
+}
+---
 
 ====== Bg. 15.8 ======
 

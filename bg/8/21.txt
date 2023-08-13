@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.21~~
-~~bc:Text 21~~
-
-{{description>That supreme abode is called unmanifested and infallible, and it is the supreme destination. When one goes there, he never comes back. That is My supreme abode.}}
+---json
+{
+    "name":"Bg. 8.21",
+    "title":"Bhagavad-gītā As It Is 8.21",
+    "description":"That supreme abode is called unmanifested and infallible, and it is the supreme destination. When one goes there, he never comes back. That is My supreme abode."
+}
+---
 
 ====== Bg. 8.21 ======
 

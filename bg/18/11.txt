@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.11~~
-~~bc:Text 11~~
-
-{{description>It is indeed impossible for an embodied being to give up all activities. Therefore it is said that he who renounces the fruits of action is one who has truly renounced.}}
+---json
+{
+    "name":"Bg. 18.11",
+    "title":"Bhagavad-gītā As It Is 18.11",
+    "description":"It is indeed impossible for an embodied being to give up all activities. Therefore it is said that he who renounces the fruits of action is one who has truly renounced."
+}
+---
 
 ====== Bg. 18.11 ======
 

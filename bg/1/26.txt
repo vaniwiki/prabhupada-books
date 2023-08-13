@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.26~~
-~~bc:Text 26~~
-
-{{description>There Arjuna could see, within the midst of the armies of both parties, his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, and also his father-in-law and well-wishers—all present there.}}
+---json
+{
+    "name":"Bg. 1.26",
+    "title":"Bhagavad-gītā As It Is 1.26",
+    "description":"There Arjuna could see, within the midst of the armies of both parties, his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, and also his father-in-law and well-wishers—all present there."
+}
+---
 
 ====== Bg. 1.26 ======
 

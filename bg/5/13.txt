@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.13~~
-~~bc:Text 13~~
-
-{{description>When the embodied living being controls his nature and mentally renounces all actions, he resides happily in the city of nine gates [the material body], neither working nor causing work to be done.}}
+---json
+{
+    "name":"Bg. 5.13",
+    "title":"Bhagavad-gītā As It Is 5.13",
+    "description":"When the embodied living being controls his nature and mentally renounces all actions, he resides happily in the city of nine gates [the material body], neither working nor causing work to be done."
+}
+---
 
 ====== Bg. 5.13 ======
 

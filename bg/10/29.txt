@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.29~~
-~~bc:Text 29~~
-
-{{description>Of the celestial Nāga snakes I am Ananta; of the aquatic deities I am Varuṇa. Of departed ancestors I am Aryamā, and among the dispensers of law I am Yama, lord of death.}}
+---json
+{
+    "name":"Bg. 10.29",
+    "title":"Bhagavad-gītā As It Is 10.29",
+    "description":"Of the celestial Nāga snakes I am Ananta; of the aquatic deities I am Varuṇa. Of departed ancestors I am Aryamā, and among the dispensers of law I am Yama, lord of death."
+}
+---
 
 ====== Bg. 10.29 ======
 

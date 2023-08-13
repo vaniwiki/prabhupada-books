@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.54~~
-~~bc:Text 54~~
-
-{{description>My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding.}}
+---json
+{
+    "name":"Bg. 11.54",
+    "title":"Bhagavad-gītā As It Is 11.54",
+    "description":"My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding."
+}
+---
 
 ====== Bg. 11.54 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.24~~
-~~bc:Text 24~~
-
-{{description>Thus the transcendentalists undertake sacrifices, charities, and penances, beginning always with om, to attain the Supreme.}}
+---json
+{
+    "name":"Bg. 17.24",
+    "title":"Bhagavad-gītā As It Is 17.24",
+    "description":"Thus the transcendentalists undertake sacrifices, charities, and penances, beginning always with om, to attain the Supreme."
+}
+---
 
 ====== Bg. 17.24 ======
 

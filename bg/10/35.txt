@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.35~~
-~~bc:Text 35~~
-
-{{description>Of hymns I am the Bṛhat-sāma sung to the Lord Indra, and of poetry I am the Gāyatrī verse, sung daily by brāhmaṇas. Of months I am November and December, and of seasons I am flower-bearing spring.}}
+---json
+{
+    "name":"Bg. 10.35",
+    "title":"Bhagavad-gītā As It Is 10.35",
+    "description":"Of hymns I am the Bṛhat-sāma sung to the Lord Indra, and of poetry I am the Gāyatrī verse, sung daily by brāhmaṇas. Of months I am November and December, and of seasons I am flower-bearing spring."
+}
+---
 
 ====== Bg. 10.35 ======
 

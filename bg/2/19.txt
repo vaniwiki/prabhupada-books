@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.19~~
-~~bc:Text 19~~
-
-{{description>He who thinks that the living entity is the slayer or that he is slain, does not understand. One who is in knowledge knows that the self slays not nor is slain.}}
+---json
+{
+    "name":"Bg. 2.19",
+    "title":"Bhagavad-gītā As It Is 2.19",
+    "description":"He who thinks that the living entity is the slayer or that he is slain, does not understand. One who is in knowledge knows that the self slays not nor is slain."
+}
+---
 
 ====== Bg. 2.19 ======
 

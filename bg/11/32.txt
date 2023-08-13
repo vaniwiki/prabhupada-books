@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.32~~
-~~bc:Text 32~~
-
-{{description>The Blessed Lord said: Time I am, destroyer of the worlds, and I have come to engage all people. With the exception of you [the Pāṇḍavas], all the soldiers here on both sides will be slain.}}
+---json
+{
+    "name":"Bg. 11.32",
+    "title":"Bhagavad-gītā As It Is 11.32",
+    "description":"The Blessed Lord said: Time I am, destroyer of the worlds, and I have come to engage all people. With the exception of you [the Pāṇḍavas], all the soldiers here on both sides will be slain."
+}
+---
 
 ====== Bg. 11.32 ======
 

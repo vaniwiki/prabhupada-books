@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.26~~
-~~bc:Text 26~~
-
-{{description>Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.}}
+---json
+{
+    "name":"Bg. 5.26",
+    "title":"Bhagavad-gītā As It Is 5.26",
+    "description":"Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future."
+}
+---
 
 ====== Bg. 5.26 ======
 

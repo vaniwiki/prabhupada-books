@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.54~~
-~~bc:Text 54~~
-
-{{description>Arjuna said: What are the symptoms of one whose consciousness is thus merged in Transcendence? How does he speak, and what is his language? How does he sit, and how does he walk?}}
+---json
+{
+    "name":"Bg. 2.54",
+    "title":"Bhagavad-gītā As It Is 2.54",
+    "description":"Arjuna said: What are the symptoms of one whose consciousness is thus merged in Transcendence? How does he speak, and what is his language? How does he sit, and how does he walk?"
+}
+---
 
 ====== Bg. 2.54 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.11~~
-~~bc:Text 11~~
-
-{{description>I am the strength of the strong, devoid of passion and desire. I am sex life which is not contrary to religious principles, O Lord of the Bhāratas [Arjuna].}}
+---json
+{
+    "name":"Bg. 7.11",
+    "title":"Bhagavad-gītā As It Is 7.11",
+    "description":"I am the strength of the strong, devoid of passion and desire. I am sex life which is not contrary to religious principles, O Lord of the Bhāratas [Arjuna]."
+}
+---
 
 ====== Bg. 7.11 ======
 

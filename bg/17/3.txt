@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.3~~
-~~bc:Text 3~~
-
-{{description>According to one's existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.}}
+---json
+{
+    "name":"Bg. 17.3",
+    "title":"Bhagavad-gītā As It Is 17.3",
+    "description":"According to one's existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired."
+}
+---
 
 ====== Bg. 17.3 ======
 

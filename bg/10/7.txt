@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.7~~
-~~bc:Text 7~~
-
-{{description>He who knows in truth this glory and power of Mine engages in unalloyed devotional service; of this there is no doubt.}}
+---json
+{
+    "name":"Bg. 10.7",
+    "title":"Bhagavad-gītā As It Is 10.7",
+    "description":"He who knows in truth this glory and power of Mine engages in unalloyed devotional service; of this there is no doubt."
+}
+---
 
 ====== Bg. 10.7 ======
 

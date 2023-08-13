@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.11~~
-~~bc:Text 11~~
-
-{{description>The demigods, being pleased by sacrifices, will also please you; thus nourishing one another, there will reign general prosperity for all.}}
+---json
+{
+    "name":"Bg. 3.11",
+    "title":"Bhagavad-gītā As It Is 3.11",
+    "description":"The demigods, being pleased by sacrifices, will also please you; thus nourishing one another, there will reign general prosperity for all."
+}
+---
 
 ====== Bg. 3.11 ======
 

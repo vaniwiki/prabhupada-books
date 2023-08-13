@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.45~~
-~~bc:Text 45~~
-
-{{description>I would consider it better for the sons of Dhṛtarāṣṭra to kill me unarmed and unresisting, rather than fight with them.}}
+---json
+{
+    "name":"Bg. 1.45",
+    "title":"Bhagavad-gītā As It Is 1.45",
+    "description":"I would consider it better for the sons of Dhṛtarāṣṭra to kill me unarmed and unresisting, rather than fight with them."
+}
+---
 
 ====== Bg. 1.45 ======
 

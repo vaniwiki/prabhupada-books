@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.24~~
-~~bc:Text 24~~
-
-{{description>This individual soul is unbreakable and insoluble, and can be neither burned nor dried. He is everlasting, all-pervading, unchangeable, immovable and eternally the same.}}
+---json
+{
+    "name":"Bg. 2.24",
+    "title":"Bhagavad-gītā As It Is 2.24",
+    "description":"This individual soul is unbreakable and insoluble, and can be neither burned nor dried. He is everlasting, all-pervading, unchangeable, immovable and eternally the same."
+}
+---
 
 ====== Bg. 2.24 ======
 

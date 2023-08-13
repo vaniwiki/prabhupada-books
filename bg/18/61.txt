@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.61~~
-~~bc:Text 61~~
-
-{{description>The Supreme Lord is situated in everyone's heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy.}}
+---json
+{
+    "name":"Bg. 18.61",
+    "title":"Bhagavad-gītā As It Is 18.61",
+    "description":"The Supreme Lord is situated in everyone's heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy."
+}
+---
 
 ====== Bg. 18.61 ======
 

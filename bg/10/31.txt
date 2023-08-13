@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.31~~
-~~bc:Text 31~~
-
-{{description>Of purifiers I am the wind; of the wielders of weapons I am Rāma; of fishes I am the shark, and of flowing rivers I am the Ganges.}}
+---json
+{
+    "name":"Bg. 10.31",
+    "title":"Bhagavad-gītā As It Is 10.31",
+    "description":"Of purifiers I am the wind; of the wielders of weapons I am Rāma; of fishes I am the shark, and of flowing rivers I am the Ganges."
+}
+---
 
 ====== Bg. 10.31 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.14~~
-~~bc:Text 14~~
-
-{{description>For one who remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service.}}
+---json
+{
+    "name":"Bg. 8.14",
+    "title":"Bhagavad-gītā As It Is 8.14",
+    "description":"For one who remembers Me without deviation, I am easy to obtain, O son of Pṛthā, because of his constant engagement in devotional service."
+}
+---
 
 ====== Bg. 8.14 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.55~~
-~~bc:Text 55~~
-
-{{description>One can understand the Supreme Personality as He is only by devotional service. And when one is in full consciousness of the Supreme Lord by such devotion, he can enter into the kingdom of God.}}
+---json
+{
+    "name":"Bg. 18.55",
+    "title":"Bhagavad-gītā As It Is 18.55",
+    "description":"One can understand the Supreme Personality as He is only by devotional service. And when one is in full consciousness of the Supreme Lord by such devotion, he can enter into the kingdom of God."
+}
+---
 
 ====== Bg. 18.55 ======
 

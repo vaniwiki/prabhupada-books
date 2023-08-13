@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.40~~
-~~bc:Text 40~~
-
-{{description>O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences.}}
+---json
+{
+    "name":"Bg. 10.40",
+    "title":"Bhagavad-gītā As It Is 10.40",
+    "description":"O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences."
+}
+---
 
 ====== Bg. 10.40 ======
 

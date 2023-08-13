@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.40~~
-~~bc:Text 40~~
-
-{{description>The senses, the mind and the intelligence are the sitting places of this lust, which veils the real knowledge of the living entity and bewilders him.}}
+---json
+{
+    "name":"Bg. 3.40",
+    "title":"Bhagavad-gītā As It Is 3.40",
+    "description":"The senses, the mind and the intelligence are the sitting places of this lust, which veils the real knowledge of the living entity and bewilders him."
+}
+---
 
 ====== Bg. 3.40 ======
 

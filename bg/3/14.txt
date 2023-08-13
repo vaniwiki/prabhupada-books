@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.14~~
-~~bc:Text 14~~
-
-{{description>All living bodies subsist on food grains, which are produced from rain. Rains are produced by performance of yajña [sacrifice], and yajña is born of prescribed duties.}}
+---json
+{
+    "name":"Bg. 3.14",
+    "title":"Bhagavad-gītā As It Is 3.14",
+    "description":"All living bodies subsist on food grains, which are produced from rain. Rains are produced by performance of yajña [sacrifice], and yajña is born of prescribed duties."
+}
+---
 
 ====== Bg. 3.14 ======
 

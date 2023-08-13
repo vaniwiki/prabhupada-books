@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.20~~
-~~bc:Text 20~~
-
-{{description>When the embodied being is able to transcend these three modes, he can become free from birth, death, old age and their distresses and can enjoy nectar even in this life.}}
+---json
+{
+    "name":"Bg. 14.20",
+    "title":"Bhagavad-gītā As It Is 14.20",
+    "description":"When the embodied being is able to transcend these three modes, he can become free from birth, death, old age and their distresses and can enjoy nectar even in this life."
+}
+---
 
 ====== Bg. 14.20 ======
 

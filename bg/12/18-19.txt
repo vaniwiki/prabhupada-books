@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.18-19~~
-~~bc:Text 18-19~~
-
-{{description>One who is equal to friends and enemies, who is equiposed in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always silent and satisfied with anything, who doesn't care for any residence, who is fixed in knowledge and engaged in devotional service, is very dear to Me.}}
+---json
+{
+    "name":"Bg. 12.18-19",
+    "title":"Bhagavad-gītā As It Is 12.18-19",
+    "description":"One who is equal to friends and enemies, who is equiposed in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always silent and satisfied with anything, who doesn't care for any residence, who is fixed in knowledge and engaged in devotional service, is very dear to Me."
+}
+---
 
 ====== Bg. 12.18-19 ======
 

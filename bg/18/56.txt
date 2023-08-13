@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.56~~
-~~bc:Text 56~~
-
-{{description>Though engaged in all kinds of activities, My devotee, under My protection, reaches the eternal and imperishable abode by My grace.}}
+---json
+{
+    "name":"Bg. 18.56",
+    "title":"Bhagavad-gītā As It Is 18.56",
+    "description":"Though engaged in all kinds of activities, My devotee, under My protection, reaches the eternal and imperishable abode by My grace."
+}
+---
 
 ====== Bg. 18.56 ======
 

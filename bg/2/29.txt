@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.29~~
-~~bc:Text 29~~
-
-{{description>Some look on the soul as amazing, some describe him as amazing, and some hear of him as amazing, while others, even after hearing about him, cannot understand him at all.}}
+---json
+{
+    "name":"Bg. 2.29",
+    "title":"Bhagavad-gītā As It Is 2.29",
+    "description":"Some look on the soul as amazing, some describe him as amazing, and some hear of him as amazing, while others, even after hearing about him, cannot understand him at all."
+}
+---
 
 ====== Bg. 2.29 ======
 

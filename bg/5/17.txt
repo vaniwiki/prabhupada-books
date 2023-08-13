@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.17~~
-~~bc:Text 17~~
-
-{{description>When one's intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation.}}
+---json
+{
+    "name":"Bg. 5.17",
+    "title":"Bhagavad-gītā As It Is 5.17",
+    "description":"When one's intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation."
+}
+---
 
 ====== Bg. 5.17 ======
 

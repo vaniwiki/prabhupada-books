@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.18~~
-~~bc:Text 18~~
-
-{{description>You are the supreme primal objective; You are the best in all the universes; You are inexhaustible, and You are the oldest; You are the maintainer of religion, the eternal Personality of Godhead.}}
+---json
+{
+    "name":"Bg. 11.18",
+    "title":"Bhagavad-gītā As It Is 11.18",
+    "description":"You are the supreme primal objective; You are the best in all the universes; You are inexhaustible, and You are the oldest; You are the maintainer of religion, the eternal Personality of Godhead."
+}
+---
 
 ====== Bg. 11.18 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.44~~
-~~bc:Text 44~~
-
-{{description>In the minds of those who are too attached to sense enjoyment and material opulence, and who are bewildered by such things, the resolute determination of devotional service to the Supreme Lord does not take place.}}
+---json
+{
+    "name":"Bg. 2.44",
+    "title":"Bhagavad-gītā As It Is 2.44",
+    "description":"In the minds of those who are too attached to sense enjoyment and material opulence, and who are bewildered by such things, the resolute determination of devotional service to the Supreme Lord does not take place."
+}
+---
 
 ====== Bg. 2.44 ======
 

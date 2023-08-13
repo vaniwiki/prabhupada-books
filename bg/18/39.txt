@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.39~~
-~~bc:Text 39~~
-
-{{description>And that happiness which is blind to self-realization, which is delusion from beginning to end and which arises from sleep, laziness and illusion is said to be of the nature of ignorance.}}
+---json
+{
+    "name":"Bg. 18.39",
+    "title":"Bhagavad-gītā As It Is 18.39",
+    "description":"And that happiness which is blind to self-realization, which is delusion from beginning to end and which arises from sleep, laziness and illusion is said to be of the nature of ignorance."
+}
+---
 
 ====== Bg. 18.39 ======
 

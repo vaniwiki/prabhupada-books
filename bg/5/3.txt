@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.3~~
-~~bc:Text 3~~
-
-{{description>One who neither hates nor desires the fruits of his activities is known to be always renounced. Such a person, liberated from all dualities, easily overcomes material bondage and is completely liberated, O mighty-armed Arjuna.}}
+---json
+{
+    "name":"Bg. 5.3",
+    "title":"Bhagavad-gītā As It Is 5.3",
+    "description":"One who neither hates nor desires the fruits of his activities is known to be always renounced. Such a person, liberated from all dualities, easily overcomes material bondage and is completely liberated, O mighty-armed Arjuna."
+}
+---
 
 ====== Bg. 5.3 ======
 

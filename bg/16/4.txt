@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 16.4~~
-~~bc:Text 4~~
-
-{{description>Arrogance, pride, anger, conceit, harshness and ignorance—these qualities belong to those of demonic nature, O son of Pṛthā.}}
+---json
+{
+    "name":"Bg. 16.4",
+    "title":"Bhagavad-gītā As It Is 16.4",
+    "description":"Arrogance, pride, anger, conceit, harshness and ignorance—these qualities belong to those of demonic nature, O son of Pṛthā."
+}
+---
 
 ====== Bg. 16.4 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.18~~
-~~bc:Text 18~~
-
-{{description>Those situated in the mode of goodness gradually go upward to the higher planets; those in the mode of passion live on the earthly planets; and those in the mode of ignorance go down to the hellish worlds.}}
+---json
+{
+    "name":"Bg. 14.18",
+    "title":"Bhagavad-gītā As It Is 14.18",
+    "description":"Those situated in the mode of goodness gradually go upward to the higher planets; those in the mode of passion live on the earthly planets; and those in the mode of ignorance go down to the hellish worlds."
+}
+---
 
 ====== Bg. 14.18 ======
 

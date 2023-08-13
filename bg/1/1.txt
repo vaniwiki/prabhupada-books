@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.1~~
-~~bc:Text 1~~
-
-{{description>Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?}}
+---json
+{
+    "name":"Bg. 1.1",
+    "title":"Bhagavad-gītā As It Is 1.1",
+    "description":"Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?"
+}
+---
 
 ====== Bg. 1.1 ======
 

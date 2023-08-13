@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.13~~
-~~bc:Text 13~~
-
-{{description>Deluded by the three modes [goodness, passion and ignorance], the whole world does not know Me who am above the modes and inexhaustible.}}
+---json
+{
+    "name":"Bg. 7.13",
+    "title":"Bhagavad-gītā As It Is 7.13",
+    "description":"Deluded by the three modes [goodness, passion and ignorance], the whole world does not know Me who am above the modes and inexhaustible."
+}
+---
 
 ====== Bg. 7.13 ======
 

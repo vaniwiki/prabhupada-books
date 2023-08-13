@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.9~~
-~~bc:Text 9~~
-
-{{description>O Dhanañjaya, all this work cannot bind Me. I am ever detached, seated as though neutral.}}
+---json
+{
+    "name":"Bg. 9.9",
+    "title":"Bhagavad-gītā As It Is 9.9",
+    "description":"O Dhanañjaya, all this work cannot bind Me. I am ever detached, seated as though neutral."
+}
+---
 
 ====== Bg. 9.9 ======
 

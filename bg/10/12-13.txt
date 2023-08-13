@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.12-13~~
-~~bc:Text 12-13~~
-
-{{description>Arjuna said: You are the Supreme Brahman, the ultimate, the supreme abode and purifier, the Absolute Truth and the eternal divine person. You are the primal God, transcendental and original, and You are the unborn and all-pervading beauty. All the great sages such as Nārada, Asita, Devala, and Vyāsa proclaim this of You, and now You Yourself are declaring it to me.}}
+---json
+{
+    "name":"Bg. 10.12-13",
+    "title":"Bhagavad-gītā As It Is 10.12-13",
+    "description":"Arjuna said: You are the Supreme Brahman, the ultimate, the supreme abode and purifier, the Absolute Truth and the eternal divine person. You are the primal God, transcendental and original, and You are the unborn and all-pervading beauty. All the great sages such as Nārada, Asita, Devala, and Vyāsa proclaim this of You, and now You Yourself are declaring it to me."
+}
+---
 
 ====== Bg. 10.12-13 ======
 

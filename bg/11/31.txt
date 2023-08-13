@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.31~~
-~~bc:Text 31~~
-
-{{description>O Lord of lords, so fierce of form, please tell me who You are. I offer my obeisances unto You; please be gracious to me. I do not know what Your mission is, and I desire to hear of it.}}
+---json
+{
+    "name":"Bg. 11.31",
+    "title":"Bhagavad-gītā As It Is 11.31",
+    "description":"O Lord of lords, so fierce of form, please tell me who You are. I offer my obeisances unto You; please be gracious to me. I do not know what Your mission is, and I desire to hear of it."
+}
+---
 
 ====== Bg. 11.31 ======
 

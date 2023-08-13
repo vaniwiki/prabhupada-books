@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.42~~
-~~bc:Text 42~~
-
-{{description>The working senses are superior to dull matter; mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence.}}
+---json
+{
+    "name":"Bg. 3.42",
+    "title":"Bhagavad-gītā As It Is 3.42",
+    "description":"The working senses are superior to dull matter; mind is higher than the senses; intelligence is still higher than the mind; and he [the soul] is even higher than the intelligence."
+}
+---
 
 ====== Bg. 3.42 ======
 

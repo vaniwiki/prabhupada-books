@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.6~~
-~~bc:Text 6~~
-
-{{description>Unless one is engaged in the devotional service of the Lord, mere renunciation of activities cannot make one happy. The sages, purified by works of devotion, achieve the Supreme without delay.}}
+---json
+{
+    "name":"Bg. 5.6",
+    "title":"Bhagavad-gītā As It Is 5.6",
+    "description":"Unless one is engaged in the devotional service of the Lord, mere renunciation of activities cannot make one happy. The sages, purified by works of devotion, achieve the Supreme without delay."
+}
+---
 
 ====== Bg. 5.6 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.27~~
-~~bc:Text 27~~
-
-{{description>And I am the basis of the impersonal Brahman, which is the constitutional position of ultimate happiness, and which is immortal, imperishable and eternal.}}
+---json
+{
+    "name":"Bg. 14.27",
+    "title":"Bhagavad-gītā As It Is 14.27",
+    "description":"And I am the basis of the impersonal Brahman, which is the constitutional position of ultimate happiness, and which is immortal, imperishable and eternal."
+}
+---
 
 ====== Bg. 14.27 ======
 

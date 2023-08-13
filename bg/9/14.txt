@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.14~~
-~~bc:Text 14~~
-
-{{description>Always chanting My glories, endeavoring with great determination, bowing down before Me, these great souls perpetually worship Me with devotion.}}
+---json
+{
+    "name":"Bg. 9.14",
+    "title":"Bhagavad-gītā As It Is 9.14",
+    "description":"Always chanting My glories, endeavoring with great determination, bowing down before Me, these great souls perpetually worship Me with devotion."
+}
+---
 
 ====== Bg. 9.14 ======
 

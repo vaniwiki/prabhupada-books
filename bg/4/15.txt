@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.15~~
-~~bc:Text 15~~
-
-{{description>All the liberated souls in ancient times acted with this understanding and so attained liberation. Therefore, as the ancients, you should perform your duty in this divine consciousness.}}
+---json
+{
+    "name":"Bg. 4.15",
+    "title":"Bhagavad-gītā As It Is 4.15",
+    "description":"All the liberated souls in ancient times acted with this understanding and so attained liberation. Therefore, as the ancients, you should perform your duty in this divine consciousness."
+}
+---
 
 ====== Bg. 4.15 ======
 

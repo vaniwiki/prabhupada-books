@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.17~~
-~~bc:Text 17~~
-
-{{description>One who neither grasps pleasure or grief, who neither laments nor desires, and who renounces both auspicious and inauspicious things, is very dear to Me.}}
+---json
+{
+    "name":"Bg. 12.17",
+    "title":"Bhagavad-gītā As It Is 12.17",
+    "description":"One who neither grasps pleasure or grief, who neither laments nor desires, and who renounces both auspicious and inauspicious things, is very dear to Me."
+}
+---
 
 ====== Bg. 12.17 ======
 

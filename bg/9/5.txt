@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.5~~
-~~bc:Text 5~~
-
-{{description>And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities, and although I am everywhere, still My Self is the very source of creation.}}
+---json
+{
+    "name":"Bg. 9.5",
+    "title":"Bhagavad-gītā As It Is 9.5",
+    "description":"And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities, and although I am everywhere, still My Self is the very source of creation."
+}
+---
 
 ====== Bg. 9.5 ======
 

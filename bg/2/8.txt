@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.8~~
-~~bc:Text 8~~
-
-{{description>I can find no means to drive away this grief which is drying up my senses. I will not be able to destroy it even if I win an unrivalled kingdom on the earth with sovereignty like that of the demigods in heaven.}}
+---json
+{
+    "name":"Bg. 2.8",
+    "title":"Bhagavad-gītā As It Is 2.8",
+    "description":"I can find no means to drive away this grief which is drying up my senses. I will not be able to destroy it even if I win an unrivalled kingdom on the earth with sovereignty like that of the demigods in heaven."
+}
+---
 
 ====== Bg. 2.8 ======
 

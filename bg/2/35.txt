@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.35~~
-~~bc:Text 35~~
-
-{{description>The great generals who have highly esteemed your name and fame will think that you have left the battlefield out of fear only, and thus they will consider you a coward.}}
+---json
+{
+    "name":"Bg. 2.35",
+    "title":"Bhagavad-gītā As It Is 2.35",
+    "description":"The great generals who have highly esteemed your name and fame will think that you have left the battlefield out of fear only, and thus they will consider you a coward."
+}
+---
 
 ====== Bg. 2.35 ======
 

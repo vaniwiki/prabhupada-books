@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.23~~
-~~bc:Text 23~~
-
-{{description>Let me see those who have come here to fight, wishing to please the evil-minded son of Dhṛtarāṣṭra.}}
+---json
+{
+    "name":"Bg. 1.23",
+    "title":"Bhagavad-gītā As It Is 1.23",
+    "description":"Let me see those who have come here to fight, wishing to please the evil-minded son of Dhṛtarāṣṭra."
+}
+---
 
 ====== Bg. 1.23 ======
 

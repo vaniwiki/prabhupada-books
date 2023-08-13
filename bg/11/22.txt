@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.22~~
-~~bc:Text 22~~
-
-{{description>The different manifestations of Lord Śiva, the Ādityas, the Vasus, the Sādhyas, the Viśvadevas, the two Aśvins, the Māruts, the forefathers and the Gandharvas, the Yakṣas, Asuras, and all perfected demigods are beholding You in wonder.}}
+---json
+{
+    "name":"Bg. 11.22",
+    "title":"Bhagavad-gītā As It Is 11.22",
+    "description":"The different manifestations of Lord Śiva, the Ādityas, the Vasus, the Sādhyas, the Viśvadevas, the two Aśvins, the Māruts, the forefathers and the Gandharvas, the Yakṣas, Asuras, and all perfected demigods are beholding You in wonder."
+}
+---
 
 ====== Bg. 11.22 ======
 

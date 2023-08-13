@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.33~~
-~~bc:Text 33~~
-
-{{description>Arjuna said: O Madhusūdana, the system of yoga which you have summarized appears impractical and unendurable to me, for the mind is restless and unsteady.}}
+---json
+{
+    "name":"Bg. 6.33",
+    "title":"Bhagavad-gītā As It Is 6.33",
+    "description":"Arjuna said: O Madhusūdana, the system of yoga which you have summarized appears impractical and unendurable to me, for the mind is restless and unsteady."
+}
+---
 
 ====== Bg. 6.33 ======
 

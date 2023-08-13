@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.14~~
-~~bc:Text 14~~
-
-{{description>Everywhere are His hands and legs, His eyes and faces, and He hears everything. In this way the Supersoul exists.}}
+---json
+{
+    "name":"Bg. 13.14",
+    "title":"Bhagavad-gītā As It Is 13.14",
+    "description":"Everywhere are His hands and legs, His eyes and faces, and He hears everything. In this way the Supersoul exists."
+}
+---
 
 ====== Bg. 13.14 ======
 

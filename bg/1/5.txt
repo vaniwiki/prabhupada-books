@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.5~~
-~~bc:Text 5~~
-
-{{description>There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya.}}
+---json
+{
+    "name":"Bg. 1.5",
+    "title":"Bhagavad-gītā As It Is 1.5",
+    "description":"There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya."
+}
+---
 
 ====== Bg. 1.5 ======
 

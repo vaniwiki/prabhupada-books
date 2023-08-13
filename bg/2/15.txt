@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.15~~
-~~bc:Text 15~~
-
-{{description>O best among men [Arjuna], the person who is not disturbed by happiness and distress and is steady in both is certainly eligible for liberation.}}
+---json
+{
+    "name":"Bg. 2.15",
+    "title":"Bhagavad-gītā As It Is 2.15",
+    "description":"O best among men [Arjuna], the person who is not disturbed by happiness and distress and is steady in both is certainly eligible for liberation."
+}
+---
 
 ====== Bg. 2.15 ======
 

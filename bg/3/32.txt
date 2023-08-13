@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.32~~
-~~bc:Text 32~~
-
-{{description>But those who, out of envy, disregard these teachings and do not practice them regularly, are to be considered bereft of all knowledge, befooled, and doomed to ignorance and bondage.}}
+---json
+{
+    "name":"Bg. 3.32",
+    "title":"Bhagavad-gītā As It Is 3.32",
+    "description":"But those who, out of envy, disregard these teachings and do not practice them regularly, are to be considered bereft of all knowledge, befooled, and doomed to ignorance and bondage."
+}
+---
 
 ====== Bg. 3.32 ======
 

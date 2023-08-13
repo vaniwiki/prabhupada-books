@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.18~~
-~~bc:Text 18~~
-
-{{description>Knowledge, the object of knowledge and the knower are the three factors which motivate action; the senses, the work and the doer comprise the threefold basis of action.}}
+---json
+{
+    "name":"Bg. 18.18",
+    "title":"Bhagavad-gītā As It Is 18.18",
+    "description":"Knowledge, the object of knowledge and the knower are the three factors which motivate action; the senses, the work and the doer comprise the threefold basis of action."
+}
+---
 
 ====== Bg. 18.18 ======
 

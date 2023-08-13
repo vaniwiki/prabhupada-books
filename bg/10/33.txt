@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.33~~
-~~bc:Text 33~~
-
-{{description>Of letters I am the letter A, and among compounds I am the dual word. I am also inexhaustable time, and of creators I am Brahmā, whose manifold faces turn everywhere.}}
+---json
+{
+    "name":"Bg. 10.33",
+    "title":"Bhagavad-gītā As It Is 10.33",
+    "description":"Of letters I am the letter A, and among compounds I am the dual word. I am also inexhaustable time, and of creators I am Brahmā, whose manifold faces turn everywhere."
+}
+---
 
 ====== Bg. 10.33 ======
 

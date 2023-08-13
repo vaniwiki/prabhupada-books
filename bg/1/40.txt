@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.40~~
-~~bc:Text 40~~
-
-{{description>When irreligion is prominent in the family, O Kṛṣṇa, the women of the family become corrupt, and from the degradation of womanhood, O descendant of Vṛṣṇi, comes unwanted progeny.}}
+---json
+{
+    "name":"Bg. 1.40",
+    "title":"Bhagavad-gītā As It Is 1.40",
+    "description":"When irreligion is prominent in the family, O Kṛṣṇa, the women of the family become corrupt, and from the degradation of womanhood, O descendant of Vṛṣṇi, comes unwanted progeny."
+}
+---
 
 ====== Bg. 1.40 ======
 

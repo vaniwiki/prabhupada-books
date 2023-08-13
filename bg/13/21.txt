@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.21~~
-~~bc:Text 21~~
-
-{{description>Nature is said to be the cause of all material activities and effects, whereas the living entity is the cause of the various sufferings and enjoyments in this world.}}
+---json
+{
+    "name":"Bg. 13.21",
+    "title":"Bhagavad-gītā As It Is 13.21",
+    "description":"Nature is said to be the cause of all material activities and effects, whereas the living entity is the cause of the various sufferings and enjoyments in this world."
+}
+---
 
 ====== Bg. 13.21 ======
 

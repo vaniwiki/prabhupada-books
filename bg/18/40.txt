@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.40~~
-~~bc:Text 40~~
-
-{{description>There is no being existing, either here or among the demigods in the higher planetary systems, which is freed from the three modes of material nature.}}
+---json
+{
+    "name":"Bg. 18.40",
+    "title":"Bhagavad-gītā As It Is 18.40",
+    "description":"There is no being existing, either here or among the demigods in the higher planetary systems, which is freed from the three modes of material nature."
+}
+---
 
 ====== Bg. 18.40 ======
 

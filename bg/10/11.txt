@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.11~~
-~~bc:Text 11~~
-
-{{description>Out of compassion for them, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance.}}
+---json
+{
+    "name":"Bg. 10.11",
+    "title":"Bhagavad-gītā As It Is 10.11",
+    "description":"Out of compassion for them, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance."
+}
+---
 
 ====== Bg. 10.11 ======
 

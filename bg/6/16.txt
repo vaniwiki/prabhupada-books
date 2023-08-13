@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.16~~
-~~bc:Text 16~~
-
-{{description>There is no possibility of one's becoming a yogī, O Arjuna, if one eats too much, or eats too little, sleeps too much or does not sleep enough.}}
+---json
+{
+    "name":"Bg. 6.16",
+    "title":"Bhagavad-gītā As It Is 6.16",
+    "description":"There is no possibility of one's becoming a yogī, O Arjuna, if one eats too much, or eats too little, sleeps too much or does not sleep enough."
+}
+---
 
 ====== Bg. 6.16 ======
 

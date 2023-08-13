@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.8~~
-~~bc:Text 8~~
-
-{{description>O son of Bharata, the mode of ignorance causes the delusion of all living entities. The result of this mode is madness, indolence and sleep, which bind the conditioned soul.}}
+---json
+{
+    "name":"Bg. 14.8",
+    "title":"Bhagavad-gītā As It Is 14.8",
+    "description":"O son of Bharata, the mode of ignorance causes the delusion of all living entities. The result of this mode is madness, indolence and sleep, which bind the conditioned soul."
+}
+---
 
 ====== Bg. 14.8 ======
 

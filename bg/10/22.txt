@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.22~~
-~~bc:Text 22~~
-
-{{description>Of the Vedas I am the Sāma-veda; of the demigods I am Indra; of the senses I am the mind, and in living beings I am the living force [knowledge].}}
+---json
+{
+    "name":"Bg. 10.22",
+    "title":"Bhagavad-gītā As It Is 10.22",
+    "description":"Of the Vedas I am the Sāma-veda; of the demigods I am Indra; of the senses I am the mind, and in living beings I am the living force [knowledge]."
+}
+---
 
 ====== Bg. 10.22 ======
 

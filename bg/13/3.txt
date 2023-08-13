@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.3~~
-~~bc:Text 3~~
-
-{{description>O scion of Bharata, you should understand that I am also the knower in all bodies, and to understand this body and its owner is called knowledge. That is My opinion.}}
+---json
+{
+    "name":"Bg. 13.3",
+    "title":"Bhagavad-gītā As It Is 13.3",
+    "description":"O scion of Bharata, you should understand that I am also the knower in all bodies, and to understand this body and its owner is called knowledge. That is My opinion."
+}
+---
 
 ====== Bg. 13.3 ======
 

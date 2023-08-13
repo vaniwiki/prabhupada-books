@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.31~~
-~~bc:Text 31~~
-
-{{description>I do not see how any good can come from killing my own kinsmen in this battle, nor can I, my dear Kṛṣṇa, desire any subsequent victory, kingdom, or happiness.}}
+---json
+{
+    "name":"Bg. 1.31",
+    "title":"Bhagavad-gītā As It Is 1.31",
+    "description":"I do not see how any good can come from killing my own kinsmen in this battle, nor can I, my dear Kṛṣṇa, desire any subsequent victory, kingdom, or happiness."
+}
+---
 
 ====== Bg. 1.31 ======
 

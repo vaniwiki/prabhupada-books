@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.28~~
-~~bc:Text 28~~
-
-{{description>Arjuna said: My dear Kṛṣṇa, seeing my friends and relatives present before me in such a fighting spirit, I feel the limbs of my body quivering and my mouth drying up.}}
+---json
+{
+    "name":"Bg. 1.28",
+    "title":"Bhagavad-gītā As It Is 1.28",
+    "description":"Arjuna said: My dear Kṛṣṇa, seeing my friends and relatives present before me in such a fighting spirit, I feel the limbs of my body quivering and my mouth drying up."
+}
+---
 
 ====== Bg. 1.28 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.13~~
-~~bc:Text 13~~
-
-{{description>After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous.}}
+---json
+{
+    "name":"Bg. 1.13",
+    "title":"Bhagavad-gītā As It Is 1.13",
+    "description":"After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous."
+}
+---
 
 ====== Bg. 1.13 ======
 

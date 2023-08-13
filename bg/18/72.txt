@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.72~~
-~~bc:Text 72~~
-
-{{description>O conqueror of wealth, Arjuna, have you heard this attentively with your mind? And are your illusions and ignorance now dispelled?}}
+---json
+{
+    "name":"Bg. 18.72",
+    "title":"Bhagavad-gītā As It Is 18.72",
+    "description":"O conqueror of wealth, Arjuna, have you heard this attentively with your mind? And are your illusions and ignorance now dispelled?"
+}
+---
 
 ====== Bg. 18.72 ======
 

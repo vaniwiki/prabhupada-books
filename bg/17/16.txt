@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.16~~
-~~bc:Text 16~~
-
-{{description>And serenity, simplicity, gravity, self-control and purity of thought are the austerities of the mind.}}
+---json
+{
+    "name":"Bg. 17.16",
+    "title":"Bhagavad-gītā As It Is 17.16",
+    "description":"And serenity, simplicity, gravity, self-control and purity of thought are the austerities of the mind."
+}
+---
 
 ====== Bg. 17.16 ======
 

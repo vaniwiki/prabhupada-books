@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.44~~
-~~bc:Text 44~~
-
-{{description>Farming, cow protection and business are the qualities of work for the vaiśyas, and for the śūdras there is labor and service to others.}}
+---json
+{
+    "name":"Bg. 18.44",
+    "title":"Bhagavad-gītā As It Is 18.44",
+    "description":"Farming, cow protection and business are the qualities of work for the vaiśyas, and for the śūdras there is labor and service to others."
+}
+---
 
 ====== Bg. 18.44 ======
 

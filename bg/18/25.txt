@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.25~~
-~~bc:Text 25~~
-
-{{description>And that action performed in ignorance and delusion without consideration of future bondage or consequences, which inflicts injury and is impractical, is said to be action in the mode of ignorance.}}
+---json
+{
+    "name":"Bg. 18.25",
+    "title":"Bhagavad-gītā As It Is 18.25",
+    "description":"And that action performed in ignorance and delusion without consideration of future bondage or consequences, which inflicts injury and is impractical, is said to be action in the mode of ignorance."
+}
+---
 
 ====== Bg. 18.25 ======
 

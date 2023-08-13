@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.24~~
-~~bc:Text 24~~
-
-{{description>One whose happiness is within, who is active within, who rejoices within and is illumined within, is actually the perfect mystic. He is liberated in the Supreme, and ultimately he attains the Supreme.}}
+---json
+{
+    "name":"Bg. 5.24",
+    "title":"Bhagavad-gītā As It Is 5.24",
+    "description":"One whose happiness is within, who is active within, who rejoices within and is illumined within, is actually the perfect mystic. He is liberated in the Supreme, and ultimately he attains the Supreme."
+}
+---
 
 ====== Bg. 5.24 ======
 

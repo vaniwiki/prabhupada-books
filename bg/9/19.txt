@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.19~~
-~~bc:Text 19~~
-
-{{description>O Arjuna, I control heat, the rain and the drought. I am immortality, and I am also death personified. Both being and nonbeing are in Me.}}
+---json
+{
+    "name":"Bg. 9.19",
+    "title":"Bhagavad-gītā As It Is 9.19",
+    "description":"O Arjuna, I control heat, the rain and the drought. I am immortality, and I am also death personified. Both being and nonbeing are in Me."
+}
+---
 
 ====== Bg. 9.19 ======
 

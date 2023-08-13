@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.59~~
-~~bc:Text 59~~
-
-{{description>If you do not act according to My direction and do not fight, then you will be falsely directed. By your nature, you will have to be engaged in warfare.}}
+---json
+{
+    "name":"Bg. 18.59",
+    "title":"Bhagavad-gītā As It Is 18.59",
+    "description":"If you do not act according to My direction and do not fight, then you will be falsely directed. By your nature, you will have to be engaged in warfare."
+}
+---
 
 ====== Bg. 18.59 ======
 

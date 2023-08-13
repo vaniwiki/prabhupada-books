@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.52~~
-~~bc:Text 52~~
-
-{{description>The Blessed Lord said: My dear Arjuna, the form which you are now seeing is very difficult to behold. Even the demigods are ever seeking the opportunity to see this form which is so dear.}}
+---json
+{
+    "name":"Bg. 11.52",
+    "title":"Bhagavad-gītā As It Is 11.52",
+    "description":"The Blessed Lord said: My dear Arjuna, the form which you are now seeing is very difficult to behold. Even the demigods are ever seeking the opportunity to see this form which is so dear."
+}
+---
 
 ====== Bg. 11.52 ======
 

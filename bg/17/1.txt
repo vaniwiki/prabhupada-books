@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.1~~
-~~bc:Text 1~~
-
-{{description>Arjuna said, O Kṛṣṇa, what is the situation of one who does not follow the principles of scripture but worships according to his own imagination? Is he in goodness, in passion or in ignorance?}}
+---json
+{
+    "name":"Bg. 17.1",
+    "title":"Bhagavad-gītā As It Is 17.1",
+    "description":"Arjuna said, O Kṛṣṇa, what is the situation of one who does not follow the principles of scripture but worships according to his own imagination? Is he in goodness, in passion or in ignorance?"
+}
+---
 
 ====== Bg. 17.1 ======
 

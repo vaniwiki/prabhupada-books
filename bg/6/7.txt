@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.7~~
-~~bc:Text 7~~
-
-{{description>For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquility. To such a man happiness and distress, heat and cold, honor and dishonor are all the same.}}
+---json
+{
+    "name":"Bg. 6.7",
+    "title":"Bhagavad-gītā As It Is 6.7",
+    "description":"For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquility. To such a man happiness and distress, heat and cold, honor and dishonor are all the same."
+}
+---
 
 ====== Bg. 6.7 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 15.6~~
-~~bc:Text 6~~
-
-{{description>That abode of Mine is not illumined by the sun or moon, nor by electricity. One who reaches it never returns to this material world.}}
+---json
+{
+    "name":"Bg. 15.6",
+    "title":"Bhagavad-gītā As It Is 15.6",
+    "description":"That abode of Mine is not illumined by the sun or moon, nor by electricity. One who reaches it never returns to this material world."
+}
+---
 
 ====== Bg. 15.6 ======
 

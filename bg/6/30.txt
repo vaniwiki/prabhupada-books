@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.30~~
-~~bc:Text 30~~
-
-{{description>For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me.}}
+---json
+{
+    "name":"Bg. 6.30",
+    "title":"Bhagavad-gītā As It Is 6.30",
+    "description":"For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me."
+}
+---
 
 ====== Bg. 6.30 ======
 

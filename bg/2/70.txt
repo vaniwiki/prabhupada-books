@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.70~~
-~~bc:Text 70~~
-
-{{description>A person who is not disturbed by the incessant flow of desires—that enter like rivers into the ocean which is ever being filled but is always still—can alone achieve peace, and not the man who strives to satisfy such desires.}}
+---json
+{
+    "name":"Bg. 2.70",
+    "title":"Bhagavad-gītā As It Is 2.70",
+    "description":"A person who is not disturbed by the incessant flow of desires—that enter like rivers into the ocean which is ever being filled but is always still—can alone achieve peace, and not the man who strives to satisfy such desires."
+}
+---
 
 ====== Bg. 2.70 ======
 

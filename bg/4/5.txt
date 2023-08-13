@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.5~~
-~~bc:Text 5~~
-
-{{description>The Blessed Lord said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!}}
+---json
+{
+    "name":"Bg. 4.5",
+    "title":"Bhagavad-gītā As It Is 4.5",
+    "description":"The Blessed Lord said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!"
+}
+---
 
 ====== Bg. 4.5 ======
 

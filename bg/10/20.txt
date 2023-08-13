@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.20~~
-~~bc:Text 20~~
-
-{{description>I am the Self, O Guḍākeśa, seated in the hearts of all creatures. I am the beginning, the middle and the end of all beings.}}
+---json
+{
+    "name":"Bg. 10.20",
+    "title":"Bhagavad-gītā As It Is 10.20",
+    "description":"I am the Self, O Guḍākeśa, seated in the hearts of all creatures. I am the beginning, the middle and the end of all beings."
+}
+---
 
 ====== Bg. 10.20 ======
 

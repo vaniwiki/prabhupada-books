@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.33~~
-~~bc:Text 33~~
-
-{{description>If, however, you do not fight this religious war, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter.}}
+---json
+{
+    "name":"Bg. 2.33",
+    "title":"Bhagavad-gītā As It Is 2.33",
+    "description":"If, however, you do not fight this religious war, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter."
+}
+---
 
 ====== Bg. 2.33 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.7~~
-~~bc:Text 7~~
-
-{{description>Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.}}
+---json
+{
+    "name":"Bg. 8.7",
+    "title":"Bhagavad-gītā As It Is 8.7",
+    "description":"Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt."
+}
+---
 
 ====== Bg. 8.7 ======
 

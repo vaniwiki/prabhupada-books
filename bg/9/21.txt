@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.21~~
-~~bc:Text 21~~
-
-{{description>When they have thus enjoyed heavenly sense pleasure, they return to this mortal planet again. Thus, through the Vedic principles, they achieve only flickering happiness.}}
+---json
+{
+    "name":"Bg. 9.21",
+    "title":"Bhagavad-gītā As It Is 9.21",
+    "description":"When they have thus enjoyed heavenly sense pleasure, they return to this mortal planet again. Thus, through the Vedic principles, they achieve only flickering happiness."
+}
+---
 
 ====== Bg. 9.21 ======
 

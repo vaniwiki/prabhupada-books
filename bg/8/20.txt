@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.20~~
-~~bc:Text 20~~
-
-{{description>Yet there is another nature, which is eternal and is transcendental to this manifested and unmanifested matter. It is supreme and is never annihilated. When all in this world is annihilated, that part remains as it is.}}
+---json
+{
+    "name":"Bg. 8.20",
+    "title":"Bhagavad-gītā As It Is 8.20",
+    "description":"Yet there is another nature, which is eternal and is transcendental to this manifested and unmanifested matter. It is supreme and is never annihilated. When all in this world is annihilated, that part remains as it is."
+}
+---
 
 ====== Bg. 8.20 ======
 

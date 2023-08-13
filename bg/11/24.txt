@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.24~~
-~~bc:Text 24~~
-
-{{description>O all-pervading Viṣṇu, I can no longer maintain my equilibrium. Seeing Your radiant colors fill the skies and beholding Your eyes and mouths, I am afraid.}}
+---json
+{
+    "name":"Bg. 11.24",
+    "title":"Bhagavad-gītā As It Is 11.24",
+    "description":"O all-pervading Viṣṇu, I can no longer maintain my equilibrium. Seeing Your radiant colors fill the skies and beholding Your eyes and mouths, I am afraid."
+}
+---
 
 ====== Bg. 11.24 ======
 

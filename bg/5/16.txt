@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.16~~
-~~bc:Text 16~~
-
-{{description>When, however, one is enlightened with the knowledge by which nescience is destroyed, then his knowledge reveals everything, as the sun lights up everything in the daytime.}}
+---json
+{
+    "name":"Bg. 5.16",
+    "title":"Bhagavad-gītā As It Is 5.16",
+    "description":"When, however, one is enlightened with the knowledge by which nescience is destroyed, then his knowledge reveals everything, as the sun lights up everything in the daytime."
+}
+---
 
 ====== Bg. 5.16 ======
 

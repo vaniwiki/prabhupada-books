@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.18~~
-~~bc:Text 18~~
-
-{{description>Tell me again in detail, O Janārdana [Kṛṣṇa], of Your mighty potencies and glories, for I never tire of hearing Your ambrosial words.}}
+---json
+{
+    "name":"Bg. 10.18",
+    "title":"Bhagavad-gītā As It Is 10.18",
+    "description":"Tell me again in detail, O Janārdana [Kṛṣṇa], of Your mighty potencies and glories, for I never tire of hearing Your ambrosial words."
+}
+---
 
 ====== Bg. 10.18 ======
 

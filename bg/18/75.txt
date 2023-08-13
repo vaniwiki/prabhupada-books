@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.75~~
-~~bc:Text 75~~
-
-{{description>By the mercy of Vyāsa, I have heard these most confidential talks directly from the master of all mysticism, Kṛṣṇa, who was speaking personally to Arjuna.}}
+---json
+{
+    "name":"Bg. 18.75",
+    "title":"Bhagavad-gītā As It Is 18.75",
+    "description":"By the mercy of Vyāsa, I have heard these most confidential talks directly from the master of all mysticism, Kṛṣṇa, who was speaking personally to Arjuna."
+}
+---
 
 ====== Bg. 18.75 ======
 

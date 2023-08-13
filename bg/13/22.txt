@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.22~~
-~~bc:Text 22~~
-
-{{description>The living entity in material nature thus follows the ways of life, enjoying the three modes of nature. This is due to his association with that material nature. Thus he meets with good and evil amongst various species.}}
+---json
+{
+    "name":"Bg. 13.22",
+    "title":"Bhagavad-gītā As It Is 13.22",
+    "description":"The living entity in material nature thus follows the ways of life, enjoying the three modes of nature. This is due to his association with that material nature. Thus he meets with good and evil amongst various species."
+}
+---
 
 ====== Bg. 13.22 ======
 

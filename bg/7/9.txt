@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.9~~
-~~bc:Text 9~~
-
-{{description>I am the original fragrance of the earth, and I am the heat in fire. I am the life of all that lives, and I am the penances of all ascetics.}}
+---json
+{
+    "name":"Bg. 7.9",
+    "title":"Bhagavad-gītā As It Is 7.9",
+    "description":"I am the original fragrance of the earth, and I am the heat in fire. I am the life of all that lives, and I am the penances of all ascetics."
+}
+---
 
 ====== Bg. 7.9 ======
 

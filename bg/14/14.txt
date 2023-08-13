@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.14~~
-~~bc:Text 14~~
-
-{{description>When one dies in the mode of goodness, he attains to the pure higher planets.}}
+---json
+{
+    "name":"Bg. 14.14",
+    "title":"Bhagavad-gītā As It Is 14.14",
+    "description":"When one dies in the mode of goodness, he attains to the pure higher planets."
+}
+---
 
 ====== Bg. 14.14 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.8~~
-~~bc:Text 8~~
-
-{{description>Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt.}}
+---json
+{
+    "name":"Bg. 12.8",
+    "title":"Bhagavad-gītā As It Is 12.8",
+    "description":"Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt."
+}
+---
 
 ====== Bg. 12.8 ======
 

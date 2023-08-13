@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.23~~
-~~bc:Text 23~~
-
-{{description>The work of a man who is unattached to the modes of material nature and who is fully situated in transcendental knowledge merges entirely into transcendence.}}
+---json
+{
+    "name":"Bg. 4.23",
+    "title":"Bhagavad-gītā As It Is 4.23",
+    "description":"The work of a man who is unattached to the modes of material nature and who is fully situated in transcendental knowledge merges entirely into transcendence."
+}
+---
 
 ====== Bg. 4.23 ======
 

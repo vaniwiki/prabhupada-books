@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.2~~
-~~bc:Text 2~~
-
-{{description>The Blessed Lord said: The renunciation of work and work in devotion are both good for liberation. But, of the two, work in devotional service is better than renunciation of works.}}
+---json
+{
+    "name":"Bg. 5.2",
+    "title":"Bhagavad-gītā As It Is 5.2",
+    "description":"The Blessed Lord said: The renunciation of work and work in devotion are both good for liberation. But, of the two, work in devotional service is better than renunciation of works."
+}
+---
 
 ====== Bg. 5.2 ======
 

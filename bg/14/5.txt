@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.5~~
-~~bc:Text 5~~
-
-{{description>Material nature consists of the three modes—goodness, passion and ignorance. When the living entity comes in contact with nature, he becomes conditioned by these modes.}}
+---json
+{
+    "name":"Bg. 14.5",
+    "title":"Bhagavad-gītā As It Is 14.5",
+    "description":"Material nature consists of the three modes—goodness, passion and ignorance. When the living entity comes in contact with nature, he becomes conditioned by these modes."
+}
+---
 
 ====== Bg. 14.5 ======
 

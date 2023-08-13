@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.36~~
-~~bc:Text 36~~
-
-{{description>Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?}}
+---json
+{
+    "name":"Bg. 2.36",
+    "title":"Bhagavad-gītā As It Is 2.36",
+    "description":"Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?"
+}
+---
 
 ====== Bg. 2.36 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.18~~
-~~bc:Text 18~~
-
-{{description>When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in Transcendence—devoid of all material desires—he is said to have attained yoga.}}
+---json
+{
+    "name":"Bg. 6.18",
+    "title":"Bhagavad-gītā As It Is 6.18",
+    "description":"When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in Transcendence—devoid of all material desires—he is said to have attained yoga."
+}
+---
 
 ====== Bg. 6.18 ======
 

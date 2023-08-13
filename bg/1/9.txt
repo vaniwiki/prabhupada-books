@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.9~~
-~~bc:Text 9~~
-
-{{description>There are many other heroes who are prepared to lay down their lives for my sake. All of them are well equipped with different kinds of weapons, and all are experienced in military science.}}
+---json
+{
+    "name":"Bg. 1.9",
+    "title":"Bhagavad-gītā As It Is 1.9",
+    "description":"There are many other heroes who are prepared to lay down their lives for my sake. All of them are well equipped with different kinds of weapons, and all are experienced in military science."
+}
+---
 
 ====== Bg. 1.9 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.21~~
-~~bc:Text 21~~
-
-{{description>Whatever action is performed by a great man, common men follow in his footsteps. And whatever standards he sets by exemplary acts, all the world pursues.}}
+---json
+{
+    "name":"Bg. 3.21",
+    "title":"Bhagavad-gītā As It Is 3.21",
+    "description":"Whatever action is performed by a great man, common men follow in his footsteps. And whatever standards he sets by exemplary acts, all the world pursues."
+}
+---
 
 ====== Bg. 3.21 ======
 

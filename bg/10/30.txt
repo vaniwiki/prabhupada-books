@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.30~~
-~~bc:Text 30~~
-
-{{description>Among the Daitya demons I am the devoted Prahlāda; among subduers I am time; among the beasts I am the lion, and among birds I am Garuḍa, the feathered carrier of Viṣṇu.}}
+---json
+{
+    "name":"Bg. 10.30",
+    "title":"Bhagavad-gītā As It Is 10.30",
+    "description":"Among the Daitya demons I am the devoted Prahlāda; among subduers I am time; among the beasts I am the lion, and among birds I am Garuḍa, the feathered carrier of Viṣṇu."
+}
+---
 
 ====== Bg. 10.30 ======
 

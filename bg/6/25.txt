@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.25~~
-~~bc:Text 25~~
-
-{{description>Gradually, step by step, with full conviction, one should become situated in trance by means of intelligence, and thus the mind should be fixed on the Self alone and should think of nothing else.}}
+---json
+{
+    "name":"Bg. 6.25",
+    "title":"Bhagavad-gītā As It Is 6.25",
+    "description":"Gradually, step by step, with full conviction, one should become situated in trance by means of intelligence, and thus the mind should be fixed on the Self alone and should think of nothing else."
+}
+---
 
 ====== Bg. 6.25 ======
 

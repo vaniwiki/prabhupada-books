@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.8-9~~
-~~bc:Text 8-9~~
-
-{{description>A person in the divine consciousness, although engaged in seeing, hearing, touching, smelling, eating, moving about, sleeping, and breathing, always knows within himself that he actually does nothing at all. Because while speaking, evacuating, receiving, opening or closing his eyes, he always knows that only the material senses are engaged with their objects and that he is aloof from them.}}
+---json
+{
+    "name":"Bg. 5.8-9",
+    "title":"Bhagavad-gītā As It Is 5.8-9",
+    "description":"A person in the divine consciousness, although engaged in seeing, hearing, touching, smelling, eating, moving about, sleeping, and breathing, always knows within himself that he actually does nothing at all. Because while speaking, evacuating, receiving, opening or closing his eyes, he always knows that only the material senses are engaged with their objects and that he is aloof from them."
+}
+---
 
 ====== Bg. 5.8-9 ======
 

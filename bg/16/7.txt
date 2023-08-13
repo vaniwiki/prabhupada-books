@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 16.7~~
-~~bc:Text 7~~
-
-{{description>Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them.}}
+---json
+{
+    "name":"Bg. 16.7",
+    "title":"Bhagavad-gītā As It Is 16.7",
+    "description":"Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them."
+}
+---
 
 ====== Bg. 16.7 ======
 

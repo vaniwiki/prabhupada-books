@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.24~~
-~~bc:Text 24~~
-
-{{description>But action performed with great effort by one seeking to gratify his desires, and which is enacted from a sense of false ego, is called action in the mode of passion.}}
+---json
+{
+    "name":"Bg. 18.24",
+    "title":"Bhagavad-gītā As It Is 18.24",
+    "description":"But action performed with great effort by one seeking to gratify his desires, and which is enacted from a sense of false ego, is called action in the mode of passion."
+}
+---
 
 ====== Bg. 18.24 ======
 

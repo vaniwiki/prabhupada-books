@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.12~~
-~~bc:Text 12~~
-
-{{description>Those who are thus bewildered are attracted by demonic and atheistic views. In that deluded condition, their hopes for liberation, their fruitive activities, and their culture of knowledge are all defeated.}}
+---json
+{
+    "name":"Bg. 9.12",
+    "title":"Bhagavad-gītā As It Is 9.12",
+    "description":"Those who are thus bewildered are attracted by demonic and atheistic views. In that deluded condition, their hopes for liberation, their fruitive activities, and their culture of knowledge are all defeated."
+}
+---
 
 ====== Bg. 9.12 ======
 

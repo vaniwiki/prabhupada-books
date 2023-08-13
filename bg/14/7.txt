@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.7~~
-~~bc:Text 7~~
-
-{{description>The mode of passion is born of unlimited desires and longings, O son of Kuntī, and because of this one is bound to material fruitive activities.}}
+---json
+{
+    "name":"Bg. 14.7",
+    "title":"Bhagavad-gītā As It Is 14.7",
+    "description":"The mode of passion is born of unlimited desires and longings, O son of Kuntī, and because of this one is bound to material fruitive activities."
+}
+---
 
 ====== Bg. 14.7 ======
 

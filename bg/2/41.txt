@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.41~~
-~~bc:Text 41~~
-
-{{description>Those who are on this path are resolute in purpose, and their aim is one. O beloved child of the Kurus, the intelligence of those who are irresolute is many-branched.}}
+---json
+{
+    "name":"Bg. 2.41",
+    "title":"Bhagavad-gītā As It Is 2.41",
+    "description":"Those who are on this path are resolute in purpose, and their aim is one. O beloved child of the Kurus, the intelligence of those who are irresolute is many-branched."
+}
+---
 
 ====== Bg. 2.41 ======
 

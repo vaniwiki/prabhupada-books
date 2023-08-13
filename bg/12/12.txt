@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.12~~
-~~bc:Text 12~~
-
-{{description>If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind.}}
+---json
+{
+    "name":"Bg. 12.12",
+    "title":"Bhagavad-gītā As It Is 12.12",
+    "description":"If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind."
+}
+---
 
 ====== Bg. 12.12 ======
 

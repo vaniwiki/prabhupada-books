@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 15.17~~
-~~bc:Text 17~~
-
-{{description>Besides these two, there is the greatest living personality, the Lord Himself, who has entered into these worlds and is maintaining them.}}
+---json
+{
+    "name":"Bg. 15.17",
+    "title":"Bhagavad-gītā As It Is 15.17",
+    "description":"Besides these two, there is the greatest living personality, the Lord Himself, who has entered into these worlds and is maintaining them."
+}
+---
 
 ====== Bg. 15.17 ======
 

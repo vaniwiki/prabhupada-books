@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.2~~
-~~bc:Text 2~~
-
-{{description>The Blessed Lord said: He whose mind is fixed on My personal form, always engaged in worshiping Me with great and transcendental faith, is considered by Me to be most perfect.}}
+---json
+{
+    "name":"Bg. 12.2",
+    "title":"Bhagavad-gītā As It Is 12.2",
+    "description":"The Blessed Lord said: He whose mind is fixed on My personal form, always engaged in worshiping Me with great and transcendental faith, is considered by Me to be most perfect."
+}
+---
 
 ====== Bg. 12.2 ======
 

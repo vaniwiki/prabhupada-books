@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.20~~
-~~bc:Text 20~~
-
-{{description>For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primeval. He is not slain when the body is slain.}}
+---json
+{
+    "name":"Bg. 2.20",
+    "title":"Bhagavad-gītā As It Is 2.20",
+    "description":"For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primeval. He is not slain when the body is slain."
+}
+---
 
 ====== Bg. 2.20 ======
 

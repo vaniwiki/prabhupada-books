@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.3-4~~
-~~bc:Text 3-4~~
-
-{{description>But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable—the impersonal conception of the Absolute Truth—by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.}}
+---json
+{
+    "name":"Bg. 12.3-4",
+    "title":"Bhagavad-gītā As It Is 12.3-4",
+    "description":"But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable—the impersonal conception of the Absolute Truth—by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me."
+}
+---
 
 ====== Bg. 12.3-4 ======
 

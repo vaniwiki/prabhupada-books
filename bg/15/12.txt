@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 15.12~~
-~~bc:Text 12~~
-
-{{description>The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me.}}
+---json
+{
+    "name":"Bg. 15.12",
+    "title":"Bhagavad-gītā As It Is 15.12",
+    "description":"The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me."
+}
+---
 
 ====== Bg. 15.12 ======
 

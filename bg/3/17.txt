@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.17~~
-~~bc:Text 17~~
-
-{{description>One who is, however, taking pleasure in the self, who is illumined in the self, who rejoices in and is satisfied with the self only, fully satiated—for him there is no duty.}}
+---json
+{
+    "name":"Bg. 3.17",
+    "title":"Bhagavad-gītā As It Is 3.17",
+    "description":"One who is, however, taking pleasure in the self, who is illumined in the self, who rejoices in and is satisfied with the self only, fully satiated—for him there is no duty."
+}
+---
 
 ====== Bg. 3.17 ======
 

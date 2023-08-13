@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.65~~
-~~bc:Text 65~~
-
-{{description>For one who is so situated in the Divine consciousness, the threefold miseries of material existence exist no longer; in such a happy state, one's intelligence soon becomes steady.}}
+---json
+{
+    "name":"Bg. 2.65",
+    "title":"Bhagavad-gītā As It Is 2.65",
+    "description":"For one who is so situated in the Divine consciousness, the threefold miseries of material existence exist no longer; in such a happy state, one's intelligence soon becomes steady."
+}
+---
 
 ====== Bg. 2.65 ======
 

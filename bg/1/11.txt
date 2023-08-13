@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.11~~
-~~bc:Text 11~~
-
-{{description>Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army.}}
+---json
+{
+    "name":"Bg. 1.11",
+    "title":"Bhagavad-gītā As It Is 1.11",
+    "description":"Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army."
+}
+---
 
 ====== Bg. 1.11 ======
 

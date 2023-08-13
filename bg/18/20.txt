@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.20~~
-~~bc:Text 20~~
-
-{{description>That knowledge by which one undivided spiritual nature is seen in all existences, undivided in the divided, is knowledge in the mode of goodness.}}
+---json
+{
+    "name":"Bg. 18.20",
+    "title":"Bhagavad-gītā As It Is 18.20",
+    "description":"That knowledge by which one undivided spiritual nature is seen in all existences, undivided in the divided, is knowledge in the mode of goodness."
+}
+---
 
 ====== Bg. 18.20 ======
 

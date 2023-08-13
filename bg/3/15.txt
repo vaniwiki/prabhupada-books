@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 3.15~~
-~~bc:Text 15~~
-
-{{description>Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead. Consequently the all-pervading Transcendence is eternally situated in acts of sacrifice.}}
+---json
+{
+    "name":"Bg. 3.15",
+    "title":"Bhagavad-gītā As It Is 3.15",
+    "description":"Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead. Consequently the all-pervading Transcendence is eternally situated in acts of sacrifice."
+}
+---
 
 ====== Bg. 3.15 ======
 

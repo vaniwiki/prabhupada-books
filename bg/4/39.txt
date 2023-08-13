@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.39~~
-~~bc:Text 39~~
-
-{{description>A faithful man who is absorbed in transcendental knowledge and who subdues his senses quickly attains the supreme spiritual peace.}}
+---json
+{
+    "name":"Bg. 4.39",
+    "title":"Bhagavad-gītā As It Is 4.39",
+    "description":"A faithful man who is absorbed in transcendental knowledge and who subdues his senses quickly attains the supreme spiritual peace."
+}
+---
 
 ====== Bg. 4.39 ======
 

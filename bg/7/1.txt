@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.1~~
-~~bc:Text 1~~
-
-{{description>Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.}}
+---json
+{
+    "name":"Bg. 7.1",
+    "title":"Bhagavad-gītā As It Is 7.1",
+    "description":"Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt."
+}
+---
 
 ====== Bg. 7.1 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.43~~
-~~bc:Text 43~~
-
-{{description>You are the father of this complete cosmic manifestation, the worshipable chief, the spiritual master. No one is equal to You, nor can anyone be one with You. Within the three worlds, You are immeasurable.}}
+---json
+{
+    "name":"Bg. 11.43",
+    "title":"Bhagavad-gītā As It Is 11.43",
+    "description":"You are the father of this complete cosmic manifestation, the worshipable chief, the spiritual master. No one is equal to You, nor can anyone be one with You. Within the three worlds, You are immeasurable."
+}
+---
 
 ====== Bg. 11.43 ======
 

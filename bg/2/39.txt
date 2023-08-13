@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.39~~
-~~bc:Text 39~~
-
-{{description>Thus far I have declared to you the analytical knowledge of sāṅkhya philosophy. Now listen to the knowledge of yoga whereby one works without fruitive result. O son of Pṛthā, when you act by such intelligence, you can free yourself from the bondage of works.}}
+---json
+{
+    "name":"Bg. 2.39",
+    "title":"Bhagavad-gītā As It Is 2.39",
+    "description":"Thus far I have declared to you the analytical knowledge of sāṅkhya philosophy. Now listen to the knowledge of yoga whereby one works without fruitive result. O son of Pṛthā, when you act by such intelligence, you can free yourself from the bondage of works."
+}
+---
 
 ====== Bg. 2.39 ======
 

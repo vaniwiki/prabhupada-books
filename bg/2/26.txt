@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.26~~
-~~bc:Text 26~~
-
-{{description>If, however, you think that the soul is perpetually born and always dies, still you have no reason to lament, O mighty-armed.}}
+---json
+{
+    "name":"Bg. 2.26",
+    "title":"Bhagavad-gītā As It Is 2.26",
+    "description":"If, however, you think that the soul is perpetually born and always dies, still you have no reason to lament, O mighty-armed."
+}
+---
 
 ====== Bg. 2.26 ======
 

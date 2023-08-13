@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 17.22~~
-~~bc:Text 22~~
-
-{{description>And charity performed at an improper place and time and given to unworthy persons without respect and with contempt is charity in the mode of ignorance.}}
+---json
+{
+    "name":"Bg. 17.22",
+    "title":"Bhagavad-gītā As It Is 17.22",
+    "description":"And charity performed at an improper place and time and given to unworthy persons without respect and with contempt is charity in the mode of ignorance."
+}
+---
 
 ====== Bg. 17.22 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.67~~
-~~bc:Text 67~~
-
-{{description>As a boat on the water is swept away by a strong wind, even one of the senses on which the mind focuses can carry away a man's intelligence.}}
+---json
+{
+    "name":"Bg. 2.67",
+    "title":"Bhagavad-gītā As It Is 2.67",
+    "description":"As a boat on the water is swept away by a strong wind, even one of the senses on which the mind focuses can carry away a man's intelligence."
+}
+---
 
 ====== Bg. 2.67 ======
 

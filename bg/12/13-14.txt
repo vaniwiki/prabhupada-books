@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.13-14~~
-~~bc:Text 13-14~~
-
-{{description>One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination and whose mind and intelligence are in agreement with Me—he is very dear to Me.}}
+---json
+{
+    "name":"Bg. 12.13-14",
+    "title":"Bhagavad-gītā As It Is 12.13-14",
+    "description":"One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination and whose mind and intelligence are in agreement with Me—he is very dear to Me."
+}
+---
 
 ====== Bg. 12.13-14 ======
 

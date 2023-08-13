@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.22~~
-~~bc:Text 22~~
-
-{{description>As a person puts on new garments, giving up old ones, similarly, the soul accepts new material bodies, giving up the old and useless ones.}}
+---json
+{
+    "name":"Bg. 2.22",
+    "title":"Bhagavad-gītā As It Is 2.22",
+    "description":"As a person puts on new garments, giving up old ones, similarly, the soul accepts new material bodies, giving up the old and useless ones."
+}
+---
 
 ====== Bg. 2.22 ======
 

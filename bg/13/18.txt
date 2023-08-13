@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.18~~
-~~bc:Text 18~~
-
-{{description>He is the source of light in all luminous objects. He is beyond the darkness of matter and is unmanifested. He is knowledge, He is the object of knowledge, and He is the goal of knowledge. He is situated in everyone's heart.}}
+---json
+{
+    "name":"Bg. 13.18",
+    "title":"Bhagavad-gītā As It Is 13.18",
+    "description":"He is the source of light in all luminous objects. He is beyond the darkness of matter and is unmanifested. He is knowledge, He is the object of knowledge, and He is the goal of knowledge. He is situated in everyone's heart."
+}
+---
 
 ====== Bg. 13.18 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.33~~
-~~bc:Text 33~~
-
-{{description>O chastiser of the enemy, the sacrifice of knowledge is greater than the sacrifice of material possessions. O son of Pṛthā, after all, the sacrifice of work culminates in transcendental knowledge.}}
+---json
+{
+    "name":"Bg. 4.33",
+    "title":"Bhagavad-gītā As It Is 4.33",
+    "description":"O chastiser of the enemy, the sacrifice of knowledge is greater than the sacrifice of material possessions. O son of Pṛthā, after all, the sacrifice of work culminates in transcendental knowledge."
+}
+---
 
 ====== Bg. 4.33 ======
 

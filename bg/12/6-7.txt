@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.6-7~~
-~~bc:Text 6-7~~
-
-{{description>For one who worships Me, giving up all his activities unto Me and being devoted to Me without deviation, engaged in devotional service and always meditating upon Me, who has fixed his mind upon Me, O son of Pṛthā, for him I am the swift deliverer from the ocean of birth and death.}}
+---json
+{
+    "name":"Bg. 12.6-7",
+    "title":"Bhagavad-gītā As It Is 12.6-7",
+    "description":"For one who worships Me, giving up all his activities unto Me and being devoted to Me without deviation, engaged in devotional service and always meditating upon Me, who has fixed his mind upon Me, O son of Pṛthā, for him I am the swift deliverer from the ocean of birth and death."
+}
+---
 
 ====== Bg. 12.6-7 ======
 

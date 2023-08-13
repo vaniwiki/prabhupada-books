@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.6~~
-~~bc:Text 6~~
-
-{{description>As the mighty wind, blowing everywhere, always rests in ethereal space know that in the same manner all beings rest in Me.}}
+---json
+{
+    "name":"Bg. 9.6",
+    "title":"Bhagavad-gītā As It Is 9.6",
+    "description":"As the mighty wind, blowing everywhere, always rests in ethereal space know that in the same manner all beings rest in Me."
+}
+---
 
 ====== Bg. 9.6 ======
 

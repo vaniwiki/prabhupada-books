@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.25~~
-~~bc:Text 25~~
-
-{{description>That Supersoul is perceived by some through meditation, by some through the cultivation of knowledge, and by others through working without fruitive desire.}}
+---json
+{
+    "name":"Bg. 13.25",
+    "title":"Bhagavad-gītā As It Is 13.25",
+    "description":"That Supersoul is perceived by some through meditation, by some through the cultivation of knowledge, and by others through working without fruitive desire."
+}
+---
 
 ====== Bg. 13.25 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 12.15~~
-~~bc:Text 15~~
-
-{{description>He for whom no one is put into difficulty and who is not disturbed by anxiety, who is steady in happiness and distress, is very dear to Me.}}
+---json
+{
+    "name":"Bg. 12.15",
+    "title":"Bhagavad-gītā As It Is 12.15",
+    "description":"He for whom no one is put into difficulty and who is not disturbed by anxiety, who is steady in happiness and distress, is very dear to Me."
+}
+---
 
 ====== Bg. 12.15 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.54~~
-~~bc:Text 54~~
-
-{{description>One who is thus transcendentally situated at once realizes the Supreme Brahman. He never laments nor desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me.}}
+---json
+{
+    "name":"Bg. 18.54",
+    "title":"Bhagavad-gītā As It Is 18.54",
+    "description":"One who is thus transcendentally situated at once realizes the Supreme Brahman. He never laments nor desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me."
+}
+---
 
 ====== Bg. 18.54 ======
 

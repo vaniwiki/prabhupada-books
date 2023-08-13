@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.10~~
-~~bc:Text 10~~
-
-{{description>This material nature is working under My direction, O son of Kuntī, and it is producing all moving and unmoving beings. By its rule this manifestation is created and annihilated again and again.}}
+---json
+{
+    "name":"Bg. 9.10",
+    "title":"Bhagavad-gītā As It Is 9.10",
+    "description":"This material nature is working under My direction, O son of Kuntī, and it is producing all moving and unmoving beings. By its rule this manifestation is created and annihilated again and again."
+}
+---
 
 ====== Bg. 9.10 ======
 

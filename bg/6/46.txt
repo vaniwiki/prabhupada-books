@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.46~~
-~~bc:Text 46~~
-
-{{description>A yogī is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogī.}}
+---json
+{
+    "name":"Bg. 6.46",
+    "title":"Bhagavad-gītā As It Is 6.46",
+    "description":"A yogī is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogī."
+}
+---
 
 ====== Bg. 6.46 ======
 

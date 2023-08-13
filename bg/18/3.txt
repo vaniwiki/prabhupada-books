@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.3~~
-~~bc:Text 3~~
-
-{{description>Some learned men declare that all kinds of fruitive activities should be given up, but there are yet other sages who maintain that acts of sacrifice, charity and penance should never be abandoned.}}
+---json
+{
+    "name":"Bg. 18.3",
+    "title":"Bhagavad-gītā As It Is 18.3",
+    "description":"Some learned men declare that all kinds of fruitive activities should be given up, but there are yet other sages who maintain that acts of sacrifice, charity and penance should never be abandoned."
+}
+---
 
 ====== Bg. 18.3 ======
 

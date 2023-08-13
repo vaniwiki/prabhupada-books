@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 14.9~~
-~~bc:Text 9~~
-
-{{description>The mode of goodness conditions one to happiness, passion conditions him to the fruits of action, and ignorance to madness.}}
+---json
+{
+    "name":"Bg. 14.9",
+    "title":"Bhagavad-gītā As It Is 14.9",
+    "description":"The mode of goodness conditions one to happiness, passion conditions him to the fruits of action, and ignorance to madness."
+}
+---
 
 ====== Bg. 14.9 ======
 

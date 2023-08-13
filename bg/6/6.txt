@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 6.6~~
-~~bc:Text 6~~
-
-{{description>For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his very mind will be the greatest enemy.}}
+---json
+{
+    "name":"Bg. 6.6",
+    "title":"Bhagavad-gītā As It Is 6.6",
+    "description":"For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his very mind will be the greatest enemy."
+}
+---
 
 ====== Bg. 6.6 ======
 

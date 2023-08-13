@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 7.3~~
-~~bc:Text 3~~
-
-{{description>Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth.}}
+---json
+{
+    "name":"Bg. 7.3",
+    "title":"Bhagavad-gītā As It Is 7.3",
+    "description":"Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth."
+}
+---
 
 ====== Bg. 7.3 ======
 

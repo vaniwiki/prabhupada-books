@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 15.1~~
-~~bc:Text 1~~
-
-{{description>The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.}}
+---json
+{
+    "name":"Bg. 15.1",
+    "title":"Bhagavad-gītā As It Is 15.1",
+    "description":"The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas."
+}
+---
 
 ====== Bg. 15.1 ======
 

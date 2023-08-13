@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 8.10~~
-~~bc:Text 10~~
-
-{{description>One who, at the time of death, fixes his life air between the eyebrows and in full devotion engages himself in remembering the Supreme Lord, will certainly attain to the Supreme Personality of Godhead.}}
+---json
+{
+    "name":"Bg. 8.10",
+    "title":"Bhagavad-gītā As It Is 8.10",
+    "description":"One who, at the time of death, fixes his life air between the eyebrows and in full devotion engages himself in remembering the Supreme Lord, will certainly attain to the Supreme Personality of Godhead."
+}
+---
 
 ====== Bg. 8.10 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.3~~
-~~bc:Text 3~~
-
-{{description>That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend; therefore you can understand the transcendental mystery of this science.}}
+---json
+{
+    "name":"Bg. 4.3",
+    "title":"Bhagavad-gītā As It Is 4.3",
+    "description":"That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend; therefore you can understand the transcendental mystery of this science."
+}
+---
 
 ====== Bg. 4.3 ======
 

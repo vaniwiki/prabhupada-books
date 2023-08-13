@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 16.21~~
-~~bc:Text 21~~
-
-{{description>There are three gates leading to this hell—lust, anger, and greed. Every sane man should give these up, for they lead to the degradation of the soul.}}
+---json
+{
+    "name":"Bg. 16.21",
+    "title":"Bhagavad-gītā As It Is 16.21",
+    "description":"There are three gates leading to this hell—lust, anger, and greed. Every sane man should give these up, for they lead to the degradation of the soul."
+}
+---
 
 ====== Bg. 16.21 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.29~~
-~~bc:Text 29~~
-
-{{description>I see all people rushing with full speed into Your mouths as moths dash into a blazing fire.}}
+---json
+{
+    "name":"Bg. 11.29",
+    "title":"Bhagavad-gītā As It Is 11.29",
+    "description":"I see all people rushing with full speed into Your mouths as moths dash into a blazing fire."
+}
+---
 
 ====== Bg. 11.29 ======
 

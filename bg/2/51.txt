@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.51~~
-~~bc:Text 51~~
-
-{{description>The wise, engaged in devotional service, take refuge in the Lord, and free themselves from the cycle of birth and death by renouncing the fruits of action in the material world. In this way they can attain that state beyond all miseries.}}
+---json
+{
+    "name":"Bg. 2.51",
+    "title":"Bhagavad-gītā As It Is 2.51",
+    "description":"The wise, engaged in devotional service, take refuge in the Lord, and free themselves from the cycle of birth and death by renouncing the fruits of action in the material world. In this way they can attain that state beyond all miseries."
+}
+---
 
 ====== Bg. 2.51 ======
 

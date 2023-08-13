@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 11.30~~
-~~bc:Text 30~~
-
-{{description>O Viṣṇu, I see You devouring all people in Your flaming mouths and covering the universe with Your immeasurable rays. Scorching the worlds, You are manifest.}}
+---json
+{
+    "name":"Bg. 11.30",
+    "title":"Bhagavad-gītā As It Is 11.30",
+    "description":"O Viṣṇu, I see You devouring all people in Your flaming mouths and covering the universe with Your immeasurable rays. Scorching the worlds, You are manifest."
+}
+---
 
 ====== Bg. 11.30 ======
 

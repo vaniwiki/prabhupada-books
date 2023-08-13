@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.5~~
-~~bc:Text 5~~
-
-{{description>Acts of sacrifice, charity and penance are not to be given up but should be performed. Indeed, sacrifice, charity and penance purify even the great souls.}}
+---json
+{
+    "name":"Bg. 18.5",
+    "title":"Bhagavad-gītā As It Is 18.5",
+    "description":"Acts of sacrifice, charity and penance are not to be given up but should be performed. Indeed, sacrifice, charity and penance purify even the great souls."
+}
+---
 
 ====== Bg. 18.5 ======
 

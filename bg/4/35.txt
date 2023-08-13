@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.35~~
-~~bc:Text 35~~
-
-{{description>And when you have thus learned the truth, you will know that all living beings are but part of Me—and that they are in Me, and are Mine.}}
+---json
+{
+    "name":"Bg. 4.35",
+    "title":"Bhagavad-gītā As It Is 4.35",
+    "description":"And when you have thus learned the truth, you will know that all living beings are but part of Me—and that they are in Me, and are Mine."
+}
+---
 
 ====== Bg. 4.35 ======
 

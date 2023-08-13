@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.12~~
-~~bc:Text 12~~
-
-{{description>Men in this world desire success in fruitive activities, and therefore they worship the demigods. Quickly, of course, men get results from fruitive work in this world.}}
+---json
+{
+    "name":"Bg. 4.12",
+    "title":"Bhagavad-gītā As It Is 4.12",
+    "description":"Men in this world desire success in fruitive activities, and therefore they worship the demigods. Quickly, of course, men get results from fruitive work in this world."
+}
+---
 
 ====== Bg. 4.12 ======
 

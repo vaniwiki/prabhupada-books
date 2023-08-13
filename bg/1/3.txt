@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.3~~
-~~bc:Text 3~~
-
-{{description>O my teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple, the son of Drupada.}}
+---json
+{
+    "name":"Bg. 1.3",
+    "title":"Bhagavad-gītā As It Is 1.3",
+    "description":"O my teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple, the son of Drupada."
+}
+---
 
 ====== Bg. 1.3 ======
 

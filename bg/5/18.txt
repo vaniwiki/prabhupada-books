@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 5.18~~
-~~bc:Text 18~~
-
-{{description>The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater [outcaste] .}}
+---json
+{
+    "name":"Bg. 5.18",
+    "title":"Bhagavad-gītā As It Is 5.18",
+    "description":"The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater [outcaste] ."
+}
+---
 
 ====== Bg. 5.18 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.17~~
-~~bc:Text 17~~
-
-{{description>The intricacies of action are very hard to understand. Therefore one should know properly what action is, what forbidden action is, and what inaction is.}}
+---json
+{
+    "name":"Bg. 4.17",
+    "title":"Bhagavad-gītā As It Is 4.17",
+    "description":"The intricacies of action are very hard to understand. Therefore one should know properly what action is, what forbidden action is, and what inaction is."
+}
+---
 
 ====== Bg. 4.17 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 1.6~~
-~~bc:Text 6~~
-
-{{description>There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters.}}
+---json
+{
+    "name":"Bg. 1.6",
+    "title":"Bhagavad-gītā As It Is 1.6",
+    "description":"There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters."
+}
+---
 
 ====== Bg. 1.6 ======
 

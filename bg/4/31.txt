@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.31~~
-~~bc:Text 31~~
-
-{{description>O best of the Kuru dynasty, without sacrifice one can never live happily on this planet or in this life: what then of the next?}}
+---json
+{
+    "name":"Bg. 4.31",
+    "title":"Bhagavad-gītā As It Is 4.31",
+    "description":"O best of the Kuru dynasty, without sacrifice one can never live happily on this planet or in this life: what then of the next?"
+}
+---
 
 ====== Bg. 4.31 ======
 

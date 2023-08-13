@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.39~~
-~~bc:Text 39~~
-
-{{description>Furthermore, O Arjuna, I am the generating seed of all existences. There is no being—moving or unmoving—that can exist without Me.}}
+---json
+{
+    "name":"Bg. 10.39",
+    "title":"Bhagavad-gītā As It Is 10.39",
+    "description":"Furthermore, O Arjuna, I am the generating seed of all existences. There is no being—moving or unmoving—that can exist without Me."
+}
+---
 
 ====== Bg. 10.39 ======
 

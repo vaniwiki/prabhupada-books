@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.31~~
-~~bc:Text 31~~
-
-{{description>Considering your specific duty as a kṣatriya, you should know that there is no better engagement for you than fighting on religious principles; and so there is no need for hesitation.}}
+---json
+{
+    "name":"Bg. 2.31",
+    "title":"Bhagavad-gītā As It Is 2.31",
+    "description":"Considering your specific duty as a kṣatriya, you should know that there is no better engagement for you than fighting on religious principles; and so there is no need for hesitation."
+}
+---
 
 ====== Bg. 2.31 ======
 

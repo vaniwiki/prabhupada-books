@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.8~~
-~~bc:Text 8~~
-
-{{description>I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who know this perfectly engage in My devotional service and worship Me with all their hearts.}}
+---json
+{
+    "name":"Bg. 10.8",
+    "title":"Bhagavad-gītā As It Is 10.8",
+    "description":"I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who know this perfectly engage in My devotional service and worship Me with all their hearts."
+}
+---
 
 ====== Bg. 10.8 ======
 

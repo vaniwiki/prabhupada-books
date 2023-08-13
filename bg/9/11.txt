@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.11~~
-~~bc:Text 11~~
-
-{{description>Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be.}}
+---json
+{
+    "name":"Bg. 9.11",
+    "title":"Bhagavad-gītā As It Is 9.11",
+    "description":"Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be."
+}
+---
 
 ====== Bg. 9.11 ======
 

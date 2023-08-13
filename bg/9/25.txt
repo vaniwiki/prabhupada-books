@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 9.25~~
-~~bc:Text 25~~
-
-{{description>Those who worship the demigods will take birth among the demigods; those who worship ghosts and spirits will take birth among such beings; those who worship ancestors go to the ancestors; and those who worship Me will live with Me.}}
+---json
+{
+    "name":"Bg. 9.25",
+    "title":"Bhagavad-gītā As It Is 9.25",
+    "description":"Those who worship the demigods will take birth among the demigods; those who worship ghosts and spirits will take birth among such beings; those who worship ancestors go to the ancestors; and those who worship Me will live with Me."
+}
+---
 
 ====== Bg. 9.25 ======
 

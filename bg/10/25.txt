@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.25~~
-~~bc:Text 25~~
-
-{{description>Of the great sages I am Bhṛgu; of vibrations I am the transcendental om. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himalayas.}}
+---json
+{
+    "name":"Bg. 10.25",
+    "title":"Bhagavad-gītā As It Is 10.25",
+    "description":"Of the great sages I am Bhṛgu; of vibrations I am the transcendental om. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himalayas."
+}
+---
 
 ====== Bg. 10.25 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 10.19~~
-~~bc:Text 19~~
-
-{{description>The Blessed Lord said: Yes, I will tell you of My splendorous manifestations, but only of those which are prominent, O Arjuna, for My opulence is limitless.}}
+---json
+{
+    "name":"Bg. 10.19",
+    "title":"Bhagavad-gītā As It Is 10.19",
+    "description":"The Blessed Lord said: Yes, I will tell you of My splendorous manifestations, but only of those which are prominent, O Arjuna, for My opulence is limitless."
+}
+---
 
 ====== Bg. 10.19 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 4.40~~
-~~bc:Text 40~~
-
-{{description>But ignorant and faithless persons who doubt the revealed scriptures do not attain God consciousness. For the doubting soul there is happiness neither in this world nor in the next.}}
+---json
+{
+    "name":"Bg. 4.40",
+    "title":"Bhagavad-gītā As It Is 4.40",
+    "description":"But ignorant and faithless persons who doubt the revealed scriptures do not attain God consciousness. For the doubting soul there is happiness neither in this world nor in the next."
+}
+---
 
 ====== Bg. 4.40 ======
 

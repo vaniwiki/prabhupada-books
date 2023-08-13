@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.33~~
-~~bc:Text 33~~
-
-{{description>O son of Pṛthā, that determination which is unbreakable, which is sustained with steadfastness by yoga practice, and thus controls the mind, life, and the acts of the senses, is in the mode of goodness.}}
+---json
+{
+    "name":"Bg. 18.33",
+    "title":"Bhagavad-gītā As It Is 18.33",
+    "description":"O son of Pṛthā, that determination which is unbreakable, which is sustained with steadfastness by yoga practice, and thus controls the mind, life, and the acts of the senses, is in the mode of goodness."
+}
+---
 
 ====== Bg. 18.33 ======
 

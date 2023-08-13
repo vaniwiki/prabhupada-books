@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 18.70~~
-~~bc:Text 70~~
-
-{{description>And I declare that he who studies this sacred conversation worships Me by his intelligence.}}
+---json
+{
+    "name":"Bg. 18.70",
+    "title":"Bhagavad-gītā As It Is 18.70",
+    "description":"And I declare that he who studies this sacred conversation worships Me by his intelligence."
+}
+---
 
 ====== Bg. 18.70 ======
 

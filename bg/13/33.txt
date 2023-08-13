@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 13.33~~
-~~bc:Text 33~~
-
-{{description>The sky, due to its subtle nature, does not mix with anything, although it is all-pervading. Similarly, the soul, situated in Brahman vision, does not mix with the body, though situated in that body.}}
+---json
+{
+    "name":"Bg. 13.33",
+    "title":"Bhagavad-gītā As It Is 13.33",
+    "description":"The sky, due to its subtle nature, does not mix with anything, although it is all-pervading. Similarly, the soul, situated in Brahman vision, does not mix with the body, though situated in that body."
+}
+---
 
 ====== Bg. 13.33 ======
 

@@ -1,7 +1,10 @@
-~~Title:Bhagavad-gītā As It Is 2.56~~
-~~bc:Text 56~~
-
-{{description>One who is not disturbed in spite of the threefold miseries, who is not elated when there is happiness, and who is free from attachment, fear and anger, is called a sage of steady mind.}}
+---json
+{
+    "name":"Bg. 2.56",
+    "title":"Bhagavad-gītā As It Is 2.56",
+    "description":"One who is not disturbed in spite of the threefold miseries, who is not elated when there is happiness, and who is free from attachment, fear and anger, is called a sage of steady mind."
+}
+---
 
 ====== Bg. 2.56 ======
 

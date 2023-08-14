@@ -1,8 +1,8 @@
 ---json
 {
     "name":"Chapter 6",
-    "title":"Bhagavad-gītā 6: Astanga-yoga, a mechanical meditative practice, controls the mind and the senses and focuses concentration on Paramatma (the Supersoul, the form of the Lord situated in the heart). This practice culminates in samadhi, full consciousness of the Supreme.",
-    "description":""
+    "title":"Bhagavad-gītā 6: Sāṅkhya-yoga",
+    "description":"Astanga-yoga, a mechanical meditative practice, controls the mind and the senses and focuses concentration on Paramatma (the Supersoul, the form of the Lord situated in the heart). This practice culminates in samadhi, full consciousness of the Supreme."
 }
 ---
 

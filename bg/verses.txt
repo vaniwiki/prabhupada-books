@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Verses",
-    "h1":"Bhagavad-gītā Verses",
+    "h1":"Verses",
     "title":"Bhagavad-gītā As It Is Verses",
     "description":"This index gives a listing of the ﬁrst and third lines of each four-line Sanskrit verse of the Bhagavad-gītā, and both lines of each two-line verse. The references are to chapter and text."
 }

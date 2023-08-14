@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"Bg. 2.1",
+    "name":"Text 1",
     "h1":"Bg. 2.1",
     "title":"Bhagavad-gītā As It Is 2.1",
     "description":"Sañjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words."
@@ -14,13 +14,13 @@
 > विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥१॥
 
 ===== Text =====
+{{audio:verses:verse_bg_02.01_721207bg-ahmedabad.mp3}}
 
 > sañjaya uvāca
 > taṁ tathā kṛpayāviṣṭam
 > aśru-pūrṇākulekṣaṇam
 > viṣīdantam idaṁ vākyam
 > uvāca madhusūdanaḥ
-> {{audio:verses:verse_bg_02.01_721207bg-ahmedabad.mp3}}
 
 ===== Synonyms =====
 

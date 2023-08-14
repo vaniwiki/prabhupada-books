@@ -8,36 +8,35 @@
 
 ====== Observing the Armies on the Battlefield of Kurukṣetra ======
 
-/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 1}}
 
-<card-columns>
+<carrousel>
 <card>
-{{ artwork:bhagavad-gita:plate01.jpg?500&nolink |}}
+{{ books:bg:plate01.jpg?500&nolink |}}
 Plate 1 — Dhṛtarāṣṭra inquires from Sañjaya about the events of the battle. [[books:bg:1:1|(Bg 1.1]])
 </card>
 <card>
-{{ artwork:bhagavad-gita:plate02.jpg?500&nolink |}}
+{{ books:bg:plate02.jpg?500&nolink |}}
 Plate 2 — “O my teacher, behold the great army of the sons of Pāṇḍu.” [[books:bg:1:3|(Bg 1.3)]]
 </card>
 <card>
-{{ artwork:bhagavad-gita:plate04.jpg?500&nolink |}}
+{{ books:bg:plate04.jpg?500&nolink |}}
 Plate 3 — Kṛṣṇa and Arjuna sounded their transcendental conchshells. [[books:bg:1:15|(Bg 1.15)]]
 </card>
 <card>
-{{ artwork:bhagavad-gita:plate03.jpg?500&nolink |}}
+{{ books:bg:plate03.jpg?500&nolink |}}
 Plate 4 — Kṛṣṇa and Arjuna in the midst of the two armies. [[books:bg:1:24|(Bg 1.24)]]
 </card>
 <card>
-{{ artwork:bhagavad-gita:plate05.jpg?500&nolink |}}
+{{ books:bg:plate05.jpg?500&nolink |}}
 Plate 5 — When Arjuna saw all different grades of friends and relatives, he became overwhelmed with compassion. [[books:bg:1:27|(Bg 1.27)]]
 </card>
 <card>
-{{ artwork:bhagavad-gita:plate06.jpg?500&nolink |}}
+{{ books:bg:plate06.jpg?500&nolink |}}
 Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
 </card>
-</card-columns>
-*/
+</carrousel>
+
 
   ; [[books:bg:1:1|Bg 1.1]]
   : Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?

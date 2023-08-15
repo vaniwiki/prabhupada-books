@@ -11,9 +11,7 @@
 
 <card line-spacing="lg">
 
-/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
-*/
 
   * [[books:bg:dedication|Dedication]]
   * [[books:bg:foreword|Foreword]]

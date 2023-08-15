@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 22-25",
-    "h1":"Bg. 14.22-25",
+    "name":"Bg 14.22-25",
+    "h1":"Text 22-25",
     "title":"Bhagavad-gītā As It Is 14.22-25",
     "description":"The Blessed Lord said: He who does not hate illumination, attachment and delusion when they are present, nor longs for them when they disappear; who is seated like one unconcerned, being situated beyond these material reactions of the modes of nature, who remains firm, knowing that the modes alone are active; who regards alike pleasure and pain, and looks on a clod, a stone and a piece of gold with an equal eye; who is wise and holds praise and blame to be the same; who is unchanged in honor and dishonor, who treats friend and foe alike, who has abandoned all fruitive undertakings—such a man is said to have transcended the modes of nature."
 }

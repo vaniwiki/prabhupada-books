@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8",
-    "h1":"Bg. 8.8",
+    "name":"Bg 8.8",
+    "h1":"Text 8",
     "title":"Bhagavad-gītā As It Is 8.8",
     "description":"He who meditates on the Supreme Personality of Godhead, his mind constantly engaged in remembering Me, undeviated from the path, he, O Pārtha [Arjuna], is sure to reach Me."
 }

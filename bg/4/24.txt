@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 24",
-    "h1":"Bg. 4.24",
+    "name":"Bg 4.24",
+    "h1":"Text 24",
     "title":"Bhagavad-gītā As It Is 4.24",
     "description":"A person who is fully absorbed in Kṛṣṇa consciousness is sure to attain the spiritual kingdom because of his full contribution to spiritual activities, in which the consummation is absolute and that which is offered is of the same spiritual nature."
 }

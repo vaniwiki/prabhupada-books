@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 40",
-    "h1":"Bg. 4.40",
+    "name":"Bg 4.40",
+    "h1":"Text 40",
     "title":"Bhagavad-gītā As It Is 4.40",
     "description":"But ignorant and faithless persons who doubt the revealed scriptures do not attain God consciousness. For the doubting soul there is happiness neither in this world nor in the next."
 }

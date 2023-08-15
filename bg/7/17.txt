@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 17",
-    "h1":"Bg. 7.17",
+    "name":"Bg 7.17",
+    "h1":"Text 17",
     "title":"Bhagavad-gītā As It Is 7.17",
     "description":"Of these, the wise one who is in full knowledge in union with Me through pure devotional service is the best. For I am very dear to him, and he is dear to Me."
 }

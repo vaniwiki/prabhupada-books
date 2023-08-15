@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 4",
-    "h1":"Bg. 3.4",
+    "name":"Bg 3.4",
+    "h1":"Text 4",
     "title":"Bhagavad-gītā As It Is 3.4",
     "description":"Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection."
 }

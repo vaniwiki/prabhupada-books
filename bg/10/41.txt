@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 41",
-    "h1":"Bg. 10.41",
+    "name":"Bg 10.41",
+    "h1":"Text 41",
     "title":"Bhagavad-gītā As It Is 10.41",
     "description":"Know that all beautiful, glorious, and mighty creations spring from but a spark of My splendor."
 }

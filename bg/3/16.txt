@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 16",
-    "h1":"Bg. 3.16",
+    "name":"Bg 3.16",
+    "h1":"Text 16",
     "title":"Bhagavad-gītā As It Is 3.16",
     "description":"My dear Arjuna, a man who does not follow this prescribed Vedic system of sacrifice certainly leads a life of sin, for a person delighting only in the senses lives in vain."
 }

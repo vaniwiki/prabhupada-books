@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 18",
-    "h1":"Bg. 2.18",
+    "name":"Bg 2.18",
+    "h1":"Text 18",
     "title":"Bhagavad-gītā As It Is 2.18",
     "description":"Only the material body of the indestructible, immeasurable and eternal living entity is subject to destruction; therefore, fight, O descendant of Bharata."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 60",
-    "h1":"Bg. 18.60",
+    "name":"Bg 18.60",
+    "h1":"Text 60",
     "title":"Bhagavad-gītā As It Is 18.60",
     "description":"Under illusion you are now declining to act according to My direction. But, compelled by your own nature, you will act all the same, O son of Kuntī."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 18",
-    "h1":"Bg. 10.18",
+    "name":"Bg 10.18",
+    "h1":"Text 18",
     "title":"Bhagavad-gītā As It Is 10.18",
     "description":"Tell me again in detail, O Janārdana [Kṛṣṇa], of Your mighty potencies and glories, for I never tire of hearing Your ambrosial words."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 14.10",
+    "name":"Bg 14.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 14.10",
     "description":"Sometimes the mode of passion becomes prominent, defeating the mode of goodness, O son of Bharata. And sometimes the mode of goodness defeats passion, and at other times the mode of ignorance defeats goodness and passion. In this way there is always competition for supremacy."
 }

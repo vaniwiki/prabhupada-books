@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8",
-    "h1":"Bg. 3.8",
+    "name":"Bg 3.8",
+    "h1":"Text 8",
     "title":"Bhagavad-gītā As It Is 3.8",
     "description":"Perform your prescribed duty, for action is better than inaction. A man cannot even maintain his physical body without work."
 }

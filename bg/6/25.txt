@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 25",
-    "h1":"Bg. 6.25",
+    "name":"Bg 6.25",
+    "h1":"Text 25",
     "title":"Bhagavad-gītā As It Is 6.25",
     "description":"Gradually, step by step, with full conviction, one should become situated in trance by means of intelligence, and thus the mind should be fixed on the Self alone and should think of nothing else."
 }

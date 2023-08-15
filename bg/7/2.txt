@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 2",
-    "h1":"Bg. 7.2",
+    "name":"Bg 7.2",
+    "h1":"Text 2",
     "title":"Bhagavad-gītā As It Is 7.2",
     "description":"I shall now declare unto you in full this knowledge both phenomenal and noumenal, by knowing which there shall remain nothing further to be known."
 }

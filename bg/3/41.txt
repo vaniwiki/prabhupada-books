@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 41",
-    "h1":"Bg. 3.41",
+    "name":"Bg 3.41",
+    "h1":"Text 41",
     "title":"Bhagavad-gītā As It Is 3.41",
     "description":"Therefore, O Arjuna, best of the Bhāratas, in the very beginning curb this great symbol of sin [lust] by regulating the senses, and slay this destroyer of knowledge and self-realization."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 27",
-    "h1":"Bg. 9.27",
+    "name":"Bg 9.27",
+    "h1":"Text 27",
     "title":"Bhagavad-gītā As It Is 9.27",
     "description":"O son of Kuntī, all that you do, all that you eat, all that you offer and give away, as well as all austerities that you may perform, should be done as an offering unto Me."
 }

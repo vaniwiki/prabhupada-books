@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 6",
-    "h1":"Bg. 9.6",
+    "name":"Bg 9.6",
+    "h1":"Text 6",
     "title":"Bhagavad-gītā As It Is 9.6",
     "description":"As the mighty wind, blowing everywhere, always rests in ethereal space know that in the same manner all beings rest in Me."
 }

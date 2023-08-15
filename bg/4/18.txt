@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 18",
-    "h1":"Bg. 4.18",
+    "name":"Bg 4.18",
+    "h1":"Text 18",
     "title":"Bhagavad-gītā As It Is 4.18",
     "description":"One who sees inaction in action, and action in inaction, is intelligent among men, and he is in the transcendental position, although engaged in all sorts of activities."
 }

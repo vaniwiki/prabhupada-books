@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 33",
-    "h1":"Bg. 10.33",
+    "name":"Bg 10.33",
+    "h1":"Text 33",
     "title":"Bhagavad-gītā As It Is 10.33",
     "description":"Of letters I am the letter A, and among compounds I am the dual word. I am also inexhaustable time, and of creators I am Brahmā, whose manifold faces turn everywhere."
 }

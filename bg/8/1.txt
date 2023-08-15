@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 1",
-    "h1":"Bg. 8.1",
+    "name":"Bg 8.1",
+    "h1":"Text 1",
     "title":"Bhagavad-gītā As It Is 8.1",
     "description":"Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me."
 }

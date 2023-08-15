@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 39",
-    "h1":"Bg. 18.39",
+    "name":"Bg 18.39",
+    "h1":"Text 39",
     "title":"Bhagavad-gītā As It Is 18.39",
     "description":"And that happiness which is blind to self-realization, which is delusion from beginning to end and which arises from sleep, laziness and illusion is said to be of the nature of ignorance."
 }

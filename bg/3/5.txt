@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5",
-    "h1":"Bg. 3.5",
+    "name":"Bg 3.5",
+    "h1":"Text 5",
     "title":"Bhagavad-gītā As It Is 3.5",
     "description":"All men are forced to act helplessly according to the impulses born of the modes of material nature; therefore no one can refrain from doing something, not even for a moment."
 }

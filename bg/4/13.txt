@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 13",
-    "h1":"Bg. 4.13",
+    "name":"Bg 4.13",
+    "h1":"Text 13",
     "title":"Bhagavad-gītā As It Is 4.13",
     "description":"According to the three modes of material nature and the work ascribed to them, the four divisions of human society were created by Me. And, although I am the creator of this system, you should know that I am yet the non-doer, being unchangeable."
 }

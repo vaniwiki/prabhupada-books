@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5-6",
-    "h1":"Bg. 17.5-6",
+    "name":"Bg 17.5-6",
+    "h1":"Text 5-6",
     "title":"Bhagavad-gītā As It Is 17.5-6",
     "description":"Those who undergo severe austerities and penances not recommended in the scriptures, performing them out of pride, egotism, lust and attachment, who are impelled by passion and who torture their bodily organs as well as the Supersoul dwelling within are to be known as demons."
 }

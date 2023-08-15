@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 62",
-    "h1":"Bg. 18.62",
+    "name":"Bg 18.62",
+    "h1":"Text 62",
     "title":"Bhagavad-gītā As It Is 18.62",
     "description":"O scion of Bharata, surrender unto Him utterly. By His grace you will attain transcendental peace and the supreme and eternal abode."
 }

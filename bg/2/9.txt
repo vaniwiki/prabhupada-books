@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 9",
-    "h1":"Bg. 2.9",
+    "name":"Bg 2.9",
+    "h1":"Text 9",
     "title":"Bhagavad-gītā As It Is 2.9",
     "description":"Sañjaya said: Having spoken thus, Arjuna, chastiser of enemies, told Kṛṣṇa, “Govinda, I shall not fight,” and fell silent."
 }
@@ -14,13 +14,13 @@
 > न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥९॥
 
 ===== Text =====
+{{audio:verses:verse_bg_02.09_751017bg-johannesburg.mp3}}
 
 > sañjaya uvāca
 > evam uktvā hṛṣīkeśaṁ
 > guḍākeśaḥ parantapaḥ
 > na yotsya iti govindam
 > uktvā tūṣṇīṁ babhūva ha
-> {{audio:verses:verse_bg_02.09_751017bg-johannesburg.mp3}}
 
 ===== Synonyms =====
 

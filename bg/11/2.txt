@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 2",
-    "h1":"Bg. 11.2",
+    "name":"Bg 11.2",
+    "h1":"Text 2",
     "title":"Bhagavad-gītā As It Is 11.2",
     "description":"O lotus-eyed one, I have heard from You in detail about the appearance and disappearance of every living entity, as realized through Your inexhaustible glories."
 }

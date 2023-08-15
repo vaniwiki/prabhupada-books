@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8",
-    "h1":"Bg. 18.8",
+    "name":"Bg 18.8",
+    "h1":"Text 8",
     "title":"Bhagavad-gītā As It Is 18.8",
     "description":"Anyone who gives up prescribed duties as troublesome, or out of fear, is said to be in the mode of passion. Such action never leads to the elevation of renunciation."
 }

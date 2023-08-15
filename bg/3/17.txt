@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 17",
-    "h1":"Bg. 3.17",
+    "name":"Bg 3.17",
+    "h1":"Text 17",
     "title":"Bhagavad-gītā As It Is 3.17",
     "description":"One who is, however, taking pleasure in the self, who is illumined in the self, who rejoices in and is satisfied with the self only, fully satiated—for him there is no duty."
 }

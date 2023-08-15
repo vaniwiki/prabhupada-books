@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 34",
-    "h1":"Bg. 18.34",
+    "name":"Bg 18.34",
+    "h1":"Text 34",
     "title":"Bhagavad-gītā As It Is 18.34",
     "description":"And that determination by which one holds fast to fruitive result in religion, economic development and sense gratification is of the nature of passion, O Arjuna."
 }

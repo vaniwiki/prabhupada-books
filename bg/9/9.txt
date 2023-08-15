@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 9",
-    "h1":"Bg. 9.9",
+    "name":"Bg 9.9",
+    "h1":"Text 9",
     "title":"Bhagavad-gītā As It Is 9.9",
     "description":"O Dhanañjaya, all this work cannot bind Me. I am ever detached, seated as though neutral."
 }

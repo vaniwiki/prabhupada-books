@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 37",
-    "h1":"Bg. 2.37",
+    "name":"Bg 2.37",
+    "h1":"Text 37",
     "title":"Bhagavad-gītā As It Is 2.37",
     "description":"O son of Kuntī, either you will be killed on the battlefield and attain the heavenly planets, or you will conquer and enjoy the earthly kingdom. Therefore get up and fight with determination."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 15",
-    "h1":"Bg. 11.15",
+    "name":"Bg 11.15",
+    "h1":"Text 15",
     "title":"Bhagavad-gītā As It Is 11.15",
     "description":"Arjuna said: My dear Lord Kṛṣṇa, I see assembled together in Your body all the demigods and various other living entities. I see Brahmā sitting on the lotus flower as well as Lord Śiva and many sages and divine serpents."
 }

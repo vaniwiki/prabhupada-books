@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 3.12",
+    "name":"Bg 3.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 3.12",
     "description":"In charge of the various necessities of life, the demigods, being satisfied by the performance of yajña [sacrifice], supply all necessities to man. But he who enjoys these gifts, without offering them to the demigods in return, is certainly a thief."
 }

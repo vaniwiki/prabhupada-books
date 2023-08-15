@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 19",
-    "h1":"Bg. 15.19",
+    "name":"Bg 15.19",
+    "h1":"Text 19",
     "title":"Bhagavad-gītā As It Is 15.19",
     "description":"Whoever knows Me as the Supreme Personality of Godhead, without doubting, is to be understood as the knower of everything, and he therefore engages himself in full devotional service, O son of Bharata."
 }

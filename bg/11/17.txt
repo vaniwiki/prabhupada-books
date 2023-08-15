@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 17",
-    "h1":"Bg. 11.17",
+    "name":"Bg 11.17",
+    "h1":"Text 17",
     "title":"Bhagavad-gītā As It Is 11.17",
     "description":"Your form, adorned with various crowns, clubs and discs, is difficult to see because of its glaring effulgence, which is fiery and immeasurable like the sun."
 }

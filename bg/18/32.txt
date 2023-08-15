@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 32",
-    "h1":"Bg. 18.32",
+    "name":"Bg 18.32",
+    "h1":"Text 32",
     "title":"Bhagavad-gītā As It Is 18.32",
     "description":"That understanding which considers irreligion to be religion and religion to be irreligion, under the spell of illusion and darkness, and strives always in the wrong direction, O Pārtha, is in the mode of ignorance."
 }

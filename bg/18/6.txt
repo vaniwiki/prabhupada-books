@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 6",
-    "h1":"Bg. 18.6",
+    "name":"Bg 18.6",
+    "h1":"Text 6",
     "title":"Bhagavad-gītā As It Is 18.6",
     "description":"All these activities should be performed without any expectation of result. They should be performed as a matter of duty, O son of Pṛthā. That is My final opinion."
 }

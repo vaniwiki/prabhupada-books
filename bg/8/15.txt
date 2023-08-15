@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 15",
-    "h1":"Bg. 8.15",
+    "name":"Bg 8.15",
+    "h1":"Text 15",
     "title":"Bhagavad-gītā As It Is 8.15",
     "description":"After attaining Me, the great souls, who are yogīs in devotion, never return to this temporary world, which is full of miseries, because they have attained the highest perfection."
 }

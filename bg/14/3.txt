@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 3",
-    "h1":"Bg. 14.3",
+    "name":"Bg 14.3",
+    "h1":"Text 3",
     "title":"Bhagavad-gītā As It Is 14.3",
     "description":"The total material substance, called Brahman, is the source of birth, and it is that Brahman that I impregnate, making possible the births of all living beings, O son of Bharata."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 48",
-    "h1":"Bg. 11.48",
+    "name":"Bg 11.48",
+    "h1":"Text 48",
     "title":"Bhagavad-gītā As It Is 11.48",
     "description":"O best of the Kuru warriors, no one before you has ever seen this universal form of Mine, for neither by studying the Vedas, nor by performing sacrifices, nor by charities or similar activities can this form be seen. Only you have seen this."
 }

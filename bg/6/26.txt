@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 6.26",
+    "name":"Bg 6.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 6.26",
     "description":"From whatever and wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self."
 }

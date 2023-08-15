@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 13.26",
+    "name":"Bg 13.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 13.26",
     "description":"Again there are those who, although not conversant in spiritual knowledge, begin to worship the Supreme Person upon hearing about Him from others. Because of their tendency to hear from authorities, they also transcend the path of birth and death."
 }

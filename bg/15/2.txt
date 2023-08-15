@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 2",
-    "h1":"Bg. 15.2",
+    "name":"Bg 15.2",
+    "h1":"Text 2",
     "title":"Bhagavad-gītā As It Is 15.2",
     "description":"The branches of this tree extend downward and upward, nourished by the three modes of material nature. The twigs are the objects of the senses. This tree also has roots going down, and these are bound to the fruitive actions of human society."
 }

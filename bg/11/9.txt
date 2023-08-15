@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 9",
-    "h1":"Bg. 11.9",
+    "name":"Bg 11.9",
+    "h1":"Text 9",
     "title":"Bhagavad-gītā As It Is 11.9",
     "description":"Sañjaya said: O King, speaking thus, the Supreme, the Lord of all mystic power, the Personality of Godhead, displayed His universal form to Arjuna."
 }

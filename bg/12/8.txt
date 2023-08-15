@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8",
-    "h1":"Bg. 12.8",
+    "name":"Bg 12.8",
+    "h1":"Text 8",
     "title":"Bhagavad-gītā As It Is 12.8",
     "description":"Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt."
 }

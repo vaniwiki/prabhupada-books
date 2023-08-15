@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 30",
-    "h1":"Bg. 7.30",
+    "name":"Bg 7.30",
+    "h1":"Text 30",
     "title":"Bhagavad-gītā As It Is 7.30",
     "description":"Those who know Me as the Supreme Lord, as the governing principle of the material manifestation, who know Me as the one underlying all the demigods and as the one sustaining all sacrifices, can, with steadfast mind, understand and know Me even at the time of death."
 }

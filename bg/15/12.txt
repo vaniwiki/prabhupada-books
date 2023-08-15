@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 15.12",
+    "name":"Bg 15.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 15.12",
     "description":"The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me."
 }

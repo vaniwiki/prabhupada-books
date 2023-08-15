@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 19",
-    "h1":"Bg. 5.19",
+    "name":"Bg 5.19",
+    "h1":"Text 19",
     "title":"Bhagavad-gītā As It Is 5.19",
     "description":"Those whose minds are established in sameness and equanimity have already conquered the conditions of birth and death. They are flawless like Brahman, and thus they are already situated in Brahman."
 }

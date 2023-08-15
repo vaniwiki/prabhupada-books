@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5",
-    "h1":"Bg. 15.5",
+    "name":"Bg 15.5",
+    "h1":"Text 5",
     "title":"Bhagavad-gītā As It Is 15.5",
     "description":"One who is free from illusion, false prestige, and false association, who understands the eternal, who is done with material lust and is freed from the duality of happiness and distress, and who knows how to surrender unto the Supreme Person, attains to that eternal kingdom."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 8.10",
+    "name":"Bg 8.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 8.10",
     "description":"One who, at the time of death, fixes his life air between the eyebrows and in full devotion engages himself in remembering the Supreme Lord, will certainly attain to the Supreme Personality of Godhead."
 }

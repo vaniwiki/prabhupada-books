@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 32",
-    "h1":"Bg. 13.32",
+    "name":"Bg 13.32",
+    "h1":"Text 32",
     "title":"Bhagavad-gītā As It Is 13.32",
     "description":"Those with the vision of eternity can see that the soul is transcendental, eternal, and beyond the modes of nature. Despite contact with the material body, O Arjuna, the soul neither does anything nor is entangled."
 }

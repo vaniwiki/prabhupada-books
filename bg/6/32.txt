@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 32",
-    "h1":"Bg. 6.32",
+    "name":"Bg 6.32",
+    "h1":"Text 32",
     "title":"Bhagavad-gītā As It Is 6.32",
     "description":"He is a perfect yogī who, by comparison to his own self, sees the true equality of all beings, both in their happiness and distress, O Arjuna!"
 }

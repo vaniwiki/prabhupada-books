@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 73",
-    "h1":"Bg. 18.73",
+    "name":"Bg 18.73",
+    "h1":"Text 73",
     "title":"Bhagavad-gītā As It Is 18.73",
     "description":"Arjuna said, My dear Kṛṣṇa, O infallible one, my illusion is now gone. I have regained my memory by Your mercy, and I am now firm and free from doubt and am prepared to act according to Your instructions."
 }

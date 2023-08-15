@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 1",
-    "h1":"Bg. 9.1",
+    "name":"Bg 9.1",
+    "h1":"Text 1",
     "title":"Bhagavad-gītā As It Is 9.1",
     "description":"The Supreme Lord said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most secret wisdom, knowing which you shall be relieved of the miseries of material existence."
 }

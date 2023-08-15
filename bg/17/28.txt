@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 28",
-    "h1":"Bg. 17.28",
+    "name":"Bg 17.28",
+    "h1":"Text 28",
     "title":"Bhagavad-gītā As It Is 17.28",
     "description":"But sacrifices, austerities and charities performed without faith in the Supreme are nonpermanent, O son of Pṛthā, regardless of whatever rites are performed. They are called asat and are useless both in this life and the next."
 }

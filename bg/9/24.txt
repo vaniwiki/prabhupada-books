@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 24",
-    "h1":"Bg. 9.24",
+    "name":"Bg 9.24",
+    "h1":"Text 24",
     "title":"Bhagavad-gītā As It Is 9.24",
     "description":"I am the only enjoyer and the only object of sacrifice. Those who do not recognize My true transcendental nature fall down."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 4.10",
+    "name":"Bg 4.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 4.10",
     "description":"Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me—and thus they all attained transcendental love for Me."
 }

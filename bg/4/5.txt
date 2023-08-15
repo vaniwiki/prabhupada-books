@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5",
-    "h1":"Bg. 4.5",
+    "name":"Bg 4.5",
+    "h1":"Text 5",
     "title":"Bhagavad-gītā As It Is 4.5",
     "description":"The Blessed Lord said: Many, many births both you and I have passed. I can remember all of them, but you cannot, O subduer of the enemy!"
 }

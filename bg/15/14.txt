@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 14",
-    "h1":"Bg. 15.14",
+    "name":"Bg 15.14",
+    "h1":"Text 14",
     "title":"Bhagavad-gītā As It Is 15.14",
     "description":"I am the fire of digestion in every living body, and I am the air of life, outgoing and incoming, by which I digest the four kinds of foodstuff."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 20",
-    "h1":"Bg. 17.20",
+    "name":"Bg 17.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 17.20",
     "description":"That gift which is given out of duty, at the proper time and place, to a worthy person, and without expectation of return, is considered to be charity in the mode of goodness."
 }

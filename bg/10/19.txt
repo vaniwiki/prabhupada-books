@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 19",
-    "h1":"Bg. 10.19",
+    "name":"Bg 10.19",
+    "h1":"Text 19",
     "title":"Bhagavad-gītā As It Is 10.19",
     "description":"The Blessed Lord said: Yes, I will tell you of My splendorous manifestations, but only of those which are prominent, O Arjuna, for My opulence is limitless."
 }

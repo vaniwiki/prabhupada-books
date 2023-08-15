@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Text 1",
-    "h1":"Bg. 1.1",
+    
+    "name":"Bg 1.1",
+    "h1":"Text 1",
     "title":"Bhagavad-gītā As It Is 1.1",
     "description":"Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?"
 }
@@ -14,13 +15,13 @@
 > मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥
 
 ===== Text =====
+{{:books:bg:1:verse_bg1_1_721206bg.ahm.mp3|Srila Prabhupada reciting the verse during a Bhagavad-gita lecture in Ahmedabad 6th of December, 1972.}}
 
 > dhṛtarāṣṭra uvāca
 > dharma-kṣetre kuru-kṣetre
 > samavetā yuyutsavaḥ
 > māmakāḥ pāṇḍavāś caiva
 > kim akurvata sañjaya
-> {{:books:bg:1:verse_bg1_1_721206bg.ahm.mp3|Srila Prabhupada reciting the verse during a Bhagavad-gita lecture in Ahmedabad 6th of December, 1972.}}
 
 ===== Synonyms =====
 

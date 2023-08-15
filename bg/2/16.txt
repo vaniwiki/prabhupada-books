@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 16",
-    "h1":"Bg. 2.16",
+    "name":"Bg 2.16",
+    "h1":"Text 16",
     "title":"Bhagavad-gītā As It Is 2.16",
     "description":"Those who are seers of the truth have concluded that of the nonexistent there is no endurance, and of the existent there is no cessation. This seers have concluded by studying the nature of both."
 }

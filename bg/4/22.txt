@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 22",
-    "h1":"Bg. 4.22",
+    "name":"Bg 4.22",
+    "h1":"Text 22",
     "title":"Bhagavad-gītā As It Is 4.22",
     "description":"He who is satisfied with gain which comes of its own accord, who is free from duality and does not envy, who is steady both in success and failure, is never entangled, although performing actions."
 }

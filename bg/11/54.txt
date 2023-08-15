@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 54",
-    "h1":"Bg. 11.54",
+    "name":"Bg 11.54",
+    "h1":"Text 54",
     "title":"Bhagavad-gītā As It Is 11.54",
     "description":"My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding."
 }

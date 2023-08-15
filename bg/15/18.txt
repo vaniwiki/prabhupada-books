@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 18",
-    "h1":"Bg. 15.18",
+    "name":"Bg 15.18",
+    "h1":"Text 18",
     "title":"Bhagavad-gītā As It Is 15.18",
     "description":"Because I am transcendental, beyond both the fallible and the infallible, and because I am the greatest, I am celebrated both in the world and in the Vedas as that Supreme Person."
 }

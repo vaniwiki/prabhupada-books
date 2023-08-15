@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 50",
-    "h1":"Bg. 2.50",
+    "name":"Bg 2.50",
+    "h1":"Text 50",
     "title":"Bhagavad-gītā As It Is 2.50",
     "description":"A man engaged in devotional service rids himself of both good and bad actions even in this life. Therefore strive for yoga, O Arjuna, which is the art of all work."
 }

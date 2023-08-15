@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 34",
-    "h1":"Bg. 3.34",
+    "name":"Bg 3.34",
+    "h1":"Text 34",
     "title":"Bhagavad-gītā As It Is 3.34",
     "description":"Attraction and repulsion for sense objects are felt by embodied beings, but one should not fall under the control of senses and sense objects because they are stumbling blocks on the path of self-realization."
 }

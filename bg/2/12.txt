@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 2.12",
+    "name":"Bg 2.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 2.12",
     "description":"Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be."
 }

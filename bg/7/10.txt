@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 7.10",
+    "name":"Bg 7.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 7.10",
     "description":"O son of Pṛthā, know that I am the original seed of all existences, the intelligence of the intelligent, and the prowess of all powerful men."
 }

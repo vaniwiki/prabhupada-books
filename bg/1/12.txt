@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Bg 1.12",
-    "h1":"Bg. 1.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 1.12",
     "description":"Then Bhīṣma, the great valiant grandsire of the Kuru dynasty, the grandfather of the fighters, blew his conchshell very loudly like the sound of a lion, giving Duryodhana joy."
 }

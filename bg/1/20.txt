@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Bg 1.20",
-    "h1":"Bg. 1.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 1.20",
     "description":"O King, at that time Arjuna, the son of Pāṇḍu, who was seated in his chariot, his flag marked with Hanumān, took up his bow and prepared to shoot his arrows, looking at the sons of Dhṛtarāṣṭra. O King, Arjuna then spoke to Hṛṣīkeśa [Kṛṣṇa] these words:"
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Bhagavad-gītā 3",
-    "h1":"Chapter 3",
+    "name":"Chapter 3",
+    "h1":"Karma-yoga",
     "title":"Bhagavad-gītā 3: Karma-yoga",
     "description":"Everyone must engage in some sort of activity in this material world. But actions can either bind one to this world or liberate one from it. By acting for the pleasure of the Supreme, without selfish motives, one can be liberated from the law of karma (action and reaction) and attain transcendental knowledge of the self and the Supreme."
 }

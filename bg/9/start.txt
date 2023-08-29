@@ -13,7 +13,7 @@
 
 <card-columns>
 <card>
-{{ :books:bg:plate28.jpg?500 |}}
+{{ :books:bg:plate28.jpg?500x500 |}}
 Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:9:11|(Bg. 9.11)]]
 </card>
 </card-columns>

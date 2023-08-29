@@ -13,7 +13,7 @@
 
 <card-columns>
 <card>
-{{ :books:bg:plate27.jpg?500 |}}
+{{ :books:bg:plate27.jpg?500x500 |}}
 Plate 27 --- “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]
 </card>
 </card-columns>

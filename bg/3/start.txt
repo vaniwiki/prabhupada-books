@@ -11,7 +11,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
 
-</card-columns>
+<card-columns>
 <card>
 {{ books:bg:plate12.jpg?500&nolink |}}
 Plate 12 --- “Be thou happy by this sacrifice because its performance will bestow upon you all desirable things.” [[books:bg:3:10|(Bg. 3.10)]]
@@ -25,6 +25,7 @@ Plate 13 --- The Demigods, being satisfied by the performance of sacrifice, supp
 Plate 14 --- The living entity is covered by different degrees of lust. [[books:bg:3:38|(Bg. 3.38)]]
 </card>
 </card-columns>
+
 
   ; [[books:bg:3:1|Bg 3.1]]
   : Arjuna said: O Janārdana, O Keśava, why do You urge me to engage in this ghastly warfare, if You think that intelligence is better than fruitive work?

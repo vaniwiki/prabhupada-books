@@ -13,7 +13,7 @@
 
 <card-columns>
 <card>
-{{ :books:bg:plate34.jpg?500&direct |}}
+{{ :books:bg:plate34.jpg?500x500 |}}
 Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
 </card>
 </card-columns>

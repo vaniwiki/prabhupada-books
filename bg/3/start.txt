@@ -13,15 +13,15 @@
 
 <card-columns>
 <card>
-{{ books:bg:plate12.jpg?500&nolink |}}
+{{ books:bg:plate12.jpg?500x500 |}}
 Plate 12 --- “Be thou happy by this sacrifice because its performance will bestow upon you all desirable things.” [[books:bg:3:10|(Bg. 3.10)]]
 </card>
 <card>
-{{ books:bg:plate13.jpg?500&nolink |}}
+{{ books:bg:plate13.jpg?500x500 |}}
 Plate 13 --- The Demigods, being satisfied by the performance of sacrifice, supply all needs to man. [[books:bg:3:13|(Bg. 3.12)]]
 </card>
 <card>
-{{ books:bg:plate14.jpg?500&nolink |}}
+{{ books:bg:plate14.jpg?500x500 |}}
 Plate 14 --- The living entity is covered by different degrees of lust. [[books:bg:3:38|(Bg. 3.38)]]
 </card>
 </card-columns>

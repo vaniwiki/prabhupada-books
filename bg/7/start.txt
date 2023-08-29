@@ -13,11 +13,11 @@
 
 <card-columns>
 <card>
-{{ :books:bg:plate25.jpg?500&nolink |}}
+{{ :books:bg:plate25.jpg?500 |}}
 Plate 25 --- Kṛṣṇa’s material and spiritual energies. [[books:bg:7:4|(Bg. 7.4)]]
 </card>
 <card>
-{{ :books:bg:plate26.jpg?500&nolink |}}
+{{ :books:bg:plate26.jpg?500 |}}
 Plate 26 --- Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. [[books:bg:7:15|(Bg. 7.15)]]
 </card>
 </card-columns>

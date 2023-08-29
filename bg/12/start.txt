@@ -13,7 +13,7 @@
 
 <card-columns>
 <card>
-{{ :books:bg:plate33.jpg?500&nolink |}}
+{{ :books:bg:plate33.jpg?500x500 |}}
 Plate 33 --- Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
 </card>
 </card-columns>

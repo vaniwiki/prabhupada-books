@@ -13,27 +13,27 @@
 
 <card-columns>
 <card>
-{{ books:bg:plate01.jpg?500 |}}
+{{ books:bg:plate01.jpg?500x500 |}}
 Plate 1 — Dhṛtarāṣṭra inquires from Sañjaya about the events of the battle. [[books:bg:1:1|(Bg 1.1]])
 </card>
 <card>
-{{ books:bg:plate02.jpg?500 |}}
+{{ books:bg:plate02.jpg?500x500 |}}
 Plate 2 — “O my teacher, behold the great army of the sons of Pāṇḍu.” [[books:bg:1:3|(Bg 1.3)]]
 </card>
 <card>
-{{ books:bg:plate04.jpg?500 |}}
+{{ books:bg:plate04.jpg?500x500 |}}
 Plate 3 — Kṛṣṇa and Arjuna sounded their transcendental conchshells. [[books:bg:1:15|(Bg 1.15)]]
 </card>
 <card>
-{{ books:bg:plate03.jpg?500 |}}
+{{ books:bg:plate03.jpg?500x500 |}}
 Plate 4 — Kṛṣṇa and Arjuna in the midst of the two armies. [[books:bg:1:24|(Bg 1.24)]]
 </card>
 <card>
-{{ books:bg:plate05.jpg?500 |}}
+{{ books:bg:plate05.jpg?500x500 |}}
 Plate 5 — When Arjuna saw all different grades of friends and relatives, he became overwhelmed with compassion. [[books:bg:1:27|(Bg 1.27)]]
 </card>
 <card>
-{{ books:bg:plate06.jpg?500 |}}
+{{ books:bg:plate06.jpg?500x500 |}}
 Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
 </card>
 </card-columns>

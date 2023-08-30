@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 55",
-    "h1":"Bg. 18.55",
+    "name":"Bg. 18.55",
+    "h1":"Text 55",
     "title":"Bhagavad-gītā As It Is 18.55",
     "description":"One can understand the Supreme Personality as He is only by devotional service. And when one is in full consciousness of the Supreme Lord by such devotion, he can enter into the kingdom of God."
 }

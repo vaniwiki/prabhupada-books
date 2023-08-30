@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 29",
-    "h1":"Bg. 9.29",
+    "name":"Bg. 9.29",
+    "h1":"Text 29",
     "title":"Bhagavad-gītā As It Is 9.29",
     "description":"I envy no one, nor am I partial to anyone. I am equal to all. But whoever renders service unto Me in devotion is a friend, is in Me, and I am also a friend to him."
 }

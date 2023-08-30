@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 28",
-    "h1":"Bg. 8.28",
+    "name":"Bg. 8.28",
+    "h1":"Text 28",
     "title":"Bhagavad-gītā As It Is 8.28",
     "description":"A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing austere sacrifices, giving charity or pursuing philosophical and fruitive activities. At the end he reaches the supreme abode."
 }

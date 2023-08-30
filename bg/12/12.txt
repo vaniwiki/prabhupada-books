@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 12.12",
+    "name":"Bg. 12.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 12.12",
     "description":"If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind."
 }

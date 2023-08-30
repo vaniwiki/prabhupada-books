@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 6",
-    "h1":"Bg. 1.6",
+    "name":"Bg. 1.6",
+    "h1":"Text 6",
     "title":"Bhagavad-gītā As It Is 1.6",
     "description":"There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters."
 }

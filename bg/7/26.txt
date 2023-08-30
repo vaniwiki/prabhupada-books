@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 7.26",
+    "name":"Bg. 7.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 7.26",
     "description":"O Arjuna, as the Supreme Personality of Godhead, I know everything that has happened in the past, all that is happening in the present, and all things that are yet to come. I also know all living entities; but Me no one knows."
 }

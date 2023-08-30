@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 25",
-    "h1":"Bg. 3.25",
+    "name":"Bg. 3.25",
+    "h1":"Text 25",
     "title":"Bhagavad-gītā As It Is 3.25",
     "description":"As the ignorant perform their duties with attachment to results, similarly the learned may also act, but without attachment, for the sake of leading people on the right path."
 }

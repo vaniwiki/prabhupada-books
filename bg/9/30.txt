@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 30",
-    "h1":"Bg. 9.30",
+    "name":"Bg. 9.30",
+    "h1":"Text 30",
     "title":"Bhagavad-gītā As It Is 9.30",
     "description":"Even if one commits the most abominable actions, if he is engaged in devotional service, he is to be considered saintly because he is properly situated."
 }

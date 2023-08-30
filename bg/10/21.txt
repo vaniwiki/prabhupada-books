@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 21",
-    "h1":"Bg. 10.21",
+    "name":"Bg. 10.21",
+    "h1":"Text 21",
     "title":"Bhagavad-gītā As It Is 10.21",
     "description":"Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, I am Marīci of the Maruts, and among the stars I am the moon."
 }

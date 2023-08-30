@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 20",
-    "h1":"Bg. 2.20",
+    "name":"Bg. 2.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 2.20",
     "description":"For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primeval. He is not slain when the body is slain."
 }

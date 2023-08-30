@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 16",
-    "h1":"Bg. 8.16",
+    "name":"Bg. 8.16",
+    "h1":"Text 16",
     "title":"Bhagavad-gītā As It Is 8.16",
     "description":"From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kuntī, never takes birth again."
 }

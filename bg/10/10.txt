@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 10.10",
+    "name":"Bg. 10.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 10.10",
     "description":"To those who are constantly devoted and worship Me with love, I give the understanding by which they can come to Me."
 }

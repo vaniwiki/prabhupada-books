@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5",
-    "h1":"Bg. 16.5",
+    "name":"Bg. 16.5",
+    "h1":"Text 5",
     "title":"Bhagavad-gītā As It Is 16.5",
     "description":"The transcendental qualities are conducive to liberation, whereas the demonic qualities make for bondage. Do not worry, O son of Pāṇḍu, for you are born with the divine qualities."
 }

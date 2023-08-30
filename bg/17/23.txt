@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 23",
-    "h1":"Bg. 17.23",
+    "name":"Bg. 17.23",
+    "h1":"Text 23",
     "title":"Bhagavad-gītā As It Is 17.23",
     "description":"From the beginning of creation, the three syllables—om tat sat—have been used to indicate the Supreme Absolute Truth [Brahman]. They were uttered by brāhmaṇas while chanting Vedic hymns and during sacrifices, for the satisfaction of the Supreme."
 }

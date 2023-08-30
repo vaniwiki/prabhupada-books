@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 15",
-    "h1":"Bg. 3.15",
+    "name":"Bg. 3.15",
+    "h1":"Text 15",
     "title":"Bhagavad-gītā As It Is 3.15",
     "description":"Regulated activities are prescribed in the Vedas, and the Vedas are directly manifested from the Supreme Personality of Godhead. Consequently the all-pervading Transcendence is eternally situated in acts of sacrifice."
 }

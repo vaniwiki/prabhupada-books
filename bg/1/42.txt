@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 42",
-    "h1":"Bg. 1.42",
+    "name":"Bg. 1.42",
+    "h1":"Text 42",
     "title":"Bhagavad-gītā As It Is 1.42",
     "description":"Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated."
 }

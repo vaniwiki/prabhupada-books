@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 4",
-    "h1":"Bg. 5.4",
+    "name":"Bg. 5.4",
+    "h1":"Text 4",
     "title":"Bhagavad-gītā As It Is 5.4",
     "description":"Only the ignorant speak of karma-yoga and devotional service as being different from the analytical study of the material world [sāṅkhya]. Those who are actually learned say that he who applies himself well to one of these paths achieves the results of both."
 }

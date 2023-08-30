@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 34",
-    "h1":"Bg. 9.34",
+    "name":"Bg. 9.34",
+    "h1":"Text 34",
     "title":"Bhagavad-gītā As It Is 9.34",
     "description":"Engage your mind always in thinking of Me, offer obeisances and worship Me. Being completely absorbed in Me, surely you will come to Me."
 }

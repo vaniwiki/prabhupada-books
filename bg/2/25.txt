@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 25",
-    "h1":"Bg. 2.25",
+    "name":"Bg. 2.25",
+    "h1":"Text 25",
     "title":"Bhagavad-gītā As It Is 2.25",
     "description":"It is said that the soul is invisible, inconceivable, immutable, and unchangeable. Knowing this, you should not grieve for the body."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 1",
-    "h1":"Bg. 15.1",
+    "name":"Bg. 15.1",
+    "h1":"Text 1",
     "title":"Bhagavad-gītā As It Is 15.1",
     "description":"The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas."
 }

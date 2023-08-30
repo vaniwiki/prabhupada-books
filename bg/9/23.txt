@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 23",
-    "h1":"Bg. 9.23",
+    "name":"Bg. 9.23",
+    "h1":"Text 23",
     "title":"Bhagavad-gītā As It Is 9.23",
     "description":"Whatever a man may sacrifice to other gods, O son of Kuntī, is really meant for Me alone, but it is offered without true understanding."
 }

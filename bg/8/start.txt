@@ -1,12 +1,23 @@
 ---json
 {
     "name":"Chapter 8",
+    "h1":"Attaining the Supreme",
     "title":"Bhagavad-gītā 8: Attaining the Supreme",
     "description":"By remembering Lord Krishna in devotion throughout one’s life, and especially at the time of death, one can attain to His supreme abode, beyond the material world."
 }
 ---
 
 ====== Attaining the Supreme ======
+
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_08_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 8}}
+
+<card-columns>
+<card>
+{{ :books:bg:plate27.jpg?500x500 |}}
+Plate 27 --- “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]
+</card>
+</card-columns>
+
 
   ; [[books:bg:8:1|Bg 8.1]]
   : Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 19",
-    "h1":"Bg. 18.19",
+    "name":"Bg. 18.19",
+    "h1":"Text 19",
     "title":"Bhagavad-gītā As It Is 18.19",
     "description":"In accordance with the three modes of material nature, there are three kinds of knowledge, action, and performers of action. Listen as I describe them."
 }

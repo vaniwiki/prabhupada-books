@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 13",
-    "h1":"Bg. 17.13",
+    "name":"Bg. 17.13",
+    "h1":"Text 13",
     "title":"Bhagavad-gītā As It Is 17.13",
     "description":"And that sacrifice performed in defiance of scriptural injunctions, in which no spiritual food is distributed, no hymns are chanted and no remunerations are made to the priests, and which is faithless—that sacrifice is of the nature of ignorance."
 }

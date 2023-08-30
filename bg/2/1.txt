@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 1",
-    "h1":"Bg. 2.1",
+    "name":"Bg. 2.1",
+    "h1":"Text 1",
     "title":"Bhagavad-gītā As It Is 2.1",
     "description":"Sañjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words."
 }

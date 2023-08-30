@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 28",
-    "h1":"Bg. 3.28",
+    "name":"Bg. 3.28",
+    "h1":"Text 28",
     "title":"Bhagavad-gītā As It Is 3.28",
     "description":"One who is in knowledge of the Absolute Truth, O mighty-armed, does not engage himself in the senses and sense gratification, knowing well the differences between work in devotion and work for fruitive results."
 }

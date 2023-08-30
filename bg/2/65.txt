@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 65",
-    "h1":"Bg. 2.65",
+    "name":"Bg. 2.65",
+    "h1":"Text 65",
     "title":"Bhagavad-gītā As It Is 2.65",
     "description":"For one who is so situated in the Divine consciousness, the threefold miseries of material existence exist no longer; in such a happy state, one's intelligence soon becomes steady."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 3",
-    "h1":"Bg. 4.3",
+    "name":"Bg. 4.3",
+    "h1":"Text 3",
     "title":"Bhagavad-gītā As It Is 4.3",
     "description":"That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend; therefore you can understand the transcendental mystery of this science."
 }

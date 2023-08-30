@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8",
-    "h1":"Bg. 10.8",
+    "name":"Bg. 10.8",
+    "h1":"Text 8",
     "title":"Bhagavad-gītā As It Is 10.8",
     "description":"I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who know this perfectly engage in My devotional service and worship Me with all their hearts."
 }

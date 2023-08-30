@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 18",
-    "h1":"Bg. 17.18",
+    "name":"Bg. 17.18",
+    "h1":"Text 18",
     "title":"Bhagavad-gītā As It Is 17.18",
     "description":"Those ostentatious penances and austerities which are performed in order to gain respect, honor and reverence are said to be in the mode of passion. They are neither stable nor permanent."
 }

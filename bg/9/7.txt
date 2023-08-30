@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 7",
-    "h1":"Bg. 9.7",
+    "name":"Bg. 9.7",
+    "h1":"Text 7",
     "title":"Bhagavad-gītā As It Is 9.7",
     "description":"O son of Kuntī, at the end of the millennium every material manifestation enters into My nature, and at the beginning of another millennium, by My potency I again create."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 9",
-    "h1":"Bg. 18.9",
+    "name":"Bg. 18.9",
+    "h1":"Text 9",
     "title":"Bhagavad-gītā As It Is 18.9",
     "description":"But he who performs his prescribed duty only because it ought to be done, and renounces all attachment to the fruit—his renunciation is of the nature of goodness, O Arjuna."
 }

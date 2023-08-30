@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 43",
-    "h1":"Bg. 1.43",
+    "name":"Bg. 1.43",
+    "h1":"Text 43",
     "title":"Bhagavad-gītā As It Is 1.43",
     "description":"O Kṛṣṇa, maintainer of the people, I have heard by disciplic succession that those who destroy family traditions dwell always in hell."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 8-10",
-    "h1":"Bg. 17.8-10",
+    "name":"Bg. 17.8-10",
+    "h1":"Text 8-10",
     "title":"Bhagavad-gītā As It Is 17.8-10",
     "description":"Foods in the mode of goodness increase the duration of life, purify one's existence and give strength, health, happiness and satisfaction. Such nourishing foods are sweet, juicy, fattening and palatable. Foods that are too bitter, too sour, salty, pungent, dry and hot, are liked by people in the modes of passion. Such foods cause pain, distress, and disease. Food cooked more than three hours before being eaten, which is tasteless, stale, putrid, decomposed and unclean, is food liked by people in the mode of ignorance."
 }

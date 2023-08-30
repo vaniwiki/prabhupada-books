@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 3",
-    "h1":"Bg. 6.3",
+    "name":"Bg. 6.3",
+    "h1":"Text 3",
     "title":"Bhagavad-gītā As It Is 6.3",
     "description":"For one who is a neophyte in the eightfold yoga system, work is said to be the means; and for one who has already attained to yoga, cessation of all material activities is said to be the means."
 }

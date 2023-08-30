@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 29",
-    "h1":"Bg. 5.29",
+    "name":"Bg. 5.29",
+    "h1":"Text 29",
     "title":"Bhagavad-gītā As It Is 5.29",
     "description":"The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries."
 }

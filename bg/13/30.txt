@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 30",
-    "h1":"Bg. 13.30",
+    "name":"Bg. 13.30",
+    "h1":"Text 30",
     "title":"Bhagavad-gītā As It Is 13.30",
     "description":"One who can see that all activities are performed by the body, which is created of material nature, and sees that the self does nothing, actually sees."
 }

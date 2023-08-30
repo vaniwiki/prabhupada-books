@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 20",
-    "h1":"Bg. 11.20",
+    "name":"Bg. 11.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 11.20",
     "description":"Although You are one, You are spread throughout the sky and the planets and all space between. O great one, as I behold this terrible form, I see that all the planetary systems are perplexed."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 8.12",
+    "name":"Bg. 8.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 8.12",
     "description":"The yogic situation is that of detachment from all sensual engagements. Closing all the doors of the senses and fixing the mind on the heart and the life air at the top of the head, one establishes himself in yoga."
 }

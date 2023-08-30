@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 49",
-    "h1":"Bg. 18.49",
+    "name":"Bg. 18.49",
+    "h1":"Text 49",
     "title":"Bhagavad-gītā As It Is 18.49",
     "description":"One can obtain the results of renunciation simply by self-control and by becoming unattached to material things and disregarding material enjoyments. That is the highest perfectional stage of renunciation."
 }

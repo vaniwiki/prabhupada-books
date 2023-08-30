@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 4.26",
+    "name":"Bg. 4.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 4.26",
     "description":"Some of them sacrifice the hearing process and the senses in the fire of the controlled mind, and others sacrifice the objects of the senses, such as sound, in the fire of sacrifice."
 }

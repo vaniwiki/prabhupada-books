@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 72",
-    "h1":"Bg. 2.72",
+    "name":"Bg. 2.72",
+    "h1":"Text 72",
     "title":"Bhagavad-gītā As It Is 2.72",
     "description":"That is the way of the spiritual and godly life, after attaining which a man is not bewildered. Being so situated, even at the hour of death, one can enter into the kingdom of God."
 }

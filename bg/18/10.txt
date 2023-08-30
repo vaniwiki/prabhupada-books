@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 18.10",
+    "name":"Bg. 18.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 18.10",
     "description":"Those who are situated in the mode of goodness, who neither hate inauspicious work nor are attached to auspicious work, have no doubts about work."
 }

@@ -1,12 +1,27 @@
 ---json
 {
     "name":"Chapter 7",
+    "h1":"Knowledge of the Absolute",
     "title":"Bhagavad-gītā 7: Knowledge of the Absolute",
     "description":"Lord Krishna is the Supreme Truth, the supreme cause and sustaining force of everything, both material and spiritual. Advanced souls surrender unto Him in devotion, whereas impious souls divert their minds to other objects of worship."
 }
 ---
 
 ====== Knowledge of the Absolute ======
+
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_07_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 7}}
+
+<card-columns>
+<card>
+{{ :books:bg:plate25.jpg?500x500 |}}
+Plate 25 --- Kṛṣṇa’s material and spiritual energies. [[books:bg:7:4|(Bg. 7.4)]]
+</card>
+<card>
+{{ :books:bg:plate26.jpg?500x500 |}}
+Plate 26 --- Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. [[books:bg:7:15|(Bg. 7.15)]]
+</card>
+</card-columns>
+
 
   ; [[books:bg:7:1|Bg 7.1]]
   : Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.
@@ -54,7 +69,7 @@
   : Those miscreants who are grossly foolish, lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons, do not surrender unto Me.
 
   ; [[books:bg:7:16|Bg 7.16]]
-  : O best among the Bhāratas [Arjuna], four kinds of pious men render devotional service unto Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
+  : O best among the Bhāratas [Arjuna], four kinds of pious men render devotional service unto Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
 
   ; [[books:bg:7:17|Bg 7.17]]
   : Of these, the wise one who is in full knowledge in union with Me through pure devotional service is the best. For I am very dear to him, and he is dear to Me.

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 7",
-    "h1":"Bg. 16.7",
+    "name":"Bg. 16.7",
+    "h1":"Text 7",
     "title":"Bhagavad-gītā As It Is 16.7",
     "description":"Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them."
 }

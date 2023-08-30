@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 20",
-    "h1":"Bg. 15.20",
+    "name":"Bg. 15.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 15.20",
     "description":"This is the most confidential part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection."
 }

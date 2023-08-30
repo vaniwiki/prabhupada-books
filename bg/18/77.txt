@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 77",
-    "h1":"Bg. 18.77",
+    "name":"Bg. 18.77",
+    "h1":"Text 77",
     "title":"Bhagavad-gītā As It Is 18.77",
     "description":"O King, when I remember the wonderful form of Lord Kṛṣṇa, I am struck with even greater wonder, and I rejoice again and again."
 }

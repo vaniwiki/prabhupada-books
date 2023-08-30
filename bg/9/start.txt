@@ -1,12 +1,23 @@
 ---json
 {
     "name":"Chapter 9",
+    "h1":"The Most Confidential Knowledge",
     "title":"Bhagavad-gītā 9: The Most Confidential Knowledge",
     "description":"Lord Kṛṣṇa is the Supreme Godhead and the supreme object of worship. The soul is eternally related to Him through transcendental devotional service (bhakti). By reviving one’s pure devotion one returns to Krishna in the spiritual realm."
 }
 ---
 
 ====== The Most Confidential Knowledge ======
+
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_09_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 9}}
+
+<card-columns>
+<card>
+{{ :books:bg:plate28.jpg?500x500 |}}
+Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:9:11|(Bg. 9.11)]]
+</card>
+</card-columns>
+
 
   ; [[books:bg:9:1|Bg 9.1]]
   : The Supreme Lord said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most secret wisdom, knowing which you shall be relieved of the miseries of material existence.

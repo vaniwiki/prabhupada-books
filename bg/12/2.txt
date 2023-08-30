@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 2",
-    "h1":"Bg. 12.2",
+    "name":"Bg. 12.2",
+    "h1":"Text 2",
     "title":"Bhagavad-gītā As It Is 12.2",
     "description":"The Blessed Lord said: He whose mind is fixed on My personal form, always engaged in worshiping Me with great and transcendental faith, is considered by Me to be most perfect."
 }

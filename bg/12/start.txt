@@ -1,12 +1,23 @@
 ---json
 {
     "name":"Chapter 12",
+    "h1":"Devotional Service",
     "title":"Bhagavad-gītā 12: Devotional Service",
     "description":"Bhakti-yoga, pure devotional service to Lord Krishna, is the highest and most expedient means for attaining pure love for Krishna, which is the highest end of spiritual existence. Those who follow this supreme path develop divine qualities."
 }
 ---
 
 ====== Devotional Service ======
+
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_12_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 12}}
+
+<card-columns>
+<card>
+{{ :books:bg:plate33.jpg?500x500 |}}
+Plate 33 --- Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
+</card>
+</card-columns>
+
 
   ; [[books:bg:12:1|Bg 12.1]]
   : Arjuna inquired: Which is considered to be more perfect: those who are properly engaged in Your devotional service, or those who worship the impersonal Brahman, the unmanifested?
@@ -15,7 +26,7 @@
   : The Blessed Lord said: He whose mind is fixed on My personal form, always engaged in worshiping Me with great and transcendental faith, is considered by Me to be most perfect.
 
   ; [[books:bg:12:3-4|Bg 12.3-4]]
-  : But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable—the impersonal conception of the Absolute Truth—by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.
+  : But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable—the impersonal conception of the Absolute Truth—by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.
 
   ; [[books:bg:12:5|Bg 12.5]]
   : For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied.

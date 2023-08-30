@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 14",
-    "h1":"Bg. 2.14",
+    "name":"Bg. 2.14",
+    "h1":"Text 14",
     "title":"Bhagavad-gītā As It Is 2.14",
     "description":"O son of Kuntī, the nonpermanent appearance of happiness and distress, and their disappearance in due course, are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed."
 }

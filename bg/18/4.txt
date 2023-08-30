@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 4",
-    "h1":"Bg. 18.4",
+    "name":"Bg. 18.4",
+    "h1":"Text 4",
     "title":"Bhagavad-gītā As It Is 18.4",
     "description":"O best of the Bhāratas, hear from Me now about renunciation. O tiger among men, there are three kinds of renunciation declared in the scriptures."
 }

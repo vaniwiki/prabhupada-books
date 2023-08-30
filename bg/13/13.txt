@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 13",
-    "h1":"Bg. 13.13",
+    "name":"Bg. 13.13",
+    "h1":"Text 13",
     "title":"Bhagavad-gītā As It Is 13.13",
     "description":"I shall now explain the knowable, knowing which you will taste the eternal. This is beginningless, and it is subordinate to Me. It is called Brahman, the spirit, and it lies beyond the cause and effect of this material world."
 }

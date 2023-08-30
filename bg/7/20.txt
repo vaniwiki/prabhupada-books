@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 20",
-    "h1":"Bg. 7.20",
+    "name":"Bg. 7.20",
+    "h1":"Text 20",
     "title":"Bhagavad-gītā As It Is 7.20",
     "description":"Those whose minds are distorted by material desires surrender unto demigods and follow the particular rules and regulations of worship according to their own natures."
 }

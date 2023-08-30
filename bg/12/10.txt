@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 12.10",
+    "name":"Bg. 12.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 12.10",
     "description":"If you cannot practice the regulations of bhakti-yoga, then just try to work for Me, because by working for Me you will come to the perfect stage."
 }

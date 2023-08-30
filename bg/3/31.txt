@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 31",
-    "h1":"Bg. 3.31",
+    "name":"Bg. 3.31",
+    "h1":"Text 31",
     "title":"Bhagavad-gītā As It Is 3.31",
     "description":"One who executes his duties according to My injunctions and who follows this teaching faithfully, without envy, becomes free from the bondage of fruitive actions."
 }

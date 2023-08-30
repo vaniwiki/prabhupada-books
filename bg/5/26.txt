@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 5.26",
+    "name":"Bg. 5.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 5.26",
     "description":"Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 53",
-    "h1":"Bg. 11.53",
+    "name":"Bg. 11.53",
+    "h1":"Text 53",
     "title":"Bhagavad-gītā As It Is 11.53",
     "description":"The form which you are seeing with your transcendental eyes cannot be understood simply by studying the Vedas, nor by undergoing serious penances, nor by charity, nor by worship. It is not by these means that one can see Me as I am."
 }

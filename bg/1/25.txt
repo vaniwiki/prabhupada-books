@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 25",
-    "h1":"Bg. 1.25",
+    "name":"Bg. 1.25",
+    "h1":"Text 25",
     "title":"Bhagavad-gītā As It Is 1.25",
     "description":"In the presence of Bhīṣma, Droṇa and all other chieftains of the world, Hṛṣīkeśa, the Lord, said, Just behold, Pārtha, all the Kurus who are assembled here."
 }

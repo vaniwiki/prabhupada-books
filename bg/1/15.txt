@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 15",
-    "h1":"Bg. 1.15",
+    "name":"Bg. 1.15",
+    "h1":"Text 15",
     "title":"Bhagavad-gītā As It Is 1.15",
     "description":"Then, Lord Kṛṣṇa blew His conchshell, called Pāñcajanya; Arjuna blew his, the Devadatta; and Bhīma, the voracious eater and performer of Herculean tasks, blew his terrific conchshell called Pauṇḍram."
 }

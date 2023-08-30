@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 7",
-    "h1":"Bg. 3.7",
+    "name":"Bg. 3.7",
+    "h1":"Text 7",
     "title":"Bhagavad-gītā As It Is 3.7",
     "description":"On the other hand, he who controls the senses by the mind and engages his active organs in works of devotion, without attachment, is by far superior."
 }

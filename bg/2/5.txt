@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 5",
-    "h1":"Bg. 2.5",
+    "name":"Bg. 2.5",
+    "h1":"Text 5",
     "title":"Bhagavad-gītā As It Is 2.5",
     "description":"It is better to live in this world by begging than to live at the cost of the lives of great souls who are my teachers. Even though they are avaricious, they are nonetheless superiors. If they are killed, our spoils will be tainted with blood."
 }
@@ -15,12 +15,12 @@
 > भुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥५॥
 
 ===== Text =====
+{{audio:verses:verse_bg_02.05_751017bg-johannesburg.mp3}}
 
 > gurūn ahatvā hi mahānubhāvān
 > śreyo bhoktuṁ bhaikṣyam apīha loke
 > hatvārtha-kāmāṁs tu gurūn ihaiva
 > bhuñjīya bhogān rudhira-pradigdhān
-> {{audio:verses:verse_bg_02.05_751017bg-johannesburg.mp3}}
 
 ===== Synonyms =====
 

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 16-18",
-    "h1":"Bg. 1.16-18",
+    "name":"Bg. 1.16-18",
+    "h1":"Text 16-18",
     "title":"Bhagavad-gītā As It Is 1.16-18",
     "description":"King Yudhiṣṭhira, the son of Kuntī, blew his conchshell, the Anantavijaya, and Nakula and Sahadeva blew the Sughoṣa and Maṇipuṣpaka. That great archer the King of Kāśī, the great fighter Śikhaṇḍī, Dhṛṣṭadyumna, Virāṭa and the unconquerable Sātyaki, Drupada, the sons of Draupadī, and the others, O King, such as the son of Subhadrā, greatly armed, all blew their respective conchshells."
 }

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 10",
-    "h1":"Bg. 15.10",
+    "name":"Bg. 15.10",
+    "h1":"Text 10",
     "title":"Bhagavad-gītā As It Is 15.10",
     "description":"The foolish cannot understand how a living entity can quit his body, nor can they understand what sort of body he enjoys under the spell of the modes of nature. But one whose eyes are trained in knowledge can see all this."
 }

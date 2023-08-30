@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 51",
-    "h1":"Bg. 2.51",
+    "name":"Bg. 2.51",
+    "h1":"Text 51",
     "title":"Bhagavad-gītā As It Is 2.51",
     "description":"The wise, engaged in devotional service, take refuge in the Lord, and free themselves from the cycle of birth and death by renouncing the fruits of action in the material world. In this way they can attain that state beyond all miseries."
 }

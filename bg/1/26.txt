@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 26",
-    "h1":"Bg. 1.26",
+    "name":"Bg. 1.26",
+    "h1":"Text 26",
     "title":"Bhagavad-gītā As It Is 1.26",
     "description":"There Arjuna could see, within the midst of the armies of both parties, his fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, and also his father-in-law and well-wishers—all present there."
 }

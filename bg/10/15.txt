@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 15",
-    "h1":"Bg. 10.15",
+    "name":"Bg. 10.15",
+    "h1":"Text 15",
     "title":"Bhagavad-gītā As It Is 10.15",
     "description":"Indeed, You alone know Yourself by Your own potencies, O origin of all, Lord of all beings, God of gods, O Supreme Person, Lord of the universe!"
 }

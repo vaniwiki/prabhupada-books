@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 21",
-    "h1":"Bg. 16.21",
+    "name":"Bg. 16.21",
+    "h1":"Text 21",
     "title":"Bhagavad-gītā As It Is 16.21",
     "description":"There are three gates leading to this hell—lust, anger, and greed. Every sane man should give these up, for they lead to the degradation of the soul."
 }

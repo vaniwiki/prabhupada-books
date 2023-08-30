@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 38",
-    "h1":"Bg. 3.38",
+    "name":"Bg. 3.38",
+    "h1":"Text 38",
     "title":"Bhagavad-gītā As It Is 3.38",
     "description":"As fire is covered by smoke, as a mirror is covered by dust, or as the embryo is covered by the womb, similarly, the living entity is covered by different degrees of this lust."
 }

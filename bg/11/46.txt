@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 46",
-    "h1":"Bg. 11.46",
+    "name":"Bg. 11.46",
+    "h1":"Text 46",
     "title":"Bhagavad-gītā As It Is 11.46",
     "description":"O universal Lord, I wish to see You in Your four-armed form, with helmeted head and with club, wheel, conch and lotus flower in Your hands. I long to see You in that form."
 }

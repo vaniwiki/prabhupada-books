@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 35",
-    "h1":"Bg. 11.35",
+    "name":"Bg. 11.35",
+    "h1":"Text 35",
     "title":"Bhagavad-gītā As It Is 11.35",
     "description":"Sañjaya said to Dhṛtarāṣṭra: O King, after hearing these words from the Supreme Personality of Godhead, Arjuna trembled, fearfully offered obeisances with folded hands and began, falteringly, to speak as follows:"
 }

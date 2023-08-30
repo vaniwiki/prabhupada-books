@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 12",
-    "h1":"Bg. 14.12",
+    "name":"Bg. 14.12",
+    "h1":"Text 12",
     "title":"Bhagavad-gītā As It Is 14.12",
     "description":"O chief of the Bhāratas, when there is an increase in the mode of passion, the symptoms of great attachment, uncontrollable desire, hankering, and intense endeavor develop."
 }

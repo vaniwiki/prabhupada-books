@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 33",
-    "h1":"Bg. 13.33",
+    "name":"Bg. 13.33",
+    "h1":"Text 33",
     "title":"Bhagavad-gītā As It Is 13.33",
     "description":"The sky, due to its subtle nature, does not mix with anything, although it is all-pervading. Similarly, the soul, situated in Brahman vision, does not mix with the body, though situated in that body."
 }

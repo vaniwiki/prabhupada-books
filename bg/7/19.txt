@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Text 19",
-    "h1":"Bg. 7.19",
+    "name":"Bg. 7.19",
+    "h1":"Text 19",
     "title":"Bhagavad-gītā As It Is 7.19",
     "description":"After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare."
 }

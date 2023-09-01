@@ -1,8 +1,11 @@
-~~Title:Śrī Īśopaniṣad, Mantra 10~~
-~~bc:Mantra 10~~
-
-{{description>The wise have explained that one result is derived from the culture of knowledge and that a different result is obtained from the culture of nescience.}}
-
+---json
+{
+    "name":"Īśo 10",
+    "h1":"Śrī Īśopaniṣad 10",
+    "title":"Śrī Īśopaniṣad, Mantra 10",
+    "description":"The wise have explained that one result is derived from the culture of knowledge and that a different result is obtained from the culture of nescience."
+}
+---
 
 ====== Īśo 10 ======
 

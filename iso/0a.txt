@@ -1,8 +1,11 @@
-~~Title:Śrī Īśopaniṣad, Introduction~~
-~~bc:Introduction~~
-
-{{description>Ladies and gentlemen, today's subject matter is the teachings of the Vedas. What are the Vedas? The Sanskrit verbal root of veda can be interpreted variously, but the purport is finally one. Veda means knowledge.}}
-
+---json
+{
+    "name":"Īśo Introduction",
+    "h1":"Introduction",
+    "title":"ŚŚrī Īśopaniṣad, Introduction",
+    "description":"Ladies and gentlemen, today's subject matter is the teachings of the Vedas. What are the Vedas? The Sanskrit verbal root of veda can be interpreted variously, but the purport is finally one. Veda means knowledge."
+}
+---
 
 ====== Introduction ======
 

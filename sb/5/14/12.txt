@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.12~~
-~~bc:Text 12~~
-
-{{description>Due to his pious activities in previous lives, the conditioned soul attains material facilities in this life, but when they are finished, he takes shelter of wealth and riches, which cannot help him in this life or the next. Because of this, he approaches the living dead who possess these things. Such people are compared to impure trees, creepers and poisonous wells.}}
-
+---json
+{
+    "name":"SB 5.14.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.14.12",
+    "description":"Due to his pious activities in previous lives, the conditioned soul attains material facilities in this life, but when they are finished, he takes shelter of wealth and riches, which cannot help him in this life or the next. Because of this, he approaches the living dead who possess these things. Such people are compared to impure trees, creepers and poisonous wells."
+}
+---
 ====== SB 5.14.12 ======
 
 ===== Text =====

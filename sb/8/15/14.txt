@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.14~~
-~~bc:Text 14~~
-
-{{description>The city was surrounded by trenches full of Ganges water, known as Ākāśa-gaṅgā, and by a high wall, which was the color of fire. Upon this wall were parapets for fighting.}}
-
+---json
+{
+    "name":"SB 8.15.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.15.14",
+    "description":"The city was surrounded by trenches full of Ganges water, known as Ākāśa-gaṅgā, and by a high wall, which was the color of fire. Upon this wall were parapets for fighting."
+}
+---
 ====== SB 8.15.14 ======
 
 ===== Text =====

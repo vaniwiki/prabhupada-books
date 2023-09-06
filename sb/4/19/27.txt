@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.27~~
-~~bc:Text 27~~
-
-{{description>When the priests and all the others saw Mahārāja Pṛthu very angry and prepared to kill Indra, they requested him: O great soul, do not kill him, for only sacrificial animals can be killed in a sacrifice. Such are the directions given by śāstra.}}
-
+---json
+{
+    "name":"SB 4.19.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.19.27",
+    "description":"When the priests and all the others saw Mahārāja Pṛthu very angry and prepared to kill Indra, they requested him: O great soul, do not kill him, for only sacrificial animals can be killed in a sacrifice. Such are the directions given by śāstra."
+}
+---
 ====== SB 4.19.27 ======
 
 > तमृत्विजः शक्रवधाभिसन्धितं विचक्ष्य दुष्प्रेक्ष्यमसह्यरंहसम् ।

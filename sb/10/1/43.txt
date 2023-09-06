@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.43~~
-~~bc:Text 43~~
-
-{{description>When the luminaries in the sky, such as the moon, the sun and the stars, are reflected in liquids like oil or water, they appear to be of different shapes—sometimes round, sometimes long, and so on—because of the movements of the wind. Similarly, when the living entity, the soul, is absorbed in materialistic thoughts, he accepts various manifestations as his own identity because of ignorance. In other words, one is bewildered by mental concoctions because of agitation from the material modes of nature.}}
-
+---json
+{
+    "name":"SB 10.1.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 10.1.43",
+    "description":"When the luminaries in the sky, such as the moon, the sun and the stars, are reflected in liquids like oil or water, they appear to be of different shapes—sometimes round, sometimes long, and so on—because of the movements of the wind. Similarly, when the living entity, the soul, is absorbed in materialistic thoughts, he accepts various manifestations as his own identity because of ignorance. In other words, one is bewildered by mental concoctions because of agitation from the material modes of nature."
+}
+---
 ====== SB 10.1.43 ======
 
 ===== Text =====

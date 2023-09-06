@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.25.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī said to Mahārāja Parīkṣit: My dear King, approximately 240,000 miles beneath the planet Pātāla lives another incarnation of the Supreme Personality of Godhead. He is the expansion of Lord Viṣṇu known as Lord Ananta or Lord Saṅkarṣaṇa. He is always in the transcendental position, but because He is worshiped by Lord Śiva, the deity of tamo-guṇa or darkness, He is sometimes called tāmasī. Lord Ananta is the predominating Deity of the material mode of ignorance as well as the false ego of all conditioned souls. When a conditioned living being thinks, "I am the enjoyer, and this world is meant to be enjoyed by me," this conception of life is dictated to him by Saṅkarṣaṇa. Thus the mundane conditioned soul thinks himself the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 5.25.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.25.1",
+    "description":"Śrī Śukadeva Gosvāmī said to Mahārāja Parīkṣit: My dear King, approximately 240,000 miles beneath the planet Pātāla lives another incarnation of the Supreme Personality of Godhead. He is the expansion of Lord Viṣṇu known as Lord Ananta or Lord Saṅkarṣaṇa. He is always in the transcendental position, but because He is worshiped by Lord Śiva, the deity of tamo-guṇa or darkness, He is sometimes called tāmasī. Lord Ananta is the predominating Deity of the material mode of ignorance as well as the false ego of all conditioned souls. When a conditioned living being thinks, "I am the enjoyer, and this world is meant to be enjoyed by me," this conception of life is dictated to him by Saṅkarṣaṇa. Thus the mundane conditioned soul thinks himself the Supreme Lord."
+}
+---
 ====== SB 5.25.1 ======
 
 ===== Text =====

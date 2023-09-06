@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.7~~
-~~bc:Text 7~~
-
-{{description>My dear Vidura, in that great sacrifice the entire land came to be like the milk-producing kāma-dhenu, and thus, by the performance of yajña, all daily necessities for life were supplied.}}
-
+---json
+{
+    "name":"SB 4.19.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.19.7",
+    "description":"My dear Vidura, in that great sacrifice the entire land came to be like the milk-producing kāma-dhenu, and thus, by the performance of yajña, all daily necessities for life were supplied."
+}
+---
 ====== SB 4.19.7 ======
 
 > यत्र धर्मदुघा भूमिः सर्वकामदुघा सती ।

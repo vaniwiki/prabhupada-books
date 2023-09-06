@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.12.16~~
-~~bc:Text 16~~
-
-{{description>The last king in the dynasty of Ikṣvāku will be Sumitra; after Sumitra there will be no more sons in the dynasty of the sun-god, and thus the dynasty will end.}}
-
+---json
+{
+    "name":"SB 9.12.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 9.12.16",
+    "description":"The last king in the dynasty of Ikṣvāku will be Sumitra; after Sumitra there will be no more sons in the dynasty of the sun-god, and thus the dynasty will end."
+}
+---
 ====== SB 9.12.16 ======
 
 ===== Text =====

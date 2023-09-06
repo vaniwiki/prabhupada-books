@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.17~~
-~~bc:Text 17~~
-
-{{description>The inhabitants of Gandharvaloka and Apsaroloka made Viśvāvasu into a calf, and they drew the milk into a lotus flower pot. The milk took the shape of sweet musical art and beauty.}}
-
+---json
+{
+    "name":"SB 4.18.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.18.17",
+    "description":"The inhabitants of Gandharvaloka and Apsaroloka made Viśvāvasu into a calf, and they drew the milk into a lotus flower pot. The milk took the shape of sweet musical art and beauty."
+}
+---
 ====== SB 4.18.17 ======
 
 > गन्धर्वाप्सरसोऽधुक्षन्पात्रे पद्ममये पयः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.9~~
-~~bc:Text 9~~
-
-{{description>If one is unhappy to see the distress of other living beings and happy to see their happiness, his religious principles are appreciated as imperishable by exalted persons who are considered pious and benevolent.}}
-
+---json
+{
+    "name":"SB 6.10.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 6.10.9",
+    "description":"If one is unhappy to see the distress of other living beings and happy to see their happiness, his religious principles are appreciated as imperishable by exalted persons who are considered pious and benevolent."
+}
+---
 ====== SB 6.10.9 ======
 
 ===== Text =====

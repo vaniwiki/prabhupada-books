@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.30~~
-~~bc:Text 30~~
-
-{{description>Now I shall leave the vision of this mundane world, and I see that Uddhava, the foremost of My devotees, is the only one who can be directly entrusted with knowledge about Me.}}
-
+---json
+{
+    "name":"SB 3.4.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.4.30",
+    "description":"Now I shall leave the vision of this mundane world, and I see that Uddhava, the foremost of My devotees, is the only one who can be directly entrusted with knowledge about Me."
+}
+---
 ====== SB 3.4.30 ======
 
 > अस्माल्लोकादुपरते मयि ज्ञानं मदाश्रयम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.65~~
-~~bc:Text 65~~
-
-{{description>Śukadeva Gosvāmī said: My dear King Parīkṣit, you were burned by the brahmāstra of Aśvatthāmā, but when Lord Kṛṣṇa entered the womb of your mother, you were saved. Similarly, although the one embryo was cut into forty-nine pieces by the thunderbolt of Indra, they were all saved by the mercy of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 6.18.65",
+    "h1":"Text 65",
+    "title":" Śrīmad Bhāgavatam 6.18.65",
+    "description":"Śukadeva Gosvāmī said: My dear King Parīkṣit, you were burned by the brahmāstra of Aśvatthāmā, but when Lord Kṛṣṇa entered the womb of your mother, you were saved. Similarly, although the one embryo was cut into forty-nine pieces by the thunderbolt of Indra, they were all saved by the mercy of the Supreme Personality of Godhead."
+}
+---
 ====== SB 6.18.65 ======
 
 ===== Text =====

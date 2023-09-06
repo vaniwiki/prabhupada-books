@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.46~~
-~~bc:Text 46~~
-
-{{description>One who hears and chants this narration about the omnipotence of the Supreme Personality of Godhead, Viṣṇu, is certainly liberated from material bondage without fail.}}
-
+---json
+{
+    "name":"SB 7.10.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 7.10.46",
+    "description":"One who hears and chants this narration about the omnipotence of the Supreme Personality of Godhead, Viṣṇu, is certainly liberated from material bondage without fail."
+}
+---
 ====== SB 7.10.46 ======
 
 ===== Text =====

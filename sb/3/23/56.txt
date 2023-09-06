@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.56~~
-~~bc:Text 56~~
-
-{{description>Anyone whose work is not meant to elevate him to religious life, anyone whose religious ritualistic performances do not raise him to renunciation, and anyone situated in renunciation that does not lead him to devotional service to the Supreme Personality of Godhead, must be considered dead, although he is breathing.}}
-
+---json
+{
+    "name":"SB 3.23.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 3.23.56",
+    "description":"Anyone whose work is not meant to elevate him to religious life, anyone whose religious ritualistic performances do not raise him to renunciation, and anyone situated in renunciation that does not lead him to devotional service to the Supreme Personality of Godhead, must be considered dead, although he is breathing."
+}
+---
 ====== SB 3.23.56 ======
 
 > नेह यत्कर्म धर्माय न विरागाय कल्पते ।

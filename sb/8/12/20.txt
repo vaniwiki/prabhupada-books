@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.20~~
-~~bc:Text 20~~
-
-{{description>The woman's face was decorated by broad, beautiful, restless eyes, which moved as the ball bounced here and there from Her hand. The two brilliant earrings on Her ears decorated Her shining cheeks like bluish reflections, and the hair scattered on Her face made Her even more beautiful to see.}}
-
+---json
+{
+    "name":"SB 8.12.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 8.12.20",
+    "description":"The woman's face was decorated by broad, beautiful, restless eyes, which moved as the ball bounced here and there from Her hand. The two brilliant earrings on Her ears decorated Her shining cheeks like bluish reflections, and the hair scattered on Her face made Her even more beautiful to see."
+}
+---
 ====== SB 8.12.20 ======
 
 ===== Text =====

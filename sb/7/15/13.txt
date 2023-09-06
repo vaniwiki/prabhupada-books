@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.13~~
-~~bc:Text 13~~
-
-{{description>Religious principles that obstruct one from following his own religion are called vidharma. Religious principles introduced by others are called para-dharma. A new type of religion created by one who is falsely proud and who opposes the principles of the Vedas is called upadharma. And interpretation by one's jugglery of words is called chala-dharma.}}
-
+---json
+{
+    "name":"SB 7.15.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 7.15.13",
+    "description":"Religious principles that obstruct one from following his own religion are called vidharma. Religious principles introduced by others are called para-dharma. A new type of religion created by one who is falsely proud and who opposes the principles of the Vedas is called upadharma. And interpretation by one's jugglery of words is called chala-dharma."
+}
+---
 ====== SB 7.15.13 ======
 
 ===== Text =====

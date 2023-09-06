@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.27~~
-~~bc:Text 27~~
-
-{{description>The great sage Nārada continued: My dear King, attentively receive from me a mantra, which is most auspicious. After accepting it from me, in seven nights you will be able to see the Lord face to face.}}
-
+---json
+{
+    "name":"SB 6.15.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 6.15.27",
+    "description":"The great sage Nārada continued: My dear King, attentively receive from me a mantra, which is most auspicious. After accepting it from me, in seven nights you will be able to see the Lord face to face."
+}
+---
 ====== SB 6.15.27 ======
 
 ===== Text =====

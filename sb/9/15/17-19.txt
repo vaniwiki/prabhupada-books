@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.15.17-19~~
-~~bc:Text 17-19~~
-
-{{description>Śukadeva Gosvāmī said: The best of the kṣatriyas, Kārtavīryārjuna, the King of the Haihayas, received one thousand arms by worshiping Dattātreya, the plenary expansion of the Supreme Personality of Godhead, Nārāyaṇa. He also became undefeatable by enemies and received unobstructed sensory power, beauty, influence, strength, fame and the mystic power by which to achieve all the perfections of yoga, such as aṇimā and laghimā. Thus having become fully opulent, he roamed all over the universe without opposition, just like the wind.}}
-
+---json
+{
+    "name":"SB 9.15.17-19",
+    "h1":"Text 17-19",
+    "title":" Śrīmad Bhāgavatam 9.15.17-19",
+    "description":"Śukadeva Gosvāmī said: The best of the kṣatriyas, Kārtavīryārjuna, the King of the Haihayas, received one thousand arms by worshiping Dattātreya, the plenary expansion of the Supreme Personality of Godhead, Nārāyaṇa. He also became undefeatable by enemies and received unobstructed sensory power, beauty, influence, strength, fame and the mystic power by which to achieve all the perfections of yoga, such as aṇimā and laghimā. Thus having become fully opulent, he roamed all over the universe without opposition, just like the wind."
+}
+---
 ====== SB 9.15.17-19 ======
 
 ===== Text =====

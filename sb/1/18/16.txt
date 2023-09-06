@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.16~~
-~~bc:Text 16~~
-
-{{description>O Sūta Gosvāmī, please describe those topics of the Lord by which Mahārāja Parīkṣit, whose intelligence was fixed on liberation, attained the lotus feet of the Lord, who is the shelter of Garuḍa, the king of birds. Those topics were vibrated by the son of Vyāsa [Śrīla Śukadeva].}}
-
+---json
+{
+    "name":"SB 1.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 1.18.16",
+    "description":"O Sūta Gosvāmī, please describe those topics of the Lord by which Mahārāja Parīkṣit, whose intelligence was fixed on liberation, attained the lotus feet of the Lord, who is the shelter of Garuḍa, the king of birds. Those topics were vibrated by the son of Vyāsa [Śrīla Śukadeva]."
+}
+---
 ====== SB 1.18.16 ======
 
 > स वै महाभागवतः परीक्षिद्येनापवर्गाख्यमदभ्रबुद्धिः ।

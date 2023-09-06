@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.7~~
-~~bc:Text 7~~
-
-{{description>Ajāmila has already atoned for all his sinful actions. Indeed, he has atoned not only for sins performed in one life but for those performed in millions of lives, for in a helpless condition he chanted the holy name of Nārāyaṇa. Even though he did not chant purely, he chanted without offense, and therefore he is now pure and eligible for liberation.}}
-
+---json
+{
+    "name":"SB 6.2.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.2.7",
+    "description":"Ajāmila has already atoned for all his sinful actions. Indeed, he has atoned not only for sins performed in one life but for those performed in millions of lives, for in a helpless condition he chanted the holy name of Nārāyaṇa. Even though he did not chant purely, he chanted without offense, and therefore he is now pure and eligible for liberation."
+}
+---
 ====== SB 6.2.7 ======
 
 ===== Text =====

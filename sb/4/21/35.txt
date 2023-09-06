@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.35~~
-~~bc:Text 35~~
-
-{{description>The Supreme Personality of Godhead is all-pervading, but He is also manifested in different types of bodies which arise from a combination of material nature, time, desires and occupational duties. Thus different types of consciousness develop, just as fire, which is always basically the same, blazes in different ways according to the shape and dimension of firewood.}}
-
+---json
+{
+    "name":"SB 4.21.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.21.35",
+    "description":"The Supreme Personality of Godhead is all-pervading, but He is also manifested in different types of bodies which arise from a combination of material nature, time, desires and occupational duties. Thus different types of consciousness develop, just as fire, which is always basically the same, blazes in different ways according to the shape and dimension of firewood."
+}
+---
 ====== SB 4.21.35 ======
 
 > प्रधानकालाशयधर्मसङ्ग्रहे शरीर एष प्रतिपद्य चेतनाम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.48~~
-~~bc:Text 48~~
-
-{{description>O best of kings, please get up! Get up! Just see this world surrounded by water and infested with rogues and so-called kings. This world is very much afraid, and it is your duty to protect her.}}
-
+---json
+{
+    "name":"SB 4.28.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.28.48",
+    "description":"O best of kings, please get up! Get up! Just see this world surrounded by water and infested with rogues and so-called kings. This world is very much afraid, and it is your duty to protect her."
+}
+---
 ====== SB 4.28.48 ======
 
 > उत्तिष्ठोत्तिष्ठ राजर्षे इमामुदधिमेखलाम् ।

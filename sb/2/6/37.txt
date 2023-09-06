@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.37~~
-~~bc:Text 37~~
-
-{{description>Since neither Lord Śiva nor you nor I could ascertain the limits of spiritual happiness, how can other demigods know it? And because all of us are bewildered by the illusory external energy of the Supreme Lord, we can see only this manifested cosmos according to our individual ability.}}
-
+---json
+{
+    "name":"SB 2.6.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 2.6.37",
+    "description":"Since neither Lord Śiva nor you nor I could ascertain the limits of spiritual happiness, how can other demigods know it? And because all of us are bewildered by the illusory external energy of the Supreme Lord, we can see only this manifested cosmos according to our individual ability."
+}
+---
 ====== SB 2.6.37 ======
 
 > नाहं न यूयं यदृतां गतिं विदुर्न वामदेवः किमुतापरे सुराः ।

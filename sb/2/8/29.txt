@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.29~~
-~~bc:Text 29~~
-
-{{description>He also prepared himself to reply to all that King Parīkṣit had inquired from him. Mahārāja Parīkṣit was the best in the dynasty of the Pāṇḍus, and thus he was able to ask the right questions from the right person.}}
-
+---json
+{
+    "name":"SB 2.8.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 2.8.29",
+    "description":"He also prepared himself to reply to all that King Parīkṣit had inquired from him. Mahārāja Parīkṣit was the best in the dynasty of the Pāṇḍus, and thus he was able to ask the right questions from the right person."
+}
+---
 ====== SB 2.8.29 ======
 
 > यद्यत्परीक्षिदृषभः पाण्डूनामनुपृच्छति ।

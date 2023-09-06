@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.38~~
-~~bc:Text 38~~
-
-{{description>Sometimes I eat a very small quantity and sometimes a great quantity. Sometimes the food is very palatable, and sometimes it is stale. Sometimes prasāda is offered with great respect, and sometimes food is given neglectfully. Sometimes I eat during the day and sometimes at night. Thus I eat what is easily available.}}
-
+---json
+{
+    "name":"SB 7.13.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 7.13.38",
+    "description":"Sometimes I eat a very small quantity and sometimes a great quantity. Sometimes the food is very palatable, and sometimes it is stale. Sometimes prasāda is offered with great respect, and sometimes food is given neglectfully. Sometimes I eat during the day and sometimes at night. Thus I eat what is easily available."
+}
+---
 ====== SB 7.13.38 ======
 
 ===== Text =====

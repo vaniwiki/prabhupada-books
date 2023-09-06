@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.6~~
-~~bc:Text 6~~
-
-{{description>Maitreya continued: My dear Vidura, as soon as Dhruva Mahārāja reached Alakāpurī, he immediately blew his conchshell, and the sound reverberated throughout the entire sky and in every direction. The wives of the Yakṣas became very much frightened. From their eyes it was apparent that they were full of anxiety.}}
-
+---json
+{
+    "name":"SB 4.10.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.10.6",
+    "description":"Maitreya continued: My dear Vidura, as soon as Dhruva Mahārāja reached Alakāpurī, he immediately blew his conchshell, and the sound reverberated throughout the entire sky and in every direction. The wives of the Yakṣas became very much frightened. From their eyes it was apparent that they were full of anxiety."
+}
+---
 ====== SB 4.10.6 ======
 
 > दध्मौ शङ्खं बृहद्बाहुः खं दिशश्चानुनादयन् ।

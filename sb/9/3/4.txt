@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.4~~
-~~bc:Text 4~~
-
-{{description>As if induced by providence, the girl ignorantly pierced those two glowworms with a thorn, and when they were pierced, blood began to ooze out of them.}}
-
+---json
+{
+    "name":"SB 9.3.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 9.3.4",
+    "description":"As if induced by providence, the girl ignorantly pierced those two glowworms with a thorn, and when they were pierced, blood began to ooze out of them."
+}
+---
 ====== SB 9.3.4 ======
 
 ===== Text =====

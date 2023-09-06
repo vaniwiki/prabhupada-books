@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.18~~
-~~bc:Text 18~~
-
-{{description>Although the pain was extremely severe, Mātali tolerated it with great patience. Indra, however, became extremely angry at Jambhāsura. He struck Jambhāsura with his thunderbolt and thus severed his head from his body.}}
-
+---json
+{
+    "name":"SB 8.11.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 8.11.18",
+    "description":"Although the pain was extremely severe, Mātali tolerated it with great patience. Indra, however, became extremely angry at Jambhāsura. He struck Jambhāsura with his thunderbolt and thus severed his head from his body."
+}
+---
 ====== SB 8.11.18 ======
 
 ===== Text =====

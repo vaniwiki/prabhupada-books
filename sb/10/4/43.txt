@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.43~~
-~~bc:Text 43~~
-
-{{description>Śukadeva Gosvāmī continued: Thus, having considered the instructions of his bad ministers, Kaṁsa, who was bound by the laws of Yamarāja and devoid of good intelligence because he was a demon, decided to persecute the saintly persons, the brāhmaṇas, as the only way to achieve his own good fortune.}}
-
+---json
+{
+    "name":"SB 10.4.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 10.4.43",
+    "description":"Śukadeva Gosvāmī continued: Thus, having considered the instructions of his bad ministers, Kaṁsa, who was bound by the laws of Yamarāja and devoid of good intelligence because he was a demon, decided to persecute the saintly persons, the brāhmaṇas, as the only way to achieve his own good fortune."
+}
+---
 ====== SB 10.4.43 ======
 
 ===== Text =====

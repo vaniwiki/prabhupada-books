@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.16~~
-~~bc:Text 16~~
-
-{{description>The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters.}}
-
+---json
+{
+    "name":"SB 1.14.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 1.14.16",
+    "description":"The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters."
+}
+---
 ====== SB 1.14.16 ======
 
 > वायुर्वाति खरस्पर्शो रजसा विसृजंस्तमः ।

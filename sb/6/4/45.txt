@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.45~~
-~~bc:Text 45~~
-
-{{description>Lord Brahmā, Lord Śiva, the Manus, all the other demigods in the higher planetary systems, and you prajāpatis, who are increasing the population, are working for the benefit of all living entities. Thus you expansions of My marginal energy are incarnations of My various qualities.}}
-
+---json
+{
+    "name":"SB 6.4.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 6.4.45",
+    "description":"Lord Brahmā, Lord Śiva, the Manus, all the other demigods in the higher planetary systems, and you prajāpatis, who are increasing the population, are working for the benefit of all living entities. Thus you expansions of My marginal energy are incarnations of My various qualities."
+}
+---
 ====== SB 6.4.45 ======
 
 ===== Text =====

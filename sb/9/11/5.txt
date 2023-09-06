@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.5~~
-~~bc:Text 5~~
-
-{{description>All the brāhmaṇas who were engaged in the various activities of the sacrifice were very pleased with Lord Rāmacandra, who was greatly affectionate and favorable to the brāhmaṇas. Thus with melted hearts they returned all the property received from Him and spoke as follows.}}
-
+---json
+{
+    "name":"SB 9.11.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 9.11.5",
+    "description":"All the brāhmaṇas who were engaged in the various activities of the sacrifice were very pleased with Lord Rāmacandra, who was greatly affectionate and favorable to the brāhmaṇas. Thus with melted hearts they returned all the property received from Him and spoke as follows."
+}
+---
 ====== SB 9.11.5 ======
 
 ===== Text =====

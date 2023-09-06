@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.33~~
-~~bc:Text 33~~
-
-{{description>Kuntī, after overhearing Arjuna's telling of the end of the Yadu dynasty and disappearance of Lord Kṛṣṇa, engaged in the devotional service of the transcendental Personality of Godhead with full attention and thus gained release from the course of material existence.}}
-
+---json
+{
+    "name":"SB 1.15.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 1.15.33",
+    "description":"Kuntī, after overhearing Arjuna's telling of the end of the Yadu dynasty and disappearance of Lord Kṛṣṇa, engaged in the devotional service of the transcendental Personality of Godhead with full attention and thus gained release from the course of material existence."
+}
+---
 ====== SB 1.15.33 ======
 
 > पृथाप्यनुश्रुत्य धनञ्जयोदितं नाशं यदूनां भगवद्गतिं च ताम् ।

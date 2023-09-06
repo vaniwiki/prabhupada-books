@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.35-36~~
-~~bc:Text 35-36~~
-
-{{description>The original Personality of Godhead, the enjoyer, and Balarāma, the primeval Lord Ananta, are staying in the ocean of the Yadu dynasty for the welfare, protection and general progress of the entire universe. And the members of the Yadu dynasty, being protected by the arms of the Lord, are enjoying life like the residents of the spiritual sky.}}
-
+---json
+{
+    "name":"SB 1.14.35-36",
+    "h1":"Text 35-36",
+    "title":" Śrīmad Bhāgavatam 1.14.35-36",
+    "description":"The original Personality of Godhead, the enjoyer, and Balarāma, the primeval Lord Ananta, are staying in the ocean of the Yadu dynasty for the welfare, protection and general progress of the entire universe. And the members of the Yadu dynasty, being protected by the arms of the Lord, are enjoying life like the residents of the spiritual sky."
+}
+---
 ====== SB 1.14.35-36 ======
 
 > मङ्गलाय च लोकानां क्षेमाय च भवाय च ।

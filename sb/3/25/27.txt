@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.25.27~~
-~~bc:Text 27~~
-
-{{description>Thus by not engaging in the service of the modes of material nature but by developing Kṛṣṇa consciousness, knowledge in renunciation, and by practicing yoga, in which the mind is always fixed in devotional service unto the Supreme Personality of Godhead, one achieves My association in this very life, for I am the Supreme Personality, the Absolute Truth.}}
-
+---json
+{
+    "name":"SB 3.25.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.25.27",
+    "description":"Thus by not engaging in the service of the modes of material nature but by developing Kṛṣṇa consciousness, knowledge in renunciation, and by practicing yoga, in which the mind is always fixed in devotional service unto the Supreme Personality of Godhead, one achieves My association in this very life, for I am the Supreme Personality, the Absolute Truth."
+}
+---
 ====== SB 3.25.27 ======
 
 > असेवयायं प्रकृतेर्गुणानां ज्ञानेन वैराग्यविजृम्भितेन ।

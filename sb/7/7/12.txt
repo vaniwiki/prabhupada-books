@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.12~~
-~~bc:Text 12~~
-
-{{description>Prahlāda Mahārāja continued: The great saint Nārada Muni brought my mother to his āśrama and assured her of all protection, saying, "My dear child, please remain at my āśrama until the arrival of your husband."}}
-
+---json
+{
+    "name":"SB 7.7.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.7.12",
+    "description":"Prahlāda Mahārāja continued: The great saint Nārada Muni brought my mother to his āśrama and assured her of all protection, saying, "My dear child, please remain at my āśrama until the arrival of your husband.""
+}
+---
 ====== SB 7.7.12 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.60~~
-~~bc:Text 60~~
-
-{{description>Because the body is formed of the five elements, it cannot exist without the subtle sense objects. Therefore, since the body is false, the sense objects are also naturally false or temporary.}}
-
+---json
+{
+    "name":"SB 7.15.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 7.15.60",
+    "description":"Because the body is formed of the five elements, it cannot exist without the subtle sense objects. Therefore, since the body is false, the sense objects are also naturally false or temporary."
+}
+---
 ====== SB 7.15.60 ======
 
 ===== Text =====

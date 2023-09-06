@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.27~~
-~~bc:Text 27~~
-
-{{description>In His childhood, the Almighty Lord was surrounded by cowherd boys and calves, and thus He traveled on the shore of the Yamunā River, through gardens densely covered with trees and filled with vibrations of chirping birds.}}
-
+---json
+{
+    "name":"SB 3.2.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.2.27",
+    "description":"In His childhood, the Almighty Lord was surrounded by cowherd boys and calves, and thus He traveled on the shore of the Yamunā River, through gardens densely covered with trees and filled with vibrations of chirping birds."
+}
+---
 ====== SB 3.2.27 ======
 
 > परीतो वत्सपैर्वत्सांश्चारयन्व्यहरद्विभुः ।

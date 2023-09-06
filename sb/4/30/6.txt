@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.6~~
-~~bc:Text 6~~
-
-{{description>The Lord's face was very beautiful, and His head was decorated with a shining helmet and golden ornaments. The helmet was dazzling and was very beautifully situated on His head. The Lord had eight arms, which each held a particular weapon. The Lord was surrounded by demigods, great sages and other associates. These were all engaged in His service. Garuḍa, the carrier of the Lord, glorified the Lord with Vedic hymns by flapping his wings. Garuḍa appeared to be an inhabitant of the planet known as Kinnaraloka.}}
-
+---json
+{
+    "name":"SB 4.30.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.30.6",
+    "description":"The Lord's face was very beautiful, and His head was decorated with a shining helmet and golden ornaments. The helmet was dazzling and was very beautifully situated on His head. The Lord had eight arms, which each held a particular weapon. The Lord was surrounded by demigods, great sages and other associates. These were all engaged in His service. Garuḍa, the carrier of the Lord, glorified the Lord with Vedic hymns by flapping his wings. Garuḍa appeared to be an inhabitant of the planet known as Kinnaraloka."
+}
+---
 ====== SB 4.30.6 ======
 
 > काशिष्णुना कनकवर्णविभूषणेन

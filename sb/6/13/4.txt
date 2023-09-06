@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.13.4~~
-~~bc:Text 4~~
-
-{{description>Śrī Śukadeva Gosvāmī answered: When all the great sages and demigods were disturbed by the extraordinary power of Vṛtrāsura, they had assembled to ask Indra to kill him. Indra, however, being afraid of killing a brāhmaṇa, declined their request.}}
-
+---json
+{
+    "name":"SB 6.13.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 6.13.4",
+    "description":"Śrī Śukadeva Gosvāmī answered: When all the great sages and demigods were disturbed by the extraordinary power of Vṛtrāsura, they had assembled to ask Indra to kill him. Indra, however, being afraid of killing a brāhmaṇa, declined their request."
+}
+---
 ====== SB 6.13.4 ======
 
 ===== Text =====

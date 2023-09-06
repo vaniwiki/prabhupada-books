@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.15~~
-~~bc:Text 15~~
-
-{{description>Alas, my sister! Alas, my brother-in-law! I am indeed so sinful that exactly like a man-eater [Rākṣasa] who eats his own child, I have killed so many sons born of you.}}
-
+---json
+{
+    "name":"SB 10.4.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 10.4.15",
+    "description":"Alas, my sister! Alas, my brother-in-law! I am indeed so sinful that exactly like a man-eater [Rākṣasa] who eats his own child, I have killed so many sons born of you."
+}
+---
 ====== SB 10.4.15 ======
 
 ===== Text =====

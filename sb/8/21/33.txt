@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.33~~
-~~bc:Text 33~~
-
-{{description>Far from being elevated to the heavenly planets or fulfilling one's desire, one who does not properly give a beggar what he has promised falls down to a hellish condition of life.}}
-
+---json
+{
+    "name":"SB 8.21.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 8.21.33",
+    "description":"Far from being elevated to the heavenly planets or fulfilling one's desire, one who does not properly give a beggar what he has promised falls down to a hellish condition of life."
+}
+---
 ====== SB 8.21.33 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.3~~
-~~bc:Text 3~~
-
-{{description>The demon addressed the Lord: O best of the demigods, dressed in the form of a boar, just hear me. This earth is entrusted to us, the inhabitants of the lower regions, and You cannot take it from my presence and not be hurt by me.}}
-
+---json
+{
+    "name":"SB 3.18.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.18.3",
+    "description":"The demon addressed the Lord: O best of the demigods, dressed in the form of a boar, just hear me. This earth is entrusted to us, the inhabitants of the lower regions, and You cannot take it from my presence and not be hurt by me."
+}
+---
 ====== SB 3.18.3 ======
 
 > आहैनमेह्यज्ञ महीं विमुञ्च नो रसौकसां विश्वसृजेयमर्पिता ।

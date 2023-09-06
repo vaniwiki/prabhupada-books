@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.44~~
-~~bc:Text 44~~
-
-{{description>O Supreme Lord, undoubtedly we are inhabitants of the most pious planets—the Jana, Tapas and Satya lokas—but still we have been purified by the drops of water sprinkled from Your shoulder hairs by the shaking of Your body.}}
-
+---json
+{
+    "name":"SB 3.13.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 3.13.44",
+    "description":"O Supreme Lord, undoubtedly we are inhabitants of the most pious planets—the Jana, Tapas and Satya lokas—but still we have been purified by the drops of water sprinkled from Your shoulder hairs by the shaking of Your body."
+}
+---
 ====== SB 3.13.44 ======
 
 > विधुन्वता वेदमयं निजं वपुर्जनस्तपःसत्यनिवासिनो वयम् ।

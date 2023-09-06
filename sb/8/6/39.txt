@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.6.39~~
-~~bc:Text 39~~
-
-{{description>Thereafter, Garuḍa, the chief of birds, unloaded Mandara Mountain from his shoulder and brought it near the water. Then he was asked by the Lord to leave that place, and he left.}}
-
+---json
+{
+    "name":"SB 8.6.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 8.6.39",
+    "description":"Thereafter, Garuḍa, the chief of birds, unloaded Mandara Mountain from his shoulder and brought it near the water. Then he was asked by the Lord to leave that place, and he left."
+}
+---
 ====== SB 8.6.39 ======
 
 ===== Text =====

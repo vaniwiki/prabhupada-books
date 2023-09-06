@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.34~~
-~~bc:Text 34~~
-
-{{description>The Lord's glorious acts and His acceptance of various transcendental forms for the performance of extraordinary pastimes in the mortal world are very difficult for anyone other than His devotees to understand, and for the beasts they are simply a mental disturbance.}}
-
+---json
+{
+    "name":"SB 3.4.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.4.34",
+    "description":"The Lord's glorious acts and His acceptance of various transcendental forms for the performance of extraordinary pastimes in the mortal world are very difficult for anyone other than His devotees to understand, and for the beasts they are simply a mental disturbance."
+}
+---
 ====== SB 3.4.34 ======
 
 > देहन्यासं च तस्यैवं धीराणां धैर्यवर्धनम् ।

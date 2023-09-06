@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.21~~
-~~bc:Text 21~~
-
-{{description>They said: Here He is, the original Personality of Godhead as we definitely remember Him. He alone existed before the manifested creation of the modes of nature, and in Him only, because He is the Supreme Lord, all living beings merge, as if sleeping at night, their energy suspended.}}
-
+---json
+{
+    "name":"SB 1.10.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 1.10.21",
+    "description":"They said: Here He is, the original Personality of Godhead as we definitely remember Him. He alone existed before the manifested creation of the modes of nature, and in Him only, because He is the Supreme Lord, all living beings merge, as if sleeping at night, their energy suspended."
+}
+---
 ====== SB 1.10.21 ======
 
 > स वै किलायं पुरुषः पुरातनो य एक आसीदविशेष आत्मनि ।

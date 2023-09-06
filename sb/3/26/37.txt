@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.37~~
-~~bc:Text 37~~
-
-{{description>The action of the air is exhibited in movements, mixing, allowing approach to the objects of sound and other sense perceptions, and providing for the proper functioning of all other senses.}}
-
+---json
+{
+    "name":"SB 3.26.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.26.37",
+    "description":"The action of the air is exhibited in movements, mixing, allowing approach to the objects of sound and other sense perceptions, and providing for the proper functioning of all other senses."
+}
+---
 ====== SB 3.26.37 ======
 
 > चालनं व्यूहनं प्राप्तिर्नेतृत्वं द्रव्यशब्दयोः ।

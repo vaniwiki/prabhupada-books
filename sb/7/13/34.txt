@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.34~~
-~~bc:Text 34~~
-
-{{description>Those in human society who are intelligent should give up the original cause of lamentation, illusion, fear, anger, attachment, poverty and unnecessary labor. The original cause of all of these is the desire for unnecessary prestige and money.}}
-
+---json
+{
+    "name":"SB 7.13.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 7.13.34",
+    "description":"Those in human society who are intelligent should give up the original cause of lamentation, illusion, fear, anger, attachment, poverty and unnecessary labor. The original cause of all of these is the desire for unnecessary prestige and money."
+}
+---
 ====== SB 7.13.34 ======
 
 ===== Text =====

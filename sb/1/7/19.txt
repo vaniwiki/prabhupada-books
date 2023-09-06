@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.19~~
-~~bc:Text 19~~
-
-{{description>When the son of the brāhmaṇa [Aśvatthāmā] saw that his horses were tired, he considered that there was no alternative for protection outside of his using the ultimate weapon, the brahmāstra [nuclear weapon].}}
-
+---json
+{
+    "name":"SB 1.7.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.7.19",
+    "description":"When the son of the brāhmaṇa [Aśvatthāmā] saw that his horses were tired, he considered that there was no alternative for protection outside of his using the ultimate weapon, the brahmāstra [nuclear weapon]."
+}
+---
 ====== SB 1.7.19 ======
 
 > यदाशरणमात्मानमैक्षत श्रान्तवाजिनम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.29~~
-~~bc:Text 29~~
-
-{{description>The process of the Supreme Personality of Godhead is very wonderful. One who is intelligent should accept that process and be satisfied with whatever comes, favorable or unfavorable, by His supreme will.}}
-
+---json
+{
+    "name":"SB 4.8.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.8.29",
+    "description":"The process of the Supreme Personality of Godhead is very wonderful. One who is intelligent should accept that process and be satisfied with whatever comes, favorable or unfavorable, by His supreme will."
+}
+---
 ====== SB 4.8.29 ======
 
 > परितुष्येत्ततस्तात तावन्मात्रेण पूरुषः ।

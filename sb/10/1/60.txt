@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.60~~
-~~bc:Text 60~~
-
-{{description>O Vasudeva, you may take back your child and go home. I have no fear of your first child. It is the eighth child of you and Devakī I am concerned with because that is the child by whom I am destined to be killed.}}
-
+---json
+{
+    "name":"SB 10.1.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 10.1.60",
+    "description":"O Vasudeva, you may take back your child and go home. I have no fear of your first child. It is the eighth child of you and Devakī I am concerned with because that is the child by whom I am destined to be killed."
+}
+---
 ====== SB 10.1.60 ======
 
 ===== Text =====

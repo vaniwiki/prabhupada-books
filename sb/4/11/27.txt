@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.27~~
-~~bc:Text 27~~
-
-{{description>My dear boy Dhruva, please surrender unto the Supreme Personality of Godhead, who is the ultimate goal of the progress of the world. Everyone, including the demigods headed by Lord Brahmā, is working under His control, just as a bull, prompted by a rope in its nose, is controlled by its owner.}}
-
+---json
+{
+    "name":"SB 4.11.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.11.27",
+    "description":"My dear boy Dhruva, please surrender unto the Supreme Personality of Godhead, who is the ultimate goal of the progress of the world. Everyone, including the demigods headed by Lord Brahmā, is working under His control, just as a bull, prompted by a rope in its nose, is controlled by its owner."
+}
+---
 ====== SB 4.11.27 ======
 
 > तमेव मृत्युममृतं तात दैवं सर्वात्मनोपेहि जगत्परायणम् ।

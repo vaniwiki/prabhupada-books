@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.26~~
-~~bc:Text 26~~
-
-{{description>I request all the pure-hearted demigods, forefathers and saintly persons to support my proposal, for after death the result of an action is equally shared by its doer, its director and its supporter.}}
-
+---json
+{
+    "name":"SB 4.21.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.21.26",
+    "description":"I request all the pure-hearted demigods, forefathers and saintly persons to support my proposal, for after death the result of an action is equally shared by its doer, its director and its supporter."
+}
+---
 ====== SB 4.21.26 ======
 
 > यूयं तदनुमोदध्वं पितृदेवर्षयोऽमलाः ।

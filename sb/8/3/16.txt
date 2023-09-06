@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.3.16~~
-~~bc:Text 16~~
-
-{{description>My Lord, as the fire in araṇi wood is covered, You and Your unlimited knowledge are covered by the material modes of nature. Your mind, however, is not attentive to the activities of the modes of nature. Those who are advanced in spiritual knowledge are not subject to the regulative principles directed in the Vedic literatures. Because such advanced souls are transcendental, You personally appear in their pure minds. Therefore I offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 8.3.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.3.16",
+    "description":"My Lord, as the fire in araṇi wood is covered, You and Your unlimited knowledge are covered by the material modes of nature. Your mind, however, is not attentive to the activities of the modes of nature. Those who are advanced in spiritual knowledge are not subject to the regulative principles directed in the Vedic literatures. Because such advanced souls are transcendental, You personally appear in their pure minds. Therefore I offer my respectful obeisances unto You."
+}
+---
 ====== SB 8.3.16 ======
 
 ===== Text =====

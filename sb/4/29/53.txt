@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.53~~
-~~bc:Text 53~~
-
-{{description>My dear King, please search out that deer who is engaged in eating grass in a very nice flower garden along with his wife. That deer is very much attached to his business, and he is enjoying the sweet singing of the bumblebees in his garden. Just try to understand his position. He is unaware that before him is a tiger, which is accustomed to living at the cost of another's flesh. Behind the deer is a hunter, who is threatening to pierce him with sharp arrows. Thus the deer's death is imminent.}}
-
+---json
+{
+    "name":"SB 4.29.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 4.29.53",
+    "description":"My dear King, please search out that deer who is engaged in eating grass in a very nice flower garden along with his wife. That deer is very much attached to his business, and he is enjoying the sweet singing of the bumblebees in his garden. Just try to understand his position. He is unaware that before him is a tiger, which is accustomed to living at the cost of another's flesh. Behind the deer is a hunter, who is threatening to pierce him with sharp arrows. Thus the deer's death is imminent."
+}
+---
 ====== SB 4.29.53 ======
 
 > क्षुद्रं चरं सुमनसां शरणे मिथित्वा

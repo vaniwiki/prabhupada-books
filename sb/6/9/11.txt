@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.11~~
-~~bc:Text 11~~
-
-{{description>After Viśvarūpa was killed, his father, Tvaṣṭā, performed ritualistic ceremonies to kill Indra. He offered oblations in the sacrificial fire, saying, "O enemy of Indra, flourish to kill your enemy without delay."}}
-
+---json
+{
+    "name":"SB 6.9.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 6.9.11",
+    "description":"After Viśvarūpa was killed, his father, Tvaṣṭā, performed ritualistic ceremonies to kill Indra. He offered oblations in the sacrificial fire, saying, "O enemy of Indra, flourish to kill your enemy without delay.""
+}
+---
 ====== SB 6.9.11 ======
 
 ===== Text =====

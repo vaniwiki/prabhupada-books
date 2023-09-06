@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.11~~
-~~bc:Text 11~~
-
-{{description>I create after the Lord's creation by His personal effulgence [known as the brahmajyoti], just as when the sun manifests its fire, the moon, the firmament, the influential planets and the twinkling stars also manifest their brightness.}}
-
+---json
+{
+    "name":"SB 2.5.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 2.5.11",
+    "description":"I create after the Lord's creation by His personal effulgence [known as the brahmajyoti], just as when the sun manifests its fire, the moon, the firmament, the influential planets and the twinkling stars also manifest their brightness."
+}
+---
 ====== SB 2.5.11 ======
 
 > येन स्वरोचिषा विश्वं रोचितं रोचयाम्यहम् ।

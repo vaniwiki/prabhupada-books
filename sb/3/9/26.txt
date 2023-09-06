@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.26~~
-~~bc:Text 26~~
-
-{{description>The sage Maitreya said: O Vidura, after observing the source of his appearance, namely the Personality of Godhead, Brahmā prayed for His mercy as far as his mind and words would permit him. Thus having prayed, he became silent, as if tired from his activities of penance, knowledge and mental concentration.}}
-
+---json
+{
+    "name":"SB 3.9.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.9.26",
+    "description":"The sage Maitreya said: O Vidura, after observing the source of his appearance, namely the Personality of Godhead, Brahmā prayed for His mercy as far as his mind and words would permit him. Thus having prayed, he became silent, as if tired from his activities of penance, knowledge and mental concentration."
+}
+---
 ====== SB 3.9.26 ======
 
 > मैत्रेय उवाच

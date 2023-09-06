@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.12~~
-~~bc:Text 12~~
-
-{{description>In the period of the eighth Manu, among the demigods will be the Sutapās, the Virajas and the Amṛtaprabhas. The king of the demigods, Indra, will be Bali Mahārāja, the son of Virocana.}}
-
+---json
+{
+    "name":"SB 8.13.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 8.13.12",
+    "description":"In the period of the eighth Manu, among the demigods will be the Sutapās, the Virajas and the Amṛtaprabhas. The king of the demigods, Indra, will be Bali Mahārāja, the son of Virocana."
+}
+---
 ====== SB 8.13.12 ======
 
 ===== Text =====

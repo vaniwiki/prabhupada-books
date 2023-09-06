@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.8~~
-~~bc:Text 8~~
-
-{{description>Devotional service executed by a person who is envious, proud, violent and angry, and who is a separatist, is considered to be in the mode of darkness.}}
-
+---json
+{
+    "name":"SB 3.29.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.29.8",
+    "description":"Devotional service executed by a person who is envious, proud, violent and angry, and who is a separatist, is considered to be in the mode of darkness."
+}
+---
 ====== SB 3.29.8 ======
 
 > अभिसन्धाय यो हिंसां दम्भं मात्सर्यमेव वा ।

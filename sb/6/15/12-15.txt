@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.12-15~~
-~~bc:Text 12-15~~
-
-{{description>O great souls, I have heard that among the great and perfect persons wandering the surface of the earth to instruct knowledge to people covered by ignorance are Sanat-kumāra, Nārada, Ṛbhu, Aṅgirā, Devala, Asita, Apāntaratamā [Vyāsadeva], Mārkaṇḍeya, Gautama, Vasiṣṭha, Bhagavān Paraśurāma, Kapila, Śukadeva, Durvāsā, Yājñavalkya, Jātukarṇa and Aruṇi. Others are Romaśa, Cyavana, Dattātreya, Āsuri, Patañjali, the great sage Dhaumya who is like the head of the Vedas, the sage Pañcaśikha, Hiraṇyanābha, Kauśalya, Śrutadeva and Ṛtadhvaja. You must certainly be among them.}}
-
+---json
+{
+    "name":"SB 6.15.12-15",
+    "h1":"Text 12-15",
+    "title":" Śrīmad Bhāgavatam 6.15.12-15",
+    "description":"O great souls, I have heard that among the great and perfect persons wandering the surface of the earth to instruct knowledge to people covered by ignorance are Sanat-kumāra, Nārada, Ṛbhu, Aṅgirā, Devala, Asita, Apāntaratamā [Vyāsadeva], Mārkaṇḍeya, Gautama, Vasiṣṭha, Bhagavān Paraśurāma, Kapila, Śukadeva, Durvāsā, Yājñavalkya, Jātukarṇa and Aruṇi. Others are Romaśa, Cyavana, Dattātreya, Āsuri, Patañjali, the great sage Dhaumya who is like the head of the Vedas, the sage Pañcaśikha, Hiraṇyanābha, Kauśalya, Śrutadeva and Ṛtadhvaja. You must certainly be among them."
+}
+---
 ====== SB 6.15.12-15 ======
 
 ===== Text =====

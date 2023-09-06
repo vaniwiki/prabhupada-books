@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.34~~
-~~bc:Text 34~~
-
-{{description>Thus all the universes remained thousands of eons within the water [the Causal Ocean], and the Lord of living beings, entering in each of them, caused them to be fully animated.}}
-
+---json
+{
+    "name":"SB 2.5.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 2.5.34",
+    "description":"Thus all the universes remained thousands of eons within the water [the Causal Ocean], and the Lord of living beings, entering in each of them, caused them to be fully animated."
+}
+---
 ====== SB 2.5.34 ======
 
 > वर्षपूगसहस्रान्ते तदण्डमुदके शयम् ।

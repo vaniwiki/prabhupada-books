@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.52~~
-~~bc:Text 52~~
-
-{{description>In the beginning I was alone and engaged in performing the austerities of mystic yoga, but later, because of the association of fish engaged in sex, I desired to marry. Then I became the husband of fifty wives, and in each of them I begot one hundred sons, and thus my family increased to five thousand members. By the influence of the modes of material nature, I became fallen and thought that I would be happy in material life. Thus there is no end to my material desires for enjoyment, in this life and the next.}}
-
+---json
+{
+    "name":"SB 9.6.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 9.6.52",
+    "description":"In the beginning I was alone and engaged in performing the austerities of mystic yoga, but later, because of the association of fish engaged in sex, I desired to marry. Then I became the husband of fifty wives, and in each of them I begot one hundred sons, and thus my family increased to five thousand members. By the influence of the modes of material nature, I became fallen and thought that I would be happy in material life. Thus there is no end to my material desires for enjoyment, in this life and the next."
+}
+---
 ====== SB 9.6.52 ======
 
 ===== Text =====

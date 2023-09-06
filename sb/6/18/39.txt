@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.39~~
-~~bc:Text 39~~
-
-{{description>Kaśyapa Muni thought: Alas, I have now become too attached to material enjoyment. Taking advantage of this, my mind has been attracted by the illusory energy of the Supreme Personality of Godhead in the form of a woman [my wife]. Therefore I am surely a wretched person who will glide down toward hell.}}
-
+---json
+{
+    "name":"SB 6.18.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 6.18.39",
+    "description":"Kaśyapa Muni thought: Alas, I have now become too attached to material enjoyment. Taking advantage of this, my mind has been attracted by the illusory energy of the Supreme Personality of Godhead in the form of a woman [my wife]. Therefore I am surely a wretched person who will glide down toward hell."
+}
+---
 ====== SB 6.18.39 ======
 
 ===== Text =====

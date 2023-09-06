@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.14~~
-~~bc:Text 14~~
-
-{{description>As pouring water on the root of a tree energizes the trunk, branches, twigs and everything else, and as supplying food to the stomach enlivens the senses and limbs of the body, simply worshiping the Supreme Personality of Godhead through devotional service automatically satisfies the demigods, who are parts of that Supreme Personality.}}
-
+---json
+{
+    "name":"SB 4.31.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.31.14",
+    "description":"As pouring water on the root of a tree energizes the trunk, branches, twigs and everything else, and as supplying food to the stomach enlivens the senses and limbs of the body, simply worshiping the Supreme Personality of Godhead through devotional service automatically satisfies the demigods, who are parts of that Supreme Personality."
+}
+---
 ====== SB 4.31.14 ======
 
 > यथा तरोर्मूलनिषेचनेन तृप्यन्ति तत्स्कन्धभुजोपशाखाः ।

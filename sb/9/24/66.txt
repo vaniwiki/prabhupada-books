@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.66~~
-~~bc:Text 66~~
-
-{{description>The Supreme Personality of Godhead, Śrī Kṛṣṇa, known as līlā-puruṣottama, appeared as the son of Vasudeva but immediately left His father's home and went to Vṛndāvana to expand His loving relationship with His confidential devotees. In Vṛndāvana the Lord killed many demons, and afterwards He returned to Dvārakā, where according to Vedic principles He married many wives who were the best of women, begot through them hundreds of sons, and performed sacrifices for His own worship to establish the principles of householder life.}}
-
+---json
+{
+    "name":"SB 9.24.66",
+    "h1":"Text 66",
+    "title":" Śrīmad Bhāgavatam 9.24.66",
+    "description":"The Supreme Personality of Godhead, Śrī Kṛṣṇa, known as līlā-puruṣottama, appeared as the son of Vasudeva but immediately left His father's home and went to Vṛndāvana to expand His loving relationship with His confidential devotees. In Vṛndāvana the Lord killed many demons, and afterwards He returned to Dvārakā, where according to Vedic principles He married many wives who were the best of women, begot through them hundreds of sons, and performed sacrifices for His own worship to establish the principles of householder life."
+}
+---
 ====== SB 9.24.66 ======
 
 ===== Text =====

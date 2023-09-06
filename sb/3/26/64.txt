@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.64~~
-~~bc:Text 64~~
-
-{{description>The sun-god entered the eyes of the virāṭ-puruṣa with the sense of sight, but still the virāṭ-puruṣa did not get up. Similarly, the predominating deities of the directions entered through His ears with the sense of hearing, but still He did not get up.}}
-
+---json
+{
+    "name":"SB 3.26.64",
+    "h1":"Text 64",
+    "title":" Śrīmad Bhāgavatam 3.26.64",
+    "description":"The sun-god entered the eyes of the virāṭ-puruṣa with the sense of sight, but still the virāṭ-puruṣa did not get up. Similarly, the predominating deities of the directions entered through His ears with the sense of hearing, but still He did not get up."
+}
+---
 ====== SB 3.26.64 ======
 
 > अक्षिणी चक्षुषादित्यो नोदतिष्ठत्तदा विराट् ।

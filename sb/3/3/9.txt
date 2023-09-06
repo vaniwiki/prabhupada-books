@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.9~~
-~~bc:Text 9~~
-
-{{description>Just to expand Himself according to His transcendental features, the Lord begot in each and every one of them ten offspring with exactly His own qualities.}}
-
+---json
+{
+    "name":"SB 3.3.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.3.9",
+    "description":"Just to expand Himself according to His transcendental features, the Lord begot in each and every one of them ten offspring with exactly His own qualities."
+}
+---
 ====== SB 3.3.9 ======
 
 > तास्वपत्यान्यजनयदात्मतुल्यानि सर्वतः ।

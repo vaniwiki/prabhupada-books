@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.46~~
-~~bc:Text 46~~
-
-{{description>After seeing that all the trees on the surface of the earth were being turned to ashes, Lord Brahmā immediately came to the sons of King Barhiṣmān and pacified them with words of logic.}}
-
+---json
+{
+    "name":"SB 4.30.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.30.46",
+    "description":"After seeing that all the trees on the surface of the earth were being turned to ashes, Lord Brahmā immediately came to the sons of King Barhiṣmān and pacified them with words of logic."
+}
+---
 ====== SB 4.30.46 ======
 
 > भस्मसात्क्रियमाणांस्तान्द्रुमान्वीक्ष्य पितामहः ।

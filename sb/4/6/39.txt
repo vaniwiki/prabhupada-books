@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.39~~
-~~bc:Text 39~~
-
-{{description>All the sages and demigods, headed by Indra, offered their respectful obeisances unto Lord Śiva with folded hands. Lord Śiva was dressed in saffron garments and absorbed in trance, thus appearing to be the foremost of all sages.}}
-
+---json
+{
+    "name":"SB 4.6.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.6.39",
+    "description":"All the sages and demigods, headed by Indra, offered their respectful obeisances unto Lord Śiva with folded hands. Lord Śiva was dressed in saffron garments and absorbed in trance, thus appearing to be the foremost of all sages."
+}
+---
 ====== SB 4.6.39 ======
 
 > तं ब्रह्मनिर्वाणसमाधिमाश्रितं व्युपाश्रितं गिरिशं योगकक्षाम् ।

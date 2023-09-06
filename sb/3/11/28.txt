@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.28~~
-~~bc:Text 28~~
-
-{{description>At the end of the day, under the insignificant portion of the mode of darkness, the powerful manifestation of the universe merges in the darkness of night. By the influence of eternal time, the innumerable living entities remain merged in that dissolution, and everything is silent.}}
-
+---json
+{
+    "name":"SB 3.11.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.11.28",
+    "description":"At the end of the day, under the insignificant portion of the mode of darkness, the powerful manifestation of the universe merges in the darkness of night. By the influence of eternal time, the innumerable living entities remain merged in that dissolution, and everything is silent."
+}
+---
 ====== SB 3.11.28 ======
 
 > तमोमात्रामुपादाय प्रतिसंरुद्धविक्रमः ।

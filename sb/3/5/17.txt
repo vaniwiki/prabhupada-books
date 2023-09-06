@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.17~~
-~~bc:Text 17~~
-
-{{description>Śukadeva Gosvāmī said: The great sage Maitreya Muni, after honoring Vidura very greatly, began to speak, at Vidura's request, for the greatest welfare of all people.}}
-
+---json
+{
+    "name":"SB 3.5.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.5.17",
+    "description":"Śukadeva Gosvāmī said: The great sage Maitreya Muni, after honoring Vidura very greatly, began to speak, at Vidura's request, for the greatest welfare of all people."
+}
+---
 ====== SB 3.5.17 ======
 
 > श्रीशुक उवाच

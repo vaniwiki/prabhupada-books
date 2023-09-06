@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.21~~
-~~bc:Text 21~~
-
-{{description>Your father, brother, well-wishers and sons are all dead and passed away. You yourself have expended the major portion of your life, your body is now overtaken by invalidity, and you are living in the home of another.}}
-
+---json
+{
+    "name":"SB 1.13.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 1.13.21",
+    "description":"Your father, brother, well-wishers and sons are all dead and passed away. You yourself have expended the major portion of your life, your body is now overtaken by invalidity, and you are living in the home of another."
+}
+---
 ====== SB 1.13.21 ======
 
 > पितृभ्रातृसुहृत्पुत्रा हतास्ते विगतं वयम् ।

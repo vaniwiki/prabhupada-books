@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.12~~
-~~bc:Text 12~~
-
-{{description>Lord Brahmā said: My dear boy Rudra, you have eleven other names: Manyu, Manu, Mahinasa, Mahān, Śiva, Ṛtadhvaja, Ugraretā, Bhava, Kāla, Vāmadeva and Dhṛtavrata.}}
-
+---json
+{
+    "name":"SB 3.12.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.12.12",
+    "description":"Lord Brahmā said: My dear boy Rudra, you have eleven other names: Manyu, Manu, Mahinasa, Mahān, Śiva, Ṛtadhvaja, Ugraretā, Bhava, Kāla, Vāmadeva and Dhṛtavrata."
+}
+---
 ====== SB 3.12.12 ======
 
 > मन्युर्मनुर्महिनसो महाञ्छिव ऋतध्वजः ।

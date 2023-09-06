@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.34~~
-~~bc:Text 34~~
-
-{{description>From that great lotus flower, Brahmā was generated, but Brahmā certainly could see nothing but the lotus. Therefore, thinking You to be outside, Lord Brahmā dove into the water and attempted to find the source of the lotus for one hundred years. He could find no trace of You, however, for when a seed fructifies, the original seed cannot be seen.}}
-
+---json
+{
+    "name":"SB 7.9.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 7.9.34",
+    "description":"From that great lotus flower, Brahmā was generated, but Brahmā certainly could see nothing but the lotus. Therefore, thinking You to be outside, Lord Brahmā dove into the water and attempted to find the source of the lotus for one hundred years. He could find no trace of You, however, for when a seed fructifies, the original seed cannot be seen."
+}
+---
 ====== SB 7.9.34 ======
 
 ===== Text =====

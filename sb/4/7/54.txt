@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.54~~
-~~bc:Text 54~~
-
-{{description>The Lord continued: One who does not consider Brahmā, Viṣṇu, Śiva or the living entities in general to be separate from the Supreme, and who knows Brahman, actually realizes peace; others do not.}}
-
+---json
+{
+    "name":"SB 4.7.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 4.7.54",
+    "description":"The Lord continued: One who does not consider Brahmā, Viṣṇu, Śiva or the living entities in general to be separate from the Supreme, and who knows Brahman, actually realizes peace; others do not."
+}
+---
 ====== SB 4.7.54 ======
 
 > त्रयाणामेकभावानां यो न पश्यति वै भिदाम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.2~~
-~~bc:Text 2~~
-
-{{description>A person in the renounced order of life may try to avoid even a dress to cover himself. If he wears anything at all, it should be only a loincloth, and when there is no necessity, a sannyāsī should not even accept a daṇḍa. A sannyāsī should avoid carrying anything but a daṇḍa and kamaṇḍalu.}}
-
+---json
+{
+    "name":"SB 7.13.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 7.13.2",
+    "description":"A person in the renounced order of life may try to avoid even a dress to cover himself. If he wears anything at all, it should be only a loincloth, and when there is no necessity, a sannyāsī should not even accept a daṇḍa. A sannyāsī should avoid carrying anything but a daṇḍa and kamaṇḍalu."
+}
+---
 ====== SB 7.13.2 ======
 
 ===== Text =====

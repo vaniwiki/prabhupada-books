@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.13~~
-~~bc:Text 13~~
-
-{{description>[Nārada Muni had described that there is a bila, or hole, from which, having entered, one does not return. The Haryaśvas understood the meaning of this allegory.] Hardly once has a person who has entered the lower planetary system called Pātāla been seen to return. Similarly, if one enters the Vaikuṇṭha-dhāma [pratyag-dhāma], he does not return to this material world. If there is such a place, from which, having gone, one does not return to the miserable material condition of life, what is the use of jumping like monkeys in the temporary material world and not seeing or understanding that place? What will be the profit?}}
-
+---json
+{
+    "name":"SB 6.5.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 6.5.13",
+    "description":"[Nārada Muni had described that there is a bila, or hole, from which, having entered, one does not return. The Haryaśvas understood the meaning of this allegory.] Hardly once has a person who has entered the lower planetary system called Pātāla been seen to return. Similarly, if one enters the Vaikuṇṭha-dhāma [pratyag-dhāma], he does not return to this material world. If there is such a place, from which, having gone, one does not return to the miserable material condition of life, what is the use of jumping like monkeys in the temporary material world and not seeing or understanding that place? What will be the profit?"
+}
+---
 ====== SB 6.5.13 ======
 
 ===== Text =====

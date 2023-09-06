@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.30~~
-~~bc:Text 30~~
-
-{{description>I am feeling incomplete, though I myself am fully equipped with everything required by the Vedas.}}
-
+---json
+{
+    "name":"SB 1.4.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.4.30",
+    "description":"I am feeling incomplete, though I myself am fully equipped with everything required by the Vedas."
+}
+---
 ====== SB 1.4.30 ======
 
 > तथापि बत मे दैह्यो ह्यात्मा चैवात्मना विभुः ।

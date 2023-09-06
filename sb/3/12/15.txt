@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.15~~
-~~bc:Text 15~~
-
-{{description>The most powerful Rudra, whose bodily color was blue mixed with red, created many offspring exactly resembling him in features, strength and furious nature.}}
-
+---json
+{
+    "name":"SB 3.12.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.12.15",
+    "description":"The most powerful Rudra, whose bodily color was blue mixed with red, created many offspring exactly resembling him in features, strength and furious nature."
+}
+---
 ====== SB 3.12.15 ======
 
 > इत्यादिष्टः स्वगुरुणा भगवान्नीललोहितः ।

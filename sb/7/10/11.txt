@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.11~~
-~~bc:Text 11~~
-
-{{description>The Supreme Personality of Godhead said: My dear Prahlāda, a devotee like you never desires any kind of material opulences, either in this life or in the next. Nonetheless, I order you to enjoy the opulences of the demons in this material world, acting as their king until the end of the duration of time occupied by Manu.}}
-
+---json
+{
+    "name":"SB 7.10.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 7.10.11",
+    "description":"The Supreme Personality of Godhead said: My dear Prahlāda, a devotee like you never desires any kind of material opulences, either in this life or in the next. Nonetheless, I order you to enjoy the opulences of the demons in this material world, acting as their king until the end of the duration of time occupied by Manu."
+}
+---
 ====== SB 7.10.11 ======
 
 ===== Text =====

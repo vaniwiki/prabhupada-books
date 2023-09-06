@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.16~~
-~~bc:Text 16~~
-
-{{description>O Kardama, I know that the original Supreme Personality of Godhead has now appeared as an incarnation by His internal energy. He is the bestower of all desired by the living entities, and He has now assumed the body of Kapila Muni.}}
-
+---json
+{
+    "name":"SB 3.24.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.24.16",
+    "description":"O Kardama, I know that the original Supreme Personality of Godhead has now appeared as an incarnation by His internal energy. He is the bestower of all desired by the living entities, and He has now assumed the body of Kapila Muni."
+}
+---
 ====== SB 3.24.16 ======
 
 > वेदाहमाद्यं पुरुषमवतीर्णं स्वमायया ।

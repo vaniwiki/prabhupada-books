@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.16~~
-~~bc:Text 16~~
-
-{{description>Lord Śrī Kṛṣṇa, thus thinking to Himself, established Mahārāja Yudhiṣṭhira in the position of supreme control of the world in order to show the ideal of administration on the path of piety.}}
-
+---json
+{
+    "name":"SB 3.3.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.3.16",
+    "description":"Lord Śrī Kṛṣṇa, thus thinking to Himself, established Mahārāja Yudhiṣṭhira in the position of supreme control of the world in order to show the ideal of administration on the path of piety."
+}
+---
 ====== SB 3.3.16 ======
 
 > एवं सञ्चिन्त्य भगवान्स्वराज्ये स्थाप्य धर्मजम् ।

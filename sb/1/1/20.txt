@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.1.20~~
-~~bc:Text 20~~
-
-{{description>Lord Śrī Kṛṣṇa, the Personality of Godhead, along with Balarāma, played like a human being, and so masked He performed many superhuman acts.}}
-
+---json
+{
+    "name":"SB 1.1.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.1.20",
+    "description":"Lord Śrī Kṛṣṇa, the Personality of Godhead, along with Balarāma, played like a human being, and so masked He performed many superhuman acts."
+}
+---
 ====== SB 1.1.20 ======
 
 > कृतवान्किल कर्माणि सह रामेण केशवः ।

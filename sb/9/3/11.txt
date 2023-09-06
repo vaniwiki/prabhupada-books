@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.11~~
-~~bc:Text 11~~
-
-{{description>Thereafter, some time having passed, the Aśvinī-kumāra brothers, the heavenly physicians, happened to come to Cyavana Muni's āśrama. After offering them respectful obeisances, Cyavana Muni requested them to give him youthful life, for they were able to do so.}}
-
+---json
+{
+    "name":"SB 9.3.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.3.11",
+    "description":"Thereafter, some time having passed, the Aśvinī-kumāra brothers, the heavenly physicians, happened to come to Cyavana Muni's āśrama. After offering them respectful obeisances, Cyavana Muni requested them to give him youthful life, for they were able to do so."
+}
+---
 ====== SB 9.3.11 ======
 
 ===== Text =====

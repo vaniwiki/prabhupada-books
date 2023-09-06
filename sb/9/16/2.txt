@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.2~~
-~~bc:Text 2~~
-
-{{description>Once when Reṇukā, the wife of Jamadagni, went to the bank of the Ganges to get water, she saw the King of the Gandharvas, decorated with a garland of lotuses and sporting in the Ganges with celestial women [Apsarās].}}
-
+---json
+{
+    "name":"SB 9.16.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.16.2",
+    "description":"Once when Reṇukā, the wife of Jamadagni, went to the bank of the Ganges to get water, she saw the King of the Gandharvas, decorated with a garland of lotuses and sporting in the Ganges with celestial women [Apsarās]."
+}
+---
 ====== SB 9.16.2 ======
 
 ===== Text =====

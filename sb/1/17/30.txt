@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.30~~
-~~bc:Text 30~~
-
-{{description>Mahārāja Parīkṣit, who was qualified to accept surrender and worthy of being sung in history, did not kill the poor surrendered and fallen Kali, but smiled compassionately, for he was kind to the poor.}}
-
+---json
+{
+    "name":"SB 1.17.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.17.30",
+    "description":"Mahārāja Parīkṣit, who was qualified to accept surrender and worthy of being sung in history, did not kill the poor surrendered and fallen Kali, but smiled compassionately, for he was kind to the poor."
+}
+---
 ====== SB 1.17.30 ======
 
 > पतितं पादयोर्वीरः कृपया दीनवत्सलः ।

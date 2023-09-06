@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.44~~
-~~bc:Text 44~~
-
-{{description>My dear Lord, I wish to see You exactly in the form that Your very dear devotees worship. You have many other forms, but I wish to see Your form that is especially liked by the devotees. Please be merciful upon me and show me that form, for only that form worshiped by the devotees can perfectly satisfy all the demands of the senses.}}
-
+---json
+{
+    "name":"SB 4.24.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 4.24.44",
+    "description":"My dear Lord, I wish to see You exactly in the form that Your very dear devotees worship. You have many other forms, but I wish to see Your form that is especially liked by the devotees. Please be merciful upon me and show me that form, for only that form worshiped by the devotees can perfectly satisfy all the demands of the senses."
+}
+---
 ====== SB 4.24.44 ======
 
 > दर्शनं नो दिदृक्षूणां देहि भागवतार्चितम् ।

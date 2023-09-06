@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.18.31~~
-~~bc:Text 31~~
-
-{{description>O son of a brāhmaṇa, today the fire of sacrifice is ablaze according to the injunction of the śāstra, and I have been freed from all the sinful reactions of my life by the water that has washed Your lotus feet. O my Lord, by the touch of Your small lotus feet the entire surface of the world has been sanctified.}}
-
+---json
+{
+    "name":"SB 8.18.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.18.31",
+    "description":"O son of a brāhmaṇa, today the fire of sacrifice is ablaze according to the injunction of the śāstra, and I have been freed from all the sinful reactions of my life by the water that has washed Your lotus feet. O my Lord, by the touch of Your small lotus feet the entire surface of the world has been sanctified."
+}
+---
 ====== SB 8.18.31 ======
 
 ===== Text =====

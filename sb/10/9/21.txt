@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.9.21~~
-~~bc:Text 21~~
-
-{{description>The Supreme Personality of Godhead, Kṛṣṇa, the son of mother Yaśodā, is accessible to devotees engaged in spontaneous loving service, but He is not as easily accessible to mental speculators, to those striving for self-realization by severe austerities and penances, or to those who consider the body the same as the self.}}
-
+---json
+{
+    "name":"SB 10.9.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 10.9.21",
+    "description":"The Supreme Personality of Godhead, Kṛṣṇa, the son of mother Yaśodā, is accessible to devotees engaged in spontaneous loving service, but He is not as easily accessible to mental speculators, to those striving for self-realization by severe austerities and penances, or to those who consider the body the same as the self."
+}
+---
 ====== SB 10.9.21 ======
 
 ===== Text =====

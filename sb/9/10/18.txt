@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.18~~
-~~bc:Text 18~~
-
-{{description>When Rāvaṇa, the master of the Rākṣasas, saw the disturbances created by the monkey soldiers, he called for Nikumbha, Kumbha, Dhūmrākṣa, Durmukha, Surāntaka, Narāntaka and other Rākṣasas and also his son Indrajit. Thereafter he called for Prahasta, Atikāya, Vikampana and finally Kumbhakarṇa. Then he induced all his followers to fight against the enemies.}}
-
+---json
+{
+    "name":"SB 9.10.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 9.10.18",
+    "description":"When Rāvaṇa, the master of the Rākṣasas, saw the disturbances created by the monkey soldiers, he called for Nikumbha, Kumbha, Dhūmrākṣa, Durmukha, Surāntaka, Narāntaka and other Rākṣasas and also his son Indrajit. Thereafter he called for Prahasta, Atikāya, Vikampana and finally Kumbhakarṇa. Then he induced all his followers to fight against the enemies."
+}
+---
 ====== SB 9.10.18 ======
 
 ===== Text =====

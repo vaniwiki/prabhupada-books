@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.44~~
-~~bc:Text 44~~
-
-{{description>I have shown you this form of Viṣṇu just to remind you of My previous births. Otherwise, if I appeared like an ordinary human child, you would not believe that the Supreme Personality of Godhead, Viṣṇu, has indeed appeared.}}
-
+---json
+{
+    "name":"SB 10.3.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 10.3.44",
+    "description":"I have shown you this form of Viṣṇu just to remind you of My previous births. Otherwise, if I appeared like an ordinary human child, you would not believe that the Supreme Personality of Godhead, Viṣṇu, has indeed appeared."
+}
+---
 ====== SB 10.3.44 ======
 
 ===== Text =====

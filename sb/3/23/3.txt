@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.3~~
-~~bc:Text 3~~
-
-{{description>Working sanely and diligently, she pleased her very powerful husband, giving up all lust, pride, envy, greed, sinful activities and vanity.}}
-
+---json
+{
+    "name":"SB 3.23.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.23.3",
+    "description":"Working sanely and diligently, she pleased her very powerful husband, giving up all lust, pride, envy, greed, sinful activities and vanity."
+}
+---
 ====== SB 3.23.3 ======
 
 > विसृज्य कामं दम्भं च द्वेषं लोभमघं मदम् ।

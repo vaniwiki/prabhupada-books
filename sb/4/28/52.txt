@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.52~~
-~~bc:Text 52~~
-
-{{description>The brāhmaṇa inquired as follows: Who are you? Whose wife or daughter are you? Who is the man lying here? It appears you are lamenting for this dead body. Don't you recognize Me? I am your eternal friend. You may remember that many times in the past you have consulted Me.}}
-
+---json
+{
+    "name":"SB 4.28.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 4.28.52",
+    "description":"The brāhmaṇa inquired as follows: Who are you? Whose wife or daughter are you? Who is the man lying here? It appears you are lamenting for this dead body. Don't you recognize Me? I am your eternal friend. You may remember that many times in the past you have consulted Me."
+}
+---
 ====== SB 4.28.52 ======
 
 > ब्राह्मण उवाच

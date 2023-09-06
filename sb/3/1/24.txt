@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.1.24~~
-~~bc:Text 24~~
-
-{{description>Thereafter he passed through very wealthy provinces like Surat, Sauvīra and Matsya and through western India, known as Kurujāṅgala. At last he reached the bank of the Yamunā, where he happened to meet Uddhava, the great devotee of Lord Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 3.1.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.1.24",
+    "description":"Thereafter he passed through very wealthy provinces like Surat, Sauvīra and Matsya and through western India, known as Kurujāṅgala. At last he reached the bank of the Yamunā, where he happened to meet Uddhava, the great devotee of Lord Kṛṣṇa."
+}
+---
 ====== SB 3.1.24 ======
 
 > ततस्त्वतिव्रज्य सुराष्ट्रमृद्धं सौवीरमत्स्यान्कुरुजाङ्गलांश्च ।

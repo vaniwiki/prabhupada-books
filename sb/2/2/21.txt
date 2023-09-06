@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.21~~
-~~bc:Text 21~~
-
-{{description>Thereafter the bhakti-yogī should push the life air up between the eyebrows, and then, blocking the seven outlets of the life air, he should maintain his aim for going back home, back to Godhead. If he is completely free from all desires for material enjoyment, he should then reach the cerebral hole and give up his material connections, having gone to the Supreme.}}
-
+---json
+{
+    "name":"SB 2.2.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 2.2.21",
+    "description":"Thereafter the bhakti-yogī should push the life air up between the eyebrows, and then, blocking the seven outlets of the life air, he should maintain his aim for going back home, back to Godhead. If he is completely free from all desires for material enjoyment, he should then reach the cerebral hole and give up his material connections, having gone to the Supreme."
+}
+---
 ====== SB 2.2.21 ======
 
 > तस्माद्भ्रुवोरन्तरमुन्नयेत निरुद्धसप्तायतनोऽनपेक्षः ।

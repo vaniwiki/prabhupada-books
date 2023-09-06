@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.30~~
-~~bc:Text 30~~
-
-{{description>My dear lord, by your form as the Vedas personified and through knowledge relating to the activities of all the yajñic brāhmaṇas, you spread the Vedic ritualistic ceremonies of the seven kinds of sacrifices, headed by agniṣṭoma. Indeed, you inspire the yajñic brāhmaṇas to perform the rituals mentioned in the three Vedas. Being the Supreme Soul, the Supersoul of all living entities, you are beginningless, endless and omniscient, beyond the limits of time and space.}}
-
+---json
+{
+    "name":"SB 7.3.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 7.3.30",
+    "description":"My dear lord, by your form as the Vedas personified and through knowledge relating to the activities of all the yajñic brāhmaṇas, you spread the Vedic ritualistic ceremonies of the seven kinds of sacrifices, headed by agniṣṭoma. Indeed, you inspire the yajñic brāhmaṇas to perform the rituals mentioned in the three Vedas. Being the Supreme Soul, the Supersoul of all living entities, you are beginningless, endless and omniscient, beyond the limits of time and space."
+}
+---
 ====== SB 7.3.30 ======
 
 ===== Text =====

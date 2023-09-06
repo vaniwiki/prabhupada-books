@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.7~~
-~~bc:Text 7~~
-
-{{description>Even though one may be very learned and wise, he is mad if he does not understand that the endeavor for sense gratification is a useless waste of time. Being forgetful of his own interest, he tries to be happy in the material world, centering his interests around his home, which is based on sexual intercourse and which brings him all kinds of material miseries. In this way one is no better than a foolish animal.}}
-
+---json
+{
+    "name":"SB 5.5.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.5.7",
+    "description":"Even though one may be very learned and wise, he is mad if he does not understand that the endeavor for sense gratification is a useless waste of time. Being forgetful of his own interest, he tries to be happy in the material world, centering his interests around his home, which is based on sexual intercourse and which brings him all kinds of material miseries. In this way one is no better than a foolish animal."
+}
+---
 ====== SB 5.5.7 ======
 
 ===== Text =====

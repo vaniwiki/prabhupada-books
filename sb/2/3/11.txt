@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.11~~
-~~bc:Text 11~~
-
-{{description>All the different kinds of worshipers of multidemigods can attain the highest perfectional benediction, which is spontaneous attraction unflinchingly fixed upon the Supreme Personality of Godhead, only by the association of the pure devotee of the Lord.}}
-
+---json
+{
+    "name":"SB 2.3.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 2.3.11",
+    "description":"All the different kinds of worshipers of multidemigods can attain the highest perfectional benediction, which is spontaneous attraction unflinchingly fixed upon the Supreme Personality of Godhead, only by the association of the pure devotee of the Lord."
+}
+---
 ====== SB 2.3.11 ======
 
 > एतावानेव यजतामिह निःश्रेयसोदयः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.12~~
-~~bc:Text 12~~
-
-{{description>[The inhabitants of Śālmalīdvīpa worship the demigod of the moon in the following words.] By his own rays, the moon-god has divided the month into two fortnights, known as śukla and kṛṣṇa, for the distribution of food grains to the pitās and the demigods. The demigod of the moon is he who divides time, and he is the king of all the residents of the universe. We therefore pray that he may remain our king and guide, and we offer him our respectful obeisances.}}
-
+---json
+{
+    "name":"SB 5.20.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.20.12",
+    "description":"[The inhabitants of Śālmalīdvīpa worship the demigod of the moon in the following words.] By his own rays, the moon-god has divided the month into two fortnights, known as śukla and kṛṣṇa, for the distribution of food grains to the pitās and the demigods. The demigod of the moon is he who divides time, and he is the king of all the residents of the universe. We therefore pray that he may remain our king and guide, and we offer him our respectful obeisances."
+}
+---
 ====== SB 5.20.12 ======
 
 ===== Text =====

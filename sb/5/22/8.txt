@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.8~~
-~~bc:Text 8~~
-
-{{description>Above the rays of the sunshine by a distance of 100,000 yojanas [800,000 miles] is the moon, which travels at a speed faster than that of the sun. In two lunar fortnights the moon travels through the equivalent of a saṁvatsara of the sun, in two and a quarter days it passes through a month of the sun, and in one day it passes through a fortnight of the sun.}}
-
+---json
+{
+    "name":"SB 5.22.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.22.8",
+    "description":"Above the rays of the sunshine by a distance of 100,000 yojanas [800,000 miles] is the moon, which travels at a speed faster than that of the sun. In two lunar fortnights the moon travels through the equivalent of a saṁvatsara of the sun, in two and a quarter days it passes through a month of the sun, and in one day it passes through a fortnight of the sun."
+}
+---
 ====== SB 5.22.8 ======
 
 ===== Text =====

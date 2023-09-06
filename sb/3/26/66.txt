@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.66~~
-~~bc:Text 66~~
-
-{{description>The god of death entered His anus with the organ of defecation, but the virāṭ-puruṣa could not be spurred to activity. The god Indra entered the hands with their power of grasping and dropping things, but the virāṭ-puruṣa would not get up even then.}}
-
+---json
+{
+    "name":"SB 3.26.66",
+    "h1":"Text 66",
+    "title":" Śrīmad Bhāgavatam 3.26.66",
+    "description":"The god of death entered His anus with the organ of defecation, but the virāṭ-puruṣa could not be spurred to activity. The god Indra entered the hands with their power of grasping and dropping things, but the virāṭ-puruṣa would not get up even then."
+}
+---
 ====== SB 3.26.66 ======
 
 > गुदं मृत्युरपानेन नोदतिष्ठत्तदा विराट् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.8~~
-~~bc:Text 8~~
-
-{{description>One should worship Lord Viṣṇu or His devotee for spiritual advancement in knowledge, and for protection of heredity and advancement of a dynasty one should worship the various demigods.}}
-
+---json
+{
+    "name":"SB 2.3.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 2.3.8",
+    "description":"One should worship Lord Viṣṇu or His devotee for spiritual advancement in knowledge, and for protection of heredity and advancement of a dynasty one should worship the various demigods."
+}
+---
 ====== SB 2.3.8 ======
 
 > धर्मार्थ उत्तमश्लोकं तन्तुः तन्वन्पित्न्यजेत् ।

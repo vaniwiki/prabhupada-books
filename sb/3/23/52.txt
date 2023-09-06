@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.52~~
-~~bc:Text 52~~
-
-{{description>My dear brāhmaṇa, as far as your daughters are concerned, they will find their own suitable husbands and go away to their respective homes. But who will give me solace after your departure as a sannyāsī?}}
-
+---json
+{
+    "name":"SB 3.23.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 3.23.52",
+    "description":"My dear brāhmaṇa, as far as your daughters are concerned, they will find their own suitable husbands and go away to their respective homes. But who will give me solace after your departure as a sannyāsī?"
+}
+---
 ====== SB 3.23.52 ======
 
 > ब्रह्मन्दुहितृभिस्तुभ्यं विमृग्याः पतयः समाः ।

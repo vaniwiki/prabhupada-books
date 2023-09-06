@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.5~~
-~~bc:Text 5~~
-
-{{description>My dear Dhruva, come forward. May the Lord always grace you with good fortune. The Supreme Personality of Godhead, who is beyond our sensory perception, is the Supersoul of all living entities, and thus all entities are one, without distinction. Begin, therefore, to render service unto the transcendental form of the Lord, who is the ultimate shelter of all living entities.}}
-
+---json
+{
+    "name":"SB 4.12.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.12.5",
+    "description":"My dear Dhruva, come forward. May the Lord always grace you with good fortune. The Supreme Personality of Godhead, who is beyond our sensory perception, is the Supersoul of all living entities, and thus all entities are one, without distinction. Begin, therefore, to render service unto the transcendental form of the Lord, who is the ultimate shelter of all living entities."
+}
+---
 ====== SB 4.12.5 ======
 
 > तद्गच्छ ध्रुव भद्रं ते भगवन्तमधोक्षजम् ।

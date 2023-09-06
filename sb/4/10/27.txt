@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.27~~
-~~bc:Text 27~~
-
-{{description>Then, as if it were the time of the dissolution of the whole world, the fierce sea with foaming waves and great roaring sounds came forward before him.}}
-
+---json
+{
+    "name":"SB 4.10.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.10.27",
+    "description":"Then, as if it were the time of the dissolution of the whole world, the fierce sea with foaming waves and great roaring sounds came forward before him."
+}
+---
 ====== SB 4.10.27 ======
 
 > समुद्र ऊर्मिभिर्भीमः प्लावयन्सर्वतो भुवम् ।

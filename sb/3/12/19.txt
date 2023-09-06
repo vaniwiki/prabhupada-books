@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.19~~
-~~bc:Text 19~~
-
-{{description>By penance only can one even approach the Personality of Godhead, who is within the heart of every living entity and at the same time beyond the reach of all senses.}}
-
+---json
+{
+    "name":"SB 3.12.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.12.19",
+    "description":"By penance only can one even approach the Personality of Godhead, who is within the heart of every living entity and at the same time beyond the reach of all senses."
+}
+---
 ====== SB 3.12.19 ======
 
 > तपसैव परं ज्योतिर्भगवन्तमधोक्षजम् ।

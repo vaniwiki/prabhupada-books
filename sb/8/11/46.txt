@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.46~~
-~~bc:Text 46~~
-
-{{description>Following the order of Nārada Muni, whatever demons remained on the battlefield took Bali Mahārāja, who was in a precarious condition, to the hill known as Astagiri.}}
-
+---json
+{
+    "name":"SB 8.11.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 8.11.46",
+    "description":"Following the order of Nārada Muni, whatever demons remained on the battlefield took Bali Mahārāja, who was in a precarious condition, to the hill known as Astagiri."
+}
+---
 ====== SB 8.11.46 ======
 
 ===== Text =====

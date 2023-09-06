@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.8~~
-~~bc:Text 8~~
-
-{{description>[King Sagara had two wives, Sumati and Keśinī.] The sons of Sumati, who were very proud of their prowess and influence, following the order of their father, searched for the lost horse. While doing so, they dug into the earth very extensively.}}
-
+---json
+{
+    "name":"SB 9.8.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.8.8",
+    "description":"[King Sagara had two wives, Sumati and Keśinī.] The sons of Sumati, who were very proud of their prowess and influence, following the order of their father, searched for the lost horse. While doing so, they dug into the earth very extensively."
+}
+---
 ====== SB 9.8.8 ======
 
 ===== Text =====

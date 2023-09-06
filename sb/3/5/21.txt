@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.21~~
-~~bc:Text 21~~
-
-{{description>Your good self is one of the eternal associates of the Supreme Personality of Godhead for whose sake the Lord, while going back to His abode, left instructions with me.}}
-
+---json
+{
+    "name":"SB 3.5.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.5.21",
+    "description":"Your good self is one of the eternal associates of the Supreme Personality of Godhead for whose sake the Lord, while going back to His abode, left instructions with me."
+}
+---
 ====== SB 3.5.21 ======
 
 > भवान्भगवतो नित्यं सम्मतः सानुगस्य ह ।

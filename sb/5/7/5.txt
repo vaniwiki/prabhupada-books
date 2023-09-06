@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.7.5~~
-~~bc:Text 5~~
-
-{{description>With great faith King Bharata performed various kinds of sacrifice. He performed the sacrifices known as agni-hotra, darśa, pūrṇamāsa, cāturmāsya, paśu-yajña [wherein a horse is sacrificed] and soma-yajña [wherein a kind of beverage is offered]. Sometimes these sacrifices were performed completely and sometimes partially. In any case, in all the sacrifices the regulations of cāturhotra were strictly followed. In this way Bharata Mahārāja worshiped the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 5.7.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.7.5",
+    "description":"With great faith King Bharata performed various kinds of sacrifice. He performed the sacrifices known as agni-hotra, darśa, pūrṇamāsa, cāturmāsya, paśu-yajña [wherein a horse is sacrificed] and soma-yajña [wherein a kind of beverage is offered]. Sometimes these sacrifices were performed completely and sometimes partially. In any case, in all the sacrifices the regulations of cāturhotra were strictly followed. In this way Bharata Mahārāja worshiped the Supreme Personality of Godhead."
+}
+---
 ====== SB 5.7.5 ======
 
 ===== Text =====

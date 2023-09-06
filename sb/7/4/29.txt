@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.29~~
-~~bc:Text 29~~
-
-{{description>The great saint Nārada Muni continued: When the Supreme Personality of Godhead, the spiritual master of everyone, thus reassured all the demigods living in the heavenly planets, they offered their respectful obeisances unto Him and returned, confident that the demon Hiraṇyakaśipu was now practically dead.}}
-
+---json
+{
+    "name":"SB 7.4.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 7.4.29",
+    "description":"The great saint Nārada Muni continued: When the Supreme Personality of Godhead, the spiritual master of everyone, thus reassured all the demigods living in the heavenly planets, they offered their respectful obeisances unto Him and returned, confident that the demon Hiraṇyakaśipu was now practically dead."
+}
+---
 ====== SB 7.4.29 ======
 
 ===== Text =====

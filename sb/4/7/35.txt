@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.35~~
-~~bc:Text 35~~
-
-{{description>The Siddhas prayed: Like an elephant that has suffered in a forest fire but can forget all its troubles by entering a river, our minds, O Lord, always merge in the nectarean river of Your transcendental pastimes, and they desire never to leave such transcendental bliss, which is as good as the pleasure of merging in the Absolute.}}
-
+---json
+{
+    "name":"SB 4.7.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.7.35",
+    "description":"The Siddhas prayed: Like an elephant that has suffered in a forest fire but can forget all its troubles by entering a river, our minds, O Lord, always merge in the nectarean river of Your transcendental pastimes, and they desire never to leave such transcendental bliss, which is as good as the pleasure of merging in the Absolute."
+}
+---
 ====== SB 4.7.35 ======
 
 > सिद्धा ऊचुः

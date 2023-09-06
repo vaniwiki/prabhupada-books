@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.5.11~~
-~~bc:Text 11~~
-
-{{description>If the Supreme Personality of Godhead, who is one without a second, who is the reservoir of all transcendental qualities, and who is the life and soul of all living entities, is pleased with us, we wish that this brāhmaṇa, Durvāsā Muni, be freed from the pain of being burned.}}
-
+---json
+{
+    "name":"SB 9.5.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.5.11",
+    "description":"If the Supreme Personality of Godhead, who is one without a second, who is the reservoir of all transcendental qualities, and who is the life and soul of all living entities, is pleased with us, we wish that this brāhmaṇa, Durvāsā Muni, be freed from the pain of being burned."
+}
+---
 ====== SB 9.5.11 ======
 
 ===== Text =====

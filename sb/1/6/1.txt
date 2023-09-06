@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.1~~
-~~bc:Text 1~~
-
-{{description>Sūta said: O brāhmaṇas, thus hearing all about Śrī Nārada's birth and activities, Vyāsadeva, the incarnation of God and son of Satyavatī, inquired as follows.}}
-
+---json
+{
+    "name":"SB 1.6.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.6.1",
+    "description":"Sūta said: O brāhmaṇas, thus hearing all about Śrī Nārada's birth and activities, Vyāsadeva, the incarnation of God and son of Satyavatī, inquired as follows."
+}
+---
 ====== SB 1.6.1 ======
 
 > सूत उवाच

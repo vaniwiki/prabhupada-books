@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.5-7~~
-~~bc:Text 5-7~~
-
-{{description>Hiraṇyakaśipu became the conqueror of the entire universe. Indeed, that great demon conquered all the planets in the three worlds-upper, middle and lower-including the planets of the human beings, the Gandharvas, the Garuḍas, the great serpents, the Siddhas, Cāraṇas and Vidyādharas, the great saints, Yamarāja, the Manus, the Yakṣas, the Rākṣasas, the Piśācas and their masters, and the masters of the ghosts and Bhūtas. He defeated the rulers of all the other planets where there are living entities and brought them under his control. Conquering the abodes of all, he seized their power and influence.}}
-
+---json
+{
+    "name":"SB 7.4.5-7",
+    "h1":"Text 5-7",
+    "title":" Śrīmad Bhāgavatam 7.4.5-7",
+    "description":"Hiraṇyakaśipu became the conqueror of the entire universe. Indeed, that great demon conquered all the planets in the three worlds-upper, middle and lower-including the planets of the human beings, the Gandharvas, the Garuḍas, the great serpents, the Siddhas, Cāraṇas and Vidyādharas, the great saints, Yamarāja, the Manus, the Yakṣas, the Rākṣasas, the Piśācas and their masters, and the masters of the ghosts and Bhūtas. He defeated the rulers of all the other planets where there are living entities and brought them under his control. Conquering the abodes of all, he seized their power and influence."
+}
+---
 ====== SB 7.4.5-7 ======
 
 ===== Text =====

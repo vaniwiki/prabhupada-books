@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.19~~
-~~bc:Text 19~~
-
-{{description>Just to encourage the members of the assembly and to enhance their pleasure, King Pṛthu glanced over them with eyes that seemed like stars in a sky wet with dew. He then spoke to them in a great voice.}}
-
+---json
+{
+    "name":"SB 4.21.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.21.19",
+    "description":"Just to encourage the members of the assembly and to enhance their pleasure, King Pṛthu glanced over them with eyes that seemed like stars in a sky wet with dew. He then spoke to them in a great voice."
+}
+---
 ====== SB 4.21.19 ======
 
 > शिशिरस्निग्धताराक्षः समैक्षत समन्ततः ।

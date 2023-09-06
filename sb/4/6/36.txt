@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.36~~
-~~bc:Text 36~~
-
-{{description>He was seated on a deerskin and was practicing all forms of austerity. Because his body was smeared with ashes, he looked like an evening cloud. On his hair was the sign of a half-moon, a symbolic representation.}}
-
+---json
+{
+    "name":"SB 4.6.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.6.36",
+    "description":"He was seated on a deerskin and was practicing all forms of austerity. Because his body was smeared with ashes, he looked like an evening cloud. On his hair was the sign of a half-moon, a symbolic representation."
+}
+---
 ====== SB 4.6.36 ======
 
 > लिङ्गं च तापसाभीष्टं भस्मदण्डजटाजिनम् ।

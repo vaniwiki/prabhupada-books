@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.34~~
-~~bc:Text 34~~
-
-{{description>O Lord, You need no support, and although You have no material body, You do not need cooperation from us. Since You are the cause of the cosmic manifestation and You supply its material ingredients without being transformed, You create, maintain and annihilate this cosmic manifestation by Yourself. Nevertheless, although You appear engaged in material activity, You are transcendental to all material qualities. Consequently these transcendental activities of Yours are extremely difficult to understand.}}
-
+---json
+{
+    "name":"SB 6.9.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 6.9.34",
+    "description":"O Lord, You need no support, and although You have no material body, You do not need cooperation from us. Since You are the cause of the cosmic manifestation and You supply its material ingredients without being transformed, You create, maintain and annihilate this cosmic manifestation by Yourself. Nevertheless, although You appear engaged in material activity, You are transcendental to all material qualities. Consequently these transcendental activities of Yours are extremely difficult to understand."
+}
+---
 ====== SB 6.9.34 ======
 
 ===== Text =====

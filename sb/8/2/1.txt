@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.2.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: My dear King, there is a very large mountain called Trikūṭa. It is ten thousand yojanas [eighty thousand miles] high. Being surrounded by the ocean of milk, it is very beautifully situated.}}
-
+---json
+{
+    "name":"SB 8.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.2.1",
+    "description":"Śukadeva Gosvāmī said: My dear King, there is a very large mountain called Trikūṭa. It is ten thousand yojanas [eighty thousand miles] high. Being surrounded by the ocean of milk, it is very beautifully situated."
+}
+---
 ====== SB 8.2.1 ======
 
 ===== Text =====

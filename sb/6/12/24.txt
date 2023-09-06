@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.24~~
-~~bc:Text 24~~
-
-{{description>O Mahārāja Parīkṣit, Vṛtrāsura, who was completely able to subdue his enemy, took his iron club, whirled it around, aimed it at Indra and then threw it at him with his left hand.}}
-
+---json
+{
+    "name":"SB 6.12.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.12.24",
+    "description":"O Mahārāja Parīkṣit, Vṛtrāsura, who was completely able to subdue his enemy, took his iron club, whirled it around, aimed it at Indra and then threw it at him with his left hand."
+}
+---
 ====== SB 6.12.24 ======
 
 ===== Text =====

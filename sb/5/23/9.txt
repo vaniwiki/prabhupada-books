@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.23.9~~
-~~bc:Text 9~~
-
-{{description>The body of the Supreme Lord, Viṣṇu, which forms the Śiśumāra-cakra, is the resting place of all the demigods and all the stars and planets. One who chants this mantra to worship that Supreme Person three times a day—morning, noon and evening—will surely be freed from all sinful reactions. If one simply offers his obeisances to this form or remembers this form three times a day, all his recent sinful activities will be destroyed.}}
-
+---json
+{
+    "name":"SB 5.23.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 5.23.9",
+    "description":"The body of the Supreme Lord, Viṣṇu, which forms the Śiśumāra-cakra, is the resting place of all the demigods and all the stars and planets. One who chants this mantra to worship that Supreme Person three times a day—morning, noon and evening—will surely be freed from all sinful reactions. If one simply offers his obeisances to this form or remembers this form three times a day, all his recent sinful activities will be destroyed."
+}
+---
 ====== SB 5.23.9 ======
 
 ===== Text =====

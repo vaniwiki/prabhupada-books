@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.3~~
-~~bc:Text 3~~
-
-{{description>For this reason the enlightened person should endeavor only for the minimum necessities of life while in the world of names. He should be intelligently fixed and never endeavor for unwanted things, being competent to perceive practically that all such endeavors are merely hard labor for nothing.}}
-
+---json
+{
+    "name":"SB 2.2.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 2.2.3",
+    "description":"For this reason the enlightened person should endeavor only for the minimum necessities of life while in the world of names. He should be intelligently fixed and never endeavor for unwanted things, being competent to perceive practically that all such endeavors are merely hard labor for nothing."
+}
+---
 ====== SB 2.2.3 ======
 
 > अतः कविर्नामसु यावदर्थः स्यादप्रमत्तो व्यवसायबुद्धिः ।

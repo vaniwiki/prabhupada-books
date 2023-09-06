@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.8~~
-~~bc:Text 8~~
-
-{{description>When the young, lotus-eyed girls came to the bank of a reservoir of water, they wanted to enjoy by bathing. Thus they left their clothing on the bank and began sporting, throwing water on one another.}}
-
+---json
+{
+    "name":"SB 9.18.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.18.8",
+    "description":"When the young, lotus-eyed girls came to the bank of a reservoir of water, they wanted to enjoy by bathing. Thus they left their clothing on the bank and began sporting, throwing water on one another."
+}
+---
 ====== SB 9.18.8 ======
 
 ===== Text =====

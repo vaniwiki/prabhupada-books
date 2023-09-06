@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.2~~
-~~bc:Text 2~~
-
-{{description>A few months passed, and Arjuna did not return. Mahārāja Yudhiṣṭhira then began to observe some inauspicious omens, which were fearful in themselves.}}
-
+---json
+{
+    "name":"SB 1.14.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.14.2",
+    "description":"A few months passed, and Arjuna did not return. Mahārāja Yudhiṣṭhira then began to observe some inauspicious omens, which were fearful in themselves."
+}
+---
 ====== SB 1.14.2 ======
 
 > व्यतीताः कतिचिन्मासास्तदा नायात्ततोऽर्जुनः ।

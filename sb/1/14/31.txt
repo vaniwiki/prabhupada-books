@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.31~~
-~~bc:Text 31~~
-
-{{description>Are all the chieftain sons of Lord Kṛṣṇa, such as Suṣeṇa, Cārudeṣṇa, Sāmba the son of Jāmbavatī, and Ṛṣabha, along with their sons, all doing well?}}
-
+---json
+{
+    "name":"SB 1.14.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 1.14.31",
+    "description":"Are all the chieftain sons of Lord Kṛṣṇa, such as Suṣeṇa, Cārudeṣṇa, Sāmba the son of Jāmbavatī, and Ṛṣabha, along with their sons, all doing well?"
+}
+---
 ====== SB 1.14.31 ======
 
 > सुषेणश्चारुदेष्णश्च साम्बो जाम्बवतीसुतः ।

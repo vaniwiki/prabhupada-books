@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.10~~
-~~bc:Text 10~~
-
-{{description>Mahārāja Barhiṣat executed many sacrifices all over the world. He scattered kuśa grasses and kept the tops of the grasses pointed eastward.}}
-
+---json
+{
+    "name":"SB 4.24.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 4.24.10",
+    "description":"Mahārāja Barhiṣat executed many sacrifices all over the world. He scattered kuśa grasses and kept the tops of the grasses pointed eastward."
+}
+---
 ====== SB 4.24.10 ======
 
 > यस्येदं देवयजनमनुयज्ञं वितन्वतः ।

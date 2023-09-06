@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.19~~
-~~bc:Text 19~~
-
-{{description>Just see how all Your playmates of Your own age have been cleansed and decorated with beautiful ornaments by their mothers. You should come here, and after You have taken Your bath, eaten Your lunch and been decorated with ornaments, You may play with Your friends again.}}
-
+---json
+{
+    "name":"SB 10.11.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 10.11.19",
+    "description":"Just see how all Your playmates of Your own age have been cleansed and decorated with beautiful ornaments by their mothers. You should come here, and after You have taken Your bath, eaten Your lunch and been decorated with ornaments, You may play with Your friends again."
+}
+---
 ====== SB 10.11.19 ======
 
 ===== Text =====

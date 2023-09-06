@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.42~~
-~~bc:Text 42~~
-
-{{description>Now I can meditate with full concentration upon that one Lord, Śrī Kṛṣṇa, now present before me because now I have transcended the misconceptions of duality in regard to His presence in everyone's heart, even in the hearts of the mental speculators. He is in everyone's heart. The sun may be perceived differently, but the sun is one.}}
-
+---json
+{
+    "name":"SB 1.9.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 1.9.42",
+    "description":"Now I can meditate with full concentration upon that one Lord, Śrī Kṛṣṇa, now present before me because now I have transcended the misconceptions of duality in regard to His presence in everyone's heart, even in the hearts of the mental speculators. He is in everyone's heart. The sun may be perceived differently, but the sun is one."
+}
+---
 ====== SB 1.9.42 ======
 
 > तमिममहमजं शरीरभाजां हृदि हृदि धिष्ठितमात्मकल्पितानाम् ।

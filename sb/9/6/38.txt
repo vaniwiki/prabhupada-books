@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.38~~
-~~bc:Text 38~~
-
-{{description>Māndhātā begot three sons in the womb of Bindumatī, the daughter of Śaśabindu. These sons were Purukutsa, Ambarīṣa, and Mucukunda, a great mystic yogī. These three brothers had fifty sisters, who all accepted the great sage Saubhari as their husband.}}
-
+---json
+{
+    "name":"SB 9.6.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 9.6.38",
+    "description":"Māndhātā begot three sons in the womb of Bindumatī, the daughter of Śaśabindu. These sons were Purukutsa, Ambarīṣa, and Mucukunda, a great mystic yogī. These three brothers had fifty sisters, who all accepted the great sage Saubhari as their husband."
+}
+---
 ====== SB 9.6.38 ======
 
 ===== Text =====

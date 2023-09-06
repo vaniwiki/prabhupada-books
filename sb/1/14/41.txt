@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.41~~
-~~bc:Text 41~~
-
-{{description>You are always the protector of the deserving living beings, such as brāhmaṇas, children, cows, women and the diseased. Could you not give them protection when they approached you for shelter?}}
-
+---json
+{
+    "name":"SB 1.14.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 1.14.41",
+    "description":"You are always the protector of the deserving living beings, such as brāhmaṇas, children, cows, women and the diseased. Could you not give them protection when they approached you for shelter?"
+}
+---
 ====== SB 1.14.41 ======
 
 > कच्चित्त्वं ब्राह्मणं बालं गां वृद्धं रोगिणं स्त्रियम् ।

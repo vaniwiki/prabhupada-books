@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.10~~
-~~bc:Text 10~~
-
-{{description>O King Parīkṣit, the powerful Vṛtrāsura, the enemy of King Indra, angrily struck the head of Indra's elephant with that club, making a tumultuous sound on the battlefield. For this heroic deed, the soldiers on both sides glorified him.}}
-
+---json
+{
+    "name":"SB 6.11.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.11.10",
+    "description":"O King Parīkṣit, the powerful Vṛtrāsura, the enemy of King Indra, angrily struck the head of Indra's elephant with that club, making a tumultuous sound on the battlefield. For this heroic deed, the soldiers on both sides glorified him."
+}
+---
 ====== SB 6.11.10 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.16~~
-~~bc:Text 16~~
-
-{{description>The Personality of Godhead, seen leaning favorably towards His loving servitors, His very sight intoxicating and attractive, appeared to be very much satisfied. He had a smiling face decorated with an enchanting reddish hue. He was dressed in yellow robes and wore earrings and a helmet on his head. He had four hands, and His chest was marked with the lines of the goddess of fortune.}}
-
+---json
+{
+    "name":"SB 2.9.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 2.9.16",
+    "description":"The Personality of Godhead, seen leaning favorably towards His loving servitors, His very sight intoxicating and attractive, appeared to be very much satisfied. He had a smiling face decorated with an enchanting reddish hue. He was dressed in yellow robes and wore earrings and a helmet on his head. He had four hands, and His chest was marked with the lines of the goddess of fortune."
+}
+---
 ====== SB 2.9.16 ======
 
 > भृत्यप्रसादाभिमुखं दृगासवं प्रसन्नहासारुणलोचनाननम् ।

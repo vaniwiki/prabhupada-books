@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.2.28~~
-~~bc:Text 28~~
-
-{{description>Thereafter, seeing Gajendra in that grave condition, his wives felt very, very sorry and began to cry. The other elephants wanted to help Gajendra, but because of the crocodile's great strength, they could not rescue him by grasping him from behind.}}
-
+---json
+{
+    "name":"SB 8.2.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.2.28",
+    "description":"Thereafter, seeing Gajendra in that grave condition, his wives felt very, very sorry and began to cry. The other elephants wanted to help Gajendra, but because of the crocodile's great strength, they could not rescue him by grasping him from behind."
+}
+---
 ====== SB 8.2.28 ======
 
 ===== Text =====

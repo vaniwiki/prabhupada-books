@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.7.14~~
-~~bc:Text 14~~
-
-{{description>"The Supreme Personality of Godhead is situated in pure goodness. He illuminates the entire universe and bestows all benedictions upon His devotees. The Lord has created this universe from His own spiritual potency. According to His desire, the Lord entered this universe as the Supersoul, and by virtue of His different potencies, He is maintaining all living entities desiring material enjoyment. Let me offer my respectful obeisances unto the Lord, who is the giver of intelligence."}}
-
+---json
+{
+    "name":"SB 5.7.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 5.7.14",
+    "description":""The Supreme Personality of Godhead is situated in pure goodness. He illuminates the entire universe and bestows all benedictions upon His devotees. The Lord has created this universe from His own spiritual potency. According to His desire, the Lord entered this universe as the Supersoul, and by virtue of His different potencies, He is maintaining all living entities desiring material enjoyment. Let me offer my respectful obeisances unto the Lord, who is the giver of intelligence.""
+}
+---
 ====== SB 5.7.14 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Maitreya said: After hearing the words of Brahmā, the creator, which were free from all sinful purposes and as sweet as nectar, the Lord heartily laughed and accepted his prayer with a glance laden with love.}}
-
+---json
+{
+    "name":"SB 3.19.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.19.1",
+    "description":"Śrī Maitreya said: After hearing the words of Brahmā, the creator, which were free from all sinful purposes and as sweet as nectar, the Lord heartily laughed and accepted his prayer with a glance laden with love."
+}
+---
 ====== SB 3.19.1 ======
 
 > मैत्रेय उवाच

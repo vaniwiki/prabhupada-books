@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.5~~
-~~bc:Text 5~~
-
-{{description>Are there no torn clothes lying on the common road? Do the trees, which exist for maintaining others, no longer give alms in charity? Do the rivers, being dried up, no longer supply water to the thirsty? Are the caves of the mountains now closed, or, above all, does the Almighty Lord not protect the fully surrendered souls? Why then do the learned sages go to flatter those who are intoxicated by hard-earned wealth?}}
-
+---json
+{
+    "name":"SB 2.2.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 2.2.5",
+    "description":"Are there no torn clothes lying on the common road? Do the trees, which exist for maintaining others, no longer give alms in charity? Do the rivers, being dried up, no longer supply water to the thirsty? Are the caves of the mountains now closed, or, above all, does the Almighty Lord not protect the fully surrendered souls? Why then do the learned sages go to flatter those who are intoxicated by hard-earned wealth?"
+}
+---
 ====== SB 2.2.5 ======
 
 > चीराणि किं पथि न सन्ति दिशन्ति भिक्षां

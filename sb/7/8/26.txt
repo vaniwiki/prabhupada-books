@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.26~~
-~~bc:Text 26~~
-
-{{description>O Yudhiṣṭhira, O great son of Bhārata, when Lord Nṛsiṁhadeva gave Hiraṇyakaśipu a chance to slip from His hand, just as Garuḍa sometimes plays with a snake and lets it slip from his mouth, the demigods, who had lost their abodes and who were hiding behind the clouds for fear of the demon, did not consider that incident very good. Indeed, they were perturbed.}}
-
+---json
+{
+    "name":"SB 7.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 7.8.26",
+    "description":"O Yudhiṣṭhira, O great son of Bhārata, when Lord Nṛsiṁhadeva gave Hiraṇyakaśipu a chance to slip from His hand, just as Garuḍa sometimes plays with a snake and lets it slip from his mouth, the demigods, who had lost their abodes and who were hiding behind the clouds for fear of the demon, did not consider that incident very good. Indeed, they were perturbed."
+}
+---
 ====== SB 7.8.26 ======
 
 ===== Text =====

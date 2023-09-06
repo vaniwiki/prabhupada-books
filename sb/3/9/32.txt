@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.32~~
-~~bc:Text 32~~
-
-{{description>You will see Me in all living entities as well as all over the universe, just as fire is situated in wood. Only in that state of transcendental vision will you be able to be free from all kinds of illusion.}}
-
+---json
+{
+    "name":"SB 3.9.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.9.32",
+    "description":"You will see Me in all living entities as well as all over the universe, just as fire is situated in wood. Only in that state of transcendental vision will you be able to be free from all kinds of illusion."
+}
+---
 ====== SB 3.9.32 ======
 
 > यदा तु सर्वभूतेषु दारुष्वग्निमिव स्थितम् ।

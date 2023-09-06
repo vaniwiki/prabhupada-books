@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.31-33~~
-~~bc:Text 31-33~~
-
-{{description>The son of Śānti was Suśānti, the son of Suśānti was Puruja, and the son of Puruja was Arka. From Arka came Bharmyāśva, and from Bharmyāśva came five sons—Mudgala, Yavīnara, Bṛhadviśva, Kāmpilla and Sañjaya. Bharmyāśva prayed to his sons, "O my sons, please take charge of my five states, for you are quite competent to do so." Thus his five sons were known as the Pañcālas. From Mudgala came a dynasty of brāhmaṇas known as Maudgalya.}}
-
+---json
+{
+    "name":"SB 9.21.31-33",
+    "h1":"Text 31-33",
+    "title":" Śrīmad Bhāgavatam 9.21.31-33",
+    "description":"The son of Śānti was Suśānti, the son of Suśānti was Puruja, and the son of Puruja was Arka. From Arka came Bharmyāśva, and from Bharmyāśva came five sons—Mudgala, Yavīnara, Bṛhadviśva, Kāmpilla and Sañjaya. Bharmyāśva prayed to his sons, "O my sons, please take charge of my five states, for you are quite competent to do so." Thus his five sons were known as the Pañcālas. From Mudgala came a dynasty of brāhmaṇas known as Maudgalya."
+}
+---
 ====== SB 9.21.31-33 ======
 
 ===== Text =====

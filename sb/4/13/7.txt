@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.7~~
-~~bc:Text 7~~
-
-{{description>From his very birth, Utkala was fully satisfied and unattached to the world. He was equipoised, for he could see everything resting in the Supersoul and the Supersoul present in everyone's heart.}}
-
+---json
+{
+    "name":"SB 4.13.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.13.7",
+    "description":"From his very birth, Utkala was fully satisfied and unattached to the world. He was equipoised, for he could see everything resting in the Supersoul and the Supersoul present in everyone's heart."
+}
+---
 ====== SB 4.13.7 ======
 
 > स जन्मनोपशान्तात्मा निःसङ्गः समदर्शनः ।

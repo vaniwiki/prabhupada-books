@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.40~~
-~~bc:Text 40~~
-
-{{description>Fire is appreciated by its light and by its ability to cook, to digest, to destroy cold, to evaporate, and to give rise to hunger, thirst, eating and drinking.}}
-
+---json
+{
+    "name":"SB 3.26.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 3.26.40",
+    "description":"Fire is appreciated by its light and by its ability to cook, to digest, to destroy cold, to evaporate, and to give rise to hunger, thirst, eating and drinking."
+}
+---
 ====== SB 3.26.40 ======
 
 > द्योतनं पचनं पानमदनं हिममर्दनम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.38~~
-~~bc:Text 38~~
-
-{{description>He also created the medical science, military art, musical art and architectural science, all from the Vedas. They all emanated one after another, beginning from the front face.}}
-
+---json
+{
+    "name":"SB 3.12.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 3.12.38",
+    "description":"He also created the medical science, military art, musical art and architectural science, all from the Vedas. They all emanated one after another, beginning from the front face."
+}
+---
 ====== SB 3.12.38 ======
 
 > आयुर्वेदं धनुर्वेदं गान्धर्वं वेदमात्मनः ।

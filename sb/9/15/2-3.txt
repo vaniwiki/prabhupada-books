@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.15.2-3~~
-~~bc:Text 2-3~~
-
-{{description>The son of Śrutāyu was Vasumān; the son of Satyāyu, Śrutañjaya; the son of Raya, Eka; the son of Jaya, Amita; and the son of Vijaya, Bhīma. The son of Bhīma was Kāñcana; the son of Kāñcana was Hotraka; and the son of Hotraka was Jahnu, who drank all the water of the Ganges in one sip.}}
-
+---json
+{
+    "name":"SB 9.15.2-3",
+    "h1":"Text 2-3",
+    "title":" Śrīmad Bhāgavatam 9.15.2-3",
+    "description":"The son of Śrutāyu was Vasumān; the son of Satyāyu, Śrutañjaya; the son of Raya, Eka; the son of Jaya, Amita; and the son of Vijaya, Bhīma. The son of Bhīma was Kāñcana; the son of Kāñcana was Hotraka; and the son of Hotraka was Jahnu, who drank all the water of the Ganges in one sip."
+}
+---
 ====== SB 9.15.2-3 ======
 
 ===== Text =====

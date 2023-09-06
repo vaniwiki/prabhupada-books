@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.5~~
-~~bc:Text 5~~
-
-{{description>A servant who desires material profits from his master is certainly not a qualified servant or pure devotee. Similarly, a master who bestows benedictions upon his servant because of a desire to maintain a prestigious position as master is also not a pure master.}}
-
+---json
+{
+    "name":"SB 7.10.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 7.10.5",
+    "description":"A servant who desires material profits from his master is certainly not a qualified servant or pure devotee. Similarly, a master who bestows benedictions upon his servant because of a desire to maintain a prestigious position as master is also not a pure master."
+}
+---
 ====== SB 7.10.5 ======
 
 ===== Text =====

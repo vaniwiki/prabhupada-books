@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.29~~
-~~bc:Text 29~~
-
-{{description>Covered by the mode of ignorance in material nature, the living entity is sometimes a male, sometimes a female, sometimes a eunuch, sometimes a human being, sometimes a demigod, sometimes a bird, an animal, and so on. In this way he is wandering within the material world. His acceptance of different types of bodies is brought about by his activities under the influence of the modes of nature.}}
-
+---json
+{
+    "name":"SB 4.29.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.29.29",
+    "description":"Covered by the mode of ignorance in material nature, the living entity is sometimes a male, sometimes a female, sometimes a eunuch, sometimes a human being, sometimes a demigod, sometimes a bird, an animal, and so on. In this way he is wandering within the material world. His acceptance of different types of bodies is brought about by his activities under the influence of the modes of nature."
+}
+---
 ====== SB 4.29.29 ======
 
 > क्वचित्पुमान्क्वचिच्च स्त्री क्वचिन्नोभयमन्धधीः ।

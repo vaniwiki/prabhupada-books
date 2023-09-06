@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.35~~
-~~bc:Text 35~~
-
-{{description>Understanding that he was remembered by Lord Kṛṣṇa [while quitting this world], Vidura began to cry loudly, overwhelmed by the ecstasy of love.}}
-
+---json
+{
+    "name":"SB 3.4.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.4.35",
+    "description":"Understanding that he was remembered by Lord Kṛṣṇa [while quitting this world], Vidura began to cry loudly, overwhelmed by the ecstasy of love."
+}
+---
 ====== SB 3.4.35 ======
 
 > आत्मानं च कुरुश्रेष्ठ कृष्णेन मनसेक्षितम् ।

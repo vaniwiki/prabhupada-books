@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.3~~
-~~bc:Text 3~~
-
-{{description>Having been born from the womb of Rathītara's wife, all these sons were known as the dynasty of Rathītara, but because they were born from the semen of Aṅgirā, they were also known as the dynasty of Aṅgirā. Among all the progeny of Rathītara, these sons were the most prominent because, owing to their birth, they were considered brāhmaṇas.}}
-
+---json
+{
+    "name":"SB 9.6.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 9.6.3",
+    "description":"Having been born from the womb of Rathītara's wife, all these sons were known as the dynasty of Rathītara, but because they were born from the semen of Aṅgirā, they were also known as the dynasty of Aṅgirā. Among all the progeny of Rathītara, these sons were the most prominent because, owing to their birth, they were considered brāhmaṇas."
+}
+---
 ====== SB 9.6.3 ======
 
 ===== Text =====

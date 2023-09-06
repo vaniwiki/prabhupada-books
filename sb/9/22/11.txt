@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.22.11~~
-~~bc:Text 11~~
-
-{{description>From Ayutāyu came a son named Akrodhana, and his son was Devātithi. The son of Devātithi was Ṛkṣa, the son of Ṛkṣa was Dilīpa, and the son of Dilīpa was Pratīpa.}}
-
+---json
+{
+    "name":"SB 9.22.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.22.11",
+    "description":"From Ayutāyu came a son named Akrodhana, and his son was Devātithi. The son of Devātithi was Ṛkṣa, the son of Ṛkṣa was Dilīpa, and the son of Dilīpa was Pratīpa."
+}
+---
 ====== SB 9.22.11 ======
 
 ===== Text =====

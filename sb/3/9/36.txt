@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.36~~
-~~bc:Text 36~~
-
-{{description>Although I am not easily knowable by the conditioned soul, you have known Me today because you know that My personality is not constituted of anything material, and specifically not of the five gross and three subtle elements.}}
-
+---json
+{
+    "name":"SB 3.9.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 3.9.36",
+    "description":"Although I am not easily knowable by the conditioned soul, you have known Me today because you know that My personality is not constituted of anything material, and specifically not of the five gross and three subtle elements."
+}
+---
 ====== SB 3.9.36 ======
 
 > ज्ञातोऽहं भवता त्वद्य दुर्विज्ञेयोऽपि देहिनाम् ।

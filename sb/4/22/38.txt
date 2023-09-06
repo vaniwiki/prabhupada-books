@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.38~~
-~~bc:Text 38~~
-
-{{description>The Supreme Personality of Godhead manifests Himself as one with the cause and effect within this body, but one who has transcended the illusory energy by deliberate consideration, which clears the misconception of a snake for a rope, can understand that the Paramātmā is eternally transcendental to the material creation and situated in pure internal energy. Thus the Lord is transcendental to all material contamination. Unto Him only must one surrender.}}
-
+---json
+{
+    "name":"SB 4.22.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.22.38",
+    "description":"The Supreme Personality of Godhead manifests Himself as one with the cause and effect within this body, but one who has transcended the illusory energy by deliberate consideration, which clears the misconception of a snake for a rope, can understand that the Paramātmā is eternally transcendental to the material creation and situated in pure internal energy. Thus the Lord is transcendental to all material contamination. Unto Him only must one surrender."
+}
+---
 ====== SB 4.22.38 ======
 
 > यस्मिन्निदं सदसदात्मतया विभाति

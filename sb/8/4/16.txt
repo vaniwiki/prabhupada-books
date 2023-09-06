@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.16~~
-~~bc:Text 16~~
-
-{{description>O best of the Kuru dynasty, the Supreme Personality of Godhead, the Supersoul of everyone, being thus pleased, addressed Gajendra in the presence of everyone there. He spoke the following blessings.}}
-
+---json
+{
+    "name":"SB 8.4.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.4.16",
+    "description":"O best of the Kuru dynasty, the Supreme Personality of Godhead, the Supersoul of everyone, being thus pleased, addressed Gajendra in the presence of everyone there. He spoke the following blessings."
+}
+---
 ====== SB 8.4.16 ======
 
 ===== Text =====

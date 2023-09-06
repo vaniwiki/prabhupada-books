@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.55~~
-~~bc:Text 55~~
-
-{{description>In the wake of the olfactory sense came the wind-god, who presides over that sense. Thereafter a pair of eyes appeared in the universal form, and in them the sense of sight. In the wake of this sense came the sun-god, who presides over it. Next there appeared in Him a pair of ears, and in them the auditory sense and in its wake the Dig-devatās, or the deities who preside over the directions.}}
-
+---json
+{
+    "name":"SB 3.26.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 3.26.55",
+    "description":"In the wake of the olfactory sense came the wind-god, who presides over that sense. Thereafter a pair of eyes appeared in the universal form, and in them the sense of sight. In the wake of this sense came the sun-god, who presides over it. Next there appeared in Him a pair of ears, and in them the auditory sense and in its wake the Dig-devatās, or the deities who preside over the directions."
+}
+---
 ====== SB 3.26.55 ======
 
 > घ्राणाद्वायुरभिद्येतामक्षिणी चक्षुरेतयोः ।

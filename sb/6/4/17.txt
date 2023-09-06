@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.17~~
-~~bc:Text 17~~
-
-{{description>In the womb of that girl the Pracetās all begot a son named Dakṣa, who filled the three worlds with living entities.}}
-
+---json
+{
+    "name":"SB 6.4.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 6.4.17",
+    "description":"In the womb of that girl the Pracetās all begot a son named Dakṣa, who filled the three worlds with living entities."
+}
+---
 ====== SB 6.4.17 ======
 
 ===== Text =====

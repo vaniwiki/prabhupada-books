@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.20~~
-~~bc:Text 20~~
-
-{{description>His complexion was blackish, His garment yellow like gold, and His helmet as dazzling as the sun. His hair was bluish, the color of black bees, and His face was decorated with earrings. His eight hands held a conchshell, wheel, club, lotus flower, arrow, bow, shield and sword, and they were decorated with golden ornaments such as bangles and bracelets. His whole body resembled a blossoming tree beautifully decorated with various kinds of flowers.}}
-
+---json
+{
+    "name":"SB 4.7.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.7.20",
+    "description":"His complexion was blackish, His garment yellow like gold, and His helmet as dazzling as the sun. His hair was bluish, the color of black bees, and His face was decorated with earrings. His eight hands held a conchshell, wheel, club, lotus flower, arrow, bow, shield and sword, and they were decorated with golden ornaments such as bangles and bracelets. His whole body resembled a blossoming tree beautifully decorated with various kinds of flowers."
+}
+---
 ====== SB 4.7.20 ======
 
 > श्यामो हिरण्यरशनोऽर्ककिरीटजुष्टो

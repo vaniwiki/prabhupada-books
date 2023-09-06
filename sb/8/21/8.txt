@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.8~~
-~~bc:Text 8~~
-
-{{description>Jāmbavān, king of the bears, also joined in the ceremony. Sounding his bugle in all directions, he declared a great festival for Lord Vāmanadeva's victory.}}
-
+---json
+{
+    "name":"SB 8.21.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 8.21.8",
+    "description":"Jāmbavān, king of the bears, also joined in the ceremony. Sounding his bugle in all directions, he declared a great festival for Lord Vāmanadeva's victory."
+}
+---
 ====== SB 8.21.8 ======
 
 ===== Text =====

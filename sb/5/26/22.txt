@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.22~~
-~~bc:Text 22~~
-
-{{description>A person who is born into a responsible family—such as a kṣatriya, a member of royalty or a government servant—but who neglects to execute his prescribed duties according to religious principles, and who thus becomes degraded, falls down at the time of death into the river of hell known as Vaitaraṇī. This river, which is a moat surrounding hell, is full of ferocious aquatic animals. When a sinful man is thrown into the River Vaitaraṇī, the aquatic animals there immediately begin to eat him, but because of his extremely sinful life, he does not leave his body. He constantly remembers his sinful activities and suffers terribly in that river, which is full of stool, urine, pus, blood, hair, nails, bones, marrow, flesh and fat.}}
-
+---json
+{
+    "name":"SB 5.26.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 5.26.22",
+    "description":"A person who is born into a responsible family—such as a kṣatriya, a member of royalty or a government servant—but who neglects to execute his prescribed duties according to religious principles, and who thus becomes degraded, falls down at the time of death into the river of hell known as Vaitaraṇī. This river, which is a moat surrounding hell, is full of ferocious aquatic animals. When a sinful man is thrown into the River Vaitaraṇī, the aquatic animals there immediately begin to eat him, but because of his extremely sinful life, he does not leave his body. He constantly remembers his sinful activities and suffers terribly in that river, which is full of stool, urine, pus, blood, hair, nails, bones, marrow, flesh and fat."
+}
+---
 ====== SB 5.26.22 ======
 
 ===== Text =====

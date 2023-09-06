@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.22~~
-~~bc:Text 22~~
-
-{{description>The fish then said: O King, I am a large aquatic, and this water is not at all suitable for Me. Now kindly find some way to save Me. It would be better to put Me in the water of a lake that will never reduce.}}
-
+---json
+{
+    "name":"SB 8.24.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.24.22",
+    "description":"The fish then said: O King, I am a large aquatic, and this water is not at all suitable for Me. Now kindly find some way to save Me. It would be better to put Me in the water of a lake that will never reduce."
+}
+---
 ====== SB 8.24.22 ======
 
 ===== Text =====

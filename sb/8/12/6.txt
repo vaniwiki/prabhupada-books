@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.6~~
-~~bc:Text 6~~
-
-{{description>Pure devotees or great saintly persons who desire to achieve the highest goal in life and who are completely free from all material desires for sense gratification engage constantly in the transcendental service of Your lotus feet.}}
-
+---json
+{
+    "name":"SB 8.12.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.12.6",
+    "description":"Pure devotees or great saintly persons who desire to achieve the highest goal in life and who are completely free from all material desires for sense gratification engage constantly in the transcendental service of Your lotus feet."
+}
+---
 ====== SB 8.12.6 ======
 
 ===== Text =====

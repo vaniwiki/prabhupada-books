@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.19-24~~
-~~bc:Text 19-24~~
-
-{{description>Surrounding Mahārāja Bali on all sides were the commanders and captains of the demons, sitting on their respective chariots. Among them were the following demons: Namuci, Śambara, Bāṇa, Vipracitti, Ayomukha, Dvimūrdhā, Kālanābha, Praheti, Heti, Ilvala, Śakuni, Bhūtasantāpa, Vajradaṁṣṭra, Virocana, Hayagrīva, Śaṅkuśirā, Kapila, Meghadundubhi, Tāraka, Cakradṛk, Śumbha, Niśumbha, Jambha, Utkala, Ariṣṭa, Ariṣṭanemi, Tripurādhipa, Maya, the sons of Puloma, the Kāleyas and Nivātakavaca. All of these demons had been deprived of their share of the nectar and had shared merely in the labor of churning the ocean. Now, they fought against the demigods, and to encourage their armies, they made a tumultuous sound like the roaring of lions and blew loudly on conchshells. Balabhit, Lord Indra, upon seeing this situation of his ferocious rivals, became extremely angry.}}
-
+---json
+{
+    "name":"SB 8.10.19-24",
+    "h1":"Text 19-24",
+    "title":" Śrīmad Bhāgavatam 8.10.19-24",
+    "description":"Surrounding Mahārāja Bali on all sides were the commanders and captains of the demons, sitting on their respective chariots. Among them were the following demons: Namuci, Śambara, Bāṇa, Vipracitti, Ayomukha, Dvimūrdhā, Kālanābha, Praheti, Heti, Ilvala, Śakuni, Bhūtasantāpa, Vajradaṁṣṭra, Virocana, Hayagrīva, Śaṅkuśirā, Kapila, Meghadundubhi, Tāraka, Cakradṛk, Śumbha, Niśumbha, Jambha, Utkala, Ariṣṭa, Ariṣṭanemi, Tripurādhipa, Maya, the sons of Puloma, the Kāleyas and Nivātakavaca. All of these demons had been deprived of their share of the nectar and had shared merely in the labor of churning the ocean. Now, they fought against the demigods, and to encourage their armies, they made a tumultuous sound like the roaring of lions and blew loudly on conchshells. Balabhit, Lord Indra, upon seeing this situation of his ferocious rivals, became extremely angry."
+}
+---
 ====== SB 8.10.19-24 ======
 
 ===== Text =====

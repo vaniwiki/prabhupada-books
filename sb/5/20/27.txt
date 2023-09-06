@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.27~~
-~~bc:Text 27~~
-
-{{description>The inhabitants of those islands are also divided into four castes—Ṛtavrata, Satyavrata, Dānavrata and Anuvrata—which exactly resemble brāhmaṇa, kṣatriya, vaiśya and śūdra. They practice prāṇāyāma and mystic yoga, and in trance they worship the Supreme Lord in the form of Vāyu.}}
-
+---json
+{
+    "name":"SB 5.20.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 5.20.27",
+    "description":"The inhabitants of those islands are also divided into four castes—Ṛtavrata, Satyavrata, Dānavrata and Anuvrata—which exactly resemble brāhmaṇa, kṣatriya, vaiśya and śūdra. They practice prāṇāyāma and mystic yoga, and in trance they worship the Supreme Lord in the form of Vāyu."
+}
+---
 ====== SB 5.20.27 ======
 
 ===== Text =====

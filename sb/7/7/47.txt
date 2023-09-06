@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.47~~
-~~bc:Text 47~~
-
-{{description>The living entity, who has received his present body because of his past fruitive activity, may end the results of his actions in this life, but this does not mean that he is liberated from bondage to material bodies. The living entity receives one type of body, and by performing actions with that body he creates another. Thus he transmigrates from one body to another, through repeated birth and death, because of his gross ignorance.}}
-
+---json
+{
+    "name":"SB 7.7.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 7.7.47",
+    "description":"The living entity, who has received his present body because of his past fruitive activity, may end the results of his actions in this life, but this does not mean that he is liberated from bondage to material bodies. The living entity receives one type of body, and by performing actions with that body he creates another. Thus he transmigrates from one body to another, through repeated birth and death, because of his gross ignorance."
+}
+---
 ====== SB 7.7.47 ======
 
 ===== Text =====

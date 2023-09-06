@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.37~~
-~~bc:Text 37~~
-
-{{description>Although these four great sages were older than Brahmā's other sons like Marīci, they appeared like small naked children only five or six years old. When Jaya and Vijaya saw them trying to enter Vaikuṇṭhaloka, these two gatekeepers, thinking them ordinary children, forbade them to enter.}}
-
+---json
+{
+    "name":"SB 7.1.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 7.1.37",
+    "description":"Although these four great sages were older than Brahmā's other sons like Marīci, they appeared like small naked children only five or six years old. When Jaya and Vijaya saw them trying to enter Vaikuṇṭhaloka, these two gatekeepers, thinking them ordinary children, forbade them to enter."
+}
+---
 ====== SB 7.1.37 ======
 
 ===== Text =====

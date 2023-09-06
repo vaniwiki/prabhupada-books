@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.20~~
-~~bc:Text 20~~
-
-{{description>Absorbed in the thought of the transcendental qualities of the Lord, who is glorified in select poetry, the ladies on the roofs of all the houses of Hastināpura began to talk of Him. This talk was more attractive than the hymns of the Vedas.}}
-
+---json
+{
+    "name":"SB 1.10.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.10.20",
+    "description":"Absorbed in the thought of the transcendental qualities of the Lord, who is glorified in select poetry, the ladies on the roofs of all the houses of Hastināpura began to talk of Him. This talk was more attractive than the hymns of the Vedas."
+}
+---
 ====== SB 1.10.20 ======
 
 > अन्योन्यमासीत्सञ्जल्प उत्तमश्लोकचेतसाम् ।

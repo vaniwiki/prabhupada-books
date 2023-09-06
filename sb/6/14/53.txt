@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.53~~
-~~bc:Text 53~~
-
-{{description>The garland of flowers decorating the Queen's head fell, and her hair scattered. Falling tears melted the collyrium on her eyes and moistened her breasts, which were covered with kuṅkuma powder. As she lamented the loss of her son, her loud crying resembled the sweet sound of a kurarī bird.}}
-
+---json
+{
+    "name":"SB 6.14.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 6.14.53",
+    "description":"The garland of flowers decorating the Queen's head fell, and her hair scattered. Falling tears melted the collyrium on her eyes and moistened her breasts, which were covered with kuṅkuma powder. As she lamented the loss of her son, her loud crying resembled the sweet sound of a kurarī bird."
+}
+---
 ====== SB 6.14.53 ======
 
 ===== Text =====

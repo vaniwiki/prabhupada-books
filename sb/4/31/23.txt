@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.23~~
-~~bc:Text 23~~
-
-{{description>The great sage Maitreya continued: My dear King Vidura, Śrī Nārada Muni, the son of Lord Brahmā, thus described all these relationships with the Supreme Personality of Godhead to the Pracetās. Afterward, he returned to Brahmaloka.}}
-
+---json
+{
+    "name":"SB 4.31.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.31.23",
+    "description":"The great sage Maitreya continued: My dear King Vidura, Śrī Nārada Muni, the son of Lord Brahmā, thus described all these relationships with the Supreme Personality of Godhead to the Pracetās. Afterward, he returned to Brahmaloka."
+}
+---
 ====== SB 4.31.23 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.19.15~~
-~~bc:Text 15~~
-
-{{description>Therefore, O Lord, O Transcendence, kindly help us by giving us the power to execute bhakti-yoga so that we can control our restless minds and fix them upon You. We are all infected by Your illusory energy; therefore we are very attached to the body, which is full of stool and urine, and to anything related with the body. Except for devotional service, there is no way to give up this attachment. Therefore kindly bestow upon us this benediction.}}
-
+---json
+{
+    "name":"SB 5.19.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.19.15",
+    "description":"Therefore, O Lord, O Transcendence, kindly help us by giving us the power to execute bhakti-yoga so that we can control our restless minds and fix them upon You. We are all infected by Your illusory energy; therefore we are very attached to the body, which is full of stool and urine, and to anything related with the body. Except for devotional service, there is no way to give up this attachment. Therefore kindly bestow upon us this benediction."
+}
+---
 ====== SB 5.19.15 ======
 
 ===== Text =====

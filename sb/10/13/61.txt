@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.61~~
-~~bc:Text 61~~
-
-{{description>Then Lord Brahmā saw the Absolute Truth—who is one without a second, who possesses full knowledge and who is unlimited—assuming the role of a child in a family of cowherd men and standing all alone, just as before, with a morsel of food in His hand, searching everywhere for the calves and His cowherd friends.}}
-
+---json
+{
+    "name":"SB 10.13.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 10.13.61",
+    "description":"Then Lord Brahmā saw the Absolute Truth—who is one without a second, who possesses full knowledge and who is unlimited—assuming the role of a child in a family of cowherd men and standing all alone, just as before, with a morsel of food in His hand, searching everywhere for the calves and His cowherd friends."
+}
+---
 ====== SB 10.13.61 ======
 
 ===== Text =====

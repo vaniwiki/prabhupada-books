@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.23~~
-~~bc:Text 23~~
-
-{{description>When thus requested, King Satyavrata took the fish to the largest reservoir of water. But when that also proved insufficient, the King at last threw the gigantic fish into the ocean.}}
-
+---json
+{
+    "name":"SB 8.24.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 8.24.23",
+    "description":"When thus requested, King Satyavrata took the fish to the largest reservoir of water. But when that also proved insufficient, the King at last threw the gigantic fish into the ocean."
+}
+---
 ====== SB 8.24.23 ======
 
 ===== Text =====

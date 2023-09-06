@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.14~~
-~~bc:Text 14~~
-
-{{description>Lord Brahmā then praised Kardama Muni's nine daughters, saying: All your thin-waisted daughters are certainly very chaste. I am sure they will increase this creation by their own descendants in various ways.}}
-
+---json
+{
+    "name":"SB 3.24.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.24.14",
+    "description":"Lord Brahmā then praised Kardama Muni's nine daughters, saying: All your thin-waisted daughters are certainly very chaste. I am sure they will increase this creation by their own descendants in various ways."
+}
+---
 ====== SB 3.24.14 ======
 
 > इमा दुहितरः सत्यस्तव वत्स सुमध्यमाः ।

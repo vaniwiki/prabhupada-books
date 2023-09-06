@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.11~~
-~~bc:Text 11~~
-
-{{description>It is very difficult to achieve the spiritual abode of Hari, in the Vaikuṇṭha planets, but you are so fortunate that you are already destined to go to that abode by worshiping Him as the supreme abode of all living entities.}}
-
+---json
+{
+    "name":"SB 4.11.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.11.11",
+    "description":"It is very difficult to achieve the spiritual abode of Hari, in the Vaikuṇṭha planets, but you are so fortunate that you are already destined to go to that abode by worshiping Him as the supreme abode of all living entities."
+}
+---
 ====== SB 4.11.11 ======
 
 > सर्वभूतात्मभावेन भूतावासं हरिं भवान् ।

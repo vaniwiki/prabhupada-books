@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.16~~
-~~bc:Text 16~~
-
-{{description>O mother of the demigods, in My opinion almost all the chiefs of the demons are now unconquerable, for they are being protected by brāhmaṇas, whom the Supreme Lord always favors. Thus the use of power against them now will not at all be a source of happiness.}}
-
+---json
+{
+    "name":"SB 8.17.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.17.16",
+    "description":"O mother of the demigods, in My opinion almost all the chiefs of the demons are now unconquerable, for they are being protected by brāhmaṇas, whom the Supreme Lord always favors. Thus the use of power against them now will not at all be a source of happiness."
+}
+---
 ====== SB 8.17.16 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.31~~
-~~bc:Text 31~~
-
-{{description>While the ladies of the capital of Hastināpura were greeting Him and talking in this way, the Lord, smiling, accepted their good greetings, and casting the grace of His glance over them, He departed from the city.}}
-
+---json
+{
+    "name":"SB 1.10.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 1.10.31",
+    "description":"While the ladies of the capital of Hastināpura were greeting Him and talking in this way, the Lord, smiling, accepted their good greetings, and casting the grace of His glance over them, He departed from the city."
+}
+---
 ====== SB 1.10.31 ======
 
 > एवंविधा गदन्तीनां स गिरः पुरयोषिताम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.26-27~~
-~~bc:Text 26-27~~
-
-{{description>After asking and obtaining the great sage's permission to leave, the monarch mounted his chariot with his wife and started for his capital, followed by his retinue. Along the way he saw the prosperity of the tranquil seers' beautiful hermitages on both the charming banks of the Sarasvatī, the river so agreeable to saintly persons.}}
-
+---json
+{
+    "name":"SB 3.22.26-27",
+    "h1":"Text 26-27",
+    "title":" Śrīmad Bhāgavatam 3.22.26-27",
+    "description":"After asking and obtaining the great sage's permission to leave, the monarch mounted his chariot with his wife and started for his capital, followed by his retinue. Along the way he saw the prosperity of the tranquil seers' beautiful hermitages on both the charming banks of the Sarasvatī, the river so agreeable to saintly persons."
+}
+---
 ====== SB 3.22.26-27 ======
 
 > आमन्त्र्य तं मुनिवरमनुज्ञातः सहानुगः ।

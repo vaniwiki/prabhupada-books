@@ -1,74 +1,74 @@
-{{description>Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life.}}
-
-<card>
-{{ :artwork:krishna_art_1:105.jpg?nolink |}}
-</card>
-
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Sri_Isopanisad_With_Purports.mp3|Śrī Īśopaniṣad}}
+---json
+{
+    "name":"Śrī Īśopaniṣad",
+    "description":"Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life."
+}
+---
 
 ====== Śrī Īśopaniṣad ======
 
-"Sri Isopanisad" is one of the first books published by Srila Prabhupada in his efforts to establish the Hare Krishna movement in the Western world. It consists of eighteen mantras, or Vedic hymns, which are intended to focus the mind in meditation on the Supreme Person, Krishna. The book explores the concept of the Supreme Person as the complete whole of existence and emphasizes the interconnectedness of everything with the Supreme Lord. Srila Prabhupada's translation and commentary provide insights into the teachings of the Vedas and offer a deeper understanding of the nature of the Supreme Person and our relationship with Him.
+Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life.
 
 
+{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Sri_Isopanisad_With_Purports.mp3|Śrī Īśopaniṣad With Purports}}
 
 ===== Table of contents =====
 
-  * **[[.iso:0a|Introduction]]**
+  * **[[books:iso:0a|Introduction]]**
 
-  ; [[.iso:0b|Invocation]]
+  ; [[books:iso:0b|Invocation]]
   : The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance.
 
-  ; [[.iso:1|Mantra 1]]
+  ; [[books:iso:1|Mantra 1]]
   : Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those things necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong.
 
-  ; [[.iso:2|Mantra 2]]
+  ; [[books:iso:2|Mantra 2]]
   : One may aspire to live for hundreds of years if he continuously goes on working in that way, for that sort of work will not bind him to the law of karma. There is no alternative to this way for man.
 
-  ; [[.iso:3|Mantra 3]]
+  ; [[books:iso:3|Mantra 3]]
   : The killer of the soul, whoever he may be, must enter into the planets known as the worlds of the faithless, full of darkness and ignorance.
 
-  ; [[.iso:4|Mantra 4]]
+  ; [[books:iso:4|Mantra 4]]
   : Although fixed in His abode, the Personality of Godhead is swifter than the mind and can overcome all others running. The powerful demigods cannot approach Him. Although in one place, He controls those who supply the air and rain. He surpasses all in excellence.
 
-  ; [[.iso:5|Mantra 5]]
+  ; [[books:iso:5|Mantra 5]]
   : The Supreme Lord walks and does not walk. He is far away, but He is very near as well. He is within everything, and yet He is outside of everything.
 
-  ; [[.iso:6|Mantra 6]]
+  ; [[books:iso:6|Mantra 6]]
   : He who  sees everything in relation to the Supreme Lord, who sees all living entities as His parts and parcels, and who sees the Supreme Lord within everything never hates anything or any being.
 
-  ; [[.iso:7|Mantra 7]]
+  ; [[books:iso:7|Mantra 7]]
   : One who always sees all living entities as spiritual sparks, in quality one with the Lord, becomes a true knower of things. What, then, can be illusion or anxiety for him?
 
-  ; [[.iso:8|Mantra 8]]
+  ; [[books:iso:8|Mantra 8]]
   : Such a person must factually know the greatest of all, the Personality of Godhead, who is unembodied, omniscient, beyond reproach, without veins, pure and uncontaminated, the self-sufficient philosopher who has been fulfilling everyone's desire since time immemorial.
 
-  ; [[.iso:9|Mantra 9]]
+  ; [[books:iso:9|Mantra 9]]
   : Those who engage in the culture of nescient activities shall enter into the darkest region of ignorance. Worse still are those engaged in the culture of so-called knowledge.
 
-  ; [[.iso:10|Mantra 10]]
+  ; [[books:iso:10|Mantra 10]]
   : The wise have explained that one result is derived from the culture of knowledge and that a different result is obtained from the culture of nescience.
 
-  ; [[.iso:11|Mantra 11]]
+  ; [[books:iso:11|Mantra 11]]
   : Only one who can learn the process of nescience and that of transcendental knowledge side by side can transcend the influence of repeated birth and death and enjoy the full blessings of immortality.
 
-  ; [[.iso:12|Mantra 12]]
+  ; [[books:iso:12|Mantra 12]]
   : Those who are engaged in the worship of demigods enter into the darkest region of ignorance, and still more so do the worshipers of the impersonal Absolute.
 
-  ; [[.iso:13|Mantra 13]]
+  ; [[books:iso:13|Mantra 13]]
   : It is said that one result is obtained by worshiping the supreme cause of all causes and that another result is obtained by worshiping what is not supreme. All this is heard from the undisturbed authorities, who clearly explained it.
 
-  ; [[.iso:14|Mantra 14]]
+  ; [[books:iso:14|Mantra 14]]
   : One should know perfectly the Personality of Godhead Śrī Kṛṣṇa and His transcendental name, form, qualities and pastimes, as well as the temporary material creation with its temporary demigods, men and animals. When one knows these, he surpasses death and the ephemeral cosmic manifestation with it, and in the eternal kingdom of God he enjoys his eternal life of bliss and knowledge.
 
-  ; [[.iso:15|Mantra 15]]
+  ; [[books:iso:15|Mantra 15]]
   : O my Lord, sustainer of all that lives, Your real face is covered by Your dazzling effulgence. Kindly remove that covering and exhibit Yourself to Your pure devotee.
 
-  ; [[.iso:16|Mantra 16]]
+  ; [[books:iso:16|Mantra 16]]
   : O my Lord, O primeval philosopher, maintainer of the universe, O regulating principle, destination of the pure devotees, well-wisher of the progenitors of mankind, please remove the effulgence of Your transcendental rays so that I can see Your form of bliss. You are the eternal Supreme Personality of Godhead, like unto the sun, as am I.
 
-  ; [[.iso:17|Mantra 17]]
+  ; [[books:iso:17|Mantra 17]]
   : Let this temporary body be burnt to ashes, and let the air of life be merged with the totality of air. Now, O my Lord, please remember all my sacrifices, and because You are the ultimate beneficiary, please remember all that I have done for You.
 
-  ; [[.iso:18|Mantra 18]]
+  ; [[books:iso:18|Mantra 18]]
   : O my Lord, as powerful as fire, O omnipotent one, now I offer You all obeisances, falling on the ground at Your feet. O my Lord, please lead me on the right path to reach You, and since You know all that I have done in the past, please free me from the reactions to my past sins so that there will be no hindrance to my progress.

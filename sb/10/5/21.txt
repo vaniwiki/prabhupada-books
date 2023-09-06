@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.21~~
-~~bc:Text 21~~
-
-{{description>When Nanda Mahārāja heard that Vasudeva had come, he was overwhelmed with love and affection, being as pleased as if his body had regained its life. Seeing Vasudeva suddenly present, he got up and embraced him with both arms.}}
-
+---json
+{
+    "name":"SB 10.5.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 10.5.21",
+    "description":"When Nanda Mahārāja heard that Vasudeva had come, he was overwhelmed with love and affection, being as pleased as if his body had regained its life. Seeing Vasudeva suddenly present, he got up and embraced him with both arms."
+}
+---
 ====== SB 10.5.21 ======
 
 ===== Text =====

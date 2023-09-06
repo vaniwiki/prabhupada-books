@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.24~~
-~~bc:Text 24~~
-
-{{description>Approaching the King of the Yavanas, Kālakanyā addressed him as a great hero, saying: My dear sir, you are the best of the untouchables. I am in love with you, and I want you as my husband. I know that no one is baffled if he makes friends with you.}}
-
+---json
+{
+    "name":"SB 4.27.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 4.27.24",
+    "description":"Approaching the King of the Yavanas, Kālakanyā addressed him as a great hero, saying: My dear sir, you are the best of the untouchables. I am in love with you, and I want you as my husband. I know that no one is baffled if he makes friends with you."
+}
+---
 ====== SB 4.27.24 ======
 
 > ऋषभं यवनानां त्वां वृणे वीरेप्सितं पतिम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.3~~
-~~bc:Text 3~~
-
-{{description>Vidura was born from the body of Veda-vyāsa and was not less than he. Thus he accepted the lotus feet of Kṛṣṇa wholeheartedly and was attached to His devotees.}}
-
+---json
+{
+    "name":"SB 3.20.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.20.3",
+    "description":"Vidura was born from the body of Veda-vyāsa and was not less than he. Thus he accepted the lotus feet of Kṛṣṇa wholeheartedly and was attached to His devotees."
+}
+---
 ====== SB 3.20.3 ======
 
 > द्वैपायनादनवरो महित्वे तस्य देहजः ।

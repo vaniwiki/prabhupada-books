@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.19~~
-~~bc:Text 19~~
-
-{{description>In such an atmosphere even the animals of the forest became nonviolent and nonenvious like great sages. Consequently, the animals did not attack anyone. Over and above everything was the cooing of the cuckoos. Any passenger passing along that path was invited by that atmosphere to take rest in that nice garden.}}
-
+---json
+{
+    "name":"SB 4.25.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.25.19",
+    "description":"In such an atmosphere even the animals of the forest became nonviolent and nonenvious like great sages. Consequently, the animals did not attack anyone. Over and above everything was the cooing of the cuckoos. Any passenger passing along that path was invited by that atmosphere to take rest in that nice garden."
+}
+---
 ====== SB 4.25.19 ======
 
 > नानारण्यमृगव्रातैरनाबाधे मुनिव्रतैः ।

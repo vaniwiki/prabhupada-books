@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.25.10~~
-~~bc:Text 10~~
-
-{{description>This manifestation of subtle and gross matter exists within the Supreme Personality of Godhead. Out of causeless mercy toward His devotees, He exhibits various forms, which are all transcendental. The Supreme Lord is most liberal, and He possesses all mystic power. To conquer the minds of His devotees and give pleasure to their hearts, He appears in different incarnations and manifests many pastimes.}}
-
+---json
+{
+    "name":"SB 5.25.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.25.10",
+    "description":"This manifestation of subtle and gross matter exists within the Supreme Personality of Godhead. Out of causeless mercy toward His devotees, He exhibits various forms, which are all transcendental. The Supreme Lord is most liberal, and He possesses all mystic power. To conquer the minds of His devotees and give pleasure to their hearts, He appears in different incarnations and manifests many pastimes."
+}
+---
 ====== SB 5.25.10 ======
 
 ===== Text =====

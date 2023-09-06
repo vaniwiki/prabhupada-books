@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.32~~
-~~bc:Text 32~~
-
-{{description>The sense organs are attached to the modes of material nature, and the modes of material nature are products of the false ego. The mind is subjected to all kinds of material experiences (happiness and distress), and the intelligence is the feature of the mind's deliberation.}}
-
+---json
+{
+    "name":"SB 2.10.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 2.10.32",
+    "description":"The sense organs are attached to the modes of material nature, and the modes of material nature are products of the false ego. The mind is subjected to all kinds of material experiences (happiness and distress), and the intelligence is the feature of the mind's deliberation."
+}
+---
 ====== SB 2.10.32 ======
 
 > गुणात्मकानीन्द्रियाणि भूतादिप्रभवा गुणाः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.10~~
-~~bc:Text 10~~
-
-{{description>My Lord, devotees like your good self are verily holy places personified. Because you carry the Personality of Godhead within your heart, you turn all places into places of pilgrimage.}}
-
+---json
+{
+    "name":"SB 1.13.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 1.13.10",
+    "description":"My Lord, devotees like your good self are verily holy places personified. Because you carry the Personality of Godhead within your heart, you turn all places into places of pilgrimage."
+}
+---
 ====== SB 1.13.10 ======
 
 > भवद्विधा भागवतास्तीर्थभूताः स्वयं विभो ।

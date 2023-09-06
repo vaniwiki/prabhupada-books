@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.41~~
-~~bc:Text 41~~
-
-{{description>According to the different modes of material nature—the mode of goodness, the mode of passion and the mode of darkness—there are different living creatures, who are known as demigods, human beings and hellish living entities. O King, even a particular mode of nature, being mixed with the other two, is divided into three, and thus each kind of living creature is influenced by the other modes and acquires its habits also.}}
-
+---json
+{
+    "name":"SB 2.10.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 2.10.41",
+    "description":"According to the different modes of material nature—the mode of goodness, the mode of passion and the mode of darkness—there are different living creatures, who are known as demigods, human beings and hellish living entities. O King, even a particular mode of nature, being mixed with the other two, is divided into three, and thus each kind of living creature is influenced by the other modes and acquires its habits also."
+}
+---
 ====== SB 2.10.41 ======
 
 > सत्त्वं रजस्तम इति तिस्रः सुरनृनारकाः ।

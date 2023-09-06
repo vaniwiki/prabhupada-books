@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.43~~
-~~bc:Text 43~~
-
-{{description>You have made me lose my sons once, and now you have again done the same inauspicious thing. Therefore you are a rascal who does not know how to behave toward others. You may travel all over the universe, but I curse you to have no residence anywhere.}}
-
+---json
+{
+    "name":"SB 6.5.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 6.5.43",
+    "description":"You have made me lose my sons once, and now you have again done the same inauspicious thing. Therefore you are a rascal who does not know how to behave toward others. You may travel all over the universe, but I curse you to have no residence anywhere."
+}
+---
 ====== SB 6.5.43 ======
 
 ===== Text =====

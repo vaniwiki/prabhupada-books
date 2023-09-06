@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.9~~
-~~bc:Text 9~~
-
-{{description>While Indradyumna Mahārāja was engaged in ecstatic meditation, worshiping the Supreme Personality of Godhead, the great sage Agastya Muni arrived there, surrounded by his disciples. When the Muni saw that Mahārāja Indradyumna, who was sitting in a secluded place, remained silent and did not follow the etiquette of offering him a reception, he was very angry.}}
-
+---json
+{
+    "name":"SB 8.4.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 8.4.9",
+    "description":"While Indradyumna Mahārāja was engaged in ecstatic meditation, worshiping the Supreme Personality of Godhead, the great sage Agastya Muni arrived there, surrounded by his disciples. When the Muni saw that Mahārāja Indradyumna, who was sitting in a secluded place, remained silent and did not follow the etiquette of offering him a reception, he was very angry."
+}
+---
 ====== SB 8.4.9 ======
 
 ===== Text =====

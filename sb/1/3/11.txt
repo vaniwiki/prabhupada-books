@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.11~~
-~~bc:Text 11~~
-
-{{description>The sixth incarnation of the puruṣa was the son of the sage Atri. He was born from the womb of Anasūyā, who prayed for an incarnation. He spoke on the subject of transcendence to Alarka, Prahlāda and others [Yadu, Haihaya, etc.].}}
-
+---json
+{
+    "name":"SB 1.3.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 1.3.11",
+    "description":"The sixth incarnation of the puruṣa was the son of the sage Atri. He was born from the womb of Anasūyā, who prayed for an incarnation. He spoke on the subject of transcendence to Alarka, Prahlāda and others [Yadu, Haihaya, etc.]."
+}
+---
 ====== SB 1.3.11 ======
 
 > षष्ठमत्रेरपत्यत्वं वृतः प्राप्तोऽनसूयया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.49-52~~
-~~bc:Text 49-52~~
-
-{{description>One of the remaining two daughters was given in charity to the Pitṛloka, where she resides very amicably, and the other was given to Lord Śiva, who is the deliverer of sinful persons from material entanglement. The names of the thirteen daughters of Dakṣa who were given to Dharma are Śraddhā, Maitrī, Dayā, Sānti, Tuṣṭi, Puṣṭi, Kriyā, Unnati, Buddhi, Medhā, Titikṣā, Hrī and Mūrti. These thirteen daughters produced the following sons: Śraddhā gave birth to Śubha, Maitrī produced Prasāda, Dayā gave birth to Abhaya, Sānti gave birth to Sukha, Tuṣṭi gave birth to Muda, Puṣṭi gave birth to Smaya, Kriyā gave birth to Yoga, Unnati gave birth to Darpa, Buddhi gave birth to Artha, Medhā gave birth to Smṛti, Titikṣā gave birth to Kṣema, and Hrī gave birth to Praśraya. Mūrti, a reservoir of all respectable qualities, gave birth to Śrī Nara-Nārāyaṇa, the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.1.49-52",
+    "h1":"Text 49-52",
+    "title":" Śrīmad Bhāgavatam 4.1.49-52",
+    "description":"One of the remaining two daughters was given in charity to the Pitṛloka, where she resides very amicably, and the other was given to Lord Śiva, who is the deliverer of sinful persons from material entanglement. The names of the thirteen daughters of Dakṣa who were given to Dharma are Śraddhā, Maitrī, Dayā, Sānti, Tuṣṭi, Puṣṭi, Kriyā, Unnati, Buddhi, Medhā, Titikṣā, Hrī and Mūrti. These thirteen daughters produced the following sons: Śraddhā gave birth to Śubha, Maitrī produced Prasāda, Dayā gave birth to Abhaya, Sānti gave birth to Sukha, Tuṣṭi gave birth to Muda, Puṣṭi gave birth to Smaya, Kriyā gave birth to Yoga, Unnati gave birth to Darpa, Buddhi gave birth to Artha, Medhā gave birth to Smṛti, Titikṣā gave birth to Kṣema, and Hrī gave birth to Praśraya. Mūrti, a reservoir of all respectable qualities, gave birth to Śrī Nara-Nārāyaṇa, the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.1.49-52 ======
 
 > पितृभ्य एकां युक्तेभ्यो भवायैकां भवच्छिदे ।

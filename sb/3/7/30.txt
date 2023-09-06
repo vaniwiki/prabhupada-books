@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.30~~
-~~bc:Text 30~~
-
-{{description>Please also describe the expansions of different sacrifices and the paths of mystic powers, analytical study of knowledge, and devotional service, all with their respective regulations.}}
-
+---json
+{
+    "name":"SB 3.7.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.7.30",
+    "description":"Please also describe the expansions of different sacrifices and the paths of mystic powers, analytical study of knowledge, and devotional service, all with their respective regulations."
+}
+---
 ====== SB 3.7.30 ======
 
 > यज्ञस्य च वितानानि योगस्य च पथः प्रभो ।

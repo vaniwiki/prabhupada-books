@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.29~~
-~~bc:Text 29~~
-
-{{description>After accepting the feature of avadhūta, a great saintly person without material cares, Lord Ṛṣabhadeva passed through human society like a blind, deaf and dumb man, an idle stone, a ghost or a madman. Although people called Him such names, He remained silent and did not speak to anyone.}}
-
+---json
+{
+    "name":"SB 5.5.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 5.5.29",
+    "description":"After accepting the feature of avadhūta, a great saintly person without material cares, Lord Ṛṣabhadeva passed through human society like a blind, deaf and dumb man, an idle stone, a ghost or a madman. Although people called Him such names, He remained silent and did not speak to anyone."
+}
+---
 ====== SB 5.5.29 ======
 
 ===== Text =====

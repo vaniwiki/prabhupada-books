@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.36~~
-~~bc:Text 36~~
-
-{{description>Without transgressing the religious principles, Lord Rāmacandra, whose lotus feet are worshiped by devotees in meditation, enjoyed with all the paraphernalia of transcendental pleasure for as long as needed.}}
-
+---json
+{
+    "name":"SB 9.11.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 9.11.36",
+    "description":"Without transgressing the religious principles, Lord Rāmacandra, whose lotus feet are worshiped by devotees in meditation, enjoyed with all the paraphernalia of transcendental pleasure for as long as needed."
+}
+---
 ====== SB 9.11.36 ======
 
 ===== Text =====

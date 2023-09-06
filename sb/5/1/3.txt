@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.3~~
-~~bc:Text 3~~
-
-{{description>Elevated mahātmās who have taken shelter of the lotus feet of the Supreme Personality of Godhead are fully satiated by the shade of those lotus feet. Their consciousness cannot possibly become attached to family members.}}
-
+---json
+{
+    "name":"SB 5.1.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.1.3",
+    "description":"Elevated mahātmās who have taken shelter of the lotus feet of the Supreme Personality of Godhead are fully satiated by the shade of those lotus feet. Their consciousness cannot possibly become attached to family members."
+}
+---
 ====== SB 5.1.3 ======
 
 ===== Text =====

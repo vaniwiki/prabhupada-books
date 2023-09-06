@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.13~~
-~~bc:Text 13~~
-
-{{description>Once, while wandering in this way, he saw on the southern side of the Himalayas, in a place named Bhārata-varṣa [India], a city that had nine gates all about and was characterized by all auspicious facilities.}}
-
+---json
+{
+    "name":"SB 4.25.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.25.13",
+    "description":"Once, while wandering in this way, he saw on the southern side of the Himalayas, in a place named Bhārata-varṣa [India], a city that had nine gates all about and was characterized by all auspicious facilities."
+}
+---
 ====== SB 4.25.13 ======
 
 > स एकदा हिमवतो दक्षिणेष्वथ सानुषु ।

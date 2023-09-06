@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.27~~
-~~bc:Text 27~~
-
-{{description>Satī concentrated all her meditation on the holy lotus feet of her husband, Lord Śiva, who is the supreme spiritual master of all the world. Thus she became completely cleansed of all taints of sin and quit her body in a blazing fire by meditation on the fiery elements.}}
-
+---json
+{
+    "name":"SB 4.4.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.4.27",
+    "description":"Satī concentrated all her meditation on the holy lotus feet of her husband, Lord Śiva, who is the supreme spiritual master of all the world. Thus she became completely cleansed of all taints of sin and quit her body in a blazing fire by meditation on the fiery elements."
+}
+---
 ====== SB 4.4.27 ======
 
 > ततः स्वभर्तुश्चरणाम्बुजासवं जगद्गुरोश्चिन्तयती न चापरम् ।

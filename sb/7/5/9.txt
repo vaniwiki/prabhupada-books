@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.9~~
-~~bc:Text 9~~
-
-{{description>Dear son Prahlāda, all peace and good fortune unto you. Kindly do not speak lies; just reply with the truth. These boys you see are not like you, for they do not speak in a deviant way. How have you learned these instructions? How has your intelligence been spoiled in this way?}}
-
+---json
+{
+    "name":"SB 7.5.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 7.5.9",
+    "description":"Dear son Prahlāda, all peace and good fortune unto you. Kindly do not speak lies; just reply with the truth. These boys you see are not like you, for they do not speak in a deviant way. How have you learned these instructions? How has your intelligence been spoiled in this way?"
+}
+---
 ====== SB 7.5.9 ======
 
 ===== Text =====

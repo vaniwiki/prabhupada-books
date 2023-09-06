@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.26~~
-~~bc:Text 26~~
-
-{{description>O father of all planets, learned scholars know that fire is your mouth, the surface of the globe is your lotus feet, eternal time is your movement, all the directions are your ears, and Varuṇa, master of the waters, is your tongue.}}
-
+---json
+{
+    "name":"SB 8.7.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.7.26",
+    "description":"O father of all planets, learned scholars know that fire is your mouth, the surface of the globe is your lotus feet, eternal time is your movement, all the directions are your ears, and Varuṇa, master of the waters, is your tongue."
+}
+---
 ====== SB 8.7.26 ======
 
 ===== Text =====

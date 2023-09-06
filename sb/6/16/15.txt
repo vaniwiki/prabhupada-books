@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.15~~
-~~bc:Text 15~~
-
-{{description>Thus enlightened by the instructions of the brāhmaṇas Aṅgirā and Nārada, King Citraketu became fully aware of spiritual knowledge. As an elephant becomes free from a muddy reservoir of water, King Citraketu came out of the dark well of family life.}}
-
+---json
+{
+    "name":"SB 6.16.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.16.15",
+    "description":"Thus enlightened by the instructions of the brāhmaṇas Aṅgirā and Nārada, King Citraketu became fully aware of spiritual knowledge. As an elephant becomes free from a muddy reservoir of water, King Citraketu came out of the dark well of family life."
+}
+---
 ====== SB 6.16.15 ======
 
 ===== Text =====

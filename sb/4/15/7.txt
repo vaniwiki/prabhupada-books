@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.7~~
-~~bc:Text 7~~
-
-{{description>The great sage Maitreya continued: My dear Vidurajī, at that time all the brāhmaṇas highly praised and glorified King Pṛthu, and the best singers of Gandharvaloka chanted his glories. The inhabitants of Siddhaloka showered flowers, and the beautiful women in the heavenly planets danced in ecstasy.}}
-
+---json
+{
+    "name":"SB 4.15.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.15.7",
+    "description":"The great sage Maitreya continued: My dear Vidurajī, at that time all the brāhmaṇas highly praised and glorified King Pṛthu, and the best singers of Gandharvaloka chanted his glories. The inhabitants of Siddhaloka showered flowers, and the beautiful women in the heavenly planets danced in ecstasy."
+}
+---
 ====== SB 4.15.7 ======
 
 > मैत्रेय उवाच

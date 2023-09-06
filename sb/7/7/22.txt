@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.22~~
-~~bc:Text 22~~
-
-{{description>The Lord's eight separated material energies, the three modes of material nature and the sixteen transformations [the eleven senses and the five gross material elements like earth and water]—within all these, the one spiritual soul exists as the observer. Therefore all the great ācāryas have concluded that the individual soul is conditioned by these material elements.}}
-
+---json
+{
+    "name":"SB 7.7.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 7.7.22",
+    "description":"The Lord's eight separated material energies, the three modes of material nature and the sixteen transformations [the eleven senses and the five gross material elements like earth and water]—within all these, the one spiritual soul exists as the observer. Therefore all the great ācāryas have concluded that the individual soul is conditioned by these material elements."
+}
+---
 ====== SB 7.7.22 ======
 
 ===== Text =====

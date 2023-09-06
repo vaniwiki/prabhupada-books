@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.22~~
-~~bc:Text 22~~
-
-{{description>He then created the chief demigods, who were shining with the glory of goodness. He dropped before them the effulgent form of daytime, and the demigods sportingly took possession of it.}}
-
+---json
+{
+    "name":"SB 3.20.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.20.22",
+    "description":"He then created the chief demigods, who were shining with the glory of goodness. He dropped before them the effulgent form of daytime, and the demigods sportingly took possession of it."
+}
+---
 ====== SB 3.20.22 ======
 
 > देवताः प्रभया या या दीव्यन्प्रमुखतोऽसृजत् ।

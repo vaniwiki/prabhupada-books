@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.18.16~~
-~~bc:Text 16~~
-
-{{description>O King, Lord Brahmā offered a waterpot to the inexhaustible Supreme Personality of Godhead, the seven sages offered Him kuśa grass, and mother Sarasvatī gave Him a string of Rudrākṣa beads.}}
-
+---json
+{
+    "name":"SB 8.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.18.16",
+    "description":"O King, Lord Brahmā offered a waterpot to the inexhaustible Supreme Personality of Godhead, the seven sages offered Him kuśa grass, and mother Sarasvatī gave Him a string of Rudrākṣa beads."
+}
+---
 ====== SB 8.18.16 ======
 
 ===== Text =====

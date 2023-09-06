@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.26~~
-~~bc:Text 26~~
-
-{{description>I offer my respectful obeisances unto You, the all-pervading Lord Viṣṇu, who have entered the cores of the hearts of all living entities. All the three worlds reside within Your navel, yet You are above the three worlds. Formerly You appeared as the son of Pṛśni. To You, the supreme creator, who are understood only through Vedic knowledge, I offer my respectful obeisances.}}
-
+---json
+{
+    "name":"SB 8.17.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.17.26",
+    "description":"I offer my respectful obeisances unto You, the all-pervading Lord Viṣṇu, who have entered the cores of the hearts of all living entities. All the three worlds reside within Your navel, yet You are above the three worlds. Formerly You appeared as the son of Pṛśni. To You, the supreme creator, who are understood only through Vedic knowledge, I offer my respectful obeisances."
+}
+---
 ====== SB 8.17.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.26~~
-~~bc:Text 26~~
-
-{{description>The influence of material nature cannot harm an enlightened soul, even though he engages in material activities, because he knows the truth of the Absolute, and his mind is fixed on the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 3.27.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.27.26",
+    "description":"The influence of material nature cannot harm an enlightened soul, even though he engages in material activities, because he knows the truth of the Absolute, and his mind is fixed on the Supreme Personality of Godhead."
+}
+---
 ====== SB 3.27.26 ======
 
 > एवं विदिततत्त्वस्य प्रकृतिर्मयि मानसम् ।

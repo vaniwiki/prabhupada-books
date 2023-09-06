@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.55~~
-~~bc:Text 55~~
-
-{{description>One should worship the Lord by offering pure water, pure flower garlands, fruits, flowers and vegetables, which are available in the forest, or by collecting newly grown grasses, small buds of flowers or even the skins of trees, and if possible, by offering tulasī leaves, which are very dear to the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.8.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 4.8.55",
+    "description":"One should worship the Lord by offering pure water, pure flower garlands, fruits, flowers and vegetables, which are available in the forest, or by collecting newly grown grasses, small buds of flowers or even the skins of trees, and if possible, by offering tulasī leaves, which are very dear to the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.8.55 ======
 
 > सलिलैः शुचिभिर्माल्यैर्वन्यैर्मूलफलादिभिः ।

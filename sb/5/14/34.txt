@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.34~~
-~~bc:Text 34~~
-
-{{description>The conditioned soul suffers many miserable bodily conditions, such as being affected by severe cold and strong winds. He also suffers due to the activities of other living beings and due to natural disturbances. When he is unable to counteract them and has to remain in a miserable condition, he naturally becomes very morose because he wants to enjoy material facilities.}}
-
+---json
+{
+    "name":"SB 5.14.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 5.14.34",
+    "description":"The conditioned soul suffers many miserable bodily conditions, such as being affected by severe cold and strong winds. He also suffers due to the activities of other living beings and due to natural disturbances. When he is unable to counteract them and has to remain in a miserable condition, he naturally becomes very morose because he wants to enjoy material facilities."
+}
+---
 ====== SB 5.14.34 ======
 
 ===== Text =====

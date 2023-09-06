@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.37~~
-~~bc:Text 37~~
-
-{{description>By the supreme will of Kṛṣṇa, the mountain known as Lokāloka has been installed as the outer border of the three worlds—Bhūrloka, Bhuvarloka and Svarloka—to control the rays of the sun throughout the universe. All the luminaries, from the sun up to Dhruvaloka, distribute their rays throughout the three worlds, but only within the boundary formed by this mountain. Because it is extremely high, extending even higher than Dhruvaloka, it blocks the rays of the luminaries, which therefore can never extend beyond it.}}
-
+---json
+{
+    "name":"SB 5.20.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 5.20.37",
+    "description":"By the supreme will of Kṛṣṇa, the mountain known as Lokāloka has been installed as the outer border of the three worlds—Bhūrloka, Bhuvarloka and Svarloka—to control the rays of the sun throughout the universe. All the luminaries, from the sun up to Dhruvaloka, distribute their rays throughout the three worlds, but only within the boundary formed by this mountain. Because it is extremely high, extending even higher than Dhruvaloka, it blocks the rays of the luminaries, which therefore can never extend beyond it."
+}
+---
 ====== SB 5.20.37 ======
 
 ===== Text =====

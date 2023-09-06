@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.6.21~~
-~~bc:Text 21~~
-
-{{description>Immediately endeavor to produce nectar, which a person who is about to die may drink to become immortal.}}
-
+---json
+{
+    "name":"SB 8.6.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.6.21",
+    "description":"Immediately endeavor to produce nectar, which a person who is about to die may drink to become immortal."
+}
+---
 ====== SB 8.6.21 ======
 
 ===== Text =====

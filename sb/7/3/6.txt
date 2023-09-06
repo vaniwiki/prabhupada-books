@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.6~~
-~~bc:Text 6~~
-
-{{description>Scorched and extremely disturbed because of Hiraṇyakaśipu's severe penances, all the demigods left the planets where they reside and went to the planet of Lord Brahmā, where they informed the creator as follows: O lord of the demigods, O master of the universe, because of the fire emanating from Hiraṇyakaśipu's head as a result of his severe austerities, we have become so disturbed that we could not stay in our planets but have come to you.}}
-
+---json
+{
+    "name":"SB 7.3.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 7.3.6",
+    "description":"Scorched and extremely disturbed because of Hiraṇyakaśipu's severe penances, all the demigods left the planets where they reside and went to the planet of Lord Brahmā, where they informed the creator as follows: O lord of the demigods, O master of the universe, because of the fire emanating from Hiraṇyakaśipu's head as a result of his severe austerities, we have become so disturbed that we could not stay in our planets but have come to you."
+}
+---
 ====== SB 7.3.6 ======
 
 ===== Text =====

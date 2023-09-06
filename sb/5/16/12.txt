@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.12~~
-~~bc:Text 12~~
-
-{{description>Standing like flagstaffs on the summits of these four mountains are a mango tree, a rose apple tree, a kadamba tree and a banyan tree. Those trees are calculated to have a width of 100 yojanas [800 miles] and a height of 1,100 yojanas [8,800 miles]. Their branches also spread to a radius of 1,100 yojanas.}}
-
+---json
+{
+    "name":"SB 5.16.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.16.12",
+    "description":"Standing like flagstaffs on the summits of these four mountains are a mango tree, a rose apple tree, a kadamba tree and a banyan tree. Those trees are calculated to have a width of 100 yojanas [800 miles] and a height of 1,100 yojanas [8,800 miles]. Their branches also spread to a radius of 1,100 yojanas."
+}
+---
 ====== SB 5.16.12 ======
 
 ===== Text =====

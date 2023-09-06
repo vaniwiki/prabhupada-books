@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.13.10~~
-~~bc:Text 10~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Encouraged by the words of the sages, Indra killed Vṛtrāsura, and when he was killed the sinful reaction for killing a brāhmaṇa [brahma-hatyā] certainly took shelter of Indra.}}
-
+---json
+{
+    "name":"SB 6.13.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.13.10",
+    "description":"Śrī Śukadeva Gosvāmī said: Encouraged by the words of the sages, Indra killed Vṛtrāsura, and when he was killed the sinful reaction for killing a brāhmaṇa [brahma-hatyā] certainly took shelter of Indra."
+}
+---
 ====== SB 6.13.10 ======
 
 ===== Text =====

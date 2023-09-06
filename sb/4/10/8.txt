@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.8~~
-~~bc:Text 8~~
-
-{{description>Dhruva Mahārāja, who was a great charioteer and certainly a great bowman also, immediately began to kill them by simultaneously discharging arrows three at a time.}}
-
+---json
+{
+    "name":"SB 4.10.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.10.8",
+    "description":"Dhruva Mahārāja, who was a great charioteer and certainly a great bowman also, immediately began to kill them by simultaneously discharging arrows three at a time."
+}
+---
 ====== SB 4.10.8 ======
 
 > स तानापततो वीर उग्रधन्वा महारथः ।

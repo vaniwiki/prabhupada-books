@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.38~~
-~~bc:Text 38~~
-
-{{description>You will be thoroughly advised and favored by Me, and because of your inquiries, everything about My glories, which are known as paraṁ brahma, will be manifest within your heart. Thus you will know everything about Me.}}
-
+---json
+{
+    "name":"SB 8.24.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 8.24.38",
+    "description":"You will be thoroughly advised and favored by Me, and because of your inquiries, everything about My glories, which are known as paraṁ brahma, will be manifest within your heart. Thus you will know everything about Me."
+}
+---
 ====== SB 8.24.38 ======
 
 ===== Text =====

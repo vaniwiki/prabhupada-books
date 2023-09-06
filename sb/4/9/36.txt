@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.36~~
-~~bc:Text 36~~
-
-{{description>The great sage Maitreya continued: My dear Vidura, persons like you, who are pure devotees of the lotus feet of Mukunda [the Supreme Personality of Godhead, who can offer liberation] and who are always attached to the honey of His lotus feet, are always satisfied in serving at the lotus feet of the Lord. In any condition of life, such persons remain satisfied, and thus they never ask the Lord for material prosperity.}}
-
+---json
+{
+    "name":"SB 4.9.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.9.36",
+    "description":"The great sage Maitreya continued: My dear Vidura, persons like you, who are pure devotees of the lotus feet of Mukunda [the Supreme Personality of Godhead, who can offer liberation] and who are always attached to the honey of His lotus feet, are always satisfied in serving at the lotus feet of the Lord. In any condition of life, such persons remain satisfied, and thus they never ask the Lord for material prosperity."
+}
+---
 ====== SB 4.9.36 ======
 
 > मैत्रेय उवाच

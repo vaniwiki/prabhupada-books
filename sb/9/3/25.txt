@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.25~~
-~~bc:Text 25~~
-
-{{description>King Indra, being perturbed and angry, wanted to kill Cyavana Muni, and therefore he impetuously took up his thunderbolt. But Cyavana Muni, by his powers, paralyzed Indra's arm that held the thunderbolt.}}
-
+---json
+{
+    "name":"SB 9.3.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 9.3.25",
+    "description":"King Indra, being perturbed and angry, wanted to kill Cyavana Muni, and therefore he impetuously took up his thunderbolt. But Cyavana Muni, by his powers, paralyzed Indra's arm that held the thunderbolt."
+}
+---
 ====== SB 9.3.25 ======
 
 ===== Text =====

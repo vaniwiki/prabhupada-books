@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.3~~
-~~bc:Text 3~~
-
-{{description>Your inquiries were full and your studies were also well fulfilled, and there is no doubt that you have prepared a great and wonderful work, the Mahābhārata, which is full of all kinds of Vedic sequences elaborately explained.}}
-
+---json
+{
+    "name":"SB 1.5.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.5.3",
+    "description":"Your inquiries were full and your studies were also well fulfilled, and there is no doubt that you have prepared a great and wonderful work, the Mahābhārata, which is full of all kinds of Vedic sequences elaborately explained."
+}
+---
 ====== SB 1.5.3 ======
 
 > जिज्ञासितं सुसम्पन्नमपि ते महदद्भुतम् ।

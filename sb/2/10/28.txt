@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.28~~
-~~bc:Text 28~~
-
-{{description>Thereafter, when He desired to move from one body to another, the navel and the air of departure and death were combinedly created. The navel is the shelter for both, namely death and the separating force.}}
-
+---json
+{
+    "name":"SB 2.10.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 2.10.28",
+    "description":"Thereafter, when He desired to move from one body to another, the navel and the air of departure and death were combinedly created. The navel is the shelter for both, namely death and the separating force."
+}
+---
 ====== SB 2.10.28 ======
 
 > आसिसृप्सोः पुरः पुर्या नाभिद्वारमपानतः ।

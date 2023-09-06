@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.8~~
-~~bc:Text 8~~
-
-{{description>The father of Nābhāga said: Whatever the great sages sacrificed in the arena of the Dakṣa-yajña, they offered to Lord Śiva as his share. Therefore, everything in the sacrificial arena certainly belongs to Lord Śiva.}}
-
+---json
+{
+    "name":"SB 9.4.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.4.8",
+    "description":"The father of Nābhāga said: Whatever the great sages sacrificed in the arena of the Dakṣa-yajña, they offered to Lord Śiva as his share. Therefore, everything in the sacrificial arena certainly belongs to Lord Śiva."
+}
+---
 ====== SB 9.4.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.3~~
-~~bc:Text 3~~
-
-{{description>The Lord then appeared as the Kapila incarnation, being the son of the prajāpati brāhmaṇa Kardama and his wife, Devahūti, along with nine other women [sisters]. He spoke to His mother about self-realization, by which, in that very lifetime, she became fully cleansed of the mud of the material modes and thereby achieved liberation, the path of Kapila.}}
-
+---json
+{
+    "name":"SB 2.7.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 2.7.3",
+    "description":"The Lord then appeared as the Kapila incarnation, being the son of the prajāpati brāhmaṇa Kardama and his wife, Devahūti, along with nine other women [sisters]. He spoke to His mother about self-realization, by which, in that very lifetime, she became fully cleansed of the mud of the material modes and thereby achieved liberation, the path of Kapila."
+}
+---
 ====== SB 2.7.3 ======
 
 > जज्ञे च कर्दमगृहे द्विज देवहूत्यां

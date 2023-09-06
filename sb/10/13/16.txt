@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.16~~
-~~bc:Text 16~~
-
-{{description>Thereafter, when Kṛṣṇa was unable to find the calves, He returned to the bank of the river, but there He was also unable to see the cowherd boys. Thus He began to search for both the calves and the boys, as if He could not understand what had happened.}}
-
+---json
+{
+    "name":"SB 10.13.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 10.13.16",
+    "description":"Thereafter, when Kṛṣṇa was unable to find the calves, He returned to the bank of the river, but there He was also unable to see the cowherd boys. Thus He began to search for both the calves and the boys, as if He could not understand what had happened."
+}
+---
 ====== SB 10.13.16 ======
 
 ===== Text =====

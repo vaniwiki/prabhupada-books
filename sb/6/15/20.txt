@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.20~~
-~~bc:Text 20~~
-
-{{description>When I first came to your home, I could have given you the supreme transcendental knowledge, but when I saw that your mind was absorbed in material things, I gave you only a son, who caused you jubilation and lamentation.}}
-
+---json
+{
+    "name":"SB 6.15.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 6.15.20",
+    "description":"When I first came to your home, I could have given you the supreme transcendental knowledge, but when I saw that your mind was absorbed in material things, I gave you only a son, who caused you jubilation and lamentation."
+}
+---
 ====== SB 6.15.20 ======
 
 ===== Text =====

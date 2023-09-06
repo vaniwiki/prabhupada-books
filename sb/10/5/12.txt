@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.12~~
-~~bc:Text 12~~
-
-{{description>Offering blessings to the newborn child, Kṛṣṇa, the wives and daughters of the cowherd men said, "May You become the King of Vraja and long maintain all its inhabitants." They sprinkled a mixture of turmeric powder, oil and water upon the birthless Supreme Lord and offered their prayers.}}
-
+---json
+{
+    "name":"SB 10.5.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 10.5.12",
+    "description":"Offering blessings to the newborn child, Kṛṣṇa, the wives and daughters of the cowherd men said, "May You become the King of Vraja and long maintain all its inhabitants." They sprinkled a mixture of turmeric powder, oil and water upon the birthless Supreme Lord and offered their prayers."
+}
+---
 ====== SB 10.5.12 ======
 
 ===== Text =====

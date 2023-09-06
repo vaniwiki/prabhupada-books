@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.16~~
-~~bc:Text 16~~
-
-{{description>While showing his extraordinary prowess, Hiraṇyakaśipu, who desired to kill his own son, heard that wonderful, tumultuous sound, which had never before been heard. Upon hearing the sound, the other leaders of the demons were afraid. None of them could find the origin of that sound in the assembly.}}
-
+---json
+{
+    "name":"SB 7.8.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 7.8.16",
+    "description":"While showing his extraordinary prowess, Hiraṇyakaśipu, who desired to kill his own son, heard that wonderful, tumultuous sound, which had never before been heard. Upon hearing the sound, the other leaders of the demons were afraid. None of them could find the origin of that sound in the assembly."
+}
+---
 ====== SB 7.8.16 ======
 
 ===== Text =====

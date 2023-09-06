@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.12~~
-~~bc:Text 12~~
-
-{{description>O Lord who have a lotus navel, if a person happens to associate with a devotee whose heart always hankers after Your lotus feet, seeking always their fragrance, he is never attached to the material body or, in a bodily relationship, to offspring, friends, home, wealth and wife, which are very, very dear to materialistic persons. Indeed, he does not care for them.}}
-
+---json
+{
+    "name":"SB 4.9.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.9.12",
+    "description":"O Lord who have a lotus navel, if a person happens to associate with a devotee whose heart always hankers after Your lotus feet, seeking always their fragrance, he is never attached to the material body or, in a bodily relationship, to offspring, friends, home, wealth and wife, which are very, very dear to materialistic persons. Indeed, he does not care for them."
+}
+---
 ====== SB 4.9.12 ======
 
 > ते न स्मरन्त्यतितरां प्रियमीश मर्त्यं

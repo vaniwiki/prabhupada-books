@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.47~~
-~~bc:Text 47~~
-
-{{description>Unto one who has transcendental qualities due to friendly behavior with the Supreme Personality of Godhead, all living entities offer honor, just as water automatically flows down by nature.}}
-
+---json
+{
+    "name":"SB 4.9.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 4.9.47",
+    "description":"Unto one who has transcendental qualities due to friendly behavior with the Supreme Personality of Godhead, all living entities offer honor, just as water automatically flows down by nature."
+}
+---
 ====== SB 4.9.47 ======
 
 > यस्य प्रसन्नो भगवान्गुणैर्मैत्र्यादिभिर्हरिः ।

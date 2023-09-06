@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.2~~
-~~bc:Text 2~~
-
-{{description>After asking various questions and becoming established in the transcendental loving service of Lord Kṛṣṇa, Vidura retired from putting questions to Maitreya Muni.}}
-
+---json
+{
+    "name":"SB 1.13.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.13.2",
+    "description":"After asking various questions and becoming established in the transcendental loving service of Lord Kṛṣṇa, Vidura retired from putting questions to Maitreya Muni."
+}
+---
 ====== SB 1.13.2 ======
 
 > यावतः कृतवान्प्रश्नान्क्षत्ता कौषारवाग्रतः ।

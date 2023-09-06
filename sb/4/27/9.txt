@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.9~~
-~~bc:Text 9~~
-
-{{description>Of these many sons, each produced hundreds and hundreds of grandsons. In this way the whole city of Pañcāla became overcrowded by these sons and grandsons of King Purañjana.}}
-
+---json
+{
+    "name":"SB 4.27.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.27.9",
+    "description":"Of these many sons, each produced hundreds and hundreds of grandsons. In this way the whole city of Pañcāla became overcrowded by these sons and grandsons of King Purañjana."
+}
+---
 ====== SB 4.27.9 ======
 
 > पुत्राणां चाभवन्पुत्रा एकैकस्य शतं शतम् ।

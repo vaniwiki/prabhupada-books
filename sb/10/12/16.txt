@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.16~~
-~~bc:Text 16~~
-
-{{description>After thus deciding, that crooked Aghāsura assumed the form of a huge python, as thick as a big mountain and as long as eight miles. Having assumed this wonderful python's body, he spread his mouth like a big cave in the mountains and lay down on the road, expecting to swallow Kṛṣṇa and His associates the cowherd boys.}}
-
+---json
+{
+    "name":"SB 10.12.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 10.12.16",
+    "description":"After thus deciding, that crooked Aghāsura assumed the form of a huge python, as thick as a big mountain and as long as eight miles. Having assumed this wonderful python's body, he spread his mouth like a big cave in the mountains and lay down on the road, expecting to swallow Kṛṣṇa and His associates the cowherd boys."
+}
+---
 ====== SB 10.12.16 ======
 
 ===== Text =====

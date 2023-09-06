@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.41~~
-~~bc:Text 41~~
-
-{{description>Out of fear of the Supreme Personality of Godhead the trees, creepers, herbs and seasonal plants and flowers blossom and fructify, each in its own season.}}
-
+---json
+{
+    "name":"SB 3.29.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.29.41",
+    "description":"Out of fear of the Supreme Personality of Godhead the trees, creepers, herbs and seasonal plants and flowers blossom and fructify, each in its own season."
+}
+---
 ====== SB 3.29.41 ======
 
 > यद्वनस्पतयो भीता लताश्चौषधिभिः सह ।

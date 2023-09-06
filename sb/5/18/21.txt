@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.21~~
-~~bc:Text 21~~
-
-{{description>My dear Lord, You automatically fulfill all the desires of a woman who worships Your lotus feet in pure love. However, if a woman worships Your lotus feet for a particular purpose, You also quickly fulfill her desires, but in the end she becomes broken-hearted and laments. Therefore one need not worship Your lotus feet for some material benefit.}}
-
+---json
+{
+    "name":"SB 5.18.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 5.18.21",
+    "description":"My dear Lord, You automatically fulfill all the desires of a woman who worships Your lotus feet in pure love. However, if a woman worships Your lotus feet for a particular purpose, You also quickly fulfill her desires, but in the end she becomes broken-hearted and laments. Therefore one need not worship Your lotus feet for some material benefit."
+}
+---
 ====== SB 5.18.21 ======
 
 ===== Text =====

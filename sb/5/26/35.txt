@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.35~~
-~~bc:Text 35~~
-
-{{description>A householder who receives guests or visitors with cruel glances, as if to burn them to ashes, is put into the hell called Paryāvartana, where he is gazed at by hard-eyed vultures, herons, crows and similar birds, which suddenly swoop down and pluck out his eyes with great force.}}
-
+---json
+{
+    "name":"SB 5.26.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 5.26.35",
+    "description":"A householder who receives guests or visitors with cruel glances, as if to burn them to ashes, is put into the hell called Paryāvartana, where he is gazed at by hard-eyed vultures, herons, crows and similar birds, which suddenly swoop down and pluck out his eyes with great force."
+}
+---
 ====== SB 5.26.35 ======
 
 ===== Text =====

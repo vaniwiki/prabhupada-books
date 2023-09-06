@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.22~~
-~~bc:Text 22~~
-
-{{description>After having unmistakably known the decision of the Queen, as well as that of Devahūti, the Emperor most gladly gave his daughter to the sage, whose host of virtues was equaled by hers.}}
-
+---json
+{
+    "name":"SB 3.22.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.22.22",
+    "description":"After having unmistakably known the decision of the Queen, as well as that of Devahūti, the Emperor most gladly gave his daughter to the sage, whose host of virtues was equaled by hers."
+}
+---
 ====== SB 3.22.22 ======
 
 > सोऽनु ज्ञात्वा व्यवसितं महिष्या दुहितुः स्फुटम् ।

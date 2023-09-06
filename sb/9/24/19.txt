@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.19~~
-~~bc:Text 19~~
-
-{{description>Kukura, Bhajamāna, Śuci and Kambalabarhiṣa were the four sons of Andhaka. The son of Kukura was Vahni, and his son was Vilomā.}}
-
+---json
+{
+    "name":"SB 9.24.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 9.24.19",
+    "description":"Kukura, Bhajamāna, Śuci and Kambalabarhiṣa were the four sons of Andhaka. The son of Kukura was Vahni, and his son was Vilomā."
+}
+---
 ====== SB 9.24.19 ======
 
 ===== Text =====

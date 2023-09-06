@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.24~~
-~~bc:Text 24~~
-
-{{description>When Prajāpati Dakṣa was lamenting for his lost children, Lord Brahmā pacified him with instructions, and thereafter Dakṣa begot one thousand more children in the womb of his wife, Pāñcajanī. This time his sons were known as the Savalāśvas.}}
-
+---json
+{
+    "name":"SB 6.5.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.5.24",
+    "description":"When Prajāpati Dakṣa was lamenting for his lost children, Lord Brahmā pacified him with instructions, and thereafter Dakṣa begot one thousand more children in the womb of his wife, Pāñcajanī. This time his sons were known as the Savalāśvas."
+}
+---
 ====== SB 6.5.24 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.38~~
-~~bc:Text 38~~
-
-{{description>O Brahmā, the prayers that you have chanted praising the glories of My transcendental activities, the penances you have undertaken to understand Me, and your firm faith in Me—all these are to be considered My causeless mercy.}}
-
+---json
+{
+    "name":"SB 3.9.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 3.9.38",
+    "description":"O Brahmā, the prayers that you have chanted praising the glories of My transcendental activities, the penances you have undertaken to understand Me, and your firm faith in Me—all these are to be considered My causeless mercy."
+}
+---
 ====== SB 3.9.38 ======
 
 > यच्चकर्थाङ्ग मत्स्तोत्रं मत्कथाभ्युदयाङ्कितम् ।

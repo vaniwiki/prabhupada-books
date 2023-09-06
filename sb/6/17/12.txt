@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.12~~
-~~bc:Text 12~~
-
-{{description>Alas, Lord Brahmā, who has taken his birth from the lotus flower, does not know the principles of religion, nor do the great saints like Bhṛgu and Nārada, nor the four Kumāras, headed by Sanat-kumāra. Manu and Kapila have also forgotten the religious principles. I suppose it to be because of this that they have not tried to stop Lord Śiva from behaving improperly.}}
-
+---json
+{
+    "name":"SB 6.17.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 6.17.12",
+    "description":"Alas, Lord Brahmā, who has taken his birth from the lotus flower, does not know the principles of religion, nor do the great saints like Bhṛgu and Nārada, nor the four Kumāras, headed by Sanat-kumāra. Manu and Kapila have also forgotten the religious principles. I suppose it to be because of this that they have not tried to stop Lord Śiva from behaving improperly."
+}
+---
 ====== SB 6.17.12 ======
 
 ===== Text =====

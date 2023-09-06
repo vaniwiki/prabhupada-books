@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.42~~
-~~bc:Text 42~~
-
-{{description>Thus annihilating the gross body of five elements into the three qualitative modes of material nature, he merged them in one nescience and then absorbed that nescience in the self, Brahman, which is inexhaustible in all circumstances.}}
-
+---json
+{
+    "name":"SB 1.15.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 1.15.42",
+    "description":"Thus annihilating the gross body of five elements into the three qualitative modes of material nature, he merged them in one nescience and then absorbed that nescience in the self, Brahman, which is inexhaustible in all circumstances."
+}
+---
 ====== SB 1.15.42 ======
 
 > त्रित्वे हुत्वा च पञ्चत्वं तच्चैकत्वे ञ्जुहोन्मुनिः ।

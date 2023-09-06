@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.36~~
-~~bc:Text 36~~
-
-{{description>A person who is searching after the Supreme Absolute Truth, the Personality of Godhead, must certainly search for it up to this, in all circumstances, in all space and time, and both directly and indirectly.}}
-
+---json
+{
+    "name":"SB 2.9.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 2.9.36",
+    "description":"A person who is searching after the Supreme Absolute Truth, the Personality of Godhead, must certainly search for it up to this, in all circumstances, in all space and time, and both directly and indirectly."
+}
+---
 ====== SB 2.9.36 ======
 
 > एतावदेव जिज्ञास्यं तत्त्वजिज्ञासुनात्मनः ।

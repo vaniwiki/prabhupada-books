@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.59~~
-~~bc:Text 59~~
-
-{{description>Vidura, being affected with delight and grief, will then leave that place of sacred pilgrimage.}}
-
+---json
+{
+    "name":"SB 1.13.59",
+    "h1":"Text 59",
+    "title":" Śrīmad Bhāgavatam 1.13.59",
+    "description":"Vidura, being affected with delight and grief, will then leave that place of sacred pilgrimage."
+}
+---
 ====== SB 1.13.59 ======
 
 > विदुरस्तु तदाश्चर्यं निशाम्य कुरुनन्दन ।

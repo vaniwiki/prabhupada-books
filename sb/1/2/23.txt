@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.23~~
-~~bc:Text 23~~
-
-{{description>The transcendental Personality of Godhead is indirectly associated with the three modes of material nature, namely passion, goodness and ignorance, and just for the material world's creation, maintenance and destruction He accepts the three qualitative forms of Brahmā, Viṣṇu and Śiva. Of these three, all human beings can derive ultimate benefit from Viṣṇu, the form of the quality of goodness.}}
-
+---json
+{
+    "name":"SB 1.2.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 1.2.23",
+    "description":"The transcendental Personality of Godhead is indirectly associated with the three modes of material nature, namely passion, goodness and ignorance, and just for the material world's creation, maintenance and destruction He accepts the three qualitative forms of Brahmā, Viṣṇu and Śiva. Of these three, all human beings can derive ultimate benefit from Viṣṇu, the form of the quality of goodness."
+}
+---
 ====== SB 1.2.23 ======
 
 > सत्त्वं रजस्तम इति प्रकृतेर्गुणास्तैर्युक्तः परमपुरुष एक इहास्य धत्ते ।

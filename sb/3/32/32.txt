@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.32~~
-~~bc:Text 32~~
-
-{{description>Philosophical research culminates in understanding the Supreme Personality of Godhead. After achieving this understanding, when one becomes free from the material modes of nature, he attains the stage of devotional service. Either by devotional service directly or by philosophical research, one has to find the same destination, which is the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 3.32.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.32.32",
+    "description":"Philosophical research culminates in understanding the Supreme Personality of Godhead. After achieving this understanding, when one becomes free from the material modes of nature, he attains the stage of devotional service. Either by devotional service directly or by philosophical research, one has to find the same destination, which is the Supreme Personality of Godhead."
+}
+---
 ====== SB 3.32.32 ======
 
 > ज्ञानयोगश्च मन्निष्ठो नैर्गुण्यो भक्तिलक्षणः ।

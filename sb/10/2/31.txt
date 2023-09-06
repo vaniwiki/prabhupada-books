@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.31~~
-~~bc:Text 31~~
-
-{{description>O Lord, who resemble the shining sun, You are always ready to fulfill the desire of Your devotee, and therefore You are known as a desire tree [vāñchā-kalpataru]. When ācāryas completely take shelter under Your lotus feet in order to cross the fierce ocean of nescience, they leave behind on earth the method by which they cross, and because You are very merciful to Your other devotees, You accept this method to help them.}}
-
+---json
+{
+    "name":"SB 10.2.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 10.2.31",
+    "description":"O Lord, who resemble the shining sun, You are always ready to fulfill the desire of Your devotee, and therefore You are known as a desire tree [vāñchā-kalpataru]. When ācāryas completely take shelter under Your lotus feet in order to cross the fierce ocean of nescience, they leave behind on earth the method by which they cross, and because You are very merciful to Your other devotees, You accept this method to help them."
+}
+---
 ====== SB 10.2.31 ======
 
 ===== Text =====

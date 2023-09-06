@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.26~~
-~~bc:Text 26~~
-
-{{description>As one can understand the presence of the air by the aromas it carries, so, under the guidance of the Supreme Personality of Godhead, one can understand the living soul by these three divisions of intelligence. These three divisions, however, are not the soul; they are constituted of the three modes and are born of activities.}}
-
+---json
+{
+    "name":"SB 7.7.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 7.7.26",
+    "description":"As one can understand the presence of the air by the aromas it carries, so, under the guidance of the Supreme Personality of Godhead, one can understand the living soul by these three divisions of intelligence. These three divisions, however, are not the soul; they are constituted of the three modes and are born of activities."
+}
+---
 ====== SB 7.7.26 ======
 
 ===== Text =====

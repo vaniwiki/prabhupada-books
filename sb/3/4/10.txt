@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.10~~
-~~bc:Text 10~~
-
-{{description>Maitreya Muni was greatly attached to Him [the Lord], and he was listening in a pleasing attitude, with his shoulder lowered. With a smile and a particular glance upon me, having allowed me to rest, the Lord spoke as follows.}}
-
+---json
+{
+    "name":"SB 3.4.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 3.4.10",
+    "description":"Maitreya Muni was greatly attached to Him [the Lord], and he was listening in a pleasing attitude, with his shoulder lowered. With a smile and a particular glance upon me, having allowed me to rest, the Lord spoke as follows."
+}
+---
 ====== SB 3.4.10 ======
 
 > तस्यानुरक्तस्य मुनेर्मुकुन्दः प्रमोदभावानतकन्धरस्य ।

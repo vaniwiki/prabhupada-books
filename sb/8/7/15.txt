@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.15~~
-~~bc:Text 15~~
-
-{{description>Because the demigods were also affected by the blazing breath of Vāsuki, their bodily lusters diminished, and their garments, garlands, weapons and faces were blackened by smoke. However, by the grace of the Supreme Personality of Godhead, clouds appeared on the sea, pouring torrents of rain, and breezes blew, carrying particles of water from the sea waves, to give the demigods relief.}}
-
+---json
+{
+    "name":"SB 8.7.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.7.15",
+    "description":"Because the demigods were also affected by the blazing breath of Vāsuki, their bodily lusters diminished, and their garments, garlands, weapons and faces were blackened by smoke. However, by the grace of the Supreme Personality of Godhead, clouds appeared on the sea, pouring torrents of rain, and breezes blew, carrying particles of water from the sea waves, to give the demigods relief."
+}
+---
 ====== SB 8.7.15 ======
 
 ===== Text =====

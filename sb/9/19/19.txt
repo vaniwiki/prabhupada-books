@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.19.19~~
-~~bc:Text 19~~
-
-{{description>Therefore, I shall now give up all these desires and meditate upon the Supreme Personality of Godhead. Free from the dualities of mental concoction and free from false prestige, I shall wander in the forest with the animals.}}
-
+---json
+{
+    "name":"SB 9.19.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 9.19.19",
+    "description":"Therefore, I shall now give up all these desires and meditate upon the Supreme Personality of Godhead. Free from the dualities of mental concoction and free from false prestige, I shall wander in the forest with the animals."
+}
+---
 ====== SB 9.19.19 ======
 
 ===== Text =====

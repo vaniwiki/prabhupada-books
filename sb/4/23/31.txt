@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.31~~
-~~bc:Text 31~~
-
-{{description>Any person who describes the great characteristics of King Pṛthu with faith and determination—whether he reads or hears of them himself or helps others to hear of them—is certain to attain the very planet which Mahārāja Pṛthu attained. In other words, such a person also returns home to the Vaikuṇṭha planets, back to Godhead.}}
-
+---json
+{
+    "name":"SB 4.23.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.23.31",
+    "description":"Any person who describes the great characteristics of King Pṛthu with faith and determination—whether he reads or hears of them himself or helps others to hear of them—is certain to attain the very planet which Mahārāja Pṛthu attained. In other words, such a person also returns home to the Vaikuṇṭha planets, back to Godhead."
+}
+---
 ====== SB 4.23.31 ======
 
 > य इदं सुमहत्पुण्यं श्रद्धयावहितः पठेत् ।

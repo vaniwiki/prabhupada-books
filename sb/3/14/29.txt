@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.29~~
-~~bc:Text 29~~
-
-{{description>Demigods like Brahmā also follow the religious rites observed by him. He is the controller of the material energy, which causes the creation of the material world. He is great, and therefore his devilish characteristics are simply imitation.}}
-
+---json
+{
+    "name":"SB 3.14.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.14.29",
+    "description":"Demigods like Brahmā also follow the religious rites observed by him. He is the controller of the material energy, which causes the creation of the material world. He is great, and therefore his devilish characteristics are simply imitation."
+}
+---
 ====== SB 3.14.29 ======
 
 > ब्रह्मादयो यत्कृतसेतुपाला यत्कारणं विश्वमिदं च माया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.9~~
-~~bc:Text 9~~
-
-{{description>While sporting in the water, the girls suddenly saw Lord Śiva passing by, seated on the back of his bull with his wife, Pārvatī. Ashamed because they were naked, the girls quickly got out of the water and covered themselves with their garments.}}
-
+---json
+{
+    "name":"SB 9.18.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 9.18.9",
+    "description":"While sporting in the water, the girls suddenly saw Lord Śiva passing by, seated on the back of his bull with his wife, Pārvatī. Ashamed because they were naked, the girls quickly got out of the water and covered themselves with their garments."
+}
+---
 ====== SB 9.18.9 ======
 
 ===== Text =====

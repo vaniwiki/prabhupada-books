@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.19~~
-~~bc:Text 19~~
-
-{{description>The Queen, the wife of Pṛthu Mahārāja, whose name was Arci, followed her husband into the forest. Since she was a queen, her body was very delicate. Although she did not deserve to live in the forest, she voluntarily touched her lotus feet to the ground.}}
-
+---json
+{
+    "name":"SB 4.23.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.23.19",
+    "description":"The Queen, the wife of Pṛthu Mahārāja, whose name was Arci, followed her husband into the forest. Since she was a queen, her body was very delicate. Although she did not deserve to live in the forest, she voluntarily touched her lotus feet to the ground."
+}
+---
 ====== SB 4.23.19 ======
 
 > अर्चिर्नाम महाराज्ञी तत्पत्न्यनुगता वनम् ।

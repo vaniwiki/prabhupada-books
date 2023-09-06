@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.16~~
-~~bc:Text 16~~
-
-{{description>Again, offering obeisances unto all you brāhmaṇas, I pray that if I should again take my birth in the material world I will have complete attachment to the unlimited Lord Kṛṣṇa, association with His devotees and friendly relations with all living beings.}}
-
+---json
+{
+    "name":"SB 1.19.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 1.19.16",
+    "description":"Again, offering obeisances unto all you brāhmaṇas, I pray that if I should again take my birth in the material world I will have complete attachment to the unlimited Lord Kṛṣṇa, association with His devotees and friendly relations with all living beings."
+}
+---
 ====== SB 1.19.16 ======
 
 > पुनश्च भूयाद्भगवत्यनन्ते रतिः प्रसङ्गश्च तदाश्रयेषु ।

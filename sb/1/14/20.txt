@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.20~~
-~~bc:Text 20~~
-
-{{description>The Deities seem to be crying in the temple, lamenting and perspiring. They seem about to leave. All the cities, villages, towns, gardens, mines and hermitages are now devoid of beauty and bereft of all happiness. I do not know what sort of calamities are now awaiting us.}}
-
+---json
+{
+    "name":"SB 1.14.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.14.20",
+    "description":"The Deities seem to be crying in the temple, lamenting and perspiring. They seem about to leave. All the cities, villages, towns, gardens, mines and hermitages are now devoid of beauty and bereft of all happiness. I do not know what sort of calamities are now awaiting us."
+}
+---
 ====== SB 1.14.20 ======
 
 > दैवतानि रुदन्तीव स्विद्यन्ति ह्युच्चलन्ति च ।

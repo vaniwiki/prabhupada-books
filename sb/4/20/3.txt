@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.3~~
-~~bc:Text 3~~
-
-{{description>O King, one who is advanced in intelligence and eager to perform welfare activities for others is considered best amongst human beings. An advanced human being is never malicious to others. Those with advanced intelligence are always conscious that this material body is different from the soul.}}
-
+---json
+{
+    "name":"SB 4.20.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.20.3",
+    "description":"O King, one who is advanced in intelligence and eager to perform welfare activities for others is considered best amongst human beings. An advanced human being is never malicious to others. Those with advanced intelligence are always conscious that this material body is different from the soul."
+}
+---
 ====== SB 4.20.3 ======
 
 > सुधियः साधवो लोके नरदेव नरोत्तमाः ।

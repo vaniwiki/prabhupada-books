@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.5~~
-~~bc:Text 5~~
-
-{{description>O Lord, although You are completely detached from the creation, maintenance and annihilation of this material world and are not directly affected by these activities, they are all attributed to You. We do not wonder at this, for Your inconceivable energies perfectly qualify You to be the cause of all causes. You are the active principle in everything, although You are separate from everything. Thus we can realize that everything is happening because of Your inconceivable energy.}}
-
+---json
+{
+    "name":"SB 5.18.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.18.5",
+    "description":"O Lord, although You are completely detached from the creation, maintenance and annihilation of this material world and are not directly affected by these activities, they are all attributed to You. We do not wonder at this, for Your inconceivable energies perfectly qualify You to be the cause of all causes. You are the active principle in everything, although You are separate from everything. Thus we can realize that everything is happening because of Your inconceivable energy."
+}
+---
 ====== SB 5.18.5 ======
 
 ===== Text =====

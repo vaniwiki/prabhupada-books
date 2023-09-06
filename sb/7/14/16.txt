@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.16~~
-~~bc:Text 16~~
-
-{{description>When one is enriched with wealth and knowledge which are under his full control and by means of which he can perform yajña or please the Supreme Personality of Godhead, one must perform sacrifices, offering oblations to the fire according to the directions of the śāstras. In this way one should worship the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 7.14.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 7.14.16",
+    "description":"When one is enriched with wealth and knowledge which are under his full control and by means of which he can perform yajña or please the Supreme Personality of Godhead, one must perform sacrifices, offering oblations to the fire according to the directions of the śāstras. In this way one should worship the Supreme Personality of Godhead."
+}
+---
 ====== SB 7.14.16 ======
 
 ===== Text =====

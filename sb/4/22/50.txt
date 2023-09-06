@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.50~~
-~~bc:Text 50~~
-
-{{description>Being self-satisfied, Mahārāja Pṛthu executed his duties as perfectly as possible according to the time and his situation, strength and financial position. His only aim in all his activities was to satisfy the Absolute Truth. In this way, he duly acted.}}
-
+---json
+{
+    "name":"SB 4.22.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 4.22.50",
+    "description":"Being self-satisfied, Mahārāja Pṛthu executed his duties as perfectly as possible according to the time and his situation, strength and financial position. His only aim in all his activities was to satisfy the Absolute Truth. In this way, he duly acted."
+}
+---
 ====== SB 4.22.50 ======
 
 > कर्माणि च यथाकालं यथादेशं यथाबलम् ।

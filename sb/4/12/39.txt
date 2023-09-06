@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.39~~
-~~bc:Text 39~~
-
-{{description>Saint Maitreya continued: My dear Vidura, descendant of Kuru, as a herd of bulls circumambulates a central pole on their right side, all the luminaries within the universal sky unceasingly circumambulate the abode of Dhruva Mahārāja with great force and speed.}}
-
+---json
+{
+    "name":"SB 4.12.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.12.39",
+    "description":"Saint Maitreya continued: My dear Vidura, descendant of Kuru, as a herd of bulls circumambulates a central pole on their right side, all the luminaries within the universal sky unceasingly circumambulate the abode of Dhruva Mahārāja with great force and speed."
+}
+---
 ====== SB 4.12.39 ======
 
 > गम्भीरवेगोऽनिमिषं ज्योतिषां चक्रमाहितम् ।

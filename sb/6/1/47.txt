@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.47~~
-~~bc:Text 47~~
-
-{{description>Just as springtime in the present indicates the nature of springtimes in the past and future, so this life of happiness, distress or a mixture of both gives evidence concerning the religious and irreligious activities of one's past and future lives.}}
-
+---json
+{
+    "name":"SB 6.1.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 6.1.47",
+    "description":"Just as springtime in the present indicates the nature of springtimes in the past and future, so this life of happiness, distress or a mixture of both gives evidence concerning the religious and irreligious activities of one's past and future lives."
+}
+---
 ====== SB 6.1.47 ======
 
 ===== Text =====

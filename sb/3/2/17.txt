@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.17~~
-~~bc:Text 17~~
-
-{{description>Lord Kṛṣṇa begged pardon from His parents for Their [Kṛṣṇa's and Balarāma's] inability to serve their feet, due to being away from home because of great fear of Kaṁsa. He said, "O mother, O father, please excuse Us for this inability." All this behavior of the Lord gives me pain at heart.}}
-
+---json
+{
+    "name":"SB 3.2.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.2.17",
+    "description":"Lord Kṛṣṇa begged pardon from His parents for Their [Kṛṣṇa's and Balarāma's] inability to serve their feet, due to being away from home because of great fear of Kaṁsa. He said, "O mother, O father, please excuse Us for this inability." All this behavior of the Lord gives me pain at heart."
+}
+---
 ====== SB 3.2.17 ======
 
 > दुनोति चेतः स्मरतो ममैतद्यदाह पादावभिवन्द्य पित्रोः ।

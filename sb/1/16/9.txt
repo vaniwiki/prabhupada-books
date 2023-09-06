@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.9~~
-~~bc:Text 9~~
-
-{{description>Lazy human beings with paltry intelligence and a short duration of life pass the night sleeping and the day performing activities that are for naught.}}
-
+---json
+{
+    "name":"SB 1.16.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.16.9",
+    "description":"Lazy human beings with paltry intelligence and a short duration of life pass the night sleeping and the day performing activities that are for naught."
+}
+---
 ====== SB 1.16.9 ======
 
 > मन्दस्य मन्दप्रज्ञस्य वयो मन्दायुषश्च वै ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.34~~
-~~bc:Text 34~~
-
-{{description>The Pavitras and Cākṣuṣas will be among the demigods, and Śuci will be Indra, the king of heaven. Agni, Bāhu, Śuci, Śuddha, Māgadha and others of great austerity will be the seven sages.}}
-
+---json
+{
+    "name":"SB 8.13.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 8.13.34",
+    "description":"The Pavitras and Cākṣuṣas will be among the demigods, and Śuci will be Indra, the king of heaven. Agni, Bāhu, Śuci, Śuddha, Māgadha and others of great austerity will be the seven sages."
+}
+---
 ====== SB 8.13.34 ======
 
 ===== Text =====

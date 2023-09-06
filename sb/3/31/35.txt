@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.35~~
-~~bc:Text 35~~
-
-{{description>The infatuation and bondage which accrue to a man from attachment to any other object is not as complete as that resulting from attachment to a woman or to the fellowship of men who are fond of women.}}
-
+---json
+{
+    "name":"SB 3.31.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.31.35",
+    "description":"The infatuation and bondage which accrue to a man from attachment to any other object is not as complete as that resulting from attachment to a woman or to the fellowship of men who are fond of women."
+}
+---
 ====== SB 3.31.35 ======
 
 > न तथास्य भवेन्मोहो बन्धश्चान्यप्रसङ्गतः ।

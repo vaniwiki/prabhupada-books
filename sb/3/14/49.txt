@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.49~~
-~~bc:Text 49~~
-
-{{description>He will be a virtuously qualified reservoir of all good qualities; he will be jolly and happy in others' happiness, distressed in others' distress, and will have no enemies. He will be a destroyer of the lamentation of all the universes, like the pleasant moon after the summer sun.}}
-
+---json
+{
+    "name":"SB 3.14.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 3.14.49",
+    "description":"He will be a virtuously qualified reservoir of all good qualities; he will be jolly and happy in others' happiness, distressed in others' distress, and will have no enemies. He will be a destroyer of the lamentation of all the universes, like the pleasant moon after the summer sun."
+}
+---
 ====== SB 3.14.49 ======
 
 > अलम्पटः शीलधरो गुणाकरो हृष्टः परर्द्ध्या व्यथितो दुःखितेषु ।

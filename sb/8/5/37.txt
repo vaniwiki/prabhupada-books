@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.37~~
-~~bc:Text 37~~
-
-{{description>All living entities, moving and nonmoving, receive their vital force, their bodily strength and their very lives from the air. All of us follow the air for our vital force, exactly as servants follow an emperor. The vital force of air is generated from the original vital force of the Supreme Personality of Godhead. May that Supreme Lord be pleased with us.}}
-
+---json
+{
+    "name":"SB 8.5.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 8.5.37",
+    "description":"All living entities, moving and nonmoving, receive their vital force, their bodily strength and their very lives from the air. All of us follow the air for our vital force, exactly as servants follow an emperor. The vital force of air is generated from the original vital force of the Supreme Personality of Godhead. May that Supreme Lord be pleased with us."
+}
+---
 ====== SB 8.5.37 ======
 
 ===== Text =====

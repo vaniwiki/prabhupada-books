@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.22~~
-~~bc:Text 22~~
-
-{{description>Free from all material conceptions of existence and never wonder-struck by anything, the Lord is always jubilant and fully satisfied by His own spiritual perfection. He has no material designations, and therefore He is steady and unattached. That Supreme Personality of Godhead is the only shelter of everyone. Anyone desiring to be protected by others is certainly a great fool who desires to cross the sea by holding the tail of a dog.}}
-
+---json
+{
+    "name":"SB 6.9.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 6.9.22",
+    "description":"Free from all material conceptions of existence and never wonder-struck by anything, the Lord is always jubilant and fully satisfied by His own spiritual perfection. He has no material designations, and therefore He is steady and unattached. That Supreme Personality of Godhead is the only shelter of everyone. Anyone desiring to be protected by others is certainly a great fool who desires to cross the sea by holding the tail of a dog."
+}
+---
 ====== SB 6.9.22 ======
 
 ===== Text =====

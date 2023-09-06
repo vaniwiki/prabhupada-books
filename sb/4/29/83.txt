@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.83~~
-~~bc:Text 83~~
-
-{{description>My dear Vidura, one who hears this narration concerning the understanding of the living entity's spiritual existence, as described by the great sage Nārada, or who relates it to others, will be liberated from the bodily conception of life.}}
-
+---json
+{
+    "name":"SB 4.29.83",
+    "h1":"Text 83",
+    "title":" Śrīmad Bhāgavatam 4.29.83",
+    "description":"My dear Vidura, one who hears this narration concerning the understanding of the living entity's spiritual existence, as described by the great sage Nārada, or who relates it to others, will be liberated from the bodily conception of life."
+}
+---
 ====== SB 4.29.83 ======
 
 > एतदध्यात्मपारोक्ष्यं गीतं देवर्षिणानघ ।

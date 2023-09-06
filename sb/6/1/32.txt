@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.32~~
-~~bc:Text 32~~
-
-{{description>When the order carriers of Yamarāja, the son of the sun-god, were thus forbidden, they replied: Who are you, sirs, that have the audacity to challenge the jurisdiction of Yamarāja?}}
-
+---json
+{
+    "name":"SB 6.1.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 6.1.32",
+    "description":"When the order carriers of Yamarāja, the son of the sun-god, were thus forbidden, they replied: Who are you, sirs, that have the audacity to challenge the jurisdiction of Yamarāja?"
+}
+---
 ====== SB 6.1.32 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.20~~
-~~bc:Text 20~~
-
-{{description>Upon understanding that Lord Śiva had been cursed, Nandīśvara, one of Lord Śiva's principal associates, became greatly angry. His eyes became red, and he prepared to curse Dakṣa and all the brāhmaṇas present there who had tolerated Dakṣa's cursing Śiva in harsh words.}}
-
+---json
+{
+    "name":"SB 4.2.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.2.20",
+    "description":"Upon understanding that Lord Śiva had been cursed, Nandīśvara, one of Lord Śiva's principal associates, became greatly angry. His eyes became red, and he prepared to curse Dakṣa and all the brāhmaṇas present there who had tolerated Dakṣa's cursing Śiva in harsh words."
+}
+---
 ====== SB 4.2.20 ======
 
 > विज्ञाय शापं गिरिशानुगाग्रणीर्नन्दीश्वरो रोषकषायदूषितः ।

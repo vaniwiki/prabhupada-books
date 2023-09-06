@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.23~~
-~~bc:Text 23~~
-
-{{description>The son of Jayadratha was Viśada, and his son was Syenajit. The sons of Syenajit were Rucirāśva, Dṛḍhahanu, Kāśya and Vatsa.}}
-
+---json
+{
+    "name":"SB 9.21.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 9.21.23",
+    "description":"The son of Jayadratha was Viśada, and his son was Syenajit. The sons of Syenajit were Rucirāśva, Dṛḍhahanu, Kāśya and Vatsa."
+}
+---
 ====== SB 9.21.23 ======
 
 ===== Text =====

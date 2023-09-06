@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.43~~
-~~bc:Text 43~~
-
-{{description>After making a decision, the saintly persons and sages churned the thighs of the dead body of King Vena with great force and according to a specific method. As a result of this churning, a dwarf-like person was born from King Vena's body.}}
-
+---json
+{
+    "name":"SB 4.14.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 4.14.43",
+    "description":"After making a decision, the saintly persons and sages churned the thighs of the dead body of King Vena with great force and according to a specific method. As a result of this churning, a dwarf-like person was born from King Vena's body."
+}
+---
 ====== SB 4.14.43 ======
 
 > विनिश्चित्यैवमृषयो विपन्नस्य महीपतेः ।

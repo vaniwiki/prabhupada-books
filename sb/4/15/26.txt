@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.26~~
-~~bc:Text 26~~
-
-{{description>King Pṛthu continued: My dear devotees, headed by the sūta, just now I am not very famous for my personal activities because I have not done anything praiseworthy you could glorify. Therefore how could I engage you in praising my activities exactly like children?}}
-
+---json
+{
+    "name":"SB 4.15.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.15.26",
+    "description":"King Pṛthu continued: My dear devotees, headed by the sūta, just now I am not very famous for my personal activities because I have not done anything praiseworthy you could glorify. Therefore how could I engage you in praising my activities exactly like children?"
+}
+---
 ====== SB 4.15.26 ======
 
 > वयं त्वविदिता लोके सूताद्यापि वरीमभिः ।

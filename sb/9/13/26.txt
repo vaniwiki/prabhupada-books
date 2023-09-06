@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.26~~
-~~bc:Text 26~~
-
-{{description>The son of Ṛta was Śunaka, the son of Śunaka was Vītahavya, the son of Vītahavya was Dhṛti, and the son of Dhṛti was Bahulāśva. The son of Bahulāśva was Kṛti, and his son was Mahāvaśī.}}
-
+---json
+{
+    "name":"SB 9.13.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.13.26",
+    "description":"The son of Ṛta was Śunaka, the son of Śunaka was Vītahavya, the son of Vītahavya was Dhṛti, and the son of Dhṛti was Bahulāśva. The son of Bahulāśva was Kṛti, and his son was Mahāvaśī."
+}
+---
 ====== SB 9.13.26 ======
 
 ===== Text =====

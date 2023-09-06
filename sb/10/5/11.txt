@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.11~~
-~~bc:Text 11~~
-
-{{description>In the ears of the gopīs were brilliantly polished jeweled earrings, and from their necks hung metal lockets. Their hands were decorated with bangles, their dresses were of varied colors, and from their hair, flowers fell onto the street like showers. Thus while going to the house of Mahārāja Nanda, the gopīs, their earrings, breasts and garlands moving, were brilliantly beautiful.}}
-
+---json
+{
+    "name":"SB 10.5.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 10.5.11",
+    "description":"In the ears of the gopīs were brilliantly polished jeweled earrings, and from their necks hung metal lockets. Their hands were decorated with bangles, their dresses were of varied colors, and from their hair, flowers fell onto the street like showers. Thus while going to the house of Mahārāja Nanda, the gopīs, their earrings, breasts and garlands moving, were brilliantly beautiful."
+}
+---
 ====== SB 10.5.11 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.49~~
-~~bc:Text 49~~
-
-{{description>Maitreya continued: My dear sinless Vidura, Lord Viṣṇu is actually the enjoyer of the results of all sacrifices. Yet because of His being the Supersoul of all living entities, He was satisfied simply with His share of the sacrificial offerings. He therefore addressed Dakṣa in a pleasing attitude.}}
-
+---json
+{
+    "name":"SB 4.7.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 4.7.49",
+    "description":"Maitreya continued: My dear sinless Vidura, Lord Viṣṇu is actually the enjoyer of the results of all sacrifices. Yet because of His being the Supersoul of all living entities, He was satisfied simply with His share of the sacrificial offerings. He therefore addressed Dakṣa in a pleasing attitude."
+}
+---
 ====== SB 4.7.49 ======
 
 > भगवान्स्वेन भागेन सर्वात्मा सर्वभागभुक् ।

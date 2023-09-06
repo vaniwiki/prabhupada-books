@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.31~~
-~~bc:Text 31~~
-
-{{description>The senses are certainly products of the mode of passion in false ego, and therefore philosophical speculative knowledge and fruitive activities are predominantly products of the mode of passion.}}
-
+---json
+{
+    "name":"SB 3.5.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 3.5.31",
+    "description":"The senses are certainly products of the mode of passion in false ego, and therefore philosophical speculative knowledge and fruitive activities are predominantly products of the mode of passion."
+}
+---
 ====== SB 3.5.31 ======
 
 > तैजसानीन्द्रियाण्येव ज्ञानकर्ममयानि च् ॥३१॥

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.9~~
-~~bc:Text 9~~
-
-{{description>Brahmā, who was not born of a material source but of the lotus flower coming out of the navel abdomen of the Lord, is the creator of all those who are materially born. Of course, by the grace of the Lord, Brahmā was able to see the form of the Lord.}}
-
+---json
+{
+    "name":"SB 2.8.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 2.8.9",
+    "description":"Brahmā, who was not born of a material source but of the lotus flower coming out of the navel abdomen of the Lord, is the creator of all those who are materially born. Of course, by the grace of the Lord, Brahmā was able to see the form of the Lord."
+}
+---
 ====== SB 2.8.9 ======
 
 > अजः सृजति भूतानि भूतात्मा यदनुग्रहात् ।

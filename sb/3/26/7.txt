@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.7~~
-~~bc:Text 7~~
-
-{{description>Material consciousness is the cause of one's conditional life, in which conditions are enforced upon the living entity by the material energy. Although the spirit soul does not do anything and is transcendental to such activities, he is thus affected by conditional life.}}
-
+---json
+{
+    "name":"SB 3.26.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.26.7",
+    "description":"Material consciousness is the cause of one's conditional life, in which conditions are enforced upon the living entity by the material energy. Although the spirit soul does not do anything and is transcendental to such activities, he is thus affected by conditional life."
+}
+---
 ====== SB 3.26.7 ======
 
 > तदस्य संसृतिर्बन्धः पारतन्त्र्यं च तत्कृतम् ।

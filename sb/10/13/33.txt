@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.33~~
-~~bc:Text 33~~
-
-{{description>At that time, all the thoughts of the cowherd men merged in the mellow of paternal love, which was aroused by the sight of their sons. Experiencing a great attraction, their anger completely disappearing, they lifted their sons, embraced them in their arms and enjoyed the highest pleasure by smelling their sons' heads.}}
-
+---json
+{
+    "name":"SB 10.13.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 10.13.33",
+    "description":"At that time, all the thoughts of the cowherd men merged in the mellow of paternal love, which was aroused by the sight of their sons. Experiencing a great attraction, their anger completely disappearing, they lifted their sons, embraced them in their arms and enjoyed the highest pleasure by smelling their sons' heads."
+}
+---
 ====== SB 10.13.33 ======
 
 ===== Text =====

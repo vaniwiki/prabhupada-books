@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.29~~
-~~bc:Text 29~~
-
-{{description>While Bhīṣmadeva was describing occupational duties, the sun's course ran into the northern hemisphere. This period is desired by mystics who die at their will.}}
-
+---json
+{
+    "name":"SB 1.9.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.9.29",
+    "description":"While Bhīṣmadeva was describing occupational duties, the sun's course ran into the northern hemisphere. This period is desired by mystics who die at their will."
+}
+---
 ====== SB 1.9.29 ======
 
 > धर्मं प्रवदतस्तस्य स कालः प्रत्युपस्थितः ।

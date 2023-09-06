@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.27~~
-~~bc:Text 27~~
-
-{{description>After hearing about his death, which will be caused by the bite of a snake-bird sent by a son of a brāhmaṇa, he will get himself freed from all material attachment and surrender unto the Personality of Godhead, taking shelter of Him.}}
-
+---json
+{
+    "name":"SB 1.12.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.12.27",
+    "description":"After hearing about his death, which will be caused by the bite of a snake-bird sent by a son of a brāhmaṇa, he will get himself freed from all material attachment and surrender unto the Personality of Godhead, taking shelter of Him."
+}
+---
 ====== SB 1.12.27 ======
 
 > तक्षकादात्मनो मृत्युं द्विजपुत्रोपसर्जितात् ।

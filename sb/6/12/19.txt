@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.19~~
-~~bc:Text 19~~
-
-{{description>Indra said: O great demon, I see by your discrimination and endurance in devotional service, despite your dangerous position, that you are a perfect devotee of the Supreme Personality of Godhead, the Supersoul and friend of everyone.}}
-
+---json
+{
+    "name":"SB 6.12.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 6.12.19",
+    "description":"Indra said: O great demon, I see by your discrimination and endurance in devotional service, despite your dangerous position, that you are a perfect devotee of the Supreme Personality of Godhead, the Supersoul and friend of everyone."
+}
+---
 ====== SB 6.12.19 ======
 
 ===== Text =====

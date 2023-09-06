@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.58~~
-~~bc:Text 58~~
-
-{{description>Thereafter, the sons of Pāṇḍu and Draupadī, overwhelmed with grief, performed the proper rituals for the dead bodies of their relatives.}}
-
+---json
+{
+    "name":"SB 1.7.58",
+    "h1":"Text 58",
+    "title":" Śrīmad Bhāgavatam 1.7.58",
+    "description":"Thereafter, the sons of Pāṇḍu and Draupadī, overwhelmed with grief, performed the proper rituals for the dead bodies of their relatives."
+}
+---
 ====== SB 1.7.58 ======
 
 > पुत्रशोकातुराः सर्वे पाण्डवाः सह कृष्णया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.17~~
-~~bc:Text 17~~
-
-{{description>Both the lowest of fools and he who is transcendental to all intelligence enjoy happiness, whereas persons between them suffer the material pangs.}}
-
+---json
+{
+    "name":"SB 3.7.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.7.17",
+    "description":"Both the lowest of fools and he who is transcendental to all intelligence enjoy happiness, whereas persons between them suffer the material pangs."
+}
+---
 ====== SB 3.7.17 ======
 
 > यश्च मूढतमो लोके यश्च बुद्धेः परं गतः ।

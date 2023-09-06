@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.11~~
-~~bc:Text 11~~
-
-{{description>Bhagīratha mounted a swift chariot and drove before mother Ganges, who followed him, purifying many countries, until they reached the ashes of Bhagīratha's forefathers, the sons of Sagara, who were thus sprinkled with water from the Ganges.}}
-
+---json
+{
+    "name":"SB 9.9.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.9.11",
+    "description":"Bhagīratha mounted a swift chariot and drove before mother Ganges, who followed him, purifying many countries, until they reached the ashes of Bhagīratha's forefathers, the sons of Sagara, who were thus sprinkled with water from the Ganges."
+}
+---
 ====== SB 9.9.11 ======
 
 ===== Text =====

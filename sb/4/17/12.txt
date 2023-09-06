@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.17.12~~
-~~bc:Text 12~~
-
-{{description>After hearing this lamentation and seeing the pitiable condition of the citizens, King Pṛthu contemplated this matter for a long time to see if he could find out the underlying causes.}}
-
+---json
+{
+    "name":"SB 4.17.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.17.12",
+    "description":"After hearing this lamentation and seeing the pitiable condition of the citizens, King Pṛthu contemplated this matter for a long time to see if he could find out the underlying causes."
+}
+---
 ====== SB 4.17.12 ======
 
 > मैत्रेय उवाच

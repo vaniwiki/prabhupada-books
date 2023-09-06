@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.9~~
-~~bc:Text 9~~
-
-{{description>O my Lord, the material miseries are without factual existence for the soul. Yet as long as the conditioned soul sees the body as meant for sense enjoyment, he cannot get out of the entanglement of material miseries, being influenced by Your external energy.}}
-
+---json
+{
+    "name":"SB 3.9.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.9.9",
+    "description":"O my Lord, the material miseries are without factual existence for the soul. Yet as long as the conditioned soul sees the body as meant for sense enjoyment, he cannot get out of the entanglement of material miseries, being influenced by Your external energy."
+}
+---
 ====== SB 3.9.9 ======
 
 > यावत्पृथक्त्वमिदमात्मन इन्द्रियार्थ

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.9~~
-~~bc:Text 9~~
-
-{{description>The Supreme Personality of Godhead, Lord Viṣṇu, continued: My dear King Pṛthu, when one situated in his occupational duty engages in My loving service without motive for material gain, he gradually becomes very satisfied within.}}
-
+---json
+{
+    "name":"SB 4.20.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.20.9",
+    "description":"The Supreme Personality of Godhead, Lord Viṣṇu, continued: My dear King Pṛthu, when one situated in his occupational duty engages in My loving service without motive for material gain, he gradually becomes very satisfied within."
+}
+---
 ====== SB 4.20.9 ======
 
 > यः स्वधर्मेण मां नित्यं निराशीः श्रद्धयान्वितः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1 Invocation~~
-~~bc:Invocation~~
-
-{{description>O my Lord, the all-pervading Personality of Godhead, I offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 2.1 Invocation",
+    "h1":"Invocation",
+    "title":" Śrīmad Bhāgavatam 2.1 Invocation",
+    "description":"O my Lord, the all-pervading Personality of Godhead, I offer my respectful obeisances unto You."
+}
+---
 ====== SB 2.1 Invocation ======
 
 > ॥ ॐ नमो भगवते वासुदेवाय ॥

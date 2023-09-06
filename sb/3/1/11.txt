@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.1.11~~
-~~bc:Text 11~~
-
-{{description>[Vidura said:] You must now return the legitimate share to Yudhiṣṭhira, who has no enemies and who has been forbearing through untold sufferings due to your offenses. He is waiting with his younger brothers, among whom is the revengeful Bhīma, breathing heavily like a snake. Surely you are afraid of him.}}
-
+---json
+{
+    "name":"SB 3.1.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.1.11",
+    "description":"[Vidura said:] You must now return the legitimate share to Yudhiṣṭhira, who has no enemies and who has been forbearing through untold sufferings due to your offenses. He is waiting with his younger brothers, among whom is the revengeful Bhīma, breathing heavily like a snake. Surely you are afraid of him."
+}
+---
 ====== SB 3.1.11 ======
 
 > अजातशत्रोः प्रतियच्छ दायं तितिक्षतो दुर्विषहं तवागः ।

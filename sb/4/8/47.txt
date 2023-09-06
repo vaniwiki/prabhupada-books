@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.47~~
-~~bc:Text 47~~
-
-{{description>The Lord is further described as having the mark of Śrīvatsa, or the sitting place of the goddess of fortune, and His bodily hue is deep bluish. The Lord is a person, He wears a garland of flowers, and He is eternally manifest with four hands, which hold [beginning from the lower left hand] a conchshell, wheel, club and lotus flower.}}
-
+---json
+{
+    "name":"SB 4.8.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 4.8.47",
+    "description":"The Lord is further described as having the mark of Śrīvatsa, or the sitting place of the goddess of fortune, and His bodily hue is deep bluish. The Lord is a person, He wears a garland of flowers, and He is eternally manifest with four hands, which hold [beginning from the lower left hand] a conchshell, wheel, club and lotus flower."
+}
+---
 ====== SB 4.8.47 ======
 
 > श्रीवत्साङ्कं घनश्यामं पुरुषं वनमालिनम् ।

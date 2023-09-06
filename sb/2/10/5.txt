@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.5~~
-~~bc:Text 5~~
-
-{{description>The science of God describes the incarnations of the Personality of Godhead and His different activities together with the activities of His great devotees.}}
-
+---json
+{
+    "name":"SB 2.10.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 2.10.5",
+    "description":"The science of God describes the incarnations of the Personality of Godhead and His different activities together with the activities of His great devotees."
+}
+---
 ====== SB 2.10.5 ======
 
 > अवतारानुचरितं हरेश्चास्यानुवर्तिनाम् ।

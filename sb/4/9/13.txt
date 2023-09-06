@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.13~~
-~~bc:Text 13~~
-
-{{description>My dear Lord, O Supreme Unborn, I know that the different varieties of living entities, such as animals, trees, birds, reptiles, demigods and human beings, are spread throughout the universe, which is caused by the total material energy, and I know that they are sometimes manifest and sometimes unmanifest; but I have never experienced the supreme form I behold as I see You now. Now all kinds of methods of theorizing have come to an end.}}
-
+---json
+{
+    "name":"SB 4.9.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.9.13",
+    "description":"My dear Lord, O Supreme Unborn, I know that the different varieties of living entities, such as animals, trees, birds, reptiles, demigods and human beings, are spread throughout the universe, which is caused by the total material energy, and I know that they are sometimes manifest and sometimes unmanifest; but I have never experienced the supreme form I behold as I see You now. Now all kinds of methods of theorizing have come to an end."
+}
+---
 ====== SB 4.9.13 ======
 
 > तिर्यङ्नगद्विजसरीसृपदेवदैत्य

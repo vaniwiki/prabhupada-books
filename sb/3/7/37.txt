@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.37~~
-~~bc:Text 37~~
-
-{{description>Please describe how many dissolutions there are for the elements of material nature and who survives after the dissolutions to serve the Lord while He is asleep.}}
-
+---json
+{
+    "name":"SB 3.7.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.7.37",
+    "description":"Please describe how many dissolutions there are for the elements of material nature and who survives after the dissolutions to serve the Lord while He is asleep."
+}
+---
 ====== SB 3.7.37 ======
 
 > तत्त्वानां भगवंस्तेषां कतिधा प्रतिसङ्क्रमः ।

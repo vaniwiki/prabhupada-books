@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.28~~
-~~bc:Text 28~~
-
-{{description>Dear Lord, You are the killer of all inauspicious things. You are compassionate upon Your poor devotees through the expansion of Your arcā-vigraha. You should certainly think of us as Your eternal servants.}}
-
+---json
+{
+    "name":"SB 4.30.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.30.28",
+    "description":"Dear Lord, You are the killer of all inauspicious things. You are compassionate upon Your poor devotees through the expansion of Your arcā-vigraha. You should certainly think of us as Your eternal servants."
+}
+---
 ====== SB 4.30.28 ======
 
 > एतावत्त्वं हि विभुभिर्भाव्यं दीनेषु वत्सलैः ।

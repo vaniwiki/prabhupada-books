@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.33~~
-~~bc:Text 33~~
-
-{{description>He holds no one as very dear and no one as inimical. He has no one for His own relative, and no one is alien to Him. He is actually the soul of the soul of all living entities. Thus He is the auspicious friend of all living beings and is very near and dear to all of them.}}
-
+---json
+{
+    "name":"SB 6.17.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 6.17.33",
+    "description":"He holds no one as very dear and no one as inimical. He has no one for His own relative, and no one is alien to Him. He is actually the soul of the soul of all living entities. Thus He is the auspicious friend of all living beings and is very near and dear to all of them."
+}
+---
 ====== SB 6.17.33 ======
 
 ===== Text =====

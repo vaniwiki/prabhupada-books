@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.2~~
-~~bc:Text 2~~
-
-{{description>The greatly powerful Dhruva Mahārāja had another wife, named Ilā, who was the daughter of the demigod Vāyu. By her he begot a son named Utkala and a very beautiful daughter.}}
-
+---json
+{
+    "name":"SB 4.10.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.10.2",
+    "description":"The greatly powerful Dhruva Mahārāja had another wife, named Ilā, who was the daughter of the demigod Vāyu. By her he begot a son named Utkala and a very beautiful daughter."
+}
+---
 ====== SB 4.10.2 ======
 
 > इलायामपि भार्यायां वायोः पुत्र्यां महाबलः ।

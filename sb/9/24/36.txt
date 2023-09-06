@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.36~~
-~~bc:Text 36~~
-
-{{description>Because Kuntī feared people's criticisms, with great difficulty she had to give up her affection for her child. Unwillingly, she packed the child in a basket and let it float down the waters of the river. O Mahārāja Parīkṣit, your great-grandfather the pious and chivalrous King Pāṇḍu later married Kuntī.}}
-
+---json
+{
+    "name":"SB 9.24.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 9.24.36",
+    "description":"Because Kuntī feared people's criticisms, with great difficulty she had to give up her affection for her child. Unwillingly, she packed the child in a basket and let it float down the waters of the river. O Mahārāja Parīkṣit, your great-grandfather the pious and chivalrous King Pāṇḍu later married Kuntī."
+}
+---
 ====== SB 9.24.36 ======
 
 ===== Text =====

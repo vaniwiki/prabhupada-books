@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.37~~
-~~bc:Text 37~~
-
-{{description>Sanat-kumāra advised the King: Therefore, my dear King Pṛthu, try to understand the Supreme Personality of Godhead, who is living within everyone's heart along with the individual soul, in each and every body, either moving or not moving. The individual souls are fully covered by the gross material body and subtle body made of the life air and intelligence.}}
-
+---json
+{
+    "name":"SB 4.22.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.22.37",
+    "description":"Sanat-kumāra advised the King: Therefore, my dear King Pṛthu, try to understand the Supreme Personality of Godhead, who is living within everyone's heart along with the individual soul, in each and every body, either moving or not moving. The individual souls are fully covered by the gross material body and subtle body made of the life air and intelligence."
+}
+---
 ====== SB 4.22.37 ======
 
 > तत्त्वं नरेन्द्र जगतामथ तस्थूषां च

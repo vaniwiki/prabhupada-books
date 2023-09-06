@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.31~~
-~~bc:Text 31~~
-
-{{description>In the thirteenth manvantara, the Sukarmās and Sutrāmas will be among the demigods, Divaspati will be the king of heaven, and Nirmoka and Tattvadarśa will be among the seven sages.}}
-
+---json
+{
+    "name":"SB 8.13.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.13.31",
+    "description":"In the thirteenth manvantara, the Sukarmās and Sutrāmas will be among the demigods, Divaspati will be the king of heaven, and Nirmoka and Tattvadarśa will be among the seven sages."
+}
+---
 ====== SB 8.13.31 ======
 
 ===== Text =====

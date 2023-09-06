@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.17~~
-~~bc:Text 17~~
-
-{{description>The black, slick hair on his head was very fine and curly, and his neck, like a conchshell, was decorated with auspicious lines. He wore a very valuable dhotī, and there was a nice wrapper on the upper part of his body.}}
-
+---json
+{
+    "name":"SB 4.21.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.21.17",
+    "description":"The black, slick hair on his head was very fine and curly, and his neck, like a conchshell, was decorated with auspicious lines. He wore a very valuable dhotī, and there was a nice wrapper on the upper part of his body."
+}
+---
 ====== SB 4.21.17 ======
 
 > सूक्ष्मवक्रासितस्निग्ध मूर्धजः कम्बुकन्धरः ।

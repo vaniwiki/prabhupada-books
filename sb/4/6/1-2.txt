@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.1-2~~
-~~bc:Text 1-2~~
-
-{{description>All the priests and other members of the sacrificial assembly and all the demigods, having been defeated by the soldiers of Lord Śiva and injured by weapons like tridents and swords, approached Lord Brahmā with great fear. After offering him obeisances, they began to speak in detail of all the events which had taken place.}}
-
+---json
+{
+    "name":"SB 4.6.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 4.6.1-2",
+    "description":"All the priests and other members of the sacrificial assembly and all the demigods, having been defeated by the soldiers of Lord Śiva and injured by weapons like tridents and swords, approached Lord Brahmā with great fear. After offering him obeisances, they began to speak in detail of all the events which had taken place."
+}
+---
 ====== SB 4.6.1-2 ======
 
 > मैत्रेय उवाच

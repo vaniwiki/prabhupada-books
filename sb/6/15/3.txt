@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.3~~
-~~bc:Text 3~~
-
-{{description>O King, as small particles of sand sometimes come together and are sometimes separated due to the force of the waves, the living entities who have accepted material bodies sometimes come together and are sometimes separated by the force of time.}}
-
+---json
+{
+    "name":"SB 6.15.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 6.15.3",
+    "description":"O King, as small particles of sand sometimes come together and are sometimes separated due to the force of the waves, the living entities who have accepted material bodies sometimes come together and are sometimes separated by the force of time."
+}
+---
 ====== SB 6.15.3 ======
 
 ===== Text =====

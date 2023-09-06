@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.42~~
-~~bc:Text 42~~
-
-{{description>I am the Supersoul of every individual. I am the supreme director and the dearest. People are wrongly attached to the gross and subtle bodies, but they should be attached to Me only.}}
-
+---json
+{
+    "name":"SB 3.9.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 3.9.42",
+    "description":"I am the Supersoul of every individual. I am the supreme director and the dearest. People are wrongly attached to the gross and subtle bodies, but they should be attached to Me only."
+}
+---
 ====== SB 3.9.42 ======
 
 > अहमात्मात्मनां धातः प्रेष्ठः सन्प्रेयसामपि ।

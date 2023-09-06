@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.20~~
-~~bc:Text 20~~
-
-{{description>My dear Mahārāja Parīkṣit, because of intense love and affection, mother Yaśodā, Kṛṣṇa's mother, considered Kṛṣṇa, who was at the peak of all opulences, to be her own son. Thus she took Kṛṣṇa by the hand, along with Balarāma, and brought Them home, where she performed her duties by fully bathing Them, dressing Them and feeding Them.}}
-
+---json
+{
+    "name":"SB 10.11.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 10.11.20",
+    "description":"My dear Mahārāja Parīkṣit, because of intense love and affection, mother Yaśodā, Kṛṣṇa's mother, considered Kṛṣṇa, who was at the peak of all opulences, to be her own son. Thus she took Kṛṣṇa by the hand, along with Balarāma, and brought Them home, where she performed her duties by fully bathing Them, dressing Them and feeding Them."
+}
+---
 ====== SB 10.11.20 ======
 
 ===== Text =====

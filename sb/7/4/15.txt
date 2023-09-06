@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.15~~
-~~bc:Text 15~~
-
-{{description>Being worshiped by sacrifices offered with great gifts by those who strictly followed the principles of varṇa and āśrama, Hiraṇyakaśipu, instead of offering shares of the oblations to the demigods, accepted them himself.}}
-
+---json
+{
+    "name":"SB 7.4.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 7.4.15",
+    "description":"Being worshiped by sacrifices offered with great gifts by those who strictly followed the principles of varṇa and āśrama, Hiraṇyakaśipu, instead of offering shares of the oblations to the demigods, accepted them himself."
+}
+---
 ====== SB 7.4.15 ======
 
 ===== Text =====

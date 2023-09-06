@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.12~~
-~~bc:Text 12~~
-
-{{description>O Kaṁsa, you fool, what will be the use of killing me? The Supreme Personality of Godhead, who has been your enemy from the very beginning and who will certainly kill you, has already taken His birth somewhere else. Therefore, do not unnecessarily kill other children.}}
-
+---json
+{
+    "name":"SB 10.4.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 10.4.12",
+    "description":"O Kaṁsa, you fool, what will be the use of killing me? The Supreme Personality of Godhead, who has been your enemy from the very beginning and who will certainly kill you, has already taken His birth somewhere else. Therefore, do not unnecessarily kill other children."
+}
+---
 ====== SB 10.4.12 ======
 
 ===== Text =====

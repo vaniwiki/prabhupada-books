@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.22~~
-~~bc:Text 22~~
-
-{{description>To satisfy the sage Utaṅka, the greatly powerful Kuvalayāśva killed a demon named Dhundhu. He did this with the assistance of his twenty-one thousand sons.}}
-
+---json
+{
+    "name":"SB 9.6.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 9.6.22",
+    "description":"To satisfy the sage Utaṅka, the greatly powerful Kuvalayāśva killed a demon named Dhundhu. He did this with the assistance of his twenty-one thousand sons."
+}
+---
 ====== SB 9.6.22 ======
 
 ===== Text =====

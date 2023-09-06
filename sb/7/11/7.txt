@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.7~~
-~~bc:Text 7~~
-
-{{description>The Supreme Being, the Personality of Godhead, is the essence of all Vedic knowledge, the root of all religious principles, and the memory of great authorities. O King Yudhiṣṭhira, this principle of religion is to be understood as evidence. On the basis of this religious principle, everything is satisfied, including one's mind, soul and even one's body.}}
-
+---json
+{
+    "name":"SB 7.11.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 7.11.7",
+    "description":"The Supreme Being, the Personality of Godhead, is the essence of all Vedic knowledge, the root of all religious principles, and the memory of great authorities. O King Yudhiṣṭhira, this principle of religion is to be understood as evidence. On the basis of this religious principle, everything is satisfied, including one's mind, soul and even one's body."
+}
+---
 ====== SB 7.11.7 ======
 
 ===== Text =====

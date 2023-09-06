@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.35~~
-~~bc:Text 35~~
-
-{{description>Although I am known as the great Brahmā, perfect in the disciplic succession of Vedic wisdom, and although I have undergone all austerities and am an expert in mystic powers and self-realization, and although I am recognized as such by the great forefathers of the living entities, who offer me respectful obeisances, still I cannot understand Him, the Lord, the very source of my birth.}}
-
+---json
+{
+    "name":"SB 2.6.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 2.6.35",
+    "description":"Although I am known as the great Brahmā, perfect in the disciplic succession of Vedic wisdom, and although I have undergone all austerities and am an expert in mystic powers and self-realization, and although I am recognized as such by the great forefathers of the living entities, who offer me respectful obeisances, still I cannot understand Him, the Lord, the very source of my birth."
+}
+---
 ====== SB 2.6.35 ======
 
 > सोऽहं समाम्नायमयस्तपोमयः प्रजापतीनामभिवन्दितः पतिः ।

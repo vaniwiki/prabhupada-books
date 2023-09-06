@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.61~~
-~~bc:Text 61~~
-
-{{description>When the great sage Aṅgirā understood that the King was almost dead in an ocean of lamentation, he went there with Nārada Ṛṣi.}}
-
+---json
+{
+    "name":"SB 6.14.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 6.14.61",
+    "description":"When the great sage Aṅgirā understood that the King was almost dead in an ocean of lamentation, he went there with Nārada Ṛṣi."
+}
+---
 ====== SB 6.14.61 ======
 
 ===== Text =====

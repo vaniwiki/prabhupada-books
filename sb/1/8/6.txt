@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.6~~
-~~bc:Text 6~~
-
-{{description>Lord Śrī Kṛṣṇa caused three well-performed Aśvamedha-yajñas [horse sacrifices] to be conducted by Mahārāja Yudhiṣṭhira and thus caused his virtuous fame to be glorified in all directions, like that of Indra, who had performed one hundred such sacrifices.}}
-
+---json
+{
+    "name":"SB 1.8.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.8.6",
+    "description":"Lord Śrī Kṛṣṇa caused three well-performed Aśvamedha-yajñas [horse sacrifices] to be conducted by Mahārāja Yudhiṣṭhira and thus caused his virtuous fame to be glorified in all directions, like that of Indra, who had performed one hundred such sacrifices."
+}
+---
 ====== SB 1.8.6 ======
 
 > याजयित्वाश्वमेधैस्तं त्रिभिरुत्तमकल्पकैः ।

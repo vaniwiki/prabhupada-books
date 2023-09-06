@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.41~~
-~~bc:Text 41~~
-
-{{description>Neither I nor all the sages born before you know fully the omnipotent Personality of Godhead. So what can others, who are born after us, know about Him? Even the first incarnation of the Lord, namely Śeṣa, has not been able to reach the limit of such knowledge, although He is describing the qualities of the Lord with ten hundred faces.}}
-
+---json
+{
+    "name":"SB 2.7.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 2.7.41",
+    "description":"Neither I nor all the sages born before you know fully the omnipotent Personality of Godhead. So what can others, who are born after us, know about Him? Even the first incarnation of the Lord, namely Śeṣa, has not been able to reach the limit of such knowledge, although He is describing the qualities of the Lord with ten hundred faces."
+}
+---
 ====== SB 2.7.41 ======
 
 > नान्तं विदाम्यहममी मुनयोऽग्रजास्ते

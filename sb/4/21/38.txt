@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.38~~
-~~bc:Text 38~~
-
-{{description>The Supreme Personality of Godhead, the ancient, eternal Godhead, who is foremost amongst all great personalities, obtained the opulence of His staunch reputation, which purifies the entire universe, by worshiping the lotus feet of those brāhmaṇas and Vaiṣṇavas.}}
-
+---json
+{
+    "name":"SB 4.21.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.21.38",
+    "description":"The Supreme Personality of Godhead, the ancient, eternal Godhead, who is foremost amongst all great personalities, obtained the opulence of His staunch reputation, which purifies the entire universe, by worshiping the lotus feet of those brāhmaṇas and Vaiṣṇavas."
+}
+---
 ====== SB 4.21.38 ======
 
 > ब्रह्मण्यदेवः पुरुषः पुरातनो नित्यं हरिर्यच्चरणाभिवन्दनात् ।

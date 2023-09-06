@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.27~~
-~~bc:Text 27~~
-
-{{description>Vibhāvarī is the home of Varuṇa, lord of the aquatic creatures and guardian of the lower regions of the universe, where the demons generally reside. There Hiraṇyākṣa fell at Varuṇa's feet like a lowborn man, and to make fun of him he said with a smile, "Give me battle, O Supreme Lord!"}}
-
+---json
+{
+    "name":"SB 3.17.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.17.27",
+    "description":"Vibhāvarī is the home of Varuṇa, lord of the aquatic creatures and guardian of the lower regions of the universe, where the demons generally reside. There Hiraṇyākṣa fell at Varuṇa's feet like a lowborn man, and to make fun of him he said with a smile, "Give me battle, O Supreme Lord!""
+}
+---
 ====== SB 3.17.27 ======
 
 > तत्रोपलभ्यासुरलोकपालकं यादोगणानामृषभं प्रचेतसम् ।

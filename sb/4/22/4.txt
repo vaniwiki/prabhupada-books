@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.4~~
-~~bc:Text 4~~
-
-{{description>When the great sages accepted their reception, according to the instructions of the śāstras, and finally took their seats offered by the King, the King, influenced by the glories of the sages, immediately bowed down. Thus he worshiped the four Kumāras.}}
-
+---json
+{
+    "name":"SB 4.22.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.22.4",
+    "description":"When the great sages accepted their reception, according to the instructions of the śāstras, and finally took their seats offered by the King, the King, influenced by the glories of the sages, immediately bowed down. Thus he worshiped the four Kumāras."
+}
+---
 ====== SB 4.22.4 ======
 
 > गौरवाद्यन्त्रितः सभ्यः प्रश्रयानतकन्धरः ।

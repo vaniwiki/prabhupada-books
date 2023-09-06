@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.51~~
-~~bc:Text 51~~
-
-{{description>My dear King, one brāhmaṇa, who was an old friend of King Purañjana, came to that place and began to pacify the Queen with sweet words.}}
-
+---json
+{
+    "name":"SB 4.28.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 4.28.51",
+    "description":"My dear King, one brāhmaṇa, who was an old friend of King Purañjana, came to that place and began to pacify the Queen with sweet words."
+}
+---
 ====== SB 4.28.51 ======
 
 > तत्र पूर्वतरः कश्चित्सखा ब्राह्मण आत्मवान् ।

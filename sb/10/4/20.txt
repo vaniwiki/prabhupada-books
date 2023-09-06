@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.20~~
-~~bc:Text 20~~
-
-{{description>One who does not understand the constitutional position of the body and the soul [ātmā] becomes too attached to the bodily concept of life. Consequently, because of attachment to the body and its by-products, he feels affected by union with and separation from his family, society and nation. As long as this continues, one continues his material life. [Otherwise, one is liberated.]}}
-
+---json
+{
+    "name":"SB 10.4.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 10.4.20",
+    "description":"One who does not understand the constitutional position of the body and the soul [ātmā] becomes too attached to the bodily concept of life. Consequently, because of attachment to the body and its by-products, he feels affected by union with and separation from his family, society and nation. As long as this continues, one continues his material life. [Otherwise, one is liberated.]"
+}
+---
 ====== SB 10.4.20 ======
 
 ===== Text =====

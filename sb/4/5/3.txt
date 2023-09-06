@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.3~~
-~~bc:Text 3~~
-
-{{description>A fearful black demon as high as the sky and as bright as three suns combined was thereby created, his teeth very fearful and the hairs on his head like burning fire. He had thousands of arms, equipped with various weapons, and he was garlanded with the heads of men.}}
-
+---json
+{
+    "name":"SB 4.5.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.5.3",
+    "description":"A fearful black demon as high as the sky and as bright as three suns combined was thereby created, his teeth very fearful and the hairs on his head like burning fire. He had thousands of arms, equipped with various weapons, and he was garlanded with the heads of men."
+}
+---
 ====== SB 4.5.3 ======
 
 > ततोऽतिकायस्तनुवा स्पृशन्दिवं सहस्रबाहुर्घनरुक्त्रिसूर्यदृक् ।

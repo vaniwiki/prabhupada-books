@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.1-2~~
-~~bc:Text 1-2~~
-
-{{description>Śukadeva Gosvāmī said: Under the protection of Magadharāja, Jarāsandha, the powerful Kaṁsa began persecuting the kings of the Yadu dynasty. In this he had the cooperation of demons like Pralamba, Baka, Cāṇūra, Tṛṇāvarta, Aghāsura, Muṣṭika, Ariṣṭa, Dvivida, Pūtanā, Keśī, Dhenuka, Bāṇāsura, Narakāsura and many other demoniac kings on the surface of the earth.}}
-
+---json
+{
+    "name":"SB 10.2.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 10.2.1-2",
+    "description":"Śukadeva Gosvāmī said: Under the protection of Magadharāja, Jarāsandha, the powerful Kaṁsa began persecuting the kings of the Yadu dynasty. In this he had the cooperation of demons like Pralamba, Baka, Cāṇūra, Tṛṇāvarta, Aghāsura, Muṣṭika, Ariṣṭa, Dvivida, Pūtanā, Keśī, Dhenuka, Bāṇāsura, Narakāsura and many other demoniac kings on the surface of the earth."
+}
+---
 ====== SB 10.2.1-2 ======
 
 ===== Text =====

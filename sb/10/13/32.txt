@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.32~~
-~~bc:Text 32~~
-
-{{description>The cowherd men, having been unable to check the cows from going to their calves, felt simultaneously ashamed and angry. They crossed the rough road with great difficulty, but when they came down and saw their own sons, they were overwhelmed by great affection.}}
-
+---json
+{
+    "name":"SB 10.13.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 10.13.32",
+    "description":"The cowherd men, having been unable to check the cows from going to their calves, felt simultaneously ashamed and angry. They crossed the rough road with great difficulty, but when they came down and saw their own sons, they were overwhelmed by great affection."
+}
+---
 ====== SB 10.13.32 ======
 
 ===== Text =====

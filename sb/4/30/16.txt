@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.16~~
-~~bc:Text 16~~
-
-{{description>You brothers are all of the same nature, being devotees and obedient sons of your father. Similarly, that girl is also of the same type and is dedicated to all of you. Thus both the girl and you, the sons of Prācīnabarhiṣat, are on the same platform, being united on a common principle.}}
-
+---json
+{
+    "name":"SB 4.30.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.30.16",
+    "description":"You brothers are all of the same nature, being devotees and obedient sons of your father. Similarly, that girl is also of the same type and is dedicated to all of you. Thus both the girl and you, the sons of Prācīnabarhiṣat, are on the same platform, being united on a common principle."
+}
+---
 ====== SB 4.30.16 ======
 
 > अपृथग्धर्मशीलानां सर्वेषां वः सुमध्यमा ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.52~~
-~~bc:Text 52~~
-
-{{description>Dear Queen, you must have worshiped the Supreme Personality of Godhead, who delivers His devotees from the greatest danger. Persons who constantly meditate upon Him surpass the course of birth and death. This perfection is very difficult to achieve.}}
-
+---json
+{
+    "name":"SB 4.9.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 4.9.52",
+    "description":"Dear Queen, you must have worshiped the Supreme Personality of Godhead, who delivers His devotees from the greatest danger. Persons who constantly meditate upon Him surpass the course of birth and death. This perfection is very difficult to achieve."
+}
+---
 ====== SB 4.9.52 ======
 
 > अभ्यर्चितस्त्वया नूनं भगवान्प्रणतार्तिहा ।

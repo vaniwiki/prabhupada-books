@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.17~~
-~~bc:Text 17~~
-
-{{description>From the son of Manu named Dhṛṣṭa came a kṣatriya caste called Dhārṣṭa, whose members achieved the position of brāhmaṇas in this world. Then, from the son of Manu named Nṛga came Sumati. From Sumati came Bhūtajyoti, and from Bhūtajyoti came Vasu.}}
-
+---json
+{
+    "name":"SB 9.2.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 9.2.17",
+    "description":"From the son of Manu named Dhṛṣṭa came a kṣatriya caste called Dhārṣṭa, whose members achieved the position of brāhmaṇas in this world. Then, from the son of Manu named Nṛga came Sumati. From Sumati came Bhūtajyoti, and from Bhūtajyoti came Vasu."
+}
+---
 ====== SB 9.2.17 ======
 
 ===== Text =====

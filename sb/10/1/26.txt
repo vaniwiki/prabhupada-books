@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.26~~
-~~bc:Text 26~~
-
-{{description>Śukadeva Gosvāmī continued: After thus advising the demigods and pacifying mother earth, the very powerful Lord Brahmā, who is the master of all other Prajāpatis and is therefore known as Prajāpati-pati, returned to his own abode, Brahmaloka.}}
-
+---json
+{
+    "name":"SB 10.1.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 10.1.26",
+    "description":"Śukadeva Gosvāmī continued: After thus advising the demigods and pacifying mother earth, the very powerful Lord Brahmā, who is the master of all other Prajāpatis and is therefore known as Prajāpati-pati, returned to his own abode, Brahmaloka."
+}
+---
 ====== SB 10.1.26 ======
 
 ===== Text =====

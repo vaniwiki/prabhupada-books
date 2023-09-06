@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.16~~
-~~bc:Text 16~~
-
-{{description>The Supreme Lord is unlimited. Only a very expert personality, retired from the activities of material happiness, deserves to understand this knowledge of spiritual values. Therefore those who are not so well situated, due to material attachment, should be shown the ways of transcendental realization, by Your Goodness, through descriptions of the transcendental activities of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 1.5.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 1.5.16",
+    "description":"The Supreme Lord is unlimited. Only a very expert personality, retired from the activities of material happiness, deserves to understand this knowledge of spiritual values. Therefore those who are not so well situated, due to material attachment, should be shown the ways of transcendental realization, by Your Goodness, through descriptions of the transcendental activities of the Supreme Lord."
+}
+---
 ====== SB 1.5.16 ======
 
 > विचक्षणोऽस्यार्हति वेदितुं विभोरनन्तपारस्य निवृत्तितः सुखम् ।

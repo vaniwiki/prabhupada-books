@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.28~~
-~~bc:Text 28~~
-
-{{description>Mahārāja Parīkṣit, who could fight one thousand enemies single-handedly, thus pacified the personality of religion and the earth. Then he took up his sharp sword to kill the personality of Kali, who is the cause of all irreligion.}}
-
+---json
+{
+    "name":"SB 1.17.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 1.17.28",
+    "description":"Mahārāja Parīkṣit, who could fight one thousand enemies single-handedly, thus pacified the personality of religion and the earth. Then he took up his sharp sword to kill the personality of Kali, who is the cause of all irreligion."
+}
+---
 ====== SB 1.17.28 ======
 
 > इति धर्मं महीं चैव सान्त्वयित्वा महारथः ।

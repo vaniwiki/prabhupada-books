@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.7~~
-~~bc:Text 7~~
-
-{{description>After Vidura ate sumptuously and took sufficient rest, he was comfortably seated. Then the King began to speak to him, and all who were present there listened.}}
-
+---json
+{
+    "name":"SB 1.13.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.13.7",
+    "description":"After Vidura ate sumptuously and took sufficient rest, he was comfortably seated. Then the King began to speak to him, and all who were present there listened."
+}
+---
 ====== SB 1.13.7 ======
 
 > तं भुक्तवन्तं विश्रान्तमासीनं सुखमासने ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.35~~
-~~bc:Text 35~~
-
-{{description>O greatest of all rulers, your actual identity is impossible for us to understand. As far as we can see, your presence brings flourishing happiness to everyone. Beyond this, no one can appreciate your activities. We can see this much, and nothing more.}}
-
+---json
+{
+    "name":"SB 8.7.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 8.7.35",
+    "description":"O greatest of all rulers, your actual identity is impossible for us to understand. As far as we can see, your presence brings flourishing happiness to everyone. Beyond this, no one can appreciate your activities. We can see this much, and nothing more."
+}
+---
 ====== SB 8.7.35 ======
 
 ===== Text =====

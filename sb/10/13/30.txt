@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.30~~
-~~bc:Text 30~~
-
-{{description>When the cows saw their own calves from the top of Govardhana Hill, they forgot themselves and their caretakers because of increased affection, and although the path was very rough, they ran toward their calves with great anxiety, each running as if with one pair of legs. Their milk bags full and flowing with milk, their heads and tails raised, and their humps moving with their necks, they ran forcefully until they reached their calves to feed them.}}
-
+---json
+{
+    "name":"SB 10.13.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 10.13.30",
+    "description":"When the cows saw their own calves from the top of Govardhana Hill, they forgot themselves and their caretakers because of increased affection, and although the path was very rough, they ran toward their calves with great anxiety, each running as if with one pair of legs. Their milk bags full and flowing with milk, their heads and tails raised, and their humps moving with their necks, they ran forcefully until they reached their calves to feed them."
+}
+---
 ====== SB 10.13.30 ======
 
 ===== Text =====

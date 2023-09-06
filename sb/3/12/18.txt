@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.18~~
-~~bc:Text 18~~
-
-{{description>My dear son, you had better situate yourself in penance, which is auspicious for all living entities and which will bring all benediction upon you. By penance only shall you be able to create the universe as it was before.}}
-
+---json
+{
+    "name":"SB 3.12.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.12.18",
+    "description":"My dear son, you had better situate yourself in penance, which is auspicious for all living entities and which will bring all benediction upon you. By penance only shall you be able to create the universe as it was before."
+}
+---
 ====== SB 3.12.18 ======
 
 > तप आतिष्ठ भद्रं ते सर्वभूतसुखावहम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.20~~
-~~bc:Text 20~~
-
-{{description>From Indrasena came Vītihotra, from Vītihotra came Satyaśravā, from Satyaśravā came the son named Uruśravā, and from Uruśravā came Devadatta.}}
-
+---json
+{
+    "name":"SB 9.2.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 9.2.20",
+    "description":"From Indrasena came Vītihotra, from Vītihotra came Satyaśravā, from Satyaśravā came the son named Uruśravā, and from Uruśravā came Devadatta."
+}
+---
 ====== SB 9.2.20 ======
 
 ===== Text =====

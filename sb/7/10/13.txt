@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.13~~
-~~bc:Text 13~~
-
-{{description>My dear Prahlāda, while you are in this material world you will exhaust all the reactions of pious activity by feeling happiness, and by acting piously you will neutralize impious activity. Because of the powerful time factor, you will give up your body, but the glories of your activities will be sung in the upper planetary systems, and being fully freed from all bondage, you will return home, back to Godhead.}}
-
+---json
+{
+    "name":"SB 7.10.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 7.10.13",
+    "description":"My dear Prahlāda, while you are in this material world you will exhaust all the reactions of pious activity by feeling happiness, and by acting piously you will neutralize impious activity. Because of the powerful time factor, you will give up your body, but the glories of your activities will be sung in the upper planetary systems, and being fully freed from all bondage, you will return home, back to Godhead."
+}
+---
 ====== SB 7.10.13 ======
 
 ===== Text =====

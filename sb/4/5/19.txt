@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.19~~
-~~bc:Text 19~~
-
-{{description>Vīrabhadra tore off the mustache of Bhṛgu, who was offering the sacrificial oblations with his hands in the fire.}}
-
+---json
+{
+    "name":"SB 4.5.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.5.19",
+    "description":"Vīrabhadra tore off the mustache of Bhṛgu, who was offering the sacrificial oblations with his hands in the fire."
+}
+---
 ====== SB 4.5.19 ======
 
 > जुह्वतः स्रुवहस्तस्य श्मश्रूणि भगवान्भवः ।

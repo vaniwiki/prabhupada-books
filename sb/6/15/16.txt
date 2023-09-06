@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.16~~
-~~bc:Text 16~~
-
-{{description>Because you are great personalities, you can give me real knowledge. I am as foolish as a village animal like a pig or dog because I am merged in the darkness of ignorance. Therefore, please ignite the torch of knowledge to save me.}}
-
+---json
+{
+    "name":"SB 6.15.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 6.15.16",
+    "description":"Because you are great personalities, you can give me real knowledge. I am as foolish as a village animal like a pig or dog because I am merged in the darkness of ignorance. Therefore, please ignite the torch of knowledge to save me."
+}
+---
 ====== SB 6.15.16 ======
 
 ===== Text =====

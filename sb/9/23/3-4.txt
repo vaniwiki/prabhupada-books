@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.3-4~~
-~~bc:Text 3-4~~
-
-{{description>The four sons of Uśīnara were Śibi, Vara, Kṛmi and Dakṣa, and from Śibi again came four sons, named Vṛṣādarbha, Sudhīra, Madra and Kekaya. The son of Titikṣu was Ruṣadratha. From Ruṣadratha came Homa; from Homa, Sutapā; and from Sutapā, Bali.}}
-
+---json
+{
+    "name":"SB 9.23.3-4",
+    "h1":"Text 3-4",
+    "title":" Śrīmad Bhāgavatam 9.23.3-4",
+    "description":"The four sons of Uśīnara were Śibi, Vara, Kṛmi and Dakṣa, and from Śibi again came four sons, named Vṛṣādarbha, Sudhīra, Madra and Kekaya. The son of Titikṣu was Ruṣadratha. From Ruṣadratha came Homa; from Homa, Sutapā; and from Sutapā, Bali."
+}
+---
 ====== SB 9.23.3-4 ======
 
 ===== Text =====

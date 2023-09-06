@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.27~~
-~~bc:Text 27~~
-
-{{description>When Hiraṇyakaśipu was freed from the hands of Nṛsiṁhadeva, he falsely thought that the Lord was afraid of his prowess. Therefore, after taking a little rest from the fight, he took up his sword and shield and again attacked the Lord with great force.}}
-
+---json
+{
+    "name":"SB 7.8.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 7.8.27",
+    "description":"When Hiraṇyakaśipu was freed from the hands of Nṛsiṁhadeva, he falsely thought that the Lord was afraid of his prowess. Therefore, after taking a little rest from the fight, he took up his sword and shield and again attacked the Lord with great force."
+}
+---
 ====== SB 7.8.27 ======
 
 ===== Text =====

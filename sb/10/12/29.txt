@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.29~~
-~~bc:Text 29~~
-
-{{description>When Kṛṣṇa entered the mouth of Aghāsura, the demigods hidden behind the clouds exclaimed, "Alas! Alas!" But the friends of Aghāsura, like Kaṁsa and other demons, were jubilant.}}
-
+---json
+{
+    "name":"SB 10.12.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 10.12.29",
+    "description":"When Kṛṣṇa entered the mouth of Aghāsura, the demigods hidden behind the clouds exclaimed, "Alas! Alas!" But the friends of Aghāsura, like Kaṁsa and other demons, were jubilant."
+}
+---
 ====== SB 10.12.29 ======
 
 ===== Text =====

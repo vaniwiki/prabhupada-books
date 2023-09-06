@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.6~~
-~~bc:Text 6~~
-
-{{description>Thus being fixed, one must render service unto the Supersoul situated in one's own heart by His omnipotency. Because He is the Almighty Personality of Godhead, eternal and unlimited, He is the ultimate goal of life, and by worshiping Him one can end the cause of the conditioned state of existence.}}
-
+---json
+{
+    "name":"SB 2.2.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 2.2.6",
+    "description":"Thus being fixed, one must render service unto the Supersoul situated in one's own heart by His omnipotency. Because He is the Almighty Personality of Godhead, eternal and unlimited, He is the ultimate goal of life, and by worshiping Him one can end the cause of the conditioned state of existence."
+}
+---
 ====== SB 2.2.6 ======
 
 > एवं स्वचित्ते स्वत एव सिद्ध आत्मा प्रियोऽर्थो भगवाननन्तः ।

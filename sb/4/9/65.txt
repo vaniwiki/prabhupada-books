@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.65~~
-~~bc:Text 65~~
-
-{{description>The saintly King Uttānapāda, hearing of the glorious deeds of Dhruva Mahārāja and personally seeing also how influential and great he was, felt very satisfied, for Dhruva's activities were wonderful to the supreme degree.}}
-
+---json
+{
+    "name":"SB 4.9.65",
+    "h1":"Text 65",
+    "title":" Śrīmad Bhāgavatam 4.9.65",
+    "description":"The saintly King Uttānapāda, hearing of the glorious deeds of Dhruva Mahārāja and personally seeing also how influential and great he was, felt very satisfied, for Dhruva's activities were wonderful to the supreme degree."
+}
+---
 ====== SB 4.9.65 ======
 
 > उत्तानपादो राजर्षिः प्रभावं तनयस्य तम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.7~~
-~~bc:Text 7~~
-
-{{description>Dakṣa was adequately welcomed by the president of the great assembly, Lord Brahmā. After offering Lord Brahmā respect, Dakṣa, by the order of Brahmā, properly took his seat.}}
-
+---json
+{
+    "name":"SB 4.2.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.2.7",
+    "description":"Dakṣa was adequately welcomed by the president of the great assembly, Lord Brahmā. After offering Lord Brahmā respect, Dakṣa, by the order of Brahmā, properly took his seat."
+}
+---
 ====== SB 4.2.7 ======
 
 > सदसस्पतिभिर्दक्षो भगवान्साधु सत्कृतः ।

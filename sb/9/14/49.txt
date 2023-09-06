@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.49~~
-~~bc:Text 49~~
-
-{{description>O Mahārāja Parīkṣit, at the beginning of Tretā-yuga, King Purūravā inaugurated a karma-kāṇḍa sacrifice. Thus Purūravā, who considered the yajñic fire his son, was able to go to Gandharvaloka as he desired.}}
-
+---json
+{
+    "name":"SB 9.14.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 9.14.49",
+    "description":"O Mahārāja Parīkṣit, at the beginning of Tretā-yuga, King Purūravā inaugurated a karma-kāṇḍa sacrifice. Thus Purūravā, who considered the yajñic fire his son, was able to go to Gandharvaloka as he desired."
+}
+---
 ====== SB 9.14.49 ======
 
 ===== Text =====

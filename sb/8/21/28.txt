@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.28~~
-~~bc:Text 28~~
-
-{{description>O King, the Supreme Personality of Godhead, Vāmanadeva, then spoke to Bali Mahārāja, the most liberal and celebrated personality whom He had arrested with the ropes of Varuṇa. Bali Mahārāja had lost all bodily luster, but he was nonetheless fixed in his determination.}}
-
+---json
+{
+    "name":"SB 8.21.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.21.28",
+    "description":"O King, the Supreme Personality of Godhead, Vāmanadeva, then spoke to Bali Mahārāja, the most liberal and celebrated personality whom He had arrested with the ropes of Varuṇa. Bali Mahārāja had lost all bodily luster, but he was nonetheless fixed in his determination."
+}
+---
 ====== SB 8.21.28 ======
 
 ===== Text =====

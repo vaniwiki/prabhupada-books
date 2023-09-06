@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.5~~
-~~bc:Text 5~~
-
-{{description>Thereafter, the head meant for drinking soma-rasa was transformed into a kapiñjala [francolin partridge]. Similarly, the head meant for drinking wine was transformed into a kalaviṅka [sparrow], and the head meant for eating food became a tittiri [common partridge].}}
-
+---json
+{
+    "name":"SB 6.9.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 6.9.5",
+    "description":"Thereafter, the head meant for drinking soma-rasa was transformed into a kapiñjala [francolin partridge]. Similarly, the head meant for drinking wine was transformed into a kalaviṅka [sparrow], and the head meant for eating food became a tittiri [common partridge]."
+}
+---
 ====== SB 6.9.5 ======
 
 ===== Text =====

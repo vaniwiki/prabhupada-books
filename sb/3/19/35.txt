@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.35~~
-~~bc:Text 35~~
-
-{{description>The Personality of Godhead delivered the king of the elephants, who was attacked by an alligator and who meditated upon the lotus feet of the Lord. At that time the female elephants who accompanied him were crying, and the Lord saved them from the impending danger.}}
-
+---json
+{
+    "name":"SB 3.19.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.19.35",
+    "description":"The Personality of Godhead delivered the king of the elephants, who was attacked by an alligator and who meditated upon the lotus feet of the Lord. At that time the female elephants who accompanied him were crying, and the Lord saved them from the impending danger."
+}
+---
 ====== SB 3.19.35 ======
 
 > यो गजेन्द्रं झषग्रस्तं ध्यायन्तं चरणाम्बुजम् ।

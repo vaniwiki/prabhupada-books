@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.20~~
-~~bc:Text 20~~
-
-{{description>The evacuating channel separately became manifest, and the director named Mitra entered into it with partial organs of evacuation. Thus the living entities are able to pass stool and urine.}}
-
+---json
+{
+    "name":"SB 3.6.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.6.20",
+    "description":"The evacuating channel separately became manifest, and the director named Mitra entered into it with partial organs of evacuation. Thus the living entities are able to pass stool and urine."
+}
+---
 ====== SB 3.6.20 ======
 
 > गुदं पुंसो विनिर्भिन्नं मित्रो लोकेश आविशत् ।

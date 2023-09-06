@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.68~~
-~~bc:Text 68~~
-
-{{description>My dear Lord, all actually learned persons know You as the Supreme Brahman and the Supersoul. Although the entire universe is afraid of Lord Rudra, who ultimately annihilates everything, for the learned devotees You are the fearless destination of all.}}
-
+---json
+{
+    "name":"SB 4.24.68",
+    "h1":"Text 68",
+    "title":" Śrīmad Bhāgavatam 4.24.68",
+    "description":"My dear Lord, all actually learned persons know You as the Supreme Brahman and the Supersoul. Although the entire universe is afraid of Lord Rudra, who ultimately annihilates everything, for the learned devotees You are the fearless destination of all."
+}
+---
 ====== SB 4.24.68 ======
 
 > अथ त्वमसि नो ब्रह्मन्परमात्मन्विपश्चिताम् ।

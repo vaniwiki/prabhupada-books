@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.14~~
-~~bc:Text 14~~
-
-{{description>There are nine different kinds of creations besides the one which naturally occurs due to the interactions of the modes. There are three kinds of annihilations due to eternal time, the material elements and the quality of one's work.}}
-
+---json
+{
+    "name":"SB 3.10.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.10.14",
+    "description":"There are nine different kinds of creations besides the one which naturally occurs due to the interactions of the modes. There are three kinds of annihilations due to eternal time, the material elements and the quality of one's work."
+}
+---
 ====== SB 3.10.14 ======
 
 > सर्गो नवविधस्तस्य प्राकृतो वैकृतस्तु यः ।

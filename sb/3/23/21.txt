@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.21~~
-~~bc:Text 21~~
-
-{{description>The castle had pleasure grounds, resting chambers, bedrooms and inner and outer yards designed with an eye to comfort. All this caused astonishment to the sage himself.}}
-
+---json
+{
+    "name":"SB 3.23.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.23.21",
+    "description":"The castle had pleasure grounds, resting chambers, bedrooms and inner and outer yards designed with an eye to comfort. All this caused astonishment to the sage himself."
+}
+---
 ====== SB 3.23.21 ======
 
 > विहारस्थानविश्राम संवेशप्राङ्गणाजिरैः ।

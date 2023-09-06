@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.12.7~~
-~~bc:Text 7~~
-
-{{description>It is a fact, however, that these innocent people carrying your palanquin without payment are certainly suffering due to this injustice. Their condition is very lamentable because you have forcibly engaged them in carrying your palanquin. This proves that you are cruel and unkind, yet due to false prestige you were thinking that you were protecting the citizens. This is ludicrous. You were such a fool that you could not have been adored as a great man in an assembly of persons advanced in knowledge.}}
-
+---json
+{
+    "name":"SB 5.12.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.12.7",
+    "description":"It is a fact, however, that these innocent people carrying your palanquin without payment are certainly suffering due to this injustice. Their condition is very lamentable because you have forcibly engaged them in carrying your palanquin. This proves that you are cruel and unkind, yet due to false prestige you were thinking that you were protecting the citizens. This is ludicrous. You were such a fool that you could not have been adored as a great man in an assembly of persons advanced in knowledge."
+}
+---
 ====== SB 5.12.7 ======
 
 ===== Text =====

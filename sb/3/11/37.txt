@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.37~~
-~~bc:Text 37~~
-
-{{description>O descendant of Bharata, the first millennium in the second half of the life of Brahmā is also known as the Vārāha millennium because the Personality of Godhead appeared in that millennium as the hog incarnation.}}
-
+---json
+{
+    "name":"SB 3.11.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.11.37",
+    "description":"O descendant of Bharata, the first millennium in the second half of the life of Brahmā is also known as the Vārāha millennium because the Personality of Godhead appeared in that millennium as the hog incarnation."
+}
+---
 ====== SB 3.11.37 ======
 
 > अयं तु कथितः कल्पो द्वितीयस्यापि भारत ।

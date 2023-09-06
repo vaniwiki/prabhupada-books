@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.26~~
-~~bc:Text 26~~
-
-{{description>My dear sons, you should not envy any living entity—be he moving or nonmoving. Knowing that I am situated in them, you should offer respect to all of them at every moment. In this way, you offer respect to Me.}}
-
+---json
+{
+    "name":"SB 5.5.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 5.5.26",
+    "description":"My dear sons, you should not envy any living entity—be he moving or nonmoving. Knowing that I am situated in them, you should offer respect to all of them at every moment. In this way, you offer respect to Me."
+}
+---
 ====== SB 5.5.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.6.2~~
-~~bc:Text 2~~
-
-{{description>The vision of all the demigods was blocked by the Lord's effulgence. Thus they could see neither the sky, the directions, the land, nor even themselves, what to speak of seeing the Lord, who was present before them.}}
-
+---json
+{
+    "name":"SB 8.6.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.6.2",
+    "description":"The vision of all the demigods was blocked by the Lord's effulgence. Thus they could see neither the sky, the directions, the land, nor even themselves, what to speak of seeing the Lord, who was present before them."
+}
+---
 ====== SB 8.6.2 ======
 
 ===== Text =====

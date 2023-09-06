@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.8~~
-~~bc:Text 8~~
-
-{{description>After his birth he began to cry: O destiny maker, teacher of the universe, kindly designate my name and place.}}
-
+---json
+{
+    "name":"SB 3.12.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.12.8",
+    "description":"After his birth he began to cry: O destiny maker, teacher of the universe, kindly designate my name and place."
+}
+---
 ====== SB 3.12.8 ======
 
 > स वै रुरोद देवानां पूर्वजो भगवान्भवः ।

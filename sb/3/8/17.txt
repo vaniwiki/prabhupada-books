@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.8.17~~
-~~bc:Text 17~~
-
-{{description>Lord Brahmā, situated in that lotus, could not perfectly understand the creation, the lotus or himself. At the end of the millennium the air of devastation began to move the water and the lotus in great circular waves.}}
-
+---json
+{
+    "name":"SB 3.8.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.8.17",
+    "description":"Lord Brahmā, situated in that lotus, could not perfectly understand the creation, the lotus or himself. At the end of the millennium the air of devastation began to move the water and the lotus in great circular waves."
+}
+---
 ====== SB 3.8.17 ======
 
 > तस्माद्युगान्तश्वसनावघूर्ण जलोर्मिचक्रात्सलिलाद्विरूढम् ।

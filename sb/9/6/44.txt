@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.44~~
-~~bc:Text 44~~
-
-{{description>Thereafter, the princesses, being attracted by Saubhari Muni, gave up their sisterly relationship and quarreled among themselves, each one of them contending, "This man is just suitable for me, and not for you." In this way there ensued a great disagreement.}}
-
+---json
+{
+    "name":"SB 9.6.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 9.6.44",
+    "description":"Thereafter, the princesses, being attracted by Saubhari Muni, gave up their sisterly relationship and quarreled among themselves, each one of them contending, "This man is just suitable for me, and not for you." In this way there ensued a great disagreement."
+}
+---
 ====== SB 9.6.44 ======
 
 ===== Text =====

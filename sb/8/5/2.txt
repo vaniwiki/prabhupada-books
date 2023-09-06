@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.2~~
-~~bc:Text 2~~
-
-{{description>The brother of Tāmasa Manu was the fifth Manu, named Raivata. His sons were headed by Arjuna, Bali and Vindhya.}}
-
+---json
+{
+    "name":"SB 8.5.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.5.2",
+    "description":"The brother of Tāmasa Manu was the fifth Manu, named Raivata. His sons were headed by Arjuna, Bali and Vindhya."
+}
+---
 ====== SB 8.5.2 ======
 
 ===== Text =====

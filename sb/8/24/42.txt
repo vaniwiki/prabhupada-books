@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.42~~
-~~bc:Text 42~~
-
-{{description>As Satyavrata remembered the order of the Supreme Personality of Godhead, he saw a boat coming near him. Thus he collected herbs and creepers, and, accompanied by saintly brāhmaṇas, he got aboard the boat.}}
-
+---json
+{
+    "name":"SB 8.24.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 8.24.42",
+    "description":"As Satyavrata remembered the order of the Supreme Personality of Godhead, he saw a boat coming near him. Thus he collected herbs and creepers, and, accompanied by saintly brāhmaṇas, he got aboard the boat."
+}
+---
 ====== SB 8.24.42 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.17~~
-~~bc:Text 17~~
-
-{{description>Both by rising and by setting, the sun decreases the duration of life of everyone, except one who utilizes the time by discussing topics of the all-good Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.3.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 2.3.17",
+    "description":"Both by rising and by setting, the sun decreases the duration of life of everyone, except one who utilizes the time by discussing topics of the all-good Personality of Godhead."
+}
+---
 ====== SB 2.3.17 ======
 
 > आयुर्हरति वै पुंसामुद्यन्नस्तं च यन्नसौ ।

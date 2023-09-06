@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.7~~
-~~bc:Text 7~~
-
-{{description>Hiraṇyakaśipu advised his assistants: My dear demons, give complete protection to this boy at the guru-kula where he is instructed, so that his intelligence will not be further influenced by Vaiṣṇavas who may go there in disguise.}}
-
+---json
+{
+    "name":"SB 7.5.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 7.5.7",
+    "description":"Hiraṇyakaśipu advised his assistants: My dear demons, give complete protection to this boy at the guru-kula where he is instructed, so that his intelligence will not be further influenced by Vaiṣṇavas who may go there in disguise."
+}
+---
 ====== SB 7.5.7 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.35~~
-~~bc:Text 35~~
-
-{{description>Lord Śrī Kṛṣṇa replied: My dear mother, I have never eaten dirt. All My friends complaining against Me are liars. If you think they are being truthful, you can directly look into My mouth and examine it.}}
-
+---json
+{
+    "name":"SB 10.8.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 10.8.35",
+    "description":"Lord Śrī Kṛṣṇa replied: My dear mother, I have never eaten dirt. All My friends complaining against Me are liars. If you think they are being truthful, you can directly look into My mouth and examine it."
+}
+---
 ====== SB 10.8.35 ======
 
 ===== Text =====

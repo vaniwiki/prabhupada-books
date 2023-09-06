@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.21~~
-~~bc:Text 21~~
-
-{{description>The mode of goodness, which is the clear, sober status of understanding the Personality of Godhead and which is generally called vāsudeva, or consciousness, becomes manifest in the mahat-tattva.}}
-
+---json
+{
+    "name":"SB 3.26.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.26.21",
+    "description":"The mode of goodness, which is the clear, sober status of understanding the Personality of Godhead and which is generally called vāsudeva, or consciousness, becomes manifest in the mahat-tattva."
+}
+---
 ====== SB 3.26.21 ======
 
 > यत्तत्सत्त्वगुणं स्वच्छं शान्तं भगवतः पदम् ।

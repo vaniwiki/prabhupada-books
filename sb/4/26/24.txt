@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.24~~
-~~bc:Text 24~~
-
-{{description>O hero's wife, kindly tell me if someone has offended you. I am prepared to give such a person punishment as long as he does not belong to the brāhmaṇa caste. But for the servant of Muraripu [Kṛṣṇa], I excuse no one within or beyond these three worlds. No one can freely move after offending you, for I am prepared to punish him.}}
-
+---json
+{
+    "name":"SB 4.26.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 4.26.24",
+    "description":"O hero's wife, kindly tell me if someone has offended you. I am prepared to give such a person punishment as long as he does not belong to the brāhmaṇa caste. But for the servant of Muraripu [Kṛṣṇa], I excuse no one within or beyond these three worlds. No one can freely move after offending you, for I am prepared to punish him."
+}
+---
 ====== SB 4.26.24 ======
 
 > तस्मिन्दधे दममहं तव वीरपत्नि योऽन्यत्र भूसुरकुलात्कृतकिल्बिषस्तम् ।

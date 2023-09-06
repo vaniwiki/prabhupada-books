@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.28~~
-~~bc:Text 28~~
-
-{{description>One day, five or six nights before the completion of the year, Kṛṣṇa, tending the calves, entered the forest along with Balarāma.}}
-
+---json
+{
+    "name":"SB 10.13.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 10.13.28",
+    "description":"One day, five or six nights before the completion of the year, Kṛṣṇa, tending the calves, entered the forest along with Balarāma."
+}
+---
 ====== SB 10.13.28 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.38~~
-~~bc:Text 38~~
-
-{{description>This is the divinity of the Personality of Godhead: He is not affected by the qualities of material nature, even though He is in contact with them. Similarly, the devotees who have taken shelter of the Lord do not become influenced by the material qualities.}}
-
+---json
+{
+    "name":"SB 1.11.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 1.11.38",
+    "description":"This is the divinity of the Personality of Godhead: He is not affected by the qualities of material nature, even though He is in contact with them. Similarly, the devotees who have taken shelter of the Lord do not become influenced by the material qualities."
+}
+---
 ====== SB 1.11.38 ======
 
 > एतदीशनमीशस्य प्रकृतिस्थोऽपि तद्गुणैः ।

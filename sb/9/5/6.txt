@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.5.6~~
-~~bc:Text 6~~
-
-{{description>O Sudarśana, you have a very auspicious hub, and therefore you are the upholder of all religion. You are just like an inauspicious comet for the irreligious demons. Indeed, you are the maintainer of the three worlds, you are full of transcendental effulgence, you are as quick as the mind, and you are able to work wonders. I can simply utter the word namaḥ, offering all obeisances unto you.}}
-
+---json
+{
+    "name":"SB 9.5.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 9.5.6",
+    "description":"O Sudarśana, you have a very auspicious hub, and therefore you are the upholder of all religion. You are just like an inauspicious comet for the irreligious demons. Indeed, you are the maintainer of the three worlds, you are full of transcendental effulgence, you are as quick as the mind, and you are able to work wonders. I can simply utter the word namaḥ, offering all obeisances unto you."
+}
+---
 ====== SB 9.5.6 ======
 
 ===== Text =====

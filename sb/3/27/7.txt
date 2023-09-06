@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.7~~
-~~bc:Text 7~~
-
-{{description>In executing devotional service, one has to see every living entity equally, without enmity towards anyone yet without intimate connections with anyone. One has to observe celibacy, be grave and execute his eternal activities, offering the results to the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 3.27.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.27.7",
+    "description":"In executing devotional service, one has to see every living entity equally, without enmity towards anyone yet without intimate connections with anyone. One has to observe celibacy, be grave and execute his eternal activities, offering the results to the Supreme Personality of Godhead."
+}
+---
 ====== SB 3.27.7 ======
 
 > सर्वभूतसमत्वेन निर्वैरेणाप्रसङ्गतः ।

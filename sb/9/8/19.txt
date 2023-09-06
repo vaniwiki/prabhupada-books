@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.19~~
-~~bc:Text 19~~
-
-{{description>Thereafter, Aṁśumān, the grandson of Mahārāja Sagara, was ordered by the King to search for the horse. Following the same path traversed by his uncles, Aṁśumān gradually reached the stack of ashes and found the horse nearby.}}
-
+---json
+{
+    "name":"SB 9.8.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 9.8.19",
+    "description":"Thereafter, Aṁśumān, the grandson of Mahārāja Sagara, was ordered by the King to search for the horse. Following the same path traversed by his uncles, Aṁśumān gradually reached the stack of ashes and found the horse nearby."
+}
+---
 ====== SB 9.8.19 ======
 
 ===== Text =====

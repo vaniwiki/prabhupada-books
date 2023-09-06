@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.6.4~~
-~~bc:Text 4~~
-
-{{description>Endeavors merely for sense gratification or material happiness through economic development are not to be performed, for they result only in a loss of time and energy, with no actual profit. If one's endeavors are directed toward Kṛṣṇa consciousness, one can surely attain the spiritual platform of self-realization. There is no such benefit from engaging oneself in economic development.}}
-
+---json
+{
+    "name":"SB 7.6.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 7.6.4",
+    "description":"Endeavors merely for sense gratification or material happiness through economic development are not to be performed, for they result only in a loss of time and energy, with no actual profit. If one's endeavors are directed toward Kṛṣṇa consciousness, one can surely attain the spiritual platform of self-realization. There is no such benefit from engaging oneself in economic development."
+}
+---
 ====== SB 7.6.4 ======
 
 ===== Text =====

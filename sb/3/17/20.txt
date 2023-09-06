@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.20~~
-~~bc:Text 20~~
-
-{{description>His younger brother, Hiraṇyākṣa, was always ready to satisfy his elder brother by his activities. Hiraṇyākṣa took a club on his shoulder and traveled all over the universe with a fighting spirit just to satisfy Hiraṇyakaśipu.}}
-
+---json
+{
+    "name":"SB 3.17.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.17.20",
+    "description":"His younger brother, Hiraṇyākṣa, was always ready to satisfy his elder brother by his activities. Hiraṇyākṣa took a club on his shoulder and traveled all over the universe with a fighting spirit just to satisfy Hiraṇyakaśipu."
+}
+---
 ====== SB 3.17.20 ======
 
 > हिरण्याक्षोऽनुजस्तस्य प्रियः प्रीतिकृदन्वहम् ।

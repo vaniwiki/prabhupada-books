@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.16~~
-~~bc:Text 16~~
-
-{{description>In that diseased condition, one's eyes bulge due to the pressure of air from within, and his glands become congested with mucus. He has difficulty breathing, and upon exhaling and inhaling he produces a sound like ghura-ghura, a rattling within the throat.}}
-
+---json
+{
+    "name":"SB 3.30.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.30.16",
+    "description":"In that diseased condition, one's eyes bulge due to the pressure of air from within, and his glands become congested with mucus. He has difficulty breathing, and upon exhaling and inhaling he produces a sound like ghura-ghura, a rattling within the throat."
+}
+---
 ====== SB 3.30.16 ======
 
 > वायुनोत्क्रमतोत्तारः कफसंरुद्धनाडिकः ।

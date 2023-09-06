@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.36~~
-~~bc:Text 36~~
-
-{{description>After passing a few days on the bank of the River Yamunā, Vidura, the self-realized soul, reached the bank of the Ganges, where the great sage Maitreya was situated.}}
-
+---json
+{
+    "name":"SB 3.4.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 3.4.36",
+    "description":"After passing a few days on the bank of the River Yamunā, Vidura, the self-realized soul, reached the bank of the Ganges, where the great sage Maitreya was situated."
+}
+---
 ====== SB 3.4.36 ======
 
 > कालिन्द्याः कतिभिः सिद्ध अहोभिर्भरतर्षभ ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.32~~
-~~bc:Text 32~~
-
-{{description>Thereupon, just to please his wife, Lord Śiva said, "Any male entering this place shall immediately become a female!"}}
-
+---json
+{
+    "name":"SB 9.1.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 9.1.32",
+    "description":"Thereupon, just to please his wife, Lord Śiva said, "Any male entering this place shall immediately become a female!""
+}
+---
 ====== SB 9.1.32 ======
 
 ===== Text =====

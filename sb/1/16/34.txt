@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.34~~
-~~bc:Text 34~~
-
-{{description>O personality of religion, I was greatly overburdened by the undue military phalanxes arranged by atheistic kings, and I was relieved by the grace of the Personality of Godhead. Similarly you were also in a distressed condition, weakened in your standing strength, and thus He also incarnated by His internal energy in the family of the Yadus to relieve you.}}
-
+---json
+{
+    "name":"SB 1.16.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 1.16.34",
+    "description":"O personality of religion, I was greatly overburdened by the undue military phalanxes arranged by atheistic kings, and I was relieved by the grace of the Personality of Godhead. Similarly you were also in a distressed condition, weakened in your standing strength, and thus He also incarnated by His internal energy in the family of the Yadus to relieve you."
+}
+---
 ====== SB 1.16.34 ======
 
 > यो वै ममातिभरमासुरवंशराज्ञाम्

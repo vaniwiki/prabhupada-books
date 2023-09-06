@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.9~~
-~~bc:Text 9~~
-
-{{description>The yogī should clear the passage of vital air by breathing in the following manner: first he should inhale very deeply, then hold the breath in, and finally exhale. Or, reversing the process, the yogi can first exhale, then hold the breath outside, and finally inhale. This is done so that the mind may become steady and free from external disturbances.}}
-
+---json
+{
+    "name":"SB 3.28.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.28.9",
+    "description":"The yogī should clear the passage of vital air by breathing in the following manner: first he should inhale very deeply, then hold the breath in, and finally exhale. Or, reversing the process, the yogi can first exhale, then hold the breath outside, and finally inhale. This is done so that the mind may become steady and free from external disturbances."
+}
+---
 ====== SB 3.28.9 ======
 
 > प्राणस्य शोधयेन्मार्गं पूरकुम्भकरेचकैः ।

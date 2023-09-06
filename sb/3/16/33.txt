@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.33~~
-~~bc:Text 33~~
-
-{{description>But those two gatekeepers, the best of the demigods, their beauty and luster diminished by the curse of the brāhmaṇas, became morose and fell from Vaikuṇṭha, the abode of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 3.16.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 3.16.33",
+    "description":"But those two gatekeepers, the best of the demigods, their beauty and luster diminished by the curse of the brāhmaṇas, became morose and fell from Vaikuṇṭha, the abode of the Supreme Lord."
+}
+---
 ====== SB 3.16.33 ======
 
 > तौ तु गीर्वाणऋषभौ दुस्तराद्धरिलोकतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.18.2~~
-~~bc:Text 2~~
-
-{{description>The body of the Supreme Personality of Godhead, blackish in complexion, was free from all inebrieties. His lotus face, decorated with earrings resembling sharks, appeared very beautiful, and on His bosom was the mark of Śrīvatsa. He wore bangles on His wrists, armlets on His arms, a helmet on His head, a belt on His waist, a sacred thread across His chest, and ankle bells decorating His lotus feet.}}
-
+---json
+{
+    "name":"SB 8.18.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.18.2",
+    "description":"The body of the Supreme Personality of Godhead, blackish in complexion, was free from all inebrieties. His lotus face, decorated with earrings resembling sharks, appeared very beautiful, and on His bosom was the mark of Śrīvatsa. He wore bangles on His wrists, armlets on His arms, a helmet on His head, a belt on His waist, a sacred thread across His chest, and ankle bells decorating His lotus feet."
+}
+---
 ====== SB 8.18.2 ======
 
 ===== Text =====

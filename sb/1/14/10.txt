@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.10~~
-~~bc:Text 10~~
-
-{{description>Just see, O man with a tiger's strength, how many miseries due to celestial influences, earthly reactions and bodily pains-all very dangerous in themselves-are foreboding danger in the near future by deluding our intelligence.}}
-
+---json
+{
+    "name":"SB 1.14.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 1.14.10",
+    "description":"Just see, O man with a tiger's strength, how many miseries due to celestial influences, earthly reactions and bodily pains-all very dangerous in themselves-are foreboding danger in the near future by deluding our intelligence."
+}
+---
 ====== SB 1.14.10 ======
 
 > पश्योत्पातान्नरव्याघ्र दिव्यान्भौमान्सदैहिकान् ।

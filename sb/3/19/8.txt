@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.8~~
-~~bc:Text 8~~
-
-{{description>The demon, who had fearful tusks, stared at the Personality of Godhead as though to burn Him. Springing into the air, he aimed his mace at the Lord, exclaiming at the same time, "You are slain!"}}
-
+---json
+{
+    "name":"SB 3.19.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.19.8",
+    "description":"The demon, who had fearful tusks, stared at the Personality of Godhead as though to burn Him. Springing into the air, he aimed his mace at the Lord, exclaiming at the same time, "You are slain!""
+}
+---
 ====== SB 3.19.8 ======
 
 > करालदंष्ट्रश्चक्षुर्भ्यां सञ्चक्षाणो दहन्निव ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.74~~
-~~bc:Text 74~~
-
-{{description>The process of chanting the holy name of the Lord is so powerful that by this chanting even householders [gṛhasthas] can very easily gain the ultimate result achieved by persons in the renounced order. Mahārāja Yudhiṣṭhira, I have now explained to you that process of religion.}}
-
+---json
+{
+    "name":"SB 7.15.74",
+    "h1":"Text 74",
+    "title":" Śrīmad Bhāgavatam 7.15.74",
+    "description":"The process of chanting the holy name of the Lord is so powerful that by this chanting even householders [gṛhasthas] can very easily gain the ultimate result achieved by persons in the renounced order. Mahārāja Yudhiṣṭhira, I have now explained to you that process of religion."
+}
+---
 ====== SB 7.15.74 ======
 
 ===== Text =====

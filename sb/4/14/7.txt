@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.7~~
-~~bc:Text 7~~
-
-{{description>Therefore all the great sages assembled together and, after observing cruel Vena's atrocities, concluded that a great danger and catastrophe was approaching the people of the world. Thus out of compassion they began to talk amongst themselves, for they themselves were the performers of the sacrifices.}}
-
+---json
+{
+    "name":"SB 4.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.14.7",
+    "description":"Therefore all the great sages assembled together and, after observing cruel Vena's atrocities, concluded that a great danger and catastrophe was approaching the people of the world. Thus out of compassion they began to talk amongst themselves, for they themselves were the performers of the sacrifices."
+}
+---
 ====== SB 4.14.7 ======
 
 > वेनस्यावेक्ष्य मुनयो दुर्वृत्तस्य विचेष्टितम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.26-27~~
-~~bc:Text 26-27~~
-
-{{description>Lord Viṣṇu; Lord Brahmā; Lord Śiva; Lord Indra; Vāyu, the master of air; Yama, the superintendent of death; the sun-god; the director of rainfall; Kuvera, the treasurer; the moon-god; the predominating deity of the earth; Agni, the fire-god; Varuṇa, the lord of waters, and all others who are great and competent to bestow benedictions or to curse, all abide in the body of the king. For this reason the king is known as the reservoir of all demigods, who are simply parts and parcels of the king's body.}}
-
+---json
+{
+    "name":"SB 4.14.26-27",
+    "h1":"Text 26-27",
+    "title":" Śrīmad Bhāgavatam 4.14.26-27",
+    "description":"Lord Viṣṇu; Lord Brahmā; Lord Śiva; Lord Indra; Vāyu, the master of air; Yama, the superintendent of death; the sun-god; the director of rainfall; Kuvera, the treasurer; the moon-god; the predominating deity of the earth; Agni, the fire-god; Varuṇa, the lord of waters, and all others who are great and competent to bestow benedictions or to curse, all abide in the body of the king. For this reason the king is known as the reservoir of all demigods, who are simply parts and parcels of the king's body."
+}
+---
 ====== SB 4.14.26-27 ======
 
 > विष्णुर्विरिञ्चो गिरिश इन्द्रो वायुर्यमो रविः ।

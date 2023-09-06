@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.2~~
-~~bc:Text 2~~
-
-{{description>Then Vṛtrāsura, the great hero of the demons, whirled his trident, which had points like the flames of the blazing fire at the end of the millennium. With great force and anger he threw it at Indra, roaring and exclaiming loudly, "O sinful one, thus shall I kill you!"}}
-
+---json
+{
+    "name":"SB 6.12.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.12.2",
+    "description":"Then Vṛtrāsura, the great hero of the demons, whirled his trident, which had points like the flames of the blazing fire at the end of the millennium. With great force and anger he threw it at Indra, roaring and exclaiming loudly, "O sinful one, thus shall I kill you!""
+}
+---
 ====== SB 6.12.2 ======
 
 ===== Text =====

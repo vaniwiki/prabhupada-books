@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.3~~
-~~bc:Text 3~~
-
-{{description>Formerly, Mahārāja Vijitāśva pleased the King of heaven, Indra, and from him received the title Antardhāna. His wife's name was Śikhaṇḍinī, and by her he begot three good sons.}}
-
+---json
+{
+    "name":"SB 4.24.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.24.3",
+    "description":"Formerly, Mahārāja Vijitāśva pleased the King of heaven, Indra, and from him received the title Antardhāna. His wife's name was Śikhaṇḍinī, and by her he begot three good sons."
+}
+---
 ====== SB 4.24.3 ======
 
 > अन्तर्धानगतिं शक्राल्लब्ध्वान्तर्धानसंज्ञितः ।

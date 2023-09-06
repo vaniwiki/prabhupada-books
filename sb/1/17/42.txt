@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.42~~
-~~bc:Text 42~~
-
-{{description>Thereafter the King reestablished the lost legs of the personality of religion [the bull], and by encouraging activities he sufficiently improved the condition of the earth.}}
-
+---json
+{
+    "name":"SB 1.17.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 1.17.42",
+    "description":"Thereafter the King reestablished the lost legs of the personality of religion [the bull], and by encouraging activities he sufficiently improved the condition of the earth."
+}
+---
 ====== SB 1.17.42 ======
 
 > वृषस्य नष्टांस्त्रीन्पादान्तपः शौचं दयामिति ।

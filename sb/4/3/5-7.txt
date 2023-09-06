@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.3.5-7~~
-~~bc:Text 5-7~~
-
-{{description>The chaste lady Satī, the daughter of Dakṣa, heard the heavenly denizens flying in the sky conversing about the great sacrifice being performed by her father. When she saw that from all directions the beautiful wives of the heavenly denizens, their eyes very beautifully glittering, were near her residence and were going to the sacrifice dressed in fine clothing and ornamented with earrings and necklaces with lockets, she approached her husband, the master of the bhūtas, in great anxiety, and spoke as follows.}}
-
+---json
+{
+    "name":"SB 4.3.5-7",
+    "h1":"Text 5-7",
+    "title":" Śrīmad Bhāgavatam 4.3.5-7",
+    "description":"The chaste lady Satī, the daughter of Dakṣa, heard the heavenly denizens flying in the sky conversing about the great sacrifice being performed by her father. When she saw that from all directions the beautiful wives of the heavenly denizens, their eyes very beautifully glittering, were near her residence and were going to the sacrifice dressed in fine clothing and ornamented with earrings and necklaces with lockets, she approached her husband, the master of the bhūtas, in great anxiety, and spoke as follows."
+}
+---
 ====== SB 4.3.5-7 ======
 
 > तदुपश्रुत्य नभसि खेचराणां प्रजल्पताम् ।

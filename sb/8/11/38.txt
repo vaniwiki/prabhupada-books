@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.38~~
-~~bc:Text 38~~
-
-{{description>The voice also said, "O Indra, because I have given this demon the benediction that he will never be killed by any weapon that is dry or moist, you have to think of another way to kill him."}}
-
+---json
+{
+    "name":"SB 8.11.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 8.11.38",
+    "description":"The voice also said, "O Indra, because I have given this demon the benediction that he will never be killed by any weapon that is dry or moist, you have to think of another way to kill him.""
+}
+---
 ====== SB 8.11.38 ======
 
 ===== Text =====

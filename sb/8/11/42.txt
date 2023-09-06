@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.42~~
-~~bc:Text 42~~
-
-{{description>Vāyu, Agni, Varuṇa and other demigods began killing the demons who opposed them, just as lions kill deer in a forest.}}
-
+---json
+{
+    "name":"SB 8.11.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 8.11.42",
+    "description":"Vāyu, Agni, Varuṇa and other demigods began killing the demons who opposed them, just as lions kill deer in a forest."
+}
+---
 ====== SB 8.11.42 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.31~~
-~~bc:Text 31~~
-
-{{description>Egoism in the mode of passion produces two kinds of senses—the senses for acquiring knowledge and the senses of action. The senses of action depend on the vital energy, and the senses for acquiring knowledge depend on intelligence.}}
-
+---json
+{
+    "name":"SB 3.26.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 3.26.31",
+    "description":"Egoism in the mode of passion produces two kinds of senses—the senses for acquiring knowledge and the senses of action. The senses of action depend on the vital energy, and the senses for acquiring knowledge depend on intelligence."
+}
+---
 ====== SB 3.26.31 ======
 
 > तैजसानीन्द्रियाण्येव क्रियाज्ञानविभागशः ।

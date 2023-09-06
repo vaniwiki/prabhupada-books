@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.21~~
-~~bc:Text 21~~
-
-{{description>My dear Vidura, now I am mad for want of the pleasure of seeing Him, and just to mitigate this I am now proceeding to Badarikāśrama in the Himalayas for association, as I have been instructed by Him.}}
-
+---json
+{
+    "name":"SB 3.4.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.4.21",
+    "description":"My dear Vidura, now I am mad for want of the pleasure of seeing Him, and just to mitigate this I am now proceeding to Badarikāśrama in the Himalayas for association, as I have been instructed by Him."
+}
+---
 ====== SB 3.4.21 ======
 
 > सोऽहं तद्दर्शनाह्लाद वियोगार्तियुतः प्रभो ।

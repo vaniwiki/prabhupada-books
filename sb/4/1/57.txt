@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.57~~
-~~bc:Text 57~~
-
-{{description>Let that Supreme Personality of Godhead, who is understood by truly authorized Vedic literature and who has created peace and prosperity to destroy all calamities of the created world, be kind enough to bestow His glance upon the demigods. His merciful glance can supersede the beauty of the spotless lotus flower which is the home of the goddess of fortune.}}
-
+---json
+{
+    "name":"SB 4.1.57",
+    "h1":"Text 57",
+    "title":" Śrīmad Bhāgavatam 4.1.57",
+    "description":"Let that Supreme Personality of Godhead, who is understood by truly authorized Vedic literature and who has created peace and prosperity to destroy all calamities of the created world, be kind enough to bestow His glance upon the demigods. His merciful glance can supersede the beauty of the spotless lotus flower which is the home of the goddess of fortune."
+}
+---
 ====== SB 4.1.57 ======
 
 > सोऽयं स्थितिव्यतिकरोपशमाय सृष्टान्

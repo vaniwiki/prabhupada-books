@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.7~~
-~~bc:Text 7~~
-
-{{description>When all the demigods heard Vṛtrāsura's tumultuous roar, which resembled that of a lion, they fainted and fell to the ground as if struck by thunderbolts.}}
-
+---json
+{
+    "name":"SB 6.11.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.11.7",
+    "description":"When all the demigods heard Vṛtrāsura's tumultuous roar, which resembled that of a lion, they fainted and fell to the ground as if struck by thunderbolts."
+}
+---
 ====== SB 6.11.7 ======
 
 ===== Text =====

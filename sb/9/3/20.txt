@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.20~~
-~~bc:Text 20~~
-
-{{description>O unchaste girl, what is this that you have desired to do? You have cheated the most respectable husband, who is honored by everyone, for I see that because he was old, diseased and therefore unattractive, you have left his company to accept as your husband this young man, who appears to be a beggar from the street.}}
-
+---json
+{
+    "name":"SB 9.3.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 9.3.20",
+    "description":"O unchaste girl, what is this that you have desired to do? You have cheated the most respectable husband, who is honored by everyone, for I see that because he was old, diseased and therefore unattractive, you have left his company to accept as your husband this young man, who appears to be a beggar from the street."
+}
+---
 ====== SB 9.3.20 ======
 
 ===== Text =====

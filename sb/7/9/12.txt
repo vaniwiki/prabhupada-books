@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.12~~
-~~bc:Text 12~~
-
-{{description>Therefore, although I was born in a demoniac family, I may without a doubt offer prayers to the Lord with full endeavor, as far as my intelligence allows. Anyone who has been forced by ignorance to enter the material world may be purified of material life if he offers prayers to the Lord and hears the Lord's glories.}}
-
+---json
+{
+    "name":"SB 7.9.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.9.12",
+    "description":"Therefore, although I was born in a demoniac family, I may without a doubt offer prayers to the Lord with full endeavor, as far as my intelligence allows. Anyone who has been forced by ignorance to enter the material world may be purified of material life if he offers prayers to the Lord and hears the Lord's glories."
+}
+---
 ====== SB 7.9.12 ======
 
 ===== Text =====

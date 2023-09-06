@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.14~~
-~~bc:Text 14~~
-
-{{description>By attaining the highest platform of devotional service, as I have explained, one can overcome the influence of the three modes of material nature and be situated in the transcendental stage, as is the Lord.}}
-
+---json
+{
+    "name":"SB 3.29.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.29.14",
+    "description":"By attaining the highest platform of devotional service, as I have explained, one can overcome the influence of the three modes of material nature and be situated in the transcendental stage, as is the Lord."
+}
+---
 ====== SB 3.29.14 ======
 
 > स एव भक्तियोगाख्य आत्यन्तिक उदाहृतः ।

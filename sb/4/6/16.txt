@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.16~~
-~~bc:Text 16~~
-
-{{description>There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī.}}
-
+---json
+{
+    "name":"SB 4.6.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.6.16",
+    "description":"There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī."
+}
+---
 ====== SB 4.6.16 ======
 
 > स्वर्णार्णशतपत्रैश्च वररेणुकजातिभिः ।

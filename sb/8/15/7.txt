@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.7~~
-~~bc:Text 7~~
-
-{{description>When Mahārāja Bali had thus performed the special ritualistic ceremony advised by the brāhmaṇas and had received, by their grace, the equipment for fighting, he circumambulated the brāhmaṇas and offered them obeisances. He also saluted Prahlāda Mahārāja and offered obeisances to him.}}
-
+---json
+{
+    "name":"SB 8.15.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.15.7",
+    "description":"When Mahārāja Bali had thus performed the special ritualistic ceremony advised by the brāhmaṇas and had received, by their grace, the equipment for fighting, he circumambulated the brāhmaṇas and offered them obeisances. He also saluted Prahlāda Mahārāja and offered obeisances to him."
+}
+---
 ====== SB 8.15.7 ======
 
 ===== Text =====

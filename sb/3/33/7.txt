@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.33.7~~
-~~bc:Text 7~~
-
-{{description>Oh, how glorious are they whose tongues are chanting Your holy name! Even if born in the families of dog-eaters, such persons are worshipable. Persons who chant the holy name of Your Lordship must have executed all kinds of austerities and fire sacrifices and achieved all the good manners of the Āryans. To be chanting the holy name of Your Lordship, they must have bathed at holy places of pilgrimage, studied the Vedas and fulfilled everything required.}}
-
+---json
+{
+    "name":"SB 3.33.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.33.7",
+    "description":"Oh, how glorious are they whose tongues are chanting Your holy name! Even if born in the families of dog-eaters, such persons are worshipable. Persons who chant the holy name of Your Lordship must have executed all kinds of austerities and fire sacrifices and achieved all the good manners of the Āryans. To be chanting the holy name of Your Lordship, they must have bathed at holy places of pilgrimage, studied the Vedas and fulfilled everything required."
+}
+---
 ====== SB 3.33.7 ======
 
 > अहो बत श्वपचोऽतो गरीयान्यज्जिह्वाग्रे वर्तते नाम तुभ्यम् ।

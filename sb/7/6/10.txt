@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.6.10~~
-~~bc:Text 10~~
-
-{{description>Money is so dear that one conceives of money as being sweeter than honey. Therefore, who can give up the desire to accumulate money, especially in household life? Thieves, professional servants [soldiers] and merchants try to acquire money even by risking their very dear lives.}}
-
+---json
+{
+    "name":"SB 7.6.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 7.6.10",
+    "description":"Money is so dear that one conceives of money as being sweeter than honey. Therefore, who can give up the desire to accumulate money, especially in household life? Thieves, professional servants [soldiers] and merchants try to acquire money even by risking their very dear lives."
+}
+---
 ====== SB 7.6.10 ======
 
 ===== Text =====

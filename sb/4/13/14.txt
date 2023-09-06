@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.14~~
-~~bc:Text 14~~
-
-{{description>Doṣā had three sons—Pradoṣa, Niśitha and Vyuṣṭa. Vyuṣṭa's wife was named Puṣkariṇī, and she gave birth to a very powerful son named Sarvatejā.}}
-
+---json
+{
+    "name":"SB 4.13.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.13.14",
+    "description":"Doṣā had three sons—Pradoṣa, Niśitha and Vyuṣṭa. Vyuṣṭa's wife was named Puṣkariṇī, and she gave birth to a very powerful son named Sarvatejā."
+}
+---
 ====== SB 4.13.14 ======
 
 > प्रदोषो निशिथो व्युष्ट इति दोषासुतास्त्रयः ।

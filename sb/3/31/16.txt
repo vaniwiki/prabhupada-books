@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.16~~
-~~bc:Text 16~~
-
-{{description>No one other than the Supreme Personality of Godhead, as the localized Paramātmā, the partial representation of the Lord, is directing all inanimate and animate objects. He is present in the three phases of time-past, present and future. Therefore, the conditioned soul is engaged in different activities by His direction, and in order to get free from the threefold miseries of this conditional life, we have to surrender unto Him only.}}
-
+---json
+{
+    "name":"SB 3.31.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.31.16",
+    "description":"No one other than the Supreme Personality of Godhead, as the localized Paramātmā, the partial representation of the Lord, is directing all inanimate and animate objects. He is present in the three phases of time-past, present and future. Therefore, the conditioned soul is engaged in different activities by His direction, and in order to get free from the threefold miseries of this conditional life, we have to surrender unto Him only."
+}
+---
 ====== SB 3.31.16 ======
 
 > ज्ञानं यदेतददधात्कतमः स देवस्

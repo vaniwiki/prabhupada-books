@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.27~~
-~~bc:Text 27~~
-
-{{description>Now I am attracted to those instructions imparted to me by the Personality of Godhead [Govinda] because they are impregnated with instructions for relieving the burning heart in all circumstances of time and space.}}
-
+---json
+{
+    "name":"SB 1.15.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.15.27",
+    "description":"Now I am attracted to those instructions imparted to me by the Personality of Godhead [Govinda] because they are impregnated with instructions for relieving the burning heart in all circumstances of time and space."
+}
+---
 ====== SB 1.15.27 ======
 
 > देशकालार्थयुक्तानि हृत्तापोपशमानि च ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.20~~
-~~bc:Text 20~~
-
-{{description>I have lost my three legs and am now standing on one only. Are you lamenting for my state of existence? Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you? Or are you in a sorry plight because the demigods are now bereft of their share of sacrificial offerings because no sacrifices are being performed at present? Or are you grieving for living beings because of their sufferings due to famine and drought?}}
-
+---json
+{
+    "name":"SB 1.16.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.16.20",
+    "description":"I have lost my three legs and am now standing on one only. Are you lamenting for my state of existence? Or are you in great anxiety because henceforward the unlawful meat-eaters will exploit you? Or are you in a sorry plight because the demigods are now bereft of their share of sacrificial offerings because no sacrifices are being performed at present? Or are you grieving for living beings because of their sufferings due to famine and drought?"
+}
+---
 ====== SB 1.16.20 ======
 
 > पादैर्न्यूनं शोचसि मैकपादमात्मानं वा वृषलैर्भोक्ष्यमाणम् ।

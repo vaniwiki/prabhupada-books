@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.16~~
-~~bc:Text 16~~
-
-{{description>From Kuśa, the grandson of Kṣatravṛddha, was born a son named Prati. The son of Prati was Sañjaya, and the son of Sañjaya was Jaya. From Jaya, Kṛta was born, and from Kṛta, King Haryabala.}}
-
+---json
+{
+    "name":"SB 9.17.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 9.17.16",
+    "description":"From Kuśa, the grandson of Kṣatravṛddha, was born a son named Prati. The son of Prati was Sañjaya, and the son of Sañjaya was Jaya. From Jaya, Kṛta was born, and from Kṛta, King Haryabala."
+}
+---
 ====== SB 9.17.16 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.17.36~~
-~~bc:Text 36~~
-
-{{description>My dear Lord, I am also the creation of one of Your energies, composed of the three modes of material nature. Consequently I am bewildered by Your activities. Even the activities of Your devotees cannot be understood, and what to speak of Your pastimes. Thus everything appears to us to be contradictory and wonderful.}}
-
+---json
+{
+    "name":"SB 4.17.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.17.36",
+    "description":"My dear Lord, I am also the creation of one of Your energies, composed of the three modes of material nature. Consequently I am bewildered by Your activities. Even the activities of Your devotees cannot be understood, and what to speak of Your pastimes. Thus everything appears to us to be contradictory and wonderful."
+}
+---
 ====== SB 4.17.36 ======
 
 > नूनं जनैरीहितमीश्वराणामस्मद्विधैस्तद्गुणसर्गमायया ।

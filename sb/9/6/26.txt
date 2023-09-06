@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.26~~
-~~bc:Text 26~~
-
-{{description>Although Yuvanāśva went into the forest with his one hundred wives, all of them were very morose. The sages in the forest, however, being very kind to the King, began very carefully and attentively performing an Indra-yajña so that the King might have a son.}}
-
+---json
+{
+    "name":"SB 9.6.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.6.26",
+    "description":"Although Yuvanāśva went into the forest with his one hundred wives, all of them were very morose. The sages in the forest, however, being very kind to the King, began very carefully and attentively performing an Indra-yajña so that the King might have a son."
+}
+---
 ====== SB 9.6.26 ======
 
 ===== Text =====

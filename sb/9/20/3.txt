@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.3~~
-~~bc:Text 3~~
-
-{{description>The son of Cārupada was Sudyu, and the son of Sudyu was Bahugava. Bahugava's son was Saṁyāti. From Saṁyāti came a son named Ahaṁyāti, from whom Raudrāśva was born.}}
-
+---json
+{
+    "name":"SB 9.20.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 9.20.3",
+    "description":"The son of Cārupada was Sudyu, and the son of Sudyu was Bahugava. Bahugava's son was Saṁyāti. From Saṁyāti came a son named Ahaṁyāti, from whom Raudrāśva was born."
+}
+---
 ====== SB 9.20.3 ======
 
 ===== Text =====

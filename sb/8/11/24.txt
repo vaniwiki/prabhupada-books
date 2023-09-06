@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.24~~
-~~bc:Text 24~~
-
-{{description>Other demons covered Indra, along with his chariot and chariot driver, with incessant showers of arrows, just as clouds cover the sun in the rainy season.}}
-
+---json
+{
+    "name":"SB 8.11.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 8.11.24",
+    "description":"Other demons covered Indra, along with his chariot and chariot driver, with incessant showers of arrows, just as clouds cover the sun in the rainy season."
+}
+---
 ====== SB 8.11.24 ======
 
 ===== Text =====

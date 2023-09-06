@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.28~~
-~~bc:Text 28~~
-
-{{description>When the Lord displayed His activities just suitable for childhood, He was visible only to the residents of Vṛndāvana. Sometimes He would cry and sometimes laugh, just like a child, and while so doing He would appear like a lion cub.}}
-
+---json
+{
+    "name":"SB 3.2.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.2.28",
+    "description":"When the Lord displayed His activities just suitable for childhood, He was visible only to the residents of Vṛndāvana. Sometimes He would cry and sometimes laugh, just like a child, and while so doing He would appear like a lion cub."
+}
+---
 ====== SB 3.2.28 ======
 
 > कौमारीं दर्शयंश्चेष्टां प्रेक्षणीयां व्रजौकसाम् ।

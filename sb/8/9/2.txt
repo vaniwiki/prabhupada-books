@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.2~~
-~~bc:Text 2~~
-
-{{description>Upon seeing the beautiful woman, the demons said, "Alas, how wonderful is Her beauty, how wonderful the luster of Her body, and how wonderful the beauty of Her youthful age!" Speaking in this way, they quickly approached Her, full of lusty desires to enjoy Her, and began to inquire from Her in many ways.}}
-
+---json
+{
+    "name":"SB 8.9.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.9.2",
+    "description":"Upon seeing the beautiful woman, the demons said, "Alas, how wonderful is Her beauty, how wonderful the luster of Her body, and how wonderful the beauty of Her youthful age!" Speaking in this way, they quickly approached Her, full of lusty desires to enjoy Her, and began to inquire from Her in many ways."
+}
+---
 ====== SB 8.9.2 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.1~~
-~~bc:Text 1~~
-
-{{description>King Parīkṣit inquired from Śukadeva Gosvāmī: How did Nārada Muni, whose hearers are as fortunate as those instructed by Lord Brahmā, explain the transcendental qualities of the Lord, who is without material qualities, and before whom did he speak?}}
-
+---json
+{
+    "name":"SB 2.8.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 2.8.1",
+    "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: How did Nārada Muni, whose hearers are as fortunate as those instructed by Lord Brahmā, explain the transcendental qualities of the Lord, who is without material qualities, and before whom did he speak?"
+}
+---
 ====== SB 2.8.1 ======
 
 > राजोवाच

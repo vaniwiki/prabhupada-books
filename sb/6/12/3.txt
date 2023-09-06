@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.3~~
-~~bc:Text 3~~
-
-{{description>Flying in the sky, Vṛtrāsura's trident resembled a brilliant meteor. Although the blazing weapon was difficult to look upon, King Indra, unafraid, cut it to pieces with his thunderbolt. Simultaneously, he cut off one of Vṛtrāsura's arms, which was as thick as the body of Vāsuki, the King of the serpents.}}
-
+---json
+{
+    "name":"SB 6.12.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 6.12.3",
+    "description":"Flying in the sky, Vṛtrāsura's trident resembled a brilliant meteor. Although the blazing weapon was difficult to look upon, King Indra, unafraid, cut it to pieces with his thunderbolt. Simultaneously, he cut off one of Vṛtrāsura's arms, which was as thick as the body of Vāsuki, the King of the serpents."
+}
+---
 ====== SB 6.12.3 ======
 
 ===== Text =====

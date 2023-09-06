@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.12~~
-~~bc:Text 12~~
-
-{{description>When King Indra was taking away the horse, he dressed himself to appear as a liberated person. Actually this dress was a form of cheating, for it falsely created an impression of religion. When Indra went into outer space in this way, the great sage Atri saw him and understood the whole situation.}}
-
+---json
+{
+    "name":"SB 4.19.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.19.12",
+    "description":"When King Indra was taking away the horse, he dressed himself to appear as a liberated person. Actually this dress was a form of cheating, for it falsely created an impression of religion. When Indra went into outer space in this way, the great sage Atri saw him and understood the whole situation."
+}
+---
 ====== SB 4.19.12 ======
 
 > तमत्रिर्भगवानैक्षत्त्वरमाणं विहायसा ।

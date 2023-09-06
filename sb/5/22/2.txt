@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.2~~
-~~bc:Text 2~~
-
-{{description>Śrī Śukadeva Gosvāmī clearly answered: When a potter's wheel is moving and small ants located on that big wheel are moving with it, one can see that their motion is different from that of the wheel because they appear sometimes on one part of the wheel and sometimes on another. Similarly, the signs and constellations, with Sumeru and Dhruvaloka on their right, move with the wheel of time, and the antlike sun and other planets move with them. The sun and planets, however, are seen in different signs and constellations at different times. This indicates that their motion is different from that of the zodiac and the wheel of time itself.}}
-
+---json
+{
+    "name":"SB 5.22.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.22.2",
+    "description":"Śrī Śukadeva Gosvāmī clearly answered: When a potter's wheel is moving and small ants located on that big wheel are moving with it, one can see that their motion is different from that of the wheel because they appear sometimes on one part of the wheel and sometimes on another. Similarly, the signs and constellations, with Sumeru and Dhruvaloka on their right, move with the wheel of time, and the antlike sun and other planets move with them. The sun and planets, however, are seen in different signs and constellations at different times. This indicates that their motion is different from that of the zodiac and the wheel of time itself."
+}
+---
 ====== SB 5.22.2 ======
 
 ===== Text =====

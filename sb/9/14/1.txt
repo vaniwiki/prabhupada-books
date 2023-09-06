@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.1~~
-~~bc:Text 1~~
-
-{{description>Śrīla Śukadeva Gosvāmī said to Mahārāja Parīkṣit: O King, thus far you have heard the description of the dynasty of the sun-god. Now hear the most glorious and purifying description of the dynasty of the moon-god. This description mentions kings like Aila [Purūravā] of whom it is glorious to hear.}}
-
+---json
+{
+    "name":"SB 9.14.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.14.1",
+    "description":"Śrīla Śukadeva Gosvāmī said to Mahārāja Parīkṣit: O King, thus far you have heard the description of the dynasty of the sun-god. Now hear the most glorious and purifying description of the dynasty of the moon-god. This description mentions kings like Aila [Purūravā] of whom it is glorious to hear."
+}
+---
 ====== SB 9.14.1 ======
 
 ===== Text =====

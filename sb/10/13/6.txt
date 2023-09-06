@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.6~~
-~~bc:Text 6~~
-
-{{description>I think we should take our lunch here, since we are already hungry because the time is very late. Here the calves may drink water and go slowly here and there and eat the grass.}}
-
+---json
+{
+    "name":"SB 10.13.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 10.13.6",
+    "description":"I think we should take our lunch here, since we are already hungry because the time is very late. Here the calves may drink water and go slowly here and there and eat the grass."
+}
+---
 ====== SB 10.13.6 ======
 
 ===== Text =====

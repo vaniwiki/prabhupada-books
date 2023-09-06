@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.38~~
-~~bc:Text 38~~
-
-{{description>The great mystics said: Dear Lord, persons who see You as nondifferent from themselves, knowing that You are the Supersoul of all living entities, are certainly very, very dear to You. You are very favorable toward those who engage in devotional service, accepting You as the Lord and themselves as the servants. By Your mercy, You are always inclined in their favor.}}
-
+---json
+{
+    "name":"SB 4.7.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.7.38",
+    "description":"The great mystics said: Dear Lord, persons who see You as nondifferent from themselves, knowing that You are the Supersoul of all living entities, are certainly very, very dear to You. You are very favorable toward those who engage in devotional service, accepting You as the Lord and themselves as the servants. By Your mercy, You are always inclined in their favor."
+}
+---
 ====== SB 4.7.38 ======
 
 > योगेश्वरा ऊचुः

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.62~~
-~~bc:Text 62~~
-
-{{description>In his personal behavior, Pṛthu Mahārāja exhibited all good qualities, and in spiritual knowledge he was exactly like Bṛhaspati. In self-control he was like the Supreme Personality of Godhead Himself. As far as his devotional service was concerned, he was a great follower of devotees who were attached to cow protection and the rendering of all service to the spiritual master and the brāhmaṇas. He was perfect in his shyness and in his gentle behavior, and when he engaged in some philanthropic activity, he worked as if he were working for his own personal self.}}
-
+---json
+{
+    "name":"SB 4.22.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 4.22.62",
+    "description":"In his personal behavior, Pṛthu Mahārāja exhibited all good qualities, and in spiritual knowledge he was exactly like Bṛhaspati. In self-control he was like the Supreme Personality of Godhead Himself. As far as his devotional service was concerned, he was a great follower of devotees who were attached to cow protection and the rendering of all service to the spiritual master and the brāhmaṇas. He was perfect in his shyness and in his gentle behavior, and when he engaged in some philanthropic activity, he worked as if he were working for his own personal self."
+}
+---
 ====== SB 4.22.62 ======
 
 > बृहस्पतिर्ब्रह्मवादे आत्मवत्त्वे स्वयं हरिः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.32~~
-~~bc:Text 32~~
-
-{{description>The demons praised her: Oh, what a beauty! What rare self-control! What a budding youth! In the midst of us all, who are passionately longing for her, she is moving about like one absolutely free from passion.}}
-
+---json
+{
+    "name":"SB 3.20.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.20.32",
+    "description":"The demons praised her: Oh, what a beauty! What rare self-control! What a budding youth! In the midst of us all, who are passionately longing for her, she is moving about like one absolutely free from passion."
+}
+---
 ====== SB 3.20.32 ======
 
 > अहो रूपमहो धैर्यमहो अस्या नवं वयः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.38~~
-~~bc:Text 38~~
-
-{{description>O Lord, Your semen is the sacrifice called soma-yajña. Your growth is the ritualistic performances of the morning. Your skin and touch sensations are the seven elements of the agniṣṭoma sacrifice. Your bodily joints are symbols of various other sacrifices performed in twelve days. Therefore You are the object of all sacrifices called soma and asoma, and You are bound by yajñas only.}}
-
+---json
+{
+    "name":"SB 3.13.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 3.13.38",
+    "description":"O Lord, Your semen is the sacrifice called soma-yajña. Your growth is the ritualistic performances of the morning. Your skin and touch sensations are the seven elements of the agniṣṭoma sacrifice. Your bodily joints are symbols of various other sacrifices performed in twelve days. Therefore You are the object of all sacrifices called soma and asoma, and You are bound by yajñas only."
+}
+---
 ====== SB 3.13.38 ======
 
 > सोमस्तु रेतः सवनान्यवस्थितिः संस्थाविभेदास्तव देव धातवः ।

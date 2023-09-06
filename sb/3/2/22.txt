@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.22~~
-~~bc:Text 22~~
-
-{{description>Therefore, O Vidura, does it not pain us, His servitors, when we remember that He [Lord Kṛṣṇa] used to stand before King Ugrasena, who was sitting on the royal throne, and used to submit explanations before him, saying, "O My lord, please let it be known to you"?}}
-
+---json
+{
+    "name":"SB 3.2.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.2.22",
+    "description":"Therefore, O Vidura, does it not pain us, His servitors, when we remember that He [Lord Kṛṣṇa] used to stand before King Ugrasena, who was sitting on the royal throne, and used to submit explanations before him, saying, "O My lord, please let it be known to you"?"
+}
+---
 ====== SB 3.2.22 ======
 
 > तत्तस्य कैङ्कर्यमलं भृतान्नो विग्लापयत्यङ्ग यदुग्रसेनम् ।

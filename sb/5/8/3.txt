@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.3~~
-~~bc:Text 3~~
-
-{{description>While the doe was drinking with great satisfaction, a lion, which was very close, roared very loudly. This was frightful to every living entity, and it was heard by the doe.}}
-
+---json
+{
+    "name":"SB 5.8.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.8.3",
+    "description":"While the doe was drinking with great satisfaction, a lion, which was very close, roared very loudly. This was frightful to every living entity, and it was heard by the doe."
+}
+---
 ====== SB 5.8.3 ======
 
 ===== Text =====

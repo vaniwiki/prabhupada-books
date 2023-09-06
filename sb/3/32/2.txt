@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.2~~
-~~bc:Text 2~~
-
-{{description>Such persons are ever bereft of devotional service due to being too attached to sense gratification, and therefore, although they perform various kinds of sacrifices and take great vows to satisfy the demigods and forefathers, they are not interested in Kṛṣṇa consciousness, devotional service.}}
-
+---json
+{
+    "name":"SB 3.32.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.32.2",
+    "description":"Such persons are ever bereft of devotional service due to being too attached to sense gratification, and therefore, although they perform various kinds of sacrifices and take great vows to satisfy the demigods and forefathers, they are not interested in Kṛṣṇa consciousness, devotional service."
+}
+---
 ====== SB 3.32.2 ======
 
 > स चापि भगवद्धर्मात्काममूढः पराङ्मुखः ।

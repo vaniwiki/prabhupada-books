@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.23~~
-~~bc:Text 23~~
-
-{{description>O King, the third Manu, Uttama, was the son of King Priyavrata. Among the sons of this Manu were Pavana, Sṛñjaya and Yajñahotra.}}
-
+---json
+{
+    "name":"SB 8.1.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 8.1.23",
+    "description":"O King, the third Manu, Uttama, was the son of King Priyavrata. Among the sons of this Manu were Pavana, Sṛñjaya and Yajñahotra."
+}
+---
 ====== SB 8.1.23 ======
 
 ===== Text =====

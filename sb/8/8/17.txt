@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.17~~
-~~bc:Text 17~~
-
-{{description>Thereafter, mother Lakṣmī, the goddess of fortune, having been properly celebrated with an auspicious ritualistic ceremony, began moving about, holding in her hand a garland of lotus flowers, which were surrounded by humming bumblebees. Smiling with shyness, her cheeks decorated by her earrings, she looked extremely beautiful.}}
-
+---json
+{
+    "name":"SB 8.8.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 8.8.17",
+    "description":"Thereafter, mother Lakṣmī, the goddess of fortune, having been properly celebrated with an auspicious ritualistic ceremony, began moving about, holding in her hand a garland of lotus flowers, which were surrounded by humming bumblebees. Smiling with shyness, her cheeks decorated by her earrings, she looked extremely beautiful."
+}
+---
 ====== SB 8.8.17 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.20~~
-~~bc:Text 20~~
-
-{{description>I have studied the path of understanding self-knowledge from my spiritual master, the Personality of Godhead, and thus after circumambulating Him I have come to this place, very much aggrieved due to separation.}}
-
+---json
+{
+    "name":"SB 3.4.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.4.20",
+    "description":"I have studied the path of understanding self-knowledge from my spiritual master, the Personality of Godhead, and thus after circumambulating Him I have come to this place, very much aggrieved due to separation."
+}
+---
 ====== SB 3.4.20 ======
 
 > स एवमाराधितपादतीर्थादधीततत्त्वात्मविबोधमार्गः ।

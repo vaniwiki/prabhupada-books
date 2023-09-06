@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.20~~
-~~bc:Text 20~~
-
-{{description>One who has not listened to the messages about the prowess and marvelous acts of the Personality of Godhead and has not sung or chanted loudly the worthy songs about the Lord is to be considered to possess earholes like the holes of snakes and a tongue like the tongue of a frog.}}
-
+---json
+{
+    "name":"SB 2.3.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 2.3.20",
+    "description":"One who has not listened to the messages about the prowess and marvelous acts of the Personality of Godhead and has not sung or chanted loudly the worthy songs about the Lord is to be considered to possess earholes like the holes of snakes and a tongue like the tongue of a frog."
+}
+---
 ====== SB 2.3.20 ======
 
 > बिले बतोरुक्रमविक्रमान्ये न शृण्वतः कर्णपुटे नरस्य ।

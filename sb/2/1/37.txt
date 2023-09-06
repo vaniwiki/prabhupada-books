@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.37~~
-~~bc:Text 37~~
-
-{{description>The virāṭ-puruṣa's face is the brāhmaṇas, His arms are the kṣatriyas, His thighs are the vaiśyas, and the śūdras are under the protection of His feet. All the worshipable demigods are also overtaken by Him, and it is the duty of everyone to perform sacrifices with feasible goods to appease the Lord.}}
-
+---json
+{
+    "name":"SB 2.1.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 2.1.37",
+    "description":"The virāṭ-puruṣa's face is the brāhmaṇas, His arms are the kṣatriyas, His thighs are the vaiśyas, and the śūdras are under the protection of His feet. All the worshipable demigods are also overtaken by Him, and it is the duty of everyone to perform sacrifices with feasible goods to appease the Lord."
+}
+---
 ====== SB 2.1.37 ======
 
 > ब्रह्माननं क्षत्रभुजो महात्मा विडूरुरङ्घ्रिश्रितकृष्णवर्णः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.33~~
-~~bc:Text 33~~
-
-{{description>For human society, constantly thinking of how to earn money and apply it for sense gratification brings about the destruction of everyone's interests. When one becomes devoid of knowledge and devotional service, he enters into species of life like those of trees and stones.}}
-
+---json
+{
+    "name":"SB 4.22.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.22.33",
+    "description":"For human society, constantly thinking of how to earn money and apply it for sense gratification brings about the destruction of everyone's interests. When one becomes devoid of knowledge and devotional service, he enters into species of life like those of trees and stones."
+}
+---
 ====== SB 4.22.33 ======
 
 > अर्थेन्द्रियार्थाभिध्यानं सर्वार्थापह्नवो नृणाम् ।

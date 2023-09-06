@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.26~~
-~~bc:Text 26~~
-
-{{description>The king of this planet, Mahārāja Ambarīṣa, thus performed devotional service to the Lord and in this endeavor practiced severe austerity. Always satisfying the Supreme Personality of Godhead by his constitutional activities, he gradually gave up all material desires.}}
-
+---json
+{
+    "name":"SB 9.4.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.4.26",
+    "description":"The king of this planet, Mahārāja Ambarīṣa, thus performed devotional service to the Lord and in this endeavor practiced severe austerity. Always satisfying the Supreme Personality of Godhead by his constitutional activities, he gradually gave up all material desires."
+}
+---
 ====== SB 9.4.26 ======
 
 ===== Text =====

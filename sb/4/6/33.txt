@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.33~~
-~~bc:Text 33~~
-
-{{description>The demigods saw Lord Śiva sitting under that tree, which was competent to give perfection to mystic yogīs and deliver all people. As grave as time eternal, he appeared to have given up all anger.}}
-
+---json
+{
+    "name":"SB 4.6.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.6.33",
+    "description":"The demigods saw Lord Śiva sitting under that tree, which was competent to give perfection to mystic yogīs and deliver all people. As grave as time eternal, he appeared to have given up all anger."
+}
+---
 ====== SB 4.6.33 ======
 
 > तस्मिन्महायोगमये मुमुक्षुशरणे सुराः ।

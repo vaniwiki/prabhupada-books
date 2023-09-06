@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.6~~
-~~bc:Text 6~~
-
-{{description>I beg to know from you how the Personality of Godhead, by His personal energies, creates these phenomenal universes as they are, which are inconceivable even to the great demigods.}}
-
+---json
+{
+    "name":"SB 2.4.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 2.4.6",
+    "description":"I beg to know from you how the Personality of Godhead, by His personal energies, creates these phenomenal universes as they are, which are inconceivable even to the great demigods."
+}
+---
 ====== SB 2.4.6 ======
 
 > भूय एव विवित्सामि भगवानात्ममायया ।

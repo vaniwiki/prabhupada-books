@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.10~~
-~~bc:Text 10~~
-
-{{description>O King Parīkṣit, in the province of Śūrasena there was a king named Citraketu, who ruled the entire earth. During his reign, the earth produced all the necessities for life.}}
-
+---json
+{
+    "name":"SB 6.14.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.14.10",
+    "description":"O King Parīkṣit, in the province of Śūrasena there was a king named Citraketu, who ruled the entire earth. During his reign, the earth produced all the necessities for life."
+}
+---
 ====== SB 6.14.10 ======
 
 ===== Text =====

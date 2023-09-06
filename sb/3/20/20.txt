@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.20~~
-~~bc:Text 20~~
-
-{{description>Overpowered by hunger and thirst, they ran to devour Brahmā from all sides and cried, "Spare him not! Eat him up!"}}
-
+---json
+{
+    "name":"SB 3.20.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.20.20",
+    "description":"Overpowered by hunger and thirst, they ran to devour Brahmā from all sides and cried, "Spare him not! Eat him up!""
+}
+---
 ====== SB 3.20.20 ======
 
 > क्षुत्तृड्भ्यामुपसृष्टास्ते तं जग्धुमभिदुद्रुवुः ।

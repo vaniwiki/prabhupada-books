@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.43~~
-~~bc:Text 43~~
-
-{{description>The sage Bhṛgu was highly fortunate. In his wife, known as Khyāti, he begot two sons, named Dhātā and Vidhātā, and one daughter, named Śrī, who was very much devoted to the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.1.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 4.1.43",
+    "description":"The sage Bhṛgu was highly fortunate. In his wife, known as Khyāti, he begot two sons, named Dhātā and Vidhātā, and one daughter, named Śrī, who was very much devoted to the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.1.43 ======
 
 > भृगुः ख्यात्यां महाभागः पत्न्यां पुत्रानजीजनत् ।

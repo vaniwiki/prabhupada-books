@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.39~~
-~~bc:Text 39~~
-
-{{description>That boy was born partially in the dynasty of irreligion. His grandfather was death personified, and the boy grew up as his follower; he became a greatly irreligious person.}}
-
+---json
+{
+    "name":"SB 4.13.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.13.39",
+    "description":"That boy was born partially in the dynasty of irreligion. His grandfather was death personified, and the boy grew up as his follower; he became a greatly irreligious person."
+}
+---
 ====== SB 4.13.39 ======
 
 > स बाल एव पुरुषो मातामहमनुव्रतः ।

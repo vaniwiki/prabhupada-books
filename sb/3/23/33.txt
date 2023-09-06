@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.33~~
-~~bc:Text 33~~
-
-{{description>Her countenance shone, with beautiful teeth and charming eyebrows. Her eyes, distinguished by lovely moist corners, defeated the beauty of lotus buds. Her face was surrounded by dark curling tresses.}}
-
+---json
+{
+    "name":"SB 3.23.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 3.23.33",
+    "description":"Her countenance shone, with beautiful teeth and charming eyebrows. Her eyes, distinguished by lovely moist corners, defeated the beauty of lotus buds. Her face was surrounded by dark curling tresses."
+}
+---
 ====== SB 3.23.33 ======
 
 > सुदता सुभ्रुवा श्लक्ष्ण स्निग्धापाङ्गेन चक्षुषा ।

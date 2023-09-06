@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.36~~
-~~bc:Text 36~~
-
-{{description>Because of the favor of the brāhmaṇas, the great soul Bali Mahārāja, thinking himself very satisfied, became very opulent and prosperous and began to enjoy the kingdom.}}
-
+---json
+{
+    "name":"SB 8.15.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 8.15.36",
+    "description":"Because of the favor of the brāhmaṇas, the great soul Bali Mahārāja, thinking himself very satisfied, became very opulent and prosperous and began to enjoy the kingdom."
+}
+---
 ====== SB 8.15.36 ======
 
 ===== Text =====

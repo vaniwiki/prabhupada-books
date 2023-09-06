@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.42~~
-~~bc:Text 42~~
-
-{{description>King Indra said: O Supreme Lord, You are our deliverer and protector. Our shares of sacrifices, which are actually Yours, have been recovered from the demon by You. Because the demoniac king Hiraṇyakaśipu was most fearsome, our hearts, which are Your permanent abode, were all overtaken by him. Now, by Your presence, the gloom and darkness in our hearts have been dissipated. O Lord, for those who always engage in Your service, which is more exalted than liberation, all material opulence is insignificant. They do not even care for liberation, not to speak of the benefits of kāma, artha and dharma.}}
-
+---json
+{
+    "name":"SB 7.8.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 7.8.42",
+    "description":"King Indra said: O Supreme Lord, You are our deliverer and protector. Our shares of sacrifices, which are actually Yours, have been recovered from the demon by You. Because the demoniac king Hiraṇyakaśipu was most fearsome, our hearts, which are Your permanent abode, were all overtaken by him. Now, by Your presence, the gloom and darkness in our hearts have been dissipated. O Lord, for those who always engage in Your service, which is more exalted than liberation, all material opulence is insignificant. They do not even care for liberation, not to speak of the benefits of kāma, artha and dharma."
+}
+---
 ====== SB 7.8.42 ======
 
 ===== Text =====

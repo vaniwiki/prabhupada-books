@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.29~~
-~~bc:Text 29~~
-
-{{description>It was astonishing that Dakṣa, who was Prajāpati, the maintainer of all living entities, was so disrespectful to his own daughter, Satī, who was not only chaste but was also a great soul, that she gave up her body because of his neglect.}}
-
+---json
+{
+    "name":"SB 4.4.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.4.29",
+    "description":"It was astonishing that Dakṣa, who was Prajāpati, the maintainer of all living entities, was so disrespectful to his own daughter, Satī, who was not only chaste but was also a great soul, that she gave up her body because of his neglect."
+}
+---
 ====== SB 4.4.29 ======
 
 > अहो अनात्म्यं महदस्य पश्यत प्रजापतेर्यस्य चराचरं प्रजाः ।

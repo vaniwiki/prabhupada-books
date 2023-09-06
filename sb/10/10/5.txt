@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.5~~
-~~bc:Text 5~~
-
-{{description>O Mahārāja Parīkṣit, by some auspicious opportunity for the two boys, the great saint Devarṣi Nārada once appeared there by chance. Seeing them intoxicated, with rolling eyes, he could understand their situation.}}
-
+---json
+{
+    "name":"SB 10.10.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 10.10.5",
+    "description":"O Mahārāja Parīkṣit, by some auspicious opportunity for the two boys, the great saint Devarṣi Nārada once appeared there by chance. Seeing them intoxicated, with rolling eyes, he could understand their situation."
+}
+---
 ====== SB 10.10.5 ======
 
 ===== Text =====

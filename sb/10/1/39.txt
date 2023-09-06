@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.39~~
-~~bc:Text 39~~
-
-{{description>When the present body turns to dust and is again reduced to five elements—earth, water, fire, air and ether—the proprietor of the body, the living being, automatically receives another body of material elements according to his fruitive activities. When the next body is obtained, he gives up the present body.}}
-
+---json
+{
+    "name":"SB 10.1.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 10.1.39",
+    "description":"When the present body turns to dust and is again reduced to five elements—earth, water, fire, air and ether—the proprietor of the body, the living being, automatically receives another body of material elements according to his fruitive activities. When the next body is obtained, he gives up the present body."
+}
+---
 ====== SB 10.1.39 ======
 
 ===== Text =====

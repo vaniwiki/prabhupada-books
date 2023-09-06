@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.9~~
-~~bc:Text 9~~
-
-{{description>Prasūti, the wife of Dakṣa, along with the other women assembled, became very anxious and said: This danger has been created by Dakṣa because of the death of Satī, who, even though completely innocent, quit her body as her sisters looked on.}}
-
+---json
+{
+    "name":"SB 4.5.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.5.9",
+    "description":"Prasūti, the wife of Dakṣa, along with the other women assembled, became very anxious and said: This danger has been created by Dakṣa because of the death of Satī, who, even though completely innocent, quit her body as her sisters looked on."
+}
+---
 ====== SB 4.5.9 ======
 
 > प्रसूतिमिश्राः स्त्रिय उद्विग्नचित्ता ऊचुर्विपाको वृजिनस्यैव तस्य ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.4-6~~
-~~bc:Text 4-6~~
-
-{{description>Viśvarūpa said: If some form of fear arrives, one should first wash his hands and legs clean and then perform ācamana by chanting this mantra: oṁ apavitraḥ pavitro vā sarvāvasthāṁ gato 'pi vā/ yaḥ smaret puṇḍarīkākṣaṁ sa bahyābhyantaraḥ śuciḥ/ śrī-viṣṇu śrī-viṣṇu śrī-viṣṇu. Then one should touch kuśa grass and sit gravely and silently, facing north. When completely purified, one should touch the mantra composed of eight syllables to the eight parts of his body and touch the mantra composed of twelve syllables to his hands. Thus, in the following manner, he should bind himself with the Nārāyaṇa coat of armor. First, while chanting the mantra composed of eight syllables [oṁ namo nārāyaṇāya], beginning with the praṇava, the syllable oṁ, one should touch his hands to eight parts of his body, starting with the two feet and progressing systematically to the knees, thighs, abdomen, heart, chest, mouth and head. Then one should chant the mantra in reverse, beginning from the last syllable [ya], while touching the parts of his body in the reverse order. These two processes are known as utpatti-nyāsa and saṁhāra-nyāsa respectively.}}
-
+---json
+{
+    "name":"SB 6.8.4-6",
+    "h1":"Text 4-6",
+    "title":" Śrīmad Bhāgavatam 6.8.4-6",
+    "description":"Viśvarūpa said: If some form of fear arrives, one should first wash his hands and legs clean and then perform ācamana by chanting this mantra: oṁ apavitraḥ pavitro vā sarvāvasthāṁ gato 'pi vā/ yaḥ smaret puṇḍarīkākṣaṁ sa bahyābhyantaraḥ śuciḥ/ śrī-viṣṇu śrī-viṣṇu śrī-viṣṇu. Then one should touch kuśa grass and sit gravely and silently, facing north. When completely purified, one should touch the mantra composed of eight syllables to the eight parts of his body and touch the mantra composed of twelve syllables to his hands. Thus, in the following manner, he should bind himself with the Nārāyaṇa coat of armor. First, while chanting the mantra composed of eight syllables [oṁ namo nārāyaṇāya], beginning with the praṇava, the syllable oṁ, one should touch his hands to eight parts of his body, starting with the two feet and progressing systematically to the knees, thighs, abdomen, heart, chest, mouth and head. Then one should chant the mantra in reverse, beginning from the last syllable [ya], while touching the parts of his body in the reverse order. These two processes are known as utpatti-nyāsa and saṁhāra-nyāsa respectively."
+}
+---
 ====== SB 6.8.4-6 ======
 
 ===== Text =====

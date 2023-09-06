@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.6~~
-~~bc:Text 6~~
-
-{{description>The very day and moment the Personality of Godhead, Lord Śrī Kṛṣṇa, left this earth, the personality of Kali, who promotes all kinds of irreligious activities, came into this world.}}
-
+---json
+{
+    "name":"SB 1.18.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.18.6",
+    "description":"The very day and moment the Personality of Godhead, Lord Śrī Kṛṣṇa, left this earth, the personality of Kali, who promotes all kinds of irreligious activities, came into this world."
+}
+---
 ====== SB 1.18.6 ======
 
 > यस्मिन्नहनि यर्ह्येव भगवानुत्ससर्ज गाम् ।

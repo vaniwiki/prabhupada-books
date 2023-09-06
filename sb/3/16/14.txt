@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.14~~
-~~bc:Text 14~~
-
-{{description>The Lord's excellent speech was difficult to comprehend because of its momentous import and its most profound significance. The sages heard it with wide-open ears and pondered it as well. But although hearing, they could not understand what He intended to do.}}
-
+---json
+{
+    "name":"SB 3.16.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.16.14",
+    "description":"The Lord's excellent speech was difficult to comprehend because of its momentous import and its most profound significance. The sages heard it with wide-open ears and pondered it as well. But although hearing, they could not understand what He intended to do."
+}
+---
 ====== SB 3.16.14 ======
 
 > सतीं व्यादाय शृण्वन्तो लघ्वीं गुर्वर्थगह्वराम् ।

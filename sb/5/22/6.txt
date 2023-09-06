@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.6~~
-~~bc:Text 6~~
-
-{{description>Thus the time the sun takes to rotate through half of outer space is called an ayana, or its period of movement [in the north or in the south].}}
-
+---json
+{
+    "name":"SB 5.22.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.22.6",
+    "description":"Thus the time the sun takes to rotate through half of outer space is called an ayana, or its period of movement [in the north or in the south]."
+}
+---
 ====== SB 5.22.6 ======
 
 ===== Text =====

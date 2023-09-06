@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.12~~
-~~bc:Text 12~~
-
-{{description>O most unfortunate Prahlāda, you have always described a supreme being other than me, a supreme being who is above everything, who is the controller of everyone, and who is all-pervading. But where is He? If He is everywhere, then why is He not present before me in this pillar?}}
-
+---json
+{
+    "name":"SB 7.8.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.8.12",
+    "description":"O most unfortunate Prahlāda, you have always described a supreme being other than me, a supreme being who is above everything, who is the controller of everyone, and who is all-pervading. But where is He? If He is everywhere, then why is He not present before me in this pillar?"
+}
+---
 ====== SB 7.8.12 ======
 
 ===== Text =====

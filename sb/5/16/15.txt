@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.15~~
-~~bc:Text 15~~
-
-{{description>The best of the demigods, along with their wives, who are like ornaments of heavenly beauty, meet together and enjoy within those gardens, while their glories are sung by lesser demigods known as Gandharvas.}}
-
+---json
+{
+    "name":"SB 5.16.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.16.15",
+    "description":"The best of the demigods, along with their wives, who are like ornaments of heavenly beauty, meet together and enjoy within those gardens, while their glories are sung by lesser demigods known as Gandharvas."
+}
+---
 ====== SB 5.16.15 ======
 
 ===== Text =====

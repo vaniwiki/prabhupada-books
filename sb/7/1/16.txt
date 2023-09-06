@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.16~~
-~~bc:Text 16~~
-
-{{description>Mahārāja Yudhiṣṭhira inquired: It is very wonderful that the demon Śiśupāla merged into the body of the Supreme Personality of Godhead even though extremely envious. This sāyujya-mukti is impossible to attain even for great transcendentalists. How then did the enemy of the Lord attain it?}}
-
+---json
+{
+    "name":"SB 7.1.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 7.1.16",
+    "description":"Mahārāja Yudhiṣṭhira inquired: It is very wonderful that the demon Śiśupāla merged into the body of the Supreme Personality of Godhead even though extremely envious. This sāyujya-mukti is impossible to attain even for great transcendentalists. How then did the enemy of the Lord attain it?"
+}
+---
 ====== SB 7.1.16 ======
 
 ===== Text =====

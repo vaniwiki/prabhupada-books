@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.12~~
-~~bc:Text 12~~
-
-{{description>Two solar movements make one day and night of the demigods, and that combination of day and night is one complete calendar year for the human being. The human being has a duration of life of one hundred years.}}
-
+---json
+{
+    "name":"SB 3.11.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.11.12",
+    "description":"Two solar movements make one day and night of the demigods, and that combination of day and night is one complete calendar year for the human being. The human being has a duration of life of one hundred years."
+}
+---
 ====== SB 3.11.12 ======
 
 > अयने चाहनी प्राहुर्वत्सरो द्वादश स्मृतः ।

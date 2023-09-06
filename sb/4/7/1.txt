@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.1~~
-~~bc:Text 1~~
-
-{{description>The sage Maitreya said: O mighty-armed Vidura, Lord Śiva, being thus pacified by the words of Lord Brahmā, spoke as follows in answer to Lord Brahmā's request.}}
-
+---json
+{
+    "name":"SB 4.7.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.7.1",
+    "description":"The sage Maitreya said: O mighty-armed Vidura, Lord Śiva, being thus pacified by the words of Lord Brahmā, spoke as follows in answer to Lord Brahmā's request."
+}
+---
 ====== SB 4.7.1 ======
 
 > मैत्रेय उवाच

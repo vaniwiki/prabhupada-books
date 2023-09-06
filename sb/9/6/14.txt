@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.14~~
-~~bc:Text 14~~
-
-{{description>Purañjaya agreed to kill all the demons, on the condition that Indra would be his carrier. Because of pride, Indra could not accept this proposal, but later, by the order of the Supreme Lord, Viṣṇu, Indra did accept it and became a great bull carrier for Purañjaya.}}
-
+---json
+{
+    "name":"SB 9.6.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 9.6.14",
+    "description":"Purañjaya agreed to kill all the demons, on the condition that Indra would be his carrier. Because of pride, Indra could not accept this proposal, but later, by the order of the Supreme Lord, Viṣṇu, Indra did accept it and became a great bull carrier for Purañjaya."
+}
+---
 ====== SB 9.6.14 ======
 
 ===== Text =====

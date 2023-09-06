@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.29~~
-~~bc:Text 29~~
-
-{{description>Thereafter, the great sage told the King, "O great King, now you will have a son who will be the cause of both jubilation and lamentation." The sage then left, without waiting for Citraketu's response.}}
-
+---json
+{
+    "name":"SB 6.14.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 6.14.29",
+    "description":"Thereafter, the great sage told the King, "O great King, now you will have a son who will be the cause of both jubilation and lamentation." The sage then left, without waiting for Citraketu's response."
+}
+---
 ====== SB 6.14.29 ======
 
 ===== Text =====

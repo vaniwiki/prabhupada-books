@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.16.21~~
-~~bc:Text 21~~
-
-{{description>When the King travels all over the world, other kings, as well as the demigods, will offer him all kinds of presentations. Their queens will also consider him the original king, who carries in His hands the emblems of club and disc, and will sing of his fame, for he will be as reputable as the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.16.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.16.21",
+    "description":"When the King travels all over the world, other kings, as well as the demigods, will offer him all kinds of presentations. Their queens will also consider him the original king, who carries in His hands the emblems of club and disc, and will sing of his fame, for he will be as reputable as the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.16.21 ======
 
 > अस्मै नृपालाः किल तत्र तत्र बलिं हरिष्यन्ति सलोकपालाः ।

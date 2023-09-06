@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.19~~
-~~bc:Text 19~~
-
-{{description>A vānaprastha should prepare cakes to be offered in sacrifice from fruits and grains grown naturally in the forest. When he obtains some new grains, he should give up his old stock of grains.}}
-
+---json
+{
+    "name":"SB 7.12.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 7.12.19",
+    "description":"A vānaprastha should prepare cakes to be offered in sacrifice from fruits and grains grown naturally in the forest. When he obtains some new grains, he should give up his old stock of grains."
+}
+---
 ====== SB 7.12.19 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.32~~
-~~bc:Text 32~~
-
-{{description>Any literature or narration in which the Supreme Personality of Godhead, Uttamaśloka, is described and glorified is certainly great, pure, glorious, auspicious and all good.}}
-
+---json
+{
+    "name":"SB 8.1.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 8.1.32",
+    "description":"Any literature or narration in which the Supreme Personality of Godhead, Uttamaśloka, is described and glorified is certainly great, pure, glorious, auspicious and all good."
+}
+---
 ====== SB 8.1.32 ======
 
 ===== Text =====

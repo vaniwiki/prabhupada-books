@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.26~~
-~~bc:Text 26~~
-
-{{description>How wonderful are the powerful kṣatriyas. They cannot tolerate even a slight infringement upon their prestige. Just imagine! This boy is only a small child, yet harsh words from his stepmother proved unbearable to him.}}
-
+---json
+{
+    "name":"SB 4.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.8.26",
+    "description":"How wonderful are the powerful kṣatriyas. They cannot tolerate even a slight infringement upon their prestige. Just imagine! This boy is only a small child, yet harsh words from his stepmother proved unbearable to him."
+}
+---
 ====== SB 4.8.26 ======
 
 > अहो तेजः क्षत्रियाणां मानभङ्गममृष्यताम् ।

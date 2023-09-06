@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Maitreya said: Svāyambhuva Manu begot three daughters in his wife Śatarūpā, and their names were Ākūti, Devahūti and Prasūti.}}
-
+---json
+{
+    "name":"SB 4.1.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.1.1",
+    "description":"Śrī Maitreya said: Svāyambhuva Manu begot three daughters in his wife Śatarūpā, and their names were Ākūti, Devahūti and Prasūti."
+}
+---
 ====== SB 4.1.1 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.33~~
-~~bc:Text 33~~
-
-{{description>The father of all Prajāpatis, Brahmā, thus seeing all his Prajāpati sons speaking in that way, became very much ashamed and at once gave up the body he had accepted. Later that body appeared in all directions as the dangerous fog in darkness.}}
-
+---json
+{
+    "name":"SB 3.12.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 3.12.33",
+    "description":"The father of all Prajāpatis, Brahmā, thus seeing all his Prajāpati sons speaking in that way, became very much ashamed and at once gave up the body he had accepted. Later that body appeared in all directions as the dangerous fog in darkness."
+}
+---
 ====== SB 3.12.33 ======
 
 > स इत्थं गृणतः पुत्रान्पुरो दृष्ट्वा प्रजापतीन् ।

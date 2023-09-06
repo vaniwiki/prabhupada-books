@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.43~~
-~~bc:Text 43~~
-
-{{description>Anyone who once meditates upon Me with faith and affection, who hears and chants about Me, surely goes back home, back to Godhead.}}
-
+---json
+{
+    "name":"SB 3.32.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.32.43",
+    "description":"Anyone who once meditates upon Me with faith and affection, who hears and chants about Me, surely goes back home, back to Godhead."
+}
+---
 ====== SB 3.32.43 ======
 
 > य इदं शृणुयादम्ब श्रद्धया पुरुषः सकृत् ।

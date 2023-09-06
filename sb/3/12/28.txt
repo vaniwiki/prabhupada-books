@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.28~~
-~~bc:Text 28~~
-
-{{description>O Vidura, we have heard that Brahmā had a daughter named Vāk who was born from his body and who attracted his mind toward sex, although she was not sexually inclined towards him.}}
-
+---json
+{
+    "name":"SB 3.12.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.12.28",
+    "description":"O Vidura, we have heard that Brahmā had a daughter named Vāk who was born from his body and who attracted his mind toward sex, although she was not sexually inclined towards him."
+}
+---
 ====== SB 3.12.28 ======
 
 > वाचं दुहितरं तन्वीं स्वयम्भूर्हरतीं मनः ।

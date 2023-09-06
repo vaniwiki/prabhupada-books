@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.22~~
-~~bc:Text 22~~
-
-{{description>In length and breadth the animal's tongue resembles a broad traffic-way, and the inside of its mouth is very, very dark, like a cave in a mountain.}}
-
+---json
+{
+    "name":"SB 10.12.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 10.12.22",
+    "description":"In length and breadth the animal's tongue resembles a broad traffic-way, and the inside of its mouth is very, very dark, like a cave in a mountain."
+}
+---
 ====== SB 10.12.22 ======
 
 ===== Text =====

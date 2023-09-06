@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.48~~
-~~bc:Text 48~~
-
-{{description>Following the order of Lord Brahmā, all the Pracetās accepted the girl as their wife. From the womb of this girl, the son of Lord Brahmā named Dakṣa took birth. Dakṣa had to take birth from the womb of Māriṣā due to his disobeying and disrespecting Lord Mahādeva [Śiva]. Consequently he had to give up his body twice.}}
-
+---json
+{
+    "name":"SB 4.30.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.30.48",
+    "description":"Following the order of Lord Brahmā, all the Pracetās accepted the girl as their wife. From the womb of this girl, the son of Lord Brahmā named Dakṣa took birth. Dakṣa had to take birth from the womb of Māriṣā due to his disobeying and disrespecting Lord Mahādeva [Śiva]. Consequently he had to give up his body twice."
+}
+---
 ====== SB 4.30.48 ======
 
 > ते च ब्रह्मण आदेशान्मारिषामुपयेमिरे ।

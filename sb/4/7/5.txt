@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.5~~
-~~bc:Text 5~~
-
-{{description>Those who have had their arms cut off will have to work with the arms of Aśvinī-kumāra, and those whose hands were cut off will have to do their work with the hands of Pūṣā. The priests will also have to act in that manner. As for Bhṛgu, he will have the beard from the goat's head.}}
-
+---json
+{
+    "name":"SB 4.7.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.7.5",
+    "description":"Those who have had their arms cut off will have to work with the arms of Aśvinī-kumāra, and those whose hands were cut off will have to do their work with the hands of Pūṣā. The priests will also have to act in that manner. As for Bhṛgu, he will have the beard from the goat's head."
+}
+---
 ====== SB 4.7.5 ======
 
 > बाहुभ्यामश्विनोः पूष्णो हस्ताभ्यां कृतबाहवः ।

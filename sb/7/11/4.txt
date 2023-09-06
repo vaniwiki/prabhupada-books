@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.4~~
-~~bc:Text 4~~
-
-{{description>No one is superior to you in peaceful life and mercy, and no one knows better than you how to execute devotional service or how to become the best of the brāhmaṇas. Therefore, you know all the principles of confidential religious life, and no one knows them better than you.}}
-
+---json
+{
+    "name":"SB 7.11.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 7.11.4",
+    "description":"No one is superior to you in peaceful life and mercy, and no one knows better than you how to execute devotional service or how to become the best of the brāhmaṇas. Therefore, you know all the principles of confidential religious life, and no one knows them better than you."
+}
+---
 ====== SB 7.11.4 ======
 
 ===== Text =====

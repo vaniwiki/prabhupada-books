@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.55~~
-~~bc:Text 55~~
-
-{{description>Prahlāda Mahārāja, who was truly the supreme learned person, then addressed his class friends in very sweet language. Smiling, he began to teach them about the uselessness of the materialistic way of life. Being very kind to them, he instructed them as follows.}}
-
+---json
+{
+    "name":"SB 7.5.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 7.5.55",
+    "description":"Prahlāda Mahārāja, who was truly the supreme learned person, then addressed his class friends in very sweet language. Smiling, he began to teach them about the uselessness of the materialistic way of life. Being very kind to them, he instructed them as follows."
+}
+---
 ====== SB 7.5.55 ======
 
 ===== Text =====

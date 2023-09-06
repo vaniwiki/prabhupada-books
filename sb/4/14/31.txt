@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.31~~
-~~bc:Text 31~~
-
-{{description>All the great saintly sages immediately cried: Kill him! Kill him! He is the most dreadful, sinful person. If he lives, he will certainly turn the whole world into ashes in no time.}}
-
+---json
+{
+    "name":"SB 4.14.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.14.31",
+    "description":"All the great saintly sages immediately cried: Kill him! Kill him! He is the most dreadful, sinful person. If he lives, he will certainly turn the whole world into ashes in no time."
+}
+---
 ====== SB 4.14.31 ======
 
 > हन्यतां हन्यतामेष पापः प्रकृतिदारुणः ।

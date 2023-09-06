@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.8.22~~
-~~bc:Text 22~~
-
-{{description>At the end of Brahmā's one hundred years, when his meditation was complete, he developed the required knowledge, and as a result he could see in his heart the Supreme within himself, whom he could not see before with the greatest endeavor.}}
-
+---json
+{
+    "name":"SB 3.8.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.8.22",
+    "description":"At the end of Brahmā's one hundred years, when his meditation was complete, he developed the required knowledge, and as a result he could see in his heart the Supreme within himself, whom he could not see before with the greatest endeavor."
+}
+---
 ====== SB 3.8.22 ======
 
 > कालेन सोऽजः पुरुषायुषाभि प्रवृत्तयोगेन विरूढबोधः ।

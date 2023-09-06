@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.10~~
-~~bc:Text 10~~
-
-{{description>The Lord then said: "Take up your weapon and try again, eager as you are to conquer Me." Challenged in these words, the demon aimed his mace at the Lord and once more loudly roared.}}
-
+---json
+{
+    "name":"SB 3.19.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 3.19.10",
+    "description":"The Lord then said: "Take up your weapon and try again, eager as you are to conquer Me." Challenged in these words, the demon aimed his mace at the Lord and once more loudly roared."
+}
+---
 ====== SB 3.19.10 ======
 
 > आह चायुधमाधत्स्व घटस्व त्वं जिगीषसि ।

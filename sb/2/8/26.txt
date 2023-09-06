@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.26~~
-~~bc:Text 26~~
-
-{{description>O learned brāhmaṇa, because of my drinking the nectar of the message of the infallible Personality of Godhead, which is flowing down from the ocean of your speeches, I do not feel any sort of exhaustion due to my fasting.}}
-
+---json
+{
+    "name":"SB 2.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 2.8.26",
+    "description":"O learned brāhmaṇa, because of my drinking the nectar of the message of the infallible Personality of Godhead, which is flowing down from the ocean of your speeches, I do not feel any sort of exhaustion due to my fasting."
+}
+---
 ====== SB 2.8.26 ======
 
 > न मेऽसवः परायन्ति ब्रह्मन्ननशनादमी ।

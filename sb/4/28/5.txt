@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.5~~
-~~bc:Text 5~~
-
-{{description>When the city was thus endangered by the soldiers and Kālakanyā, King Purañjana, being overly absorbed in affection for his family, was placed in difficulty by the attack of Yavana-rāja and Kālakanyā.}}
-
+---json
+{
+    "name":"SB 4.28.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.28.5",
+    "description":"When the city was thus endangered by the soldiers and Kālakanyā, King Purañjana, being overly absorbed in affection for his family, was placed in difficulty by the attack of Yavana-rāja and Kālakanyā."
+}
+---
 ====== SB 4.28.5 ======
 
 > तस्यां प्रपीड्यमानायामभिमानी पुरञ्जनः ।

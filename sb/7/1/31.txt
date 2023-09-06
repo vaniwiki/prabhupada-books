@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.31~~
-~~bc:Text 31~~
-
-{{description>My dear King Yudhiṣṭhira, the gopīs by their lusty desires, Kaṁsa by his fear, Śiśupāla and other kings by envy, the Yadus by their familial relationship with Kṛṣṇa, you Pāṇḍavas by your great affection for Kṛṣṇa, and we, the general devotees, by our devotional service, have obtained the mercy of Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 7.1.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 7.1.31",
+    "description":"My dear King Yudhiṣṭhira, the gopīs by their lusty desires, Kaṁsa by his fear, Śiśupāla and other kings by envy, the Yadus by their familial relationship with Kṛṣṇa, you Pāṇḍavas by your great affection for Kṛṣṇa, and we, the general devotees, by our devotional service, have obtained the mercy of Kṛṣṇa."
+}
+---
 ====== SB 7.1.31 ======
 
 ===== Text =====

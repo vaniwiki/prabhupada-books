@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.1~~
-~~bc:Text 1~~
-
-{{description>The great sage Maitreya continued: My dear Vidura, thus the brāhmaṇas and the great sages again churned the two arms of King Vena's dead body. As a result a male and female couple came out of his arms.}}
-
+---json
+{
+    "name":"SB 4.15.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.15.1",
+    "description":"The great sage Maitreya continued: My dear Vidura, thus the brāhmaṇas and the great sages again churned the two arms of King Vena's dead body. As a result a male and female couple came out of his arms."
+}
+---
 ====== SB 4.15.1 ======
 
 > मैत्रेय उवाच

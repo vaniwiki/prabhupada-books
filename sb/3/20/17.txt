@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.17~~
-~~bc:Text 17~~
-
-{{description>When that Supreme Personality of Godhead who is lying on the Garbhodaka Ocean entered the heart of Brahmā, Brahmā brought his intelligence to bear, and with the intelligence invoked he began to create the universe as it was before.}}
-
+---json
+{
+    "name":"SB 3.20.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.20.17",
+    "description":"When that Supreme Personality of Godhead who is lying on the Garbhodaka Ocean entered the heart of Brahmā, Brahmā brought his intelligence to bear, and with the intelligence invoked he began to create the universe as it was before."
+}
+---
 ====== SB 3.20.17 ======
 
 > सोऽनुविष्टो भगवता यः शेते सलिलाशये ।

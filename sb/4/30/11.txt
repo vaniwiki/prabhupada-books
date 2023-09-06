@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.11~~
-~~bc:Text 11~~
-
-{{description>Because you have with pleasure accepted within your hearts the orders of your father and have executed those orders very faithfully, your attractive qualities will be celebrated all over the world.}}
-
+---json
+{
+    "name":"SB 4.30.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.30.11",
+    "description":"Because you have with pleasure accepted within your hearts the orders of your father and have executed those orders very faithfully, your attractive qualities will be celebrated all over the world."
+}
+---
 ====== SB 4.30.11 ======
 
 > यद्यूयं पितुरादेशमग्रहीष्ट मुदान्विताः ।

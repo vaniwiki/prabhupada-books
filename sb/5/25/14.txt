@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.25.14~~
-~~bc:Text 14~~
-
-{{description>My dear King, as I heard of it from my spiritual master, I have fully described to you the creation of this material world according to the fruitive activities and desires of the conditioned souls. Those conditioned souls, who are full of material desires, achieve various situations in different planetary systems, and in this way they live within this material creation.}}
-
+---json
+{
+    "name":"SB 5.25.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 5.25.14",
+    "description":"My dear King, as I heard of it from my spiritual master, I have fully described to you the creation of this material world according to the fruitive activities and desires of the conditioned souls. Those conditioned souls, who are full of material desires, achieve various situations in different planetary systems, and in this way they live within this material creation."
+}
+---
 ====== SB 5.25.14 ======
 
 ===== Text =====

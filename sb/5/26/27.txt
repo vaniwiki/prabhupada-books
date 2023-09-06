@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.27~~
-~~bc:Text 27~~
-
-{{description>In this world, some persons are professional plunderers who set fire to others' houses or administer poison to them. Also, members of the royalty or government officials sometimes plunder mercantile men by forcing them to pay income tax and by other methods. After death such demons are put into the hell known as Sārameyādana. On that planet there are 720 dogs with teeth as strong as thunderbolts. Under the orders of the agents of Yamarāja, these dogs voraciously devour such sinful people.}}
-
+---json
+{
+    "name":"SB 5.26.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 5.26.27",
+    "description":"In this world, some persons are professional plunderers who set fire to others' houses or administer poison to them. Also, members of the royalty or government officials sometimes plunder mercantile men by forcing them to pay income tax and by other methods. After death such demons are put into the hell known as Sārameyādana. On that planet there are 720 dogs with teeth as strong as thunderbolts. Under the orders of the agents of Yamarāja, these dogs voraciously devour such sinful people."
+}
+---
 ====== SB 5.26.27 ======
 
 ===== Text =====

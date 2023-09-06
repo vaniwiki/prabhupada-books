@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.54~~
-~~bc:Text 54~~
-
-{{description>The fruitive activities a living being performs, whether pious or impious, are the unseen cause for the fulfillment of his desires. This unseen cause is the root for the living entity's different bodies. Because of his intense desire, the living entity takes birth in a particular family and receives a body which is either like that of his mother or like that of his father. The gross and subtle bodies are created according to his desire.}}
-
+---json
+{
+    "name":"SB 6.1.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 6.1.54",
+    "description":"The fruitive activities a living being performs, whether pious or impious, are the unseen cause for the fulfillment of his desires. This unseen cause is the root for the living entity's different bodies. Because of his intense desire, the living entity takes birth in a particular family and receives a body which is either like that of his mother or like that of his father. The gross and subtle bodies are created according to his desire."
+}
+---
 ====== SB 6.1.54 ======
 
 ===== Text =====

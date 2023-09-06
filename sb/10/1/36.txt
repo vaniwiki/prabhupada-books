@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.36~~
-~~bc:Text 36~~
-
-{{description>Wanting to pacify Kaṁsa, who was so cruel and envious that he was shamelessly ready to kill his sister, the great soul Vasudeva, who was to be the father of Kṛṣṇa, spoke to him in the following words.}}
-
+---json
+{
+    "name":"SB 10.1.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 10.1.36",
+    "description":"Wanting to pacify Kaṁsa, who was so cruel and envious that he was shamelessly ready to kill his sister, the great soul Vasudeva, who was to be the father of Kṛṣṇa, spoke to him in the following words."
+}
+---
 ====== SB 10.1.36 ======
 
 ===== Text =====

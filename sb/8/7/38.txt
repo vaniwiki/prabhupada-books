@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.38~~
-~~bc:Text 38~~
-
-{{description>It is my duty to give protection and safety to all living entities struggling for existence. Certainly it is the duty of the master to protect his suffering dependents.}}
-
+---json
+{
+    "name":"SB 8.7.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 8.7.38",
+    "description":"It is my duty to give protection and safety to all living entities struggling for existence. Certainly it is the duty of the master to protect his suffering dependents."
+}
+---
 ====== SB 8.7.38 ======
 
 ===== Text =====

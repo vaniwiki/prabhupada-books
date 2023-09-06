@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.11~~
-~~bc:Text 11~~
-
-{{description>Queen Suruci told Dhruva Mahārāja: My dear child, you do not deserve to sit on the throne or on the lap of the King. Surely you are also the son of the King, but because you did not take your birth from my womb, you are not qualified to sit on your father's lap.}}
-
+---json
+{
+    "name":"SB 4.8.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.8.11",
+    "description":"Queen Suruci told Dhruva Mahārāja: My dear child, you do not deserve to sit on the throne or on the lap of the King. Surely you are also the son of the King, but because you did not take your birth from my womb, you are not qualified to sit on your father's lap."
+}
+---
 ====== SB 4.8.11 ======
 
 > न वत्स नृपतेर्धिष्ण्यं भवानारोढुमर्हति ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.19~~
-~~bc:Text 19~~
-
-{{description>O Vipracitti, O Rāhu, O Nemi, please hear my words! Don't fight. Stop immediately, for the present time is not in our favor.}}
-
+---json
+{
+    "name":"SB 8.21.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 8.21.19",
+    "description":"O Vipracitti, O Rāhu, O Nemi, please hear my words! Don't fight. Stop immediately, for the present time is not in our favor."
+}
+---
 ====== SB 8.21.19 ======
 
 ===== Text =====

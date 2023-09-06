@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.38~~
-~~bc:Text 38~~
-
-{{description>This most sacred narrative confers extraordinary merit, wealth, fame, longevity, and all the objects of one's desire. On the field of battle it promotes the strength of one's vital organs and organs of action. One who listens to it at the last moment of his life is transferred to the supreme abode of the Lord, O dear Śaunaka.}}
-
+---json
+{
+    "name":"SB 3.19.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 3.19.38",
+    "description":"This most sacred narrative confers extraordinary merit, wealth, fame, longevity, and all the objects of one's desire. On the field of battle it promotes the strength of one's vital organs and organs of action. One who listens to it at the last moment of his life is transferred to the supreme abode of the Lord, O dear Śaunaka."
+}
+---
 ====== SB 3.19.38 ======
 
 > एतन्महापुण्यमलं पवित्रं धन्यं यशस्यं पदमायुराशिषाम् ।

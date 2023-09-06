@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.2~~
-~~bc:Text 2~~
-
-{{description>All the Pracetā princes simply stood in the water for ten thousand years and recited the prayers given to them by Lord Śiva.}}
-
+---json
+{
+    "name":"SB 4.25.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.25.2",
+    "description":"All the Pracetā princes simply stood in the water for ten thousand years and recited the prayers given to them by Lord Śiva."
+}
+---
 ====== SB 4.25.2 ======
 
 > रुद्रगीतं भगवतः स्तोत्रं सर्वे प्रचेतसः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.13~~
-~~bc:Text 13~~
-
-{{description>Outside the ocean of liquor is another island, known as Kuśadvīpa, which is 800,000 yojanas [6,400,000 miles] wide, twice as wide as the ocean of liquor. As Śālmalīdvīpa is surrounded by a liquor ocean, Kuśadvīpa is surrounded by an ocean of liquid ghee as broad as the island itself. On Kuśadvīpa there are clumps of kuśa grass, from which the island takes its name. This kuśa grass, which was created by the demigods by the will of the Supreme Lord, appears like a second form of fire, but with very mild and pleasing flames. Its young shoots illuminate all directions.}}
-
+---json
+{
+    "name":"SB 5.20.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.20.13",
+    "description":"Outside the ocean of liquor is another island, known as Kuśadvīpa, which is 800,000 yojanas [6,400,000 miles] wide, twice as wide as the ocean of liquor. As Śālmalīdvīpa is surrounded by a liquor ocean, Kuśadvīpa is surrounded by an ocean of liquid ghee as broad as the island itself. On Kuśadvīpa there are clumps of kuśa grass, from which the island takes its name. This kuśa grass, which was created by the demigods by the will of the Supreme Lord, appears like a second form of fire, but with very mild and pleasing flames. Its young shoots illuminate all directions."
+}
+---
 ====== SB 5.20.13 ======
 
 ===== Text =====

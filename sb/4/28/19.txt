@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.19~~
-~~bc:Text 19~~
-
-{{description>King Purañjana then began to think of his past dealings with his wife. He recalled that his wife would not take her dinner until he had finished his, that she would not take her bath until he had finished his, and that she was always very much attached to him, so much so that if he would sometimes become angry and chastise her, she would simply remain silent and tolerate his misbehavior.}}
-
+---json
+{
+    "name":"SB 4.28.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.28.19",
+    "description":"King Purañjana then began to think of his past dealings with his wife. He recalled that his wife would not take her dinner until he had finished his, that she would not take her bath until he had finished his, and that she was always very much attached to him, so much so that if he would sometimes become angry and chastise her, she would simply remain silent and tolerate his misbehavior."
+}
+---
 ====== SB 4.28.19 ======
 
 > न मय्यनाशिते भुङ्क्ते नास्नाते स्नाति मत्परा ।

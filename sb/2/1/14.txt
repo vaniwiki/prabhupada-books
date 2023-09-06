@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.14~~
-~~bc:Text 14~~
-
-{{description>Mahārāja Parīkṣit, now your duration of life is limited to seven more days, so during this time you can perform all those rituals which are needed for the best purpose of your next life.}}
-
+---json
+{
+    "name":"SB 2.1.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 2.1.14",
+    "description":"Mahārāja Parīkṣit, now your duration of life is limited to seven more days, so during this time you can perform all those rituals which are needed for the best purpose of your next life."
+}
+---
 ====== SB 2.1.14 ======
 
 > तवाप्येतर्हि कौरव्य सप्ताहं जीवितावधिः ।

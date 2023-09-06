@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.43~~
-~~bc:Text 43~~
-
-{{description>The King thought to himself: Persons who have no son are certainly fortunate. They must have worshiped the Lord in their previous lives so that they would not have to suffer the unbearable unhappiness caused by a bad son.}}
-
+---json
+{
+    "name":"SB 4.13.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 4.13.43",
+    "description":"The King thought to himself: Persons who have no son are certainly fortunate. They must have worshiped the Lord in their previous lives so that they would not have to suffer the unbearable unhappiness caused by a bad son."
+}
+---
 ====== SB 4.13.43 ======
 
 > प्रायेणाभ्यर्चितो देवो येऽप्रजा गृहमेधिनः ।

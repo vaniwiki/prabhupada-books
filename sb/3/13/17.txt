@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.17~~
-~~bc:Text 17~~
-
-{{description>Brahmā thought: While I have been engaged in the process of creation, the earth has been inundated by a deluge and has gone down into the depths of the ocean. What can we do who are engaged in this matter of creation? It is best to let the Almighty Lord direct us.}}
-
+---json
+{
+    "name":"SB 3.13.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.13.17",
+    "description":"Brahmā thought: While I have been engaged in the process of creation, the earth has been inundated by a deluge and has gone down into the depths of the ocean. What can we do who are engaged in this matter of creation? It is best to let the Almighty Lord direct us."
+}
+---
 ====== SB 3.13.17 ======
 
 > सृजतो मे क्षितिर्वार्भिः प्लाव्यमाना रसां गता ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.43~~
-~~bc:Text 43~~
-
-{{description>Thereafter, Śrī Kṛṣṇa caught the demon by the hind legs and tail, twirled the demon's whole body very strongly until the demon was dead, and threw him into the top of a kapittha tree, which then fell down, along with the body of the demon, who had assumed a great form.}}
-
+---json
+{
+    "name":"SB 10.11.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 10.11.43",
+    "description":"Thereafter, Śrī Kṛṣṇa caught the demon by the hind legs and tail, twirled the demon's whole body very strongly until the demon was dead, and threw him into the top of a kapittha tree, which then fell down, along with the body of the demon, who had assumed a great form."
+}
+---
 ====== SB 10.11.43 ======
 
 ===== Text =====

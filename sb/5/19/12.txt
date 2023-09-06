@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.19.12~~
-~~bc:Text 12~~
-
-{{description>Nārada, the most powerful saintly sage, also worships Nara-Nārāyaṇa by chanting the following mantra: The Supreme Personality of Godhead is the master of the creation, maintenance and annihilation of this visible cosmic manifestation, yet He is completely free from false prestige. Although to the foolish He appears to have accepted a material body like us, He is unaffected by bodily tribulations like hunger, thirst and fatigue. Although He is the witness who sees everything, His senses are unpolluted by the objects He sees. Let me offer my respectful obeisances unto that unattached, pure witness of the world, the Supreme Soul, the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 5.19.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.19.12",
+    "description":"Nārada, the most powerful saintly sage, also worships Nara-Nārāyaṇa by chanting the following mantra: The Supreme Personality of Godhead is the master of the creation, maintenance and annihilation of this visible cosmic manifestation, yet He is completely free from false prestige. Although to the foolish He appears to have accepted a material body like us, He is unaffected by bodily tribulations like hunger, thirst and fatigue. Although He is the witness who sees everything, His senses are unpolluted by the objects He sees. Let me offer my respectful obeisances unto that unattached, pure witness of the world, the Supreme Soul, the Personality of Godhead."
+}
+---
 ====== SB 5.19.12 ======
 
 ===== Text =====

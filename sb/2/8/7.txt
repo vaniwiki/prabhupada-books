@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.7~~
-~~bc:Text 7~~
-
-{{description>O learned brāhmaṇa, the transcendental spirit soul is different from the material body. Does he acquire the body accidentally or by some cause? Will you kindly explain this, for it is known to you.}}
-
+---json
+{
+    "name":"SB 2.8.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 2.8.7",
+    "description":"O learned brāhmaṇa, the transcendental spirit soul is different from the material body. Does he acquire the body accidentally or by some cause? Will you kindly explain this, for it is known to you."
+}
+---
 ====== SB 2.8.7 ======
 
 > यदधातुमतो ब्रह्मन्देहारम्भोऽस्य धातुभिः ।

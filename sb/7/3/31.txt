@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.31~~
-~~bc:Text 31~~
-
-{{description>O my lord, Your Lordship is eternally awake, seeing everything that happens. As eternal time, you reduce the duration of life for all living entities through your different parts, such as moments, seconds, minutes and hours. Nonetheless, you are unchanged, resting in one place as the Supersoul, witness and Supreme Lord, the birthless, all-pervading controller who is the cause of life for all living entities.}}
-
+---json
+{
+    "name":"SB 7.3.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 7.3.31",
+    "description":"O my lord, Your Lordship is eternally awake, seeing everything that happens. As eternal time, you reduce the duration of life for all living entities through your different parts, such as moments, seconds, minutes and hours. Nonetheless, you are unchanged, resting in one place as the Supersoul, witness and Supreme Lord, the birthless, all-pervading controller who is the cause of life for all living entities."
+}
+---
 ====== SB 7.3.31 ======
 
 ===== Text =====

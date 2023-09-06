@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.43~~
-~~bc:Text 43~~
-
-{{description>The Supreme Personality of Godhead said: O most fortunate Prācetasa, because of your great faith in Me, you have attained the supreme devotional ecstasy. Indeed, because of your austerities, combined with exalted devotion, your life is now successful. You have achieved complete perfection.}}
-
+---json
+{
+    "name":"SB 6.4.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 6.4.43",
+    "description":"The Supreme Personality of Godhead said: O most fortunate Prācetasa, because of your great faith in Me, you have attained the supreme devotional ecstasy. Indeed, because of your austerities, combined with exalted devotion, your life is now successful. You have achieved complete perfection."
+}
+---
 ====== SB 6.4.43 ======
 
 ===== Text =====

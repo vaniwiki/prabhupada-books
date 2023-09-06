@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.19~~
-~~bc:Text 19~~
-
-{{description>If a person unaware of the effective potency of a certain medicine takes that medicine or is forced to take it, it will act even without his knowledge because its potency does not depend on the patient's understanding. Similarly, even though one does not know the value of chanting the holy name of the Lord, if one chants knowingly or unknowingly, the chanting will be very effective.}}
-
+---json
+{
+    "name":"SB 6.2.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 6.2.19",
+    "description":"If a person unaware of the effective potency of a certain medicine takes that medicine or is forced to take it, it will act even without his knowledge because its potency does not depend on the patient's understanding. Similarly, even though one does not know the value of chanting the holy name of the Lord, if one chants knowingly or unknowingly, the chanting will be very effective."
+}
+---
 ====== SB 6.2.19 ======
 
 ===== Text =====

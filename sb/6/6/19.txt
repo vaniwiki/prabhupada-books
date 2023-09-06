@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.19~~
-~~bc:Text 19~~
-
-{{description>The prajāpati Aṅgirā had two wives, named Svadhā and Satī. The wife named Svadhā accepted all the Pitās as her sons, and Satī accepted the Atharvāṅgirasa Veda as her son.}}
-
+---json
+{
+    "name":"SB 6.6.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 6.6.19",
+    "description":"The prajāpati Aṅgirā had two wives, named Svadhā and Satī. The wife named Svadhā accepted all the Pitās as her sons, and Satī accepted the Atharvāṅgirasa Veda as her son."
+}
+---
 ====== SB 6.6.19 ======
 
 ===== Text =====

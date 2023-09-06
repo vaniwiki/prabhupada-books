@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.12.15~~
-~~bc:Text 15~~
-
-{{description>My dear heroic King, due to my past sincere service to the Lord, I could remember everything of my past life even while in the body of a deer. Because I am aware of the falldown in my past life, I always keep myself separate from the association of ordinary men. Being afraid of their bad, materialistic association, I wander alone unnoticed by others.}}
-
+---json
+{
+    "name":"SB 5.12.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.12.15",
+    "description":"My dear heroic King, due to my past sincere service to the Lord, I could remember everything of my past life even while in the body of a deer. Because I am aware of the falldown in my past life, I always keep myself separate from the association of ordinary men. Being afraid of their bad, materialistic association, I wander alone unnoticed by others."
+}
+---
 ====== SB 5.12.15 ======
 
 ===== Text =====

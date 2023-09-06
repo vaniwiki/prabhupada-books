@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.29~~
-~~bc:Text 29~~
-
-{{description>This world is a product of fruitive activities. Therefore you may imperceptibly attack people in general. Helped by my soldiers, you can kill them without opposition.}}
-
+---json
+{
+    "name":"SB 4.27.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.27.29",
+    "description":"This world is a product of fruitive activities. Therefore you may imperceptibly attack people in general. Helped by my soldiers, you can kill them without opposition."
+}
+---
 ====== SB 4.27.29 ======
 
 > त्वमव्यक्तगतिर्भुङ्क्ष्व लोकं कर्मविनिर्मितम् ।

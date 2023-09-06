@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.33~~
-~~bc:Text 33~~
-
-{{description>When Indra saw the thunderbolt return from the enemy, he was very much afraid. He began to wonder whether this had happened because of some miraculous superior power.}}
-
+---json
+{
+    "name":"SB 8.11.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 8.11.33",
+    "description":"When Indra saw the thunderbolt return from the enemy, he was very much afraid. He began to wonder whether this had happened because of some miraculous superior power."
+}
+---
 ====== SB 8.11.33 ======
 
 ===== Text =====

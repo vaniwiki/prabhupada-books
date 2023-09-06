@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.27~~
-~~bc:Text 27~~
-
-{{description>After hearing the statement of Kālakanyā, daughter of Time, the King of the Yavanas began to smile and devise a means for executing his confidential duty on behalf of providence. He then addressed Kālakanyā as follows.}}
-
+---json
+{
+    "name":"SB 4.27.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.27.27",
+    "description":"After hearing the statement of Kālakanyā, daughter of Time, the King of the Yavanas began to smile and devise a means for executing his confidential duty on behalf of providence. He then addressed Kālakanyā as follows."
+}
+---
 ====== SB 4.27.27 ======
 
 > कालकन्योदितवचो निशम्य यवनेश्वरः ।

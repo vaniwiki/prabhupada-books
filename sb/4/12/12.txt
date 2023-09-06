@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.12~~
-~~bc:Text 12~~
-
-{{description>Dhruva Mahārāja was endowed with all godly qualities; he was very respectful to the devotees of the Supreme Lord and very kind to the poor and innocent, and he protected religious principles. With all these qualifications, he was considered to be the direct father of all the citizens.}}
-
+---json
+{
+    "name":"SB 4.12.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.12.12",
+    "description":"Dhruva Mahārāja was endowed with all godly qualities; he was very respectful to the devotees of the Supreme Lord and very kind to the poor and innocent, and he protected religious principles. With all these qualifications, he was considered to be the direct father of all the citizens."
+}
+---
 ====== SB 4.12.12 ======
 
 > तमेवं शीलसम्पन्नं ब्रह्मण्यं दीनवत्सलम् ।

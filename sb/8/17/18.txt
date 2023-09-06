@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.18~~
-~~bc:Text 18~~
-
-{{description>You have prayed to Me and properly worshiped Me by performing the great payo-vrata ceremony for the sake of protecting your sons. Because of Kaśyapa Muni's austerities, I shall agree to become your son and thus protect your other sons.}}
-
+---json
+{
+    "name":"SB 8.17.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 8.17.18",
+    "description":"You have prayed to Me and properly worshiped Me by performing the great payo-vrata ceremony for the sake of protecting your sons. Because of Kaśyapa Muni's austerities, I shall agree to become your son and thus protect your other sons."
+}
+---
 ====== SB 8.17.18 ======
 
 ===== Text =====

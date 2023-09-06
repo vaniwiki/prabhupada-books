@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.9~~
-~~bc:Text 9~~
-
-{{description>When the demoniac followers of Mahārāja Bali saw that their master, who had been determined in performing sacrifice, had lost all his possessions to Vāmanadeva, who had taken them away on the plea of begging three paces of land, they were very angry and spoke as follows.}}
-
+---json
+{
+    "name":"SB 8.21.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 8.21.9",
+    "description":"When the demoniac followers of Mahārāja Bali saw that their master, who had been determined in performing sacrifice, had lost all his possessions to Vāmanadeva, who had taken them away on the plea of begging three paces of land, they were very angry and spoke as follows."
+}
+---
 ====== SB 8.21.9 ======
 
 ===== Text =====

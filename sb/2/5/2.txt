@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.2~~
-~~bc:Text 2~~
-
-{{description>My dear father, please describe factually the symptoms of this manifest world. What is its background? How is it created? How is it conserved? And under whose control is all this being done?}}
-
+---json
+{
+    "name":"SB 2.5.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 2.5.2",
+    "description":"My dear father, please describe factually the symptoms of this manifest world. What is its background? How is it created? How is it conserved? And under whose control is all this being done?"
+}
+---
 ====== SB 2.5.2 ======
 
 > यद्रूपं यदधिष्ठानं यतः सृष्टमिदं प्रभो ।

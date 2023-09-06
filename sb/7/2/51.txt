@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.51~~
-~~bc:Text 51~~
-
-{{description>While wandering in the forest, the hunter saw a pair of kuliṅga birds. Of the two, the female was captivated by the hunter's lure.}}
-
+---json
+{
+    "name":"SB 7.2.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 7.2.51",
+    "description":"While wandering in the forest, the hunter saw a pair of kuliṅga birds. Of the two, the female was captivated by the hunter's lure."
+}
+---
 ====== SB 7.2.51 ======
 
 ===== Text =====

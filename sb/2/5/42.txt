@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.42~~
-~~bc:Text 42~~
-
-{{description>Others may divide the whole planetary system into three divisions, namely the lower planetary systems on the legs [up to the earth], the middle planetary systems on the navel, and the upper planetary systems [Svarloka] from the chest to the head of the Supreme Personality.}}
-
+---json
+{
+    "name":"SB 2.5.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 2.5.42",
+    "description":"Others may divide the whole planetary system into three divisions, namely the lower planetary systems on the legs [up to the earth], the middle planetary systems on the navel, and the upper planetary systems [Svarloka] from the chest to the head of the Supreme Personality."
+}
+---
 ====== SB 2.5.42 ======
 
 > भूर्लोकः कल्पितः पद्भ्यां भुवर्लोकोऽस्य नाभितः ।

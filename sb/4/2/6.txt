@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.6~~
-~~bc:Text 6~~
-
-{{description>Influenced by his personal bodily luster, all the fire-gods and other participants in that great assembly, with the exceptions of Lord Brahmā and Lord Śiva, gave up their own sitting places and stood in respect for Dakṣa.}}
-
+---json
+{
+    "name":"SB 4.2.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.2.6",
+    "description":"Influenced by his personal bodily luster, all the fire-gods and other participants in that great assembly, with the exceptions of Lord Brahmā and Lord Śiva, gave up their own sitting places and stood in respect for Dakṣa."
+}
+---
 ====== SB 4.2.6 ======
 
 > उदतिष्ठन्सदस्यास्ते स्वधिष्ण्येभ्यः सहाग्नयः ।

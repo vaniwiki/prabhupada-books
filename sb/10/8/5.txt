@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.5~~
-~~bc:Text 5~~
-
-{{description>O great saintly person, you have compiled the astrological knowledge by which one can understand past and present unseen things. By the strength of this knowledge, any human being can understand what he has done in his past life and how it affects his present life. This is known to you.}}
-
+---json
+{
+    "name":"SB 10.8.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 10.8.5",
+    "description":"O great saintly person, you have compiled the astrological knowledge by which one can understand past and present unseen things. By the strength of this knowledge, any human being can understand what he has done in his past life and how it affects his present life. This is known to you."
+}
+---
 ====== SB 10.8.5 ======
 
 ===== Text =====

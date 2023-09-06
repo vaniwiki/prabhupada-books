@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.6~~
-~~bc:Text 6~~
-
-{{description>Being separated from its flock and distressed by its miscarriage, the black doe, having crossed the river, was very much distressed. Indeed, it fell down in a cave and died immediately.}}
-
+---json
+{
+    "name":"SB 5.8.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.8.6",
+    "description":"Being separated from its flock and distressed by its miscarriage, the black doe, having crossed the river, was very much distressed. Indeed, it fell down in a cave and died immediately."
+}
+---
 ====== SB 5.8.6 ======
 
 ===== Text =====

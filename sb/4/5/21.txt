@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.21~~
-~~bc:Text 21~~
-
-{{description>Just as Baladeva knocked out the teeth of Dantavakra, the King of Kaliṅga, during the gambling match at the marriage ceremony of Aniruddha, Vīrabhadra knocked out the teeth of both Dakṣa, who had shown them while cursing Lord Śiva, and Pūṣā, who by smiling sympathetically had also shown his teeth.}}
-
+---json
+{
+    "name":"SB 4.5.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.5.21",
+    "description":"Just as Baladeva knocked out the teeth of Dantavakra, the King of Kaliṅga, during the gambling match at the marriage ceremony of Aniruddha, Vīrabhadra knocked out the teeth of both Dakṣa, who had shown them while cursing Lord Śiva, and Pūṣā, who by smiling sympathetically had also shown his teeth."
+}
+---
 ====== SB 4.5.21 ======
 
 > पूष्णो ह्यपातयद्दन्तान्कालिङ्गस्य यथा बलः ।

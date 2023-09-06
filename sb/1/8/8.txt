@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.8~~
-~~bc:Text 8~~
-
-{{description>As soon as He seated Himself on the chariot to start for Dvārakā, He saw Uttarā hurrying toward Him in fear.}}
-
+---json
+{
+    "name":"SB 1.8.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 1.8.8",
+    "description":"As soon as He seated Himself on the chariot to start for Dvārakā, He saw Uttarā hurrying toward Him in fear."
+}
+---
 ====== SB 1.8.8 ======
 
 > गन्तुं कृतमतिर्ब्रह्मन्द्वारकां रथमास्थितः ।

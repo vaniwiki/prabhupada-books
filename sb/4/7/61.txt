@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.61~~
-~~bc:Text 61~~
-
-{{description>The great sage Maitreya concluded: If one hears and again narrates, with faith and devotion, this story of the Dakṣa yajña as it was conducted by the Supreme Personality of Godhead, Viṣṇu, then certainly one is cleared of all contamination of material existence, O son of Kuru.}}
-
+---json
+{
+    "name":"SB 4.7.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 4.7.61",
+    "description":"The great sage Maitreya concluded: If one hears and again narrates, with faith and devotion, this story of the Dakṣa yajña as it was conducted by the Supreme Personality of Godhead, Viṣṇu, then certainly one is cleared of all contamination of material existence, O son of Kuru."
+}
+---
 ====== SB 4.7.61 ======
 
 > इदं पवित्रं परमीशचेष्टितं यशस्यमायुष्यमघौघमर्षणम् ।

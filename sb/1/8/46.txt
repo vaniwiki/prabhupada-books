@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.46~~
-~~bc:Text 46~~
-
-{{description>King Yudhiṣṭhira, who was much aggrieved, could not be convinced, despite instructions by great sages headed by Vyāsa and the Lord Kṛṣṇa Himself, the performer of superhuman feats, and despite all historical evidence.}}
-
+---json
+{
+    "name":"SB 1.8.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 1.8.46",
+    "description":"King Yudhiṣṭhira, who was much aggrieved, could not be convinced, despite instructions by great sages headed by Vyāsa and the Lord Kṛṣṇa Himself, the performer of superhuman feats, and despite all historical evidence."
+}
+---
 ====== SB 1.8.46 ======
 
 > व्यासाद्यैरीश्वरेहाज्ञैः कृष्णेनाद्भुतकर्मणा ।

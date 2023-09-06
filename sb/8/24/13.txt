@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.13~~
-~~bc:Text 13~~
-
-{{description>Satyavrata, the King of Draviḍadeśa, threw the fish into the water of the river along with the water in his palm, O King Parīkṣit, descendant of Bharata.}}
-
+---json
+{
+    "name":"SB 8.24.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.24.13",
+    "description":"Satyavrata, the King of Draviḍadeśa, threw the fish into the water of the river along with the water in his palm, O King Parīkṣit, descendant of Bharata."
+}
+---
 ====== SB 8.24.13 ======
 
 ===== Text =====

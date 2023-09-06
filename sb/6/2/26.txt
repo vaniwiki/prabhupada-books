@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.26~~
-~~bc:Text 26~~
-
-{{description>Ajāmila said: Alas, being a servant of my senses, how degraded I became! I fell down from my position as a duly qualified brāhmaṇa and begot children in the womb of a prostitute.}}
-
+---json
+{
+    "name":"SB 6.2.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 6.2.26",
+    "description":"Ajāmila said: Alas, being a servant of my senses, how degraded I became! I fell down from my position as a duly qualified brāhmaṇa and begot children in the womb of a prostitute."
+}
+---
 ====== SB 6.2.26 ======
 
 ===== Text =====

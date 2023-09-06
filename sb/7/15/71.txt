@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.71~~
-~~bc:Text 71~~
-
-{{description>Once there was a saṅkīrtana festival to glorify the Supreme Lord in an assembly of the demigods, and the Gandharvas and Apsarās were invited by the prajāpatis to take part in it.}}
-
+---json
+{
+    "name":"SB 7.15.71",
+    "h1":"Text 71",
+    "title":" Śrīmad Bhāgavatam 7.15.71",
+    "description":"Once there was a saṅkīrtana festival to glorify the Supreme Lord in an assembly of the demigods, and the Gandharvas and Apsarās were invited by the prajāpatis to take part in it."
+}
+---
 ====== SB 7.15.71 ======
 
 ===== Text =====

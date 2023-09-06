@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.46~~
-~~bc:Text 46~~
-
-{{description>They all had performed all the principles of religion and as a result rightly decided that the lotus feet of the Lord Śrī Kṛṣṇa are the supreme goal of all. Therefore they meditated upon His feet without interruption.}}
-
+---json
+{
+    "name":"SB 1.15.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 1.15.46",
+    "description":"They all had performed all the principles of religion and as a result rightly decided that the lotus feet of the Lord Śrī Kṛṣṇa are the supreme goal of all. Therefore they meditated upon His feet without interruption."
+}
+---
 ====== SB 1.15.46 ======
 
 > ते साधुकृतसर्वार्था ज्ञात्वात्यन्तिकमात्मनः ।

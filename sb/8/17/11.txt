@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.11~~
-~~bc:Text 11~~
-
-{{description>Śukadeva Gosvāmī said: O King Parīkṣit, best of the Bharata dynasty, when the lotus-eyed Lord, the Supersoul of all living entities, was thus worshiped by Aditi, He replied as follows.}}
-
+---json
+{
+    "name":"SB 8.17.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 8.17.11",
+    "description":"Śukadeva Gosvāmī said: O King Parīkṣit, best of the Bharata dynasty, when the lotus-eyed Lord, the Supersoul of all living entities, was thus worshiped by Aditi, He replied as follows."
+}
+---
 ====== SB 8.17.11 ======
 
 ===== Text =====

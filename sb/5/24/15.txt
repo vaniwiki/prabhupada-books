@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.15~~
-~~bc:Text 15~~
-
-{{description>When the Sudarśana disc enters those provinces, the pregnant wives of the demons all have miscarriages due to fear of its effulgence.}}
-
+---json
+{
+    "name":"SB 5.24.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.24.15",
+    "description":"When the Sudarśana disc enters those provinces, the pregnant wives of the demons all have miscarriages due to fear of its effulgence."
+}
+---
 ====== SB 5.24.15 ======
 
 ===== Text =====

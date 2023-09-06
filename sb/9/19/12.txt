@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.19.12~~
-~~bc:Text 12~~
-
-{{description>O my dear wife with beautiful eyebrows, I am exactly like that he-goat, for I am so poor in intelligence that I am captivated by your beauty and have forgotten the real task of self-realization.}}
-
+---json
+{
+    "name":"SB 9.19.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 9.19.12",
+    "description":"O my dear wife with beautiful eyebrows, I am exactly like that he-goat, for I am so poor in intelligence that I am captivated by your beauty and have forgotten the real task of self-realization."
+}
+---
 ====== SB 9.19.12 ======
 
 ===== Text =====

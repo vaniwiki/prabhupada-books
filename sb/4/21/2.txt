@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.2~~
-~~bc:Text 2~~
-
-{{description>Fragrant water distilled from sandalwood and aguru herb was sprinkled everywhere on the lanes, roads and small parks throughout the city, and everywhere were decorations of unbroken fruits, flowers, wetted grains, varied minerals, and lamps, all presented as auspicious paraphernalia.}}
-
+---json
+{
+    "name":"SB 4.21.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.21.2",
+    "description":"Fragrant water distilled from sandalwood and aguru herb was sprinkled everywhere on the lanes, roads and small parks throughout the city, and everywhere were decorations of unbroken fruits, flowers, wetted grains, varied minerals, and lamps, all presented as auspicious paraphernalia."
+}
+---
 ====== SB 4.21.2 ======
 
 > चन्दनागुरुतोयार्द्र रथ्याचत्वरमार्गवत् ।

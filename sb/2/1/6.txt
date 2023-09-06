@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.6~~
-~~bc:Text 6~~
-
-{{description>The highest perfection of human life, achieved either by complete knowledge of matter and spirit, by practice of mystic powers, or by perfect discharge of occupational duty, is to remember the Personality of Godhead at the end of life.}}
-
+---json
+{
+    "name":"SB 2.1.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 2.1.6",
+    "description":"The highest perfection of human life, achieved either by complete knowledge of matter and spirit, by practice of mystic powers, or by perfect discharge of occupational duty, is to remember the Personality of Godhead at the end of life."
+}
+---
 ====== SB 2.1.6 ======
 
 > एतावान्साङ्ख्ययोगाभ्यां स्वधर्मपरिनिष्ठया ।

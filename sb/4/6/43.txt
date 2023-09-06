@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.43~~
-~~bc:Text 43~~
-
-{{description>My dear lord, you create this cosmic manifestation, maintain it, and annihilate it by expansion of your personality, exactly as a spider creates, maintains and winds up its web.}}
-
+---json
+{
+    "name":"SB 4.6.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 4.6.43",
+    "description":"My dear lord, you create this cosmic manifestation, maintain it, and annihilate it by expansion of your personality, exactly as a spider creates, maintains and winds up its web."
+}
+---
 ====== SB 4.6.43 ======
 
 > त्वमेव भगवन्नेतच्छिवशक्त्योः स्वरूपयोः ।

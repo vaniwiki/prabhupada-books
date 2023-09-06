@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.36~~
-~~bc:Text 36~~
-
-{{description>From the bumblebee I have learned to be unattached to accumulating money, for although money is as good as honey, anyone can kill its owner and take it away.}}
-
+---json
+{
+    "name":"SB 7.13.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 7.13.36",
+    "description":"From the bumblebee I have learned to be unattached to accumulating money, for although money is as good as honey, anyone can kill its owner and take it away."
+}
+---
 ====== SB 7.13.36 ======
 
 ===== Text =====

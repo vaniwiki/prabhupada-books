@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.32~~
-~~bc:Text 32~~
-
-{{description>About her hips she wore a girdle of gold, set with numerous jewels, and she was further adorned with a precious pearl necklace and auspicious substances.}}
-
+---json
+{
+    "name":"SB 3.23.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.23.32",
+    "description":"About her hips she wore a girdle of gold, set with numerous jewels, and she was further adorned with a precious pearl necklace and auspicious substances."
+}
+---
 ====== SB 3.23.32 ======
 
 > श्रोण्योरध्यस्तया काञ्च्या काञ्चन्या बहुरत्नया ।

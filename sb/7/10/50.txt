@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.50~~
-~~bc:Text 50~~
-
-{{description>Exalted persons like Lord Śiva and Lord Brahmā could not properly describe the truth of the Supreme Personality of Godhead, Kṛṣṇa. May the Lord, who is always worshiped as the protector of all devotees by great saints who observe vows of silence, meditation, devotional service and renunciation, be pleased with us.}}
-
+---json
+{
+    "name":"SB 7.10.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 7.10.50",
+    "description":"Exalted persons like Lord Śiva and Lord Brahmā could not properly describe the truth of the Supreme Personality of Godhead, Kṛṣṇa. May the Lord, who is always worshiped as the protector of all devotees by great saints who observe vows of silence, meditation, devotional service and renunciation, be pleased with us."
+}
+---
 ====== SB 7.10.50 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.71~~
-~~bc:Text 71~~
-
-{{description>O best of the brāhmaṇas, you should therefore go immediately to King Ambarīṣa, the son of Mahārāja Nābhāga. I wish you all good fortune. If you can satisfy Mahārāja Ambarīṣa, then there will be peace for you.}}
-
+---json
+{
+    "name":"SB 9.4.71",
+    "h1":"Text 71",
+    "title":" Śrīmad Bhāgavatam 9.4.71",
+    "description":"O best of the brāhmaṇas, you should therefore go immediately to King Ambarīṣa, the son of Mahārāja Nābhāga. I wish you all good fortune. If you can satisfy Mahārāja Ambarīṣa, then there will be peace for you."
+}
+---
 ====== SB 9.4.71 ======
 
 ===== Text =====

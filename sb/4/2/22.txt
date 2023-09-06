@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.22~~
-~~bc:Text 22~~
-
-{{description>Pretentiously religious householder life, in which one is attracted to material happiness and thus also attracted to the superficial explanation of the Vedas, robs one of all intelligence and attaches one to fruitive activities as all in all.}}
-
+---json
+{
+    "name":"SB 4.2.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.2.22",
+    "description":"Pretentiously religious householder life, in which one is attracted to material happiness and thus also attracted to the superficial explanation of the Vedas, robs one of all intelligence and attaches one to fruitive activities as all in all."
+}
+---
 ====== SB 4.2.22 ======
 
 > गृहेषु कूटधर्मेषु सक्तो ग्राम्यसुखेच्छया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.35~~
-~~bc:Text 35~~
-
-{{description>Lord Śrī Kṛṣṇa said: O Arjuna, you should not show mercy by releasing this relative of a brāhmaṇa [brahma-bandhu], for he has killed innocent boys in their sleep.}}
-
+---json
+{
+    "name":"SB 1.7.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 1.7.35",
+    "description":"Lord Śrī Kṛṣṇa said: O Arjuna, you should not show mercy by releasing this relative of a brāhmaṇa [brahma-bandhu], for he has killed innocent boys in their sleep."
+}
+---
 ====== SB 1.7.35 ======
 
 > मैनं पार्थार्हसि त्रातुं ब्रह्मबन्धुमिमं जहि ।

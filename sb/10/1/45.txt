@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.45~~
-~~bc:Text 45~~
-
-{{description>As your younger sister, this poor girl Devakī is like your own daughter and deserves to be affectionately maintained. You are merciful, and therefore you should not kill her. Indeed, she deserves your affection.}}
-
+---json
+{
+    "name":"SB 10.1.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 10.1.45",
+    "description":"As your younger sister, this poor girl Devakī is like your own daughter and deserves to be affectionately maintained. You are merciful, and therefore you should not kill her. Indeed, she deserves your affection."
+}
+---
 ====== SB 10.1.45 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.52~~
-~~bc:Text 52~~
-
-{{description>The foolish embodied living entity, inept at controlling his senses and mind, is forced to act according to the influence of the modes of material nature, against his desires. He is like a silkworm that uses its own saliva to create a cocoon and then becomes trapped in it, with no possibility of getting out. The living entity traps himself in a network of his own fruitive activities and then can find no way to release himself. Thus he is always bewildered, and repeatedly he dies.}}
-
+---json
+{
+    "name":"SB 6.1.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 6.1.52",
+    "description":"The foolish embodied living entity, inept at controlling his senses and mind, is forced to act according to the influence of the modes of material nature, against his desires. He is like a silkworm that uses its own saliva to create a cocoon and then becomes trapped in it, with no possibility of getting out. The living entity traps himself in a network of his own fruitive activities and then can find no way to release himself. Thus he is always bewildered, and repeatedly he dies."
+}
+---
 ====== SB 6.1.52 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.32~~
-~~bc:Text 32~~
-
-{{description>There is no stronger obstruction to one's self-interest than thinking other subject matters to be more pleasing than one's self-realization.}}
-
+---json
+{
+    "name":"SB 4.22.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.22.32",
+    "description":"There is no stronger obstruction to one's self-interest than thinking other subject matters to be more pleasing than one's self-realization."
+}
+---
 ====== SB 4.22.32 ======
 
 > नातः परतरो लोके पुंसः स्वार्थव्यतिक्रमः ।

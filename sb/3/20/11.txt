@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.11~~
-~~bc:Text 11~~
-
-{{description>Did they evolve the creation in conjunction with their respective wives, did they remain independent in their action, or did they all jointly produce it?}}
-
+---json
+{
+    "name":"SB 3.20.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.20.11",
+    "description":"Did they evolve the creation in conjunction with their respective wives, did they remain independent in their action, or did they all jointly produce it?"
+}
+---
 ====== SB 3.20.11 ======
 
 > सद्वितीयाः किमसृजन्स्वतन्त्रा उत कर्मसु ।

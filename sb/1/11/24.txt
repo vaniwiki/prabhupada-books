@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.24~~
-~~bc:Text 24~~
-
-{{description>When Lord Kṛṣṇa passed over the public roads, all the ladies from the respectable families of Dvārakā went up to the roofs of their palaces just to have a look at the Lord. They considered this to be the greatest festival.}}
-
+---json
+{
+    "name":"SB 1.11.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 1.11.24",
+    "description":"When Lord Kṛṣṇa passed over the public roads, all the ladies from the respectable families of Dvārakā went up to the roofs of their palaces just to have a look at the Lord. They considered this to be the greatest festival."
+}
+---
 ====== SB 1.11.24 ======
 
 > राजमार्गं गते कृष्णे द्वारकायाः कुलस्त्रियः ।

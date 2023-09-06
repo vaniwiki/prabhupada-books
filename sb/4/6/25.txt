@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.25~~
-~~bc:Text 25~~
-
-{{description>My dear Kṣattā, Vidura, the celestial damsels come down to those rivers in their airplanes with their husbands, and after sexual enjoyment, they enter the water and enjoy sprinkling their husbands with water.}}
-
+---json
+{
+    "name":"SB 4.6.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.6.25",
+    "description":"My dear Kṣattā, Vidura, the celestial damsels come down to those rivers in their airplanes with their husbands, and after sexual enjoyment, they enter the water and enjoy sprinkling their husbands with water."
+}
+---
 ====== SB 4.6.25 ======
 
 > ययोः सुरस्त्रियः क्षत्तरवरुह्य स्वधिष्ण्यतः ।

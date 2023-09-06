@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.37~~
-~~bc:Text 37~~
-
-{{description>O my Lord, You have executed all duties Yourself. Are you leaving us today, though we are completely dependent on Your mercy and have no one else to protect us, now when all kings are at enmity with us?}}
-
+---json
+{
+    "name":"SB 1.8.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 1.8.37",
+    "description":"O my Lord, You have executed all duties Yourself. Are you leaving us today, though we are completely dependent on Your mercy and have no one else to protect us, now when all kings are at enmity with us?"
+}
+---
 ====== SB 1.8.37 ======
 
 > अप्यद्य नस्त्वं स्वकृतेहित प्रभो जिहाससि स्वित्सुहृदोऽनुजीविनः ।

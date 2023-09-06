@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.10~~
-~~bc:Text 10~~
-
-{{description>That very Śrīmad-Bhāgavatam I shall recite before you because you are the most sincere devotee of Lord Kṛṣṇa. One who gives full attention and respect to hearing Śrīmad-Bhāgavatam achieves unflinching faith in the Supreme Lord, the giver of salvation.}}
-
+---json
+{
+    "name":"SB 2.1.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 2.1.10",
+    "description":"That very Śrīmad-Bhāgavatam I shall recite before you because you are the most sincere devotee of Lord Kṛṣṇa. One who gives full attention and respect to hearing Śrīmad-Bhāgavatam achieves unflinching faith in the Supreme Lord, the giver of salvation."
+}
+---
 ====== SB 2.1.10 ======
 
 > तदहं तेऽभिधास्यामि महापौरुषिको भवान् ।

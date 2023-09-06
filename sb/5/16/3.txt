@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.3~~
-~~bc:Text 3~~
-
-{{description>When the mind is fixed upon the Supreme Personality of Godhead in His external feature made of the material modes of nature—the gross universal form—it is brought to the platform of pure goodness. In that transcendental position, one can understand the Supreme Personality of Godhead, Vāsudeva, who in His subtler form is self-effulgent and beyond the modes of nature. O my lord, please describe vividly how that form, which covers the entire universe, is perceived.}}
-
+---json
+{
+    "name":"SB 5.16.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.16.3",
+    "description":"When the mind is fixed upon the Supreme Personality of Godhead in His external feature made of the material modes of nature—the gross universal form—it is brought to the platform of pure goodness. In that transcendental position, one can understand the Supreme Personality of Godhead, Vāsudeva, who in His subtler form is self-effulgent and beyond the modes of nature. O my lord, please describe vividly how that form, which covers the entire universe, is perceived."
+}
+---
 ====== SB 5.16.3 ======
 
 ===== Text =====

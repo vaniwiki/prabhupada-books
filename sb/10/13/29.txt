@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.29~~
-~~bc:Text 29~~
-
-{{description>Thereafter, while pasturing atop Govardhana Hill, the cows looked down to find some green grass and saw their calves pasturing near Vṛndāvana, not very far away.}}
-
+---json
+{
+    "name":"SB 10.13.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 10.13.29",
+    "description":"Thereafter, while pasturing atop Govardhana Hill, the cows looked down to find some green grass and saw their calves pasturing near Vṛndāvana, not very far away."
+}
+---
 ====== SB 10.13.29 ======
 
 ===== Text =====

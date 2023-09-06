@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.19~~
-~~bc:Text 19~~
-
-{{description>Dharma [in the form of a bull] asked: Madam, are you not hale and hearty? Why are you covered with the shadow of grief? It appears by your face that you have become black. Are you suffering from some internal disease, or are you thinking of some relative who is away in a distant place?}}
-
+---json
+{
+    "name":"SB 1.16.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.16.19",
+    "description":"Dharma [in the form of a bull] asked: Madam, are you not hale and hearty? Why are you covered with the shadow of grief? It appears by your face that you have become black. Are you suffering from some internal disease, or are you thinking of some relative who is away in a distant place?"
+}
+---
 ====== SB 1.16.19 ======
 
 > धर्म उवाच

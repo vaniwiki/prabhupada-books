@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.6~~
-~~bc:Text 6~~
-
-{{description>In the form of King Pṛthu, the Supreme Personality of Godhead has appeared through a part of His potency to protect the people of the world. The goddess of fortune is the constant companion of the Lord, and therefore she has incarnated partially as Arci to become King Pṛthu's queen.}}
-
+---json
+{
+    "name":"SB 4.15.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.15.6",
+    "description":"In the form of King Pṛthu, the Supreme Personality of Godhead has appeared through a part of His potency to protect the people of the world. The goddess of fortune is the constant companion of the Lord, and therefore she has incarnated partially as Arci to become King Pṛthu's queen."
+}
+---
 ====== SB 4.15.6 ======
 
 > एष साक्षाद्धरेरंशोजातो लोकरिरक्षया ।

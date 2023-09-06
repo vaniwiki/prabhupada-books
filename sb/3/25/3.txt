@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.25.3~~
-~~bc:Text 3~~
-
-{{description>Therefore please precisely describe all the activities and pastimes of the Personality of Godhead, who is full of self-desire and who assumes all these activities by His internal potency.}}
-
+---json
+{
+    "name":"SB 3.25.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.25.3",
+    "description":"Therefore please precisely describe all the activities and pastimes of the Personality of Godhead, who is full of self-desire and who assumes all these activities by His internal potency."
+}
+---
 ====== SB 3.25.3 ======
 
 > यद्यद्विधत्ते भगवान्स्वच्छन्दात्मात्ममायया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: Thereafter, the Supreme Personality of Godhead, Lord Rāmacandra, accepted an ācārya and performed sacrifices [yajñas] with opulent paraphernalia. Thus He Himself worshiped Himself, for He is the Supreme Lord of all demigods.}}
-
+---json
+{
+    "name":"SB 9.11.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.11.1",
+    "description":"Śukadeva Gosvāmī said: Thereafter, the Supreme Personality of Godhead, Lord Rāmacandra, accepted an ācārya and performed sacrifices [yajñas] with opulent paraphernalia. Thus He Himself worshiped Himself, for He is the Supreme Lord of all demigods."
+}
+---
 ====== SB 9.11.1 ======
 
 ===== Text =====

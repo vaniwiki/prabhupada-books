@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.29~~
-~~bc:Text 29~~
-
-{{description>To worship Lord Kṛṣṇa, Mahārāja Ambarīṣa, along with his queen, who was equally qualified, observed the vow of Ekādaśī and Dvādaśī for one year.}}
-
+---json
+{
+    "name":"SB 9.4.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 9.4.29",
+    "description":"To worship Lord Kṛṣṇa, Mahārāja Ambarīṣa, along with his queen, who was equally qualified, observed the vow of Ekādaśī and Dvādaśī for one year."
+}
+---
 ====== SB 9.4.29 ======
 
 ===== Text =====

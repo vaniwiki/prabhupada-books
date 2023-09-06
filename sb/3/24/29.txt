@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.29~~
-~~bc:Text 29~~
-
-{{description>Not considering the negligence of ordinary householders like us, that very same Supreme Personality of Godhead appears in our homes just to support His devotees.}}
-
+---json
+{
+    "name":"SB 3.24.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.24.29",
+    "description":"Not considering the negligence of ordinary householders like us, that very same Supreme Personality of Godhead appears in our homes just to support His devotees."
+}
+---
 ====== SB 3.24.29 ======
 
 > स एव भगवानद्य हेलनं न गणय्य नः ।

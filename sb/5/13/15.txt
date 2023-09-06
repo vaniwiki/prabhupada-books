@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.15~~
-~~bc:Text 15~~
-
-{{description>There were and are many political and social heroes who have conquered enemies of equal power, yet due to their ignorance in believing that the land is theirs, they fight one another and lay down their lives in battle. They are not able to take up the spiritual path accepted by those in the renounced order. Although they are big heroes and political leaders, they cannot take to the path of spiritual realization.}}
-
+---json
+{
+    "name":"SB 5.13.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.13.15",
+    "description":"There were and are many political and social heroes who have conquered enemies of equal power, yet due to their ignorance in believing that the land is theirs, they fight one another and lay down their lives in battle. They are not able to take up the spiritual path accepted by those in the renounced order. Although they are big heroes and political leaders, they cannot take to the path of spiritual realization."
+}
+---
 ====== SB 5.13.15 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.6~~
-~~bc:Text 6~~
-
-{{description>By the touch of Lord Nṛsiṁhadeva's hand on Prahlāda Mahārāja's head, Prahlāda was completely freed of all material contaminations and desires, as if he had been thoroughly cleansed. Therefore he at once became transcendentally situated, and all the symptoms of ecstasy became manifest in his body. His heart filled with love, and his eyes with tears, and thus he was able to completely capture the lotus feet of the Lord within the core of his heart.}}
-
+---json
+{
+    "name":"SB 7.9.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 7.9.6",
+    "description":"By the touch of Lord Nṛsiṁhadeva's hand on Prahlāda Mahārāja's head, Prahlāda was completely freed of all material contaminations and desires, as if he had been thoroughly cleansed. Therefore he at once became transcendentally situated, and all the symptoms of ecstasy became manifest in his body. His heart filled with love, and his eyes with tears, and thus he was able to completely capture the lotus feet of the Lord within the core of his heart."
+}
+---
 ====== SB 7.9.6 ======
 
 ===== Text =====

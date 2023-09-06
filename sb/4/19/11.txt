@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.11~~
-~~bc:Text 11~~
-
-{{description>When Pṛthu Mahārāja was performing the last horse sacrifice [aśvamedha-yajña], King Indra, invisible to everyone, stole the horse intended for sacrifice. He did this because of his great envy of King Pṛthu.}}
-
+---json
+{
+    "name":"SB 4.19.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.19.11",
+    "description":"When Pṛthu Mahārāja was performing the last horse sacrifice [aśvamedha-yajña], King Indra, invisible to everyone, stole the horse intended for sacrifice. He did this because of his great envy of King Pṛthu."
+}
+---
 ====== SB 4.19.11 ======
 
 > चरमेणाश्वमेधेन यजमाने यजुष्पतिम् ।

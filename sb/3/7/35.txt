@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.35~~
-~~bc:Text 35~~
-
-{{description>O sinless one, because the Personality of Godhead, the controller of all living entities, is the father of all religion and all those who are candidates for religious activities, kindly describe how He can be completely satisfied.}}
-
+---json
+{
+    "name":"SB 3.7.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.7.35",
+    "description":"O sinless one, because the Personality of Godhead, the controller of all living entities, is the father of all religion and all those who are candidates for religious activities, kindly describe how He can be completely satisfied."
+}
+---
 ====== SB 3.7.35 ======
 
 > येन वा भगवांस्तुष्येद्धर्मयोनिर्जनार्दनः ।

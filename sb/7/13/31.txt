@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.31~~
-~~bc:Text 31~~
-
-{{description>Materialistic activities are always mixed with three kinds of miserable conditions—adhyātmika, adhidaivika and adhibautika. Therefore, even if one achieves some success by performing such activities, what is the benefit of this success? One is still subjected to birth, death, old age, disease and the reactions of his fruitive activities.}}
-
+---json
+{
+    "name":"SB 7.13.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 7.13.31",
+    "description":"Materialistic activities are always mixed with three kinds of miserable conditions—adhyātmika, adhidaivika and adhibautika. Therefore, even if one achieves some success by performing such activities, what is the benefit of this success? One is still subjected to birth, death, old age, disease and the reactions of his fruitive activities."
+}
+---
 ====== SB 7.13.31 ======
 
 ===== Text =====

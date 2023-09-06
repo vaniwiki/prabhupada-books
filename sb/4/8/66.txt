@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.66~~
-~~bc:Text 66~~
-
-{{description>My dear brāhmaṇa, the face of my son was just like a lotus flower. I am thinking of his precarious condition. He is unprotected, and he might he very hungry. He might have lain down somewhere in the forest, and the wolves might have attacked him to eat his body.}}
-
+---json
+{
+    "name":"SB 4.8.66",
+    "h1":"Text 66",
+    "title":" Śrīmad Bhāgavatam 4.8.66",
+    "description":"My dear brāhmaṇa, the face of my son was just like a lotus flower. I am thinking of his precarious condition. He is unprotected, and he might he very hungry. He might have lain down somewhere in the forest, and the wolves might have attacked him to eat his body."
+}
+---
 ====== SB 4.8.66 ======
 
 > अप्यनाथं वने ब्रह्मन्मा स्मादन्त्यर्भकं वृकाः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.28~~
-~~bc:Text 28~~
-
-{{description>The demigods, qualified by the superexcellent quality of the mode of goodness, are situated in the heavenly planets, whereas the human beings, because of their nature in the mode of passion, live on the earth in company with their subordinates.}}
-
+---json
+{
+    "name":"SB 3.6.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.6.28",
+    "description":"The demigods, qualified by the superexcellent quality of the mode of goodness, are situated in the heavenly planets, whereas the human beings, because of their nature in the mode of passion, live on the earth in company with their subordinates."
+}
+---
 ====== SB 3.6.28 ======
 
 > आत्यन्तिकेन सत्त्वेन दिवं देवाः प्रपेदिरे ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.17~~
-~~bc:Text 17~~
-
-{{description>He amalgamated the mind with the senses and the senses with the sense objects, according to their respective positions, and he also amalgamated the material ego with the total material energy, mahat-tattva.}}
-
+---json
+{
+    "name":"SB 4.23.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.23.17",
+    "description":"He amalgamated the mind with the senses and the senses with the sense objects, according to their respective positions, and he also amalgamated the material ego with the total material energy, mahat-tattva."
+}
+---
 ====== SB 4.23.17 ======
 
 > इन्द्रियेषु मनस्तानि तन्मात्रेषु यथोद्भवम् ।

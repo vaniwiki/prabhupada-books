@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.15~~
-~~bc:Text 15~~
-
-{{description>When it is said that Purañjana goes to Vaiśasa, it is meant that he goes to hell. He is accompanied by Lubdhaka, which is the working sense in the rectum. Formerly I have also spoken of two blind associates. These associates should be understood to be the hands and legs. Being helped by the hands and legs, the living entity performs all kinds of work and moves hither and thither.}}
-
+---json
+{
+    "name":"SB 4.29.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.29.15",
+    "description":"When it is said that Purañjana goes to Vaiśasa, it is meant that he goes to hell. He is accompanied by Lubdhaka, which is the working sense in the rectum. Formerly I have also spoken of two blind associates. These associates should be understood to be the hands and legs. Being helped by the hands and legs, the living entity performs all kinds of work and moves hither and thither."
+}
+---
 ====== SB 4.29.15 ======
 
 > वैशसं नरकं पायुर्लुब्धकोऽन्धौ तु मे शृणु ।

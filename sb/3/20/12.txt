@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.12~~
-~~bc:Text 12~~
-
-{{description>Maitreya said: When the equilibrium of the combination of the three modes of nature was agitated by the unseen activity of the living entity, by Mahā-Viṣṇu and by the force of time, the total material elements were produced.}}
-
+---json
+{
+    "name":"SB 3.20.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.20.12",
+    "description":"Maitreya said: When the equilibrium of the combination of the three modes of nature was agitated by the unseen activity of the living entity, by Mahā-Viṣṇu and by the force of time, the total material elements were produced."
+}
+---
 ====== SB 3.20.12 ======
 
 > मैत्रेय उवाच

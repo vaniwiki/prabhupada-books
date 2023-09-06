@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.13~~
-~~bc:Text 13~~
-
-{{description>My dear Vidura, all the followers of Lord Śiva surrounded the arena of sacrifice. They were of short stature and were equipped with various kinds of weapons; their bodies appeared to be like those of sharks, blackish and yellowish. They ran all around the sacrificial arena and thus began to create disturbances.}}
-
+---json
+{
+    "name":"SB 4.5.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.5.13",
+    "description":"My dear Vidura, all the followers of Lord Śiva surrounded the arena of sacrifice. They were of short stature and were equipped with various kinds of weapons; their bodies appeared to be like those of sharks, blackish and yellowish. They ran all around the sacrificial arena and thus began to create disturbances."
+}
+---
 ====== SB 4.5.13 ======
 
 > तावत्स रुद्रानुचरैर्महामखो नानायुधैर्वामनकैरुदायुधैः ।

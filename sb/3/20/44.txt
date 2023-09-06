@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.44~~
-~~bc:Text 44~~
-
-{{description>Then Lord Brahmā, by his ability to be hidden from vision, created the Siddhas and Vidyādharas and gave them that wonderful form of his known as the Antardhāna.}}
-
+---json
+{
+    "name":"SB 3.20.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 3.20.44",
+    "description":"Then Lord Brahmā, by his ability to be hidden from vision, created the Siddhas and Vidyādharas and gave them that wonderful form of his known as the Antardhāna."
+}
+---
 ====== SB 3.20.44 ======
 
 > सिद्धान्विद्याधरांश्चैव तिरोधानेन सोऽसृजत् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.30~~
-~~bc:Text 30~~
-
-{{description>Thereafter, not having seen the Lord for a long time, the citizens, both men and women, being very eager to see Him, left their homes and got up on the roofs of the palaces. Being incompletely satiated with seeing the face of the lotus-eyed Lord Rāmacandra, they showered flowers upon Him.}}
-
+---json
+{
+    "name":"SB 9.11.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.11.30",
+    "description":"Thereafter, not having seen the Lord for a long time, the citizens, both men and women, being very eager to see Him, left their homes and got up on the roofs of the palaces. Being incompletely satiated with seeing the face of the lotus-eyed Lord Rāmacandra, they showered flowers upon Him."
+}
+---
 ====== SB 9.11.30 ======
 
 ===== Text =====

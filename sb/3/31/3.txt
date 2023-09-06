@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.3~~
-~~bc:Text 3~~
-
-{{description>In the course of a month, a head is formed, and at the end of two months the hands, feet and other limbs take shape. By the end of three months, the nails, fingers, toes, body hair, bones and skin appear, as do the organ of generation and the other apertures in the body, namely the eyes, nostrils, ears, mouth and anus.}}
-
+---json
+{
+    "name":"SB 3.31.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.31.3",
+    "description":"In the course of a month, a head is formed, and at the end of two months the hands, feet and other limbs take shape. By the end of three months, the nails, fingers, toes, body hair, bones and skin appear, as do the organ of generation and the other apertures in the body, namely the eyes, nostrils, ears, mouth and anus."
+}
+---
 ====== SB 3.31.3 ======
 
 > मासेन तु शिरो द्वाभ्यां बाह्वङ्घ्र्याद्यङ्गविग्रहः ।

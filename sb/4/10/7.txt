@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.7~~
-~~bc:Text 7~~
-
-{{description>O hero Vidura, the greatly powerful heroes of the Yakṣas, unable to tolerate the resounding vibration of the conchshell of Dhruva Mahārāja, came forth from their city with weapons and attacked Dhruva.}}
-
+---json
+{
+    "name":"SB 4.10.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.10.7",
+    "description":"O hero Vidura, the greatly powerful heroes of the Yakṣas, unable to tolerate the resounding vibration of the conchshell of Dhruva Mahārāja, came forth from their city with weapons and attacked Dhruva."
+}
+---
 ====== SB 4.10.7 ======
 
 > ततो निष्क्रम्य बलिन उपदेवमहाभटाः ।

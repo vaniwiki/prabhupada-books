@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.39~~
-~~bc:Text 39~~
-
-{{description>My dear mother, the characteristics of form are understood by dimension, quality and individuality. The form of fire is appreciated by its effulgence.}}
-
+---json
+{
+    "name":"SB 3.26.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 3.26.39",
+    "description":"My dear mother, the characteristics of form are understood by dimension, quality and individuality. The form of fire is appreciated by its effulgence."
+}
+---
 ====== SB 3.26.39 ======
 
 > द्रव्याकृतित्वं गुणता व्यक्तिसंस्थात्वमेव च ।

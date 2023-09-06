@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.2~~
-~~bc:Text 2~~
-
-{{description>When Ṣaṇḍa and Amarka, the sons of Śukrācārya, observed that all the students, the sons of the demons, were becoming advanced in Kṛṣṇa consciousness because of the association of Prahlāda Mahārāja, they were afraid. They approached the King of the demons and described the situation as it was.}}
-
+---json
+{
+    "name":"SB 7.8.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 7.8.2",
+    "description":"When Ṣaṇḍa and Amarka, the sons of Śukrācārya, observed that all the students, the sons of the demons, were becoming advanced in Kṛṣṇa consciousness because of the association of Prahlāda Mahārāja, they were afraid. They approached the King of the demons and described the situation as it was."
+}
+---
 ====== SB 7.8.2 ======
 
 ===== Text =====

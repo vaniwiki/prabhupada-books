@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.10~~
-~~bc:Text 10~~
-
-{{description>O brāhmaṇa, I can simply hear the tinkling of your ankle bells. Within those bells, tittiri birds seem to be chirping among themselves. Although I do not see their forms, I can hear how they are chirping. When I look at your beautiful circular hips, I see they are the lovely color of kadamba flowers, and your waist is encircled by a belt of burning cinders. Indeed, you seem to have forgotten to dress yourself.}}
-
+---json
+{
+    "name":"SB 5.2.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.2.10",
+    "description":"O brāhmaṇa, I can simply hear the tinkling of your ankle bells. Within those bells, tittiri birds seem to be chirping among themselves. Although I do not see their forms, I can hear how they are chirping. When I look at your beautiful circular hips, I see they are the lovely color of kadamba flowers, and your waist is encircled by a belt of burning cinders. Indeed, you seem to have forgotten to dress yourself."
+}
+---
 ====== SB 5.2.10 ======
 
 ===== Text =====

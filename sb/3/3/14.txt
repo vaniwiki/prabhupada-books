@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.14~~
-~~bc:Text 14~~
-
-{{description>[After the end of the Battle of Kurukṣetra, the Lord said:] The abatement of the earth's great burden, eighteen akṣauhiṇīs, has now been effected with the help of Droṇa, Bhīṣma, Arjuna and Bhīma. But what is this? There is still the great strength of the Yadu dynasty, born of Myself, which may be a more unbearable burden.}}
-
+---json
+{
+    "name":"SB 3.3.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.3.14",
+    "description":"[After the end of the Battle of Kurukṣetra, the Lord said:] The abatement of the earth's great burden, eighteen akṣauhiṇīs, has now been effected with the help of Droṇa, Bhīṣma, Arjuna and Bhīma. But what is this? There is still the great strength of the Yadu dynasty, born of Myself, which may be a more unbearable burden."
+}
+---
 ====== SB 3.3.14 ======
 
 > कियान्भुवोऽयं क्षपितोरुभारो यद्द्रोणभीष्मार्जुनभीममूलैः ।

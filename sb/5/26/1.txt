@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.1~~
-~~bc:Text 1~~
-
-{{description>King Parīkṣit inquired from Śukadeva Gosvāmī: My dear sir, why are the living entities put into different material situations? Kindly explain this to me.}}
-
+---json
+{
+    "name":"SB 5.26.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.26.1",
+    "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: My dear sir, why are the living entities put into different material situations? Kindly explain this to me."
+}
+---
 ====== SB 5.26.1 ======
 
 ===== Text =====

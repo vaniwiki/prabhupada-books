@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.5~~
-~~bc:Text 5~~
-
-{{description>If in this universe there are many rulers and justices who disagree about punishment and reward, their contradictory actions will neutralize each other, and no one will be punished or rewarded. Otherwise, if their contradictory acts fail to neutralize each other, everyone will have to be both punished and rewarded.}}
-
+---json
+{
+    "name":"SB 6.3.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 6.3.5",
+    "description":"If in this universe there are many rulers and justices who disagree about punishment and reward, their contradictory actions will neutralize each other, and no one will be punished or rewarded. Otherwise, if their contradictory acts fail to neutralize each other, everyone will have to be both punished and rewarded."
+}
+---
 ====== SB 6.3.5 ======
 
 ===== Text =====

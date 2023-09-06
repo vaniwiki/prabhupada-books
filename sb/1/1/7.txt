@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.1.7~~
-~~bc:Text 7~~
-
-{{description>Being the eldest learned Vedāntist, O Sūta Gosvāmī, you are acquainted with the knowledge of Vyāsadeva, who is the incarnation of Godhead, and you also know other sages who are fully versed in all kinds of physical and metaphysical knowledge.}}
-
+---json
+{
+    "name":"SB 1.1.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.1.7",
+    "description":"Being the eldest learned Vedāntist, O Sūta Gosvāmī, you are acquainted with the knowledge of Vyāsadeva, who is the incarnation of Godhead, and you also know other sages who are fully versed in all kinds of physical and metaphysical knowledge."
+}
+---
 ====== SB 1.1.7 ======
 
 > यानि वेदविदां श्रेष्ठो भगवान्बादरायणः ।

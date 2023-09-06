@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.38~~
-~~bc:Text 38~~
-
-{{description>All glory and success to Śrīla Nārada Muni because he glorifies the activities of the Personality of Godhead, and so doing he himself takes pleasure and also enlivens all the distressed souls of the universe.}}
-
+---json
+{
+    "name":"SB 1.6.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 1.6.38",
+    "description":"All glory and success to Śrīla Nārada Muni because he glorifies the activities of the Personality of Godhead, and so doing he himself takes pleasure and also enlivens all the distressed souls of the universe."
+}
+---
 ====== SB 1.6.38 ======
 
 > अहो देवर्षिर्धन्योऽयं यत्कीर्तिं शार्ङ्गधन्वनः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.20~~
-~~bc:Text 20~~
-
-{{description>Thus, after manifesting variegatedness, the effulgent mahat-tattva, which contains all the universes within itself, which is the root of all cosmic manifestations and which is not destroyed at the time of annihilation, swallows the darkness that covered the effulgence at the time of dissolution.}}
-
+---json
+{
+    "name":"SB 3.26.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.26.20",
+    "description":"Thus, after manifesting variegatedness, the effulgent mahat-tattva, which contains all the universes within itself, which is the root of all cosmic manifestations and which is not destroyed at the time of annihilation, swallows the darkness that covered the effulgence at the time of dissolution."
+}
+---
 ====== SB 3.26.20 ======
 
 > विश्वमात्मगतं व्यञ्जन्कूटस्थो जगदङ्कुरः ।

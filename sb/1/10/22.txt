@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.22~~
-~~bc:Text 22~~
-
-{{description>The Personality of Godhead, again desiring to give names and forms to His parts and parcels, the living entities, placed them under the guidance of material nature. By His own potency, material nature is empowered to re-create.}}
-
+---json
+{
+    "name":"SB 1.10.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.10.22",
+    "description":"The Personality of Godhead, again desiring to give names and forms to His parts and parcels, the living entities, placed them under the guidance of material nature. By His own potency, material nature is empowered to re-create."
+}
+---
 ====== SB 1.10.22 ======
 
 > स एव भूयो निजवीर्यचोदितां स्वजीवमायां प्रकृतिं सिसृक्षतीम् ।

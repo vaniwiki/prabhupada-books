@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.1~~
-~~bc:Text 1~~
-
-{{description>On hearing Sūta Gosvāmī speak thus, Śaunaka Muni, who was the elderly, learned leader of all the ṛṣis engaged in that prolonged sacrificial ceremony, congratulated Sūta Gosvāmī by addressing him as follows.}}
-
+---json
+{
+    "name":"SB 1.4.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.4.1",
+    "description":"On hearing Sūta Gosvāmī speak thus, Śaunaka Muni, who was the elderly, learned leader of all the ṛṣis engaged in that prolonged sacrificial ceremony, congratulated Sūta Gosvāmī by addressing him as follows."
+}
+---
 ====== SB 1.4.1 ======
 
 > व्यास उवाच

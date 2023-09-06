@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.24~~
-~~bc:Text 24~~
-
-{{description>Thus relieved of his responsibility by handing over his daughter to a suitable man, Svāyambhuva Manu, his mind agitated by feelings of separation, embraced his affectionate daughter with both his arms.}}
-
+---json
+{
+    "name":"SB 3.22.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.22.24",
+    "description":"Thus relieved of his responsibility by handing over his daughter to a suitable man, Svāyambhuva Manu, his mind agitated by feelings of separation, embraced his affectionate daughter with both his arms."
+}
+---
 ====== SB 3.22.24 ======
 
 > प्रत्तां दुहितरं सम्राट्सदृक्षाय गतव्यथः ।

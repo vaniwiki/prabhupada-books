@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.17.31~~
-~~bc:Text 31~~
-
-{{description>In the beginning of creation You created all these moving and nonmoving living entities by Your inconceivable energy. Through this very same energy You are now prepared to protect the living entities. Indeed, You are the supreme protector of religious principles. Why are You so anxious to kill me, even though I am in the form of a cow?}}
-
+---json
+{
+    "name":"SB 4.17.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.17.31",
+    "description":"In the beginning of creation You created all these moving and nonmoving living entities by Your inconceivable energy. Through this very same energy You are now prepared to protect the living entities. Indeed, You are the supreme protector of religious principles. Why are You so anxious to kill me, even though I am in the form of a cow?"
+}
+---
 ====== SB 4.17.31 ======
 
 > य एतदादावसृजच्चराचरं स्वमाययात्माश्रययावितर्क्यया ।

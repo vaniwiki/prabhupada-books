@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.18~~
-~~bc:Text 18~~
-
-{{description>The fortunate inhabitants of Pitṛloka, who preside over the funeral ceremonies, made Aryamā into a calf. With great faith they milked kavya, food offered to the ancestors, into an unbaked earthen pot.}}
-
+---json
+{
+    "name":"SB 4.18.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 4.18.18",
+    "description":"The fortunate inhabitants of Pitṛloka, who preside over the funeral ceremonies, made Aryamā into a calf. With great faith they milked kavya, food offered to the ancestors, into an unbaked earthen pot."
+}
+---
 ====== SB 4.18.18 ======
 
 > वत्सेन पितरोऽर्यम्णा कव्यं क्षीरमधुक्षत ।

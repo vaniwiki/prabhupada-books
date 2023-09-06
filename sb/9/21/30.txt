@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.30~~
-~~bc:Text 30~~
-
-{{description>From Ripuñjaya came a son named Bahuratha. Purumīḍha was sonless. Ajamīḍha had a son named Nīla by his wife known as Nalinī, and the son of Nīla was Śānti.}}
-
+---json
+{
+    "name":"SB 9.21.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.21.30",
+    "description":"From Ripuñjaya came a son named Bahuratha. Purumīḍha was sonless. Ajamīḍha had a son named Nīla by his wife known as Nalinī, and the son of Nīla was Śānti."
+}
+---
 ====== SB 9.21.30 ======
 
 ===== Text =====

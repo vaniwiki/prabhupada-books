@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.3~~
-~~bc:Text 3~~
-
-{{description>The sannyāsī, completely satisfied in the self, should live on alms begged from door to door. Not being dependent on any person or any place, he should always be a friendly well-wisher to all living beings and be a peaceful, unalloyed devotee of Nārāyaṇa. In this way he should move from one place to another.}}
-
+---json
+{
+    "name":"SB 7.13.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 7.13.3",
+    "description":"The sannyāsī, completely satisfied in the self, should live on alms begged from door to door. Not being dependent on any person or any place, he should always be a friendly well-wisher to all living beings and be a peaceful, unalloyed devotee of Nārāyaṇa. In this way he should move from one place to another."
+}
+---
 ====== SB 7.13.3 ======
 
 ===== Text =====

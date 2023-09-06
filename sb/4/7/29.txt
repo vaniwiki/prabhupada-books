@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.29~~
-~~bc:Text 29~~
-
-{{description>Lord Śiva said: My dear Lord, my mind and consciousness are always fixed on Your lotus feet, which, as the source of all benediction and the fulfillment of all desires, are worshiped by all liberated great sages because Your lotus feet are worthy of worship. With my mind fixed on Your lotus feet, I am no longer disturbed by persons who blaspheme me, claiming that my activities are not purified. I do not mind their accusations, and I excuse them out of compassion, just as You exhibit compassion toward all living entities.}}
-
+---json
+{
+    "name":"SB 4.7.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.7.29",
+    "description":"Lord Śiva said: My dear Lord, my mind and consciousness are always fixed on Your lotus feet, which, as the source of all benediction and the fulfillment of all desires, are worshiped by all liberated great sages because Your lotus feet are worthy of worship. With my mind fixed on Your lotus feet, I am no longer disturbed by persons who blaspheme me, claiming that my activities are not purified. I do not mind their accusations, and I excuse them out of compassion, just as You exhibit compassion toward all living entities."
+}
+---
 ====== SB 4.7.29 ======
 
 > रुद्र उवाच

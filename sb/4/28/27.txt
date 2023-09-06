@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.27~~
-~~bc:Text 27~~
-
-{{description>Due to his contaminated association with women, a living entity like King Purañjana eternally suffers all the pangs of material existence and remains in the dark region of material life, bereft of all remembrance for many, many years.}}
-
+---json
+{
+    "name":"SB 4.28.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.28.27",
+    "description":"Due to his contaminated association with women, a living entity like King Purañjana eternally suffers all the pangs of material existence and remains in the dark region of material life, bereft of all remembrance for many, many years."
+}
+---
 ====== SB 4.28.27 ======
 
 > अनन्तपारे तमसि मग्नो नष्टस्मृतिः समाः ।

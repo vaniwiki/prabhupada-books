@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.30~~
-~~bc:Text 30~~
-
-{{description>The son of Nara was Kevala, and his son was Dhundhumān, whose son was Vegavān. Vegavān's son was Budha, and Budha's son was Tṛṇabindu, who became the king of this earth.}}
-
+---json
+{
+    "name":"SB 9.2.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.2.30",
+    "description":"The son of Nara was Kevala, and his son was Dhundhumān, whose son was Vegavān. Vegavān's son was Budha, and Budha's son was Tṛṇabindu, who became the king of this earth."
+}
+---
 ====== SB 9.2.30 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.25~~
-~~bc:Text 25~~
-
-{{description>Lord Brahmā said: O Supreme Personality of Godhead, all glories unto You, who are glorified by all and whose activities are all uncommon. I offer my respectful obeisances unto You, O Lord of the transcendentalists, controller of the three modes of nature. I offer my respectful obeisances unto You again and again.}}
-
+---json
+{
+    "name":"SB 8.17.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 8.17.25",
+    "description":"Lord Brahmā said: O Supreme Personality of Godhead, all glories unto You, who are glorified by all and whose activities are all uncommon. I offer my respectful obeisances unto You, O Lord of the transcendentalists, controller of the three modes of nature. I offer my respectful obeisances unto You again and again."
+}
+---
 ====== SB 8.17.25 ======
 
 ===== Text =====

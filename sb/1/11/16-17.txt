@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.16-17~~
-~~bc:Text 16-17~~
-
-{{description>On hearing that the most dear Kṛṣṇa was approaching Dvārakādhāma, magnanimous Vasudeva, Akrūra, Ugrasena, Balarāma (the superhumanly powerful), Pradyumna, Cārudeṣṇa and Sāmba the son of Jāmbavatī, all extremely happy, abandoned resting, sitting and dining.}}
-
+---json
+{
+    "name":"SB 1.11.16-17",
+    "h1":"Text 16-17",
+    "title":" Śrīmad Bhāgavatam 1.11.16-17",
+    "description":"On hearing that the most dear Kṛṣṇa was approaching Dvārakādhāma, magnanimous Vasudeva, Akrūra, Ugrasena, Balarāma (the superhumanly powerful), Pradyumna, Cārudeṣṇa and Sāmba the son of Jāmbavatī, all extremely happy, abandoned resting, sitting and dining."
+}
+---
 ====== SB 1.11.16-17 ======
 
 > निशम्य प्रेष्ठमायान्तं वसुदेवो महामनाः ।

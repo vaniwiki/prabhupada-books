@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.1.8~~
-~~bc:Text 8~~
-
-{{description>And because you are submissive, your spiritual masters have endowed you with all the favors bestowed upon a gentle disciple. Therefore you can tell us all that you have scientifically learned from them.}}
-
+---json
+{
+    "name":"SB 1.1.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 1.1.8",
+    "description":"And because you are submissive, your spiritual masters have endowed you with all the favors bestowed upon a gentle disciple. Therefore you can tell us all that you have scientifically learned from them."
+}
+---
 ====== SB 1.1.8 ======
 
 > वेत्थ त्वं सौम्य तत्सर्वं तत्त्वतस्तदनुग्रहात् ।

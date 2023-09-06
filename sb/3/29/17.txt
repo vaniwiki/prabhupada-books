@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.17~~
-~~bc:Text 17~~
-
-{{description>The pure devotee should execute devotional service by giving the greatest respect to the spiritual master and the ācāryas. He should be compassionate to the poor and make friendship with persons who are his equals, but all his activities should be executed under regulation and with control of the senses.}}
-
+---json
+{
+    "name":"SB 3.29.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.29.17",
+    "description":"The pure devotee should execute devotional service by giving the greatest respect to the spiritual master and the ācāryas. He should be compassionate to the poor and make friendship with persons who are his equals, but all his activities should be executed under regulation and with control of the senses."
+}
+---
 ====== SB 3.29.17 ======
 
 > महतां बहुमानेन दीनानामनुकम्पया ।

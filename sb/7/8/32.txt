@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.32~~
-~~bc:Text 32~~
-
-{{description>The hair on Nṛsiṁhadeva's head shook the clouds and scattered them here and there, His glaring eyes stole the effulgence of the luminaries in the sky, and His breathing agitated the seas and oceans. Because of His roaring, all the elephants in the world began to cry in fear.}}
-
+---json
+{
+    "name":"SB 7.8.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 7.8.32",
+    "description":"The hair on Nṛsiṁhadeva's head shook the clouds and scattered them here and there, His glaring eyes stole the effulgence of the luminaries in the sky, and His breathing agitated the seas and oceans. Because of His roaring, all the elephants in the world began to cry in fear."
+}
+---
 ====== SB 7.8.32 ======
 
 ===== Text =====

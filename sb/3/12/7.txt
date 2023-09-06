@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.7~~
-~~bc:Text 7~~
-
-{{description>Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated.}}
-
+---json
+{
+    "name":"SB 3.12.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.12.7",
+    "description":"Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated."
+}
+---
 ====== SB 3.12.7 ======
 
 > धिया निगृह्यमाणोऽपि भ्रुवोर्मध्यात्प्रजापतेः ।

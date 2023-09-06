@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.1-2~~
-~~bc:Text 1-2~~
-
-{{description>Devahūti inquired: My dear Lord, You have already very scientifically described the symptoms of the total material nature and the characteristics of the spirit according to the Sāṅkhya system of philosophy. Now I shall request You to explain the path of devotional service, which is the ultimate end of all philosophical systems.}}
-
+---json
+{
+    "name":"SB 3.29.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 3.29.1-2",
+    "description":"Devahūti inquired: My dear Lord, You have already very scientifically described the symptoms of the total material nature and the characteristics of the spirit according to the Sāṅkhya system of philosophy. Now I shall request You to explain the path of devotional service, which is the ultimate end of all philosophical systems."
+}
+---
 ====== SB 3.29.1-2 ======
 
 > देवहूतिरुवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.41~~
-~~bc:Text 41~~
-
-{{description>Śrī Vyāsadeva delivered it to his son, who is the most respected among the self-realized, after extracting the cream of all Vedic literatures and histories of the universe.}}
-
+---json
+{
+    "name":"SB 1.3.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 1.3.41",
+    "description":"Śrī Vyāsadeva delivered it to his son, who is the most respected among the self-realized, after extracting the cream of all Vedic literatures and histories of the universe."
+}
+---
 ====== SB 1.3.41 ======
 
 > तदिदं ग्राहयामाससुतमात्मवतां वरम् ।

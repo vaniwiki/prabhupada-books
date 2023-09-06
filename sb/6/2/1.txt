@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: My dear King, the servants of Lord Viṣṇu are always very expert in logic and arguments. After hearing the statements of the Yamadūtas, they replied as follows.}}
-
+---json
+{
+    "name":"SB 6.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.2.1",
+    "description":"Śukadeva Gosvāmī said: My dear King, the servants of Lord Viṣṇu are always very expert in logic and arguments. After hearing the statements of the Yamadūtas, they replied as follows."
+}
+---
 ====== SB 6.2.1 ======
 
 ===== Text =====

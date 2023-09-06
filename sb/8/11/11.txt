@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.11~~
-~~bc:Text 11~~
-
-{{description>Since Mahārāja Bali's rebukes were truthful, King Indra did not at all become sorry, just as an elephant beaten by its driver's rod does not become agitated.}}
-
+---json
+{
+    "name":"SB 8.11.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 8.11.11",
+    "description":"Since Mahārāja Bali's rebukes were truthful, King Indra did not at all become sorry, just as an elephant beaten by its driver's rod does not become agitated."
+}
+---
 ====== SB 8.11.11 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.11~~
-~~bc:Text 11~~
-
-{{description>Therefore you should be kind towards me by showing me complete mercy. I desire to have sons, and I am much distressed by seeing the opulence of my co-wives. By performing this act, you will become happy.}}
-
+---json
+{
+    "name":"SB 3.14.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.14.11",
+    "description":"Therefore you should be kind towards me by showing me complete mercy. I desire to have sons, and I am much distressed by seeing the opulence of my co-wives. By performing this act, you will become happy."
+}
+---
 ====== SB 3.14.11 ======
 
 > तद्भवान्दह्यमानायां सपत्नीनां समृद्धिभिः ।

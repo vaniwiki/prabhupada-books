@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.24~~
-~~bc:Text 24~~
-
-{{description>Fully believing in the words of the goddess Durgā, Kaṁsa exhibited his familial affection for Devakī and Vasudeva by immediately releasing them from their iron shackles.}}
-
+---json
+{
+    "name":"SB 10.4.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 10.4.24",
+    "description":"Fully believing in the words of the goddess Durgā, Kaṁsa exhibited his familial affection for Devakī and Vasudeva by immediately releasing them from their iron shackles."
+}
+---
 ====== SB 10.4.24 ======
 
 ===== Text =====

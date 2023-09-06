@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.28~~
-~~bc:Text 28~~
-
-{{description>This demon, luckily for us, has come of his own accord to You, his death ordained by You; therefore, exhibiting Your ways, kill him in the duel and establish the worlds in peace.}}
-
+---json
+{
+    "name":"SB 3.18.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.18.28",
+    "description":"This demon, luckily for us, has come of his own accord to You, his death ordained by You; therefore, exhibiting Your ways, kill him in the duel and establish the worlds in peace."
+}
+---
 ====== SB 3.18.28 ======
 
 > दिष्ट्या त्वां विहितं मृत्युमयमासादितः स्वयम् ।

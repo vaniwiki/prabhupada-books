@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.22~~
-~~bc:Text 22~~
-
-{{description>You have been blind from your very birth, and recently you have become hard of hearing. Your memory is shortened, and your intelligence is disturbed. Your teeth are loose, your liver is defective, and you are coughing up mucus.}}
-
+---json
+{
+    "name":"SB 1.13.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.13.22",
+    "description":"You have been blind from your very birth, and recently you have become hard of hearing. Your memory is shortened, and your intelligence is disturbed. Your teeth are loose, your liver is defective, and you are coughing up mucus."
+}
+---
 ====== SB 1.13.22 ======
 
 > अन्धः पुरैव वधिरो मन्दप्रज्ञाश्च साम्प्रतम् ।

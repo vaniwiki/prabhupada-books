@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.35~~
-~~bc:Text 35~~
-
-{{description>When the demigods are bereft of their chariots, when they forget how to use weapons, when they are fearful or attached to something other than fighting, or when their bows are broken and they have thus lost the ability to fight, Your Majesty does not kill them.}}
-
+---json
+{
+    "name":"SB 10.4.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 10.4.35",
+    "description":"When the demigods are bereft of their chariots, when they forget how to use weapons, when they are fearful or attached to something other than fighting, or when their bows are broken and they have thus lost the ability to fight, Your Majesty does not kill them."
+}
+---
 ====== SB 10.4.35 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.1~~
-~~bc:Text 1~~
-
-{{description>Śrīla Śukadeva Gosvāmī continued: The son of Mahārāja Bharata known as Sumati followed the path of Ṛṣabhadeva, but some unscrupulous people imagined him to be Lord Buddha himself. These people, who were actually atheistic and of bad character, took up the Vedic principles in an imaginary, infamous way to support their activities. Thus these sinful people accepted Sumati as Lord Buddhadeva and propagated the theory that everyone should follow the principles of Sumati. In this way they were carried away by mental concoction.}}
-
+---json
+{
+    "name":"SB 5.15.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.15.1",
+    "description":"Śrīla Śukadeva Gosvāmī continued: The son of Mahārāja Bharata known as Sumati followed the path of Ṛṣabhadeva, but some unscrupulous people imagined him to be Lord Buddha himself. These people, who were actually atheistic and of bad character, took up the Vedic principles in an imaginary, infamous way to support their activities. Thus these sinful people accepted Sumati as Lord Buddhadeva and propagated the theory that everyone should follow the principles of Sumati. In this way they were carried away by mental concoction."
+}
+---
 ====== SB 5.15.1 ======
 
 ===== Text =====

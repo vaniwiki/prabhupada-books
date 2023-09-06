@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.28~~
-~~bc:Text 28~~
-
-{{description>While traveling, the demigods passed over the forest known as Saugandhika, which is full of varieties of flowers, fruits and desire trees. While passing over the forest, they also saw the regions of Yakṣeśvara.}}
-
+---json
+{
+    "name":"SB 4.6.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.6.28",
+    "description":"While traveling, the demigods passed over the forest known as Saugandhika, which is full of varieties of flowers, fruits and desire trees. While passing over the forest, they also saw the regions of Yakṣeśvara."
+}
+---
 ====== SB 4.6.28 ======
 
 > हित्वा यक्षेश्वरपुरीं वनं सौगन्धिकं च तत् ।

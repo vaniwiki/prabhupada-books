@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.38~~
-~~bc:Text 38~~
-
-{{description>Thereafter, when the boy returned to the hermitage, he saw a snake on his father's shoulder, and out of his grief he cried very loudly.}}
-
+---json
+{
+    "name":"SB 1.18.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 1.18.38",
+    "description":"Thereafter, when the boy returned to the hermitage, he saw a snake on his father's shoulder, and out of his grief he cried very loudly."
+}
+---
 ====== SB 1.18.38 ======
 
 > ततोऽभ्येत्याश्रमं बालो गले सर्पकलेवरम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.20-21~~
-~~bc:Text 20-21~~
-
-{{description>O Mahārāja Parīkṣit, the son of Kṛtadhvaja was Keśidhvaja, and the son of Mitadhvaja was Khāṇḍikya. The son of Kṛtadhvaja was expert in spiritual knowledge, and the son of Mitadhvaja was expert in Vedic ritualistic ceremonies. Khāṇḍikya fled in fear of Keśidhvaja. The son of Keśidhvaja was Bhānumān, and the son of Bhānumān was Śatadyumna.}}
-
+---json
+{
+    "name":"SB 9.13.20-21",
+    "h1":"Text 20-21",
+    "title":" Śrīmad Bhāgavatam 9.13.20-21",
+    "description":"O Mahārāja Parīkṣit, the son of Kṛtadhvaja was Keśidhvaja, and the son of Mitadhvaja was Khāṇḍikya. The son of Kṛtadhvaja was expert in spiritual knowledge, and the son of Mitadhvaja was expert in Vedic ritualistic ceremonies. Khāṇḍikya fled in fear of Keśidhvaja. The son of Keśidhvaja was Bhānumān, and the son of Bhānumān was Śatadyumna."
+}
+---
 ====== SB 9.13.20-21 ======
 
 ===== Text =====

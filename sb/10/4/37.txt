@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.37~~
-~~bc:Text 37~~
-
-{{description>Nonetheless, because of their enmity, our opinion is that the demigods should not be neglected. Therefore, to uproot them completely, engage us in fighting with them, for we are ready to follow you.}}
-
+---json
+{
+    "name":"SB 10.4.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 10.4.37",
+    "description":"Nonetheless, because of their enmity, our opinion is that the demigods should not be neglected. Therefore, to uproot them completely, engage us in fighting with them, for we are ready to follow you."
+}
+---
 ====== SB 10.4.37 ======
 
 ===== Text =====

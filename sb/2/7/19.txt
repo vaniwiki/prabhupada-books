@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.19~~
-~~bc:Text 19~~
-
-{{description>O Nārada, you were taught about the science of God and His transcendental loving service by the Personality of Godhead in His incarnation of Haṁsāvatāra. He was very much pleased with you, due to your intense proportion of devotional service. He also explained unto you, lucidly, the full science of devotional service, which is especially understandable by persons who are souls surrendered unto Lord Vāsudeva, the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.7.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 2.7.19",
+    "description":"O Nārada, you were taught about the science of God and His transcendental loving service by the Personality of Godhead in His incarnation of Haṁsāvatāra. He was very much pleased with you, due to your intense proportion of devotional service. He also explained unto you, lucidly, the full science of devotional service, which is especially understandable by persons who are souls surrendered unto Lord Vāsudeva, the Personality of Godhead."
+}
+---
 ====== SB 2.7.19 ======
 
 > तुभ्यं च नारद भृशं भगवान्विवृद्ध

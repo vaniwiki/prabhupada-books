@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.21~~
-~~bc:Text 21~~
-
-{{description>The great sage Maitreya said: After the Personality of Godhead spoke thus, the Pracetās began to offer Him prayers. The Lord is the bestower of all success in life and is the supreme benefactor. He is also the supreme friend who takes away all miserable conditions experienced by a devotee. In a faltering voice, due to ecstasy, the Pracetās began to offer prayers. They were purified by the presence of the Lord, who was before them face to face.}}
-
+---json
+{
+    "name":"SB 4.30.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.30.21",
+    "description":"The great sage Maitreya said: After the Personality of Godhead spoke thus, the Pracetās began to offer Him prayers. The Lord is the bestower of all success in life and is the supreme benefactor. He is also the supreme friend who takes away all miserable conditions experienced by a devotee. In a faltering voice, due to ecstasy, the Pracetās began to offer prayers. They were purified by the presence of the Lord, who was before them face to face."
+}
+---
 ====== SB 4.30.21 ======
 
 > मैत्रेय उवाच

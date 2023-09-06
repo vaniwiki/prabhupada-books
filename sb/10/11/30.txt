@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.30~~
-~~bc:Text 30~~
-
-{{description>Upon hearing this advice from Upananda, the cowherd men unanimously agreed. "Very nice," they said. "Very nice." Thus they sorted out their household affairs, placed their clothing and other paraphernalia on the carts, and immediately started for Vṛndāvana.}}
-
+---json
+{
+    "name":"SB 10.11.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 10.11.30",
+    "description":"Upon hearing this advice from Upananda, the cowherd men unanimously agreed. "Very nice," they said. "Very nice." Thus they sorted out their household affairs, placed their clothing and other paraphernalia on the carts, and immediately started for Vṛndāvana."
+}
+---
 ====== SB 10.11.30 ======
 
 ===== Text =====

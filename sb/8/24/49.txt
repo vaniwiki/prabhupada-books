@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.49~~
-~~bc:Text 49~~
-
-{{description>Neither all the demigods, nor the so-called gurus nor all other people, either independently or together, can offer mercy that equals even one ten-thousandth of Yours. Therefore I wish to take shelter of Your lotus feet.}}
-
+---json
+{
+    "name":"SB 8.24.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 8.24.49",
+    "description":"Neither all the demigods, nor the so-called gurus nor all other people, either independently or together, can offer mercy that equals even one ten-thousandth of Yours. Therefore I wish to take shelter of Your lotus feet."
+}
+---
 ====== SB 8.24.49 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.35~~
-~~bc:Text 35~~
-
-{{description>Lord Brahmā continued: Stop the performance of these sacrifices, for they have induced Indra to introduce so many irreligious aspects. You should know very well that even amongst the demigods there are many unwanted desires.}}
-
+---json
+{
+    "name":"SB 4.19.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.19.35",
+    "description":"Lord Brahmā continued: Stop the performance of these sacrifices, for they have induced Indra to introduce so many irreligious aspects. You should know very well that even amongst the demigods there are many unwanted desires."
+}
+---
 ====== SB 4.19.35 ======
 
 > क्रतुर्विरमतामेष देवेषु दुरवग्रहः ।

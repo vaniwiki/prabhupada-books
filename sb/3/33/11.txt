@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.33.11~~
-~~bc:Text 11~~
-
-{{description>My dear mother, those who are actually transcendentalists certainly follow My instructions, as I have given them to you. You may rest assured that if you traverse this path of self-realization perfectly, surely you shall be freed from fearful material contamination and shall ultimately reach Me. Mother, persons who are not conversant with this method of devotional service certainly cannot get out of the cycle of birth and death.}}
-
+---json
+{
+    "name":"SB 3.33.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.33.11",
+    "description":"My dear mother, those who are actually transcendentalists certainly follow My instructions, as I have given them to you. You may rest assured that if you traverse this path of self-realization perfectly, surely you shall be freed from fearful material contamination and shall ultimately reach Me. Mother, persons who are not conversant with this method of devotional service certainly cannot get out of the cycle of birth and death."
+}
+---
 ====== SB 3.33.11 ======
 
 > श्रद्धत्स्वैतन्मतं मह्यं जुष्टं यद्ब्रह्मवादिभिः ।

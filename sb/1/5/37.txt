@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.37~~
-~~bc:Text 37~~
-
-{{description>Let us all chant the glories of Vāsudeva along with His plenary expansions Pradyumna, Aniruddha and Saṅkarṣaṇa.}}
-
+---json
+{
+    "name":"SB 1.5.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 1.5.37",
+    "description":"Let us all chant the glories of Vāsudeva along with His plenary expansions Pradyumna, Aniruddha and Saṅkarṣaṇa."
+}
+---
 ====== SB 1.5.37 ======
 
 > ओं नमो भगवते तुभ्यं वासुदेवाय धीमहि ।

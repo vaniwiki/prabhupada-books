@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.3~~
-~~bc:Text 3~~
-
-{{description>Sūta Gosvāmī said: O great sages [assembled at Naimiṣāraṇya], after the great yogi Śukadeva Gosvāmī heard King Parīkṣit's inquiry, he praised it and thus replied.}}
-
+---json
+{
+    "name":"SB 6.4.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 6.4.3",
+    "description":"Sūta Gosvāmī said: O great sages [assembled at Naimiṣāraṇya], after the great yogi Śukadeva Gosvāmī heard King Parīkṣit's inquiry, he praised it and thus replied."
+}
+---
 ====== SB 6.4.3 ======
 
 ===== Text =====

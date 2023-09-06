@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.70~~
-~~bc:Text 70~~
-
-{{description>As long as there exists the subtle material body composed of intelligence, mind, senses, sense objects, and the reactions of the material qualities, the consciousness of false identification and its relative objective, the gross body, exist as well.}}
-
+---json
+{
+    "name":"SB 4.29.70",
+    "h1":"Text 70",
+    "title":" Śrīmad Bhāgavatam 4.29.70",
+    "description":"As long as there exists the subtle material body composed of intelligence, mind, senses, sense objects, and the reactions of the material qualities, the consciousness of false identification and its relative objective, the gross body, exist as well."
+}
+---
 ====== SB 4.29.70 ======
 
 > नाहं ममेति भावोऽयं पुरुषे व्यवधीयते ।

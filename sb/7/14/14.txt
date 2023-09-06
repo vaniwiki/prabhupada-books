@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.14~~
-~~bc:Text 14~~
-
-{{description>An intelligent person should be satisfied with eating prasāda [food offered to the Lord] or with performing the five different kinds of yajña [pañca-sūnā]. By such activities, one can give up attachment for the body and so-called proprietorship with reference to the body. When one is able to do this, he is firmly fixed in the position of a mahātmā.}}
-
+---json
+{
+    "name":"SB 7.14.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 7.14.14",
+    "description":"An intelligent person should be satisfied with eating prasāda [food offered to the Lord] or with performing the five different kinds of yajña [pañca-sūnā]. By such activities, one can give up attachment for the body and so-called proprietorship with reference to the body. When one is able to do this, he is firmly fixed in the position of a mahātmā."
+}
+---
 ====== SB 7.14.14 ======
 
 ===== Text =====

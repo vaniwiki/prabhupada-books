@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.23~~
-~~bc:Text 23~~
-
-{{description>Nanda and Sunanda, the two confidential associates of Lord Viṣṇu, said: Dear King, let there be all good fortune unto you. Please attentively hear what we shall say. When you were only five years old, you underwent severe austerities, and you thereby greatly satisfied the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.12.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.12.23",
+    "description":"Nanda and Sunanda, the two confidential associates of Lord Viṣṇu, said: Dear King, let there be all good fortune unto you. Please attentively hear what we shall say. When you were only five years old, you underwent severe austerities, and you thereby greatly satisfied the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.12.23 ======
 
 > सुनन्दनन्दावूचतुः

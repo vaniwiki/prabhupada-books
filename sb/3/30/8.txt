@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.8~~
-~~bc:Text 8~~
-
-{{description>He gives heart and senses to a woman, who falsely charms him with māyā. He enjoys solitary embraces and talking with her, and he is enchanted by the sweet words of the small children.}}
-
+---json
+{
+    "name":"SB 3.30.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.30.8",
+    "description":"He gives heart and senses to a woman, who falsely charms him with māyā. He enjoys solitary embraces and talking with her, and he is enchanted by the sweet words of the small children."
+}
+---
 ====== SB 3.30.8 ======
 
 > आक्षिप्तात्मेन्द्रियः स्त्रीणामसतीनां च मायया ।

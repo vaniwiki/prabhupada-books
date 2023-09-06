@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.15~~
-~~bc:Text 15~~
-
-{{description>They broke all the pots made for use in the sacrifice, and some of them began to extinguish the sacrificial fire. Some tore down the boundary line of the sacrificial arena, and some passed urine on the arena.}}
-
+---json
+{
+    "name":"SB 4.5.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.5.15",
+    "description":"They broke all the pots made for use in the sacrifice, and some of them began to extinguish the sacrificial fire. Some tore down the boundary line of the sacrificial arena, and some passed urine on the arena."
+}
+---
 ====== SB 4.5.15 ======
 
 > रुरुजुर्यज्ञपात्राणि तथैकेऽग्नीननाशयन् ।

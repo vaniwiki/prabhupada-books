@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.17~~
-~~bc:Text 17~~
-
-{{description>The sun illuminates both internally and externally by expanding its radiation; similarly, the Supreme Personality of Godhead, by expanding His universal form, maintains everything in the creation both internally and externally.}}
-
+---json
+{
+    "name":"SB 2.6.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 2.6.17",
+    "description":"The sun illuminates both internally and externally by expanding its radiation; similarly, the Supreme Personality of Godhead, by expanding His universal form, maintains everything in the creation both internally and externally."
+}
+---
 ====== SB 2.6.17 ======
 
 > स्वधिष्ण्यं प्रतपन्प्राणो बहिश्च प्रतपत्यसौ ।

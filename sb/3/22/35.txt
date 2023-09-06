@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.35~~
-~~bc:Text 35~~
-
-{{description>Consequently, although his duration of life gradually came to an end, his long life, consisting of a Manvantara era, was not spent in vain, since he ever engaged in hearing, contemplating, writing down and chanting the pastimes of the Lord.}}
-
+---json
+{
+    "name":"SB 3.22.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.22.35",
+    "description":"Consequently, although his duration of life gradually came to an end, his long life, consisting of a Manvantara era, was not spent in vain, since he ever engaged in hearing, contemplating, writing down and chanting the pastimes of the Lord."
+}
+---
 ====== SB 3.22.35 ======
 
 > अयातयामास्तस्यासन्यामाः स्वान्तरयापनाः ।

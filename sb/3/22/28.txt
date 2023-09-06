@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.28~~
-~~bc:Text 28~~
-
-{{description>Overjoyed to know of his arrival, his subjects came forth from Brahmāvarta to greet their returning lord with songs, prayers and musical instruments.}}
-
+---json
+{
+    "name":"SB 3.22.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.22.28",
+    "description":"Overjoyed to know of his arrival, his subjects came forth from Brahmāvarta to greet their returning lord with songs, prayers and musical instruments."
+}
+---
 ====== SB 3.22.28 ======
 
 > तमायान्तमभिप्रेत्य ब्रह्मावर्तात्प्रजाः पतिम् ।

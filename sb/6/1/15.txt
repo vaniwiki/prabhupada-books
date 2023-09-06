@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.15~~
-~~bc:Text 15~~
-
-{{description>Only a rare person who has adopted complete, unalloyed devotional service to Kṛṣṇa can uproot the weeds of sinful actions with no possibility that they will revive. He can do this simply by discharging devotional service, just as the sun can immediately dissipate fog by its rays.}}
-
+---json
+{
+    "name":"SB 6.1.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.1.15",
+    "description":"Only a rare person who has adopted complete, unalloyed devotional service to Kṛṣṇa can uproot the weeds of sinful actions with no possibility that they will revive. He can do this simply by discharging devotional service, just as the sun can immediately dissipate fog by its rays."
+}
+---
 ====== SB 6.1.15 ======
 
 ===== Text =====

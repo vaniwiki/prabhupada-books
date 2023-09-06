@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.10~~
-~~bc:Text 10~~
-
-{{description>King Citraketu said: You have both come here dressed like avadhūtas, liberated persons, just to cover your identities, but I see that of all men, you are the most elevated in awareness. You know everything as it is. Therefore you are the greatest of all great personalities.}}
-
+---json
+{
+    "name":"SB 6.15.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.15.10",
+    "description":"King Citraketu said: You have both come here dressed like avadhūtas, liberated persons, just to cover your identities, but I see that of all men, you are the most elevated in awareness. You know everything as it is. Therefore you are the greatest of all great personalities."
+}
+---
 ====== SB 6.15.10 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.11~~
-~~bc:Text 11~~
-
-{{description>As a historical example of this, learned sages recite the story of an ancient discussion between Prahlāda Mahārāja and a great saintly person who was feeding himself like a python.}}
-
+---json
+{
+    "name":"SB 7.13.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 7.13.11",
+    "description":"As a historical example of this, learned sages recite the story of an ancient discussion between Prahlāda Mahārāja and a great saintly person who was feeding himself like a python."
+}
+---
 ====== SB 7.13.11 ======
 
 ===== Text =====

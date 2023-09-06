@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.64~~
-~~bc:Text 64~~
-
-{{description>O King, if you accept this conclusion of Mine, being unattached to material enjoyment, adhering to Me with great faith and thus becoming proficient and fully aware of knowledge and its practical application in life, you will achieve the highest perfection by attaining Me.}}
-
+---json
+{
+    "name":"SB 6.16.64",
+    "h1":"Text 64",
+    "title":" Śrīmad Bhāgavatam 6.16.64",
+    "description":"O King, if you accept this conclusion of Mine, being unattached to material enjoyment, adhering to Me with great faith and thus becoming proficient and fully aware of knowledge and its practical application in life, you will achieve the highest perfection by attaining Me."
+}
+---
 ====== SB 6.16.64 ======
 
 ===== Text =====

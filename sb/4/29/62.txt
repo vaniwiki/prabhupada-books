@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.62~~
-~~bc:Text 62~~
-
-{{description>The living entity labors under the bodily conception of "I am this, I am that. My duty is this, and therefore I shall do it." These are all mental impressions, and all these activities are temporary; nonetheless, by the grace of the Supreme Personality of Godhead, the living entity gets a chance to execute all his mental concoctions. Thus he gets another body.}}
-
+---json
+{
+    "name":"SB 4.29.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 4.29.62",
+    "description":"The living entity labors under the bodily conception of "I am this, I am that. My duty is this, and therefore I shall do it." These are all mental impressions, and all these activities are temporary; nonetheless, by the grace of the Supreme Personality of Godhead, the living entity gets a chance to execute all his mental concoctions. Thus he gets another body."
+}
+---
 ====== SB 4.29.62 ======
 
 > ममैते मनसा यद्यदसावहमिति ब्रुवन् ।

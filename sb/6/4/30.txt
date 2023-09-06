@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.30~~
-~~bc:Text 30~~
-
-{{description>The Supreme Brahman, Kṛṣṇa, is the ultimate resting place and source of everything. Everything is done by Him, everything belongs to Him, and everything is offered to Him. He is the ultimate objective, and whether acting or causing others to act, He is the ultimate doer. There are many causes, high and low, but since He is the cause of all causes, He is well known as the Supreme Brahman who existed before all activities. He is one without a second and has no other cause. I therefore offer my respects unto Him.}}
-
+---json
+{
+    "name":"SB 6.4.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 6.4.30",
+    "description":"The Supreme Brahman, Kṛṣṇa, is the ultimate resting place and source of everything. Everything is done by Him, everything belongs to Him, and everything is offered to Him. He is the ultimate objective, and whether acting or causing others to act, He is the ultimate doer. There are many causes, high and low, but since He is the cause of all causes, He is well known as the Supreme Brahman who existed before all activities. He is one without a second and has no other cause. I therefore offer my respects unto Him."
+}
+---
 ====== SB 6.4.30 ======
 
 ===== Text =====

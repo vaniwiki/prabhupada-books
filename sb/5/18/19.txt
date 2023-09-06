@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.19~~
-~~bc:Text 19~~
-
-{{description>My dear Lord, You are certainly the fully independent master of all the senses. Therefore all women who worship You by strictly observing vows because they wish to acquire a husband to satisfy their senses are surely under illusion. They do not know that such a husband cannot actually give protection to them or their children. Nor can he protect their wealth or duration of life, for he himself is dependent on time, fruitive results and the modes of nature, which are all subordinate to You.}}
-
+---json
+{
+    "name":"SB 5.18.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 5.18.19",
+    "description":"My dear Lord, You are certainly the fully independent master of all the senses. Therefore all women who worship You by strictly observing vows because they wish to acquire a husband to satisfy their senses are surely under illusion. They do not know that such a husband cannot actually give protection to them or their children. Nor can he protect their wealth or duration of life, for he himself is dependent on time, fruitive results and the modes of nature, which are all subordinate to You."
+}
+---
 ====== SB 5.18.19 ======
 
 ===== Text =====

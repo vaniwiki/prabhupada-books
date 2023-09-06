@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.16~~
-~~bc:Text 16~~
-
-{{description>Thus disturbed again and again by the unnatural occurrences caused by the followers of Hiraṇyakaśipu, all the people had to cease the activities of Vedic culture. Not receiving the results of yajña, the demigods also became disturbed. They left their residential quarters in the heavenly planets and, unobserved by the demons, began wandering on the planet earth to see the disasters.}}
-
+---json
+{
+    "name":"SB 7.2.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 7.2.16",
+    "description":"Thus disturbed again and again by the unnatural occurrences caused by the followers of Hiraṇyakaśipu, all the people had to cease the activities of Vedic culture. Not receiving the results of yajña, the demigods also became disturbed. They left their residential quarters in the heavenly planets and, unobserved by the demons, began wandering on the planet earth to see the disasters."
+}
+---
 ====== SB 7.2.16 ======
 
 ===== Text =====

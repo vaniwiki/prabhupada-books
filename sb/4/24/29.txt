@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.29~~
-~~bc:Text 29~~
-
-{{description>A person who executes his occupational duty properly for one hundred births becomes qualified to occupy the post of Brahmā, and if he becomes more qualified, he can approach Lord Śiva. A person who is directly surrendered to Lord Kṛṣṇa, or Viṣṇu, in unalloyed devotional service is immediately promoted to the spiritual planets. Lord Śiva and other demigods attain these planets after the destruction of this material world.}}
-
+---json
+{
+    "name":"SB 4.24.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.24.29",
+    "description":"A person who executes his occupational duty properly for one hundred births becomes qualified to occupy the post of Brahmā, and if he becomes more qualified, he can approach Lord Śiva. A person who is directly surrendered to Lord Kṛṣṇa, or Viṣṇu, in unalloyed devotional service is immediately promoted to the spiritual planets. Lord Śiva and other demigods attain these planets after the destruction of this material world."
+}
+---
 ====== SB 4.24.29 ======
 
 > स्वधर्मनिष्ठः शतजन्मभिः पुमान्विरिञ्चतामेति ततः परं हि माम् ।

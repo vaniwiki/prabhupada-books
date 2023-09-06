@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.25~~
-~~bc:Text 25~~
-
-{{description>First of all she sat in the required sitting posture, and then she carried the life air upwards and placed it in the position of equilibrium near the navel. Then she raised her life air, mixed with intelligence, to the heart and then gradually towards the pulmonary passage and from there to between her eyebrows.}}
-
+---json
+{
+    "name":"SB 4.4.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.4.25",
+    "description":"First of all she sat in the required sitting posture, and then she carried the life air upwards and placed it in the position of equilibrium near the navel. Then she raised her life air, mixed with intelligence, to the heart and then gradually towards the pulmonary passage and from there to between her eyebrows."
+}
+---
 ====== SB 4.4.25 ======
 
 > कृत्वा समानावनिलौ जितासना सोदानमुत्थाप्य च नाभिचक्रतः ।

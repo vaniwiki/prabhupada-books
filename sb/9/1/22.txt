@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.22~~
-~~bc:Text 22~~
-
-{{description>The Supreme Personality of Godhead, the supreme controller, being pleased with Vasiṣṭha, gave him the benediction he desired. Thus Ilā was transformed into a very fine male named Sudyumna.}}
-
+---json
+{
+    "name":"SB 9.1.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 9.1.22",
+    "description":"The Supreme Personality of Godhead, the supreme controller, being pleased with Vasiṣṭha, gave him the benediction he desired. Thus Ilā was transformed into a very fine male named Sudyumna."
+}
+---
 ====== SB 9.1.22 ======
 
 ===== Text =====

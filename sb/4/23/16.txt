@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.16~~
-~~bc:Text 16~~
-
-{{description>In this way, according to the different positions of the various parts of the body, Pṛthu Mahārāja merged the holes of his senses with the sky; his bodily liquids, such as blood and various secretions, with the totality of water; and he merged earth with water, then water with fire, fire with air, air with sky, and so on.}}
-
+---json
+{
+    "name":"SB 4.23.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.23.16",
+    "description":"In this way, according to the different positions of the various parts of the body, Pṛthu Mahārāja merged the holes of his senses with the sky; his bodily liquids, such as blood and various secretions, with the totality of water; and he merged earth with water, then water with fire, fire with air, air with sky, and so on."
+}
+---
 ====== SB 4.23.16 ======
 
 > खान्याकाशे द्रवं तोये यथास्थानं विभागशः ।

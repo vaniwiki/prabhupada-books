@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.26-27~~
-~~bc:Text 26-27~~
-
-{{description>But since his heart was already attracted by the deities, somehow or other he gathered his senses, and with folded hands and sweet words he began to offer prayers to the predominating deities of the universe. The great sage Atri said: O Lord Brahmā, Lord Viṣṇu and Lord Śiva, you have divided yourself into three bodies by accepting the three modes of material nature, as you do in every millennium for the creation, maintenance and dissolution of the cosmic manifestation. I offer my respectful obeisances unto all of you and beg to inquire whom of you three I have called by my prayer.}}
-
+---json
+{
+    "name":"SB 4.1.26-27",
+    "h1":"Text 26-27",
+    "title":" Śrīmad Bhāgavatam 4.1.26-27",
+    "description":"But since his heart was already attracted by the deities, somehow or other he gathered his senses, and with folded hands and sweet words he began to offer prayers to the predominating deities of the universe. The great sage Atri said: O Lord Brahmā, Lord Viṣṇu and Lord Śiva, you have divided yourself into three bodies by accepting the three modes of material nature, as you do in every millennium for the creation, maintenance and dissolution of the cosmic manifestation. I offer my respectful obeisances unto all of you and beg to inquire whom of you three I have called by my prayer."
+}
+---
 ====== SB 4.1.26-27 ======
 
 > चेतस्तत्प्रवणं युञ्जन्नस्तावीत्संहताञ्जलिः ।

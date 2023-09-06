@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.39~~
-~~bc:Text 39~~
-
-{{description>From the forefront of the chest up to the neck of the universal form of the Lord are situated the planetary systems named Janaloka and Tapoloka, whereas Satyaloka, the topmost planetary system, is situated on the head of the form. The spiritual planets, however, are eternal.}}
-
+---json
+{
+    "name":"SB 2.5.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 2.5.39",
+    "description":"From the forefront of the chest up to the neck of the universal form of the Lord are situated the planetary systems named Janaloka and Tapoloka, whereas Satyaloka, the topmost planetary system, is situated on the head of the form. The spiritual planets, however, are eternal."
+}
+---
 ====== SB 2.5.39 ======
 
 > ग्रीवायां जनलोकोऽस्य तपोलोकः स्तनद्वयात् ।

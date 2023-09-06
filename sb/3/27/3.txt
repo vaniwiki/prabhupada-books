@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.3~~
-~~bc:Text 3~~
-
-{{description>The conditioned soul therefore transmigrates into different species of life, higher and lower, because of his association with the modes of material nature. Unless he is relieved of material activities, he has to accept this position because of his faulty work.}}
-
+---json
+{
+    "name":"SB 3.27.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.27.3",
+    "description":"The conditioned soul therefore transmigrates into different species of life, higher and lower, because of his association with the modes of material nature. Unless he is relieved of material activities, he has to accept this position because of his faulty work."
+}
+---
 ====== SB 3.27.3 ======
 
 > तेन संसारपदवीमवशोऽभ्येत्यनिर्वृतः ।

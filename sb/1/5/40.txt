@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.40~~
-~~bc:Text 40~~
-
-{{description>Please, therefore, describe the Almighty Lord's activities which you have learned by your vast knowledge of the Vedas, for that will satisfy the hankerings of great learned men and at the same time mitigate the miseries of the masses of common people who are always suffering from material pangs. Indeed, there is no other way to get out of such miseries.}}
-
+---json
+{
+    "name":"SB 1.5.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 1.5.40",
+    "description":"Please, therefore, describe the Almighty Lord's activities which you have learned by your vast knowledge of the Vedas, for that will satisfy the hankerings of great learned men and at the same time mitigate the miseries of the masses of common people who are always suffering from material pangs. Indeed, there is no other way to get out of such miseries."
+}
+---
 ====== SB 1.5.40 ======
 
 > त्वमप्यदभ्रश्रुत विश्रुतं विभोः समाप्यते येन विदां बुभुत्सितम् ।

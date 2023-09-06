@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.12~~
-~~bc:Text 12~~
-
-{{description>Lord Rāmacandra, whose lotus feet are worshiped by Lord Brahmā and Lord Śiva, had assumed the form of a human being. Thus He performed the funeral ceremony of Jaṭāyu, who was killed by Rāvaṇa. The Lord then killed the demon named Kabandha, and after making friends with the monkey chiefs, killing Vāli and arranging for the deliverance of mother Sītā, He went to the beach of the ocean.}}
-
+---json
+{
+    "name":"SB 9.10.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 9.10.12",
+    "description":"Lord Rāmacandra, whose lotus feet are worshiped by Lord Brahmā and Lord Śiva, had assumed the form of a human being. Thus He performed the funeral ceremony of Jaṭāyu, who was killed by Rāvaṇa. The Lord then killed the demon named Kabandha, and after making friends with the monkey chiefs, killing Vāli and arranging for the deliverance of mother Sītā, He went to the beach of the ocean."
+}
+---
 ====== SB 9.10.12 ======
 
 ===== Text =====

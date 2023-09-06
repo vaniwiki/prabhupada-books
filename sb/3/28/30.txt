@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.30~~
-~~bc:Text 30~~
-
-{{description>The yogi then meditates upon the beautiful face of the Lord, which is adorned with curly hair and decorated by lotuslike eyes and dancing eyebrows. A lotus surrounded by swarming bees and a pair of swimming fish would be put to shame by its elegance.}}
-
+---json
+{
+    "name":"SB 3.28.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.28.30",
+    "description":"The yogi then meditates upon the beautiful face of the Lord, which is adorned with curly hair and decorated by lotuslike eyes and dancing eyebrows. A lotus surrounded by swarming bees and a pair of swimming fish would be put to shame by its elegance."
+}
+---
 ====== SB 3.28.30 ======
 
 > यच्छ्रीनिकेतमलिभिः परिसेव्यमानं

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.11.12~~
-~~bc:Text 12~~
-
-{{description>The individual soul bereft of Kṛṣṇa consciousness has many ideas and activities created in the mind by the external energy. They have been existing from time immemorial. Sometimes they are manifest in the wakening state and in the dream state, but during deep sleep [unconsciousness] or trance, they disappear. A person who is liberated in this life [jīvan-mukta] can see all these things vividly.}}
-
+---json
+{
+    "name":"SB 5.11.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.11.12",
+    "description":"The individual soul bereft of Kṛṣṇa consciousness has many ideas and activities created in the mind by the external energy. They have been existing from time immemorial. Sometimes they are manifest in the wakening state and in the dream state, but during deep sleep [unconsciousness] or trance, they disappear. A person who is liberated in this life [jīvan-mukta] can see all these things vividly."
+}
+---
 ====== SB 5.11.12 ======
 
 ===== Text =====

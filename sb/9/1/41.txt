@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.41~~
-~~bc:Text 41~~
-
-{{description>O King, Sudyumna had three very pious sons, named Utkala, Gaya and Vimala, who became the kings of the Dakṣiṇā-patha.}}
-
+---json
+{
+    "name":"SB 9.1.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 9.1.41",
+    "description":"O King, Sudyumna had three very pious sons, named Utkala, Gaya and Vimala, who became the kings of the Dakṣiṇā-patha."
+}
+---
 ====== SB 9.1.41 ======
 
 ===== Text =====

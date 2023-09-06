@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.40~~
-~~bc:Text 40~~
-
-{{description>The glorious Brahmā next evolved from his sloth the ghosts and fiends, but he closed his eyes when he saw them stand naked with their hair scattered.}}
-
+---json
+{
+    "name":"SB 3.20.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 3.20.40",
+    "description":"The glorious Brahmā next evolved from his sloth the ghosts and fiends, but he closed his eyes when he saw them stand naked with their hair scattered."
+}
+---
 ====== SB 3.20.40 ======
 
 > सृष्ट्वा भूतपिशाचांश्च भगवानात्मतन्द्रिणा ।

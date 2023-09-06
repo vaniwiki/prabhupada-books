@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.11~~
-~~bc:Text 11~~
-
-{{description>Svāyambhuva Manu handed over his daughter Prasūti to the son of Brahmā named Dakṣa, who was also one of the progenitors of the living entities. The descendants of Dakṣa are spread throughout the three worlds.}}
-
+---json
+{
+    "name":"SB 4.1.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.1.11",
+    "description":"Svāyambhuva Manu handed over his daughter Prasūti to the son of Brahmā named Dakṣa, who was also one of the progenitors of the living entities. The descendants of Dakṣa are spread throughout the three worlds."
+}
+---
 ====== SB 4.1.11 ======
 
 > दक्षाय ब्रह्मपुत्राय प्रसूतिं भगवान्मनुः ।

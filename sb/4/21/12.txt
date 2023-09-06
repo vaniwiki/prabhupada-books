@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.12~~
-~~bc:Text 12~~
-
-{{description>Mahārāja Pṛthu was an unrivaled king and possessed the scepter for ruling all the seven islands on the surface of the globe. No one could disobey his irrevocable orders but the saintly persons, the brāhmaṇas and the descendants of the Supreme Personality of Godhead [the Vaiṣṇavas].}}
-
+---json
+{
+    "name":"SB 4.21.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.21.12",
+    "description":"Mahārāja Pṛthu was an unrivaled king and possessed the scepter for ruling all the seven islands on the surface of the globe. No one could disobey his irrevocable orders but the saintly persons, the brāhmaṇas and the descendants of the Supreme Personality of Godhead [the Vaiṣṇavas]."
+}
+---
 ====== SB 4.21.12 ======
 
 > सर्वत्रास्खलितादेशः सप्तद्वीपैकदण्डधृक् ।

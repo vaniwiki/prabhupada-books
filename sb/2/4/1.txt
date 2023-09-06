@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.1~~
-~~bc:Text 1~~
-
-{{description>Sūta Gosvāmī said: Mahārāja Parīkṣit, the son of Uttarā, after hearing the speeches of Śukadeva Gosvāmī, which were all about the truth of the self, applied his concentration faithfully upon Lord Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 2.4.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 2.4.1",
+    "description":"Sūta Gosvāmī said: Mahārāja Parīkṣit, the son of Uttarā, after hearing the speeches of Śukadeva Gosvāmī, which were all about the truth of the self, applied his concentration faithfully upon Lord Kṛṣṇa."
+}
+---
 ====== SB 2.4.1 ======
 
 > सूत उवाच

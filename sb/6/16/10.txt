@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.10~~
-~~bc:Text 10~~
-
-{{description>For this living entity, no one is dear, nor is anyone unfavorable. He makes no distinction between that which is his own and that which belongs to anyone else. He is one without a second; in other words, he is not affected by friends and enemies, well-wishers or mischief-mongers. He is only an observer, a witness, of the different qualities of men.}}
-
+---json
+{
+    "name":"SB 6.16.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.16.10",
+    "description":"For this living entity, no one is dear, nor is anyone unfavorable. He makes no distinction between that which is his own and that which belongs to anyone else. He is one without a second; in other words, he is not affected by friends and enemies, well-wishers or mischief-mongers. He is only an observer, a witness, of the different qualities of men."
+}
+---
 ====== SB 6.16.10 ======
 
 ===== Text =====

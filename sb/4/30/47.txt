@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.47~~
-~~bc:Text 47~~
-
-{{description>The remaining trees, being very much afraid of the Pracetās, immediately delivered their daughter at the advice of Lord Brahmā.}}
-
+---json
+{
+    "name":"SB 4.30.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 4.30.47",
+    "description":"The remaining trees, being very much afraid of the Pracetās, immediately delivered their daughter at the advice of Lord Brahmā."
+}
+---
 ====== SB 4.30.47 ======
 
 > तत्रावशिष्टा ये वृक्षा भीता दुहितरं तदा ।

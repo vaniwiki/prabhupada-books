@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.19~~
-~~bc:Text 19~~
-
-{{description>It was being heard here and there that the benedictions being paid to Kṛṣṇa were neither befitting nor unbefitting because they were all for the Absolute, who was now playing the part of a human being.}}
-
+---json
+{
+    "name":"SB 1.10.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.10.19",
+    "description":"It was being heard here and there that the benedictions being paid to Kṛṣṇa were neither befitting nor unbefitting because they were all for the Absolute, who was now playing the part of a human being."
+}
+---
 ====== SB 1.10.19 ======
 
 > अश्रूयन्ताशिषः सत्यास्तत्र तत्र द्विजेरिताः ।

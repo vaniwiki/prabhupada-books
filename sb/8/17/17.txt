@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.17~~
-~~bc:Text 17~~
-
-{{description>Yet because I have been satisfied by the activities of your vow, O goddess Aditi, I must find some means to favor you, for worship of Me never goes in vain but certainly gives the desired result according to what one deserves.}}
-
+---json
+{
+    "name":"SB 8.17.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 8.17.17",
+    "description":"Yet because I have been satisfied by the activities of your vow, O goddess Aditi, I must find some means to favor you, for worship of Me never goes in vain but certainly gives the desired result according to what one deserves."
+}
+---
 ====== SB 8.17.17 ======
 
 ===== Text =====

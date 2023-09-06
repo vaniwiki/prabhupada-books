@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.7~~
-~~bc:Text 7~~
-
-{{description>The Lord's body is blackish, but is eternal, full of bliss and knowledge, and very, very beautiful. His eyes are always peaceful, and they are reddish like the rising morning sun. I could immediately recognize Him as the Supreme Personality of Godhead by His four hands, different symbolic representations, and yellow silk garments.}}
-
+---json
+{
+    "name":"SB 3.4.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.4.7",
+    "description":"The Lord's body is blackish, but is eternal, full of bliss and knowledge, and very, very beautiful. His eyes are always peaceful, and they are reddish like the rising morning sun. I could immediately recognize Him as the Supreme Personality of Godhead by His four hands, different symbolic representations, and yellow silk garments."
+}
+---
 ====== SB 3.4.7 ======
 
 > श्यामावदातं विरजं प्रशान्तारुणलोचनम् ।

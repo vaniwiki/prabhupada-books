@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.6~~
-~~bc:Text 6~~
-
-{{description>In Jambūdvīpa there are nine divisions of land, each with a length of 9,000 yojanas [72,000 miles]. There are eight mountains that mark the boundaries of these divisions and separate them nicely.}}
-
+---json
+{
+    "name":"SB 5.16.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.16.6",
+    "description":"In Jambūdvīpa there are nine divisions of land, each with a length of 9,000 yojanas [72,000 miles]. There are eight mountains that mark the boundaries of these divisions and separate them nicely."
+}
+---
 ====== SB 5.16.6 ======
 
 ===== Text =====

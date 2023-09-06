@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.35~~
-~~bc:Text 35~~
-
-{{description>All of these demigods and demons assembled on the battlefield with a fighting spirit and attacked one another with great strength. All of them desiring victory, they fought in pairs, hitting one another severely with sharpened arrows, swords and lances.}}
-
+---json
+{
+    "name":"SB 8.10.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 8.10.35",
+    "description":"All of these demigods and demons assembled on the battlefield with a fighting spirit and attacked one another with great strength. All of them desiring victory, they fought in pairs, hitting one another severely with sharpened arrows, swords and lances."
+}
+---
 ====== SB 8.10.35 ======
 
 ===== Text =====

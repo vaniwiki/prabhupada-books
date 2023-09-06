@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.29~~
-~~bc:Text 29~~
-
-{{description>Because of the actions of the Supreme Lord's external energy, the living entities are conditioned in contact with material bodies. The dualities of happiness and distress, birth and death, curses and favors, are natural by-products of this contact in the material world.}}
-
+---json
+{
+    "name":"SB 6.17.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 6.17.29",
+    "description":"Because of the actions of the Supreme Lord's external energy, the living entities are conditioned in contact with material bodies. The dualities of happiness and distress, birth and death, curses and favors, are natural by-products of this contact in the material world."
+}
+---
 ====== SB 6.17.29 ======
 
 ===== Text =====

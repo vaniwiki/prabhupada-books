@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.36~~
-~~bc:Text 36~~
-
-{{description>Svāyambhuva Manu, with his wife, mounted his chariot, which was decorated with golden ornaments. Placing his daughter on it with them, he began traveling all over the earth.}}
-
+---json
+{
+    "name":"SB 3.21.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 3.21.36",
+    "description":"Svāyambhuva Manu, with his wife, mounted his chariot, which was decorated with golden ornaments. Placing his daughter on it with them, he began traveling all over the earth."
+}
+---
 ====== SB 3.21.36 ======
 
 > मनुः स्यन्दनमास्थाय शातकौम्भपरिच्छदम् ।

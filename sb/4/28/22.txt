@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.22~~
-~~bc:Text 22~~
-
-{{description>Although King Purañjana should not have lamented over the fate of his wife and children, he nonetheless did so due to his miserly intelligence. In the meantime, Yavana-rāja, whose name was fear itself, immediately drew near to arrest him.}}
-
+---json
+{
+    "name":"SB 4.28.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.28.22",
+    "description":"Although King Purañjana should not have lamented over the fate of his wife and children, he nonetheless did so due to his miserly intelligence. In the meantime, Yavana-rāja, whose name was fear itself, immediately drew near to arrest him."
+}
+---
 ====== SB 4.28.22 ======
 
 > एवं कृपणया बुद्ध्या शोचन्तमतदर्हणम् ।

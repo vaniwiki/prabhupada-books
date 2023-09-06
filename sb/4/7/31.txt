@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.31~~
-~~bc:Text 31~~
-
-{{description>Lord Brahmā said: My dear Lord, Your personality and eternal form cannot be understood by any person who is trying to know You through the different processes of acquiring knowledge. Your position is always transcendental to the material creation, whereas the empiric attempt to understand You is material, as are its objectives and instruments.}}
-
+---json
+{
+    "name":"SB 4.7.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.7.31",
+    "description":"Lord Brahmā said: My dear Lord, Your personality and eternal form cannot be understood by any person who is trying to know You through the different processes of acquiring knowledge. Your position is always transcendental to the material creation, whereas the empiric attempt to understand You is material, as are its objectives and instruments."
+}
+---
 ====== SB 4.7.31 ======
 
 > ब्रह्मोवाच

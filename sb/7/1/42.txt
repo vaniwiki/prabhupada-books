@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.42~~
-~~bc:Text 42~~
-
-{{description>Desiring to kill his son Prahlāda, who was a great devotee of Lord Viṣṇu, Hiraṇyakaśipu tortured him in many ways.}}
-
+---json
+{
+    "name":"SB 7.1.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 7.1.42",
+    "description":"Desiring to kill his son Prahlāda, who was a great devotee of Lord Viṣṇu, Hiraṇyakaśipu tortured him in many ways."
+}
+---
 ====== SB 7.1.42 ======
 
 ===== Text =====

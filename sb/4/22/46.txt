@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.46~~
-~~bc:Text 46~~
-
-{{description>The kṣatriyas, vaiśyas and śūdras eat their food by virtue of the brāhmaṇas' mercy. It is the brāhmaṇas who enjoy their own property, clothe themselves with their own property and give charity with their own property.}}
-
+---json
+{
+    "name":"SB 4.22.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.22.46",
+    "description":"The kṣatriyas, vaiśyas and śūdras eat their food by virtue of the brāhmaṇas' mercy. It is the brāhmaṇas who enjoy their own property, clothe themselves with their own property and give charity with their own property."
+}
+---
 ====== SB 4.22.46 ======
 
 > स्वमेव ब्राह्मणो भुङ्क्ते स्वं वस्ते स्वं ददाति च ।

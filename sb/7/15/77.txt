@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.77~~
-~~bc:Text 77~~
-
-{{description>Present here now is the same Supreme Personality of Godhead whose true form cannot be understood even by such great personalities as Lord Brahmā and Lord Śiva. He is realized by devotees because of their unflinching surrender. May that same Personality of Godhead, who is the maintainer of His devotees and who is worshiped by silence, by devotional service and by cessation of material activities, be pleased with us.}}
-
+---json
+{
+    "name":"SB 7.15.77",
+    "h1":"Text 77",
+    "title":" Śrīmad Bhāgavatam 7.15.77",
+    "description":"Present here now is the same Supreme Personality of Godhead whose true form cannot be understood even by such great personalities as Lord Brahmā and Lord Śiva. He is realized by devotees because of their unflinching surrender. May that same Personality of Godhead, who is the maintainer of His devotees and who is worshiped by silence, by devotional service and by cessation of material activities, be pleased with us."
+}
+---
 ====== SB 7.15.77 ======
 
 ===== Text =====

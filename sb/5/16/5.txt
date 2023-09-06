@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.5~~
-~~bc:Text 5~~
-
-{{description>The planetary system known as Bhū-maṇḍala resembles a lotus flower, and its seven islands resemble the whorl of that flower. The length and breadth of the island known as Jambūdvīpa, which is situated in the middle of the whorl, are one million yojanas [eight million miles]. Jambūdvīpa is round like the leaf of a lotus flower.}}
-
+---json
+{
+    "name":"SB 5.16.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.16.5",
+    "description":"The planetary system known as Bhū-maṇḍala resembles a lotus flower, and its seven islands resemble the whorl of that flower. The length and breadth of the island known as Jambūdvīpa, which is situated in the middle of the whorl, are one million yojanas [eight million miles]. Jambūdvīpa is round like the leaf of a lotus flower."
+}
+---
 ====== SB 5.16.5 ======
 
 ===== Text =====

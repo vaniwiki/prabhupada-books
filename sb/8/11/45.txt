@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.45~~
-~~bc:Text 45~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Accepting the words of Nārada, the demigods gave up their anger and stopped fighting. Being praised by their followers, they returned to their heavenly planets.}}
-
+---json
+{
+    "name":"SB 8.11.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 8.11.45",
+    "description":"Śrī Śukadeva Gosvāmī said: Accepting the words of Nārada, the demigods gave up their anger and stopped fighting. Being praised by their followers, they returned to their heavenly planets."
+}
+---
 ====== SB 8.11.45 ======
 
 ===== Text =====

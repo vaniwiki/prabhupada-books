@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.13~~
-~~bc:Text 13~~
-
-{{description>My dear friend, what do you eat to maintain your body? Because you are chewing betel, a pleasing scent is emanating from your mouth. This proves that you always eat the remnants of food offered to Viṣṇu. Indeed, you must also be an expansion of Lord Viṣṇu's body. Your face is as beautiful as a pleasing lake. Your jeweled earrings resemble two brilliant sharks with unblinking eyes like those of Viṣṇu, and your own eyes resemble two restless fish. Simultaneously, therefore, two sharks and two restless fish are swimming in the lake of your face. Besides them, the white rows of your teeth seem like rows of very beautiful swans in the water, and your scattered hair resembles swarms of bumblebees following the beauty of your face.}}
-
+---json
+{
+    "name":"SB 5.2.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.2.13",
+    "description":"My dear friend, what do you eat to maintain your body? Because you are chewing betel, a pleasing scent is emanating from your mouth. This proves that you always eat the remnants of food offered to Viṣṇu. Indeed, you must also be an expansion of Lord Viṣṇu's body. Your face is as beautiful as a pleasing lake. Your jeweled earrings resemble two brilliant sharks with unblinking eyes like those of Viṣṇu, and your own eyes resemble two restless fish. Simultaneously, therefore, two sharks and two restless fish are swimming in the lake of your face. Besides them, the white rows of your teeth seem like rows of very beautiful swans in the water, and your scattered hair resembles swarms of bumblebees following the beauty of your face."
+}
+---
 ====== SB 5.2.13 ======
 
 ===== Text =====

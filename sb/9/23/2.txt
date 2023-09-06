@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.2~~
-~~bc:Text 2~~
-
-{{description>From Sṛñjaya came a son named Janamejaya. From Janamejaya came Mahāśāla; from Mahāśāla, Mahāmanā; and from Mahāmanā two sons, named Uśīnara and Titikṣu.}}
-
+---json
+{
+    "name":"SB 9.23.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.23.2",
+    "description":"From Sṛñjaya came a son named Janamejaya. From Janamejaya came Mahāśāla; from Mahāśāla, Mahāmanā; and from Mahāmanā two sons, named Uśīnara and Titikṣu."
+}
+---
 ====== SB 9.23.2 ======
 
 ===== Text =====

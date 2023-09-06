@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.46~~
-~~bc:Text 46~~
-
-{{description>Śukadeva Gosvāmī said: After thus instructing His father and mother, the Supreme Personality of Godhead, Kṛṣṇa, remained silent. In their presence, by His internal energy, He then transformed Himself into a small human child. [In other words, He transformed Himself into His original form: kṛṣṇas tu bhagavān svayam.}}
-
+---json
+{
+    "name":"SB 10.3.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 10.3.46",
+    "description":"Śukadeva Gosvāmī said: After thus instructing His father and mother, the Supreme Personality of Godhead, Kṛṣṇa, remained silent. In their presence, by His internal energy, He then transformed Himself into a small human child. [In other words, He transformed Himself into His original form: kṛṣṇas tu bhagavān svayam."
+}
+---
 ====== SB 10.3.46 ======
 
 ===== Text =====

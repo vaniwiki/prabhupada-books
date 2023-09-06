@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.30~~
-~~bc:Text 30~~
-
-{{description>I offer my respectful obeisances unto You, the Supreme Person. Being very subtle, You are never visible to material eyes. You are the knower of the twenty-four elements, and You are the inaugurator of the sāṅkhya-yoga system.}}
-
+---json
+{
+    "name":"SB 8.16.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 8.16.30",
+    "description":"I offer my respectful obeisances unto You, the Supreme Person. Being very subtle, You are never visible to material eyes. You are the knower of the twenty-four elements, and You are the inaugurator of the sāṅkhya-yoga system."
+}
+---
 ====== SB 8.16.30 ======
 
 ===== Text =====

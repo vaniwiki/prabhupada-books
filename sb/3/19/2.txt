@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.2~~
-~~bc:Text 2~~
-
-{{description>The Lord, who had appeared from the nostril of Brahmā, sprang and aimed His mace at the chin of His enemy, the Hiraṇyākṣa demon, who was stalking fearlessly before Him.}}
-
+---json
+{
+    "name":"SB 3.19.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.19.2",
+    "description":"The Lord, who had appeared from the nostril of Brahmā, sprang and aimed His mace at the chin of His enemy, the Hiraṇyākṣa demon, who was stalking fearlessly before Him."
+}
+---
 ====== SB 3.19.2 ======
 
 > ततः सपत्नं मुखतश्चरन्तमकुतोभयम् ।

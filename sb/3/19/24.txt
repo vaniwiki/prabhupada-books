@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.24~~
-~~bc:Text 24~~
-
-{{description>When the demon saw his magic forces dispelled, he once again came into the presence of the Personality of Godhead, Keśava, and, full of rage, tried to embrace Him within his arms to crush Him. But to his great amazement he found the Lord standing outside the circle of his arms.}}
-
+---json
+{
+    "name":"SB 3.19.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.19.24",
+    "description":"When the demon saw his magic forces dispelled, he once again came into the presence of the Personality of Godhead, Keśava, and, full of rage, tried to embrace Him within his arms to crush Him. But to his great amazement he found the Lord standing outside the circle of his arms."
+}
+---
 ====== SB 3.19.24 ======
 
 > विनष्टासु स्वमायासु भूयश्चाव्रज्य केशवम् ।

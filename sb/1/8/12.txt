@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.12~~
-~~bc:Text 12~~
-
-{{description>O foremost among the great thinkers [munis] [Śaunaka], seeing the glaring brahmāstra proceeding towards them, the Pāṇḍavas took up their five respective weapons.}}
-
+---json
+{
+    "name":"SB 1.8.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.8.12",
+    "description":"O foremost among the great thinkers [munis] [Śaunaka], seeing the glaring brahmāstra proceeding towards them, the Pāṇḍavas took up their five respective weapons."
+}
+---
 ====== SB 1.8.12 ======
 
 > तर्ह्येवाथ मुनिश्रेष्ठ पाण्डवाः पञ्च सायकान् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.33~~
-~~bc:Text 33~~
-
-{{description>O King, the rivers are the veins of the gigantic body, the trees are the hairs of His body, and the omnipotent air is His breath. The passing ages are His movements, and His activities are the reactions of the three modes of material nature.}}
-
+---json
+{
+    "name":"SB 2.1.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 2.1.33",
+    "description":"O King, the rivers are the veins of the gigantic body, the trees are the hairs of His body, and the omnipotent air is His breath. The passing ages are His movements, and His activities are the reactions of the three modes of material nature."
+}
+---
 ====== SB 2.1.33 ======
 
 > नाड्योऽस्य नद्योऽथ तनूरुहाणि महीरुहा विश्वतनोर्नृपेन्द्र ।

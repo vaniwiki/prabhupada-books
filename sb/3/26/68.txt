@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.68~~
-~~bc:Text 68~~
-
-{{description>The ocean entered His abdomen with hunger and thirst, but the Cosmic Being refused to rise even then. The moon-god entered His heart with the mind, but the Cosmic Being would not be roused.}}
-
+---json
+{
+    "name":"SB 3.26.68",
+    "h1":"Text 68",
+    "title":" Śrīmad Bhāgavatam 3.26.68",
+    "description":"The ocean entered His abdomen with hunger and thirst, but the Cosmic Being refused to rise even then. The moon-god entered His heart with the mind, but the Cosmic Being would not be roused."
+}
+---
 ====== SB 3.26.68 ======
 
 > क्षुत्तृड्भ्यामुदरं सिन्धुर्नोदतिष्ठत्तदा विराट् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.4~~
-~~bc:Text 4~~
-
-{{description>O unborn one, learned Vedic scholars who are advanced in spiritual knowledge certainly know that this material world is perishable, as do other logicians and philosophers. In trance they realize the factual position of this world, and they preach the truth as well. Yet even they are sometimes bewildered by Your illusory energy. This is Your own wonderful pastime. Therefore, I can understand that Your illusory energy is very wonderful, and I offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 5.18.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 5.18.4",
+    "description":"O unborn one, learned Vedic scholars who are advanced in spiritual knowledge certainly know that this material world is perishable, as do other logicians and philosophers. In trance they realize the factual position of this world, and they preach the truth as well. Yet even they are sometimes bewildered by Your illusory energy. This is Your own wonderful pastime. Therefore, I can understand that Your illusory energy is very wonderful, and I offer my respectful obeisances unto You."
+}
+---
 ====== SB 5.18.4 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.78~~
-~~bc:Text 78~~
-
-{{description>As long as we desire to enjoy sense gratification, we create material activities. When the living entity acts in the material field, he enjoys the senses, and while enjoying the senses, he creates another series of material activities. In this way the living entity becomes entrapped as a conditioned soul.}}
-
+---json
+{
+    "name":"SB 4.29.78",
+    "h1":"Text 78",
+    "title":" Śrīmad Bhāgavatam 4.29.78",
+    "description":"As long as we desire to enjoy sense gratification, we create material activities. When the living entity acts in the material field, he enjoys the senses, and while enjoying the senses, he creates another series of material activities. In this way the living entity becomes entrapped as a conditioned soul."
+}
+---
 ====== SB 4.29.78 ======
 
 > यदाक्षैश्चरितान्ध्यायन्कर्माण्याचिनुतेऽसकृत् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.26~~
-~~bc:Text 26~~
-
-{{description>O King Parīkṣit, as soon as Sudyumna, who was expert in subduing enemies, entered the forest, he saw himself transformed into a female and his horse transformed into a mare.}}
-
+---json
+{
+    "name":"SB 9.1.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.1.26",
+    "description":"O King Parīkṣit, as soon as Sudyumna, who was expert in subduing enemies, entered the forest, he saw himself transformed into a female and his horse transformed into a mare."
+}
+---
 ====== SB 9.1.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.17~~
-~~bc:Text 17~~
-
-{{description>Thereafter, Bali Mahārāja begot one hundred sons in the womb of Aśanā. Of these one hundred sons, King Bāṇa was the eldest. The activities of Bali Mahārāja, which are very laudable, will be described later [in the Eighth Canto].}}
-
+---json
+{
+    "name":"SB 6.18.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 6.18.17",
+    "description":"Thereafter, Bali Mahārāja begot one hundred sons in the womb of Aśanā. Of these one hundred sons, King Bāṇa was the eldest. The activities of Bali Mahārāja, which are very laudable, will be described later [in the Eighth Canto]."
+}
+---
 ====== SB 6.18.17 ======
 
 ===== Text =====

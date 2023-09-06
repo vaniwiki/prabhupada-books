@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.24~~
-~~bc:Text 24~~
-
-{{description>O mother, you are now unnecessarily angry, but since all my happiness and distress are destined by my past activities, I do not plead to be excused or relieved from your curse. Although what I have said is not wrong, please let whatever you think is wrong be pardoned.}}
-
+---json
+{
+    "name":"SB 6.17.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.17.24",
+    "description":"O mother, you are now unnecessarily angry, but since all my happiness and distress are destined by my past activities, I do not plead to be excused or relieved from your curse. Although what I have said is not wrong, please let whatever you think is wrong be pardoned."
+}
+---
 ====== SB 6.17.24 ======
 
 ===== Text =====

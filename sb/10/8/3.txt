@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.3~~
-~~bc:Text 3~~
-
-{{description>When Gargamuni had been properly received as a guest and was very comfortably seated, Nanda Mahārāja submitted with gentle and submissive words: Dear sir, because you are a devotee, you are full in everything. Yet my duty is to serve you. Kindly order me. What can I do for you?}}
-
+---json
+{
+    "name":"SB 10.8.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 10.8.3",
+    "description":"When Gargamuni had been properly received as a guest and was very comfortably seated, Nanda Mahārāja submitted with gentle and submissive words: Dear sir, because you are a devotee, you are full in everything. Yet my duty is to serve you. Kindly order me. What can I do for you?"
+}
+---
 ====== SB 10.8.3 ======
 
 ===== Text =====

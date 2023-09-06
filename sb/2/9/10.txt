@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.10~~
-~~bc:Text 10~~
-
-{{description>In that personal abode of the Lord, the material modes of ignorance and passion do not prevail, nor is there any of their influence in goodness. There is no predominance of the influence of time, so what to speak of the illusory, external energy; it cannot enter that region. Without discrimination, both the demigods and the demons worship the Lord as devotees.}}
-
+---json
+{
+    "name":"SB 2.9.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 2.9.10",
+    "description":"In that personal abode of the Lord, the material modes of ignorance and passion do not prevail, nor is there any of their influence in goodness. There is no predominance of the influence of time, so what to speak of the illusory, external energy; it cannot enter that region. Without discrimination, both the demigods and the demons worship the Lord as devotees."
+}
+---
 ====== SB 2.9.10 ======
 
 > प्रवर्तते यत्र रजस्तमस्तयोः सत्त्वं च मिश्रं न च कालविक्रमः ।

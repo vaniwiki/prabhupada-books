@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.3~~
-~~bc:Text 3~~
-
-{{description>The great sages said: The male is a plenary expansion of the power of Lord Viṣṇu, who maintains the entire universe, and the female is a plenary expansion of the goddess of fortune, who is never separated from the Lord.}}
-
+---json
+{
+    "name":"SB 4.15.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.15.3",
+    "description":"The great sages said: The male is a plenary expansion of the power of Lord Viṣṇu, who maintains the entire universe, and the female is a plenary expansion of the goddess of fortune, who is never separated from the Lord."
+}
+---
 ====== SB 4.15.3 ======
 
 > ऋषय ऊचुः

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.31~~
-~~bc:Text 31~~
-
-{{description>The Lord assured the two Vaikuṇṭha inhabitants, Jaya and Vijaya: By practicing the mystic yoga system in anger, you will be cleansed of the sin of disobeying the brāhmaṇas and within a very short time return to Me.}}
-
+---json
+{
+    "name":"SB 3.16.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 3.16.31",
+    "description":"The Lord assured the two Vaikuṇṭha inhabitants, Jaya and Vijaya: By practicing the mystic yoga system in anger, you will be cleansed of the sin of disobeying the brāhmaṇas and within a very short time return to Me."
+}
+---
 ====== SB 3.16.31 ======
 
 > मयि संरम्भयोगेन निस्तीर्य ब्रह्महेलनम् ।

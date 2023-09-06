@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.28~~
-~~bc:Text 28~~
-
-{{description>Śukadeva Gosvāmī said: Thus the great well-wisher of everyone, the Supreme Lord Ṛṣabhadeva, instructed His own sons. Although they were perfectly educated and cultured, He instructed them just to set an example of how a father should instruct his sons before retiring from family life. Sannyāsīs, who are no longer bound by fruitive activity and who have taken to devotional service after all their material desires have been vanquished, also learn by these instructions. Lord Ṛṣabhadeva instructed His one hundred sons, of whom the eldest, Bharata, was a very advanced devotee and a follower of Vaiṣṇavas. In order to rule the whole world, the Lord enthroned His eldest son on the royal seat. Thereafter, although still at home, Lord Ṛṣabhadeva lived like a madman, naked and with disheveled hair. Then the Lord took the sacrificial fire within Himself, and He left Brahmāvarta to tour the whole world.}}
-
+---json
+{
+    "name":"SB 5.5.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 5.5.28",
+    "description":"Śukadeva Gosvāmī said: Thus the great well-wisher of everyone, the Supreme Lord Ṛṣabhadeva, instructed His own sons. Although they were perfectly educated and cultured, He instructed them just to set an example of how a father should instruct his sons before retiring from family life. Sannyāsīs, who are no longer bound by fruitive activity and who have taken to devotional service after all their material desires have been vanquished, also learn by these instructions. Lord Ṛṣabhadeva instructed His one hundred sons, of whom the eldest, Bharata, was a very advanced devotee and a follower of Vaiṣṇavas. In order to rule the whole world, the Lord enthroned His eldest son on the royal seat. Thereafter, although still at home, Lord Ṛṣabhadeva lived like a madman, naked and with disheveled hair. Then the Lord took the sacrificial fire within Himself, and He left Brahmāvarta to tour the whole world."
+}
+---
 ====== SB 5.5.28 ======
 
 ===== Text =====

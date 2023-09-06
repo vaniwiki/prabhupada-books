@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.27~~
-~~bc:Text 27~~
-
-{{description>O King Parīkṣit, when Aṁśumān had glorified the Lord in this way, the great sage Kapila, the powerful incarnation of Viṣṇu, being very merciful to him, explained to him the path of knowledge.}}
-
+---json
+{
+    "name":"SB 9.8.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.8.27",
+    "description":"O King Parīkṣit, when Aṁśumān had glorified the Lord in this way, the great sage Kapila, the powerful incarnation of Viṣṇu, being very merciful to him, explained to him the path of knowledge."
+}
+---
 ====== SB 9.8.27 ======
 
 ===== Text =====

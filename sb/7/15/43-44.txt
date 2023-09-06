@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.43-44~~
-~~bc:Text 43-44~~
-
-{{description>In the conditioned stage, one's conceptions of life are sometimes polluted by passion and ignorance, which are exhibited by attachment, hostility, greed, lamentation, illusion, fear, madness, false prestige, insults, fault-finding, deception, envy, intolerance, passion, bewilderment, hunger and sleep. All of these are enemies. Sometimes one's conceptions are also polluted by goodness.}}
-
+---json
+{
+    "name":"SB 7.15.43-44",
+    "h1":"Text 43-44",
+    "title":" Śrīmad Bhāgavatam 7.15.43-44",
+    "description":"In the conditioned stage, one's conceptions of life are sometimes polluted by passion and ignorance, which are exhibited by attachment, hostility, greed, lamentation, illusion, fear, madness, false prestige, insults, fault-finding, deception, envy, intolerance, passion, bewilderment, hunger and sleep. All of these are enemies. Sometimes one's conceptions are also polluted by goodness."
+}
+---
 ====== SB 7.15.43-44 ======
 
 ===== Text =====

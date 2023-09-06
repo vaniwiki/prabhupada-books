@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.27~~
-~~bc:Text 27~~
-
-{{description>Therefore, O King, from you, the best of those who give charity, I ask only three paces of land. By such a gift I shall be very pleased, for the way of happiness is to be fully satisfied to receive that which is absolutely needed.}}
-
+---json
+{
+    "name":"SB 8.19.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 8.19.27",
+    "description":"Therefore, O King, from you, the best of those who give charity, I ask only three paces of land. By such a gift I shall be very pleased, for the way of happiness is to be fully satisfied to receive that which is absolutely needed."
+}
+---
 ====== SB 8.19.27 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.13~~
-~~bc:Text 13~~
-
-{{description>When the palate of the gigantic form was separately manifested, Varuṇa, the director of water in the planetary systems, entered therein, and thus the living entity has the facility to taste everything with his tongue.}}
-
+---json
+{
+    "name":"SB 3.6.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 3.6.13",
+    "description":"When the palate of the gigantic form was separately manifested, Varuṇa, the director of water in the planetary systems, entered therein, and thus the living entity has the facility to taste everything with his tongue."
+}
+---
 ====== SB 3.6.13 ======
 
 > निर्भिन्नं तालु वरुणो लोकपालोऽविशद्धरेः ।

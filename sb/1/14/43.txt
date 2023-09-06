@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.43~~
-~~bc:Text 43~~
-
-{{description>Have you not taken care of old men and boys who deserve to dine with you? Have you left them and taken your meals alone? Have you committed some unpardonable mistake which is considered to be abominable?}}
-
+---json
+{
+    "name":"SB 1.14.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 1.14.43",
+    "description":"Have you not taken care of old men and boys who deserve to dine with you? Have you left them and taken your meals alone? Have you committed some unpardonable mistake which is considered to be abominable?"
+}
+---
 ====== SB 1.14.43 ======
 
 > अपि स्वित्पर्यभुङ्क्थास्त्वं सम्भोज्यान्वृद्धबालकान् ।

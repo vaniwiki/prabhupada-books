@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.23~~
-~~bc:Text 23~~
-
-{{description>In the presence of the glaring effulgence of the bodily luster of Nārāyaṇa, everyone else's luster faded away, and everyone stopped speaking. Fearful with awe and veneration, all present touched their hands to their heads and prepared to offer their prayers to the Supreme Personality of Godhead, Adhokṣaja.}}
-
+---json
+{
+    "name":"SB 4.7.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.7.23",
+    "description":"In the presence of the glaring effulgence of the bodily luster of Nārāyaṇa, everyone else's luster faded away, and everyone stopped speaking. Fearful with awe and veneration, all present touched their hands to their heads and prepared to offer their prayers to the Supreme Personality of Godhead, Adhokṣaja."
+}
+---
 ====== SB 4.7.23 ======
 
 > तत्तेजसा हतरुचः सन्नजिह्वाः ससाध्वसाः ।

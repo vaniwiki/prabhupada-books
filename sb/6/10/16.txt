@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.16~~
-~~bc:Text 16~~
-
-{{description>Thereafter, at the end of Satya-yuga and the beginning of Tretā-yuga, a fierce battle took place between the demigods and the demons on the bank of the Narmadā.}}
-
+---json
+{
+    "name":"SB 6.10.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 6.10.16",
+    "description":"Thereafter, at the end of Satya-yuga and the beginning of Tretā-yuga, a fierce battle took place between the demigods and the demons on the bank of the Narmadā."
+}
+---
 ====== SB 6.10.16 ======
 
 ===== Text =====

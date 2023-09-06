@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.29~~
-~~bc:Text 29~~
-
-{{description>My dear Lord, O Supreme Personality of Godhead, You are the Supreme Soul. If one meditates upon Your transcendental body, You naturally protect him from all sources of fear, even the imminent danger of death.}}
-
+---json
+{
+    "name":"SB 7.10.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 7.10.29",
+    "description":"My dear Lord, O Supreme Personality of Godhead, You are the Supreme Soul. If one meditates upon Your transcendental body, You naturally protect him from all sources of fear, even the imminent danger of death."
+}
+---
 ====== SB 7.10.29 ======
 
 ===== Text =====

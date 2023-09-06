@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.24~~
-~~bc:Text 24~~
-
-{{description>Mother, you are the reservoir of all riches. Please inform me of the root cause of your tribulations by which you have been reduced to such a weak state. I think that the powerful influence of time, which conquers the most powerful, might have forcibly taken away all your fortune, which was adored even by the demigods.}}
-
+---json
+{
+    "name":"SB 1.16.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 1.16.24",
+    "description":"Mother, you are the reservoir of all riches. Please inform me of the root cause of your tribulations by which you have been reduced to such a weak state. I think that the powerful influence of time, which conquers the most powerful, might have forcibly taken away all your fortune, which was adored even by the demigods."
+}
+---
 ====== SB 1.16.24 ======
 
 > इदं ममाचक्ष्व तवाधिमूलं वसुन्धरे येन विकर्शितासि ।

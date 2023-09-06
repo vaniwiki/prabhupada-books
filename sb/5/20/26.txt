@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.26~~
-~~bc:Text 26~~
-
-{{description>For these lands also, there are seven boundary mountains and seven rivers. The mountains are Īśāna, Uruśṛṅga, Balabhadra, Śatakesara, Sahasrasrota, Devapāla and Mahānasa. The rivers are Anaghā, Āyurdā, Ubhayaspṛṣṭi, Aparājitā, Pañcapadī, Sahasra-śruti and Nijadhṛti.}}
-
+---json
+{
+    "name":"SB 5.20.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 5.20.26",
+    "description":"For these lands also, there are seven boundary mountains and seven rivers. The mountains are Īśāna, Uruśṛṅga, Balabhadra, Śatakesara, Sahasrasrota, Devapāla and Mahānasa. The rivers are Anaghā, Āyurdā, Ubhayaspṛṣṭi, Aparājitā, Pañcapadī, Sahasra-śruti and Nijadhṛti."
+}
+---
 ====== SB 5.20.26 ======
 
 ===== Text =====

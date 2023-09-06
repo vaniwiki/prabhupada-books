@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.13~~
-~~bc:Text 13~~
-
-{{description>In due course of time, when Pṛthu Mahārāja was to give up his body, he fixed his mind firmly upon the lotus feet of Kṛṣṇa, and thus, completely situated on the brahma-bhūta platform, he gave up the material body.}}
-
+---json
+{
+    "name":"SB 4.23.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.23.13",
+    "description":"In due course of time, when Pṛthu Mahārāja was to give up his body, he fixed his mind firmly upon the lotus feet of Kṛṣṇa, and thus, completely situated on the brahma-bhūta platform, he gave up the material body."
+}
+---
 ====== SB 4.23.13 ======
 
 > एवं स वीरप्रवरः संयोज्यात्मानमात्मनि ।

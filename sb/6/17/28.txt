@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.28~~
-~~bc:Text 28~~
-
-{{description>Devotees solely engaged in the devotional service of the Supreme Personality of Godhead, Nārāyaṇa, never fear any condition of life. For them the heavenly planets, liberation and the hellish planets are all the same, for such devotees are interested only in the service of the Lord.}}
-
+---json
+{
+    "name":"SB 6.17.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 6.17.28",
+    "description":"Devotees solely engaged in the devotional service of the Supreme Personality of Godhead, Nārāyaṇa, never fear any condition of life. For them the heavenly planets, liberation and the hellish planets are all the same, for such devotees are interested only in the service of the Lord."
+}
+---
 ====== SB 6.17.28 ======
 
 ===== Text =====

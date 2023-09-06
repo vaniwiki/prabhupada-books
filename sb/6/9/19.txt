@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.19~~
-~~bc:Text 19~~
-
-{{description>The demigods, headed by Indra, charged the demon with their soldiers, striking him with their own transcendental bows and arrows and other weapons but Vṛtrāsura swallowed all their weapons.}}
-
+---json
+{
+    "name":"SB 6.9.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 6.9.19",
+    "description":"The demigods, headed by Indra, charged the demon with their soldiers, striking him with their own transcendental bows and arrows and other weapons but Vṛtrāsura swallowed all their weapons."
+}
+---
 ====== SB 6.9.19 ======
 
 ===== Text =====

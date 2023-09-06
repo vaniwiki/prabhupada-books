@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.26~~
-~~bc:Text 26~~
-
-{{description>Thereafter, His father, being afraid of Kaṁsa, brought Him to the cow pastures of Mahārāja Nanda, and there He lived for eleven years like a covered flame with His elder brother, Baladeva.}}
-
+---json
+{
+    "name":"SB 3.2.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.2.26",
+    "description":"Thereafter, His father, being afraid of Kaṁsa, brought Him to the cow pastures of Mahārāja Nanda, and there He lived for eleven years like a covered flame with His elder brother, Baladeva."
+}
+---
 ====== SB 3.2.26 ======
 
 > ततो नन्दव्रजमितः पित्रा कंसाद्विबिभ्यता ।

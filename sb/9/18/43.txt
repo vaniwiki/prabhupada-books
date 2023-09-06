@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.43~~
-~~bc:Text 43~~
-
-{{description>Pūru replied: O Your Majesty, who in this world can repay his debt to his father? By the mercy of one's father, one gets the human form of life, which can enable one to become an associate of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 9.18.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 9.18.43",
+    "description":"Pūru replied: O Your Majesty, who in this world can repay his debt to his father? By the mercy of one's father, one gets the human form of life, which can enable one to become an associate of the Supreme Lord."
+}
+---
 ====== SB 9.18.43 ======
 
 ===== Text =====

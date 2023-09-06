@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.37~~
-~~bc:Text 37~~
-
-{{description>After twelve years, when King Saudāsa was released from the curse by Vasiṣṭha, he wanted to have sexual intercourse with his wife. But the Queen reminded him about the curse by the brāhmaṇī, and thus he was checked from sexual intercourse.}}
-
+---json
+{
+    "name":"SB 9.9.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 9.9.37",
+    "description":"After twelve years, when King Saudāsa was released from the curse by Vasiṣṭha, he wanted to have sexual intercourse with his wife. But the Queen reminded him about the curse by the brāhmaṇī, and thus he was checked from sexual intercourse."
+}
+---
 ====== SB 9.9.37 ======
 
 ===== Text =====

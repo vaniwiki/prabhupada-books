@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.9~~
-~~bc:Text 9~~
-
-{{description>The child, Yogamāyā-devī, the younger sister of Lord Viṣṇu, slipped upward from Kaṁsa's hands and appeared in the sky as Devī, the goddess Durgā, with eight arms, completely equipped with weapons.}}
-
+---json
+{
+    "name":"SB 10.4.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 10.4.9",
+    "description":"The child, Yogamāyā-devī, the younger sister of Lord Viṣṇu, slipped upward from Kaṁsa's hands and appeared in the sky as Devī, the goddess Durgā, with eight arms, completely equipped with weapons."
+}
+---
 ====== SB 10.4.9 ======
 
 ===== Text =====

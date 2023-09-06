@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.33.22~~
-~~bc:Text 22~~
-
-{{description>O Vidura, thus always meditating upon her son, the Supreme Personality of Godhead Kapiladeva, she very soon became unattached to her nicely decorated home.}}
-
+---json
+{
+    "name":"SB 3.33.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.33.22",
+    "description":"O Vidura, thus always meditating upon her son, the Supreme Personality of Godhead Kapiladeva, she very soon became unattached to her nicely decorated home."
+}
+---
 ====== SB 3.33.22 ======
 
 > तमेव ध्यायती देवमपत्यं कपिलं हरिम् ।

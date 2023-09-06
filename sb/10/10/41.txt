@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.41~~
-~~bc:Text 41~~
-
-{{description>When one is face to face with the sun, there is no longer darkness for one's eyes. Similarly, when one is face to face with a sādhu, a devotee, who is fully determined and surrendered to the Supreme Personality of Godhead, one will no longer be subject to material bondage.}}
-
+---json
+{
+    "name":"SB 10.10.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 10.10.41",
+    "description":"When one is face to face with the sun, there is no longer darkness for one's eyes. Similarly, when one is face to face with a sādhu, a devotee, who is fully determined and surrendered to the Supreme Personality of Godhead, one will no longer be subject to material bondage."
+}
+---
 ====== SB 10.10.41 ======
 
 ===== Text =====

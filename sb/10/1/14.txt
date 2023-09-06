@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.14~~
-~~bc:Text 14~~
-
-{{description>Sūta Gosvāmī said: O son of Bhṛgu [Śaunaka Ṛṣi], after Śukadeva Gosvāmī, the most respectable devotee, the son of Vyāsadeva, heard the pious questions of Mahārāja Parīkṣit, he thanked the King with great respect. Then he began to discourse on topics concerning Kṛṣṇa, which are the remedy for all sufferings in this age of Kali.}}
-
+---json
+{
+    "name":"SB 10.1.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 10.1.14",
+    "description":"Sūta Gosvāmī said: O son of Bhṛgu [Śaunaka Ṛṣi], after Śukadeva Gosvāmī, the most respectable devotee, the son of Vyāsadeva, heard the pious questions of Mahārāja Parīkṣit, he thanked the King with great respect. Then he began to discourse on topics concerning Kṛṣṇa, which are the remedy for all sufferings in this age of Kali."
+}
+---
 ====== SB 10.1.14 ======
 
 ===== Text =====

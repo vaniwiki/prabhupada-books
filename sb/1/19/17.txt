@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.17~~
-~~bc:Text 17~~
-
-{{description>In perfect self-control, Mahārāja Parīkṣit sat down on a seat of straw, with straw-roots facing the east, placed on the southern bank of the Ganges, and he himself faced the north. Just previously he had given charge of his kingdom over to his son.}}
-
+---json
+{
+    "name":"SB 1.19.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 1.19.17",
+    "description":"In perfect self-control, Mahārāja Parīkṣit sat down on a seat of straw, with straw-roots facing the east, placed on the southern bank of the Ganges, and he himself faced the north. Just previously he had given charge of his kingdom over to his son."
+}
+---
 ====== SB 1.19.17 ======
 
 > इति स्म राजाध्यवसाययुक्तः प्राचीनमूलेषु कुशेषु धीरः ।

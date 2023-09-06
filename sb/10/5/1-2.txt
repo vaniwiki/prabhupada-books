@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.1-2~~
-~~bc:Text 1-2~~
-
-{{description>Śukadeva Gosvāmī said: Nanda Mahārāja was naturally very magnanimous, and when Lord Śrī Kṛṣṇa appeared as his son, he was overwhelmed by jubilation. Therefore, after bathing and purifying himself and dressing himself properly, he invited brāhmaṇas who knew how to recite Vedic mantras. After having these qualified brāhmaṇas recite auspicious Vedic hymns, he arranged to have the Vedic birth ceremony celebrated for his newborn child according to the rules and regulations, and he also arranged for worship of the demigods and forefathers.}}
-
+---json
+{
+    "name":"SB 10.5.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 10.5.1-2",
+    "description":"Śukadeva Gosvāmī said: Nanda Mahārāja was naturally very magnanimous, and when Lord Śrī Kṛṣṇa appeared as his son, he was overwhelmed by jubilation. Therefore, after bathing and purifying himself and dressing himself properly, he invited brāhmaṇas who knew how to recite Vedic mantras. After having these qualified brāhmaṇas recite auspicious Vedic hymns, he arranged to have the Vedic birth ceremony celebrated for his newborn child according to the rules and regulations, and he also arranged for worship of the demigods and forefathers."
+}
+---
 ====== SB 10.5.1-2 ======
 
 ===== Text =====

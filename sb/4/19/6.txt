@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.6~~
-~~bc:Text 6~~
-
-{{description>Great devotees, who were always engaged in the service of the Supreme Personality of Godhead, as well as the great sages named Kapila, Nārada and Dattātreya, and masters of mystic powers, headed by Sanaka Kumāra, all attended the great sacrifice with Lord Viṣṇu.}}
-
+---json
+{
+    "name":"SB 4.19.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.19.6",
+    "description":"Great devotees, who were always engaged in the service of the Supreme Personality of Godhead, as well as the great sages named Kapila, Nārada and Dattātreya, and masters of mystic powers, headed by Sanaka Kumāra, all attended the great sacrifice with Lord Viṣṇu."
+}
+---
 ====== SB 4.19.6 ======
 
 > कपिलो नारदो दत्तो योगेशाः सनकादयः ।

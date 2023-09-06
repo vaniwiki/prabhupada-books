@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.3~~
-~~bc:Text 3~~
-
-{{description>The Supreme Personality of Godhead welcomed Lord Śiva and Umā with great respect, and after being seated comfortably, Lord Śiva duly worshiped the Lord and smilingly spoke as follows.}}
-
+---json
+{
+    "name":"SB 8.12.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 8.12.3",
+    "description":"The Supreme Personality of Godhead welcomed Lord Śiva and Umā with great respect, and after being seated comfortably, Lord Śiva duly worshiped the Lord and smilingly spoke as follows."
+}
+---
 ====== SB 8.12.3 ======
 
 ===== Text =====

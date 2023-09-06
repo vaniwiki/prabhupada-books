@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.3~~
-~~bc:Text 3~~
-
-{{description>Thus when the Personality of Godhead entered into the elements by His energy, all the living entities were enlivened into different activities, just as one is engaged in his work after awakening from sleep.}}
-
+---json
+{
+    "name":"SB 3.6.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.6.3",
+    "description":"Thus when the Personality of Godhead entered into the elements by His energy, all the living entities were enlivened into different activities, just as one is engaged in his work after awakening from sleep."
+}
+---
 ====== SB 3.6.3 ======
 
 > सोऽनुप्रविष्टो भगवांश्चेष्टारूपेण तं गणम् ।

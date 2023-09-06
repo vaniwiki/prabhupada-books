@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.11~~
-~~bc:Text 11~~
-
-{{description>O Vidura, the asses ran hither and thither in herds, striking the earth with their hard hooves and wildly braying.}}
-
+---json
+{
+    "name":"SB 3.17.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.17.11",
+    "description":"O Vidura, the asses ran hither and thither in herds, striking the earth with their hard hooves and wildly braying."
+}
+---
 ====== SB 3.17.11 ======
 
 > खराश्च कर्कशैः क्षत्तः खुरैर्घ्नन्तो धरातलम् ।

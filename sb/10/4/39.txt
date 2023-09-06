@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.39~~
-~~bc:Text 39~~
-
-{{description>The foundation of all the demigods is Lord Viṣṇu, who lives and is worshiped wherever there are religious principles, traditional culture, the Vedas, cows, brāhmaṇas, austerities, and sacrifices with proper remuneration.}}
-
+---json
+{
+    "name":"SB 10.4.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 10.4.39",
+    "description":"The foundation of all the demigods is Lord Viṣṇu, who lives and is worshiped wherever there are religious principles, traditional culture, the Vedas, cows, brāhmaṇas, austerities, and sacrifices with proper remuneration."
+}
+---
 ====== SB 10.4.39 ======
 
 ===== Text =====

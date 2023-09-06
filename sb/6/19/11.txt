@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.19.11~~
-~~bc:Text 11~~
-
-{{description>My Lord Viṣṇu and mother Lakṣmī, goddess of fortune, you are the proprietors of the entire creation. Indeed, you are the cause of the creation. Mother Lakṣmī is extremely difficult to understand because she is so powerful that the jurisdiction of her power is difficult to overcome. Mother Lakṣmī is represented in the material world as the external energy, but actually she is always the internal energy of the Lord.}}
-
+---json
+{
+    "name":"SB 6.19.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 6.19.11",
+    "description":"My Lord Viṣṇu and mother Lakṣmī, goddess of fortune, you are the proprietors of the entire creation. Indeed, you are the cause of the creation. Mother Lakṣmī is extremely difficult to understand because she is so powerful that the jurisdiction of her power is difficult to overcome. Mother Lakṣmī is represented in the material world as the external energy, but actually she is always the internal energy of the Lord."
+}
+---
 ====== SB 6.19.11 ======
 
 ===== Text =====

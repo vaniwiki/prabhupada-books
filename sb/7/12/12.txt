@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.12~~
-~~bc:Text 12~~
-
-{{description>Brahmacārīs or gṛhasthas who have taken the vow of celibacy as described above should not indulge in the following: applying powder or ointment to the eyes, massaging the head with oil, massaging the body with the hands, seeing a woman or painting a woman's picture, eating meat, drinking wine, decorating the body with flower garlands, smearing scented ointment on the body, or decorating the body with ornaments. These they should give up.}}
-
+---json
+{
+    "name":"SB 7.12.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.12.12",
+    "description":"Brahmacārīs or gṛhasthas who have taken the vow of celibacy as described above should not indulge in the following: applying powder or ointment to the eyes, massaging the head with oil, massaging the body with the hands, seeing a woman or painting a woman's picture, eating meat, drinking wine, decorating the body with flower garlands, smearing scented ointment on the body, or decorating the body with ornaments. These they should give up."
+}
+---
 ====== SB 7.12.12 ======
 
 ===== Text =====

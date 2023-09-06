@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.10~~
-~~bc:Text 10~~
-
-{{description>Their lotuslike faces extraordinarily beautiful, being decorated with saffron and newly grown kuṅkuma, the wives of the cowherd men hurried to the house of mother Yaśodā with presentations in their hands. Because of natural beauty, the wives had full hips and full breasts, which moved as they hurried along.}}
-
+---json
+{
+    "name":"SB 10.5.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 10.5.10",
+    "description":"Their lotuslike faces extraordinarily beautiful, being decorated with saffron and newly grown kuṅkuma, the wives of the cowherd men hurried to the house of mother Yaśodā with presentations in their hands. Because of natural beauty, the wives had full hips and full breasts, which moved as they hurried along."
+}
+---
 ====== SB 10.5.10 ======
 
 ===== Text =====

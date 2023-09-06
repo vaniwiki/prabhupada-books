@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.14~~
-~~bc:Text 14~~
-
-{{description>When Mahārāja Pṛthu practiced a particular yogic sitting posture, he blocked the doors of his anus with his ankles, pressed his right and left calves and gradually raised his life air upward, passing it on to the circle of his navel, up to his heart and throat, and finally pushed it upward to the central position between his two eyebrows.}}
-
+---json
+{
+    "name":"SB 4.23.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.23.14",
+    "description":"When Mahārāja Pṛthu practiced a particular yogic sitting posture, he blocked the doors of his anus with his ankles, pressed his right and left calves and gradually raised his life air upward, passing it on to the circle of his navel, up to his heart and throat, and finally pushed it upward to the central position between his two eyebrows."
+}
+---
 ====== SB 4.23.14 ======
 
 > सम्पीड्य पायुं पार्ष्णिभ्यां वायुमुत्सारयञ्छनैः ।

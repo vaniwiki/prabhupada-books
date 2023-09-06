@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.49~~
-~~bc:Text 49~~
-
-{{description>His previous body had been destroyed, but he, the same Dakṣa, inspired by the supreme will, created all the desired living entities in the Cākṣuṣa manvantara.}}
-
+---json
+{
+    "name":"SB 4.30.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 4.30.49",
+    "description":"His previous body had been destroyed, but he, the same Dakṣa, inspired by the supreme will, created all the desired living entities in the Cākṣuṣa manvantara."
+}
+---
 ====== SB 4.30.49 ======
 
 > चाक्षुषे त्वन्तरे प्राप्ते प्राक्सर्गे कालविद्रुते ।

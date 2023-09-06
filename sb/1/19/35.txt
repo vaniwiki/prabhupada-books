@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.35~~
-~~bc:Text 35~~
-
-{{description>Lord Kṛṣṇa, the Personality of Godhead, who is very dear to the sons of King Pāṇḍu, has accepted me as one of those relatives just to please His great cousins and brothers.}}
-
+---json
+{
+    "name":"SB 1.19.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 1.19.35",
+    "description":"Lord Kṛṣṇa, the Personality of Godhead, who is very dear to the sons of King Pāṇḍu, has accepted me as one of those relatives just to please His great cousins and brothers."
+}
+---
 ====== SB 1.19.35 ======
 
 > अपि मे भगवान्प्रीतः कृष्णः पाण्डुसुतप्रियः ।

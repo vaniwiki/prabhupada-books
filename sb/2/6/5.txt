@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.5~~
-~~bc:Text 5~~
-
-{{description>The hairs on His body are the cause of all vegetation, particularly of those trees which are required as ingredients for sacrifice. The hairs on His head and face are reservoirs for the clouds, and His nails are the breeding ground of electricity, stones and iron ores.}}
-
+---json
+{
+    "name":"SB 2.6.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 2.6.5",
+    "description":"The hairs on His body are the cause of all vegetation, particularly of those trees which are required as ingredients for sacrifice. The hairs on His head and face are reservoirs for the clouds, and His nails are the breeding ground of electricity, stones and iron ores."
+}
+---
 ====== SB 2.6.5 ======
 
 > रोमाण्युद्भिज्जजातीनां यैर्वा यज्ञस्तु सम्भृतः ।

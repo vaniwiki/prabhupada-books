@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.7~~
-~~bc:Text 7~~
-
-{{description>Lord Manu said: My dear son, please stop. It is not good to become unnecessarily angry—it is the path to hellish life. Now you are going beyond the limit by killing Yakṣas who are actually not offenders.}}
-
+---json
+{
+    "name":"SB 4.11.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.11.7",
+    "description":"Lord Manu said: My dear son, please stop. It is not good to become unnecessarily angry—it is the path to hellish life. Now you are going beyond the limit by killing Yakṣas who are actually not offenders."
+}
+---
 ====== SB 4.11.7 ======
 
 > मनुरुवाच

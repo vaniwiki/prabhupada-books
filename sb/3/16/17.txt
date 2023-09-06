@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.17~~
-~~bc:Text 17~~
-
-{{description>O Lord, You are the supreme director of the brahminical culture. Your considering the brāhmaṇas to be in the highest position is Your example for teaching others. Actually You are the supreme worshipable Deity, not only for the gods but for the brāhmaṇas also.}}
-
+---json
+{
+    "name":"SB 3.16.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.16.17",
+    "description":"O Lord, You are the supreme director of the brahminical culture. Your considering the brāhmaṇas to be in the highest position is Your example for teaching others. Actually You are the supreme worshipable Deity, not only for the gods but for the brāhmaṇas also."
+}
+---
 ====== SB 3.16.17 ======
 
 > ब्रह्मण्यस्य परं दैवं ब्राह्मणाः किल ते प्रभो ।

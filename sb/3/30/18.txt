@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.18~~
-~~bc:Text 18~~
-
-{{description>Thus the man, who engaged with uncontrolled senses in maintaining a family, dies in great grief, seeing his relatives crying. He dies most pathetically, in great pain and without consciousness.}}
-
+---json
+{
+    "name":"SB 3.30.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.30.18",
+    "description":"Thus the man, who engaged with uncontrolled senses in maintaining a family, dies in great grief, seeing his relatives crying. He dies most pathetically, in great pain and without consciousness."
+}
+---
 ====== SB 3.30.18 ======
 
 > एवं कुटुम्बभरणे व्यापृतात्माजितेन्द्रियः ।

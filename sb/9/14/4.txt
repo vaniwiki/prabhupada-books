@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.4~~
-~~bc:Text 4~~
-
-{{description>After conquering the three worlds [the upper, middle and lower planetary systems], Soma, the moon-god, performed a great sacrifice known as the Rājasūya-yajña. Because he was very much puffed up, he forcibly kidnapped Bṛhaspati's wife, whose name was Tārā.}}
-
+---json
+{
+    "name":"SB 9.14.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 9.14.4",
+    "description":"After conquering the three worlds [the upper, middle and lower planetary systems], Soma, the moon-god, performed a great sacrifice known as the Rājasūya-yajña. Because he was very much puffed up, he forcibly kidnapped Bṛhaspati's wife, whose name was Tārā."
+}
+---
 ====== SB 9.14.4 ======
 
 ===== Text =====

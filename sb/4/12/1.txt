@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.1~~
-~~bc:Text 1~~
-
-{{description>The great sage Maitreya said: My dear Vidura, Dhruva Mahārāja's anger subsided, and he completely ceased killing Yakṣas. When Kuvera, the most blessed master of the treasury, learned this news, he appeared before Dhruva. While being worshiped by Yakṣas, Kinnaras and Cāraṇas, he spoke to Dhruva Mahārāja, who stood before him with folded hands.}}
-
+---json
+{
+    "name":"SB 4.12.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.12.1",
+    "description":"The great sage Maitreya said: My dear Vidura, Dhruva Mahārāja's anger subsided, and he completely ceased killing Yakṣas. When Kuvera, the most blessed master of the treasury, learned this news, he appeared before Dhruva. While being worshiped by Yakṣas, Kinnaras and Cāraṇas, he spoke to Dhruva Mahārāja, who stood before him with folded hands."
+}
+---
 ====== SB 4.12.1 ======
 
 > मैत्रेय उवाच

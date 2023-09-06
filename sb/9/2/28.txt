@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.28~~
-~~bc:Text 28~~
-
-{{description>In that sacrifice, King Indra became intoxicated by drinking a large quantity of soma-rasa. The brāhmaṇas received ample contributions, and therefore they were satisfied. For that sacrifice, the various demigods who control the winds offered foodstuffs, and the Viśvedevas were members of the assembly.}}
-
+---json
+{
+    "name":"SB 9.2.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 9.2.28",
+    "description":"In that sacrifice, King Indra became intoxicated by drinking a large quantity of soma-rasa. The brāhmaṇas received ample contributions, and therefore they were satisfied. For that sacrifice, the various demigods who control the winds offered foodstuffs, and the Viśvedevas were members of the assembly."
+}
+---
 ====== SB 9.2.28 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.54~~
-~~bc:Text 54~~
-
-{{description>Not knowing your transcendental situation, I have loved you while remaining attached to the objects of the senses. Nonetheless, let the affinity I have developed for you rid me of all fear.}}
-
+---json
+{
+    "name":"SB 3.23.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 3.23.54",
+    "description":"Not knowing your transcendental situation, I have loved you while remaining attached to the objects of the senses. Nonetheless, let the affinity I have developed for you rid me of all fear."
+}
+---
 ====== SB 3.23.54 ======
 
 > इन्द्रियार्थेषु सज्जन्त्या प्रसङ्गस्त्वयि मे कृतः ।

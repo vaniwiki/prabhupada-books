@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.25.17~~
-~~bc:Text 17~~
-
-{{description>At that time the soul can see himself to be transcendental to material existence and always self-effulgent, never fragmented, although very minute in size.}}
-
+---json
+{
+    "name":"SB 3.25.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.25.17",
+    "description":"At that time the soul can see himself to be transcendental to material existence and always self-effulgent, never fragmented, although very minute in size."
+}
+---
 ====== SB 3.25.17 ======
 
 > तदा पुरुष आत्मानं केवलं प्रकृतेः परम् ।

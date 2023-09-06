@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.15~~
-~~bc:Text 15~~
-
-{{description>Virtually bewildered by grief, anger, indignation, affliction and lamentation, the sons of Jamadagni cried, "O father, most religious, saintly person, you have left us and gone to the heavenly planets !"}}
-
+---json
+{
+    "name":"SB 9.16.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 9.16.15",
+    "description":"Virtually bewildered by grief, anger, indignation, affliction and lamentation, the sons of Jamadagni cried, "O father, most religious, saintly person, you have left us and gone to the heavenly planets !""
+}
+---
 ====== SB 9.16.15 ======
 
 ===== Text =====

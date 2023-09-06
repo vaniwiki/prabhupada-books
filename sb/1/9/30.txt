@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.30~~
-~~bc:Text 30~~
-
-{{description>Thereupon that man who spoke on different subjects with thousands of meanings and who fought on thousands of battlefields and protected thousands of men, stopped speaking and, being completely freed from all bondage, withdrew his mind from everything else and fixed his wide-open eyes upon the original Personality of Godhead, Śrī Kṛṣṇa, who stood before him, four-handed, dressed in yellow garments that glittered and shined.}}
-
+---json
+{
+    "name":"SB 1.9.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.9.30",
+    "description":"Thereupon that man who spoke on different subjects with thousands of meanings and who fought on thousands of battlefields and protected thousands of men, stopped speaking and, being completely freed from all bondage, withdrew his mind from everything else and fixed his wide-open eyes upon the original Personality of Godhead, Śrī Kṛṣṇa, who stood before him, four-handed, dressed in yellow garments that glittered and shined."
+}
+---
 ====== SB 1.9.30 ======
 
 > तदोपसंहृत्य गिरः सहस्रणीर्विमुक्तसङ्गं मन आदिपूरुषे ।

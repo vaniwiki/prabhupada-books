@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.2~~
-~~bc:Text 2~~
-
-{{description>Śrī Vyāsadeva said: What did you [Nārada] do after the departure of the great sages who had instructed you in scientific transcendental knowledge before the beginning of your present birth?}}
-
+---json
+{
+    "name":"SB 1.6.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.6.2",
+    "description":"Śrī Vyāsadeva said: What did you [Nārada] do after the departure of the great sages who had instructed you in scientific transcendental knowledge before the beginning of your present birth?"
+}
+---
 ====== SB 1.6.2 ======
 
 > व्यास उवाच

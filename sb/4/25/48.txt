@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.48~~
-~~bc:Text 48~~
-
-{{description>Similarly in the east there were two sets of gates named Nalinī and Nālinī, and these were also constructed in one place. Through these gates the King, accompanied by a friend named Avadhūta, used to go to the city of Saurabha.}}
-
+---json
+{
+    "name":"SB 4.25.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.25.48",
+    "description":"Similarly in the east there were two sets of gates named Nalinī and Nālinī, and these were also constructed in one place. Through these gates the King, accompanied by a friend named Avadhūta, used to go to the city of Saurabha."
+}
+---
 ====== SB 4.25.48 ======
 
 > नलिनी नालिनी च प्राग्द्वारावेकत्र निर्मिते ।

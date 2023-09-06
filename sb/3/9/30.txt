@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.30~~
-~~bc:Text 30~~
-
-{{description>O Brahmā, situate yourself in penance and meditation and follow the principles of knowledge to receive My favor. By these actions you will be able to understand everything from within your heart.}}
-
+---json
+{
+    "name":"SB 3.9.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.9.30",
+    "description":"O Brahmā, situate yourself in penance and meditation and follow the principles of knowledge to receive My favor. By these actions you will be able to understand everything from within your heart."
+}
+---
 ====== SB 3.9.30 ======
 
 > भूयस्त्वं तप आतिष्ठ विद्यां चैव मदाश्रयाम् ।

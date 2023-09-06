@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.20~~
-~~bc:Text 20~~
-
-{{description>This material world resembles the waves of a constantly flowing river. Therefore, what is a curse and what is a favor? What are the heavenly planets, and what are the hellish planets? What is actually happiness, and what is actually distress? Because the waves flow constantly, none of them has an eternal effect.}}
-
+---json
+{
+    "name":"SB 6.17.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 6.17.20",
+    "description":"This material world resembles the waves of a constantly flowing river. Therefore, what is a curse and what is a favor? What are the heavenly planets, and what are the hellish planets? What is actually happiness, and what is actually distress? Because the waves flow constantly, none of them has an eternal effect."
+}
+---
 ====== SB 6.17.20 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.14~~
-~~bc:Text 14~~
-
-{{description>Separately unable to produce the material universe, they combined with the help of the energy of the Supreme Lord and were able to produce a shining egg.}}
-
+---json
+{
+    "name":"SB 3.20.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.20.14",
+    "description":"Separately unable to produce the material universe, they combined with the help of the energy of the Supreme Lord and were able to produce a shining egg."
+}
+---
 ====== SB 3.20.14 ======
 
 > तानि चैकैकशः स्रष्टुमसमर्थानि भौतिकम् ।

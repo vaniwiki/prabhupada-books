@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.50~~
-~~bc:Text 50~~
-
-{{description>The tour you have undertaken, O lord, is surely intended to protect the virtuous and kill the demons, since you embody the protecting energy of Śrī Hari.}}
-
+---json
+{
+    "name":"SB 3.21.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 3.21.50",
+    "description":"The tour you have undertaken, O lord, is surely intended to protect the virtuous and kill the demons, since you embody the protecting energy of Śrī Hari."
+}
+---
 ====== SB 3.21.50 ======
 
 > नूनं चङ्क्रमणं देव सतां संरक्षणाय ते ।

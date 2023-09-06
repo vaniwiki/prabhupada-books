@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.8~~
-~~bc:Text 8~~
-
-{{description>Although within the material nature, one who is thus situated in full knowledge of the Paramātmā and ātmā is never affected by the modes of material nature, for he is always situated in My transcendental loving service.}}
-
+---json
+{
+    "name":"SB 4.20.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.20.8",
+    "description":"Although within the material nature, one who is thus situated in full knowledge of the Paramātmā and ātmā is never affected by the modes of material nature, for he is always situated in My transcendental loving service."
+}
+---
 ====== SB 4.20.8 ======
 
 > य एवं सन्तमात्मानमात्मस्थं वेद पूरुषः ।

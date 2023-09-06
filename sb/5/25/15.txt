@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.25.15~~
-~~bc:Text 15~~
-
-{{description>My dear King, I have thus described how people generally act according to their different desires and, as a result, get different types of bodies in higher or lower planets. You inquired of these things from me, and I have explained to you whatever I have heard from authorities. What shall I speak of now?}}
-
+---json
+{
+    "name":"SB 5.25.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.25.15",
+    "description":"My dear King, I have thus described how people generally act according to their different desires and, as a result, get different types of bodies in higher or lower planets. You inquired of these things from me, and I have explained to you whatever I have heard from authorities. What shall I speak of now?"
+}
+---
 ====== SB 5.25.15 ======
 
 ===== Text =====

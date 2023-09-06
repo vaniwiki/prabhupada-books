@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.40~~
-~~bc:Text 40~~
-
-{{description>Words, mind and ego, with their respective controlling demigods, have failed to achieve success in knowing the Supreme Personality of Godhead. Therefore, we simply have to offer our respectful obeisances unto Him as a matter of sanity.}}
-
+---json
+{
+    "name":"SB 3.6.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 3.6.40",
+    "description":"Words, mind and ego, with their respective controlling demigods, have failed to achieve success in knowing the Supreme Personality of Godhead. Therefore, we simply have to offer our respectful obeisances unto Him as a matter of sanity."
+}
+---
 ====== SB 3.6.40 ======
 
 > यतोऽप्राप्य न्यवर्तन्त वाचश्च मनसा सह ।

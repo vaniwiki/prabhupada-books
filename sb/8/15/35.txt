@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.35~~
-~~bc:Text 35~~
-
-{{description>When Bali Mahārāja performed these sacrifices, he gained a great reputation in all directions, throughout the three worlds. Thus he shone in his position, like the brilliant moon in the sky.}}
-
+---json
+{
+    "name":"SB 8.15.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 8.15.35",
+    "description":"When Bali Mahārāja performed these sacrifices, he gained a great reputation in all directions, throughout the three worlds. Thus he shone in his position, like the brilliant moon in the sky."
+}
+---
 ====== SB 8.15.35 ======
 
 ===== Text =====

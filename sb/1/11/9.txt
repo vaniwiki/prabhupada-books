@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.9~~
-~~bc:Text 9~~
-
-{{description>O lotus-eyed Lord, whenever You go away to Mathurā, Vṛndāvana or Hastināpura to meet Your friends and relatives, every moment of Your absence seems like a million years. O infallible one, at that time our eyes become useless, as if bereft of sun.}}
-
+---json
+{
+    "name":"SB 1.11.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.11.9",
+    "description":"O lotus-eyed Lord, whenever You go away to Mathurā, Vṛndāvana or Hastināpura to meet Your friends and relatives, every moment of Your absence seems like a million years. O infallible one, at that time our eyes become useless, as if bereft of sun."
+}
+---
 ====== SB 1.11.9 ======
 
 > यर्ह्यम्बुजाक्षापससार भो भवान्कुरून्मधून्वाथ सुहृद्दिदृक्षया ।

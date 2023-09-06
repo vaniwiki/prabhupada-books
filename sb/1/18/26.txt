@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.26~~
-~~bc:Text 26~~
-
-{{description>The muni's sense organs, breath, mind and intelligence were all restrained from material activities, and he was situated in a trance apart from the three [wakefulness, dream and unconsciousness], having achieved a transcendental position qualitatively equal with the Supreme Absolute.}}
-
+---json
+{
+    "name":"SB 1.18.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.18.26",
+    "description":"The muni's sense organs, breath, mind and intelligence were all restrained from material activities, and he was situated in a trance apart from the three [wakefulness, dream and unconsciousness], having achieved a transcendental position qualitatively equal with the Supreme Absolute."
+}
+---
 ====== SB 1.18.26 ======
 
 > प्रतिरुद्धेन्द्रियप्राण मनोबुद्धिमुपारतम् ।

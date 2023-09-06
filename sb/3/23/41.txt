@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.41~~
-~~bc:Text 41~~
-
-{{description>He traveled in that way through the various planets, as the air passes uncontrolled in every direction. Coursing through the air in that great and splendid aerial mansion, which could fly at his will, he surpassed even the demigods.}}
-
+---json
+{
+    "name":"SB 3.23.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.23.41",
+    "description":"He traveled in that way through the various planets, as the air passes uncontrolled in every direction. Coursing through the air in that great and splendid aerial mansion, which could fly at his will, he surpassed even the demigods."
+}
+---
 ====== SB 3.23.41 ======
 
 > भ्राजिष्णुना विमानेन कामगेन महीयसा ।

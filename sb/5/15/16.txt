@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.16~~
-~~bc:Text 16~~
-
-{{description>There is a famous verse about King Viraja. "Because of his high qualities and wide fame, King Viraja became the jewel of the dynasty of King Priyavrata, just as Lord Viṣṇu, by His transcendental potency, decorates and blesses the demigods."}}
-
+---json
+{
+    "name":"SB 5.15.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 5.15.16",
+    "description":"There is a famous verse about King Viraja. "Because of his high qualities and wide fame, King Viraja became the jewel of the dynasty of King Priyavrata, just as Lord Viṣṇu, by His transcendental potency, decorates and blesses the demigods.""
+}
+---
 ====== SB 5.15.16 ======
 
 ===== Text =====

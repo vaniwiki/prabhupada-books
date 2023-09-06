@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.14~~
-~~bc:Text 14~~
-
-{{description>Śrī Sūta Gosvāmī said: O learned brāhmaṇas assembled here at Naimiṣāraṇya, when Śukadeva Gosvāmī, the son of Dvaipāyana, was thus questioned by the King, he congratulated the King and then endeavored to describe further the glories of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 8.5.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.5.14",
+    "description":"Śrī Sūta Gosvāmī said: O learned brāhmaṇas assembled here at Naimiṣāraṇya, when Śukadeva Gosvāmī, the son of Dvaipāyana, was thus questioned by the King, he congratulated the King and then endeavored to describe further the glories of the Supreme Personality of Godhead."
+}
+---
 ====== SB 8.5.14 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.8~~
-~~bc:Text 8~~
-
-{{description>Nārada Muni said: O Indra, King of the demigods, this woman is certainly sinless. You should not drag her off in this merciless way. O greatly fortunate one, this chaste woman is the wife of another. You must immediately release her.}}
-
+---json
+{
+    "name":"SB 7.7.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 7.7.8",
+    "description":"Nārada Muni said: O Indra, King of the demigods, this woman is certainly sinless. You should not drag her off in this merciless way. O greatly fortunate one, this chaste woman is the wife of another. You must immediately release her."
+}
+---
 ====== SB 7.7.8 ======
 
 ===== Text =====

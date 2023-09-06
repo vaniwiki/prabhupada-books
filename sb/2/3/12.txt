@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.12~~
-~~bc:Text 12~~
-
-{{description>Transcendental knowledge in relation with the Supreme Lord Hari is knowledge resulting in the complete suspension of the waves and whirlpools of the material modes. Such knowledge is self-satisfying due to its being free from material attachment, and being transcendental it is approved by authorities. Who could fail to be attracted?}}
-
+---json
+{
+    "name":"SB 2.3.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 2.3.12",
+    "description":"Transcendental knowledge in relation with the Supreme Lord Hari is knowledge resulting in the complete suspension of the waves and whirlpools of the material modes. Such knowledge is self-satisfying due to its being free from material attachment, and being transcendental it is approved by authorities. Who could fail to be attracted?"
+}
+---
 ====== SB 2.3.12 ======
 
 > ज्ञानं यदाप्रतिनिवृत्तगुणोर्मिचक्रम्

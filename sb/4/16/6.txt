@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.16.6~~
-~~bc:Text 6~~
-
-{{description>This King Pṛthu will be as powerful as the sun-god, and just as the sun-god equally distributes his sunshine to everyone, King Pṛthu will distribute his mercy equally. Similarly, just as the sun-god evaporates water for eight months and, during the rainy season, returns it profusely, this King will also exact taxes from the citizens and return these monies in times of need.}}
-
+---json
+{
+    "name":"SB 4.16.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.16.6",
+    "description":"This King Pṛthu will be as powerful as the sun-god, and just as the sun-god equally distributes his sunshine to everyone, King Pṛthu will distribute his mercy equally. Similarly, just as the sun-god evaporates water for eight months and, during the rainy season, returns it profusely, this King will also exact taxes from the citizens and return these monies in times of need."
+}
+---
 ====== SB 4.16.6 ======
 
 > वसु काल उपादत्ते काले चायं विमुञ्चति ।

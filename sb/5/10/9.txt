@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.9~~
-~~bc:Text 9~~
-
-{{description>The great brāhmaṇa Jaḍa Bharata said: My dear King and hero, whatever you have spoken sarcastically is certainly true. Actually these are not simply words of chastisement, for the body is the carrier. The load carried by the body does not belong to me, for I am the spirit soul. There is no contradiction in your statements because I am different from the body. I am not the carrier of the palanquin; the body is the carrier. Certainly, as you have hinted, I have not labored carrying the palanquin, for I am detached from the body. You have said that I am not stout and strong, and these words are befitting a person who does not know the distinction between the body and the soul. The body may be fat or thin, but no learned man would say such things of the spirit soul. As far as the spirit soul is concerned, I am neither fat nor skinny; therefore you are correct when you say that I am not very stout. Also, if the object of this journey and the path leading there were mine, there would be many troubles for me, but because they relate not to me but to my body, there is no trouble at all.}}
-
+---json
+{
+    "name":"SB 5.10.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 5.10.9",
+    "description":"The great brāhmaṇa Jaḍa Bharata said: My dear King and hero, whatever you have spoken sarcastically is certainly true. Actually these are not simply words of chastisement, for the body is the carrier. The load carried by the body does not belong to me, for I am the spirit soul. There is no contradiction in your statements because I am different from the body. I am not the carrier of the palanquin; the body is the carrier. Certainly, as you have hinted, I have not labored carrying the palanquin, for I am detached from the body. You have said that I am not stout and strong, and these words are befitting a person who does not know the distinction between the body and the soul. The body may be fat or thin, but no learned man would say such things of the spirit soul. As far as the spirit soul is concerned, I am neither fat nor skinny; therefore you are correct when you say that I am not very stout. Also, if the object of this journey and the path leading there were mine, there would be many troubles for me, but because they relate not to me but to my body, there is no trouble at all."
+}
+---
 ====== SB 5.10.9 ======
 
 ===== Text =====

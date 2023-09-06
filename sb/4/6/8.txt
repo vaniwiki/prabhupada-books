@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.8~~
-~~bc:Text 8~~
-
-{{description>After thus instructing all the demigods, the Pitās and the lords of the living entities, Lord Brahmā took them with him and left for the abode of Lord Śiva, known as the Kailāsa Hill.}}
-
+---json
+{
+    "name":"SB 4.6.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.6.8",
+    "description":"After thus instructing all the demigods, the Pitās and the lords of the living entities, Lord Brahmā took them with him and left for the abode of Lord Śiva, known as the Kailāsa Hill."
+}
+---
 ====== SB 4.6.8 ======
 
 > स इत्थमादिश्य सुरानजस्तु तैः समन्वितः पितृभिः सप्रजेशैः ।

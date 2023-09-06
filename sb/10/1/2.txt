@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.2~~
-~~bc:Text 2~~
-
-{{description>O best of munis, you have also described the descendants of Yadu, who were very pious and strictly adherent to religious principles. Now, if you will, kindly describe the wonderful, glorious activities of Lord Viṣṇu, or Kṛṣṇa, who appeared in that Yadu dynasty with Baladeva, His plenary expansion.}}
-
+---json
+{
+    "name":"SB 10.1.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 10.1.2",
+    "description":"O best of munis, you have also described the descendants of Yadu, who were very pious and strictly adherent to religious principles. Now, if you will, kindly describe the wonderful, glorious activities of Lord Viṣṇu, or Kṛṣṇa, who appeared in that Yadu dynasty with Baladeva, His plenary expansion."
+}
+---
 ====== SB 10.1.2 ======
 
 ===== Text =====

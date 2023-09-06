@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.14~~
-~~bc:Text 14~~
-
-{{description>For many reasons, this beautiful son of yours sometimes appeared previously as the son of Vasudeva. Therefore, those who are learned sometimes call this child Vāsudeva.}}
-
+---json
+{
+    "name":"SB 10.8.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 10.8.14",
+    "description":"For many reasons, this beautiful son of yours sometimes appeared previously as the son of Vasudeva. Therefore, those who are learned sometimes call this child Vāsudeva."
+}
+---
 ====== SB 10.8.14 ======
 
 ===== Text =====

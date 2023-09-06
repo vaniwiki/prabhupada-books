@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.35~~
-~~bc:Text 35~~
-
-{{description>Upon seeing Dhanvantari carrying the jug of nectar, the demons, desiring the jug and its contents, immediately snatched it away by force.}}
-
+---json
+{
+    "name":"SB 8.8.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 8.8.35",
+    "description":"Upon seeing Dhanvantari carrying the jug of nectar, the demons, desiring the jug and its contents, immediately snatched it away by force."
+}
+---
 ====== SB 8.8.35 ======
 
 ===== Text =====

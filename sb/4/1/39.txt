@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.39~~
-~~bc:Text 39~~
-
-{{description>Kratu's wife, Kriyā, gave birth to sixty thousand great sages, named the Vālakhilyas. All these sages were greatly advanced in spiritual knowledge, and their bodies were illuminated by such knowledge.}}
-
+---json
+{
+    "name":"SB 4.1.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.1.39",
+    "description":"Kratu's wife, Kriyā, gave birth to sixty thousand great sages, named the Vālakhilyas. All these sages were greatly advanced in spiritual knowledge, and their bodies were illuminated by such knowledge."
+}
+---
 ====== SB 4.1.39 ======
 
 > क्रतोरपि क्रिया भार्या वालखिल्यानसूयत ।

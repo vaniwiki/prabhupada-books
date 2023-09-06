@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.14~~
-~~bc:Text 14~~
-
-{{description>While Rāhu, in disguise, was drinking nectar among the demigods, the Supreme Personality of Godhead severed his head. The wife of Saṁhlāda was named Kṛti. By union with Saṁhlāda, Kṛti gave birth to a son named Pañcajana.}}
-
+---json
+{
+    "name":"SB 6.18.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 6.18.14",
+    "description":"While Rāhu, in disguise, was drinking nectar among the demigods, the Supreme Personality of Godhead severed his head. The wife of Saṁhlāda was named Kṛti. By union with Saṁhlāda, Kṛti gave birth to a son named Pañcajana."
+}
+---
 ====== SB 6.18.14 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.36~~
-~~bc:Text 36~~
-
-{{description>Pulastya begot in his wife, Havirbhū, one son of the name Agastya, who in his next birth became Dahrāgni. Besides him, Pulastya begot another very great and saintly son, whose name was Viśravā.}}
-
+---json
+{
+    "name":"SB 4.1.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.1.36",
+    "description":"Pulastya begot in his wife, Havirbhū, one son of the name Agastya, who in his next birth became Dahrāgni. Besides him, Pulastya begot another very great and saintly son, whose name was Viśravā."
+}
+---
 ====== SB 4.1.36 ======
 
 > पुलस्त्योऽजनयत्पत्न्यामगस्त्यं च हविर्भुवि ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.22~~
-~~bc:Text 22~~
-
-{{description>My respectful obeisances are unto You, O Lord, whose abdomen is marked with a depression like a lotus flower, who are always decorated with garlands of lotus flowers, whose glance is as cool as the lotus and whose feet are engraved with lotuses.}}
-
+---json
+{
+    "name":"SB 1.8.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.8.22",
+    "description":"My respectful obeisances are unto You, O Lord, whose abdomen is marked with a depression like a lotus flower, who are always decorated with garlands of lotus flowers, whose glance is as cool as the lotus and whose feet are engraved with lotuses."
+}
+---
 ====== SB 1.8.22 ======
 
 > नमः पङ्कजनाभाय नमः पङ्कजमालिने ।

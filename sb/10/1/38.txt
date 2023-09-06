@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.38~~
-~~bc:Text 38~~
-
-{{description>O great hero, one who takes birth is sure to die, for death is born with the body. One may die today or after hundreds of years, but death is sure for every living entity.}}
-
+---json
+{
+    "name":"SB 10.1.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 10.1.38",
+    "description":"O great hero, one who takes birth is sure to die, for death is born with the body. One may die today or after hundreds of years, but death is sure for every living entity."
+}
+---
 ====== SB 10.1.38 ======
 
 ===== Text =====

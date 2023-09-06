@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.6~~
-~~bc:Text 6~~
-
-{{description>When Svāyambhuva Manu saw that his grandson Dhruva Mahārāja was killing so many of the Yakṣas who were not actually offenders, out of his great compassion he approached Dhruva with great sages to give him good instruction.}}
-
+---json
+{
+    "name":"SB 4.11.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.11.6",
+    "description":"When Svāyambhuva Manu saw that his grandson Dhruva Mahārāja was killing so many of the Yakṣas who were not actually offenders, out of his great compassion he approached Dhruva with great sages to give him good instruction."
+}
+---
 ====== SB 4.11.6 ======
 
 > तान्हन्यमानानभिवीक्ष्य गुह्यकाननागसश्चित्ररथेन भूरिशः ।

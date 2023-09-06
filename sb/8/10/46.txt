@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.46~~
-~~bc:Text 46~~
-
-{{description>From that mountain fell trees blazing in a forest fire. Chips of stone, with sharp edges like picks, also fell and smashed the heads of the demigod soldiers.}}
-
+---json
+{
+    "name":"SB 8.10.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 8.10.46",
+    "description":"From that mountain fell trees blazing in a forest fire. Chips of stone, with sharp edges like picks, also fell and smashed the heads of the demigod soldiers."
+}
+---
 ====== SB 8.10.46 ======
 
 ===== Text =====

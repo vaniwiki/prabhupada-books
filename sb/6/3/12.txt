@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.12~~
-~~bc:Text 12~~
-
-{{description>Yamarāja said: My dear servants, you have accepted me as the Supreme, but factually I am not. Above me, and above all the other demigods, including Indra and Candra, is the one supreme master and controller. The partial manifestations of His personality are Brahmā, Viṣṇu and Śiva, who are in charge of the creation, maintenance and annihilation of this universe. He is like the two threads that form the length and breadth of a woven cloth. The entire world is controlled by Him just as a bull is controlled by a rope in its nose.}}
-
+---json
+{
+    "name":"SB 6.3.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 6.3.12",
+    "description":"Yamarāja said: My dear servants, you have accepted me as the Supreme, but factually I am not. Above me, and above all the other demigods, including Indra and Candra, is the one supreme master and controller. The partial manifestations of His personality are Brahmā, Viṣṇu and Śiva, who are in charge of the creation, maintenance and annihilation of this universe. He is like the two threads that form the length and breadth of a woven cloth. The entire world is controlled by Him just as a bull is controlled by a rope in its nose."
+}
+---
 ====== SB 6.3.12 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.3.23~~
-~~bc:Text 23~~
-
-{{description>I am always engaged in offering obeisances to Lord Vāsudeva in pure Kṛṣṇa consciousness. Kṛṣṇa consciousness is always pure consciousness, in which the Supreme Personality of Godhead, known as Vāsudeva, is revealed without any covering.}}
-
+---json
+{
+    "name":"SB 4.3.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.3.23",
+    "description":"I am always engaged in offering obeisances to Lord Vāsudeva in pure Kṛṣṇa consciousness. Kṛṣṇa consciousness is always pure consciousness, in which the Supreme Personality of Godhead, known as Vāsudeva, is revealed without any covering."
+}
+---
 ====== SB 4.3.23 ======
 
 > सत्त्वं विशुद्धं वसुदेवशब्दितं यदीयते तत्र पुमानपावृतः ।

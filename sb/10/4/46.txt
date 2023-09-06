@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.46~~
-~~bc:Text 46~~
-
-{{description>My dear King, when a man persecutes great souls, all his benedictions of longevity, beauty, fame, religion, blessings and promotion to higher planets will be destroyed.}}
-
+---json
+{
+    "name":"SB 10.4.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 10.4.46",
+    "description":"My dear King, when a man persecutes great souls, all his benedictions of longevity, beauty, fame, religion, blessings and promotion to higher planets will be destroyed."
+}
+---
 ====== SB 10.4.46 ======
 
 ===== Text =====

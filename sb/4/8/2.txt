@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.2~~
-~~bc:Text 2~~
-
-{{description>Another son of Lord Brahmā was Irreligion, whose wife's name was Falsity. From their combination were born two demons named Dambha, or Bluffing, and Māyā, or Cheating. These two demons were taken by a demon named Nirṛti, who had no children.}}
-
+---json
+{
+    "name":"SB 4.8.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.8.2",
+    "description":"Another son of Lord Brahmā was Irreligion, whose wife's name was Falsity. From their combination were born two demons named Dambha, or Bluffing, and Māyā, or Cheating. These two demons were taken by a demon named Nirṛti, who had no children."
+}
+---
 ====== SB 4.8.2 ======
 
 > मृषाधर्मस्य भार्यासीद्दम्भं मायां च शत्रुहन् ।

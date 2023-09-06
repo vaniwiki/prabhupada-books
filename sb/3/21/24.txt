@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.24~~
-~~bc:Text 24~~
-
-{{description>The Lord continued: My dear ṛṣi, O leader of the living entities, for those who serve Me in devotion by worshiping Me, especially persons like you who have given up everything unto Me, there is never any question of frustration.}}
-
+---json
+{
+    "name":"SB 3.21.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.21.24",
+    "description":"The Lord continued: My dear ṛṣi, O leader of the living entities, for those who serve Me in devotion by worshiping Me, especially persons like you who have given up everything unto Me, there is never any question of frustration."
+}
+---
 ====== SB 3.21.24 ======
 
 > न वै जातु मृषैव स्यात्प्रजाध्यक्ष मदर्हणम् ।

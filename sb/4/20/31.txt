@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.31~~
-~~bc:Text 31~~
-
-{{description>My Lord, due to Your illusory energy, all living beings in this material world have forgotten their real constitutional position, and out of ignorance they are always desirous of material happiness in the form of society, friendship and love. Therefore, please do not ask me to take some material benefits from You, but as a father, not waiting for the son's demand, does everything for the benefit of the son, please bestow upon me whatever You think best for me.}}
-
+---json
+{
+    "name":"SB 4.20.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.20.31",
+    "description":"My Lord, due to Your illusory energy, all living beings in this material world have forgotten their real constitutional position, and out of ignorance they are always desirous of material happiness in the form of society, friendship and love. Therefore, please do not ask me to take some material benefits from You, but as a father, not waiting for the son's demand, does everything for the benefit of the son, please bestow upon me whatever You think best for me."
+}
+---
 ====== SB 4.20.31 ======
 
 > त्वन्माययाद्धा जन ईश खण्डितो यदन्यदाशास्त ऋतात्मनोऽबुधः ।

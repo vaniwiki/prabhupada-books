@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.26~~
-~~bc:Text 26~~
-
-{{description>O brāhmaṇas, the incarnations of the Lord are innumerable, like rivulets flowing from inexhaustible sources of water.}}
-
+---json
+{
+    "name":"SB 1.3.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.3.26",
+    "description":"O brāhmaṇas, the incarnations of the Lord are innumerable, like rivulets flowing from inexhaustible sources of water."
+}
+---
 ====== SB 1.3.26 ======
 
 > अवतारा ह्यसङ्ख्येया हरेः सत्त्वनिधेर्द्विजाः ।

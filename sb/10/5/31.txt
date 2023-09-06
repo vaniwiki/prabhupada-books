@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.31~~
-~~bc:Text 31~~
-
-{{description>Vasudeva said to Nanda Mahārāja: Now, my dear brother, since you have paid the annual taxes to Kaṁsa and have also seen me, do not stay in this place for many days. It is better to return to Gokula, since I know that there may be some disturbances there.}}
-
+---json
+{
+    "name":"SB 10.5.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 10.5.31",
+    "description":"Vasudeva said to Nanda Mahārāja: Now, my dear brother, since you have paid the annual taxes to Kaṁsa and have also seen me, do not stay in this place for many days. It is better to return to Gokula, since I know that there may be some disturbances there."
+}
+---
 ====== SB 10.5.31 ======
 
 ===== Text =====

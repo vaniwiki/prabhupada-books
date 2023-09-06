@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.44~~
-~~bc:Text 44~~
-
-{{description>A sinful son causes a person's reputation to vanish. His irreligious activities at home cause irreligion and quarrel among everyone, and this creates only endless anxiety.}}
-
+---json
+{
+    "name":"SB 4.13.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 4.13.44",
+    "description":"A sinful son causes a person's reputation to vanish. His irreligious activities at home cause irreligion and quarrel among everyone, and this creates only endless anxiety."
+}
+---
 ====== SB 4.13.44 ======
 
 > यतः पापीयसी कीर्तिरधर्मश्च महान्नृणाम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.16~~
-~~bc:Text 16~~
-
-{{description>Great generals like Bhīṣma, Droṇa, Karṇa, Bhūriśravā, Suśarmā, Śalya, Jayadratha, and Bāhlika all directed their invincible weapons against me. But by His [Lord Kṛṣṇa's] grace they could not even touch a hair on my head. Similarly, Prahlāda Mahārāja, the supreme devotee of Lord Nṛsiṁhadeva, was unaffected by the weapons the demons used against him.}}
-
+---json
+{
+    "name":"SB 1.15.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 1.15.16",
+    "description":"Great generals like Bhīṣma, Droṇa, Karṇa, Bhūriśravā, Suśarmā, Śalya, Jayadratha, and Bāhlika all directed their invincible weapons against me. But by His [Lord Kṛṣṇa's] grace they could not even touch a hair on my head. Similarly, Prahlāda Mahārāja, the supreme devotee of Lord Nṛsiṁhadeva, was unaffected by the weapons the demons used against him."
+}
+---
 ====== SB 1.15.16 ======
 
 > यद्दोःषु मा प्रणिहितं गुरुभीष्मकर्ण नप्तृत्रिगर्तशल्यसैन्धवबाह्लिकाद्यैः ।

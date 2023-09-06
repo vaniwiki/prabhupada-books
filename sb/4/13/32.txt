@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.32~~
-~~bc:Text 32~~
-
-{{description>O King, we wish all good fortune for you. You have no son, but if you pray at once to the Supreme Lord and ask for a son, and if you execute the sacrifice for that purpose, the enjoyer of the sacrifice, the Supreme Personality of Godhead, will fulfill your desire.}}
-
+---json
+{
+    "name":"SB 4.13.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.13.32",
+    "description":"O King, we wish all good fortune for you. You have no son, but if you pray at once to the Supreme Lord and ask for a son, and if you execute the sacrifice for that purpose, the enjoyer of the sacrifice, the Supreme Personality of Godhead, will fulfill your desire."
+}
+---
 ====== SB 4.13.32 ======
 
 > तथा साधय भद्रं ते आत्मानं सुप्रजं नृप ।

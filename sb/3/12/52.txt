@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.52~~
-~~bc:Text 52~~
-
-{{description>While he was thus absorbed in contemplation and was observing the supernatural power, two other forms were generated from his body. They are still celebrated as the body of Brahmā.}}
-
+---json
+{
+    "name":"SB 3.12.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 3.12.52",
+    "description":"While he was thus absorbed in contemplation and was observing the supernatural power, two other forms were generated from his body. They are still celebrated as the body of Brahmā."
+}
+---
 ====== SB 3.12.52 ======
 
 > एवं युक्तकृतस्तस्य दैवं चावेक्षतस्तदा ।

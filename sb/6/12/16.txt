@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.16~~
-~~bc:Text 16~~
-
-{{description>O my enemy, just look at me. I have already been defeated, for my weapon and arm have been cut to pieces. You have already overwhelmed me, but nonetheless, with a desire to kill you, I am trying my best to fight. I am not at all morose, even under such adverse conditions. Therefore you should give up your moroseness and continue fighting.}}
-
+---json
+{
+    "name":"SB 6.12.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 6.12.16",
+    "description":"O my enemy, just look at me. I have already been defeated, for my weapon and arm have been cut to pieces. You have already overwhelmed me, but nonetheless, with a desire to kill you, I am trying my best to fight. I am not at all morose, even under such adverse conditions. Therefore you should give up your moroseness and continue fighting."
+}
+---
 ====== SB 6.12.16 ======
 
 ===== Text =====

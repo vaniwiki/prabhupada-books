@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.7~~
-~~bc:Text 7~~
-
-{{description>The demon, who had golden hair on his head and fearful tusks, gave chase to the Lord while He was rising from the water, even as an alligator would chase an elephant. Roaring like thunder, he said: Are You not ashamed of running away before a challenging adversary? There is nothing reproachable for shameless creatures!}}
-
+---json
+{
+    "name":"SB 3.18.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.18.7",
+    "description":"The demon, who had golden hair on his head and fearful tusks, gave chase to the Lord while He was rising from the water, even as an alligator would chase an elephant. Roaring like thunder, he said: Are You not ashamed of running away before a challenging adversary? There is nothing reproachable for shameless creatures!"
+}
+---
 ====== SB 3.18.7 ======
 
 > तं निःसरन्तं सलिलादनुद्रुतो हिरण्यकेशो द्विरदं यथा झषः ।

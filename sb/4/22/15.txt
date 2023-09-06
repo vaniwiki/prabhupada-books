@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.15~~
-~~bc:Text 15~~
-
-{{description>I am completely assured that personalities like you are the only friends for persons who are blazing in the fire of material existence. I therefore ask you how in this material world we can very soon achieve the ultimate goal of life.}}
-
+---json
+{
+    "name":"SB 4.22.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.22.15",
+    "description":"I am completely assured that personalities like you are the only friends for persons who are blazing in the fire of material existence. I therefore ask you how in this material world we can very soon achieve the ultimate goal of life."
+}
+---
 ====== SB 4.22.15 ======
 
 > तदहं कृतविश्रम्भः सुहृदो वस्तपस्विनाम् ।

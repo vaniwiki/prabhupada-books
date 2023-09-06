@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.36~~
-~~bc:Text 36~~
-
-{{description>Urvaśī said: My dear King, you are a man, a hero. Don't be impatient and give up your life. Be sober and don't allow the senses to overcome you like foxes. Don't let the foxes eat you. In other words, you should not be controlled by your senses. Rather, you should know that the heart of a woman is like that of a fox. There is no use making friendship with women.}}
-
+---json
+{
+    "name":"SB 9.14.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 9.14.36",
+    "description":"Urvaśī said: My dear King, you are a man, a hero. Don't be impatient and give up your life. Be sober and don't allow the senses to overcome you like foxes. Don't let the foxes eat you. In other words, you should not be controlled by your senses. Rather, you should know that the heart of a woman is like that of a fox. There is no use making friendship with women."
+}
+---
 ====== SB 9.14.36 ======
 
 ===== Text =====

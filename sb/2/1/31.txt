@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.31~~
-~~bc:Text 31~~
-
-{{description>They say that the Vedic hymns are the cerebral passage of the Lord, and His jaws of teeth are Yama, god of death, who punishes the sinners. The art of affection is His set of teeth, and the most alluring illusory material energy is His smile. This great ocean of material creation is but the casting of His glance over us.}}
-
+---json
+{
+    "name":"SB 2.1.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 2.1.31",
+    "description":"They say that the Vedic hymns are the cerebral passage of the Lord, and His jaws of teeth are Yama, god of death, who punishes the sinners. The art of affection is His set of teeth, and the most alluring illusory material energy is His smile. This great ocean of material creation is but the casting of His glance over us."
+}
+---
 ====== SB 2.1.31 ======
 
 > छन्दांस्यनन्तस्य शिरो गृणन्ति दंष्ट्रा यमः स्नेहकला द्विजानि ।

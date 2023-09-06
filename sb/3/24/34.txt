@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.34~~
-~~bc:Text 34~~
-
-{{description>Today I have something to ask from You, who are the Lord of all living entities. Since I have now been liberated by You from my debts to my father, and since all my desires are fulfilled, I wish to accept the order of an itinerant mendicant. Renouncing this family life, I wish to wander about, free from lamentation, thinking always of You in my heart.}}
-
+---json
+{
+    "name":"SB 3.24.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.24.34",
+    "description":"Today I have something to ask from You, who are the Lord of all living entities. Since I have now been liberated by You from my debts to my father, and since all my desires are fulfilled, I wish to accept the order of an itinerant mendicant. Renouncing this family life, I wish to wander about, free from lamentation, thinking always of You in my heart."
+}
+---
 ====== SB 3.24.34 ======
 
 > अ स्माभिपृच्छेऽद्य पतिं प्रजानां त्वयावतीर्णर्ण उताप्तकामः ।

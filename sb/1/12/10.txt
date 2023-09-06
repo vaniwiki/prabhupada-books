@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.10~~
-~~bc:Text 10~~
-
-{{description>The Lord was thus engaged in vanquishing the radiation of the brahmāstra, just as the sun evaporates a drop of dew. He was observed by the child, who thought about who He was.}}
-
+---json
+{
+    "name":"SB 1.12.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 1.12.10",
+    "description":"The Lord was thus engaged in vanquishing the radiation of the brahmāstra, just as the sun evaporates a drop of dew. He was observed by the child, who thought about who He was."
+}
+---
 ====== SB 1.12.10 ======
 
 > अस्त्रतेजः स्वगदया नीहारमिव गोपतिः ।

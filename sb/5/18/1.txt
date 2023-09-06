@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Bhadraśravā, the son of Dharmarāja, rules the tract of land known as Bhadrāśva-varṣa. Just as Lord Śiva worships Saṅkarṣaṇa in Ilāvṛta-varṣa, Bhadraśravā, accompanied by his intimate servants and all the residents of the land, worships the plenary expansion of Vāsudeva known as Hayaśīrṣa. Lord Hayaśīrṣa is very dear to the devotees, and He is the director of all religious principles. Fixed in the topmost trance, Bhadraśravā and his associates offer their respectful obeisances to the Lord and chant the following prayers with careful pronunciation.}}
-
+---json
+{
+    "name":"SB 5.18.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.18.1",
+    "description":"Śrī Śukadeva Gosvāmī said: Bhadraśravā, the son of Dharmarāja, rules the tract of land known as Bhadrāśva-varṣa. Just as Lord Śiva worships Saṅkarṣaṇa in Ilāvṛta-varṣa, Bhadraśravā, accompanied by his intimate servants and all the residents of the land, worships the plenary expansion of Vāsudeva known as Hayaśīrṣa. Lord Hayaśīrṣa is very dear to the devotees, and He is the director of all religious principles. Fixed in the topmost trance, Bhadraśravā and his associates offer their respectful obeisances to the Lord and chant the following prayers with careful pronunciation."
+}
+---
 ====== SB 5.18.1 ======
 
 ===== Text =====

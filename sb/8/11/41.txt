@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.41~~
-~~bc:Text 41~~
-
-{{description>Viśvāvasu and Parāvasu, the two chiefs of the Gandharvas, sang in great happiness. The kettledrums of the demigods sounded, and the Apsarās danced in jubilation.}}
-
+---json
+{
+    "name":"SB 8.11.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 8.11.41",
+    "description":"Viśvāvasu and Parāvasu, the two chiefs of the Gandharvas, sang in great happiness. The kettledrums of the demigods sounded, and the Apsarās danced in jubilation."
+}
+---
 ====== SB 8.11.41 ======
 
 ===== Text =====

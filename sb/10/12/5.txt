@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.5~~
-~~bc:Text 5~~
-
-{{description>All the cowherd boys used to steal one another's lunch bags. When a boy came to understand that his bag had been taken away, the other boys would throw it farther away, to a more distant place, and those standing there would throw it still farther. When the proprietor of the bag became disappointed, the other boys would laugh, the proprietor would cry, and then the bag would be returned.}}
-
+---json
+{
+    "name":"SB 10.12.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 10.12.5",
+    "description":"All the cowherd boys used to steal one another's lunch bags. When a boy came to understand that his bag had been taken away, the other boys would throw it farther away, to a more distant place, and those standing there would throw it still farther. When the proprietor of the bag became disappointed, the other boys would laugh, the proprietor would cry, and then the bag would be returned."
+}
+---
 ====== SB 10.12.5 ======
 
 ===== Text =====

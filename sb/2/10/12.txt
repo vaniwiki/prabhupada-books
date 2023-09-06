@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.12~~
-~~bc:Text 12~~
-
-{{description>One should definitely know that all material ingredients, activities, time and modes, and the living entities who are meant to enjoy them all, exist by His mercy only, and as soon as He does not care for them, everything becomes nonexistent.}}
-
+---json
+{
+    "name":"SB 2.10.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 2.10.12",
+    "description":"One should definitely know that all material ingredients, activities, time and modes, and the living entities who are meant to enjoy them all, exist by His mercy only, and as soon as He does not care for them, everything becomes nonexistent."
+}
+---
 ====== SB 2.10.12 ======
 
 > द्रव्यं कर्म च कालश्च स्वभावो जीव एव च ।

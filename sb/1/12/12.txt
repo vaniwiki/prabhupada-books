@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.12~~
-~~bc:Text 12~~
-
-{{description>Thereupon, when all the good signs of the zodiac gradually evolved, the heir apparent of Pāṇḍu, who would be exactly like him in prowess, took birth.}}
-
+---json
+{
+    "name":"SB 1.12.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.12.12",
+    "description":"Thereupon, when all the good signs of the zodiac gradually evolved, the heir apparent of Pāṇḍu, who would be exactly like him in prowess, took birth."
+}
+---
 ====== SB 1.12.12 ======
 
 > ततः सर्वगुणोदर्के सानुकूलग्रहोदये ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.36~~
-~~bc:Text 36~~
-
-{{description>If a king, who is desirous of attaining victory and ruling power, chants the narration of Pṛthu Mahārāja three times before going forth on his chariot, all subordinate kings will automatically render all kinds of taxes unto him—as they rendered them unto Mahārāja Pṛthu—simply upon his order.}}
-
+---json
+{
+    "name":"SB 4.23.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.23.36",
+    "description":"If a king, who is desirous of attaining victory and ruling power, chants the narration of Pṛthu Mahārāja three times before going forth on his chariot, all subordinate kings will automatically render all kinds of taxes unto him—as they rendered them unto Mahārāja Pṛthu—simply upon his order."
+}
+---
 ====== SB 4.23.36 ======
 
 > विजयाभिमुखो राजा श्रुत्वैतदभियाति यान् ।

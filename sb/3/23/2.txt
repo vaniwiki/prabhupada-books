@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.2~~
-~~bc:Text 2~~
-
-{{description>O Vidura, Devahūti served her husband with intimacy and great respect, with control of the senses, with love and with sweet words.}}
-
+---json
+{
+    "name":"SB 3.23.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.23.2",
+    "description":"O Vidura, Devahūti served her husband with intimacy and great respect, with control of the senses, with love and with sweet words."
+}
+---
 ====== SB 3.23.2 ======
 
 > विश्रम्भेणात्मशौचेन गौरवेण दमेन च ।

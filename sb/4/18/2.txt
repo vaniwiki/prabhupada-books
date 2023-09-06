@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.2~~
-~~bc:Text 2~~
-
-{{description>My dear Lord, please pacify your anger completely and hear patiently whatever I submit before you. Please turn your kind attention to this. I may be very poor, but a learned man takes the essence of knowledge from all places, just as a bumblebee collects honey from each and every flower.}}
-
+---json
+{
+    "name":"SB 4.18.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.18.2",
+    "description":"My dear Lord, please pacify your anger completely and hear patiently whatever I submit before you. Please turn your kind attention to this. I may be very poor, but a learned man takes the essence of knowledge from all places, just as a bumblebee collects honey from each and every flower."
+}
+---
 ====== SB 4.18.2 ======
 
 > सन्नियच्छाभिभो मन्युं निबोध श्रावितं च मे ।

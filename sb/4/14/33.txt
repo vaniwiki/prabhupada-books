@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.33~~
-~~bc:Text 33~~
-
-{{description>But for King Vena, who is simply inauspicious, who would blaspheme the Supreme Personality of Godhead, by whose mercy one is awarded all kinds of fortune and opulence?}}
-
+---json
+{
+    "name":"SB 4.14.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.14.33",
+    "description":"But for King Vena, who is simply inauspicious, who would blaspheme the Supreme Personality of Godhead, by whose mercy one is awarded all kinds of fortune and opulence?"
+}
+---
 ====== SB 4.14.33 ======
 
 > को वैनं परिचक्षीत वेनमेकमृतेऽशुभम् ।

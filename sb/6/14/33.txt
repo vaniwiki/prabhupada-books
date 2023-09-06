@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.33~~
-~~bc:Text 33~~
-
-{{description>King Citraketu was especially pleased. After purifying himself by bathing and by decorating himself with ornaments, he engaged learned brāhmaṇas in offering benedictions to the child and performing the birth ceremony.}}
-
+---json
+{
+    "name":"SB 6.14.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 6.14.33",
+    "description":"King Citraketu was especially pleased. After purifying himself by bathing and by decorating himself with ornaments, he engaged learned brāhmaṇas in offering benedictions to the child and performing the birth ceremony."
+}
+---
 ====== SB 6.14.33 ======
 
 ===== Text =====

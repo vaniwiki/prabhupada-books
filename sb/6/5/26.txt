@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.26~~
-~~bc:Text 26~~
-
-{{description>At Nārāyaṇa-saras, the second group of sons performed penances in the same way as the first. They bathed in the holy water, and by its touch all the dirty material desires in their hearts were cleansed away. They murmured mantras beginning with oṁkāra and underwent a severe course of austerities.}}
-
+---json
+{
+    "name":"SB 6.5.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 6.5.26",
+    "description":"At Nārāyaṇa-saras, the second group of sons performed penances in the same way as the first. They bathed in the holy water, and by its touch all the dirty material desires in their hearts were cleansed away. They murmured mantras beginning with oṁkāra and underwent a severe course of austerities."
+}
+---
 ====== SB 6.5.26 ======
 
 ===== Text =====

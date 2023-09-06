@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.5~~
-~~bc:Text 5~~
-
-{{description>The female has such beautiful teeth and beautiful qualities that she will actually beautify the ornaments she wears. Her name will be Arci. In the future she will accept King Pṛthu as her husband.}}
-
+---json
+{
+    "name":"SB 4.15.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.15.5",
+    "description":"The female has such beautiful teeth and beautiful qualities that she will actually beautify the ornaments she wears. Her name will be Arci. In the future she will accept King Pṛthu as her husband."
+}
+---
 ====== SB 4.15.5 ======
 
 > इयं च सुदती देवी गुणभूषणभूषणा ।

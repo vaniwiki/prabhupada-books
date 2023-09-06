@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.7.10~~
-~~bc:Text 10~~
-
-{{description>In Pulaha-āśrama is the Gaṇḍakī River, which is the best of all rivers. The śālagrāma-śilā, the marble pebbles, purify all those places. On each and every marble pebble, up and down, circles like navels are visible.}}
-
+---json
+{
+    "name":"SB 5.7.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.7.10",
+    "description":"In Pulaha-āśrama is the Gaṇḍakī River, which is the best of all rivers. The śālagrāma-śilā, the marble pebbles, purify all those places. On each and every marble pebble, up and down, circles like navels are visible."
+}
+---
 ====== SB 5.7.10 ======
 
 ===== Text =====

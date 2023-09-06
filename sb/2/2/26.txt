@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.26~~
-~~bc:Text 26~~
-
-{{description>At the time of the final devastation of the complete universe [the end of the duration of Brahmā's life], a flame of fire emanates from the mouth of Ananta [from the bottom of the universe]. The yogī sees all the planets of the universe burning to ashes, and thus he leaves for Satyaloka by airplanes used by the great purified souls. The duration of life in Satyaloka is calculated to be 15,480,000,000,000 years.}}
-
+---json
+{
+    "name":"SB 2.2.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 2.2.26",
+    "description":"At the time of the final devastation of the complete universe [the end of the duration of Brahmā's life], a flame of fire emanates from the mouth of Ananta [from the bottom of the universe]. The yogī sees all the planets of the universe burning to ashes, and thus he leaves for Satyaloka by airplanes used by the great purified souls. The duration of life in Satyaloka is calculated to be 15,480,000,000,000 years."
+}
+---
 ====== SB 2.2.26 ======
 
 > अथो अनन्तस्य मुखानलेन दन्दह्यमानं स निरीक्ष्य विश्वम् ।

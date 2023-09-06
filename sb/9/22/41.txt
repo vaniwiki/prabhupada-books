@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.22.41~~
-~~bc:Text 41~~
-
-{{description>From Śuciratha will come the son named Vṛṣṭimān, and his son, Suṣeṇa, will be the emperor of the entire world. The son of Suṣeṇa will be Sunītha, his son will be Nṛcakṣu, and from Nṛcakṣu will come a son named Sukhīnala.}}
-
+---json
+{
+    "name":"SB 9.22.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 9.22.41",
+    "description":"From Śuciratha will come the son named Vṛṣṭimān, and his son, Suṣeṇa, will be the emperor of the entire world. The son of Suṣeṇa will be Sunītha, his son will be Nṛcakṣu, and from Nṛcakṣu will come a son named Sukhīnala."
+}
+---
 ====== SB 9.22.41 ======
 
 ===== Text =====

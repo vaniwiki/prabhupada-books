@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.18~~
-~~bc:Text 18~~
-
-{{description>They hastened toward the Lord on chariots with brāhmaṇas bearing flowers. Before them were elephants, emblems of good fortune. Conchshells and bugles were sounded, and Vedic hymns were chanted. Thus they offered their respects, which were saturated with affection.}}
-
+---json
+{
+    "name":"SB 1.11.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 1.11.18",
+    "description":"They hastened toward the Lord on chariots with brāhmaṇas bearing flowers. Before them were elephants, emblems of good fortune. Conchshells and bugles were sounded, and Vedic hymns were chanted. Thus they offered their respects, which were saturated with affection."
+}
+---
 ====== SB 1.11.18 ======
 
 > वारणेन्द्रं पुरस्कृत्य ब्राह्मणैः ससुमङ्गलैः ।

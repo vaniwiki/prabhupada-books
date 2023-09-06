@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.24~~
-~~bc:Text 24~~
-
-{{description>For performing sacrificial ceremonies, one requires sacrificial ingredients, such as flowers, leaves and straw, along with the sacrificial altar and a suitable time [spring].}}
-
+---json
+{
+    "name":"SB 2.6.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 2.6.24",
+    "description":"For performing sacrificial ceremonies, one requires sacrificial ingredients, such as flowers, leaves and straw, along with the sacrificial altar and a suitable time [spring]."
+}
+---
 ====== SB 2.6.24 ======
 
 > तेषु यज्ञस्य पशवः सवनस्पतयः कुशाः ।

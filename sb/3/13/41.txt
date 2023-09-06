@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.41~~
-~~bc:Text 41~~
-
-{{description>O Lord, as the peaks of great mountains become beautiful when decorated with clouds, Your transcendental body has become beautiful because of Your lifting the earth on the edge of Your tusks.}}
-
+---json
+{
+    "name":"SB 3.13.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.13.41",
+    "description":"O Lord, as the peaks of great mountains become beautiful when decorated with clouds, Your transcendental body has become beautiful because of Your lifting the earth on the edge of Your tusks."
+}
+---
 ====== SB 3.13.41 ======
 
 > त्रयीमयं रूपमिदं च सौकरं भूमण्डलेनाथ दता धृतेन ते ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.52~~
-~~bc:Text 52~~
-
-{{description>As it is not possible to filter muddy water through mud, or purify a wine-stained pot with wine, it is not possible to counteract the killing of men by sacrificing animals.}}
-
+---json
+{
+    "name":"SB 1.8.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 1.8.52",
+    "description":"As it is not possible to filter muddy water through mud, or purify a wine-stained pot with wine, it is not possible to counteract the killing of men by sacrificing animals."
+}
+---
 ====== SB 1.8.52 ======
 
 > यथा पङ्केन पङ्काम्भः सुरया वा सुराकृतम् ।

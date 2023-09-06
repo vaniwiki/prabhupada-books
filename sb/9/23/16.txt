@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.16~~
-~~bc:Text 16~~
-
-{{description>The Pracetās [the sons of Pracetā] occupied the northern side of India, which was devoid of Vedic civilization, and became kings there. Yayāti's second son was Turvasu. The son of Turvasu was Vahni; the son of Vahni, Bharga; the son of Bharga, Bhānumān.}}
-
+---json
+{
+    "name":"SB 9.23.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 9.23.16",
+    "description":"The Pracetās [the sons of Pracetā] occupied the northern side of India, which was devoid of Vedic civilization, and became kings there. Yayāti's second son was Turvasu. The son of Turvasu was Vahni; the son of Vahni, Bharga; the son of Bharga, Bhānumān."
+}
+---
 ====== SB 9.23.16 ======
 
 ===== Text =====

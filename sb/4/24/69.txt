@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.69~~
-~~bc:Text 69~~
-
-{{description>My dear sons of the King, just execute your occupational duty as kings with a pure heart. Just chant this prayer fixing your mind on the lotus feet of the Lord. That will bring you all good fortune, for the Lord will be very much pleased with you.}}
-
+---json
+{
+    "name":"SB 4.24.69",
+    "h1":"Text 69",
+    "title":" Śrīmad Bhāgavatam 4.24.69",
+    "description":"My dear sons of the King, just execute your occupational duty as kings with a pure heart. Just chant this prayer fixing your mind on the lotus feet of the Lord. That will bring you all good fortune, for the Lord will be very much pleased with you."
+}
+---
 ====== SB 4.24.69 ======
 
 > इदं जपत भद्रं वो विशुद्धा नृपनन्दनाः ।

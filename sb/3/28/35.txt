@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.35~~
-~~bc:Text 35~~
-
-{{description>When the mind is thus completely freed from all material contamination and detached from material objectives, it is just like the flame of a lamp. At that time the mind is actually dovetailed with that of the Supreme Lord and is experienced as one with Him because it is freed from the interactive flow of the material qualities.}}
-
+---json
+{
+    "name":"SB 3.28.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.28.35",
+    "description":"When the mind is thus completely freed from all material contamination and detached from material objectives, it is just like the flame of a lamp. At that time the mind is actually dovetailed with that of the Supreme Lord and is experienced as one with Him because it is freed from the interactive flow of the material qualities."
+}
+---
 ====== SB 3.28.35 ======
 
 > मुक्ताश्रयं यर्हि निर्विषयं विरक्तं

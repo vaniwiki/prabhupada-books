@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.3~~
-~~bc:Text 3~~
-
-{{description>Prahlāda certainly heard and recited the topics of politics and economics taught by the teachers, but he understood that political philosophy involves considering someone a friend and someone else an enemy, and thus he did not like it.}}
-
+---json
+{
+    "name":"SB 7.5.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 7.5.3",
+    "description":"Prahlāda certainly heard and recited the topics of politics and economics taught by the teachers, but he understood that political philosophy involves considering someone a friend and someone else an enemy, and thus he did not like it."
+}
+---
 ====== SB 7.5.3 ======
 
 ===== Text =====

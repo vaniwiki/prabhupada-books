@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: O King Parīkṣit, as the embodied soul has six senses, King Nahuṣa had six sons, named Yati, Yayāti, Saṁyāti, Āyati, Viyati and Kṛti.}}
-
+---json
+{
+    "name":"SB 9.18.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.18.1",
+    "description":"Śukadeva Gosvāmī said: O King Parīkṣit, as the embodied soul has six senses, King Nahuṣa had six sons, named Yati, Yayāti, Saṁyāti, Āyati, Viyati and Kṛti."
+}
+---
 ====== SB 9.18.1 ======
 
 ===== Text =====

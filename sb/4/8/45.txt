@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.45~~
-~~bc:Text 45~~
-
-{{description>[The form of the Lord is described herein.] The Lord's face is perpetually very beautiful and pleasing in attitude. To the devotees who see Him, He appears never to be displeased, and He is always prepared to award benedictions to them. His eyes, His nicely decorated eyebrows, His raised nose and His broad forehead are all very beautiful. He is more beautiful than all the demigods.}}
-
+---json
+{
+    "name":"SB 4.8.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 4.8.45",
+    "description":"[The form of the Lord is described herein.] The Lord's face is perpetually very beautiful and pleasing in attitude. To the devotees who see Him, He appears never to be displeased, and He is always prepared to award benedictions to them. His eyes, His nicely decorated eyebrows, His raised nose and His broad forehead are all very beautiful. He is more beautiful than all the demigods."
+}
+---
 ====== SB 4.8.45 ======
 
 > प्रसादाभिमुखं शश्वत्प्रसन्नवदनेक्षणम् ।

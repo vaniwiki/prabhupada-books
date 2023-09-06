@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.18~~
-~~bc:Text 18~~
-
-{{description>Śukadeva Gosvāmī said: Hearing the straightforward, instructive words of Vṛtrāsura, King Indra praised him and again took the thunderbolt in his hand. Without bewilderment or duplicity, he then smiled and spoke to Vṛtrāsura as follows.}}
-
+---json
+{
+    "name":"SB 6.12.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 6.12.18",
+    "description":"Śukadeva Gosvāmī said: Hearing the straightforward, instructive words of Vṛtrāsura, King Indra praised him and again took the thunderbolt in his hand. Without bewilderment or duplicity, he then smiled and spoke to Vṛtrāsura as follows."
+}
+---
 ====== SB 6.12.18 ======
 
 ===== Text =====

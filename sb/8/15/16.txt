@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.16~~
-~~bc:Text 16~~
-
-{{description>The city was full of courtyards, wide roads, assembly houses, and not less than one hundred million airplanes. The crossroads were made of pearl, and there were sitting places made of diamond and coral.}}
-
+---json
+{
+    "name":"SB 8.15.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.15.16",
+    "description":"The city was full of courtyards, wide roads, assembly houses, and not less than one hundred million airplanes. The crossroads were made of pearl, and there were sitting places made of diamond and coral."
+}
+---
 ====== SB 8.15.16 ======
 
 ===== Text =====

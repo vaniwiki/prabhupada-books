@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.52~~
-~~bc:Text 52~~
-
-{{description>While this magical atmosphere in the fight was being created by the invisible demons, who were expert in such illusions, the soldiers of the demigods became morose.}}
-
+---json
+{
+    "name":"SB 8.10.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 8.10.52",
+    "description":"While this magical atmosphere in the fight was being created by the invisible demons, who were expert in such illusions, the soldiers of the demigods became morose."
+}
+---
 ====== SB 8.10.52 ======
 
 ===== Text =====

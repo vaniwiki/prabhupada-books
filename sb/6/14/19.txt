@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.19~~
-~~bc:Text 19~~
-
-{{description>O King, are your wives, citizens, secretaries and servants and the merchants who sell spices and oil under your control? Are you also in full control of ministers, the inhabitants of your palace, your provincial governors, your sons and your other dependents?}}
-
+---json
+{
+    "name":"SB 6.14.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 6.14.19",
+    "description":"O King, are your wives, citizens, secretaries and servants and the merchants who sell spices and oil under your control? Are you also in full control of ministers, the inhabitants of your palace, your provincial governors, your sons and your other dependents?"
+}
+---
 ====== SB 6.14.19 ======
 
 ===== Text =====

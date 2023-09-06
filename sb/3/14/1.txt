@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: After hearing from the great sage Maitreya about the Lord's incarnation as Varāha, Vidura, who had taken a vow, begged him with folded hands to please narrate further transcendental activities of the Lord, since he [Vidura] did not yet feel satisfied.}}
-
+---json
+{
+    "name":"SB 3.14.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.14.1",
+    "description":"Śukadeva Gosvāmī said: After hearing from the great sage Maitreya about the Lord's incarnation as Varāha, Vidura, who had taken a vow, begged him with folded hands to please narrate further transcendental activities of the Lord, since he [Vidura] did not yet feel satisfied."
+}
+---
 ====== SB 3.14.1 ======
 
 > श्रीशुक उवाच

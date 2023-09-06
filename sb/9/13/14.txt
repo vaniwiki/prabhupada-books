@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.14~~
-~~bc:Text 14~~
-
-{{description>O King Parīkṣit, from Mithila came a son named Udāvasu; from Udāvasu, Nandivardhana; from Nandivardhana, Suketu; and from Suketu, Devarāta.}}
-
+---json
+{
+    "name":"SB 9.13.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 9.13.14",
+    "description":"O King Parīkṣit, from Mithila came a son named Udāvasu; from Udāvasu, Nandivardhana; from Nandivardhana, Suketu; and from Suketu, Devarāta."
+}
+---
 ====== SB 9.13.14 ======
 
 ===== Text =====

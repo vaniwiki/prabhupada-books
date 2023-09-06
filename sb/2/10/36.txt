@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.36~~
-~~bc:Text 36~~
-
-{{description>He, the Personality of Godhead, manifests Himself in a transcendental form, being the subject of His transcendental name, quality, pastimes, entourage and transcendental variegatedness. Although He is unaffected by all such activities, He appears to be so engaged.}}
-
+---json
+{
+    "name":"SB 2.10.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 2.10.36",
+    "description":"He, the Personality of Godhead, manifests Himself in a transcendental form, being the subject of His transcendental name, quality, pastimes, entourage and transcendental variegatedness. Although He is unaffected by all such activities, He appears to be so engaged."
+}
+---
 ====== SB 2.10.36 ======
 
 > स वाच्यवाचकतया भगवान्ब्रह्मरूपधृक् ।

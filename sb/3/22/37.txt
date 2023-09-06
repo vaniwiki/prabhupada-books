@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.37~~
-~~bc:Text 37~~
-
-{{description>Therefore, O Vidura, how can persons completely under the shelter of Lord Kṛṣṇa in devotional service be put into miseries pertaining to the body, the mind, nature, and other men and living creatures?}}
-
+---json
+{
+    "name":"SB 3.22.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.22.37",
+    "description":"Therefore, O Vidura, how can persons completely under the shelter of Lord Kṛṣṇa in devotional service be put into miseries pertaining to the body, the mind, nature, and other men and living creatures?"
+}
+---
 ====== SB 3.22.37 ======
 
 > शारीरा मानसा दिव्या वैयासे ये च मानुषाः ।

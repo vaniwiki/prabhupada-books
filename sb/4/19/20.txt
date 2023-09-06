@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.20~~
-~~bc:Text 20~~
-
-{{description>The great sage Atri again pointed out to the son of King Pṛthu that Indra was fleeing through the sky. The great hero, the son of Pṛthu, chased him again. But when he saw that Indra was carrying in his hand a staff with a skull at the top and was again wearing the dress of a sannyāsī, he still chose not to kill him.}}
-
+---json
+{
+    "name":"SB 4.19.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.19.20",
+    "description":"The great sage Atri again pointed out to the son of King Pṛthu that Indra was fleeing through the sky. The great hero, the son of Pṛthu, chased him again. But when he saw that Indra was carrying in his hand a staff with a skull at the top and was again wearing the dress of a sannyāsī, he still chose not to kill him."
+}
+---
 ====== SB 4.19.20 ======
 
 > अत्रिः सन्दर्शयामास त्वरमाणं विहायसा ।

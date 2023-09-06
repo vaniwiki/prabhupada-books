@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.13~~
-~~bc:Text 13~~
-
-{{description>Śaunaka said: The son of Vyāsadeva, Śrīla Śukadeva Gosvāmī, was a highly learned sage and was able to describe things in a poetic manner. What did Mahārāja Parīkṣit again inquire from him after hearing all that he had said?}}
-
+---json
+{
+    "name":"SB 2.3.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 2.3.13",
+    "description":"Śaunaka said: The son of Vyāsadeva, Śrīla Śukadeva Gosvāmī, was a highly learned sage and was able to describe things in a poetic manner. What did Mahārāja Parīkṣit again inquire from him after hearing all that he had said?"
+}
+---
 ====== SB 2.3.13 ======
 
 > शौनक उवाच

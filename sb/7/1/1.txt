@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.1~~
-~~bc:Text 1~~
-
-{{description>King Parīkṣit inquired: My dear brāhmaṇa, the Supreme Personality of Godhead, Viṣṇu, being everyone's well-wisher, is equal and extremely dear to everyone. How, then, did He become partial like a common man for the sake of Indra and thus kill Indra's enemies? How can a person equal to everyone be partial to some and inimical toward others?}}
-
+---json
+{
+    "name":"SB 7.1.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.1.1",
+    "description":"King Parīkṣit inquired: My dear brāhmaṇa, the Supreme Personality of Godhead, Viṣṇu, being everyone's well-wisher, is equal and extremely dear to everyone. How, then, did He become partial like a common man for the sake of Indra and thus kill Indra's enemies? How can a person equal to everyone be partial to some and inimical toward others?"
+}
+---
 ====== SB 7.1.1 ======
 
 ===== Text =====

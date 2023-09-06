@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.27~~
-~~bc:Text 27~~
-
-{{description>All the ṛṣis, Manus, demigods and descendants of Manu, who are especially powerful, are plenary portions or portions of the plenary portions of the Lord. This also includes the Prajāpatis.}}
-
+---json
+{
+    "name":"SB 1.3.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.3.27",
+    "description":"All the ṛṣis, Manus, demigods and descendants of Manu, who are especially powerful, are plenary portions or portions of the plenary portions of the Lord. This also includes the Prajāpatis."
+}
+---
 ====== SB 1.3.27 ======
 
 > ऋषयो मनवो देवा मनुपुत्रा महौजसः ।

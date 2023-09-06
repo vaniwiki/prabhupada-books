@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.7~~
-~~bc:Text 7~~
-
-{{description>The twelve boys born of Yajña and Dakṣiṇā were named Toṣa, Pratoṣa, Santoṣa, Bhadra, Sānti, Iḍaspati, Idhma, Kavi, Vibhu, Svahna, Sudeva and Rocana.}}
-
+---json
+{
+    "name":"SB 4.1.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.1.7",
+    "description":"The twelve boys born of Yajña and Dakṣiṇā were named Toṣa, Pratoṣa, Santoṣa, Bhadra, Sānti, Iḍaspati, Idhma, Kavi, Vibhu, Svahna, Sudeva and Rocana."
+}
+---
 ====== SB 4.1.7 ======
 
 > तोषः प्रतोषः सन्तोषो भद्रः शान्तिरिडस्पतिः ।

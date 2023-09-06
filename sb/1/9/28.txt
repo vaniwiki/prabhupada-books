@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.28~~
-~~bc:Text 28~~
-
-{{description>Then he described the occupational duties of different orders and statuses of life, citing instances from history, for he was himself well acquainted with the truth.}}
-
+---json
+{
+    "name":"SB 1.9.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 1.9.28",
+    "description":"Then he described the occupational duties of different orders and statuses of life, citing instances from history, for he was himself well acquainted with the truth."
+}
+---
 ====== SB 1.9.28 ======
 
 > धर्मार्थकाममोक्षांश्च सहोपायान्यथा मुने ।

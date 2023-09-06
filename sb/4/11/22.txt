@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.22~~
-~~bc:Text 22~~
-
-{{description>The differentiation among varieties of life and their suffering and enjoyment is explained by some to be the result of karma. Others say it is due to nature, others due to time, others due to fate, and still others say that it is due to desire.}}
-
+---json
+{
+    "name":"SB 4.11.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.11.22",
+    "description":"The differentiation among varieties of life and their suffering and enjoyment is explained by some to be the result of karma. Others say it is due to nature, others due to time, others due to fate, and still others say that it is due to desire."
+}
+---
 ====== SB 4.11.22 ======
 
 > केचित्कर्म वदन्त्येनं स्वभावमपरे नृप ।

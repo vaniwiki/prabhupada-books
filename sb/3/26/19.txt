@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.19~~
-~~bc:Text 19~~
-
-{{description>After the Supreme Personality of Godhead impregnates material nature with His internal potency, material nature delivers the sum total of the cosmic intelligence, which is known as Hiraṇmaya. This takes place in material nature when she is agitated by the destinations of the conditioned souls.}}
-
+---json
+{
+    "name":"SB 3.26.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.26.19",
+    "description":"After the Supreme Personality of Godhead impregnates material nature with His internal potency, material nature delivers the sum total of the cosmic intelligence, which is known as Hiraṇmaya. This takes place in material nature when she is agitated by the destinations of the conditioned souls."
+}
+---
 ====== SB 3.26.19 ======
 
 > दैवात्क्षुभितधर्मिण्यां स्वस्यां योनौ परः पुमान् ।

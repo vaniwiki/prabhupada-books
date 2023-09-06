@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.9~~
-~~bc:Text 9~~
-
-{{description>Persons who worship You simply for the sense gratification of this bag of skin are certainly influenced by Your illusory energy. In spite of having You, who are like a desire tree and are the cause of liberation from birth and death, foolish persons, such as me, desire benedictions from You for sense gratification, which is available even for those who live in hellish conditions.}}
-
+---json
+{
+    "name":"SB 4.9.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.9.9",
+    "description":"Persons who worship You simply for the sense gratification of this bag of skin are certainly influenced by Your illusory energy. In spite of having You, who are like a desire tree and are the cause of liberation from birth and death, foolish persons, such as me, desire benedictions from You for sense gratification, which is available even for those who live in hellish conditions."
+}
+---
 ====== SB 4.9.9 ======
 
 > नूनं विमुष्टमतयस्तव मायया ते

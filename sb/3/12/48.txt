@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.48~~
-~~bc:Text 48~~
-
-{{description>Brahmā is the personal representation of the Supreme Personality of Godhead as the source of transcendental sound and is therefore above the conception of manifested and unmanifested. Brahmā is the complete form of the Absolute Truth and is invested with multifarious energies.}}
-
+---json
+{
+    "name":"SB 3.12.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 3.12.48",
+    "description":"Brahmā is the personal representation of the Supreme Personality of Godhead as the source of transcendental sound and is therefore above the conception of manifested and unmanifested. Brahmā is the complete form of the Absolute Truth and is invested with multifarious energies."
+}
+---
 ====== SB 3.12.48 ======
 
 > शब्दब्रह्मात्मनस्तस्य व्यक्ताव्यक्तात्मनः परः ।

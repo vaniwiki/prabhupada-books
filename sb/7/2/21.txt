@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.21~~
-~~bc:Text 21~~
-
-{{description>My dear mother, in a restaurant or place for drinking cold water, many travelers are brought together, and after drinking water they continue to their respective destinations. Similarly, living entities join together in a family, and later, as a result of their own actions, they are led apart to their destinations.}}
-
+---json
+{
+    "name":"SB 7.2.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 7.2.21",
+    "description":"My dear mother, in a restaurant or place for drinking cold water, many travelers are brought together, and after drinking water they continue to their respective destinations. Similarly, living entities join together in a family, and later, as a result of their own actions, they are led apart to their destinations."
+}
+---
 ====== SB 7.2.21 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.26~~
-~~bc:Text 26~~
-
-{{description>My dear lotus-eyed, kindly explain to me where you are coming from, who you are, and whose daughter you are. You appear very chaste. What is the purpose of your coming here? What are you trying to do? Please explain all these things to me.}}
-
+---json
+{
+    "name":"SB 4.25.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.25.26",
+    "description":"My dear lotus-eyed, kindly explain to me where you are coming from, who you are, and whose daughter you are. You appear very chaste. What is the purpose of your coming here? What are you trying to do? Please explain all these things to me."
+}
+---
 ====== SB 4.25.26 ======
 
 > का त्वं कञ्जपलाशाक्षि कस्यासीह कुतः सति ।

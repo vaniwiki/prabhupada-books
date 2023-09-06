@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.15~~
-~~bc:Text 15~~
-
-{{description>Only for the sake of living in the heavenly planets, you killed my elder brother—a self-realized, sinless, qualified brāhmaṇa who had been appointed your chief priest. He was your spiritual master, but although you entrusted him with the performance of your sacrifice, you later mercilessly severed his heads from his body the way one butchers an animal.}}
-
+---json
+{
+    "name":"SB 6.11.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.11.15",
+    "description":"Only for the sake of living in the heavenly planets, you killed my elder brother—a self-realized, sinless, qualified brāhmaṇa who had been appointed your chief priest. He was your spiritual master, but although you entrusted him with the performance of your sacrifice, you later mercilessly severed his heads from his body the way one butchers an animal."
+}
+---
 ====== SB 6.11.15 ======
 
 ===== Text =====

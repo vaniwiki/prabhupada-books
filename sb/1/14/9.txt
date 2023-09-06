@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.9~~
-~~bc:Text 9~~
-
-{{description>From Him only, all our kingly opulence, good wives, lives, progeny, control over our subjects, victory over our enemies, and future accommodations in higher planets have become possible. All this is due to His causeless mercy upon us.}}
-
+---json
+{
+    "name":"SB 1.14.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.14.9",
+    "description":"From Him only, all our kingly opulence, good wives, lives, progeny, control over our subjects, victory over our enemies, and future accommodations in higher planets have become possible. All this is due to His causeless mercy upon us."
+}
+---
 ====== SB 1.14.9 ======
 
 > यस्मान्नः सम्पदो राज्यं दाराः प्राणाः कुलं प्रजाः ।

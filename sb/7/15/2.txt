@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.2~~
-~~bc:Text 2~~
-
-{{description>A person desiring liberation for his forefathers or himself should give charity to a brāhmaṇa who adheres to impersonal monism [jñāna-niṣṭhā]. In the absence of such an advanced brāhmaṇa, charity may be given to a brāhmaṇa addicted to fruitive activities [karma-kāṇḍa].}}
-
+---json
+{
+    "name":"SB 7.15.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 7.15.2",
+    "description":"A person desiring liberation for his forefathers or himself should give charity to a brāhmaṇa who adheres to impersonal monism [jñāna-niṣṭhā]. In the absence of such an advanced brāhmaṇa, charity may be given to a brāhmaṇa addicted to fruitive activities [karma-kāṇḍa]."
+}
+---
 ====== SB 7.15.2 ======
 
 ===== Text =====

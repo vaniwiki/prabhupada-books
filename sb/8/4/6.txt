@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.6~~
-~~bc:Text 6~~
-
-{{description>Because Gajendra, King of the elephants, had been touched directly by the hands of the Supreme Personality of Godhead, he was immediately freed of all material ignorance and bondage. Thus he received the salvation of sārūpya-mukti, in which he achieved the same bodily features as the Lord, being dressed in yellow garments and possessing four hands.}}
-
+---json
+{
+    "name":"SB 8.4.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.4.6",
+    "description":"Because Gajendra, King of the elephants, had been touched directly by the hands of the Supreme Personality of Godhead, he was immediately freed of all material ignorance and bondage. Thus he received the salvation of sārūpya-mukti, in which he achieved the same bodily features as the Lord, being dressed in yellow garments and possessing four hands."
+}
+---
 ====== SB 8.4.6 ======
 
 ===== Text =====

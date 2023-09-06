@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.29~~
-~~bc:Text 29~~
-
-{{description>O Lord Kṛṣṇa, Lord Kṛṣṇa, Your opulent mysticism is inconceivable. You are the supreme, original person, the cause of all causes, immediate and remote, and You are beyond this material creation. Learned brāhmaṇas know [on the basis of the Vedic statement sarvaṁ khalv idaṁ brahma] that You are everything and that this cosmic manifestation, in its gross and subtle aspects, is Your form.}}
-
+---json
+{
+    "name":"SB 10.10.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 10.10.29",
+    "description":"O Lord Kṛṣṇa, Lord Kṛṣṇa, Your opulent mysticism is inconceivable. You are the supreme, original person, the cause of all causes, immediate and remote, and You are beyond this material creation. Learned brāhmaṇas know [on the basis of the Vedic statement sarvaṁ khalv idaṁ brahma] that You are everything and that this cosmic manifestation, in its gross and subtle aspects, is Your form."
+}
+---
 ====== SB 10.10.29 ======
 
 ===== Text =====

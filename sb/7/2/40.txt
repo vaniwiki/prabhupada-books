@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.40~~
-~~bc:Text 40~~
-
-{{description>Sometimes one loses his money on a public street, where everyone can see it, and yet his money is protected by destiny and not seen by others. Thus the man who lost it gets it back. On the other hand, if the Lord does not give protection, even money maintained very securely at home is lost. If the Supreme Lord gives one protection, even though one has no protector and is in the jungle, one remains alive, whereas a person well protected at home by relatives and others sometimes dies, no one being able to protect him.}}
-
+---json
+{
+    "name":"SB 7.2.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 7.2.40",
+    "description":"Sometimes one loses his money on a public street, where everyone can see it, and yet his money is protected by destiny and not seen by others. Thus the man who lost it gets it back. On the other hand, if the Lord does not give protection, even money maintained very securely at home is lost. If the Supreme Lord gives one protection, even though one has no protector and is in the jungle, one remains alive, whereas a person well protected at home by relatives and others sometimes dies, no one being able to protect him."
+}
+---
 ====== SB 7.2.40 ======
 
 ===== Text =====

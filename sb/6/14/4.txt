@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.4~~
-~~bc:Text 4~~
-
-{{description>O best of the brāhmaṇas, Śukadeva Gosvāmī, out of many persons who follow religious principles, only a few desire liberation from the material world. Among many thousands who desire liberation, one may actually achieve liberation, giving up material attachment to society, friendship, love, country, home, wife and children. And among many thousands of such liberated persons, one who can understand the true meaning of liberation is very rare.}}
-
+---json
+{
+    "name":"SB 6.14.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 6.14.4",
+    "description":"O best of the brāhmaṇas, Śukadeva Gosvāmī, out of many persons who follow religious principles, only a few desire liberation from the material world. Among many thousands who desire liberation, one may actually achieve liberation, giving up material attachment to society, friendship, love, country, home, wife and children. And among many thousands of such liberated persons, one who can understand the true meaning of liberation is very rare."
+}
+---
 ====== SB 6.14.4 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.8~~
-~~bc:Text 8~~
-
-{{description>In these seven planetary systems, which are also known as the subterranean heavens [bila-svarga], there are very beautiful houses, gardens and places of sense enjoyment, which are even more opulent than those in the higher planets because the demons have a very high standard of sensual pleasure, wealth and influence. Most of the residents of these planets, who are known as Daityas, Dānavas and Nāgas, live as householders. Their wives, children, friends and society are all fully engaged in illusory, material happiness. The sense enjoyment of the demigods is sometimes disturbed, but the residents of these planets enjoy life without disturbances. Thus they are understood to be very attached to illusory happiness.}}
-
+---json
+{
+    "name":"SB 5.24.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.24.8",
+    "description":"In these seven planetary systems, which are also known as the subterranean heavens [bila-svarga], there are very beautiful houses, gardens and places of sense enjoyment, which are even more opulent than those in the higher planets because the demons have a very high standard of sensual pleasure, wealth and influence. Most of the residents of these planets, who are known as Daityas, Dānavas and Nāgas, live as householders. Their wives, children, friends and society are all fully engaged in illusory, material happiness. The sense enjoyment of the demigods is sometimes disturbed, but the residents of these planets enjoy life without disturbances. Thus they are understood to be very attached to illusory happiness."
+}
+---
 ====== SB 5.24.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.17~~
-~~bc:Text 17~~
-
-{{description>O Vyāsadeva, at that time, being exceedingly overpowered by feelings of happiness, every part of my body became separately enlivened. Being absorbed in an ocean of ecstasy, I could not see both myself and the Lord.}}
-
+---json
+{
+    "name":"SB 1.6.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 1.6.17",
+    "description":"O Vyāsadeva, at that time, being exceedingly overpowered by feelings of happiness, every part of my body became separately enlivened. Being absorbed in an ocean of ecstasy, I could not see both myself and the Lord."
+}
+---
 ====== SB 1.6.17 ======
 
 > प्रेमातिभरनिर्भिन्न पुलकाङ्गोऽतिनिर्वृतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.11~~
-~~bc:Text 11~~
-
-{{description>Struck with the club by Vṛtrāsura like a mountain struck by a thunderbolt, the elephant Airāvata, feeling great pain and spitting blood from its broken mouth, was pushed back fourteen yards. In great distress, the elephant fell, with Indra on its back.}}
-
+---json
+{
+    "name":"SB 6.11.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 6.11.11",
+    "description":"Struck with the club by Vṛtrāsura like a mountain struck by a thunderbolt, the elephant Airāvata, feeling great pain and spitting blood from its broken mouth, was pushed back fourteen yards. In great distress, the elephant fell, with Indra on its back."
+}
+---
 ====== SB 6.11.11 ======
 
 ===== Text =====

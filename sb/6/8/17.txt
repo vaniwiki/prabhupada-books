@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.17~~
-~~bc:Text 17~~
-
-{{description>May Sanat-kumāra protect me from lusty desires. As I begin some auspicious activity, may Lord Hayagrīva protect me from being an offender by neglecting to offer respectful obeisances to the Supreme Lord. May Devarṣi Nārada protect me from committing offenses in worshiping the Deity, and may Lord Kūrma, the tortoise, protect me from falling to the unlimited hellish planets.}}
-
+---json
+{
+    "name":"SB 6.8.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 6.8.17",
+    "description":"May Sanat-kumāra protect me from lusty desires. As I begin some auspicious activity, may Lord Hayagrīva protect me from being an offender by neglecting to offer respectful obeisances to the Supreme Lord. May Devarṣi Nārada protect me from committing offenses in worshiping the Deity, and may Lord Kūrma, the tortoise, protect me from falling to the unlimited hellish planets."
+}
+---
 ====== SB 6.8.17 ======
 
 ===== Text =====

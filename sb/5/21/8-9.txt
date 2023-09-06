@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.21.8-9~~
-~~bc:Text 8-9~~
-
-{{description>The living entities residing on Sumeru Mountain are always very warm, as at midday, because for them the sun is always overhead. Although the sun moves counterclockwise, facing the constellations, with Sumeru Mountain on its left, it also moves clockwise and appears to have the mountain on its right because it is influenced by the dakṣiṇāvarta wind. People living in countries at points diametrically opposite to where the sun is first seen rising will see the sun setting, and if a straight line were drawn from a point where the sun is at midday, the people in countries at the opposite end of the line would be experiencing midnight. Similarly, if people residing where the sun is setting were to go to countries diametrically opposite, they would not see the sun in the same condition.}}
-
+---json
+{
+    "name":"SB 5.21.8-9",
+    "h1":"Text 8-9",
+    "title":" Śrīmad Bhāgavatam 5.21.8-9",
+    "description":"The living entities residing on Sumeru Mountain are always very warm, as at midday, because for them the sun is always overhead. Although the sun moves counterclockwise, facing the constellations, with Sumeru Mountain on its left, it also moves clockwise and appears to have the mountain on its right because it is influenced by the dakṣiṇāvarta wind. People living in countries at points diametrically opposite to where the sun is first seen rising will see the sun setting, and if a straight line were drawn from a point where the sun is at midday, the people in countries at the opposite end of the line would be experiencing midnight. Similarly, if people residing where the sun is setting were to go to countries diametrically opposite, they would not see the sun in the same condition."
+}
+---
 ====== SB 5.21.8-9 ======
 
 ===== Text =====

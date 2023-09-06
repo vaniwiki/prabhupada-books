@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.7~~
-~~bc:Text 7~~
-
-{{description>O Sūta Gosvāmī, there are those amongst men who desire freedom from death and get eternal life. They escape the slaughtering process by calling the controller of death, Yamarāja.}}
-
+---json
+{
+    "name":"SB 1.16.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.16.7",
+    "description":"O Sūta Gosvāmī, there are those amongst men who desire freedom from death and get eternal life. They escape the slaughtering process by calling the controller of death, Yamarāja."
+}
+---
 ====== SB 1.16.7 ======
 
 > क्षुद्रायुषां नृणामङ्ग मर्त्यानामृतमिच्छताम् ।

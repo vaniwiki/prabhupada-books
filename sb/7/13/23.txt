@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.23~~
-~~bc:Text 23~~
-
-{{description>My dear King, although you know everything, you have posed some questions, which I shall try to answer according to what I have learned by hearing from authorities. I cannot remain silent in this regard, for a personality like you is just fit to be spoken to by one who desires self-purification.}}
-
+---json
+{
+    "name":"SB 7.13.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 7.13.23",
+    "description":"My dear King, although you know everything, you have posed some questions, which I shall try to answer according to what I have learned by hearing from authorities. I cannot remain silent in this regard, for a personality like you is just fit to be spoken to by one who desires self-purification."
+}
+---
 ====== SB 7.13.23 ======
 
 ===== Text =====

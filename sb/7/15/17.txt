@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.17~~
-~~bc:Text 17~~
-
-{{description>For a person who has suitable shoes on his feet, there is no danger even when he walks on pebbles and thorns. For him, everything is auspicious. Similarly, for one who is always self-satisfied there is no distress; indeed, he feels happiness everywhere.}}
-
+---json
+{
+    "name":"SB 7.15.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 7.15.17",
+    "description":"For a person who has suitable shoes on his feet, there is no danger even when he walks on pebbles and thorns. For him, everything is auspicious. Similarly, for one who is always self-satisfied there is no distress; indeed, he feels happiness everywhere."
+}
+---
 ====== SB 7.15.17 ======
 
 ===== Text =====

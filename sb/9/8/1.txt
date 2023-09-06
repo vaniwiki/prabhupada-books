@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī continued: The son of Rohita was Harita, and Harita's son was Campa, who constructed the town of Campāpurī. The son of Campa was Sudeva, and his son was Vijaya.}}
-
+---json
+{
+    "name":"SB 9.8.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.8.1",
+    "description":"Śukadeva Gosvāmī continued: The son of Rohita was Harita, and Harita's son was Campa, who constructed the town of Campāpurī. The son of Campa was Sudeva, and his son was Vijaya."
+}
+---
 ====== SB 9.8.1 ======
 
 ===== Text =====

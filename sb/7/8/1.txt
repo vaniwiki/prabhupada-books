@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.1~~
-~~bc:Text 1~~
-
-{{description>Nārada Muni continued: All the sons of the demons appreciated the transcendental instructions of Prahlāda Mahārāja and took them very seriously. They rejected the materialistic instructions given by their teachers, Ṣaṇḍa and Amarka.}}
-
+---json
+{
+    "name":"SB 7.8.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.8.1",
+    "description":"Nārada Muni continued: All the sons of the demons appreciated the transcendental instructions of Prahlāda Mahārāja and took them very seriously. They rejected the materialistic instructions given by their teachers, Ṣaṇḍa and Amarka."
+}
+---
 ====== SB 7.8.1 ======
 
 ===== Text =====

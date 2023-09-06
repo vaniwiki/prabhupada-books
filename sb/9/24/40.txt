@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.40~~
-~~bc:Text 40~~
-
-{{description>The son of Śrutaśravā was Śiśupāla, whose birth has already been described [in the Seventh Canto of Śrīmad-Bhāgavatam]. Vasudeva's brother named Devabhāga had two sons born of his wife, Kaṁsā. These two sons were Citraketu and Bṛhadbala.}}
-
+---json
+{
+    "name":"SB 9.24.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 9.24.40",
+    "description":"The son of Śrutaśravā was Śiśupāla, whose birth has already been described [in the Seventh Canto of Śrīmad-Bhāgavatam]. Vasudeva's brother named Devabhāga had two sons born of his wife, Kaṁsā. These two sons were Citraketu and Bṛhadbala."
+}
+---
 ====== SB 9.24.40 ======
 
 ===== Text =====

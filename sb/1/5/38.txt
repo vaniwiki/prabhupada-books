@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.38~~
-~~bc:Text 38~~
-
-{{description>Thus he is the actual seer who worships, in the form of transcendental sound representation, the Supreme Personality of Godhead, Viṣṇu, who has no material form.}}
-
+---json
+{
+    "name":"SB 1.5.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 1.5.38",
+    "description":"Thus he is the actual seer who worships, in the form of transcendental sound representation, the Supreme Personality of Godhead, Viṣṇu, who has no material form."
+}
+---
 ====== SB 1.5.38 ======
 
 > इति मूर्त्यभिधानेन मन्त्रमूर्तिममूर्तिकम् ।

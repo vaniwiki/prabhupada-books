@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.19~~
-~~bc:Text 19~~
-
-{{description>My dear Vyāsa, even though a devotee of Lord Kṛṣṇa sometimes falls down somehow or other, he certainly does not undergo material existence like others [fruitive workers, etc.] because a person who has once relished the taste of the lotus feet of the Lord can do nothing but remember that ecstasy again and again.}}
-
+---json
+{
+    "name":"SB 1.5.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.5.19",
+    "description":"My dear Vyāsa, even though a devotee of Lord Kṛṣṇa sometimes falls down somehow or other, he certainly does not undergo material existence like others [fruitive workers, etc.] because a person who has once relished the taste of the lotus feet of the Lord can do nothing but remember that ecstasy again and again."
+}
+---
 ====== SB 1.5.19 ======
 
 > न वै जनो जातु कथञ्चनाव्रजेन्मुकुन्दसेव्यन्यवदङ्ग संसृतिम् ।

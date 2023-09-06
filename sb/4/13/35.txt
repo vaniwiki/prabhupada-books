@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.35~~
-~~bc:Text 35~~
-
-{{description>Thus for the sake of a son for King Aṅga, they decided to offer oblations to Lord Viṣṇu, who is situated in the hearts of all living entities.}}
-
+---json
+{
+    "name":"SB 4.13.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.13.35",
+    "description":"Thus for the sake of a son for King Aṅga, they decided to offer oblations to Lord Viṣṇu, who is situated in the hearts of all living entities."
+}
+---
 ====== SB 4.13.35 ======
 
 > इति व्यवसिता विप्रास्तस्य राज्ञः प्रजातये ।

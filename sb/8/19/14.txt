@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.14~~
-~~bc:Text 14~~
-
-{{description>Your father, Virocana, the son of Mahārāja Prahlāda, was very affectionate toward brāhmaṇas. Although he knew very well that it was the demigods who had come to him in the dress of brāhmaṇas, at their request he delivered to them the duration of his life.}}
-
+---json
+{
+    "name":"SB 8.19.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.19.14",
+    "description":"Your father, Virocana, the son of Mahārāja Prahlāda, was very affectionate toward brāhmaṇas. Although he knew very well that it was the demigods who had come to him in the dress of brāhmaṇas, at their request he delivered to them the duration of his life."
+}
+---
 ====== SB 8.19.14 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.15~~
-~~bc:Text 15~~
-
-{{description>Let me take shelter of the lotus feet of Him whose incarnations, qualities and activities are mysterious imitations of worldly affairs. One who invokes His transcendental names, even unconsciously, at the time he quits this life, is certainly washed immediately of the sins of many, many births and attains Him without fail.}}
-
+---json
+{
+    "name":"SB 3.9.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.9.15",
+    "description":"Let me take shelter of the lotus feet of Him whose incarnations, qualities and activities are mysterious imitations of worldly affairs. One who invokes His transcendental names, even unconsciously, at the time he quits this life, is certainly washed immediately of the sins of many, many births and attains Him without fail."
+}
+---
 ====== SB 3.9.15 ======
 
 > यस्यावतारगुणकर्मविडम्बनानि

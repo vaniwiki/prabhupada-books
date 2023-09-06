@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.3.15~~
-~~bc:Text 15~~
-
-{{description>O Lord, You perform many wonderful activities. Our only aim was to acquire a son by performing this great sacrifice; therefore our intelligence is not very sharp. We are not experienced in ascertaining life's goal. By inviting You to this negligible sacrifice for some material motive, we have certainly committed a great offense at Your lotus feet. Therefore, O Lord of lords, please excuse our offense because of Your causeless mercy and equal mind.}}
-
+---json
+{
+    "name":"SB 5.3.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.3.15",
+    "description":"O Lord, You perform many wonderful activities. Our only aim was to acquire a son by performing this great sacrifice; therefore our intelligence is not very sharp. We are not experienced in ascertaining life's goal. By inviting You to this negligible sacrifice for some material motive, we have certainly committed a great offense at Your lotus feet. Therefore, O Lord of lords, please excuse our offense because of Your causeless mercy and equal mind."
+}
+---
 ====== SB 5.3.15 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.26~~
-~~bc:Text 26~~
-
-{{description>Lord Śiva became very pleased with the Pracetās because generally Lord Śiva is the protector of pious persons and persons of gentle behavior. Being very much pleased with the princes, he began to speak as follows.}}
-
+---json
+{
+    "name":"SB 4.24.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.24.26",
+    "description":"Lord Śiva became very pleased with the Pracetās because generally Lord Śiva is the protector of pious persons and persons of gentle behavior. Being very much pleased with the princes, he began to speak as follows."
+}
+---
 ====== SB 4.24.26 ======
 
 > स तान्प्रपन्नार्तिहरो भगवान्धर्मवत्सलः ।

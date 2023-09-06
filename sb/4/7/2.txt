@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.2~~
-~~bc:Text 2~~
-
-{{description>Lord Śiva said: My dear father, Brahmā, I do not mind the offenses created by the demigods. Because these demigods are childish and less intelligent, I do not take a serious view of their offenses, and I have punished them only in order to right them.}}
-
+---json
+{
+    "name":"SB 4.7.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.7.2",
+    "description":"Lord Śiva said: My dear father, Brahmā, I do not mind the offenses created by the demigods. Because these demigods are childish and less intelligent, I do not take a serious view of their offenses, and I have punished them only in order to right them."
+}
+---
 ====== SB 4.7.2 ======
 
 > महादेव उवाच

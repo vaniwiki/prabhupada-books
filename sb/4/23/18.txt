@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.18~~
-~~bc:Text 18~~
-
-{{description>Pṛthu Mahārāja then offered the total designation of the living entity unto the supreme controller of illusory energy. Being released from all the designations by which the living entity became entrapped, he became free by knowledge and renunciation and by the spiritual force of his devotional service. In this way, being situated in his original constitutional position of Kṛṣṇa consciousness, he gave up this body as a prabhu, or controller of the senses.}}
-
+---json
+{
+    "name":"SB 4.23.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 4.23.18",
+    "description":"Pṛthu Mahārāja then offered the total designation of the living entity unto the supreme controller of illusory energy. Being released from all the designations by which the living entity became entrapped, he became free by knowledge and renunciation and by the spiritual force of his devotional service. In this way, being situated in his original constitutional position of Kṛṣṇa consciousness, he gave up this body as a prabhu, or controller of the senses."
+}
+---
 ====== SB 4.23.18 ======
 
 > तं सर्वगुणविन्यासं जीवे मायामये न्यधात् ।

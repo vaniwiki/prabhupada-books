@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.11~~
-~~bc:Text 11~~
-
-{{description>The gigantic black man bared his fearful teeth. By the movements of his brows he scattered the luminaries all over the sky, and he covered them with his strong, piercing effulgence. Because of the misbehavior of Dakṣa, even Lord Brahmā, Dakṣa's father, could not have been saved from the great exhibition of anger.}}
-
+---json
+{
+    "name":"SB 4.5.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.5.11",
+    "description":"The gigantic black man bared his fearful teeth. By the movements of his brows he scattered the luminaries all over the sky, and he covered them with his strong, piercing effulgence. Because of the misbehavior of Dakṣa, even Lord Brahmā, Dakṣa's father, could not have been saved from the great exhibition of anger."
+}
+---
 ====== SB 4.5.11 ======
 
 > अमर्षयित्वा तमसह्यतेजसं मन्युप्लुतं दुर्निरीक्ष्यं भ्रुकुट्या ।

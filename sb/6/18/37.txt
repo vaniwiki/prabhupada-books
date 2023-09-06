@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.37~~
-~~bc:Text 37~~
-
-{{description>Diti replied: O my husband, O great soul, I have now lost my sons. If you want to give me a benediction, I ask you for an immortal son who can kill Indra. I pray for this because Indra, with the help of Viṣṇu, has killed my two sons Hiraṇyākṣa and Hiraṇyakaśipu.}}
-
+---json
+{
+    "name":"SB 6.18.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 6.18.37",
+    "description":"Diti replied: O my husband, O great soul, I have now lost my sons. If you want to give me a benediction, I ask you for an immortal son who can kill Indra. I pray for this because Indra, with the help of Viṣṇu, has killed my two sons Hiraṇyākṣa and Hiraṇyakaśipu."
+}
+---
 ====== SB 6.18.37 ======
 
 ===== Text =====

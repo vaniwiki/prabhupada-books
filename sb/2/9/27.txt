@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.27~~
-~~bc:Text 27~~
-
-{{description>And [please inform me] how You, by Your own Self, manifest different energies for annihilation, generation, acceptance and maintenance by combination and permutation.}}
-
+---json
+{
+    "name":"SB 2.9.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 2.9.27",
+    "description":"And [please inform me] how You, by Your own Self, manifest different energies for annihilation, generation, acceptance and maintenance by combination and permutation."
+}
+---
 ====== SB 2.9.27 ======
 
 > यथात्ममायायोगेन नानाशक्त्युपबृंहितम् ।

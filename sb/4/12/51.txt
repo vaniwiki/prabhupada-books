@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.51~~
-~~bc:Text 51~~
-
-{{description>The narration of Dhruva Mahārāja is sublime knowledge for the attainment of immortality. Persons unaware of the Absolute Truth can be led to the path of truth. Those who out of transcendental kindness take on the responsibility of becoming master-protectors of the poor living entities automatically gain the interest and blessings of the demigods.}}
-
+---json
+{
+    "name":"SB 4.12.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 4.12.51",
+    "description":"The narration of Dhruva Mahārāja is sublime knowledge for the attainment of immortality. Persons unaware of the Absolute Truth can be led to the path of truth. Those who out of transcendental kindness take on the responsibility of becoming master-protectors of the poor living entities automatically gain the interest and blessings of the demigods."
+}
+---
 ====== SB 4.12.51 ======
 
 > ज्ञानमज्ञाततत्त्वाय यो दद्यात्सत्पथेऽमृतम् ।

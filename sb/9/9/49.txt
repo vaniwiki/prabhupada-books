@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.49~~
-~~bc:Text 49~~
-
-{{description>The Supreme Personality of Godhead, Vāsudeva, Kṛṣṇa, is extremely difficult to understand for unintelligent men who accept Him as impersonal or void, which He is not. The Lord is therefore understood and sung about by pure devotees.}}
-
+---json
+{
+    "name":"SB 9.9.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 9.9.49",
+    "description":"The Supreme Personality of Godhead, Vāsudeva, Kṛṣṇa, is extremely difficult to understand for unintelligent men who accept Him as impersonal or void, which He is not. The Lord is therefore understood and sung about by pure devotees."
+}
+---
 ====== SB 9.9.49 ======
 
 ===== Text =====

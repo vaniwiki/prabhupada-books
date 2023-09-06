@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.43~~
-~~bc:Text 43~~
-
-{{description>As their envy increased, they lost their intelligence. Being extremely hardhearted and unable to tolerate the King's neglect, they finally administered poison to the son.}}
-
+---json
+{
+    "name":"SB 6.14.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 6.14.43",
+    "description":"As their envy increased, they lost their intelligence. Being extremely hardhearted and unable to tolerate the King's neglect, they finally administered poison to the son."
+}
+---
 ====== SB 6.14.43 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.24~~
-~~bc:Text 24~~
-
-{{description>In the beginning of creation, a tremendous wind caused fierce waves of inundating water. The great waves made such a horrible sound that Lord Brahmā almost fell from his seat on the lotus into the water of devastation, but he was saved with the help of the Lord. Thus we also expect the Lord to protect us from this dangerous condition.}}
-
+---json
+{
+    "name":"SB 6.9.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.9.24",
+    "description":"In the beginning of creation, a tremendous wind caused fierce waves of inundating water. The great waves made such a horrible sound that Lord Brahmā almost fell from his seat on the lotus into the water of devastation, but he was saved with the help of the Lord. Thus we also expect the Lord to protect us from this dangerous condition."
+}
+---
 ====== SB 6.9.24 ======
 
 ===== Text =====

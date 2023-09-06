@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.50~~
-~~bc:Text 50~~
-
-{{description>Because of constant rain sent by the demigod Indra, the River Yamunā was filled with deep water, foaming about with fiercely whirling waves. But as the great Indian Ocean had formerly given way to Lord Rāmacandra by allowing Him to construct a bridge, the River Yamunā gave way to Vasudeva and allowed him to cross.}}
-
+---json
+{
+    "name":"SB 10.3.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 10.3.50",
+    "description":"Because of constant rain sent by the demigod Indra, the River Yamunā was filled with deep water, foaming about with fiercely whirling waves. But as the great Indian Ocean had formerly given way to Lord Rāmacandra by allowing Him to construct a bridge, the River Yamunā gave way to Vasudeva and allowed him to cross."
+}
+---
 ====== SB 10.3.50 ======
 
 ===== Text =====

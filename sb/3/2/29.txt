@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.29~~
-~~bc:Text 29~~
-
-{{description>While herding the very beautiful bulls, the Lord, who was the reservoir of all opulence and fortune, used to blow His flute, and thus He enlivened His faithful followers, the cowherd boys.}}
-
+---json
+{
+    "name":"SB 3.2.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.2.29",
+    "description":"While herding the very beautiful bulls, the Lord, who was the reservoir of all opulence and fortune, used to blow His flute, and thus He enlivened His faithful followers, the cowherd boys."
+}
+---
 ====== SB 3.2.29 ======
 
 > स एव गोधनं लक्ष्म्या निकेतं सितगोवृषम् ।

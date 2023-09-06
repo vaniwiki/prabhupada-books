@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.14~~
-~~bc:Text 14~~
-
-{{description>Pṛthu Mahārāja continued: My dear sirs, there is no need to ask about your good and bad fortune because you are always absorbed in spiritual bliss. The mental concoction of the auspicious and inauspicious does not exist in you.}}
-
+---json
+{
+    "name":"SB 4.22.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.22.14",
+    "description":"Pṛthu Mahārāja continued: My dear sirs, there is no need to ask about your good and bad fortune because you are always absorbed in spiritual bliss. The mental concoction of the auspicious and inauspicious does not exist in you."
+}
+---
 ====== SB 4.22.14 ======
 
 > भवत्सु कुशलप्रश्न आत्मारामेषु नेष्यते ।

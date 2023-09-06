@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.12~~
-~~bc:Text 12~~
-
-{{description>My Lord, You are not very much satisfied by the worship of the demigods, who arrange for Your worship very pompously, with various paraphernalia, but who are full of material hankerings. You are situated in everyone's heart as the Supersoul just to show Your causeless mercy, and You are the eternal well-wisher, but You are unavailable for the nondevotee.}}
-
+---json
+{
+    "name":"SB 3.9.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.9.12",
+    "description":"My Lord, You are not very much satisfied by the worship of the demigods, who arrange for Your worship very pompously, with various paraphernalia, but who are full of material hankerings. You are situated in everyone's heart as the Supersoul just to show Your causeless mercy, and You are the eternal well-wisher, but You are unavailable for the nondevotee."
+}
+---
 ====== SB 3.9.12 ======
 
 > नातिप्रसीदति तथोपचितोपचारैर्

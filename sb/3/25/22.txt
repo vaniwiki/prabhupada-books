@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.25.22~~
-~~bc:Text 22~~
-
-{{description>Such a sādhu engages in staunch devotional service to the Lord without deviation. For the sake of the Lord he renounces all other connections, such as family relationships and friendly acquaintances within the world.}}
-
+---json
+{
+    "name":"SB 3.25.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.25.22",
+    "description":"Such a sādhu engages in staunch devotional service to the Lord without deviation. For the sake of the Lord he renounces all other connections, such as family relationships and friendly acquaintances within the world."
+}
+---
 ====== SB 3.25.22 ======
 
 > मय्यनन्येन भावेन भक्तिं कुर्वन्ति ये दृढाम् ।

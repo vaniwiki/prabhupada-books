@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.37~~
-~~bc:Text 37~~
-
-{{description>O supreme form, we are always servants of Your servants, especially of Nārada Muni. Now give us permission to leave for our home. It is by the grace and mercy of Nārada Muni that we have been able to see You face to face.}}
-
+---json
+{
+    "name":"SB 10.10.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 10.10.37",
+    "description":"O supreme form, we are always servants of Your servants, especially of Nārada Muni. Now give us permission to leave for our home. It is by the grace and mercy of Nārada Muni that we have been able to see You face to face."
+}
+---
 ====== SB 10.10.37 ======
 
 ===== Text =====

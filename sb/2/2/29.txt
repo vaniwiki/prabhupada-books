@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.29~~
-~~bc:Text 29~~
-
-{{description>The devotee thus surpasses the subtle objects of different senses like aroma by smelling, the palate by tasting, vision by seeing forms, touch by contacting, the vibrations of the ear by ethereal identification, and the sense organs by material activities.}}
-
+---json
+{
+    "name":"SB 2.2.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 2.2.29",
+    "description":"The devotee thus surpasses the subtle objects of different senses like aroma by smelling, the palate by tasting, vision by seeing forms, touch by contacting, the vibrations of the ear by ethereal identification, and the sense organs by material activities."
+}
+---
 ====== SB 2.2.29 ======
 
 > घ्राणेन गन्धं रसनेन वै रसं रूपं च दृष्ट्या श्वसनं त्वचैव ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.42~~
-~~bc:Text 42~~
-
-{{description>Before Bali Mahārāja's arrows could reach him, Indra, King of heaven, who is expert in dealing with arrows, smiled and counteracted the arrows with arrows of another type, known as bhalla, which were extremely sharp.}}
-
+---json
+{
+    "name":"SB 8.10.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 8.10.42",
+    "description":"Before Bali Mahārāja's arrows could reach him, Indra, King of heaven, who is expert in dealing with arrows, smiled and counteracted the arrows with arrows of another type, known as bhalla, which were extremely sharp."
+}
+---
 ====== SB 8.10.42 ======
 
 ===== Text =====

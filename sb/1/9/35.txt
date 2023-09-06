@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.35~~
-~~bc:Text 35~~
-
-{{description>In obedience to the command of His friend, Lord Śrī Kṛṣṇa entered the arena of the Battlefield of Kurukṣetra between the soldiers of Arjuna and Duryodhana, and while there He shortened the life spans of the opposite party by His merciful glance. This was done simply by His looking at the enemy. Let my mind be fixed upon that Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 1.9.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 1.9.35",
+    "description":"In obedience to the command of His friend, Lord Śrī Kṛṣṇa entered the arena of the Battlefield of Kurukṣetra between the soldiers of Arjuna and Duryodhana, and while there He shortened the life spans of the opposite party by His merciful glance. This was done simply by His looking at the enemy. Let my mind be fixed upon that Kṛṣṇa."
+}
+---
 ====== SB 1.9.35 ======
 
 > सपदि सखिवचो निशम्य मध्ये निजपरयोर्बलयो रथं निवेश्य ।

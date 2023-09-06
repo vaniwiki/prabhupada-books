@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.26~~
-~~bc:Text 26~~
-
-{{description>Dear Lord, the garment You have put on is yellowish in color, like the saffron of a lotus flower, but it is not made of anything material. Since You live in everyone's heart, You are the direct witness of all the activities of all living entities. We offer our respectful obeisances unto You again and again.}}
-
+---json
+{
+    "name":"SB 4.30.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.30.26",
+    "description":"Dear Lord, the garment You have put on is yellowish in color, like the saffron of a lotus flower, but it is not made of anything material. Since You live in everyone's heart, You are the direct witness of all the activities of all living entities. We offer our respectful obeisances unto You again and again."
+}
+---
 ====== SB 4.30.26 ======
 
 > नमः कमलकिञ्जल्क पिशङ्गामलवाससे ।

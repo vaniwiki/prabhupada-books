@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.26~~
-~~bc:Text 26~~
-
-{{description>Thereafter, when His consciousness separately manifested itself, the total energy, mahat-tattva, entered with His conscious part. Thus the living entity is able to conceive specific knowledge.}}
-
+---json
+{
+    "name":"SB 3.6.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.6.26",
+    "description":"Thereafter, when His consciousness separately manifested itself, the total energy, mahat-tattva, entered with His conscious part. Thus the living entity is able to conceive specific knowledge."
+}
+---
 ====== SB 3.6.26 ======
 
 > सत्त्वं चास्य विनिर्भिन्नं महान्धिष्ण्यमुपाविशत् ।

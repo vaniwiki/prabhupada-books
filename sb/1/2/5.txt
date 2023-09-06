@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.5~~
-~~bc:Text 5~~
-
-{{description>O sages, I have been justly questioned by you. Your questions are worthy because they relate to Lord Kṛṣṇa and so are of relevance to the world's welfare. Only questions of this sort are capable of completely satisfying the self.}}
-
+---json
+{
+    "name":"SB 1.2.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 1.2.5",
+    "description":"O sages, I have been justly questioned by you. Your questions are worthy because they relate to Lord Kṛṣṇa and so are of relevance to the world's welfare. Only questions of this sort are capable of completely satisfying the self."
+}
+---
 ====== SB 1.2.5 ======
 
 > मुनयः साधु पृष्टोऽहं भवद्भिर्लोकमङ्गलम् ।

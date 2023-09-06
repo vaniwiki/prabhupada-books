@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.23~~
-~~bc:Text 23~~
-
-{{description>The transcendentalists are concerned with the spiritual body. As such, by the strength of their devotional service, austerities, mystic power and transcendental knowledge, their movements are unrestricted, within and beyond the material worlds. The fruitive workers, or the gross materialists, can never move in such an unrestricted manner.}}
-
+---json
+{
+    "name":"SB 2.2.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 2.2.23",
+    "description":"The transcendentalists are concerned with the spiritual body. As such, by the strength of their devotional service, austerities, mystic power and transcendental knowledge, their movements are unrestricted, within and beyond the material worlds. The fruitive workers, or the gross materialists, can never move in such an unrestricted manner."
+}
+---
 ====== SB 2.2.23 ======
 
 > योगेश्वराणां गतिमाहुरन्तर्बहिस्त्रिलोक्याः पवनान्तरात्मनाम् ।

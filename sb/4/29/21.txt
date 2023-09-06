@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.21~~
-~~bc:Text 21~~
-
-{{description>What was previously explained as Caṇḍavega, powerful time, is covered by days and nights, named Gandharvas and Gandharvīs. The body's life-span is gradually reduced by the passage of days and nights, which number 360.}}
-
+---json
+{
+    "name":"SB 4.29.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.29.21",
+    "description":"What was previously explained as Caṇḍavega, powerful time, is covered by days and nights, named Gandharvas and Gandharvīs. The body's life-span is gradually reduced by the passage of days and nights, which number 360."
+}
+---
 ====== SB 4.29.21 ======
 
 > संवत्सरश्चण्डवेगः कालो येनोपलक्षितः ।

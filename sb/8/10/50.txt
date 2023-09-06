@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.50~~
-~~bc:Text 50~~
-
-{{description>A great devastating fire created by Bali Mahārāja began burning all the soldiers of the demigods. This fire, accompanied by blasting winds, seemed as terrible as the Sāṁvartaka fire, which appears at the time of dissolution.}}
-
+---json
+{
+    "name":"SB 8.10.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 8.10.50",
+    "description":"A great devastating fire created by Bali Mahārāja began burning all the soldiers of the demigods. This fire, accompanied by blasting winds, seemed as terrible as the Sāṁvartaka fire, which appears at the time of dissolution."
+}
+---
 ====== SB 8.10.50 ======
 
 ===== Text =====

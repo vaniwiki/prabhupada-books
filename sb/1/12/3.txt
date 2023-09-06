@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.3~~
-~~bc:Text 3~~
-
-{{description>We all respectfully want to hear about him [Mahārāja Parīkṣit] to whom Śukadeva Gosvāmī imparted transcendental knowledge. Please speak on this matter.}}
-
+---json
+{
+    "name":"SB 1.12.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.12.3",
+    "description":"We all respectfully want to hear about him [Mahārāja Parīkṣit] to whom Śukadeva Gosvāmī imparted transcendental knowledge. Please speak on this matter."
+}
+---
 ====== SB 1.12.3 ======
 
 > तदिदं श्रोतुमिच्छामो गदितुं यदि मन्यसे ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.37~~
-~~bc:Text 37~~
-
-{{description>Through austerity, King Malayadhvaja in body and mind gradually became equal to the dualities of cold and heat, happiness and distress, wind and rain, hunger and thirst, the pleasant and the unpleasant. In this way he conquered all relativities.}}
-
+---json
+{
+    "name":"SB 4.28.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.28.37",
+    "description":"Through austerity, King Malayadhvaja in body and mind gradually became equal to the dualities of cold and heat, happiness and distress, wind and rain, hunger and thirst, the pleasant and the unpleasant. In this way he conquered all relativities."
+}
+---
 ====== SB 4.28.37 ======
 
 > शीतोष्णवातवर्षाणि क्षुत्पिपासे प्रियाप्रिये ।

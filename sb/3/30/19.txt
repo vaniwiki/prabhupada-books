@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.19~~
-~~bc:Text 19~~
-
-{{description>At death, he sees the messengers of the lord of death come before him, their eyes full of wrath, and in great fear he passes stool and urine.}}
-
+---json
+{
+    "name":"SB 3.30.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.30.19",
+    "description":"At death, he sees the messengers of the lord of death come before him, their eyes full of wrath, and in great fear he passes stool and urine."
+}
+---
 ====== SB 3.30.19 ======
 
 > यमदूतौ तदा प्राप्तौ भीमौ सरभसेक्षणौ ।

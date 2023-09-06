@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Formerly, prior to the manifestation of the cosmos, Lord Brahmā, by meditating on the virāṭ-rūpa, regained his lost consciousness by appeasing the Lord. Thus he was able to rebuild the creation as it was before.}}
-
+---json
+{
+    "name":"SB 2.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 2.2.1",
+    "description":"Śrī Śukadeva Gosvāmī said: Formerly, prior to the manifestation of the cosmos, Lord Brahmā, by meditating on the virāṭ-rūpa, regained his lost consciousness by appeasing the Lord. Thus he was able to rebuild the creation as it was before."
+}
+---
 ====== SB 2.2.1 ======
 
 > श्रीशुक उवाच

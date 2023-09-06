@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.38~~
-~~bc:Text 38~~
-
-{{description>The lower planetary systems, up to the limit of the earthly stratum, are said to be situated in His legs. The middle planetary systems, beginning from Bhuvarloka, are situated in His navel. And the still higher planetary systems, occupied by the demigods and highly cultured sages and saints, are situated in the chest of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 2.5.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 2.5.38",
+    "description":"The lower planetary systems, up to the limit of the earthly stratum, are said to be situated in His legs. The middle planetary systems, beginning from Bhuvarloka, are situated in His navel. And the still higher planetary systems, occupied by the demigods and highly cultured sages and saints, are situated in the chest of the Supreme Lord."
+}
+---
 ====== SB 2.5.38 ======
 
 > भूर्लोकः कल्पितः पद्भ्यां भुवर्लोकोऽस्य नाभितः ।

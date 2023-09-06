@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.49~~
-~~bc:Text 49~~
-
-{{description>The Personality of Godhead is the supreme master of everything auspicious because the results of whatever actions are performed by the living being, in either the material or spiritual existence, are awarded by the Lord. As such, He is the ultimate benefactor. Every individual living entity is unborn, and therefore even after the annihilation of the material elementary body, the living entity exists, exactly like the air within the body.}}
-
+---json
+{
+    "name":"SB 2.7.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 2.7.49",
+    "description":"The Personality of Godhead is the supreme master of everything auspicious because the results of whatever actions are performed by the living being, in either the material or spiritual existence, are awarded by the Lord. As such, He is the ultimate benefactor. Every individual living entity is unborn, and therefore even after the annihilation of the material elementary body, the living entity exists, exactly like the air within the body."
+}
+---
 ====== SB 2.7.49 ======
 
 > स श्रेयसामपि विभुर्भगवान्यतोऽस्य

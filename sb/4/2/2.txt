@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.2~~
-~~bc:Text 2~~
-
-{{description>Lord Śiva, the spiritual master of the entire world, is free from enmity, is a peaceful personality, and is always satisfied in himself. He is the greatest among the demigods. How is it possible that Dakṣa could be inimical towards such an auspicious personality?}}
-
+---json
+{
+    "name":"SB 4.2.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.2.2",
+    "description":"Lord Śiva, the spiritual master of the entire world, is free from enmity, is a peaceful personality, and is always satisfied in himself. He is the greatest among the demigods. How is it possible that Dakṣa could be inimical towards such an auspicious personality?"
+}
+---
 ====== SB 4.2.2 ======
 
 > कस्तं चराचरगुरुं निर्वैरं शान्तविग्रहम् ।

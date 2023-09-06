@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.15~~
-~~bc:Text 15~~
-
-{{description>Vidura said: O powerful sage, my lord, all my doubts about the Supreme Personality of Godhead and the living entities have now been removed by your convincing words. My mind is now perfectly entering into them.}}
-
+---json
+{
+    "name":"SB 3.7.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.7.15",
+    "description":"Vidura said: O powerful sage, my lord, all my doubts about the Supreme Personality of Godhead and the living entities have now been removed by your convincing words. My mind is now perfectly entering into them."
+}
+---
 ====== SB 3.7.15 ======
 
 > विदुर उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.24~~
-~~bc:Text 24~~
-
-{{description>In the eleventh manvantara, the Manu will be Dharma-sāvarṇi, who will be extremely learned in spiritual knowledge. From him there will come ten sons, headed by Satyadharma.}}
-
+---json
+{
+    "name":"SB 8.13.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 8.13.24",
+    "description":"In the eleventh manvantara, the Manu will be Dharma-sāvarṇi, who will be extremely learned in spiritual knowledge. From him there will come ten sons, headed by Satyadharma."
+}
+---
 ====== SB 8.13.24 ======
 
 ===== Text =====

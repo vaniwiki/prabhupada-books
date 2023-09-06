@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.28~~
-~~bc:Text 28~~
-
-{{description>O King, O hero, this human body is meant for universal benefits. If you kill this body untimely, you will kill all the benefits of human life.}}
-
+---json
+{
+    "name":"SB 9.9.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 9.9.28",
+    "description":"O King, O hero, this human body is meant for universal benefits. If you kill this body untimely, you will kill all the benefits of human life."
+}
+---
 ====== SB 9.9.28 ======
 
 ===== Text =====

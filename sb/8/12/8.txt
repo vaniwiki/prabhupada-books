@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.8~~
-~~bc:Text 8~~
-
-{{description>My dear Lord, Your Lordship alone is the cause and the effect. Therefore, although You appear to be two, You are the absolute one. As there is no difference between the gold of a golden ornament and the gold in a mine, there is no difference between cause and effect; both of them are the same. Only because of ignorance do people concoct differences and dualities. You are free from material contamination, and since the entire cosmos is caused by You and cannot exist without You, it is an effect of Your transcendental qualities. Thus the conception that Brahman is true and the world false cannot be maintained.}}
-
+---json
+{
+    "name":"SB 8.12.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 8.12.8",
+    "description":"My dear Lord, Your Lordship alone is the cause and the effect. Therefore, although You appear to be two, You are the absolute one. As there is no difference between the gold of a golden ornament and the gold in a mine, there is no difference between cause and effect; both of them are the same. Only because of ignorance do people concoct differences and dualities. You are free from material contamination, and since the entire cosmos is caused by You and cannot exist without You, it is an effect of Your transcendental qualities. Thus the conception that Brahman is true and the world false cannot be maintained."
+}
+---
 ====== SB 8.12.8 ======
 
 ===== Text =====

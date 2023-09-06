@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.30~~
-~~bc:Text 30~~
-
-{{description>When a perfect yogī's attention is no longer attracted to the by-products of mystic powers, which are manifestations of the external energy, his progress towards Me becomes unlimited, and thus the power of death cannot overcome him.}}
-
+---json
+{
+    "name":"SB 3.27.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.27.30",
+    "description":"When a perfect yogī's attention is no longer attracted to the by-products of mystic powers, which are manifestations of the external energy, his progress towards Me becomes unlimited, and thus the power of death cannot overcome him."
+}
+---
 ====== SB 3.27.30 ======
 
 > यदा न योगोपचितासु चेतो मायासु सिद्धस्य विषज्जतेऽङ्ग ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.4~~
-~~bc:Text 4~~
-
-{{description>That is why the brāhmaṇas and kṣatriyas protect each other, as well as themselves; and the Lord Himself, who is both the cause and effect and is yet immutable, protects them through each other.}}
-
+---json
+{
+    "name":"SB 3.22.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 3.22.4",
+    "description":"That is why the brāhmaṇas and kṣatriyas protect each other, as well as themselves; and the Lord Himself, who is both the cause and effect and is yet immutable, protects them through each other."
+}
+---
 ====== SB 3.22.4 ======
 
 > अतो ह्यन्योन्यमात्मानं ब्रह्म क्षत्रं च रक्षतः ।

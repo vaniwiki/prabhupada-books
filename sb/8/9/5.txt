@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.5~~
-~~bc:Text 5~~
-
-{{description>O beautiful girl with beautiful eyebrows, certainly Providence, by His causeless mercy, has sent You to please the senses and minds of all of us. Is this not a fact?}}
-
+---json
+{
+    "name":"SB 8.9.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 8.9.5",
+    "description":"O beautiful girl with beautiful eyebrows, certainly Providence, by His causeless mercy, has sent You to please the senses and minds of all of us. Is this not a fact?"
+}
+---
 ====== SB 8.9.5 ======
 
 ===== Text =====

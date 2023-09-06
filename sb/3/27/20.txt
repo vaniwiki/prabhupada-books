@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.20~~
-~~bc:Text 20~~
-
-{{description>Even if the great fear of bondage is avoided by mental speculation and inquiry into the fundamental principles, it may still appear again, since its cause has not ceased.}}
-
+---json
+{
+    "name":"SB 3.27.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.27.20",
+    "description":"Even if the great fear of bondage is avoided by mental speculation and inquiry into the fundamental principles, it may still appear again, since its cause has not ceased."
+}
+---
 ====== SB 3.27.20 ======
 
 > क्वचित्तत्त्वावमर्शेन निवृत्तं भयमुल्बणम् ।

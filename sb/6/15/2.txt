@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.2~~
-~~bc:Text 2~~
-
-{{description>O King, what relationship does the dead body for which you lament have with you, and what relationship do you have with him? You may say that you are now related as father and son, but do you think this relationship existed before? Does it truly exist now? Will it continue in the future?}}
-
+---json
+{
+    "name":"SB 6.15.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.15.2",
+    "description":"O King, what relationship does the dead body for which you lament have with you, and what relationship do you have with him? You may say that you are now related as father and son, but do you think this relationship existed before? Does it truly exist now? Will it continue in the future?"
+}
+---
 ====== SB 6.15.2 ======
 
 ===== Text =====

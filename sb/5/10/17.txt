@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.17~~
-~~bc:Text 17~~
-
-{{description>My dear sir, I am not at all afraid of the thunderbolt of King Indra, nor am I afraid of the serpentine, piercing trident of Lord Śiva. I do not care about the punishment of Yamarāja, the superintendent of death, nor am I afraid of fire, scorching sun, moon, wind, nor the weapons of Kuvera. Yet I am afraid of offending a brāhmaṇa. I am very much afraid of this.}}
-
+---json
+{
+    "name":"SB 5.10.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 5.10.17",
+    "description":"My dear sir, I am not at all afraid of the thunderbolt of King Indra, nor am I afraid of the serpentine, piercing trident of Lord Śiva. I do not care about the punishment of Yamarāja, the superintendent of death, nor am I afraid of fire, scorching sun, moon, wind, nor the weapons of Kuvera. Yet I am afraid of offending a brāhmaṇa. I am very much afraid of this."
+}
+---
 ====== SB 5.10.17 ======
 
 ===== Text =====

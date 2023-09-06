@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.28~~
-~~bc:Text 28~~
-
-{{description>Wherever Lord Rāmacandra visited, auspicious welcome gates were constructed, with banana trees and betel nut trees, full of flowers and fruits. The gates were decorated with various flags made of colorful cloth and with tapestries, mirrors and garlands.}}
-
+---json
+{
+    "name":"SB 9.11.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 9.11.28",
+    "description":"Wherever Lord Rāmacandra visited, auspicious welcome gates were constructed, with banana trees and betel nut trees, full of flowers and fruits. The gates were decorated with various flags made of colorful cloth and with tapestries, mirrors and garlands."
+}
+---
 ====== SB 9.11.28 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.60~~
-~~bc:Text 60~~
-
-{{description>Having grown weak and thin because of strictly following the principles of the vow, Diti once unfortunately neglected to wash her mouth, hands and feet after eating and went to sleep during the evening twilight.}}
-
+---json
+{
+    "name":"SB 6.18.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 6.18.60",
+    "description":"Having grown weak and thin because of strictly following the principles of the vow, Diti once unfortunately neglected to wash her mouth, hands and feet after eating and went to sleep during the evening twilight."
+}
+---
 ====== SB 6.18.60 ======
 
 ===== Text =====

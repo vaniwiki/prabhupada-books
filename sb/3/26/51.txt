@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.51~~
-~~bc:Text 51~~
-
-{{description>From these seven principles, roused into activity and united by the presence of the Lord, an unintelligent egg arose, from which appeared the celebrated Cosmic Being.}}
-
+---json
+{
+    "name":"SB 3.26.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 3.26.51",
+    "description":"From these seven principles, roused into activity and united by the presence of the Lord, an unintelligent egg arose, from which appeared the celebrated Cosmic Being."
+}
+---
 ====== SB 3.26.51 ======
 
 > ततस्तेनानुविद्धेभ्यो युक्तेभ्योऽण्डमचेतनम् ।

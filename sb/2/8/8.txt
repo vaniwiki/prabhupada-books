@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.8~~
-~~bc:Text 8~~
-
-{{description>If the Supreme Personality of Godhead, from whose abdomen the lotus stem sprouted, is possessed of a gigantic body according to His own caliber and measurement, then what is the specific difference between the body of the Lord and those of common living entities?}}
-
+---json
+{
+    "name":"SB 2.8.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 2.8.8",
+    "description":"If the Supreme Personality of Godhead, from whose abdomen the lotus stem sprouted, is possessed of a gigantic body according to His own caliber and measurement, then what is the specific difference between the body of the Lord and those of common living entities?"
+}
+---
 ====== SB 2.8.8 ======
 
 > आसीद्यदुदरात्पद्मं लोकसंस्थानलक्षणम् ।

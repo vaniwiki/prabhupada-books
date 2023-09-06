@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.27~~
-~~bc:Text 27~~
-
-{{description>My dear respectable ladies and gentlemen, according to the authoritative statements of śāstra, there must be a supreme authority who is able to award the respective benefits of our present activities. Otherwise, why should there be persons who are unusually beautiful and powerful both in this life and in the life after death?}}
-
+---json
+{
+    "name":"SB 4.21.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.21.27",
+    "description":"My dear respectable ladies and gentlemen, according to the authoritative statements of śāstra, there must be a supreme authority who is able to award the respective benefits of our present activities. Otherwise, why should there be persons who are unusually beautiful and powerful both in this life and in the life after death?"
+}
+---
 ====== SB 4.21.27 ======
 
 > अस्ति यज्ञपतिर्नाम केषाञ्चिदर्हसत्तमाः ।

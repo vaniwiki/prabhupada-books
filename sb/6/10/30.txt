@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.30~~
-~~bc:Text 30~~
-
-{{description>Seeing his army broken and all the asuras, even those known as great heroes, fleeing the battlefield out of intense fear, Vṛtrāsura, who was truly a great-minded hero, smiled and spoke the following words.}}
-
+---json
+{
+    "name":"SB 6.10.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 6.10.30",
+    "description":"Seeing his army broken and all the asuras, even those known as great heroes, fleeing the battlefield out of intense fear, Vṛtrāsura, who was truly a great-minded hero, smiled and spoke the following words."
+}
+---
 ====== SB 6.10.30 ======
 
 ===== Text =====

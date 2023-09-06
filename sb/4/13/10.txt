@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.10~~
-~~bc:Text 10~~
-
-{{description>Utkala appeared to the less intelligent persons on the road to be foolish, blind, dumb, deaf and mad, although actually he was not so. He remained like fire covered with ashes, without blazing flames.}}
-
+---json
+{
+    "name":"SB 4.13.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 4.13.10",
+    "description":"Utkala appeared to the less intelligent persons on the road to be foolish, blind, dumb, deaf and mad, although actually he was not so. He remained like fire covered with ashes, without blazing flames."
+}
+---
 ====== SB 4.13.10 ======
 
 > जडान्धबधिरोन्मत्त मूकाकृतिरतन्मतिः ।

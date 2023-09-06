@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.42~~
-~~bc:Text 42~~
-
-{{description>O Lord of Madhu, as the Ganges forever flows to the sea without hindrance, let my attraction be constantly drawn unto You without being diverted to anyone else.}}
-
+---json
+{
+    "name":"SB 1.8.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 1.8.42",
+    "description":"O Lord of Madhu, as the Ganges forever flows to the sea without hindrance, let my attraction be constantly drawn unto You without being diverted to anyone else."
+}
+---
 ====== SB 1.8.42 ======
 
 > त्वयि मेऽनन्यविषया मतिर्मधुपतेऽसकृत् ।

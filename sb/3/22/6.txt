@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.6~~
-~~bc:Text 6~~
-
-{{description>It is my good fortune that I have been able to see you, for you cannot easily be seen by persons who have not subdued the mind or controlled the senses. I am all the more fortunate to have touched with my head the blessed dust of your feet.}}
-
+---json
+{
+    "name":"SB 3.22.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.22.6",
+    "description":"It is my good fortune that I have been able to see you, for you cannot easily be seen by persons who have not subdued the mind or controlled the senses. I am all the more fortunate to have touched with my head the blessed dust of your feet."
+}
+---
 ====== SB 3.22.6 ======
 
 > दिष्ट्या मे भगवान्दृष्टो दुर्दर्शो योऽकृतात्मनाम् ।

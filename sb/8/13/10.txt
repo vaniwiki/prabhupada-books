@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.10~~
-~~bc:Text 10~~
-
-{{description>Chāyā had a son named Sāvarṇi and a daughter named Tapatī, who later became the wife of King Saṁvaraṇa. Chāyā's third child is known as Śanaiścara [Saturn]. Vaḍavā gave birth to two sons, namely the Aśvinī brothers.}}
-
+---json
+{
+    "name":"SB 8.13.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.13.10",
+    "description":"Chāyā had a son named Sāvarṇi and a daughter named Tapatī, who later became the wife of King Saṁvaraṇa. Chāyā's third child is known as Śanaiścara [Saturn]. Vaḍavā gave birth to two sons, namely the Aśvinī brothers."
+}
+---
 ====== SB 8.13.10 ======
 
 ===== Text =====

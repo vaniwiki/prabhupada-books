@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.11~~
-~~bc:Text 11~~
-
-{{description>He has already accepted himself as my subordinate by marrying my daughter in the presence of fire and brāhmaṇas. He has married my daughter, who is equal to Gāyatrī, and has pretended to be just like an honest person.}}
-
+---json
+{
+    "name":"SB 4.2.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.2.11",
+    "description":"He has already accepted himself as my subordinate by marrying my daughter in the presence of fire and brāhmaṇas. He has married my daughter, who is equal to Gāyatrī, and has pretended to be just like an honest person."
+}
+---
 ====== SB 4.2.11 ======
 
 > एष मे शिष्यतां प्राप्तो यन्मे दुहितुरग्रहीत् ।

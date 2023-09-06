@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.3~~
-~~bc:Text 3~~
-
-{{description>In this forest there are dense bowers composed of thickets of bushes, grass and creepers. In these bowers the conditioned soul is always disturbed by cruelly biting mosquitoes [envious people]. Sometimes he sees an imaginary palace in the forest, and sometimes he is bewildered by seeing a fleeting fiend or ghost, which appears like a meteor in the sky.}}
-
+---json
+{
+    "name":"SB 5.13.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.13.3",
+    "description":"In this forest there are dense bowers composed of thickets of bushes, grass and creepers. In these bowers the conditioned soul is always disturbed by cruelly biting mosquitoes [envious people]. Sometimes he sees an imaginary palace in the forest, and sometimes he is bewildered by seeing a fleeting fiend or ghost, which appears like a meteor in the sky."
+}
+---
 ====== SB 5.13.3 ======
 
 ===== Text =====

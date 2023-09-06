@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.39~~
-~~bc:Text 39~~
-
-{{description>That supreme original Personality of Godhead, Lord Śrī Kṛṣṇa, expanding His plenary portion as Mahā-Viṣṇu, the first incarnation, creates this manifested cosmos, but He is unborn. The creation, however, takes place in Him, and the material substance and manifestations are all Himself. He maintains them for some time and absorbs them into Himself again.}}
-
+---json
+{
+    "name":"SB 2.6.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 2.6.39",
+    "description":"That supreme original Personality of Godhead, Lord Śrī Kṛṣṇa, expanding His plenary portion as Mahā-Viṣṇu, the first incarnation, creates this manifested cosmos, but He is unborn. The creation, however, takes place in Him, and the material substance and manifestations are all Himself. He maintains them for some time and absorbs them into Himself again."
+}
+---
 ====== SB 2.6.39 ======
 
 > स एष आद्यः पुरुषः कल्पे कल्पे सृजत्यजः ।

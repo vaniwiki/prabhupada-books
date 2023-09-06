@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.28~~
-~~bc:Text 28~~
-
-{{description>King Purañjana gave up his body while remembering his wife, and consequently in his next life he became a very beautiful and well-situated woman. He took his next birth as the daughter of King Vidarbha in the very house of the King.}}
-
+---json
+{
+    "name":"SB 4.28.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.28.28",
+    "description":"King Purañjana gave up his body while remembering his wife, and consequently in his next life he became a very beautiful and well-situated woman. He took his next birth as the daughter of King Vidarbha in the very house of the King."
+}
+---
 ====== SB 4.28.28 ======
 
 > तामेव मनसा गृह्णन्बभूव प्रमदोत्तमा ।

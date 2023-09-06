@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.2.26~~
-~~bc:Text 26~~
-
-{{description>Like a human being who lacks spiritual knowledge and is too attached to the members of his family, the elephant, being illusioned by the external energy of Kṛṣṇa, had his wives and children bathe and drink the water. Indeed, he raised water from the lake with his trunk and sprayed it over them. He did not mind the hard labor involved in this endeavor.}}
-
+---json
+{
+    "name":"SB 8.2.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.2.26",
+    "description":"Like a human being who lacks spiritual knowledge and is too attached to the members of his family, the elephant, being illusioned by the external energy of Kṛṣṇa, had his wives and children bathe and drink the water. Indeed, he raised water from the lake with his trunk and sprayed it over them. He did not mind the hard labor involved in this endeavor."
+}
+---
 ====== SB 8.2.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.10~~
-~~bc:Text 10~~
-
-{{description>In former times there were many fools like you who did not conquer the six enemies that steal away the wealth of the body. These fools were very proud, thinking, "I have conquered all enemies in all the ten directions." But if a person is victorious over the six enemies and is equipoised toward all living entities, for him there are no enemies. Enemies are merely imagined by one in ignorance.}}
-
+---json
+{
+    "name":"SB 7.8.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 7.8.10",
+    "description":"In former times there were many fools like you who did not conquer the six enemies that steal away the wealth of the body. These fools were very proud, thinking, "I have conquered all enemies in all the ten directions." But if a person is victorious over the six enemies and is equipoised toward all living entities, for him there are no enemies. Enemies are merely imagined by one in ignorance."
+}
+---
 ====== SB 7.8.10 ======
 
 ===== Text =====

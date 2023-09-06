@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.46~~
-~~bc:Text 46~~
-
-{{description>Nārada Muni continued: The Lord's form is always youthful. Every limb and every part of His body is properly formed, free from defect. His eyes and lips are pinkish like the rising sun. He is always prepared to give shelter to the surrendered soul, and anyone so fortunate as to look upon Him feels all satisfaction. The Lord is always worthy to be the master of the surrendered soul, for He is the ocean of mercy.}}
-
+---json
+{
+    "name":"SB 4.8.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.8.46",
+    "description":"Nārada Muni continued: The Lord's form is always youthful. Every limb and every part of His body is properly formed, free from defect. His eyes and lips are pinkish like the rising sun. He is always prepared to give shelter to the surrendered soul, and anyone so fortunate as to look upon Him feels all satisfaction. The Lord is always worthy to be the master of the surrendered soul, for He is the ocean of mercy."
+}
+---
 ====== SB 4.8.46 ======
 
 > तरुणं रमणीयाङ्गमरुणोष्ठेक्षणाधरम् ।

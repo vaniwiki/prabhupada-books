@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.8~~
-~~bc:Text 8~~
-
-{{description>The Supreme Personality of Godhead, Śrī Hari, is the master of all living entities, including all the prajāpatis, such as Lord Brahmā. Because He is the all-pervading and indestructible master, He has created all these trees and vegetables as eatables for other living entities.}}
-
+---json
+{
+    "name":"SB 6.4.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 6.4.8",
+    "description":"The Supreme Personality of Godhead, Śrī Hari, is the master of all living entities, including all the prajāpatis, such as Lord Brahmā. Because He is the all-pervading and indestructible master, He has created all these trees and vegetables as eatables for other living entities."
+}
+---
 ====== SB 6.4.8 ======
 
 ===== Text =====

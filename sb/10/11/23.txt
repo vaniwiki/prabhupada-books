@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.23~~
-~~bc:Text 23~~
-
-{{description>He said: My dear friends the cowherd men, in order to do good to this place, Gokula, we should leave it, because so many disturbances are always occurring here, just for the purpose of killing Rāma and Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 10.11.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 10.11.23",
+    "description":"He said: My dear friends the cowherd men, in order to do good to this place, Gokula, we should leave it, because so many disturbances are always occurring here, just for the purpose of killing Rāma and Kṛṣṇa."
+}
+---
 ====== SB 10.11.23 ======
 
 ===== Text =====

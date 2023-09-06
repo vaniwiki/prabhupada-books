@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.28~~
-~~bc:Text 28~~
-
-{{description>The sages circumambulated the Supreme Lord, offered their obeisances and returned, extremely delighted at learning of the divine opulences of the Vaiṣṇava.}}
-
+---json
+{
+    "name":"SB 3.16.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.16.28",
+    "description":"The sages circumambulated the Supreme Lord, offered their obeisances and returned, extremely delighted at learning of the divine opulences of the Vaiṣṇava."
+}
+---
 ====== SB 3.16.28 ======
 
 > भगवन्तं परिक्रम्य प्रणिपत्यानुमान्य च ।

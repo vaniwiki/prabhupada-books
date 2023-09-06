@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.34~~
-~~bc:Text 34~~
-
-{{description>When she thought of her great husband, the best of the sages, Kardama Muni, who was very dear to her, she, along with all the maidservants, at once appeared where he was.}}
-
+---json
+{
+    "name":"SB 3.23.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.23.34",
+    "description":"When she thought of her great husband, the best of the sages, Kardama Muni, who was very dear to her, she, along with all the maidservants, at once appeared where he was."
+}
+---
 ====== SB 3.23.34 ======
 
 > यदा सस्मार ऋषभमृषीणां दयितं पतिम् ।

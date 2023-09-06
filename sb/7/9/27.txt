@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.27~~
-~~bc:Text 27~~
-
-{{description>Unlike an ordinary living entity, my Lord, You do not discriminate between friends and enemies, the favorable and the unfavorable, because for You there is no conception of higher and lower. Nonetheless, You offer Your benedictions according to the level of one's service, exactly as a desire tree delivers fruits according to one's desires and makes no distinction between the lower and the higher.}}
-
+---json
+{
+    "name":"SB 7.9.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 7.9.27",
+    "description":"Unlike an ordinary living entity, my Lord, You do not discriminate between friends and enemies, the favorable and the unfavorable, because for You there is no conception of higher and lower. Nonetheless, You offer Your benedictions according to the level of one's service, exactly as a desire tree delivers fruits according to one's desires and makes no distinction between the lower and the higher."
+}
+---
 ====== SB 7.9.27 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.19~~
-~~bc:Text 19~~
-
-{{description>Your Honor appears learned, expert and intelligent in every way. You can speak very well, saying things that are pleasing to the heart. You see that people in general are engaged in fruitive activities, yet you are lying here inactive.}}
-
+---json
+{
+    "name":"SB 7.13.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 7.13.19",
+    "description":"Your Honor appears learned, expert and intelligent in every way. You can speak very well, saying things that are pleasing to the heart. You see that people in general are engaged in fruitive activities, yet you are lying here inactive."
+}
+---
 ====== SB 7.13.19 ======
 
 ===== Text =====

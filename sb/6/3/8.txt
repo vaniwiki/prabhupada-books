@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.8~~
-~~bc:Text 8~~
-
-{{description>But now we see that the punishment ordained under your authority is no longer effective, since your order has been transgressed by four wonderful and perfect persons.}}
-
+---json
+{
+    "name":"SB 6.3.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 6.3.8",
+    "description":"But now we see that the punishment ordained under your authority is no longer effective, since your order has been transgressed by four wonderful and perfect persons."
+}
+---
 ====== SB 6.3.8 ======
 
 ===== Text =====

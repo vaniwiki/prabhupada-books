@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.22~~
-~~bc:Text 22~~
-
-{{description>The Almighty Lord greeted everyone present by bowing His head, exchanging greetings, embracing, shaking hands, looking and smiling, giving assurances and awarding benedictions, even to the lowest in rank.}}
-
+---json
+{
+    "name":"SB 1.11.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.11.22",
+    "description":"The Almighty Lord greeted everyone present by bowing His head, exchanging greetings, embracing, shaking hands, looking and smiling, giving assurances and awarding benedictions, even to the lowest in rank."
+}
+---
 ====== SB 1.11.22 ======
 
 > प्रह्वाभिवादनाश्लेषकरस्पर्शस्मितेक्षणैः ।

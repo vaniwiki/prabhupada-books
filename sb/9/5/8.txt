@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.5.8~~
-~~bc:Text 8~~
-
-{{description>O indefatigable one, when you are sent by the Supreme Personality of Godhead to enter among the soldiers of the Daityas and the Dānavas, you stay on the battlefield and unendingly separate their arms, bellies, thighs, legs and heads.}}
-
+---json
+{
+    "name":"SB 9.5.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.5.8",
+    "description":"O indefatigable one, when you are sent by the Supreme Personality of Godhead to enter among the soldiers of the Daityas and the Dānavas, you stay on the battlefield and unendingly separate their arms, bellies, thighs, legs and heads."
+}
+---
 ====== SB 9.5.8 ======
 
 ===== Text =====

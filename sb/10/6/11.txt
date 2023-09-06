@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.6.11~~
-~~bc:Text 11~~
-
-{{description>Unbearably pressed in every vital point, the demon Pūtanā began to cry, "Please leave me, leave me! Suck my breast no longer!" Perspiring, her eyes wide open and her arms and legs flailing, she cried very loudly again and again.}}
-
+---json
+{
+    "name":"SB 10.6.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 10.6.11",
+    "description":"Unbearably pressed in every vital point, the demon Pūtanā began to cry, "Please leave me, leave me! Suck my breast no longer!" Perspiring, her eyes wide open and her arms and legs flailing, she cried very loudly again and again."
+}
+---
 ====== SB 10.6.11 ======
 
 ===== Text =====

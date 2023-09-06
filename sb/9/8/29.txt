@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.29~~
-~~bc:Text 29~~
-
-{{description>Thereafter, Aṁśumān circumambulated Kapila Muni and offered Him respectful obeisances, bowing his head. After fully satisfying Him in this way, Aṁśumān brought back the horse meant for sacrifice, and with this horse Mahārāja Sagara performed the remaining ritualistic ceremonies.}}
-
+---json
+{
+    "name":"SB 9.8.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 9.8.29",
+    "description":"Thereafter, Aṁśumān circumambulated Kapila Muni and offered Him respectful obeisances, bowing his head. After fully satisfying Him in this way, Aṁśumān brought back the horse meant for sacrifice, and with this horse Mahārāja Sagara performed the remaining ritualistic ceremonies."
+}
+---
 ====== SB 9.8.29 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.26~~
-~~bc:Text 26~~
-
-{{description>This false ego is characterized as the doer, as an instrument and as an effect. It is further characterized as serene, active or dull according to how it is influenced by the modes of goodness, passion and ignorance.}}
-
+---json
+{
+    "name":"SB 3.26.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.26.26",
+    "description":"This false ego is characterized as the doer, as an instrument and as an effect. It is further characterized as serene, active or dull according to how it is influenced by the modes of goodness, passion and ignorance."
+}
+---
 ====== SB 3.26.26 ======
 
 > कर्तृत्वं करणत्वं च कार्यत्वं चेति लक्षणम् ।

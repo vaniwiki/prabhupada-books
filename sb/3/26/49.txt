@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.49~~
-~~bc:Text 49~~
-
-{{description>Since the cause exists in its effect as well, the characteristics of the former are observed in the latter. That is why the peculiarities of all the elements exist in the earth alone.}}
-
+---json
+{
+    "name":"SB 3.26.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 3.26.49",
+    "description":"Since the cause exists in its effect as well, the characteristics of the former are observed in the latter. That is why the peculiarities of all the elements exist in the earth alone."
+}
+---
 ====== SB 3.26.49 ======
 
 > परस्य दृश्यते धर्मो ह्यपरस्मिन्समन्वयात् ।

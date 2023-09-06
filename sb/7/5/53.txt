@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.53~~
-~~bc:Text 53~~
-
-{{description>The teachers Ṣaṇḍa and Amarka instructed Prahlāda Mahārāja in the three kinds of material advancement called religion, economic development and sense gratification. Prahlāda, however, being situated above such instructions, did not like them, for such instructions are based on the duality of worldly affairs, which involve one in a materialistic way of life marked by birth, death, old age and disease.}}
-
+---json
+{
+    "name":"SB 7.5.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 7.5.53",
+    "description":"The teachers Ṣaṇḍa and Amarka instructed Prahlāda Mahārāja in the three kinds of material advancement called religion, economic development and sense gratification. Prahlāda, however, being situated above such instructions, did not like them, for such instructions are based on the duality of worldly affairs, which involve one in a materialistic way of life marked by birth, death, old age and disease."
+}
+---
 ====== SB 7.5.53 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.1~~
-~~bc:Text 1~~
-
-{{description>Vidura inquired: Why was Dakṣa, who was so affectionate towards his daughter, envious of Lord Śiva, who is the best among the gentle? Why did he neglect his daughter Satī?}}
-
+---json
+{
+    "name":"SB 4.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.2.1",
+    "description":"Vidura inquired: Why was Dakṣa, who was so affectionate towards his daughter, envious of Lord Śiva, who is the best among the gentle? Why did he neglect his daughter Satī?"
+}
+---
 ====== SB 4.2.1 ======
 
 > विदुर उवाच

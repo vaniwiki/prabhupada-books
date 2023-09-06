@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.6~~
-~~bc:Text 6~~
-
-{{description>If a king is too attracted to eating flesh, he may, according to the directions of the revealed scriptures on sacrificial performances, go to the forest and kill some animals that are recommended for killing. One is not allowed to kill animals unnecessarily or without restrictions. The Vedas regulate animal-killing to stop the extravagance of foolish men influenced by the modes of passion and ignorance.}}
-
+---json
+{
+    "name":"SB 4.26.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.26.6",
+    "description":"If a king is too attracted to eating flesh, he may, according to the directions of the revealed scriptures on sacrificial performances, go to the forest and kill some animals that are recommended for killing. One is not allowed to kill animals unnecessarily or without restrictions. The Vedas regulate animal-killing to stop the extravagance of foolish men influenced by the modes of passion and ignorance."
+}
+---
 ====== SB 4.26.6 ======
 
 > तीर्थेषु प्रतिदृष्टेषु राजा मेध्यान्पशून्वने ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.8.9~~
-~~bc:Text 9~~
-
-{{description>The great sage Parāśara, as aforementioned, being so advised by the great sage Pulastya, spoke unto me the foremost of the Purāṇas [Bhāgavatam]. I shall also describe this before you, my dear son, in terms of my hearing, because you are always my faithful follower.}}
-
+---json
+{
+    "name":"SB 3.8.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.8.9",
+    "description":"The great sage Parāśara, as aforementioned, being so advised by the great sage Pulastya, spoke unto me the foremost of the Purāṇas [Bhāgavatam]. I shall also describe this before you, my dear son, in terms of my hearing, because you are always my faithful follower."
+}
+---
 ====== SB 3.8.9 ======
 
 > प्रोवाच मह्यं स दयालुरुक्तो मुनिः पुलस्त्येन पुराणमाद्यम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.19.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: O Mahārāja Parīkṣit, Yayāti was very much attached to woman. In due course of time, however, when disgusted with sexual enjoyment and its bad effects, he renounced this way of life and narrated the following story to his beloved wife.}}
-
+---json
+{
+    "name":"SB 9.19.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.19.1",
+    "description":"Śukadeva Gosvāmī said: O Mahārāja Parīkṣit, Yayāti was very much attached to woman. In due course of time, however, when disgusted with sexual enjoyment and its bad effects, he renounced this way of life and narrated the following story to his beloved wife."
+}
+---
 ====== SB 9.19.1 ======
 
 ===== Text =====

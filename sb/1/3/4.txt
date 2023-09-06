@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.4~~
-~~bc:Text 4~~
-
-{{description>The devotees, with their perfect eyes, see the transcendental form of the puruṣa who has thousands of legs, thighs, arms and faces-all extraordinary. In that body there are thousands of heads, ears, eyes and noses. They are decorated with thousands of helmets and glowing earrings and are adorned with garlands.}}
-
+---json
+{
+    "name":"SB 1.3.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 1.3.4",
+    "description":"The devotees, with their perfect eyes, see the transcendental form of the puruṣa who has thousands of legs, thighs, arms and faces-all extraordinary. In that body there are thousands of heads, ears, eyes and noses. They are decorated with thousands of helmets and glowing earrings and are adorned with garlands."
+}
+---
 ====== SB 1.3.4 ======
 
 > पश्यन्त्यदो रूपमदभ्रचक्षुषा सहस्रपादोरुभुजाननाद्भुतम् ।

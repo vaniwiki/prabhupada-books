@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.19.10~~
-~~bc:Text 10~~
-
-{{description>One should offer obeisances unto the Lord with a mind humbled through devotion. While offering daṇḍavats by falling on the ground like a rod, one should chant the above mantra ten times. Then one should chant the following prayer.}}
-
+---json
+{
+    "name":"SB 6.19.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.19.10",
+    "description":"One should offer obeisances unto the Lord with a mind humbled through devotion. While offering daṇḍavats by falling on the ground like a rod, one should chant the above mantra ten times. Then one should chant the following prayer."
+}
+---
 ====== SB 6.19.10 ======
 
 ===== Text =====

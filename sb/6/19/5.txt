@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.19.5~~
-~~bc:Text 5~~
-
-{{description>O my Lord, because You are endowed with causeless mercy, all opulences, all prowess and all glories, strength and transcendental qualities, You are the Supreme Personality of Godhead, the master of everyone.}}
-
+---json
+{
+    "name":"SB 6.19.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 6.19.5",
+    "description":"O my Lord, because You are endowed with causeless mercy, all opulences, all prowess and all glories, strength and transcendental qualities, You are the Supreme Personality of Godhead, the master of everyone."
+}
+---
 ====== SB 6.19.5 ======
 
 ===== Text =====

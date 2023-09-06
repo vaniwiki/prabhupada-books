@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.73~~
-~~bc:Text 73~~
-
-{{description>In the second month Dhruva Mahārāja ate only every six days, and for his eatables he took dry grass and leaves. Thus he continued his worship.}}
-
+---json
+{
+    "name":"SB 4.8.73",
+    "h1":"Text 73",
+    "title":" Śrīmad Bhāgavatam 4.8.73",
+    "description":"In the second month Dhruva Mahārāja ate only every six days, and for his eatables he took dry grass and leaves. Thus he continued his worship."
+}
+---
 ====== SB 4.8.73 ======
 
 > द्वितीयं च तथा मासं षष्ठे षष्ठेऽर्भको दिने ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.16~~
-~~bc:Text 16~~
-
-{{description>Śrī Maitreya said: Thus, seeing the earth merged in the water, Brahmā gave his attention for a long time to how it could be lifted.}}
-
+---json
+{
+    "name":"SB 3.13.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.13.16",
+    "description":"Śrī Maitreya said: Thus, seeing the earth merged in the water, Brahmā gave his attention for a long time to how it could be lifted."
+}
+---
 ====== SB 3.13.16 ======
 
 > मैत्रेय उवाच

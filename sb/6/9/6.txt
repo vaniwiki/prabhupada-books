@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.6~~
-~~bc:Text 6~~
-
-{{description>Although Indra was so powerful that he could neutralize the sinful reactions for killing a brāhmaṇa, he repentantly accepted the burden of these reactions with folded hands. He suffered for one year, and then to purify himself he distributed the reactions for this sinful killing among the earth, water, trees and women.}}
-
+---json
+{
+    "name":"SB 6.9.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 6.9.6",
+    "description":"Although Indra was so powerful that he could neutralize the sinful reactions for killing a brāhmaṇa, he repentantly accepted the burden of these reactions with folded hands. He suffered for one year, and then to purify himself he distributed the reactions for this sinful killing among the earth, water, trees and women."
+}
+---
 ====== SB 6.9.6 ======
 
 ===== Text =====

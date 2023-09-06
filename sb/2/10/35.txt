@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.35~~
-~~bc:Text 35~~
-
-{{description>Neither of the above forms of the Lord, as just described unto you from the material angle of vision, is accepted by the pure devotees of the Lord who know Him well.}}
-
+---json
+{
+    "name":"SB 2.10.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 2.10.35",
+    "description":"Neither of the above forms of the Lord, as just described unto you from the material angle of vision, is accepted by the pure devotees of the Lord who know Him well."
+}
+---
 ====== SB 2.10.35 ======
 
 > अमुनी भगवद्रूपे मया ते ह्यनुवर्णिते ।

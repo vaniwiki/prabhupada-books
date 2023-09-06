@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.11~~
-~~bc:Text 11~~
-
-{{description>Maitreya said: You may now hear from me how the Supreme Lord separated Himself into the diverse forms of the demigods after the manifestation of the gigantic universal form.}}
-
+---json
+{
+    "name":"SB 3.6.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.6.11",
+    "description":"Maitreya said: You may now hear from me how the Supreme Lord separated Himself into the diverse forms of the demigods after the manifestation of the gigantic universal form."
+}
+---
 ====== SB 3.6.11 ======
 
 > अथ तस्याभितप्तस्य कतिधायतनानि ह ।

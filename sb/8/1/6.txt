@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.6~~
-~~bc:Text 6~~
-
-{{description>O best of the Kurus, I have already described [in the Third Canto] the activities of Kapila, the son of Devahūti. Now I shall describe the activities of Yajñapati, the son of Ākūti.}}
-
+---json
+{
+    "name":"SB 8.1.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.1.6",
+    "description":"O best of the Kurus, I have already described [in the Third Canto] the activities of Kapila, the son of Devahūti. Now I shall describe the activities of Yajñapati, the son of Ākūti."
+}
+---
 ====== SB 8.1.6 ======
 
 ===== Text =====

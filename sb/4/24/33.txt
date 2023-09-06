@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.33~~
-~~bc:Text 33~~
-
-{{description>Lord Śiva addressed the Supreme Personality of Godhead with the following prayer: O Supreme Personality of Godhead, all glories unto You. You are the most exalted of all self-realized souls. Since You are always auspicious for the self-realized, I wish that You be auspicious for me. You are worshipable by virtue of the all-perfect instructions You give. You are the Supersoul; therefore I offer my obeisances unto You as the supreme living being.}}
-
+---json
+{
+    "name":"SB 4.24.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.24.33",
+    "description":"Lord Śiva addressed the Supreme Personality of Godhead with the following prayer: O Supreme Personality of Godhead, all glories unto You. You are the most exalted of all self-realized souls. Since You are always auspicious for the self-realized, I wish that You be auspicious for me. You are worshipable by virtue of the all-perfect instructions You give. You are the Supersoul; therefore I offer my obeisances unto You as the supreme living being."
+}
+---
 ====== SB 4.24.33 ======
 
 > श्रीरुद्र उवाच

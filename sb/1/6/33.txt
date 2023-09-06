@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.33~~
-~~bc:Text 33~~
-
-{{description>The Supreme Lord Śrī Kṛṣṇa, whose glories and activities are pleasing to hear, at once appears on the seat of my heart, as if called for, as soon as I begin to chant His holy activities.}}
-
+---json
+{
+    "name":"SB 1.6.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 1.6.33",
+    "description":"The Supreme Lord Śrī Kṛṣṇa, whose glories and activities are pleasing to hear, at once appears on the seat of my heart, as if called for, as soon as I begin to chant His holy activities."
+}
+---
 ====== SB 1.6.33 ======
 
 > प्रगायतः स्ववीर्याणि तीर्थपादः प्रियश्रवाः ।

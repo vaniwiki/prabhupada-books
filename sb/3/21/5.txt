@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.5~~
-~~bc:Text 5~~
-
-{{description>O holy sage, tell me how the worshipful Ruci and Dakṣa, the son of Brahmā, generated children after securing as their wives the other two daughters of Svāyambhuva Manu.}}
-
+---json
+{
+    "name":"SB 3.21.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.21.5",
+    "description":"O holy sage, tell me how the worshipful Ruci and Dakṣa, the son of Brahmā, generated children after securing as their wives the other two daughters of Svāyambhuva Manu."
+}
+---
 ====== SB 3.21.5 ======
 
 > रुचिर्यो भगवान्ब्रह्मन्दक्षो वा ब्रह्मणः सुतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.11~~
-~~bc:Text 11~~
-
-{{description>On the other hand, they captivate My heart who are gladdened in heart and who, their lotus faces enlightened by nectarean smiles, respect the brāhmaṇas, even though the brāhmaṇas utter harsh words. They look upon the brāhmaṇas as My own Self and pacify them by praising them in loving words, even as a son would appease an angry father or as I am pacifying you.}}
-
+---json
+{
+    "name":"SB 3.16.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.16.11",
+    "description":"On the other hand, they captivate My heart who are gladdened in heart and who, their lotus faces enlightened by nectarean smiles, respect the brāhmaṇas, even though the brāhmaṇas utter harsh words. They look upon the brāhmaṇas as My own Self and pacify them by praising them in loving words, even as a son would appease an angry father or as I am pacifying you."
+}
+---
 ====== SB 3.16.11 ======
 
 > ये ब्राह्मणान्मयि धिया क्षिपतोऽर्चयन्तस्

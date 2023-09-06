@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.32~~
-~~bc:Text 32~~
-
-{{description>[Someone may say that aside from devotees, who always seek shelter at the Lord's lotus feet, there are those who are not devotees but who have accepted different processes for attaining salvation. What happens to them? In answer to this question, Lord Brahmā and the other demigods said:] O lotus-eyed Lord, although nondevotees who accept severe austerities and penances to achieve the highest position may think themselves liberated, their intelligence is impure. They fall down from their position of imagined superiority because they have no regard for Your lotus feet.}}
-
+---json
+{
+    "name":"SB 10.2.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 10.2.32",
+    "description":"[Someone may say that aside from devotees, who always seek shelter at the Lord's lotus feet, there are those who are not devotees but who have accepted different processes for attaining salvation. What happens to them? In answer to this question, Lord Brahmā and the other demigods said:] O lotus-eyed Lord, although nondevotees who accept severe austerities and penances to achieve the highest position may think themselves liberated, their intelligence is impure. They fall down from their position of imagined superiority because they have no regard for Your lotus feet."
+}
+---
 ====== SB 10.2.32 ======
 
 ===== Text =====

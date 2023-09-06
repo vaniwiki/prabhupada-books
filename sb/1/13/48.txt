@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.48~~
-~~bc:Text 48~~
-
-{{description>Therefore, O King, you should look to the Supreme Lord only, who is one without a second and who manifests Himself by different energies and is both within and without.}}
-
+---json
+{
+    "name":"SB 1.13.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 1.13.48",
+    "description":"Therefore, O King, you should look to the Supreme Lord only, who is one without a second and who manifests Himself by different energies and is both within and without."
+}
+---
 ====== SB 1.13.48 ======
 
 > तदिदं भगवान्राजन्नेक आत्मात्मनां स्वदृक् ।

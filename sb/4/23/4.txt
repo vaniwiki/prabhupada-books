@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.4~~
-~~bc:Text 4~~
-
-{{description>After retiring from family life, Mahārāja Pṛthu strictly followed the regulations of retired life and underwent severe austerities in the forest. He engaged in these activities as seriously as he had formerly engaged in leading the government and conquering everyone.}}
-
+---json
+{
+    "name":"SB 4.23.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.23.4",
+    "description":"After retiring from family life, Mahārāja Pṛthu strictly followed the regulations of retired life and underwent severe austerities in the forest. He engaged in these activities as seriously as he had formerly engaged in leading the government and conquering everyone."
+}
+---
 ====== SB 4.23.4 ======
 
 > तत्राप्यदाभ्यनियमो वैखानससुसम्मते ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.58~~
-~~bc:Text 58~~
-
-{{description>While outside observing her husband, who will burn in the fire of mystic power along with his thatched cottage, his chaste wife will enter the fire with rapt attention.}}
-
+---json
+{
+    "name":"SB 1.13.58",
+    "h1":"Text 58",
+    "title":" Śrīmad Bhāgavatam 1.13.58",
+    "description":"While outside observing her husband, who will burn in the fire of mystic power along with his thatched cottage, his chaste wife will enter the fire with rapt attention."
+}
+---
 ====== SB 1.13.58 ======
 
 > दह्यमानेऽग्निभिर्देहे पत्युः पत्नी सहोटजे ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.28~~
-~~bc:Text 28~~
-
-{{description>One who takes a vow to satisfy Lord Śiva or who follows such principles will certainly become an atheist and be diverted from transcendental scriptural injunctions.}}
-
+---json
+{
+    "name":"SB 4.2.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.2.28",
+    "description":"One who takes a vow to satisfy Lord Śiva or who follows such principles will certainly become an atheist and be diverted from transcendental scriptural injunctions."
+}
+---
 ====== SB 4.2.28 ======
 
 > भवव्रतधरा ये च ये च तान्समनुव्रताः ।

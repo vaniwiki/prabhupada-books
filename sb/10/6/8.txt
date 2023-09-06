@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.6.8~~
-~~bc:Text 8~~
-
-{{description>Lord Śrī Kṛṣṇa, the all-pervading Supersoul, lying on the bed, understood that Pūtanā, a witch who was expert in killing small children, had come to kill Him. Therefore, as if afraid of her, Kṛṣṇa closed His eyes. Thus Pūtanā took upon her lap Him who was to be her own annihilation, just as an unintelligent person places a sleeping snake on his lap, thinking the snake to be a rope.}}
-
+---json
+{
+    "name":"SB 10.6.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 10.6.8",
+    "description":"Lord Śrī Kṛṣṇa, the all-pervading Supersoul, lying on the bed, understood that Pūtanā, a witch who was expert in killing small children, had come to kill Him. Therefore, as if afraid of her, Kṛṣṇa closed His eyes. Thus Pūtanā took upon her lap Him who was to be her own annihilation, just as an unintelligent person places a sleeping snake on his lap, thinking the snake to be a rope."
+}
+---
 ====== SB 10.6.8 ======
 
 ===== Text =====

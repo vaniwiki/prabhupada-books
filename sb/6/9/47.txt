@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.47~~
-~~bc:Text 47~~
-
-{{description>The Supreme Personality of Godhead said: O beloved demigods, you have offered your prayers to Me with great knowledge, and I am certainly most pleased with you. A person is liberated by such knowledge, and thus he remembers My exalted position, which is above the conditions of material life. Such a devotee is fully purified by offering prayers in full knowledge. This is the source of devotional service to Me.}}
-
+---json
+{
+    "name":"SB 6.9.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 6.9.47",
+    "description":"The Supreme Personality of Godhead said: O beloved demigods, you have offered your prayers to Me with great knowledge, and I am certainly most pleased with you. A person is liberated by such knowledge, and thus he remembers My exalted position, which is above the conditions of material life. Such a devotee is fully purified by offering prayers in full knowledge. This is the source of devotional service to Me."
+}
+---
 ====== SB 6.9.47 ======
 
 ===== Text =====

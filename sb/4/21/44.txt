@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.44~~
-~~bc:Text 44~~
-
-{{description>Whoever acquires the brahminical qualifications—whose only wealth is good behavior, who is grateful and who takes shelter of experienced persons—gets all the opulence of the world. I therefore wish that the Supreme Personality of Godhead and His associates be pleased with the brāhmaṇa class, with the cows and with me.}}
-
+---json
+{
+    "name":"SB 4.21.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 4.21.44",
+    "description":"Whoever acquires the brahminical qualifications—whose only wealth is good behavior, who is grateful and who takes shelter of experienced persons—gets all the opulence of the world. I therefore wish that the Supreme Personality of Godhead and His associates be pleased with the brāhmaṇa class, with the cows and with me."
+}
+---
 ====== SB 4.21.44 ======
 
 > गुणायनं शीलधनं कृतज्ञं वृद्धाश्रयं संवृणतेऽनु सम्पदः ।

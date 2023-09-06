@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.11~~
-~~bc:Text 11~~
-
-{{description>The good sages said: O grave Sūta Gosvāmī! May you live many years and have eternal fame, for you are speaking very nicely about the activities of Lord Kṛṣṇa, the Personality of Godhead. This is just like nectar for mortal beings like us.}}
-
+---json
+{
+    "name":"SB 1.18.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 1.18.11",
+    "description":"The good sages said: O grave Sūta Gosvāmī! May you live many years and have eternal fame, for you are speaking very nicely about the activities of Lord Kṛṣṇa, the Personality of Godhead. This is just like nectar for mortal beings like us."
+}
+---
 ====== SB 1.18.11 ======
 
 > ऋषय ऊचुः

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.8~~
-~~bc:Text 8~~
-
-{{description>Others conceive of the Personality of Godhead residing within the body in the region of the heart and measuring only eight inches, with four hands carrying a lotus, a wheel of a chariot, a conchshell and a club respectively.}}
-
+---json
+{
+    "name":"SB 2.2.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 2.2.8",
+    "description":"Others conceive of the Personality of Godhead residing within the body in the region of the heart and measuring only eight inches, with four hands carrying a lotus, a wheel of a chariot, a conchshell and a club respectively."
+}
+---
 ====== SB 2.2.8 ======
 
 > केचित्स्वदेहान्तर्हृदयावकाशे प्रादेशमात्रं पुरुषं वसन्तम् ।

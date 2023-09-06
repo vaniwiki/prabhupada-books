@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.41~~
-~~bc:Text 41~~
-
-{{description>Thereafter, gigantic clouds pouring incessant water swelled the ocean more and more. Thus the ocean began to overflow onto the land and inundate the entire world.}}
-
+---json
+{
+    "name":"SB 8.24.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 8.24.41",
+    "description":"Thereafter, gigantic clouds pouring incessant water swelled the ocean more and more. Thus the ocean began to overflow onto the land and inundate the entire world."
+}
+---
 ====== SB 8.24.41 ======
 
 ===== Text =====

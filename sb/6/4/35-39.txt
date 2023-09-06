@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.35-39~~
-~~bc:Text 35-39~~
-
-{{description>Śrī Śukadeva Gosvāmī said: The Supreme Personality of Godhead, Hari, who is extremely affectionate to His devotees, was very pleased by the prayers offered by Dakṣa, and thus He appeared at that holy place known as Aghamarṣaṇa. O Mahārāja Parīkṣit, best of the Kuru dynasty, the Lord's lotus feet rested on the shoulders of His carrier, Garuḍa, and He appeared with eight long, mighty, very beautiful arms. In His hands He held a disc, conchshell, sword, shield, arrow, bow, rope and club—in each hand a different weapon, all brilliantly shining. His garments were yellow and His bodily hue deep bluish. His eyes and face were very cheerful, and from His neck to His feet hung a long garland of flowers. His chest was decorated with the Kaustubha jewel and the mark of Śrīvatsa. On His head was a gorgeous round helmet, and His ears were decorated with earrings resembling sharks. All these ornaments were uncommonly beautiful. The Lord wore a golden belt on His waist, bracelets on His arms, rings on His fingers, and ankle bells on His feet. Thus decorated by various ornaments, Lord Hari, who is attractive to all the living entities of the three worlds, is known as Puruṣottama, the best personality. He was accompanied by great devotees like Nārada, Nanda and all the principal demigods, led by the heavenly king, Indra, and the residents of various upper planetary systems such as Siddhaloka, Gandharvaloka and Cāraṇaloka. Situated on both sides of the Lord and behind Him as well, these devotees offered Him prayers continuously.}}
-
+---json
+{
+    "name":"SB 6.4.35-39",
+    "h1":"Text 35-39",
+    "title":" Śrīmad Bhāgavatam 6.4.35-39",
+    "description":"Śrī Śukadeva Gosvāmī said: The Supreme Personality of Godhead, Hari, who is extremely affectionate to His devotees, was very pleased by the prayers offered by Dakṣa, and thus He appeared at that holy place known as Aghamarṣaṇa. O Mahārāja Parīkṣit, best of the Kuru dynasty, the Lord's lotus feet rested on the shoulders of His carrier, Garuḍa, and He appeared with eight long, mighty, very beautiful arms. In His hands He held a disc, conchshell, sword, shield, arrow, bow, rope and club—in each hand a different weapon, all brilliantly shining. His garments were yellow and His bodily hue deep bluish. His eyes and face were very cheerful, and from His neck to His feet hung a long garland of flowers. His chest was decorated with the Kaustubha jewel and the mark of Śrīvatsa. On His head was a gorgeous round helmet, and His ears were decorated with earrings resembling sharks. All these ornaments were uncommonly beautiful. The Lord wore a golden belt on His waist, bracelets on His arms, rings on His fingers, and ankle bells on His feet. Thus decorated by various ornaments, Lord Hari, who is attractive to all the living entities of the three worlds, is known as Puruṣottama, the best personality. He was accompanied by great devotees like Nārada, Nanda and all the principal demigods, led by the heavenly king, Indra, and the residents of various upper planetary systems such as Siddhaloka, Gandharvaloka and Cāraṇaloka. Situated on both sides of the Lord and behind Him as well, these devotees offered Him prayers continuously."
+}
+---
 ====== SB 6.4.35-39 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.13~~
-~~bc:Text 13~~
-
-{{description>Just as a person not inclined to die must nonetheless give up his longevity, opulence, fame and everything else at the time of death, so, at the appointed time of victory, one can gain all these when the Supreme Lord awards them by His mercy.}}
-
+---json
+{
+    "name":"SB 6.12.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 6.12.13",
+    "description":"Just as a person not inclined to die must nonetheless give up his longevity, opulence, fame and everything else at the time of death, so, at the appointed time of victory, one can gain all these when the Supreme Lord awards them by His mercy."
+}
+---
 ====== SB 6.12.13 ======
 
 ===== Text =====

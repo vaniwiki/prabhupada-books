@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.12~~
-~~bc:Text 12~~
-
-{{description>The city of Dvārakāpurī was filled with the opulences of all seasons. There were hermitages, orchards, flower gardens, parks and reservoirs of water breeding lotus flowers all over.}}
-
+---json
+{
+    "name":"SB 1.11.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.11.12",
+    "description":"The city of Dvārakāpurī was filled with the opulences of all seasons. There were hermitages, orchards, flower gardens, parks and reservoirs of water breeding lotus flowers all over."
+}
+---
 ====== SB 1.11.12 ======
 
 > सर्वर्तुसर्वविभवपुण्यवृक्षलताश्रमैः ।

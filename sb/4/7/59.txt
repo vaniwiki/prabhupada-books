@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.59~~
-~~bc:Text 59~~
-
-{{description>Ambikā [goddess Durgā], who was known as Dākṣāyiṇī [Satī], again accepted Lord Śiva as her husband, just as different energies of the Supreme Personality of Godhead act during the course of a new creation.}}
-
+---json
+{
+    "name":"SB 4.7.59",
+    "h1":"Text 59",
+    "title":" Śrīmad Bhāgavatam 4.7.59",
+    "description":"Ambikā [goddess Durgā], who was known as Dākṣāyiṇī [Satī], again accepted Lord Śiva as her husband, just as different energies of the Supreme Personality of Godhead act during the course of a new creation."
+}
+---
 ====== SB 4.7.59 ======
 
 > तमेव दयितं भूय आवृङ्क्ते पतिमम्बिका ।

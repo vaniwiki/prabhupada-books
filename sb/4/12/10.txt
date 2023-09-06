@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.10~~
-~~bc:Text 10~~
-
-{{description>As long as he remained at home, Dhruva Mahārāja performed many great ceremonial sacrifices in order to please the enjoyer of all sacrifices, the Supreme Personality of Godhead. Prescribed ceremonial sacrifices are especially meant to please Lord Viṣṇu, who is the objective of all such sacrifices and who awards the resultant benedictions.}}
-
+---json
+{
+    "name":"SB 4.12.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 4.12.10",
+    "description":"As long as he remained at home, Dhruva Mahārāja performed many great ceremonial sacrifices in order to please the enjoyer of all sacrifices, the Supreme Personality of Godhead. Prescribed ceremonial sacrifices are especially meant to please Lord Viṣṇu, who is the objective of all such sacrifices and who awards the resultant benedictions."
+}
+---
 ====== SB 4.12.10 ======
 
 > अथायजत यज्ञेशं क्रतुभिर्भूरिदक्षिणैः ।

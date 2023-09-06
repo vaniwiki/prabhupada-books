@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.16~~
-~~bc:Text 16~~
-
-{{description>All different types of meditation or mysticism are means for realizing Nārāyaṇa. All austerities are aimed at achieving Nārāyaṇa. Culture of transcendental knowledge is for getting a glimpse of Nārāyaṇa, and ultimately salvation is entering the kingdom of Nārāyaṇa.}}
-
+---json
+{
+    "name":"SB 2.5.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 2.5.16",
+    "description":"All different types of meditation or mysticism are means for realizing Nārāyaṇa. All austerities are aimed at achieving Nārāyaṇa. Culture of transcendental knowledge is for getting a glimpse of Nārāyaṇa, and ultimately salvation is entering the kingdom of Nārāyaṇa."
+}
+---
 ====== SB 2.5.16 ======
 
 > नारायणपरो योगो नारायणपरं तपः ।

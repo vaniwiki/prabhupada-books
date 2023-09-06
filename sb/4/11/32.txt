@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.32~~
-~~bc:Text 32~~
-
-{{description>A person who desires liberation from this material world should not fall under the control of anger because when bewildered by anger one becomes a source of dread for all others.}}
-
+---json
+{
+    "name":"SB 4.11.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.11.32",
+    "description":"A person who desires liberation from this material world should not fall under the control of anger because when bewildered by anger one becomes a source of dread for all others."
+}
+---
 ====== SB 4.11.32 ======
 
 > येनोपसृष्टात्पुरुषाल्लोक उद्विजते भृशम् ।

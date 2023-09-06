@@ -1,8 +1,11 @@
-~~Title:Śrī Īśopaniṣad, Mantra 3~~
-~~bc:Mantra 3~~
-
-{{description>The killer of the soul, whoever he may be, must enter into the planets known as the worlds of the faithless, full of darkness and ignorance.}}
-
+---json
+{
+    "name":"Īśo 3",
+    "h1":"Mantra 3",
+    "title":"Śrī Īśopaniṣad, Mantra 3",
+    "description":"The killer of the soul, whoever he may be, must enter into the planets known as the worlds of the faithless, full of darkness and ignorance."
+}
+---
 
 ====== Īśo 3 ======
 

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.6.6~~
-~~bc:Text 6~~
-
-{{description>Every human being has a maximum duration of life of one hundred years, but for one who cannot control his senses, half of those years are completely lost because at night he sleeps twelve hours, being covered by ignorance. Therefore such a person has a lifetime of only fifty years.}}
-
+---json
+{
+    "name":"SB 7.6.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 7.6.6",
+    "description":"Every human being has a maximum duration of life of one hundred years, but for one who cannot control his senses, half of those years are completely lost because at night he sleeps twelve hours, being covered by ignorance. Therefore such a person has a lifetime of only fifty years."
+}
+---
 ====== SB 7.6.6 ======
 
 ===== Text =====

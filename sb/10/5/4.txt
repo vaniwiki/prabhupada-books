@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.4~~
-~~bc:Text 4~~
-
-{{description>O King, by the passing of time, land and other material possessions are purified; by bathing, the body is purified; and by being cleansed, unclean things are purified. By purificatory ceremonies, birth is purified; by austerity, the senses are purified; and by worship and charity offered to the brāhmaṇas, material possessions are purified. By satisfaction, the mind is purified; and by self-realization, or Kṛṣṇa consciousness, the soul is purified.}}
-
+---json
+{
+    "name":"SB 10.5.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 10.5.4",
+    "description":"O King, by the passing of time, land and other material possessions are purified; by bathing, the body is purified; and by being cleansed, unclean things are purified. By purificatory ceremonies, birth is purified; by austerity, the senses are purified; and by worship and charity offered to the brāhmaṇas, material possessions are purified. By satisfaction, the mind is purified; and by self-realization, or Kṛṣṇa consciousness, the soul is purified."
+}
+---
 ====== SB 10.5.4 ======
 
 ===== Text =====

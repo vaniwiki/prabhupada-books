@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.14~~
-~~bc:Text 14~~
-
-{{description>The internal, subtle senses are experienced as having four aspects, in the shape of mind, intelligence, ego and contaminated consciousness. Distinctions between them can be made only by different functions, since they represent different characteristics.}}
-
+---json
+{
+    "name":"SB 3.26.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.26.14",
+    "description":"The internal, subtle senses are experienced as having four aspects, in the shape of mind, intelligence, ego and contaminated consciousness. Distinctions between them can be made only by different functions, since they represent different characteristics."
+}
+---
 ====== SB 3.26.14 ======
 
 > मनो बुद्धिरहङ्कारश्चित्तमित्यन्तरात्मकम् ।

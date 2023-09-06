@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.7~~
-~~bc:Text 7~~
-
-{{description>O my Lord, persons who are bereft of the all-auspicious performance of chanting and hearing about Your transcendental activities are certainly unfortunate and are also bereft of good sense. They engage in inauspicious activities, enjoying sense gratification for a very little while.}}
-
+---json
+{
+    "name":"SB 3.9.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.9.7",
+    "description":"O my Lord, persons who are bereft of the all-auspicious performance of chanting and hearing about Your transcendental activities are certainly unfortunate and are also bereft of good sense. They engage in inauspicious activities, enjoying sense gratification for a very little while."
+}
+---
 ====== SB 3.9.7 ======
 
 > दैवेन ते हतधियो भवतः प्रसङ्गात्

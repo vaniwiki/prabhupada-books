@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.5~~
-~~bc:Text 5~~
-
-{{description>I do not fear hell, poverty, an ocean of distress, falldown from my position or even death itself as much as I fear cheating a brāhmaṇa.}}
-
+---json
+{
+    "name":"SB 8.20.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 8.20.5",
+    "description":"I do not fear hell, poverty, an ocean of distress, falldown from my position or even death itself as much as I fear cheating a brāhmaṇa."
+}
+---
 ====== SB 8.20.5 ======
 
 ===== Text =====

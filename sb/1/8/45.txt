@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.45~~
-~~bc:Text 45~~
-
-{{description>Thus accepting the prayers of Śrīmatī Kuntīdevī, the Lord subsequently informed other ladies of His departure by entering the palace of Hastināpura. But upon preparing to leave, He was stopped by King Yudhiṣṭhira, who implored Him lovingly.}}
-
+---json
+{
+    "name":"SB 1.8.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 1.8.45",
+    "description":"Thus accepting the prayers of Śrīmatī Kuntīdevī, the Lord subsequently informed other ladies of His departure by entering the palace of Hastināpura. But upon preparing to leave, He was stopped by King Yudhiṣṭhira, who implored Him lovingly."
+}
+---
 ====== SB 1.8.45 ======
 
 > तां बाढमित्युपामन्त्र्य प्रविश्य गजसाह्वयम् ।

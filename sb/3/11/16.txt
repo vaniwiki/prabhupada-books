@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.16~~
-~~bc:Text 16~~
-
-{{description>Vidura said: I now understand the life durations of the residents of the Pitā planets and heavenly planets as well as that of the human beings. Now kindly inform me of the durations of life of those greatly learned living entities who are beyond the range of a kalpa.}}
-
+---json
+{
+    "name":"SB 3.11.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.11.16",
+    "description":"Vidura said: I now understand the life durations of the residents of the Pitā planets and heavenly planets as well as that of the human beings. Now kindly inform me of the durations of life of those greatly learned living entities who are beyond the range of a kalpa."
+}
+---
 ====== SB 3.11.16 ======
 
 > विदुर उवाच

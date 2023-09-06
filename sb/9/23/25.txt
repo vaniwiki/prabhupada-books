@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.25~~
-~~bc:Text 25~~
-
-{{description>No other king in this world could equal Kārtavīryārjuna in sacrifices, charity, austerity, mystic power, education, strength or mercy.}}
-
+---json
+{
+    "name":"SB 9.23.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 9.23.25",
+    "description":"No other king in this world could equal Kārtavīryārjuna in sacrifices, charity, austerity, mystic power, education, strength or mercy."
+}
+---
 ====== SB 9.23.25 ======
 
 ===== Text =====

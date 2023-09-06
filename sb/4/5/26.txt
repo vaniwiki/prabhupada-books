@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.26~~
-~~bc:Text 26~~
-
-{{description>Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation. In this way the followers of Lord Śiva devastated all the arrangements for sacrifice. After setting fire to the whole arena, they departed for their master's abode, Kailāsa.}}
-
+---json
+{
+    "name":"SB 4.5.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.5.26",
+    "description":"Vīrabhadra then took the head and with great anger threw it into the southern side of the sacrificial fire, offering it as an oblation. In this way the followers of Lord Śiva devastated all the arrangements for sacrifice. After setting fire to the whole arena, they departed for their master's abode, Kailāsa."
+}
+---
 ====== SB 4.5.26 ======
 
 > जुहावैतच्छिरस्तस्मिन्दक्षिणाग्नावमर्षितः ।

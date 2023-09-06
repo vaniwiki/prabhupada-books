@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.47~~
-~~bc:Text 47~~
-
-{{description>Scorpions, large snakes and many other poisonous animals, as well as lions, tigers, boars and great elephants, all began falling upon the demigod soldiers, crushing everything.}}
-
+---json
+{
+    "name":"SB 8.10.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 8.10.47",
+    "description":"Scorpions, large snakes and many other poisonous animals, as well as lions, tigers, boars and great elephants, all began falling upon the demigod soldiers, crushing everything."
+}
+---
 ====== SB 8.10.47 ======
 
 ===== Text =====

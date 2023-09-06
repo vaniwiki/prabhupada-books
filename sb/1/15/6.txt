@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.6~~
-~~bc:Text 6~~
-
-{{description>I have just lost Him whose separation for a moment would render all the universes unfavorable and void, like bodies without life.}}
-
+---json
+{
+    "name":"SB 1.15.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.15.6",
+    "description":"I have just lost Him whose separation for a moment would render all the universes unfavorable and void, like bodies without life."
+}
+---
 ====== SB 1.15.6 ======
 
 > यस्य क्षणवियोगेन लोको ह्यप्रियदर्शनः ।

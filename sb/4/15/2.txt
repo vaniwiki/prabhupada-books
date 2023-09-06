@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.2~~
-~~bc:Text 2~~
-
-{{description>The great sages were highly learned in Vedic knowledge. When they saw the male and female born of the arms of Vena's body, they were very pleased, for they could understand that the couple was an expansion of a plenary portion of Viṣṇu, the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.15.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.15.2",
+    "description":"The great sages were highly learned in Vedic knowledge. When they saw the male and female born of the arms of Vena's body, they were very pleased, for they could understand that the couple was an expansion of a plenary portion of Viṣṇu, the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.15.2 ======
 
 > तद्दृष्ट्वा मिथुनं जातमृषयो ब्रह्मवादिनः ।

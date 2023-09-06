@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.22~~
-~~bc:Text 22~~
-
-{{description>There were various trees and creepers on all sides of the lake, and there were mad bumblebees humming all about them. The trees appeared to be very jolly due to the sweet humming of the bumblebees, and the saffron, which was contained in the lotus flowers, was being thrown into the air. These all created such an atmosphere that it appeared as though a festival were taking place there.}}
-
+---json
+{
+    "name":"SB 4.24.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.24.22",
+    "description":"There were various trees and creepers on all sides of the lake, and there were mad bumblebees humming all about them. The trees appeared to be very jolly due to the sweet humming of the bumblebees, and the saffron, which was contained in the lotus flowers, was being thrown into the air. These all created such an atmosphere that it appeared as though a festival were taking place there."
+}
+---
 ====== SB 4.24.22 ======
 
 > मत्तभ्रमरसौस्वर्य हृष्टरोमलताङ्घ्रिपम् ।

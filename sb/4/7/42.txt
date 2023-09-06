@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.42~~
-~~bc:Text 42~~
-
-{{description>The demigods said: Dear Lord, formerly, when there was a devastation, You conserved all the different energies of material manifestation. At that time, all the inhabitants of the higher planets, represented by such liberated souls as Sanaka, were meditating on You by philosophical speculation. You are therefore the original person, and You rest in the water of devastation on the bed of the Śeṣa snake. Now, today, You are visible to us, who are all Your servants. Please give us protection.}}
-
+---json
+{
+    "name":"SB 4.7.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 4.7.42",
+    "description":"The demigods said: Dear Lord, formerly, when there was a devastation, You conserved all the different energies of material manifestation. At that time, all the inhabitants of the higher planets, represented by such liberated souls as Sanaka, were meditating on You by philosophical speculation. You are therefore the original person, and You rest in the water of devastation on the bed of the Śeṣa snake. Now, today, You are visible to us, who are all Your servants. Please give us protection."
+}
+---
 ====== SB 4.7.42 ======
 
 > देवा ऊचुः

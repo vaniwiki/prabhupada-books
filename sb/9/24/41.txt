@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.41~~
-~~bc:Text 41~~
-
-{{description>Vasudeva's brother named Devaśravā married Kaṁsavatī, by whom he begot two sons, named Suvīra and Iṣumān. Kaṅka, by his wife Kaṅkā, begot three sons, named Baka, Satyajit and Purujit.}}
-
+---json
+{
+    "name":"SB 9.24.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 9.24.41",
+    "description":"Vasudeva's brother named Devaśravā married Kaṁsavatī, by whom he begot two sons, named Suvīra and Iṣumān. Kaṅka, by his wife Kaṅkā, begot three sons, named Baka, Satyajit and Purujit."
+}
+---
 ====== SB 9.24.41 ======
 
 ===== Text =====

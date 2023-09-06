@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.34~~
-~~bc:Text 34~~
-
-{{description>O King of the earth, it has been decided by expert, learned scholars that only the Supreme Personality of Godhead, Kṛṣṇa, in whom all that is moving or nonmoving within this universe is resting and from whom everything is coming, is the best person to whom everything must be given.}}
-
+---json
+{
+    "name":"SB 7.14.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 7.14.34",
+    "description":"O King of the earth, it has been decided by expert, learned scholars that only the Supreme Personality of Godhead, Kṛṣṇa, in whom all that is moving or nonmoving within this universe is resting and from whom everything is coming, is the best person to whom everything must be given."
+}
+---
 ====== SB 7.14.34 ======
 
 ===== Text =====

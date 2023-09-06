@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.50~~
-~~bc:Text 50~~
-
-{{description>She then prepared a blazing fire with firewood and placed the dead body of her husband upon it. When this was finished, she lamented severely and prepared herself to perish in the fire with her husband.}}
-
+---json
+{
+    "name":"SB 4.28.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 4.28.50",
+    "description":"She then prepared a blazing fire with firewood and placed the dead body of her husband upon it. When this was finished, she lamented severely and prepared herself to perish in the fire with her husband."
+}
+---
 ====== SB 4.28.50 ======
 
 > चितिं दारुमयीं चित्वा तस्यां पत्युः कलेवरम् ।

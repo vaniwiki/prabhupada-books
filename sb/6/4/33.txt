@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.33~~
-~~bc:Text 33~~
-
-{{description>The Supreme Personality of Godhead, who is inconceivably opulent, who is devoid of all material names, forms and pastimes, and who is all-pervading, is especially merciful to the devotees who worship His lotus feet. Thus He exhibits transcendental forms and names with His different pastimes. May that Supreme Personality of Godhead, whose form is eternal and full of knowledge and bliss, be merciful to me.}}
-
+---json
+{
+    "name":"SB 6.4.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 6.4.33",
+    "description":"The Supreme Personality of Godhead, who is inconceivably opulent, who is devoid of all material names, forms and pastimes, and who is all-pervading, is especially merciful to the devotees who worship His lotus feet. Thus He exhibits transcendental forms and names with His different pastimes. May that Supreme Personality of Godhead, whose form is eternal and full of knowledge and bliss, be merciful to me."
+}
+---
 ====== SB 6.4.33 ======
 
 ===== Text =====

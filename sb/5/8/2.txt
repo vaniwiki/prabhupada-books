@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.2~~
-~~bc:Text 2~~
-
-{{description>O King, while Bharata Mahārāja was sitting on the bank of that river, a doe, being very thirsty, came there to drink.}}
-
+---json
+{
+    "name":"SB 5.8.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.8.2",
+    "description":"O King, while Bharata Mahārāja was sitting on the bank of that river, a doe, being very thirsty, came there to drink."
+}
+---
 ====== SB 5.8.2 ======
 
 ===== Text =====

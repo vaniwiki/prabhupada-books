@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.17~~
-~~bc:Text 17~~
-
-{{description>By mystic yoga and the practical application of knowledge from the scriptures, Kapila Muni, who is characterized by His golden hair, His eyes just like lotus petals and His lotus feet, which bear the marks of lotus flowers, will uproot the deep-rooted desire for work in this material world.}}
-
+---json
+{
+    "name":"SB 3.24.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.24.17",
+    "description":"By mystic yoga and the practical application of knowledge from the scriptures, Kapila Muni, who is characterized by His golden hair, His eyes just like lotus petals and His lotus feet, which bear the marks of lotus flowers, will uproot the deep-rooted desire for work in this material world."
+}
+---
 ====== SB 3.24.17 ======
 
 > ज्ञानविज्ञानयोगेन कर्मणामुद्धरन्जटाः ।

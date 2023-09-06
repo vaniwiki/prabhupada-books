@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.22~~
-~~bc:Text 22~~
-
-{{description>You are an offender at the lotus feet of Lord Śiva, and unfortunately I have a body produced from yours. I am very much ashamed of our bodily relationship, and I condemn myself because my body is contaminated by a relationship with a person who is an offender at the lotus feet of the greatest personality.}}
-
+---json
+{
+    "name":"SB 4.4.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.4.22",
+    "description":"You are an offender at the lotus feet of Lord Śiva, and unfortunately I have a body produced from yours. I am very much ashamed of our bodily relationship, and I condemn myself because my body is contaminated by a relationship with a person who is an offender at the lotus feet of the greatest personality."
+}
+---
 ====== SB 4.4.22 ======
 
 > नैतेन देहेन हरे कृतागसो देहोद्भवेनालमलं कुजन्मना ।

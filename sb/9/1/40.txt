@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.40~~
-~~bc:Text 40~~
-
-{{description>Thus being favored by the spiritual master, according to the words of Lord Śiva, Sudyumna regained his desired maleness every alternate month and in this way ruled the kingdom, although the citizens were not satisfied with this.}}
-
+---json
+{
+    "name":"SB 9.1.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 9.1.40",
+    "description":"Thus being favored by the spiritual master, according to the words of Lord Śiva, Sudyumna regained his desired maleness every alternate month and in this way ruled the kingdom, although the citizens were not satisfied with this."
+}
+---
 ====== SB 9.1.40 ======
 
 ===== Text =====

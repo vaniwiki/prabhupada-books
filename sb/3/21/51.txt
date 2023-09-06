@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.51~~
-~~bc:Text 51~~
-
-{{description>You assume, when necessary, the part of the sun-god; the moon-god; Agni, the god of fire; Indra, the lord of paradise; Vāyu, the wind-god; Yama, the god of punishment; Dharma, the god of piety; and Varuṇa, the god presiding over the waters. All obeisances to you, who are none other than Lord Viṣṇu!}}
-
+---json
+{
+    "name":"SB 3.21.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 3.21.51",
+    "description":"You assume, when necessary, the part of the sun-god; the moon-god; Agni, the god of fire; Indra, the lord of paradise; Vāyu, the wind-god; Yama, the god of punishment; Dharma, the god of piety; and Varuṇa, the god presiding over the waters. All obeisances to you, who are none other than Lord Viṣṇu!"
+}
+---
 ====== SB 3.21.51 ======
 
 > योऽर्केन्द्वग्नीन्द्रवायूनां यमधर्मप्रचेतसाम् ।

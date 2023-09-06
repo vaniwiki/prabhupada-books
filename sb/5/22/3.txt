@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.3~~
-~~bc:Text 3~~
-
-{{description>The original cause of the cosmic manifestation is the Supreme Personality of Godhead, Nārāyaṇa. When great saintly persons, fully aware of the Vedic knowledge, offered prayers to the Supreme Person, He descended to this material world in the form of the sun to benefit all the planets and purify fruitive activities. He divided Himself into twelve parts and created seasonal forms, beginning with spring. In this way He created the seasonal qualities, such as heat, cold and so on.}}
-
+---json
+{
+    "name":"SB 5.22.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.22.3",
+    "description":"The original cause of the cosmic manifestation is the Supreme Personality of Godhead, Nārāyaṇa. When great saintly persons, fully aware of the Vedic knowledge, offered prayers to the Supreme Person, He descended to this material world in the form of the sun to benefit all the planets and purify fruitive activities. He divided Himself into twelve parts and created seasonal forms, beginning with spring. In this way He created the seasonal qualities, such as heat, cold and so on."
+}
+---
 ====== SB 5.22.3 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.18~~
-~~bc:Text 18~~
-
-{{description>By exhibiting His potencies, the Supreme Personality of Godhead adjusts all these different elements, keeping Himself within as the Supersoul and without as time.}}
-
+---json
+{
+    "name":"SB 3.26.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.26.18",
+    "description":"By exhibiting His potencies, the Supreme Personality of Godhead adjusts all these different elements, keeping Himself within as the Supersoul and without as time."
+}
+---
 ====== SB 3.26.18 ======
 
 > अन्तः पुरुषरूपेण कालरूपेण यो बहिः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.10~~
-~~bc:Text 10~~
-
-{{description>At that time, when Dakṣa saw Lord Śiva, who rides upon a bull, his heart, which was polluted by envy of Lord Śiva, was immediately cleansed, just as the water in a lake is cleansed by autumn rains.}}
-
+---json
+{
+    "name":"SB 4.7.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 4.7.10",
+    "description":"At that time, when Dakṣa saw Lord Śiva, who rides upon a bull, his heart, which was polluted by envy of Lord Śiva, was immediately cleansed, just as the water in a lake is cleansed by autumn rains."
+}
+---
 ====== SB 4.7.10 ======
 
 > तदा वृषध्वजद्वेष कलिलात्मा प्रजापतिः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.26~~
-~~bc:Text 26~~
-
-{{description>O king of sharp-edged swords, you are engaged by the Supreme Personality of Godhead. Please cut the soldiers of my enemies to pieces. Please cut them to pieces! O shield marked with a hundred brilliant moonlike circles, please cover the eyes of the sinful enemies. Pluck out their sinful eyes.}}
-
+---json
+{
+    "name":"SB 6.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 6.8.26",
+    "description":"O king of sharp-edged swords, you are engaged by the Supreme Personality of Godhead. Please cut the soldiers of my enemies to pieces. Please cut them to pieces! O shield marked with a hundred brilliant moonlike circles, please cover the eyes of the sinful enemies. Pluck out their sinful eyes."
+}
+---
 ====== SB 6.8.26 ======
 
 ===== Text =====

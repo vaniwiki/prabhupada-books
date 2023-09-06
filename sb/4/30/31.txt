@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.31~~
-~~bc:Text 31~~
-
-{{description>Dear Lord, we shall therefore pray for Your benediction because You are the Supreme, beyond all transcendence, and because there is no end to Your opulences. Consequently, You are celebrated by the name Ananta.}}
-
+---json
+{
+    "name":"SB 4.30.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.30.31",
+    "description":"Dear Lord, we shall therefore pray for Your benediction because You are the Supreme, beyond all transcendence, and because there is no end to Your opulences. Consequently, You are celebrated by the name Ananta."
+}
+---
 ====== SB 4.30.31 ======
 
 > वरं वृणीमहेऽथापि नाथ त्वत्परतः परात् ।

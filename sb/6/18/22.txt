@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.22~~
-~~bc:Text 22~~
-
-{{description>Śrī Sūta Gosvāmī said: O great sage Śaunaka, after hearing Mahārāja Parīkṣit speak respectfully and briefly on topics essential to hear, Śukadeva Gosvāmī, who was well aware of everything, praised his endeavor with great pleasure and replied.}}
-
+---json
+{
+    "name":"SB 6.18.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 6.18.22",
+    "description":"Śrī Sūta Gosvāmī said: O great sage Śaunaka, after hearing Mahārāja Parīkṣit speak respectfully and briefly on topics essential to hear, Śukadeva Gosvāmī, who was well aware of everything, praised his endeavor with great pleasure and replied."
+}
+---
 ====== SB 6.18.22 ======
 
 ===== Text =====

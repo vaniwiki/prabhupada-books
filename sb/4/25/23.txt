@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.23~~
-~~bc:Text 23~~
-
-{{description>The waist and hips of the woman were very beautiful. She was dressed in a yellow sārī with a golden belt. While she walked, her ankle bells rang. She appeared exactly like a denizen of the heavens.}}
-
+---json
+{
+    "name":"SB 4.25.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.25.23",
+    "description":"The waist and hips of the woman were very beautiful. She was dressed in a yellow sārī with a golden belt. While she walked, her ankle bells rang. She appeared exactly like a denizen of the heavens."
+}
+---
 ====== SB 4.25.23 ======
 
 > पिशङ्गनीवीं सुश्रोणीं श्यामां कनकमेखलाम् ।

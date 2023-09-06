@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.69~~
-~~bc:Text 69~~
-
-{{description>Long, long ago, in another mahā-kalpa [millennium of Brahmā], I existed as the Gandharva known as Upabarhaṇa. I was very respected by the other Gandharvas.}}
-
+---json
+{
+    "name":"SB 7.15.69",
+    "h1":"Text 69",
+    "title":" Śrīmad Bhāgavatam 7.15.69",
+    "description":"Long, long ago, in another mahā-kalpa [millennium of Brahmā], I existed as the Gandharva known as Upabarhaṇa. I was very respected by the other Gandharvas."
+}
+---
 ====== SB 7.15.69 ======
 
 ===== Text =====

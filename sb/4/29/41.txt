@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.41~~
-~~bc:Text 41~~
-
-{{description>Because the conditioned soul is always disturbed by the bodily necessities such as hunger and thirst, he has very little time to cultivate attachment to hearing the nectarean words of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.29.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.29.41",
+    "description":"Because the conditioned soul is always disturbed by the bodily necessities such as hunger and thirst, he has very little time to cultivate attachment to hearing the nectarean words of the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.29.41 ======
 
 > एतैरुपद्रुतो नित्यं जीवलोकः स्वभावजैः ।

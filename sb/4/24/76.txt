@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.76~~
-~~bc:Text 76~~
-
-{{description>Although rendering devotional service to the Supreme Personality of Godhead and worshiping Him are very difficult, if one vibrates or simply reads this stotra [prayer] composed and sung by me, he will very easily be able to invoke the mercy of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.24.76",
+    "h1":"Text 76",
+    "title":" Śrīmad Bhāgavatam 4.24.76",
+    "description":"Although rendering devotional service to the Supreme Personality of Godhead and worshiping Him are very difficult, if one vibrates or simply reads this stotra [prayer] composed and sung by me, he will very easily be able to invoke the mercy of the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.24.76 ======
 
 > य इमं श्रद्धया युक्तो मद्गीतं भगवत्स्तवम् ।

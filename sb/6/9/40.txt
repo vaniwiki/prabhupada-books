@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.40~~
-~~bc:Text 40~~
-
-{{description>O Lord, O personified three worlds, father of the three worlds! O strength of the three worlds, in the form of the Vāmana incarnation! O three-eyed form of Nṛsiṁhadeva! O most beautiful person within the three worlds! Everything and everyone, including human beings and even the Daitya demons and the Dānavas, is but an expansion of Your energy. O supremely powerful one, You have always appeared in Your forms as the various incarnations to punish the demons as soon as they become very powerful. You appear as Lord Vāmanadeva, Lord Rāma and Lord Kṛṣṇa. You appear sometimes as an animal like Lord Boar, sometimes a mixed incarnation like Lord Nṛsiṁhadeva and Lord Hayagrīva, and sometimes an aquatic like Lord Fish and Lord Tortoise. Assuming such various forms, You have always punished the demons and Dānavas. We therefore pray that Your Lordship appear today as another incarnation, if You so desire, to kill the great demon Vṛtrāsura.}}
-
+---json
+{
+    "name":"SB 6.9.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 6.9.40",
+    "description":"O Lord, O personified three worlds, father of the three worlds! O strength of the three worlds, in the form of the Vāmana incarnation! O three-eyed form of Nṛsiṁhadeva! O most beautiful person within the three worlds! Everything and everyone, including human beings and even the Daitya demons and the Dānavas, is but an expansion of Your energy. O supremely powerful one, You have always appeared in Your forms as the various incarnations to punish the demons as soon as they become very powerful. You appear as Lord Vāmanadeva, Lord Rāma and Lord Kṛṣṇa. You appear sometimes as an animal like Lord Boar, sometimes a mixed incarnation like Lord Nṛsiṁhadeva and Lord Hayagrīva, and sometimes an aquatic like Lord Fish and Lord Tortoise. Assuming such various forms, You have always punished the demons and Dānavas. We therefore pray that Your Lordship appear today as another incarnation, if You so desire, to kill the great demon Vṛtrāsura."
+}
+---
 ====== SB 6.9.40 ======
 
 ===== Text =====

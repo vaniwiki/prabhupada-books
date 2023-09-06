@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.17~~
-~~bc:Text 17~~
-
-{{description>The Supreme Personality of Godhead is self-sufficient and fully independent. He is the master of everyone and everything, including the illusory energy. He has His form, qualities and features; and similarly His order carriers, the Vaiṣṇavas, who are very beautiful, possess bodily features, transcendental qualities and a transcendental nature almost like His. They always wander within this world with full independence.}}
-
+---json
+{
+    "name":"SB 6.3.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 6.3.17",
+    "description":"The Supreme Personality of Godhead is self-sufficient and fully independent. He is the master of everyone and everything, including the illusory energy. He has His form, qualities and features; and similarly His order carriers, the Vaiṣṇavas, who are very beautiful, possess bodily features, transcendental qualities and a transcendental nature almost like His. They always wander within this world with full independence."
+}
+---
 ====== SB 6.3.17 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.1~~
-~~bc:Text 1~~
-
-{{description>The great sage Maitreya told Vidura: When the King entered his city, it was very beautifully decorated to receive him with pearls, flower garlands, beautiful cloth and golden gates, and the entire city was perfumed with highly fragrant incense.}}
-
+---json
+{
+    "name":"SB 4.21.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.21.1",
+    "description":"The great sage Maitreya told Vidura: When the King entered his city, it was very beautifully decorated to receive him with pearls, flower garlands, beautiful cloth and golden gates, and the entire city was perfumed with highly fragrant incense."
+}
+---
 ====== SB 4.21.1 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.2~~
-~~bc:Text 2~~
-
-{{description>The Personality of Godhead said: These attendants of Mine, Jaya and Vijaya by name, have committed a great offense against you because of ignoring Me.}}
-
+---json
+{
+    "name":"SB 3.16.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.16.2",
+    "description":"The Personality of Godhead said: These attendants of Mine, Jaya and Vijaya by name, have committed a great offense against you because of ignoring Me."
+}
+---
 ====== SB 3.16.2 ======
 
 > श्रीभगवानुवाच

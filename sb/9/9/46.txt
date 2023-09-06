@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.46~~
-~~bc:Text 46~~
-
-{{description>Even though the demigods have the advantages of being situated in the higher planetary system, their minds, senses and intelligence are agitated by material conditions. Therefore, even such elevated persons fail to realize the Supreme Personality of Godhead, who is eternally situated in the core of the heart. What then is to be said of others, such as human beings, who have fewer advantages?}}
-
+---json
+{
+    "name":"SB 9.9.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 9.9.46",
+    "description":"Even though the demigods have the advantages of being situated in the higher planetary system, their minds, senses and intelligence are agitated by material conditions. Therefore, even such elevated persons fail to realize the Supreme Personality of Godhead, who is eternally situated in the core of the heart. What then is to be said of others, such as human beings, who have fewer advantages?"
+}
+---
 ====== SB 9.9.46 ======
 
 ===== Text =====

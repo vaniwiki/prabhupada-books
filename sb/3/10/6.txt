@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.6~~
-~~bc:Text 6~~
-
-{{description>Long penance and transcendental knowledge of self-realization had matured Brahmā in practical knowledge, and thus he drank the wind completely, along with the water.}}
-
+---json
+{
+    "name":"SB 3.10.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.10.6",
+    "description":"Long penance and transcendental knowledge of self-realization had matured Brahmā in practical knowledge, and thus he drank the wind completely, along with the water."
+}
+---
 ====== SB 3.10.6 ======
 
 > तपसा ह्येधमानेन विद्यया चात्मसंस्थया ।

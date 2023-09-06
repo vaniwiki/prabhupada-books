@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.16~~
-~~bc:Text 16~~
-
-{{description>The wife of Anuhlāda was named Sūryā. She gave birth to two sons, named Bāṣkala and Mahiṣa. Prahlāda had one son, Virocana, whose wife gave birth to Bali Mahārāja.}}
-
+---json
+{
+    "name":"SB 6.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 6.18.16",
+    "description":"The wife of Anuhlāda was named Sūryā. She gave birth to two sons, named Bāṣkala and Mahiṣa. Prahlāda had one son, Virocana, whose wife gave birth to Bali Mahārāja."
+}
+---
 ====== SB 6.18.16 ======
 
 ===== Text =====

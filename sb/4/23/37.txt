@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.37~~
-~~bc:Text 37~~
-
-{{description>A pure devotee who is executing the different processes of devotional service may be situated in the transcendental position, being completely absorbed in Kṛṣṇa consciousness, but even he, while discharging devotional service, must hear, read and induce others to hear about the character and life of Pṛthu Mahārāja.}}
-
+---json
+{
+    "name":"SB 4.23.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.23.37",
+    "description":"A pure devotee who is executing the different processes of devotional service may be situated in the transcendental position, being completely absorbed in Kṛṣṇa consciousness, but even he, while discharging devotional service, must hear, read and induce others to hear about the character and life of Pṛthu Mahārāja."
+}
+---
 ====== SB 4.23.37 ======
 
 > मुक्तान्यसङ्गो भगवत्यमलां भक्तिमुद्वहन् ।

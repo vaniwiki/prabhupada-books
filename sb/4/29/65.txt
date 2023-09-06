@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.65~~
-~~bc:Text 65~~
-
-{{description>Therefore, my dear King, the living entity, who has a subtle mental covering, develops all kinds of thoughts and images because of his previous body. Take this from me as certain. There is no possibility of concocting anything mentally without having perceived it in the previous body.}}
-
+---json
+{
+    "name":"SB 4.29.65",
+    "h1":"Text 65",
+    "title":" Śrīmad Bhāgavatam 4.29.65",
+    "description":"Therefore, my dear King, the living entity, who has a subtle mental covering, develops all kinds of thoughts and images because of his previous body. Take this from me as certain. There is no possibility of concocting anything mentally without having perceived it in the previous body."
+}
+---
 ====== SB 4.29.65 ======
 
 > तेनास्य तादृशं राज लिङ्गिनो देहसम्भवम् ।

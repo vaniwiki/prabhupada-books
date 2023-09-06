@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.44~~
-~~bc:Text 44~~
-
-{{description>When I finished performing mystic yoga for one thousand years, you asked me upon whom I was meditating. Now, here is that Supreme Person to whom time has no entrance and who the Vedas cannot understand.}}
-
+---json
+{
+    "name":"SB 8.12.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 8.12.44",
+    "description":"When I finished performing mystic yoga for one thousand years, you asked me upon whom I was meditating. Now, here is that Supreme Person to whom time has no entrance and who the Vedas cannot understand."
+}
+---
 ====== SB 8.12.44 ======
 
 ===== Text =====

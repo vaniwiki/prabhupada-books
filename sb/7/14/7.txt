@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.7~~
-~~bc:Text 7~~
-
-{{description>The natural products created by the Supreme Personality of Godhead should be utilized to maintain the bodies and souls of all living entities. The necessities of life are of three types: those produced from the sky [from rainfall], from the earth [from the mines, the seas or the fields], and from the atmosphere [that which is obtained suddenly and unexpectedly].}}
-
+---json
+{
+    "name":"SB 7.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 7.14.7",
+    "description":"The natural products created by the Supreme Personality of Godhead should be utilized to maintain the bodies and souls of all living entities. The necessities of life are of three types: those produced from the sky [from rainfall], from the earth [from the mines, the seas or the fields], and from the atmosphere [that which is obtained suddenly and unexpectedly]."
+}
+---
 ====== SB 7.14.7 ======
 
 ===== Text =====

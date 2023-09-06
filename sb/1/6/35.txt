@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.35~~
-~~bc:Text 35~~
-
-{{description>It is true that by practicing restraint of the senses by the yoga system one can get relief from the disturbances of desire and lust, but this is not sufficient to give satisfaction to the soul, for this [satisfaction] is derived from devotional service to the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 1.6.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 1.6.35",
+    "description":"It is true that by practicing restraint of the senses by the yoga system one can get relief from the disturbances of desire and lust, but this is not sufficient to give satisfaction to the soul, for this [satisfaction] is derived from devotional service to the Personality of Godhead."
+}
+---
 ====== SB 1.6.35 ======
 
 > यमादिभिर्योगपथैः कामलोभहतो मुहुः ।

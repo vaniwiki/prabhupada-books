@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.18~~
-~~bc:Text 18~~
-
-{{description>The order carriers of Lord Viṣṇu, who are worshiped even by the demigods, possess wonderful bodily features exactly like those of Viṣṇu and are very rarely seen. The Viṣṇudūtas protect the devotees of the Lord from the hands of enemies, from envious persons and even from my jurisdiction, as well as from natural disturbances.}}
-
+---json
+{
+    "name":"SB 6.3.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 6.3.18",
+    "description":"The order carriers of Lord Viṣṇu, who are worshiped even by the demigods, possess wonderful bodily features exactly like those of Viṣṇu and are very rarely seen. The Viṣṇudūtas protect the devotees of the Lord from the hands of enemies, from envious persons and even from my jurisdiction, as well as from natural disturbances."
+}
+---
 ====== SB 6.3.18 ======
 
 ===== Text =====

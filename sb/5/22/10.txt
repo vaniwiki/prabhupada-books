@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.10~~
-~~bc:Text 10~~
-
-{{description>Because the moon is full of all potentialities, it represents the influence of the Supreme Personality of Godhead. The moon is the predominating deity of everyone's mind, and therefore the moon-god is called Manomaya. He is also called Annamaya because he gives potency to all herbs and plants, and he is called Amṛtamaya because he is the source of life for all living entities. The moon pleases the demigods, pitās, human beings, animals, birds, reptiles, trees, plants and all other living entities. Everyone is satisfied by the presence of the moon. Therefore the moon is also called Sarvamaya [all-pervading].}}
-
+---json
+{
+    "name":"SB 5.22.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.22.10",
+    "description":"Because the moon is full of all potentialities, it represents the influence of the Supreme Personality of Godhead. The moon is the predominating deity of everyone's mind, and therefore the moon-god is called Manomaya. He is also called Annamaya because he gives potency to all herbs and plants, and he is called Amṛtamaya because he is the source of life for all living entities. The moon pleases the demigods, pitās, human beings, animals, birds, reptiles, trees, plants and all other living entities. Everyone is satisfied by the presence of the moon. Therefore the moon is also called Sarvamaya [all-pervading]."
+}
+---
 ====== SB 5.22.10 ======
 
 ===== Text =====

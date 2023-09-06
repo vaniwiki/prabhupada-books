@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.34~~
-~~bc:Text 34~~
-
-{{description>If the illusory energy subsides and the living entity becomes fully enriched with knowledge by the grace of the Lord, then he becomes at once enlightened with self-realization and thus becomes situated in his own glory.}}
-
+---json
+{
+    "name":"SB 1.3.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 1.3.34",
+    "description":"If the illusory energy subsides and the living entity becomes fully enriched with knowledge by the grace of the Lord, then he becomes at once enlightened with self-realization and thus becomes situated in his own glory."
+}
+---
 ====== SB 1.3.34 ======
 
 > यद्येषोपरता देवी माया वैशारदी मतिः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.36~~
-~~bc:Text 36~~
-
-{{description>The great saint Nārada said: Once upon a time when the four sons of Lord Brahmā named Sanaka, Sanandana, Sanātana and Sanat-kumāra were wandering throughout the three worlds, they came by chance to Viṣṇuloka.}}
-
+---json
+{
+    "name":"SB 7.1.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 7.1.36",
+    "description":"The great saint Nārada said: Once upon a time when the four sons of Lord Brahmā named Sanaka, Sanandana, Sanātana and Sanat-kumāra were wandering throughout the three worlds, they came by chance to Viṣṇuloka."
+}
+---
 ====== SB 7.1.36 ======
 
 ===== Text =====

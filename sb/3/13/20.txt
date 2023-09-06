@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.20~~
-~~bc:Text 20~~
-
-{{description>Struck with wonder at observing the wonderful boarlike form in the sky, Brahmā, with great brāhmaṇas like Marīci, as well as the Kumāras and Manu, began to argue in various ways.}}
-
+---json
+{
+    "name":"SB 3.13.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.13.20",
+    "description":"Struck with wonder at observing the wonderful boarlike form in the sky, Brahmā, with great brāhmaṇas like Marīci, as well as the Kumāras and Manu, began to argue in various ways."
+}
+---
 ====== SB 3.13.20 ======
 
 > मरीचिप्रमुखैर्विप्रैः कुमारैर्मनुना सह ।

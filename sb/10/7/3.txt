@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.3~~
-~~bc:Text 3~~
-
-{{description>Please describe other pastimes of Kṛṣṇa, the Supreme Personality, who appeared on this planet earth, imitating a human child and performing wonderful activities like killing Pūtanā.}}
-
+---json
+{
+    "name":"SB 10.7.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 10.7.3",
+    "description":"Please describe other pastimes of Kṛṣṇa, the Supreme Personality, who appeared on this planet earth, imitating a human child and performing wonderful activities like killing Pūtanā."
+}
+---
 ====== SB 10.7.3 ======
 
 ===== Text =====

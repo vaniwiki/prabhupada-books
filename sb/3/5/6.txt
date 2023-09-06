@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.6~~
-~~bc:Text 6~~
-
-{{description>He lies down on His own heart spread in the form of the sky, and thus placing the whole creation in that space, He expands Himself into many living entities, which are manifested as different species of life. He does not have to endeavor for His maintenance, because He is the master of all mystic powers and the proprietor of everything. Thus He is distinct from the living entities.}}
-
+---json
+{
+    "name":"SB 3.5.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.5.6",
+    "description":"He lies down on His own heart spread in the form of the sky, and thus placing the whole creation in that space, He expands Himself into many living entities, which are manifested as different species of life. He does not have to endeavor for His maintenance, because He is the master of all mystic powers and the proprietor of everything. Thus He is distinct from the living entities."
+}
+---
 ====== SB 3.5.6 ======
 
 > यथा पुनः स्वे ख इदं निवेश्य शेते गुहायां स निवृत्तवृत्तिः ।

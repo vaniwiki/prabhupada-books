@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.11~~
-~~bc:Text 11~~
-
-{{description>Certainly We have stolen the charge of the inhabitants of Rasātala and have lost all shame. Although bitten by your powerful mace, I shall stay here in the water for some time because, having created enmity with a powerful enemy, I now have no place to go.}}
-
+---json
+{
+    "name":"SB 3.18.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 3.18.11",
+    "description":"Certainly We have stolen the charge of the inhabitants of Rasātala and have lost all shame. Although bitten by your powerful mace, I shall stay here in the water for some time because, having created enmity with a powerful enemy, I now have no place to go."
+}
+---
 ====== SB 3.18.11 ======
 
 > एते वयं न्यासहरा रसौकसां गतह्रियो गदया द्रावितास्ते ।

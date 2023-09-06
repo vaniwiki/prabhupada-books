@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.28~~
-~~bc:Text 28~~
-
-{{description>Those who are averse to the Transcendence realize the Supreme Absolute Truth differently through speculative sense perception, and therefore, because of mistaken speculation, everything appears to them to be relative.}}
-
+---json
+{
+    "name":"SB 3.32.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.32.28",
+    "description":"Those who are averse to the Transcendence realize the Supreme Absolute Truth differently through speculative sense perception, and therefore, because of mistaken speculation, everything appears to them to be relative."
+}
+---
 ====== SB 3.32.28 ======
 
 > ज्ञानमेकं पराचीनैरिन्द्रियैर्ब्रह्म निर्गुणम् ।

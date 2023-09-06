@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.3~~
-~~bc:Text 3~~
-
-{{description>As soon as the living entity becomes situated in his constitutional glory and begins to enjoy the transcendence beyond time and material energy, he at once gives up the two misconceptions of life [I and mine] and thus becomes fully manifested as the pure self.}}
-
+---json
+{
+    "name":"SB 2.9.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 2.9.3",
+    "description":"As soon as the living entity becomes situated in his constitutional glory and begins to enjoy the transcendence beyond time and material energy, he at once gives up the two misconceptions of life [I and mine] and thus becomes fully manifested as the pure self."
+}
+---
 ====== SB 2.9.3 ======
 
 > यर्हि वाव महिम्नि स्वे परस्मिन्कालमाययोः ।

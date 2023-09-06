@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.23~~
-~~bc:Text 23~~
-
-{{description>The horse, mule, ass, gaura, śarabha bison and wild cow all have only one hoof. Now you may hear from me about the animals who have five nails.}}
-
+---json
+{
+    "name":"SB 3.10.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.10.23",
+    "description":"The horse, mule, ass, gaura, śarabha bison and wild cow all have only one hoof. Now you may hear from me about the animals who have five nails."
+}
+---
 ====== SB 3.10.23 ======
 
 > खरोऽश्वोऽश्वतरो गौरः शरभश्चमरी तथा ।

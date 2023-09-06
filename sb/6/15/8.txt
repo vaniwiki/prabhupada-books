@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.8~~
-~~bc:Text 8~~
-
-{{description>Divisions of generalization and specification, such as nationality and individuality, are the imaginations of persons who are not advanced in knowledge.}}
-
+---json
+{
+    "name":"SB 6.15.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 6.15.8",
+    "description":"Divisions of generalization and specification, such as nationality and individuality, are the imaginations of persons who are not advanced in knowledge."
+}
+---
 ====== SB 6.15.8 ======
 
 ===== Text =====

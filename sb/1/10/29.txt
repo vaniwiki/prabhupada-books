@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.29~~
-~~bc:Text 29~~
-
-{{description>The children of these ladies are Pradyumna, Sāmba, Amba, etc: Ladies like Rukmiṇī, Satyabhāmā and Jāmbavatī were forcibly taken away by Him from their svayaṁvara ceremonies after He defeated many powerful kings, headed by Śiśupāla. And other ladies were also forcibly taken away by Him after He killed Bhaumāsura and thousands of his assistants. All of these ladies are glorious.}}
-
+---json
+{
+    "name":"SB 1.10.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.10.29",
+    "description":"The children of these ladies are Pradyumna, Sāmba, Amba, etc: Ladies like Rukmiṇī, Satyabhāmā and Jāmbavatī were forcibly taken away by Him from their svayaṁvara ceremonies after He defeated many powerful kings, headed by Śiśupāla. And other ladies were also forcibly taken away by Him after He killed Bhaumāsura and thousands of his assistants. All of these ladies are glorious."
+}
+---
 ====== SB 1.10.29 ======
 
 > या वीर्यशुल्केन हृताः स्वयंवरे प्रमथ्य चैद्यप्रमुखान्हि शुष्मिणः ।

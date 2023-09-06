@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.30~~
-~~bc:Text 30~~
-
-{{description>The great wizards who were able to assume any form were engaged by the King of Bhoja, Kaṁsa, to kill Kṛṣṇa, but in the course of His pastimes the Lord killed them as easily as a child breaks dolls.}}
-
+---json
+{
+    "name":"SB 3.2.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.2.30",
+    "description":"The great wizards who were able to assume any form were engaged by the King of Bhoja, Kaṁsa, to kill Kṛṣṇa, but in the course of His pastimes the Lord killed them as easily as a child breaks dolls."
+}
+---
 ====== SB 3.2.30 ======
 
 > प्रयुक्तान्भोजराजेन मायिनः कामरूपिणः ।

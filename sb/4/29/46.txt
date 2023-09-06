@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.46~~
-~~bc:Text 46~~
-
-{{description>When a person is fully engaged in devotional service, he is favored by the Lord, who bestows His causeless mercy. At such a time, the awakened devotee gives up all material activities and ritualistic performances mentioned in the Vedas.}}
-
+---json
+{
+    "name":"SB 4.29.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.29.46",
+    "description":"When a person is fully engaged in devotional service, he is favored by the Lord, who bestows His causeless mercy. At such a time, the awakened devotee gives up all material activities and ritualistic performances mentioned in the Vedas."
+}
+---
 ====== SB 4.29.46 ======
 
 > यदा यस्यानुगृह्णाति भगवानात्मभावितः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.22~~
-~~bc:Text 22~~
-
-{{description>The Supreme Personality of Godhead stood with His lotus feet almost touching the ground while He rested the front of His hand on the raised shoulder of Garuḍa, the enemy of the snakes. Mahārāja Pṛthu, wiping the tears from his eyes, tried to look upon the Lord, but it appeared that the King was not fully satisfied by looking at Him. Thus the King offered the following prayers.}}
-
+---json
+{
+    "name":"SB 4.20.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.20.22",
+    "description":"The Supreme Personality of Godhead stood with His lotus feet almost touching the ground while He rested the front of His hand on the raised shoulder of Garuḍa, the enemy of the snakes. Mahārāja Pṛthu, wiping the tears from his eyes, tried to look upon the Lord, but it appeared that the King was not fully satisfied by looking at Him. Thus the King offered the following prayers."
+}
+---
 ====== SB 4.20.22 ======
 
 > अथावमृज्याश्रुकला विलोकयन्नतृप्तदृग्गोचरमाह पूरुषम् ।

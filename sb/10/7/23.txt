@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.23~~
-~~bc:Text 23~~
-
-{{description>Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed.}}
-
+---json
+{
+    "name":"SB 10.7.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 10.7.23",
+    "description":"Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed."
+}
+---
 ====== SB 10.7.23 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.51~~
-~~bc:Text 51~~
-
-{{description>The citizens continued: Today you have opened our eyes and revealed how to cross to the other side of the ocean of darkness. By our past deeds and by the arrangement of superior authority, we are entangled in a network of fruitive activities and have lost sight of the destination of life; thus we have been wandering within the universe.}}
-
+---json
+{
+    "name":"SB 4.21.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 4.21.51",
+    "description":"The citizens continued: Today you have opened our eyes and revealed how to cross to the other side of the ocean of darkness. By our past deeds and by the arrangement of superior authority, we are entangled in a network of fruitive activities and have lost sight of the destination of life; thus we have been wandering within the universe."
+}
+---
 ====== SB 4.21.51 ======
 
 > अद्य नस्तमसः पारस्त्वयोपासादितः प्रभो ।

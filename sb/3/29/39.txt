@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.39~~
-~~bc:Text 39~~
-
-{{description>No one is dear to the Supreme Personality of Godhead, nor is anyone His enemy or friend. But He gives inspiration to those who have not forgotten Him and destroys those who have.}}
-
+---json
+{
+    "name":"SB 3.29.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 3.29.39",
+    "description":"No one is dear to the Supreme Personality of Godhead, nor is anyone His enemy or friend. But He gives inspiration to those who have not forgotten Him and destroys those who have."
+}
+---
 ====== SB 3.29.39 ======
 
 > न चास्य कश्चिद्दयितो न द्वेष्यो न च बान्धवः ।

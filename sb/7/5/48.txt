@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.48~~
-~~bc:Text 48~~
-
-{{description>Thinking in this way, the King of the Daityas, morose and bereft of bodily luster, remained silent with his face downward. Then Ṣaṇḍa and Amarka, the two sons of Śukrācārya, spoke to him in secret.}}
-
+---json
+{
+    "name":"SB 7.5.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 7.5.48",
+    "description":"Thinking in this way, the King of the Daityas, morose and bereft of bodily luster, remained silent with his face downward. Then Ṣaṇḍa and Amarka, the two sons of Śukrācārya, spoke to him in secret."
+}
+---
 ====== SB 7.5.48 ======
 
 ===== Text =====

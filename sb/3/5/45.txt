@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.45~~
-~~bc:Text 45~~
-
-{{description>O great Supreme Lord, offensive persons whose internal vision has been too affected by external materialistic activities cannot see Your lotus feet, but they are seen by Your pure devotees, whose one and only aim is to transcendentally enjoy Your activities.}}
-
+---json
+{
+    "name":"SB 3.5.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 3.5.45",
+    "description":"O great Supreme Lord, offensive persons whose internal vision has been too affected by external materialistic activities cannot see Your lotus feet, but they are seen by Your pure devotees, whose one and only aim is to transcendentally enjoy Your activities."
+}
+---
 ====== SB 3.5.45 ======
 
 > तान्वै ह्यसद्वृत्तिभिरक्षिभिर्ये पराहृतान्तर्मनसः परेश ।

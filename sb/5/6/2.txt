@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.6.2~~
-~~bc:Text 2~~
-
-{{description>Śrīla Śukadeva Gosvāmī replied: My dear King, you have spoken correctly. However, after capturing animals, a cunning hunter does not put faith in them, for they might run away. Similarly, those who are advanced in spiritual life do not put faith in the mind. Indeed, they always remain vigilant and watch the mind's action.}}
-
+---json
+{
+    "name":"SB 5.6.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.6.2",
+    "description":"Śrīla Śukadeva Gosvāmī replied: My dear King, you have spoken correctly. However, after capturing animals, a cunning hunter does not put faith in them, for they might run away. Similarly, those who are advanced in spiritual life do not put faith in the mind. Indeed, they always remain vigilant and watch the mind's action."
+}
+---
 ====== SB 5.6.2 ======
 
 ===== Text =====

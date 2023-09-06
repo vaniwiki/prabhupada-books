@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.70~~
-~~bc:Text 70~~
-
-{{description>The great Maitreya continued: The King, Uttānapāda, after being advised by Nārada Muni, practically gave up all duties in relation with his kingdom, which was very vast and wide, opulent like the goddess of fortune, and he simply began to think of his son Dhruva.}}
-
+---json
+{
+    "name":"SB 4.8.70",
+    "h1":"Text 70",
+    "title":" Śrīmad Bhāgavatam 4.8.70",
+    "description":"The great Maitreya continued: The King, Uttānapāda, after being advised by Nārada Muni, practically gave up all duties in relation with his kingdom, which was very vast and wide, opulent like the goddess of fortune, and he simply began to think of his son Dhruva."
+}
+---
 ====== SB 4.8.70 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.2~~
-~~bc:Text 2~~
-
-{{description>Furthermore, Mahārāja Parīkṣit was always consciously surrendered to the Personality of Godhead, and therefore he was neither afraid nor overwhelmed by fear due to a snake-bird which was to bite him because of the fury of a brāhmaṇa boy.}}
-
+---json
+{
+    "name":"SB 1.18.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.18.2",
+    "description":"Furthermore, Mahārāja Parīkṣit was always consciously surrendered to the Personality of Godhead, and therefore he was neither afraid nor overwhelmed by fear due to a snake-bird which was to bite him because of the fury of a brāhmaṇa boy."
+}
+---
 ====== SB 1.18.2 ======
 
 > ब्रह्मकोपोत्थिताद्यस्तु तक्षकात्प्राणविप्लवात् ।

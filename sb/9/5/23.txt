@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.5.23~~
-~~bc:Text 23~~
-
-{{description>Durvāsā Muni had left the place of Mahārāja Ambarīṣa, and as long as he had not returned—for one complete year—the King had fasted, maintaining himself simply by drinking water.}}
-
+---json
+{
+    "name":"SB 9.5.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 9.5.23",
+    "description":"Durvāsā Muni had left the place of Mahārāja Ambarīṣa, and as long as he had not returned—for one complete year—the King had fasted, maintaining himself simply by drinking water."
+}
+---
 ====== SB 9.5.23 ======
 
 ===== Text =====

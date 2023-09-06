@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.11~~
-~~bc:Text 11~~
-
-{{description>My dear King, you have unnecessarily accused me of being dead though alive. In this regard, I can only say that this is the case everywhere because everything material has its beginning and end. As far as your thinking that you are the king and master and are thus trying to order me, this is also incorrect because these positions are temporary. Today you are a king and I am your servant, but tomorrow the position may be changed, and you may be my servant and I your master. These are temporary circumstances created by providence.}}
-
+---json
+{
+    "name":"SB 5.10.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 5.10.11",
+    "description":"My dear King, you have unnecessarily accused me of being dead though alive. In this regard, I can only say that this is the case everywhere because everything material has its beginning and end. As far as your thinking that you are the king and master and are thus trying to order me, this is also incorrect because these positions are temporary. Today you are a king and I am your servant, but tomorrow the position may be changed, and you may be my servant and I your master. These are temporary circumstances created by providence."
+}
+---
 ====== SB 5.10.11 ======
 
 ===== Text =====

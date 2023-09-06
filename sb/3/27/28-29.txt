@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.28-29~~
-~~bc:Text 28-29~~
-
-{{description>My devotee actually becomes self-realized by My unlimited causeless mercy, and thus, when freed from all doubts, he steadily progresses towards his destined abode, which is directly under the protection of My spiritual energy of unadulterated bliss. That is the ultimate perfectional goal of the living entity. After giving up the present material body, the mystic devotee goes to that transcendental abode and never comes back.}}
-
+---json
+{
+    "name":"SB 3.27.28-29",
+    "h1":"Text 28-29",
+    "title":" Śrīmad Bhāgavatam 3.27.28-29",
+    "description":"My devotee actually becomes self-realized by My unlimited causeless mercy, and thus, when freed from all doubts, he steadily progresses towards his destined abode, which is directly under the protection of My spiritual energy of unadulterated bliss. That is the ultimate perfectional goal of the living entity. After giving up the present material body, the mystic devotee goes to that transcendental abode and never comes back."
+}
+---
 ====== SB 3.27.28-29 ======
 
 > मद्भक्तः प्रतिबुद्धार्थो मत्प्रसादेन भूयसा ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.7.9~~
-~~bc:Text 9~~
-
-{{description>King Indra said: In the womb of this woman, the wife of the demon Hiraṇyakaśipu, is the seed of that great demon. Therefore, let her remain in our custody until her child is delivered, and then we shall release her.}}
-
+---json
+{
+    "name":"SB 7.7.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 7.7.9",
+    "description":"King Indra said: In the womb of this woman, the wife of the demon Hiraṇyakaśipu, is the seed of that great demon. Therefore, let her remain in our custody until her child is delivered, and then we shall release her."
+}
+---
 ====== SB 7.7.9 ======
 
 ===== Text =====

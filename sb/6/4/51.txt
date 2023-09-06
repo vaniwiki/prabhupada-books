@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.51~~
-~~bc:Text 51~~
-
-{{description>O My dear son Dakṣa, Prajāpati Pañcajana has a daughter named Asiknī, whom I offer to you so that you may accept her as your wife.}}
-
+---json
+{
+    "name":"SB 6.4.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 6.4.51",
+    "description":"O My dear son Dakṣa, Prajāpati Pañcajana has a daughter named Asiknī, whom I offer to you so that you may accept her as your wife."
+}
+---
 ====== SB 6.4.51 ======
 
 ===== Text =====

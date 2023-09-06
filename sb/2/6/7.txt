@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.7~~
-~~bc:Text 7~~
-
-{{description>Thus the forward steps of the Lord are the shelter for the upper, lower and heavenly planets, as well as for all that we need. His lotus feet serve as protection from all kinds of fear.}}
-
+---json
+{
+    "name":"SB 2.6.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 2.6.7",
+    "description":"Thus the forward steps of the Lord are the shelter for the upper, lower and heavenly planets, as well as for all that we need. His lotus feet serve as protection from all kinds of fear."
+}
+---
 ====== SB 2.6.7 ======
 
 > विक्रमो भूर्भुवः स्वश्च क्षेमस्य शरणस्य च ।

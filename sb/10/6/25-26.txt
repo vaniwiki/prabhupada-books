@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.6.25-26~~
-~~bc:Text 25-26~~
-
-{{description>May Lord Pṛśnigarbha protect Your intelligence, and the Supreme Personality of Godhead Your soul. While You are playing, may Govinda protect You, and while You are sleeping may Mādhava protect You. May Lord Vaikuṇṭha protect You while You are walking, and may Lord Nārāyaṇa, the husband of the goddess of fortune, protect You while You are sitting. Similarly, may Lord Yajñabhuk, the fearful enemy of all evil planets, always protect You while You enjoy life.}}
-
+---json
+{
+    "name":"SB 10.6.25-26",
+    "h1":"Text 25-26",
+    "title":" Śrīmad Bhāgavatam 10.6.25-26",
+    "description":"May Lord Pṛśnigarbha protect Your intelligence, and the Supreme Personality of Godhead Your soul. While You are playing, may Govinda protect You, and while You are sleeping may Mādhava protect You. May Lord Vaikuṇṭha protect You while You are walking, and may Lord Nārāyaṇa, the husband of the goddess of fortune, protect You while You are sitting. Similarly, may Lord Yajñabhuk, the fearful enemy of all evil planets, always protect You while You enjoy life."
+}
+---
 ====== SB 10.6.25-26 ======
 
 ===== Text =====

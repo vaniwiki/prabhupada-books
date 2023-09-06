@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.15~~
-~~bc:Text 15~~
-
-{{description>The doors were made of solid gold plates, and the gates were of excellent marble. These were linked by various public roads. The entire city had been constructed by Viśvakarmā.}}
-
+---json
+{
+    "name":"SB 8.15.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.15.15",
+    "description":"The doors were made of solid gold plates, and the gates were of excellent marble. These were linked by various public roads. The entire city had been constructed by Viśvakarmā."
+}
+---
 ====== SB 8.15.15 ======
 
 ===== Text =====

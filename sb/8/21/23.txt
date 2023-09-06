@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.23~~
-~~bc:Text 23~~
-
-{{description>Previously, being empowered by providence, you defeated a great number of such followers of Lord Viṣṇu. But today those same followers, having defeated us, are roaring in jubilation like lions.}}
-
+---json
+{
+    "name":"SB 8.21.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 8.21.23",
+    "description":"Previously, being empowered by providence, you defeated a great number of such followers of Lord Viṣṇu. But today those same followers, having defeated us, are roaring in jubilation like lions."
+}
+---
 ====== SB 8.21.23 ======
 
 ===== Text =====

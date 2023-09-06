@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.9~~
-~~bc:Text 9~~
-
-{{description>O my Lord, when a human being is able to give up all the material desires in his mind, he becomes eligible to possess wealth and opulence like Yours.}}
-
+---json
+{
+    "name":"SB 7.10.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 7.10.9",
+    "description":"O my Lord, when a human being is able to give up all the material desires in his mind, he becomes eligible to possess wealth and opulence like Yours."
+}
+---
 ====== SB 7.10.9 ======
 
 ===== Text =====

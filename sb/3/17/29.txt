@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.29~~
-~~bc:Text 29~~
-
-{{description>Thus mocked by an enemy whose vanity knew no bounds, the worshipful lord of the waters waxed angry, but by dint of his reason he managed to curb the anger that had sprung up in him, and he replied: O dear one, we have now desisted from warfare, having grown too old for combat.}}
-
+---json
+{
+    "name":"SB 3.17.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.17.29",
+    "description":"Thus mocked by an enemy whose vanity knew no bounds, the worshipful lord of the waters waxed angry, but by dint of his reason he managed to curb the anger that had sprung up in him, and he replied: O dear one, we have now desisted from warfare, having grown too old for combat."
+}
+---
 ====== SB 3.17.29 ======
 
 > स एवमुत्सिक्तमदेन विद्विषा दृढं प्रलब्धो भगवानपां पतिः ।

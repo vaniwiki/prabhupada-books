@@ -1,8 +1,11 @@
-~~Title:Śrī Īśopaniṣad, Mantra 9~~
-~~bc:Mantra 9~~
-
-{{description>Those who engage in the culture of nescient activities shall enter into the darkest region of ignorance. Worse still are those engaged in the culture of so-called knowledge.}}
-
+---json
+{
+    "name":"Īśo 9",
+    "h1":"Mantra 9",
+    "title":"Śrī Īśopaniṣad, Mantra 9",
+    "description":"Those who engage in the culture of nescient activities shall enter into the darkest region of ignorance. Worse still are those engaged in the culture of so-called knowledge."
+}
+---
 
 ====== Īśo 9 ======
 

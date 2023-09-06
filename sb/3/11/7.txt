@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.7~~
-~~bc:Text 7~~
-
-{{description>The duration of time of three lavas is equal to one nimeṣa, the combination of three nimeṣas makes one kṣaṇa, five kṣaṇas combined together make one kāṣṭhā, and fifteen kāṣṭhās make one laghu.}}
-
+---json
+{
+    "name":"SB 3.11.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.11.7",
+    "description":"The duration of time of three lavas is equal to one nimeṣa, the combination of three nimeṣas makes one kṣaṇa, five kṣaṇas combined together make one kāṣṭhā, and fifteen kāṣṭhās make one laghu."
+}
+---
 ====== SB 3.11.7 ======
 
 > निमेषस्त्रिलवो ज्ञेय आम्नातस्ते त्रयः क्षणः ।

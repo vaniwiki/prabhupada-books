@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.3.8~~
-~~bc:Text 8~~
-
-{{description>All of life's goals and opulences are directly, self-sufficiently, unceasingly and unlimitedly increasing in You at every moment. Indeed, You are unlimited enjoyment and blissful existence itself. As far as we are concerned, O Lord, we are always after material enjoyment. You do not need all these sacrificial arrangements, but they are meant for us so that we may be benedicted by Your Lordship. All these sacrifices are performed for our fruitive results, and they are not actually needed by You.}}
-
+---json
+{
+    "name":"SB 5.3.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.3.8",
+    "description":"All of life's goals and opulences are directly, self-sufficiently, unceasingly and unlimitedly increasing in You at every moment. Indeed, You are unlimited enjoyment and blissful existence itself. As far as we are concerned, O Lord, we are always after material enjoyment. You do not need all these sacrificial arrangements, but they are meant for us so that we may be benedicted by Your Lordship. All these sacrifices are performed for our fruitive results, and they are not actually needed by You."
+}
+---
 ====== SB 5.3.8 ======
 
 ===== Text =====

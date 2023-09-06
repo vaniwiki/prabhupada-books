@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.47~~
-~~bc:Text 47~~
-
-{{description>Right by the reservoir, the boys saw a gigantic body resembling a mountain peak broken and struck down by a thunderbolt. They were afraid even to see such a huge living being.}}
-
+---json
+{
+    "name":"SB 10.11.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 10.11.47",
+    "description":"Right by the reservoir, the boys saw a gigantic body resembling a mountain peak broken and struck down by a thunderbolt. They were afraid even to see such a huge living being."
+}
+---
 ====== SB 10.11.47 ======
 
 ===== Text =====

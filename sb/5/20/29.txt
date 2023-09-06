@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.29~~
-~~bc:Text 29~~
-
-{{description>Outside the ocean of yogurt is another island, known as Puṣkaradvīpa, which is 6,400,000 yojanas [51,200,000 miles] wide, twice as wide as the ocean of yogurt. It is surrounded by an ocean of very tasteful water as broad as the island itself. On Puṣkaradvīpa there is a great lotus flower with 100,000,000 pure golden petals, as effulgent as the flames of fire. That lotus flower is considered the sitting place of Lord Brahmā, who is the most powerful living being and who is therefore sometimes called bhagavān.}}
-
+---json
+{
+    "name":"SB 5.20.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 5.20.29",
+    "description":"Outside the ocean of yogurt is another island, known as Puṣkaradvīpa, which is 6,400,000 yojanas [51,200,000 miles] wide, twice as wide as the ocean of yogurt. It is surrounded by an ocean of very tasteful water as broad as the island itself. On Puṣkaradvīpa there is a great lotus flower with 100,000,000 pure golden petals, as effulgent as the flames of fire. That lotus flower is considered the sitting place of Lord Brahmā, who is the most powerful living being and who is therefore sometimes called bhagavān."
+}
+---
 ====== SB 5.20.29 ======
 
 ===== Text =====

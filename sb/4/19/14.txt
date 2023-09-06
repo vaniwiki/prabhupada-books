@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.14~~
-~~bc:Text 14~~
-
-{{description>King Indra was fraudulently dressed as a sannyāsī, having knotted his hair on his head and smeared ashes all over his body. Upon seeing such dress, the son of King Pṛthu considered Indra a religious man and pious sannyāsī. Therefore he did not release his arrows.}}
-
+---json
+{
+    "name":"SB 4.19.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.19.14",
+    "description":"King Indra was fraudulently dressed as a sannyāsī, having knotted his hair on his head and smeared ashes all over his body. Upon seeing such dress, the son of King Pṛthu considered Indra a religious man and pious sannyāsī. Therefore he did not release his arrows."
+}
+---
 ====== SB 4.19.14 ======
 
 > तं तादृशाकृतिं वीक्ष्य मेने धर्मं शरीरिणम् ।

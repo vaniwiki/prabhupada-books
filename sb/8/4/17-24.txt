@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.17-24~~
-~~bc:Text 17-24~~
-
-{{description>The Supreme Personality of Godhead said: Freed from all sinful reactions are those who rise from bed at the end of night, early in the morning, and fully concentrate their minds with great attention upon My form; your form; this lake; this mountain; the caves; the gardens; the cane plants; the bamboo plants; the celestial trees; the residential quarters of Me, Lord Brahmā and Lord Śiva; the three peaks of Trikūṭa Mountain, made of gold, silver and iron; My very pleasing abode [the ocean of milk]; the white island, Śvetadvīpa, which is always brilliant with spiritual rays; My mark of Śrīvatsa; the Kaustubha gem; My Vaijayantī garland; My club, Kaumodakī; My Sudarśana disc and Pāñcajanya conchshell; My bearer, Garuḍa, the king of the birds; My bed, Śeṣa Nāga; My expansion of energy the goddess of fortune; Lord Brahmā; Nārada Muni; Lord Śiva; Prahlāda; My incarnations like Matsya, Kūrma and Varāha; My unlimited all-auspicious activities, which yield piety to he who hears them; the sun; the moon; fire; the mantra oṁkāra; the Absolute Truth; the total material energy; the cows and brāhmaṇas; devotional service; the wives of Soma and Kaśyapa, who are all daughters of King Dakṣa; the Rivers Ganges, Sarasvatī, Nandā and Yamunā [Kālindī]; the elephant Airāvata; Dhruva Mahārāja; the seven ṛṣis; and the pious human beings.}}
-
+---json
+{
+    "name":"SB 8.4.17-24",
+    "h1":"Text 17-24",
+    "title":" Śrīmad Bhāgavatam 8.4.17-24",
+    "description":"The Supreme Personality of Godhead said: Freed from all sinful reactions are those who rise from bed at the end of night, early in the morning, and fully concentrate their minds with great attention upon My form; your form; this lake; this mountain; the caves; the gardens; the cane plants; the bamboo plants; the celestial trees; the residential quarters of Me, Lord Brahmā and Lord Śiva; the three peaks of Trikūṭa Mountain, made of gold, silver and iron; My very pleasing abode [the ocean of milk]; the white island, Śvetadvīpa, which is always brilliant with spiritual rays; My mark of Śrīvatsa; the Kaustubha gem; My Vaijayantī garland; My club, Kaumodakī; My Sudarśana disc and Pāñcajanya conchshell; My bearer, Garuḍa, the king of the birds; My bed, Śeṣa Nāga; My expansion of energy the goddess of fortune; Lord Brahmā; Nārada Muni; Lord Śiva; Prahlāda; My incarnations like Matsya, Kūrma and Varāha; My unlimited all-auspicious activities, which yield piety to he who hears them; the sun; the moon; fire; the mantra oṁkāra; the Absolute Truth; the total material energy; the cows and brāhmaṇas; devotional service; the wives of Soma and Kaśyapa, who are all daughters of King Dakṣa; the Rivers Ganges, Sarasvatī, Nandā and Yamunā [Kālindī]; the elephant Airāvata; Dhruva Mahārāja; the seven ṛṣis; and the pious human beings."
+}
+---
 ====== SB 8.4.17-24 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.28~~
-~~bc:Text 28~~
-
-{{description>The members of the assembly addressed the Lord: O exclusive shelter for all who are situated in troubled life, in this formidable fort of conditional existence the time element, like a snake, is always looking for an opportunity to strike. This world is full of ditches of so-called distress and happiness, and there are many ferocious animals always ready to attack. The fire of lamentation is always blazing, and the mirage of false happiness is always alluring, but one has no shelter from them. Thus foolish persons live in the cycle of birth and death, always overburdened in discharging their so-called duties, and we do not know when they will accept the shelter of Your lotus feet.}}
-
+---json
+{
+    "name":"SB 4.7.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.7.28",
+    "description":"The members of the assembly addressed the Lord: O exclusive shelter for all who are situated in troubled life, in this formidable fort of conditional existence the time element, like a snake, is always looking for an opportunity to strike. This world is full of ditches of so-called distress and happiness, and there are many ferocious animals always ready to attack. The fire of lamentation is always blazing, and the mirage of false happiness is always alluring, but one has no shelter from them. Thus foolish persons live in the cycle of birth and death, always overburdened in discharging their so-called duties, and we do not know when they will accept the shelter of Your lotus feet."
+}
+---
 ====== SB 4.7.28 ======
 
 > सदस्या ऊचुः

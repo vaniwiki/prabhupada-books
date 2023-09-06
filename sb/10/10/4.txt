@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.4~~
-~~bc:Text 4~~
-
-{{description>Within the waters of the Mandākinī Ganges, which were crowded with gardens of lotus flowers, the two sons of Kuvera would enjoy young girls, just like two male elephants enjoying in the water with female elephants.}}
-
+---json
+{
+    "name":"SB 10.10.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 10.10.4",
+    "description":"Within the waters of the Mandākinī Ganges, which were crowded with gardens of lotus flowers, the two sons of Kuvera would enjoy young girls, just like two male elephants enjoying in the water with female elephants."
+}
+---
 ====== SB 10.10.4 ======
 
 ===== Text =====

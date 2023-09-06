@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.1-2~~
-~~bc:Text 1-2~~
-
-{{description>King Parīkṣit inquired from Śukadeva Gosvāmī: My lord, kindly explain the Viṣṇu mantra armor that protected King Indra and enabled him to conquer his enemies, along with their carriers, and enjoy the opulence of the three worlds. Please explain to me that Nārāyaṇa armor, by which King Indra achieved success in battle, conquering the enemies who were endeavoring to kill him.}}
-
+---json
+{
+    "name":"SB 6.8.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 6.8.1-2",
+    "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: My lord, kindly explain the Viṣṇu mantra armor that protected King Indra and enabled him to conquer his enemies, along with their carriers, and enjoy the opulence of the three worlds. Please explain to me that Nārāyaṇa armor, by which King Indra achieved success in battle, conquering the enemies who were endeavoring to kill him."
+}
+---
 ====== SB 6.8.1-2 ======
 
 ===== Text =====

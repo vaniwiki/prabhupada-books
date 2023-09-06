@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.2~~
-~~bc:Text 2~~
-
-{{description>As Sumeru Mountain is surrounded by Jambūdvīpa, Jambūdvīpa is also surrounded by an ocean of salt water. The breadth of Jambūdvīpa is 100,000 yojanas [800,000 miles], and the breadth of the saltwater ocean is the same. As a moat around a fort is sometimes surrounded by gardenlike forest, the saltwater ocean surrounding Jambūdvīpa is itself surrounded by Plakṣadvīpa. The breadth of Plakṣadvīpa is twice that of the saltwater ocean—in other words 200,000 yojanas [1,600,000 miles]. On Plakṣadvīpa there is a tree shining like gold and as tall as the jambū tree on Jambūdvīpa. At its root is a fire with seven flames. It is because this tree is a plakṣa tree that the island is called Plakṣadvīpa. Plakṣadvīpa was governed by Idhmajihva, one of the sons of Mahārāja Priyavrata. He endowed the seven islands with the names of his seven sons, divided the islands among the sons, and then retired from active life to engage in the devotional service of the Lord.}}
-
+---json
+{
+    "name":"SB 5.20.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.20.2",
+    "description":"As Sumeru Mountain is surrounded by Jambūdvīpa, Jambūdvīpa is also surrounded by an ocean of salt water. The breadth of Jambūdvīpa is 100,000 yojanas [800,000 miles], and the breadth of the saltwater ocean is the same. As a moat around a fort is sometimes surrounded by gardenlike forest, the saltwater ocean surrounding Jambūdvīpa is itself surrounded by Plakṣadvīpa. The breadth of Plakṣadvīpa is twice that of the saltwater ocean—in other words 200,000 yojanas [1,600,000 miles]. On Plakṣadvīpa there is a tree shining like gold and as tall as the jambū tree on Jambūdvīpa. At its root is a fire with seven flames. It is because this tree is a plakṣa tree that the island is called Plakṣadvīpa. Plakṣadvīpa was governed by Idhmajihva, one of the sons of Mahārāja Priyavrata. He endowed the seven islands with the names of his seven sons, divided the islands among the sons, and then retired from active life to engage in the devotional service of the Lord."
+}
+---
 ====== SB 5.20.2 ======
 
 ===== Text =====

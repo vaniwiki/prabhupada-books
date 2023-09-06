@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.44~~
-~~bc:Text 44~~
-
-{{description>A son who acts by anticipating what his father wants him to do is first class, one who acts upon receiving his father's order is second class, and one who executes his father's order irreverently is third class. But a son who refuses his father's order is like his father's stool.}}
-
+---json
+{
+    "name":"SB 9.18.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 9.18.44",
+    "description":"A son who acts by anticipating what his father wants him to do is first class, one who acts upon receiving his father's order is second class, and one who executes his father's order irreverently is third class. But a son who refuses his father's order is like his father's stool."
+}
+---
 ====== SB 9.18.44 ======
 
 ===== Text =====

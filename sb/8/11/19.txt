@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.19~~
-~~bc:Text 19~~
-
-{{description>When Nārada Ṛṣi informed Jambhāsura's friends and relatives that Jambhāsura had been killed, the three demons named Namuci, Bala and Pāka arrived on the battlefield in great haste.}}
-
+---json
+{
+    "name":"SB 8.11.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 8.11.19",
+    "description":"When Nārada Ṛṣi informed Jambhāsura's friends and relatives that Jambhāsura had been killed, the three demons named Namuci, Bala and Pāka arrived on the battlefield in great haste."
+}
+---
 ====== SB 8.11.19 ======
 
 ===== Text =====

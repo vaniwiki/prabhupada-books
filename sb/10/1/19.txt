@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.19~~
-~~bc:Text 19~~
-
-{{description>Thereafter, having heard of the distress of mother earth, Lord Brahmā, with mother earth, Lord Śiva and all the other demigods, approached the shore of the ocean of milk.}}
-
+---json
+{
+    "name":"SB 10.1.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 10.1.19",
+    "description":"Thereafter, having heard of the distress of mother earth, Lord Brahmā, with mother earth, Lord Śiva and all the other demigods, approached the shore of the ocean of milk."
+}
+---
 ====== SB 10.1.19 ======
 
 ===== Text =====

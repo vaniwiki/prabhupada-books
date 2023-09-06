@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.12~~
-~~bc:Text 12~~
-
-{{description>Lord Brahmā said: My dear son Kardama, since you have completely accepted my instructions without duplicity, showing them proper respect, you have worshiped me properly. Whatever instructions you took from me you have carried out, and thereby you have honored me.}}
-
+---json
+{
+    "name":"SB 3.24.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.24.12",
+    "description":"Lord Brahmā said: My dear son Kardama, since you have completely accepted my instructions without duplicity, showing them proper respect, you have worshiped me properly. Whatever instructions you took from me you have carried out, and thereby you have honored me."
+}
+---
 ====== SB 3.24.12 ======
 
 > ब्रह्मोवाच

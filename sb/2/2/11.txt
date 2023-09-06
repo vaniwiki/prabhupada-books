@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.11~~
-~~bc:Text 11~~
-
-{{description>He is well decorated with an ornamental wreath about His waist and rings studded with valuable jewels on His fingers. His leglets, His bangles, His oiled hair, curling with a bluish tint, and His beautiful smiling face are all very pleasing.}}
-
+---json
+{
+    "name":"SB 2.2.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 2.2.11",
+    "description":"He is well decorated with an ornamental wreath about His waist and rings studded with valuable jewels on His fingers. His leglets, His bangles, His oiled hair, curling with a bluish tint, and His beautiful smiling face are all very pleasing."
+}
+---
 ====== SB 2.2.11 ======
 
 > विभूषितं मेखलयाङ्गुलीयकैर्महाधनैर्नूपुरकङ्कणादिभिः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.19.17-18~~
-~~bc:Text 17-18~~
-
-{{description>Two of the rivers—the Brahmaputra and the Śoṇa—are called nadas, or main rivers. These are other great rivers that are very prominent: Candravasā, Tāmraparṇī, Avaṭodā, Kṛtamālā, Vaihāyasī, Kāverī, Veṇī, Payasvinī, Śarkarāvartā, Tuṅgabhadrā, Kṛṣṇāveṇyā, Bhīmarathī, Godāvarī, Nirvindhyā, Payoṣṇī, Tāpī, Revā, Surasā, Narmadā, Carmaṇvatī, Mahānadī, Vedasmṛti, Ṛṣikulyā, Trisāmā, Kauśikī, Mandākinī, Yamunā, Sarasvatī, Dṛṣadvatī, Gomatī, Sarayū, Rodhasvatī, Saptavatī, Suṣomā, Śatadrū, Candrabhāgā, Marudvṛdhā, Vitastā, Asiknī and Viśvā. The inhabitants of Bhārata-varṣa are purified because they always remember these rivers. Sometimes they chant the names of these rivers as mantras, and sometimes they go directly to the rivers to touch them and bathe in them. Thus the inhabitants of Bhārata-varṣa become purified.}}
-
+---json
+{
+    "name":"SB 5.19.17-18",
+    "h1":"Text 17-18",
+    "title":" Śrīmad Bhāgavatam 5.19.17-18",
+    "description":"Two of the rivers—the Brahmaputra and the Śoṇa—are called nadas, or main rivers. These are other great rivers that are very prominent: Candravasā, Tāmraparṇī, Avaṭodā, Kṛtamālā, Vaihāyasī, Kāverī, Veṇī, Payasvinī, Śarkarāvartā, Tuṅgabhadrā, Kṛṣṇāveṇyā, Bhīmarathī, Godāvarī, Nirvindhyā, Payoṣṇī, Tāpī, Revā, Surasā, Narmadā, Carmaṇvatī, Mahānadī, Vedasmṛti, Ṛṣikulyā, Trisāmā, Kauśikī, Mandākinī, Yamunā, Sarasvatī, Dṛṣadvatī, Gomatī, Sarayū, Rodhasvatī, Saptavatī, Suṣomā, Śatadrū, Candrabhāgā, Marudvṛdhā, Vitastā, Asiknī and Viśvā. The inhabitants of Bhārata-varṣa are purified because they always remember these rivers. Sometimes they chant the names of these rivers as mantras, and sometimes they go directly to the rivers to touch them and bathe in them. Thus the inhabitants of Bhārata-varṣa become purified."
+}
+---
 ====== SB 5.19.17-18 ======
 
 ===== Text =====

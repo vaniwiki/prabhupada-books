@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.16~~
-~~bc:Text 16~~
-
-{{description>The five-hooded serpent, the superintendent and protector of the city of King Purañjana, fought with the Gandharvas for one hundred years. He fought alone, with all of them, although they numbered 720.}}
-
+---json
+{
+    "name":"SB 4.27.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.27.16",
+    "description":"The five-hooded serpent, the superintendent and protector of the city of King Purañjana, fought with the Gandharvas for one hundred years. He fought alone, with all of them, although they numbered 720."
+}
+---
 ====== SB 4.27.16 ======
 
 > स सप्तभिः शतैरेको विंशत्या च शतं समाः ।

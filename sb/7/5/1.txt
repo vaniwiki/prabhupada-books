@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.1~~
-~~bc:Text 1~~
-
-{{description>The great saint Nārada Muni said: The demons, headed by Hiraṇyakaśipu, accepted Śukrācārya as their priest for ritualistic ceremonies. Śukrācārya's two sons, Ṣaṇḍa and Amarka, lived near Hiraṇyakaśipu's palace.}}
-
+---json
+{
+    "name":"SB 7.5.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.5.1",
+    "description":"The great saint Nārada Muni said: The demons, headed by Hiraṇyakaśipu, accepted Śukrācārya as their priest for ritualistic ceremonies. Śukrācārya's two sons, Ṣaṇḍa and Amarka, lived near Hiraṇyakaśipu's palace."
+}
+---
 ====== SB 7.5.1 ======
 
 ===== Text =====

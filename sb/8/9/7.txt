@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.7~~
-~~bc:Text 7~~
-
-{{description>All of us, both demons and demigods, have been born of the same father, Kaśyapa, and thus we are related as brothers. But now we are exhibiting our personal prowess in dissension. Therefore we request You to settle our dispute and divide the nectar equally among us.}}
-
+---json
+{
+    "name":"SB 8.9.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.9.7",
+    "description":"All of us, both demons and demigods, have been born of the same father, Kaśyapa, and thus we are related as brothers. But now we are exhibiting our personal prowess in dissension. Therefore we request You to settle our dispute and divide the nectar equally among us."
+}
+---
 ====== SB 8.9.7 ======
 
 ===== Text =====

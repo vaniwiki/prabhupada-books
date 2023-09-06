@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.39~~
-~~bc:Text 39~~
-
-{{description>Through the womb of Rājādhidevī, another sister of Kuntī's, Jayasena begot two sons, named Vinda and Anuvinda. Similarly, the king of the Cedi state married Śrutaśravā. This king's name was Damaghoṣa.}}
-
+---json
+{
+    "name":"SB 9.24.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 9.24.39",
+    "description":"Through the womb of Rājādhidevī, another sister of Kuntī's, Jayasena begot two sons, named Vinda and Anuvinda. Similarly, the king of the Cedi state married Śrutaśravā. This king's name was Damaghoṣa."
+}
+---
 ====== SB 9.24.39 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.35-36~~
-~~bc:Text 35-36~~
-
-{{description>In the province of Kulācala, there were rivers named Candravasā, Tāmraparṇī and Vaṭodakā. King Malayadhvaja used to go to those pious rivers regularly and take his bath there. Thus he purified himself externally and internally. He took his bath and ate bulbs, seeds, leaves, flowers, roots, fruits and grasses and drank water. In this way he underwent severe austerities. Eventually he became very skinny.}}
-
+---json
+{
+    "name":"SB 4.28.35-36",
+    "h1":"Text 35-36",
+    "title":" Śrīmad Bhāgavatam 4.28.35-36",
+    "description":"In the province of Kulācala, there were rivers named Candravasā, Tāmraparṇī and Vaṭodakā. King Malayadhvaja used to go to those pious rivers regularly and take his bath there. Thus he purified himself externally and internally. He took his bath and ate bulbs, seeds, leaves, flowers, roots, fruits and grasses and drank water. In this way he underwent severe austerities. Eventually he became very skinny."
+}
+---
 ====== SB 4.28.35-36 ======
 
 > तत्र चन्द्रवसा नाम ताम्रपर्णी वटोदका ।

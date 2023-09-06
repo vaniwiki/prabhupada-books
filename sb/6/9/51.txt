@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.51~~
-~~bc:Text 51~~
-
-{{description>O Maghavan [Indra], all good fortune unto you. I advise you to approach the exalted saint Dadhyañca [Dadhīci]. He has become very accomplished in knowledge, vows and austerities, and his body is very strong. Go ask him for his body without delay.}}
-
+---json
+{
+    "name":"SB 6.9.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 6.9.51",
+    "description":"O Maghavan [Indra], all good fortune unto you. I advise you to approach the exalted saint Dadhyañca [Dadhīci]. He has become very accomplished in knowledge, vows and austerities, and his body is very strong. Go ask him for his body without delay."
+}
+---
 ====== SB 6.9.51 ======
 
 ===== Text =====

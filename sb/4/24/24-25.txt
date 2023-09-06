@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.24-25~~
-~~bc:Text 24-25~~
-
-{{description>The Pracetās were fortunate to see Lord Śiva, the chief of the demigods, emerging from the water with his associates. His bodily luster was just like molten gold, his throat was bluish, and he had three eyes, which looked very mercifully upon his devotees. He was accompanied by many musicians, who were glorifying him. As soon as the Pracetās saw Lord Śiva, they immediately offered their obeisances in great amazement and fell down at the lotus feet of the lord.}}
-
+---json
+{
+    "name":"SB 4.24.24-25",
+    "h1":"Text 24-25",
+    "title":" Śrīmad Bhāgavatam 4.24.24-25",
+    "description":"The Pracetās were fortunate to see Lord Śiva, the chief of the demigods, emerging from the water with his associates. His bodily luster was just like molten gold, his throat was bluish, and he had three eyes, which looked very mercifully upon his devotees. He was accompanied by many musicians, who were glorifying him. As soon as the Pracetās saw Lord Śiva, they immediately offered their obeisances in great amazement and fell down at the lotus feet of the lord."
+}
+---
 ====== SB 4.24.24-25 ======
 
 > तर्ह्येव सरसस्तस्मान्निष्क्रामन्तं सहानुगम् ।

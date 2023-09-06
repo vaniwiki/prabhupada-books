@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.15~~
-~~bc:Text 15~~
-
-{{description>In this world, family life is exactly like a blazing fire in the forest. There is not the least happiness, and gradually one becomes more and more implicated in unhappiness. In household life, there is nothing favorable for perpetual happiness. Being implicated in home life, the conditioned soul is burned by the fire of lamentation. Sometimes he condemns himself as being very unfortunate, and sometimes he claims that he suffers because he performed no pious activities in his previous life.}}
-
+---json
+{
+    "name":"SB 5.14.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.14.15",
+    "description":"In this world, family life is exactly like a blazing fire in the forest. There is not the least happiness, and gradually one becomes more and more implicated in unhappiness. In household life, there is nothing favorable for perpetual happiness. Being implicated in home life, the conditioned soul is burned by the fire of lamentation. Sometimes he condemns himself as being very unfortunate, and sometimes he claims that he suffers because he performed no pious activities in his previous life."
+}
+---
 ====== SB 5.14.15 ======
 
 ===== Text =====

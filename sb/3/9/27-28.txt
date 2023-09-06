@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.27-28~~
-~~bc:Text 27-28~~
-
-{{description>The Lord saw that Brahmā was very anxious about the planning and construction of the different planetary systems and was depressed upon seeing the devastating water. He could understand the intention of Brahmā, and thus He spoke in deep, thoughtful words, removing all the illusion that had arisen.}}
-
+---json
+{
+    "name":"SB 3.9.27-28",
+    "h1":"Text 27-28",
+    "title":" Śrīmad Bhāgavatam 3.9.27-28",
+    "description":"The Lord saw that Brahmā was very anxious about the planning and construction of the different planetary systems and was depressed upon seeing the devastating water. He could understand the intention of Brahmā, and thus He spoke in deep, thoughtful words, removing all the illusion that had arisen."
+}
+---
 ====== SB 3.9.27-28 ======
 
 > अथाभिप्रेतमन्वीक्ष्य ब्रह्मणो मधुसूदनः ।

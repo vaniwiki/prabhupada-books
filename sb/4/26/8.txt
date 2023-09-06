@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.8~~
-~~bc:Text 8~~
-
-{{description>Otherwise, a person who acts whimsically falls down due to false prestige. Thus he becomes involved in the laws of nature, which are composed of the three qualities [goodness, passion and ignorance]. In this way a living entity becomes devoid of his real intelligence and becomes perpetually lost in the cycle of birth and death. Thus he goes up and down from a microbe in stool to a high position in the Brahmaloka planet.}}
-
+---json
+{
+    "name":"SB 4.26.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.26.8",
+    "description":"Otherwise, a person who acts whimsically falls down due to false prestige. Thus he becomes involved in the laws of nature, which are composed of the three qualities [goodness, passion and ignorance]. In this way a living entity becomes devoid of his real intelligence and becomes perpetually lost in the cycle of birth and death. Thus he goes up and down from a microbe in stool to a high position in the Brahmaloka planet."
+}
+---
 ====== SB 4.26.8 ======
 
 > अन्यथा कर्म कुर्वाणो मानारूढो निबध्यते ।

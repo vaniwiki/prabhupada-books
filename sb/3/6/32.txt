@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.32~~
-~~bc:Text 32~~
-
-{{description>The means of livelihood of all persons, namely production of grains and their distribution to the prajās, was generated from the thighs of the Lord's gigantic form. The mercantile men who take charge of such execution are called vaiśyas.}}
-
+---json
+{
+    "name":"SB 3.6.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.6.32",
+    "description":"The means of livelihood of all persons, namely production of grains and their distribution to the prajās, was generated from the thighs of the Lord's gigantic form. The mercantile men who take charge of such execution are called vaiśyas."
+}
+---
 ====== SB 3.6.32 ======
 
 > विशोऽवर्तन्त तस्योर्वोर्लोकवृत्तिकरीर्विभोः ।

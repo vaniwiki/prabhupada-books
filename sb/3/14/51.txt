@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.51~~
-~~bc:Text 51~~
-
-{{description>The sage Maitreya said: Hearing that her grandson would be a great devotee and that her sons would be killed by Kṛṣṇa, Diti was highly pleased in mind.}}
-
+---json
+{
+    "name":"SB 3.14.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 3.14.51",
+    "description":"The sage Maitreya said: Hearing that her grandson would be a great devotee and that her sons would be killed by Kṛṣṇa, Diti was highly pleased in mind."
+}
+---
 ====== SB 3.14.51 ======
 
 > मैत्रेय उवाच

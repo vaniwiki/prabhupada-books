@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.21~~
-~~bc:Text 21~~
-
-{{description>The vānaprastha should wear matted locks of hair on his head and let his body hair, nails and moustache grow. He should not cleanse his body of dirt. He should keep a waterpot, deerskin and rod, wear the bark of a tree as a covering, and use garments colored like fire.}}
-
+---json
+{
+    "name":"SB 7.12.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 7.12.21",
+    "description":"The vānaprastha should wear matted locks of hair on his head and let his body hair, nails and moustache grow. He should not cleanse his body of dirt. He should keep a waterpot, deerskin and rod, wear the bark of a tree as a covering, and use garments colored like fire."
+}
+---
 ====== SB 7.12.21 ======
 
 ===== Text =====

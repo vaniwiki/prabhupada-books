@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.2~~
-~~bc:Text 2~~
-
-{{description>Then, because of this desire for sons, the Manu known as Śrāddhadeva worshiped the Supreme Lord, the Personality of Godhead, the Lord of the demigods. Thus he got ten sons exactly like himself. Among them all, Ikṣvāku was the eldest.}}
-
+---json
+{
+    "name":"SB 9.2.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.2.2",
+    "description":"Then, because of this desire for sons, the Manu known as Śrāddhadeva worshiped the Supreme Lord, the Personality of Godhead, the Lord of the demigods. Thus he got ten sons exactly like himself. Among them all, Ikṣvāku was the eldest."
+}
+---
 ====== SB 9.2.2 ======
 
 ===== Text =====

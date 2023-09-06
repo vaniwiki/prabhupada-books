@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.8~~
-~~bc:Text 8~~
-
-{{description>In the morning, when Pṛṣadhra, who was quite able to subdue his enemy, saw that he had killed the cow although at night he thought he had killed the tiger, he was very unhappy.}}
-
+---json
+{
+    "name":"SB 9.2.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.2.8",
+    "description":"In the morning, when Pṛṣadhra, who was quite able to subdue his enemy, saw that he had killed the cow although at night he thought he had killed the tiger, he was very unhappy."
+}
+---
 ====== SB 9.2.8 ======
 
 ===== Text =====

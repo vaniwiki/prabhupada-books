@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.1~~
-~~bc:Text 1~~
-
-{{description>Nārada Muni continued: Lord Brahmā was very much satisfied by Hiraṇyakaśipu's austerities, which were difficult to perform. Therefore, when solicited for benedictions, he indeed granted them, although they were rarely to be achieved.}}
-
+---json
+{
+    "name":"SB 7.4.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.4.1",
+    "description":"Nārada Muni continued: Lord Brahmā was very much satisfied by Hiraṇyakaśipu's austerities, which were difficult to perform. Therefore, when solicited for benedictions, he indeed granted them, although they were rarely to be achieved."
+}
+---
 ====== SB 7.4.1 ======
 
 ===== Text =====

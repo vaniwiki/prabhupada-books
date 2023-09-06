@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.24~~
-~~bc:Text 24~~
-
-{{description>Because of the dust storm stirred up by the strong whirlwind, mother Yaśodā could find no trace of her son, nor could she understand why. Thus she fell down on the ground like a cow who has lost her calf and began to lament very pitifully.}}
-
+---json
+{
+    "name":"SB 10.7.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 10.7.24",
+    "description":"Because of the dust storm stirred up by the strong whirlwind, mother Yaśodā could find no trace of her son, nor could she understand why. Thus she fell down on the ground like a cow who has lost her calf and began to lament very pitifully."
+}
+---
 ====== SB 10.7.24 ======
 
 ===== Text =====

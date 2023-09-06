@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.44~~
-~~bc:Text 44~~
-
-{{description>From Śamīka, by the womb of his wife, Sudāmanī, came Sumitra, Arjunapāla and other sons. King Ānaka, by his wife, Karṇikā, begot two sons, namely Ṛtadhāmā and Jaya.}}
-
+---json
+{
+    "name":"SB 9.24.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 9.24.44",
+    "description":"From Śamīka, by the womb of his wife, Sudāmanī, came Sumitra, Arjunapāla and other sons. King Ānaka, by his wife, Karṇikā, begot two sons, namely Ṛtadhāmā and Jaya."
+}
+---
 ====== SB 9.24.44 ======
 
 ===== Text =====

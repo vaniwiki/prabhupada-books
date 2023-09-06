@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.14~~
-~~bc:Text 14~~
-
-{{description>The highways, subways, lanes, markets and public meeting places were all thoroughly cleansed and then moistened with scented water. And to welcome the Lord, fruits, flowers and unbroken seeds were strewn everywhere.}}
-
+---json
+{
+    "name":"SB 1.11.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 1.11.14",
+    "description":"The highways, subways, lanes, markets and public meeting places were all thoroughly cleansed and then moistened with scented water. And to welcome the Lord, fruits, flowers and unbroken seeds were strewn everywhere."
+}
+---
 ====== SB 1.11.14 ======
 
 > सम्मार्जितमहामार्ग रथ्यापणकचत्वराम् ।

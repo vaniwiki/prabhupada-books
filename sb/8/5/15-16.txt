@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.15-16~~
-~~bc:Text 15-16~~
-
-{{description>Śukadeva Gosvāmī said: When the asuras, with their serpent weapons, severely attacked the demigods in a fight, many of the demigods fell and lost their lives. Indeed, they could not be revived. At that time, O King, the demigods had been cursed by Durvāsā Muni, the three worlds were poverty-stricken, and therefore ritualistic ceremonies could not be performed. The effects of this were very serious.}}
-
+---json
+{
+    "name":"SB 8.5.15-16",
+    "h1":"Text 15-16",
+    "title":" Śrīmad Bhāgavatam 8.5.15-16",
+    "description":"Śukadeva Gosvāmī said: When the asuras, with their serpent weapons, severely attacked the demigods in a fight, many of the demigods fell and lost their lives. Indeed, they could not be revived. At that time, O King, the demigods had been cursed by Durvāsā Muni, the three worlds were poverty-stricken, and therefore ritualistic ceremonies could not be performed. The effects of this were very serious."
+}
+---
 ====== SB 8.5.15-16 ======
 
 ===== Text =====

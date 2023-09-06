@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.43~~
-~~bc:Text 43~~
-
-{{description>The characteristics of water are exhibited by its moistening other substances, coagulating various mixtures, causing satisfaction, maintaining life, softening things, driving away heat, incessantly supplying itself to reservoirs of water, and refreshing by slaking thirst.}}
-
+---json
+{
+    "name":"SB 3.26.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.26.43",
+    "description":"The characteristics of water are exhibited by its moistening other substances, coagulating various mixtures, causing satisfaction, maintaining life, softening things, driving away heat, incessantly supplying itself to reservoirs of water, and refreshing by slaking thirst."
+}
+---
 ====== SB 3.26.43 ======
 
 > क्लेदनं पिण्डनं तृप्तिः प्राणनाप्यायनोन्दनम् ।

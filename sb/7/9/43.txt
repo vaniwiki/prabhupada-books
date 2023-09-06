@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.43~~
-~~bc:Text 43~~
-
-{{description>O best of the great personalities, I am not at all afraid of material existence, for wherever I stay I am fully absorbed in thoughts of Your glories and activities. My concern is only for the fools and rascals who are making elaborate plans for material happiness and maintaining their families, societies and countries. I am simply concerned with love for them.}}
-
+---json
+{
+    "name":"SB 7.9.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 7.9.43",
+    "description":"O best of the great personalities, I am not at all afraid of material existence, for wherever I stay I am fully absorbed in thoughts of Your glories and activities. My concern is only for the fools and rascals who are making elaborate plans for material happiness and maintaining their families, societies and countries. I am simply concerned with love for them."
+}
+---
 ====== SB 7.9.43 ======
 
 ===== Text =====

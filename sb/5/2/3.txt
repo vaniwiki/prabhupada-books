@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.3~~
-~~bc:Text 3~~
-
-{{description>Understanding King Āgnīdhra's desire, the first and most powerful created being of this universe, Lord Brahmā, selected the best of the dancing girls in his assembly, whose name was Pūrvacitti, and sent her to the King.}}
-
+---json
+{
+    "name":"SB 5.2.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.2.3",
+    "description":"Understanding King Āgnīdhra's desire, the first and most powerful created being of this universe, Lord Brahmā, selected the best of the dancing girls in his assembly, whose name was Pūrvacitti, and sent her to the King."
+}
+---
 ====== SB 5.2.3 ======
 
 ===== Text =====

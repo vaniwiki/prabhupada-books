@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.45~~
-~~bc:Text 45~~
-
-{{description>Since only a person who is completely educated according to the principles of Vedic knowledge deserves to be commander-in-chief, ruler of the state, the first to chastise and the proprietor of the whole planet, Pṛthu Mahārāja offered everything to the Kumāras.}}
-
+---json
+{
+    "name":"SB 4.22.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 4.22.45",
+    "description":"Since only a person who is completely educated according to the principles of Vedic knowledge deserves to be commander-in-chief, ruler of the state, the first to chastise and the proprietor of the whole planet, Pṛthu Mahārāja offered everything to the Kumāras."
+}
+---
 ====== SB 4.22.45 ======
 
 > सैनापत्यं च राज्यं च दण्डनेतृत्वमेव च ।

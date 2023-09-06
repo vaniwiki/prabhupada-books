@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.5~~
-~~bc:Text 5~~
-
-{{description>The sun-god, who is Nārāyaṇa, or Viṣṇu, the soul of all the worlds, is situated in outer space between the upper and lower portions of the universe. Passing through twelve months on the wheel of time, the sun comes in touch with twelve different signs of the zodiac and assumes twelve different names according to those signs. The aggregate of those twelve months is called a saṁvatsara, or an entire year. According to lunar calculations, two fortnights—one of the waxing moon and the other of the waning—form one month. That same period is one day and night for the planet Pitṛloka. According to stellar calculations, a month equals two and one quarter constellations. When the sun travels for two months, a season passes, and therefore the seasonal changes are considered parts of the body of the year.}}
-
+---json
+{
+    "name":"SB 5.22.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.22.5",
+    "description":"The sun-god, who is Nārāyaṇa, or Viṣṇu, the soul of all the worlds, is situated in outer space between the upper and lower portions of the universe. Passing through twelve months on the wheel of time, the sun comes in touch with twelve different signs of the zodiac and assumes twelve different names according to those signs. The aggregate of those twelve months is called a saṁvatsara, or an entire year. According to lunar calculations, two fortnights—one of the waxing moon and the other of the waning—form one month. That same period is one day and night for the planet Pitṛloka. According to stellar calculations, a month equals two and one quarter constellations. When the sun travels for two months, a season passes, and therefore the seasonal changes are considered parts of the body of the year."
+}
+---
 ====== SB 5.22.5 ======
 
 ===== Text =====

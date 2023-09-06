@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.68~~
-~~bc:Text 68~~
-
-{{description>O King Yudhiṣṭhira, because of your service to the Supreme Lord, all of you Pāṇḍavas defeated the greatest dangers posed by numerous kings and demigods. By serving the lotus feet of Kṛṣṇa, you conquered great enemies, who were like elephants, and thus you collected ingredients for sacrifice. By His grace, may you be delivered from material involvement.}}
-
+---json
+{
+    "name":"SB 7.15.68",
+    "h1":"Text 68",
+    "title":" Śrīmad Bhāgavatam 7.15.68",
+    "description":"O King Yudhiṣṭhira, because of your service to the Supreme Lord, all of you Pāṇḍavas defeated the greatest dangers posed by numerous kings and demigods. By serving the lotus feet of Kṛṣṇa, you conquered great enemies, who were like elephants, and thus you collected ingredients for sacrifice. By His grace, may you be delivered from material involvement."
+}
+---
 ====== SB 7.15.68 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.34~~
-~~bc:Text 34~~
-
-{{description>The descendants of the kingly orders are definitely designated as watchdogs, and they must keep themselves at the door. On what grounds can dogs enter the house and claim to dine with the master on the same plate?}}
-
+---json
+{
+    "name":"SB 1.18.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 1.18.34",
+    "description":"The descendants of the kingly orders are definitely designated as watchdogs, and they must keep themselves at the door. On what grounds can dogs enter the house and claim to dine with the master on the same plate?"
+}
+---
 ====== SB 1.18.34 ======
 
 > ब्राह्मणैः क्षत्रबन्धुर्हि गृहपालो निरूपितः ।

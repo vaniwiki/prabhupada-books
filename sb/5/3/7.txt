@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.3.7~~
-~~bc:Text 7~~
-
-{{description>We have engaged in Your worship with many things and have offered sacrifices unto You, but we think that there is no need for so many arrangements to please Your Lordship.}}
-
+---json
+{
+    "name":"SB 5.3.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.3.7",
+    "description":"We have engaged in Your worship with many things and have offered sacrifices unto You, but we think that there is no need for so many arrangements to please Your Lordship."
+}
+---
 ====== SB 5.3.7 ======
 
 ===== Text =====

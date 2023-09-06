@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.44~~
-~~bc:Text 44~~
-
-{{description>Therefore, O Lord, O supreme controller, O Lord Kṛṣṇa, please annihilate this dangerous demon Vṛtrāsura, Tvaṣṭā's son, who has already swallowed all our weapons, our paraphernalia for fighting, and our strength and influence.}}
-
+---json
+{
+    "name":"SB 6.9.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 6.9.44",
+    "description":"Therefore, O Lord, O supreme controller, O Lord Kṛṣṇa, please annihilate this dangerous demon Vṛtrāsura, Tvaṣṭā's son, who has already swallowed all our weapons, our paraphernalia for fighting, and our strength and influence."
+}
+---
 ====== SB 6.9.44 ======
 
 ===== Text =====

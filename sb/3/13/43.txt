@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.43~~
-~~bc:Text 43~~
-
-{{description>Who else but You, the Supreme Personality of Godhead, could deliver the earth from within the water? It is not very wonderful for You, however, because You acted most wonderfully in the creation of the universe. By Your energy You have created this wonderful cosmic manifestation.}}
-
+---json
+{
+    "name":"SB 3.13.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.13.43",
+    "description":"Who else but You, the Supreme Personality of Godhead, could deliver the earth from within the water? It is not very wonderful for You, however, because You acted most wonderfully in the creation of the universe. By Your energy You have created this wonderful cosmic manifestation."
+}
+---
 ====== SB 3.13.43 ======
 
 > कः श्रद्दधीतान्यतमस्तव प्रभो रसां गताया भुव उद्विबर्हणम् ।

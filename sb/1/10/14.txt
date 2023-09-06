@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.14~~
-~~bc:Text 14~~
-
-{{description>The female relatives, whose eyes were flooded with tears out of anxiety for Kṛṣṇa, came out of the palace. They could stop their tears only with great difficulty. They feared that tears would cause misfortune at the time of departure.}}
-
+---json
+{
+    "name":"SB 1.10.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 1.10.14",
+    "description":"The female relatives, whose eyes were flooded with tears out of anxiety for Kṛṣṇa, came out of the palace. They could stop their tears only with great difficulty. They feared that tears would cause misfortune at the time of departure."
+}
+---
 ====== SB 1.10.14 ======
 
 > न्यरुन्धन्नुद्गलद्बाष्पमौत्कण्ठ्याद्देवकीसुते ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.1~~
-~~bc:Text 1~~
-
-{{description>King Parīkṣit inquired from Śukadeva Gosvāmī: O learned brāhmaṇa, demons are generally sinful, being obsessed with the modes of passion and ignorance. How, then, could Vṛtrāsura have attained such exalted love for the Supreme Personality of Godhead, Nārāyaṇa?}}
-
+---json
+{
+    "name":"SB 6.14.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.14.1",
+    "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: O learned brāhmaṇa, demons are generally sinful, being obsessed with the modes of passion and ignorance. How, then, could Vṛtrāsura have attained such exalted love for the Supreme Personality of Godhead, Nārāyaṇa?"
+}
+---
 ====== SB 6.14.1 ======
 
 ===== Text =====

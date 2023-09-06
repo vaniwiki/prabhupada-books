@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.29~~
-~~bc:Text 29~~
-
-{{description>Living entities who are associates of Rudra develop in the third mode of material nature, or ignorance. They are situated in the sky between the earthly planets and the heavenly planets.}}
-
+---json
+{
+    "name":"SB 3.6.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.6.29",
+    "description":"Living entities who are associates of Rudra develop in the third mode of material nature, or ignorance. They are situated in the sky between the earthly planets and the heavenly planets."
+}
+---
 ====== SB 3.6.29 ======
 
 > तार्तीयेन स्वभावेन भगवन्नाभिमाश्रिताः ।

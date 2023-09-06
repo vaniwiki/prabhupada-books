@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.45~~
-~~bc:Text 45~~
-
-{{description>Devakī, Pauravī, Rohiṇī, Bhadrā, Madirā, Rocanā, Ilā and others were all wives of Ānakadundubhi [Vasudeva]. Among them all, Devakī was the chief.}}
-
+---json
+{
+    "name":"SB 9.24.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 9.24.45",
+    "description":"Devakī, Pauravī, Rohiṇī, Bhadrā, Madirā, Rocanā, Ilā and others were all wives of Ānakadundubhi [Vasudeva]. Among them all, Devakī was the chief."
+}
+---
 ====== SB 9.24.45 ======
 
 ===== Text =====

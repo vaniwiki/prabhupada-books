@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.7~~
-~~bc:Text 7~~
-
-{{description>This history of the fight between the Lord as a boar and the demon Hiraṇyākṣa was heard by me in a year long ago as it was described by the foremost of the demigods, Brahmā, when he was questioned by the other demigods.}}
-
+---json
+{
+    "name":"SB 3.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.14.7",
+    "description":"This history of the fight between the Lord as a boar and the demon Hiraṇyākṣa was heard by me in a year long ago as it was described by the foremost of the demigods, Brahmā, when he was questioned by the other demigods."
+}
+---
 ====== SB 3.14.7 ======
 
 > अथात्रापीतिहासोऽयं श्रुतो मे वर्णितः पुरा ।

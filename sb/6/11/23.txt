@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.23~~
-~~bc:Text 23~~
-
-{{description>Our Lord, the Supreme Personality of Godhead, forbids His devotees to endeavor uselessly for religion, economic development and sense gratification. O Indra, one can thus infer how kind the Lord is. Such mercy is obtainable only by unalloyed devotees, not by persons who aspire for material gains.}}
-
+---json
+{
+    "name":"SB 6.11.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 6.11.23",
+    "description":"Our Lord, the Supreme Personality of Godhead, forbids His devotees to endeavor uselessly for religion, economic development and sense gratification. O Indra, one can thus infer how kind the Lord is. Such mercy is obtainable only by unalloyed devotees, not by persons who aspire for material gains."
+}
+---
 ====== SB 6.11.23 ======
 
 ===== Text =====

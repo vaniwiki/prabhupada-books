@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.27~~
-~~bc:Text 27~~
-
-{{description>And so, O Brāhmaṇa Vyāsadeva, in due course of time I, who was fully absorbed in thinking of Kṛṣṇa and who therefore had no attachments, being completely freed from all material taints, met with death, as lightning and illumination occur simultaneously.}}
-
+---json
+{
+    "name":"SB 1.6.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.6.27",
+    "description":"And so, O Brāhmaṇa Vyāsadeva, in due course of time I, who was fully absorbed in thinking of Kṛṣṇa and who therefore had no attachments, being completely freed from all material taints, met with death, as lightning and illumination occur simultaneously."
+}
+---
 ====== SB 1.6.27 ======
 
 > एवं कृष्णमतेर्ब्रह्मन्नासक्तस्यामलात्मनः ।

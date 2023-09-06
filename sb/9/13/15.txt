@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.15~~
-~~bc:Text 15~~
-
-{{description>From Devarāta came a son named Bṛhadratha and from Bṛhadratha a son named Mahāvīrya, who became the father of Sudhṛti. The son of Sudhṛti was known as Dhṛṣṭaketu, and from Dhṛṣṭaketu came Haryaśva. From Haryaśva came a son named Maru.}}
-
+---json
+{
+    "name":"SB 9.13.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 9.13.15",
+    "description":"From Devarāta came a son named Bṛhadratha and from Bṛhadratha a son named Mahāvīrya, who became the father of Sudhṛti. The son of Sudhṛti was known as Dhṛṣṭaketu, and from Dhṛṣṭaketu came Haryaśva. From Haryaśva came a son named Maru."
+}
+---
 ====== SB 9.13.15 ======
 
 ===== Text =====

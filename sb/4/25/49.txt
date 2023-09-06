@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.49~~
-~~bc:Text 49~~
-
-{{description>The fifth gate situated on the eastern side was named Mukhyā, or the chief. Through this gate, accompanied by his friends named Rasajña and Vipaṇa, he used to visit two places named Bahūdana and Āpaṇa.}}
-
+---json
+{
+    "name":"SB 4.25.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 4.25.49",
+    "description":"The fifth gate situated on the eastern side was named Mukhyā, or the chief. Through this gate, accompanied by his friends named Rasajña and Vipaṇa, he used to visit two places named Bahūdana and Āpaṇa."
+}
+---
 ====== SB 4.25.49 ======
 
 > मुख्या नाम पुरस्ताद्द्वास्तयापणबहूदनौ ।

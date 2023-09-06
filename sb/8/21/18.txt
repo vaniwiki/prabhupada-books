@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.18~~
-~~bc:Text 18~~
-
-{{description>When Bali Mahārāja saw that his own soldiers were being killed by the associates of Lord Viṣṇu, he remembered the curse of Śukrācārya and forbade his soldiers to continue fighting.}}
-
+---json
+{
+    "name":"SB 8.21.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 8.21.18",
+    "description":"When Bali Mahārāja saw that his own soldiers were being killed by the associates of Lord Viṣṇu, he remembered the curse of Śukrācārya and forbade his soldiers to continue fighting."
+}
+---
 ====== SB 8.21.18 ======
 
 ===== Text =====

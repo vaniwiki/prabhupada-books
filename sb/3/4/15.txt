@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.15~~
-~~bc:Text 15~~
-
-{{description>O my Lord, devotees who engage in the transcendental loving service of Your lotus feet have no difficulty in achieving anything within the realm of the four principles of religiosity, economic development, sense gratification and liberation. But, O great one, as far as I am concerned, I have preferred only to engage in the loving service of Your lotus feet.}}
-
+---json
+{
+    "name":"SB 3.4.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.4.15",
+    "description":"O my Lord, devotees who engage in the transcendental loving service of Your lotus feet have no difficulty in achieving anything within the realm of the four principles of religiosity, economic development, sense gratification and liberation. But, O great one, as far as I am concerned, I have preferred only to engage in the loving service of Your lotus feet."
+}
+---
 ====== SB 3.4.15 ======
 
 > को न्वीश ते पादसरोजभाजां सुदुर्लभोऽर्थेषु चतुर्ष्वपीह ।

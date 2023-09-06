@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.26~~
-~~bc:Text 26~~
-
-{{description>Thereafter, in the presence of the great sage Nārada, the demons, the inhabitants of Siddhaloka, and his personal associates, Lord Śiva, who is most powerful, spoke to his wife, Pārvatī, while they all listened.}}
-
+---json
+{
+    "name":"SB 6.17.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 6.17.26",
+    "description":"Thereafter, in the presence of the great sage Nārada, the demons, the inhabitants of Siddhaloka, and his personal associates, Lord Śiva, who is most powerful, spoke to his wife, Pārvatī, while they all listened."
+}
+---
 ====== SB 6.17.26 ======
 
 ===== Text =====

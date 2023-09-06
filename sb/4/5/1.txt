@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.1~~
-~~bc:Text 1~~
-
-{{description>Maitreya said: When Lord Śiva heard from Nārada that Satī, his wife, was now dead because of Prajāpati Dakṣa's insult to her and that his soldiers had been driven away by the Ṛbhu demigods, he became greatly angry.}}
-
+---json
+{
+    "name":"SB 4.5.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.5.1",
+    "description":"Maitreya said: When Lord Śiva heard from Nārada that Satī, his wife, was now dead because of Prajāpati Dakṣa's insult to her and that his soldiers had been driven away by the Ṛbhu demigods, he became greatly angry."
+}
+---
 ====== SB 4.5.1 ======
 
 > मैत्रेय उवाच

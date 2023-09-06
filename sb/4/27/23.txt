@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.23~~
-~~bc:Text 23~~
-
-{{description>After she was thus disappointed by me, with my permission she approached the King of the Yavanas, whose name was Bhaya, or Fear, and she accepted him as her husband.}}
-
+---json
+{
+    "name":"SB 4.27.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.27.23",
+    "description":"After she was thus disappointed by me, with my permission she approached the King of the Yavanas, whose name was Bhaya, or Fear, and she accepted him as her husband."
+}
+---
 ====== SB 4.27.23 ======
 
 > ततो विहतसङ्कल्पा कन्यका यवनेश्वरम् ।

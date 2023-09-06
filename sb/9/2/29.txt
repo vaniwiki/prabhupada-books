@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.29~~
-~~bc:Text 29~~
-
-{{description>Marutta's son was Dama, Dama's son was Rājyavardhana, Rājyavardhana's son was Sudhṛti, and his son was Nara.}}
-
+---json
+{
+    "name":"SB 9.2.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 9.2.29",
+    "description":"Marutta's son was Dama, Dama's son was Rājyavardhana, Rājyavardhana's son was Sudhṛti, and his son was Nara."
+}
+---
 ====== SB 9.2.29 ======
 
 ===== Text =====

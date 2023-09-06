@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.8.6~~
-~~bc:Text 6~~
-
-{{description>The four Kumāras, headed by Sanat-kumāra, who all knew the transcendental pastimes of the Lord, glorified the Lord in rhythmic accents with selected words full of affection and love. At that time Lord Saṅkarṣaṇa, with His thousands of raised hoods, began to radiate an effulgence from the glowing stones on His head.}}
-
+---json
+{
+    "name":"SB 3.8.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.8.6",
+    "description":"The four Kumāras, headed by Sanat-kumāra, who all knew the transcendental pastimes of the Lord, glorified the Lord in rhythmic accents with selected words full of affection and love. At that time Lord Saṅkarṣaṇa, with His thousands of raised hoods, began to radiate an effulgence from the glowing stones on His head."
+}
+---
 ====== SB 3.8.6 ======
 
 > मुहुर्गृणन्तो वचसानुराग स्खलत्पदेनास्य कृतानि तज्ज्ञाः ।

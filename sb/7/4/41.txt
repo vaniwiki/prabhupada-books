@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.41~~
-~~bc:Text 41~~
-
-{{description>Sometimes, feeling the touch of the Lord's lotus hands, he became spiritually jubilant and remained silent, his hairs standing on end and tears gliding down from his half-closed eyes because of his love for the Lord.}}
-
+---json
+{
+    "name":"SB 7.4.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 7.4.41",
+    "description":"Sometimes, feeling the touch of the Lord's lotus hands, he became spiritually jubilant and remained silent, his hairs standing on end and tears gliding down from his half-closed eyes because of his love for the Lord."
+}
+---
 ====== SB 7.4.41 ======
 
 ===== Text =====

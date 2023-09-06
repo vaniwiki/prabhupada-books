@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.28~~
-~~bc:Text 28~~
-
-{{description>O Mahārāja Parīkṣit, subduer of enemies, this Revata constructed a kingdom known as Kuśasthalī in the depths of the ocean. There he lived and ruled such tracts of land as Ānarta, etc. He had one hundred very nice sons, of whom the eldest was Kakudmī.}}
-
+---json
+{
+    "name":"SB 9.3.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 9.3.28",
+    "description":"O Mahārāja Parīkṣit, subduer of enemies, this Revata constructed a kingdom known as Kuśasthalī in the depths of the ocean. There he lived and ruled such tracts of land as Ānarta, etc. He had one hundred very nice sons, of whom the eldest was Kakudmī."
+}
+---
 ====== SB 9.3.28 ======
 
 ===== Text =====

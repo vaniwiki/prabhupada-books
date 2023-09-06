@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.32~~
-~~bc:Text 32~~
-
-{{description>There is nothing separate from you, whether it be better or lower, stationary or moving. The knowledge derived from the Vedic literatures like the Upaniṣads, and from all the sub-limbs of the original Vedic knowledge, form your external body. You are Hiraṇyagarbha, the reservoir of the universe, but nonetheless, being situated as the supreme controller, you are transcendental to the material world, which consists of the three modes of material nature.}}
-
+---json
+{
+    "name":"SB 7.3.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 7.3.32",
+    "description":"There is nothing separate from you, whether it be better or lower, stationary or moving. The knowledge derived from the Vedic literatures like the Upaniṣads, and from all the sub-limbs of the original Vedic knowledge, form your external body. You are Hiraṇyagarbha, the reservoir of the universe, but nonetheless, being situated as the supreme controller, you are transcendental to the material world, which consists of the three modes of material nature."
+}
+---
 ====== SB 7.3.32 ======
 
 ===== Text =====

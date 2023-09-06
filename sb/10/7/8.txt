@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.8~~
-~~bc:Text 8~~
-
-{{description>When mother Yaśodā and the other ladies who had assembled for the utthāna festival, and all the men, headed by Nanda Mahārāja, saw the wonderful situation, they began to wonder how the handcart had collapsed by itself. They began to wander here and there, trying to find the cause, but were unable to do so.}}
-
+---json
+{
+    "name":"SB 10.7.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 10.7.8",
+    "description":"When mother Yaśodā and the other ladies who had assembled for the utthāna festival, and all the men, headed by Nanda Mahārāja, saw the wonderful situation, they began to wonder how the handcart had collapsed by itself. They began to wander here and there, trying to find the cause, but were unable to do so."
+}
+---
 ====== SB 10.7.8 ======
 
 ===== Text =====

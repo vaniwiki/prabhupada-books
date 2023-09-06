@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.22~~
-~~bc:Text 22~~
-
-{{description>Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu, Vasiṣṭha, Dakṣa, and the tenth son, Nārada, were thus born.}}
-
+---json
+{
+    "name":"SB 3.12.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.12.22",
+    "description":"Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu, Vasiṣṭha, Dakṣa, and the tenth son, Nārada, were thus born."
+}
+---
 ====== SB 3.12.22 ======
 
 > मरीचिरत्र्यङ्गिरसौ पुलस्त्यः पुलहः क्रतुः ।

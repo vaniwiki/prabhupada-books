@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.35~~
-~~bc:Text 35~~
-
-{{description>O great hero, I shall always be with you and give you protection in all respects along with your associates and paraphernalia. Moreover, you will always be able to see Me there.}}
-
+---json
+{
+    "name":"SB 8.22.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 8.22.35",
+    "description":"O great hero, I shall always be with you and give you protection in all respects along with your associates and paraphernalia. Moreover, you will always be able to see Me there."
+}
+---
 ====== SB 8.22.35 ======
 
 ===== Text =====

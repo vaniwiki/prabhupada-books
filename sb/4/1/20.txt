@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.20~~
-~~bc:Text 20~~
-
-{{description>He was thinking: May the Lord of the universe, of whom I have taken shelter, kindly he pleased to offer me a son exactly like Him.}}
-
+---json
+{
+    "name":"SB 4.1.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.1.20",
+    "description":"He was thinking: May the Lord of the universe, of whom I have taken shelter, kindly he pleased to offer me a son exactly like Him."
+}
+---
 ====== SB 4.1.20 ======
 
 > शरणं तं प्रपद्येऽहं य एव जगदीश्वरः ।

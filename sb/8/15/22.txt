@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.22~~
-~~bc:Text 22~~
-
-{{description>No one who was sinful, envious, violent toward other living entities, cunning, falsely proud, lusty or greedy could enter that city. The people who lived there were all devoid of these faults.}}
-
+---json
+{
+    "name":"SB 8.15.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.15.22",
+    "description":"No one who was sinful, envious, violent toward other living entities, cunning, falsely proud, lusty or greedy could enter that city. The people who lived there were all devoid of these faults."
+}
+---
 ====== SB 8.15.22 ======
 
 ===== Text =====

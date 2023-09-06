@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.47~~
-~~bc:Text 47~~
-
-{{description>Freed from all hatred and desire, Kardama Muni, being equal to everyone because of discharging uncontaminated devotional service, ultimately attained the path back to Godhead.}}
-
+---json
+{
+    "name":"SB 3.24.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 3.24.47",
+    "description":"Freed from all hatred and desire, Kardama Muni, being equal to everyone because of discharging uncontaminated devotional service, ultimately attained the path back to Godhead."
+}
+---
 ====== SB 3.24.47 ======
 
 > इच्छाद्वेषविहीनेन सर्वत्र समचेतसा ।

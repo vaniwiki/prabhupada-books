@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.41~~
-~~bc:Text 41~~
-
-{{description>My dear Lord, You are always transcendentally situated on the other side of the river of death, but because of the reactions of our own activities, we are suffering on this side. Indeed, we have fallen into this river and are repeatedly suffering the pains of birth and death and eating horrible things. Now kindly look upon us—not only upon me but also upon all others who are suffering—and by Your causeless mercy and compassion, deliver us and maintain us.}}
-
+---json
+{
+    "name":"SB 7.9.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 7.9.41",
+    "description":"My dear Lord, You are always transcendentally situated on the other side of the river of death, but because of the reactions of our own activities, we are suffering on this side. Indeed, we have fallen into this river and are repeatedly suffering the pains of birth and death and eating horrible things. Now kindly look upon us—not only upon me but also upon all others who are suffering—and by Your causeless mercy and compassion, deliver us and maintain us."
+}
+---
 ====== SB 7.9.41 ======
 
 ===== Text =====

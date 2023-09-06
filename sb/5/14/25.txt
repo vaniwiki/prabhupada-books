@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.25~~
-~~bc:Text 25~~
-
-{{description>Being unable to protect himself from the threefold miseries of material existence, the conditioned soul becomes very morose and lives a life of lamentation. These threefold miseries are miseries suffered by mental calamity at the hands of the demigods [such as freezing wind and scorching heat], miseries offered by other living entities, and miseries arising from the mind and body themselves.}}
-
+---json
+{
+    "name":"SB 5.14.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 5.14.25",
+    "description":"Being unable to protect himself from the threefold miseries of material existence, the conditioned soul becomes very morose and lives a life of lamentation. These threefold miseries are miseries suffered by mental calamity at the hands of the demigods [such as freezing wind and scorching heat], miseries offered by other living entities, and miseries arising from the mind and body themselves."
+}
+---
 ====== SB 5.14.25 ======
 
 ===== Text =====

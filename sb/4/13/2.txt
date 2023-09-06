@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.2~~
-~~bc:Text 2~~
-
-{{description>Vidura inquired from Maitreya: O greatly advanced devotee, who were the Pracetās? To which family did they belong? Whose sons were they, and where did they perform the great sacrifices?}}
-
+---json
+{
+    "name":"SB 4.13.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.13.2",
+    "description":"Vidura inquired from Maitreya: O greatly advanced devotee, who were the Pracetās? To which family did they belong? Whose sons were they, and where did they perform the great sacrifices?"
+}
+---
 ====== SB 4.13.2 ======
 
 > विदुर उवाच

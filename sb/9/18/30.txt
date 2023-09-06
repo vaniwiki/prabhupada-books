@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.30~~
-~~bc:Text 30~~
-
-{{description>When Śukrācārya gave Devayānī in marriage to Yayāti, he had Śarmiṣṭhā go with her, but he warned the King, "My dear King, never allow this girl Śarmiṣṭhā to lie with you in your bed."}}
-
+---json
+{
+    "name":"SB 9.18.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.18.30",
+    "description":"When Śukrācārya gave Devayānī in marriage to Yayāti, he had Śarmiṣṭhā go with her, but he warned the King, "My dear King, never allow this girl Śarmiṣṭhā to lie with you in your bed.""
+}
+---
 ====== SB 9.18.30 ======
 
 ===== Text =====

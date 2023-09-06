@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.30~~
-~~bc:Text 30~~
-
-{{description>My dear Vidura, all good fortune unto you. The foolish King, who thought himself very learned, thus insulted the great sages, and the sages, being brokenhearted by the King's words, became very angry at him.}}
-
+---json
+{
+    "name":"SB 4.14.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.14.30",
+    "description":"My dear Vidura, all good fortune unto you. The foolish King, who thought himself very learned, thus insulted the great sages, and the sages, being brokenhearted by the King's words, became very angry at him."
+}
+---
 ====== SB 4.14.30 ======
 
 > इति तेऽसत्कृतास्तेन द्विजाः पण्डितमानिना ।

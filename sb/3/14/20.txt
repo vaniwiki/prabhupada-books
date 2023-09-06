@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.20~~
-~~bc:Text 20~~
-
-{{description>As a fort commander very easily conquers invading plunderers, by taking shelter of a wife one can conquer the senses, which are unconquerable in the other social orders.}}
-
+---json
+{
+    "name":"SB 3.14.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.14.20",
+    "description":"As a fort commander very easily conquers invading plunderers, by taking shelter of a wife one can conquer the senses, which are unconquerable in the other social orders."
+}
+---
 ====== SB 3.14.20 ======
 
 > यामाश्रित्येन्द्रियारातीन्दुर्जयानितराश्रमैः ।

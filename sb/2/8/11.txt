@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.11~~
-~~bc:Text 11~~
-
-{{description>O learned brāhmaṇa, it was formerly explained that all the planets of the universe with their respective governors are situated in the different parts of the gigantic body of the virāṭ-puruṣa. I have also heard that the different planetary systems are supposed to be in the gigantic body of the virāṭ-puruṣa. But what is their actual position ? Will you please explain that?}}
-
+---json
+{
+    "name":"SB 2.8.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 2.8.11",
+    "description":"O learned brāhmaṇa, it was formerly explained that all the planets of the universe with their respective governors are situated in the different parts of the gigantic body of the virāṭ-puruṣa. I have also heard that the different planetary systems are supposed to be in the gigantic body of the virāṭ-puruṣa. But what is their actual position ? Will you please explain that?"
+}
+---
 ====== SB 2.8.11 ======
 
 > पुरुषावयवैर्लोकाः सपालाः पूर्वकल्पिताः ।

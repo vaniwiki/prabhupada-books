@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.55~~
-~~bc:Text 55~~
-
-{{description>My dear King, just try to understand the allegorical position of the deer. Be fully conscious of yourself, and give up the pleasure of hearing about promotion to heavenly planets by fruitive activity. Give up household life, which is full of sex, as well as stories about such things, and take shelter of the Supreme Personality of Godhead through the mercy of the liberated souls. In this way, please give up your attraction for material existence.}}
-
+---json
+{
+    "name":"SB 4.29.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 4.29.55",
+    "description":"My dear King, just try to understand the allegorical position of the deer. Be fully conscious of yourself, and give up the pleasure of hearing about promotion to heavenly planets by fruitive activity. Give up household life, which is full of sex, as well as stories about such things, and take shelter of the Supreme Personality of Godhead through the mercy of the liberated souls. In this way, please give up your attraction for material existence."
+}
+---
 ====== SB 4.29.55 ======
 
 > स त्वं विचक्ष्य मृगचेष्टितमात्मनोऽन्तश्

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.30~~
-~~bc:Text 30~~
-
-{{description>O King, when all the demons, the followers of Mahārāja Bali, saw the universal form of the Supreme Personality of Godhead, who held everything within His body, when they saw in the Lord's hand His disc, known as the Sudarśana cakra, which generates intolerable heat, and when they heard the tumultuous sound of His bow, all of these caused lamentation within their hearts.}}
-
+---json
+{
+    "name":"SB 8.20.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 8.20.30",
+    "description":"O King, when all the demons, the followers of Mahārāja Bali, saw the universal form of the Supreme Personality of Godhead, who held everything within His body, when they saw in the Lord's hand His disc, known as the Sudarśana cakra, which generates intolerable heat, and when they heard the tumultuous sound of His bow, all of these caused lamentation within their hearts."
+}
+---
 ====== SB 8.20.30 ======
 
 ===== Text =====

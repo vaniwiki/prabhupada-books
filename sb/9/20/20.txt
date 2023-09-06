@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.20~~
-~~bc:Text 20~~
-
-{{description>When the King refused to accept his wife and son, who were both irreproachable, an unembodied voice spoke from the sky as an omen and was heard by everyone present.}}
-
+---json
+{
+    "name":"SB 9.20.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 9.20.20",
+    "description":"When the King refused to accept his wife and son, who were both irreproachable, an unembodied voice spoke from the sky as an omen and was heard by everyone present."
+}
+---
 ====== SB 9.20.20 ======
 
 ===== Text =====

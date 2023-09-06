@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.3~~
-~~bc:Text 3~~
-
-{{description>Such materialistic persons, attracted by sense gratification and devoted to the forefathers and demigods, can be elevated to the moon, where they drink an extract of the soma plant. They again return to this planet.}}
-
+---json
+{
+    "name":"SB 3.32.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.32.3",
+    "description":"Such materialistic persons, attracted by sense gratification and devoted to the forefathers and demigods, can be elevated to the moon, where they drink an extract of the soma plant. They again return to this planet."
+}
+---
 ====== SB 3.32.3 ======
 
 > तच्छ्रद्धयाक्रान्तमतिः पितृदेवव्रतः पुमान् ।

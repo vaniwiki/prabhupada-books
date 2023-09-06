@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.7~~
-~~bc:Text 7~~
-
-{{description>The great saint Nārada said: O ruler of the citizens, my dear King, please see in the sky those animals which you have sacrificed without compassion and without mercy in the sacrificial arena.}}
-
+---json
+{
+    "name":"SB 4.25.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.25.7",
+    "description":"The great saint Nārada said: O ruler of the citizens, my dear King, please see in the sky those animals which you have sacrificed without compassion and without mercy in the sacrificial arena."
+}
+---
 ====== SB 4.25.7 ======
 
 > नारद उवाच

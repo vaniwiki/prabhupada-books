@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.19~~
-~~bc:Text 19~~
-
-{{description>A brāhmaṇa who is sufficiently rich must offer oblations to the forefathers during the dark-moon fortnight in the latter part of the month of Bhādra. Similarly, he should offer oblations to the relatives of the forefathers during the mahālayā ceremonies in the month of Āśvina.*}}
-
+---json
+{
+    "name":"SB 7.14.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 7.14.19",
+    "description":"A brāhmaṇa who is sufficiently rich must offer oblations to the forefathers during the dark-moon fortnight in the latter part of the month of Bhādra. Similarly, he should offer oblations to the relatives of the forefathers during the mahālayā ceremonies in the month of Āśvina.*"
+}
+---
 ====== SB 7.14.19 ======
 
 ===== Text =====

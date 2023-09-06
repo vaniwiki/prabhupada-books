@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.54~~
-~~bc:Text 54~~
-
-{{description>After begetting five sons, named Vijitāśva, Dhūmrakeśa, Haryakṣa, Draviṇa and Vṛka, Pṛthu Mahārāja continued to rule the planet. He accepted all the qualities of the deities who governed all other planets.}}
-
+---json
+{
+    "name":"SB 4.22.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 4.22.54",
+    "description":"After begetting five sons, named Vijitāśva, Dhūmrakeśa, Haryakṣa, Draviṇa and Vṛka, Pṛthu Mahārāja continued to rule the planet. He accepted all the qualities of the deities who governed all other planets."
+}
+---
 ====== SB 4.22.54 ======
 
 > विजिताश्वं धूम्रकेशं हर्यक्षं द्रविणं वृकम् ।

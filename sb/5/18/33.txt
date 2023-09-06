@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.33~~
-~~bc:Text 33~~
-
-{{description>O my Lord, Your name, form and bodily features are expanded in countless forms. No one can determine exactly how many forms exist, yet You Yourself, in Your incarnation as the learned scholar Kapiladeva, have analyzed the cosmic manifestation as containing twenty-four elements. Therefore if one is interested in Sāṅkhya philosophy, by which one can enumerate the different truths, he must hear it from You. Unfortunately, nondevotees simply count the different elements and remain ignorant of Your actual form. I offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 5.18.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 5.18.33",
+    "description":"O my Lord, Your name, form and bodily features are expanded in countless forms. No one can determine exactly how many forms exist, yet You Yourself, in Your incarnation as the learned scholar Kapiladeva, have analyzed the cosmic manifestation as containing twenty-four elements. Therefore if one is interested in Sāṅkhya philosophy, by which one can enumerate the different truths, he must hear it from You. Unfortunately, nondevotees simply count the different elements and remain ignorant of Your actual form. I offer my respectful obeisances unto You."
+}
+---
 ====== SB 5.18.33 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.29~~
-~~bc:Text 29~~
-
-{{description>O brāhmaṇas, the King's anger and envy, directed toward the brāhmaṇa sage, were unprecedented, being that circumstances had made him hungry and thirsty.}}
-
+---json
+{
+    "name":"SB 1.18.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.18.29",
+    "description":"O brāhmaṇas, the King's anger and envy, directed toward the brāhmaṇa sage, were unprecedented, being that circumstances had made him hungry and thirsty."
+}
+---
 ====== SB 1.18.29 ======
 
 > अभूतपूर्वः सहसा क्षुत्तृड्भ्यामर्दितात्मनः ।

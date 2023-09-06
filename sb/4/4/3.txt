@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.3~~
-~~bc:Text 3~~
-
-{{description>Thereafter Satī left her husband, Lord Śiva, who had given her half his body due to affection. Breathing very heavily because of anger and bereavement, she went to the house of her father. This less intelligent act was due to her being a weak woman.}}
-
+---json
+{
+    "name":"SB 4.4.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.4.3",
+    "description":"Thereafter Satī left her husband, Lord Śiva, who had given her half his body due to affection. Breathing very heavily because of anger and bereavement, she went to the house of her father. This less intelligent act was due to her being a weak woman."
+}
+---
 ====== SB 4.4.3 ======
 
 > ततो विनिःश्वस्य सती विहाय तं शोकेन रोषेण च दूयता हृदा ।

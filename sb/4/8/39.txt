@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.39~~
-~~bc:Text 39~~
-
-{{description>The sage Maitreya continued: The great personality Nārada Muni, upon hearing the words of Dhruva Mahārāja, became very compassionate toward him, and in order to show him his causeless mercy, he gave him the following expert advice.}}
-
+---json
+{
+    "name":"SB 4.8.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.8.39",
+    "description":"The sage Maitreya continued: The great personality Nārada Muni, upon hearing the words of Dhruva Mahārāja, became very compassionate toward him, and in order to show him his causeless mercy, he gave him the following expert advice."
+}
+---
 ====== SB 4.8.39 ======
 
 > मैत्रेय उवाच

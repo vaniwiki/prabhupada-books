@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.7.33~~
-~~bc:Text 33~~
-
-{{description>The demigods continued: Do not fear criticism for being younger than us. Such etiquette does not apply in regard to Vedic mantras. Except in relationship to Vedic mantras, seniority is determined by age, but one may offer respectful obeisances even to a younger person who is advanced in chanting Vedic mantras. Therefore although you are junior in relationship to us, you may become our priest without hesitation.}}
-
+---json
+{
+    "name":"SB 6.7.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 6.7.33",
+    "description":"The demigods continued: Do not fear criticism for being younger than us. Such etiquette does not apply in regard to Vedic mantras. Except in relationship to Vedic mantras, seniority is determined by age, but one may offer respectful obeisances even to a younger person who is advanced in chanting Vedic mantras. Therefore although you are junior in relationship to us, you may become our priest without hesitation."
+}
+---
 ====== SB 6.7.33 ======
 
 ===== Text =====

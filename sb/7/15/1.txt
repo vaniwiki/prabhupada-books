@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.1~~
-~~bc:Text 1~~
-
-{{description>Nārada Muni continued: My dear King, some brāhmaṇas are very much attached to fruitive activities, some are attached to austerities and penances, and still others study the Vedic literature, whereas some, although very few, cultivate knowledge and practice different yogas, especially bhakti-yoga.}}
-
+---json
+{
+    "name":"SB 7.15.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.15.1",
+    "description":"Nārada Muni continued: My dear King, some brāhmaṇas are very much attached to fruitive activities, some are attached to austerities and penances, and still others study the Vedic literature, whereas some, although very few, cultivate knowledge and practice different yogas, especially bhakti-yoga."
+}
+---
 ====== SB 7.15.1 ======
 
 ===== Text =====

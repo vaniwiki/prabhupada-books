@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.5~~
-~~bc:Text 5~~
-
-{{description>The Lord was accompanied by the residents of Siddhaloka and Vidyādhara-loka, all the descendants of Diti, and the demons and the Yakṣas. He was also accompanied by His chief associates, headed by Sunanda and Nanda.}}
-
+---json
+{
+    "name":"SB 4.19.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.19.5",
+    "description":"The Lord was accompanied by the residents of Siddhaloka and Vidyādhara-loka, all the descendants of Diti, and the demons and the Yakṣas. He was also accompanied by His chief associates, headed by Sunanda and Nanda."
+}
+---
 ====== SB 4.19.5 ======
 
 > सिद्धा विद्याधरा दैत्या दानवा गुह्यकादयः ।

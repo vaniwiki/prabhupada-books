@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.11~~
-~~bc:Text 11~~
-
-{{description>Dhruva Mahārāja continued: O unlimited Lord, kindly bless me so that I may associate with great devotees who engage in Your transcendental loving service constantly, as the waves of a river constantly flow. Such transcendental devotees are completely situated in an uncontaminated state of life. By the process of devotional service I shall surely be able to cross the nescient ocean of material existence, which is filled with the waves of blazing, firelike dangers. It will be very easy for me, for I am becoming mad to hear about Your transcendental qualities and pastimes, which are eternally existent.}}
-
+---json
+{
+    "name":"SB 4.9.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 4.9.11",
+    "description":"Dhruva Mahārāja continued: O unlimited Lord, kindly bless me so that I may associate with great devotees who engage in Your transcendental loving service constantly, as the waves of a river constantly flow. Such transcendental devotees are completely situated in an uncontaminated state of life. By the process of devotional service I shall surely be able to cross the nescient ocean of material existence, which is filled with the waves of blazing, firelike dangers. It will be very easy for me, for I am becoming mad to hear about Your transcendental qualities and pastimes, which are eternally existent."
+}
+---
 ====== SB 4.9.11 ======
 
 > भक्तिं मुहुः प्रवहतां त्वयि मे प्रसङ्गो

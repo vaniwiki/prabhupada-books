@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.30~~
-~~bc:Text 30~~
-
-{{description>O my Lord, I offer my respectful obeisances unto You, who have assumed the form of a tortoise. You are the reservoir of all transcendental qualities, and being entirely untinged by matter, You are perfectly situated in pure goodness. You move here and there in the water, but no one can discern Your position. Therefore I offer my respectful obeisances unto You. Because of Your transcendental position, You are not limited by past, present and future. You are present everywhere as the shelter of all things, and therefore I offer my respectful obeisances unto You again and again.}}
-
+---json
+{
+    "name":"SB 5.18.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 5.18.30",
+    "description":"O my Lord, I offer my respectful obeisances unto You, who have assumed the form of a tortoise. You are the reservoir of all transcendental qualities, and being entirely untinged by matter, You are perfectly situated in pure goodness. You move here and there in the water, but no one can discern Your position. Therefore I offer my respectful obeisances unto You. Because of Your transcendental position, You are not limited by past, present and future. You are present everywhere as the shelter of all things, and therefore I offer my respectful obeisances unto You again and again."
+}
+---
 ====== SB 5.18.30 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.6~~
-~~bc:Text 6~~
-
-{{description>The time duration needed for the integration of three trasareṇus is called a truṭi, and one hundred truṭis make one vedha. Three vedhas make one lava.}}
-
+---json
+{
+    "name":"SB 3.11.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.11.6",
+    "description":"The time duration needed for the integration of three trasareṇus is called a truṭi, and one hundred truṭis make one vedha. Three vedhas make one lava."
+}
+---
 ====== SB 3.11.6 ======
 
 > त्रसरेणुत्रिकं भुङ्क्ते यः कालः स त्रुटिः स्मृतः ।

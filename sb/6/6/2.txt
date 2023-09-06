@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.2~~
-~~bc:Text 2~~
-
-{{description>He gave ten daughters in charity to Dharmarāja [Yamarāja], thirteen to Kaśyapa [first twelve and then one more], twenty-seven to the moon-god, and two each to Aṅgirā, Kṛśāśva and Bhūta. The other four daughters were given to Kaśyapa. [Thus Kaśyapa received seventeen daughters in all.]}}
-
+---json
+{
+    "name":"SB 6.6.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.6.2",
+    "description":"He gave ten daughters in charity to Dharmarāja [Yamarāja], thirteen to Kaśyapa [first twelve and then one more], twenty-seven to the moon-god, and two each to Aṅgirā, Kṛśāśva and Bhūta. The other four daughters were given to Kaśyapa. [Thus Kaśyapa received seventeen daughters in all.]"
+}
+---
 ====== SB 6.6.2 ======
 
 ===== Text =====

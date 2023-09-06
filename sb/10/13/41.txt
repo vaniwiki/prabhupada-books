@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.41~~
-~~bc:Text 41~~
-
-{{description>Lord Brahmā thought: Whatever boys and calves there were in Gokula, I have kept them sleeping on the bed of my mystic potency, and to this very day they have not yet risen again.}}
-
+---json
+{
+    "name":"SB 10.13.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 10.13.41",
+    "description":"Lord Brahmā thought: Whatever boys and calves there were in Gokula, I have kept them sleeping on the bed of my mystic potency, and to this very day they have not yet risen again."
+}
+---
 ====== SB 10.13.41 ======
 
 ===== Text =====

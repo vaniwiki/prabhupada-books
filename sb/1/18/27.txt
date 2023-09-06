@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.27~~
-~~bc:Text 27~~
-
-{{description>The sage, in meditation, was covered by the skin of a stag, and long, compressed hair was scattered all over him. The King, whose palate was dry from thirst, asked him for water.}}
-
+---json
+{
+    "name":"SB 1.18.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.18.27",
+    "description":"The sage, in meditation, was covered by the skin of a stag, and long, compressed hair was scattered all over him. The King, whose palate was dry from thirst, asked him for water."
+}
+---
 ====== SB 1.18.27 ======
 
 > विप्रकीर्णजटाच्छन्नं रौरवेणाजिनेन च ।

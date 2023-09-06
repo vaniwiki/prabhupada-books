@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.14~~
-~~bc:Text 14~~
-
-{{description>Satī continued: My dear father, you are committing the greatest offense by envying Lord Śiva, whose very name, consisting of two syllables, śi and va, purifies one of all sinful activities. His order is never neglected. Lord Śiva is always pure, and no one but you envies him.}}
-
+---json
+{
+    "name":"SB 4.4.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.4.14",
+    "description":"Satī continued: My dear father, you are committing the greatest offense by envying Lord Śiva, whose very name, consisting of two syllables, śi and va, purifies one of all sinful activities. His order is never neglected. Lord Śiva is always pure, and no one but you envies him."
+}
+---
 ====== SB 4.4.14 ======
 
 > यद्द्व्यक्षरं नाम गिरेरितं नृणां सकृत्प्रसङ्गादघमाशु हन्ति तत् ।

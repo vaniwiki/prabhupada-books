@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.14~~
-~~bc:Text 14~~
-
-{{description>O brāhmaṇas, in the ninth incarnation, the Lord, prayed for by sages, accepted the body of a king [Pṛthu] who cultivated the land to yield various produces, and for that reason the earth was beautiful and attractive.}}
-
+---json
+{
+    "name":"SB 1.3.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 1.3.14",
+    "description":"O brāhmaṇas, in the ninth incarnation, the Lord, prayed for by sages, accepted the body of a king [Pṛthu] who cultivated the land to yield various produces, and for that reason the earth was beautiful and attractive."
+}
+---
 ====== SB 1.3.14 ======
 
 > ऋषिभिर्याचितो भेजे नवमं पार्थिवं वपुः ।

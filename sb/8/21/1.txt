@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī continued: When Lord Brahmā, who was born of a lotus flower, saw that the effulgence of his residence, Brahmaloka, had been reduced by the glaring effulgence from the toenails of Lord Vāmanadeva, he approached the Supreme Personality of Godhead. Lord Brahmā was accompanied by all the great sages, headed by Marīci, and by yogīs like Sanandana, but in the presence of that glaring effulgence, O King, even Lord Brahmā and his associates seemed insignificant.}}
-
+---json
+{
+    "name":"SB 8.21.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.21.1",
+    "description":"Śukadeva Gosvāmī continued: When Lord Brahmā, who was born of a lotus flower, saw that the effulgence of his residence, Brahmaloka, had been reduced by the glaring effulgence from the toenails of Lord Vāmanadeva, he approached the Supreme Personality of Godhead. Lord Brahmā was accompanied by all the great sages, headed by Marīci, and by yogīs like Sanandana, but in the presence of that glaring effulgence, O King, even Lord Brahmā and his associates seemed insignificant."
+}
+---
 ====== SB 8.21.1 ======
 
 ===== Text =====

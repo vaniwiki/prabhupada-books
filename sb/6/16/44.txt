@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.44~~
-~~bc:Text 44~~
-
-{{description>My Lord, it is not impossible for one to be immediately freed from all material contamination by seeing You. Not to speak of seeing You personally, merely by hearing the holy name of Your Lordship only once, even caṇḍālas, men of the lowest class, are freed from all material contamination. Under the circumstances, who will not be freed from material contamination simply by seeing You?}}
-
+---json
+{
+    "name":"SB 6.16.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 6.16.44",
+    "description":"My Lord, it is not impossible for one to be immediately freed from all material contamination by seeing You. Not to speak of seeing You personally, merely by hearing the holy name of Your Lordship only once, even caṇḍālas, men of the lowest class, are freed from all material contamination. Under the circumstances, who will not be freed from material contamination simply by seeing You?"
+}
+---
 ====== SB 6.16.44 ======
 
 ===== Text =====

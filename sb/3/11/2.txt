@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.2~~
-~~bc:Text 2~~
-
-{{description>Atoms are the ultimate state of the manifest universe. When they stay in their own forms without forming different bodies, they are called the unlimited oneness. There are certainly different bodies in physical forms, but the atoms themselves form the complete manifestation.}}
-
+---json
+{
+    "name":"SB 3.11.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.11.2",
+    "description":"Atoms are the ultimate state of the manifest universe. When they stay in their own forms without forming different bodies, they are called the unlimited oneness. There are certainly different bodies in physical forms, but the atoms themselves form the complete manifestation."
+}
+---
 ====== SB 3.11.2 ======
 
 > सत एव पदार्थस्य स्वरूपावस्थितस्य यत् ।

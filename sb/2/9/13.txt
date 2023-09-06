@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.13~~
-~~bc:Text 13~~
-
-{{description>The Vaikuṇṭha planets are also surrounded by various airplanes, all glowing and brilliantly situated. These airplanes belong to the great mahātmās or devotees of the Lord. The ladies are as beautiful as lightning because of their celestial complexions, and all these combined together appear just like the sky decorated with both clouds and lightning.}}
-
+---json
+{
+    "name":"SB 2.9.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 2.9.13",
+    "description":"The Vaikuṇṭha planets are also surrounded by various airplanes, all glowing and brilliantly situated. These airplanes belong to the great mahātmās or devotees of the Lord. The ladies are as beautiful as lightning because of their celestial complexions, and all these combined together appear just like the sky decorated with both clouds and lightning."
+}
+---
 ====== SB 2.9.13 ======
 
 > भ्राजिष्णुभिर्यः परितो विराजते लसद्विमानावलिभिर्महात्मनाम् ।

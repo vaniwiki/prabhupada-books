@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.20~~
-~~bc:Text 20~~
-
-{{description>O King, that personality whom, out of ignorance only, you thought to be your maternal cousin, your very dear friend, well-wisher, counselor, messenger, benefactor, etc., is that very Personality of Godhead, Śrī Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 1.9.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.9.20",
+    "description":"O King, that personality whom, out of ignorance only, you thought to be your maternal cousin, your very dear friend, well-wisher, counselor, messenger, benefactor, etc., is that very Personality of Godhead, Śrī Kṛṣṇa."
+}
+---
 ====== SB 1.9.20 ======
 
 > यं मन्यसे मातुलेयं प्रियं मित्रं सुहृत्तमम् ।

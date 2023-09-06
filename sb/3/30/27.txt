@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.27~~
-~~bc:Text 27~~
-
-{{description>Next his limbs are lopped off and torn asunder by elephants. He is hurled down from hilltops, and he is also held captive either in water or in a cave.}}
-
+---json
+{
+    "name":"SB 3.30.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.30.27",
+    "description":"Next his limbs are lopped off and torn asunder by elephants. He is hurled down from hilltops, and he is also held captive either in water or in a cave."
+}
+---
 ====== SB 3.30.27 ======
 
 > कृन्तनं चावयवशो गजादिभ्यो भिदापनम् ।

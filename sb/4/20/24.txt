@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.24~~
-~~bc:Text 24~~
-
-{{description>My dear Lord, I therefore do not wish to have the benediction of merging into Your existence, a benediction in which there is no existence of the nectarean beverage of Your lotus feet. I want the benediction of at least one million ears, for thus I may be able to hear about the glories of Your lotus feet from the mouths of Your pure devotees.}}
-
+---json
+{
+    "name":"SB 4.20.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 4.20.24",
+    "description":"My dear Lord, I therefore do not wish to have the benediction of merging into Your existence, a benediction in which there is no existence of the nectarean beverage of Your lotus feet. I want the benediction of at least one million ears, for thus I may be able to hear about the glories of Your lotus feet from the mouths of Your pure devotees."
+}
+---
 ====== SB 4.20.24 ======
 
 > न कामये नाथ तदप्यहं क्वचिन्न यत्र युष्मच्चरणाम्बुजासवः ।

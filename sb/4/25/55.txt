@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.55~~
-~~bc:Text 55~~
-
-{{description>Sometimes he used to go to his private home with one of his chief servants [the mind], who was named Viṣūcīna. At that time, illusion, satisfaction and happiness used to be produced from his wife and children.}}
-
+---json
+{
+    "name":"SB 4.25.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 4.25.55",
+    "description":"Sometimes he used to go to his private home with one of his chief servants [the mind], who was named Viṣūcīna. At that time, illusion, satisfaction and happiness used to be produced from his wife and children."
+}
+---
 ====== SB 4.25.55 ======
 
 > स यर्ह्यन्तःपुरगतो विषूचीनसमन्वितः ।

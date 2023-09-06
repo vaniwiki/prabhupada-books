@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.26~~
-~~bc:Text 26~~
-
-{{description>The demigods prayed: O Lord, You never deviate from Your vow, which is always perfect because whatever You decide is perfectly correct and cannot be stopped by anyone. Being present in the three phases of cosmic manifestation-creation, maintenance and annihilation—You are the Supreme Truth. Indeed, unless one is completely truthful, one cannot achieve Your favor, which therefore cannot be achieved by hypocrites. You are the active principle, the real truth, in all the ingredients of creation, and therefore you are known as antaryāmī, the inner force. You are equal to everyone, and Your instructions apply for everyone, for all time. You are the beginning of all truth. Therefore, offering our obeisances, we surrender unto You. Kindly give us protection.}}
-
+---json
+{
+    "name":"SB 10.2.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 10.2.26",
+    "description":"The demigods prayed: O Lord, You never deviate from Your vow, which is always perfect because whatever You decide is perfectly correct and cannot be stopped by anyone. Being present in the three phases of cosmic manifestation-creation, maintenance and annihilation—You are the Supreme Truth. Indeed, unless one is completely truthful, one cannot achieve Your favor, which therefore cannot be achieved by hypocrites. You are the active principle, the real truth, in all the ingredients of creation, and therefore you are known as antaryāmī, the inner force. You are equal to everyone, and Your instructions apply for everyone, for all time. You are the beginning of all truth. Therefore, offering our obeisances, we surrender unto You. Kindly give us protection."
+}
+---
 ====== SB 10.2.26 ======
 
 ===== Text =====

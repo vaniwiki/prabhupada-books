@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.43~~
-~~bc:Text 43~~
-
-{{description>All learned men say that the five elements, eternal time, fruitive activity, the three modes of material nature, and the varieties produced by these modes are all creations of yogamāyā. This material world is therefore extremely difficult to understand, but those who are highly learned have rejected it. May the Supreme Personality of Godhead, who is the controller of everything, be pleased with us.}}
-
+---json
+{
+    "name":"SB 8.5.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 8.5.43",
+    "description":"All learned men say that the five elements, eternal time, fruitive activity, the three modes of material nature, and the varieties produced by these modes are all creations of yogamāyā. This material world is therefore extremely difficult to understand, but those who are highly learned have rejected it. May the Supreme Personality of Godhead, who is the controller of everything, be pleased with us."
+}
+---
 ====== SB 8.5.43 ======
 
 ===== Text =====

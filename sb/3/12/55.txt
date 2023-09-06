@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.55~~
-~~bc:Text 55~~
-
-{{description>Thereafter, by sex indulgence, they gradually increased generations of population one after another.}}
-
+---json
+{
+    "name":"SB 3.12.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 3.12.55",
+    "description":"Thereafter, by sex indulgence, they gradually increased generations of population one after another."
+}
+---
 ====== SB 3.12.55 ======
 
 > तदा मिथुनधर्मेण प्रजा ह्येधाम्बभूविर् ॥५५॥

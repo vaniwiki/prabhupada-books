@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.12~~
-~~bc:Text 12~~
-
-{{description>Knowledge of self-realization, even though free from all material affinity, does not look well if devoid of a conception of the Infallible [God]. What, then, is the use of fruitive activities, which are naturally painful from the very beginning and transient by nature, if they are not utilized for the devotional service of the Lord?}}
-
+---json
+{
+    "name":"SB 1.5.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.5.12",
+    "description":"Knowledge of self-realization, even though free from all material affinity, does not look well if devoid of a conception of the Infallible [God]. What, then, is the use of fruitive activities, which are naturally painful from the very beginning and transient by nature, if they are not utilized for the devotional service of the Lord?"
+}
+---
 ====== SB 1.5.12 ======
 
 > नैष्कर्म्यमप्यच्युतभाववर्जितं न शोभते ज्ञानमलं निरञ्जनम् ।

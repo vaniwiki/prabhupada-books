@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.1~~
-~~bc:Text 1~~
-
-{{description>Lord Ṛṣabhadeva told His sons: My dear boys, of all the living entities who have accepted material bodies in this world, one who has been awarded this human form should not work hard day and night simply for sense gratification, which is available even for dogs and hogs that eat stool. One should engage in penance and austerity to attain the divine position of devotional service. By such activity, one's heart is purified, and when one attains this position, he attains eternal, blissful life, which is transcendental to material happiness and which continues forever.}}
-
+---json
+{
+    "name":"SB 5.5.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.5.1",
+    "description":"Lord Ṛṣabhadeva told His sons: My dear boys, of all the living entities who have accepted material bodies in this world, one who has been awarded this human form should not work hard day and night simply for sense gratification, which is available even for dogs and hogs that eat stool. One should engage in penance and austerity to attain the divine position of devotional service. By such activity, one's heart is purified, and when one attains this position, he attains eternal, blissful life, which is transcendental to material happiness and which continues forever."
+}
+---
 ====== SB 5.5.1 ======
 
 ===== Text =====

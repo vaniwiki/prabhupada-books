@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.27~~
-~~bc:Text 27~~
-
-{{description>Aja [Brahmā] and others arrived on the spot to see the fearfully tusked demon lying on the ground, biting his lip. The glow of his face was yet unfaded, and Brahmā admiringly said: Oh, who could meet such blessed death?}}
-
+---json
+{
+    "name":"SB 3.19.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.19.27",
+    "description":"Aja [Brahmā] and others arrived on the spot to see the fearfully tusked demon lying on the ground, biting his lip. The glow of his face was yet unfaded, and Brahmā admiringly said: Oh, who could meet such blessed death?"
+}
+---
 ====== SB 3.19.27 ======
 
 > क्षितौ शयानं तमकुण्ठवर्चसं करालदंष्ट्रं परिदष्टदच्छदम् ।

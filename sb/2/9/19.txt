@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.19~~
-~~bc:Text 19~~
-
-{{description>And seeing Brahmā present before Him, the Lord accepted him as worthy to create living beings, to be controlled as He desired, and thus being much satisfied with him, the Lord shook hands with Brahmā and, slightly smiling, addressed him thus.}}
-
+---json
+{
+    "name":"SB 2.9.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 2.9.19",
+    "description":"And seeing Brahmā present before Him, the Lord accepted him as worthy to create living beings, to be controlled as He desired, and thus being much satisfied with him, the Lord shook hands with Brahmā and, slightly smiling, addressed him thus."
+}
+---
 ====== SB 2.9.19 ======
 
 > तं प्रीयमाणं समुपस्थितं कविं प्रजाविसर्गे निजशासनार्हणम् ।

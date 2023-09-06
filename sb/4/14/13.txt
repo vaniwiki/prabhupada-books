@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.13~~
-~~bc:Text 13~~
-
-{{description>The great sages, having thus decided, approached King Vena. Concealing their real anger, they pacified him with sweet words and then spoke as follows.}}
-
+---json
+{
+    "name":"SB 4.14.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.14.13",
+    "description":"The great sages, having thus decided, approached King Vena. Concealing their real anger, they pacified him with sweet words and then spoke as follows."
+}
+---
 ====== SB 4.14.13 ======
 
 > एवमध्यवसायैनं मुनयो गूढमन्यवः ।

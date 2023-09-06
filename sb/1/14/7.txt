@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.7~~
-~~bc:Text 7~~
-
-{{description>Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there.}}
-
+---json
+{
+    "name":"SB 1.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.14.7",
+    "description":"Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there."
+}
+---
 ====== SB 1.14.7 ======
 
 > गताः सप्ताधुना मासा भीमसेन तवानुजः ।

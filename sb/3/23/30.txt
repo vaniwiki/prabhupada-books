@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.30~~
-~~bc:Text 30~~
-
-{{description>Then in a mirror she beheld her own reflection. Her body was completely freed from all dirt, and she was adorned with a garland. Dressed in unsullied robes and decorated with auspicious marks of tilaka, she was served very respectfully by the maids.}}
-
+---json
+{
+    "name":"SB 3.23.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.23.30",
+    "description":"Then in a mirror she beheld her own reflection. Her body was completely freed from all dirt, and she was adorned with a garland. Dressed in unsullied robes and decorated with auspicious marks of tilaka, she was served very respectfully by the maids."
+}
+---
 ====== SB 3.23.30 ======
 
 > अथादर्शे स्वमात्मानं स्रग्विणं विरजाम्बरम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.29-31~~
-~~bc:Text 29-31~~
-
-{{description>The Gandharvas were born from the womb of Ariṣṭā, and animals whose hooves are not split, such as the horse, were born from the womb of Kāṣṭhā. O King, from the womb of Danu came sixty-one sons, of whom these eighteen were very important: Dvimūrdhā, Śambara, Ariṣṭa, Hayagrīva, Vibhāvasu, Ayomukha, Śaṅkuśirā, Svarbhānu, Kapila, Aruṇa, Pulomā, Vṛṣaparvā, Ekacakra, Anutāpana, Dhūmrakeśa, Virūpākṣa, Vipracitti and Durjaya.}}
-
+---json
+{
+    "name":"SB 6.6.29-31",
+    "h1":"Text 29-31",
+    "title":" Śrīmad Bhāgavatam 6.6.29-31",
+    "description":"The Gandharvas were born from the womb of Ariṣṭā, and animals whose hooves are not split, such as the horse, were born from the womb of Kāṣṭhā. O King, from the womb of Danu came sixty-one sons, of whom these eighteen were very important: Dvimūrdhā, Śambara, Ariṣṭa, Hayagrīva, Vibhāvasu, Ayomukha, Śaṅkuśirā, Svarbhānu, Kapila, Aruṇa, Pulomā, Vṛṣaparvā, Ekacakra, Anutāpana, Dhūmrakeśa, Virūpākṣa, Vipracitti and Durjaya."
+}
+---
 ====== SB 6.6.29-31 ======
 
 ===== Text =====

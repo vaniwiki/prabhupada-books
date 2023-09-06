@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.19~~
-~~bc:Text 19~~
-
-{{description>This frightful situation cannot be remedied by any person in this material world. My lord, it is the Supreme Personality of Godhead as eternal time [kāla] that has approached us all.}}
-
+---json
+{
+    "name":"SB 1.13.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.13.19",
+    "description":"This frightful situation cannot be remedied by any person in this material world. My lord, it is the Supreme Personality of Godhead as eternal time [kāla] that has approached us all."
+}
+---
 ====== SB 1.13.19 ======
 
 > प्रतिक्रिया न यस्येह कुतश्चित्कर्हिचित्प्रभो ।

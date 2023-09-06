@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.57~~
-~~bc:Text 57~~
-
-{{description>Every day from pratipat to trayodaśī, one should continue the ceremony, to the accompaniment of dancing, singing, the beating of a drum, the chanting of prayers and all-auspicious mantras, and recitation of Śrīmad-Bhāgavatam. In this way, one should worship the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 8.16.57",
+    "h1":"Text 57",
+    "title":" Śrīmad Bhāgavatam 8.16.57",
+    "description":"Every day from pratipat to trayodaśī, one should continue the ceremony, to the accompaniment of dancing, singing, the beating of a drum, the chanting of prayers and all-auspicious mantras, and recitation of Śrīmad-Bhāgavatam. In this way, one should worship the Supreme Personality of Godhead."
+}
+---
 ====== SB 8.16.57 ======
 
 ===== Text =====

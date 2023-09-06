@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.2~~
-~~bc:Text 2~~
-
-{{description>When the soul is under the spell of material nature and false ego, identifying his body as the self, he becomes absorbed in material activities, and by the influence of false ego he thinks that he is the proprietor of everything.}}
-
+---json
+{
+    "name":"SB 3.27.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.27.2",
+    "description":"When the soul is under the spell of material nature and false ego, identifying his body as the self, he becomes absorbed in material activities, and by the influence of false ego he thinks that he is the proprietor of everything."
+}
+---
 ====== SB 3.27.2 ======
 
 > स एष यर्हि प्रकृतेर्गुणेष्वभिविषज्जते ।

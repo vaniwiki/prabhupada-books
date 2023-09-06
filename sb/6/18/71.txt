@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.71~~
-~~bc:Text 71~~
-
-{{description>Indra replied: My dear mother, because I was grossly blinded by selfish interests, I lost sight of religion. When I understood that you were observing a great vow in spiritual life, I wanted to find some fault in you. When I found such a fault, I entered your womb and cut the embryo to pieces.}}
-
+---json
+{
+    "name":"SB 6.18.71",
+    "h1":"Text 71",
+    "title":" Śrīmad Bhāgavatam 6.18.71",
+    "description":"Indra replied: My dear mother, because I was grossly blinded by selfish interests, I lost sight of religion. When I understood that you were observing a great vow in spiritual life, I wanted to find some fault in you. When I found such a fault, I entered your womb and cut the embryo to pieces."
+}
+---
 ====== SB 6.18.71 ======
 
 ===== Text =====

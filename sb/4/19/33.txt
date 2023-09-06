@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.33~~
-~~bc:Text 33~~
-
-{{description>Lord Brahmā continued: Let there be good fortune to both of you, for you and King Indra are both part and parcel of the Supreme Personality of Godhead. Therefore you should not be angry with King Indra, who is nondifferent from you.}}
-
+---json
+{
+    "name":"SB 4.19.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.19.33",
+    "description":"Lord Brahmā continued: Let there be good fortune to both of you, for you and King Indra are both part and parcel of the Supreme Personality of Godhead. Therefore you should not be angry with King Indra, who is nondifferent from you."
+}
+---
 ====== SB 4.19.33 ======
 
 > नैवात्मने महेन्द्राय रोषमाहर्तुमर्हसि ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.69~~
-~~bc:Text 69~~
-
-{{description>Brahmā also entered His heart with intelligence, but even then the Cosmic Being could not be prevailed upon to get up. Lord Rudra also entered His heart with the ego, but even then the Cosmic Being did not stir.}}
-
+---json
+{
+    "name":"SB 3.26.69",
+    "h1":"Text 69",
+    "title":" Śrīmad Bhāgavatam 3.26.69",
+    "description":"Brahmā also entered His heart with intelligence, but even then the Cosmic Being could not be prevailed upon to get up. Lord Rudra also entered His heart with the ego, but even then the Cosmic Being did not stir."
+}
+---
 ====== SB 3.26.69 ======
 
 > बुद्ध्या ब्रह्मापि हृदयं नोदतिष्ठत्तदा विराट् ।

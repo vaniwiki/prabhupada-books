@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.21~~
-~~bc:Text 21~~
-
-{{description>The Personality of Godhead said: O my dear King, even the entirety of whatever there may be within the three worlds to satisfy one's senses cannot satisfy a person whose senses are uncontrolled.}}
-
+---json
+{
+    "name":"SB 8.19.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.19.21",
+    "description":"The Personality of Godhead said: O my dear King, even the entirety of whatever there may be within the three worlds to satisfy one's senses cannot satisfy a person whose senses are uncontrolled."
+}
+---
 ====== SB 8.19.21 ======
 
 ===== Text =====

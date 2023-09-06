@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.19.3~~
-~~bc:Text 3~~
-
-{{description>While wandering in the forest, eating to satisfy his senses, a he-goat by chance approached a well, in which he saw a she-goat standing helplessly, having fallen into it by the influence of the results of fruitive activities.}}
-
+---json
+{
+    "name":"SB 9.19.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 9.19.3",
+    "description":"While wandering in the forest, eating to satisfy his senses, a he-goat by chance approached a well, in which he saw a she-goat standing helplessly, having fallen into it by the influence of the results of fruitive activities."
+}
+---
 ====== SB 9.19.3 ======
 
 ===== Text =====

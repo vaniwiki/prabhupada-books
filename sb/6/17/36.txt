@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.36~~
-~~bc:Text 36~~
-
-{{description>Śrī Śukadeva Gosvāmī said: O King, after hearing this speech by her husband, the demigoddess [Umā, the wife of Lord Śiva] gave up her astonishment at the behavior of King Citraketu and became steady in intelligence.}}
-
+---json
+{
+    "name":"SB 6.17.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 6.17.36",
+    "description":"Śrī Śukadeva Gosvāmī said: O King, after hearing this speech by her husband, the demigoddess [Umā, the wife of Lord Śiva] gave up her astonishment at the behavior of King Citraketu and became steady in intelligence."
+}
+---
 ====== SB 6.17.36 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.3~~
-~~bc:Text 3~~
-
-{{description>Ruci, who was very powerful in his brahminical qualifications and was appointed one of the progenitors of the living entities, begot one son and one daughter by his wife, Ākūti.}}
-
+---json
+{
+    "name":"SB 4.1.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.1.3",
+    "description":"Ruci, who was very powerful in his brahminical qualifications and was appointed one of the progenitors of the living entities, begot one son and one daughter by his wife, Ākūti."
+}
+---
 ====== SB 4.1.3 ======
 
 > प्रजापतिः स भगवान्रुचिस्तस्यामजीजनत् ।

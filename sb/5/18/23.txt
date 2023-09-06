@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.23~~
-~~bc:Text 23~~
-
-{{description>O infallible one, Your lotus palm is the source of all benediction. Therefore Your pure devotees worship it, and You very mercifully place Your hand on their heads. I wish that You may also place Your hand on My head, for although You already bear my insignia of golden streaks on Your chest, I regard this honor as merely a kind of false prestige for me. You show Your real mercy to Your devotees, not to me. Of course, You are the supreme absolute controller, and no one can understand Your motives.}}
-
+---json
+{
+    "name":"SB 5.18.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 5.18.23",
+    "description":"O infallible one, Your lotus palm is the source of all benediction. Therefore Your pure devotees worship it, and You very mercifully place Your hand on their heads. I wish that You may also place Your hand on My head, for although You already bear my insignia of golden streaks on Your chest, I regard this honor as merely a kind of false prestige for me. You show Your real mercy to Your devotees, not to me. Of course, You are the supreme absolute controller, and no one can understand Your motives."
+}
+---
 ====== SB 5.18.23 ======
 
 ===== Text =====

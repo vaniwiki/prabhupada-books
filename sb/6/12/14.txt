@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.14~~
-~~bc:Text 14~~
-
-{{description>Since everything is dependent on the supreme will of the Personality of Godhead, one should be equipoised in fame and defamation, victory and defeat, life and death. In their effects, represented as happiness and distress, one should maintain oneself in equilibrium, without anxiety.}}
-
+---json
+{
+    "name":"SB 6.12.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 6.12.14",
+    "description":"Since everything is dependent on the supreme will of the Personality of Godhead, one should be equipoised in fame and defamation, victory and defeat, life and death. In their effects, represented as happiness and distress, one should maintain oneself in equilibrium, without anxiety."
+}
+---
 ====== SB 6.12.14 ======
 
 ===== Text =====

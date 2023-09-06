@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.20~~
-~~bc:Text 20~~
-
-{{description>Others also, the inhabitants of planets known as Kimpuruṣa-loka, made the demon Maya into a calf, and they milked out mystic powers by which one can disappear immediately from another's vision and appear again in a different form.}}
-
+---json
+{
+    "name":"SB 4.18.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.18.20",
+    "description":"Others also, the inhabitants of planets known as Kimpuruṣa-loka, made the demon Maya into a calf, and they milked out mystic powers by which one can disappear immediately from another's vision and appear again in a different form."
+}
+---
 ====== SB 4.18.20 ======
 
 > अन्ये च मायिनो मायामन्तर्धानाद्भुतात्मनाम् ।

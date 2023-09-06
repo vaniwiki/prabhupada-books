@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.18~~
-~~bc:Text 18~~
-
-{{description>Because the Supreme Lord is the cause of all causes, He is the Supersoul of all individual living entities, and He exists as both the remote and immediate cause. Since He is aloof from the material emanations, He is free from their interactions and is Lord of material nature. You should therefore engage in His devotional service, thinking yourself qualitatively one with Him.}}
-
+---json
+{
+    "name":"SB 4.31.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 4.31.18",
+    "description":"Because the Supreme Lord is the cause of all causes, He is the Supersoul of all individual living entities, and He exists as both the remote and immediate cause. Since He is aloof from the material emanations, He is free from their interactions and is Lord of material nature. You should therefore engage in His devotional service, thinking yourself qualitatively one with Him."
+}
+---
 ====== SB 4.31.18 ======
 
 > तेनैकमात्मानमशेषदेहिनां कालं प्रधानं पुरुषं परेशम् ।

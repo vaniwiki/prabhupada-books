@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.42~~
-~~bc:Text 42~~
-
-{{description>At the time of death, according to the thinking, feeling and willing of the mind, which is involved in fruitive activities, one receives a particular body. In other words, the body develops according to the activities of the mind. Changes of body are due to the flickering of the mind, for otherwise the soul could remain in its original, spiritual body.}}
-
+---json
+{
+    "name":"SB 10.1.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 10.1.42",
+    "description":"At the time of death, according to the thinking, feeling and willing of the mind, which is involved in fruitive activities, one receives a particular body. In other words, the body develops according to the activities of the mind. Changes of body are due to the flickering of the mind, for otherwise the soul could remain in its original, spiritual body."
+}
+---
 ====== SB 10.1.42 ======
 
 ===== Text =====

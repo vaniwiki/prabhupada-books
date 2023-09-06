@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.31~~
-~~bc:Text 31~~
-
-{{description>After giving up the two lambs, the Gandharvas shone brightly like lightning, thus illuminating the house of Purūravā. Urvaśī then saw her husband returning with the lambs in hand, but he was naked, and therefore she left.}}
-
+---json
+{
+    "name":"SB 9.14.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 9.14.31",
+    "description":"After giving up the two lambs, the Gandharvas shone brightly like lightning, thus illuminating the house of Purūravā. Urvaśī then saw her husband returning with the lambs in hand, but he was naked, and therefore she left."
+}
+---
 ====== SB 9.14.31 ======
 
 ===== Text =====

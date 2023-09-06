@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.22.4-5~~
-~~bc:Text 4-5~~
-
-{{description>Another son of Ajamīḍha was known as Ṛkṣa. From Ṛkṣa came a son named Saṁvaraṇa, and from Saṁvaraṇa through the womb of his wife, Tapatī, the daughter of the sun-god, came Kuru, the King of Kurukṣetra. Kuru had four sons-Parīkṣi, Sudhanu, Jahnu and Niṣadha. From Sudhanu, Suhotra was born, and from Suhotra, Cyavana. From Cyavana, Kṛtī was born.}}
-
+---json
+{
+    "name":"SB 9.22.4-5",
+    "h1":"Text 4-5",
+    "title":" Śrīmad Bhāgavatam 9.22.4-5",
+    "description":"Another son of Ajamīḍha was known as Ṛkṣa. From Ṛkṣa came a son named Saṁvaraṇa, and from Saṁvaraṇa through the womb of his wife, Tapatī, the daughter of the sun-god, came Kuru, the King of Kurukṣetra. Kuru had four sons-Parīkṣi, Sudhanu, Jahnu and Niṣadha. From Sudhanu, Suhotra was born, and from Suhotra, Cyavana. From Cyavana, Kṛtī was born."
+}
+---
 ====== SB 9.22.4-5 ======
 
 ===== Text =====

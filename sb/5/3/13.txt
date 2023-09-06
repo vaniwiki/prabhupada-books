@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.3.13~~
-~~bc:Text 13~~
-
-{{description>Dear Lord, here is the great King Nābhi, whose ultimate goal in life is to have a son like You. Your Lordship, his position is like that of a person approaching a very rich man and begging for a little grain. Mahārāja Nābhi is so desirous of having a son that he is worshiping You for a son, although You can offer him any exalted position, including elevation to the heavenly planets or liberation back to Godhead.}}
-
+---json
+{
+    "name":"SB 5.3.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.3.13",
+    "description":"Dear Lord, here is the great King Nābhi, whose ultimate goal in life is to have a son like You. Your Lordship, his position is like that of a person approaching a very rich man and begging for a little grain. Mahārāja Nābhi is so desirous of having a son that he is worshiping You for a son, although You can offer him any exalted position, including elevation to the heavenly planets or liberation back to Godhead."
+}
+---
 ====== SB 5.3.13 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.17~~
-~~bc:Text 17~~
-
-{{description>Because Asamañjasa engaged in such abominable activities, his father gave up affection for him and had him exiled. Then Asamañjasa exhibited his mystic power by reviving the boys and showing them to the King and their parents. After this, Asamañjasa left Ayodhyā.}}
-
+---json
+{
+    "name":"SB 9.8.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 9.8.17",
+    "description":"Because Asamañjasa engaged in such abominable activities, his father gave up affection for him and had him exiled. Then Asamañjasa exhibited his mystic power by reviving the boys and showing them to the King and their parents. After this, Asamañjasa left Ayodhyā."
+}
+---
 ====== SB 9.8.17 ======
 
 ===== Text =====

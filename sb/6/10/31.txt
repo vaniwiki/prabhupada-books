@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.31~~
-~~bc:Text 31~~
-
-{{description>According to his position and the time and circumstances, Vṛtrāsura, the hero among heroes, spoke words that were much to be appreciated by thoughtful men. He called to the heroes of the demons, "O Vipracitti! O Namuci! O Pulomā! O Maya, Anarvā and Śambara! Please hear me and do not flee."}}
-
+---json
+{
+    "name":"SB 6.10.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 6.10.31",
+    "description":"According to his position and the time and circumstances, Vṛtrāsura, the hero among heroes, spoke words that were much to be appreciated by thoughtful men. He called to the heroes of the demons, "O Vipracitti! O Namuci! O Pulomā! O Maya, Anarvā and Śambara! Please hear me and do not flee.""
+}
+---
 ====== SB 6.10.31 ======
 
 ===== Text =====

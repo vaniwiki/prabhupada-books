@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.43~~
-~~bc:Text 43~~
-
-{{description>O Lord, You assume incarnations for the creation, maintenance and dissolution of the cosmic manifestation, and therefore we all take shelter of Your lotus feet because they always award remembrance and courage to Your devotees.}}
-
+---json
+{
+    "name":"SB 3.5.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.5.43",
+    "description":"O Lord, You assume incarnations for the creation, maintenance and dissolution of the cosmic manifestation, and therefore we all take shelter of Your lotus feet because they always award remembrance and courage to Your devotees."
+}
+---
 ====== SB 3.5.43 ======
 
 > विश्वस्य जन्मस्थितिसंयमार्थे कृतावतारस्य पदाम्बुजं ते ।

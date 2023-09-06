@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.28~~
-~~bc:Text 28~~
-
-{{description>During the reign of Tāmasa Manu, among the demigods were the Satyakas, Haris and Vīras. The heavenly King, Indra, was Triśikha. The sages in saptarṣi-dhāma were headed by Jyotirdhāma.}}
-
+---json
+{
+    "name":"SB 8.1.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.1.28",
+    "description":"During the reign of Tāmasa Manu, among the demigods were the Satyakas, Haris and Vīras. The heavenly King, Indra, was Triśikha. The sages in saptarṣi-dhāma were headed by Jyotirdhāma."
+}
+---
 ====== SB 8.1.28 ======
 
 ===== Text =====

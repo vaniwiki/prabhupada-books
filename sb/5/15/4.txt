@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.4~~
-~~bc:Text 4~~
-
-{{description>King Pratīha personally propagated the principles of self-realization. In this way, not only was he purified, but he became a great devotee of the Supreme Person, Lord Viṣṇu, and directly realized Him.}}
-
+---json
+{
+    "name":"SB 5.15.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 5.15.4",
+    "description":"King Pratīha personally propagated the principles of self-realization. In this way, not only was he purified, but he became a great devotee of the Supreme Person, Lord Viṣṇu, and directly realized Him."
+}
+---
 ====== SB 5.15.4 ======
 
 ===== Text =====

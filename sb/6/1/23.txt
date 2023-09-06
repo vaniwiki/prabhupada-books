@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.23~~
-~~bc:Text 23~~
-
-{{description>My dear King, while he thus spent his time in abominable, sinful activities to maintain his family of many sons, eighty-eight years of his life passed by.}}
-
+---json
+{
+    "name":"SB 6.1.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 6.1.23",
+    "description":"My dear King, while he thus spent his time in abominable, sinful activities to maintain his family of many sons, eighty-eight years of his life passed by."
+}
+---
 ====== SB 6.1.23 ======
 
 ===== Text =====

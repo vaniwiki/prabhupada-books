@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.16.3~~
-~~bc:Text 3~~
-
-{{description>Although we are unable to glorify you adequately, we nonetheless have a transcendental taste for glorifying your activities. We shall try to glorify you according to the instructions received from authoritative sages and scholars. Whatever we speak, however, is always inadequate and very insignificant. Dear King, because you are a direct incarnation of the Supreme Personality of Godhead, all your activities are liberal and ever laudable.}}
-
+---json
+{
+    "name":"SB 4.16.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.16.3",
+    "description":"Although we are unable to glorify you adequately, we nonetheless have a transcendental taste for glorifying your activities. We shall try to glorify you according to the instructions received from authoritative sages and scholars. Whatever we speak, however, is always inadequate and very insignificant. Dear King, because you are a direct incarnation of the Supreme Personality of Godhead, all your activities are liberal and ever laudable."
+}
+---
 ====== SB 4.16.3 ======
 
 > अथाप्युदारश्रवसः पृथोर्हरेः कलावतारस्य कथामृतादृताः ।

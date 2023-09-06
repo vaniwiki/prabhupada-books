@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.17~~
-~~bc:Text 17~~
-
-{{description>Everlastingly beautiful and youthful women, who were dressed with clean garments, glittered in the city like fires with flames. They all possessed the quality of śyāmā.}}
-
+---json
+{
+    "name":"SB 8.15.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 8.15.17",
+    "description":"Everlastingly beautiful and youthful women, who were dressed with clean garments, glittered in the city like fires with flames. They all possessed the quality of śyāmā."
+}
+---
 ====== SB 8.15.17 ======
 
 ===== Text =====

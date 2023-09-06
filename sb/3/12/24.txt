@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.24~~
-~~bc:Text 24~~
-
-{{description>Pulastya was generated from the ears, Aṅgirā from the mouth, Atri from the eyes, Marīci from the mind and Pulaha from the navel of Brahmā.}}
-
+---json
+{
+    "name":"SB 3.12.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.12.24",
+    "description":"Pulastya was generated from the ears, Aṅgirā from the mouth, Atri from the eyes, Marīci from the mind and Pulaha from the navel of Brahmā."
+}
+---
 ====== SB 3.12.24 ======
 
 > पुलहो नाभितो जज्ञे पुलस्त्यः कर्णयोरृषिः ।

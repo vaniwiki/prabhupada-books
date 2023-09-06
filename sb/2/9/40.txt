@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.40~~
-~~bc:Text 40~~
-
-{{description>Thus once upon a time the forefather of living entities and the father of religiousness, Lord Brahmā, situated himself in acts of regulative principles, desiring self-interest for the welfare of all living entities.}}
-
+---json
+{
+    "name":"SB 2.9.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 2.9.40",
+    "description":"Thus once upon a time the forefather of living entities and the father of religiousness, Lord Brahmā, situated himself in acts of regulative principles, desiring self-interest for the welfare of all living entities."
+}
+---
 ====== SB 2.9.40 ======
 
 > प्रजापतिर्धर्मपतिरेकदा नियमान्यमान् ।

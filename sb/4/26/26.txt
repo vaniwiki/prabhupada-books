@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.26~~
-~~bc:Text 26~~
-
-{{description>My dear Queen, due to my sinful desires I went to the forest to hunt without asking you. Therefore I must admit that I have offended you. Nonetheless, thinking of me as your most intimate subordinate, you should still be very much pleased with me. Factually I am very much bereaved, but being pierced by the arrow of Cupid, I am feeling lusty. But where is the beautiful woman who would give up her lusty husband and refuse to unite with him?}}
-
+---json
+{
+    "name":"SB 4.26.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.26.26",
+    "description":"My dear Queen, due to my sinful desires I went to the forest to hunt without asking you. Therefore I must admit that I have offended you. Nonetheless, thinking of me as your most intimate subordinate, you should still be very much pleased with me. Factually I am very much bereaved, but being pierced by the arrow of Cupid, I am feeling lusty. But where is the beautiful woman who would give up her lusty husband and refuse to unite with him?"
+}
+---
 ====== SB 4.26.26 ======
 
 > तन्मे प्रसीद सुहृदः कृतकिल्बिषस्य स्वैरं गतस्य मृगयां व्यसनातुरस्य ।

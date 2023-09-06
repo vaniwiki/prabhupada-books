@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.21~~
-~~bc:Text 21~~
-
-{{description>While in trance, Lord Brahmā heard the words of Lord Viṣṇu vibrating in the sky. Thus he told the demigods: O demigods, hear from me the order of Kṣīrodakaśāyī Viṣṇu, the Supreme Person, and execute it attentively without delay.}}
-
+---json
+{
+    "name":"SB 10.1.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 10.1.21",
+    "description":"While in trance, Lord Brahmā heard the words of Lord Viṣṇu vibrating in the sky. Thus he told the demigods: O demigods, hear from me the order of Kṣīrodakaśāyī Viṣṇu, the Supreme Person, and execute it attentively without delay."
+}
+---
 ====== SB 10.1.21 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.18~~
-~~bc:Text 18~~
-
-{{description>Śrī Sūta Gosvāmī said: O God, although we are born in a mixed caste, we are still promoted in birthright simply by serving and following the great who are advanced in knowledge. Even by conversing with such great souls, one can without delay cleanse oneself of all disqualifications resulting from lower births.}}
-
+---json
+{
+    "name":"SB 1.18.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 1.18.18",
+    "description":"Śrī Sūta Gosvāmī said: O God, although we are born in a mixed caste, we are still promoted in birthright simply by serving and following the great who are advanced in knowledge. Even by conversing with such great souls, one can without delay cleanse oneself of all disqualifications resulting from lower births."
+}
+---
 ====== SB 1.18.18 ======
 
 > सूत उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.29~~
-~~bc:Text 29~~
-
-{{description>Your Lordship, being the origin of the life of this material world, is the master and controller of the living entities, both moving and stationary, and you inspire their consciousness. You maintain the mind and the acting and knowledge-acquiring senses, and therefore you are the great controller of all the material elements and their qualities, and you are the controller of all desires.}}
-
+---json
+{
+    "name":"SB 7.3.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 7.3.29",
+    "description":"Your Lordship, being the origin of the life of this material world, is the master and controller of the living entities, both moving and stationary, and you inspire their consciousness. You maintain the mind and the acting and knowledge-acquiring senses, and therefore you are the great controller of all the material elements and their qualities, and you are the controller of all desires."
+}
+---
 ====== SB 7.3.29 ======
 
 ===== Text =====

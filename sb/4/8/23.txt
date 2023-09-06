@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.23~~
-~~bc:Text 23~~
-
-{{description>My dear Dhruva, as far as I am concerned, I do not find anyone who can mitigate your distress but the Supreme Personality of Godhead, whose eyes are like lotus petals. Many demigods such as Lord Brahmā seek the pleasure of the goddess of fortune, but the goddess of fortune herself, with a lotus flower in her hand, is always ready to render service to the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 4.8.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.8.23",
+    "description":"My dear Dhruva, as far as I am concerned, I do not find anyone who can mitigate your distress but the Supreme Personality of Godhead, whose eyes are like lotus petals. Many demigods such as Lord Brahmā seek the pleasure of the goddess of fortune, but the goddess of fortune herself, with a lotus flower in her hand, is always ready to render service to the Supreme Lord."
+}
+---
 ====== SB 4.8.23 ======
 
 > नान्यं ततः पद्मपलाशलोचनाद्दुःखच्छिदं ते मृगयामि कञ्चन ।

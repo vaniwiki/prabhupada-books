@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.47-48~~
-~~bc:Text 47-48~~
-
-{{description>From the womb of Pauravī came twelve sons, including Bhūta, Subhadra, Bhadrabāhu, Durmada and Bhadra. Nanda, Upananda, Kṛtaka, Śūra and others were born from the womb of Madirā. Bhadrā [Kauśalyā] gave birth to only one son, named Keśī.}}
-
+---json
+{
+    "name":"SB 9.24.47-48",
+    "h1":"Text 47-48",
+    "title":" Śrīmad Bhāgavatam 9.24.47-48",
+    "description":"From the womb of Pauravī came twelve sons, including Bhūta, Subhadra, Bhadrabāhu, Durmada and Bhadra. Nanda, Upananda, Kṛtaka, Śūra and others were born from the womb of Madirā. Bhadrā [Kauśalyā] gave birth to only one son, named Keśī."
+}
+---
 ====== SB 9.24.47-48 ======
 
 ===== Text =====

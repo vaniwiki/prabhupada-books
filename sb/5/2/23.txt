@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.23~~
-~~bc:Text 23~~
-
-{{description>After the departure of their father, the nine brothers married the nine daughters of Meru named Merudevī, Pratirūpā, Ugradaṁṣṭrī, Latā, Ramyā, Śyāmā, Nārī, Bhadrā and Devavīti.}}
-
+---json
+{
+    "name":"SB 5.2.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 5.2.23",
+    "description":"After the departure of their father, the nine brothers married the nine daughters of Meru named Merudevī, Pratirūpā, Ugradaṁṣṭrī, Latā, Ramyā, Śyāmā, Nārī, Bhadrā and Devavīti."
+}
+---
 ====== SB 5.2.23 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.35-36~~
-~~bc:Text 35-36~~
-
-{{description>King Pṛthu worshiped the demigods, the great sages, the inhabitants of Pitṛloka, the inhabitants of Gandharvaloka and those of Siddhaloka, Cāraṇaloka, Pannagaloka, Kinnaraloka, Apsaroloka, the earthly planets and the planets of the birds. He also worshiped many other living entities who presented themselves in the sacrificial arena. With folded hands he worshiped all these, as well as the Supreme Personality of Godhead and the personal associates of the Lord, by offering sweet words and as much wealth as possible. After this function, they all went back to their respective abodes, following in the footsteps of Lord Viṣṇu.}}
-
+---json
+{
+    "name":"SB 4.20.35-36",
+    "h1":"Text 35-36",
+    "title":" Śrīmad Bhāgavatam 4.20.35-36",
+    "description":"King Pṛthu worshiped the demigods, the great sages, the inhabitants of Pitṛloka, the inhabitants of Gandharvaloka and those of Siddhaloka, Cāraṇaloka, Pannagaloka, Kinnaraloka, Apsaroloka, the earthly planets and the planets of the birds. He also worshiped many other living entities who presented themselves in the sacrificial arena. With folded hands he worshiped all these, as well as the Supreme Personality of Godhead and the personal associates of the Lord, by offering sweet words and as much wealth as possible. After this function, they all went back to their respective abodes, following in the footsteps of Lord Viṣṇu."
+}
+---
 ====== SB 4.20.35-36 ======
 
 > देवर्षिपितृगन्धर्व सिद्धचारणपन्नगाः ।

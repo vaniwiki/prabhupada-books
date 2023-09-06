@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.14-15~~
-~~bc:Text 14-15~~
-
-{{description>The demigods and demons then observed a fast. After bathing, they offered clarified butter and oblations into the fire and gave charity to the cows and to the brāhmaṇas and members of the other orders of society, namely the kṣatriyas, vaiśyas and śūdras, who were all rewarded as they deserved. Thereafter, the demigods and demons performed ritualistic ceremonies under the directions of the brāhmaṇas. Then they dressed themselves with new garments according to their own choice, decorated their bodies with ornaments, and sat facing east on seats made of kuśa grass.}}
-
+---json
+{
+    "name":"SB 8.9.14-15",
+    "h1":"Text 14-15",
+    "title":" Śrīmad Bhāgavatam 8.9.14-15",
+    "description":"The demigods and demons then observed a fast. After bathing, they offered clarified butter and oblations into the fire and gave charity to the cows and to the brāhmaṇas and members of the other orders of society, namely the kṣatriyas, vaiśyas and śūdras, who were all rewarded as they deserved. Thereafter, the demigods and demons performed ritualistic ceremonies under the directions of the brāhmaṇas. Then they dressed themselves with new garments according to their own choice, decorated their bodies with ornaments, and sat facing east on seats made of kuśa grass."
+}
+---
 ====== SB 8.9.14-15 ======
 
 ===== Text =====

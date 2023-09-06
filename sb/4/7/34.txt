@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.34~~
-~~bc:Text 34~~
-
-{{description>The sages prayed: Dear Lord, Your activities are most wonderful, and although You do everything by Your different potencies, You are not at all attached to such activities. You are not even attached to the goddess of fortune, who is worshiped by the great demigods like Brahmā, who pray to achieve her mercy.}}
-
+---json
+{
+    "name":"SB 4.7.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 4.7.34",
+    "description":"The sages prayed: Dear Lord, Your activities are most wonderful, and although You do everything by Your different potencies, You are not at all attached to such activities. You are not even attached to the goddess of fortune, who is worshiped by the great demigods like Brahmā, who pray to achieve her mercy."
+}
+---
 ====== SB 4.7.34 ======
 
 > ऋषय ऊचुः

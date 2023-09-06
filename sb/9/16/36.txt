@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.36~~
-~~bc:Text 36~~
-
-{{description>Viśvāmitra said, "O Kuśikas [descendants of Kauśika], this Devarāta is my son and is one of you. Please obey his orders." O King Parīkṣit, Viśvāmitra had many other sons, such as Aṣṭaka, Hārīta, Jaya and Kratumān.}}
-
+---json
+{
+    "name":"SB 9.16.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 9.16.36",
+    "description":"Viśvāmitra said, "O Kuśikas [descendants of Kauśika], this Devarāta is my son and is one of you. Please obey his orders." O King Parīkṣit, Viśvāmitra had many other sons, such as Aṣṭaka, Hārīta, Jaya and Kratumān."
+}
+---
 ====== SB 9.16.36 ======
 
 ===== Text =====

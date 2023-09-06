@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.12~~
-~~bc:Text 12~~
-
-{{description>Many great serpents reside there with gems on their hoods, and the effulgence of these gems dissipates the darkness in all directions.}}
-
+---json
+{
+    "name":"SB 5.24.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.24.12",
+    "description":"Many great serpents reside there with gems on their hoods, and the effulgence of these gems dissipates the darkness in all directions."
+}
+---
 ====== SB 5.24.12 ======
 
 ===== Text =====

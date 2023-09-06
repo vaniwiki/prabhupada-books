@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.29~~
-~~bc:Text 29~~
-
-{{description>Arjuna's constant remembrance of the lotus feet of Lord Śrī Kṛṣṇa rapidly increased his devotion, and as a result all the trash in his thoughts subsided.}}
-
+---json
+{
+    "name":"SB 1.15.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.15.29",
+    "description":"Arjuna's constant remembrance of the lotus feet of Lord Śrī Kṛṣṇa rapidly increased his devotion, and as a result all the trash in his thoughts subsided."
+}
+---
 ====== SB 1.15.29 ======
 
 > वासुदेवाङ्घ्र्यनुध्यान परिबृंहितरंहसा ।

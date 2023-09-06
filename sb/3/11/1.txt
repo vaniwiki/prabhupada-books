@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.1~~
-~~bc:Text 1~~
-
-{{description>The material manifestation's ultimate particle, which is indivisible and not formed into a body, is called the atom. It exists always as an invisible identity, even after the dissolution of all forms. The material body is but a combination of such atoms, but it is misunderstood by the common man.}}
-
+---json
+{
+    "name":"SB 3.11.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.11.1",
+    "description":"The material manifestation's ultimate particle, which is indivisible and not formed into a body, is called the atom. It exists always as an invisible identity, even after the dissolution of all forms. The material body is but a combination of such atoms, but it is misunderstood by the common man."
+}
+---
 ====== SB 3.11.1 ======
 
 > मैत्रेय उवाच

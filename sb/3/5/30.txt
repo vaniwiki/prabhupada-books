@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.30~~
-~~bc:Text 30~~
-
-{{description>The false ego is transformed into mind by interaction with the mode of goodness. All the demigods who control the phenomenal world are also products of the same principle, namely the interaction of false ego and the mode of goodness.}}
-
+---json
+{
+    "name":"SB 3.5.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.5.30",
+    "description":"The false ego is transformed into mind by interaction with the mode of goodness. All the demigods who control the phenomenal world are also products of the same principle, namely the interaction of false ego and the mode of goodness."
+}
+---
 ====== SB 3.5.30 ======
 
 > अहंतत्त्वाद्विकुर्वाणान्मनो वैकारिकादभूत् ।

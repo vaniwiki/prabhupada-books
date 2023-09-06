@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.40~~
-~~bc:Text 40~~
-
-{{description>Any human being who prays like Brahmā, and who thus worships Me, shall very soon be blessed with the fulfillment of all his desires, for I am the Lord of all benediction.}}
-
+---json
+{
+    "name":"SB 3.9.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 3.9.40",
+    "description":"Any human being who prays like Brahmā, and who thus worships Me, shall very soon be blessed with the fulfillment of all his desires, for I am the Lord of all benediction."
+}
+---
 ====== SB 3.9.40 ======
 
 > य एतेन पुमान्नित्यं स्तुत्वा स्तोत्रेण मां भजेत् ।

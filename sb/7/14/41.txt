@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.41~~
-~~bc:Text 41~~
-
-{{description>My dear King, of all persons a qualified brāhmaṇa must be accepted as the best within this material world because such a brāhmaṇa, by practicing austerity, Vedic studies and satisfaction, becomes the counterpart body of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 7.14.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 7.14.41",
+    "description":"My dear King, of all persons a qualified brāhmaṇa must be accepted as the best within this material world because such a brāhmaṇa, by practicing austerity, Vedic studies and satisfaction, becomes the counterpart body of the Supreme Personality of Godhead."
+}
+---
 ====== SB 7.14.41 ======
 
 ===== Text =====

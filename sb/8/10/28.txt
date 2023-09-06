@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.28~~
-~~bc:Text 28~~
-
-{{description>O King, Mahārāja Bali fought with Indra, Kārttikeya with Tāraka, Varuṇa with Heti, and Mitra with Praheti.}}
-
+---json
+{
+    "name":"SB 8.10.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.10.28",
+    "description":"O King, Mahārāja Bali fought with Indra, Kārttikeya with Tāraka, Varuṇa with Heti, and Mitra with Praheti."
+}
+---
 ====== SB 8.10.28 ======
 
 ===== Text =====

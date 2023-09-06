@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.14~~
-~~bc:Text 14~~
-
-{{description>For a brāhmaṇa there are six occupational duties. A kṣatriya should not accept charity, but he may perform the other five of these duties. A king or kṣatriya is not allowed to levy taxes on brāhmaṇas, but he may make his livelihood by levying minimal taxes, customs duties, and penalty fines upon his other subjects.}}
-
+---json
+{
+    "name":"SB 7.11.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 7.11.14",
+    "description":"For a brāhmaṇa there are six occupational duties. A kṣatriya should not accept charity, but he may perform the other five of these duties. A king or kṣatriya is not allowed to levy taxes on brāhmaṇas, but he may make his livelihood by levying minimal taxes, customs duties, and penalty fines upon his other subjects."
+}
+---
 ====== SB 7.11.14 ======
 
 ===== Text =====

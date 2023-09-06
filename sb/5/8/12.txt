@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.12~~
-~~bc:Text 12~~
-
-{{description>When Mahārāja Bharata wanted to enter the forest to collect kuśa grass, flowers, wood, leaves, fruits, roots and water, he would fear that dogs, jackals, tigers and other ferocious animals might kill the deer. He would therefore always take the deer with him when entering the forest.}}
-
+---json
+{
+    "name":"SB 5.8.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.8.12",
+    "description":"When Mahārāja Bharata wanted to enter the forest to collect kuśa grass, flowers, wood, leaves, fruits, roots and water, he would fear that dogs, jackals, tigers and other ferocious animals might kill the deer. He would therefore always take the deer with him when entering the forest."
+}
+---
 ====== SB 5.8.12 ======
 
 ===== Text =====

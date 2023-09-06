@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.1~~
-~~bc:Text 1~~
-
-{{description>King Parīkṣit inquired from Śukadeva Gosvāmī: O great sage, why did King Priyavrata, who was a great, self-realized devotee of the Lord, remain in household life, which is the root cause of the bondage of karma [fruitive activities] and which defeats the mission of human life?}}
-
+---json
+{
+    "name":"SB 5.1.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.1.1",
+    "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: O great sage, why did King Priyavrata, who was a great, self-realized devotee of the Lord, remain in household life, which is the root cause of the bondage of karma [fruitive activities] and which defeats the mission of human life?"
+}
+---
 ====== SB 5.1.1 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.24~~
-~~bc:Text 24~~
-
-{{description>Approaching the Supreme Personality of Godhead, the goddess of fortune placed upon His shoulders the garland of newly grown lotus flowers, which was surrounded by humming bumblebees searching for honey. Then, expecting to get a place on the bosom of the Lord, she remained standing by His side, her face smiling in shyness.}}
-
+---json
+{
+    "name":"SB 8.8.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 8.8.24",
+    "description":"Approaching the Supreme Personality of Godhead, the goddess of fortune placed upon His shoulders the garland of newly grown lotus flowers, which was surrounded by humming bumblebees searching for honey. Then, expecting to get a place on the bosom of the Lord, she remained standing by His side, her face smiling in shyness."
+}
+---
 ====== SB 8.8.24 ======
 
 ===== Text =====

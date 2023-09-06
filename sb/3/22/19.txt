@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.19~~
-~~bc:Text 19~~
-
-{{description>Therefore I shall accept this chaste girl as my wife, on the condition that after she bears semen from my body, I shall accept the life of devotional service accepted by the most perfect human beings. That process was described by Lord Viṣṇu. It is free from envy.}}
-
+---json
+{
+    "name":"SB 3.22.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.22.19",
+    "description":"Therefore I shall accept this chaste girl as my wife, on the condition that after she bears semen from my body, I shall accept the life of devotional service accepted by the most perfect human beings. That process was described by Lord Viṣṇu. It is free from envy."
+}
+---
 ====== SB 3.22.19 ======
 
 > अतो भजिष्ये समयेन साध्वीं यावत्तेजो बिभृयादात्मनो मे ।

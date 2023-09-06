@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.15.3~~
-~~bc:Text 3~~
-
-{{description>The fortunate demigods said: O great one, just see this darkness, which you know very well and which is causing us anxieties. Because the influence of time cannot touch you, there is nothing unmanifest before you.}}
-
+---json
+{
+    "name":"SB 3.15.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.15.3",
+    "description":"The fortunate demigods said: O great one, just see this darkness, which you know very well and which is causing us anxieties. Because the influence of time cannot touch you, there is nothing unmanifest before you."
+}
+---
 ====== SB 3.15.3 ======
 
 > देवा ऊचुः

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.9.13~~
-~~bc:Text 13~~
-
-{{description>The leader of the dacoits captured a man-animal for sacrifice, but he escaped, and the leader ordered his followers to find him. They ran in different directions but could not find him. Wandering here and there in the middle of the night, covered by dense darkness, they came to a paddy field where they saw the exalted son of the Āṅgirā family [Jaḍa Bharata], who was sitting in an elevated place guarding the field against the attacks of deer and wild pigs.}}
-
+---json
+{
+    "name":"SB 5.9.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.9.13",
+    "description":"The leader of the dacoits captured a man-animal for sacrifice, but he escaped, and the leader ordered his followers to find him. They ran in different directions but could not find him. Wandering here and there in the middle of the night, covered by dense darkness, they came to a paddy field where they saw the exalted son of the Āṅgirā family [Jaḍa Bharata], who was sitting in an elevated place guarding the field against the attacks of deer and wild pigs."
+}
+---
 ====== SB 5.9.13 ======
 
 ===== Text =====

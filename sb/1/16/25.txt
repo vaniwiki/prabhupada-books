@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.25~~
-~~bc:Text 25~~
-
-{{description>The earthly deity [in the form of a cow] thus replied to the personality of religious principles [in the form of a bull]: O Dharma, whatever you have inquired from me shall be known to you. I shall try to reply to all those questions. Once you too were maintained by your four legs, and you increased happiness all over the universe by the mercy of the Lord.}}
-
+---json
+{
+    "name":"SB 1.16.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 1.16.25",
+    "description":"The earthly deity [in the form of a cow] thus replied to the personality of religious principles [in the form of a bull]: O Dharma, whatever you have inquired from me shall be known to you. I shall try to reply to all those questions. Once you too were maintained by your four legs, and you increased happiness all over the universe by the mercy of the Lord."
+}
+---
 ====== SB 1.16.25 ======
 
 > धरण्युवाच

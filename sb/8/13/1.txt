@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: The present Manu, who is named Śrāddhadeva, is the son of Vivasvān, the predominating deity on the sun planet. Śrāddhadeva is the seventh Manu. Now please hear from me as I describe his sons.}}
-
+---json
+{
+    "name":"SB 8.13.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.13.1",
+    "description":"Śukadeva Gosvāmī said: The present Manu, who is named Śrāddhadeva, is the son of Vivasvān, the predominating deity on the sun planet. Śrāddhadeva is the seventh Manu. Now please hear from me as I describe his sons."
+}
+---
 ====== SB 8.13.1 ======
 
 ===== Text =====

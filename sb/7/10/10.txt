@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.10~~
-~~bc:Text 10~~
-
-{{description>O my Lord, full of six opulences, O Supreme Person! O Supreme Soul, killer of all miseries! O Supreme Person in the form of a wonderful lion and man, let me offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 7.10.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 7.10.10",
+    "description":"O my Lord, full of six opulences, O Supreme Person! O Supreme Soul, killer of all miseries! O Supreme Person in the form of a wonderful lion and man, let me offer my respectful obeisances unto You."
+}
+---
 ====== SB 7.10.10 ======
 
 ===== Text =====

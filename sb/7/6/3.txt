@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.6.3~~
-~~bc:Text 3~~
-
-{{description>Prahlāda Mahārāja continued: My dear friends born of demoniac families, the happiness perceived with reference to the sense objects by contact with the body can be obtained in any form of life, according to one's past fruitive activities. Such happiness is automatically obtained without endeavor, just as we obtain distress.}}
-
+---json
+{
+    "name":"SB 7.6.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 7.6.3",
+    "description":"Prahlāda Mahārāja continued: My dear friends born of demoniac families, the happiness perceived with reference to the sense objects by contact with the body can be obtained in any form of life, according to one's past fruitive activities. Such happiness is automatically obtained without endeavor, just as we obtain distress."
+}
+---
 ====== SB 7.6.3 ======
 
 ===== Text =====

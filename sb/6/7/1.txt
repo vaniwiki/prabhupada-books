@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.7.1~~
-~~bc:Text 1~~
-
-{{description>Mahārāja Parīkṣit inquired from Śukadeva Gosvāmī: O great sage, why did the spiritual master of the demigods, Bṛhaspati, reject the demigods, who were his own disciples? What offense did the demigods commit against their spiritual master? Please describe to me this incident.}}
-
+---json
+{
+    "name":"SB 6.7.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.7.1",
+    "description":"Mahārāja Parīkṣit inquired from Śukadeva Gosvāmī: O great sage, why did the spiritual master of the demigods, Bṛhaspati, reject the demigods, who were his own disciples? What offense did the demigods commit against their spiritual master? Please describe to me this incident."
+}
+---
 ====== SB 6.7.1 ======
 
 ===== Text =====

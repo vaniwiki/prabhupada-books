@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.27~~
-~~bc:Text 27~~
-
-{{description>My dear lotus-eyed, who are those eleven strong bodyguards with you, and who are those ten specific servants? Who are those women following the ten servants, and who is the snake that is preceding you?}}
-
+---json
+{
+    "name":"SB 4.25.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.25.27",
+    "description":"My dear lotus-eyed, who are those eleven strong bodyguards with you, and who are those ten specific servants? Who are those women following the ten servants, and who is the snake that is preceding you?"
+}
+---
 ====== SB 4.25.27 ======
 
 > क एतेऽनुपथा ये त एकादश महाभटाः ।

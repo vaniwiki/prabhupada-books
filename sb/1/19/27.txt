@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.27~~
-~~bc:Text 27~~
-
-{{description>His collarbone was fleshy, his chest broad and thick, his navel deep and his abdomen beautifully striped. His arms were long, and curly hair was strewn over his beautiful face. He was naked, and the hue of his body reflected that of Lord Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 1.19.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.19.27",
+    "description":"His collarbone was fleshy, his chest broad and thick, his navel deep and his abdomen beautifully striped. His arms were long, and curly hair was strewn over his beautiful face. He was naked, and the hue of his body reflected that of Lord Kṛṣṇa."
+}
+---
 ====== SB 1.19.27 ======
 
 > निगूढजत्रुं पृथुतुङ्गवक्षसमावर्तनाभिं वलिवल्गूदरं च ।

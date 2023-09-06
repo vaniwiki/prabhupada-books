@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.29~~
-~~bc:Text 29~~
-
-{{description>Only because of different causes does a person see a difference between himself and others, just as one sees the reflection of a body appearing differently manifested on water, on oil or in a mirror.}}
-
+---json
+{
+    "name":"SB 4.22.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.22.29",
+    "description":"Only because of different causes does a person see a difference between himself and others, just as one sees the reflection of a body appearing differently manifested on water, on oil or in a mirror."
+}
+---
 ====== SB 4.22.29 ======
 
 > निमित्ते सति सर्वत्र जलादावपि पूरुषः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.33~~
-~~bc:Text 33~~
-
-{{description>When the demigods had disappeared, Bali Mahārāja, the son of Virocana, entered the heavenly kingdom, and from there he brought the three worlds under his control.}}
-
+---json
+{
+    "name":"SB 8.15.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 8.15.33",
+    "description":"When the demigods had disappeared, Bali Mahārāja, the son of Virocana, entered the heavenly kingdom, and from there he brought the three worlds under his control."
+}
+---
 ====== SB 8.15.33 ======
 
 ===== Text =====

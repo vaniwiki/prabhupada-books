@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.43~~
-~~bc:Text 43~~
-
-{{description>Sūta Gosvāmī said: Thus Bhīṣmadeva merged himself in the Supersoul, Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, with his mind, speech, sight and actions, and thus he became silent, and his breathing stopped.}}
-
+---json
+{
+    "name":"SB 1.9.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 1.9.43",
+    "description":"Sūta Gosvāmī said: Thus Bhīṣmadeva merged himself in the Supersoul, Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, with his mind, speech, sight and actions, and thus he became silent, and his breathing stopped."
+}
+---
 ====== SB 1.9.43 ======
 
 > सूत उवाच

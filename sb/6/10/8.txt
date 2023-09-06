@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.8~~
-~~bc:Text 8~~
-
-{{description>O demigods, one who has no compassion for humanity in its suffering and does not sacrifice his impermanent body for the higher causes of religious principles or eternal glory is certainly pitied even by the immovable beings.}}
-
+---json
+{
+    "name":"SB 6.10.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 6.10.8",
+    "description":"O demigods, one who has no compassion for humanity in its suffering and does not sacrifice his impermanent body for the higher causes of religious principles or eternal glory is certainly pitied even by the immovable beings."
+}
+---
 ====== SB 6.10.8 ======
 
 ===== Text =====

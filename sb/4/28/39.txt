@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.39~~
-~~bc:Text 39~~
-
-{{description>In this way he stayed immovable in one place for one hundred years by the calculations of the demigods. After this time, he developed pure devotional attraction for Kṛṣṇa, the Supreme Personality of Godhead, and remained fixed in that position.}}
-
+---json
+{
+    "name":"SB 4.28.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.28.39",
+    "description":"In this way he stayed immovable in one place for one hundred years by the calculations of the demigods. After this time, he developed pure devotional attraction for Kṛṣṇa, the Supreme Personality of Godhead, and remained fixed in that position."
+}
+---
 ====== SB 4.28.39 ======
 
 > आस्ते स्थाणुरिवैकत्र दिव्यं वर्षशतं स्थिरः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.8~~
-~~bc:Text 8~~
-
-{{description>King Uttānapāda had two queens, named Sunīti and Suruci. Suruci was much more dear to the King; Sunīti, who had a son named Dhruva, was not his favorite.}}
-
+---json
+{
+    "name":"SB 4.8.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.8.8",
+    "description":"King Uttānapāda had two queens, named Sunīti and Suruci. Suruci was much more dear to the King; Sunīti, who had a son named Dhruva, was not his favorite."
+}
+---
 ====== SB 4.8.8 ======
 
 > जाये उत्तानपादस्य सुनीतिः सुरुचिस्तयोः ।

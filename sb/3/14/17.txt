@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.17~~
-~~bc:Text 17~~
-
-{{description>O afflicted one, I shall forthwith gratify whatever desire is dear to you, for who else but you is the source of the three perfections of liberation?}}
-
+---json
+{
+    "name":"SB 3.14.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.14.17",
+    "description":"O afflicted one, I shall forthwith gratify whatever desire is dear to you, for who else but you is the source of the three perfections of liberation?"
+}
+---
 ====== SB 3.14.17 ======
 
 > एष तेऽहं विधास्यामि प्रियं भीरु यदिच्छसि ।

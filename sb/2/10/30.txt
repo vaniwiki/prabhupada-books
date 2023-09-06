@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.30~~
-~~bc:Text 30~~
-
-{{description>When there was a desire to think about the activities of His own energy, then the heart (the seat of the mind), the mind, the moon, determination and all desire became manifested.}}
-
+---json
+{
+    "name":"SB 2.10.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 2.10.30",
+    "description":"When there was a desire to think about the activities of His own energy, then the heart (the seat of the mind), the mind, the moon, determination and all desire became manifested."
+}
+---
 ====== SB 2.10.30 ======
 
 > निदिध्यासोरात्ममायां हृदयं निरभिद्यत ।

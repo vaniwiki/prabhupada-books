@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.32~~
-~~bc:Text 32~~
-
-{{description>Dhruva was seated in the transcendental airplane, which was just about to start, when he remembered his poor mother, Sunīti. He thought to himself, "How shall I go alone to the Vaikuṇṭha planet and leave behind my poor mother?"}}
-
+---json
+{
+    "name":"SB 4.12.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.12.32",
+    "description":"Dhruva was seated in the transcendental airplane, which was just about to start, when he remembered his poor mother, Sunīti. He thought to himself, "How shall I go alone to the Vaikuṇṭha planet and leave behind my poor mother?""
+}
+---
 ====== SB 4.12.32 ======
 
 > स च स्वर्लोकमारोक्ष्यन्सुनीतिं जननीं ध्रुवः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.1~~
-~~bc:Text 1~~
-
-{{description>Thereafter, all of them [the descendants of Vṛṣṇi and Bhoja], being permitted by the brāhmaṇas, partook of the remnants of prasāda and also drank liquor made of rice. By drinking they all became delirious, and, bereft of knowledge, they touched the cores of each other's hearts with harsh words.}}
-
+---json
+{
+    "name":"SB 3.4.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.4.1",
+    "description":"Thereafter, all of them [the descendants of Vṛṣṇi and Bhoja], being permitted by the brāhmaṇas, partook of the remnants of prasāda and also drank liquor made of rice. By drinking they all became delirious, and, bereft of knowledge, they touched the cores of each other's hearts with harsh words."
+}
+---
 ====== SB 3.4.1 ======
 
 > उद्धव उवाच

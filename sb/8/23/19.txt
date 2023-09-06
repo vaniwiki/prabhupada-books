@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.19~~
-~~bc:Text 19~~
-
-{{description>O King Parīkṣit, thus having taken all the land of Bali Mahārāja by begging, the Supreme Personality of Godhead, Lord Vāmanadeva, delivered to His brother Indra all the land taken away by Indra's enemy.}}
-
+---json
+{
+    "name":"SB 8.23.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 8.23.19",
+    "description":"O King Parīkṣit, thus having taken all the land of Bali Mahārāja by begging, the Supreme Personality of Godhead, Lord Vāmanadeva, delivered to His brother Indra all the land taken away by Indra's enemy."
+}
+---
 ====== SB 8.23.19 ======
 
 ===== Text =====

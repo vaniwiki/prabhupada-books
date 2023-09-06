@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.9~~
-~~bc:Text 9~~
-
-{{description>Your respectable younger brother, who possesses the strength of ten thousand elephants, killed, by His grace, Jarāsandha, whose feet were worshiped by many kings. These kings had been brought for sacrifice in Jarāsandha's Mahābhairava-yajña, but they were thus released. Later they paid tribute to Your Majesty.}}
-
+---json
+{
+    "name":"SB 1.15.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.15.9",
+    "description":"Your respectable younger brother, who possesses the strength of ten thousand elephants, killed, by His grace, Jarāsandha, whose feet were worshiped by many kings. These kings had been brought for sacrifice in Jarāsandha's Mahābhairava-yajña, but they were thus released. Later they paid tribute to Your Majesty."
+}
+---
 ====== SB 1.15.9 ======
 
 > यत्तेजसा नृपशिरोऽङ्घ्रिमहन्मखार्थमार्योऽनुजस्तव गजायुतसत्त्ववीर्यः ।

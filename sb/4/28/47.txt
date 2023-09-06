@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.47~~
-~~bc:Text 47~~
-
-{{description>Being now alone and a widow in that forest, the daughter of Vidarbha began to lament, incessantly shedding tears, which soaked her breasts, and crying very loudly.}}
-
+---json
+{
+    "name":"SB 4.28.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 4.28.47",
+    "description":"Being now alone and a widow in that forest, the daughter of Vidarbha began to lament, incessantly shedding tears, which soaked her breasts, and crying very loudly."
+}
+---
 ====== SB 4.28.47 ======
 
 > आत्मानं शोचती दीनमबन्धुं विक्लवाश्रुभिः ।

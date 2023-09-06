@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.46~~
-~~bc:Text 46~~
-
-{{description>O King, your questions as to how the universe became manifested from the gigantic form of the Personality of Godhead, as well as other questions, I shall answer in detail by explanation of the four verses already mentioned.}}
-
+---json
+{
+    "name":"SB 2.9.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 2.9.46",
+    "description":"O King, your questions as to how the universe became manifested from the gigantic form of the Personality of Godhead, as well as other questions, I shall answer in detail by explanation of the four verses already mentioned."
+}
+---
 ====== SB 2.9.46 ======
 
 > यदुताहं त्वया पृष्टो वैराजात्पुरुषादिदम् ।

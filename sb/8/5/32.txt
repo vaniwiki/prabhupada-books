@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.32~~
-~~bc:Text 32~~
-
-{{description>On this earth there are four kinds of living entities, who are all created by Him. The material creation rests on His lotus feet. He is the great Supreme Person, full of opulence and power. May He be pleased with us.}}
-
+---json
+{
+    "name":"SB 8.5.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 8.5.32",
+    "description":"On this earth there are four kinds of living entities, who are all created by Him. The material creation rests on His lotus feet. He is the great Supreme Person, full of opulence and power. May He be pleased with us."
+}
+---
 ====== SB 8.5.32 ======
 
 ===== Text =====

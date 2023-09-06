@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.8~~
-~~bc:Text 8~~
-
-{{description>O chaste and auspicious woman, when I left home for other places, were you in so much anxiety that you did not offer oblations of ghee into the fire?}}
-
+---json
+{
+    "name":"SB 8.16.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 8.16.8",
+    "description":"O chaste and auspicious woman, when I left home for other places, were you in so much anxiety that you did not offer oblations of ghee into the fire?"
+}
+---
 ====== SB 8.16.8 ======
 
 ===== Text =====

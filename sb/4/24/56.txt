@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.56~~
-~~bc:Text 56~~
-
-{{description>Simply by expansion of His eyebrows, invincible time personified can immediately vanquish the entire universe. However, formidable time does not approach the devotee who has taken complete shelter at Your lotus feet.}}
-
+---json
+{
+    "name":"SB 4.24.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 4.24.56",
+    "description":"Simply by expansion of His eyebrows, invincible time personified can immediately vanquish the entire universe. However, formidable time does not approach the devotee who has taken complete shelter at Your lotus feet."
+}
+---
 ====== SB 4.24.56 ======
 
 > यत्र निर्विष्टमरणं कृतान्तो नाभिमन्यते ।

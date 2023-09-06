@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.20~~
-~~bc:Text 20~~
-
-{{description>Ṛṣabhadeva, a partial incarnation of the Supreme Personality of Godhead, will take birth from his father, Āyuṣmān, and his mother, Ambudhārā. He will enable the Indra named Adbhuta to enjoy the opulence of the three worlds.}}
-
+---json
+{
+    "name":"SB 8.13.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 8.13.20",
+    "description":"Ṛṣabhadeva, a partial incarnation of the Supreme Personality of Godhead, will take birth from his father, Āyuṣmān, and his mother, Ambudhārā. He will enable the Indra named Adbhuta to enjoy the opulence of the three worlds."
+}
+---
 ====== SB 8.13.20 ======
 
 ===== Text =====

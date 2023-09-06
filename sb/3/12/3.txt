@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.3~~
-~~bc:Text 3~~
-
-{{description>Seeing such a misleading creation as a sinful task, Brahmā did not feel much pleasure in his activity, and therefore he purified himself by meditation on the Personality of Godhead. Then he began another term of creation.}}
-
+---json
+{
+    "name":"SB 3.12.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.12.3",
+    "description":"Seeing such a misleading creation as a sinful task, Brahmā did not feel much pleasure in his activity, and therefore he purified himself by meditation on the Personality of Godhead. Then he began another term of creation."
+}
+---
 ====== SB 3.12.3 ======
 
 > दृष्ट्वा पापीयसीं सृष्टिं नात्मानं बह्वमन्यत ।

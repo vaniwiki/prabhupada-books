@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Uddhava said: Thereafter Lord Kṛṣṇa went to Mathurā City with Śrī Baladeva, and to please Their parents They dragged Kaṁsa, the leader of public enemies, down from his throne and killed him, pulling him along the ground with great strength.}}
-
+---json
+{
+    "name":"SB 3.3.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.3.1",
+    "description":"Śrī Uddhava said: Thereafter Lord Kṛṣṇa went to Mathurā City with Śrī Baladeva, and to please Their parents They dragged Kaṁsa, the leader of public enemies, down from his throne and killed him, pulling him along the ground with great strength."
+}
+---
 ====== SB 3.3.1 ======
 
 > उद्धव उवाच

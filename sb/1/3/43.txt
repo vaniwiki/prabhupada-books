@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.43~~
-~~bc:Text 43~~
-
-{{description>This Bhāgavata Purāṇa is as brilliant as the sun, and it has arisen just after the departure of Lord Kṛṣṇa to His own abode, accompanied by religion, knowledge, etc. Persons who have lost their vision due to the dense darkness of ignorance in the age of Kali shall get light from this Purāṇa.}}
-
+---json
+{
+    "name":"SB 1.3.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 1.3.43",
+    "description":"This Bhāgavata Purāṇa is as brilliant as the sun, and it has arisen just after the departure of Lord Kṛṣṇa to His own abode, accompanied by religion, knowledge, etc. Persons who have lost their vision due to the dense darkness of ignorance in the age of Kali shall get light from this Purāṇa."
+}
+---
 ====== SB 1.3.43 ======
 
 > कृष्णे स्वधामोपगते धर्मज्ञानादिभिः सह ।

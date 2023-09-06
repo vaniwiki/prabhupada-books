@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī said: While King Citraketu, overcome by lamentation, lay like a dead body at the side of the dead body of his son, the two great sages Nārada and Aṅgirā instructed him about spiritual consciousness as follows.}}
-
+---json
+{
+    "name":"SB 6.15.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.15.1",
+    "description":"Śrī Śukadeva Gosvāmī said: While King Citraketu, overcome by lamentation, lay like a dead body at the side of the dead body of his son, the two great sages Nārada and Aṅgirā instructed him about spiritual consciousness as follows."
+}
+---
 ====== SB 6.15.1 ======
 
 ===== Text =====

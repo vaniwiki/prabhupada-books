@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.31~~
-~~bc:Text 31~~
-
-{{description>In order to make trouble and impede the performance of King Pṛthu's great sacrifice, King Indra has adopted some means that in the future will destroy the clear path of religious life. I draw your attention to this fact. If you oppose him any further, he will further misuse his power and introduce many other irreligious systems.}}
-
+---json
+{
+    "name":"SB 4.19.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.19.31",
+    "description":"In order to make trouble and impede the performance of King Pṛthu's great sacrifice, King Indra has adopted some means that in the future will destroy the clear path of religious life. I draw your attention to this fact. If you oppose him any further, he will further misuse his power and introduce many other irreligious systems."
+}
+---
 ====== SB 4.19.31 ======
 
 > तदिदं पश्यत महद् धर्मव्यतिकरं द्विजाः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.7~~
-~~bc:Text 7~~
-
-{{description>The sons of Viśvā were the Viśvadevas, who had no progeny. From the womb of Sādhyā came the Sādhyas, who had a son named Arthasiddhi.}}
-
+---json
+{
+    "name":"SB 6.6.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.6.7",
+    "description":"The sons of Viśvā were the Viśvadevas, who had no progeny. From the womb of Sādhyā came the Sādhyas, who had a son named Arthasiddhi."
+}
+---
 ====== SB 6.6.7 ======
 
 ===== Text =====

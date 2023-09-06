@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.12~~
-~~bc:Text 12~~
-
-{{description>After the strong, stout cowherd men assembled the pots and paraphernalia on the handcart and set it up as before, the brāhmaṇas performed a ritualistic ceremony with a fire sacrifice to appease the bad planet, and then, with rice grains, kuśa, water and curd, they worshiped the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 10.7.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 10.7.12",
+    "description":"After the strong, stout cowherd men assembled the pots and paraphernalia on the handcart and set it up as before, the brāhmaṇas performed a ritualistic ceremony with a fire sacrifice to appease the bad planet, and then, with rice grains, kuśa, water and curd, they worshiped the Supreme Lord."
+}
+---
 ====== SB 10.7.12 ======
 
 ===== Text =====

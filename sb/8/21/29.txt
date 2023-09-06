@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.29~~
-~~bc:Text 29~~
-
-{{description>O King of the demons, you have promised to give Me three steps of land, but I have occupied the entire universe with two steps. Now think about where I should put My third.}}
-
+---json
+{
+    "name":"SB 8.21.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 8.21.29",
+    "description":"O King of the demons, you have promised to give Me three steps of land, but I have occupied the entire universe with two steps. Now think about where I should put My third."
+}
+---
 ====== SB 8.21.29 ======
 
 ===== Text =====

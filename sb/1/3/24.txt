@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.24~~
-~~bc:Text 24~~
-
-{{description>Then, in the beginning of Kali-yuga, the Lord will appear as Lord Buddha, the son of Añjanā, in the province of Gayā, just for the purpose of deluding those who are envious of the faithful theist.}}
-
+---json
+{
+    "name":"SB 1.3.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 1.3.24",
+    "description":"Then, in the beginning of Kali-yuga, the Lord will appear as Lord Buddha, the son of Añjanā, in the province of Gayā, just for the purpose of deluding those who are envious of the faithful theist."
+}
+---
 ====== SB 1.3.24 ======
 
 > ततः कलौ सम्प्रवृत्ते सम्मोहाय सुरद्विषाम् ।

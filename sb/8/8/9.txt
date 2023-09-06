@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.9~~
-~~bc:Text 9~~
-
-{{description>Because of her exquisite beauty, her bodily features, her youth, her complexion and her glories, everyone, including the demigods, the demons and the human beings, desired her. They were attracted because she is the source of all opulences.}}
-
+---json
+{
+    "name":"SB 8.8.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 8.8.9",
+    "description":"Because of her exquisite beauty, her bodily features, her youth, her complexion and her glories, everyone, including the demigods, the demons and the human beings, desired her. They were attracted because she is the source of all opulences."
+}
+---
 ====== SB 8.8.9 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.15~~
-~~bc:Text 15~~
-
-{{description>The mercantile community should always follow the directions of the brāhmaṇas and engage in such occupational duties as agriculture, trade, and protection of cows. For the śūdras the only duty is to accept a master from a higher social order and engage in his service.}}
-
+---json
+{
+    "name":"SB 7.11.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 7.11.15",
+    "description":"The mercantile community should always follow the directions of the brāhmaṇas and engage in such occupational duties as agriculture, trade, and protection of cows. For the śūdras the only duty is to accept a master from a higher social order and engage in his service."
+}
+---
 ====== SB 7.11.15 ======
 
 ===== Text =====

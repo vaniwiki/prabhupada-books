@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.27~~
-~~bc:Text 27~~
-
-{{description>The powerful Śukrācārya was angry for a few moments, but upon being satisfied he said to Vṛṣaparvā: My dear King, kindly fulfill the desire of Devayānī, for she is my daughter and in this world I cannot give her up or neglect her.}}
-
+---json
+{
+    "name":"SB 9.18.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.18.27",
+    "description":"The powerful Śukrācārya was angry for a few moments, but upon being satisfied he said to Vṛṣaparvā: My dear King, kindly fulfill the desire of Devayānī, for she is my daughter and in this world I cannot give her up or neglect her."
+}
+---
 ====== SB 9.18.27 ======
 
 ===== Text =====

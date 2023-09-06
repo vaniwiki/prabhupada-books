@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.43~~
-~~bc:Text 43~~
-
-{{description>My dear King Yudhiṣṭhira, the demon Hiraṇyakaśipu tormented this exalted, fortunate devotee, although Prahlāda was his own son.}}
-
+---json
+{
+    "name":"SB 7.4.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 7.4.43",
+    "description":"My dear King Yudhiṣṭhira, the demon Hiraṇyakaśipu tormented this exalted, fortunate devotee, although Prahlāda was his own son."
+}
+---
 ====== SB 7.4.43 ======
 
 ===== Text =====

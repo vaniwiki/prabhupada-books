@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.9~~
-~~bc:Text 9~~
-
-{{description>It is said that Mahārāja Parīkṣit is a great first-class devotee of the Lord and that his birth and activities are all wonderful. Please tell us about him.}}
-
+---json
+{
+    "name":"SB 1.4.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.4.9",
+    "description":"It is said that Mahārāja Parīkṣit is a great first-class devotee of the Lord and that his birth and activities are all wonderful. Please tell us about him."
+}
+---
 ====== SB 1.4.9 ======
 
 > अभिमन्युसुतं सूत प्राहुर्भागवतोत्तमम् ।

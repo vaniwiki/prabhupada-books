@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.19.1~~
-~~bc:Text 1~~
-
-{{description>Śrīla Śukadeva Gosvāmī said: My dear King, in Kimpuruṣa-varṣa the great devotee Hanumān is always engaged with the inhabitants of that land in devotional service to Lord Rāmacandra, the elder brother of Lakṣmaṇa and dear husband of Sītādevī.}}
-
+---json
+{
+    "name":"SB 5.19.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.19.1",
+    "description":"Śrīla Śukadeva Gosvāmī said: My dear King, in Kimpuruṣa-varṣa the great devotee Hanumān is always engaged with the inhabitants of that land in devotional service to Lord Rāmacandra, the elder brother of Lakṣmaṇa and dear husband of Sītādevī."
+}
+---
 ====== SB 5.19.1 ======
 
 ===== Text =====

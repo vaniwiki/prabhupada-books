@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.12~~
-~~bc:Text 12~~
-
-{{description>One day while King Satyavrata was performing austerities by offering water on the bank of the River Kṛtamālā, a small fish appeared in the water in his palms.}}
-
+---json
+{
+    "name":"SB 8.24.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 8.24.12",
+    "description":"One day while King Satyavrata was performing austerities by offering water on the bank of the River Kṛtamālā, a small fish appeared in the water in his palms."
+}
+---
 ====== SB 8.24.12 ======
 
 ===== Text =====

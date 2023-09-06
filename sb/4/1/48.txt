@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.48~~
-~~bc:Text 48~~
-
-{{description>Dakṣa begot sixteen very beautiful daughters with lotuslike eyes in his wife Prasūti. Of these sixteen daughters, thirteen were given in marriage to Dharma, and one daughter was given to Agni.}}
-
+---json
+{
+    "name":"SB 4.1.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.1.48",
+    "description":"Dakṣa begot sixteen very beautiful daughters with lotuslike eyes in his wife Prasūti. Of these sixteen daughters, thirteen were given in marriage to Dharma, and one daughter was given to Agni."
+}
+---
 ====== SB 4.1.48 ======
 
 > तस्यां ससर्ज दुहितॄः षोडशामललोचनाः ।

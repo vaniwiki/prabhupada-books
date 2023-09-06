@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.7~~
-~~bc:Text 7~~
-
-{{description>Śrī Hari, Lord Śrī Kṛṣṇa, resided at Hastināpura for a few months to pacify His relatives and please His own sister [Subhadrā].}}
-
+---json
+{
+    "name":"SB 1.10.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.10.7",
+    "description":"Śrī Hari, Lord Śrī Kṛṣṇa, resided at Hastināpura for a few months to pacify His relatives and please His own sister [Subhadrā]."
+}
+---
 ====== SB 1.10.7 ======
 
 > उषित्वा हास्तिनपुरे मासान्कतिपयान्हरिः ।

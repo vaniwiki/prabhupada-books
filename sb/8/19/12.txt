@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.12~~
-~~bc:Text 12~~
-
-{{description>Unable to see Him, Hiraṇyakaśipu said, "I have searched the entire universe, but I could not find Viṣṇu, who has killed my brother. Therefore, He must certainly have gone to that place from which no one returns. [In other words, He must now be dead.]"}}
-
+---json
+{
+    "name":"SB 8.19.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 8.19.12",
+    "description":"Unable to see Him, Hiraṇyakaśipu said, "I have searched the entire universe, but I could not find Viṣṇu, who has killed my brother. Therefore, He must certainly have gone to that place from which no one returns. [In other words, He must now be dead.]""
+}
+---
 ====== SB 8.19.12 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.9~~
-~~bc:Text 9~~
-
-{{description>Svāyambhuva Manu's two sons, Priyavrata and Uttānapāda, became very powerful kings, and their sons and grandsons spread all over the three worlds during that period.}}
-
+---json
+{
+    "name":"SB 4.1.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.1.9",
+    "description":"Svāyambhuva Manu's two sons, Priyavrata and Uttānapāda, became very powerful kings, and their sons and grandsons spread all over the three worlds during that period."
+}
+---
 ====== SB 4.1.9 ======
 
 > प्रियव्रतोत्तानपादौ मनुपुत्रौ महौजसौ ।

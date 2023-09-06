@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.48~~
-~~bc:Text 48~~
-
-{{description>Immediately afterward, on the same day, Devahūti gave birth to nine female children, all charming in every limb and fragrant with the scent of the red lotus flower.}}
-
+---json
+{
+    "name":"SB 3.23.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 3.23.48",
+    "description":"Immediately afterward, on the same day, Devahūti gave birth to nine female children, all charming in every limb and fragrant with the scent of the red lotus flower."
+}
+---
 ====== SB 3.23.48 ======
 
 > अतः सा सुषुवे सद्यो देवहूतिः स्त्रियः प्रजाः ।

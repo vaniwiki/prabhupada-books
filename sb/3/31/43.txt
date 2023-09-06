@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.43~~
-~~bc:Text 43~~
-
-{{description>Due to his particular type of body, the materialistic living entity wanders from one planet to another, following fruitive activities. In this way, he involves himself in fruitive activities and enjoys the result incessantly.}}
-
+---json
+{
+    "name":"SB 3.31.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.31.43",
+    "description":"Due to his particular type of body, the materialistic living entity wanders from one planet to another, following fruitive activities. In this way, he involves himself in fruitive activities and enjoys the result incessantly."
+}
+---
 ====== SB 3.31.43 ======
 
 > देहेन जीवभूतेन लोकाल्लोकमनुव्रजन् ।

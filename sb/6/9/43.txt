@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.43~~
-~~bc:Text 43~~
-
-{{description>Dear Lord, You are omniscient, and therefore You know very well why we have taken shelter at Your lotus feet, which provide shade that gives relief from all material disturbances. Since You are the supreme spiritual master and You know everything, we have sought shelter of Your lotus feet for instruction. Please give us relief by counteracting our present distress. Your lotus feet are the only shelter for a fully surrendered devotee and are the only means for subduing all the tribulations of this material world.}}
-
+---json
+{
+    "name":"SB 6.9.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 6.9.43",
+    "description":"Dear Lord, You are omniscient, and therefore You know very well why we have taken shelter at Your lotus feet, which provide shade that gives relief from all material disturbances. Since You are the supreme spiritual master and You know everything, we have sought shelter of Your lotus feet for instruction. Please give us relief by counteracting our present distress. Your lotus feet are the only shelter for a fully surrendered devotee and are the only means for subduing all the tribulations of this material world."
+}
+---
 ====== SB 6.9.43 ======
 
 ===== Text =====

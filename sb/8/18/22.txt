@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.18.22~~
-~~bc:Text 22~~
-
-{{description>O King, because of Vāmanadeva's bright effulgence, the priests, along with Bali Mahārāja and all the members of the assembly, were robbed of their splendor. Thus they began to ask one another whether the sun-god himself, Sanat-kumāra or the fire-god had personally come to see the sacrificial ceremony.}}
-
+---json
+{
+    "name":"SB 8.18.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.18.22",
+    "description":"O King, because of Vāmanadeva's bright effulgence, the priests, along with Bali Mahārāja and all the members of the assembly, were robbed of their splendor. Thus they began to ask one another whether the sun-god himself, Sanat-kumāra or the fire-god had personally come to see the sacrificial ceremony."
+}
+---
 ====== SB 8.18.22 ======
 
 ===== Text =====

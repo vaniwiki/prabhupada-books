@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.41~~
-~~bc:Text 41~~
-
-{{description>The father heard from his son that the King had been cursed, although he should never have been condemned, for he was the best amongst all human beings. The ṛṣi did not congratulate his son, but, on the contrary, began to repent, saying: Alas! What a great sinful act was performed by my son. He has awarded heavy punishment for an insignificant offense.}}
-
+---json
+{
+    "name":"SB 1.18.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 1.18.41",
+    "description":"The father heard from his son that the King had been cursed, although he should never have been condemned, for he was the best amongst all human beings. The ṛṣi did not congratulate his son, but, on the contrary, began to repent, saying: Alas! What a great sinful act was performed by my son. He has awarded heavy punishment for an insignificant offense."
+}
+---
 ====== SB 1.18.41 ======
 
 > निशम्य शप्तमतदर्हं नरेन्द्रं स ब्राह्मणो नात्मजमभ्यनन्दत् ।

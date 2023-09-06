@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.1.12~~
-~~bc:Text 12~~
-
-{{description>All blessings upon you, O Sūta Gosvāmī. You know for what purpose the Personality of Godhead appeared in the womb of Devakī as the son of Vasudeva.}}
-
+---json
+{
+    "name":"SB 1.1.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.1.12",
+    "description":"All blessings upon you, O Sūta Gosvāmī. You know for what purpose the Personality of Godhead appeared in the womb of Devakī as the son of Vasudeva."
+}
+---
 ====== SB 1.1.12 ======
 
 > सूत जानासि भद्रं ते भगवान्सात्वतां पतिः ।

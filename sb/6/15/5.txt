@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.5~~
-~~bc:Text 5~~
-
-{{description>O King, both you and we—your advisers, wives and ministers—as well as everything moving and not moving throughout the entire cosmos at this time, are in a temporary situation. Before our birth this situation did not exist, and after our death it will exist no longer. Therefore our situation now is temporary, although it is not false.}}
-
+---json
+{
+    "name":"SB 6.15.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 6.15.5",
+    "description":"O King, both you and we—your advisers, wives and ministers—as well as everything moving and not moving throughout the entire cosmos at this time, are in a temporary situation. Before our birth this situation did not exist, and after our death it will exist no longer. Therefore our situation now is temporary, although it is not false."
+}
+---
 ====== SB 6.15.5 ======
 
 ===== Text =====

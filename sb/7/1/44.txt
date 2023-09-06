@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.44~~
-~~bc:Text 44~~
-
-{{description>Thereafter the same Jaya and Vijaya, the two doorkeepers of Lord Viṣṇu, took birth as Rāvaṇa and Kumbhakarṇa, begotten by Viśravā in the womb of Keśinī. They were extremely troublesome to all the people of the universe.}}
-
+---json
+{
+    "name":"SB 7.1.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 7.1.44",
+    "description":"Thereafter the same Jaya and Vijaya, the two doorkeepers of Lord Viṣṇu, took birth as Rāvaṇa and Kumbhakarṇa, begotten by Viśravā in the womb of Keśinī. They were extremely troublesome to all the people of the universe."
+}
+---
 ====== SB 7.1.44 ======
 
 ===== Text =====

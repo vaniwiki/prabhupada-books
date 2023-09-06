@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.6~~
-~~bc:Text 6~~
-
-{{description>Śukadeva Gosvāmī continued: My dear King, Prince Priyavrata was a great devotee because he sought the lotus feet of Nārada, his spiritual master, and thus achieved the highest perfection in transcendental knowledge. With advanced knowledge, he always engaged in discussing spiritual subjects and did not divert his attention to anything else. The Prince's father then asked him to take charge of ruling the world. He tried to convince Priyavrata that this was his duty as indicated in the revealed scriptures. Prince Priyavrata, however, was continuously practicing bhakti-yoga by constantly remembering the Supreme Personality of Godhead, thus engaging all his senses in the service of the Lord. Therefore, although the order of his father could not be rejected, the Prince did not welcome it. Thus he very conscientiously raised the question of whether he might be diverted from devotional service by accepting the responsibility of ruling over the world.}}
-
+---json
+{
+    "name":"SB 5.1.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.1.6",
+    "description":"Śukadeva Gosvāmī continued: My dear King, Prince Priyavrata was a great devotee because he sought the lotus feet of Nārada, his spiritual master, and thus achieved the highest perfection in transcendental knowledge. With advanced knowledge, he always engaged in discussing spiritual subjects and did not divert his attention to anything else. The Prince's father then asked him to take charge of ruling the world. He tried to convince Priyavrata that this was his duty as indicated in the revealed scriptures. Prince Priyavrata, however, was continuously practicing bhakti-yoga by constantly remembering the Supreme Personality of Godhead, thus engaging all his senses in the service of the Lord. Therefore, although the order of his father could not be rejected, the Prince did not welcome it. Thus he very conscientiously raised the question of whether he might be diverted from devotional service by accepting the responsibility of ruling over the world."
+}
+---
 ====== SB 5.1.6 ======
 
 ===== Text =====

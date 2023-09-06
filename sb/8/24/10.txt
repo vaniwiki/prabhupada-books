@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.10~~
-~~bc:Text 10~~
-
-{{description>During the Cākṣuṣa-manvantara there was a great king named Satyavrata who was a great devotee of the Supreme Personality of Godhead. Satyavrata performed austerities by subsisting only on water.}}
-
+---json
+{
+    "name":"SB 8.24.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.24.10",
+    "description":"During the Cākṣuṣa-manvantara there was a great king named Satyavrata who was a great devotee of the Supreme Personality of Godhead. Satyavrata performed austerities by subsisting only on water."
+}
+---
 ====== SB 8.24.10 ======
 
 ===== Text =====

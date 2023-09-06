@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.55~~
-~~bc:Text 55~~
-
-{{description>Association for sense gratification is certainly the path of bondage. But the same type of association, performed with a saintly person, leads to the path of liberation, even if performed without knowledge.}}
-
+---json
+{
+    "name":"SB 3.23.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 3.23.55",
+    "description":"Association for sense gratification is certainly the path of bondage. But the same type of association, performed with a saintly person, leads to the path of liberation, even if performed without knowledge."
+}
+---
 ====== SB 3.23.55 ======
 
 > सङ्गो यः संसृतेर्हेतुरसत्सु विहितोऽधिया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.38~~
-~~bc:Text 38~~
-
-{{description>The great sage Maitreya continued: My dear Vidura, I have as far as possible spoken the narrations about Pṛthu Mahārāja, which enrich one's devotional attitude. Whoever takes advantage of these benefits also goes back home, back to Godhead, like Mahārāja Pṛthu.}}
-
+---json
+{
+    "name":"SB 4.23.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.23.38",
+    "description":"The great sage Maitreya continued: My dear Vidura, I have as far as possible spoken the narrations about Pṛthu Mahārāja, which enrich one's devotional attitude. Whoever takes advantage of these benefits also goes back home, back to Godhead, like Mahārāja Pṛthu."
+}
+---
 ====== SB 4.23.38 ======
 
 > वैचित्रवीर्याभिहितं महन्माहात्म्यसूचकम् ।

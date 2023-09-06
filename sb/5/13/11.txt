@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.11~~
-~~bc:Text 11~~
-
-{{description>Sometimes the living entity is busy counteracting the natural disturbances of freezing cold, scorching heat, strong wind, excessive rainfall and so forth. When he is unable to do so, he becomes very unhappy. Sometimes he is cheated in business transactions one after another. In this way, by cheating, living entities create enmity among themselves.}}
-
+---json
+{
+    "name":"SB 5.13.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 5.13.11",
+    "description":"Sometimes the living entity is busy counteracting the natural disturbances of freezing cold, scorching heat, strong wind, excessive rainfall and so forth. When he is unable to do so, he becomes very unhappy. Sometimes he is cheated in business transactions one after another. In this way, by cheating, living entities create enmity among themselves."
+}
+---
 ====== SB 5.13.11 ======
 
 ===== Text =====

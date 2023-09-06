@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.19.8~~
-~~bc:Text 8~~
-
-{{description>Śukadeva Gosvāmī continued: After worshiping the Lord with all the paraphernalia mentioned above, one should chant the following mantra while offering twelve oblations of ghee on the sacred fire: oṁ namo bhagavate mahā-puruṣāya mahāvibhūti-pataye svāhā.}}
-
+---json
+{
+    "name":"SB 6.19.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 6.19.8",
+    "description":"Śukadeva Gosvāmī continued: After worshiping the Lord with all the paraphernalia mentioned above, one should chant the following mantra while offering twelve oblations of ghee on the sacred fire: oṁ namo bhagavate mahā-puruṣāya mahāvibhūti-pataye svāhā."
+}
+---
 ====== SB 6.19.8 ======
 
 ===== Text =====

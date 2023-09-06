@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.15~~
-~~bc:Text 15~~
-
-{{description>Thus he remains at home just like a pet dog and eats whatever is so negligently given to him. Afflicted with many illnesses, such as dyspepsia and loss of appetite, he eats only very small morsels of food, and he becomes an invalid, who cannot work any more.}}
-
+---json
+{
+    "name":"SB 3.30.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.30.15",
+    "description":"Thus he remains at home just like a pet dog and eats whatever is so negligently given to him. Afflicted with many illnesses, such as dyspepsia and loss of appetite, he eats only very small morsels of food, and he becomes an invalid, who cannot work any more."
+}
+---
 ====== SB 3.30.15 ======
 
 > आस्तेऽवमत्योपन्यस्तं गृहपाल इवाहरन् ।

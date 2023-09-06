@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.27~~
-~~bc:Text 27~~
-
-{{description>The greatest common understanding for all yogīs is complete detachment from matter, which can be achieved by different kinds of yoga.}}
-
+---json
+{
+    "name":"SB 3.32.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.32.27",
+    "description":"The greatest common understanding for all yogīs is complete detachment from matter, which can be achieved by different kinds of yoga."
+}
+---
 ====== SB 3.32.27 ======
 
 > एतावानेव योगेन समग्रेणेह योगिनः ।

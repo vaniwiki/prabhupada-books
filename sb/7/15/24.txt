@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.24~~
-~~bc:Text 24~~
-
-{{description>By good behavior and freedom from envy one should counteract sufferings due to other living entities, by meditation in trance one should counteract sufferings due to providence, and by practicing haṭha-yoga, prāṇāyāma and so forth one should counteract sufferings due to the body and mind. Similarly, by developing the mode of goodness, especially in regard to eating, one should conquer sleep.}}
-
+---json
+{
+    "name":"SB 7.15.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 7.15.24",
+    "description":"By good behavior and freedom from envy one should counteract sufferings due to other living entities, by meditation in trance one should counteract sufferings due to providence, and by practicing haṭha-yoga, prāṇāyāma and so forth one should counteract sufferings due to the body and mind. Similarly, by developing the mode of goodness, especially in regard to eating, one should conquer sleep."
+}
+---
 ====== SB 7.15.24 ======
 
 ===== Text =====

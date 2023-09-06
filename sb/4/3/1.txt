@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.3.1~~
-~~bc:Text 1~~
-
-{{description>Maitreya continued: In this manner the tension between the father-in-law and son-in-law, Dakṣa and Lord Śiva, continued for a considerably long period.}}
-
+---json
+{
+    "name":"SB 4.3.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.3.1",
+    "description":"Maitreya continued: In this manner the tension between the father-in-law and son-in-law, Dakṣa and Lord Śiva, continued for a considerably long period."
+}
+---
 ====== SB 4.3.1 ======
 
 > मैत्रेय उवाच

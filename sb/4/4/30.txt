@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.30~~
-~~bc:Text 30~~
-
-{{description>Dakṣa, who is so hardhearted that he is unworthy to be a brāhmaṇa, will gain extensive ill fame because of his offenses to his daughter, because of not having prevented her death, and because of his great envy of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.4.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.4.30",
+    "description":"Dakṣa, who is so hardhearted that he is unworthy to be a brāhmaṇa, will gain extensive ill fame because of his offenses to his daughter, because of not having prevented her death, and because of his great envy of the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.4.30 ======
 
 > सोऽयं दुर्मर्षहृदयो ब्रह्मध्रुक्च लोकेऽपकीर्तिं महतीमवाप्स्यति ।

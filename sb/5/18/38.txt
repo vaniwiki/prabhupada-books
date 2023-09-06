@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.38~~
-~~bc:Text 38~~
-
-{{description>O Lord, You do not desire the creation, maintenance or annihilation of this material world, but You perform these activities for the conditioned souls by Your creative energy. Exactly as a piece of iron moves under the influence of a lodestone, inert matter moves when You glance over the total material energy.}}
-
+---json
+{
+    "name":"SB 5.18.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 5.18.38",
+    "description":"O Lord, You do not desire the creation, maintenance or annihilation of this material world, but You perform these activities for the conditioned souls by Your creative energy. Exactly as a piece of iron moves under the influence of a lodestone, inert matter moves when You glance over the total material energy."
+}
+---
 ====== SB 5.18.38 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.26~~
-~~bc:Text 26~~
-
-{{description>Therefore by enmity or by devotional service, by fear, by affection or by lusty desire—by all of these or any one of them—if a conditioned soul somehow or other concentrates his mind upon the Lord, the result is the same, for the Lord, because of His blissful position, is never affected by enmity or friendship.}}
-
+---json
+{
+    "name":"SB 7.1.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 7.1.26",
+    "description":"Therefore by enmity or by devotional service, by fear, by affection or by lusty desire—by all of these or any one of them—if a conditioned soul somehow or other concentrates his mind upon the Lord, the result is the same, for the Lord, because of His blissful position, is never affected by enmity or friendship."
+}
+---
 ====== SB 7.1.26 ======
 
 ===== Text =====

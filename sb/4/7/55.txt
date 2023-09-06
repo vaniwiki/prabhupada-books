@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.55~~
-~~bc:Text 55~~
-
-{{description>The sage Maitreya said: Thus Dakṣa, the head of all Prajāpatis, having been nicely instructed by the Supreme Personality of Godhead, worshiped Lord Viṣṇu. After worshiping Him by performing the prescribed sacrificial ceremonies, Dakṣa separately worshiped Lord Brahmā and Lord Śiva.}}
-
+---json
+{
+    "name":"SB 4.7.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 4.7.55",
+    "description":"The sage Maitreya said: Thus Dakṣa, the head of all Prajāpatis, having been nicely instructed by the Supreme Personality of Godhead, worshiped Lord Viṣṇu. After worshiping Him by performing the prescribed sacrificial ceremonies, Dakṣa separately worshiped Lord Brahmā and Lord Śiva."
+}
+---
 ====== SB 4.7.55 ======
 
 > मैत्रेय उवाच

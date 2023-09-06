@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.12.9~~
-~~bc:Text 9~~
-
-{{description>One may say that varieties arise from the planet earth itself. However, although the universe may temporarily appear to be the truth, it ultimately has no real existence. The earth was originally created by a combination of atomic particles, but these particles are impermanent. Actually the atom is not the cause of the universe, although some philosophers think so. It is not a fact that the varieties found in this material world simply result from atomic juxtaposition or combination.}}
-
+---json
+{
+    "name":"SB 5.12.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 5.12.9",
+    "description":"One may say that varieties arise from the planet earth itself. However, although the universe may temporarily appear to be the truth, it ultimately has no real existence. The earth was originally created by a combination of atomic particles, but these particles are impermanent. Actually the atom is not the cause of the universe, although some philosophers think so. It is not a fact that the varieties found in this material world simply result from atomic juxtaposition or combination."
+}
+---
 ====== SB 5.12.9 ======
 
 ===== Text =====

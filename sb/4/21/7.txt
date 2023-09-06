@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.7~~
-~~bc:Text 7~~
-
-{{description>King Pṛthu was greater than the greatest soul and was therefore worshipable by everyone. He performed many glorious activities in ruling over the surface of the world and was always magnanimous. After achieving such great success and a reputation which spread throughout the universe, he at last obtained the lotus feet of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.21.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.21.7",
+    "description":"King Pṛthu was greater than the greatest soul and was therefore worshipable by everyone. He performed many glorious activities in ruling over the surface of the world and was always magnanimous. After achieving such great success and a reputation which spread throughout the universe, he at last obtained the lotus feet of the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.21.7 ======
 
 > स एवमादीन्यनवद्यचेष्टितः कर्माणि भूयांसि महान्महत्तमः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.41-42~~
-~~bc:Text 41-42~~
-
-{{description>Saubhari Muni thought: I am now feeble because of old age. My hair has become grey, my skin is slack, and my head always trembles. Besides, I am a yogī. Therefore women do not like me. Since the King has thus rejected me, I shall reform my body in such a way as to be desirable even to celestial women, what to speak of the daughters of worldly kings.}}
-
+---json
+{
+    "name":"SB 9.6.41-42",
+    "h1":"Text 41-42",
+    "title":" Śrīmad Bhāgavatam 9.6.41-42",
+    "description":"Saubhari Muni thought: I am now feeble because of old age. My hair has become grey, my skin is slack, and my head always trembles. Besides, I am a yogī. Therefore women do not like me. Since the King has thus rejected me, I shall reform my body in such a way as to be desirable even to celestial women, what to speak of the daughters of worldly kings."
+}
+---
 ====== SB 9.6.41-42 ======
 
 ===== Text =====

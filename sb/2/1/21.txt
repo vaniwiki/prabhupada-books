@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.21~~
-~~bc:Text 21~~
-
-{{description>O King, by this system of remembrance and by being fixed in the habit of seeing the all-good personal conception of the Lord, one can very soon attain devotional service to the Lord, under His direct shelter.}}
-
+---json
+{
+    "name":"SB 2.1.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 2.1.21",
+    "description":"O King, by this system of remembrance and by being fixed in the habit of seeing the all-good personal conception of the Lord, one can very soon attain devotional service to the Lord, under His direct shelter."
+}
+---
 ====== SB 2.1.21 ======
 
 > यस्यां सन्धार्यमाणायां योगिनो भक्तिलक्षणः ।

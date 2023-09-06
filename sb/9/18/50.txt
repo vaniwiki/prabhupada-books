@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.50~~
-~~bc:Text 50~~
-
-{{description>Without material desires, Mahārāja Yayāti worshiped the Supreme Lord, who is situated in everyone's heart as Nārāyaṇa and is invisible to material eyes, although existing everywhere.}}
-
+---json
+{
+    "name":"SB 9.18.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 9.18.50",
+    "description":"Without material desires, Mahārāja Yayāti worshiped the Supreme Lord, who is situated in everyone's heart as Nārāyaṇa and is invisible to material eyes, although existing everywhere."
+}
+---
 ====== SB 9.18.50 ======
 
 ===== Text =====

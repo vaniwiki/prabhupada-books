@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.1~~
-~~bc:Text 1~~
-
-{{description>Mahārāja Yudhiṣṭhira inquired from Nārada Muni: O my lord, O great sage, kindly explain how we who are staying at home without knowledge of the goal of life may also easily attain liberation, according to the instructions of the Vedas.}}
-
+---json
+{
+    "name":"SB 7.14.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.14.1",
+    "description":"Mahārāja Yudhiṣṭhira inquired from Nārada Muni: O my lord, O great sage, kindly explain how we who are staying at home without knowledge of the goal of life may also easily attain liberation, according to the instructions of the Vedas."
+}
+---
 ====== SB 7.14.1 ======
 
 ===== Text =====

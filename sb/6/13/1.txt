@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.13.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī said: O King Parīkṣit, who are so charitably disposed, when Vṛtrāsura was killed, all the presiding deities and everyone else in the three planetary systems was immediately pleased and free from trouble—everyone, that is, except Indra.}}
-
+---json
+{
+    "name":"SB 6.13.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.13.1",
+    "description":"Śrī Śukadeva Gosvāmī said: O King Parīkṣit, who are so charitably disposed, when Vṛtrāsura was killed, all the presiding deities and everyone else in the three planetary systems was immediately pleased and free from trouble—everyone, that is, except Indra."
+}
+---
 ====== SB 6.13.1 ======
 
 ===== Text =====

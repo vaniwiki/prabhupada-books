@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.21~~
-~~bc:Text 21~~
-
-{{description>King Purañjana said: My dear beautiful wife, when a master accepts a servant as his own man, but does not punish him for his offenses, the servant must be considered unfortunate.}}
-
+---json
+{
+    "name":"SB 4.26.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.26.21",
+    "description":"King Purañjana said: My dear beautiful wife, when a master accepts a servant as his own man, but does not punish him for his offenses, the servant must be considered unfortunate."
+}
+---
 ====== SB 4.26.21 ======
 
 > पुरञ्जन उवाच

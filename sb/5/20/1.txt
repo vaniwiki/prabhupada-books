@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.1~~
-~~bc:Text 1~~
-
-{{description>The great sage Śukadeva Gosvāmī said: Hereafter I shall describe the dimensions, characteristics and forms of the six islands beginning with the island of Plakṣa.}}
-
+---json
+{
+    "name":"SB 5.20.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.20.1",
+    "description":"The great sage Śukadeva Gosvāmī said: Hereafter I shall describe the dimensions, characteristics and forms of the six islands beginning with the island of Plakṣa."
+}
+---
 ====== SB 5.20.1 ======
 
 ===== Text =====

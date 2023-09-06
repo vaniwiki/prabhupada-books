@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.34~~
-~~bc:Text 34~~
-
-{{description>The son of Viśāla was known as Hemacandra, his son was Dhūmrākṣa, and his son was Saṁyama, whose sons were Devaja and Kṛśāśva.}}
-
+---json
+{
+    "name":"SB 9.2.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 9.2.34",
+    "description":"The son of Viśāla was known as Hemacandra, his son was Dhūmrākṣa, and his son was Saṁyama, whose sons were Devaja and Kṛśāśva."
+}
+---
 ====== SB 9.2.34 ======
 
 ===== Text =====

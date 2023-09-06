@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.34~~
-~~bc:Text 34~~
-
-{{description>On the planet Sutala, not even the predominating deities of other planets, what to speak of ordinary people, will be able to conquer you. As far as the demons are concerned, if they transgress your rule, My disc will kill them.}}
-
+---json
+{
+    "name":"SB 8.22.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 8.22.34",
+    "description":"On the planet Sutala, not even the predominating deities of other planets, what to speak of ordinary people, will be able to conquer you. As far as the demons are concerned, if they transgress your rule, My disc will kill them."
+}
+---
 ====== SB 8.22.34 ======
 
 ===== Text =====

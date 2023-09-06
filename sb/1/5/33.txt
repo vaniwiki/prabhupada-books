@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.33~~
-~~bc:Text 33~~
-
-{{description>O good soul, does not a thing, applied therapeutically, cure a disease which was caused by that very same thing?}}
-
+---json
+{
+    "name":"SB 1.5.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 1.5.33",
+    "description":"O good soul, does not a thing, applied therapeutically, cure a disease which was caused by that very same thing?"
+}
+---
 ====== SB 1.5.33 ======
 
 > आमयो यश्च भूतानां जायते येन सुव्रत ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.34~~
-~~bc:Text 34~~
-
-{{description>Mudgala, the son of Bharmyāśva, had twin children, one male and the other female. The male child was named Divodāsa, and the female child was named Ahalyā. From the womb of Ahalyā by the semen of her husband, Gautama, came a son named Śatānanda.}}
-
+---json
+{
+    "name":"SB 9.21.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 9.21.34",
+    "description":"Mudgala, the son of Bharmyāśva, had twin children, one male and the other female. The male child was named Divodāsa, and the female child was named Ahalyā. From the womb of Ahalyā by the semen of her husband, Gautama, came a son named Śatānanda."
+}
+---
 ====== SB 9.21.34 ======
 
 ===== Text =====

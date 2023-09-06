@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.6~~
-~~bc:Text 6~~
-
-{{description>Both the important citizens and the common citizens welcomed the King very heartily, and he also bestowed upon them their desired blessings.}}
-
+---json
+{
+    "name":"SB 4.21.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.21.6",
+    "description":"Both the important citizens and the common citizens welcomed the King very heartily, and he also bestowed upon them their desired blessings."
+}
+---
 ====== SB 4.21.6 ======
 
 > पूजितः पूजयामास तत्र तत्र महायशाः ।

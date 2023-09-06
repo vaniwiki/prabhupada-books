@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.19~~
-~~bc:Text 19~~
-
-{{description>Thereafter, you should meditate upon the limbs of Viṣṇu, one after another, without being deviated from the conception of the complete body. Thus the mind becomes free from all sense objects. There should be no other thing to be thought upon. Because the Supreme Personality of Godhead, Viṣṇu, is the Ultimate Truth, the mind becomes completely reconciled in Him only.}}
-
+---json
+{
+    "name":"SB 2.1.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 2.1.19",
+    "description":"Thereafter, you should meditate upon the limbs of Viṣṇu, one after another, without being deviated from the conception of the complete body. Thus the mind becomes free from all sense objects. There should be no other thing to be thought upon. Because the Supreme Personality of Godhead, Viṣṇu, is the Ultimate Truth, the mind becomes completely reconciled in Him only."
+}
+---
 ====== SB 2.1.19 ======
 
 > तत्रैकावयवं ध्यायेदव्युच्छिन्नेन चेतसा ।

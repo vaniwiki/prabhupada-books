@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.7~~
-~~bc:Text 7~~
-
-{{description>Thereafter he saw that the lotus on which he was situated was spread throughout the universe, and he contemplated how to create all the planets, which were previously merged in that very same lotus.}}
-
+---json
+{
+    "name":"SB 3.10.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.10.7",
+    "description":"Thereafter he saw that the lotus on which he was situated was spread throughout the universe, and he contemplated how to create all the planets, which were previously merged in that very same lotus."
+}
+---
 ====== SB 3.10.7 ======
 
 > तद्विलोक्य वियद्व्यापि पुष्करं यदधिष्ठितम् ।

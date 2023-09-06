@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.48~~
-~~bc:Text 48~~
-
-{{description>Mahārāja Yudhiṣṭhira inquired: O my lord, Nārada Muni, why was there such enmity between Hiraṇyakaśipu and his beloved son Prahlāda Mahārāja? How did Prahlāda Mahārāja become such a great devotee of Lord Kṛṣṇa? Kindly explain this to me.}}
-
+---json
+{
+    "name":"SB 7.1.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 7.1.48",
+    "description":"Mahārāja Yudhiṣṭhira inquired: O my lord, Nārada Muni, why was there such enmity between Hiraṇyakaśipu and his beloved son Prahlāda Mahārāja? How did Prahlāda Mahārāja become such a great devotee of Lord Kṛṣṇa? Kindly explain this to me."
+}
+---
 ====== SB 7.1.48 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.16~~
-~~bc:Text 16~~
-
-{{description>The merciful King, being moved by the pitiable words of the fish, placed the fish in a water jug and brought Him to his own residence.}}
-
+---json
+{
+    "name":"SB 8.24.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.24.16",
+    "description":"The merciful King, being moved by the pitiable words of the fish, placed the fish in a water jug and brought Him to his own residence."
+}
+---
 ====== SB 8.24.16 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.5~~
-~~bc:Text 5~~
-
-{{description>The doe was pregnant, and when it jumped out of fear, the baby deer fell from its womb into the flowing waters of the river.}}
-
+---json
+{
+    "name":"SB 5.8.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.8.5",
+    "description":"The doe was pregnant, and when it jumped out of fear, the baby deer fell from its womb into the flowing waters of the river."
+}
+---
 ====== SB 5.8.5 ======
 
 ===== Text =====

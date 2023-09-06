@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.33~~
-~~bc:Text 33~~
-
-{{description>The Supersoul enters into the bodies of the created beings who are influenced by the modes of material nature and causes them to enjoy the effects of these modes by the subtle mind.}}
-
+---json
+{
+    "name":"SB 1.2.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 1.2.33",
+    "description":"The Supersoul enters into the bodies of the created beings who are influenced by the modes of material nature and causes them to enjoy the effects of these modes by the subtle mind."
+}
+---
 ====== SB 1.2.33 ======
 
 > असौ गुणमयैर्भावैर्भूतसूक्ष्मेन्द्रियात्मभिः ।

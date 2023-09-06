@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.34~~
-~~bc:Text 34~~
-
-{{description>Lord Baladeva is the Supreme Personality of Godhead. One who hears and chants about Him is purified. Because He is always the well-wisher of all living entities, He has descended with all His paraphernalia to purify the entire world and lessen its burden.}}
-
+---json
+{
+    "name":"SB 9.3.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 9.3.34",
+    "description":"Lord Baladeva is the Supreme Personality of Godhead. One who hears and chants about Him is purified. Because He is always the well-wisher of all living entities, He has descended with all His paraphernalia to purify the entire world and lessen its burden."
+}
+---
 ====== SB 9.3.34 ======
 
 ===== Text =====

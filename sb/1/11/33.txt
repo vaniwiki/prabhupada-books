@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.33~~
-~~bc:Text 33~~
-
-{{description>Although Lord Sri Kṛṣṇa was constantly by their sides, as well as exclusively alone, His feet appeared to them to be newer and newer. The goddess of fortune, although by nature always restless and moving, could not quit the Lord's feet. So what woman can be detached from those feet, having once taken shelter of them?}}
-
+---json
+{
+    "name":"SB 1.11.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 1.11.33",
+    "description":"Although Lord Sri Kṛṣṇa was constantly by their sides, as well as exclusively alone, His feet appeared to them to be newer and newer. The goddess of fortune, although by nature always restless and moving, could not quit the Lord's feet. So what woman can be detached from those feet, having once taken shelter of them?"
+}
+---
 ====== SB 1.11.33 ======
 
 > यद्यप्यसौ पार्श्वगतो रहोगतस्तथापि तस्याङ्घ्रियुगं नवं नवम् ।

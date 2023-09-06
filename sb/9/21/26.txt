@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.26~~
-~~bc:Text 26~~
-
-{{description>Following the instructions of the great sage Jaigīṣavya, Viṣvaksena compiled an elaborate description of the mystic yoga system. From Viṣvaksena, Udaksena was born, and from Udaksena, Bhallāṭa. All these sons are known as descendants of Bṛhadiṣu.}}
-
+---json
+{
+    "name":"SB 9.21.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.21.26",
+    "description":"Following the instructions of the great sage Jaigīṣavya, Viṣvaksena compiled an elaborate description of the mystic yoga system. From Viṣvaksena, Udaksena was born, and from Udaksena, Bhallāṭa. All these sons are known as descendants of Bṛhadiṣu."
+}
+---
 ====== SB 9.21.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.39~~
-~~bc:Text 39~~
-
-{{description>O Lord, You are the Supreme Personality of Godhead and are worshipable by universal prayers, Vedic hymns and sacrificial ingredients. We offer our obeisances unto You. You can be realized by the pure mind freed from all visible and invisible material contamination. We offer our respectful obeisances to You as the supreme spiritual master of knowledge in devotional service.}}
-
+---json
+{
+    "name":"SB 3.13.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 3.13.39",
+    "description":"O Lord, You are the Supreme Personality of Godhead and are worshipable by universal prayers, Vedic hymns and sacrificial ingredients. We offer our obeisances unto You. You can be realized by the pure mind freed from all visible and invisible material contamination. We offer our respectful obeisances to You as the supreme spiritual master of knowledge in devotional service."
+}
+---
 ====== SB 3.13.39 ======
 
 > नमो नमस्तेऽखिलमन्त्रदेवता द्रव्याय सर्वक्रतवे क्रियात्मने ।

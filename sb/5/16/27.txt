@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.27~~
-~~bc:Text 27~~
-
-{{description>On the eastern side of Sumeru Mountain are two mountains named Jaṭhara and Devakūṭa, which extend to the north and south for 18,000 yojanas [144,000 miles]. Similarly, on the western side of Sumeru are two mountains named Pavana and Pāriyātra, which also extend north and south for the same distance. On the southern side of Sumeru are two mountains named Kailāsa and Karavīra, which extend east and west for 18,000 yojanas, and on the northern side of Sumeru, extending for the same distance east and west, are two mountains named Triśṛṅga and Makara. The width and height of all these mountains is 2,000 yojanas [16,000 miles]. Sumeru, a mountain of solid gold shining as brilliantly as fire, is surrounded by these eight mountains.}}
-
+---json
+{
+    "name":"SB 5.16.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 5.16.27",
+    "description":"On the eastern side of Sumeru Mountain are two mountains named Jaṭhara and Devakūṭa, which extend to the north and south for 18,000 yojanas [144,000 miles]. Similarly, on the western side of Sumeru are two mountains named Pavana and Pāriyātra, which also extend north and south for the same distance. On the southern side of Sumeru are two mountains named Kailāsa and Karavīra, which extend east and west for 18,000 yojanas, and on the northern side of Sumeru, extending for the same distance east and west, are two mountains named Triśṛṅga and Makara. The width and height of all these mountains is 2,000 yojanas [16,000 miles]. Sumeru, a mountain of solid gold shining as brilliantly as fire, is surrounded by these eight mountains."
+}
+---
 ====== SB 5.16.27 ======
 
 ===== Text =====

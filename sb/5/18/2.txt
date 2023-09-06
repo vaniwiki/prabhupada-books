@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.2~~
-~~bc:Text 2~~
-
-{{description>The ruler Bhadraśravā and his intimate associates utter the following prayer: We offer our respectful obeisances unto the Supreme Personality of Godhead, the reservoir of all religious principles, who cleanses the heart of the conditioned soul in this material world. Again and again we offer our respectful obeisances unto Him.}}
-
+---json
+{
+    "name":"SB 5.18.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.18.2",
+    "description":"The ruler Bhadraśravā and his intimate associates utter the following prayer: We offer our respectful obeisances unto the Supreme Personality of Godhead, the reservoir of all religious principles, who cleanses the heart of the conditioned soul in this material world. Again and again we offer our respectful obeisances unto Him."
+}
+---
 ====== SB 5.18.2 ======
 
 ===== Text =====

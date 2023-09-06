@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.15~~
-~~bc:Text 15~~
-
-{{description>From the sky situated within the transcendental body of the manifesting Mahā-Viṣṇu, sense energy, mental force and bodily strength are all generated, as well as the sum total of the fountainhead of the total living force.}}
-
+---json
+{
+    "name":"SB 2.10.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 2.10.15",
+    "description":"From the sky situated within the transcendental body of the manifesting Mahā-Viṣṇu, sense energy, mental force and bodily strength are all generated, as well as the sum total of the fountainhead of the total living force."
+}
+---
 ====== SB 2.10.15 ======
 
 > अन्तः शरीर आकाशात्पुरुषस्य विचेष्टतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.23~~
-~~bc:Text 23~~
-
-{{description>King Vena replied: You are not at all experienced. It is very much regrettable that you are maintaining something which is not religious and are accepting it as religious. Indeed, I think you are giving up your real husband, who maintains you, and are searching after some paramour to worship.}}
-
+---json
+{
+    "name":"SB 4.14.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.14.23",
+    "description":"King Vena replied: You are not at all experienced. It is very much regrettable that you are maintaining something which is not religious and are accepting it as religious. Indeed, I think you are giving up your real husband, who maintains you, and are searching after some paramour to worship."
+}
+---
 ====== SB 4.14.23 ======
 
 > वेन उवाच

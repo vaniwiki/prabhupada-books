@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.41~~
-~~bc:Text 41~~
-
-{{description>The lotus feet of the Lord are by themselves the shelter of all places of pilgrimage. The great clear-minded sages, carried by the wings of the Vedas, always search after the nest of Your lotuslike face. Some of them surrender to Your lotus feet at every step by taking shelter of the best of rivers [the Ganges], which can deliver one from all sinful reactions.}}
-
+---json
+{
+    "name":"SB 3.5.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.5.41",
+    "description":"The lotus feet of the Lord are by themselves the shelter of all places of pilgrimage. The great clear-minded sages, carried by the wings of the Vedas, always search after the nest of Your lotuslike face. Some of them surrender to Your lotus feet at every step by taking shelter of the best of rivers [the Ganges], which can deliver one from all sinful reactions."
+}
+---
 ====== SB 3.5.41 ======
 
 > मार्गन्ति यत्ते मुखपद्मनीडैश्छन्दःसुपर्णैरृषयो विविक्ते ।

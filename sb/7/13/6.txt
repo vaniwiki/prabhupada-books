@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.6~~
-~~bc:Text 6~~
-
-{{description>Since the material body is sure to be vanquished and the duration of one's life is not fixed, neither death nor life is to be praised. Rather, one should observe the eternal time factor, in which the living entity manifests himself and disappears.}}
-
+---json
+{
+    "name":"SB 7.13.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 7.13.6",
+    "description":"Since the material body is sure to be vanquished and the duration of one's life is not fixed, neither death nor life is to be praised. Rather, one should observe the eternal time factor, in which the living entity manifests himself and disappears."
+}
+---
 ====== SB 7.13.6 ======
 
 ===== Text =====

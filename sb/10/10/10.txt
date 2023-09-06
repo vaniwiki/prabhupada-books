@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.10~~
-~~bc:Text 10~~
-
-{{description>While living one may be proud of one's body, thinking oneself a very big man, minister, president or even demigod, but whatever one may be, after death this body will turn either into worms, into stool or into ashes. If one kills poor animals to satisfy the temporary whims of this body, one does not know that he will suffer in his next birth, for such a sinful miscreant must go to hell and suffer the results of his actions.}}
-
+---json
+{
+    "name":"SB 10.10.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 10.10.10",
+    "description":"While living one may be proud of one's body, thinking oneself a very big man, minister, president or even demigod, but whatever one may be, after death this body will turn either into worms, into stool or into ashes. If one kills poor animals to satisfy the temporary whims of this body, one does not know that he will suffer in his next birth, for such a sinful miscreant must go to hell and suffer the results of his actions."
+}
+---
 ====== SB 10.10.10 ======
 
 ===== Text =====

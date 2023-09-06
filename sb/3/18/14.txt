@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.14~~
-~~bc:Text 14~~
-
-{{description>Hissing indignantly, all his senses shaken by wrath, the demon quickly sprang upon the Lord and dealt Him a blow with his powerful mace.}}
-
+---json
+{
+    "name":"SB 3.18.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.18.14",
+    "description":"Hissing indignantly, all his senses shaken by wrath, the demon quickly sprang upon the Lord and dealt Him a blow with his powerful mace."
+}
+---
 ====== SB 3.18.14 ======
 
 > सृजन्नमर्षितः श्वासान्मन्युप्रचलितेन्द्रियः ।

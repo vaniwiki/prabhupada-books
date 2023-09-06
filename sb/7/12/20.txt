@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.20~~
-~~bc:Text 20~~
-
-{{description>A vānaprastha should prepare a thatched cottage or take shelter of a cave in a mountain only to keep the sacred fire, but he should personally practice enduring snowfall, wind, fire, rain and the shining of the sun.}}
-
+---json
+{
+    "name":"SB 7.12.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 7.12.20",
+    "description":"A vānaprastha should prepare a thatched cottage or take shelter of a cave in a mountain only to keep the sacred fire, but he should personally practice enduring snowfall, wind, fire, rain and the shining of the sun."
+}
+---
 ====== SB 7.12.20 ======
 
 ===== Text =====

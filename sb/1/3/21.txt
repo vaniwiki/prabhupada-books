@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.21~~
-~~bc:Text 21~~
-
-{{description>Thereafter, in the seventeenth incarnation of Godhead, Śrī Vyāsadeva appeared in the womb of Satyavatī through Parāśara Muni, and he divided the one Veda into several branches and subbranches, seeing that the people in general were less intelligent.}}
-
+---json
+{
+    "name":"SB 1.3.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 1.3.21",
+    "description":"Thereafter, in the seventeenth incarnation of Godhead, Śrī Vyāsadeva appeared in the womb of Satyavatī through Parāśara Muni, and he divided the one Veda into several branches and subbranches, seeing that the people in general were less intelligent."
+}
+---
 ====== SB 1.3.21 ======
 
 > ततः सप्तदशे जातः सत्यवत्यां पराशरात् ।

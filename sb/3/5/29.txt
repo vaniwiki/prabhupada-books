@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.29~~
-~~bc:Text 29~~
-
-{{description>Mahat-tattva, or the great causal truth, transforms into false ego, which is manifested in three phases—cause, effect and the doer. All such activities are on the mental plane and are based on the material elements, gross senses and mental speculation. The false ego is represented in three different modes—goodness, passion and ignorance.}}
-
+---json
+{
+    "name":"SB 3.5.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.5.29",
+    "description":"Mahat-tattva, or the great causal truth, transforms into false ego, which is manifested in three phases—cause, effect and the doer. All such activities are on the mental plane and are based on the material elements, gross senses and mental speculation. The false ego is represented in three different modes—goodness, passion and ignorance."
+}
+---
 ====== SB 3.5.29 ======
 
 > महत्तत्त्वाद्विकुर्वाणादहंतत्त्वं व्यजायत ।

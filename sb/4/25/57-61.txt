@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.57-61~~
-~~bc:Text 57-61~~
-
-{{description>When the Queen drank liquor, King Purañjana also engaged in drinking. When the Queen dined, he used to dine with her, and when she chewed, King Purañjana used to chew along with her. When the Queen sang, he also sang. Similarly, when the Queen cried, he also cried, and when the Queen laughed, he also laughed. When the Queen talked loosely, he also talked loosely, and when the Queen walked, the King walked behind her. When the Queen would stand still, the King would also stand still, and when the Queen would lie down in bed, he would also follow and lie down with her. When the Queen sat, he would also sit, and when the Queen heard something, he would follow her to hear the same thing. When the Queen saw something, the King would also look at it, and when the Queen smelled something, the King would follow her to smell the same thing. When the Queen touched something, the King would also touch it, and when the dear Queen was lamenting, the poor King also had to follow her in lamentation. In the same way, when the Queen felt enjoyment, he also enjoyed, and when the Queen was satisfied, the King also felt satisfaction.}}
-
+---json
+{
+    "name":"SB 4.25.57-61",
+    "h1":"Text 57-61",
+    "title":" Śrīmad Bhāgavatam 4.25.57-61",
+    "description":"When the Queen drank liquor, King Purañjana also engaged in drinking. When the Queen dined, he used to dine with her, and when she chewed, King Purañjana used to chew along with her. When the Queen sang, he also sang. Similarly, when the Queen cried, he also cried, and when the Queen laughed, he also laughed. When the Queen talked loosely, he also talked loosely, and when the Queen walked, the King walked behind her. When the Queen would stand still, the King would also stand still, and when the Queen would lie down in bed, he would also follow and lie down with her. When the Queen sat, he would also sit, and when the Queen heard something, he would follow her to hear the same thing. When the Queen saw something, the King would also look at it, and when the Queen smelled something, the King would follow her to smell the same thing. When the Queen touched something, the King would also touch it, and when the dear Queen was lamenting, the poor King also had to follow her in lamentation. In the same way, when the Queen felt enjoyment, he also enjoyed, and when the Queen was satisfied, the King also felt satisfaction."
+}
+---
 ====== SB 4.25.57-61 ======
 
 > क्वचित्पिबन्त्यां पिबति मदिरां मदविह्वलः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.31~~
-~~bc:Text 31~~
-
-{{description>When Priyavrata drove his chariot behind the sun, the rims of his chariot wheels created impressions that later became seven oceans, dividing the planetary system known as Bhū-maṇḍala into seven islands.}}
-
+---json
+{
+    "name":"SB 5.1.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 5.1.31",
+    "description":"When Priyavrata drove his chariot behind the sun, the rims of his chariot wheels created impressions that later became seven oceans, dividing the planetary system known as Bhū-maṇḍala into seven islands."
+}
+---
 ====== SB 5.1.31 ======
 
 ===== Text =====

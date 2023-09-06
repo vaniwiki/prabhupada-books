@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.3.16~~
-~~bc:Text 16~~
-
-{{description>The great lord replied: My dear beautiful wife, you have said that one may go to a friend's house without being invited, and this is true, provided such a friend does not find fault with the guest because of bodily identification and thereby become angry towards him.}}
-
+---json
+{
+    "name":"SB 4.3.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.3.16",
+    "description":"The great lord replied: My dear beautiful wife, you have said that one may go to a friend's house without being invited, and this is true, provided such a friend does not find fault with the guest because of bodily identification and thereby become angry towards him."
+}
+---
 ====== SB 4.3.16 ======
 
 > श्रीभगवानुवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.52~~
-~~bc:Text 52~~
-
-{{description>My dear Lord, Your two lotus feet are so beautiful that they appear like two blossoming petals of the lotus flower which grows during the autumn season. Indeed, the nails of Your lotus feet emanate such a great effulgence that they immediately dissipate all the darkness in the heart of a conditioned soul. My dear Lord, kindly show me that form of Yours which always dissipates all kinds of darkness in the heart of a devotee. My dear Lord, You are the supreme spiritual master of everyone; therefore all conditioned souls covered with the darkness of ignorance can be enlightened by You as the spiritual master.}}
-
+---json
+{
+    "name":"SB 4.24.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 4.24.52",
+    "description":"My dear Lord, Your two lotus feet are so beautiful that they appear like two blossoming petals of the lotus flower which grows during the autumn season. Indeed, the nails of Your lotus feet emanate such a great effulgence that they immediately dissipate all the darkness in the heart of a conditioned soul. My dear Lord, kindly show me that form of Yours which always dissipates all kinds of darkness in the heart of a devotee. My dear Lord, You are the supreme spiritual master of everyone; therefore all conditioned souls covered with the darkness of ignorance can be enlightened by You as the spiritual master."
+}
+---
 ====== SB 4.24.52 ======
 
 > पदा शरत्पद्मपलाशरोचिषा नखद्युभिर्नोऽन्तरघं विधुन्वता ।

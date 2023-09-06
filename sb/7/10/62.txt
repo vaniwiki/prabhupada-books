@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.62~~
-~~bc:Text 62~~
-
-{{description>Then Lord Brahmā became a calf and Lord Viṣṇu a cow, and at noon they entered the residences and drank all the nectar in the well.}}
-
+---json
+{
+    "name":"SB 7.10.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 7.10.62",
+    "description":"Then Lord Brahmā became a calf and Lord Viṣṇu a cow, and at noon they entered the residences and drank all the nectar in the well."
+}
+---
 ====== SB 7.10.62 ======
 
 ===== Text =====

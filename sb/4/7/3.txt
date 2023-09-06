@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.3~~
-~~bc:Text 3~~
-
-{{description>Lord Śiva continued: Since the head of Dakṣa has already been burned to ashes, he will have the head of a goat. The demigod known as Bhaga will be able to see his share of sacrifice through the eyes of Mitra.}}
-
+---json
+{
+    "name":"SB 4.7.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.7.3",
+    "description":"Lord Śiva continued: Since the head of Dakṣa has already been burned to ashes, he will have the head of a goat. The demigod known as Bhaga will be able to see his share of sacrifice through the eyes of Mitra."
+}
+---
 ====== SB 4.7.3 ======
 
 > प्रजापतेर्दग्धशीर्ष्णो भवत्वजमुखं शिरः ।

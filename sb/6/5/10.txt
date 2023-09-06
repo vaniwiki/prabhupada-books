@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.10~~
-~~bc:Text 10~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Hearing these enigmatic words of Nārada Muni, the Haryaśvas considered them with their natural intelligence, without help from others.}}
-
+---json
+{
+    "name":"SB 6.5.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 6.5.10",
+    "description":"Śrī Śukadeva Gosvāmī said: Hearing these enigmatic words of Nārada Muni, the Haryaśvas considered them with their natural intelligence, without help from others."
+}
+---
 ====== SB 6.5.10 ======
 
 ===== Text =====

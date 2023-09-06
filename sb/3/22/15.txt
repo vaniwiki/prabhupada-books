@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.15~~
-~~bc:Text 15~~
-
-{{description>The great sage replied: Certainly I have a desire to marry, and your daughter has not yet married or given her word to anyone. Therefore our marriage according to the Vedic system can take place.}}
-
+---json
+{
+    "name":"SB 3.22.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.22.15",
+    "description":"The great sage replied: Certainly I have a desire to marry, and your daughter has not yet married or given her word to anyone. Therefore our marriage according to the Vedic system can take place."
+}
+---
 ====== SB 3.22.15 ======
 
 > ऋषिरुवाच

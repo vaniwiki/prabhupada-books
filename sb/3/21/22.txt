@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.22~~
-~~bc:Text 22~~
-
-{{description>Maitreya resumed: Sincerely extolled in these words, Lord Viṣṇu, shining very beautifully on the shoulders of Garuḍa, replied with words as sweet as nectar. His eyebrows moved gracefully as He looked at the sage with a smile full of affection.}}
-
+---json
+{
+    "name":"SB 3.21.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.21.22",
+    "description":"Maitreya resumed: Sincerely extolled in these words, Lord Viṣṇu, shining very beautifully on the shoulders of Garuḍa, replied with words as sweet as nectar. His eyebrows moved gracefully as He looked at the sage with a smile full of affection."
+}
+---
 ====== SB 3.21.22 ======
 
 > ऋषिरुवाच

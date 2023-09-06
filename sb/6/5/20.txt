@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.20~~
-~~bc:Text 20~~
-
-{{description>[Nārada Muni had asked how one could ignorantly defy one's own father. The Haryaśvas understood the meaning of this question.] One must accept the original instructions of the śāstra. According to Vedic civilization, one is offered a sacred thread as a sign of second birth. One takes his second birth by dint of having received instructions in the śāstra from a bona fide spiritual master. Therefore, śāstra, scripture, is the real father. All the śāstras instruct that one should end his material way of life. If one does not know the purpose of the father's orders, the śāstras, he is ignorant. The words of a material father who endeavors to engage his son in material activities are not the real instructions of the father.}}
-
+---json
+{
+    "name":"SB 6.5.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 6.5.20",
+    "description":"[Nārada Muni had asked how one could ignorantly defy one's own father. The Haryaśvas understood the meaning of this question.] One must accept the original instructions of the śāstra. According to Vedic civilization, one is offered a sacred thread as a sign of second birth. One takes his second birth by dint of having received instructions in the śāstra from a bona fide spiritual master. Therefore, śāstra, scripture, is the real father. All the śāstras instruct that one should end his material way of life. If one does not know the purpose of the father's orders, the śāstras, he is ignorant. The words of a material father who endeavors to engage his son in material activities are not the real instructions of the father."
+}
+---
 ====== SB 6.5.20 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.61~~
-~~bc:Text 61~~
-
-{{description>After the mind, the moon appeared. Intelligence appeared next, and after intelligence, Lord Brahmā appeared. Then the false ego appeared and then Lord Śiva, and after the appearance of Lord Śiva came consciousness and the deity presiding over consciousness.}}
-
+---json
+{
+    "name":"SB 3.26.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 3.26.61",
+    "description":"After the mind, the moon appeared. Intelligence appeared next, and after intelligence, Lord Brahmā appeared. Then the false ego appeared and then Lord Śiva, and after the appearance of Lord Śiva came consciousness and the deity presiding over consciousness."
+}
+---
 ====== SB 3.26.61 ======
 
 > मनसश्चन्द्रमा जातो बुद्धिर्बुद्धेर्गिरां पतिः ।

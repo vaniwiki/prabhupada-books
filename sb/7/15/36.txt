@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.36~~
-~~bc:Text 36~~
-
-{{description>One who accepts the sannyāsa order gives up the three principles of materialistic activities in which one indulges in the field of household life—namely religion, economic development and sense gratification. One who first accepts sannyāsa but then returns to such materialistic activities is to be called a vāntāśī, or one who eats his own vomit. He is indeed a shameless person.}}
-
+---json
+{
+    "name":"SB 7.15.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 7.15.36",
+    "description":"One who accepts the sannyāsa order gives up the three principles of materialistic activities in which one indulges in the field of household life—namely religion, economic development and sense gratification. One who first accepts sannyāsa but then returns to such materialistic activities is to be called a vāntāśī, or one who eats his own vomit. He is indeed a shameless person."
+}
+---
 ====== SB 7.15.36 ======
 
 ===== Text =====

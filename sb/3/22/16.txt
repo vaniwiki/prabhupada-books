@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.16~~
-~~bc:Text 16~~
-
-{{description>Let your daughter's desire for marriage, which is recognized in the Vedic scriptures, be fulfilled. Who would not accept her hand? She is so beautiful that by her bodily luster alone she excels the beauty of her ornaments.}}
-
+---json
+{
+    "name":"SB 3.22.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.22.16",
+    "description":"Let your daughter's desire for marriage, which is recognized in the Vedic scriptures, be fulfilled. Who would not accept her hand? She is so beautiful that by her bodily luster alone she excels the beauty of her ornaments."
+}
+---
 ====== SB 3.22.16 ======
 
 > कामः स भूयान्नरदेव तेऽस्याः पुत्र्याः समाम्नायविधौ प्रतीतः ।

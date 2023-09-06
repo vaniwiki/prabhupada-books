@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.21~~
-~~bc:Text 21~~
-
-{{description>O Mahārāja Parīkṣit, Kṛṣṇa, who had divided Himself as different calves and also as different cowherd boys, entered different cow sheds as the calves and then different homes as different boys.}}
-
+---json
+{
+    "name":"SB 10.13.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 10.13.21",
+    "description":"O Mahārāja Parīkṣit, Kṛṣṇa, who had divided Himself as different calves and also as different cowherd boys, entered different cow sheds as the calves and then different homes as different boys."
+}
+---
 ====== SB 10.13.21 ======
 
 ===== Text =====

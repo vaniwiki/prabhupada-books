@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.23~~
-~~bc:Text 23~~
-
-{{description>While Brahmā was deliberating with his sons, the Supreme Personality of Godhead, Viṣṇu, roared tumultuously like a great mountain.}}
-
+---json
+{
+    "name":"SB 3.13.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.13.23",
+    "description":"While Brahmā was deliberating with his sons, the Supreme Personality of Godhead, Viṣṇu, roared tumultuously like a great mountain."
+}
+---
 ====== SB 3.13.23 ======
 
 > इति मीमांसतस्तस्य ब्रह्मणः सह सूनुभिः ।

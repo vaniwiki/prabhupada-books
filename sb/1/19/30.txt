@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.30~~
-~~bc:Text 30~~
-
-{{description>Śukadeva Gosvāmī was then surrounded by saintly sages and demigods just as the moon is surrounded by stars, planets and other heavenly bodies. His presence was gorgeous, and he was respected by all.}}
-
+---json
+{
+    "name":"SB 1.19.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.19.30",
+    "description":"Śukadeva Gosvāmī was then surrounded by saintly sages and demigods just as the moon is surrounded by stars, planets and other heavenly bodies. His presence was gorgeous, and he was respected by all."
+}
+---
 ====== SB 1.19.30 ======
 
 > स संवृतस्तत्र महान्महीयसां ब्रह्मर्षिराजर्षिदेवर्षिसङ्घैः ।

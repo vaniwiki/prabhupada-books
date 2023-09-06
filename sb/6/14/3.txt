@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.3~~
-~~bc:Text 3~~
-
-{{description>In this material world there are as many living entities as atoms. Among these living entities, a very few are human beings, and among them, few are interested in following religious principles.}}
-
+---json
+{
+    "name":"SB 6.14.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 6.14.3",
+    "description":"In this material world there are as many living entities as atoms. Among these living entities, a very few are human beings, and among them, few are interested in following religious principles."
+}
+---
 ====== SB 6.14.3 ======
 
 ===== Text =====

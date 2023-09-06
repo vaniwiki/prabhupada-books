@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.43~~
-~~bc:Text 43~~
-
-{{description>After touching to one's head all the flowers and water offered to the Deity, one should throw them into a sacred place. Then one should feed at least two brāhmaṇas with sweet rice.}}
-
+---json
+{
+    "name":"SB 8.16.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 8.16.43",
+    "description":"After touching to one's head all the flowers and water offered to the Deity, one should throw them into a sacred place. Then one should feed at least two brāhmaṇas with sweet rice."
+}
+---
 ====== SB 8.16.43 ======
 
 ===== Text =====

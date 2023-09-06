@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.42~~
-~~bc:Text 42~~
-
-{{description>The sage Kardama accepted silence as a vow in order to think of the Supreme Personality of Godhead and take shelter of Him exclusively. Without association, he traveled over the surface of the globe as a sannyāsī, devoid of any relationship with fire or shelter.}}
-
+---json
+{
+    "name":"SB 3.24.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 3.24.42",
+    "description":"The sage Kardama accepted silence as a vow in order to think of the Supreme Personality of Godhead and take shelter of Him exclusively. Without association, he traveled over the surface of the globe as a sannyāsī, devoid of any relationship with fire or shelter."
+}
+---
 ====== SB 3.24.42 ======
 
 > व्रतं स आस्थितो मौनमात्मैकशरणो मुनिः ।

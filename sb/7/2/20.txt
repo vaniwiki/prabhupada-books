@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.20~~
-~~bc:Text 20~~
-
-{{description>Hiraṇyakaśipu said: My dear mother, sister-in-law and nephews, you should not lament for the death of the great hero, for a hero's death in front of his enemy is glorious and desirable.}}
-
+---json
+{
+    "name":"SB 7.2.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 7.2.20",
+    "description":"Hiraṇyakaśipu said: My dear mother, sister-in-law and nephews, you should not lament for the death of the great hero, for a hero's death in front of his enemy is glorious and desirable."
+}
+---
 ====== SB 7.2.20 ======
 
 ===== Text =====

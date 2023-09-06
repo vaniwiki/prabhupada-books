@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.33~~
-~~bc:Text 33~~
-
-{{description>While being pierced by your arrows, which you discharged on all sides, some of them, who were injured by the multitude of arrows but who desired to live, fled the battlefield, intent on escaping.}}
-
+---json
+{
+    "name":"SB 10.4.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 10.4.33",
+    "description":"While being pierced by your arrows, which you discharged on all sides, some of them, who were injured by the multitude of arrows but who desired to live, fled the battlefield, intent on escaping."
+}
+---
 ====== SB 10.4.33 ======
 
 ===== Text =====

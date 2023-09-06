@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.21~~
-~~bc:Text 21~~
-
-{{description>Dhruva Mahārāja, the best of human beings, observed that in that great battlefield not one of the opposing soldiers was left standing with proper weapons. He then desired to see the city of Alakāpurī, but he thought to himself, "No one knows the plans of the mystic Yakṣas."}}
-
+---json
+{
+    "name":"SB 4.10.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.10.21",
+    "description":"Dhruva Mahārāja, the best of human beings, observed that in that great battlefield not one of the opposing soldiers was left standing with proper weapons. He then desired to see the city of Alakāpurī, but he thought to himself, "No one knows the plans of the mystic Yakṣas.""
+}
+---
 ====== SB 4.10.21 ======
 
 > अपश्यमानः स तदाततायिनं महामृधे कञ्चन मानवोत्तमः ।

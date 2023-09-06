@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.33~~
-~~bc:Text 33~~
-
-{{description>The girl said: O best of human beings, I do not know who has begotten me. I cannot speak to you perfectly about this. Nor do I know the names or the origin of the associates with me.}}
-
+---json
+{
+    "name":"SB 4.25.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.25.33",
+    "description":"The girl said: O best of human beings, I do not know who has begotten me. I cannot speak to you perfectly about this. Nor do I know the names or the origin of the associates with me."
+}
+---
 ====== SB 4.25.33 ======
 
 > न विदाम वयं सम्यक्कर्तारं पुरुषर्षभ ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.45-47~~
-~~bc:Text 45-47~~
-
-{{description>Entering that most sacred spot with his daughter and going near the sage, the first monarch, Svāyambhuva Manu, saw the sage sitting in his hermitage, having just propitiated the sacred fire by pouring oblations into it. His body shone most brilliantly; though he had engaged in austere penance for a long time, he was not emaciated, for the Lord had cast His affectionate sidelong glance upon him and he had also heard the nectar flowing from the moonlike words of the Lord. The sage was tall, his eyes were large, like the petals of a lotus, and he had matted locks on his head. He was clad in rags. Svāyambhuva Manu approached and saw him to be somewhat soiled, like an unpolished gem.}}
-
+---json
+{
+    "name":"SB 3.21.45-47",
+    "h1":"Text 45-47",
+    "title":" Śrīmad Bhāgavatam 3.21.45-47",
+    "description":"Entering that most sacred spot with his daughter and going near the sage, the first monarch, Svāyambhuva Manu, saw the sage sitting in his hermitage, having just propitiated the sacred fire by pouring oblations into it. His body shone most brilliantly; though he had engaged in austere penance for a long time, he was not emaciated, for the Lord had cast His affectionate sidelong glance upon him and he had also heard the nectar flowing from the moonlike words of the Lord. The sage was tall, his eyes were large, like the petals of a lotus, and he had matted locks on his head. He was clad in rags. Svāyambhuva Manu approached and saw him to be somewhat soiled, like an unpolished gem."
+}
+---
 ====== SB 3.21.45-47 ======
 
 > प्रविश्य तत्तीर्थवरमादिराजः सहात्मजः ।

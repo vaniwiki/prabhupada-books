@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.5~~
-~~bc:Text 5~~
-
-{{description>When Lord Nṛsiṁhadeva saw the small boy Prahlāda Mahārāja prostrated at the soles of His lotus feet, He became most ecstatic in affection toward His devotee. Raising Prahlāda, the Lord placed His lotus hand upon the boy's head because His hand is always ready to create fearlessness in all of His devotees.}}
-
+---json
+{
+    "name":"SB 7.9.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 7.9.5",
+    "description":"When Lord Nṛsiṁhadeva saw the small boy Prahlāda Mahārāja prostrated at the soles of His lotus feet, He became most ecstatic in affection toward His devotee. Raising Prahlāda, the Lord placed His lotus hand upon the boy's head because His hand is always ready to create fearlessness in all of His devotees."
+}
+---
 ====== SB 7.9.5 ======
 
 ===== Text =====

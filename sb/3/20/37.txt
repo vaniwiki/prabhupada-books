@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.37~~
-~~bc:Text 37~~
-
-{{description>The asuras, clouded in their understanding, took the evening twilight to be a beautiful woman showing herself in her alluring form, and they seized her.}}
-
+---json
+{
+    "name":"SB 3.20.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.20.37",
+    "description":"The asuras, clouded in their understanding, took the evening twilight to be a beautiful woman showing herself in her alluring form, and they seized her."
+}
+---
 ====== SB 3.20.37 ======
 
 > इति सायन्तनीं सन्ध्यामसुराः प्रमदायतीम् ।

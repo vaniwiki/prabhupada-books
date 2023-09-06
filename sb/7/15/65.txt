@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.65~~
-~~bc:Text 65~~
-
-{{description>When the ultimate goal and interest of one's self, one's wife, one's children, one's relatives and all other embodied living beings is one, this is called dravyādvaita, or oneness of interest.}}
-
+---json
+{
+    "name":"SB 7.15.65",
+    "h1":"Text 65",
+    "title":" Śrīmad Bhāgavatam 7.15.65",
+    "description":"When the ultimate goal and interest of one's self, one's wife, one's children, one's relatives and all other embodied living beings is one, this is called dravyādvaita, or oneness of interest."
+}
+---
 ====== SB 7.15.65 ======
 
 ===== Text =====

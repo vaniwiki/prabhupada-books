@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.23~~
-~~bc:Text 23~~
-
-{{description>One who offers Me respect but is envious of the bodies of others and is therefore a separatist never attains peace of mind, because of his inimical behavior towards other living entities.}}
-
+---json
+{
+    "name":"SB 3.29.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.29.23",
+    "description":"One who offers Me respect but is envious of the bodies of others and is therefore a separatist never attains peace of mind, because of his inimical behavior towards other living entities."
+}
+---
 ====== SB 3.29.23 ======
 
 > द्विषतः परकाये मां मानिनो भिन्नदर्शिनः ।

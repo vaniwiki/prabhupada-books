@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.28~~
-~~bc:Text 28~~
-
-{{description>After hearing Śukrācārya's request, Vṛṣaparvā agreed to fulfill Devayānī's desire, and he awaited her words. Devayānī then expressed her desire as follows: "Whenever I marry by the order of my father, my friend Śarmiṣṭhā must go with me as my maidservant, along with her friends."}}
-
+---json
+{
+    "name":"SB 9.18.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 9.18.28",
+    "description":"After hearing Śukrācārya's request, Vṛṣaparvā agreed to fulfill Devayānī's desire, and he awaited her words. Devayānī then expressed her desire as follows: "Whenever I marry by the order of my father, my friend Śarmiṣṭhā must go with me as my maidservant, along with her friends.""
+}
+---
 ====== SB 9.18.28 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.4.13~~
-~~bc:Text 13~~
-
-{{description>In addition to these nineteen sons mentioned above, there were eighty-one younger ones, all born of Ṛṣabhadeva and Jayantī. According to the order of their father, they became well cultured, well behaved, very pure in their activities and expert in Vedic knowledge and the performance of Vedic rituals. Thus they all became perfectly qualified brāhmaṇas.}}
-
+---json
+{
+    "name":"SB 5.4.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.4.13",
+    "description":"In addition to these nineteen sons mentioned above, there were eighty-one younger ones, all born of Ṛṣabhadeva and Jayantī. According to the order of their father, they became well cultured, well behaved, very pure in their activities and expert in Vedic knowledge and the performance of Vedic rituals. Thus they all became perfectly qualified brāhmaṇas."
+}
+---
 ====== SB 5.4.13 ======
 
 ===== Text =====

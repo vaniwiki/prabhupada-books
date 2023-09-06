@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.17~~
-~~bc:Text 17~~
-
-{{description>From Mahādhṛti was born a son named Kṛtirāta, from Kṛtirāta was born Mahāromā, from Mahāromā came a son named Svarṇaromā, and from Svarṇaromā came Hrasvaromā.}}
-
+---json
+{
+    "name":"SB 9.13.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 9.13.17",
+    "description":"From Mahādhṛti was born a son named Kṛtirāta, from Kṛtirāta was born Mahāromā, from Mahāromā came a son named Svarṇaromā, and from Svarṇaromā came Hrasvaromā."
+}
+---
 ====== SB 9.13.17 ======
 
 ===== Text =====

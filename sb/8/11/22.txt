@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.22~~
-~~bc:Text 22~~
-
-{{description>Pāka, another demon, attacked both the chariot, with all its paraphernalia, and the chariot driver, Mātali, by fitting two hundred arrows to his bow and releasing them all simultaneously. This was indeed a wonderful act on the battlefield.}}
-
+---json
+{
+    "name":"SB 8.11.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.11.22",
+    "description":"Pāka, another demon, attacked both the chariot, with all its paraphernalia, and the chariot driver, Mātali, by fitting two hundred arrows to his bow and releasing them all simultaneously. This was indeed a wonderful act on the battlefield."
+}
+---
 ====== SB 8.11.22 ======
 
 ===== Text =====

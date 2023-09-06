@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.19.13~~
-~~bc:Text 13~~
-
-{{description>O my Lord, master of all mystic yoga, this is the explanation of the yogic process spoken of by Lord Brahmā [Hiraṇyagarbha], who is self-realized. At the time of death, all yogīs give up the material body with full detachment simply by placing their minds at Your lotus feet. That is the perfection of yoga.}}
-
+---json
+{
+    "name":"SB 5.19.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.19.13",
+    "description":"O my Lord, master of all mystic yoga, this is the explanation of the yogic process spoken of by Lord Brahmā [Hiraṇyagarbha], who is self-realized. At the time of death, all yogīs give up the material body with full detachment simply by placing their minds at Your lotus feet. That is the perfection of yoga."
+}
+---
 ====== SB 5.19.13 ======
 
 ===== Text =====

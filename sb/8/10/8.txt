@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.8~~
-~~bc:Text 8~~
-
-{{description>On that battlefield, the charioteers fought with the opposing charioteers, the infantry soldiers with the opposing infantry, the soldiers on horseback with the opposing soldiers on horseback, and the soldiers on the backs of elephants with the enemy soldiers on elephants. In this way, the fighting took place between equals.}}
-
+---json
+{
+    "name":"SB 8.10.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 8.10.8",
+    "description":"On that battlefield, the charioteers fought with the opposing charioteers, the infantry soldiers with the opposing infantry, the soldiers on horseback with the opposing soldiers on horseback, and the soldiers on the backs of elephants with the enemy soldiers on elephants. In this way, the fighting took place between equals."
+}
+---
 ====== SB 8.10.8 ======
 
 ===== Text =====

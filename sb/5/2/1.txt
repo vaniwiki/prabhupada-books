@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī continued: After his father, Mahārāja Priyavrata, departed to follow the path of spiritual life by undergoing austerities, King Āgnīdhra completely obeyed his order. Strictly observing the principles of religion, he gave full protection to the inhabitants of Jambūdvīpa as if they were his own begotten sons.}}
-
+---json
+{
+    "name":"SB 5.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.2.1",
+    "description":"Śrī Śukadeva Gosvāmī continued: After his father, Mahārāja Priyavrata, departed to follow the path of spiritual life by undergoing austerities, King Āgnīdhra completely obeyed his order. Strictly observing the principles of religion, he gave full protection to the inhabitants of Jambūdvīpa as if they were his own begotten sons."
+}
+---
 ====== SB 5.2.1 ======
 
 ===== Text =====

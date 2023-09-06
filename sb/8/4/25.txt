@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.25~~
-~~bc:Text 25~~
-
-{{description>My dear devotee, unto those who rise from bed at the end of night and offer Me the prayers offered by you, I give an eternal residence in the spiritual world at the end of their lives.}}
-
+---json
+{
+    "name":"SB 8.4.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 8.4.25",
+    "description":"My dear devotee, unto those who rise from bed at the end of night and offer Me the prayers offered by you, I give an eternal residence in the spiritual world at the end of their lives."
+}
+---
 ====== SB 8.4.25 ======
 
 ===== Text =====

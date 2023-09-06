@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.41~~
-~~bc:Text 41~~
-
-{{description>Therefore let me surrender unto the Supreme Personality of Godhead and offer my obeisances unto Him, who is beyond the conception of human speculation, the mind, activities, words and arguments, who is the original cause of this cosmic manifestation, by whom the entire cosmos is maintained, and by whom we can conceive of its existence. Let me simply offer my obeisances, for He is beyond my contemplation, speculation and meditation. He is beyond all of my material activities.}}
-
+---json
+{
+    "name":"SB 10.8.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 10.8.41",
+    "description":"Therefore let me surrender unto the Supreme Personality of Godhead and offer my obeisances unto Him, who is beyond the conception of human speculation, the mind, activities, words and arguments, who is the original cause of this cosmic manifestation, by whom the entire cosmos is maintained, and by whom we can conceive of its existence. Let me simply offer my obeisances, for He is beyond my contemplation, speculation and meditation. He is beyond all of my material activities."
+}
+---
 ====== SB 10.8.41 ======
 
 ===== Text =====

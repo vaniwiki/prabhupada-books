@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.20~~
-~~bc:Text 20~~
-
-{{description>The four divisions of the original sources of knowledge [the Vedas] were made separately. But the historical facts and authentic stories mentioned in the Purāṇas are called the fifth Veda.}}
-
+---json
+{
+    "name":"SB 1.4.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.4.20",
+    "description":"The four divisions of the original sources of knowledge [the Vedas] were made separately. But the historical facts and authentic stories mentioned in the Purāṇas are called the fifth Veda."
+}
+---
 ====== SB 1.4.20 ======
 
 > ऋग्यजुःसामाथर्वाख्या वेदाश्चत्वार उद्धृताः ।

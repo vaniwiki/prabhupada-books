@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.27~~
-~~bc:Text 27~~
-
-{{description>He has a grown-up daughter whose eyes are black. She is ready for marriage, and she has good character and all good qualities. She is also searching for a good husband. My dear sir, her parents will come to see you, who are exactly suitable for her, just to deliver their daughter as your wife.}}
-
+---json
+{
+    "name":"SB 3.21.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.21.27",
+    "description":"He has a grown-up daughter whose eyes are black. She is ready for marriage, and she has good character and all good qualities. She is also searching for a good husband. My dear sir, her parents will come to see you, who are exactly suitable for her, just to deliver their daughter as your wife."
+}
+---
 ====== SB 3.21.27 ======
 
 > आत्मजामसितापाङ्गीं वयःशीलगुणान्विताम् ।

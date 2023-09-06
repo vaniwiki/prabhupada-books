@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.2b~~
-~~bc:Text 2b~~
-
-{{description>Everything happening within time, which consists of past, present and future, is merely a dream. That is the secret understanding in all Vedic literature.}}
-
+---json
+{
+    "name":"SB 4.29.2b",
+    "h1":"Text 2b",
+    "title":" Śrīmad Bhāgavatam 4.29.2b",
+    "description":"Everything happening within time, which consists of past, present and future, is merely a dream. That is the secret understanding in all Vedic literature."
+}
+---
 ====== SB 4.29.2b ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.26~~
-~~bc:Text 26~~
-
-{{description>As far as transactions with money are concerned, if one person cheats another by a farthing or less, they become enemies.}}
-
+---json
+{
+    "name":"SB 5.14.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 5.14.26",
+    "description":"As far as transactions with money are concerned, if one person cheats another by a farthing or less, they become enemies."
+}
+---
 ====== SB 5.14.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.17~~
-~~bc:Text 17~~
-
-{{description>The embryo of Pūru's descendant begotten by the great hero Abhimanyu in the womb of Uttarā, his wife, was burnt by the weapon of the son of Droṇa, but later he was again protected by the Lord.}}
-
+---json
+{
+    "name":"SB 3.3.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.3.17",
+    "description":"The embryo of Pūru's descendant begotten by the great hero Abhimanyu in the womb of Uttarā, his wife, was burnt by the weapon of the son of Droṇa, but later he was again protected by the Lord."
+}
+---
 ====== SB 3.3.17 ======
 
 > उत्तरायां धृतः पूरोर्वंशः साध्वभिमन्युना ।

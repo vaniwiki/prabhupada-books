@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.26-28~~
-~~bc:Text 26-28~~
-
-{{description>Thereafter, the object of speech, along with the sense of speech [the tongue], should be bestowed upon fire. Craftsmanship and the two hands should be given to the demigod Indra. The power of movement and the legs should be given to Lord Viṣṇu. Sensual pleasure, along with the genitals, should be bestowed upon Prajāpati. The rectum, with the power of evacuation, should be bestowed, in its proper place, unto Mṛtyu. The aural instrument, along with sound vibration, should be given to the deities presiding over the directions. The instrument of touch, along with the sense objects of touch, should be given to Vāyu. Form, with the power of sight, should be bestowed upon the sun. The tongue, along with the demigod Varuṇa, should be bestowed upon water, and the power of smell, along with the two Aśvinī-kumāra demigods, should be bestowed upon the earth.}}
-
+---json
+{
+    "name":"SB 7.12.26-28",
+    "h1":"Text 26-28",
+    "title":" Śrīmad Bhāgavatam 7.12.26-28",
+    "description":"Thereafter, the object of speech, along with the sense of speech [the tongue], should be bestowed upon fire. Craftsmanship and the two hands should be given to the demigod Indra. The power of movement and the legs should be given to Lord Viṣṇu. Sensual pleasure, along with the genitals, should be bestowed upon Prajāpati. The rectum, with the power of evacuation, should be bestowed, in its proper place, unto Mṛtyu. The aural instrument, along with sound vibration, should be given to the deities presiding over the directions. The instrument of touch, along with the sense objects of touch, should be given to Vāyu. Form, with the power of sight, should be bestowed upon the sun. The tongue, along with the demigod Varuṇa, should be bestowed upon water, and the power of smell, along with the two Aśvinī-kumāra demigods, should be bestowed upon the earth."
+}
+---
 ====== SB 7.12.26-28 ======
 
 ===== Text =====

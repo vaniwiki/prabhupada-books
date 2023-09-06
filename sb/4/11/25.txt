@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.25~~
-~~bc:Text 25~~
-
-{{description>The Supreme Personality of Godhead creates this material world, maintains it, and annihilates it in due course of time, but because He is transcendental to such activities, He is never affected by ego in such action or by the modes of material nature.}}
-
+---json
+{
+    "name":"SB 4.11.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.11.25",
+    "description":"The Supreme Personality of Godhead creates this material world, maintains it, and annihilates it in due course of time, but because He is transcendental to such activities, He is never affected by ego in such action or by the modes of material nature."
+}
+---
 ====== SB 4.11.25 ======
 
 > स एव विश्वं सृजति स एवावति हन्ति च ।

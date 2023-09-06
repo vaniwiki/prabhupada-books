@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.40~~
-~~bc:Text 40~~
-
-{{description>The Supreme Personality of Godhead said: The great saint Nārada Muni is very merciful. By his curse, he showed the greatest favor to both of you, who were mad after material opulence and who had thus become blind. Although you fell from the higher planet Svargaloka and became trees, you were most favored by him. I knew of all these incidents from the very beginning.}}
-
+---json
+{
+    "name":"SB 10.10.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 10.10.40",
+    "description":"The Supreme Personality of Godhead said: The great saint Nārada Muni is very merciful. By his curse, he showed the greatest favor to both of you, who were mad after material opulence and who had thus become blind. Although you fell from the higher planet Svargaloka and became trees, you were most favored by him. I knew of all these incidents from the very beginning."
+}
+---
 ====== SB 10.10.40 ======
 
 ===== Text =====

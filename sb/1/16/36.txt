@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.36~~
-~~bc:Text 36~~
-
-{{description>While the earth and the personality of religion were thus engaged in conversation, the saintly King Parīkṣit reached the shore of the Sarasvatī River, which flowed towards the east.}}
-
+---json
+{
+    "name":"SB 1.16.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 1.16.36",
+    "description":"While the earth and the personality of religion were thus engaged in conversation, the saintly King Parīkṣit reached the shore of the Sarasvatī River, which flowed towards the east."
+}
+---
 ====== SB 1.16.36 ======
 
 > तयोरेवं कथयतोः पृथिवीधर्मयोस्तदा ।

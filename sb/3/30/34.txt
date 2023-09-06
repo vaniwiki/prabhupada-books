@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.34~~
-~~bc:Text 34~~
-
-{{description>Having gone through all the miserable, hellish conditions and having passed in a regular order through the lowest forms of animal life prior to human birth, and having thus been purged of his sins, one is reborn again as a human being on this earth.}}
-
+---json
+{
+    "name":"SB 3.30.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.30.34",
+    "description":"Having gone through all the miserable, hellish conditions and having passed in a regular order through the lowest forms of animal life prior to human birth, and having thus been purged of his sins, one is reborn again as a human being on this earth."
+}
+---
 ====== SB 3.30.34 ======
 
 > अधस्तान्नरलोकस्य यावतीर्यातनादयः ।

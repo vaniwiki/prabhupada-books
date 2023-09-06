@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.20~~
-~~bc:Text 20~~
-
-{{description>The Supreme Personality of Godhead is worshiped by the great demigods, controllers of universal affairs. When He is satisfied, nothing is impossible to achieve. For this reason all the demigods, presiding deities of different planets, as well as the inhabitants of their planets, take great pleasure in offering all kinds of paraphernalia for His worship.}}
-
+---json
+{
+    "name":"SB 4.14.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.14.20",
+    "description":"The Supreme Personality of Godhead is worshiped by the great demigods, controllers of universal affairs. When He is satisfied, nothing is impossible to achieve. For this reason all the demigods, presiding deities of different planets, as well as the inhabitants of their planets, take great pleasure in offering all kinds of paraphernalia for His worship."
+}
+---
 ====== SB 4.14.20 ======
 
 > तस्मिंस्तुष्टे किमप्राप्यंजगतामीश्वरेश्वरे ।

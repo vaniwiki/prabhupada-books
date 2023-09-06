@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.15~~
-~~bc:Text 15~~
-
-{{description>O impudent one, my dear son, now take birth in a low, sinful family of demons so that you will not commit such an offense again toward exalted, saintly persons in this world.}}
-
+---json
+{
+    "name":"SB 6.17.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.17.15",
+    "description":"O impudent one, my dear son, now take birth in a low, sinful family of demons so that you will not commit such an offense again toward exalted, saintly persons in this world."
+}
+---
 ====== SB 6.17.15 ======
 
 ===== Text =====

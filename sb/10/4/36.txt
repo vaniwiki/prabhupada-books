@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.36~~
-~~bc:Text 36~~
-
-{{description>The demigods boast uselessly while away from the battlefield. Only where there is no fighting can they show their prowess. Therefore, from such demigods we have nothing to fear. As for Lord Viṣṇu, He is in seclusion in the core of the hearts of the yogīs. As for Lord Śiva, he has gone to the forest. And as for Lord Brahmā, he is always engaged in austerities and meditation. The other demigods, headed by Indra, are devoid of prowess. Therefore you have nothing to fear.}}
-
+---json
+{
+    "name":"SB 10.4.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 10.4.36",
+    "description":"The demigods boast uselessly while away from the battlefield. Only where there is no fighting can they show their prowess. Therefore, from such demigods we have nothing to fear. As for Lord Viṣṇu, He is in seclusion in the core of the hearts of the yogīs. As for Lord Śiva, he has gone to the forest. And as for Lord Brahmā, he is always engaged in austerities and meditation. The other demigods, headed by Indra, are devoid of prowess. Therefore you have nothing to fear."
+}
+---
 ====== SB 10.4.36 ======
 
 ===== Text =====

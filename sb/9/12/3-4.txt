@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.12.3-4~~
-~~bc:Text 3-4~~
-
-{{description>The son of Vajranābha was Sagaṇa, and his son was Vidhṛti. The son of Vidhṛti was Hiraṇyanābha, who became a disciple of Jaimini and became a great ācārya of mystic yoga. It is from Hiraṇyanābha that the great saint Yājñavalkya learned the highly elevated system of mystic yoga known as ādhyātma-yoga, which can loosen the knots of material attachment in the heart.}}
-
+---json
+{
+    "name":"SB 9.12.3-4",
+    "h1":"Text 3-4",
+    "title":" Śrīmad Bhāgavatam 9.12.3-4",
+    "description":"The son of Vajranābha was Sagaṇa, and his son was Vidhṛti. The son of Vidhṛti was Hiraṇyanābha, who became a disciple of Jaimini and became a great ācārya of mystic yoga. It is from Hiraṇyanābha that the great saint Yājñavalkya learned the highly elevated system of mystic yoga known as ādhyātma-yoga, which can loosen the knots of material attachment in the heart."
+}
+---
 ====== SB 9.12.3-4 ======
 
 ===== Text =====

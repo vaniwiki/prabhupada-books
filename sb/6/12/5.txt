@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.5~~
-~~bc:Text 5~~
-
-{{description>The denizens of various planets, like the demigods, demons, Cāraṇas and Siddhas, praised Vṛtrāsura's deed, but when they observed that Indra was in great danger, they lamented, "Alas! Alas!"}}
-
+---json
+{
+    "name":"SB 6.12.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 6.12.5",
+    "description":"The denizens of various planets, like the demigods, demons, Cāraṇas and Siddhas, praised Vṛtrāsura's deed, but when they observed that Indra was in great danger, they lamented, "Alas! Alas!""
+}
+---
 ====== SB 6.12.5 ======
 
 ===== Text =====

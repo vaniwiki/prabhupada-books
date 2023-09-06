@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.43~~
-~~bc:Text 43~~
-
-{{description>The great sage Nārada also inquired in detail from his father, Brahmā, the great-grandfather of all the universe, after seeing him well satisfied.}}
-
+---json
+{
+    "name":"SB 2.9.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 2.9.43",
+    "description":"The great sage Nārada also inquired in detail from his father, Brahmā, the great-grandfather of all the universe, after seeing him well satisfied."
+}
+---
 ====== SB 2.9.43 ======
 
 > तुष्टं निशाम्य पितरं लोकानां प्रपितामहम् ।

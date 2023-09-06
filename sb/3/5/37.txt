@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.37~~
-~~bc:Text 37~~
-
-{{description>O gentle one, of all the physical elements, beginning from the sky down to the earth, all the inferior and superior qualities are due only to the final touch of the glance of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 3.5.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.5.37",
+    "description":"O gentle one, of all the physical elements, beginning from the sky down to the earth, all the inferior and superior qualities are due only to the final touch of the glance of the Supreme Personality of Godhead."
+}
+---
 ====== SB 3.5.37 ======
 
 > भूतानां नभआदीनां यद्यद्भव्यावरावरम् ।

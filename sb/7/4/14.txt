@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.14~~
-~~bc:Text 14~~
-
-{{description>O Mahārāja Yudhiṣṭhira, descendant of Pāṇḍu, by dint of his personal power, Hiraṇyakaśipu, being situated on the throne of King Indra, controlled the inhabitants of all the other planets. The two Gandharvas Viśvāvasu and Tumburu, I myself and the Vidyādharas, Apsarās and sages all offered prayers to him again and again just to glorify him.}}
-
+---json
+{
+    "name":"SB 7.4.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 7.4.14",
+    "description":"O Mahārāja Yudhiṣṭhira, descendant of Pāṇḍu, by dint of his personal power, Hiraṇyakaśipu, being situated on the throne of King Indra, controlled the inhabitants of all the other planets. The two Gandharvas Viśvāvasu and Tumburu, I myself and the Vidyādharas, Apsarās and sages all offered prayers to him again and again just to glorify him."
+}
+---
 ====== SB 7.4.14 ======
 
 ===== Text =====

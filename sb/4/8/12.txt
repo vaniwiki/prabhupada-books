@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.12~~
-~~bc:Text 12~~
-
-{{description>My dear child, you are unaware that you were born not of my womb but of another woman. Therefore you should know that your attempt is doomed to failure. You are trying to fulfill a desire which is impossible to fulfill.}}
-
+---json
+{
+    "name":"SB 4.8.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.8.12",
+    "description":"My dear child, you are unaware that you were born not of my womb but of another woman. Therefore you should know that your attempt is doomed to failure. You are trying to fulfill a desire which is impossible to fulfill."
+}
+---
 ====== SB 4.8.12 ======
 
 > बालोऽसि बत नात्मानमन्यस्त्रीगर्भसम्भृतम् ।

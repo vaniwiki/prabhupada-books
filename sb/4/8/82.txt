@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.82~~
-~~bc:Text 82~~
-
-{{description>The Supreme Personality of Godhead replied: My dear demigods, do not be perturbed by this. It is due to the severe austerity and full determination of the son of King Uttānapāda, who is now fully absorbed in thought of Me. He has obstructed the universal breathing process. You can safely return to your respective homes. I shall stop this boy in his severe acts of austerities, and you will be saved from this situation.}}
-
+---json
+{
+    "name":"SB 4.8.82",
+    "h1":"Text 82",
+    "title":" Śrīmad Bhāgavatam 4.8.82",
+    "description":"The Supreme Personality of Godhead replied: My dear demigods, do not be perturbed by this. It is due to the severe austerity and full determination of the son of King Uttānapāda, who is now fully absorbed in thought of Me. He has obstructed the universal breathing process. You can safely return to your respective homes. I shall stop this boy in his severe acts of austerities, and you will be saved from this situation."
+}
+---
 ====== SB 4.8.82 ======
 
 > श्रीभगवानुवाच

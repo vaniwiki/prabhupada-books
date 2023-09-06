@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.31~~
-~~bc:Text 31~~
-
-{{description>Then, because Kṛṣṇa had increased the size of His body, the demon extended his own body to a very large size. Nonetheless, his breathing stopped, he suffocated, and his eyes rolled here and there and popped out. The demon's life air, however, could not pass through any outlet, and therefore it finally burst out through a hole in the top of the demon's head.}}
-
+---json
+{
+    "name":"SB 10.12.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 10.12.31",
+    "description":"Then, because Kṛṣṇa had increased the size of His body, the demon extended his own body to a very large size. Nonetheless, his breathing stopped, he suffocated, and his eyes rolled here and there and popped out. The demon's life air, however, could not pass through any outlet, and therefore it finally burst out through a hole in the top of the demon's head."
+}
+---
 ====== SB 10.12.31 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.11~~
-~~bc:Text 11~~
-
-{{description>The basic principle of brahminical culture is to satisfy Lord Viṣṇu, the personification of sacrificial and ritualistic ceremonies. Lord Viṣṇu is the personified reservoir of all religious principles, and He is the shelter of all the demigods, the great pitās, and the people in general. When the brāhmaṇas are killed, no one will exist to encourage the kṣatriyas to perform yajñas, and thus the demigods, not being appeased by yajña, will automatically die.}}
-
+---json
+{
+    "name":"SB 7.2.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 7.2.11",
+    "description":"The basic principle of brahminical culture is to satisfy Lord Viṣṇu, the personification of sacrificial and ritualistic ceremonies. Lord Viṣṇu is the personified reservoir of all religious principles, and He is the shelter of all the demigods, the great pitās, and the people in general. When the brāhmaṇas are killed, no one will exist to encourage the kṣatriyas to perform yajñas, and thus the demigods, not being appeased by yajña, will automatically die."
+}
+---
 ====== SB 7.2.11 ======
 
 ===== Text =====

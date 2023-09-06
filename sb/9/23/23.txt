@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.23~~
-~~bc:Text 23~~
-
-{{description>The sons of Bhadrasena were known as Durmada and Dhanaka. Dhanaka was the father of Kṛtavīrya and also of Kṛtāgni, Kṛtavarmā and Kṛtaujā.}}
-
+---json
+{
+    "name":"SB 9.23.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 9.23.23",
+    "description":"The sons of Bhadrasena were known as Durmada and Dhanaka. Dhanaka was the father of Kṛtavīrya and also of Kṛtāgni, Kṛtavarmā and Kṛtaujā."
+}
+---
 ====== SB 9.23.23 ======
 
 ===== Text =====

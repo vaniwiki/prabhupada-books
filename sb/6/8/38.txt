@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.38~~
-~~bc:Text 38~~
-
-{{description>O King of heaven, a brāhmaṇa named Kauśika formerly used this armor when he purposely gave up his body in the desert by mystic power.}}
-
+---json
+{
+    "name":"SB 6.8.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 6.8.38",
+    "description":"O King of heaven, a brāhmaṇa named Kauśika formerly used this armor when he purposely gave up his body in the desert by mystic power."
+}
+---
 ====== SB 6.8.38 ======
 
 ===== Text =====

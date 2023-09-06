@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.15~~
-~~bc:Text 15~~
-
-{{description>When all the sons of Prācīnabarhi left home to execute austerities, they met Lord Śiva, who, out of great mercy, instructed them about the Absolute Truth. All the sons of Prācīnabarhi meditated upon the instructions, chanting and worshiping them with great care and attention.}}
-
+---json
+{
+    "name":"SB 4.24.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.24.15",
+    "description":"When all the sons of Prācīnabarhi left home to execute austerities, they met Lord Śiva, who, out of great mercy, instructed them about the Absolute Truth. All the sons of Prācīnabarhi meditated upon the instructions, chanting and worshiping them with great care and attention."
+}
+---
 ====== SB 4.24.15 ======
 
 > यदुक्तं पथि दृष्टेन गिरिशेन प्रसीदता ।

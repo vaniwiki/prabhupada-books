@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.4~~
-~~bc:Text 4~~
-
-{{description>When Lord Brahmā heard everything from the demigods and the members who had attended the sacrifice, he replied: You cannot be happy in executing a sacrifice if you blaspheme a great personality and thereby offend his lotus feet. You cannot have happiness in that way.}}
-
+---json
+{
+    "name":"SB 4.6.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.6.4",
+    "description":"When Lord Brahmā heard everything from the demigods and the members who had attended the sacrifice, he replied: You cannot be happy in executing a sacrifice if you blaspheme a great personality and thereby offend his lotus feet. You cannot have happiness in that way."
+}
+---
 ====== SB 4.6.4 ======
 
 > तदाकर्ण्य विभुः प्राह तेजीयसि कृतागसि ।

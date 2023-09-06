@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.30~~
-~~bc:Text 30~~
-
-{{description>Better than those living entities who can perceive sound are those who can distinguish between one form and another. Better than them are those who have developed upper and lower sets of teeth, and better still are those who have many legs. Better than them are the quadrupeds, and better still are the human beings.}}
-
+---json
+{
+    "name":"SB 3.29.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.29.30",
+    "description":"Better than those living entities who can perceive sound are those who can distinguish between one form and another. Better than them are those who have developed upper and lower sets of teeth, and better still are those who have many legs. Better than them are the quadrupeds, and better still are the human beings."
+}
+---
 ====== SB 3.29.30 ======
 
 > रूपभेदविदस्तत्र ततश्चोभयतोदतः ।

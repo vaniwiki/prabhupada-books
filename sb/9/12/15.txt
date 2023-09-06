@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.12.15~~
-~~bc:Text 15~~
-
-{{description>From Kṣudraka will come Raṇaka, from Raṇaka will come Suratha, and from Suratha will come Sumitra, ending the dynasty. This is a description of the dynasty of Bṛhadbala.}}
-
+---json
+{
+    "name":"SB 9.12.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 9.12.15",
+    "description":"From Kṣudraka will come Raṇaka, from Raṇaka will come Suratha, and from Suratha will come Sumitra, ending the dynasty. This is a description of the dynasty of Bṛhadbala."
+}
+---
 ====== SB 9.12.15 ======
 
 ===== Text =====

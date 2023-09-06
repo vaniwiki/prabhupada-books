@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.12.14~~
-~~bc:Text 14~~
-
-{{description>From Sañjaya will come Śākya, from Śākya will come Śuddhoda, and from Śuddhoda will come Lāṅgala. From Lāṅgala will come Prasenajit, and from Prasenajit, Kṣudraka.}}
-
+---json
+{
+    "name":"SB 9.12.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 9.12.14",
+    "description":"From Sañjaya will come Śākya, from Śākya will come Śuddhoda, and from Śuddhoda will come Lāṅgala. From Lāṅgala will come Prasenajit, and from Prasenajit, Kṣudraka."
+}
+---
 ====== SB 9.12.14 ======
 
 ===== Text =====

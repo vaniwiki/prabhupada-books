@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.7.20~~
-~~bc:Text 20~~
-
-{{description>Thereafter, in the sixth year, after wandering in the forest, Rohita returned to the capital of his father. He purchased from Ajīgarta his second son, named Śunaḥśepha. Then he offered Śunaḥśepha to his father, Hariścandra, to be used as the sacrificial animal and offered Hariścandra his respectful obeisances.}}
-
+---json
+{
+    "name":"SB 9.7.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 9.7.20",
+    "description":"Thereafter, in the sixth year, after wandering in the forest, Rohita returned to the capital of his father. He purchased from Ajīgarta his second son, named Śunaḥśepha. Then he offered Śunaḥśepha to his father, Hariścandra, to be used as the sacrificial animal and offered Hariścandra his respectful obeisances."
+}
+---
 ====== SB 9.7.20 ======
 
 ===== Text =====

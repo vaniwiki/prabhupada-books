@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.25~~
-~~bc:Text 25~~
-
-{{description>My dear Lord, You are glorified by the selected verses uttered by great personalities. Such glorification of Your lotus feet is just like saffron particles. When the transcendental vibration from the mouths of great devotees carries the aroma of the saffron dust of Your lotus feet, the forgetful living entity gradually remembers his eternal relationship with You. Devotees thus gradually come to the right conclusion about the value of life. My dear Lord, I therefore do not need any other benediction but the opportunity to hear from the mouth of Your pure devotee.}}
-
+---json
+{
+    "name":"SB 4.20.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.20.25",
+    "description":"My dear Lord, You are glorified by the selected verses uttered by great personalities. Such glorification of Your lotus feet is just like saffron particles. When the transcendental vibration from the mouths of great devotees carries the aroma of the saffron dust of Your lotus feet, the forgetful living entity gradually remembers his eternal relationship with You. Devotees thus gradually come to the right conclusion about the value of life. My dear Lord, I therefore do not need any other benediction but the opportunity to hear from the mouth of Your pure devotee."
+}
+---
 ====== SB 4.20.25 ======
 
 > स उत्तमश्लोक महन्मुखच्युतो भवत्पदाम्भोजसुधा कणानिलः ।

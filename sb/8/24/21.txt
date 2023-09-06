@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.21~~
-~~bc:Text 21~~
-
-{{description>O Mahārāja Parīkṣit, the King took the fish from the well and threw Him in a lake, but the fish then assumed a gigantic form exceeding the extent of the water.}}
-
+---json
+{
+    "name":"SB 8.24.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.24.21",
+    "description":"O Mahārāja Parīkṣit, the King took the fish from the well and threw Him in a lake, but the fish then assumed a gigantic form exceeding the extent of the water."
+}
+---
 ====== SB 8.24.21 ======
 
 ===== Text =====

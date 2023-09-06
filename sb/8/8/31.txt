@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.31~~
-~~bc:Text 31~~
-
-{{description>O King, thereafter, while the sons of Kaśyapa, both demons and demigods, were engaged in churning the ocean of milk, a very wonderful male person appeared.}}
-
+---json
+{
+    "name":"SB 8.8.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.8.31",
+    "description":"O King, thereafter, while the sons of Kaśyapa, both demons and demigods, were engaged in churning the ocean of milk, a very wonderful male person appeared."
+}
+---
 ====== SB 8.8.31 ======
 
 ===== Text =====

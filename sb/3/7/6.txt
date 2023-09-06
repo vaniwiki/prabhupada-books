@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.6~~
-~~bc:Text 6~~
-
-{{description>The Lord, as the Supersoul, is situated in every living being's heart. Why then do the living entities' activities result in misfortune and misery?}}
-
+---json
+{
+    "name":"SB 3.7.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.7.6",
+    "description":"The Lord, as the Supersoul, is situated in every living being's heart. Why then do the living entities' activities result in misfortune and misery?"
+}
+---
 ====== SB 3.7.6 ======
 
 > भगवानेक एवैष सर्वक्षेत्रेष्ववस्थितः ।

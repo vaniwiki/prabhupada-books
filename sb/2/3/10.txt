@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.10~~
-~~bc:Text 10~~
-
-{{description>A person who has broader intelligence, whether he be full of all material desire, without any material desire, or desiring liberation, must by all means worship the supreme whole, the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.3.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 2.3.10",
+    "description":"A person who has broader intelligence, whether he be full of all material desire, without any material desire, or desiring liberation, must by all means worship the supreme whole, the Personality of Godhead."
+}
+---
 ====== SB 2.3.10 ======
 
 > अकामः सर्वकामो वा मोक्षकाम उदारधीः ।

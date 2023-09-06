@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.12~~
-~~bc:Text 12~~
-
-{{description>The great sages performed the bathing ceremony of the goddess of fortune as directed in the authorized scriptures, the Gandharvas chanted all-auspicious Vedic mantras, and the professional women dancers very nicely danced and sang authorized songs prescribed in the Vedas.}}
-
+---json
+{
+    "name":"SB 8.8.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 8.8.12",
+    "description":"The great sages performed the bathing ceremony of the goddess of fortune as directed in the authorized scriptures, the Gandharvas chanted all-auspicious Vedic mantras, and the professional women dancers very nicely danced and sang authorized songs prescribed in the Vedas."
+}
+---
 ====== SB 8.8.12 ======
 
 ===== Text =====

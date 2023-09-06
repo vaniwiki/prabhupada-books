@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.10~~
-~~bc:Text 10~~
-
-{{description>A person who accepts his body as his self works very hard day and night for money to maintain his own body and the bodies of his wife and children. While working to maintain himself and his family, he may commit violence against other living entities. Such a person is forced to give up his body and his family at the time of death, when he suffers the reaction for his envy of other creatures by being thrown into the hell called Raurava.}}
-
+---json
+{
+    "name":"SB 5.26.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.26.10",
+    "description":"A person who accepts his body as his self works very hard day and night for money to maintain his own body and the bodies of his wife and children. While working to maintain himself and his family, he may commit violence against other living entities. Such a person is forced to give up his body and his family at the time of death, when he suffers the reaction for his envy of other creatures by being thrown into the hell called Raurava."
+}
+---
 ====== SB 5.26.10 ======
 
 ===== Text =====

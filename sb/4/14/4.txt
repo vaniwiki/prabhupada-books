@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.4~~
-~~bc:Text 4~~
-
-{{description>When the King ascended to the throne, he became all-powerful with eight kinds of opulences. Consequently he became too proud. By virtue of his false prestige, he considered himself to be greater than anyone. Thus he began to insult great personalities.}}
-
+---json
+{
+    "name":"SB 4.14.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.14.4",
+    "description":"When the King ascended to the throne, he became all-powerful with eight kinds of opulences. Consequently he became too proud. By virtue of his false prestige, he considered himself to be greater than anyone. Thus he began to insult great personalities."
+}
+---
 ====== SB 4.14.4 ======
 
 > स आरूढनृपस्थान उन्नद्धोऽष्टविभूतिभिः ।

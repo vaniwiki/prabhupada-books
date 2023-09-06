@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.51~~
-~~bc:Text 51~~
-
-{{description>One who is engaged in devotional service has not the least fear in material existence. This is because the Supreme Personality of Godhead is the Supersoul and friend of everyone. One who knows this secret is actually educated, and one thus educated can become the spiritual master of the world. One who is an actually bona fide spiritual master, representative of Kṛṣṇa, is not different from Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 4.29.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 4.29.51",
+    "description":"One who is engaged in devotional service has not the least fear in material existence. This is because the Supreme Personality of Godhead is the Supersoul and friend of everyone. One who knows this secret is actually educated, and one thus educated can become the spiritual master of the world. One who is an actually bona fide spiritual master, representative of Kṛṣṇa, is not different from Kṛṣṇa."
+}
+---
 ====== SB 4.29.51 ======
 
 > स वै प्रियतमश्चात्मा यतो न भयमण्वपि ।

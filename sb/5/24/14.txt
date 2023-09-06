@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.14~~
-~~bc:Text 14~~
-
-{{description>They live very auspiciously and do not fear death from anything but death's established time, which is the effulgence of the Sudarśana cakra of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 5.24.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 5.24.14",
+    "description":"They live very auspiciously and do not fear death from anything but death's established time, which is the effulgence of the Sudarśana cakra of the Supreme Personality of Godhead."
+}
+---
 ====== SB 5.24.14 ======
 
 ===== Text =====

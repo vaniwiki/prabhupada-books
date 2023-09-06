@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.33~~
-~~bc:Text 33~~
-
-{{description>Thereafter, along with Śukrācārya and other great saints, Lord Brahmā, whose seat is on the lotus flower, made Prahlāda the king of all the demons and giants in the universe.}}
-
+---json
+{
+    "name":"SB 7.10.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 7.10.33",
+    "description":"Thereafter, along with Śukrācārya and other great saints, Lord Brahmā, whose seat is on the lotus flower, made Prahlāda the king of all the demons and giants in the universe."
+}
+---
 ====== SB 7.10.33 ======
 
 ===== Text =====

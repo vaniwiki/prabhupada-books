@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.3~~
-~~bc:Text 3~~
-
-{{description>For the protection of the brāhmaṇas, the thousand-legged Supreme Being created us, the kṣatriyas, from His thousand arms. Hence the brāhmaṇas are said to be His heart and the kṣatriyas His arms.}}
-
+---json
+{
+    "name":"SB 3.22.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.22.3",
+    "description":"For the protection of the brāhmaṇas, the thousand-legged Supreme Being created us, the kṣatriyas, from His thousand arms. Hence the brāhmaṇas are said to be His heart and the kṣatriyas His arms."
+}
+---
 ====== SB 3.22.3 ======
 
 > तत्त्राणायासृजच्चास्मान्दोःसहस्रात्सहस्रपात् ।

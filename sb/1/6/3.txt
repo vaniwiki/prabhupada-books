@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.3~~
-~~bc:Text 3~~
-
-{{description>O son of Brahmā, how did you pass your life after initiation, and how did you attain this body, having quit your old one in due course?}}
-
+---json
+{
+    "name":"SB 1.6.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.6.3",
+    "description":"O son of Brahmā, how did you pass your life after initiation, and how did you attain this body, having quit your old one in due course?"
+}
+---
 ====== SB 1.6.3 ======
 
 > स्वायम्भुव कया वृत्त्या वर्तितं ते परं वयः ।

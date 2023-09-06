@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.15~~
-~~bc:Text 15~~
-
-{{description>If one chants the holy name of Hari and then dies because of an accidental misfortune, such as falling from the top of a house, slipping and suffering broken bones while traveling on the road, being bitten by a serpent, being afflicted with pain and high fever, or being injured by a weapon, one is immediately absolved from having to enter hellish life, even though he is sinful.}}
-
+---json
+{
+    "name":"SB 6.2.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.2.15",
+    "description":"If one chants the holy name of Hari and then dies because of an accidental misfortune, such as falling from the top of a house, slipping and suffering broken bones while traveling on the road, being bitten by a serpent, being afflicted with pain and high fever, or being injured by a weapon, one is immediately absolved from having to enter hellish life, even though he is sinful."
+}
+---
 ====== SB 6.2.15 ======
 
 ===== Text =====

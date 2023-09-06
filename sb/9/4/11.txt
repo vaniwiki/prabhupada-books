@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.11~~
-~~bc:Text 11~~
-
-{{description>Lord Śiva said, "Now you may take all the wealth remaining from the sacrifice, for I give it to you." After saying this, Lord Śiva, who is most adherent to the religious principles, disappeared from that place.}}
-
+---json
+{
+    "name":"SB 9.4.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.4.11",
+    "description":"Lord Śiva said, "Now you may take all the wealth remaining from the sacrifice, for I give it to you." After saying this, Lord Śiva, who is most adherent to the religious principles, disappeared from that place."
+}
+---
 ====== SB 9.4.11 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.45~~
-~~bc:Text 45~~
-
-{{description>The inhabitants of Siddhaloka prayed: O Lord Nṛsiṁhadeva, because we belong to Siddhaloka, we automatically achieve perfection in all eight kinds of mystic power. Yet Hiraṇyakaśipu was so dishonest that by the strength of his power and austerity, he took away our powers. Thus he became very proud of his mystic strength. Now, because this rogue has been killed by Your nails, we offer our respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 7.8.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 7.8.45",
+    "description":"The inhabitants of Siddhaloka prayed: O Lord Nṛsiṁhadeva, because we belong to Siddhaloka, we automatically achieve perfection in all eight kinds of mystic power. Yet Hiraṇyakaśipu was so dishonest that by the strength of his power and austerity, he took away our powers. Thus he became very proud of his mystic strength. Now, because this rogue has been killed by Your nails, we offer our respectful obeisances unto You."
+}
+---
 ====== SB 7.8.45 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.40~~
-~~bc:Text 40~~
-
-{{description>You are like a captain of a ship in a great ocean and you can direct us to our destination. Thus addressed, the godly personality, Devarṣi Nārada, greatest of the philosopher devotees, began to speak.}}
-
+---json
+{
+    "name":"SB 1.13.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 1.13.40",
+    "description":"You are like a captain of a ship in a great ocean and you can direct us to our destination. Thus addressed, the godly personality, Devarṣi Nārada, greatest of the philosopher devotees, began to speak."
+}
+---
 ====== SB 1.13.40 ======
 
 > कर्णधार इवापारे भगवान्पारदर्शकः ।

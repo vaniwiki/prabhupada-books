@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.66~~
-~~bc:Text 66~~
-
-{{description>The reason is that Satī's father, Dakṣa, used to rebuke Lord Śiva in spite of Śiva's faultlessness. Consequently, before attaining a mature age, Satī gave up her body by dint of yogic mystic power.}}
-
+---json
+{
+    "name":"SB 4.1.66",
+    "h1":"Text 66",
+    "title":" Śrīmad Bhāgavatam 4.1.66",
+    "description":"The reason is that Satī's father, Dakṣa, used to rebuke Lord Śiva in spite of Śiva's faultlessness. Consequently, before attaining a mature age, Satī gave up her body by dint of yogic mystic power."
+}
+---
 ====== SB 4.1.66 ======
 
 > पितर्यप्रतिरूपे स्वे भवायानागसे रुषा ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.12~~
-~~bc:Text 12~~
-
-{{description>You have already been informed about the nine daughters of Kardama Muni, who were handed over to nine different sages. I shall now describe the descendants of those nine daughters. Please hear from me.}}
-
+---json
+{
+    "name":"SB 4.1.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.1.12",
+    "description":"You have already been informed about the nine daughters of Kardama Muni, who were handed over to nine different sages. I shall now describe the descendants of those nine daughters. Please hear from me."
+}
+---
 ====== SB 4.1.12 ======
 
 > याः कर्दमसुताः प्रोक्ता नव ब्रह्मर्षिपत्नयः ।

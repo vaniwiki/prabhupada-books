@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.7~~
-~~bc:Text 7~~
-
-{{description>Plakṣadvīpa is surrounded by an ocean of sugarcane juice, equal in breadth to the island itself. Similarly, there is then another island—Sālmalīdvīpa—twice as broad as Plakṣadvīpa [400,000 yojanas, or 3,200,000 miles] and surrounded by an equally broad body of water called Surāsāgara, the ocean that tastes like liquor.}}
-
+---json
+{
+    "name":"SB 5.20.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.20.7",
+    "description":"Plakṣadvīpa is surrounded by an ocean of sugarcane juice, equal in breadth to the island itself. Similarly, there is then another island—Sālmalīdvīpa—twice as broad as Plakṣadvīpa [400,000 yojanas, or 3,200,000 miles] and surrounded by an equally broad body of water called Surāsāgara, the ocean that tastes like liquor."
+}
+---
 ====== SB 5.20.7 ======
 
 ===== Text =====

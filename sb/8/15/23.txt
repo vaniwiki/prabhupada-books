@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.23~~
-~~bc:Text 23~~
-
-{{description>Bali Mahārāja, who was the commander of numberless soldiers, gathered his soldiers outside this abode of Indra and attacked it from all directions. He sounded the conchshell given him by his spiritual master, Śukrācārya, thus creating a fearful situation for the women protected by Indra.}}
-
+---json
+{
+    "name":"SB 8.15.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 8.15.23",
+    "description":"Bali Mahārāja, who was the commander of numberless soldiers, gathered his soldiers outside this abode of Indra and attacked it from all directions. He sounded the conchshell given him by his spiritual master, Śukrācārya, thus creating a fearful situation for the women protected by Indra."
+}
+---
 ====== SB 8.15.23 ======
 
 ===== Text =====

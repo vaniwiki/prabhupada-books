@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.25~~
-~~bc:Text 25~~
-
-{{description>He approached the Personality of Godhead, who bestows all boons and who dispels the agony of His devotees and of those who take shelter of His lotus feet. He manifests His innumerable transcendental forms for the satisfaction of His devotees.}}
-
+---json
+{
+    "name":"SB 3.20.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 3.20.25",
+    "description":"He approached the Personality of Godhead, who bestows all boons and who dispels the agony of His devotees and of those who take shelter of His lotus feet. He manifests His innumerable transcendental forms for the satisfaction of His devotees."
+}
+---
 ====== SB 3.20.25 ======
 
 > स उपव्रज्य वरदं प्रपन्नार्तिहरं हरिम् ।

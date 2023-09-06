@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.15~~
-~~bc:Text 15~~
-
-{{description>Lord Viṣṇu continued: My dear King Pṛthu, if you continue to protect the citizens according to the instructions of the learned brāhmaṇa authorities, as they are received by the disciplic succession—by hearing—from master to disciple, and if you follow the religious principles laid down by them, without attachment to ideas manufactured by mental concoction, then every one of your citizens will be happy and will love you, and very soon you will be able to see such already liberated personalities as the four Kumāras [Sanaka, Sanātana, Sanandana and Sanat-kumāra].}}
-
+---json
+{
+    "name":"SB 4.20.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.20.15",
+    "description":"Lord Viṣṇu continued: My dear King Pṛthu, if you continue to protect the citizens according to the instructions of the learned brāhmaṇa authorities, as they are received by the disciplic succession—by hearing—from master to disciple, and if you follow the religious principles laid down by them, without attachment to ideas manufactured by mental concoction, then every one of your citizens will be happy and will love you, and very soon you will be able to see such already liberated personalities as the four Kumāras [Sanaka, Sanātana, Sanandana and Sanat-kumāra]."
+}
+---
 ====== SB 4.20.15 ======
 
 > एवं द्विजाग्र्यानुमतानुवृत्त धर्मप्रधानोऽन्यतमोऽवितास्याः ।

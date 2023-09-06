@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.23~~
-~~bc:Text 23~~
-
-{{description>The person who has not at any time received the dust of the feet of the Lord's pure devotee upon his head is certainly a dead body. And the person who has never experienced the aroma of the tulasī leaves from the lotus feet of the Lord is also a dead body, although breathing.}}
-
+---json
+{
+    "name":"SB 2.3.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 2.3.23",
+    "description":"The person who has not at any time received the dust of the feet of the Lord's pure devotee upon his head is certainly a dead body. And the person who has never experienced the aroma of the tulasī leaves from the lotus feet of the Lord is also a dead body, although breathing."
+}
+---
 ====== SB 2.3.23 ======
 
 > जीवञ्छवो भागवताङ्घ्रिरेणुं न जातु मर्त्योऽभिलभेत यस्तु ।

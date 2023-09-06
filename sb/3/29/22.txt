@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.22~~
-~~bc:Text 22~~
-
-{{description>One who worships the Deity of Godhead in the temples but does not know that the Supreme Lord, as Paramātmā, is situated in every living entity's heart, must be in ignorance and is compared to one who offers oblations into ashes.}}
-
+---json
+{
+    "name":"SB 3.29.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.29.22",
+    "description":"One who worships the Deity of Godhead in the temples but does not know that the Supreme Lord, as Paramātmā, is situated in every living entity's heart, must be in ignorance and is compared to one who offers oblations into ashes."
+}
+---
 ====== SB 3.29.22 ======
 
 > यो मां सर्वेषु भूतेषु सन्तमात्मानमीश्वरम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.20~~
-~~bc:Text 20~~
-
-{{description>One's mind is always agitated by the passionate mode of material nature and bewildered by the ignorant mode of nature. But one can rectify such conceptions by the relation of Viṣṇu and thus become pacified by cleansing the dirty things created by them.}}
-
+---json
+{
+    "name":"SB 2.1.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 2.1.20",
+    "description":"One's mind is always agitated by the passionate mode of material nature and bewildered by the ignorant mode of nature. But one can rectify such conceptions by the relation of Viṣṇu and thus become pacified by cleansing the dirty things created by them."
+}
+---
 ====== SB 2.1.20 ======
 
 > रजस्तमोभ्यामाक्षिप्तं विमूढं मन आत्मनः ।

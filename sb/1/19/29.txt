@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.29~~
-~~bc:Text 29~~
-
-{{description>Mahārāja Parīkṣit, who is also known as Viṣṇurāta [one who is always protected by Viṣṇu], bowed his head to receive the chief guest, Śukadeva Gosvāmī. At that time all the ignorant women and boys ceased following Śrīla Śukadeva. Receiving respect from all, Śukadeva Gosvāmī took his exalted seat.}}
-
+---json
+{
+    "name":"SB 1.19.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.19.29",
+    "description":"Mahārāja Parīkṣit, who is also known as Viṣṇurāta [one who is always protected by Viṣṇu], bowed his head to receive the chief guest, Śukadeva Gosvāmī. At that time all the ignorant women and boys ceased following Śrīla Śukadeva. Receiving respect from all, Śukadeva Gosvāmī took his exalted seat."
+}
+---
 ====== SB 1.19.29 ======
 
 > स विष्णुरातोऽतिथय आगताय तस्मै सपर्यां शिरसाजहार ।

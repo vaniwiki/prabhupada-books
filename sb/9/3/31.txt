@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.31~~
-~~bc:Text 31~~
-
-{{description>After hearing his words, Lord Brahmā, who is most powerful, laughed loudly and said to Kakudmī: O King, all those whom you may have decided within the core of your heart to accept as your son-in-law have passed away in the course of time.}}
-
+---json
+{
+    "name":"SB 9.3.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 9.3.31",
+    "description":"After hearing his words, Lord Brahmā, who is most powerful, laughed loudly and said to Kakudmī: O King, all those whom you may have decided within the core of your heart to accept as your son-in-law have passed away in the course of time."
+}
+---
 ====== SB 9.3.31 ======
 
 ===== Text =====

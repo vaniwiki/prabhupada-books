@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.60~~
-~~bc:Text 60~~
-
-{{description>One who narrates this description of the Matsya incarnation and King Satyavrata will certainly have all his ambitions fulfilled, and he will undoubtedly return home, back to Godhead.}}
-
+---json
+{
+    "name":"SB 8.24.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 8.24.60",
+    "description":"One who narrates this description of the Matsya incarnation and King Satyavrata will certainly have all his ambitions fulfilled, and he will undoubtedly return home, back to Godhead."
+}
+---
 ====== SB 8.24.60 ======
 
 ===== Text =====

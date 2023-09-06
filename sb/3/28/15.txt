@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.15~~
-~~bc:Text 15~~
-
-{{description>He also wears around His neck a garland of attractive sylvan flowers, and a swarm of bees, intoxicated by its delicious fragrance, hums about the garland. He is further superbly adorned with a pearl necklace, a crown and pairs of armlets, bracelets and anklets.}}
-
+---json
+{
+    "name":"SB 3.28.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.28.15",
+    "description":"He also wears around His neck a garland of attractive sylvan flowers, and a swarm of bees, intoxicated by its delicious fragrance, hums about the garland. He is further superbly adorned with a pearl necklace, a crown and pairs of armlets, bracelets and anklets."
+}
+---
 ====== SB 3.28.15 ======
 
 > मत्तद्विरेफकलया परीतं वनमालया ।

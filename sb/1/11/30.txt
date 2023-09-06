@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.30~~
-~~bc:Text 30~~
-
-{{description>Thereafter, the Lord entered His palaces, which were perfect to the fullest extent. His wives lived in them, and they numbered over sixteen thousand.}}
-
+---json
+{
+    "name":"SB 1.11.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.11.30",
+    "description":"Thereafter, the Lord entered His palaces, which were perfect to the fullest extent. His wives lived in them, and they numbered over sixteen thousand."
+}
+---
 ====== SB 1.11.30 ======
 
 > अथाविशत्स्वभवनं सर्वकाममनुत्तमम् ।

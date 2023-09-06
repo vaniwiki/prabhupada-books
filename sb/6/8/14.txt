@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.14~~
-~~bc:Text 14~~
-
-{{description>May Lord Nṛsiṁhadeva, who appeared as the enemy of Hiraṇyakaśipu, protect me in all directions. His loud laughing vibrated in all directions and caused the pregnant wives of the asuras to have miscarriages. May that Lord be kind enough to protect me in difficult places like the forest and battlefront.}}
-
+---json
+{
+    "name":"SB 6.8.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 6.8.14",
+    "description":"May Lord Nṛsiṁhadeva, who appeared as the enemy of Hiraṇyakaśipu, protect me in all directions. His loud laughing vibrated in all directions and caused the pregnant wives of the asuras to have miscarriages. May that Lord be kind enough to protect me in difficult places like the forest and battlefront."
+}
+---
 ====== SB 6.8.14 ======
 
 ===== Text =====

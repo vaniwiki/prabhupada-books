@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.23~~
-~~bc:Text 23~~
-
-{{description>Dakṣa has accepted the body as all in all. Therefore, since he has forgotten the viṣṇu-pāda, or viṣṇu-gati, and is attached to sex life only, within a short time he will have the face of a goat.}}
-
+---json
+{
+    "name":"SB 4.2.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.2.23",
+    "description":"Dakṣa has accepted the body as all in all. Therefore, since he has forgotten the viṣṇu-pāda, or viṣṇu-gati, and is attached to sex life only, within a short time he will have the face of a goat."
+}
+---
 ====== SB 4.2.23 ======
 
 > बुद्ध्या पराभिध्यायिन्या विस्मृतात्मगतिः पशुः ।

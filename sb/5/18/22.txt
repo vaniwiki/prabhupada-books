@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.22~~
-~~bc:Text 22~~
-
-{{description>O supreme unconquerable Lord, when they become absorbed in thoughts of material enjoyment, Lord Brahmā and Lord Śiva, as well as other demigods and demons, undergo severe penances and austerities to receive my benedictions. But I do not favor anyone, however great he may be; unless he is always engaged in the service of Your lotus feet. Because I always keep You within my heart, I cannot favor anyone but a devotee.}}
-
+---json
+{
+    "name":"SB 5.18.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 5.18.22",
+    "description":"O supreme unconquerable Lord, when they become absorbed in thoughts of material enjoyment, Lord Brahmā and Lord Śiva, as well as other demigods and demons, undergo severe penances and austerities to receive my benedictions. But I do not favor anyone, however great he may be; unless he is always engaged in the service of Your lotus feet. Because I always keep You within my heart, I cannot favor anyone but a devotee."
+}
+---
 ====== SB 5.18.22 ======
 
 ===== Text =====

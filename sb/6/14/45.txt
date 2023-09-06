@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.45~~
-~~bc:Text 45~~
-
-{{description>Thinking that her child had been sleeping for a long time, Queen Kṛtadyuti, who was certainly very intelligent, ordered the nurse, "My dear friend, please bring my son here."}}
-
+---json
+{
+    "name":"SB 6.14.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 6.14.45",
+    "description":"Thinking that her child had been sleeping for a long time, Queen Kṛtadyuti, who was certainly very intelligent, ordered the nurse, "My dear friend, please bring my son here.""
+}
+---
 ====== SB 6.14.45 ======
 
 ===== Text =====

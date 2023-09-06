@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.40~~
-~~bc:Text 40~~
-
-{{description>Śrī Sūta Gosvāmī said: O learned saints, the childhood pastimes of Śrī Kṛṣṇa are very wonderful. Mahārāja Parīkṣit, after hearing about those pastimes of Kṛṣṇa, who had saved him in the womb of his mother, became steady in his mind and again inquired from Śukadeva Gosvāmī to hear about those pious activities.}}
-
+---json
+{
+    "name":"SB 10.12.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 10.12.40",
+    "description":"Śrī Sūta Gosvāmī said: O learned saints, the childhood pastimes of Śrī Kṛṣṇa are very wonderful. Mahārāja Parīkṣit, after hearing about those pastimes of Kṛṣṇa, who had saved him in the womb of his mother, became steady in his mind and again inquired from Śukadeva Gosvāmī to hear about those pious activities."
+}
+---
 ====== SB 10.12.40 ======
 
 ===== Text =====

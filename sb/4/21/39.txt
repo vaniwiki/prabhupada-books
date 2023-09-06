@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.39~~
-~~bc:Text 39~~
-
-{{description>The Supreme Personality of Godhead, who is everlastingly independent and who exists in everyone's heart, is very pleased with those who follow in His footsteps and engage without reservation in the service of the descendants of brāhmaṇas and Vaiṣṇavas, for He is always dear to brāhmaṇas and Vaiṣṇavas and they are always dear to Him.}}
-
+---json
+{
+    "name":"SB 4.21.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.21.39",
+    "description":"The Supreme Personality of Godhead, who is everlastingly independent and who exists in everyone's heart, is very pleased with those who follow in His footsteps and engage without reservation in the service of the descendants of brāhmaṇas and Vaiṣṇavas, for He is always dear to brāhmaṇas and Vaiṣṇavas and they are always dear to Him."
+}
+---
 ====== SB 4.21.39 ======
 
 > यत्सेवयाशेषगुहाशयः स्वराड्विप्रप्रियस्तुष्यति काममीश्वरः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.11~~
-~~bc:Text 11~~
-
-{{description>The demigods said: Let Mahārāja Nimi live without a material body. Let him live in a spiritual body as a personal associate of the Supreme Personality of Godhead, and, according to his desire, let him be manifest or unmanifest to common materially embodied people.}}
-
+---json
+{
+    "name":"SB 9.13.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.13.11",
+    "description":"The demigods said: Let Mahārāja Nimi live without a material body. Let him live in a spiritual body as a personal associate of the Supreme Personality of Godhead, and, according to his desire, let him be manifest or unmanifest to common materially embodied people."
+}
+---
 ====== SB 9.13.11 ======
 
 ===== Text =====

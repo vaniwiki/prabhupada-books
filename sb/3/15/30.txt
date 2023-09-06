@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.15.30~~
-~~bc:Text 30~~
-
-{{description>The four boy-sages, who had nothing to cover their bodies but the atmosphere, looked only five years old, even though they were the oldest of all living creatures and had realized the truth of the self. But when the porters, who happened to possess a disposition quite unpalatable to the Lord, saw the sages, they blocked their way with their staffs, despising their glories, although the sages did not deserve such treatment at their hands.}}
-
+---json
+{
+    "name":"SB 3.15.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.15.30",
+    "description":"The four boy-sages, who had nothing to cover their bodies but the atmosphere, looked only five years old, even though they were the oldest of all living creatures and had realized the truth of the self. But when the porters, who happened to possess a disposition quite unpalatable to the Lord, saw the sages, they blocked their way with their staffs, despising their glories, although the sages did not deserve such treatment at their hands."
+}
+---
 ====== SB 3.15.30 ======
 
 > तान्वीक्ष्य वातरशनांश्चतुरः कुमारान्

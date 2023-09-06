@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.25~~
-~~bc:Text 25~~
-
-{{description>After perceiving the moonshine, Mahārāja Bharata continued speaking like a crazy person. He said: The deer's son was so submissive and dear to me that due to its separation I am feeling separation from my own son. Due to the burning fever of this separation, I am suffering as if inflamed by a forest fire. My heart, which is like the lily of the land, is now burning. Seeing me so distressed, the moon is certainly splashing its shining nectar upon me—just as a friend throws water on another friend who has a high fever. In this way, the moon is bringing me happiness.}}
-
+---json
+{
+    "name":"SB 5.8.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 5.8.25",
+    "description":"After perceiving the moonshine, Mahārāja Bharata continued speaking like a crazy person. He said: The deer's son was so submissive and dear to me that due to its separation I am feeling separation from my own son. Due to the burning fever of this separation, I am suffering as if inflamed by a forest fire. My heart, which is like the lily of the land, is now burning. Seeing me so distressed, the moon is certainly splashing its shining nectar upon me—just as a friend throws water on another friend who has a high fever. In this way, the moon is bringing me happiness."
+}
+---
 ====== SB 5.8.25 ======
 
 ===== Text =====

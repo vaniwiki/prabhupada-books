@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.45~~
-~~bc:Text 45~~
-
-{{description>O Supreme Personality of Godhead, we are surrendered unto You, yet we wish to see You. Please make Your original form and smiling lotus face visible to our eyes and appreciable to our other senses.}}
-
+---json
+{
+    "name":"SB 8.5.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 8.5.45",
+    "description":"O Supreme Personality of Godhead, we are surrendered unto You, yet we wish to see You. Please make Your original form and smiling lotus face visible to our eyes and appreciable to our other senses."
+}
+---
 ====== SB 8.5.45 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.8~~
-~~bc:Text 8~~
-
-{{description>The Supreme Personality of Godhead, who is the supreme controller and time factor, is the power of the senses, the power of the mind, the power of the body, and the vital force of the senses. His influence is unlimited. He is the best of all living entities, the controller of the three modes of material nature. By His own power, He creates this cosmic manifestation, maintains it and annihilates it also.}}
-
+---json
+{
+    "name":"SB 7.8.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 7.8.8",
+    "description":"The Supreme Personality of Godhead, who is the supreme controller and time factor, is the power of the senses, the power of the mind, the power of the body, and the vital force of the senses. His influence is unlimited. He is the best of all living entities, the controller of the three modes of material nature. By His own power, He creates this cosmic manifestation, maintains it and annihilates it also."
+}
+---
 ====== SB 7.8.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.2~~
-~~bc:Text 2~~
-
-{{description>O Mahārāja Parīkṣit, descendant of Pāṇḍu, Saṅkṛti had two sons, named Guru and Rantideva. Rantideva is famous in both this world and the next, for he is glorified not only in human society but also in the society of the demigods.}}
-
+---json
+{
+    "name":"SB 9.21.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.21.2",
+    "description":"O Mahārāja Parīkṣit, descendant of Pāṇḍu, Saṅkṛti had two sons, named Guru and Rantideva. Rantideva is famous in both this world and the next, for he is glorified not only in human society but also in the society of the demigods."
+}
+---
 ====== SB 9.21.2 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.1~~
-~~bc:Text 1~~
-
-{{description>Recalling the words of Lord Viṣṇu, the merciful sage Kardama replied as follows to Svāyambhuva Manu's praiseworthy daughter, Devahūti, who was speaking words full of renunciation.}}
-
+---json
+{
+    "name":"SB 3.24.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.24.1",
+    "description":"Recalling the words of Lord Viṣṇu, the merciful sage Kardama replied as follows to Svāyambhuva Manu's praiseworthy daughter, Devahūti, who was speaking words full of renunciation."
+}
+---
 ====== SB 3.24.1 ======
 
 > मैत्रेय उवाच

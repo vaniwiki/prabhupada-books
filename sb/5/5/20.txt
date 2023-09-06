@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.20~~
-~~bc:Text 20~~
-
-{{description>My dear boys, you are all born of My heart, which is the seat of all spiritual qualities. Therefore you should not be like materialistic and envious men. You should accept your eldest brother, Bharata, who is exalted in devotional service. If you engage yourselves in Bharata's service, your service to him will include My service, and you will rule the citizens automatically.}}
-
+---json
+{
+    "name":"SB 5.5.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 5.5.20",
+    "description":"My dear boys, you are all born of My heart, which is the seat of all spiritual qualities. Therefore you should not be like materialistic and envious men. You should accept your eldest brother, Bharata, who is exalted in devotional service. If you engage yourselves in Bharata's service, your service to him will include My service, and you will rule the citizens automatically."
+}
+---
 ====== SB 5.5.20 ======
 
 ===== Text =====

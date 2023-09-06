@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.16~~
-~~bc:Text 16~~
-
-{{description>The chest of Mahārāja Pṛthu was very broad, his waist was very thick, and his abdomen, wrinkled by lines of skin, resembled in construction a leaf of a banyan tree. His navel was coiled and deep, his thighs were of a golden hue, and his instep was arched.}}
-
+---json
+{
+    "name":"SB 4.21.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.21.16",
+    "description":"The chest of Mahārāja Pṛthu was very broad, his waist was very thick, and his abdomen, wrinkled by lines of skin, resembled in construction a leaf of a banyan tree. His navel was coiled and deep, his thighs were of a golden hue, and his instep was arched."
+}
+---
 ====== SB 4.21.16 ======
 
 > व्यूढवक्षा बृहच्छ्रोणिर्वलिवल्गुदलोदरः ।

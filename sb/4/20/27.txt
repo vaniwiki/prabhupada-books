@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.27~~
-~~bc:Text 27~~
-
-{{description>Now I wish to engage in the service of the lotus feet of the Supreme Personality of Godhead and to serve just like the goddess of fortune, who carries a lotus flower in her hand, because His Lordship, the Supreme Personality of Godhead, is the reservoir of all transcendental qualities. I am afraid that the goddess of fortune and I would quarrel because both of us would be attentively engaged in the same service.}}
-
+---json
+{
+    "name":"SB 4.20.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.20.27",
+    "description":"Now I wish to engage in the service of the lotus feet of the Supreme Personality of Godhead and to serve just like the goddess of fortune, who carries a lotus flower in her hand, because His Lordship, the Supreme Personality of Godhead, is the reservoir of all transcendental qualities. I am afraid that the goddess of fortune and I would quarrel because both of us would be attentively engaged in the same service."
+}
+---
 ====== SB 4.20.27 ======
 
 > अथाभजे त्वाखिलपूरुषोत्तमं गुणालयं पद्मकरेव लालसः ।

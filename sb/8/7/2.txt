@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.2~~
-~~bc:Text 2~~
-
-{{description>The Personality of Godhead, Ajita, grasped the front portion of the snake, and then the demigods followed.}}
-
+---json
+{
+    "name":"SB 8.7.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.7.2",
+    "description":"The Personality of Godhead, Ajita, grasped the front portion of the snake, and then the demigods followed."
+}
+---
 ====== SB 8.7.2 ======
 
 ===== Text =====

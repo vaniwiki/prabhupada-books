@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.27~~
-~~bc:Text 27~~
-
-{{description>Of the one thousand sons of Kārtavīryārjuna, only five remained alive after the fight with Paraśurāma. Their names were Jayadhvaja, Śūrasena, Vṛṣabha, Madhu and Ūrjita.}}
-
+---json
+{
+    "name":"SB 9.23.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.23.27",
+    "description":"Of the one thousand sons of Kārtavīryārjuna, only five remained alive after the fight with Paraśurāma. Their names were Jayadhvaja, Śūrasena, Vṛṣabha, Madhu and Ūrjita."
+}
+---
 ====== SB 9.23.27 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.29~~
-~~bc:Text 29~~
-
-{{description>Nanda Mahārāja said: Alas, King Kaṁsa killed so many of your children, born of Devakī. And your one daughter, the youngest child of all, entered the heavenly planets.}}
-
+---json
+{
+    "name":"SB 10.5.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 10.5.29",
+    "description":"Nanda Mahārāja said: Alas, King Kaṁsa killed so many of your children, born of Devakī. And your one daughter, the youngest child of all, entered the heavenly planets."
+}
+---
 ====== SB 10.5.29 ======
 
 ===== Text =====

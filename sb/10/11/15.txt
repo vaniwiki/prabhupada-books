@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.15~~
-~~bc:Text 15~~
-
-{{description>Mother Yaśodā said: My dear son Kṛṣṇa, lotus-eyed Kṛṣṇa, come here and drink the milk of my breast. My dear darling, You must be very tired because of hunger and the fatigue of playing so long. There is no need to play any more.}}
-
+---json
+{
+    "name":"SB 10.11.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 10.11.15",
+    "description":"Mother Yaśodā said: My dear son Kṛṣṇa, lotus-eyed Kṛṣṇa, come here and drink the milk of my breast. My dear darling, You must be very tired because of hunger and the fatigue of playing so long. There is no need to play any more."
+}
+---
 ====== SB 10.11.15 ======
 
 ===== Text =====

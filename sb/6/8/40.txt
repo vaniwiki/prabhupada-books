@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.40~~
-~~bc:Text 40~~
-
-{{description>Suddenly Citraratha was forced to fall from the sky headfirst with his airplane. Struck with wonder, he was ordered by the great sages named the Vālikhilyas to throw the brāhmaṇa's bones in the nearby River Sarasvatī. He had to do this and bathe in the river before returning to his own abode.}}
-
+---json
+{
+    "name":"SB 6.8.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 6.8.40",
+    "description":"Suddenly Citraratha was forced to fall from the sky headfirst with his airplane. Struck with wonder, he was ordered by the great sages named the Vālikhilyas to throw the brāhmaṇa's bones in the nearby River Sarasvatī. He had to do this and bathe in the river before returning to his own abode."
+}
+---
 ====== SB 6.8.40 ======
 
 ===== Text =====

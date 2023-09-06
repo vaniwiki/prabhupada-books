@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.38~~
-~~bc:Text 38~~
-
-{{description>O King Yudhiṣṭhira, the Supersoul in every body gives intelligence to the individual soul according to his capacity for understanding. Therefore the Supersoul is the chief within the body. The Supersoul is manifested to the individual soul according to the individual's comparative development of knowledge, austerity, penance and so on.}}
-
+---json
+{
+    "name":"SB 7.14.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 7.14.38",
+    "description":"O King Yudhiṣṭhira, the Supersoul in every body gives intelligence to the individual soul according to his capacity for understanding. Therefore the Supersoul is the chief within the body. The Supersoul is manifested to the individual soul according to the individual's comparative development of knowledge, austerity, penance and so on."
+}
+---
 ====== SB 7.14.38 ======
 
 ===== Text =====

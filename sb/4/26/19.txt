@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.19~~
-~~bc:Text 19~~
-
-{{description>The King, with aggrieved mind, began to speak to his wife with very pleasing words. Although he was filled with regret and tried to pacify her, he could not see any symptom of anger caused by love within the heart of his beloved wife.}}
-
+---json
+{
+    "name":"SB 4.26.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.26.19",
+    "description":"The King, with aggrieved mind, began to speak to his wife with very pleasing words. Although he was filled with regret and tried to pacify her, he could not see any symptom of anger caused by love within the heart of his beloved wife."
+}
+---
 ====== SB 4.26.19 ======
 
 > सान्त्वयन्श्लक्ष्णया वाचा हृदयेन विदूयता ।

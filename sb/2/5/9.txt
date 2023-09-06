@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.9~~
-~~bc:Text 9~~
-
-{{description>Lord Brahmā said: My dear boy Nārada, being merciful to all (including me) you have asked all these questions because I have been inspired to see into the prowess of the Almighty Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.5.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 2.5.9",
+    "description":"Lord Brahmā said: My dear boy Nārada, being merciful to all (including me) you have asked all these questions because I have been inspired to see into the prowess of the Almighty Personality of Godhead."
+}
+---
 ====== SB 2.5.9 ======
 
 > ब्रह्मोवाच

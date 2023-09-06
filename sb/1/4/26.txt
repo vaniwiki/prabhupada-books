@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.26~~
-~~bc:Text 26~~
-
-{{description>O twice-born brāhmaṇas, still his mind was not satisfied, although he engaged himself in working for the total welfare of all people.}}
-
+---json
+{
+    "name":"SB 1.4.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.4.26",
+    "description":"O twice-born brāhmaṇas, still his mind was not satisfied, although he engaged himself in working for the total welfare of all people."
+}
+---
 ====== SB 1.4.26 ======
 
 > एवं प्रवृत्तस्य सदा भूतानां श्रेयसि द्विजाः ।

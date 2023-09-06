@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.22.7~~
-~~bc:Text 7~~
-
-{{description>The sun-god has three speeds—slow, fast and moderate. The time he takes to travel entirely around the spheres of heaven, earth and space at these three speeds is referred to, by learned scholars, by the five names Saṁvatsara, Parivatsara, Iḍāvatsara, Anuvatsara and Vatsara.}}
-
+---json
+{
+    "name":"SB 5.22.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.22.7",
+    "description":"The sun-god has three speeds—slow, fast and moderate. The time he takes to travel entirely around the spheres of heaven, earth and space at these three speeds is referred to, by learned scholars, by the five names Saṁvatsara, Parivatsara, Iḍāvatsara, Anuvatsara and Vatsara."
+}
+---
 ====== SB 5.22.7 ======
 
 ===== Text =====

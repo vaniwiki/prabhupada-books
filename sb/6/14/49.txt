@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.49~~
-~~bc:Text 49~~
-
-{{description>O King Parīkṣit, hearing the loud crying, all the inhabitants of the palace came, both men and women. Being equally aggrieved, they also began to cry. The queens who had administered the poison also cried pretentiously, knowing full well their offense.}}
-
+---json
+{
+    "name":"SB 6.14.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 6.14.49",
+    "description":"O King Parīkṣit, hearing the loud crying, all the inhabitants of the palace came, both men and women. Being equally aggrieved, they also began to cry. The queens who had administered the poison also cried pretentiously, knowing full well their offense."
+}
+---
 ====== SB 6.14.49 ======
 
 ===== Text =====

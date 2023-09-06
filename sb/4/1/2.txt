@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.2~~
-~~bc:Text 2~~
-
-{{description>Ākūti had two brothers, but in spite of her brothers, King Svāyambhuva Manu handed her over to Prajāpati Ruci on the condition that the son born of her be returned to Manu as his son. This he did in consultation with his wife, Śatarūpā.}}
-
+---json
+{
+    "name":"SB 4.1.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.1.2",
+    "description":"Ākūti had two brothers, but in spite of her brothers, King Svāyambhuva Manu handed her over to Prajāpati Ruci on the condition that the son born of her be returned to Manu as his son. This he did in consultation with his wife, Śatarūpā."
+}
+---
 ====== SB 4.1.2 ======
 
 > आकूतिं रुचये प्रादादपि भ्रातृमतीं नृपः ।

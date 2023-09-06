@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.21~~
-~~bc:Text 21~~
-
-{{description>Śukadeva Gosvāmī said: After speaking in this way, the Supreme Personality of Godhead disappeared from that very spot. Aditi, having received the extremely valuable benediction that the Lord would appear as her son, considered herself very successful, and with great devotion she approached her husband.}}
-
+---json
+{
+    "name":"SB 8.17.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.17.21",
+    "description":"Śukadeva Gosvāmī said: After speaking in this way, the Supreme Personality of Godhead disappeared from that very spot. Aditi, having received the extremely valuable benediction that the Lord would appear as her son, considered herself very successful, and with great devotion she approached her husband."
+}
+---
 ====== SB 8.17.21 ======
 
 ===== Text =====

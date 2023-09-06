@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.1.23~~
-~~bc:Text 23~~
-
-{{description>There were also many other temples of various forms of the Supreme Personality of Godhead Viṣṇu, established by great sages and demigods. These temples were marked with the chief emblems of the Lord, and they reminded one always of the original Personality of Godhead, Lord Kṛṣṇa.}}
-
+---json
+{
+    "name":"SB 3.1.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.1.23",
+    "description":"There were also many other temples of various forms of the Supreme Personality of Godhead Viṣṇu, established by great sages and demigods. These temples were marked with the chief emblems of the Lord, and they reminded one always of the original Personality of Godhead, Lord Kṛṣṇa."
+}
+---
 ====== SB 3.1.23 ======
 
 > अन्यानि चेह द्विजदेवदेवैः कृतानि नानायतनानि विष्णोः ।

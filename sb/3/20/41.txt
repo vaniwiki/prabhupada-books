@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.41~~
-~~bc:Text 41~~
-
-{{description>The ghosts and hobgoblins took possession of the body thrown off in the form of yawning by Brahmā, the creator of the living entities. This is also known as the sleep which causes drooling. The hobgoblins and ghosts attack men who are impure, and their attack is spoken of as insanity.}}
-
+---json
+{
+    "name":"SB 3.20.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.20.41",
+    "description":"The ghosts and hobgoblins took possession of the body thrown off in the form of yawning by Brahmā, the creator of the living entities. This is also known as the sleep which causes drooling. The hobgoblins and ghosts attack men who are impure, and their attack is spoken of as insanity."
+}
+---
 ====== SB 3.20.41 ======
 
 > जगृहुस्तद्विसृष्टां तां जृम्भणाख्यां तनुं प्रभोः ।

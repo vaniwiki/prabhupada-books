@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.22~~
-~~bc:Text 22~~
-
-{{description>It is not at all wonderful that simply by being covered by the dust of your lotus feet, one immediately attains the platform of pure devotional service to Adhokṣaja, which is not available even to great demigods like Brahmā. By associating with you just for a moment, I am now freed from all argument, false prestige and lack of discrimination, which are the roots of entanglement in the material world. Now I am free from all these problems.}}
-
+---json
+{
+    "name":"SB 5.13.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 5.13.22",
+    "description":"It is not at all wonderful that simply by being covered by the dust of your lotus feet, one immediately attains the platform of pure devotional service to Adhokṣaja, which is not available even to great demigods like Brahmā. By associating with you just for a moment, I am now freed from all argument, false prestige and lack of discrimination, which are the roots of entanglement in the material world. Now I am free from all these problems."
+}
+---
 ====== SB 5.13.22 ======
 
 ===== Text =====

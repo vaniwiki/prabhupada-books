@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.37~~
-~~bc:Text 37~~
-
-{{description>Because he has achieved his real identity, the perfectly realized soul has no conception of how the material body is moving or acting, just as an intoxicated person cannot understand whether or not he has clothing on his body.}}
-
+---json
+{
+    "name":"SB 3.28.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.28.37",
+    "description":"Because he has achieved his real identity, the perfectly realized soul has no conception of how the material body is moving or acting, just as an intoxicated person cannot understand whether or not he has clothing on his body."
+}
+---
 ====== SB 3.28.37 ======
 
 > देहं च तं न चरमः स्थितमुत्थितं वा

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.33~~
-~~bc:Text 33~~
-
-{{description>Thereafter, from the partial representation of Brahmā, the moon-god was born of them; from the partial representation of Viṣṇu, the great mystic Dattātreya was born; and from the partial representation of Śaṅkara [Lord Śiva], Durvāsā was born. Now you may hear from me of the many sons of Aṅgirā.}}
-
+---json
+{
+    "name":"SB 4.1.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.1.33",
+    "description":"Thereafter, from the partial representation of Brahmā, the moon-god was born of them; from the partial representation of Viṣṇu, the great mystic Dattātreya was born; and from the partial representation of Śaṅkara [Lord Śiva], Durvāsā was born. Now you may hear from me of the many sons of Aṅgirā."
+}
+---
 ====== SB 4.1.33 ======
 
 > सोमोऽभूद्ब्रह्मणोऽंशेन दत्तो विष्णोस्तु योगवित् ।

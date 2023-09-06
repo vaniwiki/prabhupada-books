@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.16~~
-~~bc:Text 16~~
-
-{{description>Being merciless and cruel, I have forsaken all my relatives and friends. Therefore, like a person who has killed a brāhmaṇa, I do not know to which planet I shall go, either after death or while breathing.}}
-
+---json
+{
+    "name":"SB 10.4.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 10.4.16",
+    "description":"Being merciless and cruel, I have forsaken all my relatives and friends. Therefore, like a person who has killed a brāhmaṇa, I do not know to which planet I shall go, either after death or while breathing."
+}
+---
 ====== SB 10.4.16 ======
 
 ===== Text =====

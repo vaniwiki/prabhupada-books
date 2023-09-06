@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.3~~
-~~bc:Text 3~~
-
-{{description>Because you died untimely, the balance of your lifetime still remains. Therefore you may reenter your body and enjoy the remainder of your life, surrounded by your friends and relatives. Accept the royal throne and all the opulences given by your father.}}
-
+---json
+{
+    "name":"SB 6.16.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 6.16.3",
+    "description":"Because you died untimely, the balance of your lifetime still remains. Therefore you may reenter your body and enjoy the remainder of your life, surrounded by your friends and relatives. Accept the royal throne and all the opulences given by your father."
+}
+---
 ====== SB 6.16.3 ======
 
 ===== Text =====

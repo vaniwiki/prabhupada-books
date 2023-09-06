@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.23~~
-~~bc:Text 23~~
-
-{{description>When I was born from the abdominal lotus flower of the Lord [Mahā-Viṣṇu], the great person, I had no ingredients for sacrificial performances except the bodily limbs of the great Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.6.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 2.6.23",
+    "description":"When I was born from the abdominal lotus flower of the Lord [Mahā-Viṣṇu], the great person, I had no ingredients for sacrificial performances except the bodily limbs of the great Personality of Godhead."
+}
+---
 ====== SB 2.6.23 ======
 
 > यदास्य नाभ्यान्नलिनादहमासं महात्मनः ।

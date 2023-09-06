@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.37~~
-~~bc:Text 37~~
-
-{{description>A cruel and wretched person who maintains his existence at the cost of others' lives deserves to be killed for his own well-being, otherwise he will go down by his own actions.}}
-
+---json
+{
+    "name":"SB 1.7.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 1.7.37",
+    "description":"A cruel and wretched person who maintains his existence at the cost of others' lives deserves to be killed for his own well-being, otherwise he will go down by his own actions."
+}
+---
 ====== SB 1.7.37 ======
 
 > स्वप्राणान्यः परप्राणैः प्रपुष्णात्यघृणः खलः ।

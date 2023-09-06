@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.37~~
-~~bc:Text 37~~
-
-{{description>Simply by administering comforts at the lotus feet of the Lord, which is the most important of all services, the queens at Dvārakā, headed by Satyabhāmā, induced the Lord to conquer the demigods. Thus the queens enjoy things which are prerogatives of the wives of the controller of thunderbolts.}}
-
+---json
+{
+    "name":"SB 1.14.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 1.14.37",
+    "description":"Simply by administering comforts at the lotus feet of the Lord, which is the most important of all services, the queens at Dvārakā, headed by Satyabhāmā, induced the Lord to conquer the demigods. Thus the queens enjoy things which are prerogatives of the wives of the controller of thunderbolts."
+}
+---
 ====== SB 1.14.37 ======
 
 > यत्पादशुश्रूषणमुख्यकर्मणा सत्यादयो द्व्यष्टसहस्रयोषितः ।

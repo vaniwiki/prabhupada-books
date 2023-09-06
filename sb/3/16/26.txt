@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.26~~
-~~bc:Text 26~~
-
-{{description>The Lord replied: O brāhmaṇas, know that the punishment you inflicted on them was originally ordained by Me, and therefore they will fall to a birth in a demoniac family. But they will be firmly united with Me in thought through mental concentration intensified by anger, and they will return to My presence shortly.}}
-
+---json
+{
+    "name":"SB 3.16.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.16.26",
+    "description":"The Lord replied: O brāhmaṇas, know that the punishment you inflicted on them was originally ordained by Me, and therefore they will fall to a birth in a demoniac family. But they will be firmly united with Me in thought through mental concentration intensified by anger, and they will return to My presence shortly."
+}
+---
 ====== SB 3.16.26 ======
 
 > श्रीभगवानुवाच

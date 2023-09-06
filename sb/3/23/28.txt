@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.28~~
-~~bc:Text 28~~
-
-{{description>The girls, being very respectful to Devahūti, brought her forth, and after bathing her with valuable oils and ointments, they gave her fine, new, spotless cloth to cover her body.}}
-
+---json
+{
+    "name":"SB 3.23.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.23.28",
+    "description":"The girls, being very respectful to Devahūti, brought her forth, and after bathing her with valuable oils and ointments, they gave her fine, new, spotless cloth to cover her body."
+}
+---
 ====== SB 3.23.28 ======
 
 > स्नानेन तां महार्हेण स्नापयित्वा मनस्विनीम् ।

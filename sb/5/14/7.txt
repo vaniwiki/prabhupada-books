@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.7~~
-~~bc:Text 7~~
-
-{{description>Sometimes the living entity is interested in the yellow stool known as gold and runs after it. That gold is the source of material opulence and envy, and it can enable one to afford illicit sex, gambling, meat-eating and intoxication. Those whose minds are overcome by the mode of passion are attracted by the color of gold, just as a man suffering from cold in the forest runs after a phosphorescent light in a marshy land, considering it to be fire.}}
-
+---json
+{
+    "name":"SB 5.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.14.7",
+    "description":"Sometimes the living entity is interested in the yellow stool known as gold and runs after it. That gold is the source of material opulence and envy, and it can enable one to afford illicit sex, gambling, meat-eating and intoxication. Those whose minds are overcome by the mode of passion are attracted by the color of gold, just as a man suffering from cold in the forest runs after a phosphorescent light in a marshy land, considering it to be fire."
+}
+---
 ====== SB 5.14.7 ======
 
 ===== Text =====

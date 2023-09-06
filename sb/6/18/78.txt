@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.78~~
-~~bc:Text 78~~
-
-{{description>My dear King Parīkṣit, I have replied as far as possible to the questions you have asked me, especially in regard to this pure, auspicious narration about the Maruts. Now you may inquire further, and I shall explain more.}}
-
+---json
+{
+    "name":"SB 6.18.78",
+    "h1":"Text 78",
+    "title":" Śrīmad Bhāgavatam 6.18.78",
+    "description":"My dear King Parīkṣit, I have replied as far as possible to the questions you have asked me, especially in regard to this pure, auspicious narration about the Maruts. Now you may inquire further, and I shall explain more."
+}
+---
 ====== SB 6.18.78 ======
 
 ===== Text =====

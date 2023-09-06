@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.3.24~~
-~~bc:Text 24~~
-
-{{description>Certainly that heart is steel-framed which, in spite of one's chanting the holy name of the Lord with concentration, does not change when ecstasy takes place, tears fill the eyes and the hairs stand on end.}}
-
+---json
+{
+    "name":"SB 2.3.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 2.3.24",
+    "description":"Certainly that heart is steel-framed which, in spite of one's chanting the holy name of the Lord with concentration, does not change when ecstasy takes place, tears fill the eyes and the hairs stand on end."
+}
+---
 ====== SB 2.3.24 ======
 
 > तदश्मसारं हृदयं बतेदं यद्गृह्यमाणैर्हरिनामधेयैः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.14~~
-~~bc:Text 14~~
-
-{{description>Once upon a time, when the powerful sage named Aṅgirā was traveling all over the universe without engagement, by his sweet will he came to the palace of King Citraketu.}}
-
+---json
+{
+    "name":"SB 6.14.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 6.14.14",
+    "description":"Once upon a time, when the powerful sage named Aṅgirā was traveling all over the universe without engagement, by his sweet will he came to the palace of King Citraketu."
+}
+---
 ====== SB 6.14.14 ======
 
 ===== Text =====

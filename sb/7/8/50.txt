@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.50~~
-~~bc:Text 50~~
-
-{{description>The inhabitants of Gandharvaloka prayed: Your Lordship, we ever engage in Your service by dancing and singing in dramatic performances, but this Hiraṇyakaśipu, by the influence of his bodily strength and valor, brought us under his subjugation. Now he has been brought to this low condition by Your Lordship. What benefit can result from the activities of such an upstart as Hiraṇyakaśipu?}}
-
+---json
+{
+    "name":"SB 7.8.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 7.8.50",
+    "description":"The inhabitants of Gandharvaloka prayed: Your Lordship, we ever engage in Your service by dancing and singing in dramatic performances, but this Hiraṇyakaśipu, by the influence of his bodily strength and valor, brought us under his subjugation. Now he has been brought to this low condition by Your Lordship. What benefit can result from the activities of such an upstart as Hiraṇyakaśipu?"
+}
+---
 ====== SB 7.8.50 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.38~~
-~~bc:Text 38~~
-
-{{description>Bṛhaspati said to Mamatā, "You foolish woman, although this child was born from the wife of one man through the semen discharged by another, you should maintain him." Upon hearing this, Mamatā replied, "O Bṛhaspati, you maintain him!" After speaking in this way, Bṛhaspati and Mamatā both left. Thus the child was known as Bharadvāja.}}
-
+---json
+{
+    "name":"SB 9.20.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 9.20.38",
+    "description":"Bṛhaspati said to Mamatā, "You foolish woman, although this child was born from the wife of one man through the semen discharged by another, you should maintain him." Upon hearing this, Mamatā replied, "O Bṛhaspati, you maintain him!" After speaking in this way, Bṛhaspati and Mamatā both left. Thus the child was known as Bharadvāja."
+}
+---
 ====== SB 9.20.38 ======
 
 ===== Text =====

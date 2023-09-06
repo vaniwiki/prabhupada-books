@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.54~~
-~~bc:Text 54~~
-
-{{description>Oṁ namo bhagavate vāsudevāya. This is the twelve-syllable mantra for worshiping Lord Kṛṣṇa. One should install the physical forms of the Lord, and with the chanting of the mantra one should offer flowers and fruits and other varieties of foodstuffs exactly according to the rules and regulations prescribed by authorities. But this should be done in consideration of place, time, and attendant conveniences and inconveniences.}}
-
+---json
+{
+    "name":"SB 4.8.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 4.8.54",
+    "description":"Oṁ namo bhagavate vāsudevāya. This is the twelve-syllable mantra for worshiping Lord Kṛṣṇa. One should install the physical forms of the Lord, and with the chanting of the mantra one should offer flowers and fruits and other varieties of foodstuffs exactly according to the rules and regulations prescribed by authorities. But this should be done in consideration of place, time, and attendant conveniences and inconveniences."
+}
+---
 ====== SB 4.8.54 ======
 
 > ओं नमो भगवते वासुदेवाय

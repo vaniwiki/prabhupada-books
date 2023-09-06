@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.19~~
-~~bc:Text 19~~
-
-{{description>O King, Lord Śiva, Nārada the sage amongst the demigods, and Kapila, the incarnation of Godhead, all know very confidentially about His glories through direct contact.}}
-
+---json
+{
+    "name":"SB 1.9.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.9.19",
+    "description":"O King, Lord Śiva, Nārada the sage amongst the demigods, and Kapila, the incarnation of Godhead, all know very confidentially about His glories through direct contact."
+}
+---
 ====== SB 1.9.19 ======
 
 > अस्यानुभावं भगवान्वेद गुह्यतमं शिवः ।

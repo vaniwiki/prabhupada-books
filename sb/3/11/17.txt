@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.17~~
-~~bc:Text 17~~
-
-{{description>O spiritually powerful one, you can understand the movements of eternal time, which is the controlling form of the Supreme Personality of Godhead. Because you are a self-realized person, you can see everything by the power of mystic vision.}}
-
+---json
+{
+    "name":"SB 3.11.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.11.17",
+    "description":"O spiritually powerful one, you can understand the movements of eternal time, which is the controlling form of the Supreme Personality of Godhead. Because you are a self-realized person, you can see everything by the power of mystic vision."
+}
+---
 ====== SB 3.11.17 ======
 
 > भगवान्वेद कालस्य गतिं भगवतो ननु ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.76~~
-~~bc:Text 76~~
-
-{{description>How wonderful it is that the Supreme Personality of Godhead, the Parabrahman, Kṛṣṇa, who is sought by great, great sages for the sake of liberation and transcendental bliss, is acting as your best well-wisher, your friend, your cousin, your heart and soul, your worshipable director, and your spiritual master.}}
-
+---json
+{
+    "name":"SB 7.15.76",
+    "h1":"Text 76",
+    "title":" Śrīmad Bhāgavatam 7.15.76",
+    "description":"How wonderful it is that the Supreme Personality of Godhead, the Parabrahman, Kṛṣṇa, who is sought by great, great sages for the sake of liberation and transcendental bliss, is acting as your best well-wisher, your friend, your cousin, your heart and soul, your worshipable director, and your spiritual master."
+}
+---
 ====== SB 7.15.76 ======
 
 ===== Text =====

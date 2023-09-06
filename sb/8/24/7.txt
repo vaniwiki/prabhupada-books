@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.7~~
-~~bc:Text 7~~
-
-{{description>O King Parīkṣit, at the end of the past millennium, at the end of Brahmā's day, because Lord Brahmā sleeps during the night, annihilation took place, and the three worlds were covered by the water of the ocean.}}
-
+---json
+{
+    "name":"SB 8.24.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.24.7",
+    "description":"O King Parīkṣit, at the end of the past millennium, at the end of Brahmā's day, because Lord Brahmā sleeps during the night, annihilation took place, and the three worlds were covered by the water of the ocean."
+}
+---
 ====== SB 8.24.7 ======
 
 ===== Text =====

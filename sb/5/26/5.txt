@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.5~~
-~~bc:Text 5~~
-
-{{description>The great sage Śukadeva Gosvāmī answered: All the hellish planets are situated in the intermediate space between the three worlds and the Garbhodaka Ocean. They lie on the southern side of the universe, beneath Bhū-maṇḍala, and slightly above the water of the Garbhodaka Ocean. Pitṛloka is also located in this region between the Garbhodaka Ocean and the lower planetary systems. All the residents of Pitṛloka, headed by Agniṣvāttā, meditate in great samādhi on the Supreme Personality of Godhead and always wish their families well.}}
-
+---json
+{
+    "name":"SB 5.26.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.26.5",
+    "description":"The great sage Śukadeva Gosvāmī answered: All the hellish planets are situated in the intermediate space between the three worlds and the Garbhodaka Ocean. They lie on the southern side of the universe, beneath Bhū-maṇḍala, and slightly above the water of the Garbhodaka Ocean. Pitṛloka is also located in this region between the Garbhodaka Ocean and the lower planetary systems. All the residents of Pitṛloka, headed by Agniṣvāttā, meditate in great samādhi on the Supreme Personality of Godhead and always wish their families well."
+}
+---
 ====== SB 5.26.5 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.35~~
-~~bc:Text 35~~
-
-{{description>My dear mother, O daughter of Manu, a devotee who applies the science of devotional service and mystic yoga in this way can achieve the abode of the Supreme Person simply by that devotional service.}}
-
+---json
+{
+    "name":"SB 3.29.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.29.35",
+    "description":"My dear mother, O daughter of Manu, a devotee who applies the science of devotional service and mystic yoga in this way can achieve the abode of the Supreme Person simply by that devotional service."
+}
+---
 ====== SB 3.29.35 ======
 
 > भक्तियोगश्च योगश्च मया मानव्युदीरितः ।

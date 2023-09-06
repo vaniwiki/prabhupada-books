@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.32~~
-~~bc:Text 32~~
-
-{{description>When egoism in ignorance is agitated by the sex energy of the Supreme Personality of Godhead, the subtle element sound is manifested, and from sound come the ethereal sky and the sense of hearing.}}
-
+---json
+{
+    "name":"SB 3.26.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.26.32",
+    "description":"When egoism in ignorance is agitated by the sex energy of the Supreme Personality of Godhead, the subtle element sound is manifested, and from sound come the ethereal sky and the sense of hearing."
+}
+---
 ====== SB 3.26.32 ======
 
 > तामसाच्च विकुर्वाणाद्भगवद्वीर्यचोदितात् ।

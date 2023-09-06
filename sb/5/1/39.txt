@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.39~~
-~~bc:Text 39~~
-
-{{description>There are many famous verses regarding Mahārāja Priyavrata's activities:}}
-
+---json
+{
+    "name":"SB 5.1.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 5.1.39",
+    "description":"There are many famous verses regarding Mahārāja Priyavrata's activities:"
+}
+---
 ====== SB 5.1.39 ======
 
 ===== Text =====

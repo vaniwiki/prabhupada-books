@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.24~~
-~~bc:Text 24~~
-
-{{description>Whatever you have spoken appears to me to be contradictory. O best friend of the distressed, I have committed a great offense by insulting you. I was puffed up with false prestige due to possessing the body of a king. For this I have certainly become an offender. Therefore I pray that you kindly glance at me with your causeless mercy. If you do so, I can be relieved from sinful activities brought about by insulting you.}}
-
+---json
+{
+    "name":"SB 5.10.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 5.10.24",
+    "description":"Whatever you have spoken appears to me to be contradictory. O best friend of the distressed, I have committed a great offense by insulting you. I was puffed up with false prestige due to possessing the body of a king. For this I have certainly become an offender. Therefore I pray that you kindly glance at me with your causeless mercy. If you do so, I can be relieved from sinful activities brought about by insulting you."
+}
+---
 ====== SB 5.10.24 ======
 
 ===== Text =====

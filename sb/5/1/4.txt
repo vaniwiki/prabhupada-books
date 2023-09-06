@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.4~~
-~~bc:Text 4~~
-
-{{description>The King continued: O great brāhmaṇa, this is my great doubt. How was it possible for a person like King Priyavrata, who was so attached to wife, children and home, to achieve the topmost infallible perfection in Kṛṣṇa consciousness?}}
-
+---json
+{
+    "name":"SB 5.1.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 5.1.4",
+    "description":"The King continued: O great brāhmaṇa, this is my great doubt. How was it possible for a person like King Priyavrata, who was so attached to wife, children and home, to achieve the topmost infallible perfection in Kṛṣṇa consciousness?"
+}
+---
 ====== SB 5.1.4 ======
 
 ===== Text =====

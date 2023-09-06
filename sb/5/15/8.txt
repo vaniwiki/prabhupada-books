@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.8~~
-~~bc:Text 8~~
-
-{{description>My dear King Parīkṣit, those who are learned scholars in the histories of the Purāṇas eulogize and glorify King Gaya with the following verses.}}
-
+---json
+{
+    "name":"SB 5.15.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.15.8",
+    "description":"My dear King Parīkṣit, those who are learned scholars in the histories of the Purāṇas eulogize and glorify King Gaya with the following verses."
+}
+---
 ====== SB 5.15.8 ======
 
 ===== Text =====

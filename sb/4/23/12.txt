@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.12~~
-~~bc:Text 12~~
-
-{{description>When he became completely free from the conception of bodily life, Mahārāja Pṛthu realized Lord Kṛṣṇa sitting in everyone's heart as the Paramātmā. Being thus able to get all instructions from Him, he gave up all other practices of yoga and jñāna. He was not even interested in the perfection of the yoga and jñāna systems, for he thoroughly realized that devotional service to Kṛṣṇa is the ultimate goal of life and that unless the yogīs and jñānīs become attracted to kṛṣṇa-kathā [narrations about Kṛṣṇa], their illusions concerning existence can never be dispelled.}}
-
+---json
+{
+    "name":"SB 4.23.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.23.12",
+    "description":"When he became completely free from the conception of bodily life, Mahārāja Pṛthu realized Lord Kṛṣṇa sitting in everyone's heart as the Paramātmā. Being thus able to get all instructions from Him, he gave up all other practices of yoga and jñāna. He was not even interested in the perfection of the yoga and jñāna systems, for he thoroughly realized that devotional service to Kṛṣṇa is the ultimate goal of life and that unless the yogīs and jñānīs become attracted to kṛṣṇa-kathā [narrations about Kṛṣṇa], their illusions concerning existence can never be dispelled."
+}
+---
 ====== SB 4.23.12 ======
 
 > छिन्नान्यधीरधिगतात्मगतिर्निरीहस्

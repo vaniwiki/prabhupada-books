@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.8.7~~
-~~bc:Text 7~~
-
-{{description>Following the instructions of the great sage Aurva, Sagara Mahārāja performed aśvamedha sacrifices and thus satisfied the Supreme Lord, who is the supreme controller, the Supersoul of all learned scholars, and the knower of all Vedic knowledge, the Supreme Personality of Godhead. But Indra, the King of heaven, stole the horse meant to be offered at the sacrifice.}}
-
+---json
+{
+    "name":"SB 9.8.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.8.7",
+    "description":"Following the instructions of the great sage Aurva, Sagara Mahārāja performed aśvamedha sacrifices and thus satisfied the Supreme Lord, who is the supreme controller, the Supersoul of all learned scholars, and the knower of all Vedic knowledge, the Supreme Personality of Godhead. But Indra, the King of heaven, stole the horse meant to be offered at the sacrifice."
+}
+---
 ====== SB 9.8.7 ======
 
 ===== Text =====

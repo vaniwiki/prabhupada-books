@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.21~~
-~~bc:Text 21~~
-
-{{description>Lord Brahmā said: O well-wisher and master of all living entities, O worshipable Deity of all the demigods, O all-pervading Personality of Godhead, now this man has been sufficiently punished, for You have taken everything. Now You can release him. He does not deserve to be punished more.}}
-
+---json
+{
+    "name":"SB 8.22.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.22.21",
+    "description":"Lord Brahmā said: O well-wisher and master of all living entities, O worshipable Deity of all the demigods, O all-pervading Personality of Godhead, now this man has been sufficiently punished, for You have taken everything. Now You can release him. He does not deserve to be punished more."
+}
+---
 ====== SB 8.22.21 ======
 
 ===== Text =====

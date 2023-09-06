@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.9~~
-~~bc:Text 9~~
-
-{{description>Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?}}
-
+---json
+{
+    "name":"SB 6.5.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 6.5.9",
+    "description":"Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?"
+}
+---
 ====== SB 6.5.9 ======
 
 ===== Text =====

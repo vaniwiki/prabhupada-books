@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.17~~
-~~bc:Text 17~~
-
-{{description>Arjuna, who is guided by the infallible Lord as friend and driver, thus satisfied the dear lady by such statements. Then he dressed in armor and armed himself with furious weapons, and getting into his chariot, he set out to follow Aśvatthāmā, the son of his martial teacher.}}
-
+---json
+{
+    "name":"SB 1.7.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 1.7.17",
+    "description":"Arjuna, who is guided by the infallible Lord as friend and driver, thus satisfied the dear lady by such statements. Then he dressed in armor and armed himself with furious weapons, and getting into his chariot, he set out to follow Aśvatthāmā, the son of his martial teacher."
+}
+---
 ====== SB 1.7.17 ======
 
 > इति प्रियां वल्गुविचित्रजल्पैः स सान्त्वयित्वाच्युतमित्रसूतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.34~~
-~~bc:Text 34~~
-
-{{description>Thus Svāyambhuva Manu was a saintly king. Although absorbed in material happiness, he was not dragged to the lowest grade of life, for he always enjoyed his material happiness in a Kṛṣṇa conscious atmosphere.}}
-
+---json
+{
+    "name":"SB 3.22.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.22.34",
+    "description":"Thus Svāyambhuva Manu was a saintly king. Although absorbed in material happiness, he was not dragged to the lowest grade of life, for he always enjoyed his material happiness in a Kṛṣṇa conscious atmosphere."
+}
+---
 ====== SB 3.22.34 ======
 
 > निष्णातं योगमायासु मुनिं स्वायम्भुवं मनुम् ।

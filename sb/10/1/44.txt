@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.44~~
-~~bc:Text 44~~
-
-{{description>Therefore, since envious, impious activities cause a body in which one suffers in the next life, why should one act impiously? Considering one's welfare, one should not envy anyone, for an envious person must always fear harm from his enemies, either in this life or in the next.}}
-
+---json
+{
+    "name":"SB 10.1.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 10.1.44",
+    "description":"Therefore, since envious, impious activities cause a body in which one suffers in the next life, why should one act impiously? Considering one's welfare, one should not envy anyone, for an envious person must always fear harm from his enemies, either in this life or in the next."
+}
+---
 ====== SB 10.1.44 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.21~~
-~~bc:Text 21~~
-
-{{description>Dear King, the Supreme Personality of Godhead, along with the predominating deities, is the enjoyer of the results of all sacrifices in all planets. The Supreme Lord is the sum total of the three Vedas, the owner of everything, and the ultimate goal of all austerity. Therefore your countrymen should engage in performing various sacrifices for your elevation. Indeed, you should always direct them towards the offering of sacrifices.}}
-
+---json
+{
+    "name":"SB 4.14.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.14.21",
+    "description":"Dear King, the Supreme Personality of Godhead, along with the predominating deities, is the enjoyer of the results of all sacrifices in all planets. The Supreme Lord is the sum total of the three Vedas, the owner of everything, and the ultimate goal of all austerity. Therefore your countrymen should engage in performing various sacrifices for your elevation. Indeed, you should always direct them towards the offering of sacrifices."
+}
+---
 ====== SB 4.14.21 ======
 
 > तं सर्वलोकामरयज्ञसङ्ग्रहं त्रयीमयं द्रव्यमयं तपोमयम् ।

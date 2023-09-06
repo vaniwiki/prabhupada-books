@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.11~~
-~~bc:Text 11~~
-
-{{description>Śukadeva Gosvāmī continued: Having thus been especially requested by Nanda Mahārāja to do that which he already desired to do, Gargamuni performed the name-giving ceremony for Kṛṣṇa and Balarāma in a solitary place.}}
-
+---json
+{
+    "name":"SB 10.8.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 10.8.11",
+    "description":"Śukadeva Gosvāmī continued: Having thus been especially requested by Nanda Mahārāja to do that which he already desired to do, Gargamuni performed the name-giving ceremony for Kṛṣṇa and Balarāma in a solitary place."
+}
+---
 ====== SB 10.8.11 ======
 
 ===== Text =====

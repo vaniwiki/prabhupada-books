@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.22~~
-~~bc:Text 22~~
-
-{{description>Being very thoughtful, a vānaprastha should remain in the forest for twelve years, eight years, four years, two years or at least one year. He should behave in such a way that he will not be disturbed or troubled by too much austerity.}}
-
+---json
+{
+    "name":"SB 7.12.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 7.12.22",
+    "description":"Being very thoughtful, a vānaprastha should remain in the forest for twelve years, eight years, four years, two years or at least one year. He should behave in such a way that he will not be disturbed or troubled by too much austerity."
+}
+---
 ====== SB 7.12.22 ======
 
 ===== Text =====

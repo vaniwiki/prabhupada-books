@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.9~~
-~~bc:Text 9~~
-
-{{description>The Lord was enriched with four hands, earrings of molten gold and eyes blood red with fury. As He loitered about, His club constantly encircled Him like a shooting star.}}
-
+---json
+{
+    "name":"SB 1.12.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.12.9",
+    "description":"The Lord was enriched with four hands, earrings of molten gold and eyes blood red with fury. As He loitered about, His club constantly encircled Him like a shooting star."
+}
+---
 ====== SB 1.12.9 ======
 
 > श्रीमद्दीर्घचतुर्बाहुं तप्तकाञ्चनकुण्डलम् ।

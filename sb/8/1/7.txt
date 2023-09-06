@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.7~~
-~~bc:Text 7~~
-
-{{description>Svāyambhuva Manu, the husband of Śatarūpā, was by nature not at all attached to enjoyment of the senses. Thus he gave up his kingdom of sense enjoyment and entered the forest with his wife to practice austerities.}}
-
+---json
+{
+    "name":"SB 8.1.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.1.7",
+    "description":"Svāyambhuva Manu, the husband of Śatarūpā, was by nature not at all attached to enjoyment of the senses. Thus he gave up his kingdom of sense enjoyment and entered the forest with his wife to practice austerities."
+}
+---
 ====== SB 8.1.7 ======
 
 ===== Text =====

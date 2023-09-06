@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.17.7~~
-~~bc:Text 7~~
-
-{{description>The branch of the Ganges known as Cakṣu falls onto the summit of Mālyavān Mountain and from there cascades onto the land of Ketumāla-varṣa. The Ganges flows incessantly through Ketumāla-varṣa and in this way also reaches the ocean of salt water in the West.}}
-
+---json
+{
+    "name":"SB 5.17.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.17.7",
+    "description":"The branch of the Ganges known as Cakṣu falls onto the summit of Mālyavān Mountain and from there cascades onto the land of Ketumāla-varṣa. The Ganges flows incessantly through Ketumāla-varṣa and in this way also reaches the ocean of salt water in the West."
+}
+---
 ====== SB 5.17.7 ======
 
 ===== Text =====

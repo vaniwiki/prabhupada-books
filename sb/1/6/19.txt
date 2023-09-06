@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.6.19~~
-~~bc:Text 19~~
-
-{{description>I desired to see again that transcendental form of the Lord, but despite my attempts to concentrate upon the heart with eagerness to view the form again, I could not see Him any more, and thus dissatisfied, I was very much aggrieved.}}
-
+---json
+{
+    "name":"SB 1.6.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 1.6.19",
+    "description":"I desired to see again that transcendental form of the Lord, but despite my attempts to concentrate upon the heart with eagerness to view the form again, I could not see Him any more, and thus dissatisfied, I was very much aggrieved."
+}
+---
 ====== SB 1.6.19 ======
 
 > दिदृक्षुस्तदहं भूयः प्रणिधाय मनो हृदि ।

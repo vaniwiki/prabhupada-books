@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.49~~
-~~bc:Text 49~~
-
-{{description>My dear King, the entire world is covered with the sharp points of kuśa grass, and on the strength of this you have become proud because you have killed various types of animals in sacrifices. Because of your foolishness, you do not know that devotional service is the only way one can please the Supreme Personality of Godhead. You cannot understand this fact. Your only activities should be those that can please the Personality of Godhead. Our education should be such that we can become elevated to Kṛṣṇa consciousness.}}
-
+---json
+{
+    "name":"SB 4.29.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 4.29.49",
+    "description":"My dear King, the entire world is covered with the sharp points of kuśa grass, and on the strength of this you have become proud because you have killed various types of animals in sacrifices. Because of your foolishness, you do not know that devotional service is the only way one can please the Supreme Personality of Godhead. You cannot understand this fact. Your only activities should be those that can please the Personality of Godhead. Our education should be such that we can become elevated to Kṛṣṇa consciousness."
+}
+---
 ====== SB 4.29.49 ======
 
 > आस्तीर्य दर्भैः प्रागग्रैः कार्त्स्न्येन क्षितिमण्डलम् ।

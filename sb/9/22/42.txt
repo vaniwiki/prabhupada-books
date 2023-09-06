@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.22.42~~
-~~bc:Text 42~~
-
-{{description>The son of Sukhīnala will be Pariplava, and his son will be Sunaya. From Sunaya will come a son named Medhāvī; from Medhāvī, Nṛpañjaya; from Nṛpañjaya, Dūrva; and from Dūrva, Timi.}}
-
+---json
+{
+    "name":"SB 9.22.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 9.22.42",
+    "description":"The son of Sukhīnala will be Pariplava, and his son will be Sunaya. From Sunaya will come a son named Medhāvī; from Medhāvī, Nṛpañjaya; from Nṛpañjaya, Dūrva; and from Dūrva, Timi."
+}
+---
 ====== SB 9.22.42 ======
 
 ===== Text =====

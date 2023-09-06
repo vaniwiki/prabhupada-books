@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.41~~
-~~bc:Text 41~~
-
-{{description>When the conditioned soul accepts the shelter of the creeper of fruitive activity, he may be elevated by his pious activities to higher planetary systems and thus gain liberation from hellish conditions, but unfortunately he cannot remain there. After reaping the results of his pious activities, he has to return to the lower planetary systems. In this way he perpetually goes up and comes down.}}
-
+---json
+{
+    "name":"SB 5.14.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 5.14.41",
+    "description":"When the conditioned soul accepts the shelter of the creeper of fruitive activity, he may be elevated by his pious activities to higher planetary systems and thus gain liberation from hellish conditions, but unfortunately he cannot remain there. After reaping the results of his pious activities, he has to return to the lower planetary systems. In this way he perpetually goes up and comes down."
+}
+---
 ====== SB 5.14.41 ======
 
 ===== Text =====

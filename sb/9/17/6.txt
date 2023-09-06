@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.6~~
-~~bc:Text 6~~
-
-{{description>Dyumān was also known as Śatrujit, Vatsa, Ṛtadhvaja and Kuvalayāśva. From him were born Alarka and other sons.}}
-
+---json
+{
+    "name":"SB 9.17.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 9.17.6",
+    "description":"Dyumān was also known as Śatrujit, Vatsa, Ṛtadhvaja and Kuvalayāśva. From him were born Alarka and other sons."
+}
+---
 ====== SB 9.17.6 ======
 
 ===== Text =====

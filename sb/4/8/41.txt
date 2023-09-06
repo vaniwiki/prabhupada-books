@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.41~~
-~~bc:Text 41~~
-
-{{description>Any person who desires the fruits of the four principles religiosity, economic development, sense gratification and, at the end, liberation, should engage himself in the devotional service of the Supreme Personality of Godhead, for worship of His lotus feet yields the fulfillment of all of these.}}
-
+---json
+{
+    "name":"SB 4.8.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.8.41",
+    "description":"Any person who desires the fruits of the four principles religiosity, economic development, sense gratification and, at the end, liberation, should engage himself in the devotional service of the Supreme Personality of Godhead, for worship of His lotus feet yields the fulfillment of all of these."
+}
+---
 ====== SB 4.8.41 ======
 
 > धर्मार्थकाममोक्षाख्यं य इच्छेच्छ्रेय आत्मनः ।

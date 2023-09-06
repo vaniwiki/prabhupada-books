@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.14~~
-~~bc:Text 14~~
-
-{{description>The five elementary ingredients of creation, the interaction thereof set up by eternal time, and the intuition or nature of the individual living beings are all differentiated parts and parcels of the Personality of Godhead, Vāsudeva, and in truth there is no other value in them.}}
-
+---json
+{
+    "name":"SB 2.5.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 2.5.14",
+    "description":"The five elementary ingredients of creation, the interaction thereof set up by eternal time, and the intuition or nature of the individual living beings are all differentiated parts and parcels of the Personality of Godhead, Vāsudeva, and in truth there is no other value in them."
+}
+---
 ====== SB 2.5.14 ======
 
 > द्रव्यं कर्म च कालश्च स्वभावो जीव एव च ।

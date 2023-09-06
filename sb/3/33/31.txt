@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.33.31~~
-~~bc:Text 31~~
-
-{{description>The place where Devahūti achieved her perfection, my dear Vidura, is understood to be a most sacred spot. It is known all over the three worlds as Siddhapada.}}
-
+---json
+{
+    "name":"SB 3.33.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 3.33.31",
+    "description":"The place where Devahūti achieved her perfection, my dear Vidura, is understood to be a most sacred spot. It is known all over the three worlds as Siddhapada."
+}
+---
 ====== SB 3.33.31 ======
 
 > तद्वीरासीत्पुण्यतमं क्षेत्रं त्रैलोक्यविश्रुतम् ।

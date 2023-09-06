@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.13~~
-~~bc:Text 13~~
-
-{{description>Then Bali Mahārāja saw his grandfather Prahlāda Mahārāja, the most fortunate personality, whose dark body resembled black ointment for the eyes. His tall, elegant figure was dressed in yellow garments, he had long arms, and his beautiful eyes were like the petals of a lotus. He was very dear and pleasing to everyone.}}
-
+---json
+{
+    "name":"SB 8.22.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.22.13",
+    "description":"Then Bali Mahārāja saw his grandfather Prahlāda Mahārāja, the most fortunate personality, whose dark body resembled black ointment for the eyes. His tall, elegant figure was dressed in yellow garments, he had long arms, and his beautiful eyes were like the petals of a lotus. He was very dear and pleasing to everyone."
+}
+---
 ====== SB 8.22.13 ======
 
 ===== Text =====

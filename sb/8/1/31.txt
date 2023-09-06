@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.31~~
-~~bc:Text 31~~
-
-{{description>King Parīkṣit said: My lord, Bādarāyaṇi, we wish to hear from you in detail how the King of the elephants, when attacked by a crocodile, was delivered by Hari.}}
-
+---json
+{
+    "name":"SB 8.1.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.1.31",
+    "description":"King Parīkṣit said: My lord, Bādarāyaṇi, we wish to hear from you in detail how the King of the elephants, when attacked by a crocodile, was delivered by Hari."
+}
+---
 ====== SB 8.1.31 ======
 
 ===== Text =====

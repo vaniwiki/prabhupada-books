@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.14-15~~
-~~bc:Text 14-15~~
-
-{{description>In the womb of Gayantī, Mahārāja Gaya begot three sons, named Citraratha, Sugati and Avarodhana. In the womb of his wife Ūrṇā, Citraratha begot a son named Samrāṭ. The wife of Samrāṭ was Utkalā, and in her womb Samrāṭ begot a son named Marīci. In the womb of his wife Bindumatī, Marīci begot a son named Bindu. In the womb of his wife Saraghā, Bindu begot a son named Madhu. In the womb of his wife named Sumanā, Madhu begot a son named Vīravrata. In the womb of his wife Bhojā, Vīravrata begot two sons named Manthu and Pramanthu. In the womb of his wife Satyā, Manthu begot a son named Bhauvana, and in the womb of his wife Dūṣaṇā, Bhauvana begot a son named Tvaṣṭā. In the womb of his wife Virocanā, Tvaṣṭā begot a son named Viraja. The wife of Viraja was Viṣūcī, and in her womb Viraja begot one hundred sons and one daughter. Of all these sons, the son named Śatajit was predominant.}}
-
+---json
+{
+    "name":"SB 5.15.14-15",
+    "h1":"Text 14-15",
+    "title":" Śrīmad Bhāgavatam 5.15.14-15",
+    "description":"In the womb of Gayantī, Mahārāja Gaya begot three sons, named Citraratha, Sugati and Avarodhana. In the womb of his wife Ūrṇā, Citraratha begot a son named Samrāṭ. The wife of Samrāṭ was Utkalā, and in her womb Samrāṭ begot a son named Marīci. In the womb of his wife Bindumatī, Marīci begot a son named Bindu. In the womb of his wife Saraghā, Bindu begot a son named Madhu. In the womb of his wife named Sumanā, Madhu begot a son named Vīravrata. In the womb of his wife Bhojā, Vīravrata begot two sons named Manthu and Pramanthu. In the womb of his wife Satyā, Manthu begot a son named Bhauvana, and in the womb of his wife Dūṣaṇā, Bhauvana begot a son named Tvaṣṭā. In the womb of his wife Virocanā, Tvaṣṭā begot a son named Viraja. The wife of Viraja was Viṣūcī, and in her womb Viraja begot one hundred sons and one daughter. Of all these sons, the son named Śatajit was predominant."
+}
+---
 ====== SB 5.15.14-15 ======
 
 ===== Text =====

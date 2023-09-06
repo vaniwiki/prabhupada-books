@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.26~~
-~~bc:Text 26~~
-
-{{description>When the world is overburdened by the fighting strength of kings who have no faith in God, the Lord, just to diminish the distress of the world, descends with His plenary portion. The Lord comes in His original form, with beautiful black hair. And just to expand His transcendental glories, He acts extraordinarily. No one can properly estimate how great He is.}}
-
+---json
+{
+    "name":"SB 2.7.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 2.7.26",
+    "description":"When the world is overburdened by the fighting strength of kings who have no faith in God, the Lord, just to diminish the distress of the world, descends with His plenary portion. The Lord comes in His original form, with beautiful black hair. And just to expand His transcendental glories, He acts extraordinarily. No one can properly estimate how great He is."
+}
+---
 ====== SB 2.7.26 ======
 
 > भूमेः सुरेतरवरूथविमर्दितायाः

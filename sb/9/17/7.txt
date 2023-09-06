@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.7~~
-~~bc:Text 7~~
-
-{{description>Alarka, the son of Dyumān, reigned over the earth for sixty-six thousand years, my dear King Parīkṣit. No one other than him has reigned over the earth for so long as a young man.}}
-
+---json
+{
+    "name":"SB 9.17.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.17.7",
+    "description":"Alarka, the son of Dyumān, reigned over the earth for sixty-six thousand years, my dear King Parīkṣit. No one other than him has reigned over the earth for so long as a young man."
+}
+---
 ====== SB 9.17.7 ======
 
 ===== Text =====

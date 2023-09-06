@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.28~~
-~~bc:Text 28~~
-
-{{description>My dear beautiful girl, you are exactly like the goddess of fortune or the wife of Lord Śiva or the goddess of learning, the wife of Lord Brahmā. Although you must be one of them, I see that you are loitering in this forest. Indeed, you are as silent as the great sages. Is it that you are searching after your own husband? Whoever your husband may be, simply by understanding that you are so faithful to him, he will come to possess all opulences. I think you must be the goddess of fortune, but I do not see the lotus flower in your hand. Therefore I am asking you where you have thrown that lotus.}}
-
+---json
+{
+    "name":"SB 4.25.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.25.28",
+    "description":"My dear beautiful girl, you are exactly like the goddess of fortune or the wife of Lord Śiva or the goddess of learning, the wife of Lord Brahmā. Although you must be one of them, I see that you are loitering in this forest. Indeed, you are as silent as the great sages. Is it that you are searching after your own husband? Whoever your husband may be, simply by understanding that you are so faithful to him, he will come to possess all opulences. I think you must be the goddess of fortune, but I do not see the lotus flower in your hand. Therefore I am asking you where you have thrown that lotus."
+}
+---
 ====== SB 4.25.28 ======
 
 > त्वं ह्रीर्भवान्यस्यथ वाग्रमा पतिं विचिन्वती किं मुनिवद्रहो वने ।

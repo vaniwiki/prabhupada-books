@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.19~~
-~~bc:Text 19~~
-
-{{description>In the womb of Pūrvacitti, Mahārāja Āgnīdhra, the best of kings, begot nine sons, named Nābhi, Kiṁpuruṣa, Harivarṣa, Ilāvṛta, Ramyaka, Hiraṇmaya, Kuru, Bhadrāśva and Ketumāla.}}
-
+---json
+{
+    "name":"SB 5.2.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 5.2.19",
+    "description":"In the womb of Pūrvacitti, Mahārāja Āgnīdhra, the best of kings, begot nine sons, named Nābhi, Kiṁpuruṣa, Harivarṣa, Ilāvṛta, Ramyaka, Hiraṇmaya, Kuru, Bhadrāśva and Ketumāla."
+}
+---
 ====== SB 5.2.19 ======
 
 ===== Text =====

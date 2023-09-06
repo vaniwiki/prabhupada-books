@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.4~~
-~~bc:Text 4~~
-
-{{description>Nārada Muni asked King Prācīnabarhiṣat: My dear King, what do you desire to achieve by performing these fruitive activities? The chief aim of life is to get rid of all miseries and enjoy happiness, but these two things cannot be realized by fruitive activity.}}
-
+---json
+{
+    "name":"SB 4.25.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.25.4",
+    "description":"Nārada Muni asked King Prācīnabarhiṣat: My dear King, what do you desire to achieve by performing these fruitive activities? The chief aim of life is to get rid of all miseries and enjoy happiness, but these two things cannot be realized by fruitive activity."
+}
+---
 ====== SB 4.25.4 ======
 
 > श्रेयस्त्वं कतमद्राजन्कर्मणात्मन ईहसे ।

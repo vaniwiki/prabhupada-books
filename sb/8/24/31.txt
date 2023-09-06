@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.31~~
-~~bc:Text 31~~
-
-{{description>Śukadeva Gosvāmī said: When King Satyavrata spoke in this way, the Supreme Personality of Godhead, who at the end of the yuga had assumed the form of a fish to benefit His devotee and enjoy His pastimes in the water of inundation, responded as follows.}}
-
+---json
+{
+    "name":"SB 8.24.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.24.31",
+    "description":"Śukadeva Gosvāmī said: When King Satyavrata spoke in this way, the Supreme Personality of Godhead, who at the end of the yuga had assumed the form of a fish to benefit His devotee and enjoy His pastimes in the water of inundation, responded as follows."
+}
+---
 ====== SB 8.24.31 ======
 
 ===== Text =====

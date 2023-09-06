@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.12~~
-~~bc:Text 12~~
-
-{{description>He has eyes like a monkey's, yet he has married my daughter, whose eyes are just like those of a deer cub. Nevertheless he did not stand up to receive me, nor did he think it fit to welcome me with sweet words.}}
-
+---json
+{
+    "name":"SB 4.2.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.2.12",
+    "description":"He has eyes like a monkey's, yet he has married my daughter, whose eyes are just like those of a deer cub. Nevertheless he did not stand up to receive me, nor did he think it fit to welcome me with sweet words."
+}
+---
 ====== SB 4.2.12 ======
 
 > गृहीत्वा मृगशावाक्ष्याः पाणिं मर्कटलोचनः ।

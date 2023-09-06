@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.7.21~~
-~~bc:Text 21~~
-
-{{description>Lord Brahmā said: O best of the demigods, unfortunately, because of madness resulting from your material opulence, you failed to receive Bṛhaspati properly when he came to your assembly. Because he is aware of the Supreme Brahman and fully in control of his senses, he is the best of the brāhmaṇas. Therefore it is very astonishing that you have acted impudently toward him.}}
-
+---json
+{
+    "name":"SB 6.7.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 6.7.21",
+    "description":"Lord Brahmā said: O best of the demigods, unfortunately, because of madness resulting from your material opulence, you failed to receive Bṛhaspati properly when he came to your assembly. Because he is aware of the Supreme Brahman and fully in control of his senses, he is the best of the brāhmaṇas. Therefore it is very astonishing that you have acted impudently toward him."
+}
+---
 ====== SB 6.7.21 ======
 
 ===== Text =====

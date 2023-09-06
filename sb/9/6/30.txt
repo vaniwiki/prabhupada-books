@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.30~~
-~~bc:Text 30~~
-
-{{description>Thereafter, in due course of time, a son with all the good symptoms of a powerful king came forth from the lower right side of King Yuvanāśva's abdomen.}}
-
+---json
+{
+    "name":"SB 9.6.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.6.30",
+    "description":"Thereafter, in due course of time, a son with all the good symptoms of a powerful king came forth from the lower right side of King Yuvanāśva's abdomen."
+}
+---
 ====== SB 9.6.30 ======
 
 ===== Text =====

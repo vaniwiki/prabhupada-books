@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.13~~
-~~bc:Text 13~~
-
-{{description>I, the pure soul, appearing now bound by my activities, am lying in the womb of my mother by the arrangement of māyā. I offer my respectful obeisances unto Him who is also here with me but who is unaffected and changeless. He is unlimited, but He is perceived in the repentant heart. To Him I offer my respectful obeisances.}}
-
+---json
+{
+    "name":"SB 3.31.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 3.31.13",
+    "description":"I, the pure soul, appearing now bound by my activities, am lying in the womb of my mother by the arrangement of māyā. I offer my respectful obeisances unto Him who is also here with me but who is unaffected and changeless. He is unlimited, but He is perceived in the repentant heart. To Him I offer my respectful obeisances."
+}
+---
 ====== SB 3.31.13 ======
 
 > यस्त्वत्र बद्ध इव कर्मभिरावृतात्मा

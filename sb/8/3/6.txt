@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.3.6~~
-~~bc:Text 6~~
-
-{{description>An artist onstage, being covered by attractive dresses and dancing with different movements, is not understood by his audience; similarly, the activities and features of the supreme artist cannot be understood even by the demigods or great sages, and certainly not by those who are unintelligent like animals. Neither the demigods and sages nor the unintelligent can understand the features of the Lord, nor can they express in words His actual position. May that Supreme Personality of Godhead give me protection.}}
-
+---json
+{
+    "name":"SB 8.3.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.3.6",
+    "description":"An artist onstage, being covered by attractive dresses and dancing with different movements, is not understood by his audience; similarly, the activities and features of the supreme artist cannot be understood even by the demigods or great sages, and certainly not by those who are unintelligent like animals. Neither the demigods and sages nor the unintelligent can understand the features of the Lord, nor can they express in words His actual position. May that Supreme Personality of Godhead give me protection."
+}
+---
 ====== SB 8.3.6 ======
 
 ===== Text =====

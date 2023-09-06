@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.33~~
-~~bc:Text 33~~
-
-{{description>Although Prahlāda Mahārāja was born in a family of asuras, he himself was not an asura but a great devotee of Lord Viṣṇu. Unlike the other asuras, he was never envious of Vaiṣṇavas. He was not agitated when put into danger, and he was neither directly nor indirectly interested in the fruitive activities described in the Vedas. Indeed, he considered everything material to be useless, and therefore he was completely devoid of material desires. He always controlled his senses and life air, and being of steady intelligence and determination, he subdued all lusty desires.}}
-
+---json
+{
+    "name":"SB 7.4.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 7.4.33",
+    "description":"Although Prahlāda Mahārāja was born in a family of asuras, he himself was not an asura but a great devotee of Lord Viṣṇu. Unlike the other asuras, he was never envious of Vaiṣṇavas. He was not agitated when put into danger, and he was neither directly nor indirectly interested in the fruitive activities described in the Vedas. Indeed, he considered everything material to be useless, and therefore he was completely devoid of material desires. He always controlled his senses and life air, and being of steady intelligence and determination, he subdued all lusty desires."
+}
+---
 ====== SB 7.4.33 ======
 
 ===== Text =====

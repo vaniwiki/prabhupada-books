@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.12.13-14~~
-~~bc:Text 13-14~~
-
-{{description>According to the rules and regulations mentioned above, one who is twice-born, namely a brāhmaṇa, kṣatriya or vaiśya, should reside in the guru-kula under the care of the spiritual master. There he should study and learn all the Vedic literatures along with their supplements and the Upaniṣads, according to his ability and power to study. If possible, the student or disciple should reward the spiritual master with the remuneration the spiritual master requests, and then, following the master's order, the disciple should leave and accept one of the other āśramas, namely the gṛhastha-āśrama, vānaprastha-āśrama or sannyāsa-āśrama, as he desires.}}
-
+---json
+{
+    "name":"SB 7.12.13-14",
+    "h1":"Text 13-14",
+    "title":" Śrīmad Bhāgavatam 7.12.13-14",
+    "description":"According to the rules and regulations mentioned above, one who is twice-born, namely a brāhmaṇa, kṣatriya or vaiśya, should reside in the guru-kula under the care of the spiritual master. There he should study and learn all the Vedic literatures along with their supplements and the Upaniṣads, according to his ability and power to study. If possible, the student or disciple should reward the spiritual master with the remuneration the spiritual master requests, and then, following the master's order, the disciple should leave and accept one of the other āśramas, namely the gṛhastha-āśrama, vānaprastha-āśrama or sannyāsa-āśrama, as he desires."
+}
+---
 ====== SB 7.12.13-14 ======
 
 ===== Text =====

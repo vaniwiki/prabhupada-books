@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.6.12~~
-~~bc:Text 12~~
-
-{{description>In this age of Kali, people are overwhelmed by the modes of passion and ignorance. Lord Ṛṣabhadeva incarnated Himself to deliver them from the clutches of māyā.}}
-
+---json
+{
+    "name":"SB 5.6.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.6.12",
+    "description":"In this age of Kali, people are overwhelmed by the modes of passion and ignorance. Lord Ṛṣabhadeva incarnated Himself to deliver them from the clutches of māyā."
+}
+---
 ====== SB 5.6.12 ======
 
 ===== Text =====

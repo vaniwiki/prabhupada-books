@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.23~~
-~~bc:Text 23~~
-
-{{description>Because of our family relationship, when Lord Śiva addresses me as Dākṣāyaṇī I at once become morose, and my jolliness and my smile at once disappear. I feel very much sorry that my body, which is just like a bag, has been produced by you. I shall therefore give it up.}}
-
+---json
+{
+    "name":"SB 4.4.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.4.23",
+    "description":"Because of our family relationship, when Lord Śiva addresses me as Dākṣāyaṇī I at once become morose, and my jolliness and my smile at once disappear. I feel very much sorry that my body, which is just like a bag, has been produced by you. I shall therefore give it up."
+}
+---
 ====== SB 4.4.23 ======
 
 > गोत्रं त्वदीयं भगवान्वृषध्वजो दाक्षायणीत्याह यदा सुदुर्मनाः ।

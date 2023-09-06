@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.1-2~~
-~~bc:Text 1-2~~
-
-{{description>Śukadeva Gosvāmī said: The Supreme Personality of Godhead, Hari, in the form of a woman, captivated the demons and enabled the demigods to drink the nectar. After hearing of these pastimes, Lord Śiva, who is carried by a bull, went to the place where Madhusūdana, the Lord, resides. Accompanied by his wife, Umā, and surrounded by his companions, the ghosts, Lord Śiva went there to see the Lord's form as a woman.}}
-
+---json
+{
+    "name":"SB 8.12.1-2",
+    "h1":"Text 1-2",
+    "title":" Śrīmad Bhāgavatam 8.12.1-2",
+    "description":"Śukadeva Gosvāmī said: The Supreme Personality of Godhead, Hari, in the form of a woman, captivated the demons and enabled the demigods to drink the nectar. After hearing of these pastimes, Lord Śiva, who is carried by a bull, went to the place where Madhusūdana, the Lord, resides. Accompanied by his wife, Umā, and surrounded by his companions, the ghosts, Lord Śiva went there to see the Lord's form as a woman."
+}
+---
 ====== SB 8.12.1-2 ======
 
 ===== Text =====

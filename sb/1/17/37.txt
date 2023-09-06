@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.37~~
-~~bc:Text 37~~
-
-{{description>Therefore, O chief amongst the protectors of religion, please fix some place for me where I can live permanently under the protection of your government.}}
-
+---json
+{
+    "name":"SB 1.17.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 1.17.37",
+    "description":"Therefore, O chief amongst the protectors of religion, please fix some place for me where I can live permanently under the protection of your government."
+}
+---
 ====== SB 1.17.37 ======
 
 > तन्मे धर्मभृतां श्रेष्ठ स्थानं निर्देष्टुमर्हसि ।

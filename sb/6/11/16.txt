@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.16~~
-~~bc:Text 16~~
-
-{{description>Indra, you are bereft of all shame, mercy, glory and good fortune. Deprived of these good qualities by the reactions of your fruitive activities, you are to be condemned even by the man-eaters [Rākṣasas]. Now I shall pierce your body with my trident, and after you die with great pain, even fire will not touch you; only the vultures will eat your body.}}
-
+---json
+{
+    "name":"SB 6.11.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 6.11.16",
+    "description":"Indra, you are bereft of all shame, mercy, glory and good fortune. Deprived of these good qualities by the reactions of your fruitive activities, you are to be condemned even by the man-eaters [Rākṣasas]. Now I shall pierce your body with my trident, and after you die with great pain, even fire will not touch you; only the vultures will eat your body."
+}
+---
 ====== SB 6.11.16 ======
 
 ===== Text =====

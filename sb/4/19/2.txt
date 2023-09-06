@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.2~~
-~~bc:Text 2~~
-
-{{description>When the most powerful Indra, the King of heaven, saw this, he considered the fact that King Pṛthu was going to exceed him in fruitive activities. Thus Indra could not tolerate the great sacrificial ceremonies performed by King Pṛthu.}}
-
+---json
+{
+    "name":"SB 4.19.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.19.2",
+    "description":"When the most powerful Indra, the King of heaven, saw this, he considered the fact that King Pṛthu was going to exceed him in fruitive activities. Thus Indra could not tolerate the great sacrificial ceremonies performed by King Pṛthu."
+}
+---
 ====== SB 4.19.2 ======
 
 > तदभिप्रेत्य भगवान्कर्मातिशयमात्मनः ।

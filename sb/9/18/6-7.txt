@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.6-7~~
-~~bc:Text 6-7~~
-
-{{description>Śukadeva Gosvāmī said: One day Vṛṣaparvā's daughter Śarmiṣṭhā, who was innocent but angry by nature, was walking with Devayānī, the daughter of Śukrācārya, and with thousands of friends, in the palace garden. The garden was full of lotuses and trees of flowers and fruits and was inhabited by sweetly singing birds and bumblebees.}}
-
+---json
+{
+    "name":"SB 9.18.6-7",
+    "h1":"Text 6-7",
+    "title":" Śrīmad Bhāgavatam 9.18.6-7",
+    "description":"Śukadeva Gosvāmī said: One day Vṛṣaparvā's daughter Śarmiṣṭhā, who was innocent but angry by nature, was walking with Devayānī, the daughter of Śukrācārya, and with thousands of friends, in the palace garden. The garden was full of lotuses and trees of flowers and fruits and was inhabited by sweetly singing birds and bumblebees."
+}
+---
 ====== SB 9.18.6-7 ======
 
 ===== Text =====

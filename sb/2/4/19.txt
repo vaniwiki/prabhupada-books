@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.19~~
-~~bc:Text 19~~
-
-{{description>He is the Supersoul and the Supreme Lord of all self-realized souls. He is the personification of the Vedas, religious scriptures and austerities. He is worshiped by Lord Brahmā and Śiva and all those who are transcendental to all pretensions. Being so revered with awe and veneration, may that Supreme Absolute be pleased with me.}}
-
+---json
+{
+    "name":"SB 2.4.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 2.4.19",
+    "description":"He is the Supersoul and the Supreme Lord of all self-realized souls. He is the personification of the Vedas, religious scriptures and austerities. He is worshiped by Lord Brahmā and Śiva and all those who are transcendental to all pretensions. Being so revered with awe and veneration, may that Supreme Absolute be pleased with me."
+}
+---
 ====== SB 2.4.19 ======
 
 > स एष आत्मात्मवतामधीश्वरस्त्रयीमयो धर्ममयस्तपोमयः ।

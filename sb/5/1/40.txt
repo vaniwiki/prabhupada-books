@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.40~~
-~~bc:Text 40~~
-
-{{description>"To stop the quarreling among different peoples, Mahārāja Priyavrata marked boundaries at rivers and at the edges of mountains and forests so that no one would trespass upon another's property."}}
-
+---json
+{
+    "name":"SB 5.1.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 5.1.40",
+    "description":""To stop the quarreling among different peoples, Mahārāja Priyavrata marked boundaries at rivers and at the edges of mountains and forests so that no one would trespass upon another's property.""
+}
+---
 ====== SB 5.1.40 ======
 
 ===== Text =====

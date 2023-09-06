@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.28~~
-~~bc:Text 28~~
-
-{{description>Then also when the cowherd boys and their animals drank the poisoned water of the River Yamunā, and after the Lord [in His childhood] revived them by His merciful glance, just to purify the water of the River Yamunā He jumped into it as if playing and chastised the venomous Kāliya snake, which was lurking there, its tongue emitting waves of poison. Who can perform such herculean tasks but the Supreme Lord ?}}
-
+---json
+{
+    "name":"SB 2.7.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 2.7.28",
+    "description":"Then also when the cowherd boys and their animals drank the poisoned water of the River Yamunā, and after the Lord [in His childhood] revived them by His merciful glance, just to purify the water of the River Yamunā He jumped into it as if playing and chastised the venomous Kāliya snake, which was lurking there, its tongue emitting waves of poison. Who can perform such herculean tasks but the Supreme Lord ?"
+}
+---
 ====== SB 2.7.28 ======
 
 > यद्वै व्रजे व्रजपशून्विषतोयपीतान्

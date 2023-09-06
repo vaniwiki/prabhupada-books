@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.35~~
-~~bc:Text 35~~
-
-{{description>Whenever pure topics of the transcendental world are discussed, the members of the audience forget all kinds of material hankerings, at least for the time being. Not only that, but they are no longer envious of one another, nor do they suffer from anxiety or fear.}}
-
+---json
+{
+    "name":"SB 4.30.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.30.35",
+    "description":"Whenever pure topics of the transcendental world are discussed, the members of the audience forget all kinds of material hankerings, at least for the time being. Not only that, but they are no longer envious of one another, nor do they suffer from anxiety or fear."
+}
+---
 ====== SB 4.30.35 ======
 
 > यत्रेड्यन्ते कथा मृष्टास्तृष्णायाः प्रशमो यतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.14.7~~
-~~bc:Text 7~~
-
-{{description>King Indra, accompanied by all kinds of demigods, joined the side of Bṛhaspati. Thus there was a great fight, destroying both demons and demigods, only for the sake of Tārā, Bṛhaspati's wife.}}
-
+---json
+{
+    "name":"SB 9.14.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.14.7",
+    "description":"King Indra, accompanied by all kinds of demigods, joined the side of Bṛhaspati. Thus there was a great fight, destroying both demons and demigods, only for the sake of Tārā, Bṛhaspati's wife."
+}
+---
 ====== SB 9.14.7 ======
 
 ===== Text =====

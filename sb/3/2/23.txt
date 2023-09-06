@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.23~~
-~~bc:Text 23~~
-
-{{description>Alas, how shall I take shelter of one more merciful than He who granted the position of mother to a she-demon [Pūtanā] although she was unfaithful and she prepared deadly poison to be sucked from her breast?}}
-
+---json
+{
+    "name":"SB 3.2.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.2.23",
+    "description":"Alas, how shall I take shelter of one more merciful than He who granted the position of mother to a she-demon [Pūtanā] although she was unfaithful and she prepared deadly poison to be sucked from her breast?"
+}
+---
 ====== SB 3.2.23 ======
 
 > अहो बकी यं स्तनकालकूटं जिघांसयापाययदप्यसाध्वी ।

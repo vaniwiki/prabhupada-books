@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.2~~
-~~bc:Text 2~~
-
-{{description>Śrī Nārada Muni said: O living entity, all good fortune unto you. Just see your father and mother. All your friends and relatives are overwhelmed with grief because of your passing away.}}
-
+---json
+{
+    "name":"SB 6.16.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.16.2",
+    "description":"Śrī Nārada Muni said: O living entity, all good fortune unto you. Just see your father and mother. All your friends and relatives are overwhelmed with grief because of your passing away."
+}
+---
 ====== SB 6.16.2 ======
 
 ===== Text =====

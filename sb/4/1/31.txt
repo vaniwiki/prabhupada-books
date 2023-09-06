@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.31~~
-~~bc:Text 31~~
-
-{{description>You will have sons who will represent a partial manifestation of our potency, and because we desire all good fortune for you, those sons will glorify your reputation throughout the world.}}
-
+---json
+{
+    "name":"SB 4.1.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.1.31",
+    "description":"You will have sons who will represent a partial manifestation of our potency, and because we desire all good fortune for you, those sons will glorify your reputation throughout the world."
+}
+---
 ====== SB 4.1.31 ======
 
 > अथास्मदंशभूतास्ते आत्मजा लोकविश्रुताः ।

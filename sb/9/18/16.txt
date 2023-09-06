@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.16~~
-~~bc:Text 16~~
-
-{{description>You beggar, since you don't understand your position, why should you unnecessarily talk so much? Don't all of you wait at our house, depending on us for your livelihood like crows?}}
-
+---json
+{
+    "name":"SB 9.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 9.18.16",
+    "description":"You beggar, since you don't understand your position, why should you unnecessarily talk so much? Don't all of you wait at our house, depending on us for your livelihood like crows?"
+}
+---
 ====== SB 9.18.16 ======
 
 ===== Text =====

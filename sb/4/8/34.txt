@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.34~~
-~~bc:Text 34~~
-
-{{description>Every man should act like this: when he meets a person more qualified than himself, he should be very pleased; when he meets someone less qualified than himself, he should be compassionate toward him; and when he meets someone equal to himself, he should make friendship with him. In this way one is never affected by the threefold miseries of this material world.}}
-
+---json
+{
+    "name":"SB 4.8.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 4.8.34",
+    "description":"Every man should act like this: when he meets a person more qualified than himself, he should be very pleased; when he meets someone less qualified than himself, he should be compassionate toward him; and when he meets someone equal to himself, he should make friendship with him. In this way one is never affected by the threefold miseries of this material world."
+}
+---
 ====== SB 4.8.34 ======
 
 > गुणाधिकान्मुदं लिप्सेदनुक्रोशं गुणाधमात् ।

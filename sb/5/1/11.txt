@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.11~~
-~~bc:Text 11~~
-
-{{description>Lord Brahmā, the supreme person within this universe, said: My dear Priyavrata, kindly hear attentively what I shall say to you. Do not be jealous of the Supreme Lord, who is beyond our experimental measurements. All of us, including Lord Śiva, your father and the great sage Mahārṣi Nārada, must carry out the order of the Supreme. We cannot deviate from His order.}}
-
+---json
+{
+    "name":"SB 5.1.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 5.1.11",
+    "description":"Lord Brahmā, the supreme person within this universe, said: My dear Priyavrata, kindly hear attentively what I shall say to you. Do not be jealous of the Supreme Lord, who is beyond our experimental measurements. All of us, including Lord Śiva, your father and the great sage Mahārṣi Nārada, must carry out the order of the Supreme. We cannot deviate from His order."
+}
+---
 ====== SB 5.1.11 ======
 
 ===== Text =====

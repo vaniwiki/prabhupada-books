@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.37~~
-~~bc:Text 37~~
-
-{{description>The infallible Supreme Personality of Godhead, having captivated the minds of the King and the priests who were present, returned to His abode in the spiritual sky.}}
-
+---json
+{
+    "name":"SB 4.20.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.20.37",
+    "description":"The infallible Supreme Personality of Godhead, having captivated the minds of the King and the priests who were present, returned to His abode in the spiritual sky."
+}
+---
 ====== SB 4.20.37 ======
 
 > भगवानपि राजर्षेः सोपाध्यायस्य चाच्युतः ।

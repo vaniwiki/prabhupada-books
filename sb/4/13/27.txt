@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.27~~
-~~bc:Text 27~~
-
-{{description>O King, we know that the paraphernalia to perform the sacrifice is well collected by you with great faith and care and is not polluted. Our chanting of the Vedic hymns is also not deficient in any way, for all the brāhmaṇas and priests present here are expert and are executing the performances properly.}}
-
+---json
+{
+    "name":"SB 4.13.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.13.27",
+    "description":"O King, we know that the paraphernalia to perform the sacrifice is well collected by you with great faith and care and is not polluted. Our chanting of the Vedic hymns is also not deficient in any way, for all the brāhmaṇas and priests present here are expert and are executing the performances properly."
+}
+---
 ====== SB 4.13.27 ======
 
 > राजन्हवींष्यदुष्टानि श्रद्धयासादितानि ते ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.15~~
-~~bc:Text 15~~
-
-{{description>Therefore, most gentle lord, kindly favor your maidservant. We have now been deprived of our opulence and residence by our competitors, the demons. Kindly give us protection.}}
-
+---json
+{
+    "name":"SB 8.16.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.16.15",
+    "description":"Therefore, most gentle lord, kindly favor your maidservant. We have now been deprived of our opulence and residence by our competitors, the demons. Kindly give us protection."
+}
+---
 ====== SB 8.16.15 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.25~~
-~~bc:Text 25~~
-
-{{description>My lord, our old enemy Bali Mahārāja now has new enthusiasm, and he has obtained such astonishing power that we think that perhaps we cannot resist his prowess.}}
-
+---json
+{
+    "name":"SB 8.15.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 8.15.25",
+    "description":"My lord, our old enemy Bali Mahārāja now has new enthusiasm, and he has obtained such astonishing power that we think that perhaps we cannot resist his prowess."
+}
+---
 ====== SB 8.15.25 ======
 
 ===== Text =====

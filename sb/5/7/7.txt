@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.7.7~~
-~~bc:Text 7~~
-
-{{description>In this way, being purified by ritualistic sacrifices, the heart of Mahārāja Bharata was completely uncontaminated. His devotional service unto Vāsudeva, Lord Kṛṣṇa, increased day after day. Lord Kṛṣṇa, the son of Vasudeva, is the original Personality of Godhead manifest as the Supersoul [Paramātmā] as well as the impersonal Brahman. Yogīs meditate upon the localized Paramātmā situated in the heart, jñānīs worship the impersonal Brahman as the Supreme Absolute Truth, and devotees worship Vāsudeva, the Supreme Personality of Godhead, whose transcendental body is described in the śāstras. His body is decorated with the Śrīvatsa, the Kaustubha jewel and a flower garland, and His hands hold a conchshell, disc, club and lotus flower. Devotees like Nārada always think of Him within their hearts.}}
-
+---json
+{
+    "name":"SB 5.7.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.7.7",
+    "description":"In this way, being purified by ritualistic sacrifices, the heart of Mahārāja Bharata was completely uncontaminated. His devotional service unto Vāsudeva, Lord Kṛṣṇa, increased day after day. Lord Kṛṣṇa, the son of Vasudeva, is the original Personality of Godhead manifest as the Supersoul [Paramātmā] as well as the impersonal Brahman. Yogīs meditate upon the localized Paramātmā situated in the heart, jñānīs worship the impersonal Brahman as the Supreme Absolute Truth, and devotees worship Vāsudeva, the Supreme Personality of Godhead, whose transcendental body is described in the śāstras. His body is decorated with the Śrīvatsa, the Kaustubha jewel and a flower garland, and His hands hold a conchshell, disc, club and lotus flower. Devotees like Nārada always think of Him within their hearts."
+}
+---
 ====== SB 5.7.7 ======
 
 ===== Text =====

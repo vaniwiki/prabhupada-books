@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.29~~
-~~bc:Text 29~~
-
-{{description>It was fixed that Vaidarbhī, daughter of King Vidarbha, was to be married to a very powerful man, Malayadhvaja, an inhabitant of the Pāṇḍu country. After conquering other princes, he married the daughter of King Vidarbha.}}
-
+---json
+{
+    "name":"SB 4.28.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.28.29",
+    "description":"It was fixed that Vaidarbhī, daughter of King Vidarbha, was to be married to a very powerful man, Malayadhvaja, an inhabitant of the Pāṇḍu country. After conquering other princes, he married the daughter of King Vidarbha."
+}
+---
 ====== SB 4.28.29 ======
 
 > उपयेमे वीर्यपणां वैदर्भीं मलयध्वजः ।

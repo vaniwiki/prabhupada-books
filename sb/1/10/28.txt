@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.10.28~~
-~~bc:Text 28~~
-
-{{description>O friends, just think of His wives, whose hands He has accepted. How they must have undergone vows, baths, fire sacrifices and perfect worship of the Lord of the universe to constantly relish now the nectar from His lips [by kissing]. The damsels of Vrajabhūmi would often faint just by expecting such favors.}}
-
+---json
+{
+    "name":"SB 1.10.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 1.10.28",
+    "description":"O friends, just think of His wives, whose hands He has accepted. How they must have undergone vows, baths, fire sacrifices and perfect worship of the Lord of the universe to constantly relish now the nectar from His lips [by kissing]. The damsels of Vrajabhūmi would often faint just by expecting such favors."
+}
+---
 ====== SB 1.10.28 ======
 
 > नूनं व्रतस्नानहुतादिनेश्वरः समर्चितो ह्यस्य गृहीतपाणिभिः ।

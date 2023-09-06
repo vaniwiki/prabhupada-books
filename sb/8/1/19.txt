@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.19~~
-~~bc:Text 19~~
-
-{{description>The son of Agni named Svārociṣa became the second Manu. His several sons were headed by Dyumat, Suṣeṇa and Rociṣmat.}}
-
+---json
+{
+    "name":"SB 8.1.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 8.1.19",
+    "description":"The son of Agni named Svārociṣa became the second Manu. His several sons were headed by Dyumat, Suṣeṇa and Rociṣmat."
+}
+---
 ====== SB 8.1.19 ======
 
 ===== Text =====

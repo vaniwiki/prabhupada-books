@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.25~~
-~~bc:Text 25~~
-
-{{description>Bali Mahārāja said: My grandfather Prahlāda Mahārāja is the only person who understood his own self-interest. Upon the death of Prahlāda's father, Hiraṇyakaśipu, Lord Nṛsiṁhadeva wanted to offer Prahlāda his father's kingdom and even wanted to grant him liberation from material bondage, but Prahlāda accepted neither. Liberation and material opulence, he thought, are obstacles to devotional service, and therefore such gifts from the Supreme Personality of Godhead are not His actual mercy. Consequently, instead of accepting the results of karma and jñāna, Prahlāda Mahārāja simply begged the Lord for engagement in the service of His servant.}}
-
+---json
+{
+    "name":"SB 5.24.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 5.24.25",
+    "description":"Bali Mahārāja said: My grandfather Prahlāda Mahārāja is the only person who understood his own self-interest. Upon the death of Prahlāda's father, Hiraṇyakaśipu, Lord Nṛsiṁhadeva wanted to offer Prahlāda his father's kingdom and even wanted to grant him liberation from material bondage, but Prahlāda accepted neither. Liberation and material opulence, he thought, are obstacles to devotional service, and therefore such gifts from the Supreme Personality of Godhead are not His actual mercy. Consequently, instead of accepting the results of karma and jñāna, Prahlāda Mahārāja simply begged the Lord for engagement in the service of His servant."
+}
+---
 ====== SB 5.24.25 ======
 
 ===== Text =====

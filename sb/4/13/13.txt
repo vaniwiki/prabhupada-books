@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.13~~
-~~bc:Text 13~~
-
-{{description>Puṣpārṇa had two wives, named Prabhā and Doṣā. Prabhā had three sons, named Prātar, Madhyandinam and Sāyam.}}
-
+---json
+{
+    "name":"SB 4.13.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.13.13",
+    "description":"Puṣpārṇa had two wives, named Prabhā and Doṣā. Prabhā had three sons, named Prātar, Madhyandinam and Sāyam."
+}
+---
 ====== SB 4.13.13 ======
 
 > पुष्पार्णस्य प्रभा भार्या दोषा च द्वे बभूवतुः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.11~~
-~~bc:Text 11~~
-
-{{description>The path of goodness traversed by your father, grandfather and great-grandfathers is that of maintaining the subjects [prajās], including the men, animals and trees. That is the path you should follow. Unnecessary anger is contrary to your duty. Therefore I request you to control your anger.}}
-
+---json
+{
+    "name":"SB 6.4.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 6.4.11",
+    "description":"The path of goodness traversed by your father, grandfather and great-grandfathers is that of maintaining the subjects [prajās], including the men, animals and trees. That is the path you should follow. Unnecessary anger is contrary to your duty. Therefore I request you to control your anger."
+}
+---
 ====== SB 6.4.11 ======
 
 ===== Text =====

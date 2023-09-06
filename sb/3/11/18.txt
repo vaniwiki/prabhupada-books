@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.18~~
-~~bc:Text 18~~
-
-{{description>Maitreya said: O Vidura, the four millenniums are called the Satya, Tretā, Dvāpara and Kali yugas. The aggregate number of years of all of these combined is equal to twelve thousand years of the demigods.}}
-
+---json
+{
+    "name":"SB 3.11.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.11.18",
+    "description":"Maitreya said: O Vidura, the four millenniums are called the Satya, Tretā, Dvāpara and Kali yugas. The aggregate number of years of all of these combined is equal to twelve thousand years of the demigods."
+}
+---
 ====== SB 3.11.18 ======
 
 > मैत्रेय उवाच

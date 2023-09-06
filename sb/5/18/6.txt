@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.6~~
-~~bc:Text 6~~
-
-{{description>At the end of the millennium, ignorance personified assumed the form of a demon, stole all the Vedas and took them down to the planet of Rasātala. The Supreme Lord, however, in His form of Hayagrīva retrieved the Vedas and returned them to Lord Brahmā when he begged for them. I offer my respectful obeisances unto the Supreme Lord, whose determination never fails.}}
-
+---json
+{
+    "name":"SB 5.18.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.18.6",
+    "description":"At the end of the millennium, ignorance personified assumed the form of a demon, stole all the Vedas and took them down to the planet of Rasātala. The Supreme Lord, however, in His form of Hayagrīva retrieved the Vedas and returned them to Lord Brahmā when he begged for them. I offer my respectful obeisances unto the Supreme Lord, whose determination never fails."
+}
+---
 ====== SB 5.18.6 ======
 
 ===== Text =====

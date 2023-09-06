@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.1.43~~
-~~bc:Text 43~~
-
-{{description>Despite His being the Lord and being always willing to relieve the distress of sufferers, He [Kṛṣṇa] refrained from killing the Kurus, although they committed all sorts of sins and although He saw other kings constantly agitating the earth by their strong military movements carried out under the dictation of three kinds of false pride.}}
-
+---json
+{
+    "name":"SB 3.1.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.1.43",
+    "description":"Despite His being the Lord and being always willing to relieve the distress of sufferers, He [Kṛṣṇa] refrained from killing the Kurus, although they committed all sorts of sins and although He saw other kings constantly agitating the earth by their strong military movements carried out under the dictation of three kinds of false pride."
+}
+---
 ====== SB 3.1.43 ======
 
 > नूनं नृपाणां त्रिमदोत्पथानां महीं मुहुश्चालयतां चमूभिः ।

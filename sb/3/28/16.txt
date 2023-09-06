@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.16~~
-~~bc:Text 16~~
-
-{{description>His loins and hips encircled by a girdle, He stands on the lotus of His devotee's heart. He is most charming to look at, and His serene aspect gladdens the eyes and souls of the devotees who behold Him.}}
-
+---json
+{
+    "name":"SB 3.28.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.28.16",
+    "description":"His loins and hips encircled by a girdle, He stands on the lotus of His devotee's heart. He is most charming to look at, and His serene aspect gladdens the eyes and souls of the devotees who behold Him."
+}
+---
 ====== SB 3.28.16 ======
 
 > काञ्चीगुणोल्लसच्छ्रोणिं हृदयाम्भोजविष्टरम् ।

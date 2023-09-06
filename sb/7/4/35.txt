@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.35~~
-~~bc:Text 35~~
-
-{{description>In any assembly where there are discourses about saints and devotees, O King Yudhiṣṭhira, even the enemies of the demons, namely the demigods, what to speak of you, would cite Prahlāda Mahārāja as an example of a great devotee.}}
-
+---json
+{
+    "name":"SB 7.4.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 7.4.35",
+    "description":"In any assembly where there are discourses about saints and devotees, O King Yudhiṣṭhira, even the enemies of the demons, namely the demigods, what to speak of you, would cite Prahlāda Mahārāja as an example of a great devotee."
+}
+---
 ====== SB 7.4.35 ======
 
 ===== Text =====

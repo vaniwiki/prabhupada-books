@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.26~~
-~~bc:Text 26~~
-
-{{description>If dirt dug up by a boar is available, on the day of the dark moon one should smear this dirt on his body and then bathe in a flowing river. While bathing, one should chant the following mantra.}}
-
+---json
+{
+    "name":"SB 8.16.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.16.26",
+    "description":"If dirt dug up by a boar is available, on the day of the dark moon one should smear this dirt on his body and then bathe in a flowing river. While bathing, one should chant the following mantra."
+}
+---
 ====== SB 8.16.26 ======
 
 ===== Text =====

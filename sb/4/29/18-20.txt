@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.18-20~~
-~~bc:Text 18-20~~
-
-{{description>Nārada Muni continued: What I referred to as the chariot was in actuality the body. The senses are the horses that pull that chariot. As time passes, year after year, these horses run without obstruction, but in fact they make no progress. Pious and impious activities are the two wheels of the chariot. The three modes of material nature are the chariot's flags. The five types of life air constitute the living entity's bondage, and the mind is considered to be the rope. Intelligence is the chariot driver. The heart is the sitting place in the chariot, and the dualities of life, such as pleasure and pain, are the knotting place. The seven elements are the coverings of the chariot, and the working senses are the five external processes. The eleven senses are the soldiers. Being engrossed in sense enjoyment, the living entity, seated on the chariot, hankers after fulfillment of his false desires and runs after sense enjoyment life after life.}}
-
+---json
+{
+    "name":"SB 4.29.18-20",
+    "h1":"Text 18-20",
+    "title":" Śrīmad Bhāgavatam 4.29.18-20",
+    "description":"Nārada Muni continued: What I referred to as the chariot was in actuality the body. The senses are the horses that pull that chariot. As time passes, year after year, these horses run without obstruction, but in fact they make no progress. Pious and impious activities are the two wheels of the chariot. The three modes of material nature are the chariot's flags. The five types of life air constitute the living entity's bondage, and the mind is considered to be the rope. Intelligence is the chariot driver. The heart is the sitting place in the chariot, and the dualities of life, such as pleasure and pain, are the knotting place. The seven elements are the coverings of the chariot, and the working senses are the five external processes. The eleven senses are the soldiers. Being engrossed in sense enjoyment, the living entity, seated on the chariot, hankers after fulfillment of his false desires and runs after sense enjoyment life after life."
+}
+---
 ====== SB 4.29.18-20 ======
 
 > देहो रथस्त्विन्द्रियाश्वः संवत्सररयोऽगतिः ।

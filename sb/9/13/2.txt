@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.2~~
-~~bc:Text 2~~
-
-{{description>"I shall return here after finishing the yajña for Indra. Kindly wait for me until then." Mahārāja Nimi remained silent, and Vasiṣṭha began to perform the sacrifice for Lord Indra.}}
-
+---json
+{
+    "name":"SB 9.13.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.13.2",
+    "description":""I shall return here after finishing the yajña for Indra. Kindly wait for me until then." Mahārāja Nimi remained silent, and Vasiṣṭha began to perform the sacrifice for Lord Indra."
+}
+---
 ====== SB 9.13.2 ======
 
 ===== Text =====

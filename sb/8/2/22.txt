@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.2.22~~
-~~bc:Text 22~~
-
-{{description>By the mercy of this elephant, animals like the foxes, wolves, buffalos, bears, boars, gopucchas, porcupines, monkeys, rabbits, the other deer and many other small animals loitered elsewhere in the forest. They were not afraid of him.}}
-
+---json
+{
+    "name":"SB 8.2.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.2.22",
+    "description":"By the mercy of this elephant, animals like the foxes, wolves, buffalos, bears, boars, gopucchas, porcupines, monkeys, rabbits, the other deer and many other small animals loitered elsewhere in the forest. They were not afraid of him."
+}
+---
 ====== SB 8.2.22 ======
 
 ===== Text =====

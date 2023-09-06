@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.51~~
-~~bc:Text 51~~
-
-{{description>Bhīma, however, disagreed with them and recommended killing this culprit who, in an angry mood, had murdered sleeping children for no purpose and for neither his nor his master's interest.}}
-
+---json
+{
+    "name":"SB 1.7.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 1.7.51",
+    "description":"Bhīma, however, disagreed with them and recommended killing this culprit who, in an angry mood, had murdered sleeping children for no purpose and for neither his nor his master's interest."
+}
+---
 ====== SB 1.7.51 ======
 
 > तत्राहामर्षितो भीमस्तस्य श्रेयान्वधः स्मृतः ।

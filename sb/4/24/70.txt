@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.70~~
-~~bc:Text 70~~
-
-{{description>Therefore, O sons of the King, the Supreme Personality of Godhead, Hari, is situated in everyone's heart. He is also within your hearts. Therefore chant the glories of the Lord and always meditate upon Him continuously.}}
-
+---json
+{
+    "name":"SB 4.24.70",
+    "h1":"Text 70",
+    "title":" Śrīmad Bhāgavatam 4.24.70",
+    "description":"Therefore, O sons of the King, the Supreme Personality of Godhead, Hari, is situated in everyone's heart. He is also within your hearts. Therefore chant the glories of the Lord and always meditate upon Him continuously."
+}
+---
 ====== SB 4.24.70 ======
 
 > तमेवात्मानमात्मस्थं सर्वभूतेष्ववस्थितम् ।

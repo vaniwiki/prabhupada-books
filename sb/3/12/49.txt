@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.49~~
-~~bc:Text 49~~
-
-{{description>Thereafter Brahmā accepted another body, in which sex life was not forbidden, and thus he engaged himself in the matter of further creation.}}
-
+---json
+{
+    "name":"SB 3.12.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 3.12.49",
+    "description":"Thereafter Brahmā accepted another body, in which sex life was not forbidden, and thus he engaged himself in the matter of further creation."
+}
+---
 ====== SB 3.12.49 ======
 
 > ततोऽपरामुपादाय स सर्गाय मनो दध् ॥४९॥

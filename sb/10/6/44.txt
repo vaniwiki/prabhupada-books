@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.6.44~~
-~~bc:Text 44~~
-
-{{description>Any person who hears with faith and devotion about how Kṛṣṇa, the Supreme Personality of Godhead, killed Pūtanā, and who thus invests his hearing in such childhood pastimes of Kṛṣṇa, certainly attains attachment for Govinda, the supreme, original person.}}
-
+---json
+{
+    "name":"SB 10.6.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 10.6.44",
+    "description":"Any person who hears with faith and devotion about how Kṛṣṇa, the Supreme Personality of Godhead, killed Pūtanā, and who thus invests his hearing in such childhood pastimes of Kṛṣṇa, certainly attains attachment for Govinda, the supreme, original person."
+}
+---
 ====== SB 10.6.44 ======
 
 ===== Text =====

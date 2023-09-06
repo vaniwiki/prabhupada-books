@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.36~~
-~~bc:Text 36~~
-
-{{description>We accept as blessings different states of higher life, distinguishing them from lower states of life, but we should know that such distinctions exist only in relation to the interchange of the modes of material nature. Actually these states of life have no permanent existence, for all of them will be destroyed by the supreme controller.}}
-
+---json
+{
+    "name":"SB 4.22.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 4.22.36",
+    "description":"We accept as blessings different states of higher life, distinguishing them from lower states of life, but we should know that such distinctions exist only in relation to the interchange of the modes of material nature. Actually these states of life have no permanent existence, for all of them will be destroyed by the supreme controller."
+}
+---
 ====== SB 4.22.36 ======
 
 > परेऽवरे च ये भावा गुणव्यतिकरादनु ।

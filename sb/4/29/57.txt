@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.57~~
-~~bc:Text 57~~
-
-{{description>My dear brāhmaṇa, there are contradictions between your instructions and those of my spiritual teachers who engaged me in fruitive activities. I now can understand the distinction between devotional service, knowledge and renunciation. I had some doubts about them, but you have now very kindly dissipated all these doubts. I can now understand how even the great sages are bewildered by the real purpose of life. Of course, there is no question of sense gratification.}}
-
+---json
+{
+    "name":"SB 4.29.57",
+    "h1":"Text 57",
+    "title":" Śrīmad Bhāgavatam 4.29.57",
+    "description":"My dear brāhmaṇa, there are contradictions between your instructions and those of my spiritual teachers who engaged me in fruitive activities. I now can understand the distinction between devotional service, knowledge and renunciation. I had some doubts about them, but you have now very kindly dissipated all these doubts. I can now understand how even the great sages are bewildered by the real purpose of life. Of course, there is no question of sense gratification."
+}
+---
 ====== SB 4.29.57 ======
 
 > संशयोऽत्र तु मे विप्र सञ्छिन्नस्तत्कृतो महान् ।

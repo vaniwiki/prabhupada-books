@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.27~~
-~~bc:Text 27~~
-
-{{description>Despite having achieved the desired result of his determination by worshiping the lotus feet of the Lord, Dhruva Mahārāja was not very pleased. Thus he returned to his home.}}
-
+---json
+{
+    "name":"SB 4.9.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.9.27",
+    "description":"Despite having achieved the desired result of his determination by worshiping the lotus feet of the Lord, Dhruva Mahārāja was not very pleased. Thus he returned to his home."
+}
+---
 ====== SB 4.9.27 ======
 
 > सोऽपि सङ्कल्पजं विष्णोः पादसेवोपसादितम् ।

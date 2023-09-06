@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.8~~
-~~bc:Text 8~~
-
-{{description>Due to being stocked for a very long time, all the grain seeds within me have certainly deteriorated. Therefore you should immediately arrange to take these seeds out by the standard process, which is recommended by the ācāryas or śāstras.}}
-
+---json
+{
+    "name":"SB 4.18.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.18.8",
+    "description":"Due to being stocked for a very long time, all the grain seeds within me have certainly deteriorated. Therefore you should immediately arrange to take these seeds out by the standard process, which is recommended by the ācāryas or śāstras."
+}
+---
 ====== SB 4.18.8 ======
 
 > नूनं ता वीरुधः क्षीणा मयि कालेन भूयसा ।

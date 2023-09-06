@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.30~~
-~~bc:Text 30~~
-
-{{description>Maitreya continued: The greatest of all devotees, Mahārāja Pṛthu, was very powerful, and his character was liberal, magnificent and magnanimous. Thus I have described him to you as far as possible.}}
-
+---json
+{
+    "name":"SB 4.23.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.23.30",
+    "description":"Maitreya continued: The greatest of all devotees, Mahārāja Pṛthu, was very powerful, and his character was liberal, magnificent and magnanimous. Thus I have described him to you as far as possible."
+}
+---
 ====== SB 4.23.30 ======
 
 > इत्थम्भूतानुभावोऽसौ पृथुः स भगवत्तमः ।

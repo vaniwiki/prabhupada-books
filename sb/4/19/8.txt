@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.8~~
-~~bc:Text 8~~
-
-{{description>The flowing rivers supplied all kinds of tastes—sweet, pungent, sour, etc.—and very big trees supplied fruit and honey in abundance. The cows, having eaten sufficient green grass, supplied profuse quantities of milk, curd, clarified butter and similar other necessities.}}
-
+---json
+{
+    "name":"SB 4.19.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 4.19.8",
+    "description":"The flowing rivers supplied all kinds of tastes—sweet, pungent, sour, etc.—and very big trees supplied fruit and honey in abundance. The cows, having eaten sufficient green grass, supplied profuse quantities of milk, curd, clarified butter and similar other necessities."
+}
+---
 ====== SB 4.19.8 ======
 
 > ऊहुः सर्वरसान्नद्यः क्षीरदध्यन्नगोरसान् ।

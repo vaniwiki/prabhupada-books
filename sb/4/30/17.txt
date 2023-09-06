@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.17~~
-~~bc:Text 17~~
-
-{{description>The Lord then blessed all the Pracetās, saying: My dear princes, by My mercy, you can enjoy all the facilities of this world as well as the heavenly world. Indeed, you can enjoy all of them without hindrance and with full strength for one million celestial years.}}
-
+---json
+{
+    "name":"SB 4.30.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.30.17",
+    "description":"The Lord then blessed all the Pracetās, saying: My dear princes, by My mercy, you can enjoy all the facilities of this world as well as the heavenly world. Indeed, you can enjoy all of them without hindrance and with full strength for one million celestial years."
+}
+---
 ====== SB 4.30.17 ======
 
 > दिव्यवर्षसहस्राणां सहस्रमहतौजसः ।

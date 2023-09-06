@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.49~~
-~~bc:Text 49~~
-
-{{description>Droṇa and Dharā said: Please permit us to be born on the planet earth so that after our appearance, the Supreme Lord, the Personality of Godhead, the supreme controller and master of all planets, will also appear and spread devotional service, the ultimate goal of life, so that those born in this material world may very easily be delivered from the miserable condition of materialistic life by accepting this devotional service.}}
-
+---json
+{
+    "name":"SB 10.8.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 10.8.49",
+    "description":"Droṇa and Dharā said: Please permit us to be born on the planet earth so that after our appearance, the Supreme Lord, the Personality of Godhead, the supreme controller and master of all planets, will also appear and spread devotional service, the ultimate goal of life, so that those born in this material world may very easily be delivered from the miserable condition of materialistic life by accepting this devotional service."
+}
+---
 ====== SB 10.8.49 ======
 
 ===== Text =====

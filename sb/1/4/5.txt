@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.5~~
-~~bc:Text 5~~
-
-{{description>While Śrī Vyāsadeva was following his son, beautiful young damsels who were bathing naked covered their bodies with cloth, although Śrī Vyāsadeva himself was not naked. But they had not done so when his son had passed. The sage inquired about this, and the young ladies replied that his son was purified and when looking at them made no distinction between male and female. But the sage made such distinctions.}}
-
+---json
+{
+    "name":"SB 1.4.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 1.4.5",
+    "description":"While Śrī Vyāsadeva was following his son, beautiful young damsels who were bathing naked covered their bodies with cloth, although Śrī Vyāsadeva himself was not naked. But they had not done so when his son had passed. The sage inquired about this, and the young ladies replied that his son was purified and when looking at them made no distinction between male and female. But the sage made such distinctions."
+}
+---
 ====== SB 1.4.5 ======
 
 > दृष्ट्वानुयान्तमृषिमात्मजमप्यनग्नं

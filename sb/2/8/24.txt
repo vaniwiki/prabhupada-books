@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.24~~
-~~bc:Text 24~~
-
-{{description>O great sage, representative of the Lord, kindly satisfy my inquisitiveness in all that I have inquired from you and all that I may not have inquired from you from the very beginning of my questionings. Since I am a soul surrendered unto you, please impart full knowledge in this connection.}}
-
+---json
+{
+    "name":"SB 2.8.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 2.8.24",
+    "description":"O great sage, representative of the Lord, kindly satisfy my inquisitiveness in all that I have inquired from you and all that I may not have inquired from you from the very beginning of my questionings. Since I am a soul surrendered unto you, please impart full knowledge in this connection."
+}
+---
 ====== SB 2.8.24 ======
 
 > सर्वमेतच्च भगवन्पृच्छतो मेऽनुपूर्वशः ।

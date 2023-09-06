@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.2~~
-~~bc:Text 2~~
-
-{{description>Satī felt very sorry at being forbidden to go see her relatives at her father's house, and due to affection for them, tears fell from her eyes. Shaking and very much afflicted, she looked at her uncommon husband, Lord Śiva, as if she were going to blast him with her vision.}}
-
+---json
+{
+    "name":"SB 4.4.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.4.2",
+    "description":"Satī felt very sorry at being forbidden to go see her relatives at her father's house, and due to affection for them, tears fell from her eyes. Shaking and very much afflicted, she looked at her uncommon husband, Lord Śiva, as if she were going to blast him with her vision."
+}
+---
 ====== SB 4.4.2 ======
 
 > सुहृद्दिदृक्षाप्रतिघातदुर्मनाः स्नेहाद्रुदत्यश्रुकलातिविह्वला ।

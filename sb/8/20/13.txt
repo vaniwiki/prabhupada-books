@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.13~~
-~~bc:Text 13~~
-
-{{description>If this brāhmaṇa really is Lord Viṣṇu, who is worshiped by Vedic hymns, He would never give up His widespread reputation; either He would lie down having been killed by me, or He would kill me in a fight.}}
-
+---json
+{
+    "name":"SB 8.20.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.20.13",
+    "description":"If this brāhmaṇa really is Lord Viṣṇu, who is worshiped by Vedic hymns, He would never give up His widespread reputation; either He would lie down having been killed by me, or He would kill me in a fight."
+}
+---
 ====== SB 8.20.13 ======
 
 ===== Text =====

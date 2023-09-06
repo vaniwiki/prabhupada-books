@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.23~~
-~~bc:Text 23~~
-
-{{description>Śukadeva Gosvāmī said: When Mahārāja Duṣmanta passed away from this earth, his son became the emperor of the world, the proprietor of the seven islands. He is referred to as a partial representation of the Supreme Personality of Godhead in this world.}}
-
+---json
+{
+    "name":"SB 9.20.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 9.20.23",
+    "description":"Śukadeva Gosvāmī said: When Mahārāja Duṣmanta passed away from this earth, his son became the emperor of the world, the proprietor of the seven islands. He is referred to as a partial representation of the Supreme Personality of Godhead in this world."
+}
+---
 ====== SB 9.20.23 ======
 
 ===== Text =====

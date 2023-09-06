@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.3~~
-~~bc:Text 3~~
-
-{{description>My dear King, family members in this material world go under the names of wife and children, but actually they behave like tigers and jackals. A herdsman tries to protect his sheep to the best of his ability, but the tigers and foxes take them away by force. Similarly, although a miserly man wants to guard his money very carefully, his family members take away all his assets forcibly, even though he is very vigilant.}}
-
+---json
+{
+    "name":"SB 5.14.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.14.3",
+    "description":"My dear King, family members in this material world go under the names of wife and children, but actually they behave like tigers and jackals. A herdsman tries to protect his sheep to the best of his ability, but the tigers and foxes take them away by force. Similarly, although a miserly man wants to guard his money very carefully, his family members take away all his assets forcibly, even though he is very vigilant."
+}
+---
 ====== SB 5.14.3 ======
 
 ===== Text =====

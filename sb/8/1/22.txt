@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.22~~
-~~bc:Text 22~~
-
-{{description>Vibhu remained a brahmacāri and never married throughout his life. From him, eighty-eight thousand other saintly persons took lessons on self-control, austerity and similar behavior.}}
-
+---json
+{
+    "name":"SB 8.1.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 8.1.22",
+    "description":"Vibhu remained a brahmacāri and never married throughout his life. From him, eighty-eight thousand other saintly persons took lessons on self-control, austerity and similar behavior."
+}
+---
 ====== SB 8.1.22 ======
 
 ===== Text =====

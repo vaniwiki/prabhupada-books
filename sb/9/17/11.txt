@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.11~~
-~~bc:Text 11~~
-
-{{description>The son of Akriya was known as Brahmavit, O King. Now hear about the descendants of Anenā. From Anenā came a son named Śuddha, and his son was Śuci. The son of Śuci was Dharmasārathi, also called Citrakṛt.}}
-
+---json
+{
+    "name":"SB 9.17.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.17.11",
+    "description":"The son of Akriya was known as Brahmavit, O King. Now hear about the descendants of Anenā. From Anenā came a son named Śuddha, and his son was Śuci. The son of Śuci was Dharmasārathi, also called Citrakṛt."
+}
+---
 ====== SB 9.17.11 ======
 
 ===== Text =====

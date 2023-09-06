@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.21~~
-~~bc:Text 21~~
-
-{{description>O my daughter, who were born in a respectable family, how have you degraded your consciousness in this way? How is it that you are shamelessly maintaining a paramour? You will thus degrade the dynasties of both your father and your husband to hellish life.}}
-
+---json
+{
+    "name":"SB 9.3.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 9.3.21",
+    "description":"O my daughter, who were born in a respectable family, how have you degraded your consciousness in this way? How is it that you are shamelessly maintaining a paramour? You will thus degrade the dynasties of both your father and your husband to hellish life."
+}
+---
 ====== SB 9.3.21 ======
 
 ===== Text =====

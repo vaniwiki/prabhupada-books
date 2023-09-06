@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.49~~
-~~bc:Text 49~~
-
-{{description>O unborn one, please enlighten us regarding the ways and means by which we can offer You all enjoyable grains and commodities so that both we and all other living entities in this world can maintain ourselves without disturbance and can easily accumulate the necessities of life both for You and for ourselves.}}
-
+---json
+{
+    "name":"SB 3.5.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 3.5.49",
+    "description":"O unborn one, please enlighten us regarding the ways and means by which we can offer You all enjoyable grains and commodities so that both we and all other living entities in this world can maintain ourselves without disturbance and can easily accumulate the necessities of life both for You and for ourselves."
+}
+---
 ====== SB 3.5.49 ======
 
 > यावद्बलिं तेऽज हराम काले यथा वयं चान्नमदाम यत्र ।

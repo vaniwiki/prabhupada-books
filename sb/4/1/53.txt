@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.53~~
-~~bc:Text 53~~
-
-{{description>On the occasion of the appearance of Nara-Nārāyaṇa, the entire world was full of joy. Everyone's mind became tranquil, and thus in all directions the air, the rivers and the mountains became pleasant.}}
-
+---json
+{
+    "name":"SB 4.1.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 4.1.53",
+    "description":"On the occasion of the appearance of Nara-Nārāyaṇa, the entire world was full of joy. Everyone's mind became tranquil, and thus in all directions the air, the rivers and the mountains became pleasant."
+}
+---
 ====== SB 4.1.53 ======
 
 > ययोर्जन्मन्यदो विश्वमभ्यनन्दत्सुनिर्वृतम् ।

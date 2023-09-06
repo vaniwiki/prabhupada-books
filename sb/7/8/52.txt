@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.52~~
-~~bc:Text 52~~
-
-{{description>The inhabitants of Yakṣaloka prayed: O controller of the twenty-four elements, we are considered the best servants of Your Lordship because of rendering services pleasing to You, yet we engaged as palanquin carriers by the order of Hiraṇyakaśipu, the son of Diti. O Lord in the form of Nṛsiṁhadeva, You know how this demon gave trouble to everyone, but now You have killed him, and his body is mixing with the five material elements.}}
-
+---json
+{
+    "name":"SB 7.8.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 7.8.52",
+    "description":"The inhabitants of Yakṣaloka prayed: O controller of the twenty-four elements, we are considered the best servants of Your Lordship because of rendering services pleasing to You, yet we engaged as palanquin carriers by the order of Hiraṇyakaśipu, the son of Diti. O Lord in the form of Nṛsiṁhadeva, You know how this demon gave trouble to everyone, but now You have killed him, and his body is mixing with the five material elements."
+}
+---
 ====== SB 7.8.52 ======
 
 ===== Text =====

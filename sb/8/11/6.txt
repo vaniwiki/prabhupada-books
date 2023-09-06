@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.6~~
-~~bc:Text 6~~
-
-{{description>Today, with my thunderbolt, which has hundreds of sharp edges, I, the same powerful person, shall sever your head from your body. Although you can produce so much jugglery through illusion, you are endowed with a poor fund of knowledge. Now, try to exist on this battlefield with your relatives and friends.}}
-
+---json
+{
+    "name":"SB 8.11.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.11.6",
+    "description":"Today, with my thunderbolt, which has hundreds of sharp edges, I, the same powerful person, shall sever your head from your body. Although you can produce so much jugglery through illusion, you are endowed with a poor fund of knowledge. Now, try to exist on this battlefield with your relatives and friends."
+}
+---
 ====== SB 8.11.6 ======
 
 ===== Text =====

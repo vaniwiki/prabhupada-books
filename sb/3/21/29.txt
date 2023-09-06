@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.29~~
-~~bc:Text 29~~
-
-{{description>She will bring forth nine daughters from the seed sown in her by you, and through the daughters you beget, the sages will duly beget children.}}
-
+---json
+{
+    "name":"SB 3.21.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.21.29",
+    "description":"She will bring forth nine daughters from the seed sown in her by you, and through the daughters you beget, the sages will duly beget children."
+}
+---
 ====== SB 3.21.29 ======
 
 > या त आत्मभृतं वीर्यं नवधा प्रसविष्यति ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.2-3~~
-~~bc:Text 2-3~~
-
-{{description>Among the great personalities who came to worship the lotus feet of the Lord were those who had attained perfection in self-control and regulative principles, as well as experts in logic, history, general education and the Vedic literature known as kalpe [dealing with old historical incidents]. Others were experts in the Vedic corollaries like Brahma-saṁhitā, all the other knowledge of the Vedas [Sāma, Yajur, Ṛg and Atharva], and also the supplementary Vedic knowledge [Āyur-veda, Dhanur-veda, etc.]. Others were those who had been freed of the reactions to fruitive activities by transcendental knowledge awakened by practice of yoga. And still others were those who had attained residence in Brahmaloka not by ordinary karma but by advanced Vedic knowledge. After devotedly worshiping the upraised lotus feet of the Supreme Lord with oblations of water, Lord Brahmā, who was born of the lotus emanating from Lord Viṣṇu's navel, offered prayers to the Lord.}}
-
+---json
+{
+    "name":"SB 8.21.2-3",
+    "h1":"Text 2-3",
+    "title":" Śrīmad Bhāgavatam 8.21.2-3",
+    "description":"Among the great personalities who came to worship the lotus feet of the Lord were those who had attained perfection in self-control and regulative principles, as well as experts in logic, history, general education and the Vedic literature known as kalpe [dealing with old historical incidents]. Others were experts in the Vedic corollaries like Brahma-saṁhitā, all the other knowledge of the Vedas [Sāma, Yajur, Ṛg and Atharva], and also the supplementary Vedic knowledge [Āyur-veda, Dhanur-veda, etc.]. Others were those who had been freed of the reactions to fruitive activities by transcendental knowledge awakened by practice of yoga. And still others were those who had attained residence in Brahmaloka not by ordinary karma but by advanced Vedic knowledge. After devotedly worshiping the upraised lotus feet of the Supreme Lord with oblations of water, Lord Brahmā, who was born of the lotus emanating from Lord Viṣṇu's navel, offered prayers to the Lord."
+}
+---
 ====== SB 8.21.2-3 ======
 
 ===== Text =====

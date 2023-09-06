@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.1~~
-~~bc:Text 1~~
-
-{{description>Sūta Gosvāmī said: Thereafter the Pāṇḍavas, desiring to deliver water to the dead relatives who had desired it, went to the Ganges with Draupadī. The ladies walked in front.}}
-
+---json
+{
+    "name":"SB 1.8.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.8.1",
+    "description":"Sūta Gosvāmī said: Thereafter the Pāṇḍavas, desiring to deliver water to the dead relatives who had desired it, went to the Ganges with Draupadī. The ladies walked in front."
+}
+---
 ====== SB 1.8.1 ======
 
 > सूत उवाच

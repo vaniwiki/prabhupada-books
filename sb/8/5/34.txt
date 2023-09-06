@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.34~~
-~~bc:Text 34~~
-
-{{description>Soma, the moon, is the source of food grains, strength and longevity for all the demigods. He is also the master of all vegetation and the source of generation for all living entities. As stated by learned scholars, the moon is the mind of the Supreme Personality of Godhead. May that Supreme Personality of Godhead, the source of all opulences, be pleased with us.}}
-
+---json
+{
+    "name":"SB 8.5.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 8.5.34",
+    "description":"Soma, the moon, is the source of food grains, strength and longevity for all the demigods. He is also the master of all vegetation and the source of generation for all living entities. As stated by learned scholars, the moon is the mind of the Supreme Personality of Godhead. May that Supreme Personality of Godhead, the source of all opulences, be pleased with us."
+}
+---
 ====== SB 8.5.34 ======
 
 ===== Text =====

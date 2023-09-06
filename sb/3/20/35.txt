@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.35~~
-~~bc:Text 35~~
-
-{{description>Whosoever you may be, O beautiful girl, we are fortunate in being able to see you. While playing with a ball, you have agitated the minds of all onlookers.}}
-
+---json
+{
+    "name":"SB 3.20.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.20.35",
+    "description":"Whosoever you may be, O beautiful girl, we are fortunate in being able to see you. While playing with a ball, you have agitated the minds of all onlookers."
+}
+---
 ====== SB 3.20.35 ======
 
 > या वा काचित्त्वमबले दिष्ट्या सन्दर्शनं तव ।

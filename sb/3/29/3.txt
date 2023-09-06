@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.3~~
-~~bc:Text 3~~
-
-{{description>Devahūti continued: My dear Lord, please also describe in detail, both for me and for people in general, the continual process of birth and death, for by hearing of such calamities we may become detached from the activities of this material world.}}
-
+---json
+{
+    "name":"SB 3.29.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.29.3",
+    "description":"Devahūti continued: My dear Lord, please also describe in detail, both for me and for people in general, the continual process of birth and death, for by hearing of such calamities we may become detached from the activities of this material world."
+}
+---
 ====== SB 3.29.3 ======
 
 > विरागो येन पुरुषो भगवन्सर्वतो भवेत् ।

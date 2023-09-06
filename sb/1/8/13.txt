@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.13~~
-~~bc:Text 13~~
-
-{{description>The almighty Personality of Godhead, Śrī Kṛṣṇa, having observed that a great danger was befalling His unalloyed devotees, who were fully surrendered souls, at once took up His Sudarśana disc to protect them.}}
-
+---json
+{
+    "name":"SB 1.8.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 1.8.13",
+    "description":"The almighty Personality of Godhead, Śrī Kṛṣṇa, having observed that a great danger was befalling His unalloyed devotees, who were fully surrendered souls, at once took up His Sudarśana disc to protect them."
+}
+---
 ====== SB 1.8.13 ======
 
 > व्यसनं वीक्ष्य तत्तेषामनन्यविषयात्मनाम् ।

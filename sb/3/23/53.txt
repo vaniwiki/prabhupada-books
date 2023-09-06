@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.53~~
-~~bc:Text 53~~
-
-{{description>Until now we have simply wasted so much of our time in sense gratification, neglecting to cultivate knowledge of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 3.23.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 3.23.53",
+    "description":"Until now we have simply wasted so much of our time in sense gratification, neglecting to cultivate knowledge of the Supreme Lord."
+}
+---
 ====== SB 3.23.53 ======
 
 > एतावतालं कालेन व्यतिक्रान्तेन मे प्रभो ।

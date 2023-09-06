@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.10~~
-~~bc:Text 10~~
-
-{{description>In those tracts of land there are seven mountains—Svarasa, Śataśṛṅga, Vāmadeva, Kunda, Mukunda, Puṣpa-varṣa and Sahasra-śruti. There are also seven rivers—Anumati, Sinīvālī, Sarasvatī, Kuhū, Rajanī, Nandā and Rākā. They are still existing.}}
-
+---json
+{
+    "name":"SB 5.20.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.20.10",
+    "description":"In those tracts of land there are seven mountains—Svarasa, Śataśṛṅga, Vāmadeva, Kunda, Mukunda, Puṣpa-varṣa and Sahasra-śruti. There are also seven rivers—Anumati, Sinīvālī, Sarasvatī, Kuhū, Rajanī, Nandā and Rākā. They are still existing."
+}
+---
 ====== SB 5.20.10 ======
 
 ===== Text =====

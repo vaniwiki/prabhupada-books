@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.17~~
-~~bc:Text 17~~
-
-{{description>Accompanied during the daytime by the sons of the Prajāpati [the predominating deities of the days] and accompanied at night by his daughters [the deities of the nights], Lakṣmīdevī worships the Lord during the period known as the Saṁvatsara in His most merciful form as Kāmadeva. Fully absorbed in devotional service, she chants the following mantras.}}
-
+---json
+{
+    "name":"SB 5.18.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 5.18.17",
+    "description":"Accompanied during the daytime by the sons of the Prajāpati [the predominating deities of the days] and accompanied at night by his daughters [the deities of the nights], Lakṣmīdevī worships the Lord during the period known as the Saṁvatsara in His most merciful form as Kāmadeva. Fully absorbed in devotional service, she chants the following mantras."
+}
+---
 ====== SB 5.18.17 ======
 
 ===== Text =====

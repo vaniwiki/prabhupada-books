@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.34~~
-~~bc:Text 34~~
-
-{{description>Those who strongly desire to cross the ocean of nescience must not associate with the modes of ignorance, for hedonistic activities are the greatest obstructions to realization of religious principles, economic development, regulated sense gratification and, at last, liberation.}}
-
+---json
+{
+    "name":"SB 4.22.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 4.22.34",
+    "description":"Those who strongly desire to cross the ocean of nescience must not associate with the modes of ignorance, for hedonistic activities are the greatest obstructions to realization of religious principles, economic development, regulated sense gratification and, at last, liberation."
+}
+---
 ====== SB 4.22.34 ======
 
 > न कुर्यात्कर्हिचित्सङ्गं तमस्तीव्रं तितीरिषुः ।

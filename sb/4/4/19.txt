@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.4.19~~
-~~bc:Text 19~~
-
-{{description>It is better to execute one's own occupational duty than to criticize others'. Elevated transcendentalists may sometimes forgo the rules and regulations of the Vedas, since they do not need to follow them, just as the demigods travel in space whereas ordinary men travel on the surface of the earth.}}
-
+---json
+{
+    "name":"SB 4.4.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.4.19",
+    "description":"It is better to execute one's own occupational duty than to criticize others'. Elevated transcendentalists may sometimes forgo the rules and regulations of the Vedas, since they do not need to follow them, just as the demigods travel in space whereas ordinary men travel on the surface of the earth."
+}
+---
 ====== SB 4.4.19 ======
 
 > न वेदवादाननुवर्तते मतिः स्व एव लोके रमतो महामुनेः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.38~~
-~~bc:Text 38~~
-
-{{description>Sūta Gosvāmī said: Mahārāja Parīkṣit, thus being petitioned by the personality of Kali, gave him permission to reside in places where gambling, drinking, prostitution and animal slaughter were performed.}}
-
+---json
+{
+    "name":"SB 1.17.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 1.17.38",
+    "description":"Sūta Gosvāmī said: Mahārāja Parīkṣit, thus being petitioned by the personality of Kali, gave him permission to reside in places where gambling, drinking, prostitution and animal slaughter were performed."
+}
+---
 ====== SB 1.17.38 ======
 
 > सूत उवाच

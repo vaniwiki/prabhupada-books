@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.54~~
-~~bc:Text 54~~
-
-{{description>My dear Lord, the king in charge of the heavenly kingdom is also desirous of obtaining the ultimate goal of life-devotional service. Similarly, You are the ultimate destination of those who identify themselves with You [ahaṁ brahmāsmi]. However, it is very difficult for them to attain You, whereas a devotee can very easily attain Your Lordship.}}
-
+---json
+{
+    "name":"SB 4.24.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 4.24.54",
+    "description":"My dear Lord, the king in charge of the heavenly kingdom is also desirous of obtaining the ultimate goal of life-devotional service. Similarly, You are the ultimate destination of those who identify themselves with You [ahaṁ brahmāsmi]. However, it is very difficult for them to attain You, whereas a devotee can very easily attain Your Lordship."
+}
+---
 ====== SB 4.24.54 ======
 
 > भवान्भक्तिमता लभ्यो दुर्लभः सर्वदेहिनाम् ।

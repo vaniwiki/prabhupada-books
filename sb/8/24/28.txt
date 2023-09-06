@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.28~~
-~~bc:Text 28~~
-
-{{description>O my Lord, master of creation, maintenance and annihilation, O best of enjoyers, Lord Viṣṇu, You are the leader and destination of surrendered devotees like us. Therefore let me offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 8.24.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.24.28",
+    "description":"O my Lord, master of creation, maintenance and annihilation, O best of enjoyers, Lord Viṣṇu, You are the leader and destination of surrendered devotees like us. Therefore let me offer my respectful obeisances unto You."
+}
+---
 ====== SB 8.24.28 ======
 
 ===== Text =====

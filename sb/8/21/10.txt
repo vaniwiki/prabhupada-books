@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.10~~
-~~bc:Text 10~~
-
-{{description>"This Vāmana is certainly not a brāhmaṇa but the best of cheaters, Lord Viṣṇu. Assuming the form of a brāhmaṇa, He has covered His own form, and thus He is working for the interests of the demigods.}}
-
+---json
+{
+    "name":"SB 8.21.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.21.10",
+    "description":""This Vāmana is certainly not a brāhmaṇa but the best of cheaters, Lord Viṣṇu. Assuming the form of a brāhmaṇa, He has covered His own form, and thus He is working for the interests of the demigods."
+}
+---
 ====== SB 8.21.10 ======
 
 ===== Text =====

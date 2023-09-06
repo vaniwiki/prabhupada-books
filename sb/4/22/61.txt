@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.61~~
-~~bc:Text 61~~
-
-{{description>In his bodily beauty he was just like Cupid, and in his thoughtfulness he was like a lion. In his affection he was just like Svāyambhuva Manu, and in his ability to control he was like Lord Brahmā.}}
-
+---json
+{
+    "name":"SB 4.22.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 4.22.61",
+    "description":"In his bodily beauty he was just like Cupid, and in his thoughtfulness he was like a lion. In his affection he was just like Svāyambhuva Manu, and in his ability to control he was like Lord Brahmā."
+}
+---
 ====== SB 4.22.61 ======
 
 > कन्दर्प इव सौन्दर्ये मनस्वी मृगराडिव ।

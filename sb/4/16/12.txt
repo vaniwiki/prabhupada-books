@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.16.12~~
-~~bc:Text 12~~
-
-{{description>King Pṛthu will be able to see all the internal and external activities of every one of his citizens. Still no one will be able to know his system of espionage, and he himself will remain neutral regarding all matters of glorification or vilification paid to him. He will be exactly like air, the life force within the body, which is exhibited internally and externally but is always neutral to all affairs.}}
-
+---json
+{
+    "name":"SB 4.16.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.16.12",
+    "description":"King Pṛthu will be able to see all the internal and external activities of every one of his citizens. Still no one will be able to know his system of espionage, and he himself will remain neutral regarding all matters of glorification or vilification paid to him. He will be exactly like air, the life force within the body, which is exhibited internally and externally but is always neutral to all affairs."
+}
+---
 ====== SB 4.16.12 ======
 
 > अन्तर्बहिश्च भूतानां पश्यन्कर्माणि चारणैः ।

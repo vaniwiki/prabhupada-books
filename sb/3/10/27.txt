@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.27~~
-~~bc:Text 27~~
-
-{{description>O good Vidura, these last three creations and the creation of demigods (the tenth creation) are vaikṛta creations, which are different from the previously described prākṛta (natural) creations. The appearance of the Kumāras is both.}}
-
+---json
+{
+    "name":"SB 3.10.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.10.27",
+    "description":"O good Vidura, these last three creations and the creation of demigods (the tenth creation) are vaikṛta creations, which are different from the previously described prākṛta (natural) creations. The appearance of the Kumāras is both."
+}
+---
 ====== SB 3.10.27 ======
 
 > वैकृतास्त्रय एवैते देवसर्गश्च सत्तम ।

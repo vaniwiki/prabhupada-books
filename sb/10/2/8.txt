@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.8~~
-~~bc:Text 8~~
-
-{{description>Within the womb of Devakī is My partial plenary expansion known as Saṅkarṣaṇa or Śeṣa. Without difficulty, transfer Him into the womb of Rohiṇī.}}
-
+---json
+{
+    "name":"SB 10.2.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 10.2.8",
+    "description":"Within the womb of Devakī is My partial plenary expansion known as Saṅkarṣaṇa or Śeṣa. Without difficulty, transfer Him into the womb of Rohiṇī."
+}
+---
 ====== SB 10.2.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.36~~
-~~bc:Text 36~~
-
-{{description>The millennium which followed the first Brāhma millennium is known as the Pādma-kalpa because in that millennium the universal lotus flower grew out of the navel reservoir of water of the Personality of Godhead, Hari.}}
-
+---json
+{
+    "name":"SB 3.11.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 3.11.36",
+    "description":"The millennium which followed the first Brāhma millennium is known as the Pādma-kalpa because in that millennium the universal lotus flower grew out of the navel reservoir of water of the Personality of Godhead, Hari."
+}
+---
 ====== SB 3.11.36 ======
 
 > तस्यैव चान्ते कल्पोऽभूद्यं पाद्ममभिचक्षते ।

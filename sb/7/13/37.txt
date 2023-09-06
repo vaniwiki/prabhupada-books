@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.13.37~~
-~~bc:Text 37~~
-
-{{description>I do not endeavor to get anything, but am satisfied with whatever is achieved in its own way. If I do not get anything, I am patient and unagitated like a python and lie down in this way for many days.}}
-
+---json
+{
+    "name":"SB 7.13.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 7.13.37",
+    "description":"I do not endeavor to get anything, but am satisfied with whatever is achieved in its own way. If I do not get anything, I am patient and unagitated like a python and lie down in this way for many days."
+}
+---
 ====== SB 7.13.37 ======
 
 ===== Text =====

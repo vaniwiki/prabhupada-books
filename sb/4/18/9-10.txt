@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.9-10~~
-~~bc:Text 9-10~~
-
-{{description>O great hero, protector of living entities, if you desire to relieve the living entities by supplying them sufficient grain, and if you desire to nourish them by taking milk from me, you should make arrangements to bring a calf suitable for this purpose and a pot in which the milk can be kept, as well as a milkman to do the work. Since I will be very much affectionate towards my calf, your desire to take milk from me will be fulfilled.}}
-
+---json
+{
+    "name":"SB 4.18.9-10",
+    "h1":"Text 9-10",
+    "title":" Śrīmad Bhāgavatam 4.18.9-10",
+    "description":"O great hero, protector of living entities, if you desire to relieve the living entities by supplying them sufficient grain, and if you desire to nourish them by taking milk from me, you should make arrangements to bring a calf suitable for this purpose and a pot in which the milk can be kept, as well as a milkman to do the work. Since I will be very much affectionate towards my calf, your desire to take milk from me will be fulfilled."
+}
+---
 ====== SB 4.18.9-10 ======
 
 > वत्सं कल्पय मे वीर येनाहं वत्सला तव ।

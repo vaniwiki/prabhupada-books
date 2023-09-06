@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.5~~
-~~bc:Text 5~~
-
-{{description>Thereupon, all the soldiers of Śaryāti were immediately obstructed from passing urine and stool. Upon perceiving this, Śaryāti spoke to his associates in surprise.}}
-
+---json
+{
+    "name":"SB 9.3.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 9.3.5",
+    "description":"Thereupon, all the soldiers of Śaryāti were immediately obstructed from passing urine and stool. Upon perceiving this, Śaryāti spoke to his associates in surprise."
+}
+---
 ====== SB 9.3.5 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.25~~
-~~bc:Text 25~~
-
-{{description>The gigantic universal form of the Personality of Godhead, within the body of the universal shell, which is covered by sevenfold material elements, is the subject for the virāṭ conception.}}
-
+---json
+{
+    "name":"SB 2.1.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 2.1.25",
+    "description":"The gigantic universal form of the Personality of Godhead, within the body of the universal shell, which is covered by sevenfold material elements, is the subject for the virāṭ conception."
+}
+---
 ====== SB 2.1.25 ======
 
 > अण्डकोशे शरीरेऽस्मिन्सप्तावरणसंयुते ।

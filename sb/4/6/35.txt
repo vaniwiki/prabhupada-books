@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.35~~
-~~bc:Text 35~~
-
-{{description>The demigods saw Lord Śiva situated in his perfection as the master of the senses, knowledge, fruitive activities and the path of achieving perfection. He was the friend of the entire world, and by virtue of his full affection for everyone, he was very auspicious.}}
-
+---json
+{
+    "name":"SB 4.6.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 4.6.35",
+    "description":"The demigods saw Lord Śiva situated in his perfection as the master of the senses, knowledge, fruitive activities and the path of achieving perfection. He was the friend of the entire world, and by virtue of his full affection for everyone, he was very auspicious."
+}
+---
 ====== SB 4.6.35 ======
 
 > विद्यातपोयोगपथमास्थितं तमधीश्वरम् ।

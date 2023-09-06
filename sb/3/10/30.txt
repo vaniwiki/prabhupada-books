@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.30~~
-~~bc:Text 30~~
-
-{{description>Now I shall describe the descendants of the Manus. The creator, Brahmā, as the incarnation of the passion mode of the Personality of Godhead, creates the universal affairs with unfailing desires in every millennium by the force of the Lord's energy.}}
-
+---json
+{
+    "name":"SB 3.10.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.10.30",
+    "description":"Now I shall describe the descendants of the Manus. The creator, Brahmā, as the incarnation of the passion mode of the Personality of Godhead, creates the universal affairs with unfailing desires in every millennium by the force of the Lord's energy."
+}
+---
 ====== SB 3.10.30 ======
 
 > अतः परं प्रवक्ष्यामि वंशान्मन्वन्तराणि च ।

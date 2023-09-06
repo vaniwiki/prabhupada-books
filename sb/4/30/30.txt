@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.30~~
-~~bc:Text 30~~
-
-{{description>O Lord of the universe, You are the actual teacher of the science of devotional service. We are satisfied that Your Lordship is the ultimate goal of our lives, and we pray that You will be satisfied with us. That is our benediction. We do not desire anything other than Your full satisfaction.}}
-
+---json
+{
+    "name":"SB 4.30.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.30.30",
+    "description":"O Lord of the universe, You are the actual teacher of the science of devotional service. We are satisfied that Your Lordship is the ultimate goal of our lives, and we pray that You will be satisfied with us. That is our benediction. We do not desire anything other than Your full satisfaction."
+}
+---
 ====== SB 4.30.30 ======
 
 > असावेव वरोऽस्माकमीप्सितो जगतः पते ।

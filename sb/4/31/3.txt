@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.3~~
-~~bc:Text 3~~
-
-{{description>After practicing the yogāsana for mystic yoga, the Pracetās managed to control their life air, mind, words and external vision. Thus by the prāṇāyāma process they were completely relieved of material attachment. By remaining perpendicular, they could concentrate their minds on the uppermost Brahman. While they were practicing this prāṇāyāma, the great sage Nārada, who is worshiped both by demons and by demigods, came to see them.}}
-
+---json
+{
+    "name":"SB 4.31.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.31.3",
+    "description":"After practicing the yogāsana for mystic yoga, the Pracetās managed to control their life air, mind, words and external vision. Thus by the prāṇāyāma process they were completely relieved of material attachment. By remaining perpendicular, they could concentrate their minds on the uppermost Brahman. While they were practicing this prāṇāyāma, the great sage Nārada, who is worshiped both by demons and by demigods, came to see them."
+}
+---
 ====== SB 4.31.3 ======
 
 > तान्निर्जितप्राणमनोवचोदृशो जितासनान्शान्तसमानविग्रहान् ।

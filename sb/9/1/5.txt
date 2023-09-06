@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.5~~
-~~bc:Text 5~~
-
-{{description>Kindly tell us about the abilities of all the celebrated kings born in the dynasty of Vaivasvata Manu, including those who have already passed, those who may appear in the future, and those who exist at present.}}
-
+---json
+{
+    "name":"SB 9.1.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 9.1.5",
+    "description":"Kindly tell us about the abilities of all the celebrated kings born in the dynasty of Vaivasvata Manu, including those who have already passed, those who may appear in the future, and those who exist at present."
+}
+---
 ====== SB 9.1.5 ======
 
 ===== Text =====

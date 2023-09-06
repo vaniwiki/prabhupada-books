@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.10~~
-~~bc:Text 10~~
-
-{{description>From the mind of Lord Brahmā, Marīci took birth, and from the semen of Marīci, Kaśyapa appeared from the womb of the daughter of Dakṣa Mahārāja. From Kaśyapa, by the womb of Aditi, Vivasvān took birth.}}
-
+---json
+{
+    "name":"SB 9.1.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 9.1.10",
+    "description":"From the mind of Lord Brahmā, Marīci took birth, and from the semen of Marīci, Kaśyapa appeared from the womb of the daughter of Dakṣa Mahārāja. From Kaśyapa, by the womb of Aditi, Vivasvān took birth."
+}
+---
 ====== SB 9.1.10 ======
 
 ===== Text =====

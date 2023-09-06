@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.15~~
-~~bc:Text 15~~
-
-{{description>Lord Brahmā saw in the Vaikuṇṭha planets the Personality of Godhead, who is the Lord of the entire devotee community, the Lord of the goddess of fortune, the Lord of all sacrifices, and the Lord of the universe, and who is served by the foremost servitors like Nanda, Sunanda, Prabala and Arhaṇa, His immediate associates.}}
-
+---json
+{
+    "name":"SB 2.9.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 2.9.15",
+    "description":"Lord Brahmā saw in the Vaikuṇṭha planets the Personality of Godhead, who is the Lord of the entire devotee community, the Lord of the goddess of fortune, the Lord of all sacrifices, and the Lord of the universe, and who is served by the foremost servitors like Nanda, Sunanda, Prabala and Arhaṇa, His immediate associates."
+}
+---
 ====== SB 2.9.15 ======
 
 > ददर्श तत्राखिलसात्वतां पतिं श्रियः पतिं यज्ञपतिं जगत्पतिम् ।

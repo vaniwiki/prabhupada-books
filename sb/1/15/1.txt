@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.1~~
-~~bc:Text 1~~
-
-{{description>Sūta Gosvāmī said: Arjuna, the celebrated friend of Lord Kṛṣṇa, was grief-stricken because of his strong feeling of separation from Kṛṣṇa, over and above all Mahārāja Yudhiṣṭhira's speculative inquiries.}}
-
+---json
+{
+    "name":"SB 1.15.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.15.1",
+    "description":"Sūta Gosvāmī said: Arjuna, the celebrated friend of Lord Kṛṣṇa, was grief-stricken because of his strong feeling of separation from Kṛṣṇa, over and above all Mahārāja Yudhiṣṭhira's speculative inquiries."
+}
+---
 ====== SB 1.15.1 ======
 
 > सूत उवाच

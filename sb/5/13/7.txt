@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.7~~
-~~bc:Text 7~~
-
-{{description>Sometimes, being defeated or plundered by a superior, powerful agent, a living entity loses all his possessions. He then becomes very morose, and lamenting their loss, he sometimes becomes unconscious. Sometimes he imagines a great palatial city in which he desires to live happily with his family members and riches. He thinks himself fully satisfied if this is possible, but such so-called happiness continues only for a moment.}}
-
+---json
+{
+    "name":"SB 5.13.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.13.7",
+    "description":"Sometimes, being defeated or plundered by a superior, powerful agent, a living entity loses all his possessions. He then becomes very morose, and lamenting their loss, he sometimes becomes unconscious. Sometimes he imagines a great palatial city in which he desires to live happily with his family members and riches. He thinks himself fully satisfied if this is possible, but such so-called happiness continues only for a moment."
+}
+---
 ====== SB 5.13.7 ======
 
 ===== Text =====

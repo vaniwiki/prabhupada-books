@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.7~~
-~~bc:Text 7~~
-
-{{description>The supreme judge must be one, not many. It was our understanding that you are that supreme judge and that you have jurisdiction even over the demigods. Our impression was that you are the master of all living entities, the supreme authority who discriminates between the pious and impious activities of all human beings.}}
-
+---json
+{
+    "name":"SB 6.3.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.3.7",
+    "description":"The supreme judge must be one, not many. It was our understanding that you are that supreme judge and that you have jurisdiction even over the demigods. Our impression was that you are the master of all living entities, the supreme authority who discriminates between the pious and impious activities of all human beings."
+}
+---
 ====== SB 6.3.7 ======
 
 ===== Text =====

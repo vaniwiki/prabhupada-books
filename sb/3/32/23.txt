@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.23~~
-~~bc:Text 23~~
-
-{{description>Engagement in Kṛṣṇa consciousness and application of devotional service unto Kṛṣṇa make it possible to advance in knowledge and detachment, as well as in self-realization.}}
-
+---json
+{
+    "name":"SB 3.32.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.32.23",
+    "description":"Engagement in Kṛṣṇa consciousness and application of devotional service unto Kṛṣṇa make it possible to advance in knowledge and detachment, as well as in self-realization."
+}
+---
 ====== SB 3.32.23 ======
 
 > वासुदेवे भगवति भक्तियोगः प्रयोजितः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.24.32~~
-~~bc:Text 32~~
-
-{{description>The Supreme Personality of Godhead said: O King, who can subdue your enemies, on the seventh day from today the three worlds—Bhūḥ, Bhuvaḥ and Svaḥ—will all merge into the water of inundation.}}
-
+---json
+{
+    "name":"SB 8.24.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 8.24.32",
+    "description":"The Supreme Personality of Godhead said: O King, who can subdue your enemies, on the seventh day from today the three worlds—Bhūḥ, Bhuvaḥ and Svaḥ—will all merge into the water of inundation."
+}
+---
 ====== SB 8.24.32 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.50~~
-~~bc:Text 50~~
-
-{{description>Therefore, O Supreme Personality of Godhead, the best of all persons to whom prayers are offered, I offer my respectful obeisances unto You because without rendering six kinds of devotional service unto You—offering prayers, dedicating all the results of activities, worshiping You, working on Your behalf, always remembering Your lotus feet and hearing about Your glories—who can achieve that which is meant for the paramahaṁsas?}}
-
+---json
+{
+    "name":"SB 7.9.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 7.9.50",
+    "description":"Therefore, O Supreme Personality of Godhead, the best of all persons to whom prayers are offered, I offer my respectful obeisances unto You because without rendering six kinds of devotional service unto You—offering prayers, dedicating all the results of activities, worshiping You, working on Your behalf, always remembering Your lotus feet and hearing about Your glories—who can achieve that which is meant for the paramahaṁsas?"
+}
+---
 ====== SB 7.9.50 ======
 
 ===== Text =====

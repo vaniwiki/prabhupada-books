@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.34~~
-~~bc:Text 34~~
-
-{{description>The one hundred years of Brahmā's life are divided into two parts, the first half and the second half. The first half of the duration of Brahmā's life is already over, and the second half is now current.}}
-
+---json
+{
+    "name":"SB 3.11.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.11.34",
+    "description":"The one hundred years of Brahmā's life are divided into two parts, the first half and the second half. The first half of the duration of Brahmā's life is already over, and the second half is now current."
+}
+---
 ====== SB 3.11.34 ======
 
 > यदर्धमायुषस्तस्य परार्धमभिधीयते ।

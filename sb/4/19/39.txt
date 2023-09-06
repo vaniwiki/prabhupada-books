@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.19.39~~
-~~bc:Text 39~~
-
-{{description>The great sage Maitreya continued: When King Pṛthu was thus advised by the supreme teacher, Lord Brahmā, he abandoned his eagerness to perform yajñas and with great affection concluded a peace with King Indra.}}
-
+---json
+{
+    "name":"SB 4.19.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 4.19.39",
+    "description":"The great sage Maitreya continued: When King Pṛthu was thus advised by the supreme teacher, Lord Brahmā, he abandoned his eagerness to perform yajñas and with great affection concluded a peace with King Indra."
+}
+---
 ====== SB 4.19.39 ======
 
 > मैत्रेय उवाच

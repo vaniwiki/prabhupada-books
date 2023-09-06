@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.11~~
-~~bc:Text 11~~
-
-{{description>When the time came, the pregnant mother Sītādevī gave birth to twin sons, later celebrated as Lava and Kuśa. The ritualistic ceremonies for their birth were performed by Vālmīki Muni.}}
-
+---json
+{
+    "name":"SB 9.11.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.11.11",
+    "description":"When the time came, the pregnant mother Sītādevī gave birth to twin sons, later celebrated as Lava and Kuśa. The ritualistic ceremonies for their birth were performed by Vālmīki Muni."
+}
+---
 ====== SB 9.11.11 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.13~~
-~~bc:Text 13~~
-
-{{description>O my dear King, Hiraṇyakaśipu was always drunk on strong-smelling wines and liquors, and therefore his coppery eyes were always rolling. Nonetheless, because he had powerfully executed great austerities in mystic yoga, although he was abominable, all but the three principal demigods—Lord Brahmā, Lord Śiva and Lord Viṣṇu—personally worshiped him to please him by bringing him various presentations with their own hands.}}
-
+---json
+{
+    "name":"SB 7.4.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 7.4.13",
+    "description":"O my dear King, Hiraṇyakaśipu was always drunk on strong-smelling wines and liquors, and therefore his coppery eyes were always rolling. Nonetheless, because he had powerfully executed great austerities in mystic yoga, although he was abominable, all but the three principal demigods—Lord Brahmā, Lord Śiva and Lord Viṣṇu—personally worshiped him to please him by bringing him various presentations with their own hands."
+}
+---
 ====== SB 7.4.13 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.16.9~~
-~~bc:Text 9~~
-
-{{description>This King, Pṛthu Mahārāja, by virtue of his affectionate glances and beautiful moonlike face, which is always smiling with great affection for the citizens, will enhance everyone's peaceful life.}}
-
+---json
+{
+    "name":"SB 4.16.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.16.9",
+    "description":"This King, Pṛthu Mahārāja, by virtue of his affectionate glances and beautiful moonlike face, which is always smiling with great affection for the citizens, will enhance everyone's peaceful life."
+}
+---
 ====== SB 4.16.9 ======
 
 > आप्याययत्यसौ लोकं वदनामृतमूर्तिना ।

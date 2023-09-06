@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.13~~
-~~bc:Text 13~~
-
-{{description>Now that the all-pervading, unlimited Lord Kṛṣṇa, the master of the cosmic manifestation, had arrived within the estate of Mahārāja Nanda, various types of musical instruments resounded to celebrate the great festival.}}
-
+---json
+{
+    "name":"SB 10.5.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 10.5.13",
+    "description":"Now that the all-pervading, unlimited Lord Kṛṣṇa, the master of the cosmic manifestation, had arrived within the estate of Mahārāja Nanda, various types of musical instruments resounded to celebrate the great festival."
+}
+---
 ====== SB 10.5.13 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.3~~
-~~bc:Text 3~~
-
-{{description>Those who are interested in reviving Kṛṣṇa consciousness and increasing their love of Godhead do not like to do anything that is not related to Kṛṣṇa. They are not interested in mingling with people who are busy maintaining their bodies, eating, sleeping, mating and defending. They are not attached to their homes, although they may be householders. Nor are they attached to wives, children, friends or wealth. At the same time, they are not indifferent to the execution of their duties. Such people are interested in collecting only enough money to keep the body and soul together.}}
-
+---json
+{
+    "name":"SB 5.5.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.5.3",
+    "description":"Those who are interested in reviving Kṛṣṇa consciousness and increasing their love of Godhead do not like to do anything that is not related to Kṛṣṇa. They are not interested in mingling with people who are busy maintaining their bodies, eating, sleeping, mating and defending. They are not attached to their homes, although they may be householders. Nor are they attached to wives, children, friends or wealth. At the same time, they are not indifferent to the execution of their duties. Such people are interested in collecting only enough money to keep the body and soul together."
+}
+---
 ====== SB 5.5.3 ======
 
 ===== Text =====

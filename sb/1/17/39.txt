@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.39~~
-~~bc:Text 39~~
-
-{{description>The personality of Kali asked for something more, and because of his begging, the King gave him permission to live where there is gold because wherever there is gold there is also falsity, intoxication, lust, envy and enmity.}}
-
+---json
+{
+    "name":"SB 1.17.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 1.17.39",
+    "description":"The personality of Kali asked for something more, and because of his begging, the King gave him permission to live where there is gold because wherever there is gold there is also falsity, intoxication, lust, envy and enmity."
+}
+---
 ====== SB 1.17.39 ======
 
 > पुनश्च याचमानाय जातरूपमदात्प्रभुः ।

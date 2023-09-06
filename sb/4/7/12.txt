@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.12~~
-~~bc:Text 12~~
-
-{{description>At this time, King Dakṣa, afflicted by love and affection, was very much awakened to his real senses. With great endeavor, he pacified his mind, checked his feelings, and with pure consciousness began to offer prayers to Lord Śiva.}}
-
+---json
+{
+    "name":"SB 4.7.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.7.12",
+    "description":"At this time, King Dakṣa, afflicted by love and affection, was very much awakened to his real senses. With great endeavor, he pacified his mind, checked his feelings, and with pure consciousness began to offer prayers to Lord Śiva."
+}
+---
 ====== SB 4.7.12 ======
 
 > कृच्छ्रात्संस्तभ्य च मनः प्रेमविह्वलितः सुधीः ।

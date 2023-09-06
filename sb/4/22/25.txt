@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.25~~
-~~bc:Text 25~~
-
-{{description>The devotee should gradually increase the culture of devotional service by constant hearing of the transcendental qualities of the Supreme Personality of Godhead. These pastimes are like ornamental decorations on the ears of devotees. By rendering devotional service and transcending the material qualities, one can easily be fixed in transcendence in the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.22.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.22.25",
+    "description":"The devotee should gradually increase the culture of devotional service by constant hearing of the transcendental qualities of the Supreme Personality of Godhead. These pastimes are like ornamental decorations on the ears of devotees. By rendering devotional service and transcending the material qualities, one can easily be fixed in transcendence in the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.22.25 ======
 
 > हरेर्मुहुस्तत्परकर्णपूर गुणाभिधानेन विजृम्भमाणया ।

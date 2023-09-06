@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.21.13~~
-~~bc:Text 13~~
-
-{{description>The chariot of the sun-god has only one wheel, which is known as Saṁvatsara. The twelve months are calculated to be its twelve spokes, the six seasons are the sections of its rim, and the three cātur-māsya periods are its three-sectioned hub. One side of the axle carrying the wheel rests upon the summit of Mount Sumeru, and the other rests upon Mānasottara Mountain. Affixed to the outer end of the axle, the wheel continuously rotates on Mānasottara Mountain like the wheel of an oil-pressing machine.}}
-
+---json
+{
+    "name":"SB 5.21.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 5.21.13",
+    "description":"The chariot of the sun-god has only one wheel, which is known as Saṁvatsara. The twelve months are calculated to be its twelve spokes, the six seasons are the sections of its rim, and the three cātur-māsya periods are its three-sectioned hub. One side of the axle carrying the wheel rests upon the summit of Mount Sumeru, and the other rests upon Mānasottara Mountain. Affixed to the outer end of the axle, the wheel continuously rotates on Mānasottara Mountain like the wheel of an oil-pressing machine."
+}
+---
 ====== SB 5.21.13 ======
 
 ===== Text =====

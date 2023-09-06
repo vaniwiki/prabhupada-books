@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.52~~
-~~bc:Text 52~~
-
-{{description>O Mahārāja Parīkṣit, best of the Bharata dynasty, during the reign of Lord Rāmacandra the forests, the rivers, the hills and mountains, the states, the seven islands and the seven seas were all favorable in supplying the necessities of life for all living beings.}}
-
+---json
+{
+    "name":"SB 9.10.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 9.10.52",
+    "description":"O Mahārāja Parīkṣit, best of the Bharata dynasty, during the reign of Lord Rāmacandra the forests, the rivers, the hills and mountains, the states, the seven islands and the seven seas were all favorable in supplying the necessities of life for all living beings."
+}
+---
 ====== SB 9.10.52 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.21~~
-~~bc:Text 21~~
-
-{{description>Vedaśirā was a very celebrated ṛṣi. From the womb of his wife, whose name was Tuṣitā, came the avatāra named Vibhu.}}
-
+---json
+{
+    "name":"SB 8.1.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 8.1.21",
+    "description":"Vedaśirā was a very celebrated ṛṣi. From the womb of his wife, whose name was Tuṣitā, came the avatāra named Vibhu."
+}
+---
 ====== SB 8.1.21 ======
 
 ===== Text =====

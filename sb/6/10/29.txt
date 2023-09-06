@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.29~~
-~~bc:Text 29~~
-
-{{description>The asuras, who are never devotees of Lord Kṛṣṇa, the Supreme Personality of Godhead, lost their pride in fighting when they found all their endeavors futile. Leaving aside their leader even in the very beginning of the fight, they decided to flee because all their prowess had been taken away by the enemy.}}
-
+---json
+{
+    "name":"SB 6.10.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 6.10.29",
+    "description":"The asuras, who are never devotees of Lord Kṛṣṇa, the Supreme Personality of Godhead, lost their pride in fighting when they found all their endeavors futile. Leaving aside their leader even in the very beginning of the fight, they decided to flee because all their prowess had been taken away by the enemy."
+}
+---
 ====== SB 6.10.29 ======
 
 ===== Text =====

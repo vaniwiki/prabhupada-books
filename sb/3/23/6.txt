@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.6~~
-~~bc:Text 6~~
-
-{{description>Kardama Muni said: O respectful daughter of Svāyambhuva Manu, today I am very much pleased with you for your great devotion and most excellent loving service. Since the body is so dear to embodied beings, I am astonished that you have neglected your own body to use it on my behalf.}}
-
+---json
+{
+    "name":"SB 3.23.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.23.6",
+    "description":"Kardama Muni said: O respectful daughter of Svāyambhuva Manu, today I am very much pleased with you for your great devotion and most excellent loving service. Since the body is so dear to embodied beings, I am astonished that you have neglected your own body to use it on my behalf."
+}
+---
 ====== SB 3.23.6 ======
 
 > कर्दम उवाच

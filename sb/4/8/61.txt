@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.61~~
-~~bc:Text 61~~
-
-{{description>If one is very serious about liberation, he must stick to the process of transcendental loving service, engaging twenty-four hours a day in the highest stage of ecstasy, and he must certainly be aloof from all activities of sense gratification.}}
-
+---json
+{
+    "name":"SB 4.8.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 4.8.61",
+    "description":"If one is very serious about liberation, he must stick to the process of transcendental loving service, engaging twenty-four hours a day in the highest stage of ecstasy, and he must certainly be aloof from all activities of sense gratification."
+}
+---
 ====== SB 4.8.61 ======
 
 > विरक्तश्चेन्द्रियरतौ भक्तियोगेन भूयसा ।

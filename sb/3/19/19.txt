@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.19~~
-~~bc:Text 19~~
-
-{{description>The luminaries in outer space disappeared due to the sky's being overcast with masses of clouds, which were accompanied by lightning and thunder. The sky rained pus, hair, blood, stool, urine and bones.}}
-
+---json
+{
+    "name":"SB 3.19.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.19.19",
+    "description":"The luminaries in outer space disappeared due to the sky's being overcast with masses of clouds, which were accompanied by lightning and thunder. The sky rained pus, hair, blood, stool, urine and bones."
+}
+---
 ====== SB 3.19.19 ======
 
 > द्यौर्नष्टभगणाभ्रौघैः सविद्युत्स्तनयित्नुभिः ।

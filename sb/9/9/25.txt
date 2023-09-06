@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.25~~
-~~bc:Text 25~~
-
-{{description>Saudāsa thus acquired the propensity of a man-eater and received on his leg a black spot, for which he was known as Kalmāṣapāda. Once King Kalmāṣapāda saw a brāhmaṇa couple engaged in sexual intercourse in the forest.}}
-
+---json
+{
+    "name":"SB 9.9.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 9.9.25",
+    "description":"Saudāsa thus acquired the propensity of a man-eater and received on his leg a black spot, for which he was known as Kalmāṣapāda. Once King Kalmāṣapāda saw a brāhmaṇa couple engaged in sexual intercourse in the forest."
+}
+---
 ====== SB 9.9.25 ======
 
 ===== Text =====

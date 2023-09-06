@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.44-45~~
-~~bc:Text 44-45~~
-
-{{description>One should perfectly honor the respectable brāhmaṇas one has fed, and then, after taking their permission, one should take prasāda with his friends and relatives. For that night, one should observe strict celibacy, and the next morning, after bathing again, with purity and attention one should bathe the Deity of Viṣṇu with milk and worship Him according to the methods formerly stated in detail.}}
-
+---json
+{
+    "name":"SB 8.16.44-45",
+    "h1":"Text 44-45",
+    "title":" Śrīmad Bhāgavatam 8.16.44-45",
+    "description":"One should perfectly honor the respectable brāhmaṇas one has fed, and then, after taking their permission, one should take prasāda with his friends and relatives. For that night, one should observe strict celibacy, and the next morning, after bathing again, with purity and attention one should bathe the Deity of Viṣṇu with milk and worship Him according to the methods formerly stated in detail."
+}
+---
 ====== SB 8.16.44-45 ======
 
 ===== Text =====

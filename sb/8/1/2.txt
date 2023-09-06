@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.2~~
-~~bc:Text 2~~
-
-{{description>O learned brāhmaṇa, Śukadeva Gosvāmī, the great learned persons who are completely intelligent describe the activities and appearance of the Supreme Personality of Godhead during the various manvantaras. We are very eager to hear about these narrations. Kindly describe them.}}
-
+---json
+{
+    "name":"SB 8.1.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.1.2",
+    "description":"O learned brāhmaṇa, Śukadeva Gosvāmī, the great learned persons who are completely intelligent describe the activities and appearance of the Supreme Personality of Godhead during the various manvantaras. We are very eager to hear about these narrations. Kindly describe them."
+}
+---
 ====== SB 8.1.2 ======
 
 ===== Text =====

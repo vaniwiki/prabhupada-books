@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.27~~
-~~bc:Text 27~~
-
-{{description>The yogī should further meditate upon the Lord's four arms, which are the source of all the powers of the demigods who control the various functions of material nature. Then the yogi should concentrate on the polished ornaments, which were burnished by Mount Mandara as it revolved. He should also duly contemplate the Lord's discus, the Sudarśana cakra, which contains one thousand spokes and a dazzling luster, as well as the conch, which looks like a swan in His lotuslike palm.}}
-
+---json
+{
+    "name":"SB 3.28.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.28.27",
+    "description":"The yogī should further meditate upon the Lord's four arms, which are the source of all the powers of the demigods who control the various functions of material nature. Then the yogi should concentrate on the polished ornaments, which were burnished by Mount Mandara as it revolved. He should also duly contemplate the Lord's discus, the Sudarśana cakra, which contains one thousand spokes and a dazzling luster, as well as the conch, which looks like a swan in His lotuslike palm."
+}
+---
 ====== SB 3.28.27 ======
 
 > बाहूंश्च मन्दरगिरेः परिवर्तनेन

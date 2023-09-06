@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.24~~
-~~bc:Text 24~~
-
-{{description>Just as a small insect falls forcefully into a fire and the insignificant creature becomes invisible, when Hiraṇyakaśipu attacked the Lord, who was full of effulgence, Hiraṇyakaśipu became invisible. This is not at all astonishing, for the Lord is always situated in pure goodness. Formerly, during creation, He entered the dark universe and illuminated it by His spiritual effulgence.}}
-
+---json
+{
+    "name":"SB 7.8.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 7.8.24",
+    "description":"Just as a small insect falls forcefully into a fire and the insignificant creature becomes invisible, when Hiraṇyakaśipu attacked the Lord, who was full of effulgence, Hiraṇyakaśipu became invisible. This is not at all astonishing, for the Lord is always situated in pure goodness. Formerly, during creation, He entered the dark universe and illuminated it by His spiritual effulgence."
+}
+---
 ====== SB 7.8.24 ======
 
 ===== Text =====

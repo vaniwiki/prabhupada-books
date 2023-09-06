@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.43~~
-~~bc:Text 43~~
-
-{{description>The great sage Nārada continued: My dear King, those two—the man and the woman—supporting one another through mutual understanding, entered that city and enjoyed life for one hundred years.}}
-
+---json
+{
+    "name":"SB 4.25.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 4.25.43",
+    "description":"The great sage Nārada continued: My dear King, those two—the man and the woman—supporting one another through mutual understanding, entered that city and enjoyed life for one hundred years."
+}
+---
 ====== SB 4.25.43 ======
 
 > नारद उवाच

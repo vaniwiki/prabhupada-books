@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.36~~
-~~bc:Text 36~~
-
-{{description>The Lord Himself in His incarnation as the son of Satyavatī [Vyāsadeva] will consider his compilation of the Vedic literature to be very difficult for the less intelligent persons with short life, and thus He will divide the tree of Vedic knowledge into different branches, according to the circumstances of the particular age.}}
-
+---json
+{
+    "name":"SB 2.7.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 2.7.36",
+    "description":"The Lord Himself in His incarnation as the son of Satyavatī [Vyāsadeva] will consider his compilation of the Vedic literature to be very difficult for the less intelligent persons with short life, and thus He will divide the tree of Vedic knowledge into different branches, according to the circumstances of the particular age."
+}
+---
 ====== SB 2.7.36 ======
 
 > कालेन मीलितधियामवमृश्य न्णां

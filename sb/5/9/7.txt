@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.9.7~~
-~~bc:Text 7~~
-
-{{description>Thereafter, the brāhmaṇa's younger wife, after entrusting her twin children—the boy and girl—to the elder wife, departed for Patiloka, voluntarily dying with her husband.}}
-
+---json
+{
+    "name":"SB 5.9.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.9.7",
+    "description":"Thereafter, the brāhmaṇa's younger wife, after entrusting her twin children—the boy and girl—to the elder wife, departed for Patiloka, voluntarily dying with her husband."
+}
+---
 ====== SB 5.9.7 ======
 
 ===== Text =====

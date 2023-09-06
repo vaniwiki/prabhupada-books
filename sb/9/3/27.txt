@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.27~~
-~~bc:Text 27~~
-
-{{description>King Śaryāti begot three sons, named Uttānabarhi, Ānarta and Bhūriṣeṇa. From Ānarta came a son named Revata.}}
-
+---json
+{
+    "name":"SB 9.3.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.3.27",
+    "description":"King Śaryāti begot three sons, named Uttānabarhi, Ānarta and Bhūriṣeṇa. From Ānarta came a son named Revata."
+}
+---
 ====== SB 9.3.27 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.22~~
-~~bc:Text 22~~
-
-{{description>O King, from Agniveśya came a brahminical dynasty known as Āgniveśyāyana. Now that I have described the descendants of Nariṣyanta, let me describe the descendants of Diṣṭa. Please hear from me.}}
-
+---json
+{
+    "name":"SB 9.2.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 9.2.22",
+    "description":"O King, from Agniveśya came a brahminical dynasty known as Āgniveśyāyana. Now that I have described the descendants of Nariṣyanta, let me describe the descendants of Diṣṭa. Please hear from me."
+}
+---
 ====== SB 9.2.22 ======
 
 ===== Text =====

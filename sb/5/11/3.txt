@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.11.3~~
-~~bc:Text 3~~
-
-{{description>A dream becomes automatically known to a person as false and immaterial, and similarly one eventually realizes that material happiness in this life or the next, on this planet or a higher planet, is insignificant. When one realizes this, the Vedas, although an excellent source, are insufficient to bring about direct knowledge of the truth.}}
-
+---json
+{
+    "name":"SB 5.11.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.11.3",
+    "description":"A dream becomes automatically known to a person as false and immaterial, and similarly one eventually realizes that material happiness in this life or the next, on this planet or a higher planet, is insignificant. When one realizes this, the Vedas, although an excellent source, are insufficient to bring about direct knowledge of the truth."
+}
+---
 ====== SB 5.11.3 ======
 
 ===== Text =====

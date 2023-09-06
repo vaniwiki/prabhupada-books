@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.26~~
-~~bc:Text 26~~
-
-{{description>The Lord's chest is the abode of the goddess of fortune. His moonlike face is the drinking vessel for eyes which hanker after all that is beautiful. His arms are the resting places for the administrative demigods. And His lotus feet are the refuge of pure devotees who never talk or sing of any subject except His Lordship.}}
-
+---json
+{
+    "name":"SB 1.11.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.11.26",
+    "description":"The Lord's chest is the abode of the goddess of fortune. His moonlike face is the drinking vessel for eyes which hanker after all that is beautiful. His arms are the resting places for the administrative demigods. And His lotus feet are the refuge of pure devotees who never talk or sing of any subject except His Lordship."
+}
+---
 ====== SB 1.11.26 ======
 
 > श्रियो निवासो यस्योरः पानपात्रं मुखं दृशाम् ।

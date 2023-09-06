@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.46~~
-~~bc:Text 46~~
-
-{{description>The five material elements, the ten senses and the mind all combine to form the various parts of the gross and subtle bodies. The living entity comes in contact with his material bodies, whether high or low, and later gives them up by his personal prowess. This strength can be perceived in a living entity's personal power to possess different types of bodies.}}
-
+---json
+{
+    "name":"SB 7.2.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 7.2.46",
+    "description":"The five material elements, the ten senses and the mind all combine to form the various parts of the gross and subtle bodies. The living entity comes in contact with his material bodies, whether high or low, and later gives them up by his personal prowess. This strength can be perceived in a living entity's personal power to possess different types of bodies."
+}
+---
 ====== SB 7.2.46 ======
 
 ===== Text =====

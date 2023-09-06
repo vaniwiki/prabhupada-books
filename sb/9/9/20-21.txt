@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.20-21~~
-~~bc:Text 20-21~~
-
-{{description>Śukadeva Gosvāmī said: Once Saudāsa went to live in the forest, where he killed a man-eater [Rākṣasa] but forgave and released the man-eater's brother. That brother, however, decided to take revenge. Thinking to harm the King, he became the cook at the King's house. One day, the King's spiritual master, Vasiṣṭha Muni, was invited for dinner, and the Rākṣasa cook served him human flesh.}}
-
+---json
+{
+    "name":"SB 9.9.20-21",
+    "h1":"Text 20-21",
+    "title":" Śrīmad Bhāgavatam 9.9.20-21",
+    "description":"Śukadeva Gosvāmī said: Once Saudāsa went to live in the forest, where he killed a man-eater [Rākṣasa] but forgave and released the man-eater's brother. That brother, however, decided to take revenge. Thinking to harm the King, he became the cook at the King's house. One day, the King's spiritual master, Vasiṣṭha Muni, was invited for dinner, and the Rākṣasa cook served him human flesh."
+}
+---
 ====== SB 9.9.20-21 ======
 
 ===== Text =====

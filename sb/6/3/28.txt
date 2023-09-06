@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.28~~
-~~bc:Text 28~~
-
-{{description>Paramahaṁsas are exalted persons who have no taste for material enjoyment and who drink the honey of the Lord's lotus feet. My dear servants, bring to me for punishment only persons who are averse to the taste of that honey, who do not associate with paramahaṁsas and who are attached to family life and worldly enjoyment, which form the path to hell.}}
-
+---json
+{
+    "name":"SB 6.3.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 6.3.28",
+    "description":"Paramahaṁsas are exalted persons who have no taste for material enjoyment and who drink the honey of the Lord's lotus feet. My dear servants, bring to me for punishment only persons who are averse to the taste of that honey, who do not associate with paramahaṁsas and who are attached to family life and worldly enjoyment, which form the path to hell."
+}
+---
 ====== SB 6.3.28 ======
 
 ===== Text =====

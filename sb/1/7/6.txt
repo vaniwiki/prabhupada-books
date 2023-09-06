@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.6~~
-~~bc:Text 6~~
-
-{{description>The material miseries of the living entity, which are superfluous to him, can be directly mitigated by the linking process of devotional service. But the mass of people do not know this, and therefore the learned Vyāsadeva compiled this Vedic literature, which is in relation to the Supreme Truth.}}
-
+---json
+{
+    "name":"SB 1.7.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.7.6",
+    "description":"The material miseries of the living entity, which are superfluous to him, can be directly mitigated by the linking process of devotional service. But the mass of people do not know this, and therefore the learned Vyāsadeva compiled this Vedic literature, which is in relation to the Supreme Truth."
+}
+---
 ====== SB 1.7.6 ======
 
 > अनर्थोपशमं साक्षाद्भक्तियोगमधोक्षजे ।

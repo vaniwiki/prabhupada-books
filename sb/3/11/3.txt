@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.3~~
-~~bc:Text 3~~
-
-{{description>One can estimate time by measuring the movement of the atomic combination of bodies. Time is the potency of the almighty Personality of Godhead, Hari, who controls all physical movement although He is not visible in the physical world.}}
-
+---json
+{
+    "name":"SB 3.11.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.11.3",
+    "description":"One can estimate time by measuring the movement of the atomic combination of bodies. Time is the potency of the almighty Personality of Godhead, Hari, who controls all physical movement although He is not visible in the physical world."
+}
+---
 ====== SB 3.11.3 ======
 
 > एवं कालोऽप्यनुमितः सौक्ष्म्ये स्थौल्ये च सत्तम ।

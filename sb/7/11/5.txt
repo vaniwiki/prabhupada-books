@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.5~~
-~~bc:Text 5~~
-
-{{description>Śrī Nārada Muni said: After first offering my obeisances unto Lord Kṛṣṇa, the protector of the religious principles of all living entities, let me explain the principles of the eternal religious system, of which I have heard from the mouth of Nārāyaṇa.}}
-
+---json
+{
+    "name":"SB 7.11.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 7.11.5",
+    "description":"Śrī Nārada Muni said: After first offering my obeisances unto Lord Kṛṣṇa, the protector of the religious principles of all living entities, let me explain the principles of the eternal religious system, of which I have heard from the mouth of Nārāyaṇa."
+}
+---
 ====== SB 7.11.5 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.1.27~~
-~~bc:Text 27~~
-
-{{description>[Please tell me] whether the best friend of the Kurus, our brother-in-law Vasudeva, is doing well. He is very munificent. He is like a father to his sisters, and he is always pleasing to his wives.}}
-
+---json
+{
+    "name":"SB 3.1.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.1.27",
+    "description":"[Please tell me] whether the best friend of the Kurus, our brother-in-law Vasudeva, is doing well. He is very munificent. He is like a father to his sisters, and he is always pleasing to his wives."
+}
+---
 ====== SB 3.1.27 ======
 
 > कच्चित्कुरूणां परमः सुहृन्नो भामः स आस्ते सुखमङ्ग शौरिः ।

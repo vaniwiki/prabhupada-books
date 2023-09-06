@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.20~~
-~~bc:Text 20~~
-
-{{description>King Parīkṣit inquired: My dear lord, due to their birth, the forty-nine Maruts must have been obsessed with a demoniac mentality. Why did Indra, the King of heaven, convert them into demigods? Did they perform any rituals or pious activities?}}
-
+---json
+{
+    "name":"SB 6.18.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 6.18.20",
+    "description":"King Parīkṣit inquired: My dear lord, due to their birth, the forty-nine Maruts must have been obsessed with a demoniac mentality. Why did Indra, the King of heaven, convert them into demigods? Did they perform any rituals or pious activities?"
+}
+---
 ====== SB 6.18.20 ======
 
 ===== Text =====

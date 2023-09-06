@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.15~~
-~~bc:Text 15~~
-
-{{description>You want your sons to regain their lost reputation and opulence and live again on their heavenly planet as usual.}}
-
+---json
+{
+    "name":"SB 8.17.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.17.15",
+    "description":"You want your sons to regain their lost reputation and opulence and live again on their heavenly planet as usual."
+}
+---
 ====== SB 8.17.15 ======
 
 ===== Text =====

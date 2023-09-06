@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.8~~
-~~bc:Text 8~~
-
-{{description>Seeing the situation that had been created by the will of the Supreme, the unlimitedly powerful Lord, whose determination is infallible, took the wonderful shape of a tortoise, entered the water, and lifted the great Mandara Mountain.}}
-
+---json
+{
+    "name":"SB 8.7.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 8.7.8",
+    "description":"Seeing the situation that had been created by the will of the Supreme, the unlimitedly powerful Lord, whose determination is infallible, took the wonderful shape of a tortoise, entered the water, and lifted the great Mandara Mountain."
+}
+---
 ====== SB 8.7.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.28~~
-~~bc:Text 28~~
-
-{{description>I offer my obeisances to the original personality within this universe, Lord Brahmā, who is cognizant and who can apply his mind and realized intelligence in creating this cosmic manifestation. It is because of his activities that everything within the universe is visible. He is therefore the cause of all manifestations.}}
-
+---json
+{
+    "name":"SB 7.3.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 7.3.28",
+    "description":"I offer my obeisances to the original personality within this universe, Lord Brahmā, who is cognizant and who can apply his mind and realized intelligence in creating this cosmic manifestation. It is because of his activities that everything within the universe is visible. He is therefore the cause of all manifestations."
+}
+---
 ====== SB 7.3.28 ======
 
 ===== Text =====

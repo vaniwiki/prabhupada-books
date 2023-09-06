@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.56~~
-~~bc:Text 56~~
-
-{{description>He [Aśvatthāmā] had already lost his bodily luster due to infanticide, and now, moreover, having lost the jewel from his head, he lost even more strength. Thus he was unbound and driven out of the camp.}}
-
+---json
+{
+    "name":"SB 1.7.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 1.7.56",
+    "description":"He [Aśvatthāmā] had already lost his bodily luster due to infanticide, and now, moreover, having lost the jewel from his head, he lost even more strength. Thus he was unbound and driven out of the camp."
+}
+---
 ====== SB 1.7.56 ======
 
 > विमुच्य रशनाबद्धं बालहत्याहतप्रभम् ।

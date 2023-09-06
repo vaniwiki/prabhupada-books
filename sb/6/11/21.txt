@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.21~~
-~~bc:Text 21~~
-
-{{description>By the force of your thunderbolt, I shall be freed of material bondage and shall give up this body and this world of material desires. Fixing my mind upon the lotus feet of Lord Saṅkarṣaṇa, I shall attain the destination of such great sages as Nārada Muni, just as Lord Saṅkarṣaṇa has said.}}
-
+---json
+{
+    "name":"SB 6.11.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 6.11.21",
+    "description":"By the force of your thunderbolt, I shall be freed of material bondage and shall give up this body and this world of material desires. Fixing my mind upon the lotus feet of Lord Saṅkarṣaṇa, I shall attain the destination of such great sages as Nārada Muni, just as Lord Saṅkarṣaṇa has said."
+}
+---
 ====== SB 6.11.21 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.13.60~~
-~~bc:Text 60~~
-
-{{description>Vṛndāvana is the transcendental abode of the Lord, where there is no hunger, anger or thirst. Though naturally inimical, both human beings and fierce animals live there together in transcendental friendship.}}
-
+---json
+{
+    "name":"SB 10.13.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 10.13.60",
+    "description":"Vṛndāvana is the transcendental abode of the Lord, where there is no hunger, anger or thirst. Though naturally inimical, both human beings and fierce animals live there together in transcendental friendship."
+}
+---
 ====== SB 10.13.60 ======
 
 ===== Text =====

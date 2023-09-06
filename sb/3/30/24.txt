@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.24~~
-~~bc:Text 24~~
-
-{{description>Thus he has to pass ninety-nine thousand yojanas within two or three moments, and then he is at once engaged in the torturous punishment which he is destined to suffer.}}
-
+---json
+{
+    "name":"SB 3.30.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.30.24",
+    "description":"Thus he has to pass ninety-nine thousand yojanas within two or three moments, and then he is at once engaged in the torturous punishment which he is destined to suffer."
+}
+---
 ====== SB 3.30.24 ======
 
 > योजनानां सहस्राणि नवतिं नव चाध्वनः ।

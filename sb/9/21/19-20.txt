@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.19-20~~
-~~bc:Text 19-20~~
-
-{{description>From Garga came a son named Śini, and his son was Gārgya. Although Gārgya was a kṣatriya, there came from him a generation of brahmaṇas. From Mahāvīrya came a son named Duritakṣaya, whose sons were Trayyāruṇi, Kavi and Puṣkarāruṇi. Although these sons of Duritakṣaya took birth in a dynasty of kṣatriyas, they too attained the position of brāhmaṇas. Bṛhatkṣatra had a son named Hastī, who established the city of Hastināpura [now New Delhi].}}
-
+---json
+{
+    "name":"SB 9.21.19-20",
+    "h1":"Text 19-20",
+    "title":" Śrīmad Bhāgavatam 9.21.19-20",
+    "description":"From Garga came a son named Śini, and his son was Gārgya. Although Gārgya was a kṣatriya, there came from him a generation of brahmaṇas. From Mahāvīrya came a son named Duritakṣaya, whose sons were Trayyāruṇi, Kavi and Puṣkarāruṇi. Although these sons of Duritakṣaya took birth in a dynasty of kṣatriyas, they too attained the position of brāhmaṇas. Bṛhatkṣatra had a son named Hastī, who established the city of Hastināpura [now New Delhi]."
+}
+---
 ====== SB 9.21.19-20 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.34~~
-~~bc:Text 34~~
-
-{{description>Indra thought: Formerly, when many mountains flying in the sky with wings would fall to the ground and kill people, I cut their wings with this same thunderbolt.}}
-
+---json
+{
+    "name":"SB 8.11.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 8.11.34",
+    "description":"Indra thought: Formerly, when many mountains flying in the sky with wings would fall to the ground and kill people, I cut their wings with this same thunderbolt."
+}
+---
 ====== SB 8.11.34 ======
 
 ===== Text =====

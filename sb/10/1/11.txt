@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.11~~
-~~bc:Text 11~~
-
-{{description>Kṛṣṇa, the Supreme Personality of Godhead, has no material body, yet He appears as a human being. For how many years did He live with the descendants of Vṛṣṇi? How many wives did He marry, and for how many years did He live in Dvārakā?}}
-
+---json
+{
+    "name":"SB 10.1.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 10.1.11",
+    "description":"Kṛṣṇa, the Supreme Personality of Godhead, has no material body, yet He appears as a human being. For how many years did He live with the descendants of Vṛṣṇi? How many wives did He marry, and for how many years did He live in Dvārakā?"
+}
+---
 ====== SB 10.1.11 ======
 
 ===== Text =====

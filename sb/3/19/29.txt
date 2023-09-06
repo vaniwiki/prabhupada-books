@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.29~~
-~~bc:Text 29~~
-
-{{description>These two personal assistants of the Supreme Lord, having been cursed, have been destined to take birth in demoniac families. After a few such births, they will return to their own positions.}}
-
+---json
+{
+    "name":"SB 3.19.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.19.29",
+    "description":"These two personal assistants of the Supreme Lord, having been cursed, have been destined to take birth in demoniac families. After a few such births, they will return to their own positions."
+}
+---
 ====== SB 3.19.29 ======
 
 > एतौ तौ पार्षदावस्य शापाद्यातावसद्गतिम् ।

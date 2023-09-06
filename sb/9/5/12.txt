@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.5.12~~
-~~bc:Text 12~~
-
-{{description>Śukadeva Gosvāmī continued: When the King offered prayers to the Sudarśana cakra and Lord Viṣṇu, because of his prayers the Sudarśana cakra became peaceful and stopped burning the brāhmaṇa known as Durvāsā Muni.}}
-
+---json
+{
+    "name":"SB 9.5.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 9.5.12",
+    "description":"Śukadeva Gosvāmī continued: When the King offered prayers to the Sudarśana cakra and Lord Viṣṇu, because of his prayers the Sudarśana cakra became peaceful and stopped burning the brāhmaṇa known as Durvāsā Muni."
+}
+---
 ====== SB 9.5.12 ======
 
 ===== Text =====

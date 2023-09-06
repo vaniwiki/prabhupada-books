@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.22~~
-~~bc:Text 22~~
-
-{{description>In the bodily conception of life, one remains in darkness, without self-realization, thinking, "I am being killed" or "I have killed my enemies." As long as a foolish person thus considers the self to be the killer of the killed, he continues to be responsible for material obligations, and consequently he suffers the reactions of happiness and distress.}}
-
+---json
+{
+    "name":"SB 10.4.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 10.4.22",
+    "description":"In the bodily conception of life, one remains in darkness, without self-realization, thinking, "I am being killed" or "I have killed my enemies." As long as a foolish person thus considers the self to be the killer of the killed, he continues to be responsible for material obligations, and consequently he suffers the reactions of happiness and distress."
+}
+---
 ====== SB 10.4.22 ======
 
 ===== Text =====

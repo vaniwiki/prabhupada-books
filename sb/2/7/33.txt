@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.33~~
-~~bc:Text 33~~
-
-{{description>When the Lord was engaged in His pastimes of the rāsa dance in the forest of Vṛndāvana, enlivening the sexual desires of the wives of the inhabitants of Vṛndāvana by sweet and melodious songs, a demon of the name Śaṅkhacūḍa, a rich follower of the treasurer of heaven [Kuvera], kidnapped the damsels, and the Lord severed his head from his trunk.}}
-
+---json
+{
+    "name":"SB 2.7.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 2.7.33",
+    "description":"When the Lord was engaged in His pastimes of the rāsa dance in the forest of Vṛndāvana, enlivening the sexual desires of the wives of the inhabitants of Vṛndāvana by sweet and melodious songs, a demon of the name Śaṅkhacūḍa, a rich follower of the treasurer of heaven [Kuvera], kidnapped the damsels, and the Lord severed his head from his trunk."
+}
+---
 ====== SB 2.7.33 ======
 
 > क्रीडन्वने निशि निशाकररश्मिगौर्यां

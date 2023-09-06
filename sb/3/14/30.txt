@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.30~~
-~~bc:Text 30~~
-
-{{description>Maitreya said: Diti was thus informed by her husband, but she was pressed by Cupid for sexual satisfaction. She caught hold of the clothing of the great brāhmaṇa sage, just like a shameless public prostitute.}}
-
+---json
+{
+    "name":"SB 3.14.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.14.30",
+    "description":"Maitreya said: Diti was thus informed by her husband, but she was pressed by Cupid for sexual satisfaction. She caught hold of the clothing of the great brāhmaṇa sage, just like a shameless public prostitute."
+}
+---
 ====== SB 3.14.30 ======
 
 > मैत्रेय उवाच

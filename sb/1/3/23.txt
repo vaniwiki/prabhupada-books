@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.23~~
-~~bc:Text 23~~
-
-{{description>In the nineteenth and twentieth incarnations, the Lord advented Himself as Lord Balarāma and Lord Kṛṣṇa in the family of Vṛṣṇi [the Yadu dynasty], and by so doing He removed the burden of the world.}}
-
+---json
+{
+    "name":"SB 1.3.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 1.3.23",
+    "description":"In the nineteenth and twentieth incarnations, the Lord advented Himself as Lord Balarāma and Lord Kṛṣṇa in the family of Vṛṣṇi [the Yadu dynasty], and by so doing He removed the burden of the world."
+}
+---
 ====== SB 1.3.23 ======
 
 > एकोनविंशे विंशतिमे वृष्णिषु प्राप्य जन्मनी ।

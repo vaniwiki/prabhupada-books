@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.37~~
-~~bc:Text 37~~
-
-{{description>Dear Lord, Your personal associates, devotees, wander all over the world to purify even the holy places of pilgrimage. Is not such activity pleasing to those who are actually afraid of material existence?}}
-
+---json
+{
+    "name":"SB 4.30.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.30.37",
+    "description":"Dear Lord, Your personal associates, devotees, wander all over the world to purify even the holy places of pilgrimage. Is not such activity pleasing to those who are actually afraid of material existence?"
+}
+---
 ====== SB 4.30.37 ======
 
 > तेषां विचरतां पद्भ्यां तीर्थानां पावनेच्छया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.4~~
-~~bc:Text 4~~
-
-{{description>You rascal, You have been nourished by our enemies to kill us, and You have killed some demons by remaining invisible. O fool, Your power is only mystic, so today I shall enliven my kinsmen by killing You.}}
-
+---json
+{
+    "name":"SB 3.18.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 3.18.4",
+    "description":"You rascal, You have been nourished by our enemies to kill us, and You have killed some demons by remaining invisible. O fool, Your power is only mystic, so today I shall enliven my kinsmen by killing You."
+}
+---
 ====== SB 3.18.4 ======
 
 > त्वं नः सपत्नैरभवाय किं भृतो यो मायया हन्त्यसुरान्परोक्षजित् ।

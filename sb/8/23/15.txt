@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.15~~
-~~bc:Text 15~~
-
-{{description>Śukrācārya said: My Lord, You are the enjoyer and lawgiver in all performances of sacrifice, and You are the yajña-puruṣa, the person to whom all sacrifices are offered. If one has fully satisfied You, where is the chance of discrepancies or faults in his performances of sacrifice?}}
-
+---json
+{
+    "name":"SB 8.23.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.23.15",
+    "description":"Śukrācārya said: My Lord, You are the enjoyer and lawgiver in all performances of sacrifice, and You are the yajña-puruṣa, the person to whom all sacrifices are offered. If one has fully satisfied You, where is the chance of discrepancies or faults in his performances of sacrifice?"
+}
+---
 ====== SB 8.23.15 ======
 
 ===== Text =====

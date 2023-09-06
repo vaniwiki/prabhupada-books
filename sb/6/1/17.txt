@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.17~~
-~~bc:Text 17~~
-
-{{description>The path followed by pure devotees, who are well behaved and fully endowed with the best qualifications, is certainly the most auspicious path in this material world. It is free from fear, and it is authorized by the śāstras.}}
-
+---json
+{
+    "name":"SB 6.1.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 6.1.17",
+    "description":"The path followed by pure devotees, who are well behaved and fully endowed with the best qualifications, is certainly the most auspicious path in this material world. It is free from fear, and it is authorized by the śāstras."
+}
+---
 ====== SB 6.1.17 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.42~~
-~~bc:Text 42~~
-
-{{description>In the next millennium, I again appeared from the two of you, who appeared as My mother, Aditi, and My father, Kaśyapa. I was known as Upendra, and because of being a dwarf, I was also known as Vāmana.}}
-
+---json
+{
+    "name":"SB 10.3.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 10.3.42",
+    "description":"In the next millennium, I again appeared from the two of you, who appeared as My mother, Aditi, and My father, Kaśyapa. I was known as Upendra, and because of being a dwarf, I was also known as Vāmana."
+}
+---
 ====== SB 10.3.42 ======
 
 ===== Text =====

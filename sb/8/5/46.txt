@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.46~~
-~~bc:Text 46~~
-
-{{description>O Lord, O Supreme Personality of Godhead, by Your sweet will You appear in various incarnations, millennium after millennium, and act wonderfully, performing uncommon activities that would be impossible for us.}}
-
+---json
+{
+    "name":"SB 8.5.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 8.5.46",
+    "description":"O Lord, O Supreme Personality of Godhead, by Your sweet will You appear in various incarnations, millennium after millennium, and act wonderfully, performing uncommon activities that would be impossible for us."
+}
+---
 ====== SB 8.5.46 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.62~~
-~~bc:Text 62~~
-
-{{description>The palace of the King was surrounded by walls made of marble with many engravings made of valuable jewels like sapphires, which depicted beautiful women with shining jewel lamps in their hands.}}
-
+---json
+{
+    "name":"SB 4.9.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 4.9.62",
+    "description":"The palace of the King was surrounded by walls made of marble with many engravings made of valuable jewels like sapphires, which depicted beautiful women with shining jewel lamps in their hands."
+}
+---
 ====== SB 4.9.62 ======
 
 > यत्र स्फटिककुड्येषु महामारकतेषु च ।

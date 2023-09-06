@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.12~~
-~~bc:Text 12~~
-
-{{description>Manifesting Himself with thousands of hands, the Lord then appeared on the summit of Mandara Mountain, like another great mountain, and held Mandara Mountain with one hand. In the upper planetary systems, Lord Brahmā and Lord Śiva, along with Indra, King of heaven, and other demigods, offered prayers to the Lord and showered flowers upon Him.}}
-
+---json
+{
+    "name":"SB 8.7.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 8.7.12",
+    "description":"Manifesting Himself with thousands of hands, the Lord then appeared on the summit of Mandara Mountain, like another great mountain, and held Mandara Mountain with one hand. In the upper planetary systems, Lord Brahmā and Lord Śiva, along with Indra, King of heaven, and other demigods, offered prayers to the Lord and showered flowers upon Him."
+}
+---
 ====== SB 8.7.12 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.21~~
-~~bc:Text 21~~
-
-{{description>This matter is undoubtedly very wonderful. Indeed, my intelligence has become disturbed, just as the flame of a candle is disturbed by a blowing wind. O Nārada Muni, you know everything. Kindly let me know the cause of this wonderful event.}}
-
+---json
+{
+    "name":"SB 7.1.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 7.1.21",
+    "description":"This matter is undoubtedly very wonderful. Indeed, my intelligence has become disturbed, just as the flame of a candle is disturbed by a blowing wind. O Nārada Muni, you know everything. Kindly let me know the cause of this wonderful event."
+}
+---
 ====== SB 7.1.21 ======
 
 ===== Text =====

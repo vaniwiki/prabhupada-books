@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.16~~
-~~bc:Text 16~~
-
-{{description>Kindly let me know the whereabouts of that beautiful woman who always saves me when I am drowning in the ocean of danger. By giving me good intelligence at every step, she always saves me.}}
-
+---json
+{
+    "name":"SB 4.26.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.26.16",
+    "description":"Kindly let me know the whereabouts of that beautiful woman who always saves me when I am drowning in the ocean of danger. By giving me good intelligence at every step, she always saves me."
+}
+---
 ====== SB 4.26.16 ======
 
 > क्व वर्तते सा ललना मज्जन्तं व्यसनार्णवे ।

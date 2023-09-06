@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.17~~
-~~bc:Text 17~~
-
-{{description>Formerly it was explained that the Queen is one's intelligence. While one is awake or asleep, that intelligence creates different situations. Being influenced by contaminated intelligence, the living entity envisions something and simply imitates the actions and reactions of his intelligence.}}
-
+---json
+{
+    "name":"SB 4.29.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.29.17",
+    "description":"Formerly it was explained that the Queen is one's intelligence. While one is awake or asleep, that intelligence creates different situations. Being influenced by contaminated intelligence, the living entity envisions something and simply imitates the actions and reactions of his intelligence."
+}
+---
 ====== SB 4.29.17 ======
 
 > यथा यथा विक्रियते गुणाक्तो विकरोति वा ।

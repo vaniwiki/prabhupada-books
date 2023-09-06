@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.31~~
-~~bc:Text 31~~
-
-{{description>Of these possessions, with one step I have occupied Bhūrloka, and with My body I have occupied the entire sky and all directions. And in your presence, with My second step, I have occupied the upper planetary system.}}
-
+---json
+{
+    "name":"SB 8.21.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.21.31",
+    "description":"Of these possessions, with one step I have occupied Bhūrloka, and with My body I have occupied the entire sky and all directions. And in your presence, with My second step, I have occupied the upper planetary system."
+}
+---
 ====== SB 8.21.31 ======
 
 ===== Text =====

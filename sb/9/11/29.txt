@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.29~~
-~~bc:Text 29~~
-
-{{description>Wherever Lord Rāmacandra visited, the people approached Him with paraphernalia of worship and begged the Lord's blessings. "O Lord," they said, "as You rescued the earth from the bottom of the sea in Your incarnation as a boar, may You now maintain it. Thus we beg Your blessings."}}
-
+---json
+{
+    "name":"SB 9.11.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 9.11.29",
+    "description":"Wherever Lord Rāmacandra visited, the people approached Him with paraphernalia of worship and begged the Lord's blessings. "O Lord," they said, "as You rescued the earth from the bottom of the sea in Your incarnation as a boar, may You now maintain it. Thus we beg Your blessings.""
+}
+---
 ====== SB 9.11.29 ======
 
 ===== Text =====

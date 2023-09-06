@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.26~~
-~~bc:Text 26~~
-
-{{description>Moving about in the ocean for many, many years, the mighty Hiraṇyākṣa smote the gigantic wind-tossed waves again and again with his iron mace and reached Vibhāvarī, the capital of Varuṇa.}}
-
+---json
+{
+    "name":"SB 3.17.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.17.26",
+    "description":"Moving about in the ocean for many, many years, the mighty Hiraṇyākṣa smote the gigantic wind-tossed waves again and again with his iron mace and reached Vibhāvarī, the capital of Varuṇa."
+}
+---
 ====== SB 3.17.26 ======
 
 > स वर्षपूगानुदधौ महाबलश्चरन्महोर्मीञ्छ्वसनेरितान्मुहुः ।

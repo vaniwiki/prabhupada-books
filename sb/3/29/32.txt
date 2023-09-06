@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.32~~
-~~bc:Text 32~~
-
-{{description>Better than the brāhmaṇa who knows the purpose of the Vedas is he who can dissipate all doubts, and better than him is one who strictly follows the brahminical principles. Better than him is one who is liberated from all material contamination, and better than him is a pure devotee, who executes devotional service without expectation of reward.}}
-
+---json
+{
+    "name":"SB 3.29.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 3.29.32",
+    "description":"Better than the brāhmaṇa who knows the purpose of the Vedas is he who can dissipate all doubts, and better than him is one who strictly follows the brahminical principles. Better than him is one who is liberated from all material contamination, and better than him is a pure devotee, who executes devotional service without expectation of reward."
+}
+---
 ====== SB 3.29.32 ======
 
 > अर्थज्ञात्संशयच्छेत्ता ततः श्रेयान्स्वकर्मकृत् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.12~~
-~~bc:Text 12~~
-
-{{description>O King, this time factor enhances the sattva-guṇa. Thus although the Supreme Lord is the controller, He favors the demigods, who are mostly situated in sattva-guṇa. Then the demons, who are influenced by tamo-guṇa, are annihilated. The Supreme Lord induces the time factor to act in different ways, but He is never partial. Rather, His activities are glorious, and therefore He is called Uruśravā.}}
-
+---json
+{
+    "name":"SB 7.1.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.1.12",
+    "description":"O King, this time factor enhances the sattva-guṇa. Thus although the Supreme Lord is the controller, He favors the demigods, who are mostly situated in sattva-guṇa. Then the demons, who are influenced by tamo-guṇa, are annihilated. The Supreme Lord induces the time factor to act in different ways, but He is never partial. Rather, His activities are glorious, and therefore He is called Uruśravā."
+}
+---
 ====== SB 7.1.12 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.2~~
-~~bc:Text 2~~
-
-{{description>Lord Brahmā said: O Hiraṇyakaśipu, these benedictions for which you have asked are difficult to obtain for most men. Nonetheless, O my son, I shall grant you them although they are generally not available.}}
-
+---json
+{
+    "name":"SB 7.4.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 7.4.2",
+    "description":"Lord Brahmā said: O Hiraṇyakaśipu, these benedictions for which you have asked are difficult to obtain for most men. Nonetheless, O my son, I shall grant you them although they are generally not available."
+}
+---
 ====== SB 7.4.2 ======
 
 ===== Text =====

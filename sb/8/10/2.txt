@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.2~~
-~~bc:Text 2~~
-
-{{description>O King, after the Supreme Personality of Godhead had brought to completion the affairs of churning the ocean and feeding the nectar to the demigods, who are His dear devotees, He left the presence of them all and was carried by Garuḍa to His own abode.}}
-
+---json
+{
+    "name":"SB 8.10.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.10.2",
+    "description":"O King, after the Supreme Personality of Godhead had brought to completion the affairs of churning the ocean and feeding the nectar to the demigods, who are His dear devotees, He left the presence of them all and was carried by Garuḍa to His own abode."
+}
+---
 ====== SB 8.10.2 ======
 
 ===== Text =====

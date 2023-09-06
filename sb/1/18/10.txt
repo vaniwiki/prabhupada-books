@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.10~~
-~~bc:Text 10~~
-
-{{description>Those who are desirous of achieving complete perfection in life must submissively hear all topics that are connected with the transcendental activities and qualities of the Personality of Godhead, who acts wonderfully.}}
-
+---json
+{
+    "name":"SB 1.18.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 1.18.10",
+    "description":"Those who are desirous of achieving complete perfection in life must submissively hear all topics that are connected with the transcendental activities and qualities of the Personality of Godhead, who acts wonderfully."
+}
+---
 ====== SB 1.18.10 ======
 
 > या याः कथा भगवतः कथनीयोरुकर्मणः ।

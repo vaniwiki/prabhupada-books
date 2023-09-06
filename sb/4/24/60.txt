@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.60~~
-~~bc:Text 60~~
-
-{{description>My dear Lord, the impersonal Brahman spreads everywhere, like the sunshine or the sky. And that impersonal Brahman, which spreads throughout the universe and in which the entire universe is manifested, is You.}}
-
+---json
+{
+    "name":"SB 4.24.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 4.24.60",
+    "description":"My dear Lord, the impersonal Brahman spreads everywhere, like the sunshine or the sky. And that impersonal Brahman, which spreads throughout the universe and in which the entire universe is manifested, is You."
+}
+---
 ====== SB 4.24.60 ======
 
 > यत्रेदं व्यज्यते विश्वं विश्वस्मिन्नवभाति यत् ।

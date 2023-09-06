@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.69~~
-~~bc:Text 69~~
-
-{{description>Kṛṣṇa consciousness means constantly associating with the Supreme Personality of Godhead in such a mental state that the devotee can observe the cosmic manifestation exactly as the Supreme Personality of Godhead does. Such observation is not always possible, but it becomes manifest exactly like the dark planet known as Rāhu, which is observed in the presence of the full moon.}}
-
+---json
+{
+    "name":"SB 4.29.69",
+    "h1":"Text 69",
+    "title":" Śrīmad Bhāgavatam 4.29.69",
+    "description":"Kṛṣṇa consciousness means constantly associating with the Supreme Personality of Godhead in such a mental state that the devotee can observe the cosmic manifestation exactly as the Supreme Personality of Godhead does. Such observation is not always possible, but it becomes manifest exactly like the dark planet known as Rāhu, which is observed in the presence of the full moon."
+}
+---
 ====== SB 4.29.69 ======
 
 > सत्त्वैकनिष्ठे मनसि भगवत्पार्श्ववर्तिनि ।

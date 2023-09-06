@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.4~~
-~~bc:Text 4~~
-
-{{description>The great ṛṣi Śukadeva Gosvāmī said: My dear King, there is no limit to the expansion of the Supreme Personality of Godhead's material energy. This material world is a transformation of the material qualities [sattva-guṇa, rajo-guṇa and tamo-guṇa], yet no one could possibly explain it perfectly, even in a lifetime as long as that of Brahmā No one in the material world is perfect, and an imperfect person could not describe this material universe accurately, even after continued speculation. O King, I shall nevertheless try to explain to you the principal regions, such as Bhū-goloka [Bhūloka], with their names, forms, measurements and various symptoms.}}
-
+---json
+{
+    "name":"SB 5.16.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 5.16.4",
+    "description":"The great ṛṣi Śukadeva Gosvāmī said: My dear King, there is no limit to the expansion of the Supreme Personality of Godhead's material energy. This material world is a transformation of the material qualities [sattva-guṇa, rajo-guṇa and tamo-guṇa], yet no one could possibly explain it perfectly, even in a lifetime as long as that of Brahmā No one in the material world is perfect, and an imperfect person could not describe this material universe accurately, even after continued speculation. O King, I shall nevertheless try to explain to you the principal regions, such as Bhū-goloka [Bhūloka], with their names, forms, measurements and various symptoms."
+}
+---
 ====== SB 5.16.4 ======
 
 ===== Text =====

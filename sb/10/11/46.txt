@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.46~~
-~~bc:Text 46~~
-
-{{description>One day all the boys, including Kṛṣṇa and Balarāma, each boy taking his own group of calves, brought the calves to a reservoir of water, desiring to allow them to drink. After the animals drank water, the boys drank water there also.}}
-
+---json
+{
+    "name":"SB 10.11.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 10.11.46",
+    "description":"One day all the boys, including Kṛṣṇa and Balarāma, each boy taking his own group of calves, brought the calves to a reservoir of water, desiring to allow them to drink. After the animals drank water, the boys drank water there also."
+}
+---
 ====== SB 10.11.46 ======
 
 ===== Text =====

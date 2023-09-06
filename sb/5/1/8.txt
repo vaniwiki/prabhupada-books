@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.8~~
-~~bc:Text 8~~
-
-{{description>As Lord Brahmā descended on his carrier, the great swan, all the residents of the planets named Siddhaloka, Gandharvaloka, Sādhyaloka and Cāraṇaloka, as well as great sages and demigods flying in their different airplanes, assembled within the canopy of the sky to receive Lord Brahmā and worship him. As he received respect and adoration from the residents of the various planets, Lord Brahmā appeared just like the full moon surrounded by illuminating stars. Lord Brahmā's great swan then arrived at the border of Gandhamādana Hill and approached Prince Priyavrata, who was sitting there.}}
-
+---json
+{
+    "name":"SB 5.1.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.1.8",
+    "description":"As Lord Brahmā descended on his carrier, the great swan, all the residents of the planets named Siddhaloka, Gandharvaloka, Sādhyaloka and Cāraṇaloka, as well as great sages and demigods flying in their different airplanes, assembled within the canopy of the sky to receive Lord Brahmā and worship him. As he received respect and adoration from the residents of the various planets, Lord Brahmā appeared just like the full moon surrounded by illuminating stars. Lord Brahmā's great swan then arrived at the border of Gandhamādana Hill and approached Prince Priyavrata, who was sitting there."
+}
+---
 ====== SB 5.1.8 ======
 
 ===== Text =====

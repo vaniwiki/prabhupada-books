@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.44~~
-~~bc:Text 44~~
-
-{{description>The daughter of King Vidarbha wore old garments, and she was lean and thin because of her vows of austerity. Since she did not arrange her hair, it became entangled and twisted in locks. Although she remained always near her husband, she was as silent and unagitated as the flame of an undisturbed fire.}}
-
+---json
+{
+    "name":"SB 4.28.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 4.28.44",
+    "description":"The daughter of King Vidarbha wore old garments, and she was lean and thin because of her vows of austerity. Since she did not arrange her hair, it became entangled and twisted in locks. Although she remained always near her husband, she was as silent and unagitated as the flame of an undisturbed fire."
+}
+---
 ====== SB 4.28.44 ======
 
 > चीरवासा व्रतक्षामा वेणीभूतशिरोरुहा ।

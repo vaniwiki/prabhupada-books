@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.2~~
-~~bc:Text 2~~
-
-{{description>O King Parīkṣit, great sages who were completely aware of the Vedic ritualistic ceremonies took charge of that surabhi cow, which produced all the yogurt, milk and ghee absolutely necessary for offering oblations into the fire. They did this just for the sake of pure ghee, which they wanted for the performance of sacrifices to elevate themselves to the higher planetary systems, up to Brahmaloka.}}
-
+---json
+{
+    "name":"SB 8.8.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.8.2",
+    "description":"O King Parīkṣit, great sages who were completely aware of the Vedic ritualistic ceremonies took charge of that surabhi cow, which produced all the yogurt, milk and ghee absolutely necessary for offering oblations into the fire. They did this just for the sake of pure ghee, which they wanted for the performance of sacrifices to elevate themselves to the higher planetary systems, up to Brahmaloka."
+}
+---
 ====== SB 8.8.2 ======
 
 ===== Text =====

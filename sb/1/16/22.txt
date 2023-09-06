@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.16.22~~
-~~bc:Text 22~~
-
-{{description>The so-called administrators are now bewildered by the influence of this age of Kali, and thus they have put all state affairs into disorder. Are you now lamenting this disorder? Now the general populace does not follow the rules and regulations for eating, sleeping, drinking, mating, etc., and they are inclined to perform such anywhere and everywhere. Are you unhappy because of this?}}
-
+---json
+{
+    "name":"SB 1.16.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.16.22",
+    "description":"The so-called administrators are now bewildered by the influence of this age of Kali, and thus they have put all state affairs into disorder. Are you now lamenting this disorder? Now the general populace does not follow the rules and regulations for eating, sleeping, drinking, mating, etc., and they are inclined to perform such anywhere and everywhere. Are you unhappy because of this?"
+}
+---
 ====== SB 1.16.22 ======
 
 > किं क्षत्रबन्धून्कलिनोपसृष्टान्राष्ट्राणि वा तैरवरोपितानि ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.11~~
-~~bc:Text 11~~
-
-{{description>The three puruṣas—Kāraṇodakaśāyī Viṣṇu, Garbhodakaśāyī Viṣṇu and Kṣīrodakaśāyī-Viṣṇu—the material nature, the total material energy, the false ego, the five material elements, the material senses, the mind, the intelligence and consciousness cannot create the material manifestation without the direction of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 6.12.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 6.12.11",
+    "description":"The three puruṣas—Kāraṇodakaśāyī Viṣṇu, Garbhodakaśāyī Viṣṇu and Kṣīrodakaśāyī-Viṣṇu—the material nature, the total material energy, the false ego, the five material elements, the material senses, the mind, the intelligence and consciousness cannot create the material manifestation without the direction of the Supreme Personality of Godhead."
+}
+---
 ====== SB 6.12.11 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.17~~
-~~bc:Text 17~~
-
-{{description>However, persons who have given up stereotyped worldly affairs and the beastly followers of these affairs, and who have taken shelter of the umbrella of Your lotus feet by drinking the intoxicating nectar of Your qualities and activities in discussions with one another, can be freed from the primary necessities of the material body.}}
-
+---json
+{
+    "name":"SB 3.21.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.21.17",
+    "description":"However, persons who have given up stereotyped worldly affairs and the beastly followers of these affairs, and who have taken shelter of the umbrella of Your lotus feet by drinking the intoxicating nectar of Your qualities and activities in discussions with one another, can be freed from the primary necessities of the material body."
+}
+---
 ====== SB 3.21.17 ======
 
 > लोकांश्च लोकानुगतान्पशूंश्च हित्वा श्रितास्ते चरणातपत्रम् ।

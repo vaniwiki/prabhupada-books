@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.14~~
-~~bc:Text 14~~
-
-{{description>Being bound by the ropes of Varuṇa, Bali Mahārāja could not offer befitting respect to Prahlāda Mahārāja as he had before. Rather, he simply offered respectful obeisances with his head, his eyes being inundated with tears and his face lowered in shame.}}
-
+---json
+{
+    "name":"SB 8.22.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.22.14",
+    "description":"Being bound by the ropes of Varuṇa, Bali Mahārāja could not offer befitting respect to Prahlāda Mahārāja as he had before. Rather, he simply offered respectful obeisances with his head, his eyes being inundated with tears and his face lowered in shame."
+}
+---
 ====== SB 8.22.14 ======
 
 ===== Text =====

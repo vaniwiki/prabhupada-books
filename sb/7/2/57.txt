@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.57~~
-~~bc:Text 57~~
-
-{{description>Thus Yamarāja, in the guise of a small boy, told all the queens: You are all so foolish that you lament but do not see your own death. Afflicted by a poor fund of knowledge, you do not know that even if you lament for your dead husband for hundreds of years, you will never get him back alive, and in the meantime your lives will be finished.}}
-
+---json
+{
+    "name":"SB 7.2.57",
+    "h1":"Text 57",
+    "title":" Śrīmad Bhāgavatam 7.2.57",
+    "description":"Thus Yamarāja, in the guise of a small boy, told all the queens: You are all so foolish that you lament but do not see your own death. Afflicted by a poor fund of knowledge, you do not know that even if you lament for your dead husband for hundreds of years, you will never get him back alive, and in the meantime your lives will be finished."
+}
+---
 ====== SB 7.2.57 ======
 
 ===== Text =====

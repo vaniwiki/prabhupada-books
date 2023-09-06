@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.17~~
-~~bc:Text 17~~
-
-{{description>[This is the mantra by which the inhabitants of Kuśadvīpa worship the fire-god.] O fire-god, you are a part of the Supreme Personality of Godhead, Hari, and you carry to Him all the offerings of sacrifices. Therefore we request you to offer to the Supreme Personality of Godhead the yajñic ingredients we are offering the demigods, for the Lord is the real enjoyer.}}
-
+---json
+{
+    "name":"SB 5.20.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 5.20.17",
+    "description":"[This is the mantra by which the inhabitants of Kuśadvīpa worship the fire-god.] O fire-god, you are a part of the Supreme Personality of Godhead, Hari, and you carry to Him all the offerings of sacrifices. Therefore we request you to offer to the Supreme Personality of Godhead the yajñic ingredients we are offering the demigods, for the Lord is the real enjoyer."
+}
+---
 ====== SB 5.20.17 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.42~~
-~~bc:Text 42~~
-
-{{description>Nārada very much pleased his father and desired to know all about the energies of Viṣṇu, the master of all energies, for Nārada was the greatest of all sages and greatest of all devotees, O King.}}
-
+---json
+{
+    "name":"SB 2.9.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 2.9.42",
+    "description":"Nārada very much pleased his father and desired to know all about the energies of Viṣṇu, the master of all energies, for Nārada was the greatest of all sages and greatest of all devotees, O King."
+}
+---
 ====== SB 2.9.42 ======
 
 > मायां विविदिषन्विष्णोर्मायेशस्य महामुनिः ।

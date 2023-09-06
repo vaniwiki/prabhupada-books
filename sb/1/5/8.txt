@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.8~~
-~~bc:Text 8~~
-
-{{description>Śrī Nārada said: You have not actually broadcast the sublime and spotless glories of the Personality of Godhead. That philosophy which does not satisfy the transcendental senses of the Lord is considered worthless.}}
-
+---json
+{
+    "name":"SB 1.5.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 1.5.8",
+    "description":"Śrī Nārada said: You have not actually broadcast the sublime and spotless glories of the Personality of Godhead. That philosophy which does not satisfy the transcendental senses of the Lord is considered worthless."
+}
+---
 ====== SB 1.5.8 ======
 
 > श्रीनारद उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.9~~
-~~bc:Text 9~~
-
-{{description>The Lord continued: Those who remember you every evening of every day will become friendly with their brothers and with all other living entities.}}
-
+---json
+{
+    "name":"SB 4.30.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.30.9",
+    "description":"The Lord continued: Those who remember you every evening of every day will become friendly with their brothers and with all other living entities."
+}
+---
 ====== SB 4.30.9 ======
 
 > योऽनुस्मरति सन्ध्यायां युष्माननुदिनं नरः ।

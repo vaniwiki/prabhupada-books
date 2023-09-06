@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.22.38~~
-~~bc:Text 38~~
-
-{{description>In reply to questions asked by certain sages, he [Svāyambhuva Manu], out of compassion for all living entities, taught the diverse sacred duties of men in general and the different varṇas and āśramas.}}
-
+---json
+{
+    "name":"SB 3.22.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 3.22.38",
+    "description":"In reply to questions asked by certain sages, he [Svāyambhuva Manu], out of compassion for all living entities, taught the diverse sacred duties of men in general and the different varṇas and āśramas."
+}
+---
 ====== SB 3.22.38 ======
 
 > यः पृष्टो मुनिभिः प्राह धर्मान्नानाविधान्छुभान् ।

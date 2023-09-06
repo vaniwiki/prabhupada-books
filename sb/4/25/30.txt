@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.30~~
-~~bc:Text 30~~
-
-{{description>Certainly your glancing upon me today has very much agitated my mind. Your smile, which is full of shyness but at the same time lusty, is agitating the most powerful cupid within me. Therefore, O most beautiful, I ask you to be merciful upon me.}}
-
+---json
+{
+    "name":"SB 4.25.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.25.30",
+    "description":"Certainly your glancing upon me today has very much agitated my mind. Your smile, which is full of shyness but at the same time lusty, is agitating the most powerful cupid within me. Therefore, O most beautiful, I ask you to be merciful upon me."
+}
+---
 ====== SB 4.25.30 ======
 
 > यदेष मापाङ्गविखण्डितेन्द्रियं सव्रीडभावस्मितविभ्रमद्भ्रुवा ।

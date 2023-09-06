@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.5~~
-~~bc:Text 5~~
-
-{{description>The King replied: O great soul, Nārada, my intelligence is entangled in fruitive activities; therefore I do not know the ultimate goal of life. Kindly instruct me in pure knowledge so that I can get out of the entanglement of fruitive activities.}}
-
+---json
+{
+    "name":"SB 4.25.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.25.5",
+    "description":"The King replied: O great soul, Nārada, my intelligence is entangled in fruitive activities; therefore I do not know the ultimate goal of life. Kindly instruct me in pure knowledge so that I can get out of the entanglement of fruitive activities."
+}
+---
 ====== SB 4.25.5 ======
 
 > राजोवाच

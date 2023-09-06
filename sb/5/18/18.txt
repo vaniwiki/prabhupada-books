@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.18~~
-~~bc:Text 18~~
-
-{{description>Let me offer my respectful obeisances unto the Supreme Personality of Godhead, Lord Hṛṣīkeśa, the controller of all my senses and the origin of everything. As the supreme master of all bodily, mental and intellectual activities, He is the only enjoyer of their results. The five sense objects and eleven senses, including the mind, are His partial manifestations. He supplies all the necessities of life, which are His energy and thus nondifferent from Him, and He is the cause of everyone's bodily and mental prowess, which is also nondifferent from Him. Indeed, He is the husband and provider of necessities for all living entities. The purpose of all the Vedas is to worship Him. Therefore let us all offer Him our respectful obeisances. May He always be favorable toward us in this life and the next.}}
-
+---json
+{
+    "name":"SB 5.18.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 5.18.18",
+    "description":"Let me offer my respectful obeisances unto the Supreme Personality of Godhead, Lord Hṛṣīkeśa, the controller of all my senses and the origin of everything. As the supreme master of all bodily, mental and intellectual activities, He is the only enjoyer of their results. The five sense objects and eleven senses, including the mind, are His partial manifestations. He supplies all the necessities of life, which are His energy and thus nondifferent from Him, and He is the cause of everyone's bodily and mental prowess, which is also nondifferent from Him. Indeed, He is the husband and provider of necessities for all living entities. The purpose of all the Vedas is to worship Him. Therefore let us all offer Him our respectful obeisances. May He always be favorable toward us in this life and the next."
+}
+---
 ====== SB 5.18.18 ======
 
 ===== Text =====

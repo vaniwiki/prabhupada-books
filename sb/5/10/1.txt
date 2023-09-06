@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī continued: My dear King, after this, King Rahūgaṇa, ruler of the states known as Sindhu and Sauvīra, was going to Kapilāśrama. When the King's chief palanquin carriers reached the banks of the River Ikṣumatī, they needed another carrier. Therefore they began searching for someone, and by chance they came upon Jaḍa Bharata. They considered the fact that Jaḍa Bharata was very young and strong and had firm limbs. Like cows and asses, he was quite fit to carry loads. Thinking in this way, although the great soul Jaḍa Bharata was unfit for such work, they nonetheless unhesitatingly forced him to carry the palanquin.}}
-
+---json
+{
+    "name":"SB 5.10.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.10.1",
+    "description":"Śukadeva Gosvāmī continued: My dear King, after this, King Rahūgaṇa, ruler of the states known as Sindhu and Sauvīra, was going to Kapilāśrama. When the King's chief palanquin carriers reached the banks of the River Ikṣumatī, they needed another carrier. Therefore they began searching for someone, and by chance they came upon Jaḍa Bharata. They considered the fact that Jaḍa Bharata was very young and strong and had firm limbs. Like cows and asses, he was quite fit to carry loads. Thinking in this way, although the great soul Jaḍa Bharata was unfit for such work, they nonetheless unhesitatingly forced him to carry the palanquin."
+}
+---
 ====== SB 5.10.1 ======
 
 ===== Text =====

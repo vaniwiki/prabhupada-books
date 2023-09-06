@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.58~~
-~~bc:Text 58~~
-
-{{description>Hiraṇyakaśipu said: While Yamarāja, in the form of a small boy, was instructing all the relatives surrounding the dead body of Suyajña, everyone was struck with wonder by his philosophical words. They could understand that everything material is temporary, not continuing to exist.}}
-
+---json
+{
+    "name":"SB 7.2.58",
+    "h1":"Text 58",
+    "title":" Śrīmad Bhāgavatam 7.2.58",
+    "description":"Hiraṇyakaśipu said: While Yamarāja, in the form of a small boy, was instructing all the relatives surrounding the dead body of Suyajña, everyone was struck with wonder by his philosophical words. They could understand that everything material is temporary, not continuing to exist."
+}
+---
 ====== SB 7.2.58 ======
 
 ===== Text =====

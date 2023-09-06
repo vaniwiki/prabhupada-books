@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.23~~
-~~bc:Text 23~~
-
-{{description>After the end of Brahmā's night, the creation of the three worlds begins again in the daytime of Brahmā, and they continue to exist through the life durations of fourteen consecutive Manus, or fathers of mankind.}}
-
+---json
+{
+    "name":"SB 3.11.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.11.23",
+    "description":"After the end of Brahmā's night, the creation of the three worlds begins again in the daytime of Brahmā, and they continue to exist through the life durations of fourteen consecutive Manus, or fathers of mankind."
+}
+---
 ====== SB 3.11.23 ======
 
 > निशावसान आरब्धो लोककल्पोऽनुवर्तते ।

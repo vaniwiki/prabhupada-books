@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.69~~
-~~bc:Text 69~~
-
-{{description>Thereafter, Diti said to Indra: My dear son, I adhered to this difficult vow just to get a son to kill you twelve Ādityas.}}
-
+---json
+{
+    "name":"SB 6.18.69",
+    "h1":"Text 69",
+    "title":" Śrīmad Bhāgavatam 6.18.69",
+    "description":"Thereafter, Diti said to Indra: My dear son, I adhered to this difficult vow just to get a son to kill you twelve Ādityas."
+}
+---
 ====== SB 6.18.69 ======
 
 ===== Text =====

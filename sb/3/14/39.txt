@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.39~~
-~~bc:Text 39~~
-
-{{description>O haughty one, you will have two contemptuous sons born of your condemned womb. Unlucky woman, they will cause constant lamentation to all the three worlds!}}
-
+---json
+{
+    "name":"SB 3.14.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 3.14.39",
+    "description":"O haughty one, you will have two contemptuous sons born of your condemned womb. Unlucky woman, they will cause constant lamentation to all the three worlds!"
+}
+---
 ====== SB 3.14.39 ======
 
 > भविष्यतस्तवाभद्रावभद्रे जाठराधमौ ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.35~~
-~~bc:Text 35~~
-
-{{description>That Supreme Personality of Godhead Śrī Kṛṣṇa, out of His causeless mercy, appeared on this planet by His internal potency and enjoyed Himself amongst competent women as if He were engaging in mundane affairs.}}
-
+---json
+{
+    "name":"SB 1.11.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 1.11.35",
+    "description":"That Supreme Personality of Godhead Śrī Kṛṣṇa, out of His causeless mercy, appeared on this planet by His internal potency and enjoyed Himself amongst competent women as if He were engaging in mundane affairs."
+}
+---
 ====== SB 1.11.35 ======
 
 > स एष नरलोकेऽस्मिन्नवतीर्णः स्वमायया ।

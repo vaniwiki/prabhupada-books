@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.9~~
-~~bc:Text 9~~
-
-{{description>The measuring pot for one nāḍikā, or daṇḍa, can be prepared with a six-pala-weight [fourteen ounce] pot of copper, in which a hole is bored with a gold probe weighing four māṣa and measuring four fingers long. When the pot is placed on water, the time before the water overflows in the pot is called one daṇḍa.}}
-
+---json
+{
+    "name":"SB 3.11.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.11.9",
+    "description":"The measuring pot for one nāḍikā, or daṇḍa, can be prepared with a six-pala-weight [fourteen ounce] pot of copper, in which a hole is bored with a gold probe weighing four māṣa and measuring four fingers long. When the pot is placed on water, the time before the water overflows in the pot is called one daṇḍa."
+}
+---
 ====== SB 3.11.9 ======
 
 > द्वादशार्धपलोन्मानं चतुर्भिश्चतुरङ्गुलैः ।

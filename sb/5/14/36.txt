@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.36~~
-~~bc:Text 36~~
-
-{{description>Sometimes, having no money, the conditioned soul does not get sufficient accommodations. Sometimes he doesn't even have a place to sit, nor does he have the other necessities. In other words, he falls into scarcity, and at that time, when he is unable to secure the necessities by fair means, he decides to seize the property of others unfairly. When he cannot get the things he wants, he simply receives insults from others and thus becomes very morose.}}
-
+---json
+{
+    "name":"SB 5.14.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 5.14.36",
+    "description":"Sometimes, having no money, the conditioned soul does not get sufficient accommodations. Sometimes he doesn't even have a place to sit, nor does he have the other necessities. In other words, he falls into scarcity, and at that time, when he is unable to secure the necessities by fair means, he decides to seize the property of others unfairly. When he cannot get the things he wants, he simply receives insults from others and thus becomes very morose."
+}
+---
 ====== SB 5.14.36 ======
 
 ===== Text =====

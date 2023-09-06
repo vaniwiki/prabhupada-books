@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.11.16~~
-~~bc:Text 16~~
-
-{{description>The soul's designation, the mind, is the cause of all tribulations in the material world. As long as this fact is unknown to the conditioned living entity, he has to accept the miserable condition of the material body and wander within this universe in different positions. Because the mind is affected by disease, lamentation, illusion, attachment, greed and enmity, it creates bondage and a false sense of intimacy within this material world.}}
-
+---json
+{
+    "name":"SB 5.11.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 5.11.16",
+    "description":"The soul's designation, the mind, is the cause of all tribulations in the material world. As long as this fact is unknown to the conditioned living entity, he has to accept the miserable condition of the material body and wander within this universe in different positions. Because the mind is affected by disease, lamentation, illusion, attachment, greed and enmity, it creates bondage and a false sense of intimacy within this material world."
+}
+---
 ====== SB 5.11.16 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.6~~
-~~bc:Text 6~~
-
-{{description>From the womb of Kakud came the son named Saṅkaṭa, whose son was named Kīkaṭa. From Kīkaṭa came the demigods named Durgā. From Yāmi came the son named Svarga, whose son was named Nandi.}}
-
+---json
+{
+    "name":"SB 6.6.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 6.6.6",
+    "description":"From the womb of Kakud came the son named Saṅkaṭa, whose son was named Kīkaṭa. From Kīkaṭa came the demigods named Durgā. From Yāmi came the son named Svarga, whose son was named Nandi."
+}
+---
 ====== SB 6.6.6 ======
 
 ===== Text =====

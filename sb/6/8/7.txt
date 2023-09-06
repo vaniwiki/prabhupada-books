@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.7~~
-~~bc:Text 7~~
-
-{{description>Then one should chant the mantra composed of twelve syllables [oṁ namo bhagavate vāsudevāya]. Preceding each syllable by the oṁkāra, one should place the syllables of the mantra on the tips of his fingers, beginning with the index finger of the right hand and concluding with the index finger of the left. The four remaining syllables should be placed on the joints of the thumbs.}}
-
+---json
+{
+    "name":"SB 6.8.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.8.7",
+    "description":"Then one should chant the mantra composed of twelve syllables [oṁ namo bhagavate vāsudevāya]. Preceding each syllable by the oṁkāra, one should place the syllables of the mantra on the tips of his fingers, beginning with the index finger of the right hand and concluding with the index finger of the left. The four remaining syllables should be placed on the joints of the thumbs."
+}
+---
 ====== SB 6.8.7 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.1-3~~
-~~bc:Text 1-3~~
-
-{{description>Śukadeva Gosvāmī said: From Purūravā came a son named Āyu, whose very powerful sons were Nahuṣa, Kṣatravṛddha, Rajī, Rābha and Anenā. O Mahārāja Parīkṣit, now hear about the dynasty of Kṣatravṛddha. Kṣatravṛddha's son was Suhotra, who had three sons, named Kāśya, Kuśa and Gṛtsamada. From Gṛtsamada came Śunaka, and from him came Śaunaka, the great saint, the best of those conversant with the Ṛg Veda.}}
-
+---json
+{
+    "name":"SB 9.17.1-3",
+    "h1":"Text 1-3",
+    "title":" Śrīmad Bhāgavatam 9.17.1-3",
+    "description":"Śukadeva Gosvāmī said: From Purūravā came a son named Āyu, whose very powerful sons were Nahuṣa, Kṣatravṛddha, Rajī, Rābha and Anenā. O Mahārāja Parīkṣit, now hear about the dynasty of Kṣatravṛddha. Kṣatravṛddha's son was Suhotra, who had three sons, named Kāśya, Kuśa and Gṛtsamada. From Gṛtsamada came Śunaka, and from him came Śaunaka, the great saint, the best of those conversant with the Ṛg Veda."
+}
+---
 ====== SB 9.17.1-3 ======
 
 ===== Text =====

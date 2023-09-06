@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.33.12~~
-~~bc:Text 12~~
-
-{{description>Śrī Maitreya said: The Supreme Personality of Godhead Kapila, after instructing His beloved mother, took permission from her and left His home, His mission having been fulfilled.}}
-
+---json
+{
+    "name":"SB 3.33.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.33.12",
+    "description":"Śrī Maitreya said: The Supreme Personality of Godhead Kapila, after instructing His beloved mother, took permission from her and left His home, His mission having been fulfilled."
+}
+---
 ====== SB 3.33.12 ======
 
 > मैत्रेय उवाच

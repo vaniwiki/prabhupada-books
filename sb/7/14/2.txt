@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.14.2~~
-~~bc:Text 2~~
-
-{{description>Nārada Muni replied: My dear King, those who stay at home as householders must act to earn their livelihood, and instead of trying to enjoy the results of their work themselves, they should offer these results to Kṛṣṇa, Vāsudeva. How to satisfy Vāsudeva in this life can be perfectly understood through the association of great devotees of the Lord.}}
-
+---json
+{
+    "name":"SB 7.14.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 7.14.2",
+    "description":"Nārada Muni replied: My dear King, those who stay at home as householders must act to earn their livelihood, and instead of trying to enjoy the results of their work themselves, they should offer these results to Kṛṣṇa, Vāsudeva. How to satisfy Vāsudeva in this life can be perfectly understood through the association of great devotees of the Lord."
+}
+---
 ====== SB 7.14.2 ======
 
 ===== Text =====

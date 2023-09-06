@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Nārada Muni asked Brahmājī: O chief amongst the demigods, O firstborn living entity, I beg to offer my respectful obeisances unto you. Please tell me that transcendental knowledge which specifically directs one to the truth of the individual soul and the Supersoul.}}
-
+---json
+{
+    "name":"SB 2.5.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 2.5.1",
+    "description":"Śrī Nārada Muni asked Brahmājī: O chief amongst the demigods, O firstborn living entity, I beg to offer my respectful obeisances unto you. Please tell me that transcendental knowledge which specifically directs one to the truth of the individual soul and the Supersoul."
+}
+---
 ====== SB 2.5.1 ======
 
 > नारद उवाच

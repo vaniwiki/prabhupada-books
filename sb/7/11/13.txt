@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.13~~
-~~bc:Text 13~~
-
-{{description>Those who have been reformed by the garbhādhāna ceremony and other prescribed reformatory methods, performed with Vedic mantras and without interruption, and who have been approved by Lord Brahmā, are dvijas, or twice-born. Such brāhmaṇas, kṣatriyas and vaiśyas, purified by their family traditions and by their behavior, should worship the Lord, study the Vedas and give charity. In this system, they should follow the principles of the four āśramas [brahmacarya, gṛhastha, vānaprastha and sannyāsa].}}
-
+---json
+{
+    "name":"SB 7.11.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 7.11.13",
+    "description":"Those who have been reformed by the garbhādhāna ceremony and other prescribed reformatory methods, performed with Vedic mantras and without interruption, and who have been approved by Lord Brahmā, are dvijas, or twice-born. Such brāhmaṇas, kṣatriyas and vaiśyas, purified by their family traditions and by their behavior, should worship the Lord, study the Vedas and give charity. In this system, they should follow the principles of the four āśramas [brahmacarya, gṛhastha, vānaprastha and sannyāsa]."
+}
+---
 ====== SB 7.11.13 ======
 
 ===== Text =====

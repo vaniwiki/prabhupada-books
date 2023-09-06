@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.5~~
-~~bc:Text 5~~
-
-{{description>The sound incarnation of Lord Kṛṣṇa, the Supreme Soul [i.e. Śrīmad-Bhāgavatam], enters into the heart of a self-realized devotee, sits on the lotus flower of his loving relationship, and thus cleanses the dust of material association, such as lust, anger and hankering. Thus it acts like autumnal rains upon pools of muddy water.}}
-
+---json
+{
+    "name":"SB 2.8.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 2.8.5",
+    "description":"The sound incarnation of Lord Kṛṣṇa, the Supreme Soul [i.e. Śrīmad-Bhāgavatam], enters into the heart of a self-realized devotee, sits on the lotus flower of his loving relationship, and thus cleanses the dust of material association, such as lust, anger and hankering. Thus it acts like autumnal rains upon pools of muddy water."
+}
+---
 ====== SB 2.8.5 ======
 
 > प्रविष्टः कर्णरन्ध्रेण स्वानां भावसरोरुहम् ।

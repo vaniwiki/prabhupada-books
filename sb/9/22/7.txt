@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.22.7~~
-~~bc:Text 7~~
-
-{{description>From Bṛhadratha, Kuśāgra was born; from Kuśāgra, Ṛṣabha; and from Ṛṣabha, Satyahita. The son of Satyahita was Puṣpavān, and the son of Puṣpavān was Jahu.}}
-
+---json
+{
+    "name":"SB 9.22.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.22.7",
+    "description":"From Bṛhadratha, Kuśāgra was born; from Kuśāgra, Ṛṣabha; and from Ṛṣabha, Satyahita. The son of Satyahita was Puṣpavān, and the son of Puṣpavān was Jahu."
+}
+---
 ====== SB 9.22.7 ======
 
 ===== Text =====

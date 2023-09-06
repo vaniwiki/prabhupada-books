@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.6.4~~
-~~bc:Text 4~~
-
-{{description>An unchaste woman is very easily carried away by paramours, and it sometimes happens that her husband is violently killed by her paramours. If the yogī gives his mind a chance and does not restrain it, his mind will give facility to enemies like lust, anger and greed, and they will doubtlessly kill the yogī.}}
-
+---json
+{
+    "name":"SB 5.6.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 5.6.4",
+    "description":"An unchaste woman is very easily carried away by paramours, and it sometimes happens that her husband is violently killed by her paramours. If the yogī gives his mind a chance and does not restrain it, his mind will give facility to enemies like lust, anger and greed, and they will doubtlessly kill the yogī."
+}
+---
 ====== SB 5.6.4 ======
 
 ===== Text =====

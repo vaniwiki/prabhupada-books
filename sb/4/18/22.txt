@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.22~~
-~~bc:Text 22~~
-
-{{description>Thereafter cobras and snakes without hoods, large snakes, scorpions and many other poisonous animals took poison out of the planet earth as their milk and kept this poison in snake holes. They made a calf out of Takṣaka.}}
-
+---json
+{
+    "name":"SB 4.18.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 4.18.22",
+    "description":"Thereafter cobras and snakes without hoods, large snakes, scorpions and many other poisonous animals took poison out of the planet earth as their milk and kept this poison in snake holes. They made a calf out of Takṣaka."
+}
+---
 ====== SB 4.18.22 ======
 
 > तथाहयो दन्दशूकाः सर्पा नागाश्च तक्षकम् ।

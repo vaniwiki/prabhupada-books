@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.2~~
-~~bc:Text 2~~
-
-{{description>A part of the puruṣa lies down within the water of the universe, from the navel lake of His body sprouts a lotus stem, and from the lotus flower atop this stem, Brahmā, the master of all engineers in the universe, becomes manifest.}}
-
+---json
+{
+    "name":"SB 1.3.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.3.2",
+    "description":"A part of the puruṣa lies down within the water of the universe, from the navel lake of His body sprouts a lotus stem, and from the lotus flower atop this stem, Brahmā, the master of all engineers in the universe, becomes manifest."
+}
+---
 ====== SB 1.3.2 ======
 
 > यस्याम्भसि शयानस्य योगनिद्रां वितन्वतः ।

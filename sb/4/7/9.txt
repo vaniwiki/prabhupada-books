@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.9~~
-~~bc:Text 9~~
-
-{{description>When the animal's head was fixed on the body of King Dakṣa, Dakṣa was immediately brought to consciousness, and as he awakened from sleep, the King saw Lord Śiva standing before him.}}
-
+---json
+{
+    "name":"SB 4.7.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.7.9",
+    "description":"When the animal's head was fixed on the body of King Dakṣa, Dakṣa was immediately brought to consciousness, and as he awakened from sleep, the King saw Lord Śiva standing before him."
+}
+---
 ====== SB 4.7.9 ======
 
 > सन्धीयमाने शिरसि दक्षो रुद्राभिवीक्षितः ।

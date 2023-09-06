@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.9~~
-~~bc:Text 9~~
-
-{{description>The sun was setting, and the sage was sitting in trance after offering oblations to the Supreme Personality of Godhead, Viṣṇu, whose tongue is the sacrificial fire.}}
-
+---json
+{
+    "name":"SB 3.14.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.14.9",
+    "description":"The sun was setting, and the sage was sitting in trance after offering oblations to the Supreme Personality of Godhead, Viṣṇu, whose tongue is the sacrificial fire."
+}
+---
 ====== SB 3.14.9 ======
 
 > इष्ट्वाग्निजिह्वं पयसा पुरुषं यजुषां पतिम् ।

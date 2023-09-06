@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.7~~
-~~bc:Text 7~~
-
-{{description>King Purañjana then saw that everything in his town was scattered and that his sons, grandsons, servants and ministers were all gradually opposing him. He also noted that his wife was becoming cold and indifferent.}}
-
+---json
+{
+    "name":"SB 4.28.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.28.7",
+    "description":"King Purañjana then saw that everything in his town was scattered and that his sons, grandsons, servants and ministers were all gradually opposing him. He also noted that his wife was becoming cold and indifferent."
+}
+---
 ====== SB 4.28.7 ======
 
 > विशीर्णां स्वपुरीं वीक्ष्य प्रतिकूलाननादृतान् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.26~~
-~~bc:Text 26~~
-
-{{description>O Lord of lords, how is it that this dangerous effulgence is spreading all around? Where does it come from? I do not understand it.}}
-
+---json
+{
+    "name":"SB 1.7.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.7.26",
+    "description":"O Lord of lords, how is it that this dangerous effulgence is spreading all around? Where does it come from? I do not understand it."
+}
+---
 ====== SB 1.7.26 ======
 
 > किमिदं स्वित्कुतो वेति देवदेव न वेद्म्यहम् ।

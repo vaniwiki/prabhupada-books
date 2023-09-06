@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.8~~
-~~bc:Text 8~~
-
-{{description>Misty halos appeared around the sun and the moon during solar and lunar eclipses again and again. Claps of thunder were heard even without clouds, and sounds like those of rattling chariots emerged from the mountain caves.}}
-
+---json
+{
+    "name":"SB 3.17.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.17.8",
+    "description":"Misty halos appeared around the sun and the moon during solar and lunar eclipses again and again. Claps of thunder were heard even without clouds, and sounds like those of rattling chariots emerged from the mountain caves."
+}
+---
 ====== SB 3.17.8 ======
 
 > मुहुः परिधयोऽभूवन्सराह्वोः शशिसूर्ययोः ।

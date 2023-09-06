@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.46~~
-~~bc:Text 46~~
-
-{{description>They all declared that the Vedic conclusion that one can conquer the heavenly planets by the action of a putra, or son, was fulfilled, for the most sinful Vena, who had been killed by the curse of the brāhmaṇas, was now delivered from the darkest region of hellish life by his son, Mahārāja Pṛthu.}}
-
+---json
+{
+    "name":"SB 4.21.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.21.46",
+    "description":"They all declared that the Vedic conclusion that one can conquer the heavenly planets by the action of a putra, or son, was fulfilled, for the most sinful Vena, who had been killed by the curse of the brāhmaṇas, was now delivered from the darkest region of hellish life by his son, Mahārāja Pṛthu."
+}
+---
 ====== SB 4.21.46 ======
 
 > पुत्रेण जयते लोकानिति सत्यवती श्रुतिः ।

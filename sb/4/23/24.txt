@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.24~~
-~~bc:Text 24~~
-
-{{description>At that time the demigods were situated on the top of Mandara Hill, and all their wives began to shower flowers on the funeral pyre and began to talk amongst themselves as follows.}}
-
+---json
+{
+    "name":"SB 4.23.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 4.23.24",
+    "description":"At that time the demigods were situated on the top of Mandara Hill, and all their wives began to shower flowers on the funeral pyre and began to talk amongst themselves as follows."
+}
+---
 ====== SB 4.23.24 ======
 
 > कुर्वत्यः कुसुमासारं तस्मिन्मन्दरसानुनि ।

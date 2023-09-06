@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.4.2~~
-~~bc:Text 2~~
-
-{{description>There was a beating of kettledrums in the heavenly planets, the inhabitants of Gandharvaloka began to dance and sing, while great sages and the inhabitants of Cāraṇaloka and Siddhaloka offered prayers to the Supreme Personality of Godhead, Puruṣottama.}}
-
+---json
+{
+    "name":"SB 8.4.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.4.2",
+    "description":"There was a beating of kettledrums in the heavenly planets, the inhabitants of Gandharvaloka began to dance and sing, while great sages and the inhabitants of Cāraṇaloka and Siddhaloka offered prayers to the Supreme Personality of Godhead, Puruṣottama."
+}
+---
 ====== SB 8.4.2 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.37~~
-~~bc:Text 37~~
-
-{{description>The time factor, who causes the transformation of the various material manifestations, is another feature of the Supreme Personality of Godhead. Anyone who does not know that time is the same Supreme Personality is afraid of the time factor.}}
-
+---json
+{
+    "name":"SB 3.29.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.29.37",
+    "description":"The time factor, who causes the transformation of the various material manifestations, is another feature of the Supreme Personality of Godhead. Anyone who does not know that time is the same Supreme Personality is afraid of the time factor."
+}
+---
 ====== SB 3.29.37 ======
 
 > रूपभेदास्पदं दिव्यं काल इत्यभिधीयते ।

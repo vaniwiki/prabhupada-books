@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.14~~
-~~bc:Text 14~~
-
-{{description>O King, the only son of Karṇa was Vṛṣasena. Druhyu, the third son of Yayāti, had a son named Babhru, and the son of Babhru was known as Setu.}}
-
+---json
+{
+    "name":"SB 9.23.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 9.23.14",
+    "description":"O King, the only son of Karṇa was Vṛṣasena. Druhyu, the third son of Yayāti, had a son named Babhru, and the son of Babhru was known as Setu."
+}
+---
 ====== SB 9.23.14 ======
 
 ===== Text =====

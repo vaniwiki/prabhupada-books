@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.6~~
-~~bc:Text 6~~
-
-{{description>A pure devotee of the Lord whose heart has once been cleansed by the process of devotional service never relinquishes the lotus feet of Lord Kṛṣṇa, for they fully satisfy him, as a traveler is satisfied at home after a troubled journey.}}
-
+---json
+{
+    "name":"SB 2.8.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 2.8.6",
+    "description":"A pure devotee of the Lord whose heart has once been cleansed by the process of devotional service never relinquishes the lotus feet of Lord Kṛṣṇa, for they fully satisfy him, as a traveler is satisfied at home after a troubled journey."
+}
+---
 ====== SB 2.8.6 ======
 
 > धौतात्मा पुरुषः कृष्ण पादमूलं न मुञ्चति ।

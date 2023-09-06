@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Sūta Gosvāmī said: While returning home, the King [Mahārāja Parīkṣit] felt that the act he had committed against the faultless and powerful brāhmaṇa was heinous and uncivilized. Consequently he was distressed.}}
-
+---json
+{
+    "name":"SB 1.19.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.19.1",
+    "description":"Śrī Sūta Gosvāmī said: While returning home, the King [Mahārāja Parīkṣit] felt that the act he had committed against the faultless and powerful brāhmaṇa was heinous and uncivilized. Consequently he was distressed."
+}
+---
 ====== SB 1.19.1 ======
 
 > सूत उवाच

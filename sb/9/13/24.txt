@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.24~~
-~~bc:Text 24~~
-
-{{description>The son of Kṣemādhi was Samaratha, and his son was Satyaratha. The son of Satyaratha was Upaguru, and the son of Upaguru was Upagupta, a partial expansion of the fire-god.}}
-
+---json
+{
+    "name":"SB 9.13.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 9.13.24",
+    "description":"The son of Kṣemādhi was Samaratha, and his son was Satyaratha. The son of Satyaratha was Upaguru, and the son of Upaguru was Upagupta, a partial expansion of the fire-god."
+}
+---
 ====== SB 9.13.24 ======
 
 ===== Text =====

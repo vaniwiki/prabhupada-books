@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.50~~
-~~bc:Text 50~~
-
-{{description>Draupadī also saw that her husbands, without caring for her, were leaving home. She knew well about Lord Vāsudeva, Kṛṣṇa, the Personality of Godhead. Both she and Subhadrā became absorbed in thoughts of Kṛṣṇa and attained the same results as their husbands.}}
-
+---json
+{
+    "name":"SB 1.15.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 1.15.50",
+    "description":"Draupadī also saw that her husbands, without caring for her, were leaving home. She knew well about Lord Vāsudeva, Kṛṣṇa, the Personality of Godhead. Both she and Subhadrā became absorbed in thoughts of Kṛṣṇa and attained the same results as their husbands."
+}
+---
 ====== SB 1.15.50 ======
 
 > द्रौपदी च तदाज्ञाय पतीनामनपेक्षताम् ।

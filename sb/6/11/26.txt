@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.11.26~~
-~~bc:Text 26~~
-
-{{description>O lotus-eyed Lord, as baby birds that have not yet developed their wings always look for their mother to return and feed them, as small calves tied with ropes await anxiously the time of milking, when they will be allowed to drink the milk of their mothers, or as a morose wife whose husband is away from home always longs for him to return and satisfy her in all respects, I always yearn for the opportunity to render direct service unto You.}}
-
+---json
+{
+    "name":"SB 6.11.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 6.11.26",
+    "description":"O lotus-eyed Lord, as baby birds that have not yet developed their wings always look for their mother to return and feed them, as small calves tied with ropes await anxiously the time of milking, when they will be allowed to drink the milk of their mothers, or as a morose wife whose husband is away from home always longs for him to return and satisfy her in all respects, I always yearn for the opportunity to render direct service unto You."
+}
+---
 ====== SB 6.11.26 ======
 
 ===== Text =====

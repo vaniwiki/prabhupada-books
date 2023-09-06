@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.6~~
-~~bc:Text 6~~
-
-{{description>The great sage Maitreya replied: My dear Vidura, when Mahārāja Dhruva departed for the forest, his son, Utkala, did not desire to accept the opulent throne of his father, which was meant for the ruler of all the lands of this planet.}}
-
+---json
+{
+    "name":"SB 4.13.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.13.6",
+    "description":"The great sage Maitreya replied: My dear Vidura, when Mahārāja Dhruva departed for the forest, his son, Utkala, did not desire to accept the opulent throne of his father, which was meant for the ruler of all the lands of this planet."
+}
+---
 ====== SB 4.13.6 ======
 
 > मैत्रेय उवाच

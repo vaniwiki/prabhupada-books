@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.39~~
-~~bc:Text 39~~
-
-{{description>My Lord, as the original boar within this universe, You fought and killed the great demon Hiraṇyakṣa. Then You lifted me [the earth] from the Garbhodaka Ocean on the end of Your tusk, exactly as a sporting elephant plucks a lotus flower from the water. I bow down before You.}}
-
+---json
+{
+    "name":"SB 5.18.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 5.18.39",
+    "description":"My Lord, as the original boar within this universe, You fought and killed the great demon Hiraṇyakṣa. Then You lifted me [the earth] from the Garbhodaka Ocean on the end of Your tusk, exactly as a sporting elephant plucks a lotus flower from the water. I bow down before You."
+}
+---
 ====== SB 5.18.39 ======
 
 ===== Text =====

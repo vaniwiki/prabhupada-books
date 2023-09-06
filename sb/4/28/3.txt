@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.3~~
-~~bc:Text 3~~
-
-{{description>Gradually Kālakanyā, with the help of dangerous soldiers, attacked all the inhabitants of Purañjana's city and thus rendered them useless for all purposes.}}
-
+---json
+{
+    "name":"SB 4.28.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.28.3",
+    "description":"Gradually Kālakanyā, with the help of dangerous soldiers, attacked all the inhabitants of Purañjana's city and thus rendered them useless for all purposes."
+}
+---
 ====== SB 4.28.3 ======
 
 > कालकन्यापि बुभुजे पुरञ्जनपुरं बलात् ।

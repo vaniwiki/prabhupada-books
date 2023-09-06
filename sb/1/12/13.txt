@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.12.13~~
-~~bc:Text 13~~
-
-{{description>King Yudhiṣṭhira, who was very satisfied with the birth of Mahārāja Parīkṣit, had the purificatory process of birth performed. Learned brāhmaṇas, headed by Dhaumya and Kṛpa, recited auspicious hymns.}}
-
+---json
+{
+    "name":"SB 1.12.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 1.12.13",
+    "description":"King Yudhiṣṭhira, who was very satisfied with the birth of Mahārāja Parīkṣit, had the purificatory process of birth performed. Learned brāhmaṇas, headed by Dhaumya and Kṛpa, recited auspicious hymns."
+}
+---
 ====== SB 1.12.13 ======
 
 > तस्य प्रीतमना राजा विप्रैर्धौम्यकृपादिभिः ।

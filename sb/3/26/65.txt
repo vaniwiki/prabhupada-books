@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.65~~
-~~bc:Text 65~~
-
-{{description>The predominating deities of the skin, herbs and seasoning plants entered the skin of the virāṭ-puruṣa with the hair of the body, but the Cosmic Being refused to get up even then. The god predominating over water entered His organ of generation with the faculty of procreation, but the virāṭ-puruṣa still would not rise.}}
-
+---json
+{
+    "name":"SB 3.26.65",
+    "h1":"Text 65",
+    "title":" Śrīmad Bhāgavatam 3.26.65",
+    "description":"The predominating deities of the skin, herbs and seasoning plants entered the skin of the virāṭ-puruṣa with the hair of the body, but the Cosmic Being refused to get up even then. The god predominating over water entered His organ of generation with the faculty of procreation, but the virāṭ-puruṣa still would not rise."
+}
+---
 ====== SB 3.26.65 ======
 
 > त्वचं रोमभिरोषध्यो नोदतिष्ठत्तदा विराट् ।

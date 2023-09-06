@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.16~~
-~~bc:Text 16~~
-
-{{description>Thus Dhruva Mahārāja, at the end, left his kingdom, which extended all over the earth and was bounded by the great oceans. He considered his body, his wives, his children, his friends, his army, his rich treasury, his very comfortable palaces and his many enjoyable pleasure-grounds to be creations of the illusory energy. Thus in due course of time he retired to the forest in the Himalayas known as Badarikāśrama.}}
-
+---json
+{
+    "name":"SB 4.12.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 4.12.16",
+    "description":"Thus Dhruva Mahārāja, at the end, left his kingdom, which extended all over the earth and was bounded by the great oceans. He considered his body, his wives, his children, his friends, his army, his rich treasury, his very comfortable palaces and his many enjoyable pleasure-grounds to be creations of the illusory energy. Thus in due course of time he retired to the forest in the Himalayas known as Badarikāśrama."
+}
+---
 ====== SB 4.12.16 ======
 
 > आत्मस्त्र्यपत्यसुहृदो बलमृद्धकोशम्

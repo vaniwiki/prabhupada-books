@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.29~~
-~~bc:Text 29~~
-
-{{description>Surrounding Brahmapurī in all directions are the residences of the eight principal governors of the planetary systems, beginning with King Indra. These abodes are similar to Brahmapurī but are one fourth the size.}}
-
+---json
+{
+    "name":"SB 5.16.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 5.16.29",
+    "description":"Surrounding Brahmapurī in all directions are the residences of the eight principal governors of the planetary systems, beginning with King Indra. These abodes are similar to Brahmapurī but are one fourth the size."
+}
+---
 ====== SB 5.16.29 ======
 
 ===== Text =====

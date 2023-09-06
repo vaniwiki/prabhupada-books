@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.14~~
-~~bc:Text 14~~
-
-{{description>Vāsuki had thousands of eyes and mouths. From his mouths he breathed smoke and blazing fire, which affected the demons, headed by Pauloma, Kāleya, Bali and Ilvala. Thus the demons, who appeared like sarala trees burned by a forest fire, gradually became powerless.}}
-
+---json
+{
+    "name":"SB 8.7.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.7.14",
+    "description":"Vāsuki had thousands of eyes and mouths. From his mouths he breathed smoke and blazing fire, which affected the demons, headed by Pauloma, Kāleya, Bali and Ilvala. Thus the demons, who appeared like sarala trees burned by a forest fire, gradually became powerless."
+}
+---
 ====== SB 8.7.14 ======
 
 ===== Text =====

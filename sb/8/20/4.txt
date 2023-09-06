@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.4~~
-~~bc:Text 4~~
-
-{{description>There is nothing more sinful than untruthfulness. Because of this, mother earth once said, "I can bear any heavy thing except a person who is a liar."}}
-
+---json
+{
+    "name":"SB 8.20.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 8.20.4",
+    "description":"There is nothing more sinful than untruthfulness. Because of this, mother earth once said, "I can bear any heavy thing except a person who is a liar.""
+}
+---
 ====== SB 8.20.4 ======
 
 ===== Text =====

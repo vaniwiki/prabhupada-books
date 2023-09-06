@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.38~~
-~~bc:Text 38~~
-
-{{description>Although he could not believe the words of the messenger, he had full faith in the word of the great sage Nārada. Thus he was greatly overwhelmed by the news, and he immediately offered the messenger a highly valuable necklace in great satisfaction.}}
-
+---json
+{
+    "name":"SB 4.9.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.9.38",
+    "description":"Although he could not believe the words of the messenger, he had full faith in the word of the great sage Nārada. Thus he was greatly overwhelmed by the news, and he immediately offered the messenger a highly valuable necklace in great satisfaction."
+}
+---
 ====== SB 4.9.38 ======
 
 > श्रद्धाय वाक्यं देवर्षेर्हर्षवेगेन धर्षितः ।

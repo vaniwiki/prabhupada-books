@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.17.8~~
-~~bc:Text 8~~
-
-{{description>The branch of the Ganges known as Bhadrā flows from the northern side of Mount Meru. Its waters fall onto the peaks of Kumuda Mountain, Mount Nīla, Śveta Mountain and Śṛṅgavān Mountain in succession. Then it runs down into the province of Kuru and, after crossing through that land, flows into the saltwater ocean in the north.}}
-
+---json
+{
+    "name":"SB 5.17.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.17.8",
+    "description":"The branch of the Ganges known as Bhadrā flows from the northern side of Mount Meru. Its waters fall onto the peaks of Kumuda Mountain, Mount Nīla, Śveta Mountain and Śṛṅgavān Mountain in succession. Then it runs down into the province of Kuru and, after crossing through that land, flows into the saltwater ocean in the north."
+}
+---
 ====== SB 5.17.8 ======
 
 ===== Text =====

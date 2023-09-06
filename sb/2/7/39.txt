@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.39~~
-~~bc:Text 39~~
-
-{{description>At the beginning of creation there are penance, myself [Brahmā], and the Prajāpatis, the great sages who generate; then, during the maintenance of the creation, there are Lord Viṣṇu, the demigods with controlling powers, and the kings of different planets. But at the end there is irreligion, and then Lord Śiva and the atheists full of anger, etc. All of them are different representative manifestations of the energy of the supreme power, the Lord.}}
-
+---json
+{
+    "name":"SB 2.7.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 2.7.39",
+    "description":"At the beginning of creation there are penance, myself [Brahmā], and the Prajāpatis, the great sages who generate; then, during the maintenance of the creation, there are Lord Viṣṇu, the demigods with controlling powers, and the kings of different planets. But at the end there is irreligion, and then Lord Śiva and the atheists full of anger, etc. All of them are different representative manifestations of the energy of the supreme power, the Lord."
+}
+---
 ====== SB 2.7.39 ======
 
 > सर्गे तपोऽहमृषयो नव ये प्रजेशाः

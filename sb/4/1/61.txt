@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.61~~
-~~bc:Text 61~~
-
-{{description>From those three sons another forty-five descendants were generated, who are also fire-gods. The total number of fire-gods is therefore forty-nine, including the fathers and the grandfather.}}
-
+---json
+{
+    "name":"SB 4.1.61",
+    "h1":"Text 61",
+    "title":" Śrīmad Bhāgavatam 4.1.61",
+    "description":"From those three sons another forty-five descendants were generated, who are also fire-gods. The total number of fire-gods is therefore forty-nine, including the fathers and the grandfather."
+}
+---
 ====== SB 4.1.61 ======
 
 > तेभ्योऽग्नयः समभवन्चत्वारिंशच्च पञ्च च ।

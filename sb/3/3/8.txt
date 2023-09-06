@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.8~~
-~~bc:Text 8~~
-
-{{description>All those princesses were lodged in different apartments, and the Lord simultaneously assumed different bodily expansions exactly matching each and every princess. He accepted their hands in perfect rituals by His internal potency.}}
-
+---json
+{
+    "name":"SB 3.3.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.3.8",
+    "description":"All those princesses were lodged in different apartments, and the Lord simultaneously assumed different bodily expansions exactly matching each and every princess. He accepted their hands in perfect rituals by His internal potency."
+}
+---
 ====== SB 3.3.8 ======
 
 > आसां मुहूर्त एकस्मिन्नानागारेषु योषिताम् ।

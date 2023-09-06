@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.6.22-23~~
-~~bc:Text 22-23~~
-
-{{description>[Śukadeva Gosvāmī informed Mahārāja Parīkṣit that the gopīs, following the proper system, protected Kṛṣṇa, their child, with this mantra.] May Aja protect Your legs, may Maṇimān protect Your knees, Yajña Your thighs, Acyuta the upper part of Your waist, and Hayagrīva Your abdomen. May Keśava protect Your heart, Īśa Your chest, the sun-god Your neck, Viṣṇu Your arms, Urukrama Your face, and Īśvara Your head. May Cakrī protect You from the front; may Śrī Hari, Gadādharī, the carrier of the club, protect You from the back; and may the carrier of the bow, who is known as the enemy of Madhu, and Lord Ajana, the carrier of the sword, protect Your two sides. May Lord Urugāya, the carrier of the conchshell, protect You from all corners; may Upendra protect You from above; may Garuḍa protect You on the ground; and may Lord Haladhara, the Supreme Person, protect You on all sides.}}
-
+---json
+{
+    "name":"SB 10.6.22-23",
+    "h1":"Text 22-23",
+    "title":" Śrīmad Bhāgavatam 10.6.22-23",
+    "description":"[Śukadeva Gosvāmī informed Mahārāja Parīkṣit that the gopīs, following the proper system, protected Kṛṣṇa, their child, with this mantra.] May Aja protect Your legs, may Maṇimān protect Your knees, Yajña Your thighs, Acyuta the upper part of Your waist, and Hayagrīva Your abdomen. May Keśava protect Your heart, Īśa Your chest, the sun-god Your neck, Viṣṇu Your arms, Urukrama Your face, and Īśvara Your head. May Cakrī protect You from the front; may Śrī Hari, Gadādharī, the carrier of the club, protect You from the back; and may the carrier of the bow, who is known as the enemy of Madhu, and Lord Ajana, the carrier of the sword, protect Your two sides. May Lord Urugāya, the carrier of the conchshell, protect You from all corners; may Upendra protect You from above; may Garuḍa protect You on the ground; and may Lord Haladhara, the Supreme Person, protect You on all sides."
+}
+---
 ====== SB 10.6.22-23 ======
 
 ===== Text =====

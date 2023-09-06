@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.5.31~~
-~~bc:Text 31~~
-
-{{description>Lord Ṛṣabhadeva's hands, feet and chest were very long. His shoulders, face and limbs were all very delicate and symmetrically proportioned. His mouth was beautifully decorated with His natural smile, and He appeared all the more lovely with His reddish eyes spread wide like the petals of a newly grown lotus flower covered with dew in the early morning. The irises of His eyes were so pleasing that they removed all the troubles of everyone who saw Him. His forehead, ears, neck, nose and all His other features were very beautiful. His gentle smile always made His face beautiful, so much so that He even attracted the hearts of married women. It was as though they had been pierced by arrows of Cupid. About His head was an abundance of curly, matted brown hair. His hair was disheveled because His body was dirty and not taken care of. He appeared as if He were haunted by a ghost.}}
-
+---json
+{
+    "name":"SB 5.5.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 5.5.31",
+    "description":"Lord Ṛṣabhadeva's hands, feet and chest were very long. His shoulders, face and limbs were all very delicate and symmetrically proportioned. His mouth was beautifully decorated with His natural smile, and He appeared all the more lovely with His reddish eyes spread wide like the petals of a newly grown lotus flower covered with dew in the early morning. The irises of His eyes were so pleasing that they removed all the troubles of everyone who saw Him. His forehead, ears, neck, nose and all His other features were very beautiful. His gentle smile always made His face beautiful, so much so that He even attracted the hearts of married women. It was as though they had been pierced by arrows of Cupid. About His head was an abundance of curly, matted brown hair. His hair was disheveled because His body was dirty and not taken care of. He appeared as if He were haunted by a ghost."
+}
+---
 ====== SB 5.5.31 ======
 
 ===== Text =====

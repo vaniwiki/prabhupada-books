@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.27~~
-~~bc:Text 27~~
-
-{{description>As the Lord passed along the public road of Dvārakā, His head was protected from the sunshine by a white umbrella. White feathered fans moved in semicircles, and showers of flowers fell upon the road. His yellow garments and garlands of flowers made it appear as if a dark cloud were surrounded simultaneously by sun, moon, lightning and rainbows.}}
-
+---json
+{
+    "name":"SB 1.11.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.11.27",
+    "description":"As the Lord passed along the public road of Dvārakā, His head was protected from the sunshine by a white umbrella. White feathered fans moved in semicircles, and showers of flowers fell upon the road. His yellow garments and garlands of flowers made it appear as if a dark cloud were surrounded simultaneously by sun, moon, lightning and rainbows."
+}
+---
 ====== SB 1.11.27 ======
 
 > सितातपत्रव्यजनैरुपस्कृतः प्रसूनवर्षैरभिवर्षितः पथि ।

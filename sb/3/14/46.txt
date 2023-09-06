@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.46~~
-~~bc:Text 46~~
-
-{{description>In order to follow in his footsteps, saintly persons will try to emulate his character by practicing freedom from animosity, just as the purifying processes rectify gold of inferior quality.}}
-
+---json
+{
+    "name":"SB 3.14.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 3.14.46",
+    "description":"In order to follow in his footsteps, saintly persons will try to emulate his character by practicing freedom from animosity, just as the purifying processes rectify gold of inferior quality."
+}
+---
 ====== SB 3.14.46 ======
 
 > योगैर्हेमेव दुर्वर्णं भावयिष्यन्ति साधवः ।

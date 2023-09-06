@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.29~~
-~~bc:Text 29~~
-
-{{description>Śrī Śukadeva Gosvāmī said: Vibhīṣaṇa, the pious brother of Rāvaṇa and devotee of Lord Rāmacandra, received approval from Lord Rāmacandra, the King of Kosala. Then he performed the prescribed funeral ceremonies for his family members to save them from the path to hell.}}
-
+---json
+{
+    "name":"SB 9.10.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 9.10.29",
+    "description":"Śrī Śukadeva Gosvāmī said: Vibhīṣaṇa, the pious brother of Rāvaṇa and devotee of Lord Rāmacandra, received approval from Lord Rāmacandra, the King of Kosala. Then he performed the prescribed funeral ceremonies for his family members to save them from the path to hell."
+}
+---
 ====== SB 9.10.29 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.13~~
-~~bc:Text 13~~
-
-{{description>While playing on the bank of the Ganges, Adhiratha found a baby wrapped up in a basket. The baby had been left by Kuntī because he was born before she was married. Because Adhiratha had no sons, he raised this baby as his own. [This son was later known as Karṇa.]}}
-
+---json
+{
+    "name":"SB 9.23.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 9.23.13",
+    "description":"While playing on the bank of the Ganges, Adhiratha found a baby wrapped up in a basket. The baby had been left by Kuntī because he was born before she was married. Because Adhiratha had no sons, he raised this baby as his own. [This son was later known as Karṇa.]"
+}
+---
 ====== SB 9.23.13 ======
 
 ===== Text =====

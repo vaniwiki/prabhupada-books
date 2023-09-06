@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.15~~
-~~bc:Text 15~~
-
-{{description>Therefore, today please give away your daughters to the foremost of the sages, with due regard for the girls' temperaments and likings, and thereby spread your fame all over the universe.}}
-
+---json
+{
+    "name":"SB 3.24.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.24.15",
+    "description":"Therefore, today please give away your daughters to the foremost of the sages, with due regard for the girls' temperaments and likings, and thereby spread your fame all over the universe."
+}
+---
 ====== SB 3.24.15 ======
 
 > अतस्त्वमृषिमुख्येभ्यो यथाशीलं यथारुचि ।

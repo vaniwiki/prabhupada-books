@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.5~~
-~~bc:Text 5~~
-
-{{description>Śrī Maitreya said: Devahūti was fully faithful and respectful toward the direction of her husband, Kardama, who was one of the Prajāpatis, or generators of human beings in the universe. O great sage, she thus began to worship the master of the universe, the Supreme Personality of Godhead, who is situated in everyone's heart.}}
-
+---json
+{
+    "name":"SB 3.24.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.24.5",
+    "description":"Śrī Maitreya said: Devahūti was fully faithful and respectful toward the direction of her husband, Kardama, who was one of the Prajāpatis, or generators of human beings in the universe. O great sage, she thus began to worship the master of the universe, the Supreme Personality of Godhead, who is situated in everyone's heart."
+}
+---
 ====== SB 3.24.5 ======
 
 > मैत्रेय उवाच

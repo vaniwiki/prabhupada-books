@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: O Mahārāja Parīkṣit, Ambarīṣa had three sons, named Virūpa, Ketumān and Śambhu. From Virūpa came a son named Pṛṣadaśva, and from Pṛṣadaśva came a son named Rathītara.}}
-
+---json
+{
+    "name":"SB 9.6.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 9.6.1",
+    "description":"Śukadeva Gosvāmī said: O Mahārāja Parīkṣit, Ambarīṣa had three sons, named Virūpa, Ketumān and Śambhu. From Virūpa came a son named Pṛṣadaśva, and from Pṛṣadaśva came a son named Rathītara."
+}
+---
 ====== SB 9.6.1 ======
 
 ===== Text =====

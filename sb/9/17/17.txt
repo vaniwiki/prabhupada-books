@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.17.17~~
-~~bc:Text 17~~
-
-{{description>From Haryabala came a son named Sahadeva, and from Sahadeva came Hīna. The son of Hīna was Jayasena, and the son of Jayasena was Saṅkṛti. The son of Saṅkṛti was the powerful and expert fighter named Jaya. These kings were the members of the Kṣatravṛddha dynasty. Now let me describe to you the dynasty of Nahuṣa.}}
-
+---json
+{
+    "name":"SB 9.17.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 9.17.17",
+    "description":"From Haryabala came a son named Sahadeva, and from Sahadeva came Hīna. The son of Hīna was Jayasena, and the son of Jayasena was Saṅkṛti. The son of Saṅkṛti was the powerful and expert fighter named Jaya. These kings were the members of the Kṣatravṛddha dynasty. Now let me describe to you the dynasty of Nahuṣa."
+}
+---
 ====== SB 9.17.17 ======
 
 ===== Text =====

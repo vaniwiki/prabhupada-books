@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.21~~
-~~bc:Text 21~~
-
-{{description>After arriving at the place of combat, Brahmā, the leader of thousands of sages and transcendentalists, saw the demon, who had attained such unprecedented power that no one could fight with him. Brahmā then addressed Nārāyaṇa, who was assuming the form of a boar for the first time.}}
-
+---json
+{
+    "name":"SB 3.18.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.18.21",
+    "description":"After arriving at the place of combat, Brahmā, the leader of thousands of sages and transcendentalists, saw the demon, who had attained such unprecedented power that no one could fight with him. Brahmā then addressed Nārāyaṇa, who was assuming the form of a boar for the first time."
+}
+---
 ====== SB 3.18.21 ======
 
 > आसन्नशौण्डीरमपेतसाध्वसं कृतप्रतीकारमहार्यविक्रमम् ।

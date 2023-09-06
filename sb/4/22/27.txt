@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.27~~
-~~bc:Text 27~~
-
-{{description>When a person becomes devoid of all material desires and liberated from all material qualities, he transcends distinctions between actions executed externally and internally. At that time the difference between the soul and the Supersoul, which was existing before self-realization, is annihilated. When a dream is over, there is no longer a distinction between the dream and the dreamer.}}
-
+---json
+{
+    "name":"SB 4.22.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.22.27",
+    "description":"When a person becomes devoid of all material desires and liberated from all material qualities, he transcends distinctions between actions executed externally and internally. At that time the difference between the soul and the Supersoul, which was existing before self-realization, is annihilated. When a dream is over, there is no longer a distinction between the dream and the dreamer."
+}
+---
 ====== SB 4.22.27 ======
 
 > दग्धाशयो मुक्तसमस्ततद्गुणो नैवात्मनो बहिरन्तर्विचष्टे ।

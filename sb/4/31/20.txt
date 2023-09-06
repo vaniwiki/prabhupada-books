@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.20~~
-~~bc:Text 20~~
-
-{{description>Being completely cleansed of all material desires, the devotees are freed from all mental contamination. Thus they can always think of the Lord constantly and address Him very feelingly. The Supreme Personality of Godhead, knowing Himself to be controlled by His devotees, does not leave them for a second, just as the sky overhead never becomes invisible.}}
-
+---json
+{
+    "name":"SB 4.31.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.31.20",
+    "description":"Being completely cleansed of all material desires, the devotees are freed from all mental contamination. Thus they can always think of the Lord constantly and address Him very feelingly. The Supreme Personality of Godhead, knowing Himself to be controlled by His devotees, does not leave them for a second, just as the sky overhead never becomes invisible."
+}
+---
 ====== SB 4.31.20 ======
 
 > अपहतसकलैषणामलात्मन्यविरतमेधितभावनोपहूतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.18~~
-~~bc:Text 18~~
-
-{{description>Bali Mahārāja, who put on his head the water washed from the lotus feet of the Lord, did not think of anything besides his promise, in spite of being forbidden by his spiritual master. The king dedicated his own personal body to fulfill the measurement of the Lord's third step. For such a personality, even the kingdom of heaven, which he conquered by his strength, was of no value.}}
-
+---json
+{
+    "name":"SB 2.7.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 2.7.18",
+    "description":"Bali Mahārāja, who put on his head the water washed from the lotus feet of the Lord, did not think of anything besides his promise, in spite of being forbidden by his spiritual master. The king dedicated his own personal body to fulfill the measurement of the Lord's third step. For such a personality, even the kingdom of heaven, which he conquered by his strength, was of no value."
+}
+---
 ====== SB 2.7.18 ======
 
 > नार्थो बलेरयमुरुक्रमपादशौचम्

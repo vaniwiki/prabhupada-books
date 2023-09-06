@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.17~~
-~~bc:Text 17~~
-
-{{description>My lord, all of you are expert in chanting the Vedic mantras. How then has the result been opposite to the one desired? This is a matter for lamentation. There should not have been such a reversal of the results of the Vedic mantras.}}
-
+---json
+{
+    "name":"SB 9.1.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 9.1.17",
+    "description":"My lord, all of you are expert in chanting the Vedic mantras. How then has the result been opposite to the one desired? This is a matter for lamentation. There should not have been such a reversal of the results of the Vedic mantras."
+}
+---
 ====== SB 9.1.17 ======
 
 ===== Text =====

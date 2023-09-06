@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.22~~
-~~bc:Text 22~~
-
-{{description>The Sumantu Muni Aṅgirā, who was very devotedly engaged, was entrusted with the Atharva Veda. And my father, Romaharṣaṇa, was entrusted with the Purāṇas and historical record}}
-
+---json
+{
+    "name":"SB 1.4.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 1.4.22",
+    "description":"The Sumantu Muni Aṅgirā, who was very devotedly engaged, was entrusted with the Atharva Veda. And my father, Romaharṣaṇa, was entrusted with the Purāṇas and historical record"
+}
+---
 ====== SB 1.4.22 ======
 
 > अथर्वाङ्गिरसामासीत्सुमन्तुर्दारुणो मुनिः ।

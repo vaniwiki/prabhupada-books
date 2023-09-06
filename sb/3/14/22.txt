@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.22~~
-~~bc:Text 22~~
-
-{{description>Even though it is not possible to repay you, I shall satisfy your sex desire immediately for the sake of begetting children. But you must wait for only a few seconds so that others may not reproach me.}}
-
+---json
+{
+    "name":"SB 3.14.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.14.22",
+    "description":"Even though it is not possible to repay you, I shall satisfy your sex desire immediately for the sake of begetting children. But you must wait for only a few seconds so that others may not reproach me."
+}
+---
 ====== SB 3.14.22 ======
 
 > अथापि काममेतं ते प्रजात्यै करवाण्यलम् ।

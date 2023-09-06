@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.31~~
-~~bc:Text 31~~
-
-{{description>The protective armor of Nārāyaṇa, which Indra possessed, was identical with Nārāyaṇa Himself, the Supreme Personality of Godhead. Protected by that armor and by his own mystic power, King Indra, although swallowed by Vṛtrāsura, did not die within the demon's belly.}}
-
+---json
+{
+    "name":"SB 6.12.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 6.12.31",
+    "description":"The protective armor of Nārāyaṇa, which Indra possessed, was identical with Nārāyaṇa Himself, the Supreme Personality of Godhead. Protected by that armor and by his own mystic power, King Indra, although swallowed by Vṛtrāsura, did not die within the demon's belly."
+}
+---
 ====== SB 6.12.31 ======
 
 ===== Text =====

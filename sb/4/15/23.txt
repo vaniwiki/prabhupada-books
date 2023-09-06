@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.15.23~~
-~~bc:Text 23~~
-
-{{description>O gentle reciters, offer such prayers in due course of time, when the qualities of which you have spoken actually manifest themselves in me. The gentle who offer prayers to the Supreme Personality of Godhead do not attribute such qualities to a human being, who does not actually have them.}}
-
+---json
+{
+    "name":"SB 4.15.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.15.23",
+    "description":"O gentle reciters, offer such prayers in due course of time, when the qualities of which you have spoken actually manifest themselves in me. The gentle who offer prayers to the Supreme Personality of Godhead do not attribute such qualities to a human being, who does not actually have them."
+}
+---
 ====== SB 4.15.23 ======
 
 > तस्मात्परोक्षेऽस्मदुपश्रुतान्यलं करिष्यथ स्तोत्रमपीच्यवाचः ।

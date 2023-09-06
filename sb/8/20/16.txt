@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.16~~
-~~bc:Text 16~~
-
-{{description>Śukadeva Gosvāmī continued: Even after being cursed in this way by his own spiritual master, Bali Mahārāja, being a great personality, never deviated from his determination. Therefore, according to custom, he first offered water to Vāmanadeva and then offered Him the gift of land he had promised.}}
-
+---json
+{
+    "name":"SB 8.20.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 8.20.16",
+    "description":"Śukadeva Gosvāmī continued: Even after being cursed in this way by his own spiritual master, Bali Mahārāja, being a great personality, never deviated from his determination. Therefore, according to custom, he first offered water to Vāmanadeva and then offered Him the gift of land he had promised."
+}
+---
 ====== SB 8.20.16 ======
 
 ===== Text =====

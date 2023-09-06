@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.2~~
-~~bc:Text 2~~
-
-{{description>The palanquin, however, was very erratically carried by Jaḍa Bharata due to his sense of nonviolence. As he stepped forward, he checked before him every three feet to see whether he was about to step on ants. Consequently he could not keep pace with the other carriers. Due to this, the palanquin was shaking, and King Rahūgaṇa immediately asked the carriers, "Why are you carrying this palanquin unevenly? Better carry it properly."}}
-
+---json
+{
+    "name":"SB 5.10.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.10.2",
+    "description":"The palanquin, however, was very erratically carried by Jaḍa Bharata due to his sense of nonviolence. As he stepped forward, he checked before him every three feet to see whether he was about to step on ants. Consequently he could not keep pace with the other carriers. Due to this, the palanquin was shaking, and King Rahūgaṇa immediately asked the carriers, "Why are you carrying this palanquin unevenly? Better carry it properly.""
+}
+---
 ====== SB 5.10.2 ======
 
 ===== Text =====

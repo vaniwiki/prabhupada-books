@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.41~~
-~~bc:Text 41~~
-
-{{description>Śukadeva Gosvāmī said: O King, having thus been praised by the Supreme Personality, who bears the mark of Śrīvatsa on His chest, Lord Śiva circumambulated Him. Then, after taking permission from Him, Lord Śiva returned to his abode, Kailāsa, along with his associates.}}
-
+---json
+{
+    "name":"SB 8.12.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 8.12.41",
+    "description":"Śukadeva Gosvāmī said: O King, having thus been praised by the Supreme Personality, who bears the mark of Śrīvatsa on His chest, Lord Śiva circumambulated Him. Then, after taking permission from Him, Lord Śiva returned to his abode, Kailāsa, along with his associates."
+}
+---
 ====== SB 8.12.41 ======
 
 ===== Text =====

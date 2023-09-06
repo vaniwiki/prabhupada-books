@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.25~~
-~~bc:Text 25~~
-
-{{description>Śrī Maitreya replied: My dear Vidura, once the great King Aṅga arranged to perform the great sacrifice known as aśvamedha. All the expert brāhmaṇas present knew how to invite the demigods, but in spite of their efforts, no demigods participated or appeared in that sacrifice.}}
-
+---json
+{
+    "name":"SB 4.13.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.13.25",
+    "description":"Śrī Maitreya replied: My dear Vidura, once the great King Aṅga arranged to perform the great sacrifice known as aśvamedha. All the expert brāhmaṇas present knew how to invite the demigods, but in spite of their efforts, no demigods participated or appeared in that sacrifice."
+}
+---
 ====== SB 4.13.25 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.5~~
-~~bc:Text 5~~
-
-{{description>O descendant of King Bharata, one who desires to be free from all miseries must hear about, glorify and also remember the Personality of Godhead, who is the Supersoul, the controller and the savior from all miseries.}}
-
+---json
+{
+    "name":"SB 2.1.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 2.1.5",
+    "description":"O descendant of King Bharata, one who desires to be free from all miseries must hear about, glorify and also remember the Personality of Godhead, who is the Supersoul, the controller and the savior from all miseries."
+}
+---
 ====== SB 2.1.5 ======
 
 > तस्माद्भारत सर्वात्मा भगवानीश्वरो हरिः ।

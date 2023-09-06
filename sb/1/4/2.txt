@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.2~~
-~~bc:Text 2~~
-
-{{description>Śaunaka said: O Sūta Gosvāmī, you are the most fortunate and respected of all those who can speak and recite. Please relate the pious message of Śrīmad-Bhāgavatam, which was spoken by the great and powerful sage Śukadeva Gosvāmī.}}
-
+---json
+{
+    "name":"SB 1.4.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.4.2",
+    "description":"Śaunaka said: O Sūta Gosvāmī, you are the most fortunate and respected of all those who can speak and recite. Please relate the pious message of Śrīmad-Bhāgavatam, which was spoken by the great and powerful sage Śukadeva Gosvāmī."
+}
+---
 ====== SB 1.4.2 ======
 
 > शौनक उवाच

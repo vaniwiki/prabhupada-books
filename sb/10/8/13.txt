@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.13~~
-~~bc:Text 13~~
-
-{{description>Your son Kṛṣṇa appears as an incarnation in every millennium. In the past, He assumed three different colors—white, red and yellow—and now He has appeared in a blackish color. [In another Dvāpara-yuga, He appeared (as Lord Rāmacandra) in the color of śuka, a parrot.] All such incarnations have now assembled in Kṛṣṇa.]}}
-
+---json
+{
+    "name":"SB 10.8.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 10.8.13",
+    "description":"Your son Kṛṣṇa appears as an incarnation in every millennium. In the past, He assumed three different colors—white, red and yellow—and now He has appeared in a blackish color. [In another Dvāpara-yuga, He appeared (as Lord Rāmacandra) in the color of śuka, a parrot.] All such incarnations have now assembled in Kṛṣṇa.]"
+}
+---
 ====== SB 10.8.13 ======
 
 ===== Text =====

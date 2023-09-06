@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.24.6~~
-~~bc:Text 6~~
-
-{{description>Below the abodes of the Yakṣas and Rākṣasas by a distance of 100 yojanas [800 miles] is the planet earth. Its upper limits extend as high as swans, hawks, eagles and similar large birds can fly.}}
-
+---json
+{
+    "name":"SB 5.24.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 5.24.6",
+    "description":"Below the abodes of the Yakṣas and Rākṣasas by a distance of 100 yojanas [800 miles] is the planet earth. Its upper limits extend as high as swans, hawks, eagles and similar large birds can fly."
+}
+---
 ====== SB 5.24.6 ======
 
 ===== Text =====

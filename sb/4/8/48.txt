@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.48~~
-~~bc:Text 48~~
-
-{{description>The entire body of the Supreme Personality of Godhead, Vāsudeva, is decorated. He wears a valuable jeweled helmet, necklaces and bracelets, His neck is adorned with the Kaustubha jewel, and He is dressed in yellow silk garments.}}
-
+---json
+{
+    "name":"SB 4.8.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.8.48",
+    "description":"The entire body of the Supreme Personality of Godhead, Vāsudeva, is decorated. He wears a valuable jeweled helmet, necklaces and bracelets, His neck is adorned with the Kaustubha jewel, and He is dressed in yellow silk garments."
+}
+---
 ====== SB 4.8.48 ======
 
 > किरीटिनं कुण्डलिनं केयूरवलयान्वितम् ।

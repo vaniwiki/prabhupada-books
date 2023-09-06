@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.56~~
-~~bc:Text 56~~
-
-{{description>Thereafter, when the demons had begun to destroy the higher planetary systems, the rulers of those planets went to Lord Śiva, fully surrendered unto him and said: Dear Lord, we demigods living in the three worlds are about to be vanquished. We are your followers. Kindly save us.}}
-
+---json
+{
+    "name":"SB 7.10.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 7.10.56",
+    "description":"Thereafter, when the demons had begun to destroy the higher planetary systems, the rulers of those planets went to Lord Śiva, fully surrendered unto him and said: Dear Lord, we demigods living in the three worlds are about to be vanquished. We are your followers. Kindly save us."
+}
+---
 ====== SB 7.10.56 ======
 
 ===== Text =====

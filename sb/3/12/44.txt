@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.44~~
-~~bc:Text 44~~
-
-{{description>The science of logical argument, the Vedic goals of life, and also law and order, moral codes, and the celebrated hymns bhūḥ, bhuvaḥ and svaḥ all became manifested from the mouths of Brahmā, and the praṇava oṁkāra was manifested from his heart.}}
-
+---json
+{
+    "name":"SB 3.12.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 3.12.44",
+    "description":"The science of logical argument, the Vedic goals of life, and also law and order, moral codes, and the celebrated hymns bhūḥ, bhuvaḥ and svaḥ all became manifested from the mouths of Brahmā, and the praṇava oṁkāra was manifested from his heart."
+}
+---
 ====== SB 3.12.44 ======
 
 > आन्वीक्षिकी त्रयी वार्ता दण्डनीतिस्तथैव च ।

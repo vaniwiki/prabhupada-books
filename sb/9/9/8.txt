@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.8~~
-~~bc:Text 8~~
-
-{{description>After saying this, Bhagīratha satisfied Lord Śiva by performing austerities. O King Parīkṣit, Lord Śiva was very quickly satisfied with Bhagīratha.}}
-
+---json
+{
+    "name":"SB 9.9.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.9.8",
+    "description":"After saying this, Bhagīratha satisfied Lord Śiva by performing austerities. O King Parīkṣit, Lord Śiva was very quickly satisfied with Bhagīratha."
+}
+---
 ====== SB 9.9.8 ======
 
 ===== Text =====

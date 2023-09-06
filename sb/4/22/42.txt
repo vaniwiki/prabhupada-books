@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.42~~
-~~bc:Text 42~~
-
-{{description>The King said: O brāhmaṇa, O powerful one, formerly Lord Viṣṇu showed me His causeless mercy, indicating that you would come to my house, and to confirm that blessing, you have all come.}}
-
+---json
+{
+    "name":"SB 4.22.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 4.22.42",
+    "description":"The King said: O brāhmaṇa, O powerful one, formerly Lord Viṣṇu showed me His causeless mercy, indicating that you would come to my house, and to confirm that blessing, you have all come."
+}
+---
 ====== SB 4.22.42 ======
 
 > राजोवाच

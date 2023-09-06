@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.32~~
-~~bc:Text 32~~
-
-{{description>The demigods always fear the sound of your bowstring. They are constantly in anxiety, afraid of fighting. Therefore, what can they do by their endeavors to harm you?}}
-
+---json
+{
+    "name":"SB 10.4.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 10.4.32",
+    "description":"The demigods always fear the sound of your bowstring. They are constantly in anxiety, afraid of fighting. Therefore, what can they do by their endeavors to harm you?"
+}
+---
 ====== SB 10.4.32 ======
 
 ===== Text =====

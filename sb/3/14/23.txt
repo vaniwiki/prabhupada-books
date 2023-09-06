@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.23~~
-~~bc:Text 23~~
-
-{{description>This particular time is most inauspicious because at this time the horrible-looking ghosts and constant companions of the lord of the ghosts are visible.}}
-
+---json
+{
+    "name":"SB 3.14.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.14.23",
+    "description":"This particular time is most inauspicious because at this time the horrible-looking ghosts and constant companions of the lord of the ghosts are visible."
+}
+---
 ====== SB 3.14.23 ======
 
 > एषा घोरतमा वेला घोराणां घोरदर्शना ।

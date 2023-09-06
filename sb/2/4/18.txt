@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.18~~
-~~bc:Text 18~~
-
-{{description>Kirāta, Hūṇa, Āndhra, Pulinda, Pulkaśa, Ābhīra, Śumbha, Yavana, members of the Khasa races and even others addicted to sinful acts can be purified by taking shelter of the devotees of the Lord, due to His being the supreme power. I beg to offer my respectful obeisances unto Him.}}
-
+---json
+{
+    "name":"SB 2.4.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 2.4.18",
+    "description":"Kirāta, Hūṇa, Āndhra, Pulinda, Pulkaśa, Ābhīra, Śumbha, Yavana, members of the Khasa races and even others addicted to sinful acts can be purified by taking shelter of the devotees of the Lord, due to His being the supreme power. I beg to offer my respectful obeisances unto Him."
+}
+---
 ====== SB 2.4.18 ======
 
 > किरातहूणान्ध्रपुलिन्दपुल्कशा आभीरशुम्भा यवनाः खसादयः ।

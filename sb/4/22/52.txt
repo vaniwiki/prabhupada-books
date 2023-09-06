@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.52~~
-~~bc:Text 52~~
-
-{{description>Mahārāja Pṛthu, who was very opulent due to the prosperity of his entire empire, remained at home as a householder. Since he was never inclined to utilize his opulences for the gratification of his senses, he remained unattached, exactly like the sun, which is unaffected in all circumstances.}}
-
+---json
+{
+    "name":"SB 4.22.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 4.22.52",
+    "description":"Mahārāja Pṛthu, who was very opulent due to the prosperity of his entire empire, remained at home as a householder. Since he was never inclined to utilize his opulences for the gratification of his senses, he remained unattached, exactly like the sun, which is unaffected in all circumstances."
+}
+---
 ====== SB 4.22.52 ======
 
 > गृहेषु वर्तमानोऽपि स साम्राज्यश्रियान्वितः ।

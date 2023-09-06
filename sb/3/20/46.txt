@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.46~~
-~~bc:Text 46~~
-
-{{description>The Kimpuruṣas and Kinnaras took possession of that shadowy form left by Brahmā. That is why they and their spouses sing his praises by recounting his exploits at every daybreak.}}
-
+---json
+{
+    "name":"SB 3.20.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 3.20.46",
+    "description":"The Kimpuruṣas and Kinnaras took possession of that shadowy form left by Brahmā. That is why they and their spouses sing his praises by recounting his exploits at every daybreak."
+}
+---
 ====== SB 3.20.46 ======
 
 > ते तु तज्जगृहू रूपं त्यक्तं यत्परमेष्ठिना ।

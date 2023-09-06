@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.6~~
-~~bc:Text 6~~
-
-{{description>We are now all engaged in enmity among ourselves because of this one subject matter—the container of nectar. Although we have been born in the same family, we are becoming increasingly inimical. O thin-waisted woman, who are so beautiful in Your prestigious position, we therefore request You to favor us by settling our dispute.}}
-
+---json
+{
+    "name":"SB 8.9.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 8.9.6",
+    "description":"We are now all engaged in enmity among ourselves because of this one subject matter—the container of nectar. Although we have been born in the same family, we are becoming increasingly inimical. O thin-waisted woman, who are so beautiful in Your prestigious position, we therefore request You to favor us by settling our dispute."
+}
+---
 ====== SB 8.9.6 ======
 
 ===== Text =====

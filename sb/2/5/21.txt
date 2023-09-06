@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.21~~
-~~bc:Text 21~~
-
-{{description>The Lord, who is the controller of all energies, thus creates, by His own potency, eternal time, the fate of all living entities, and their particular nature, for which they were created, and He again merges them independently.}}
-
+---json
+{
+    "name":"SB 2.5.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 2.5.21",
+    "description":"The Lord, who is the controller of all energies, thus creates, by His own potency, eternal time, the fate of all living entities, and their particular nature, for which they were created, and He again merges them independently."
+}
+---
 ====== SB 2.5.21 ======
 
 > कालं कर्म स्वभावं च मायेशो मायया स्वया ।

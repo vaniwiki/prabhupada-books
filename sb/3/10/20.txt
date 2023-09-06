@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.10.20~~
-~~bc:Text 20~~
-
-{{description>All the immovable trees and plants seek their subsistence upwards. They are almost unconscious but have feelings of pain within. They are manifested in variegatedness.}}
-
+---json
+{
+    "name":"SB 3.10.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.10.20",
+    "description":"All the immovable trees and plants seek their subsistence upwards. They are almost unconscious but have feelings of pain within. They are manifested in variegatedness."
+}
+---
 ====== SB 3.10.20 ======
 
 > उत्स्रोतसस्तमःप्राया अन्तःस्पर्शा विशेषिण ॥२०॥

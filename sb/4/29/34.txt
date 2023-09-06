@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.34~~
-~~bc:Text 34~~
-
-{{description>Nārada continued: O you who are free from all sinful activity! No one can counteract the effects of fruitive activity simply by manufacturing a different activity devoid of Kṛṣṇa consciousness. All such activity is due to our ignorance. When we have a troublesome dream, we cannot relieve it with a troublesome hallucination. One can counteract a dream only by awaking. Similarly, our material existence is due to our ignorance and illusion. Unless we awaken to Kṛṣṇa consciousness, we cannot be relieved of such dreams. For the ultimate solution to all problems, we must awaken to Kṛṣṇa consciousness.}}
-
+---json
+{
+    "name":"SB 4.29.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 4.29.34",
+    "description":"Nārada continued: O you who are free from all sinful activity! No one can counteract the effects of fruitive activity simply by manufacturing a different activity devoid of Kṛṣṇa consciousness. All such activity is due to our ignorance. When we have a troublesome dream, we cannot relieve it with a troublesome hallucination. One can counteract a dream only by awaking. Similarly, our material existence is due to our ignorance and illusion. Unless we awaken to Kṛṣṇa consciousness, we cannot be relieved of such dreams. For the ultimate solution to all problems, we must awaken to Kṛṣṇa consciousness."
+}
+---
 ====== SB 4.29.34 ======
 
 > नैकान्ततः प्रतीकारः कर्मणां कर्म केवलम् ।

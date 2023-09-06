@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.21.16~~
-~~bc:Text 16~~
-
-{{description>Although Aruṇadeva sits in front of the sun-god and is engaged in driving the chariot and controlling the horses, he looks backward toward the sun-god.}}
-
+---json
+{
+    "name":"SB 5.21.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 5.21.16",
+    "description":"Although Aruṇadeva sits in front of the sun-god and is engaged in driving the chariot and controlling the horses, he looks backward toward the sun-god."
+}
+---
 ====== SB 5.21.16 ======
 
 ===== Text =====

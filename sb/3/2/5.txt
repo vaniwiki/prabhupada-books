@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.5~~
-~~bc:Text 5~~
-
-{{description>It was so observed by Vidura that Uddhava had all the transcendental bodily changes due to total ecstasy, and he was trying to wipe away tears of separation from his eyes. Thus Vidura could understand that Uddhava had completely assimilated extensive love for the Lord.}}
-
+---json
+{
+    "name":"SB 3.2.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.2.5",
+    "description":"It was so observed by Vidura that Uddhava had all the transcendental bodily changes due to total ecstasy, and he was trying to wipe away tears of separation from his eyes. Thus Vidura could understand that Uddhava had completely assimilated extensive love for the Lord."
+}
+---
 ====== SB 3.2.5 ======
 
 > पुलकोद्भिन्नसर्वाङ्गो मुञ्चन्मीलद्दृशा शुचः ।

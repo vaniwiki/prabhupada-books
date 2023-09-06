@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.17.21~~
-~~bc:Text 21~~
-
-{{description>The cow-shaped earth continued: My dear King, I am just like a strong boat, and all the paraphernalia of the world is standing upon me. If you break me to pieces, how can you protect yourself and your subjects from drowning?}}
-
+---json
+{
+    "name":"SB 4.17.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.17.21",
+    "description":"The cow-shaped earth continued: My dear King, I am just like a strong boat, and all the paraphernalia of the world is standing upon me. If you break me to pieces, how can you protect yourself and your subjects from drowning?"
+}
+---
 ====== SB 4.17.21 ======
 
 > मां विपाट्याजरां नावं यत्र विश्वं प्रतिष्ठितम् ।

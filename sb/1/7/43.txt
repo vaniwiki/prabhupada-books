@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.43~~
-~~bc:Text 43~~
-
-{{description>She could not tolerate Aśvatthāmā's being bound by ropes, and being a devoted lady, she said: Release him, for he is a brāhmaṇa, our spiritual master.}}
-
+---json
+{
+    "name":"SB 1.7.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 1.7.43",
+    "description":"She could not tolerate Aśvatthāmā's being bound by ropes, and being a devoted lady, she said: Release him, for he is a brāhmaṇa, our spiritual master."
+}
+---
 ====== SB 1.7.43 ======
 
 > उवाच चासहन्त्यस्य बन्धनानयनं सती ।

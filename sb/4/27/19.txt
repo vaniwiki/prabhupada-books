@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.19~~
-~~bc:Text 19~~
-
-{{description>My dear King Prācīnabarhiṣat, at this time the daughter of formidable Time was seeking her husband throughout the three worlds. Although no one agreed to accept her, she came.}}
-
+---json
+{
+    "name":"SB 4.27.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.27.19",
+    "description":"My dear King Prācīnabarhiṣat, at this time the daughter of formidable Time was seeking her husband throughout the three worlds. Although no one agreed to accept her, she came."
+}
+---
 ====== SB 4.27.19 ======
 
 > कालस्य दुहिता काचित्त्रिलोकीं वरमिच्छती ।

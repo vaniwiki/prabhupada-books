@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.35~~
-~~bc:Text 35~~
-
-{{description>These are our inquiries. The ordinary conditioned soul is subject to the material laws, and he thus receives the fruits of his actions. Does Your Lordship, like an ordinary human being, exist within this material world in a body produced by the material modes? Do You enjoy or suffer the good or bad results of actions under the influence of time, past work and so forth? Or, on the contrary, are You present here only as a neutral witness who is self-sufficient, free from all material desires, and always full of spiritual potency? We certainly cannot understand Your actual position.}}
-
+---json
+{
+    "name":"SB 6.9.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 6.9.35",
+    "description":"These are our inquiries. The ordinary conditioned soul is subject to the material laws, and he thus receives the fruits of his actions. Does Your Lordship, like an ordinary human being, exist within this material world in a body produced by the material modes? Do You enjoy or suffer the good or bad results of actions under the influence of time, past work and so forth? Or, on the contrary, are You present here only as a neutral witness who is self-sufficient, free from all material desires, and always full of spiritual potency? We certainly cannot understand Your actual position."
+}
+---
 ====== SB 6.9.35 ======
 
 ===== Text =====

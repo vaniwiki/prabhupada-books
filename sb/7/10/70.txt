@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.70~~
-~~bc:Text 70~~
-
-{{description>The Lord, Śrī Kṛṣṇa, appeared as a human being, yet He performed many uncommon and wonderful pastimes by His own potency. How can I say more about His activities than what has already been said by great saintly persons? Everyone can be purified by His activities, simply by hearing about them from the right source.}}
-
+---json
+{
+    "name":"SB 7.10.70",
+    "h1":"Text 70",
+    "title":" Śrīmad Bhāgavatam 7.10.70",
+    "description":"The Lord, Śrī Kṛṣṇa, appeared as a human being, yet He performed many uncommon and wonderful pastimes by His own potency. How can I say more about His activities than what has already been said by great saintly persons? Everyone can be purified by His activities, simply by hearing about them from the right source."
+}
+---
 ====== SB 7.10.70 ======
 
 ===== Text =====

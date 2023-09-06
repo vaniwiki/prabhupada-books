@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.16.1~~
-~~bc:Text 1~~
-
-{{description>Lord Brahmā said: After thus congratulating the sages for their nice words, the Supreme Personality of Godhead, whose abode is in the kingdom of God, spoke as follows.}}
-
+---json
+{
+    "name":"SB 3.16.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.16.1",
+    "description":"Lord Brahmā said: After thus congratulating the sages for their nice words, the Supreme Personality of Godhead, whose abode is in the kingdom of God, spoke as follows."
+}
+---
 ====== SB 3.16.1 ======
 
 > ब्रह्मोवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.3~~
-~~bc:Text 3~~
-
-{{description>Actually, you have not killed the Yakṣas, nor have they killed your brother, for the ultimate cause of generation and annihilation is the eternal time feature of the Supreme Lord.}}
-
+---json
+{
+    "name":"SB 4.12.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 4.12.3",
+    "description":"Actually, you have not killed the Yakṣas, nor have they killed your brother, for the ultimate cause of generation and annihilation is the eternal time feature of the Supreme Lord."
+}
+---
 ====== SB 4.12.3 ======
 
 > न भवानवधीद्यक्षान्न यक्षा भ्रातरं तव ।

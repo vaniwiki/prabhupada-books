@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.17~~
-~~bc:Text 17~~
-
-{{description>After sitting in the above manner, make the mind remember the three transcendental letters [a-u-m], and by regulating the breathing process, control the mind so as not to forget the transcendental seed.}}
-
+---json
+{
+    "name":"SB 2.1.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 2.1.17",
+    "description":"After sitting in the above manner, make the mind remember the three transcendental letters [a-u-m], and by regulating the breathing process, control the mind so as not to forget the transcendental seed."
+}
+---
 ====== SB 2.1.17 ======
 
 > अभ्यसेन्मनसा शुद्धं त्रिवृद्ब्रह्माक्षरं परम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.2~~
-~~bc:Text 2~~
-
-{{description>The Viṣṇudūtas said: Alas, how painful it is that irreligion is being introduced into an assembly where religion should be maintained. Indeed, those in charge of maintaining the religious principles are needlessly punishing a sinless, unpunishable person.}}
-
+---json
+{
+    "name":"SB 6.2.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.2.2",
+    "description":"The Viṣṇudūtas said: Alas, how painful it is that irreligion is being introduced into an assembly where religion should be maintained. Indeed, those in charge of maintaining the religious principles are needlessly punishing a sinless, unpunishable person."
+}
+---
 ====== SB 6.2.2 ======
 
 ===== Text =====

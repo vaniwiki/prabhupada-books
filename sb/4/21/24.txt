@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.24~~
-~~bc:Text 24~~
-
-{{description>Any king who does not teach his citizens about their respective duties in terms of varṇa and āśrama but who simply exacts tolls and taxes from them is liable to suffer for the impious activities which have been performed by the citizens. In addition to such degradation, the king also loses his own fortune.}}
-
+---json
+{
+    "name":"SB 4.21.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 4.21.24",
+    "description":"Any king who does not teach his citizens about their respective duties in terms of varṇa and āśrama but who simply exacts tolls and taxes from them is liable to suffer for the impious activities which have been performed by the citizens. In addition to such degradation, the king also loses his own fortune."
+}
+---
 ====== SB 4.21.24 ======
 
 > य उद्धरेत्करं राजा प्रजा धर्मेष्वशिक्षयन् ।

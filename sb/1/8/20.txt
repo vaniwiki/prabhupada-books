@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.20~~
-~~bc:Text 20~~
-
-{{description>You Yourself descend to propagate the transcendental science of devotional service unto the hearts of the advanced transcendentalists and mental speculators, who are purified by being able to discriminate between matter and spirit. How, then, can we women know You perfectly?}}
-
+---json
+{
+    "name":"SB 1.8.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.8.20",
+    "description":"You Yourself descend to propagate the transcendental science of devotional service unto the hearts of the advanced transcendentalists and mental speculators, who are purified by being able to discriminate between matter and spirit. How, then, can we women know You perfectly?"
+}
+---
 ====== SB 1.8.20 ======
 
 > तथा परमहंसानां मुनीनाममलात्मनाम् ।

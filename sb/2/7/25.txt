@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.25~~
-~~bc:Text 25~~
-
-{{description>When Rāvaṇa was engaged in the battle, the trunk of the elephant which carried the King of heaven, Indra, broke in pieces, having collided with the chest of Rāvaṇa, and the scattered broken parts illuminated all directions. Rāvaṇa therefore felt proud of his prowess and began to loiter in the midst of the fighting soldiers, thinking himself the conqueror of all directions. But his laughter, overtaken by joy, along with his very air of life, suddenly ceased with the tingling sound of the bow of Rāmacandra, the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.7.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 2.7.25",
+    "description":"When Rāvaṇa was engaged in the battle, the trunk of the elephant which carried the King of heaven, Indra, broke in pieces, having collided with the chest of Rāvaṇa, and the scattered broken parts illuminated all directions. Rāvaṇa therefore felt proud of his prowess and began to loiter in the midst of the fighting soldiers, thinking himself the conqueror of all directions. But his laughter, overtaken by joy, along with his very air of life, suddenly ceased with the tingling sound of the bow of Rāmacandra, the Personality of Godhead."
+}
+---
 ====== SB 2.7.25 ======
 
 > वक्षःस्थलस्पर्शरुग्नमहेन्द्रवाह

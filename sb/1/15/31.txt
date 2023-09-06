@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.31~~
-~~bc:Text 31~~
-
-{{description>Because of his possessing spiritual assets, the doubts of duality were completely cut off. Thus he was freed from the three modes of material nature and placed in transcendence. There was no longer any chance of his becoming entangled in birth and death, for he was freed from material form.}}
-
+---json
+{
+    "name":"SB 1.15.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 1.15.31",
+    "description":"Because of his possessing spiritual assets, the doubts of duality were completely cut off. Thus he was freed from the three modes of material nature and placed in transcendence. There was no longer any chance of his becoming entangled in birth and death, for he was freed from material form."
+}
+---
 ====== SB 1.15.31 ======
 
 > विशोको ब्रह्मसम्पत्त्या सञ्छिन्नद्वैतसंशयः ।

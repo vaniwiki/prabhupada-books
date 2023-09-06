@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.27~~
-~~bc:Text 27~~
-
-{{description>Those who are in the modes of passion and ignorance worship the forefathers, other living beings and the demigods who are in charge of cosmic activities, for they are urged by a desire to be materially benefited with women, wealth, power and progeny.}}
-
+---json
+{
+    "name":"SB 1.2.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.2.27",
+    "description":"Those who are in the modes of passion and ignorance worship the forefathers, other living beings and the demigods who are in charge of cosmic activities, for they are urged by a desire to be materially benefited with women, wealth, power and progeny."
+}
+---
 ====== SB 1.2.27 ======
 
 > रजस्तमःप्रकृतयः समशीला भजन्ति वै ।

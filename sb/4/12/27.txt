@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.27~~
-~~bc:Text 27~~
-
-{{description>O immortal one, this unique airplane has been sent by the Supreme Personality of Godhead, who is worshiped by selected prayers and who is the chief of all living entities. You are quite worthy to board such a plane.}}
-
+---json
+{
+    "name":"SB 4.12.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 4.12.27",
+    "description":"O immortal one, this unique airplane has been sent by the Supreme Personality of Godhead, who is worshiped by selected prayers and who is the chief of all living entities. You are quite worthy to board such a plane."
+}
+---
 ====== SB 4.12.27 ======
 
 > एतद्विमानप्रवरमुत्तमश्लोकमौलिना ।

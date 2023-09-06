@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: When the supreme, ancient, eternal Personality of Godhead had thus spoken to Bali Mahārāja, who is universally accepted as a pure devotee of the Lord and therefore a great soul, Bali Mahārāja, his eyes filled with tears, his hands folded and his voice faltering in devotional ecstasy, responded as follows.}}
-
+---json
+{
+    "name":"SB 8.23.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.23.1",
+    "description":"Śukadeva Gosvāmī said: When the supreme, ancient, eternal Personality of Godhead had thus spoken to Bali Mahārāja, who is universally accepted as a pure devotee of the Lord and therefore a great soul, Bali Mahārāja, his eyes filled with tears, his hands folded and his voice faltering in devotional ecstasy, responded as follows."
+}
+---
 ====== SB 8.23.1 ======
 
 ===== Text =====

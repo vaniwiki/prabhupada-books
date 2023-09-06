@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.10~~
-~~bc:Text 10~~
-
-{{description>Within this universe, the Supreme Personality of Godhead in His Supersoul feature is present everywhere, wherever there are animate or inanimate beings. Therefore, one should accept only that which is allotted to him; one should not desire to infringe upon the property of others.}}
-
+---json
+{
+    "name":"SB 8.1.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.1.10",
+    "description":"Within this universe, the Supreme Personality of Godhead in His Supersoul feature is present everywhere, wherever there are animate or inanimate beings. Therefore, one should accept only that which is allotted to him; one should not desire to infringe upon the property of others."
+}
+---
 ====== SB 8.1.10 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.28~~
-~~bc:Text 28~~
-
-{{description>O Mahārāja Parīkṣit, pleasure of your dynasty, I have now described to you everything about the wonderful activities of the Supreme Personality of Godhead Vāmanadeva. Those who hear about this are certainly freed from all the results of sinful activities.}}
-
+---json
+{
+    "name":"SB 8.23.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.23.28",
+    "description":"O Mahārāja Parīkṣit, pleasure of your dynasty, I have now described to you everything about the wonderful activities of the Supreme Personality of Godhead Vāmanadeva. Those who hear about this are certainly freed from all the results of sinful activities."
+}
+---
 ====== SB 8.23.28 ======
 
 ===== Text =====

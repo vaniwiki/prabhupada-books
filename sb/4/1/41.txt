@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.41~~
-~~bc:Text 41~~
-
-{{description>The names of these seven sages are as follows: Citraketu, Suroci, Virajā, Mitra, Ulbaṇa, Vasubhṛdyāna and Dyumān. Some other very competent sons were born from Vasiṣṭha's other wife.}}
-
+---json
+{
+    "name":"SB 4.1.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.1.41",
+    "description":"The names of these seven sages are as follows: Citraketu, Suroci, Virajā, Mitra, Ulbaṇa, Vasubhṛdyāna and Dyumān. Some other very competent sons were born from Vasiṣṭha's other wife."
+}
+---
 ====== SB 4.1.41 ======
 
 > चित्रकेतुः सुरोचिश्च विरजा मित्र एव च ।

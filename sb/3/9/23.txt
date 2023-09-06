@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.23~~
-~~bc:Text 23~~
-
-{{description>The Supreme Lord, the Personality of Godhead, is always the benefactor of the surrendered souls. His activities are always enacted through His internal potency, Ramā, or the goddess of fortune. I pray only to engage in His service in the creation of the material world, and I pray that I not be materially affected by my works, for thus I may be able to give up the false prestige of being the creator.}}
-
+---json
+{
+    "name":"SB 3.9.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.9.23",
+    "description":"The Supreme Lord, the Personality of Godhead, is always the benefactor of the surrendered souls. His activities are always enacted through His internal potency, Ramā, or the goddess of fortune. I pray only to engage in His service in the creation of the material world, and I pray that I not be materially affected by my works, for thus I may be able to give up the false prestige of being the creator."
+}
+---
 ====== SB 3.9.23 ======
 
 > एष प्रपन्नवरदो रमयात्मशक्त्या

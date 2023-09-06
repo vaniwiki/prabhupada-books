@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.5~~
-~~bc:Text 5~~
-
-{{description>One must observe silence, acquire steadiness by practicing different yogic postures, control the breathing of the vital air, withdraw the senses from sense objects and thus concentrate the mind on the heart.}}
-
+---json
+{
+    "name":"SB 3.28.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.28.5",
+    "description":"One must observe silence, acquire steadiness by practicing different yogic postures, control the breathing of the vital air, withdraw the senses from sense objects and thus concentrate the mind on the heart."
+}
+---
 ====== SB 3.28.5 ======
 
 > मौनं सदासनजयः स्थैर्यं प्राणजयः शनैः ।

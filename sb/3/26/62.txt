@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.62~~
-~~bc:Text 62~~
-
-{{description>When the demigods and presiding deities of the various senses were thus manifested, they wanted to wake their origin of appearance. But upon failing to do so, they reentered the body of the virāṭ-puruṣa one after another in order to wake Him.}}
-
+---json
+{
+    "name":"SB 3.26.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 3.26.62",
+    "description":"When the demigods and presiding deities of the various senses were thus manifested, they wanted to wake their origin of appearance. But upon failing to do so, they reentered the body of the virāṭ-puruṣa one after another in order to wake Him."
+}
+---
 ====== SB 3.26.62 ======
 
 > एते ह्यभ्युत्थिता देवा नैवास्योत्थापनेऽशकन् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.39~~
-~~bc:Text 39~~
-
-{{description>Madayantī bore the child within the womb for seven years and did not give birth. Therefore Vasiṣṭha struck her abdomen with a stone, and then the child was born. Consequently, the child was known as Aśmaka ["the child born of a stone"].}}
-
+---json
+{
+    "name":"SB 9.9.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 9.9.39",
+    "description":"Madayantī bore the child within the womb for seven years and did not give birth. Therefore Vasiṣṭha struck her abdomen with a stone, and then the child was born. Consequently, the child was known as Aśmaka ["the child born of a stone"]."
+}
+---
 ====== SB 9.9.39 ======
 
 ===== Text =====

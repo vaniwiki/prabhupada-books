@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.3~~
-~~bc:Text 3~~
-
-{{description>There sat the King of the Kurus, Mahārāja Yudhiṣṭhira, along with his younger brothers and Dhṛtarāṣṭra, Gāndhārī, Kuntī and Draupadī, all overwhelmed with grief. Lord Kṛṣṇa was also there.}}
-
+---json
+{
+    "name":"SB 1.8.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.8.3",
+    "description":"There sat the King of the Kurus, Mahārāja Yudhiṣṭhira, along with his younger brothers and Dhṛtarāṣṭra, Gāndhārī, Kuntī and Draupadī, all overwhelmed with grief. Lord Kṛṣṇa was also there."
+}
+---
 ====== SB 1.8.3 ======
 
 > तत्रासीनं कुरुपतिं धृतराष्ट्रं सहानुजम् ।

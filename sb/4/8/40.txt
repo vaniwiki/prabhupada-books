@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.40~~
-~~bc:Text 40~~
-
-{{description>The great sage Nārada told Dhruva Mahārāja: The instruction given by your mother, Sunīti, to follow the path of devotional service to the Supreme Personality of Godhead, is just suitable for you. You should therefore completely absorb yourself in the devotional service of the Lord.}}
-
+---json
+{
+    "name":"SB 4.8.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 4.8.40",
+    "description":"The great sage Nārada told Dhruva Mahārāja: The instruction given by your mother, Sunīti, to follow the path of devotional service to the Supreme Personality of Godhead, is just suitable for you. You should therefore completely absorb yourself in the devotional service of the Lord."
+}
+---
 ====== SB 4.8.40 ======
 
 > नारद उवाच

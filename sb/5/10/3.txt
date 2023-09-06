@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.10.3~~
-~~bc:Text 3~~
-
-{{description>When the palanquin carriers heard the threatening words of Mahārāja Rahūgaṇa, they became very afraid of his punishment and began to speak to him as follows.}}
-
+---json
+{
+    "name":"SB 5.10.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 5.10.3",
+    "description":"When the palanquin carriers heard the threatening words of Mahārāja Rahūgaṇa, they became very afraid of his punishment and began to speak to him as follows."
+}
+---
 ====== SB 5.10.3 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.11~~
-~~bc:Text 11~~
-
-{{description>The sons of Mahārāja Pāṇḍu were sitting silently nearby, overtaken with affection for their dying grandfather. Seeing this, Bhīṣmadeva congratulated them with feeling. There were tears of ecstasy in his eyes, for he was overwhelmed by love and affection.}}
-
+---json
+{
+    "name":"SB 1.9.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 1.9.11",
+    "description":"The sons of Mahārāja Pāṇḍu were sitting silently nearby, overtaken with affection for their dying grandfather. Seeing this, Bhīṣmadeva congratulated them with feeling. There were tears of ecstasy in his eyes, for he was overwhelmed by love and affection."
+}
+---
 ====== SB 1.9.11 ======
 
 > पाण्डुपुत्रानुपासीनान्प्रश्रयप्रेमसङ्गतान् ।

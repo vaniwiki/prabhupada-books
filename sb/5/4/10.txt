@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.4.10~~
-~~bc:Text 10~~
-
-{{description>Following Bharata, there were ninety-nine other sons. Among these were nine elderly sons, named Kuśāvarta, Ilāvarta, Brahmāvarta, Malaya, Ketu, Bhadrasena, Indraspṛk, Vidarbha and Kīkaṭa.}}
-
+---json
+{
+    "name":"SB 5.4.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.4.10",
+    "description":"Following Bharata, there were ninety-nine other sons. Among these were nine elderly sons, named Kuśāvarta, Ilāvarta, Brahmāvarta, Malaya, Ketu, Bhadrasena, Indraspṛk, Vidarbha and Kīkaṭa."
+}
+---
 ====== SB 5.4.10 ======
 
 ===== Text =====

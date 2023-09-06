@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.4.9~~
-~~bc:Text 9~~
-
-{{description>By nature's arrangement, fruits and flowers are considered the food of insects and birds; grass and other legless living entities are meant to be the food of four-legged animals like cows and buffalo; animals that cannot use their front legs as hands are meant to be the food of animals like tigers, which have claws; and four-legged animals like deer and goats, as well as food grains, are meant to be the food of human beings.}}
-
+---json
+{
+    "name":"SB 6.4.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 6.4.9",
+    "description":"By nature's arrangement, fruits and flowers are considered the food of insects and birds; grass and other legless living entities are meant to be the food of four-legged animals like cows and buffalo; animals that cannot use their front legs as hands are meant to be the food of animals like tigers, which have claws; and four-legged animals like deer and goats, as well as food grains, are meant to be the food of human beings."
+}
+---
 ====== SB 6.4.9 ======
 
 ===== Text =====

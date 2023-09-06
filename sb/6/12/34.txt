@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.12.34~~
-~~bc:Text 34~~
-
-{{description>When Vṛtrāsura was killed, the Gandharvas and Siddhas in the heavenly planets beat kettledrums in jubilation. With Vedic hymns they celebrated the prowess of Indra, the killer of Vṛtrāsura, praising Indra and showering flowers upon him with great pleasure.}}
-
+---json
+{
+    "name":"SB 6.12.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 6.12.34",
+    "description":"When Vṛtrāsura was killed, the Gandharvas and Siddhas in the heavenly planets beat kettledrums in jubilation. With Vedic hymns they celebrated the prowess of Indra, the killer of Vṛtrāsura, praising Indra and showering flowers upon him with great pleasure."
+}
+---
 ====== SB 6.12.34 ======
 
 ===== Text =====

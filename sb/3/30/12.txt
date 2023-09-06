@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.12~~
-~~bc:Text 12~~
-
-{{description>Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply.}}
-
+---json
+{
+    "name":"SB 3.30.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.30.12",
+    "description":"Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply."
+}
+---
 ====== SB 3.30.12 ======
 
 > कुटुम्बभरणाकल्पो मन्दभाग्यो वृथोद्यमः ।

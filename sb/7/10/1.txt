@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.10.1~~
-~~bc:Text 1~~
-
-{{description>The saint Nārada Muni continued: Although Prahlāda Mahārāja was only a boy, when he heard the benedictions offered by Lord Nṛsiṁhadeva he considered them impediments on the path of devotional service. Thus he smiled very mildly and spoke as follows.}}
-
+---json
+{
+    "name":"SB 7.10.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.10.1",
+    "description":"The saint Nārada Muni continued: Although Prahlāda Mahārāja was only a boy, when he heard the benedictions offered by Lord Nṛsiṁhadeva he considered them impediments on the path of devotional service. Thus he smiled very mildly and spoke as follows."
+}
+---
 ====== SB 7.10.1 ======
 
 ===== Text =====

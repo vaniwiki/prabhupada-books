@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.31~~
-~~bc:Text 31~~
-
-{{description>Varuṇa continued: On reaching Him you will be rid of your pride at once and will lie down on the field of battle, surrounded by dogs, for eternal sleep. It is in order to exterminate wicked fellows like you and to show His grace to the virtuous that He assumes His various incarnations like Varāha.}}
-
+---json
+{
+    "name":"SB 3.17.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 3.17.31",
+    "description":"Varuṇa continued: On reaching Him you will be rid of your pride at once and will lie down on the field of battle, surrounded by dogs, for eternal sleep. It is in order to exterminate wicked fellows like you and to show His grace to the virtuous that He assumes His various incarnations like Varāha."
+}
+---
 ====== SB 3.17.31 ======
 
 > तं वीरमारादभिपद्य विस्मयः शयिष्यसे वीरशये श्वभिर्वृतः ।

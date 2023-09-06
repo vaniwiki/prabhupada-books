@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.14~~
-~~bc:Text 14~~
-
-{{description>My dear great and powerful Lord Śiva, you were created first from the mouth of Lord Brahmā in order to protect the brāhmaṇas in pursuing education, austerities, vows and self-realization. As protector of the brāhmaṇas, you always protect the regulative principles they follow, just as a cowherd boy keeps a stick in his hand to give protection to the cows.}}
-
+---json
+{
+    "name":"SB 4.7.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 4.7.14",
+    "description":"My dear great and powerful Lord Śiva, you were created first from the mouth of Lord Brahmā in order to protect the brāhmaṇas in pursuing education, austerities, vows and self-realization. As protector of the brāhmaṇas, you always protect the regulative principles they follow, just as a cowherd boy keeps a stick in his hand to give protection to the cows."
+}
+---
 ====== SB 4.7.14 ======
 
 > विद्यातपोव्रतधरान्मुखतः स्म विप्रान्

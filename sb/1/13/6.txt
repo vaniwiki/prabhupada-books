@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.6~~
-~~bc:Text 6~~
-
-{{description>Due to anxieties and long separation, they all cried out of affection. King Yudhiṣṭhira then arranged to offer sitting accommodations and a reception.}}
-
+---json
+{
+    "name":"SB 1.13.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.13.6",
+    "description":"Due to anxieties and long separation, they all cried out of affection. King Yudhiṣṭhira then arranged to offer sitting accommodations and a reception."
+}
+---
 ====== SB 1.13.6 ======
 
 > मुमुचुः प्रेमबाष्पौघं विरहौत्कण्ठ्यकातराः ।

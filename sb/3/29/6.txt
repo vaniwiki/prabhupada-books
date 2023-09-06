@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.6~~
-~~bc:Text 6~~
-
-{{description>Śrī Maitreya said: O best amongst the Kurus, the great sage Kapila, moved by great compassion and pleased by the words of His glorious mother, spoke as follows.}}
-
+---json
+{
+    "name":"SB 3.29.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 3.29.6",
+    "description":"Śrī Maitreya said: O best amongst the Kurus, the great sage Kapila, moved by great compassion and pleased by the words of His glorious mother, spoke as follows."
+}
+---
 ====== SB 3.29.6 ======
 
 > मैत्रेय उवाच

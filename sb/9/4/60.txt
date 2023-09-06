@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.60~~
-~~bc:Text 60~~
-
-{{description>Thereafter, being disappointed even in taking shelter of Lord Śiva, Durvāsā Muni went to Vaikuṇṭha-dhāma, where the Supreme Personality of Godhead, Nārāyaṇa, resides with His consort, the goddess of fortune.}}
-
+---json
+{
+    "name":"SB 9.4.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 9.4.60",
+    "description":"Thereafter, being disappointed even in taking shelter of Lord Śiva, Durvāsā Muni went to Vaikuṇṭha-dhāma, where the Supreme Personality of Godhead, Nārāyaṇa, resides with His consort, the goddess of fortune."
+}
+---
 ====== SB 9.4.60 ======
 
 ===== Text =====

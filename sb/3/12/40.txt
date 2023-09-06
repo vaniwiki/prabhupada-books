@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.40~~
-~~bc:Text 40~~
-
-{{description>All the different varieties of fire sacrifices [ṣoḍaśī, uktha, purīṣi, agniṣṭoma, āptoryāma, atirātra, vājapeya and gosava] became manifested from the eastern mouth of Brahmā.}}
-
+---json
+{
+    "name":"SB 3.12.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 3.12.40",
+    "description":"All the different varieties of fire sacrifices [ṣoḍaśī, uktha, purīṣi, agniṣṭoma, āptoryāma, atirātra, vājapeya and gosava] became manifested from the eastern mouth of Brahmā."
+}
+---
 ====== SB 3.12.40 ======
 
 > षोडश्युक्थौ पूर्ववक्त्रात्पुरीष्यग्निष्टुतावथ ।

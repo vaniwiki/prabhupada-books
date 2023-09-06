@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.3~~
-~~bc:Text 3~~
-
-{{description>It is believed that all the universal planetary systems are situated on the extensive body of the puruṣa, but He has nothing to do with the created material ingredients. His body is eternally in spiritual existence par excellence.}}
-
+---json
+{
+    "name":"SB 1.3.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.3.3",
+    "description":"It is believed that all the universal planetary systems are situated on the extensive body of the puruṣa, but He has nothing to do with the created material ingredients. His body is eternally in spiritual existence par excellence."
+}
+---
 ====== SB 1.3.3 ======
 
 > यस्यावयवसंस्थानैः कल्पितो लोकविस्तरः ।

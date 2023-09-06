@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.26~~
-~~bc:Text 26~~
-
-{{description>The inhabitants of Gandharvaloka and Cāraṇaloka then took the opportunity to play their musical instruments, such as conchshells, bugles and drums. They began dancing and singing along with their wives.}}
-
+---json
+{
+    "name":"SB 8.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.8.26",
+    "description":"The inhabitants of Gandharvaloka and Cāraṇaloka then took the opportunity to play their musical instruments, such as conchshells, bugles and drums. They began dancing and singing along with their wives."
+}
+---
 ====== SB 8.8.26 ======
 
 ===== Text =====

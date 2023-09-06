@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.5~~
-~~bc:Text 5~~
-
-{{description>With great delight they all approached him, as if life had returned to their bodies. They exchanged obeisances and welcomed each other with embraces.}}
-
+---json
+{
+    "name":"SB 1.13.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 1.13.5",
+    "description":"With great delight they all approached him, as if life had returned to their bodies. They exchanged obeisances and welcomed each other with embraces."
+}
+---
 ====== SB 1.13.5 ======
 
 > प्रत्युज्जग्मुः प्रहर्षेण प्राणं तन्व इवागतम् ।

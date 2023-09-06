@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.9~~
-~~bc:Text 9~~
-
-{{description>Similarly, south of Ilāvṛta-varṣa and extending from east to west are three great mountains named (from north to south) Niṣadha, Hemakūṭa and Himālaya. Each of them is 10,000 yojanas [80,000 miles] high. They mark the boundaries of the three varṣas named Hari-varṣa, Kimpuruṣa-varṣa and Bhārata-varṣa [India].}}
-
+---json
+{
+    "name":"SB 5.16.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 5.16.9",
+    "description":"Similarly, south of Ilāvṛta-varṣa and extending from east to west are three great mountains named (from north to south) Niṣadha, Hemakūṭa and Himālaya. Each of them is 10,000 yojanas [80,000 miles] high. They mark the boundaries of the three varṣas named Hari-varṣa, Kimpuruṣa-varṣa and Bhārata-varṣa [India]."
+}
+---
 ====== SB 5.16.9 ======
 
 ===== Text =====

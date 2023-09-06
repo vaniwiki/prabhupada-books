@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.34~~
-~~bc:Text 34~~
-
-{{description>Citraketu said: O unconquerable Lord, although You cannot be conquered by anyone, You are certainly conquered by devotees who have control of the mind and senses. They can keep You under their control because You are causelessly merciful to devotees who desire no material profit from You. Indeed, You give Yourself to them, and because of this You also have full control over Your devotees.}}
-
+---json
+{
+    "name":"SB 6.16.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 6.16.34",
+    "description":"Citraketu said: O unconquerable Lord, although You cannot be conquered by anyone, You are certainly conquered by devotees who have control of the mind and senses. They can keep You under their control because You are causelessly merciful to devotees who desire no material profit from You. Indeed, You give Yourself to them, and because of this You also have full control over Your devotees."
+}
+---
 ====== SB 6.16.34 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.16~~
-~~bc:Text 16~~
-
-{{description>The Personality of Godhead now exhibited His anger and rushed to meet the demon, who bit his lip in rage, took up his mace again and began to repeatedly brandish it about.}}
-
+---json
+{
+    "name":"SB 3.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.18.16",
+    "description":"The Personality of Godhead now exhibited His anger and rushed to meet the demon, who bit his lip in rage, took up his mace again and began to repeatedly brandish it about."
+}
+---
 ====== SB 3.18.16 ======
 
 > पुनर्गदां स्वामादाय भ्रामयन्तमभीक्ष्णशः ।

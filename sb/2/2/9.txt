@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.9~~
-~~bc:Text 9~~
-
-{{description>His mouth expresses His happiness. His eyes spread like the petals of a lotus, and His garments, yellowish like the saffron of a kadamba flower, are bedecked with valuable jewels. His ornaments are all made of gold, set with jewels, and He wears a glowing head dress and earrings.}}
-
+---json
+{
+    "name":"SB 2.2.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 2.2.9",
+    "description":"His mouth expresses His happiness. His eyes spread like the petals of a lotus, and His garments, yellowish like the saffron of a kadamba flower, are bedecked with valuable jewels. His ornaments are all made of gold, set with jewels, and He wears a glowing head dress and earrings."
+}
+---
 ====== SB 2.2.9 ======
 
 > रसन्नवक्त्रं नलिनायतेक्षणं कदम्बकिञ्जल्कपिशङ्गवाससम् ।

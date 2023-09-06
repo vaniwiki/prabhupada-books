@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.24~~
-~~bc:Text 24~~
-
-{{description>Seeing Arjuna pale due to heartfelt anxieties, the King, remembering the indications of the sage Nārada, questioned him in the midst of friends.}}
-
+---json
+{
+    "name":"SB 1.14.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 1.14.24",
+    "description":"Seeing Arjuna pale due to heartfelt anxieties, the King, remembering the indications of the sage Nārada, questioned him in the midst of friends."
+}
+---
 ====== SB 1.14.24 ======
 
 > विलोक्योद्विग्नहृदयो विच्छायमनुजं नृपः ।

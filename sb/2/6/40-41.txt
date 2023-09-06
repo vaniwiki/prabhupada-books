@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.40-41~~
-~~bc:Text 40-41~~
-
-{{description>The Personality of Godhead is pure, being free from all contaminations of material tinges. He is the Absolute Truth and the embodiment of full and perfect knowledge. He is all-pervading, without beginning or end, and without rival. O Nārada, O great sage, the great thinkers can know Him when completely freed from all material hankerings and when sheltered under undisturbed conditions of the senses. Otherwise, by untenable arguments, all is distorted, and the Lord disappears from our sight.}}
-
+---json
+{
+    "name":"SB 2.6.40-41",
+    "h1":"Text 40-41",
+    "title":" Śrīmad Bhāgavatam 2.6.40-41",
+    "description":"The Personality of Godhead is pure, being free from all contaminations of material tinges. He is the Absolute Truth and the embodiment of full and perfect knowledge. He is all-pervading, without beginning or end, and without rival. O Nārada, O great sage, the great thinkers can know Him when completely freed from all material hankerings and when sheltered under undisturbed conditions of the senses. Otherwise, by untenable arguments, all is distorted, and the Lord disappears from our sight."
+}
+---
 ====== SB 2.6.40-41 ======
 
 > विशुद्धं केवलं ज्ञानं प्रत्यक्सम्यगवस्थितम् ।

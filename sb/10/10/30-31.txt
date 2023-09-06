@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.10.30-31~~
-~~bc:Text 30-31~~
-
-{{description>You are the Supreme Personality of Godhead, the controller of everything. The body, life, ego and senses of every living entity are Your own self. You are the Supreme Person, Viṣṇu, the imperishable controller. You are the time factor, the immediate cause, and You are material nature, consisting of the three modes passion, goodness and ignorance. You are the original cause of this material manifestation. You are the Supersoul, and therefore You know everything within the core of the heart of every living entity.}}
-
+---json
+{
+    "name":"SB 10.10.30-31",
+    "h1":"Text 30-31",
+    "title":" Śrīmad Bhāgavatam 10.10.30-31",
+    "description":"You are the Supreme Personality of Godhead, the controller of everything. The body, life, ego and senses of every living entity are Your own self. You are the Supreme Person, Viṣṇu, the imperishable controller. You are the time factor, the immediate cause, and You are material nature, consisting of the three modes passion, goodness and ignorance. You are the original cause of this material manifestation. You are the Supersoul, and therefore You know everything within the core of the heart of every living entity."
+}
+---
 ====== SB 10.10.30-31 ======
 
 ===== Text =====

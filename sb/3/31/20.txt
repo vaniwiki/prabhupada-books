@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.20~~
-~~bc:Text 20~~
-
-{{description>Therefore, my Lord, although I am living in a terrible condition, I do not wish to depart from my mother's abdomen to fall again into the blind well of materialistic life. Your external energy, called deva-māyā, at once captures the newly born child, and immediately false identification, which is the beginning of the cycle of continual birth and death, begins.}}
-
+---json
+{
+    "name":"SB 3.31.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.31.20",
+    "description":"Therefore, my Lord, although I am living in a terrible condition, I do not wish to depart from my mother's abdomen to fall again into the blind well of materialistic life. Your external energy, called deva-māyā, at once captures the newly born child, and immediately false identification, which is the beginning of the cycle of continual birth and death, begins."
+}
+---
 ====== SB 3.31.20 ======
 
 > सोऽहं वसन्नपि विभो बहुदुःखवासं

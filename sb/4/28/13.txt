@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.13~~
-~~bc:Text 13~~
-
-{{description>The city's superintendent of police, the serpent, saw that the citizens were being attacked by Kālakanyā, and he became very aggrieved to see his own residence set ablaze after being attacked by the Yavanas.}}
-
+---json
+{
+    "name":"SB 4.28.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.28.13",
+    "description":"The city's superintendent of police, the serpent, saw that the citizens were being attacked by Kālakanyā, and he became very aggrieved to see his own residence set ablaze after being attacked by the Yavanas."
+}
+---
 ====== SB 4.28.13 ======
 
 > यवनोपरुद्धायतनो ग्रस्तायां कालकन्यया ।

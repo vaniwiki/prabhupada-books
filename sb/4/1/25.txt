@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.25~~
-~~bc:Text 25~~
-
-{{description>Atri Muni was greatly pleased to see that the three devas were gracious towards him. His eyes were dazzled by the effulgence of their bodies, and therefore he closed his eyes for the time being.}}
-
+---json
+{
+    "name":"SB 4.1.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.1.25",
+    "description":"Atri Muni was greatly pleased to see that the three devas were gracious towards him. His eyes were dazzled by the effulgence of their bodies, and therefore he closed his eyes for the time being."
+}
+---
 ====== SB 4.1.25 ======
 
 > कृपावलोकेन हसद् वदनेनोपलम्भितान् ।

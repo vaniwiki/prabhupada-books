@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.5~~
-~~bc:Text 5~~
-
-{{description>Deriving its nutrition from the food and drink taken by the mother, the fetus grows and remains in that abominable residence of stools and urine, which is the breeding place of all kinds of worms.}}
-
+---json
+{
+    "name":"SB 3.31.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.31.5",
+    "description":"Deriving its nutrition from the food and drink taken by the mother, the fetus grows and remains in that abominable residence of stools and urine, which is the breeding place of all kinds of worms."
+}
+---
 ====== SB 3.31.5 ======
 
 > मातुर्जग्धान्नपानाद्यैरेधद्धातुरसम्मते ।

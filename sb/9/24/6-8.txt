@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.6-8~~
-~~bc:Text 6-8~~
-
-{{description>The son of Anu was Puruhotra, the son of Puruhotra was Ayu, and the son of Ayu was Sātvata. O great Āryan King, Sātvata had seven sons, named Bhajamāna, Bhaji, Divya, Vṛṣṇi, Devāvṛdha, Andhaka and Mahābhoja. From Bhajamāna by one wife came three sons—Nimloci, Kiṅkaṇa and Dhṛṣṭi. And from his other wife came three other sons—Śatājit, Sahasrājit and Ayutājit.}}
-
+---json
+{
+    "name":"SB 9.24.6-8",
+    "h1":"Text 6-8",
+    "title":" Śrīmad Bhāgavatam 9.24.6-8",
+    "description":"The son of Anu was Puruhotra, the son of Puruhotra was Ayu, and the son of Ayu was Sātvata. O great Āryan King, Sātvata had seven sons, named Bhajamāna, Bhaji, Divya, Vṛṣṇi, Devāvṛdha, Andhaka and Mahābhoja. From Bhajamāna by one wife came three sons—Nimloci, Kiṅkaṇa and Dhṛṣṭi. And from his other wife came three other sons—Śatājit, Sahasrājit and Ayutājit."
+}
+---
 ====== SB 9.24.6-8 ======
 
 ===== Text =====

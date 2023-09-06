@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.43~~
-~~bc:Text 43~~
-
-{{description>As a player sets up and disperses his playthings according to his own sweet will, so the supreme will of the Lord brings men together and separates them.}}
-
+---json
+{
+    "name":"SB 1.13.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 1.13.43",
+    "description":"As a player sets up and disperses his playthings according to his own sweet will, so the supreme will of the Lord brings men together and separates them."
+}
+---
 ====== SB 1.13.43 ======
 
 > यथा क्रीडोपस्कराणां संयोगविगमाविह ।

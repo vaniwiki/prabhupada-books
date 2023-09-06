@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.27.6~~
-~~bc:Text 6~~
-
-{{description>The great sage Nārada then addressed King Prācīnabarhiṣat: O one whose life-span is great [virāṭ], in this way King Purañjana begot 1,100 sons within the womb of his wife, Purañjanī. However, in this business he passed away half of his life-span.}}
-
+---json
+{
+    "name":"SB 4.27.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.27.6",
+    "description":"The great sage Nārada then addressed King Prācīnabarhiṣat: O one whose life-span is great [virāṭ], in this way King Purañjana begot 1,100 sons within the womb of his wife, Purañjanī. However, in this business he passed away half of his life-span."
+}
+---
 ====== SB 4.27.6 ======
 
 > तस्यामजनयत्पुत्रान्पुरञ्जन्यां पुरञ्जनः ।

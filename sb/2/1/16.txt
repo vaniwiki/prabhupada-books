@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.16~~
-~~bc:Text 16~~
-
-{{description>One should leave home and practice self-control. In a sacred place he should bathe regularly and sit down in a lonely place duly sanctified.}}
-
+---json
+{
+    "name":"SB 2.1.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 2.1.16",
+    "description":"One should leave home and practice self-control. In a sacred place he should bathe regularly and sit down in a lonely place duly sanctified."
+}
+---
 ====== SB 2.1.16 ======
 
 > गृहात्प्रव्रजितो धीरः पुण्यतीर्थजलाप्लुतः ।

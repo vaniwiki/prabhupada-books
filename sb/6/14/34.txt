@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.34~~
-~~bc:Text 34~~
-
-{{description>Unto the brāhmaṇas who took part in the ritualistic ceremony the King gave charity of gold, silver, garments, ornaments, villages, horses and elephants, as well as sixty crores of cows [six hundred million cows].}}
-
+---json
+{
+    "name":"SB 6.14.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 6.14.34",
+    "description":"Unto the brāhmaṇas who took part in the ritualistic ceremony the King gave charity of gold, silver, garments, ornaments, villages, horses and elephants, as well as sixty crores of cows [six hundred million cows]."
+}
+---
 ====== SB 6.14.34 ======
 
 ===== Text =====

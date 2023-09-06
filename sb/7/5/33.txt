@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.33~~
-~~bc:Text 33~~
-
-{{description>After Prahlāda Mahārāja had spoken in this way and become silent, Hiraṇyakaśipu, blinded by anger, threw him off his lap and onto the ground.}}
-
+---json
+{
+    "name":"SB 7.5.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 7.5.33",
+    "description":"After Prahlāda Mahārāja had spoken in this way and become silent, Hiraṇyakaśipu, blinded by anger, threw him off his lap and onto the ground."
+}
+---
 ====== SB 7.5.33 ======
 
 ===== Text =====

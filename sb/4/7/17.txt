@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.17~~
-~~bc:Text 17~~
-
-{{description>Thereafter, in order to resume the activities of sacrifice, the brāhmaṇas first arranged to purify the sacrificial arena of the contamination caused by the touch of Vīrabhadra and the other ghostly followers of Lord Śiva. Then they arranged to offer into the fire the oblations known as puroḍāśa.}}
-
+---json
+{
+    "name":"SB 4.7.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.7.17",
+    "description":"Thereafter, in order to resume the activities of sacrifice, the brāhmaṇas first arranged to purify the sacrificial arena of the contamination caused by the touch of Vīrabhadra and the other ghostly followers of Lord Śiva. Then they arranged to offer into the fire the oblations known as puroḍāśa."
+}
+---
 ====== SB 4.7.17 ======
 
 > वैष्णवं यज्ञसन्तत्यै त्रिकपालं द्विजोत्तमाः ।

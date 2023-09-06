@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.20~~
-~~bc:Text 20~~
-
-{{description>Sanat-kumāra continued: My dear King, you already have an inclination to glorify the lotus feet of the Supreme Personality of Godhead. Such attachment is very difficult to achieve, but when one has attained such unflinching faith in the Lord, it automatically cleanses lusty desires from the core of the heart.}}
-
+---json
+{
+    "name":"SB 4.22.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.22.20",
+    "description":"Sanat-kumāra continued: My dear King, you already have an inclination to glorify the lotus feet of the Supreme Personality of Godhead. Such attachment is very difficult to achieve, but when one has attained such unflinching faith in the Lord, it automatically cleanses lusty desires from the core of the heart."
+}
+---
 ====== SB 4.22.20 ======
 
 > अस्त्येव राजन्भवतो मधुद्विषः पादारविन्दस्य गुणानुवादने ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.2~~
-~~bc:Text 2~~
-
-{{description>Vidura said: O great sage, what did Svāyambhuva, the dear son of Brahmā, do after obtaining his very loving wife?}}
-
+---json
+{
+    "name":"SB 3.13.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 3.13.2",
+    "description":"Vidura said: O great sage, what did Svāyambhuva, the dear son of Brahmā, do after obtaining his very loving wife?"
+}
+---
 ====== SB 3.13.2 ======
 
 > विदुर उवाच

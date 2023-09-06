@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.50~~
-~~bc:Text 50~~
-
-{{description>When all these elements were unmixed, the Supreme Personality of Godhead, the origin of creation, along with time, work, and the qualities of the modes of material nature, entered into the universe with the total material energy in seven divisions.}}
-
+---json
+{
+    "name":"SB 3.26.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 3.26.50",
+    "description":"When all these elements were unmixed, the Supreme Personality of Godhead, the origin of creation, along with time, work, and the qualities of the modes of material nature, entered into the universe with the total material energy in seven divisions."
+}
+---
 ====== SB 3.26.50 ======
 
 > एतान्यसंहत्य यदा महदादीनि सप्त वै ।

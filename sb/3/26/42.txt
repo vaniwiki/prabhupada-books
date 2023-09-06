@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.42~~
-~~bc:Text 42~~
-
-{{description>Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances.}}
-
+---json
+{
+    "name":"SB 3.26.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 3.26.42",
+    "description":"Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances."
+}
+---
 ====== SB 3.26.42 ======
 
 > कषायो मधुरस्तिक्तः कट्वम्ल इति नैकधा ।

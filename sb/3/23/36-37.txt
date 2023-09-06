@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.36-37~~
-~~bc:Text 36-37~~
-
-{{description>The sage could see that Devahūti had washed herself clean and was shining forth as though no longer his former wife. She had regained her own original beauty as the daughter of a prince. Dressed in excellent robes, her charming breasts duly girded, she was waited upon by a thousand Gandharva girls. O destroyer of the enemy, his fondness for her grew, and he placed her on the aerial mansion.}}
-
+---json
+{
+    "name":"SB 3.23.36-37",
+    "h1":"Text 36-37",
+    "title":" Śrīmad Bhāgavatam 3.23.36-37",
+    "description":"The sage could see that Devahūti had washed herself clean and was shining forth as though no longer his former wife. She had regained her own original beauty as the daughter of a prince. Dressed in excellent robes, her charming breasts duly girded, she was waited upon by a thousand Gandharva girls. O destroyer of the enemy, his fondness for her grew, and he placed her on the aerial mansion."
+}
+---
 ====== SB 3.23.36-37 ======
 
 > स तां कृतमलस्नानां विभ्राजन्तीमपूर्ववत् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.8.22~~
-~~bc:Text 22~~
-
-{{description>Please also explain how, merged in the body of the Lord, living beings are created, and how the infidels appear in the world. Also please explain how the unconditioned living entities exist.}}
-
+---json
+{
+    "name":"SB 2.8.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 2.8.22",
+    "description":"Please also explain how, merged in the body of the Lord, living beings are created, and how the infidels appear in the world. Also please explain how the unconditioned living entities exist."
+}
+---
 ====== SB 2.8.22 ======
 
 > यो वानुशायिनां सर्गः पाषण्डस्य च सम्भवः ।

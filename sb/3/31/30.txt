@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.30~~
-~~bc:Text 30~~
-
-{{description>By such ignorance the living entity accepts the material body, which is made of five elements, as himself. With this misunderstanding, he accepts nonpermanent things as his own and increases his ignorance in the darkest region.}}
-
+---json
+{
+    "name":"SB 3.31.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.31.30",
+    "description":"By such ignorance the living entity accepts the material body, which is made of five elements, as himself. With this misunderstanding, he accepts nonpermanent things as his own and increases his ignorance in the darkest region."
+}
+---
 ====== SB 3.31.30 ======
 
 > भूतैः पञ्चभिरारब्धे देहे देह्यबुधोऽसकृत् ।

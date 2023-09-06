@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.14~~
-~~bc:Text 14~~
-
-{{description>My dear boy, you may now accept all the names and places designated for you and your different wives, and since you are now one of the masters of the living entities, you may increase the population on a large scale.}}
-
+---json
+{
+    "name":"SB 3.12.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.12.14",
+    "description":"My dear boy, you may now accept all the names and places designated for you and your different wives, and since you are now one of the masters of the living entities, you may increase the population on a large scale."
+}
+---
 ====== SB 3.12.14 ======
 
 > गृहाणैतानि नामानि स्थानानि च सयोषणः ।

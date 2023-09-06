@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.53~~
-~~bc:Text 53~~
-
-{{description>Being situated in the liberated position of devotional service, Pṛthu Mahārāja not only performed all fruitive activities but also begot five sons by his wife, Arci. Indeed, all his sons were begotten according to his own desire.}}
-
+---json
+{
+    "name":"SB 4.22.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 4.22.53",
+    "description":"Being situated in the liberated position of devotional service, Pṛthu Mahārāja not only performed all fruitive activities but also begot five sons by his wife, Arci. Indeed, all his sons were begotten according to his own desire."
+}
+---
 ====== SB 4.22.53 ======
 
 > एवमध्यात्मयोगेन कर्माण्यनुसमाचरन् ।

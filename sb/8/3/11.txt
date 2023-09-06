@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.3.11~~
-~~bc:Text 11~~
-
-{{description>The Supreme Personality of Godhead is realized by pure devotees who act in the transcendental existence of bhakti-yoga. He is the bestower of uncontaminated happiness and is the master of the transcendental world. Therefore I offer my respect unto Him.}}
-
+---json
+{
+    "name":"SB 8.3.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 8.3.11",
+    "description":"The Supreme Personality of Godhead is realized by pure devotees who act in the transcendental existence of bhakti-yoga. He is the bestower of uncontaminated happiness and is the master of the transcendental world. Therefore I offer my respect unto Him."
+}
+---
 ====== SB 8.3.11 ======
 
 ===== Text =====

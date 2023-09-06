@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.3~~
-~~bc:Text 3~~
-
-{{description>What was the reason, O brāhmaṇa, for the fight between the demon king and Lord Boar while the Lord was lifting the earth as His pastime?}}
-
+---json
+{
+    "name":"SB 3.14.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.14.3",
+    "description":"What was the reason, O brāhmaṇa, for the fight between the demon king and Lord Boar while the Lord was lifting the earth as His pastime?"
+}
+---
 ====== SB 3.14.3 ======
 
 > तस्य चोद्धरतः क्षौणीं स्वदंष्ट्राग्रेण लीलया ।

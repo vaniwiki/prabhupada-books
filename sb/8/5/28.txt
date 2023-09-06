@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.28~~
-~~bc:Text 28~~
-
-{{description>In the cycle of material activities, the material body resembles the wheel of a mental chariot. The ten senses [five for working and five for gathering knowledge] and the five life airs within the body form the fifteen spokes of the chariot's wheel. The three modes of nature [goodness, passion and ignorance] are its center of activities, and the eight ingredients of nature [earth, water, fire, air, sky, mind, intelligence and false ego] comprise the rim of the wheel. The external, material energy moves this wheel like electrical energy. Thus the wheel revolves very quickly around its hub or central support, the Supreme Personality of Godhead, who is the Supersoul and the ultimate truth. We offer our respectful obeisances unto Him.}}
-
+---json
+{
+    "name":"SB 8.5.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.5.28",
+    "description":"In the cycle of material activities, the material body resembles the wheel of a mental chariot. The ten senses [five for working and five for gathering knowledge] and the five life airs within the body form the fifteen spokes of the chariot's wheel. The three modes of nature [goodness, passion and ignorance] are its center of activities, and the eight ingredients of nature [earth, water, fire, air, sky, mind, intelligence and false ego] comprise the rim of the wheel. The external, material energy moves this wheel like electrical energy. Thus the wheel revolves very quickly around its hub or central support, the Supreme Personality of Godhead, who is the Supersoul and the ultimate truth. We offer our respectful obeisances unto Him."
+}
+---
 ====== SB 8.5.28 ======
 
 ===== Text =====

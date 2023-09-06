@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.5.42~~
-~~bc:Text 42~~
-
-{{description>Greed is generated from His lower lip, affection from His upper lip, bodily luster from His nose, animalistic lusty desires from His sense of touch, Yamarāja from His eyebrows, and eternal time from His eyelashes. May that Supreme Lord be pleased with us.}}
-
+---json
+{
+    "name":"SB 8.5.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 8.5.42",
+    "description":"Greed is generated from His lower lip, affection from His upper lip, bodily luster from His nose, animalistic lusty desires from His sense of touch, Yamarāja from His eyebrows, and eternal time from His eyelashes. May that Supreme Lord be pleased with us."
+}
+---
 ====== SB 8.5.42 ======
 
 ===== Text =====

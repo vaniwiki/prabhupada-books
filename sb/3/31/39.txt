@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.39~~
-~~bc:Text 39~~
-
-{{description>One who aspires to reach the culmination of yoga and has realized his self by rendering service unto Me should never associate with an attractive woman, for such a woman is declared in the scripture to be the gateway to hell for the advancing devotee.}}
-
+---json
+{
+    "name":"SB 3.31.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 3.31.39",
+    "description":"One who aspires to reach the culmination of yoga and has realized his self by rendering service unto Me should never associate with an attractive woman, for such a woman is declared in the scripture to be the gateway to hell for the advancing devotee."
+}
+---
 ====== SB 3.31.39 ======
 
 > सङ्गं न कुर्यात्प्रमदासु जातु योगस्य पारं परमारुरुक्षुः ।

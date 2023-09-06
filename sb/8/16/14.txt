@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.14~~
-~~bc:Text 14~~
-
-{{description>O son of Marīci, because you are a great personality you are equal toward all the demons and demigods, who are born either from your body or from your mind and who possess one or another of the three qualities—sattva-guṇa, rajo-guṇa or tamo-guṇa. But although the Supreme Personality of Godhead, the supreme controller, is equal toward all living entities, He is especially favorable to the devotees.}}
-
+---json
+{
+    "name":"SB 8.16.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.16.14",
+    "description":"O son of Marīci, because you are a great personality you are equal toward all the demons and demigods, who are born either from your body or from your mind and who possess one or another of the three qualities—sattva-guṇa, rajo-guṇa or tamo-guṇa. But although the Supreme Personality of Godhead, the supreme controller, is equal toward all living entities, He is especially favorable to the devotees."
+}
+---
 ====== SB 8.16.14 ======
 
 ===== Text =====

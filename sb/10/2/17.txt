@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.17~~
-~~bc:Text 17~~
-
-{{description>While carrying the form of the Supreme Personality of Godhead within the core of his heart, Vasudeva bore the Lord's transcendentally illuminating effulgence, and thus he became as bright as the sun. He was therefore very difficult to see or approach through sensory perception. Indeed, he was unapproachable and unperceivable even for such formidable men as Kaṁsa, and not only for Kaṁsa but for all living entities.}}
-
+---json
+{
+    "name":"SB 10.2.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 10.2.17",
+    "description":"While carrying the form of the Supreme Personality of Godhead within the core of his heart, Vasudeva bore the Lord's transcendentally illuminating effulgence, and thus he became as bright as the sun. He was therefore very difficult to see or approach through sensory perception. Indeed, he was unapproachable and unperceivable even for such formidable men as Kaṁsa, and not only for Kaṁsa but for all living entities."
+}
+---
 ====== SB 10.2.17 ======
 
 ===== Text =====

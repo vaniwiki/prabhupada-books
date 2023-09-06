@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.26~~
-~~bc:Text 26~~
-
-{{description>My Lord, Your Lordship can easily be approached, but only by those who are materially exhausted. One who is on the path of [material] progress, trying to improve himself with respectable parentage, great opulence, high education and bodily beauty, cannot approach You with sincere feeling.}}
-
+---json
+{
+    "name":"SB 1.8.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 1.8.26",
+    "description":"My Lord, Your Lordship can easily be approached, but only by those who are materially exhausted. One who is on the path of [material] progress, trying to improve himself with respectable parentage, great opulence, high education and bodily beauty, cannot approach You with sincere feeling."
+}
+---
 ====== SB 1.8.26 ======
 
 > जन्मैश्वर्यश्रुतश्रीभिरेधमानमदः पुमान् ।

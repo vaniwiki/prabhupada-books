@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.9~~
-~~bc:Text 9~~
-
-{{description>O Nārada, the evacuating outlet of the universal form of the Lord is the abode of the controlling deity of death, Mitra, and the evacuating hole and the rectum of the Lord is the place of envy, misfortune, death, hell, etc.}}
-
+---json
+{
+    "name":"SB 2.6.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 2.6.9",
+    "description":"O Nārada, the evacuating outlet of the universal form of the Lord is the abode of the controlling deity of death, Mitra, and the evacuating hole and the rectum of the Lord is the place of envy, misfortune, death, hell, etc."
+}
+---
 ====== SB 2.6.9 ======
 
 > पायुर्यमस्य मित्रस्य परिमोक्षस्य नारद ।

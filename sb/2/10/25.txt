@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.25~~
-~~bc:Text 25~~
-
-{{description>Thereupon, because of His desiring to control movement, His legs became manifested, and from the legs the controlling deity named Viṣṇu was generated. By His personal supervision of this act, all varieties of human being are busily engaged in dutiful occupational sacrifice.}}
-
+---json
+{
+    "name":"SB 2.10.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 2.10.25",
+    "description":"Thereupon, because of His desiring to control movement, His legs became manifested, and from the legs the controlling deity named Viṣṇu was generated. By His personal supervision of this act, all varieties of human being are busily engaged in dutiful occupational sacrifice."
+}
+---
 ====== SB 2.10.25 ======
 
 > गतिं जिगीषतः पादौ रुरुहातेऽभिकामिकाम् ।

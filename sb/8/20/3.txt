@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.20.3~~
-~~bc:Text 3~~
-
-{{description>I am the grandson of Mahārāja Prahlāda. How can I withdraw my promise because of greed for money when I have already said that I shall give this land? How can I behave like an ordinary cheater, especially toward a brāhmaṇa?}}
-
+---json
+{
+    "name":"SB 8.20.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 8.20.3",
+    "description":"I am the grandson of Mahārāja Prahlāda. How can I withdraw my promise because of greed for money when I have already said that I shall give this land? How can I behave like an ordinary cheater, especially toward a brāhmaṇa?"
+}
+---
 ====== SB 8.20.3 ======
 
 ===== Text =====

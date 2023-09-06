@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.35~~
-~~bc:Text 35~~
-
-{{description>The four kinds of paraphernalia for conducting the fire sacrifice became manifest: the performer [the chanter], the offerer, the fire, and the action performed in terms of the supplementary Vedas. Also the four principles of religiosity [truth, austerity, mercy and cleanliness] and the duties in the four social orders all became manifest.}}
-
+---json
+{
+    "name":"SB 3.12.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.12.35",
+    "description":"The four kinds of paraphernalia for conducting the fire sacrifice became manifest: the performer [the chanter], the offerer, the fire, and the action performed in terms of the supplementary Vedas. Also the four principles of religiosity [truth, austerity, mercy and cleanliness] and the duties in the four social orders all became manifest."
+}
+---
 ====== SB 3.12.35 ======
 
 > चातुर्होत्रं कर्मतन्त्रमुपवेदनयैः सह ।

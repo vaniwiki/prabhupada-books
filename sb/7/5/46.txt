@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.46~~
-~~bc:Text 46~~
-
-{{description>Although he is very near to me and is merely a child, he is situated in complete fearlessness. He resembles a dog's curved tail, which can never be straightened, because he never forgets my misbehavior and his connection with his master, Lord Viṣṇu.}}
-
+---json
+{
+    "name":"SB 7.5.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 7.5.46",
+    "description":"Although he is very near to me and is merely a child, he is situated in complete fearlessness. He resembles a dog's curved tail, which can never be straightened, because he never forgets my misbehavior and his connection with his master, Lord Viṣṇu."
+}
+---
 ====== SB 7.5.46 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.17.18~~
-~~bc:Text 18~~
-
-{{description>O my Lord, You are the only worshipable person, for You are the Supreme Personality of Godhead, the reservoir of all opulences. Your secure lotus feet are the only source of protection for all Your devotees, whom You satisfy by manifesting Yourself in various forms. O my Lord, You deliver Your devotees from the clutches of material existence. Nondevotees, however, remain entangled in material existence by Your will. Kindly accept me as Your eternal servant.}}
-
+---json
+{
+    "name":"SB 5.17.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 5.17.18",
+    "description":"O my Lord, You are the only worshipable person, for You are the Supreme Personality of Godhead, the reservoir of all opulences. Your secure lotus feet are the only source of protection for all Your devotees, whom You satisfy by manifesting Yourself in various forms. O my Lord, You deliver Your devotees from the clutches of material existence. Nondevotees, however, remain entangled in material existence by Your will. Kindly accept me as Your eternal servant."
+}
+---
 ====== SB 5.17.18 ======
 
 ===== Text =====

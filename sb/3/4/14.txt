@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.4.14~~
-~~bc:Text 14~~
-
-{{description>Uddhava said: O Vidura, when I was thus favored at every moment by the Supreme Personality of Godhead and addressed by Him with great affection, my words failed in tears, and the hairs on my body erupted. After smearing my tears, I, with folded hands, spoke like this.}}
-
+---json
+{
+    "name":"SB 3.4.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.4.14",
+    "description":"Uddhava said: O Vidura, when I was thus favored at every moment by the Supreme Personality of Godhead and addressed by Him with great affection, my words failed in tears, and the hairs on my body erupted. After smearing my tears, I, with folded hands, spoke like this."
+}
+---
 ====== SB 3.4.14 ======
 
 > इत्यादृतोक्तः परमस्य पुंसः प्रतिक्षणानुग्रहभाजनोऽहम् ।

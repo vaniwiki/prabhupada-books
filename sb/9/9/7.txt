@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.9.7~~
-~~bc:Text 7~~
-
-{{description>Like a cloth woven of threads extending for its length and breadth, this entire universe, in all its latitude and longitude, is situated under different potencies of the Supreme Personality of Godhead. Lord Śiva is the incarnation of the Lord, and thus he represents the Supersoul in the embodied soul. He can sustain your forceful waves on his head.}}
-
+---json
+{
+    "name":"SB 9.9.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.9.7",
+    "description":"Like a cloth woven of threads extending for its length and breadth, this entire universe, in all its latitude and longitude, is situated under different potencies of the Supreme Personality of Godhead. Lord Śiva is the incarnation of the Lord, and thus he represents the Supersoul in the embodied soul. He can sustain your forceful waves on his head."
+}
+---
 ====== SB 9.9.7 ======
 
 ===== Text =====

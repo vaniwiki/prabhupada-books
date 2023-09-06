@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.50~~
-~~bc:Text 50~~
-
-{{description>The Lord's abdomen is beautiful due to three ripples in the flesh. Being so round, His abdomen resembles the leaf of a banyan tree, and when He exhales and inhales, the movement of the ripples appears very, very beautiful. The coils within the navel of the Lord are so deep that it appears that the entire universe sprouted out of it and yet again wishes to go back.}}
-
+---json
+{
+    "name":"SB 4.24.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 4.24.50",
+    "description":"The Lord's abdomen is beautiful due to three ripples in the flesh. Being so round, His abdomen resembles the leaf of a banyan tree, and when He exhales and inhales, the movement of the ripples appears very, very beautiful. The coils within the navel of the Lord are so deep that it appears that the entire universe sprouted out of it and yet again wishes to go back."
+}
+---
 ====== SB 4.24.50 ======
 
 > पूररेचकसंविग्न वलिवल्गुदलोदरम् ।

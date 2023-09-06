@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.30-31~~
-~~bc:Text 30-31~~
-
-{{description>The demigod Aparājita fought with Namuci, and the two Aśvinī-kumāra brothers fought with Vṛṣaparvā. The sun-god fought with the one hundred sons of Mahārāja Bali, headed by Bāṇa, and the moon-god fought with Rāhu. The demigod controlling air fought with Puloma, and Śumbha and Niśumbha fought the supremely powerful material energy, Durgādevī, who is called Bhadra Kālī.}}
-
+---json
+{
+    "name":"SB 8.10.30-31",
+    "h1":"Text 30-31",
+    "title":" Śrīmad Bhāgavatam 8.10.30-31",
+    "description":"The demigod Aparājita fought with Namuci, and the two Aśvinī-kumāra brothers fought with Vṛṣaparvā. The sun-god fought with the one hundred sons of Mahārāja Bali, headed by Bāṇa, and the moon-god fought with Rāhu. The demigod controlling air fought with Puloma, and Śumbha and Niśumbha fought the supremely powerful material energy, Durgādevī, who is called Bhadra Kālī."
+}
+---
 ====== SB 8.10.30-31 ======
 
 ===== Text =====

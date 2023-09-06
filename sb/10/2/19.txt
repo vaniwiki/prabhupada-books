@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.19~~
-~~bc:Text 19~~
-
-{{description>Devakī then kept within herself the Supreme Personality of Godhead, the cause of all causes, the foundation of the entire cosmos, but because she was under arrest in the house of Kaṁsa, she was like the flames of a fire covered by the walls of a pot, or like a person who has knowledge but cannot distribute it to the world for the benefit of human society.}}
-
+---json
+{
+    "name":"SB 10.2.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 10.2.19",
+    "description":"Devakī then kept within herself the Supreme Personality of Godhead, the cause of all causes, the foundation of the entire cosmos, but because she was under arrest in the house of Kaṁsa, she was like the flames of a fire covered by the walls of a pot, or like a person who has knowledge but cannot distribute it to the world for the benefit of human society."
+}
+---
 ====== SB 10.2.19 ======
 
 ===== Text =====

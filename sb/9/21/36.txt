@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.36~~
-~~bc:Text 36~~
-
-{{description>While Mahārāja Śāntanu was on a hunting excursion, he saw the male and female children lying in the forest, and out of compassion he took them home. Consequently, the male child was known as Kṛpa, and the female child was named Kṛpī. Kṛpī later became the wife of Droṇācārya.}}
-
+---json
+{
+    "name":"SB 9.21.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 9.21.36",
+    "description":"While Mahārāja Śāntanu was on a hunting excursion, he saw the male and female children lying in the forest, and out of compassion he took them home. Consequently, the male child was known as Kṛpa, and the female child was named Kṛpī. Kṛpī later became the wife of Droṇācārya."
+}
+---
 ====== SB 9.21.36 ======
 
 ===== Text =====

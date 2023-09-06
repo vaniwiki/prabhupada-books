@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.9~~
-~~bc:Text 9~~
-
-{{description>When the heroes of the Yakṣas saw that all their heads were being thus threatened by Dhruva Mahārāja, they could very easily understand their awkward position, and they concluded that they would certainly be defeated. But, as heroes, they lauded the action of Dhruva.}}
-
+---json
+{
+    "name":"SB 4.10.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 4.10.9",
+    "description":"When the heroes of the Yakṣas saw that all their heads were being thus threatened by Dhruva Mahārāja, they could very easily understand their awkward position, and they concluded that they would certainly be defeated. But, as heroes, they lauded the action of Dhruva."
+}
+---
 ====== SB 4.10.9 ======
 
 > ते वै ललाटलग्नैस्तैरिषुभिः सर्व एव हि ।

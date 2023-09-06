@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.23.20-21~~
-~~bc:Text 20-21~~
-
-{{description>The Supreme Personality of Godhead, Kṛṣṇa, the Supersoul in the hearts of all living entities, descended in His original form as a human being in the dynasty or family of Yadu. Yadu had four sons, named Sahasrajit, Kroṣṭā, Nala and Ripu. Of these four, the eldest, Sahasrajit, had a son named Śatajit, who had three sons, named Mahāhaya, Reṇuhaya and Haihaya.}}
-
+---json
+{
+    "name":"SB 9.23.20-21",
+    "h1":"Text 20-21",
+    "title":" Śrīmad Bhāgavatam 9.23.20-21",
+    "description":"The Supreme Personality of Godhead, Kṛṣṇa, the Supersoul in the hearts of all living entities, descended in His original form as a human being in the dynasty or family of Yadu. Yadu had four sons, named Sahasrajit, Kroṣṭā, Nala and Ripu. Of these four, the eldest, Sahasrajit, had a son named Śatajit, who had three sons, named Mahāhaya, Reṇuhaya and Haihaya."
+}
+---
 ====== SB 9.23.20-21 ======
 
 ===== Text =====

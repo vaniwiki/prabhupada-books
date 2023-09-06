@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.30~~
-~~bc:Text 30~~
-
-{{description>Śrī Bhṛgu said: My dear Lord, all living entities, beginning from the highest, namely Lord Brahmā, down to the ordinary ant, are under the influence of the insurmountable spell of illusory energy, and thus they are ignorant of their constitutional position. Everyone believes in the concept of the body, and all are thus submerged in the darkness of illusion. They are actually unable to understand how You live in every living entity as the Supersoul, nor can they understand Your absolute position. But You are the eternal friend and protector of all surrendered souls. Therefore, please be kind toward us and forgive all our offenses.}}
-
+---json
+{
+    "name":"SB 4.7.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 4.7.30",
+    "description":"Śrī Bhṛgu said: My dear Lord, all living entities, beginning from the highest, namely Lord Brahmā, down to the ordinary ant, are under the influence of the insurmountable spell of illusory energy, and thus they are ignorant of their constitutional position. Everyone believes in the concept of the body, and all are thus submerged in the darkness of illusion. They are actually unable to understand how You live in every living entity as the Supersoul, nor can they understand Your absolute position. But You are the eternal friend and protector of all surrendered souls. Therefore, please be kind toward us and forgive all our offenses."
+}
+---
 ====== SB 4.7.30 ======
 
 > भृगुरुवाच

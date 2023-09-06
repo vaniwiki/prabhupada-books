@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.3~~
-~~bc:Text 3~~
-
-{{description>She had gone to bring water from the Ganges, but when she saw Citraratha, the King of the Gandharvas, sporting with the celestial girls, she was somewhat inclined toward him and failed to remember that the time for the fire sacrifice was passing.}}
-
+---json
+{
+    "name":"SB 9.16.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 9.16.3",
+    "description":"She had gone to bring water from the Ganges, but when she saw Citraratha, the King of the Gandharvas, sporting with the celestial girls, she was somewhat inclined toward him and failed to remember that the time for the fire sacrifice was passing."
+}
+---
 ====== SB 9.16.3 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.30.20~~
-~~bc:Text 20~~
-
-{{description>Always engaging in the activities of devotional service, devotees feel ever-increasingly fresh and new in all their activities. The all-knower, the Supersoul within the heart of the devotee, makes everything increasingly fresh. This is known as the Brahman position by the advocates of the Absolute Truth. In such a liberated stage [brahma-bhūta], one is never bewildered. Nor does one lament or become unnecessarily jubilant. This is due to the brahma-bhūta situation.}}
-
+---json
+{
+    "name":"SB 4.30.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 4.30.20",
+    "description":"Always engaging in the activities of devotional service, devotees feel ever-increasingly fresh and new in all their activities. The all-knower, the Supersoul within the heart of the devotee, makes everything increasingly fresh. This is known as the Brahman position by the advocates of the Absolute Truth. In such a liberated stage [brahma-bhūta], one is never bewildered. Nor does one lament or become unnecessarily jubilant. This is due to the brahma-bhūta situation."
+}
+---
 ====== SB 4.30.20 ======
 
 > नव्यवद्धृदये यज्ज्ञो ब्रह्मैतद्ब्रह्मवादिभिः ।

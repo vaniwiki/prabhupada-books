@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.11.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī continued: O Mahārāja Parīkṣit, when the yamala-arjuna trees fell, all the cowherd men in the neighborhood, hearing the fierce sound and fearing thunderbolts, went to the spot.}}
-
+---json
+{
+    "name":"SB 10.11.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 10.11.1",
+    "description":"Śukadeva Gosvāmī continued: O Mahārāja Parīkṣit, when the yamala-arjuna trees fell, all the cowherd men in the neighborhood, hearing the fierce sound and fearing thunderbolts, went to the spot."
+}
+---
 ====== SB 10.11.1 ======
 
 ===== Text =====

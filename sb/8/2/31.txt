@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.2.31~~
-~~bc:Text 31~~
-
-{{description>When the King of the elephants saw that he was under the clutches of the crocodile by the will of providence and, being embodied and circumstantially helpless, could not save himself from danger, he was extremely afraid of being killed. He consequently thought for a long time and finally reached the following decision.}}
-
+---json
+{
+    "name":"SB 8.2.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.2.31",
+    "description":"When the King of the elephants saw that he was under the clutches of the crocodile by the will of providence and, being embodied and circumstantially helpless, could not save himself from danger, he was extremely afraid of being killed. He consequently thought for a long time and finally reached the following decision."
+}
+---
 ====== SB 8.2.31 ======
 
 ===== Text =====

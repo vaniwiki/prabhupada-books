@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.15.32~~
-~~bc:Text 32~~
-
-{{description>Śukadeva Gosvāmī continued: The demigods, being thus advised by Bṛhaspati for their benefit, immediately accepted his words. Assuming forms according to their desire, they left the heavenly kingdom and scattered, without being observed by the demons.}}
-
+---json
+{
+    "name":"SB 8.15.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 8.15.32",
+    "description":"Śukadeva Gosvāmī continued: The demigods, being thus advised by Bṛhaspati for their benefit, immediately accepted his words. Assuming forms according to their desire, they left the heavenly kingdom and scattered, without being observed by the demons."
+}
+---
 ====== SB 8.15.32 ======
 
 ===== Text =====

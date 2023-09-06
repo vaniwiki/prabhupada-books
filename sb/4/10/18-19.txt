@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.10.18-19~~
-~~bc:Text 18-19~~
-
-{{description>The great sage Maitreya continued: My dear Vidura, the heads of those who were cut to pieces by the arrows of Dhruva Mahārāja were decorated very beautifully with earrings and turbans. The legs of their bodies were as beautiful as golden palm trees, their arms were decorated with golden bracelets and armlets, and on their heads there were very valuable helmets bedecked with gold. All these ornaments lying on that battlefield were very attractive and could bewilder the mind of a hero.}}
-
+---json
+{
+    "name":"SB 4.10.18-19",
+    "h1":"Text 18-19",
+    "title":" Śrīmad Bhāgavatam 4.10.18-19",
+    "description":"The great sage Maitreya continued: My dear Vidura, the heads of those who were cut to pieces by the arrows of Dhruva Mahārāja were decorated very beautifully with earrings and turbans. The legs of their bodies were as beautiful as golden palm trees, their arms were decorated with golden bracelets and armlets, and on their heads there were very valuable helmets bedecked with gold. All these ornaments lying on that battlefield were very attractive and could bewilder the mind of a hero."
+}
+---
 ====== SB 4.10.18-19 ======
 
 > भल्लैः सञ्छिद्यमानानां शिरोभिश्चारुकुण्डलैः ।

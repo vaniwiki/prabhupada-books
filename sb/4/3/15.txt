@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.3.15~~
-~~bc:Text 15~~
-
-{{description>The great sage Maitreya said: Lord Śiva, the deliverer of the hill Kailāsa, having thus been addressed by his dear wife, replied smilingly, although at the same time he remembered the malicious, heart-piercing speeches delivered by Dakṣa before the guardians of the universal affairs.}}
-
+---json
+{
+    "name":"SB 4.3.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.3.15",
+    "description":"The great sage Maitreya said: Lord Śiva, the deliverer of the hill Kailāsa, having thus been addressed by his dear wife, replied smilingly, although at the same time he remembered the malicious, heart-piercing speeches delivered by Dakṣa before the guardians of the universal affairs."
+}
+---
 ====== SB 4.3.15 ======
 
 > ऋषिरुवाच

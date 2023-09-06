@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.29~~
-~~bc:Text 29~~
-
-{{description>O Lord, no one can understand Your transcendental pastimes, which appear to be human and are so misleading. You have no specific object of favor, nor do You have any object of envy. People only imagine that You are partial.}}
-
+---json
+{
+    "name":"SB 1.8.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 1.8.29",
+    "description":"O Lord, no one can understand Your transcendental pastimes, which appear to be human and are so misleading. You have no specific object of favor, nor do You have any object of envy. People only imagine that You are partial."
+}
+---
 ====== SB 1.8.29 ======
 
 > न वेद कश्चिद्भगवंश्चिकीर्षितं तवेहमानस्य नृणां विडम्बनम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.41~~
-~~bc:Text 41~~
-
-{{description>The fire-god said: My dear Lord, I offer my respectful obeisances unto You because by Your favor I am as luminous as blazing fire and I accept the offerings mixed with butter and offered in sacrifice. The five kinds of offerings according to the Yajur Veda are all Your different energies, and You are worshiped by five kinds of Vedic hymns. Sacrifice means Your Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.7.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.7.41",
+    "description":"The fire-god said: My dear Lord, I offer my respectful obeisances unto You because by Your favor I am as luminous as blazing fire and I accept the offerings mixed with butter and offered in sacrifice. The five kinds of offerings according to the Yajur Veda are all Your different energies, and You are worshiped by five kinds of Vedic hymns. Sacrifice means Your Supreme Personality of Godhead."
+}
+---
 ====== SB 4.7.41 ======
 
 > अग्निरुवाच

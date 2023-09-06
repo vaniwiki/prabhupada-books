@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.25-26~~
-~~bc:Text 25-26~~
-
-{{description>O King, as in the ocean the bigger and stronger aquatics swallow up the smaller and weaker ones, so also the Supreme Personality of Godhead, to lighten the burden of the earth, has engaged the stronger Yadu to kill the weaker, and the bigger Yadu to kill the smaller.}}
-
+---json
+{
+    "name":"SB 1.15.25-26",
+    "h1":"Text 25-26",
+    "title":" Śrīmad Bhāgavatam 1.15.25-26",
+    "description":"O King, as in the ocean the bigger and stronger aquatics swallow up the smaller and weaker ones, so also the Supreme Personality of Godhead, to lighten the burden of the earth, has engaged the stronger Yadu to kill the weaker, and the bigger Yadu to kill the smaller."
+}
+---
 ====== SB 1.15.25-26 ======
 
 > जलौकसां जले यद्वन्महान्तोऽदन्त्यणीयसः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.12~~
-~~bc:Text 12~~
-
-{{description>There are five branches of irreligion, appropriately known as irreligion [vidharma], religious principles for which one is unfit [para-dharma], pretentious religion [ābhāsa], analogical religion [upadharma] and cheating religion [chala-dharma]. One who is aware of real religious life must abandon these five as irreligious.}}
-
+---json
+{
+    "name":"SB 7.15.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 7.15.12",
+    "description":"There are five branches of irreligion, appropriately known as irreligion [vidharma], religious principles for which one is unfit [para-dharma], pretentious religion [ābhāsa], analogical religion [upadharma] and cheating religion [chala-dharma]. One who is aware of real religious life must abandon these five as irreligious."
+}
+---
 ====== SB 7.15.12 ======
 
 ===== Text =====

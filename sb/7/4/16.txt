@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.16~~
-~~bc:Text 16~~
-
-{{description>As if in fear of Hiraṇyakaśipu, the planet earth, which consists of seven islands, delivered food grains without being plowed. Thus it resembled cows like the surabhi of the spiritual world or the kāma-dughā of heaven. The earth yielded sufficient food grains, the cows supplied abundant milk, and outer space was beautifully decorated with wonderful phenomena.}}
-
+---json
+{
+    "name":"SB 7.4.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 7.4.16",
+    "description":"As if in fear of Hiraṇyakaśipu, the planet earth, which consists of seven islands, delivered food grains without being plowed. Thus it resembled cows like the surabhi of the spiritual world or the kāma-dughā of heaven. The earth yielded sufficient food grains, the cows supplied abundant milk, and outer space was beautifully decorated with wonderful phenomena."
+}
+---
 ====== SB 7.4.16 ======
 
 ===== Text =====

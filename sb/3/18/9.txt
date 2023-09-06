@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.18.9~~
-~~bc:Text 9~~
-
-{{description>The demon, who had a wealth of ornaments, bangles and beautiful golden armor on his body, chased the Lord from behind with a great mace. The Lord tolerated his piercing ill words, but in order to reply to him, He expressed His terrible anger.}}
-
+---json
+{
+    "name":"SB 3.18.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.18.9",
+    "description":"The demon, who had a wealth of ornaments, bangles and beautiful golden armor on his body, chased the Lord from behind with a great mace. The Lord tolerated his piercing ill words, but in order to reply to him, He expressed His terrible anger."
+}
+---
 ====== SB 3.18.9 ======
 
 > परानुषक्तं तपनीयोपकल्पं महागदं काञ्चनचित्रदंशम् ।

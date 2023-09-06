@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.19~~
-~~bc:Text 19~~
-
-{{description>Lord Nārāyaṇa was seated on the shoulder of Stotra, or Garuḍa, who had big wings. As soon as the Lord appeared, all directions were illuminated, diminishing the luster of Brahmā and the others present.}}
-
+---json
+{
+    "name":"SB 4.7.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 4.7.19",
+    "description":"Lord Nārāyaṇa was seated on the shoulder of Stotra, or Garuḍa, who had big wings. As soon as the Lord appeared, all directions were illuminated, diminishing the luster of Brahmā and the others present."
+}
+---
 ====== SB 4.7.19 ======
 
 > तदा स्वप्रभया तेषां द्योतयन्त्या दिशो दश ।

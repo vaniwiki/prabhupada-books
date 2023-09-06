@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.18~~
-~~bc:Text 18~~
-
-{{description>The glory of the Lord is always worth singing, for His glories enhance the glories of His devotees. One should therefore meditate upon the Supreme Personality of Godhead and upon His devotees. One should meditate on the eternal form of the Lord until the mind becomes fixed.}}
-
+---json
+{
+    "name":"SB 3.28.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.28.18",
+    "description":"The glory of the Lord is always worth singing, for His glories enhance the glories of His devotees. One should therefore meditate upon the Supreme Personality of Godhead and upon His devotees. One should meditate on the eternal form of the Lord until the mind becomes fixed."
+}
+---
 ====== SB 3.28.18 ======
 
 > कीर्तन्यतीर्थयशसं पुण्यश्लोकयशस्करम् ।

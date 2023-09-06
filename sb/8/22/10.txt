@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.22.10~~
-~~bc:Text 10~~
-
-{{description>My grandfather, the best of all men, who achieved unlimited knowledge and was worshipable for everyone, was afraid of the common men in this world. Being fully convinced of the substantiality afforded by shelter at Your lotus feet, He took shelter of Your lotus feet, against the will of his father and demoniac friends, who were killed by Your own self.}}
-
+---json
+{
+    "name":"SB 8.22.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.22.10",
+    "description":"My grandfather, the best of all men, who achieved unlimited knowledge and was worshipable for everyone, was afraid of the common men in this world. Being fully convinced of the substantiality afforded by shelter at Your lotus feet, He took shelter of Your lotus feet, against the will of his father and demoniac friends, who were killed by Your own self."
+}
+---
 ====== SB 8.22.10 ======
 
 ===== Text =====

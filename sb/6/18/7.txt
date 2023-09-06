@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.18.7~~
-~~bc:Text 7~~
-
-{{description>O King Parīkṣit, Indra, the King of the heavenly planets and eleventh son of Aditi, begot three sons, named Jayanta, Ṛṣabha and Mīḍhuṣa, in the womb of his wife, Paulomī. Thus we have heard.}}
-
+---json
+{
+    "name":"SB 6.18.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 6.18.7",
+    "description":"O King Parīkṣit, Indra, the King of the heavenly planets and eleventh son of Aditi, begot three sons, named Jayanta, Ṛṣabha and Mīḍhuṣa, in the womb of his wife, Paulomī. Thus we have heard."
+}
+---
 ====== SB 6.18.7 ======
 
 ===== Text =====

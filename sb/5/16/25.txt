@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.16.25~~
-~~bc:Text 25~~
-
-{{description>The residents of the material world who enjoy the products of these flowing rivers have no wrinkles on their bodies and no grey hair. They never feel fatigue, and perspiration does not give their bodies a bad odor. They are not afflicted by old age, disease or untimely death, they do not suffer from chilly cold or scorching heat, nor do their bodies lose their luster. They all live very happily, without anxieties, until death.}}
-
+---json
+{
+    "name":"SB 5.16.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 5.16.25",
+    "description":"The residents of the material world who enjoy the products of these flowing rivers have no wrinkles on their bodies and no grey hair. They never feel fatigue, and perspiration does not give their bodies a bad odor. They are not afflicted by old age, disease or untimely death, they do not suffer from chilly cold or scorching heat, nor do their bodies lose their luster. They all live very happily, without anxieties, until death."
+}
+---
 ====== SB 5.16.25 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.20~~
-~~bc:Text 20~~
-
-{{description>May Lord Keśava protect me with His club in the first portion of the day, and may Govinda, who is always engaged in playing His flute, protect me in the second portion of the day. May Lord Nārāyaṇa, who is equipped with all potencies, protect me in the third part of the day, and may Lord Viṣṇu, who carries a disc to kill His enemies, protect me in the fourth part of the day.}}
-
+---json
+{
+    "name":"SB 6.8.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 6.8.20",
+    "description":"May Lord Keśava protect me with His club in the first portion of the day, and may Govinda, who is always engaged in playing His flute, protect me in the second portion of the day. May Lord Nārāyaṇa, who is equipped with all potencies, protect me in the third part of the day, and may Lord Viṣṇu, who carries a disc to kill His enemies, protect me in the fourth part of the day."
+}
+---
 ====== SB 6.8.20 ======
 
 ===== Text =====

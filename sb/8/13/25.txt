@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.25~~
-~~bc:Text 25~~
-
-{{description>The Vihaṅgamas, Kāmagamas, Nirvāṇarucis and others will be the demigods. The king of the demigods, Indra, will be Vaidhṛta, and the seven sages will be headed by Aruṇa.}}
-
+---json
+{
+    "name":"SB 8.13.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 8.13.25",
+    "description":"The Vihaṅgamas, Kāmagamas, Nirvāṇarucis and others will be the demigods. The king of the demigods, Indra, will be Vaidhṛta, and the seven sages will be headed by Aruṇa."
+}
+---
 ====== SB 8.13.25 ======
 
 ===== Text =====

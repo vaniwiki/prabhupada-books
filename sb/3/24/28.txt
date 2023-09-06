@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.28~~
-~~bc:Text 28~~
-
-{{description>After many births, mature yogīs, by complete trance in yoga, endeavor in secluded places to see the lotus feet of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 3.24.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.24.28",
+    "description":"After many births, mature yogīs, by complete trance in yoga, endeavor in secluded places to see the lotus feet of the Supreme Personality of Godhead."
+}
+---
 ====== SB 3.24.28 ======
 
 > बहुजन्मविपक्वेन सम्यग्योगसमाधिना ।

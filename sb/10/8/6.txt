@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.6~~
-~~bc:Text 6~~
-
-{{description>My lord, you are the best of the brāhmaṇas, especially because you are fully aware of the jyotiḥ-śāstra, the astrological science. Therefore you are naturally the spiritual master of every human being. This being so, since you have kindly come to my house, kindly execute the reformatory activities for my two sons.}}
-
+---json
+{
+    "name":"SB 10.8.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 10.8.6",
+    "description":"My lord, you are the best of the brāhmaṇas, especially because you are fully aware of the jyotiḥ-śāstra, the astrological science. Therefore you are naturally the spiritual master of every human being. This being so, since you have kindly come to my house, kindly execute the reformatory activities for my two sons."
+}
+---
 ====== SB 10.8.6 ======
 
 ===== Text =====

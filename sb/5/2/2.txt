@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.2.2~~
-~~bc:Text 2~~
-
-{{description>Desiring to get a perfect son and become an inhabitant of Pitṛloka, Mahārāja Āgnīdhra once worshiped Lord Brahmā, the master of those in charge of material creation. He went to a valley of Mandara Hill, where the damsels of the heavenly planets come down to stroll. There he collected garden flowers and other necessary paraphernalia and then engaged in severe austerities and worship.}}
-
+---json
+{
+    "name":"SB 5.2.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.2.2",
+    "description":"Desiring to get a perfect son and become an inhabitant of Pitṛloka, Mahārāja Āgnīdhra once worshiped Lord Brahmā, the master of those in charge of material creation. He went to a valley of Mandara Hill, where the damsels of the heavenly planets come down to stroll. There he collected garden flowers and other necessary paraphernalia and then engaged in severe austerities and worship."
+}
+---
 ====== SB 5.2.2 ======
 
 ===== Text =====

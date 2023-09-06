@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.10~~
-~~bc:Text 10~~
-
-{{description>The King of heaven, Indra, brought a suitable sitting place for the goddess of fortune. All the rivers of sacred water, such as the Ganges and Yamunā, personified themselves, and each of them brought pure water in golden waterpots for mother Lakṣmī, the goddess of fortune.}}
-
+---json
+{
+    "name":"SB 8.8.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.8.10",
+    "description":"The King of heaven, Indra, brought a suitable sitting place for the goddess of fortune. All the rivers of sacred water, such as the Ganges and Yamunā, personified themselves, and each of them brought pure water in golden waterpots for mother Lakṣmī, the goddess of fortune."
+}
+---
 ====== SB 8.8.10 ======
 
 ===== Text =====

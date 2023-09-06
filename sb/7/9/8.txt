@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.8~~
-~~bc:Text 8~~
-
-{{description>Prahlāda Mahārāja prayed: How is it possible for me, who have been born in a family of asuras, to offer suitable prayers to satisfy the Supreme Personality of Godhead? Even until now, all the demigods, headed by Lord Brahmā, and all the saintly persons could not satisfy the Lord by streams of excellent words, although such persons are very qualified, being in the mode of goodness. Then what is to be said of me? I am not at all qualified.}}
-
+---json
+{
+    "name":"SB 7.9.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 7.9.8",
+    "description":"Prahlāda Mahārāja prayed: How is it possible for me, who have been born in a family of asuras, to offer suitable prayers to satisfy the Supreme Personality of Godhead? Even until now, all the demigods, headed by Lord Brahmā, and all the saintly persons could not satisfy the Lord by streams of excellent words, although such persons are very qualified, being in the mode of goodness. Then what is to be said of me? I am not at all qualified."
+}
+---
 ====== SB 7.9.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.12.42~~
-~~bc:Text 42~~
-
-{{description>O descendant of Bharata Mahārāja, Lord Śiva, in jubilation, then addressed his wife, Bhavānī, who is accepted by all authorities as the potency of Lord Viṣṇu.}}
-
+---json
+{
+    "name":"SB 8.12.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 8.12.42",
+    "description":"O descendant of Bharata Mahārāja, Lord Śiva, in jubilation, then addressed his wife, Bhavānī, who is accepted by all authorities as the potency of Lord Viṣṇu."
+}
+---
 ====== SB 8.12.42 ======
 
 ===== Text =====

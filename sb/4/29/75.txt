@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.75~~
-~~bc:Text 75~~
-
-{{description>By virtue of the processes of the subtle body, the living entity develops and gives up gross bodies. This is known as the transmigration of the soul. Thus the soul becomes subjected to different types of so-called enjoyment, lamentation, fear, happiness and unhappiness.}}
-
+---json
+{
+    "name":"SB 4.29.75",
+    "h1":"Text 75",
+    "title":" Śrīmad Bhāgavatam 4.29.75",
+    "description":"By virtue of the processes of the subtle body, the living entity develops and gives up gross bodies. This is known as the transmigration of the soul. Thus the soul becomes subjected to different types of so-called enjoyment, lamentation, fear, happiness and unhappiness."
+}
+---
 ====== SB 4.29.75 ======
 
 > अनेन पुरुषो देहानुपादत्ते विमुञ्चति ।

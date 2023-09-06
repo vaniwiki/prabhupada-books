@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.22~~
-~~bc:Text 22~~
-
-{{description>After the incarnation of the first puruṣa [Kāraṇārṇavaśāyī Viṣṇu], the mahat-tattva, or the principles of material creation, take place, and then time is manifested, and in course of time the three qualities appear. Nature means the three qualitative appearances. They transform into activities.}}
-
+---json
+{
+    "name":"SB 2.5.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 2.5.22",
+    "description":"After the incarnation of the first puruṣa [Kāraṇārṇavaśāyī Viṣṇu], the mahat-tattva, or the principles of material creation, take place, and then time is manifested, and in course of time the three qualities appear. Nature means the three qualitative appearances. They transform into activities."
+}
+---
 ====== SB 2.5.22 ======
 
 > कालाद्गुणव्यतिकरः परिणामः स्वभावतः ।

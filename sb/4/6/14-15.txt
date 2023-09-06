@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.14-15~~
-~~bc:Text 14-15~~
-
-{{description>The whole of Kailāsa Hill is decorated with various kinds of trees, of which the following names may be mentioned: mandāra, pārijāta, sarala, tamāla, tāla, kovidāra, āsana, arjuna, āmra-jāti (mango), kadamba, dhūli-kadamba, nāga, punnāga, campaka, pāṭala, aśoka, bakula, kunda and kurabaka. The entire hill is decorated with such trees, which produce flowers with fragrant aromas.}}
-
+---json
+{
+    "name":"SB 4.6.14-15",
+    "h1":"Text 14-15",
+    "title":" Śrīmad Bhāgavatam 4.6.14-15",
+    "description":"The whole of Kailāsa Hill is decorated with various kinds of trees, of which the following names may be mentioned: mandāra, pārijāta, sarala, tamāla, tāla, kovidāra, āsana, arjuna, āmra-jāti (mango), kadamba, dhūli-kadamba, nāga, punnāga, campaka, pāṭala, aśoka, bakula, kunda and kurabaka. The entire hill is decorated with such trees, which produce flowers with fragrant aromas."
+}
+---
 ====== SB 4.6.14-15 ======
 
 > मन्दारैः पारिजातैश्च सरलैश्चोपशोभितम् ।

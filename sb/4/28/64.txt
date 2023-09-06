@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.64~~
-~~bc:Text 64~~
-
-{{description>In this way both swans live together in the heart. When the one swan is instructed by the other, he is situated in his constitutional position. This means he regains his original Kṛṣṇa consciousness, which was lost because of his material attraction.}}
-
+---json
+{
+    "name":"SB 4.28.64",
+    "h1":"Text 64",
+    "title":" Śrīmad Bhāgavatam 4.28.64",
+    "description":"In this way both swans live together in the heart. When the one swan is instructed by the other, he is situated in his constitutional position. This means he regains his original Kṛṣṇa consciousness, which was lost because of his material attraction."
+}
+---
 ====== SB 4.28.64 ======
 
 > एवं स मानसो हंसो हंसेन प्रतिबोधितः ।

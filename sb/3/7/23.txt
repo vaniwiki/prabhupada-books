@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.23~~
-~~bc:Text 23~~
-
-{{description>O great brāhmaṇa, you have told me that the gigantic virāṭ form and His senses, sense objects and ten kinds of life air exist with three kinds of life vigor. Now, if you will, kindly explain to me the different powers of the specific divisions.}}
-
+---json
+{
+    "name":"SB 3.7.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 3.7.23",
+    "description":"O great brāhmaṇa, you have told me that the gigantic virāṭ form and His senses, sense objects and ten kinds of life air exist with three kinds of life vigor. Now, if you will, kindly explain to me the different powers of the specific divisions."
+}
+---
 ====== SB 3.7.23 ======
 
 > यस्मिन्दशविधः प्राणः सेन्द्रियार्थेन्द्रियस्त्रिवृत् ।

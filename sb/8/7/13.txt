@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.13~~
-~~bc:Text 13~~
-
-{{description>The demigods and demons worked almost madly for the nectar, encouraged by the Lord, who was above and below the mountain and who had entered the demigods, the demons, Vāsuki and the mountain itself. Because of the strength of the demigods and demons, the ocean of milk was so powerfully agitated that all the alligators in the water were very much perturbed. Nonetheless the churning of the ocean continued in this way.}}
-
+---json
+{
+    "name":"SB 8.7.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.7.13",
+    "description":"The demigods and demons worked almost madly for the nectar, encouraged by the Lord, who was above and below the mountain and who had entered the demigods, the demons, Vāsuki and the mountain itself. Because of the strength of the demigods and demons, the ocean of milk was so powerfully agitated that all the alligators in the water were very much perturbed. Nonetheless the churning of the ocean continued in this way."
+}
+---
 ====== SB 8.7.13 ======
 
 ===== Text =====

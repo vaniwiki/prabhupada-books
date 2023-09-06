@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.30~~
-~~bc:Text 30~~
-
-{{description>When Mahārāja Bharata was on tour, he defeated or killed all the Kirātas, Hūṇas, Yavanas, Pauṇḍras, Kaṅkas, Khaśas, Śakas and the kings who were opposed to the Vedic principles of brahminical culture.}}
-
+---json
+{
+    "name":"SB 9.20.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 9.20.30",
+    "description":"When Mahārāja Bharata was on tour, he defeated or killed all the Kirātas, Hūṇas, Yavanas, Pauṇḍras, Kaṅkas, Khaśas, Śakas and the kings who were opposed to the Vedic principles of brahminical culture."
+}
+---
 ====== SB 9.20.30 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.55~~
-~~bc:Text 55~~
-
-{{description>Dhṛtarāṣṭra will have to amalgamate his pure identity with intelligence and then merge into the Supreme Being with knowledge of his qualitative oneness, as a living entity, with the Supreme Brahman. Being freed from the blocked sky, he will have to rise to the spiritual sky.}}
-
+---json
+{
+    "name":"SB 1.13.55",
+    "h1":"Text 55",
+    "title":" Śrīmad Bhāgavatam 1.13.55",
+    "description":"Dhṛtarāṣṭra will have to amalgamate his pure identity with intelligence and then merge into the Supreme Being with knowledge of his qualitative oneness, as a living entity, with the Supreme Brahman. Being freed from the blocked sky, he will have to rise to the spiritual sky."
+}
+---
 ====== SB 1.13.55 ======
 
 > विज्ञानात्मनि संयोज्य क्षेत्रज्ञे प्रविलाप्य तम् ।

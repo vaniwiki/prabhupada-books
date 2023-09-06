@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.17~~
-~~bc:Text 17~~
-
-{{description>The great saint Maitreya continued: My dear Vidura, in this way Mahārāja Pṛthu, the conqueror of the entire world, accepted the instructions of the Supreme Personality of Godhead on his head.}}
-
+---json
+{
+    "name":"SB 4.20.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 4.20.17",
+    "description":"The great saint Maitreya continued: My dear Vidura, in this way Mahārāja Pṛthu, the conqueror of the entire world, accepted the instructions of the Supreme Personality of Godhead on his head."
+}
+---
 ====== SB 4.20.17 ======
 
 > मैत्रेय उवाच

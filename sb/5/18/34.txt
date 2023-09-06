@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.34~~
-~~bc:Text 34~~
-
-{{description>Śukadeva Gosvāmī said: Dear King, the Supreme Lord in His boar incarnation, who accepts all sacrificial offerings, lives in the northern part of Jambūdvīpa. There, in the tract of land known as Uttarakuru-varṣa, mother earth and all the other inhabitants worship Him with unfailing devotional service by repeatedly chanting the following Upaniṣad mantra.}}
-
+---json
+{
+    "name":"SB 5.18.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 5.18.34",
+    "description":"Śukadeva Gosvāmī said: Dear King, the Supreme Lord in His boar incarnation, who accepts all sacrificial offerings, lives in the northern part of Jambūdvīpa. There, in the tract of land known as Uttarakuru-varṣa, mother earth and all the other inhabitants worship Him with unfailing devotional service by repeatedly chanting the following Upaniṣad mantra."
+}
+---
 ====== SB 5.18.34 ======
 
 ===== Text =====

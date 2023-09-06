@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.23~~
-~~bc:Text 23~~
-
-{{description>The hot fiery wind is the breath coming out of his mouth, which is giving off the bad smell of burning flesh because of all the dead bodies he has eaten.}}
-
+---json
+{
+    "name":"SB 10.12.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 10.12.23",
+    "description":"The hot fiery wind is the breath coming out of his mouth, which is giving off the bad smell of burning flesh because of all the dead bodies he has eaten."
+}
+---
 ====== SB 10.12.23 ======
 
 ===== Text =====

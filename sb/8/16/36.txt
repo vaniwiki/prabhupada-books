@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.36~~
-~~bc:Text 36~~
-
-{{description>O most exalted and worshipable Lord, best of those who bestow benediction, You can fulfill the desires of everyone, and therefore those who are sober, for their own welfare, worship the dust of Your lotus feet.}}
-
+---json
+{
+    "name":"SB 8.16.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 8.16.36",
+    "description":"O most exalted and worshipable Lord, best of those who bestow benediction, You can fulfill the desires of everyone, and therefore those who are sober, for their own welfare, worship the dust of Your lotus feet."
+}
+---
 ====== SB 8.16.36 ======
 
 ===== Text =====

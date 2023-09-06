@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.27~~
-~~bc:Text 27~~
-
-{{description>Seeing her, the damsels suddenly rose and said with folded hands, "We are your maidservants. Tell us what we can do for you."}}
-
+---json
+{
+    "name":"SB 3.23.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.23.27",
+    "description":"Seeing her, the damsels suddenly rose and said with folded hands, "We are your maidservants. Tell us what we can do for you.""
+}
+---
 ====== SB 3.23.27 ======
 
 > तां दृष्ट्वा सहसोत्थाय प्रोचुः प्राञ्जलयः स्त्रियः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.15.2~~
-~~bc:Text 2~~
-
-{{description>From Sumati, a son named Devatājit was born by the womb of his wife named Vṛddhasenā.}}
-
+---json
+{
+    "name":"SB 5.15.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 5.15.2",
+    "description":"From Sumati, a son named Devatājit was born by the womb of his wife named Vṛddhasenā."
+}
+---
 ====== SB 5.15.2 ======
 
 ===== Text =====

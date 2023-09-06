@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.25~~
-~~bc:Text 25~~
-
-{{description>At that moment there appeared the powerful son of Vyāsadeva, who traveled over the earth disinterested and satisfied with himself. He did not manifest any symptoms of belonging to any social order or status of life. He was surrounded with women and children, and he dressed as if others had neglected him.}}
-
+---json
+{
+    "name":"SB 1.19.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 1.19.25",
+    "description":"At that moment there appeared the powerful son of Vyāsadeva, who traveled over the earth disinterested and satisfied with himself. He did not manifest any symptoms of belonging to any social order or status of life. He was surrounded with women and children, and he dressed as if others had neglected him."
+}
+---
 ====== SB 1.19.25 ======
 
 > तत्राभवद्भगवान्व्यासपुत्रो यदृच्छया गामटमानोऽनपेक्षः ।

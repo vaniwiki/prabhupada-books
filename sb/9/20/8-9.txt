@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.20.8-9~~
-~~bc:Text 8-9~~
-
-{{description>Once when King Duṣmanta went to the forest to hunt and was very much fatigued, he approached the residence of Kaṇva Muni. There he saw a most beautiful woman who looked exactly like the goddess of fortune and who sat there illuminating the entire āśrama by her effulgence. The King was naturally attracted by her beauty, and therefore he approached her, accompanied by some of his soldiers, and spoke to her.}}
-
+---json
+{
+    "name":"SB 9.20.8-9",
+    "h1":"Text 8-9",
+    "title":" Śrīmad Bhāgavatam 9.20.8-9",
+    "description":"Once when King Duṣmanta went to the forest to hunt and was very much fatigued, he approached the residence of Kaṇva Muni. There he saw a most beautiful woman who looked exactly like the goddess of fortune and who sat there illuminating the entire āśrama by her effulgence. The King was naturally attracted by her beauty, and therefore he approached her, accompanied by some of his soldiers, and spoke to her."
+}
+---
 ====== SB 9.20.8-9 ======
 
 ===== Text =====

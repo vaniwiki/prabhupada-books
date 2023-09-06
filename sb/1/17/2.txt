@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.2~~
-~~bc:Text 2~~
-
-{{description>The bull was as white as a white lotus flower. He was terrified of the śūdra who was beating him, and he was so afraid that he was standing on one leg, trembling and urinating.}}
-
+---json
+{
+    "name":"SB 1.17.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.17.2",
+    "description":"The bull was as white as a white lotus flower. He was terrified of the śūdra who was beating him, and he was so afraid that he was standing on one leg, trembling and urinating."
+}
+---
 ====== SB 1.17.2 ======
 
 > वृषं मृणालधवलं मेहन्तमिव बिभ्यतम् ।

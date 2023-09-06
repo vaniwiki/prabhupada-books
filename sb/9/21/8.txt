@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.8~~
-~~bc:Text 8~~
-
-{{description>When the śūdra went away, another guest arrived, surrounded by dogs, and said, "O King, I and my company of dogs are very hungry. Please give us something to eat."}}
-
+---json
+{
+    "name":"SB 9.21.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 9.21.8",
+    "description":"When the śūdra went away, another guest arrived, surrounded by dogs, and said, "O King, I and my company of dogs are very hungry. Please give us something to eat.""
+}
+---
 ====== SB 9.21.8 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.5.23~~
-~~bc:Text 23~~
-
-{{description>He tried to cut the head of Dakṣa with hymns as well as weapons, but still it was hard to cut even the surface of the skin of Dakṣa's head. Thus Vīrabhadra was exceedingly bewildered.}}
-
+---json
+{
+    "name":"SB 4.5.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.5.23",
+    "description":"He tried to cut the head of Dakṣa with hymns as well as weapons, but still it was hard to cut even the surface of the skin of Dakṣa's head. Thus Vīrabhadra was exceedingly bewildered."
+}
+---
 ====== SB 4.5.23 ======
 
 > शस्त्रैरस्त्रान्वितैरेवमनिर्भिन्नत्वचं हरः ।

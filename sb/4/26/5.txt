@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.26.5~~
-~~bc:Text 5~~
-
-{{description>At that time King Purañjana was very much influenced by demoniac propensities. Because of this, his heart became very hard and merciless, and with sharp arrows he killed many innocent animals in the forest, taking no consideration.}}
-
+---json
+{
+    "name":"SB 4.26.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.26.5",
+    "description":"At that time King Purañjana was very much influenced by demoniac propensities. Because of this, his heart became very hard and merciless, and with sharp arrows he killed many innocent animals in the forest, taking no consideration."
+}
+---
 ====== SB 4.26.5 ======
 
 > आसुरीं वृत्तिमाश्रित्य घोरात्मा निरनुग्रहः ।

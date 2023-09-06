@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.33~~
-~~bc:Text 33~~
-
-{{description>My dear King, O protector of the citizens, henceforward be very careful to execute My orders and not be misled by anything. Anyone who lives in that way, simply carrying out My orders faithfully, will always find good fortune all over the world.}}
-
+---json
+{
+    "name":"SB 4.20.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 4.20.33",
+    "description":"My dear King, O protector of the citizens, henceforward be very careful to execute My orders and not be misled by anything. Anyone who lives in that way, simply carrying out My orders faithfully, will always find good fortune all over the world."
+}
+---
 ====== SB 4.20.33 ======
 
 > तत्त्वं कुरु मयादिष्टमप्रमत्तः प्रजापते ।

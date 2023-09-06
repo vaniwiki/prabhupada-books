@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.2~~
-~~bc:Text 2~~
-
-{{description>When the most powerful Indra became angry and took his thunderbolt in hand to kill Mahārāja Bali, the demons began lamenting, "Alas, alas!"}}
-
+---json
+{
+    "name":"SB 8.11.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 8.11.2",
+    "description":"When the most powerful Indra became angry and took his thunderbolt in hand to kill Mahārāja Bali, the demons began lamenting, "Alas, alas!""
+}
+---
 ====== SB 8.11.2 ======
 
 ===== Text =====

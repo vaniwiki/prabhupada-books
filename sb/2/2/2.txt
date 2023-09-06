@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.2~~
-~~bc:Text 2~~
-
-{{description>The way of presentation of the Vedic sounds is so bewildering that it directs the intelligence of the people to meaningless things like the heavenly kingdoms. The conditioned souls hover in dreams of such heavenly illusory pleasures, but actually they do not relish any tangible happiness in such places.}}
-
+---json
+{
+    "name":"SB 2.2.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 2.2.2",
+    "description":"The way of presentation of the Vedic sounds is so bewildering that it directs the intelligence of the people to meaningless things like the heavenly kingdoms. The conditioned souls hover in dreams of such heavenly illusory pleasures, but actually they do not relish any tangible happiness in such places."
+}
+---
 ====== SB 2.2.2 ======
 
 > शाब्दस्य हि ब्रह्मण एष पन्था यन्नामभिर्ध्यायति धीरपार्थैः ।

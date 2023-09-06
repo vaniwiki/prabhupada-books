@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.6.1~~
-~~bc:Text 1~~
-
-{{description>Prahlāda Mahārāja said: One who is sufficiently intelligent should use the human form of body from the very beginning of life—in other words, from the tender age of childhood—to practice the activities of devotional service, giving up all other engagements. The human body is most rarely achieved, and although temporary like other bodies, it is meaningful because in human life one can perform devotional service. Even a slight amount of sincere devotional service can give one complete perfection.}}
-
+---json
+{
+    "name":"SB 7.6.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.6.1",
+    "description":"Prahlāda Mahārāja said: One who is sufficiently intelligent should use the human form of body from the very beginning of life—in other words, from the tender age of childhood—to practice the activities of devotional service, giving up all other engagements. The human body is most rarely achieved, and although temporary like other bodies, it is meaningful because in human life one can perform devotional service. Even a slight amount of sincere devotional service can give one complete perfection."
+}
+---
 ====== SB 7.6.1 ======
 
 ===== Text =====

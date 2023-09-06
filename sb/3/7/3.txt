@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.7.3~~
-~~bc:Text 3~~
-
-{{description>Boys are enthusiastic to play with other boys or with various diversions because they are encouraged by desire. But there is no possibility of such desire for the Lord because He is self-satisfied and detached from everything at all times.}}
-
+---json
+{
+    "name":"SB 3.7.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.7.3",
+    "description":"Boys are enthusiastic to play with other boys or with various diversions because they are encouraged by desire. But there is no possibility of such desire for the Lord because He is self-satisfied and detached from everything at all times."
+}
+---
 ====== SB 3.7.3 ======
 
 > क्रीडायामुद्यमोऽर्भस्य कामश्चिक्रीडिषान्यतः ।

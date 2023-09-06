@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.2.9~~
-~~bc:Text 9~~
-
-{{description>O all-auspicious Yogamāyā, I shall then appear with My full six opulences as the son of Devakī, and you will appear as the daughter of mother Yaśodā, the queen of Mahārāja Nanda.}}
-
+---json
+{
+    "name":"SB 10.2.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 10.2.9",
+    "description":"O all-auspicious Yogamāyā, I shall then appear with My full six opulences as the son of Devakī, and you will appear as the daughter of mother Yaśodā, the queen of Mahārāja Nanda."
+}
+---
 ====== SB 10.2.9 ======
 
 ===== Text =====

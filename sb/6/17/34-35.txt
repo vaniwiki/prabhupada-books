@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.34-35~~
-~~bc:Text 34-35~~
-
-{{description>This magnanimous Citraketu is a dear devotee of the Lord. He is equal to all living entities and is free from attachment and hatred. Similarly, I am also very dear to Lord Nārāyaṇa. Therefore, no one should be astonished to see the activities of the most exalted devotees of Nārāyaṇa, for they are free from attachment and envy. They are always peaceful, and they are equal to everyone.}}
-
+---json
+{
+    "name":"SB 6.17.34-35",
+    "h1":"Text 34-35",
+    "title":" Śrīmad Bhāgavatam 6.17.34-35",
+    "description":"This magnanimous Citraketu is a dear devotee of the Lord. He is equal to all living entities and is free from attachment and hatred. Similarly, I am also very dear to Lord Nārāyaṇa. Therefore, no one should be astonished to see the activities of the most exalted devotees of Nārāyaṇa, for they are free from attachment and envy. They are always peaceful, and they are equal to everyone."
+}
+---
 ====== SB 6.17.34-35 ======
 
 ===== Text =====

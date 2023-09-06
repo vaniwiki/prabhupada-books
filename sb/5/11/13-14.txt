@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.11.13-14~~
-~~bc:Text 13-14~~
-
-{{description>There are two kinds of kṣetrajña—the living entity, as explained above, and the Supreme Personality of Godhead, who is explained as follows. He is the all-pervading cause of creation. He is full in Himself and is not dependent on others. He is perceived by hearing and direct perception. He is self-effulgent and does not experience birth, death, old age or disease. He is the controller of all the demigods, beginning with Lord Brahmā. He is called Nārāyaṇa, and He is the shelter of living entities after the annihilation of this material world. He is full of all opulences, and He is the resting place of everything material. He is therefore known as Vāsudeva, the Supreme Personality of Godhead. By His own potency, He is present within the hearts of all living entities, just as the air or vital force is within the bodies of all beings, moving and nonmoving. In this way He controls the body. In His partial feature, the Supreme Personality of Godhead enters all bodies and controls them.}}
-
+---json
+{
+    "name":"SB 5.11.13-14",
+    "h1":"Text 13-14",
+    "title":" Śrīmad Bhāgavatam 5.11.13-14",
+    "description":"There are two kinds of kṣetrajña—the living entity, as explained above, and the Supreme Personality of Godhead, who is explained as follows. He is the all-pervading cause of creation. He is full in Himself and is not dependent on others. He is perceived by hearing and direct perception. He is self-effulgent and does not experience birth, death, old age or disease. He is the controller of all the demigods, beginning with Lord Brahmā. He is called Nārāyaṇa, and He is the shelter of living entities after the annihilation of this material world. He is full of all opulences, and He is the resting place of everything material. He is therefore known as Vāsudeva, the Supreme Personality of Godhead. By His own potency, He is present within the hearts of all living entities, just as the air or vital force is within the bodies of all beings, moving and nonmoving. In this way He controls the body. In His partial feature, the Supreme Personality of Godhead enters all bodies and controls them."
+}
+---
 ====== SB 5.11.13-14 ======
 
 ===== Text =====

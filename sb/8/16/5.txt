@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.5~~
-~~bc:Text 5~~
-
-{{description>O my wife, who are very much attached to household life, if the principles of religion, economic development and satisfaction of the senses are properly followed in household life, one's activities are as good as those of a transcendentalist. I wonder whether there have been any discrepancies in following these principles.}}
-
+---json
+{
+    "name":"SB 8.16.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 8.16.5",
+    "description":"O my wife, who are very much attached to household life, if the principles of religion, economic development and satisfaction of the senses are properly followed in household life, one's activities are as good as those of a transcendentalist. I wonder whether there have been any discrepancies in following these principles."
+}
+---
 ====== SB 8.16.5 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.35~~
-~~bc:Text 35~~
-
-{{description>From ethereal existence, which evolves from sound, the next transformation takes place under the impulse of time, and thus the subtle element touch and thence the air and sense of touch become prominent.}}
-
+---json
+{
+    "name":"SB 3.26.35",
+    "h1":"Text 35",
+    "title":" Śrīmad Bhāgavatam 3.26.35",
+    "description":"From ethereal existence, which evolves from sound, the next transformation takes place under the impulse of time, and thus the subtle element touch and thence the air and sense of touch become prominent."
+}
+---
 ====== SB 3.26.35 ======
 
 > नभसः शब्दतन्मात्रात्कालगत्या विकुर्वतः ।

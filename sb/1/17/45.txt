@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.45~~
-~~bc:Text 45~~
-
-{{description>Mahārāja Parīkṣit, the son of Abhimanyu, is so experienced that by dint of his expert administration and patronage, it has been possible for you to perform a sacrifice such as this.}}
-
+---json
+{
+    "name":"SB 1.17.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 1.17.45",
+    "description":"Mahārāja Parīkṣit, the son of Abhimanyu, is so experienced that by dint of his expert administration and patronage, it has been possible for you to perform a sacrifice such as this."
+}
+---
 ====== SB 1.17.45 ======
 
 > इत्थम्भूतानुभावोऽयमभिमन्युसुतो नृपः ।

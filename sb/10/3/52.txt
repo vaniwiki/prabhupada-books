@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.52~~
-~~bc:Text 52~~
-
-{{description>Vasudeva placed the female child on the bed of Devakī, bound his legs with the iron shackles, and thus remained there as before.}}
-
+---json
+{
+    "name":"SB 10.3.52",
+    "h1":"Text 52",
+    "title":" Śrīmad Bhāgavatam 10.3.52",
+    "description":"Vasudeva placed the female child on the bed of Devakī, bound his legs with the iron shackles, and thus remained there as before."
+}
+---
 ====== SB 10.3.52 ======
 
 ===== Text =====

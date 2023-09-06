@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.7~~
-~~bc:Text 7~~
-
-{{description>Then he [Mahārāja Parīkṣit] asked the bull: Oh, who are you? Are you a bull as white as a white lotus, or are you a demigod? You have lost three of your legs and are moving on only one. Are you some demigod causing us grief in the form of a bull?}}
-
+---json
+{
+    "name":"SB 1.17.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 1.17.7",
+    "description":"Then he [Mahārāja Parīkṣit] asked the bull: Oh, who are you? Are you a bull as white as a white lotus, or are you a demigod? You have lost three of your legs and are moving on only one. Are you some demigod causing us grief in the form of a bull?"
+}
+---
 ====== SB 1.17.7 ======
 
 > त्वं वा मृणालधवलः पादैर्न्यूनः पदा चरन् ।

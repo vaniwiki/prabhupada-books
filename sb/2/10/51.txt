@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.51~~
-~~bc:Text 51~~
-
-{{description>Śrī Sūta Gosvāmī explained: I shall now explain to you the very subjects explained by the great sage in answer to King Parīkṣit's inquiries. Please hear them attentively.}}
-
+---json
+{
+    "name":"SB 2.10.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 2.10.51",
+    "description":"Śrī Sūta Gosvāmī explained: I shall now explain to you the very subjects explained by the great sage in answer to King Parīkṣit's inquiries. Please hear them attentively."
+}
+---
 ====== SB 2.10.51 ======
 
 > सूत उवाच

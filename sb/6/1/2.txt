@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.2~~
-~~bc:Text 2~~
-
-{{description>O great sage Śukadeva Gosvāmī, unless the living entity is freed from the infection of the material modes of nature, he receives different types of bodies in which to enjoy or suffer, and according to the body, he is understood to have various inclinations. By following these inclinations he traverses the path called pravṛtti-mārga, by which one may be elevated to the heavenly planets, as you have already described [in the Third Canto].}}
-
+---json
+{
+    "name":"SB 6.1.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 6.1.2",
+    "description":"O great sage Śukadeva Gosvāmī, unless the living entity is freed from the infection of the material modes of nature, he receives different types of bodies in which to enjoy or suffer, and according to the body, he is understood to have various inclinations. By following these inclinations he traverses the path called pravṛtti-mārga, by which one may be elevated to the heavenly planets, as you have already described [in the Third Canto]."
+}
+---
 ====== SB 6.1.2 ======
 
 ===== Text =====

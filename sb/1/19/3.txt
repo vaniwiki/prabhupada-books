@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.3~~
-~~bc:Text 3~~
-
-{{description>I am uncivilized and sinful due to my neglect of brahminical culture, God consciousness and cow protection. Therefore I wish that my kingdom, strength and riches burn up immediately by the fire of the brāhmaṇa's wrath so that in the future I may not be guided by such inauspicious attitudes.}}
-
+---json
+{
+    "name":"SB 1.19.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.19.3",
+    "description":"I am uncivilized and sinful due to my neglect of brahminical culture, God consciousness and cow protection. Therefore I wish that my kingdom, strength and riches burn up immediately by the fire of the brāhmaṇa's wrath so that in the future I may not be guided by such inauspicious attitudes."
+}
+---
 ====== SB 1.19.3 ======
 
 > अद्यैव राज्यं बलमृद्धकोशं प्रकोपितब्रह्मकुलानलो मे ।

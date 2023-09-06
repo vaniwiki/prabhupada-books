@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.16~~
-~~bc:Text 16~~
-
-{{description>Bharata Mahārāja would think: Alas, the deer is now helpless. I am now very unfortunate, and my mind is like a cunning hunter, for it is always filled with cheating propensities and cruelty. The deer has put its faith in me, just as a good man who has a natural interest in good behavior forgets the misbehavior of a cunning friend and puts his faith in him. Although I have proved faithless, will this deer return and place its faith in me?}}
-
+---json
+{
+    "name":"SB 5.8.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 5.8.16",
+    "description":"Bharata Mahārāja would think: Alas, the deer is now helpless. I am now very unfortunate, and my mind is like a cunning hunter, for it is always filled with cheating propensities and cruelty. The deer has put its faith in me, just as a good man who has a natural interest in good behavior forgets the misbehavior of a cunning friend and puts his faith in him. Although I have proved faithless, will this deer return and place its faith in me?"
+}
+---
 ====== SB 5.8.16 ======
 
 ===== Text =====

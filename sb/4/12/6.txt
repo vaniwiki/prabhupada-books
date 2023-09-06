@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.12.6~~
-~~bc:Text 6~~
-
-{{description>Engage yourself fully, therefore, in the devotional service of the Lord, for only He can deliver us from this entanglement of materialistic existence. Although the Lord is attached to His material potency, He is aloof from her activities. Everything in this material world is happening by the inconceivable potency of the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.12.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.12.6",
+    "description":"Engage yourself fully, therefore, in the devotional service of the Lord, for only He can deliver us from this entanglement of materialistic existence. Although the Lord is attached to His material potency, He is aloof from her activities. Everything in this material world is happening by the inconceivable potency of the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.12.6 ======
 
 > भजस्व भजनीयाङ्घ्रिमभवाय भवच्छिदम् ।

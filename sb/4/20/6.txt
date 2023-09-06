@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.20.6~~
-~~bc:Text 6~~
-
-{{description>How can a highly learned person who has absolutely no affinity for the bodily conception of life be affected by the bodily conception in regard to house, children, wealth and similar other bodily productions?}}
-
+---json
+{
+    "name":"SB 4.20.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 4.20.6",
+    "description":"How can a highly learned person who has absolutely no affinity for the bodily conception of life be affected by the bodily conception in regard to house, children, wealth and similar other bodily productions?"
+}
+---
 ====== SB 4.20.6 ======
 
 > असंसक्तः शरीरेऽस्मिन्नमुनोत्पादिते गृहे ।

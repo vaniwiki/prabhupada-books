@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.41~~
-~~bc:Text 41~~
-
-{{description>Mahārāja Bali then attacked Indra with ten arrows and attacked Airāvata, Indra's carrier elephant, with three arrows. With four arrows he attacked the four horsemen guarding Airāvata's legs, and with one arrow he attacked the driver of the elephant.}}
-
+---json
+{
+    "name":"SB 8.10.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 8.10.41",
+    "description":"Mahārāja Bali then attacked Indra with ten arrows and attacked Airāvata, Indra's carrier elephant, with three arrows. With four arrows he attacked the four horsemen guarding Airāvata's legs, and with one arrow he attacked the driver of the elephant."
+}
+---
 ====== SB 8.10.41 ======
 
 ===== Text =====

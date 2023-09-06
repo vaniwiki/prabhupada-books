@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.25~~
-~~bc:Text 25~~
-
-{{description>The showers of various weapons and arrows released to kill the soldiers of the demigods did not reach them because the demigods, acting quickly, cut the weapons into thousands of pieces in the sky.}}
-
+---json
+{
+    "name":"SB 6.10.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 6.10.25",
+    "description":"The showers of various weapons and arrows released to kill the soldiers of the demigods did not reach them because the demigods, acting quickly, cut the weapons into thousands of pieces in the sky."
+}
+---
 ====== SB 6.10.25 ======
 
 ===== Text =====

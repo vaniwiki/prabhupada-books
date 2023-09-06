@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.32~~
-~~bc:Text 32~~
-
-{{description>Before the reign of King Pṛthu there was no planned arrangement for different cities, villages, pasturing grounds, etc. Every thing was scattered, and everyone constructed his residential quarters according to his own convenience. However, since King Pṛthu plans were made for towns and villages.}}
-
+---json
+{
+    "name":"SB 4.18.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.18.32",
+    "description":"Before the reign of King Pṛthu there was no planned arrangement for different cities, villages, pasturing grounds, etc. Every thing was scattered, and everyone constructed his residential quarters according to his own convenience. However, since King Pṛthu plans were made for towns and villages."
+}
+---
 ====== SB 4.18.32 ======
 
 > प्राक्पृथोरिह नैवैषा पुरग्रामादिकल्पना ।

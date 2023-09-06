@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.3~~
-~~bc:Text 3~~
-
-{{description>On the birth of the two demons there were many natural disturbances, all very fearful and wonderful, in the heavenly planets, the earthly planets and in between them.}}
-
+---json
+{
+    "name":"SB 3.17.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 3.17.3",
+    "description":"On the birth of the two demons there were many natural disturbances, all very fearful and wonderful, in the heavenly planets, the earthly planets and in between them."
+}
+---
 ====== SB 3.17.3 ======
 
 > उत्पाता बहवस्तत्र निपेतुर्जायमानयोः ।

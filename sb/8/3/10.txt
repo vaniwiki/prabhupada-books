@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.3.10~~
-~~bc:Text 10~~
-
-{{description>I offer my respectful obeisances unto the Supreme Personality of Godhead, the self-effulgent Supersoul, who is the witness in everyone's heart, who enlightens the individual soul and who cannot be reached by exercises of the mind, words or consciousness.}}
-
+---json
+{
+    "name":"SB 8.3.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 8.3.10",
+    "description":"I offer my respectful obeisances unto the Supreme Personality of Godhead, the self-effulgent Supersoul, who is the witness in everyone's heart, who enlightens the individual soul and who cannot be reached by exercises of the mind, words or consciousness."
+}
+---
 ====== SB 8.3.10 ======
 
 ===== Text =====

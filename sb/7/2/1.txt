@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Nārada Muni said: My dear King Yudhiṣṭhira, when Lord Viṣṇu, in the form of Varāha, the boar, killed Hiraṇyākṣa, Hiraṇyākṣa's brother Hiraṇyakaśipu was extremely angry and began to lament.}}
-
+---json
+{
+    "name":"SB 7.2.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 7.2.1",
+    "description":"Śrī Nārada Muni said: My dear King Yudhiṣṭhira, when Lord Viṣṇu, in the form of Varāha, the boar, killed Hiraṇyākṣa, Hiraṇyākṣa's brother Hiraṇyakaśipu was extremely angry and began to lament."
+}
+---
 ====== SB 7.2.1 ======
 
 ===== Text =====

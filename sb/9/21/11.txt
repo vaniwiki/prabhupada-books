@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.11~~
-~~bc:Text 11~~
-
-{{description>Aggrieved at hearing the pitiable words of the poor fatigued caṇḍāla, Mahārāja Rantideva spoke the following nectarean words.}}
-
+---json
+{
+    "name":"SB 9.21.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 9.21.11",
+    "description":"Aggrieved at hearing the pitiable words of the poor fatigued caṇḍāla, Mahārāja Rantideva spoke the following nectarean words."
+}
+---
 ====== SB 9.21.11 ======
 
 ===== Text =====

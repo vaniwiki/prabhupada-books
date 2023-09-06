@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.12.2~~
-~~bc:Text 2~~
-
-{{description>The son of Kṣemadhanvā was Devānīka, Devānīka's son was Anīha, Anīha's son was Pāriyātra, and Pāriyātra's son was Balasthala. The son of Balasthala was Vajranābha, who was said to have been born from the effulgence of the sun-god.}}
-
+---json
+{
+    "name":"SB 9.12.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 9.12.2",
+    "description":"The son of Kṣemadhanvā was Devānīka, Devānīka's son was Anīha, Anīha's son was Pāriyātra, and Pāriyātra's son was Balasthala. The son of Balasthala was Vajranābha, who was said to have been born from the effulgence of the sun-god."
+}
+---
 ====== SB 9.12.2 ======
 
 ===== Text =====

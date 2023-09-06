@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.41~~
-~~bc:Text 41~~
-
-{{description>Śrī Nārada said: O pious King, do not lament for anyone, for everyone is under the control of the Supreme Lord. Therefore all living beings and their leaders carry on worship to be well protected. It is He only who brings them together and disperses them.}}
-
+---json
+{
+    "name":"SB 1.13.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 1.13.41",
+    "description":"Śrī Nārada said: O pious King, do not lament for anyone, for everyone is under the control of the Supreme Lord. Therefore all living beings and their leaders carry on worship to be well protected. It is He only who brings them together and disperses them."
+}
+---
 ====== SB 1.13.41 ======
 
 > नारद उवाच

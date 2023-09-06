@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.12~~
-~~bc:Text 12~~
-
-{{description>Because you are a pure devotee of the Lord, the Lord is always thinking of you, and you are also recognized by all His confidential devotees. Your life is meant for exemplary behavior. I am therefore surprised—why have you undertaken such an abominable task?}}
-
+---json
+{
+    "name":"SB 4.11.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.11.12",
+    "description":"Because you are a pure devotee of the Lord, the Lord is always thinking of you, and you are also recognized by all His confidential devotees. Your life is meant for exemplary behavior. I am therefore surprised—why have you undertaken such an abominable task?"
+}
+---
 ====== SB 4.11.12 ======
 
 > स त्वं हरेरनुध्यातस्तत्पुंसामपि सम्मतः ।

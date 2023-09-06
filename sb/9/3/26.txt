@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.26~~
-~~bc:Text 26~~
-
-{{description>Although the Aśvinī-kumāras were only physicians and were therefore excluded from drinking soma-rasa in sacrifices, the demigods agreed to allow them henceforward to drink it.}}
-
+---json
+{
+    "name":"SB 9.3.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 9.3.26",
+    "description":"Although the Aśvinī-kumāras were only physicians and were therefore excluded from drinking soma-rasa in sacrifices, the demigods agreed to allow them henceforward to drink it."
+}
+---
 ====== SB 9.3.26 ======
 
 ===== Text =====

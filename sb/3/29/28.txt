@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.28~~
-~~bc:Text 28~~
-
-{{description>Living entities are superior to inanimate objects, O blessed mother, and among them, living entities who display life symptoms are better. Animals with developed consciousness are better than them, and better still are those who have developed sense perception.}}
-
+---json
+{
+    "name":"SB 3.29.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 3.29.28",
+    "description":"Living entities are superior to inanimate objects, O blessed mother, and among them, living entities who display life symptoms are better. Animals with developed consciousness are better than them, and better still are those who have developed sense perception."
+}
+---
 ====== SB 3.29.28 ======
 
 > जीवाः श्रेष्ठा ह्यजीवानां ततः प्राणभृतः शुभे ।

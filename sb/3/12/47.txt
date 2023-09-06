@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.47~~
-~~bc:Text 47~~
-
-{{description>Brahmā's soul was manifested as the touch alphabets, his body as the vowels, his senses as the sibilant alphabets, his strength as the intermediate alphabets and his sensual activities as the seven notes of music.}}
-
+---json
+{
+    "name":"SB 3.12.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 3.12.47",
+    "description":"Brahmā's soul was manifested as the touch alphabets, his body as the vowels, his senses as the sibilant alphabets, his strength as the intermediate alphabets and his sensual activities as the seven notes of music."
+}
+---
 ====== SB 3.12.47 ======
 
 > स्पर्शस्तस्याभवज्जीवः स्वरो देह उदाहृत ।

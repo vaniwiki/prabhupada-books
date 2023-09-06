@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.22.48~~
-~~bc:Text 48~~
-
-{{description>The great sage Maitreya continued: Being thus worshiped by Mahārāja Pṛthu, the four Kumāras, who were masters of devotional service, became very pleased. Indeed, they appeared in the sky and praised the character of the King, and everyone observed them.}}
-
+---json
+{
+    "name":"SB 4.22.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 4.22.48",
+    "description":"The great sage Maitreya continued: Being thus worshiped by Mahārāja Pṛthu, the four Kumāras, who were masters of devotional service, became very pleased. Indeed, they appeared in the sky and praised the character of the King, and everyone observed them."
+}
+---
 ====== SB 4.22.48 ======
 
 > मैत्रेय उवाच

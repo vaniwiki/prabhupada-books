@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.13~~
-~~bc:Text 13~~
-
-{{description>Factually the Supreme Personality of Godhead is the original source of all self-realization. Consequently, the goal of all auspicious activities—karma, jñāna, yoga and bhakti—is the Supreme Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 4.31.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 4.31.13",
+    "description":"Factually the Supreme Personality of Godhead is the original source of all self-realization. Consequently, the goal of all auspicious activities—karma, jñāna, yoga and bhakti—is the Supreme Personality of Godhead."
+}
+---
 ====== SB 4.31.13 ======
 
 > श्रेयसामपि सर्वेषामात्मा ह्यवधिरर्थतः ।

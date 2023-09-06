@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.6.27~~
-~~bc:Text 27~~
-
-{{description>My dear King Parīkṣit, from the womb of Surabhi the buffalo, cow and other animals with cloven hooves took birth, from the womb of Tāmrā the eagles, vultures and other large birds of prey took birth, and from the womb of Muni the angels took birth.}}
-
+---json
+{
+    "name":"SB 6.6.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 6.6.27",
+    "description":"My dear King Parīkṣit, from the womb of Surabhi the buffalo, cow and other animals with cloven hooves took birth, from the womb of Tāmrā the eagles, vultures and other large birds of prey took birth, and from the womb of Muni the angels took birth."
+}
+---
 ====== SB 6.6.27 ======
 
 ===== Text =====

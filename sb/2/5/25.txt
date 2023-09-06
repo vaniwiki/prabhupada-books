@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.25~~
-~~bc:Text 25~~
-
-{{description>From the darkness of false ego, the first of the five elements, namely the sky, is generated. Its subtle form is the quality of sound, exactly as the seer is in relationship with the seen.}}
-
+---json
+{
+    "name":"SB 2.5.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 2.5.25",
+    "description":"From the darkness of false ego, the first of the five elements, namely the sky, is generated. Its subtle form is the quality of sound, exactly as the seer is in relationship with the seen."
+}
+---
 ====== SB 2.5.25 ======
 
 > तामसादपि भूतादेर्विकुर्वाणादभून्नभः ।

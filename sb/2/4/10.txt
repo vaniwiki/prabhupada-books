@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.10~~
-~~bc:Text 10~~
-
-{{description>Kindly clear up all these doubtful inquiries, because you are not only vastly learned in the Vedic literatures and self-realized in transcendence, but are also a great devotee of the Lord and are therefore as good as the Personality of Godhead.}}
-
+---json
+{
+    "name":"SB 2.4.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 2.4.10",
+    "description":"Kindly clear up all these doubtful inquiries, because you are not only vastly learned in the Vedic literatures and self-realized in transcendence, but are also a great devotee of the Lord and are therefore as good as the Personality of Godhead."
+}
+---
 ====== SB 2.4.10 ======
 
 > विचिकित्सितमेतन्मे ब्रवीतु भगवान्यथा ।

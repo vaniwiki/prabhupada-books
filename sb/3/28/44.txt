@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.28.44~~
-~~bc:Text 44~~
-
-{{description>Thus the yogī can be in the self-realized position after conquering the insurmountable spell of māyā, who presents herself as both the cause and effect of this material manifestation and is therefore very difficult to understand.}}
-
+---json
+{
+    "name":"SB 3.28.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 3.28.44",
+    "description":"Thus the yogī can be in the self-realized position after conquering the insurmountable spell of māyā, who presents herself as both the cause and effect of this material manifestation and is therefore very difficult to understand."
+}
+---
 ====== SB 3.28.44 ======
 
 > तस्मादिमां स्वां प्रकृतिं दैवीं सदसदात्मिकाम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.1.3~~
-~~bc:Text 3~~
-
-{{description>O greatly fortunate and learned brāhmaṇa, whether Nārāyaṇa is partial or impartial has become a subject of great doubt. Kindly dispel my doubt with positive evidence that Nārāyaṇa is always neutral and equal to everyone.}}
-
+---json
+{
+    "name":"SB 7.1.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 7.1.3",
+    "description":"O greatly fortunate and learned brāhmaṇa, whether Nārāyaṇa is partial or impartial has become a subject of great doubt. Kindly dispel my doubt with positive evidence that Nārāyaṇa is always neutral and equal to everyone."
+}
+---
 ====== SB 7.1.3 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.22~~
-~~bc:Text 22~~
-
-{{description>Devotional service, beginning with the chanting of the holy name of the Lord, is the ultimate religious principle for the living entity in human society.}}
-
+---json
+{
+    "name":"SB 6.3.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 6.3.22",
+    "description":"Devotional service, beginning with the chanting of the holy name of the Lord, is the ultimate religious principle for the living entity in human society."
+}
+---
 ====== SB 6.3.22 ======
 
 ===== Text =====

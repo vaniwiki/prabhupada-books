@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.17~~
-~~bc:Text 17~~
-
-{{description>The rays of the sun are declining, and the stars appear to be fighting amongst themselves. Confused living entities appear to be ablaze and weeping.}}
-
+---json
+{
+    "name":"SB 1.14.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 1.14.17",
+    "description":"The rays of the sun are declining, and the stars appear to be fighting amongst themselves. Confused living entities appear to be ablaze and weeping."
+}
+---
 ====== SB 1.14.17 ======
 
 > सूर्यं हतप्रभं पश्य ग्रहमर्दं मिथो दिवि ।

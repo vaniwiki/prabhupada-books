@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.9-10~~
-~~bc:Text 9-10~~
-
-{{description>"The supreme person within this universe, Lord Brahmā, has gotten his exalted post by dint of severe austerities, mystic power and trance. Consequently, after creating the universe, he has become the most worshipable demigod within it. Since I am eternal and time is eternal, I shall endeavor for such austerity, mystic power and trance for many, many births, and thus I shall occupy the same post occupied by Lord Brahmā.}}
-
+---json
+{
+    "name":"SB 7.3.9-10",
+    "h1":"Text 9-10",
+    "title":" Śrīmad Bhāgavatam 7.3.9-10",
+    "description":""The supreme person within this universe, Lord Brahmā, has gotten his exalted post by dint of severe austerities, mystic power and trance. Consequently, after creating the universe, he has become the most worshipable demigod within it. Since I am eternal and time is eternal, I shall endeavor for such austerity, mystic power and trance for many, many births, and thus I shall occupy the same post occupied by Lord Brahmā."
+}
+---
 ====== SB 7.3.9-10 ======
 
 ===== Text =====

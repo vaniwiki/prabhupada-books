@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.17.20~~
-~~bc:Text 20~~
-
-{{description>O lady, even if someone inquires, you should not disclose this fact to anyone. That which is very confidential is successful if kept secret.}}
-
+---json
+{
+    "name":"SB 8.17.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 8.17.20",
+    "description":"O lady, even if someone inquires, you should not disclose this fact to anyone. That which is very confidential is successful if kept secret."
+}
+---
 ====== SB 8.17.20 ======
 
 ===== Text =====

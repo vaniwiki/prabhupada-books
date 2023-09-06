@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.2.19~~
-~~bc:Text 19~~
-
-{{description>You have personally seen how the King of Cedi [Śiśupāla] achieved success in yoga practice, although he hated Lord Kṛṣṇa. Even the actual yogīs aspire after such success with great interest by performance of their various practices. Who can tolerate separation from Him?}}
-
+---json
+{
+    "name":"SB 3.2.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.2.19",
+    "description":"You have personally seen how the King of Cedi [Śiśupāla] achieved success in yoga practice, although he hated Lord Kṛṣṇa. Even the actual yogīs aspire after such success with great interest by performance of their various practices. Who can tolerate separation from Him?"
+}
+---
 ====== SB 3.2.19 ======
 
 > दृष्टा भवद्भिर्ननु राजसूये चैद्यस्य कृष्णं द्विषतोऽपि सिद्धिः ।

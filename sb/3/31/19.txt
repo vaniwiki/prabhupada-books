@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.19~~
-~~bc:Text 19~~
-
-{{description>The living entity in another type of body sees only by instinct; he knows only the agreeable and disagreeable sense perceptions of that particular body. But I have a body in which I can control my senses and can understand my destination; therefore, I offer my respectful obeisances to the Supreme Personality of Godhead, by whom I have been blessed with this body and by whose grace I can see Him within and without.}}
-
+---json
+{
+    "name":"SB 3.31.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 3.31.19",
+    "description":"The living entity in another type of body sees only by instinct; he knows only the agreeable and disagreeable sense perceptions of that particular body. But I have a body in which I can control my senses and can understand my destination; therefore, I offer my respectful obeisances to the Supreme Personality of Godhead, by whom I have been blessed with this body and by whose grace I can see Him within and without."
+}
+---
 ====== SB 3.31.19 ======
 
 > पश्यत्ययं धिषणया ननु सप्तवध्रिः

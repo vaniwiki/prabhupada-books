@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.12~~
-~~bc:Text 12~~
-
-{{description>When Kardama Muni actually realized the Supreme Personality of Godhead in person, he was greatly satisfied because his transcendental desire was fulfilled. He fell on the ground with his head bowed to offer obeisances unto the lotus feet of the Lord. His heart naturally full of love of God, with folded hands he satisfied the Lord with prayers.}}
-
+---json
+{
+    "name":"SB 3.21.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.21.12",
+    "description":"When Kardama Muni actually realized the Supreme Personality of Godhead in person, he was greatly satisfied because his transcendental desire was fulfilled. He fell on the ground with his head bowed to offer obeisances unto the lotus feet of the Lord. His heart naturally full of love of God, with folded hands he satisfied the Lord with prayers."
+}
+---
 ====== SB 3.21.12 ======
 
 > जातहर्षोऽपतन्मूर्ध्ना क्षितौ लब्धमनोरथः ।

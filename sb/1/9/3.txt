@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.9.3~~
-~~bc:Text 3~~
-
-{{description>O sage amongst the brāhmaṇas, Lord Śrī Kṛṣṇa, the Personality of Godhead, also followed, seated on a chariot with Arjuna. Thus King Yudhiṣṭhira appeared very aristocratic, like Kuvera surrounded by his companions [the Guhyakas].}}
-
+---json
+{
+    "name":"SB 1.9.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.9.3",
+    "description":"O sage amongst the brāhmaṇas, Lord Śrī Kṛṣṇa, the Personality of Godhead, also followed, seated on a chariot with Arjuna. Thus King Yudhiṣṭhira appeared very aristocratic, like Kuvera surrounded by his companions [the Guhyakas]."
+}
+---
 ====== SB 1.9.3 ======
 
 > भगवानपि विप्रर्षे रथेन सधनञ्जयः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.12~~
-~~bc:Text 12~~
-
-{{description>Cyavana Muni said: Although you are ineligible to drink soma-rasa in sacrifices, I promise to give you a full pot of it. Kindly arrange beauty and youth for me, because they are attractive to young women.}}
-
+---json
+{
+    "name":"SB 9.3.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 9.3.12",
+    "description":"Cyavana Muni said: Although you are ineligible to drink soma-rasa in sacrifices, I promise to give you a full pot of it. Kindly arrange beauty and youth for me, because they are attractive to young women."
+}
+---
 ====== SB 9.3.12 ======
 
 ===== Text =====

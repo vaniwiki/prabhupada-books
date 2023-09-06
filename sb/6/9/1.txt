@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.9.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Śukadeva Gosvāmī continued: Viśvarūpa, who was engaged as the priest of the demigods, had three heads. He used one to drink the beverage soma-rasa, another to drink wine and the third to eat food. O King Parīkṣit, thus I have heard from authorities.}}
-
+---json
+{
+    "name":"SB 6.9.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 6.9.1",
+    "description":"Śrī Śukadeva Gosvāmī continued: Viśvarūpa, who was engaged as the priest of the demigods, had three heads. He used one to drink the beverage soma-rasa, another to drink wine and the third to eat food. O King Parīkṣit, thus I have heard from authorities."
+}
+---
 ====== SB 6.9.1 ======
 
 ===== Text =====

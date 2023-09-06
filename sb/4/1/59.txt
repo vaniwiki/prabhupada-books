@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.59~~
-~~bc:Text 59~~
-
-{{description>That Nara-Nārāyaṇa Ṛṣi, who is a partial expansion of Kṛṣṇa, has now appeared in the dynasties of Yadu and Kuru, in the forms of Kṛṣṇa and Arjuna respectively, to mitigate the burden of the world.}}
-
+---json
+{
+    "name":"SB 4.1.59",
+    "h1":"Text 59",
+    "title":" Śrīmad Bhāgavatam 4.1.59",
+    "description":"That Nara-Nārāyaṇa Ṛṣi, who is a partial expansion of Kṛṣṇa, has now appeared in the dynasties of Yadu and Kuru, in the forms of Kṛṣṇa and Arjuna respectively, to mitigate the burden of the world."
+}
+---
 ====== SB 4.1.59 ======
 
 > ताविमौ वै भगवतो हरेरंशाविहागतौ ।

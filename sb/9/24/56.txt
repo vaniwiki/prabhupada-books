@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.24.56~~
-~~bc:Text 56~~
-
-{{description>Whenever the principles of religion deteriorate and the principles of irreligion increase, the supreme controller, the Personality of Godhead Śrī Hari, appears by His own will.}}
-
+---json
+{
+    "name":"SB 9.24.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 9.24.56",
+    "description":"Whenever the principles of religion deteriorate and the principles of irreligion increase, the supreme controller, the Personality of Godhead Śrī Hari, appears by His own will."
+}
+---
 ====== SB 9.24.56 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.63~~
-~~bc:Text 63~~
-
-{{description>The Agniṣvāttas, the Barhiṣadas, the Saumyas and the Ājyapas are the Pitās. They are either sāgnika or niragnika. The wife of all these Pitās is Svadhā, who is the daughter of King Dakṣa.}}
-
+---json
+{
+    "name":"SB 4.1.63",
+    "h1":"Text 63",
+    "title":" Śrīmad Bhāgavatam 4.1.63",
+    "description":"The Agniṣvāttas, the Barhiṣadas, the Saumyas and the Ājyapas are the Pitās. They are either sāgnika or niragnika. The wife of all these Pitās is Svadhā, who is the daughter of King Dakṣa."
+}
+---
 ====== SB 4.1.63 ======
 
 > अग्निष्वात्ता बर्हिषदः सौम्याः पितर आज्यपाः ।

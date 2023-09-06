@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.41~~
-~~bc:Text 41~~
-
-{{description>Both the queens of King Uttānapāda, namely Sunīti and Suruci, along with his other son, Uttama, appeared in the procession. The queens were seated on a palanquin.}}
-
+---json
+{
+    "name":"SB 4.9.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.9.41",
+    "description":"Both the queens of King Uttānapāda, namely Sunīti and Suruci, along with his other son, Uttama, appeared in the procession. The queens were seated on a palanquin."
+}
+---
 ====== SB 4.9.41 ======
 
 > सुनीतिः सुरुचिश्चास्य महिष्यौ रुक्मभूषिते ।

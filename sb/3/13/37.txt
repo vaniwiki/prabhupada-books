@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.37~~
-~~bc:Text 37~~
-
-{{description>Moreover, O Lord, the repetition of Your appearance is the desire for all kinds of initiation. Your neck is the place for three desires, and Your tusks are the result of initiation and the end of all desires. Your tongue is the prior activities of initiation, Your head is the fire without sacrifice as well as the fire of worship, and Your living forces are the aggregate of all desires.}}
-
+---json
+{
+    "name":"SB 3.13.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.13.37",
+    "description":"Moreover, O Lord, the repetition of Your appearance is the desire for all kinds of initiation. Your neck is the place for three desires, and Your tusks are the result of initiation and the end of all desires. Your tongue is the prior activities of initiation, Your head is the fire without sacrifice as well as the fire of worship, and Your living forces are the aggregate of all desires."
+}
+---
 ====== SB 3.13.37 ======
 
 > दीक्षानुजन्मोपसदः शिरोधरं त्वं प्रायणीयोदयनीयदंष्ट्रः ।

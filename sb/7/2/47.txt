@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.47~~
-~~bc:Text 47~~
-
-{{description>As long as the spirit soul is covered by the subtle body, consisting of the mind, intelligence and false ego, he is bound to the results of his fruitive activities. Because of this covering, the spirit soul is connected with the material energy and must accordingly suffer material conditions and reversals, continually, life after life.}}
-
+---json
+{
+    "name":"SB 7.2.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 7.2.47",
+    "description":"As long as the spirit soul is covered by the subtle body, consisting of the mind, intelligence and false ego, he is bound to the results of his fruitive activities. Because of this covering, the spirit soul is connected with the material energy and must accordingly suffer material conditions and reversals, continually, life after life."
+}
+---
 ====== SB 7.2.47 ======
 
 ===== Text =====

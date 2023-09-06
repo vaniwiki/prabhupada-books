@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.31-32~~
-~~bc:Text 31-32~~
-
-{{description>Devakī's father, King Devaka, was very much affectionate to his daughter. Therefore, while she and her husband were leaving home, he gave her a dowry of four hundred elephants nicely decorated with golden garlands. He also gave ten thousand horses, eighteen hundred chariots, and two hundred very beautiful young maidservants, fully decorated with ornaments.}}
-
+---json
+{
+    "name":"SB 10.1.31-32",
+    "h1":"Text 31-32",
+    "title":" Śrīmad Bhāgavatam 10.1.31-32",
+    "description":"Devakī's father, King Devaka, was very much affectionate to his daughter. Therefore, while she and her husband were leaving home, he gave her a dowry of four hundred elephants nicely decorated with golden garlands. He also gave ten thousand horses, eighteen hundred chariots, and two hundred very beautiful young maidservants, fully decorated with ornaments."
+}
+---
 ====== SB 10.1.31-32 ======
 
 ===== Text =====

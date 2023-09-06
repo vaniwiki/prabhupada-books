@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.12~~
-~~bc:Text 12~~
-
-{{description>With pitiable prayers, Reṇukā, the mother of Paraśurāma and wife of Jamadagni, begged for the life of her husband. But the sons of Kārtavīryārjuna, being devoid of the qualities of kṣatriyas, were so cruel that despite her prayers they forcibly cut off his head and took it away.}}
-
+---json
+{
+    "name":"SB 9.16.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 9.16.12",
+    "description":"With pitiable prayers, Reṇukā, the mother of Paraśurāma and wife of Jamadagni, begged for the life of her husband. But the sons of Kārtavīryārjuna, being devoid of the qualities of kṣatriyas, were so cruel that despite her prayers they forcibly cut off his head and took it away."
+}
+---
 ====== SB 9.16.12 ======
 
 ===== Text =====

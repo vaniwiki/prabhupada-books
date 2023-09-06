@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.43~~
-~~bc:Text 43~~
-
-{{description>By following My instructions you can now generate the living entities as before, by dint of your complete Vedic wisdom and the body you have directly received from Me, the supreme cause of everything.}}
-
+---json
+{
+    "name":"SB 3.9.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 3.9.43",
+    "description":"By following My instructions you can now generate the living entities as before, by dint of your complete Vedic wisdom and the body you have directly received from Me, the supreme cause of everything."
+}
+---
 ====== SB 3.9.43 ======
 
 > सर्ववेदमयेनेदमात्मनात्मात्मयोनिना ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.7~~
-~~bc:Text 7~~
-
-{{description>Lord Brahmā said that no one, not even himself, Indra, all the members assembled in the sacrificial arena, or all the sages, could know how powerful Lord Śiva is. Under the circumstances, who would dare to commit an offense at his lotus feet?.}}
-
+---json
+{
+    "name":"SB 4.6.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 4.6.7",
+    "description":"Lord Brahmā said that no one, not even himself, Indra, all the members assembled in the sacrificial arena, or all the sages, could know how powerful Lord Śiva is. Under the circumstances, who would dare to commit an offense at his lotus feet?."
+}
+---
 ====== SB 4.6.7 ======
 
 > नाहं न यज्ञो न च यूयमन्ये ये देहभाजो मुनयश्च तत्त्वम् ।

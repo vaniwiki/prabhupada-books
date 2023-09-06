@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.13~~
-~~bc:Text 13~~
-
-{{description>Because of my vow on the verge of death, I have given up even drinking water, yet because I am drinking the nectar of topics about Kṛṣṇa, which is flowing from the lotus mouth of your Lordship, my hunger and thirst, which are extremely difficult to bear, cannot hinder me.}}
-
+---json
+{
+    "name":"SB 10.1.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 10.1.13",
+    "description":"Because of my vow on the verge of death, I have given up even drinking water, yet because I am drinking the nectar of topics about Kṛṣṇa, which is flowing from the lotus mouth of your Lordship, my hunger and thirst, which are extremely difficult to bear, cannot hinder me."
+}
+---
 ====== SB 10.1.13 ======
 
 ===== Text =====

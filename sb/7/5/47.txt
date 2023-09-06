@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.5.47~~
-~~bc:Text 47~~
-
-{{description>I can see that this boy's strength is unlimited, for he has not feared any of my punishments. He appears immortal. Therefore, because of my enmity toward him, I shall die. Or maybe this will not take place.}}
-
+---json
+{
+    "name":"SB 7.5.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 7.5.47",
+    "description":"I can see that this boy's strength is unlimited, for he has not feared any of my punishments. He appears immortal. Therefore, because of my enmity toward him, I shall die. Or maybe this will not take place."
+}
+---
 ====== SB 7.5.47 ======
 
 ===== Text =====

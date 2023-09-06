@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.15~~
-~~bc:Text 15~~
-
-{{description>With sword in hand, intelligent men cut through the binding knots of reactionary work [karma] by remembering the Personality of Godhead. Therefore, who will not pay attention to His message?}}
-
+---json
+{
+    "name":"SB 1.2.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 1.2.15",
+    "description":"With sword in hand, intelligent men cut through the binding knots of reactionary work [karma] by remembering the Personality of Godhead. Therefore, who will not pay attention to His message?"
+}
+---
 ====== SB 1.2.15 ======
 
 > यदनुध्यासिना युक्ताः कर्मग्रन्थिनिबन्धनम् ।

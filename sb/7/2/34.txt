@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.34~~
-~~bc:Text 34~~
-
-{{description>O King, O hero, you were a very grateful husband and the most sincere friend of all of us. How shall we exist without you? O hero, wherever you are going, please direct us there so that we may follow in your footsteps and engage again in your service. Let us go along with you!}}
-
+---json
+{
+    "name":"SB 7.2.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 7.2.34",
+    "description":"O King, O hero, you were a very grateful husband and the most sincere friend of all of us. How shall we exist without you? O hero, wherever you are going, please direct us there so that we may follow in your footsteps and engage again in your service. Let us go along with you!"
+}
+---
 ====== SB 7.2.34 ======
 
 ===== Text =====

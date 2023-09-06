@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.20~~
-~~bc:Text 20~~
-
-{{description>Since his life was in danger, he touched water in sanctity and concentrated upon the chanting of the hymns for throwing nuclear weapons, although he did not know how to withdraw such weapons.}}
-
+---json
+{
+    "name":"SB 1.7.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 1.7.20",
+    "description":"Since his life was in danger, he touched water in sanctity and concentrated upon the chanting of the hymns for throwing nuclear weapons, although he did not know how to withdraw such weapons."
+}
+---
 ====== SB 1.7.20 ======
 
 > अथोपस्पृश्य सलिलं सन्दधे तत्समाहितः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.24.41~~
-~~bc:Text 41~~
-
-{{description>Śrī Maitreya said: Thus when Kardama Muni, the progenitor of human society, was spoken to in fullness by his son, Kapila, he circumambulated Him, and with a good, pacified mind he at once left for the forest.}}
-
+---json
+{
+    "name":"SB 3.24.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.24.41",
+    "description":"Śrī Maitreya said: Thus when Kardama Muni, the progenitor of human society, was spoken to in fullness by his son, Kapila, he circumambulated Him, and with a good, pacified mind he at once left for the forest."
+}
+---
 ====== SB 3.24.41 ======
 
 > मैत्रेय उवाच

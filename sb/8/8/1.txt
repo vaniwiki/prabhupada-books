@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī continued: Upon Lord Śiva's drinking the poison, both the demigods and the demons, being very pleased, began to churn the ocean with renewed vigor. As a result of this, there appeared a cow known as surabhi.}}
-
+---json
+{
+    "name":"SB 8.8.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.8.1",
+    "description":"Śukadeva Gosvāmī continued: Upon Lord Śiva's drinking the poison, both the demigods and the demons, being very pleased, began to churn the ocean with renewed vigor. As a result of this, there appeared a cow known as surabhi."
+}
+---
 ====== SB 8.8.1 ======
 
 ===== Text =====

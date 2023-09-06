@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.5~~
-~~bc:Text 5~~
-
-{{description>Just to please His dear wife, the Lord brought back the pārijāta tree from heaven, just as an ordinary husband would do. But Indra, the King of heaven, induced by his wives (henpecked as he was), ran after the Lord with full force to fight Him.}}
-
+---json
+{
+    "name":"SB 3.3.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.3.5",
+    "description":"Just to please His dear wife, the Lord brought back the pārijāta tree from heaven, just as an ordinary husband would do. But Indra, the King of heaven, induced by his wives (henpecked as he was), ran after the Lord with full force to fight Him."
+}
+---
 ====== SB 3.3.5 ======
 
 > प्रियं प्रभुर्ग्राम्य इव प्रियाया विधित्सुरार्च्छद्द्युतरुं यदर्थे ।

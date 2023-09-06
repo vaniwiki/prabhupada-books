@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.45~~
-~~bc:Text 45~~
-
-{{description>Upon hearing of this act, everyone, including Bhavānī [the daughter of Mahārāja Dakṣa], Lord Brahmā, Lord Viṣṇu, and the people in general, very highly praised this deed performed by Lord Śiva, who is worshiped by the demigods and who bestows benedictions upon the people.}}
-
+---json
+{
+    "name":"SB 8.7.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 8.7.45",
+    "description":"Upon hearing of this act, everyone, including Bhavānī [the daughter of Mahārāja Dakṣa], Lord Brahmā, Lord Viṣṇu, and the people in general, very highly praised this deed performed by Lord Śiva, who is worshiped by the demigods and who bestows benedictions upon the people."
+}
+---
 ====== SB 8.7.45 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.29~~
-~~bc:Text 29~~
-
-{{description>In that celestial forest there were many birds whose necks were colored reddish and whose sweet sounds mixed with the humming of the bees. The lakes were abundantly decorated with crying swans as well as strong-stemmed lotus flowers.}}
-
+---json
+{
+    "name":"SB 4.6.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 4.6.29",
+    "description":"In that celestial forest there were many birds whose necks were colored reddish and whose sweet sounds mixed with the humming of the bees. The lakes were abundantly decorated with crying swans as well as strong-stemmed lotus flowers."
+}
+---
 ====== SB 4.6.29 ======
 
 > रक्तकण्ठखगानीक स्वरमण्डितषट्पदम् ।

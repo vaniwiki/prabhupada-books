@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.26~~
-~~bc:Text 26~~
-
-{{description>Satyasena, along with His friend Satyajit, who was the King of heaven, Indra, killed all the untruthful, impious and misbehaved Yakṣas, Rākṣasas and ghostly living entities, who gave pains to other living beings.}}
-
+---json
+{
+    "name":"SB 8.1.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 8.1.26",
+    "description":"Satyasena, along with His friend Satyajit, who was the King of heaven, Indra, killed all the untruthful, impious and misbehaved Yakṣas, Rākṣasas and ghostly living entities, who gave pains to other living beings."
+}
+---
 ====== SB 8.1.26 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.20~~
-~~bc:Text 20~~
-
-{{description>As a criminal is arrested for punishment by the constables of the state, a person engaged in criminal sense gratification is similarly arrested by the Yamadūtas, who bind him by the neck with strong rope and cover his subtle body so that he may undergo severe punishment.}}
-
+---json
+{
+    "name":"SB 3.30.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.30.20",
+    "description":"As a criminal is arrested for punishment by the constables of the state, a person engaged in criminal sense gratification is similarly arrested by the Yamadūtas, who bind him by the neck with strong rope and cover his subtle body so that he may undergo severe punishment."
+}
+---
 ====== SB 3.30.20 ======
 
 > यातनादेह आवृत्य पाशैर्बद्ध्वा गले बलात् ।

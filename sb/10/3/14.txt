@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.3.14~~
-~~bc:Text 14~~
-
-{{description>My Lord, You are the same person who in the beginning created this material world by His personal external energy. After the creation of this world of three guṇas [sattva, rajas and tamas], You appear to have entered it, although in fact You have not.}}
-
+---json
+{
+    "name":"SB 10.3.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 10.3.14",
+    "description":"My Lord, You are the same person who in the beginning created this material world by His personal external energy. After the creation of this world of three guṇas [sattva, rajas and tamas], You appear to have entered it, although in fact You have not."
+}
+---
 ====== SB 10.3.14 ======
 
 ===== Text =====

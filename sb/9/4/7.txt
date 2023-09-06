@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.7~~
-~~bc:Text 7~~
-
-{{description>Nābhāga then said, "These riches belong to me. The great saintly persons have delivered them to me." When Nābhāga said this, the black-looking person replied, "Let us go to your father and ask him to settle our disagreement." In accordance with this, Nābhāga inquired from his father.}}
-
+---json
+{
+    "name":"SB 9.4.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.4.7",
+    "description":"Nābhāga then said, "These riches belong to me. The great saintly persons have delivered them to me." When Nābhāga said this, the black-looking person replied, "Let us go to your father and ask him to settle our disagreement." In accordance with this, Nābhāga inquired from his father."
+}
+---
 ====== SB 9.4.7 ======
 
 ===== Text =====

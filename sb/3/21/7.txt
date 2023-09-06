@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.7~~
-~~bc:Text 7~~
-
-{{description>During that period of penance, the sage Kardama, by worship through devotional service in trance, propitiated the Personality of Godhead, who is the quick bestower of all blessings upon those who flee to Him for protection.}}
-
+---json
+{
+    "name":"SB 3.21.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 3.21.7",
+    "description":"During that period of penance, the sage Kardama, by worship through devotional service in trance, propitiated the Personality of Godhead, who is the quick bestower of all blessings upon those who flee to Him for protection."
+}
+---
 ====== SB 3.21.7 ======
 
 > ततः समाधियुक्तेन क्रियायोगेन कर्दमः ।

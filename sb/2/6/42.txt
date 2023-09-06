@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.6.42~~
-~~bc:Text 42~~
-
-{{description>Kāraṇārṇavaśāyī Viṣṇu is the first incarnation of the Supreme Lord, and He is the master of eternal time, space, cause and effects, mind, the elements, the material ego, the modes of nature, the senses, the universal form of the Lord, Garbhodakaśāyī Viṣṇu, and the sum total of all living beings, both moving and nonmoving.}}
-
+---json
+{
+    "name":"SB 2.6.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 2.6.42",
+    "description":"Kāraṇārṇavaśāyī Viṣṇu is the first incarnation of the Supreme Lord, and He is the master of eternal time, space, cause and effects, mind, the elements, the material ego, the modes of nature, the senses, the universal form of the Lord, Garbhodakaśāyī Viṣṇu, and the sum total of all living beings, both moving and nonmoving."
+}
+---
 ====== SB 2.6.42 ======
 
 > आद्योऽवतारः पुरुषः परस्य कालः स्वभावः सदसन्मनश्च ।

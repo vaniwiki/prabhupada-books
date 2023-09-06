@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.15~~
-~~bc:Text 15~~
-
-{{description>When Dhruva Mahārāja reached his mother, his lips were trembling in anger, and he was crying very grievously. Queen Sunīti immediately lifted her son onto her lap, while the palace residents who had heard all the harsh words of Suruci related everything in detail. Thus Sunīti also became greatly aggrieved.}}
-
+---json
+{
+    "name":"SB 4.8.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.8.15",
+    "description":"When Dhruva Mahārāja reached his mother, his lips were trembling in anger, and he was crying very grievously. Queen Sunīti immediately lifted her son onto her lap, while the palace residents who had heard all the harsh words of Suruci related everything in detail. Thus Sunīti also became greatly aggrieved."
+}
+---
 ====== SB 4.8.15 ======
 
 > तं निःश्वसन्तं स्फुरिताधरोष्ठं सुनीतिरुत्सङ्ग उदूह्य बालम् ।

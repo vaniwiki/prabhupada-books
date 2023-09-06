@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.15.2~~
-~~bc:Text 2~~
-
-{{description>Due to grief, Arjuna's mouth and lotuslike heart had dried up. Therefore his body lost all luster. Now, remembering the Supreme Lord, he could hardly utter a word in reply.}}
-
+---json
+{
+    "name":"SB 1.15.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.15.2",
+    "description":"Due to grief, Arjuna's mouth and lotuslike heart had dried up. Therefore his body lost all luster. Now, remembering the Supreme Lord, he could hardly utter a word in reply."
+}
+---
 ====== SB 1.15.2 ======
 
 > शोकेन शुष्यद्वदन हृत्सरोजो हतप्रभः ।

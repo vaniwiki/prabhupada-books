@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.60~~
-~~bc:Text 60~~
-
-{{description>Having spoken thus, the great sage Nārada, along with his vīṇā, ascended into outer space. Yudhiṣṭhira kept his instruction in his heart and so was able to get rid of all lamentations.}}
-
+---json
+{
+    "name":"SB 1.13.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 1.13.60",
+    "description":"Having spoken thus, the great sage Nārada, along with his vīṇā, ascended into outer space. Yudhiṣṭhira kept his instruction in his heart and so was able to get rid of all lamentations."
+}
+---
 ====== SB 1.13.60 ======
 
 > इत्युक्त्वाथारुहत्स्वर्गं नारदः सहतुम्बुरुः ।

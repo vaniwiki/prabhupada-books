@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.28~~
-~~bc:Text 28~~
-
-{{description>O almighty Lord, at the end of the millennium this planet earth, which is the source of all kinds of herbs, drugs and trees, was inundated by water and drowned beneath the devastating waves. At that time, You protected me along with the earth and roamed the sea with great speed. O unborn one, You are the actual maintainer of the entire universal creation, and therefore You are the cause of all living entities. I offer my respectful obeisances unto You.}}
-
+---json
+{
+    "name":"SB 5.18.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 5.18.28",
+    "description":"O almighty Lord, at the end of the millennium this planet earth, which is the source of all kinds of herbs, drugs and trees, was inundated by water and drowned beneath the devastating waves. At that time, You protected me along with the earth and roamed the sea with great speed. O unborn one, You are the actual maintainer of the entire universal creation, and therefore You are the cause of all living entities. I offer my respectful obeisances unto You."
+}
+---
 ====== SB 5.18.28 ======
 
 ===== Text =====

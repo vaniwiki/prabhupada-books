@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.27~~
-~~bc:Text 27~~
-
-{{description>When one is envious of the demigods, who represent the Supreme Personality of Godhead, of the Vedas, which give all knowledge, of the cows, brāhmaṇas, Vaiṣṇavas and religious principles, and ultimately of Me, the Supreme Personality of Godhead, he and his civilization will be vanquished without delay.}}
-
+---json
+{
+    "name":"SB 7.4.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 7.4.27",
+    "description":"When one is envious of the demigods, who represent the Supreme Personality of Godhead, of the Vedas, which give all knowledge, of the cows, brāhmaṇas, Vaiṣṇavas and religious principles, and ultimately of Me, the Supreme Personality of Godhead, he and his civilization will be vanquished without delay."
+}
+---
 ====== SB 7.4.27 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.3~~
-~~bc:Text 3~~
-
-{{description>Although the cow is beneficial because one can draw religious principles from her, she was now rendered poor and calfless. Her legs were being beaten by a śūdra. There were tears in her eyes, and she was distressed and weak. She was hankering after some grass in the field.}}
-
+---json
+{
+    "name":"SB 1.17.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 1.17.3",
+    "description":"Although the cow is beneficial because one can draw religious principles from her, she was now rendered poor and calfless. Her legs were being beaten by a śūdra. There were tears in her eyes, and she was distressed and weak. She was hankering after some grass in the field."
+}
+---
 ====== SB 1.17.3 ======
 
 > गां च धर्मदुघां दीनां भृशं शूद्रपदाहताम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.5~~
-~~bc:Text 5~~
-
-{{description>As the Lord, in His plenary portion, entered into the elements of the universal creation, they transformed into the gigantic form in which all the planetary systems and all movable and immovable creations rest.}}
-
+---json
+{
+    "name":"SB 3.6.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 3.6.5",
+    "description":"As the Lord, in His plenary portion, entered into the elements of the universal creation, they transformed into the gigantic form in which all the planetary systems and all movable and immovable creations rest."
+}
+---
 ====== SB 3.6.5 ======
 
 > परेण विशता स्वस्मिन्मात्रया विश्वसृग्गणः ।

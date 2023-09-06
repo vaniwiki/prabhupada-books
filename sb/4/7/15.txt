@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.15~~
-~~bc:Text 15~~
-
-{{description>I did not know your full glories. For this reason, I threw arrows of sharp words at you in the open assembly, although you did not take them into account. I was going down to hell because of my disobedience to you, who are the most respectable personality, but you took compassion upon me and saved me by awarding punishment. I request that you be pleased by your own mercy, since I cannot satisfy you by my words.}}
-
+---json
+{
+    "name":"SB 4.7.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 4.7.15",
+    "description":"I did not know your full glories. For this reason, I threw arrows of sharp words at you in the open assembly, although you did not take them into account. I was going down to hell because of my disobedience to you, who are the most respectable personality, but you took compassion upon me and saved me by awarding punishment. I request that you be pleased by your own mercy, since I cannot satisfy you by my words."
+}
+---
 ====== SB 4.7.15 ======
 
 > योऽसौ मयाविदिततत्त्वदृशा सभायां

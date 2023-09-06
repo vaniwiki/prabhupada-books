@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.43~~
-~~bc:Text 43~~
-
-{{description>Still hungry, Durvāsā Muni, his body trembling, his face curved and his eyebrows crooked in a frown, angrily spoke as follows to King Ambarīṣa, who stood before him with folded hands.}}
-
+---json
+{
+    "name":"SB 9.4.43",
+    "h1":"Text 43",
+    "title":" Śrīmad Bhāgavatam 9.4.43",
+    "description":"Still hungry, Durvāsā Muni, his body trembling, his face curved and his eyebrows crooked in a frown, angrily spoke as follows to King Ambarīṣa, who stood before him with folded hands."
+}
+---
 ====== SB 9.4.43 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.18.16~~
-~~bc:Text 16~~
-
-{{description>In Ketumāla-varṣa, Lord Kāmadeva [Pradyumna] moves very graciously. His mild smile is very beautiful, and when He increases the beauty of His face by slightly raising His eyebrows and glancing playfully, He pleases the goddess of fortune. Thus He enjoys His transcendental senses.}}
-
+---json
+{
+    "name":"SB 5.18.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 5.18.16",
+    "description":"In Ketumāla-varṣa, Lord Kāmadeva [Pradyumna] moves very graciously. His mild smile is very beautiful, and when He increases the beauty of His face by slightly raising His eyebrows and glancing playfully, He pleases the goddess of fortune. Thus He enjoys His transcendental senses."
+}
+---
 ====== SB 5.18.16 ======
 
 ===== Text =====

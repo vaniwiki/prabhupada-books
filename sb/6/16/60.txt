@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.16.60~~
-~~bc:Text 60~~
-
-{{description>As husband and wife, a man and woman plan together to attain happiness and decrease unhappiness, working jointly in many ways, but because their activities are full of desires, these activities are never a source of happiness, and they never diminish distress. On the contrary, they are a cause of great unhappiness.}}
-
+---json
+{
+    "name":"SB 6.16.60",
+    "h1":"Text 60",
+    "title":" Śrīmad Bhāgavatam 6.16.60",
+    "description":"As husband and wife, a man and woman plan together to attain happiness and decrease unhappiness, working jointly in many ways, but because their activities are full of desires, these activities are never a source of happiness, and they never diminish distress. On the contrary, they are a cause of great unhappiness."
+}
+---
 ====== SB 6.16.60 ======
 
 ===== Text =====

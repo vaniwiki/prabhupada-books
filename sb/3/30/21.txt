@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.21~~
-~~bc:Text 21~~
-
-{{description>While carried by the constables of Yamarāja, he is overwhelmed and trembles in their hands. While passing on the road he is bitten by dogs, and he can remember the sinful activities of his life. He is thus terribly distressed.}}
-
+---json
+{
+    "name":"SB 3.30.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.30.21",
+    "description":"While carried by the constables of Yamarāja, he is overwhelmed and trembles in their hands. While passing on the road he is bitten by dogs, and he can remember the sinful activities of his life. He is thus terribly distressed."
+}
+---
 ====== SB 3.30.21 ======
 
 > तयोर्निर्भिन्नहृदयस्तर्जनैर्जातवेपथुः ।

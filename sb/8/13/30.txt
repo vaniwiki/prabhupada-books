@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.30~~
-~~bc:Text 30~~
-
-{{description>The thirteenth Manu will be named Deva-sāvarṇi, and he will be very advanced in spiritual knowledge. Among his sons will be Citrasena and Vicitra.}}
-
+---json
+{
+    "name":"SB 8.13.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 8.13.30",
+    "description":"The thirteenth Manu will be named Deva-sāvarṇi, and he will be very advanced in spiritual knowledge. Among his sons will be Citrasena and Vicitra."
+}
+---
 ====== SB 8.13.30 ======
 
 ===== Text =====

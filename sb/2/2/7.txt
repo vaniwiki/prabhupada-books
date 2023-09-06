@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.2.7~~
-~~bc:Text 7~~
-
-{{description>Who else but the gross materialists will neglect such transcendental thought and take to the nonpermanent names only, seeing the mass of people fallen in the river of suffering as the consequence of accruing the result of their own work?}}
-
+---json
+{
+    "name":"SB 2.2.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 2.2.7",
+    "description":"Who else but the gross materialists will neglect such transcendental thought and take to the nonpermanent names only, seeing the mass of people fallen in the river of suffering as the consequence of accruing the result of their own work?"
+}
+---
 ====== SB 2.2.7 ======
 
 > कस्तां त्वनादृत्य परानुचिन्तामृते पशूनसतीं नाम कुर्यात् ।

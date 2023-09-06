@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.3~~
-~~bc:Text 3~~
-
-{{description>Nanda Mahārāja gave two million cows, completely decorated with cloth and jewels, in charity to the brāhmaṇas. He also gave them seven hills of grain, covered with jewels and with cloth decorated with golden embroidery.}}
-
+---json
+{
+    "name":"SB 10.5.3",
+    "h1":"Text 3",
+    "title":" Śrīmad Bhāgavatam 10.5.3",
+    "description":"Nanda Mahārāja gave two million cows, completely decorated with cloth and jewels, in charity to the brāhmaṇas. He also gave them seven hills of grain, covered with jewels and with cloth decorated with golden embroidery."
+}
+---
 ====== SB 10.5.3 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.4-5~~
-~~bc:Text 4-5~~
-
-{{description>O Dānavas and Daityas! O Dvimūrdha, Tryakṣa, Śambara and Śatabāhu ! O Hayagrīva, Namuci, Pāka and Ilvala! O Vipracitti, Puloman, Śakuna and other demons! All of you, kindly hear me attentively and then act according to my words without delay.}}
-
+---json
+{
+    "name":"SB 7.2.4-5",
+    "h1":"Text 4-5",
+    "title":" Śrīmad Bhāgavatam 7.2.4-5",
+    "description":"O Dānavas and Daityas! O Dvimūrdha, Tryakṣa, Śambara and Śatabāhu ! O Hayagrīva, Namuci, Pāka and Ilvala! O Vipracitti, Puloman, Śakuna and other demons! All of you, kindly hear me attentively and then act according to my words without delay."
+}
+---
 ====== SB 7.2.4-5 ======
 
 ===== Text =====

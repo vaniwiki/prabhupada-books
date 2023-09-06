@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.7-8~~
-~~bc:Text 7-8~~
-
-{{description>The Supreme Personality of Godhead has given up His natural tendency of equality toward the demons and demigods. Although He is the Supreme Person, now, influenced by māyā, He has assumed the form of a boar to please His devotees, the demigods, just as a restless child leans toward someone. I shall therefore sever Lord Viṣṇu's head from His trunk by my trident, and with the profuse blood from His body I shall please my brother Hiraṇyākṣa, who was so fond of sucking blood. Thus shall I too be peaceful.}}
-
+---json
+{
+    "name":"SB 7.2.7-8",
+    "h1":"Text 7-8",
+    "title":" Śrīmad Bhāgavatam 7.2.7-8",
+    "description":"The Supreme Personality of Godhead has given up His natural tendency of equality toward the demons and demigods. Although He is the Supreme Person, now, influenced by māyā, He has assumed the form of a boar to please His devotees, the demigods, just as a restless child leans toward someone. I shall therefore sever Lord Viṣṇu's head from His trunk by my trident, and with the profuse blood from His body I shall please my brother Hiraṇyākṣa, who was so fond of sucking blood. Thus shall I too be peaceful."
+}
+---
 ====== SB 7.2.7-8 ======
 
 ===== Text =====

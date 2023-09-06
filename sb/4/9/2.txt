@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.2~~
-~~bc:Text 2~~
-
-{{description>The form of the Lord, which was brilliant like lightning and in which Dhruva Mahārāja, in his mature yogic process, was fully absorbed in meditation, all of a sudden disappeared. Thus Dhruva was perturbed, and his meditation broke. But as soon as he opened his eyes he saw the Supreme Personality of Godhead personally present, just as he had been seeing the Lord in his heart.}}
-
+---json
+{
+    "name":"SB 4.9.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 4.9.2",
+    "description":"The form of the Lord, which was brilliant like lightning and in which Dhruva Mahārāja, in his mature yogic process, was fully absorbed in meditation, all of a sudden disappeared. Thus Dhruva was perturbed, and his meditation broke. But as soon as he opened his eyes he saw the Supreme Personality of Godhead personally present, just as he had been seeing the Lord in his heart."
+}
+---
 ====== SB 4.9.2 ======
 
 > स वै धिया योगविपाकतीव्रया हृत्पद्मकोशे स्फुरितं तडित्प्रभम् ।

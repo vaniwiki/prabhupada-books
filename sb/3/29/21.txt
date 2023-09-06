@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.29.21~~
-~~bc:Text 21~~
-
-{{description>I am present in every living entity as the Supersoul. If someone neglects or disregards that Supersoul everywhere and engages himself in the worship of the Deity in the temple, that is simply imitation.}}
-
+---json
+{
+    "name":"SB 3.29.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 3.29.21",
+    "description":"I am present in every living entity as the Supersoul. If someone neglects or disregards that Supersoul everywhere and engages himself in the worship of the Deity in the temple, that is simply imitation."
+}
+---
 ====== SB 3.29.21 ======
 
 > अहं सर्वेषु भूतेषु भूतात्मावस्थितः सदा ।

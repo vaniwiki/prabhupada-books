@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.8.17~~
-~~bc:Text 17~~
-
-{{description>Thus saved from the radiation of the brahmāstra, Kuntī, the chaste devotee of the Lord, and her five sons and Draupadī addressed Lord Kṛṣṇa as He started for home.}}
-
+---json
+{
+    "name":"SB 1.8.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 1.8.17",
+    "description":"Thus saved from the radiation of the brahmāstra, Kuntī, the chaste devotee of the Lord, and her five sons and Draupadī addressed Lord Kṛṣṇa as He started for home."
+}
+---
 ====== SB 1.8.17 ======
 
 > ब्रह्मतेजोविनिर्मुक्तैरात्मजैः सह कृष्णया ।

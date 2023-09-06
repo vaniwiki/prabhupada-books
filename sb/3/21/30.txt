@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.30~~
-~~bc:Text 30~~
-
-{{description>With your heart cleansed by properly carrying out My command, resigning to Me the fruits of all your acts, you will finally attain to Me.}}
-
+---json
+{
+    "name":"SB 3.21.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 3.21.30",
+    "description":"With your heart cleansed by properly carrying out My command, resigning to Me the fruits of all your acts, you will finally attain to Me."
+}
+---
 ====== SB 3.21.30 ======
 
 > त्वं च सम्यगनुष्ठाय निदेशं म उशत्तमः ।

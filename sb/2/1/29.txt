@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.29~~
-~~bc:Text 29~~
-
-{{description>His arms are the demigods headed by Indra, the ten directional sides are His ears, and physical sound is His sense of hearing. His nostrils are the two Aśvinī-kumāras, and material fragrance is His sense of smell. His mouth is the blazing fire.}}
-
+---json
+{
+    "name":"SB 2.1.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 2.1.29",
+    "description":"His arms are the demigods headed by Indra, the ten directional sides are His ears, and physical sound is His sense of hearing. His nostrils are the two Aśvinī-kumāras, and material fragrance is His sense of smell. His mouth is the blazing fire."
+}
+---
 ====== SB 2.1.29 ======
 
 > इन्द्रादयो बाहव आहुरुस्राः कर्णौ दिशः श्रोत्रममुष्य शब्दः ।

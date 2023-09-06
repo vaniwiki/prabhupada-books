@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.22~~
-~~bc:Text 22~~
-
-{{description>When I placed all the sacrificial ingredients on the kuśa grass, the deer, when playing, would touch the grass with its teeth and thus pollute it. When I chastised the deer by pushing it away, it would immediately become fearful and sit down motionless, exactly like the son of a saintly person. Thus it would stop its play.}}
-
+---json
+{
+    "name":"SB 5.8.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 5.8.22",
+    "description":"When I placed all the sacrificial ingredients on the kuśa grass, the deer, when playing, would touch the grass with its teeth and thus pollute it. When I chastised the deer by pushing it away, it would immediately become fearful and sit down motionless, exactly like the son of a saintly person. Thus it would stop its play."
+}
+---
 ====== SB 5.8.22 ======
 
 ===== Text =====

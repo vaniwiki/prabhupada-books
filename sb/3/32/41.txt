@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.41~~
-~~bc:Text 41~~
-
-{{description>Instruction should be given to the faithful devotee who is respectful to the spiritual master, nonenvious, friendly to all kinds of living entities and eager to render service with faith and sincerity.}}
-
+---json
+{
+    "name":"SB 3.32.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.32.41",
+    "description":"Instruction should be given to the faithful devotee who is respectful to the spiritual master, nonenvious, friendly to all kinds of living entities and eager to render service with faith and sincerity."
+}
+---
 ====== SB 3.32.41 ======
 
 > श्रद्दधानाय भक्ताय विनीतायानसूयवे ।

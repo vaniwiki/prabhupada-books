@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.30~~
-~~bc:Text 30~~
-
-{{description>While leaving, the King, being so insulted, picked up a lifeless snake with his bow and angrily placed it on the shoulder of the sage. Then he returned to his palace.}}
-
+---json
+{
+    "name":"SB 1.18.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 1.18.30",
+    "description":"While leaving, the King, being so insulted, picked up a lifeless snake with his bow and angrily placed it on the shoulder of the sage. Then he returned to his palace."
+}
+---
 ====== SB 1.18.30 ======
 
 > स तु ब्रह्मऋषेरंसे गतासुमुरगं रुषा ।

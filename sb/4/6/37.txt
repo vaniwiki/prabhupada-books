@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.6.37~~
-~~bc:Text 37~~
-
-{{description>He was seated on a straw mattress and speaking to all present, including the great sage Nārada, to whom he specifically spoke about the Absolute Truth.}}
-
+---json
+{
+    "name":"SB 4.6.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 4.6.37",
+    "description":"He was seated on a straw mattress and speaking to all present, including the great sage Nārada, to whom he specifically spoke about the Absolute Truth."
+}
+---
 ====== SB 4.6.37 ======
 
 > उपविष्टं दर्भमय्यां बृस्यां ब्रह्म सनातनम् ।

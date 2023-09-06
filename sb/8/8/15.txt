@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.15~~
-~~bc:Text 15~~
-
-{{description>The ocean, which is the source of all valuable jewels, supplied the upper and lower portions of a yellow silken garment. The predominating deity of the water, Varuṇa, presented flower garlands surrounded by six-legged bumblebees, drunken with honey.}}
-
+---json
+{
+    "name":"SB 8.8.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 8.8.15",
+    "description":"The ocean, which is the source of all valuable jewels, supplied the upper and lower portions of a yellow silken garment. The predominating deity of the water, Varuṇa, presented flower garlands surrounded by six-legged bumblebees, drunken with honey."
+}
+---
 ====== SB 8.8.15 ======
 
 ===== Text =====

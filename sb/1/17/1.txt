@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.1~~
-~~bc:Text 1~~
-
-{{description>Sūta Gosvāmī said: After reaching that place, Mahārāja Parīkṣit observed that a lower-caste śūdra, dressed like a king, was beating a cow and a bull with a club, as if they had no owner.}}
-
+---json
+{
+    "name":"SB 1.17.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 1.17.1",
+    "description":"Sūta Gosvāmī said: After reaching that place, Mahārāja Parīkṣit observed that a lower-caste śūdra, dressed like a king, was beating a cow and a bull with a club, as if they had no owner."
+}
+---
 ====== SB 1.17.1 ======
 
 > सूत उवाच

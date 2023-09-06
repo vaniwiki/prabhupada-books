@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.4.44~~
-~~bc:Text 44~~
-
-{{description>Mahārāja Yudhiṣṭhira said: O best of the saints among the demigods, O best of spiritual leaders, how did Hiraṇyakaśipu give so much trouble to Prahlāda Mahārāja, the pure and exalted saint, although Prahlāda was his own son? I wish to know about this subject from you.}}
-
+---json
+{
+    "name":"SB 7.4.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 7.4.44",
+    "description":"Mahārāja Yudhiṣṭhira said: O best of the saints among the demigods, O best of spiritual leaders, how did Hiraṇyakaśipu give so much trouble to Prahlāda Mahārāja, the pure and exalted saint, although Prahlāda was his own son? I wish to know about this subject from you."
+}
+---
 ====== SB 7.4.44 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.11.4~~
-~~bc:Text 4~~
-
-{{description>After thus giving everything in charity to the brāhmaṇas, Lord Rāmacandra retained only His personal garments and ornaments, and similarly the Queen, mother Sītā, was left with only her nose ring, and nothing else.}}
-
+---json
+{
+    "name":"SB 9.11.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 9.11.4",
+    "description":"After thus giving everything in charity to the brāhmaṇas, Lord Rāmacandra retained only His personal garments and ornaments, and similarly the Queen, mother Sītā, was left with only her nose ring, and nothing else."
+}
+---
 ====== SB 9.11.4 ======
 
 ===== Text =====

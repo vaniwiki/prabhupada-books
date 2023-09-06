@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.8.7~~
-~~bc:Text 7~~
-
-{{description>Next there appeared the Apsarās [who are used as prostitutes on the heavenly planets]. They were fully decorated with golden ornaments and lockets and were dressed in fine and attractive clothing. The Apsarās move very slowly in an attractive style that bewilders the inhabitants of the heavenly planets.}}
-
+---json
+{
+    "name":"SB 8.8.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.8.7",
+    "description":"Next there appeared the Apsarās [who are used as prostitutes on the heavenly planets]. They were fully decorated with golden ornaments and lockets and were dressed in fine and attractive clothing. The Apsarās move very slowly in an attractive style that bewilders the inhabitants of the heavenly planets."
+}
+---
 ====== SB 8.8.7 ======
 
 ===== Text =====

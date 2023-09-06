@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.13.28~~
-~~bc:Text 28~~
-
-{{description>Dear King, we do not find any reason that the demigods should feel insulted or neglected in any way, but still the demigods who are witnesses for the sacrifice do not accept their shares. We do not know why this is so.}}
-
+---json
+{
+    "name":"SB 4.13.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.13.28",
+    "description":"Dear King, we do not find any reason that the demigods should feel insulted or neglected in any way, but still the demigods who are witnesses for the sacrifice do not accept their shares. We do not know why this is so."
+}
+---
 ====== SB 4.13.28 ======
 
 > न विदामेह देवानां हेलनं वयमण्वपि ।

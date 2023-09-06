@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.9.34~~
-~~bc:Text 34~~
-
-{{description>Since you have desired to increase the population innumerably and expand your varieties of service, you shall never be deprived in this matter because My causeless mercy upon you will always increase for all time.}}
-
+---json
+{
+    "name":"SB 3.9.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 3.9.34",
+    "description":"Since you have desired to increase the population innumerably and expand your varieties of service, you shall never be deprived in this matter because My causeless mercy upon you will always increase for all time."
+}
+---
 ====== SB 3.9.34 ======
 
 > नानाकर्मवितानेन प्रजा बह्वीः सिसृक्षतः ।

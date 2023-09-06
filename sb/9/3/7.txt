@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.7~~
-~~bc:Text 7~~
-
-{{description>Being very much afraid, the girl Sukanyā said to her father: I have done something wrong, for I have ignorantly pierced these two luminous substances with a thorn.}}
-
+---json
+{
+    "name":"SB 9.3.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.3.7",
+    "description":"Being very much afraid, the girl Sukanyā said to her father: I have done something wrong, for I have ignorantly pierced these two luminous substances with a thorn."
+}
+---
 ====== SB 9.3.7 ======
 
 ===== Text =====

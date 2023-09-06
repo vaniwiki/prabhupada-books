@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.66~~
-~~bc:Text 66~~
-
-{{description>O King, all good fortune unto you! The mind is the cause of the living entity's attaining a certain type of body in accordance with his association with material nature. According to one's mental composition, one can understand what the living entity was in his past life as well as what kind of body he will have in the future. Thus the mind indicates the past and future bodies.}}
-
+---json
+{
+    "name":"SB 4.29.66",
+    "h1":"Text 66",
+    "title":" Śrīmad Bhāgavatam 4.29.66",
+    "description":"O King, all good fortune unto you! The mind is the cause of the living entity's attaining a certain type of body in accordance with his association with material nature. According to one's mental composition, one can understand what the living entity was in his past life as well as what kind of body he will have in the future. Thus the mind indicates the past and future bodies."
+}
+---
 ====== SB 4.29.66 ======
 
 > मन एव मनुष्यस्य पूर्वरूपाणि शंसति ।

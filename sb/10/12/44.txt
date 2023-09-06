@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.12.44~~
-~~bc:Text 44~~
-
-{{description>Sūta Gosvāmī said: O Śaunaka, greatest of saints and devotees, when Mahārāja Parīkṣit inquired from Śukadeva Gosvāmī in this way, Śukadeva Gosvāmī, immediately remembering subject matters about Kṛṣṇa within the core of his heart, externally lost contact with the actions of his senses. Thereafter, with great difficulty, he revived his external sensory perception and began to speak to Mahārāja Parīkṣit about kṛṣṇa-kathā.}}
-
+---json
+{
+    "name":"SB 10.12.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 10.12.44",
+    "description":"Sūta Gosvāmī said: O Śaunaka, greatest of saints and devotees, when Mahārāja Parīkṣit inquired from Śukadeva Gosvāmī in this way, Śukadeva Gosvāmī, immediately remembering subject matters about Kṛṣṇa within the core of his heart, externally lost contact with the actions of his senses. Thereafter, with great difficulty, he revived his external sensory perception and began to speak to Mahārāja Parīkṣit about kṛṣṇa-kathā."
+}
+---
 ====== SB 10.12.44 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.13~~
-~~bc:Text 13~~
-
-{{description>The entire cosmic manifestation is the body of the Supreme Personality of Godhead, the Absolute Truth, who has millions of names and unlimited potencies. He is self-effulgent, unborn and changeless. He is the beginning of everything, but He has no beginning. Because He has created this cosmic manifestation by His external energy, the universe appears to be created, maintained and annihilated by Him. Nonetheless, He remains inactive in His spiritual energy and is untouched by the activities of the material energy.}}
-
+---json
+{
+    "name":"SB 8.1.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.1.13",
+    "description":"The entire cosmic manifestation is the body of the Supreme Personality of Godhead, the Absolute Truth, who has millions of names and unlimited potencies. He is self-effulgent, unborn and changeless. He is the beginning of everything, but He has no beginning. Because He has created this cosmic manifestation by His external energy, the universe appears to be created, maintained and annihilated by Him. Nonetheless, He remains inactive in His spiritual energy and is untouched by the activities of the material energy."
+}
+---
 ====== SB 8.1.13 ======
 
 ===== Text =====

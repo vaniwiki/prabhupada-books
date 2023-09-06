@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.8.10~~
-~~bc:Text 10~~
-
-{{description>Even though one is in the renounced order, one who is advanced certainly feels compassion for suffering living entities. One should certainly neglect his own personal interests, although they may be very important, to protect one who has surrendered.}}
-
+---json
+{
+    "name":"SB 5.8.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 5.8.10",
+    "description":"Even though one is in the renounced order, one who is advanced certainly feels compassion for suffering living entities. One should certainly neglect his own personal interests, although they may be very important, to protect one who has surrendered."
+}
+---
 ====== SB 5.8.10 ======
 
 ===== Text =====

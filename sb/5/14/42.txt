@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.14.42~~
-~~bc:Text 42~~
-
-{{description>Having summarized the teachings of Jaḍa Bharata, Śukadeva Gosvāmī said: My dear King Parīkṣit, the path indicated by Jaḍa Bharata is like the path followed by Garuḍa, the carrier of the Lord, and ordinary kings are just like flies. Flies cannot follow the path of Garuḍa, and to date none of the great kings and victorious leaders could follow this path of devotional service, not even mentally.}}
-
+---json
+{
+    "name":"SB 5.14.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 5.14.42",
+    "description":"Having summarized the teachings of Jaḍa Bharata, Śukadeva Gosvāmī said: My dear King Parīkṣit, the path indicated by Jaḍa Bharata is like the path followed by Garuḍa, the carrier of the Lord, and ordinary kings are just like flies. Flies cannot follow the path of Garuḍa, and to date none of the great kings and victorious leaders could follow this path of devotional service, not even mentally."
+}
+---
 ====== SB 5.14.42 ======
 
 ===== Text =====

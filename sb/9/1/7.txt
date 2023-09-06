@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.7~~
-~~bc:Text 7~~
-
-{{description>Śukadeva Gosvāmī continued: O King, subduer of your enemies, now hear from me in great detail about the dynasty of Manu. I shall explain as much as possible, although one could not say everything about it, even in hundreds of years.}}
-
+---json
+{
+    "name":"SB 9.1.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 9.1.7",
+    "description":"Śukadeva Gosvāmī continued: O King, subduer of your enemies, now hear from me in great detail about the dynasty of Manu. I shall explain as much as possible, although one could not say everything about it, even in hundreds of years."
+}
+---
 ====== SB 9.1.7 ======
 
 ===== Text =====

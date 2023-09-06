@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.5~~
-~~bc:Text 5~~
-
-{{description>The great sage Nārada continued: The word pramadā mentioned in this regard refers to material intelligence, or ignorance. It is to be understood as such. When one takes shelter of this kind of intelligence, he identifies himself with the material body. Influenced by the material consciousness of "I" and "mine," he begins to enjoy and suffer through his senses. Thus the living entity is entrapped.}}
-
+---json
+{
+    "name":"SB 4.29.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 4.29.5",
+    "description":"The great sage Nārada continued: The word pramadā mentioned in this regard refers to material intelligence, or ignorance. It is to be understood as such. When one takes shelter of this kind of intelligence, he identifies himself with the material body. Influenced by the material consciousness of "I" and "mine," he begins to enjoy and suffer through his senses. Thus the living entity is entrapped."
+}
+---
 ====== SB 4.29.5 ======
 
 > बुद्धिं तु प्रमदां विद्यान्ममाहमिति यत्कृतम् ।

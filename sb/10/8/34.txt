@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.8.34~~
-~~bc:Text 34~~
-
-{{description>Dear Kṛṣṇa, why are You so restless that You have eaten dirt in a solitary place? This complaint has been lodged against You by all Your playmates, including Your elder brother, Balarāma. How is this?}}
-
+---json
+{
+    "name":"SB 10.8.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 10.8.34",
+    "description":"Dear Kṛṣṇa, why are You so restless that You have eaten dirt in a solitary place? This complaint has been lodged against You by all Your playmates, including Your elder brother, Balarāma. How is this?"
+}
+---
 ====== SB 10.8.34 ======
 
 ===== Text =====

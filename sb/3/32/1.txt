@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.1~~
-~~bc:Text 1~~
-
-{{description>The Personality of Godhead said: The person who lives in the center of household life derives material benefits by performing religious rituals, and thereby he fulfills his desire for economic development and sense gratification. Again and again he acts the same way.}}
-
+---json
+{
+    "name":"SB 3.32.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.32.1",
+    "description":"The Personality of Godhead said: The person who lives in the center of household life derives material benefits by performing religious rituals, and thereby he fulfills his desire for economic development and sense gratification. Again and again he acts the same way."
+}
+---
 ====== SB 3.32.1 ======
 
 > कपिल उवाच

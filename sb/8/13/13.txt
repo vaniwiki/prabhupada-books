@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.13.13~~
-~~bc:Text 13~~
-
-{{description>Bali Mahārāja gave a gift of three paces of land to Lord Viṣṇu, and because of this charity he lost all the three worlds. Later, however, when Lord Viṣṇu is pleased because of Bali's giving everything to Him, Bali Mahārāja will achieve the perfection of life.}}
-
+---json
+{
+    "name":"SB 8.13.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 8.13.13",
+    "description":"Bali Mahārāja gave a gift of three paces of land to Lord Viṣṇu, and because of this charity he lost all the three worlds. Later, however, when Lord Viṣṇu is pleased because of Bali's giving everything to Him, Bali Mahārāja will achieve the perfection of life."
+}
+---
 ====== SB 8.13.13 ======
 
 ===== Text =====

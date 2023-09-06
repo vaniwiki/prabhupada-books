@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.1.15~~
-~~bc:Text 15~~
-
-{{description>My dear Priyavrata, according to our association with different modes of material nature, the Supreme Personality of Godhead gives us our specific bodies and the happiness and distress we achieve. One must therefore remain situated as he is and be conducted by the Supreme Personality of Godhead, exactly as a blind man is led by a person who has eyes with which to see.}}
-
+---json
+{
+    "name":"SB 5.1.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 5.1.15",
+    "description":"My dear Priyavrata, according to our association with different modes of material nature, the Supreme Personality of Godhead gives us our specific bodies and the happiness and distress we achieve. One must therefore remain situated as he is and be conducted by the Supreme Personality of Godhead, exactly as a blind man is led by a person who has eyes with which to see."
+}
+---
 ====== SB 5.1.15 ======
 
 ===== Text =====

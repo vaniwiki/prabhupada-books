@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.3.19~~
-~~bc:Text 19~~
-
-{{description>After receiving obeisances from his daughter, the King, instead of offering blessings to her, appeared very displeased and spoke as follows.}}
-
+---json
+{
+    "name":"SB 9.3.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 9.3.19",
+    "description":"After receiving obeisances from his daughter, the King, instead of offering blessings to her, appeared very displeased and spoke as follows."
+}
+---
 ====== SB 9.3.19 ======
 
 ===== Text =====

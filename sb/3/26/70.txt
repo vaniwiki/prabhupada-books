@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.70~~
-~~bc:Text 70~~
-
-{{description>However, when the inner controller, the deity presiding over consciousness, entered the heart with reason, at that very moment the Cosmic Being arose from the causal waters.}}
-
+---json
+{
+    "name":"SB 3.26.70",
+    "h1":"Text 70",
+    "title":" Śrīmad Bhāgavatam 3.26.70",
+    "description":"However, when the inner controller, the deity presiding over consciousness, entered the heart with reason, at that very moment the Cosmic Being arose from the causal waters."
+}
+---
 ====== SB 3.26.70 ======
 
 > चित्तेन हृदयं चैत्यः क्षेत्रज्ञः प्राविशद्यदा ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.53~~
-~~bc:Text 53~~
-
-{{description>My dear Prahlāda, may you live a long time. One cannot appreciate or understand Me without pleasing Me, but one who has seen or pleased Me has nothing more for which to lament for his own satisfaction.}}
-
+---json
+{
+    "name":"SB 7.9.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 7.9.53",
+    "description":"My dear Prahlāda, may you live a long time. One cannot appreciate or understand Me without pleasing Me, but one who has seen or pleased Me has nothing more for which to lament for his own satisfaction."
+}
+---
 ====== SB 7.9.53 ======
 
 ===== Text =====

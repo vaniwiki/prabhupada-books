@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.31~~
-~~bc:Text 31~~
-
-{{description>All the population of the three worlds was scorched by the combined heat of the weapons. Everyone was reminded of the sāṁvartaka fire which takes place at the time of annihilation.}}
-
+---json
+{
+    "name":"SB 1.7.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 1.7.31",
+    "description":"All the population of the three worlds was scorched by the combined heat of the weapons. Everyone was reminded of the sāṁvartaka fire which takes place at the time of annihilation."
+}
+---
 ====== SB 1.7.31 ======
 
 > दृष्ट्वास्त्रतेजस्तु तयोस्त्रील्लोकान्प्रदहन्महत् ।

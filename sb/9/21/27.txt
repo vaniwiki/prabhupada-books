@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.27~~
-~~bc:Text 27~~
-
-{{description>The son of Dvimīḍha was Yavīnara, whose son was Kṛtimān. The son of Kṛtimān was well known as Satyadhṛti. From Satyadhṛti came a son named Dṛḍhanemi, who became the father of Supārśva.}}
-
+---json
+{
+    "name":"SB 9.21.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.21.27",
+    "description":"The son of Dvimīḍha was Yavīnara, whose son was Kṛtimān. The son of Kṛtimān was well known as Satyadhṛti. From Satyadhṛti came a son named Dṛḍhanemi, who became the father of Supārśva."
+}
+---
 ====== SB 9.21.27 ======
 
 ===== Text =====

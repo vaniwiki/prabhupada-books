@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.1.23~~
-~~bc:Text 23~~
-
-{{description>The Supreme Personality of Godhead, Śrī Kṛṣṇa, who has full potency, will personally appear as the son of Vasudeva. Therefore all the wives of the demigods should also appear in order to satisfy Him.}}
-
+---json
+{
+    "name":"SB 10.1.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 10.1.23",
+    "description":"The Supreme Personality of Godhead, Śrī Kṛṣṇa, who has full potency, will personally appear as the son of Vasudeva. Therefore all the wives of the demigods should also appear in order to satisfy Him."
+}
+---
 ====== SB 10.1.23 ======
 
 ===== Text =====

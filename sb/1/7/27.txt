@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.27~~
-~~bc:Text 27~~
-
-{{description>The Supreme Personality of Godhead said: Know from Me that this is the act of the son of Droṇa. He has thrown the hymns of nuclear energy [brahmāstra], and he does not know how to retract the glare. He has helplessly done this, being afraid of imminent death.}}
-
+---json
+{
+    "name":"SB 1.7.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 1.7.27",
+    "description":"The Supreme Personality of Godhead said: Know from Me that this is the act of the son of Droṇa. He has thrown the hymns of nuclear energy [brahmāstra], and he does not know how to retract the glare. He has helplessly done this, being afraid of imminent death."
+}
+---
 ====== SB 1.7.27 ======
 
 > श्रीभगवानुवाच

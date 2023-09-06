@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.21.34~~
-~~bc:Text 34~~
-
-{{description>The Supreme Personality of Godhead is transcendental and not contaminated by this material world. But although He is concentrated spirit soul without material variety, for the benefit of the conditioned soul He nevertheless accepts different types of sacrifice performed with various material elements, rituals and mantras and offered to the demigods under different names according to the interests and purposes of the performers.}}
-
+---json
+{
+    "name":"SB 4.21.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 4.21.34",
+    "description":"The Supreme Personality of Godhead is transcendental and not contaminated by this material world. But although He is concentrated spirit soul without material variety, for the benefit of the conditioned soul He nevertheless accepts different types of sacrifice performed with various material elements, rituals and mantras and offered to the demigods under different names according to the interests and purposes of the performers."
+}
+---
 ====== SB 4.21.34 ======
 
 > असाविहानेकगुणोऽगुणोऽध्वरः पृथग्विधद्रव्यगुणक्रियोक्तिभिः ।

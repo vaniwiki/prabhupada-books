@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.4.44~~
-~~bc:Text 44~~
-
-{{description>These demons, the followers of Kaṁsa, were expert at persecuting others, especially the Vaiṣṇavas, and could assume any form they desired. After giving these demons permission to go everywhere and persecute the saintly persons, Kaṁsa entered his palace.}}
-
+---json
+{
+    "name":"SB 10.4.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 10.4.44",
+    "description":"These demons, the followers of Kaṁsa, were expert at persecuting others, especially the Vaiṣṇavas, and could assume any form they desired. After giving these demons permission to go everywhere and persecute the saintly persons, Kaṁsa entered his palace."
+}
+---
 ====== SB 10.4.44 ======
 
 ===== Text =====

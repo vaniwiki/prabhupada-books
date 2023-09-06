@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.31~~
-~~bc:Text 31~~
-
-{{description>Lord Kṛṣṇa saved His foster father, Nanda Mahārāja, from the fear of the demigod Varuṇa and released the cowherd boys from the caves of the mountain, for they were placed there by the son of Maya. Also, to the inhabitants of Vṛndāvana, who were busy working during daytime and sleeping soundly at night because of their hard labor in the day, Lord Kṛṣṇa awarded promotion to the highest planet in the spiritual sky. All these acts are transcendental and certainly prove without any doubt His Godhood.}}
-
+---json
+{
+    "name":"SB 2.7.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 2.7.31",
+    "description":"Lord Kṛṣṇa saved His foster father, Nanda Mahārāja, from the fear of the demigod Varuṇa and released the cowherd boys from the caves of the mountain, for they were placed there by the son of Maya. Also, to the inhabitants of Vṛndāvana, who were busy working during daytime and sleeping soundly at night because of their hard labor in the day, Lord Kṛṣṇa awarded promotion to the highest planet in the spiritual sky. All these acts are transcendental and certainly prove without any doubt His Godhood."
+}
+---
 ====== SB 2.7.31 ======
 
 > नन्दं च मोक्ष्यति भयाद्वरुणस्य पाशाद्

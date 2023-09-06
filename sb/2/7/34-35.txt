@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.34-35~~
-~~bc:Text 34-35~~
-
-{{description>All demonic personalities like Pralamba, Dhenuka, Baka, Keśī, Ariṣṭa, Cāṇūra, Muṣṭika, Kuvalayāpīḍa elephant, Kaṁsa, Yavana, Narakāsura and Pauṇḍraka, great marshals like Sālva, Dvivida monkey and Balvala, Dantavakra, the seven bulls, Śambara, Vidūratha and Rukmī, as also great warriors like Kāmboja, Matsya, Kuru, Sṛñjaya and Kekaya, would all fight vigorously, either with the Lord Hari directly or with Him under His names of Baladeva, Arjuna, Bhīma, etc. And the demons, thus being killed, would attain either the impersonal brahmajyoti or His personal abode in the Vaikuṇṭha planets.}}
-
+---json
+{
+    "name":"SB 2.7.34-35",
+    "h1":"Text 34-35",
+    "title":" Śrīmad Bhāgavatam 2.7.34-35",
+    "description":"All demonic personalities like Pralamba, Dhenuka, Baka, Keśī, Ariṣṭa, Cāṇūra, Muṣṭika, Kuvalayāpīḍa elephant, Kaṁsa, Yavana, Narakāsura and Pauṇḍraka, great marshals like Sālva, Dvivida monkey and Balvala, Dantavakra, the seven bulls, Śambara, Vidūratha and Rukmī, as also great warriors like Kāmboja, Matsya, Kuru, Sṛñjaya and Kekaya, would all fight vigorously, either with the Lord Hari directly or with Him under His names of Baladeva, Arjuna, Bhīma, etc. And the demons, thus being killed, would attain either the impersonal brahmajyoti or His personal abode in the Vaikuṇṭha planets."
+}
+---
 ====== SB 2.7.34-35 ======
 
 > ये च प्रलम्बखरदर्दुरकेश्यरिष्ट

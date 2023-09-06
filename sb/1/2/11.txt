@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.2.11~~
-~~bc:Text 11~~
-
-{{description>Learned transcendentalists who know the Absolute Truth call this nondual substance Brahman, Paramātmā or Bhagavān.}}
-
+---json
+{
+    "name":"SB 1.2.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 1.2.11",
+    "description":"Learned transcendentalists who know the Absolute Truth call this nondual substance Brahman, Paramātmā or Bhagavān."
+}
+---
 ====== SB 1.2.11 ======
 
 > वदन्ति तत्तत्त्वविदस्तत्त्वं यज्ज्ञानमद्वयम् ।

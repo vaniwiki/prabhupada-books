@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.9.15~~
-~~bc:Text 15~~
-
-{{description>When mother Yaśodā was trying to bind the offending child, she saw that the binding rope was short by a distance the width of two fingers. Thus she brought another rope to join to it.}}
-
+---json
+{
+    "name":"SB 10.9.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 10.9.15",
+    "description":"When mother Yaśodā was trying to bind the offending child, she saw that the binding rope was short by a distance the width of two fingers. Thus she brought another rope to join to it."
+}
+---
 ====== SB 10.9.15 ======
 
 ===== Text =====

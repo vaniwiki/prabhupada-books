@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.17.21~~
-~~bc:Text 21~~
-
-{{description>Sūta Gosvāmī said: O best among the brāhmaṇas, the Emperor Parīkṣit, thus hearing the personality of religion speak, was fully satisfied, and without mistake or regret he gave his reply.}}
-
+---json
+{
+    "name":"SB 1.17.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 1.17.21",
+    "description":"Sūta Gosvāmī said: O best among the brāhmaṇas, the Emperor Parīkṣit, thus hearing the personality of religion speak, was fully satisfied, and without mistake or regret he gave his reply."
+}
+---
 ====== SB 1.17.21 ======
 
 > सूत उवाच

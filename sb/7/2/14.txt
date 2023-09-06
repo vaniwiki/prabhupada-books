@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.14~~
-~~bc:Text 14~~
-
-{{description>The demons set fire to the cities, villages, pasturing grounds, cowpens, gardens, agricultural fields and natural forests. They burned the hermitages of the saintly persons, the important mines that produced valuable metals, the residential quarters of the agriculturalists, the mountain villages, and the villages of the cow protectors, the cowherd men. They also burned the government capitals.}}
-
+---json
+{
+    "name":"SB 7.2.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 7.2.14",
+    "description":"The demons set fire to the cities, villages, pasturing grounds, cowpens, gardens, agricultural fields and natural forests. They burned the hermitages of the saintly persons, the important mines that produced valuable metals, the residential quarters of the agriculturalists, the mountain villages, and the villages of the cow protectors, the cowherd men. They also burned the government capitals."
+}
+---
 ====== SB 7.2.14 ======
 
 ===== Text =====

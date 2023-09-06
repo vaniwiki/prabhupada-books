@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.4.21~~
-~~bc:Text 21~~
-
-{{description>In performing his prescribed duties as king, Mahārāja Ambarīṣa always offered the results of his royal activities to the Supreme Personality of Godhead, Kṛṣṇa, who is the enjoyer of everything and is beyond the perception of material senses. He certainly took advice from brāhmaṇas who were faithful devotees of the Lord, and thus he ruled the planet earth without difficulty.}}
-
+---json
+{
+    "name":"SB 9.4.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 9.4.21",
+    "description":"In performing his prescribed duties as king, Mahārāja Ambarīṣa always offered the results of his royal activities to the Supreme Personality of Godhead, Kṛṣṇa, who is the enjoyer of everything and is beyond the perception of material senses. He certainly took advice from brāhmaṇas who were faithful devotees of the Lord, and thus he ruled the planet earth without difficulty."
+}
+---
 ====== SB 9.4.21 ======
 
 ===== Text =====

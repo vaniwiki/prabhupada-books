@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.15.24~~
-~~bc:Text 24~~
-
-{{description>These visible objects like wife, children and property are like dreams and mental concoctions. Actually what we see has no permanent existence. It is sometimes seen and sometimes not. Only because of our past actions do we create such mental concoctions, and because of these concoctions, we perform further activities.}}
-
+---json
+{
+    "name":"SB 6.15.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.15.24",
+    "description":"These visible objects like wife, children and property are like dreams and mental concoctions. Actually what we see has no permanent existence. It is sometimes seen and sometimes not. Only because of our past actions do we create such mental concoctions, and because of these concoctions, we perform further activities."
+}
+---
 ====== SB 6.15.24 ======
 
 ===== Text =====

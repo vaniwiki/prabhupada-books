@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.9~~
-~~bc:Text 9~~
-
-{{description>In the fourth incarnation, the Lord became Nara and Nārāyaṇa, the twin sons of the wife of King Dharma. Thus He undertook severe and exemplary penances to control the senses.}}
-
+---json
+{
+    "name":"SB 1.3.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 1.3.9",
+    "description":"In the fourth incarnation, the Lord became Nara and Nārāyaṇa, the twin sons of the wife of King Dharma. Thus He undertook severe and exemplary penances to control the senses."
+}
+---
 ====== SB 1.3.9 ======
 
 > तुर्ये धर्मकलासर्गे नरनारायणावृषी ।

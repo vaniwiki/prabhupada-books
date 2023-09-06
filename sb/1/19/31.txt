@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.31~~
-~~bc:Text 31~~
-
-{{description>The sage Śrī Śukadeva Gosvāmī sat perfectly pacified, intelligent and ready to answer any question without hesitation. The great devotee, Mahārāja Parīkṣit, approached him, offered his respects by bowing before him, and politely inquired with sweet words and folded hands.}}
-
+---json
+{
+    "name":"SB 1.19.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 1.19.31",
+    "description":"The sage Śrī Śukadeva Gosvāmī sat perfectly pacified, intelligent and ready to answer any question without hesitation. The great devotee, Mahārāja Parīkṣit, approached him, offered his respects by bowing before him, and politely inquired with sweet words and folded hands."
+}
+---
 ====== SB 1.19.31 ======
 
 > प्रशान्तमासीनमकुण्ठमेधसं मुनिं नृपो भागवतोऽभ्युपेत्य ।

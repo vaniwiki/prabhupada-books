@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.9.11~~
-~~bc:Text 11~~
-
-{{description>Śrī Śukadeva Gosvāmī continued: After the demons heard the words of Mohinī-mūrti, who had spoken as if jokingly, they were all very confident. They laughed with gravity, and ultimately they delivered the container of nectar into Her hands.}}
-
+---json
+{
+    "name":"SB 8.9.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 8.9.11",
+    "description":"Śrī Śukadeva Gosvāmī continued: After the demons heard the words of Mohinī-mūrti, who had spoken as if jokingly, they were all very confident. They laughed with gravity, and ultimately they delivered the container of nectar into Her hands."
+}
+---
 ====== SB 8.9.11 ======
 
 ===== Text =====

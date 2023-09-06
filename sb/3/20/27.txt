@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.27~~
-~~bc:Text 27~~
-
-{{description>My Lord, You are the only one capable of ending the affliction of the distressed and inflicting agony on those who never resort to Your feet.}}
-
+---json
+{
+    "name":"SB 3.20.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.20.27",
+    "description":"My Lord, You are the only one capable of ending the affliction of the distressed and inflicting agony on those who never resort to Your feet."
+}
+---
 ====== SB 3.20.27 ======
 
 > त्वमेकः किल लोकानां क्लिष्टानां क्लेशनाशनः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.8.25~~
-~~bc:Text 25~~
-
-{{description>O best of conchshells, O Pāñcajanya in the hands of the Lord, you are always filled with the breath of Lord Kṛṣṇa. Therefore you create a fearful sound vibration that causes trembling in the hearts of enemies like the Rākṣasas, pramatha ghosts, Pretas, Mātās, Piśācas and brāhmaṇa ghosts with fearful eyes.}}
-
+---json
+{
+    "name":"SB 6.8.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 6.8.25",
+    "description":"O best of conchshells, O Pāñcajanya in the hands of the Lord, you are always filled with the breath of Lord Kṛṣṇa. Therefore you create a fearful sound vibration that causes trembling in the hearts of enemies like the Rākṣasas, pramatha ghosts, Pretas, Mātās, Piśācas and brāhmaṇa ghosts with fearful eyes."
+}
+---
 ====== SB 6.8.25 ======
 
 ===== Text =====

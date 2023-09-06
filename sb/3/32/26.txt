@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.32.26~~
-~~bc:Text 26~~
-
-{{description>The Supreme Personality of Godhead alone is complete transcendental knowledge, but according to the different processes of understanding He appears differently, either as impersonal Brahman, as Paramātmā, as the Supreme Personality of Godhead or as the puruṣa-avatāra.}}
-
+---json
+{
+    "name":"SB 3.32.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.32.26",
+    "description":"The Supreme Personality of Godhead alone is complete transcendental knowledge, but according to the different processes of understanding He appears differently, either as impersonal Brahman, as Paramātmā, as the Supreme Personality of Godhead or as the puruṣa-avatāra."
+}
+---
 ====== SB 3.32.26 ======
 
 > ज्ञानमात्रं परं ब्रह्म परमात्मेश्वरः पुमान् ।

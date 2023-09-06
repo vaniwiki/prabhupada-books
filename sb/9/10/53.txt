@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.53~~
-~~bc:Text 53~~
-
-{{description>When Lord Rāmacandra, the Supreme Personality of Godhead, was the King of this world, all bodily and mental suffering, disease, old age, bereavement, lamentation, distress, fear and fatigue were completely absent. There was even no death for those who did not want it.}}
-
+---json
+{
+    "name":"SB 9.10.53",
+    "h1":"Text 53",
+    "title":" Śrīmad Bhāgavatam 9.10.53",
+    "description":"When Lord Rāmacandra, the Supreme Personality of Godhead, was the King of this world, all bodily and mental suffering, disease, old age, bereavement, lamentation, distress, fear and fatigue were completely absent. There was even no death for those who did not want it."
+}
+---
 ====== SB 9.10.53 ======
 
 ===== Text =====

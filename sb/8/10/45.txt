@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.10.45~~
-~~bc:Text 45~~
-
-{{description>My dear King, Bali Mahārāja then disappeared and resorted to demoniac illusions. A giant mountain, generated from illusion, then appeared above the heads of the demigod soldiers.}}
-
+---json
+{
+    "name":"SB 8.10.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 8.10.45",
+    "description":"My dear King, Bali Mahārāja then disappeared and resorted to demoniac illusions. A giant mountain, generated from illusion, then appeared above the heads of the demigod soldiers."
+}
+---
 ====== SB 8.10.45 ======
 
 ===== Text =====

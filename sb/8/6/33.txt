@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.6.33~~
-~~bc:Text 33~~
-
-{{description>Thereafter, with great strength, the demons and demigods, who were all very powerful and who had long, stout arms, uprooted Mandara Mountain. Crying very loudly, they brought it toward the ocean of milk.}}
-
+---json
+{
+    "name":"SB 8.6.33",
+    "h1":"Text 33",
+    "title":" Śrīmad Bhāgavatam 8.6.33",
+    "description":"Thereafter, with great strength, the demons and demigods, who were all very powerful and who had long, stout arms, uprooted Mandara Mountain. Crying very loudly, they brought it toward the ocean of milk."
+}
+---
 ====== SB 8.6.33 ======
 
 ===== Text =====

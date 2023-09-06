@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.9~~
-~~bc:Text 9~~
-
-{{description>When the root of a tree is cut and the tree falls down, its branches and twigs automatically dry up. Similarly, when I have killed this diplomatic Viṣṇu, the demigods, for whom Lord Viṣṇu is the life and soul, will lose the source of their life and wither away.}}
-
+---json
+{
+    "name":"SB 7.2.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 7.2.9",
+    "description":"When the root of a tree is cut and the tree falls down, its branches and twigs automatically dry up. Similarly, when I have killed this diplomatic Viṣṇu, the demigods, for whom Lord Viṣṇu is the life and soul, will lose the source of their life and wither away."
+}
+---
 ====== SB 7.2.9 ======
 
 ===== Text =====

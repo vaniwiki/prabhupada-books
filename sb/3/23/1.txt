@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.1~~
-~~bc:Text 1~~
-
-{{description>Maitreya continued: After the departure of her parents, the chaste woman Devahūti, who could understand the desires of her husband, served him constantly with great love, as Bhavānī, the wife of Lord Śiva, serves her husband.}}
-
+---json
+{
+    "name":"SB 3.23.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.23.1",
+    "description":"Maitreya continued: After the departure of her parents, the chaste woman Devahūti, who could understand the desires of her husband, served him constantly with great love, as Bhavānī, the wife of Lord Śiva, serves her husband."
+}
+---
 ====== SB 3.23.1 ======
 
 > मैत्रेय उवाच

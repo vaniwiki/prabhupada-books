@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.23.26~~
-~~bc:Text 26~~
-
-{{description>The wives of the demigods continued: Just see how this chaste lady, Arci, by dint of her inconceivable pious activities, is still following her husband upward, as far as we can see.}}
-
+---json
+{
+    "name":"SB 4.23.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 4.23.26",
+    "description":"The wives of the demigods continued: Just see how this chaste lady, Arci, by dint of her inconceivable pious activities, is still following her husband upward, as far as we can see."
+}
+---
 ====== SB 4.23.26 ======
 
 > सैषा नूनं व्रजत्यूर्ध्वमनु वैन्यं पतिं सती ।

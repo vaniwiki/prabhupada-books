@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.13.9~~
-~~bc:Text 9~~
-
-{{description>Lord Brahmā said: My dear son, O lord of the world, I am very pleased with you, and I desire all blessings for both you and your wife. You have without reservation surrendered yourself unto me with your heart for my instructions.}}
-
+---json
+{
+    "name":"SB 3.13.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 3.13.9",
+    "description":"Lord Brahmā said: My dear son, O lord of the world, I am very pleased with you, and I desire all blessings for both you and your wife. You have without reservation surrendered yourself unto me with your heart for my instructions."
+}
+---
 ====== SB 3.13.9 ======
 
 > ब्रह्मोवाच

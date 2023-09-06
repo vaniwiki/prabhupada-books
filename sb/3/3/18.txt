@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.18~~
-~~bc:Text 18~~
-
-{{description>The Supreme Lord induced the son of Dharma to perform three horse sacrifices, and Mahārāja Yudhiṣṭhira, constantly following Kṛṣṇa, the Personality of Godhead, protected and enjoyed the earth, assisted by his younger brothers.}}
-
+---json
+{
+    "name":"SB 3.3.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 3.3.18",
+    "description":"The Supreme Lord induced the son of Dharma to perform three horse sacrifices, and Mahārāja Yudhiṣṭhira, constantly following Kṛṣṇa, the Personality of Godhead, protected and enjoyed the earth, assisted by his younger brothers."
+}
+---
 ====== SB 3.3.18 ======
 
 > अयाजयद्धर्मसुतमश्वमेधैस्त्रिभिर्विभुः ।

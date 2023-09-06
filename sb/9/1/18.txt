@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.1.18~~
-~~bc:Text 18~~
-
-{{description>You are all self-controlled, well balanced in mind, and aware of the Absolute Truth. And because of austerities and penances you are completely cleansed of all material contamination. Your words, like those of the demigods, are never baffled. Then how is it possible that your determination has failed?}}
-
+---json
+{
+    "name":"SB 9.1.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 9.1.18",
+    "description":"You are all self-controlled, well balanced in mind, and aware of the Absolute Truth. And because of austerities and penances you are completely cleansed of all material contamination. Your words, like those of the demigods, are never baffled. Then how is it possible that your determination has failed?"
+}
+---
 ====== SB 9.1.18 ======
 
 ===== Text =====

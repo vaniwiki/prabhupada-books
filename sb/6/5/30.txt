@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.5.30~~
-~~bc:Text 30~~
-
-{{description>O sons of Dakṣa, please hear my words of instruction attentively. You are all very affectionate to your elder brothers, the Haryaśvas. Therefore you should follow their path.}}
-
+---json
+{
+    "name":"SB 6.5.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 6.5.30",
+    "description":"O sons of Dakṣa, please hear my words of instruction attentively. You are all very affectionate to your elder brothers, the Haryaśvas. Therefore you should follow their path."
+}
+---
 ====== SB 6.5.30 ======
 
 ===== Text =====

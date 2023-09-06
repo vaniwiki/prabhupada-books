@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.38~~
-~~bc:Text 38~~
-
-{{description>When the great sages were carrying on their discussion in this way, they saw a dust storm arising from all directions. This storm was caused by the running of thieves and rogues, who were engaged in plundering the citizens.}}
-
+---json
+{
+    "name":"SB 4.14.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 4.14.38",
+    "description":"When the great sages were carrying on their discussion in this way, they saw a dust storm arising from all directions. This storm was caused by the running of thieves and rogues, who were engaged in plundering the citizens."
+}
+---
 ====== SB 4.14.38 ======
 
 > एवं मृशन्त ऋषयो धावतां सर्वतोदिशम् ।

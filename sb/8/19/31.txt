@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.31~~
-~~bc:Text 31~~
-
-{{description>You do not know what a dangerous position you have accepted by promising to give Him land. I do not think that this promise is good for you. It will bring great harm to the demons.}}
-
+---json
+{
+    "name":"SB 8.19.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.19.31",
+    "description":"You do not know what a dangerous position you have accepted by promising to give Him land. I do not think that this promise is good for you. It will bring great harm to the demons."
+}
+---
 ====== SB 8.19.31 ======
 
 ===== Text =====

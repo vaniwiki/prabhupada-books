@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.7.17~~
-~~bc:Text 17~~
-
-{{description>The Lord, although transcendental to all material modes, still surpassed all the qualities of the sons of Aditi, known as the Ādityas. The Lord appeared as the youngest son of Aditi. And because He surpassed all the planets of the universe, He is the Supreme Personality of Godhead. On the pretense of asking for a measurement of three footsteps of land, He took away all the lands of Bali Mahārāja. He asked simply because without begging, no authority can take one's rightful possession.}}
-
+---json
+{
+    "name":"SB 2.7.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 2.7.17",
+    "description":"The Lord, although transcendental to all material modes, still surpassed all the qualities of the sons of Aditi, known as the Ādityas. The Lord appeared as the youngest son of Aditi. And because He surpassed all the planets of the universe, He is the Supreme Personality of Godhead. On the pretense of asking for a measurement of three footsteps of land, He took away all the lands of Bali Mahārāja. He asked simply because without begging, no authority can take one's rightful possession."
+}
+---
 ====== SB 2.7.17 ======
 
 > ज्यायान्गुणैरवरजोऽप्यदितेः सुतानां

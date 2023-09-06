@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.5.19~~
-~~bc:Text 19~~
-
-{{description>Śukadeva Gosvāmī continued: Thereafter, my dear King Parīkṣit, O best protector of the Kuru dynasty, Nanda Mahārāja appointed the local cowherd men to protect Gokula and then went to Mathurā to pay the yearly taxes to King Kaṁsa.}}
-
+---json
+{
+    "name":"SB 10.5.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 10.5.19",
+    "description":"Śukadeva Gosvāmī continued: Thereafter, my dear King Parīkṣit, O best protector of the Kuru dynasty, Nanda Mahārāja appointed the local cowherd men to protect Gokula and then went to Mathurā to pay the yearly taxes to King Kaṁsa."
+}
+---
 ====== SB 10.5.19 ======
 
 ===== Text =====

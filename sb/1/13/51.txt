@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.13.51~~
-~~bc:Text 51~~
-
-{{description>O King, your uncle Dhṛtarāṣṭra, his brother Vidura and his wife Gāndhārī have gone to the southern side of the Himalaya Mountains, where there are shelters of the great sages.}}
-
+---json
+{
+    "name":"SB 1.13.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 1.13.51",
+    "description":"O King, your uncle Dhṛtarāṣṭra, his brother Vidura and his wife Gāndhārī have gone to the southern side of the Himalaya Mountains, where there are shelters of the great sages."
+}
+---
 ====== SB 1.13.51 ======
 
 > धृतराष्ट्रः सह भ्रात्रा गान्धार्या च स्वभार्यया ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.10.11~~
-~~bc:Text 11~~
-
-{{description>That Supreme Person is not impersonal and therefore is distinctively a nara, or person. Therefore the transcendental water created from the Supreme Nara is known as nāra. And because He lies down on that water, He is known as Nārāyaṇa.}}
-
+---json
+{
+    "name":"SB 2.10.11",
+    "h1":"Text 11",
+    "title":" Śrīmad Bhāgavatam 2.10.11",
+    "description":"That Supreme Person is not impersonal and therefore is distinctively a nara, or person. Therefore the transcendental water created from the Supreme Nara is known as nāra. And because He lies down on that water, He is known as Nārāyaṇa."
+}
+---
 ====== SB 2.10.11 ======
 
 > तास्ववात्सीत्स्वसृष्टासु सहस्रं परिवत्सरान् ।

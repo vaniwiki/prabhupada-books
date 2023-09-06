@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.7~~
-~~bc:Text 7~~
-
-{{description>Some authorities say that there is a total of twenty-one hellish planets, and some say twenty-eight. My dear King, I shall outline all of them according to their names, forms and symptoms. The names of the different hells are as follows: Tāmisra, Andhatāmisra, Raurava, Mahāraurava, Kumbhīpāka, Kālasūtra, Asi-patravana, Sūkaramukha, Andhakūpa, Kṛmibhojana, Sandaṁśa, Taptasūrmi, Vajrakaṇṭaka-śālmalī, Vaitaraṇī, Pūyoda, Prāṇarodha, Viśasana, Lālābhakṣa, Sārameyādana, Avīci, Ayaḥpāna, Kṣārakardama, Rakṣogaṇa-bhojana, Śūlaprota, Dandaśūka, Avaṭa-nirodhana, Paryāvartana and Sūcīmukha. All these planets are meant for punishing the living entities.}}
-
+---json
+{
+    "name":"SB 5.26.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 5.26.7",
+    "description":"Some authorities say that there is a total of twenty-one hellish planets, and some say twenty-eight. My dear King, I shall outline all of them according to their names, forms and symptoms. The names of the different hells are as follows: Tāmisra, Andhatāmisra, Raurava, Mahāraurava, Kumbhīpāka, Kālasūtra, Asi-patravana, Sūkaramukha, Andhakūpa, Kṛmibhojana, Sandaṁśa, Taptasūrmi, Vajrakaṇṭaka-śālmalī, Vaitaraṇī, Pūyoda, Prāṇarodha, Viśasana, Lālābhakṣa, Sārameyādana, Avīci, Ayaḥpāna, Kṣārakardama, Rakṣogaṇa-bhojana, Śūlaprota, Dandaśūka, Avaṭa-nirodhana, Paryāvartana and Sūcīmukha. All these planets are meant for punishing the living entities."
+}
+---
 ====== SB 5.26.7 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.18.1~~
-~~bc:Text 1~~
-
-{{description>The great saint Maitreya continued to address Vidura: My dear Vidura, at that time, after the planet earth finished her prayers, King Pṛthu was still not pacified, and his lips trembled in great anger. Although the planet earth was frightened, she made up her mind and began to speak as follows in order to convince the King.}}
-
+---json
+{
+    "name":"SB 4.18.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 4.18.1",
+    "description":"The great saint Maitreya continued to address Vidura: My dear Vidura, at that time, after the planet earth finished her prayers, King Pṛthu was still not pacified, and his lips trembled in great anger. Although the planet earth was frightened, she made up her mind and began to speak as follows in order to convince the King."
+}
+---
 ====== SB 4.18.1 ======
 
 > मैत्रेय उवाच

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.8~~
-~~bc:Text 8~~
-
-{{description>For his income a devotee should be satisfied with what he earns without great difficulty. He should not eat more than what is necessary. He should live in a secluded place and always be thoughtful, peaceful, friendly, compassionate and self-realized.}}
-
+---json
+{
+    "name":"SB 3.27.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 3.27.8",
+    "description":"For his income a devotee should be satisfied with what he earns without great difficulty. He should not eat more than what is necessary. He should live in a secluded place and always be thoughtful, peaceful, friendly, compassionate and self-realized."
+}
+---
 ====== SB 3.27.8 ======
 
 > यदृच्छयोपलब्धेन सन्तुष्टो मितभुङ्मुनिः ।

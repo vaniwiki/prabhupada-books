@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.28~~
-~~bc:Text 28~~
-
-{{description>Śrī Vidura inquired: My dear brāhmaṇa, the abode of the Lord is very difficult to attain. It can be attained only by pure devotional service, which alone pleases the most affectionate, merciful Lord. Dhruva Mahārāja achieved this position even in one life, and he was very wise and conscientious. Why, then, was he not very pleased?}}
-
+---json
+{
+    "name":"SB 4.9.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 4.9.28",
+    "description":"Śrī Vidura inquired: My dear brāhmaṇa, the abode of the Lord is very difficult to attain. It can be attained only by pure devotional service, which alone pleases the most affectionate, merciful Lord. Dhruva Mahārāja achieved this position even in one life, and he was very wise and conscientious. Why, then, was he not very pleased?"
+}
+---
 ====== SB 4.9.28 ======
 
 > विदुर उवाच

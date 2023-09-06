@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.14.24~~
-~~bc:Text 24~~
-
-{{description>O great soul, you are aware of everything, yet you are asking me why I am full of anxiety. Therefore, in response to your order, let me disclose the cause.}}
-
+---json
+{
+    "name":"SB 6.14.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 6.14.24",
+    "description":"O great soul, you are aware of everything, yet you are asking me why I am full of anxiety. Therefore, in response to your order, let me disclose the cause."
+}
+---
 ====== SB 6.14.24 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.11.23~~
-~~bc:Text 23~~
-
-{{description>The Absolute Truth, Transcendence, is never subject to the understanding of imperfect sensory endeavor, nor is He subject to direct experience. He is the master of varieties of energies, like the full material energy, and no one can understand His plans or actions; therefore it should be concluded that although He is the original cause of all causes, no one can know Him by mental speculation.}}
-
+---json
+{
+    "name":"SB 4.11.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 4.11.23",
+    "description":"The Absolute Truth, Transcendence, is never subject to the understanding of imperfect sensory endeavor, nor is He subject to direct experience. He is the master of varieties of energies, like the full material energy, and no one can understand His plans or actions; therefore it should be concluded that although He is the original cause of all causes, no one can know Him by mental speculation."
+}
+---
 ====== SB 4.11.23 ======
 
 > अव्यक्तस्याप्रमेयस्य नानाशक्त्युदयस्य च ।

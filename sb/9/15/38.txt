@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.15.38~~
-~~bc:Text 38~~
-
-{{description>O great hero, my dear son Paraśurāma, you have unnecessarily killed the king, who is supposed to be the embodiment of all the demigods. Thus you have committed a sin.}}
-
+---json
+{
+    "name":"SB 9.15.38",
+    "h1":"Text 38",
+    "title":" Śrīmad Bhāgavatam 9.15.38",
+    "description":"O great hero, my dear son Paraśurāma, you have unnecessarily killed the king, who is supposed to be the embodiment of all the demigods. Thus you have committed a sin."
+}
+---
 ====== SB 9.15.38 ======
 
 ===== Text =====

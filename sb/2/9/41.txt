@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.41~~
-~~bc:Text 41~~
-
-{{description>Nārada, the most dear of the inheritor sons of Brahmā, always ready to serve his father, strictly follows the instructions of his father by his mannerly behavior, meekness and sense control.}}
-
+---json
+{
+    "name":"SB 2.9.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 2.9.41",
+    "description":"Nārada, the most dear of the inheritor sons of Brahmā, always ready to serve his father, strictly follows the instructions of his father by his mannerly behavior, meekness and sense control."
+}
+---
 ====== SB 2.9.41 ======
 
 > तं नारदः प्रियतमो रिक्थादानामनुव्रतः ।

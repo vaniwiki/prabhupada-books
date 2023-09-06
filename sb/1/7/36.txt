@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.36~~
-~~bc:Text 36~~
-
-{{description>A person who knows the principles of religion does not kill an enemy who is careless, intoxicated, insane, asleep, afraid or devoid of his chariot. Nor does he kill a boy, a woman, a foolish creature or a surrendered soul.}}
-
+---json
+{
+    "name":"SB 1.7.36",
+    "h1":"Text 36",
+    "title":" Śrīmad Bhāgavatam 1.7.36",
+    "description":"A person who knows the principles of religion does not kill an enemy who is careless, intoxicated, insane, asleep, afraid or devoid of his chariot. Nor does he kill a boy, a woman, a foolish creature or a surrendered soul."
+}
+---
 ====== SB 1.7.36 ======
 
 > मत्तं प्रमत्तमुन्मत्तं सुप्तं बालं स्त्रियं जडम् ।

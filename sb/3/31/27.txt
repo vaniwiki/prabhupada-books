@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.31.27~~
-~~bc:Text 27~~
-
-{{description>In his helpless condition, gnats, mosquitoes, bugs and other germs bite the baby, whose skin is tender, just as smaller worms bite a big worm. The child, deprived of his wisdom, cries bitterly.}}
-
+---json
+{
+    "name":"SB 3.31.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 3.31.27",
+    "description":"In his helpless condition, gnats, mosquitoes, bugs and other germs bite the baby, whose skin is tender, just as smaller worms bite a big worm. The child, deprived of his wisdom, cries bitterly."
+}
+---
 ====== SB 3.31.27 ======
 
 > तुदन्त्यामत्वचं दंशा मशका मत्कुणादयः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.24.41~~
-~~bc:Text 41~~
-
-{{description>My dear Lord, You are the viewer of the results of pious activities. You are inclination, disinclination and their resultant activities. You are the cause of the miserable conditions of life caused by irreligion, and therefore You are death. I offer You my respectful obeisances.}}
-
+---json
+{
+    "name":"SB 4.24.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 4.24.41",
+    "description":"My dear Lord, You are the viewer of the results of pious activities. You are inclination, disinclination and their resultant activities. You are the cause of the miserable conditions of life caused by irreligion, and therefore You are death. I offer You my respectful obeisances."
+}
+---
 ====== SB 4.24.41 ======
 
 > प्रवृत्ताय निवृत्ताय पितृदेवाय कर्मणे ।

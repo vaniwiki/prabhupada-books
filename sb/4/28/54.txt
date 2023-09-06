@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.54~~
-~~bc:Text 54~~
-
-{{description>My dear gentle friend, both you and I are exactly like two swans. We live together in the same heart, which is just like the Mānasa Lake. Although we have been living together for many thousands of years, we are still far away from our original home.}}
-
+---json
+{
+    "name":"SB 4.28.54",
+    "h1":"Text 54",
+    "title":" Śrīmad Bhāgavatam 4.28.54",
+    "description":"My dear gentle friend, both you and I are exactly like two swans. We live together in the same heart, which is just like the Mānasa Lake. Although we have been living together for many thousands of years, we are still far away from our original home."
+}
+---
 ====== SB 4.28.54 ======
 
 > हंसावहं च त्वं चार्य सखायौ मानसायनौ ।

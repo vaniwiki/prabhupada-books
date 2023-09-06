@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.29~~
-~~bc:Text 29~~
-
-{{description>They then decorated her with very excellent and valuable jewels, which shone brightly. Next they offered her food containing all good qualities, and a sweet, inebriating drink called āsavam.}}
-
+---json
+{
+    "name":"SB 3.23.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.23.29",
+    "description":"They then decorated her with very excellent and valuable jewels, which shone brightly. Next they offered her food containing all good qualities, and a sweet, inebriating drink called āsavam."
+}
+---
 ====== SB 3.23.29 ======
 
 > भूषणानि परार्ध्यानि वरीयांसि द्युमन्ति च ।

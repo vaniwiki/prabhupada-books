@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.25.39-40~~
-~~bc:Text 39-40~~
-
-{{description>Thus the devotee who worships Me, the all-pervading Lord of the universe, in unflinching devotional service, gives up all aspirations to be promoted to heavenly planets or to become happy in this world with wealth, children, cattle, home or anything in relationship with the body. I take him to the other side of birth and death.}}
-
+---json
+{
+    "name":"SB 3.25.39-40",
+    "h1":"Text 39-40",
+    "title":" Śrīmad Bhāgavatam 3.25.39-40",
+    "description":"Thus the devotee who worships Me, the all-pervading Lord of the universe, in unflinching devotional service, gives up all aspirations to be promoted to heavenly planets or to become happy in this world with wealth, children, cattle, home or anything in relationship with the body. I take him to the other side of birth and death."
+}
+---
 ====== SB 3.25.39-40 ======
 
 > इमं लोकं तथैवामुमात्मानमुभयायिनम् ।

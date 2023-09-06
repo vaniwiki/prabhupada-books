@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.12~~
-~~bc:Text 12~~
-
-{{description>King Purañjana had unlimited desires for sense enjoyment; consequently he traveled all over the world to find a place where all his desires could be fulfilled. Unfortunately he found a feeling of insufficiency everywhere.}}
-
+---json
+{
+    "name":"SB 4.25.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 4.25.12",
+    "description":"King Purañjana had unlimited desires for sense enjoyment; consequently he traveled all over the world to find a place where all his desires could be fulfilled. Unfortunately he found a feeling of insufficiency everywhere."
+}
+---
 ====== SB 4.25.12 ======
 
 > न साधु मेने ताः सर्वा भूतले यावतीः पुरः ।

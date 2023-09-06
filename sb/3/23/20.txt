@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.20~~
-~~bc:Text 20~~
-
-{{description>Here and there in that palace were multitudes of live swans and pigeons, as well as artificial swans and pigeons so lifelike that the real swans rose above them again and again, thinking them live birds like themselves. Thus the palace vibrated with the sounds of these birds.}}
-
+---json
+{
+    "name":"SB 3.23.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.23.20",
+    "description":"Here and there in that palace were multitudes of live swans and pigeons, as well as artificial swans and pigeons so lifelike that the real swans rose above them again and again, thinking them live birds like themselves. Thus the palace vibrated with the sounds of these birds."
+}
+---
 ====== SB 3.23.20 ======
 
 > हंसपारावतव्रातैस्तत्र तत्र निकूजितम् ।

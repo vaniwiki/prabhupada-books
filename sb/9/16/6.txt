@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.16.6~~
-~~bc:Text 6~~
-
-{{description>Jamadagni then ordered his youngest son, Paraśurāma, to kill his brothers, who had disobeyed this order, and his mother, who had mentally committed adultery. Lord Paraśurāma, knowing the power of his father, who was practiced in meditation and austerity, killed his mother and brothers immediately.}}
-
+---json
+{
+    "name":"SB 9.16.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 9.16.6",
+    "description":"Jamadagni then ordered his youngest son, Paraśurāma, to kill his brothers, who had disobeyed this order, and his mother, who had mentally committed adultery. Lord Paraśurāma, knowing the power of his father, who was practiced in meditation and austerity, killed his mother and brothers immediately."
+}
+---
 ====== SB 9.16.6 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.12~~
-~~bc:Text 12~~
-
-{{description>After all the ṛṣis and others had seated themselves comfortably, the King, humbly standing before them with folded hands, told them of his decision to fast until death.}}
-
+---json
+{
+    "name":"SB 1.19.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 1.19.12",
+    "description":"After all the ṛṣis and others had seated themselves comfortably, the King, humbly standing before them with folded hands, told them of his decision to fast until death."
+}
+---
 ====== SB 1.19.12 ======
 
 > सुखोपविष्टेष्वथ तेषु भूयः कृतप्रणामः स्वचिकीर्षितं यत् ।

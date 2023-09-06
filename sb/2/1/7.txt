@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.1.7~~
-~~bc:Text 7~~
-
-{{description>O King Parīkṣit, mainly the topmost transcendentalists, who are above the regulative principles and restrictions, take pleasure in describing the glories of the Lord.}}
-
+---json
+{
+    "name":"SB 2.1.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 2.1.7",
+    "description":"O King Parīkṣit, mainly the topmost transcendentalists, who are above the regulative principles and restrictions, take pleasure in describing the glories of the Lord."
+}
+---
 ====== SB 2.1.7 ======
 
 > प्रायेण मुनयो राजन्निवृत्ता विधिषेधतः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.31~~
-~~bc:Text 31~~
-
-{{description>Whenever the activities of Vāmanadeva are described in the course of a ritualistic ceremony, whether the ceremony be performed to please the demigods, to please one's forefathers in Pitṛloka, or to celebrate a social event like a marriage, that ceremony should be understood to be extremely auspicious.}}
-
+---json
+{
+    "name":"SB 8.23.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 8.23.31",
+    "description":"Whenever the activities of Vāmanadeva are described in the course of a ritualistic ceremony, whether the ceremony be performed to please the demigods, to please one's forefathers in Pitṛloka, or to celebrate a social event like a marriage, that ceremony should be understood to be extremely auspicious."
+}
+---
 ====== SB 8.23.31 ======
 
 ===== Text =====

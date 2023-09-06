@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.3.15~~
-~~bc:Text 15~~
-
-{{description>When there was a complete inundation after the period of the Cākṣuṣa Manu and the whole world was deep within water, the Lord accepted the form of a fish and protected Vaivasvata Manu, keeping him up on a boat.}}
-
+---json
+{
+    "name":"SB 1.3.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 1.3.15",
+    "description":"When there was a complete inundation after the period of the Cākṣuṣa Manu and the whole world was deep within water, the Lord accepted the form of a fish and protected Vaivasvata Manu, keeping him up on a boat."
+}
+---
 ====== SB 1.3.15 ======
 
 > रूपं स जगृहे मात्स्यं चाक्षुषोदधिसम्प्लवे ।

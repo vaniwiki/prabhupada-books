@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.26.15~~
-~~bc:Text 15~~
-
-{{description>All these are considered the qualified Brahman. The mixing element, which is known as time, is counted as the twenty-fifth element.}}
-
+---json
+{
+    "name":"SB 3.26.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.26.15",
+    "description":"All these are considered the qualified Brahman. The mixing element, which is known as time, is counted as the twenty-fifth element."
+}
+---
 ====== SB 3.26.15 ======
 
 > एतावानेव सङ्ख्यातो ब्रह्मणः सगुणस्य ह ।

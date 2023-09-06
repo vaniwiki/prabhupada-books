@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.2.44~~
-~~bc:Text 44~~
-
-{{description>Accompanied by the order carriers of Lord Viṣṇu, Ajāmila boarded an airplane made of gold. Passing through the airways, he went directly to the abode of Lord Viṣṇu, the husband of the goddess of fortune.}}
-
+---json
+{
+    "name":"SB 6.2.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 6.2.44",
+    "description":"Accompanied by the order carriers of Lord Viṣṇu, Ajāmila boarded an airplane made of gold. Passing through the airways, he went directly to the abode of Lord Viṣṇu, the husband of the goddess of fortune."
+}
+---
 ====== SB 6.2.44 ======
 
 ===== Text =====

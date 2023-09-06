@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.17~~
-~~bc:Text 17~~
-
-{{description>Śrī Devahūti inquired: My dear brāhmaṇa, does material nature ever give release to the spirit soul? Since one is attracted to the other eternally, how is their separation possible?}}
-
+---json
+{
+    "name":"SB 3.27.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.27.17",
+    "description":"Śrī Devahūti inquired: My dear brāhmaṇa, does material nature ever give release to the spirit soul? Since one is attracted to the other eternally, how is their separation possible?"
+}
+---
 ====== SB 3.27.17 ======
 
 > देवहूतिरुवाच

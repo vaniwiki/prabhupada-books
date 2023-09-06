@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.3.23~~
-~~bc:Text 23~~
-
-{{description>As soon as he was sprinkled with the water from Lord Brahmā's waterpot, Hiraṇyakaśipu arose, endowed with a full body with limbs so strong that they could bear the striking of a thunderbolt. With physical strength and a bodily luster resembling molten gold, he emerged from the anthill a completely young man, just as fire springs from fuel wood.}}
-
+---json
+{
+    "name":"SB 7.3.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 7.3.23",
+    "description":"As soon as he was sprinkled with the water from Lord Brahmā's waterpot, Hiraṇyakaśipu arose, endowed with a full body with limbs so strong that they could bear the striking of a thunderbolt. With physical strength and a bodily luster resembling molten gold, he emerged from the anthill a completely young man, just as fire springs from fuel wood."
+}
+---
 ====== SB 7.3.23 ======
 
 ===== Text =====

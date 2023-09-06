@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.18~~
-~~bc:Text 18~~
-
-{{description>A person is considered no better than a crow if after receiving some food, he does not divide it among guests, old men and children, but simply eats it himself, or if he eats it without performing the five kinds of sacrifice. After death he is put into the most abominable hell, known as Kṛmibhojana. In that hell is a lake 100,000 yojanas [800,000 miles] wide and filled with worms. He becomes a worm in that lake and feeds on the other worms there, who also feed on him. Unless he atones for his actions before his death, such a sinful man remains in the hellish lake of Kṛmibhojana for as many years as there are yojanas in the width of the lake.}}
-
+---json
+{
+    "name":"SB 5.26.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 5.26.18",
+    "description":"A person is considered no better than a crow if after receiving some food, he does not divide it among guests, old men and children, but simply eats it himself, or if he eats it without performing the five kinds of sacrifice. After death he is put into the most abominable hell, known as Kṛmibhojana. In that hell is a lake 100,000 yojanas [800,000 miles] wide and filled with worms. He becomes a worm in that lake and feeds on the other worms there, who also feed on him. Unless he atones for his actions before his death, such a sinful man remains in the hellish lake of Kṛmibhojana for as many years as there are yojanas in the width of the lake."
+}
+---
 ====== SB 5.26.18 ======
 
 ===== Text =====

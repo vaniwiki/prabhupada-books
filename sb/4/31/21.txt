@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.31.21~~
-~~bc:Text 21~~
-
-{{description>The Supreme Personality of Godhead becomes very dear to those devotees who have no material possessions but are fully happy in possessing the devotional service of the Lord. Indeed, the Lord relishes the devotional activities of such devotees. Those who are puffed up with material education, wealth, aristocracy and fruitive activity are very proud of possessing material things, and they often deride the devotees. Even if such people offer the Lord worship, the Lord never accepts them.}}
-
+---json
+{
+    "name":"SB 4.31.21",
+    "h1":"Text 21",
+    "title":" Śrīmad Bhāgavatam 4.31.21",
+    "description":"The Supreme Personality of Godhead becomes very dear to those devotees who have no material possessions but are fully happy in possessing the devotional service of the Lord. Indeed, the Lord relishes the devotional activities of such devotees. Those who are puffed up with material education, wealth, aristocracy and fruitive activity are very proud of possessing material things, and they often deride the devotees. Even if such people offer the Lord worship, the Lord never accepts them."
+}
+---
 ====== SB 4.31.21 ======
 
 > न भजति कुमनीषिणां स इज्यां हरिरधनात्मधनप्रियो रसज्ञः ।

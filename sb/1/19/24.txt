@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.19.24~~
-~~bc:Text 24~~
-
-{{description>O trustworthy brāhmaṇas, I now ask you about my immediate duty. Please, after proper deliberation, tell me of the unalloyed duty of everyone in all circumstances, and specifically of those who are just about to die.}}
-
+---json
+{
+    "name":"SB 1.19.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 1.19.24",
+    "description":"O trustworthy brāhmaṇas, I now ask you about my immediate duty. Please, after proper deliberation, tell me of the unalloyed duty of everyone in all circumstances, and specifically of those who are just about to die."
+}
+---
 ====== SB 1.19.24 ======
 
 > ततश्च वः पृच्छ्यमिमं विपृच्छे विश्रभ्य विप्रा इति कृत्यतायाम् ।

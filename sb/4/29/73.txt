@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.73~~
-~~bc:Text 73~~
-
-{{description>When the living entity dreams, the sense objects are not actually present. However, because one has associated with the sense objects, they become manifest. Similarly, the living entity with undeveloped senses does not cease to exist materially, even though he may not be exactly in contact with the sense objects.}}
-
+---json
+{
+    "name":"SB 4.29.73",
+    "h1":"Text 73",
+    "title":" Śrīmad Bhāgavatam 4.29.73",
+    "description":"When the living entity dreams, the sense objects are not actually present. However, because one has associated with the sense objects, they become manifest. Similarly, the living entity with undeveloped senses does not cease to exist materially, even though he may not be exactly in contact with the sense objects."
+}
+---
 ====== SB 4.29.73 ======
 
 > अर्थे ह्यविद्यमानेऽपि संसृतिर्न निवर्तते ।

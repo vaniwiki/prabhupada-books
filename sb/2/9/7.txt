@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.7~~
-~~bc:Text 7~~
-
-{{description>When he heard the sound, he tried to find the speaker, searching on all sides. But when he was unable to find anyone besides himself, he thought it wise to sit down on his lotus seat firmly and give his attention to the execution of penance, as he was instructed.}}
-
+---json
+{
+    "name":"SB 2.9.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 2.9.7",
+    "description":"When he heard the sound, he tried to find the speaker, searching on all sides. But when he was unable to find anyone besides himself, he thought it wise to sit down on his lotus seat firmly and give his attention to the execution of penance, as he was instructed."
+}
+---
 ====== SB 2.9.7 ======
 
 > निशम्य तद्वक्तृदिदृक्षया दिशो विलोक्य तत्रान्यदपश्यमानः ।

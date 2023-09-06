@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.56~~
-~~bc:Text 56~~
-
-{{description>In spite of all this, I ask you, O valiant King, the purpose for which you have come here. Whatever it may be, we shall carry it out without reservation.}}
-
+---json
+{
+    "name":"SB 3.21.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 3.21.56",
+    "description":"In spite of all this, I ask you, O valiant King, the purpose for which you have come here. Whatever it may be, we shall carry it out without reservation."
+}
+---
 ====== SB 3.21.56 ======
 
 > अथापि पृच्छे त्वां वीर यदर्थं त्वमिहागतः ।

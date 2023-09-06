@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.2.27~~
-~~bc:Text 27~~
-
-{{description>The sacrificial paraphernalia of King Marutta was extremely beautiful, for everything was made of gold. Indeed, no other sacrifice could compare to his.}}
-
+---json
+{
+    "name":"SB 9.2.27",
+    "h1":"Text 27",
+    "title":" Śrīmad Bhāgavatam 9.2.27",
+    "description":"The sacrificial paraphernalia of King Marutta was extremely beautiful, for everything was made of gold. Indeed, no other sacrifice could compare to his."
+}
+---
 ====== SB 9.2.27 ======
 
 ===== Text =====

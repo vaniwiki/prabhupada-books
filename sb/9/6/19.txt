@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.6.19~~
-~~bc:Text 19~~
-
-{{description>After conquering the enemy, the saintly king Purañjaya gave everything, including the enemy's riches and wives, to Indra, who carries a thunderbolt. For this he is celebrated as Purañjaya. Thus Purañjaya is known by different names because of his different activities.}}
-
+---json
+{
+    "name":"SB 9.6.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 9.6.19",
+    "description":"After conquering the enemy, the saintly king Purañjaya gave everything, including the enemy's riches and wives, to Indra, who carries a thunderbolt. For this he is celebrated as Purañjaya. Thus Purañjaya is known by different names because of his different activities."
+}
+---
 ====== SB 9.6.19 ======
 
 ===== Text =====

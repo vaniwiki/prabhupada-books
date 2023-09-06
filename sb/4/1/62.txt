@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.1.62~~
-~~bc:Text 62~~
-
-{{description>These forty-nine fire-gods are the beneficiaries of the oblations offered in the Vedic sacrificial fire by impersonalist brāhmaṇas.}}
-
+---json
+{
+    "name":"SB 4.1.62",
+    "h1":"Text 62",
+    "title":" Śrīmad Bhāgavatam 4.1.62",
+    "description":"These forty-nine fire-gods are the beneficiaries of the oblations offered in the Vedic sacrificial fire by impersonalist brāhmaṇas."
+}
+---
 ====== SB 4.1.62 ======
 
 > वैतानिके कर्मणि यन् नामभिर्ब्रह्मवादिभिः ।

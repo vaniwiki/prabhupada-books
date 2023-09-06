@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.4.10~~
-~~bc:Text 10~~
-
-{{description>He was a great emperor and possessed all the opulences of his acquired kingdom. He was so exalted that he was increasing the prestige of the Pāṇḍu dynasty. Why did he give up everything to sit down on the bank of the Ganges and fast until death?}}
-
+---json
+{
+    "name":"SB 1.4.10",
+    "h1":"Text 10",
+    "title":" Śrīmad Bhāgavatam 1.4.10",
+    "description":"He was a great emperor and possessed all the opulences of his acquired kingdom. He was so exalted that he was increasing the prestige of the Pāṇḍu dynasty. Why did he give up everything to sit down on the bank of the Ganges and fast until death?"
+}
+---
 ====== SB 1.4.10 ======
 
 > स सम्राट्कस्य वा हेतोः पाण्डूनां मानवर्धनः ।

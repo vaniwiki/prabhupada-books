@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.2.25~~
-~~bc:Text 25~~
-
-{{description>May those who are envious of Lord Śiva, being attracted by the flowery language of the enchanting Vedic promises, and who have thus become dull, always remain attached to fruitive activities.}}
-
+---json
+{
+    "name":"SB 4.2.25",
+    "h1":"Text 25",
+    "title":" Śrīmad Bhāgavatam 4.2.25",
+    "description":"May those who are envious of Lord Śiva, being attracted by the flowery language of the enchanting Vedic promises, and who have thus become dull, always remain attached to fruitive activities."
+}
+---
 ====== SB 4.2.25 ======
 
 > गिरः श्रुतायाः पुष्पिण्या मधुगन्धेन भूरिणा ।

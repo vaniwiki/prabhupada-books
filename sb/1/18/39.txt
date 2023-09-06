@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.18.39~~
-~~bc:Text 39~~
-
-{{description>O brāhmaṇas, the ṛṣi, who was born in the family of Aṅgirā Muni, hearing his son crying, gradually opened his eyes and saw the dead snake around his neck.}}
-
+---json
+{
+    "name":"SB 1.18.39",
+    "h1":"Text 39",
+    "title":" Śrīmad Bhāgavatam 1.18.39",
+    "description":"O brāhmaṇas, the ṛṣi, who was born in the family of Aṅgirā Muni, hearing his son crying, gradually opened his eyes and saw the dead snake around his neck."
+}
+---
 ====== SB 1.18.39 ======
 
 > स वा आङ्गिरसो ब्रह्मन्श्रुत्वा सुतविलापनम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.11.28~~
-~~bc:Text 28~~
-
-{{description>A chaste woman should not be greedy, but satisfied in all circumstances. She must be very expert in handling household affairs and should be fully conversant with religious principles. She should speak pleasingly and truthfully and should be very careful and always clean and pure. Thus a chaste woman should engage with affection in the service of a husband who is not fallen.}}
-
+---json
+{
+    "name":"SB 7.11.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 7.11.28",
+    "description":"A chaste woman should not be greedy, but satisfied in all circumstances. She must be very expert in handling household affairs and should be fully conversant with religious principles. She should speak pleasingly and truthfully and should be very careful and always clean and pure. Thus a chaste woman should engage with affection in the service of a husband who is not fallen."
+}
+---
 ====== SB 7.11.28 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.20.19~~
-~~bc:Text 19~~
-
-{{description>Although the vegetables living on the slopes of Mount Krauñca were attacked and devastated by the weapons of Kārttikeya, the mountain has become fearless because it is always bathed on all sides by the ocean of milk and protected by Varuṇadeva.}}
-
+---json
+{
+    "name":"SB 5.20.19",
+    "h1":"Text 19",
+    "title":" Śrīmad Bhāgavatam 5.20.19",
+    "description":"Although the vegetables living on the slopes of Mount Krauñca were attacked and devastated by the weapons of Kārttikeya, the mountain has become fearless because it is always bathed on all sides by the ocean of milk and protected by Varuṇadeva."
+}
+---
 ====== SB 5.20.19 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 10.7.32~~
-~~bc:Text 32~~
-
-{{description>Nanda Mahārāja and the others said: We must previously have performed austerities for a very long time, worshiped the Supreme Personality of Godhead, performed pious activities for public life, constructing public roads and wells, and also given charity, as a result of which this boy, although faced with death, has returned to give happiness to His relatives.}}
-
+---json
+{
+    "name":"SB 10.7.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 10.7.32",
+    "description":"Nanda Mahārāja and the others said: We must previously have performed austerities for a very long time, worshiped the Supreme Personality of Godhead, performed pious activities for public life, constructing public roads and wells, and also given charity, as a result of which this boy, although faced with death, has returned to give happiness to His relatives."
+}
+---
 ====== SB 10.7.32 ======
 
 ===== Text =====

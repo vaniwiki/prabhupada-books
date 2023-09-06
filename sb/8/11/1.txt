@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.1~~
-~~bc:Text 1~~
-
-{{description>Śukadeva Gosvāmī said: Thereafter, by the supreme grace of the Supreme Personality of Godhead, Śrī Hari, all the demigods, headed by Indra and Vāyu, were brought back to life. Being enlivened, the demigods began severely beating the very same demons who had defeated them before.}}
-
+---json
+{
+    "name":"SB 8.11.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 8.11.1",
+    "description":"Śukadeva Gosvāmī said: Thereafter, by the supreme grace of the Supreme Personality of Godhead, Śrī Hari, all the demigods, headed by Indra and Vāyu, were brought back to life. Being enlivened, the demigods began severely beating the very same demons who had defeated them before."
+}
+---
 ====== SB 8.11.1 ======
 
 ===== Text =====

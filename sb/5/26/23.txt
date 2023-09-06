@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.26.23~~
-~~bc:Text 23~~
-
-{{description>The shameless husbands of lowborn śūdra women live exactly like animals, and therefore they have no good behavior, cleanliness or regulated life. After death, such persons are thrown into the hell called Pūyoda, where they are put into an ocean filled with pus, stool, urine, mucus, saliva and similar things. Śūdras who could not improve themselves fall into that ocean and are forced to eat those disgusting things.}}
-
+---json
+{
+    "name":"SB 5.26.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 5.26.23",
+    "description":"The shameless husbands of lowborn śūdra women live exactly like animals, and therefore they have no good behavior, cleanliness or regulated life. After death, such persons are thrown into the hell called Pūyoda, where they are put into an ocean filled with pus, stool, urine, mucus, saliva and similar things. Śūdras who could not improve themselves fall into that ocean and are forced to eat those disgusting things."
+}
+---
 ====== SB 5.26.23 ======
 
 ===== Text =====

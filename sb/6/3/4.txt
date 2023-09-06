@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.4~~
-~~bc:Text 4~~
-
-{{description>The Yamadūtas said: Our dear lord, how many controllers or rulers are there in this material world? How many causes are responsible for manifesting the various results of activities performed under the three modes of material nature [sattva-guṇa, rajo-guṇa and tamo-guṇa]?}}
-
+---json
+{
+    "name":"SB 6.3.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 6.3.4",
+    "description":"The Yamadūtas said: Our dear lord, how many controllers or rulers are there in this material world? How many causes are responsible for manifesting the various results of activities performed under the three modes of material nature [sattva-guṇa, rajo-guṇa and tamo-guṇa]?"
+}
+---
 ====== SB 6.3.4 ======
 
 ===== Text =====

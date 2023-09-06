@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.5.22~~
-~~bc:Text 22~~
-
-{{description>I shall therefore describe to you the pastimes by which the Personality of Godhead extends His transcendental potency for the creation, maintenance and dissolution of the cosmic world as they occur one after another.}}
-
+---json
+{
+    "name":"SB 3.5.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 3.5.22",
+    "description":"I shall therefore describe to you the pastimes by which the Personality of Godhead extends His transcendental potency for the creation, maintenance and dissolution of the cosmic world as they occur one after another."
+}
+---
 ====== SB 3.5.22 ======
 
 > अथ ते भगवल्लीला योगमायोरुबृंहिताः ।

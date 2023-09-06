@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.17.1~~
-~~bc:Text 1~~
-
-{{description>Śrī Maitreya said: The demigods, the inhabitants of the higher planets, were freed from all fear upon hearing the cause of the darkness explained by Brahmā, who was born from Viṣṇu. Thus they all returned to their respective planets.}}
-
+---json
+{
+    "name":"SB 3.17.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 3.17.1",
+    "description":"Śrī Maitreya said: The demigods, the inhabitants of the higher planets, were freed from all fear upon hearing the cause of the darkness explained by Brahmā, who was born from Viṣṇu. Thus they all returned to their respective planets."
+}
+---
 ====== SB 3.17.1 ======
 
 > मैत्रेय उवाच

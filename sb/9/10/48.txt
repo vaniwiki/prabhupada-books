@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.10.48~~
-~~bc:Text 48~~
-
-{{description>The family priest or spiritual master, Vasiṣṭha, had Lord Rāmacandra cleanly shaved, freeing Him from His matted locks of hair. Then, with the cooperation of the elderly members of the family, he performed the bathing ceremony [abhiṣeka] for Lord Rāmacandra with the water of the four seas and with other substances, just as it was performed for King Indra.}}
-
+---json
+{
+    "name":"SB 9.10.48",
+    "h1":"Text 48",
+    "title":" Śrīmad Bhāgavatam 9.10.48",
+    "description":"The family priest or spiritual master, Vasiṣṭha, had Lord Rāmacandra cleanly shaved, freeing Him from His matted locks of hair. Then, with the cooperation of the elderly members of the family, he performed the bathing ceremony [abhiṣeka] for Lord Rāmacandra with the water of the four seas and with other substances, just as it was performed for King Indra."
+}
+---
 ====== SB 9.10.48 ======
 
 ===== Text =====

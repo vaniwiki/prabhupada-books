@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.31~~
-~~bc:Text 31~~
-
-{{description>My dear King, in a sacred and holy place of pilgrimage one should select a place in which to perform yoga. The place must be level and not too high or low. There one should sit very comfortably, being steady and equipoised, keeping his body straight, and thus begin chanting the Vedic praṇava.}}
-
+---json
+{
+    "name":"SB 7.15.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 7.15.31",
+    "description":"My dear King, in a sacred and holy place of pilgrimage one should select a place in which to perform yoga. The place must be level and not too high or low. There one should sit very comfortably, being steady and equipoised, keeping his body straight, and thus begin chanting the Vedic praṇava."
+}
+---
 ====== SB 7.15.31 ======
 
 ===== Text =====

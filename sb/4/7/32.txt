@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.7.32~~
-~~bc:Text 32~~
-
-{{description>King Indra said: My dear Lord, Your transcendental form with eight hands and weapons in each of them appears for the welfare of the entire universe, and it is very pleasing to the mind and eyes. In such a form, Your Lordship is always prepared to punish the demons, who are envious of Your devotees.}}
-
+---json
+{
+    "name":"SB 4.7.32",
+    "h1":"Text 32",
+    "title":" Śrīmad Bhāgavatam 4.7.32",
+    "description":"King Indra said: My dear Lord, Your transcendental form with eight hands and weapons in each of them appears for the welfare of the entire universe, and it is very pleasing to the mind and eyes. In such a form, Your Lordship is always prepared to punish the demons, who are envious of Your devotees."
+}
+---
 ====== SB 4.7.32 ======
 
 > इन्द्र उवाच

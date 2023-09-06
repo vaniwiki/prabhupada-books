@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.37-39~~
-~~bc:Text 37-39~~
-
-{{description>My dear King Yudhiṣṭhira, the demigods then approached the Lord. They were headed by Lord Brahmā, King Indra and Lord Śiva and included great saintly persons and the residents of Pitṛloka, Siddhaloka, Vidyādhara-loka and the planet of the snakes. The Manus approached, and so did the chiefs of various other planets. The angelic dancers approached, as did the Gandharvas, the Cāraṇas, the Yakṣas, the inhabitants of Kinnaraloka, the Vetālas, the inhabitants of Kimpuruṣa-loka, and the personal servants of Viṣṇu like Sunanda and Kumuda. All of them came near the Lord, who glowed with intense light. They individually offered their obeisances and prayers, their hands folded at their heads.}}
-
+---json
+{
+    "name":"SB 7.8.37-39",
+    "h1":"Text 37-39",
+    "title":" Śrīmad Bhāgavatam 7.8.37-39",
+    "description":"My dear King Yudhiṣṭhira, the demigods then approached the Lord. They were headed by Lord Brahmā, King Indra and Lord Śiva and included great saintly persons and the residents of Pitṛloka, Siddhaloka, Vidyādhara-loka and the planet of the snakes. The Manus approached, and so did the chiefs of various other planets. The angelic dancers approached, as did the Gandharvas, the Cāraṇas, the Yakṣas, the inhabitants of Kinnaraloka, the Vetālas, the inhabitants of Kimpuruṣa-loka, and the personal servants of Viṣṇu like Sunanda and Kumuda. All of them came near the Lord, who glowed with intense light. They individually offered their obeisances and prayers, their hands folded at their heads."
+}
+---
 ====== SB 7.8.37-39 ======
 
 ===== Text =====

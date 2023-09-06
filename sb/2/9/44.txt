@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.9.44~~
-~~bc:Text 44~~
-
-{{description>Thereupon the supplementary Vedic literature, Śrīmad-Bhāgavatam, which was described by the Personality of Godhead and which contains ten characteristics, was told with satisfaction by the father [Brahmā] to his son Nārada.}}
-
+---json
+{
+    "name":"SB 2.9.44",
+    "h1":"Text 44",
+    "title":" Śrīmad Bhāgavatam 2.9.44",
+    "description":"Thereupon the supplementary Vedic literature, Śrīmad-Bhāgavatam, which was described by the Personality of Godhead and which contains ten characteristics, was told with satisfaction by the father [Brahmā] to his son Nārada."
+}
+---
 ====== SB 2.9.44 ======
 
 > तस्मा इदं भागवतं पुराणं दशलक्षणम् ।

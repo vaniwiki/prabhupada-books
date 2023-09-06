@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.7.46~~
-~~bc:Text 46~~
-
-{{description>O most fortunate one who knows the principles of religion, it is not good for you to cause grief to glorious family members who are always respectable and worshipful.}}
-
+---json
+{
+    "name":"SB 1.7.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 1.7.46",
+    "description":"O most fortunate one who knows the principles of religion, it is not good for you to cause grief to glorious family members who are always respectable and worshipful."
+}
+---
 ====== SB 1.7.46 ======
 
 > तद्धर्मज्ञ महाभाग भवद्भिर्गौरवं कुलम् ।

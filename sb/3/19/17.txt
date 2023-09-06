@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.19.17~~
-~~bc:Text 17~~
-
-{{description>The demon, however, employed many conjuring tricks against the Personality of Godhead, who is the Lord of yogamāyā. At the sight of this the people were filled with alarm and thought that the dissolution of the universe was near.}}
-
+---json
+{
+    "name":"SB 3.19.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 3.19.17",
+    "description":"The demon, however, employed many conjuring tricks against the Personality of Godhead, who is the Lord of yogamāyā. At the sight of this the people were filled with alarm and thought that the dissolution of the universe was near."
+}
+---
 ====== SB 3.19.17 ======
 
 > अथोरुधासृजन्मायां योगमायेश्वरे हरौ ।

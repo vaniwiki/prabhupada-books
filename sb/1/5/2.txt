@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.5.2~~
-~~bc:Text 2~~
-
-{{description>Addressing Vyāsadeva, the son of Parāśara, Nārada inquired: Are you satisfied by identifying with the body or the mind as objects of self-realization?}}
-
+---json
+{
+    "name":"SB 1.5.2",
+    "h1":"Text 2",
+    "title":" Śrīmad Bhāgavatam 1.5.2",
+    "description":"Addressing Vyāsadeva, the son of Parāśara, Nārada inquired: Are you satisfied by identifying with the body or the mind as objects of self-realization?"
+}
+---
 ====== SB 1.5.2 ======
 
 > नारद उवाच

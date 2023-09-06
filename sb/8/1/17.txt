@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.1.17~~
-~~bc:Text 17~~
-
-{{description>Śukadeva Gosvāmī continued: Svāyambhuva Manu was thus in a trance, chanting the mantras of Vedic instruction known as the Upaniṣads. Upon seeing him, the Rākṣasas and asuras, being very hungry, wanted to devour him. Therefore they ran after him with great speed.}}
-
+---json
+{
+    "name":"SB 8.1.17",
+    "h1":"Text 17",
+    "title":" Śrīmad Bhāgavatam 8.1.17",
+    "description":"Śukadeva Gosvāmī continued: Svāyambhuva Manu was thus in a trance, chanting the mantras of Vedic instruction known as the Upaniṣads. Upon seeing him, the Rākṣasas and asuras, being very hungry, wanted to devour him. Therefore they ran after him with great speed."
+}
+---
 ====== SB 8.1.17 ======
 
 ===== Text =====

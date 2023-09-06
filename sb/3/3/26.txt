@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.3.26~~
-~~bc:Text 26~~
-
-{{description>After arriving there, all of them took bath, and with the water of this place of pilgrimage they offered their respects to the forefathers, demigods and great sages and thus satisfied them. They gave cows to the brāhmaṇas in royal charity.}}
-
+---json
+{
+    "name":"SB 3.3.26",
+    "h1":"Text 26",
+    "title":" Śrīmad Bhāgavatam 3.3.26",
+    "description":"After arriving there, all of them took bath, and with the water of this place of pilgrimage they offered their respects to the forefathers, demigods and great sages and thus satisfied them. They gave cows to the brāhmaṇas in royal charity."
+}
+---
 ====== SB 3.3.26 ======
 
 > तत्र स्नात्वा पित्न्देवानृषींश्चैव तदम्भसा ।

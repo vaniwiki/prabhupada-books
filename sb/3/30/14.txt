@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.30.14~~
-~~bc:Text 14~~
-
-{{description>The foolish family man does not become averse to family life although he is maintained by those whom he once maintained. Deformed by the influence of old age, he prepares himself to meet ultimate death.}}
-
+---json
+{
+    "name":"SB 3.30.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 3.30.14",
+    "description":"The foolish family man does not become averse to family life although he is maintained by those whom he once maintained. Deformed by the influence of old age, he prepares himself to meet ultimate death."
+}
+---
 ====== SB 3.30.14 ======
 
 > तत्राप्यजातनिर्वेदो भ्रियमाणः स्वयम्भृतैः ।

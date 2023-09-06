@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.23.20-21~~
-~~bc:Text 20-21~~
-
-{{description>Lord Brahmā [the master of King Dakṣa and all other Prajāpatis], accompanied by all the demigods, the great saintly persons, the inhabitants of Pitṛloka, the Manus, the munis, and such leaders as Dakṣa, Bhṛgu and Aṅgirā, as well as Kārttikeya and Lord Śiva, accepted Lord Vāmanadeva as the protector of everyone. He did this for the pleasure of Kaśyapa Muni and his wife Aditi and for the welfare of all the inhabitants of the universe, including their various leaders.}}
-
+---json
+{
+    "name":"SB 8.23.20-21",
+    "h1":"Text 20-21",
+    "title":" Śrīmad Bhāgavatam 8.23.20-21",
+    "description":"Lord Brahmā [the master of King Dakṣa and all other Prajāpatis], accompanied by all the demigods, the great saintly persons, the inhabitants of Pitṛloka, the Manus, the munis, and such leaders as Dakṣa, Bhṛgu and Aṅgirā, as well as Kārttikeya and Lord Śiva, accepted Lord Vāmanadeva as the protector of everyone. He did this for the pleasure of Kaśyapa Muni and his wife Aditi and for the welfare of all the inhabitants of the universe, including their various leaders."
+}
+---
 ====== SB 8.23.20-21 ======
 
 ===== Text =====

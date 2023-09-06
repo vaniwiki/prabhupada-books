@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.23.47~~
-~~bc:Text 47~~
-
-{{description>The powerful Kardama Muni was the knower of everyone's heart, and he could grant whatever one desired. Knowing the spiritual soul, he regarded her as half of his body. Dividing himself into nine forms, he impregnated Devahūti with nine discharges of semen.}}
-
+---json
+{
+    "name":"SB 3.23.47",
+    "h1":"Text 47",
+    "title":" Śrīmad Bhāgavatam 3.23.47",
+    "description":"The powerful Kardama Muni was the knower of everyone's heart, and he could grant whatever one desired. Knowing the spiritual soul, he regarded her as half of his body. Dividing himself into nine forms, he impregnated Devahūti with nine discharges of semen."
+}
+---
 ====== SB 3.23.47 ======
 
 > तस्यामाधत्त रेतस्तां भावयन्नात्मनात्मवित् ।

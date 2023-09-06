@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.10.15~~
-~~bc:Text 15~~
-
-{{description>My dear King Parīkṣit, as Rudra, being very angry at Antaka [Yamarāja] had formerly run toward Antaka to kill him, Indra angrily and with great force attacked Vṛtrāsura, who was surrounded by the leaders of the demoniac armies.}}
-
+---json
+{
+    "name":"SB 6.10.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 6.10.15",
+    "description":"My dear King Parīkṣit, as Rudra, being very angry at Antaka [Yamarāja] had formerly run toward Antaka to kill him, Indra angrily and with great force attacked Vṛtrāsura, who was surrounded by the leaders of the demoniac armies."
+}
+---
 ====== SB 6.10.15 ======
 
 ===== Text =====

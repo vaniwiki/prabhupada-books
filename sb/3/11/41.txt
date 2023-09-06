@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.41~~
-~~bc:Text 41~~
-
-{{description>The layers or elements covering the universes are each ten times thicker than the one before, and all the universes clustered together appear like atoms in a huge combination.}}
-
+---json
+{
+    "name":"SB 3.11.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 3.11.41",
+    "description":"The layers or elements covering the universes are each ten times thicker than the one before, and all the universes clustered together appear like atoms in a huge combination."
+}
+---
 ====== SB 3.11.41 ======
 
 > दशोत्तराधिकैर्यत्र प्रविष्टः परमाणुवत् ।

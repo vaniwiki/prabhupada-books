@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.14.46~~
-~~bc:Text 46~~
-
-{{description>After his [Niṣāda's] birth, he immediately took charge of all the resultant actions of King Vena's sinful activities. As such, this Naiṣāda class are always engaged in sinful activities like stealing, plundering and hunting. Consequently they are only allowed to live in the hills and forests.}}
-
+---json
+{
+    "name":"SB 4.14.46",
+    "h1":"Text 46",
+    "title":" Śrīmad Bhāgavatam 4.14.46",
+    "description":"After his [Niṣāda's] birth, he immediately took charge of all the resultant actions of King Vena's sinful activities. As such, this Naiṣāda class are always engaged in sinful activities like stealing, plundering and hunting. Consequently they are only allowed to live in the hills and forests."
+}
+---
 ====== SB 4.14.46 ======
 
 > तस्य वंश्यास्तु नैषादा गिरिकाननगोचराः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.5~~
-~~bc:Text 5~~
-
-{{description>Wandering in the forest of the material world, the conditioned soul sometimes hears an invisible cricket making harsh sounds, and his ears become very much aggrieved. Sometimes his heart is pained by the sounds of owls, which are just like the harsh words of his enemies. Sometimes he takes shelter of a tree that has no fruits or flowers. He approaches such a tree due to his strong appetite, and thus he suffers. He would like to acquire water, but he is simply illusioned by a mirage, and he runs after it.}}
-
+---json
+{
+    "name":"SB 5.13.5",
+    "h1":"Text 5",
+    "title":" Śrīmad Bhāgavatam 5.13.5",
+    "description":"Wandering in the forest of the material world, the conditioned soul sometimes hears an invisible cricket making harsh sounds, and his ears become very much aggrieved. Sometimes his heart is pained by the sounds of owls, which are just like the harsh words of his enemies. Sometimes he takes shelter of a tree that has no fruits or flowers. He approaches such a tree due to his strong appetite, and thus he suffers. He would like to acquire water, but he is simply illusioned by a mirage, and he runs after it."
+}
+---
 ====== SB 5.13.5 ======
 
 ===== Text =====

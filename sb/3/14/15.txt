@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.14.15~~
-~~bc:Text 15~~
-
-{{description>O lotus-eyed one, kindly bless me by fulfilling my desire. When someone in distress approaches a great person, his pleas should never go in vain.}}
-
+---json
+{
+    "name":"SB 3.14.15",
+    "h1":"Text 15",
+    "title":" Śrīmad Bhāgavatam 3.14.15",
+    "description":"O lotus-eyed one, kindly bless me by fulfilling my desire. When someone in distress approaches a great person, his pleas should never go in vain."
+}
+---
 ====== SB 3.14.15 ======
 
 > अथ मे कुरु कल्याणं कामं कमललोचन ।

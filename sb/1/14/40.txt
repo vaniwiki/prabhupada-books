@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.14.40~~
-~~bc:Text 40~~
-
-{{description>Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?}}
-
+---json
+{
+    "name":"SB 1.14.40",
+    "h1":"Text 40",
+    "title":" Śrīmad Bhāgavatam 1.14.40",
+    "description":"Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?"
+}
+---
 ====== SB 1.14.40 ======
 
 > कच्चिन्नाभिहतोऽभावैः शब्दादिभिरमङ्गलैः ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.4.14~~
-~~bc:Text 14~~
-
-{{description>Let me offer my respectful obeisances unto Him who is the associate of the members of the Yadu dynasty and who is always a problem for the nondevotees. He is the supreme enjoyer of both the material and spiritual worlds, yet He enjoys His own abode in the spiritual sky. There is no one equal to Him because His transcendental opulence is immeasurable.}}
-
+---json
+{
+    "name":"SB 2.4.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 2.4.14",
+    "description":"Let me offer my respectful obeisances unto Him who is the associate of the members of the Yadu dynasty and who is always a problem for the nondevotees. He is the supreme enjoyer of both the material and spiritual worlds, yet He enjoys His own abode in the spiritual sky. There is no one equal to Him because His transcendental opulence is immeasurable."
+}
+---
 ====== SB 2.4.14 ======
 
 > नमो नमस्तेऽस्त्वृषभाय सात्वतां विदूरकाष्ठाय मुहुः कुयोगिनाम् ।

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.16.56~~
-~~bc:Text 56~~
-
-{{description>One should distribute viṣṇu-prasāda to everyone, including the poor man, the blind man, the nondevotee and the non-brāhmaṇa. Knowing that Lord Viṣṇu is very pleased when everyone is sumptuously fed with viṣṇu-prasāda, the performer of yajña should then take prasāda with his friends and relatives.}}
-
+---json
+{
+    "name":"SB 8.16.56",
+    "h1":"Text 56",
+    "title":" Śrīmad Bhāgavatam 8.16.56",
+    "description":"One should distribute viṣṇu-prasāda to everyone, including the poor man, the blind man, the nondevotee and the non-brāhmaṇa. Knowing that Lord Viṣṇu is very pleased when everyone is sumptuously fed with viṣṇu-prasāda, the performer of yajña should then take prasāda with his friends and relatives."
+}
+---
 ====== SB 8.16.56 ======
 
 ===== Text =====

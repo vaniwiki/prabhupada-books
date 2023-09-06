@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.25.42~~
-~~bc:Text 42~~
-
-{{description>O mighty-armed, who in this world will not be attracted by your arms, which are just like the bodies of serpents? Actually you relieve the distress of husbandless women like us by your attractive smile and your aggressive mercy. We think that you are traveling on the surface of the earth just to benefit us only.}}
-
+---json
+{
+    "name":"SB 4.25.42",
+    "h1":"Text 42",
+    "title":" Śrīmad Bhāgavatam 4.25.42",
+    "description":"O mighty-armed, who in this world will not be attracted by your arms, which are just like the bodies of serpents? Actually you relieve the distress of husbandless women like us by your attractive smile and your aggressive mercy. We think that you are traveling on the surface of the earth just to benefit us only."
+}
+---
 ====== SB 4.25.42 ======
 
 > कस्या मनस्ते भुवि भोगिभोगयोः स्त्रिया न सज्जेद्भुजयोर्महाभुज ।

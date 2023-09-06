@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 1.11.6~~
-~~bc:Text 6~~
-
-{{description>The citizens said: O Lord, You are worshiped by all demigods like Brahmā, the four Sanas and even the King of heaven. You are the ultimate rest for those who are really aspiring to achieve the highest benefit of life. You are the supreme transcendental Lord, and inevitable time cannot exert its influence upon You.}}
-
+---json
+{
+    "name":"SB 1.11.6",
+    "h1":"Text 6",
+    "title":" Śrīmad Bhāgavatam 1.11.6",
+    "description":"The citizens said: O Lord, You are worshiped by all demigods like Brahmā, the four Sanas and even the King of heaven. You are the ultimate rest for those who are really aspiring to achieve the highest benefit of life. You are the supreme transcendental Lord, and inevitable time cannot exert its influence upon You."
+}
+---
 ====== SB 1.11.6 ======
 
 > नताः स्म ते नाथ सदाङ्घ्रिपङ्कजं विरिञ्चवैरिञ्च्यसुरेन्द्रवन्दितम् ।

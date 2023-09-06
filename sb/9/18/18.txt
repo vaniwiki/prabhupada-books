@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.18.18~~
-~~bc:Text 18~~
-
-{{description>After throwing Devayānī into the well, Śarmiṣṭhā went home. Meanwhile, King Yayāti, while engaged in a hunting excursion, went to the well to drink water and by chance saw Devayānī.}}
-
+---json
+{
+    "name":"SB 9.18.18",
+    "h1":"Text 18",
+    "title":" Śrīmad Bhāgavatam 9.18.18",
+    "description":"After throwing Devayānī into the well, Śarmiṣṭhā went home. Meanwhile, King Yayāti, while engaged in a hunting excursion, went to the well to drink water and by chance saw Devayānī."
+}
+---
 ====== SB 9.18.18 ======
 
 ===== Text =====

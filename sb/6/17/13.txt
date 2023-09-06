@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.17.13~~
-~~bc:Text 13~~
-
-{{description>This Citraketu is the lowest of kṣatriyas, for he has impudently overridden Brahmā and the other demigods by insulting Lord Śiva, upon whose lotus feet they always meditate. Lord Śiva is personified religion and the spiritual master of the entire world, and therefore Citraketu must be punished.}}
-
+---json
+{
+    "name":"SB 6.17.13",
+    "h1":"Text 13",
+    "title":" Śrīmad Bhāgavatam 6.17.13",
+    "description":"This Citraketu is the lowest of kṣatriyas, for he has impudently overridden Brahmā and the other demigods by insulting Lord Śiva, upon whose lotus feet they always meditate. Lord Śiva is personified religion and the spiritual master of the entire world, and therefore Citraketu must be punished."
+}
+---
 ====== SB 6.17.13 ======
 
 ===== Text =====

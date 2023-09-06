@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.6.24~~
-~~bc:Text 24~~
-
-{{description>After that, the heart of the gigantic form separately manifested itself, and into it entered the moon demigod with partial mental activity. Thus the living entity can conduct his mental speculations.}}
-
+---json
+{
+    "name":"SB 3.6.24",
+    "h1":"Text 24",
+    "title":" Śrīmad Bhāgavatam 3.6.24",
+    "description":"After that, the heart of the gigantic form separately manifested itself, and into it entered the moon demigod with partial mental activity. Thus the living entity can conduct his mental speculations."
+}
+---
 ====== SB 3.6.24 ======
 
 > हृदयं चास्य निर्भिन्नं चन्द्रमा धिष्ण्यमाविशत् ।

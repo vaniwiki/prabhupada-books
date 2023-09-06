@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.16~~
-~~bc:Text 16~~
-
-{{description>When, by mature understanding, one can realize his individuality, then the situation he accepts under false ego becomes manifest to him.}}
-
+---json
+{
+    "name":"SB 3.27.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 3.27.16",
+    "description":"When, by mature understanding, one can realize his individuality, then the situation he accepts under false ego becomes manifest to him."
+}
+---
 ====== SB 3.27.16 ======
 
 > एवं प्रत्यवमृश्यासावात्मानं प्रतिपद्यते ।

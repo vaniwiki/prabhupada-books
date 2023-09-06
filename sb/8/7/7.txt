@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.7~~
-~~bc:Text 7~~
-
-{{description>Because the mountain had been sunk by the strength of providence, the demigods and demons were disappointed, and their faces seemed to shrivel.}}
-
+---json
+{
+    "name":"SB 8.7.7",
+    "h1":"Text 7",
+    "title":" Śrīmad Bhāgavatam 8.7.7",
+    "description":"Because the mountain had been sunk by the strength of providence, the demigods and demons were disappointed, and their faces seemed to shrivel."
+}
+---
 ====== SB 8.7.7 ======
 
 ===== Text =====

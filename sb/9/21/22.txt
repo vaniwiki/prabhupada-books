@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.21.22~~
-~~bc:Text 22~~
-
-{{description>From Ajamīḍha came a son named Bṛhadiṣu, from Bṛhadiṣu came a son named Bṛhaddhanu, from Bṛhaddhanu a son named Bṛhatkāya, and from Bṛhatkāya a son named Jayadratha.}}
-
+---json
+{
+    "name":"SB 9.21.22",
+    "h1":"Text 22",
+    "title":" Śrīmad Bhāgavatam 9.21.22",
+    "description":"From Ajamīḍha came a son named Bṛhadiṣu, from Bṛhadiṣu came a son named Bṛhaddhanu, from Bṛhaddhanu a son named Bṛhatkāya, and from Bṛhatkāya a son named Jayadratha."
+}
+---
 ====== SB 9.21.22 ======
 
 ===== Text =====

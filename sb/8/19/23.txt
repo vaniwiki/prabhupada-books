@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.19.23~~
-~~bc:Text 23~~
-
-{{description>We have heard that although powerful kings like Mahārāja Pṛthu and Mahārāja Gaya achieved proprietorship over the seven dvīpas, they could not achieve satisfaction or find the end of their ambitions.}}
-
+---json
+{
+    "name":"SB 8.19.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 8.19.23",
+    "description":"We have heard that although powerful kings like Mahārāja Pṛthu and Mahārāja Gaya achieved proprietorship over the seven dvīpas, they could not achieve satisfaction or find the end of their ambitions."
+}
+---
 ====== SB 8.19.23 ======
 
 ===== Text =====

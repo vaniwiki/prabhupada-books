@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.30~~
-~~bc:Text 30~~
-
-{{description>As far as the sun and moon shine with the stars and as far as the clouds pour rain, all the land throughout the universe is in your possession.}}
-
+---json
+{
+    "name":"SB 8.21.30",
+    "h1":"Text 30",
+    "title":" Śrīmad Bhāgavatam 8.21.30",
+    "description":"As far as the sun and moon shine with the stars and as far as the clouds pour rain, all the land throughout the universe is in your possession."
+}
+---
 ====== SB 8.21.30 ======
 
 ===== Text =====

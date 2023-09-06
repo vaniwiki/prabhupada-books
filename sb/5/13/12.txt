@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.12~~
-~~bc:Text 12~~
-
-{{description>On the forest path of material existence, sometimes a person is without wealth and due to this does not have a proper home, bed or sitting place, nor proper family enjoyment. He therefore goes to beg money from others, but when his desires are not fulfilled by begging, he wants to borrow or steal the property of others. Thus he is insulted in society.}}
-
+---json
+{
+    "name":"SB 5.13.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 5.13.12",
+    "description":"On the forest path of material existence, sometimes a person is without wealth and due to this does not have a proper home, bed or sitting place, nor proper family enjoyment. He therefore goes to beg money from others, but when his desires are not fulfilled by begging, he wants to borrow or steal the property of others. Thus he is insulted in society."
+}
+---
 ====== SB 5.13.12 ======
 
 ===== Text =====

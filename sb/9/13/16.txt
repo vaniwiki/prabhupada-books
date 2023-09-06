@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 9.13.16~~
-~~bc:Text 16~~
-
-{{description>The son of Maru was Pratīpaka, and the son of Pratīpaka was Kṛtaratha. From Kṛtaratha came Devamīḍha; from Devamīḍha, Viśruta; and from Viśruta, Mahādhṛti.}}
-
+---json
+{
+    "name":"SB 9.13.16",
+    "h1":"Text 16",
+    "title":" Śrīmad Bhāgavatam 9.13.16",
+    "description":"The son of Maru was Pratīpaka, and the son of Pratīpaka was Kṛtaratha. From Kṛtaratha came Devamīḍha; from Devamīḍha, Viśruta; and from Viśruta, Mahādhṛti."
+}
+---
 ====== SB 9.13.16 ======
 
 ===== Text =====

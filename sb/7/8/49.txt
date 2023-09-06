@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.8.49~~
-~~bc:Text 49~~
-
-{{description>The prajāpatis offered their prayers as follows: O Supreme Lord, Lord of even Brahmā and Śiva, we, the prajāpatis, were created by You to execute Your orders, but we were forbidden by Hiraṇyakaśipu to create any more good progeny. Now the demon is lying dead before us, his chest pierced by You. Let us therefore offer our respectful obeisances unto You, whose incarnation in this form of pure goodness is meant for the welfare of the entire universe.}}
-
+---json
+{
+    "name":"SB 7.8.49",
+    "h1":"Text 49",
+    "title":" Śrīmad Bhāgavatam 7.8.49",
+    "description":"The prajāpatis offered their prayers as follows: O Supreme Lord, Lord of even Brahmā and Śiva, we, the prajāpatis, were created by You to execute Your orders, but we were forbidden by Hiraṇyakaśipu to create any more good progeny. Now the demon is lying dead before us, his chest pierced by You. Let us therefore offer our respectful obeisances unto You, whose incarnation in this form of pure goodness is meant for the welfare of the entire universe."
+}
+---
 ====== SB 7.8.49 ======
 
 ===== Text =====

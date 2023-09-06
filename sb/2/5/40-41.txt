@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.40-41~~
-~~bc:Text 40-41~~
-
-{{description>My dear son Nārada, know from me that there are seven lower planetary systems out of the total fourteen. The first planetary system, known as Atala, is situated on the waist; the second, Vitala, is situated on the thighs; the third, Sutala, on the knees; the fourth, Talātala, on the shanks; the fifth, Mahātala, on the ankles; the sixth, Rasātala, on the upper portion of the feet; and the seventh, Pātāla, on the soles of the feet. Thus the virāṭ form of the Lord is full of all planetary systems.}}
-
+---json
+{
+    "name":"SB 2.5.40-41",
+    "h1":"Text 40-41",
+    "title":" Śrīmad Bhāgavatam 2.5.40-41",
+    "description":"My dear son Nārada, know from me that there are seven lower planetary systems out of the total fourteen. The first planetary system, known as Atala, is situated on the waist; the second, Vitala, is situated on the thighs; the third, Sutala, on the knees; the fourth, Talātala, on the shanks; the fifth, Mahātala, on the ankles; the sixth, Rasātala, on the upper portion of the feet; and the seventh, Pātāla, on the soles of the feet. Thus the virāṭ form of the Lord is full of all planetary systems."
+}
+---
 ====== SB 2.5.40-41 ======
 
 > तत्कट्यां चातलं कॢप्तमूरुभ्यां वितलं विभोः ।

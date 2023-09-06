@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.21.37~~
-~~bc:Text 37~~
-
-{{description>O Vidura, they reached the hermitage of the sage, who had just completed his vows of austerity on the very day foretold by the Lord.}}
-
+---json
+{
+    "name":"SB 3.21.37",
+    "h1":"Text 37",
+    "title":" Śrīmad Bhāgavatam 3.21.37",
+    "description":"O Vidura, they reached the hermitage of the sage, who had just completed his vows of austerity on the very day foretold by the Lord."
+}
+---
 ====== SB 3.21.37 ======
 
 > तस्मिन्सुधन्वन्नहनि भगवान्यत्समादिशत् ।

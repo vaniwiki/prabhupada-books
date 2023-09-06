@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.20.45~~
-~~bc:Text 45~~
-
-{{description>One day, Brahmā, the creator of the living entities, beheld his own reflection in the water, and admiring himself, he evolved Kimpuruṣas as well as Kinnaras out of that reflection.}}
-
+---json
+{
+    "name":"SB 3.20.45",
+    "h1":"Text 45",
+    "title":" Śrīmad Bhāgavatam 3.20.45",
+    "description":"One day, Brahmā, the creator of the living entities, beheld his own reflection in the water, and admiring himself, he evolved Kimpuruṣas as well as Kinnaras out of that reflection."
+}
+---
 ====== SB 3.20.45 ======
 
 > स किन्नरान्किम्पुरुषान्प्रत्यात्म्येनासृजत्प्रभुः ।

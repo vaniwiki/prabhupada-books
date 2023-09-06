@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.9.31~~
-~~bc:Text 31~~
-
-{{description>Alas, just look at me! I am so unfortunate. I approached the lotus feet of the Supreme Personality of Godhead, who can immediately cut the chain of the repetition of birth and death, but still, out of my foolishness, I prayed for things which are perishable.}}
-
+---json
+{
+    "name":"SB 4.9.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.9.31",
+    "description":"Alas, just look at me! I am so unfortunate. I approached the lotus feet of the Supreme Personality of Godhead, who can immediately cut the chain of the repetition of birth and death, but still, out of my foolishness, I prayed for things which are perishable."
+}
+---
 ====== SB 4.9.31 ======
 
 > अहो बत ममानात्म्यं मन्दभाग्यस्य पश्यत ।

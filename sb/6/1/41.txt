@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.1.41~~
-~~bc:Text 41~~
-
-{{description>The supreme cause of all causes, Nārāyaṇa, is situated in His own abode in the spiritual world, but nevertheless He controls the entire cosmic manifestation according to the three modes of material nature-sattva-guṇa, rajo-guṇa and tamo-guṇa. In this way all living entities are awarded different qualities, different names [such as brāhmaṇa, kṣatriya and vaiśya], different duties according to the varṇāśrama institution, and different forms. Thus Nārāyaṇa is the cause of the entire cosmic manifestation.}}
-
+---json
+{
+    "name":"SB 6.1.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 6.1.41",
+    "description":"The supreme cause of all causes, Nārāyaṇa, is situated in His own abode in the spiritual world, but nevertheless He controls the entire cosmic manifestation according to the three modes of material nature-sattva-guṇa, rajo-guṇa and tamo-guṇa. In this way all living entities are awarded different qualities, different names [such as brāhmaṇa, kṣatriya and vaiśya], different duties according to the varṇāśrama institution, and different forms. Thus Nārāyaṇa is the cause of the entire cosmic manifestation."
+}
+---
 ====== SB 6.1.41 ======
 
 ===== Text =====

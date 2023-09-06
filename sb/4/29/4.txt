@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.29.4~~
-~~bc:Text 4~~
-
-{{description>When the living entity wants to enjoy the modes of material nature in their totality, he prefers, out of many bodily forms, to accept that body which has nine gates, two hands and two legs. Thus he prefers to become a human being or a demigod.}}
-
+---json
+{
+    "name":"SB 4.29.4",
+    "h1":"Text 4",
+    "title":" Śrīmad Bhāgavatam 4.29.4",
+    "description":"When the living entity wants to enjoy the modes of material nature in their totality, he prefers, out of many bodily forms, to accept that body which has nine gates, two hands and two legs. Thus he prefers to become a human being or a demigod."
+}
+---
 ====== SB 4.29.4 ======
 
 > यदा जिघृक्षन्पुरुषः कार्त्स्न्येन प्रकृतेर्गुणान् ।

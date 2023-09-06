@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.9~~
-~~bc:Text 9~~
-
-{{description>Prahlāda Mahārāja continued: One may possess wealth, an aristocratic family, beauty, austerity, education, sensory expertise, luster, influence, physical strength, diligence, intelligence and mystic yogic power, but I think that even by all these qualifications one cannot satisfy the Supreme Personality of Godhead. However, one can satisfy the Lord simply by devotional service. Gajendra did this, and thus the Lord was satisfied with him.}}
-
+---json
+{
+    "name":"SB 7.9.9",
+    "h1":"Text 9",
+    "title":" Śrīmad Bhāgavatam 7.9.9",
+    "description":"Prahlāda Mahārāja continued: One may possess wealth, an aristocratic family, beauty, austerity, education, sensory expertise, luster, influence, physical strength, diligence, intelligence and mystic yogic power, but I think that even by all these qualifications one cannot satisfy the Supreme Personality of Godhead. However, one can satisfy the Lord simply by devotional service. Gajendra did this, and thus the Lord was satisfied with him."
+}
+---
 ====== SB 7.9.9 ======
 
 ===== Text =====

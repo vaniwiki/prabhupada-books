@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.13.8~~
-~~bc:Text 8~~
-
-{{description>Sometimes the merchant in the forest wants to climb the hills and mountains, but due to insufficient footwear, his feet are pricked by small stone fragments and by thorns on the mountain. Being pricked by them, he becomes very aggrieved. Sometimes a person who is very attached to his family becomes overwhelmed with hunger, and due to his miserable condition he becomes furious with his family members.}}
-
+---json
+{
+    "name":"SB 5.13.8",
+    "h1":"Text 8",
+    "title":" Śrīmad Bhāgavatam 5.13.8",
+    "description":"Sometimes the merchant in the forest wants to climb the hills and mountains, but due to insufficient footwear, his feet are pricked by small stone fragments and by thorns on the mountain. Being pricked by them, he becomes very aggrieved. Sometimes a person who is very attached to his family becomes overwhelmed with hunger, and due to his miserable condition he becomes furious with his family members."
+}
+---
 ====== SB 5.13.8 ======
 
 ===== Text =====

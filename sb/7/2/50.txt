@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.2.50~~
-~~bc:Text 50~~
-
-{{description>There was once a hunter who lured birds with food and captured them after spreading a net. He lived as if appointed by death personified as the killer of the birds.}}
-
+---json
+{
+    "name":"SB 7.2.50",
+    "h1":"Text 50",
+    "title":" Śrīmad Bhāgavatam 7.2.50",
+    "description":"There was once a hunter who lured birds with food and captured them after spreading a net. He lived as if appointed by death personified as the killer of the birds."
+}
+---
 ====== SB 7.2.50 ======
 
 ===== Text =====

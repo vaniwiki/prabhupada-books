@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.27.12~~
-~~bc:Text 12~~
-
-{{description>The presence of the Supreme Lord can be realized just as the sun is realized first as a reflection on water, and again as a second reflection on the wall of a room, although the sun itself is situated in the sky.}}
-
+---json
+{
+    "name":"SB 3.27.12",
+    "h1":"Text 12",
+    "title":" Śrīmad Bhāgavatam 3.27.12",
+    "description":"The presence of the Supreme Lord can be realized just as the sun is realized first as a reflection on water, and again as a second reflection on the wall of a room, although the sun itself is situated in the sky."
+}
+---
 ====== SB 3.27.12 ======
 
 > यथा जलस्थ आभासः स्थलस्थेनावदृश्यते ।

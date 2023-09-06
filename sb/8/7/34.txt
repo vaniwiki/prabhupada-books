@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.7.34~~
-~~bc:Text 34~~
-
-{{description>Even personalities like Lord Brahmā and other demigods cannot understand your position, for you are beyond the moving and nonmoving creation. Since no one can understand you in truth, how can one offer you prayers? It is impossible. As far as we are concerned, we are creatures of Lord Brahmā's creation. Under the circumstances, therefore, we cannot offer you adequate prayers, but as far as our ability allows, we have expressed our feelings.}}
-
+---json
+{
+    "name":"SB 8.7.34",
+    "h1":"Text 34",
+    "title":" Śrīmad Bhāgavatam 8.7.34",
+    "description":"Even personalities like Lord Brahmā and other demigods cannot understand your position, for you are beyond the moving and nonmoving creation. Since no one can understand you in truth, how can one offer you prayers? It is impossible. As far as we are concerned, we are creatures of Lord Brahmā's creation. Under the circumstances, therefore, we cannot offer you adequate prayers, but as far as our ability allows, we have expressed our feelings."
+}
+---
 ====== SB 8.7.34 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.12.20~~
-~~bc:Text 20~~
-
-{{description>Śrī Maitreya said: Thus Rudra, having been ordered by Brahmā, circumambulated his father, the master of the Vedas. Addressing him with words of assent, he entered the forest to perform austere penances.}}
-
+---json
+{
+    "name":"SB 3.12.20",
+    "h1":"Text 20",
+    "title":" Śrīmad Bhāgavatam 3.12.20",
+    "description":"Śrī Maitreya said: Thus Rudra, having been ordered by Brahmā, circumambulated his father, the master of the Vedas. Addressing him with words of assent, he entered the forest to perform austere penances."
+}
+---
 ====== SB 3.12.20 ======
 
 > मैत्रेय उवाच

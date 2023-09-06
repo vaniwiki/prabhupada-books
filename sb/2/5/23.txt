@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 2.5.23~~
-~~bc:Text 23~~
-
-{{description>Material activities are caused by the mahat—tattva's being agitated. At first there is transformation of the modes of goodness and passion, and later—due to the mode of ignorance-matter, its knowledge, and different activities of material knowledge come into play.}}
-
+---json
+{
+    "name":"SB 2.5.23",
+    "h1":"Text 23",
+    "title":" Śrīmad Bhāgavatam 2.5.23",
+    "description":"Material activities are caused by the mahat—tattva's being agitated. At first there is transformation of the modes of goodness and passion, and later—due to the mode of ignorance-matter, its knowledge, and different activities of material knowledge come into play."
+}
+---
 ====== SB 2.5.23 ======
 
 > महतस्तु विकुर्वाणाद्रजःसत्त्वोपबृंहितात् ।

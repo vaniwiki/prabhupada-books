@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 5.12.1~~
-~~bc:Text 1~~
-
-{{description>King Rahūgaṇa said: O most exalted personality, you are not different from the Supreme Personality of Godhead. By the influence of your true self, all kinds of contradiction in the śāstras have been removed. In the dress of a friend of a brāhmaṇa, you are hiding your transcendental blissful position. I offer my respectful obeisances unto you.}}
-
+---json
+{
+    "name":"SB 5.12.1",
+    "h1":"Text 1",
+    "title":" Śrīmad Bhāgavatam 5.12.1",
+    "description":"King Rahūgaṇa said: O most exalted personality, you are not different from the Supreme Personality of Godhead. By the influence of your true self, all kinds of contradiction in the śāstras have been removed. In the dress of a friend of a brāhmaṇa, you are hiding your transcendental blissful position. I offer my respectful obeisances unto you."
+}
+---
 ====== SB 5.12.1 ======
 
 ===== Text =====

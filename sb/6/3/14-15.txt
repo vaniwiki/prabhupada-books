@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 6.3.14-15~~
-~~bc:Text 14-15~~
-
-{{description>I, Yamarāja; Indra, the King of heaven; Nirṛti; Varuṇa; Candra, the moon-god; Agni; Lord Śiva; Pavana; Lord Brahmā; Sūrya, the sun-god; Viśvāsu; the eight Vasus; the Sādhyas; the Maruts; the Rudras; the Siddhas; and Marīci and the other great ṛṣis engaged in maintaining the departmental affairs of the universe, as well as the best of the demigods headed by Bṛhaspati, and the great sages headed by Bhṛgu are all certainly freed from the influence of the two base material modes of nature, namely passion and ignorance. Nevertheless, although we are in the mode of goodness, we cannot understand the activities of the Supreme Personality of Godhead. What, then, is to be said of others, who, under illusion, merely speculate to know God?}}
-
+---json
+{
+    "name":"SB 6.3.14-15",
+    "h1":"Text 14-15",
+    "title":" Śrīmad Bhāgavatam 6.3.14-15",
+    "description":"I, Yamarāja; Indra, the King of heaven; Nirṛti; Varuṇa; Candra, the moon-god; Agni; Lord Śiva; Pavana; Lord Brahmā; Sūrya, the sun-god; Viśvāsu; the eight Vasus; the Sādhyas; the Maruts; the Rudras; the Siddhas; and Marīci and the other great ṛṣis engaged in maintaining the departmental affairs of the universe, as well as the best of the demigods headed by Bṛhaspati, and the great sages headed by Bhṛgu are all certainly freed from the influence of the two base material modes of nature, namely passion and ignorance. Nevertheless, although we are in the mode of goodness, we cannot understand the activities of the Supreme Personality of Godhead. What, then, is to be said of others, who, under illusion, merely speculate to know God?"
+}
+---
 ====== SB 6.3.14-15 ======
 
 ===== Text =====

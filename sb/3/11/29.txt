@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 3.11.29~~
-~~bc:Text 29~~
-
-{{description>When the night of Brahmā ensues, all the three worlds are out of sight, and the sun and the moon are without glare, just as in the due course of an ordinary night.}}
-
+---json
+{
+    "name":"SB 3.11.29",
+    "h1":"Text 29",
+    "title":" Śrīmad Bhāgavatam 3.11.29",
+    "description":"When the night of Brahmā ensues, all the three worlds are out of sight, and the sun and the moon are without glare, just as in the due course of an ordinary night."
+}
+---
 ====== SB 3.11.29 ======
 
 > तमेवान्वपि धीयन्ते लोका भूरादयस्त्रयः ।

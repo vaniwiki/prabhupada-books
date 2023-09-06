@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.28.31~~
-~~bc:Text 31~~
-
-{{description>My dear King Prācīnabarhiṣat, the sons of Malayadhvaja gave birth to many thousands and thousands of sons, and all of these have been protecting the entire world up to the end of one Manu's life-span and even afterward.}}
-
+---json
+{
+    "name":"SB 4.28.31",
+    "h1":"Text 31",
+    "title":" Śrīmad Bhāgavatam 4.28.31",
+    "description":"My dear King Prācīnabarhiṣat, the sons of Malayadhvaja gave birth to many thousands and thousands of sons, and all of these have been protecting the entire world up to the end of one Manu's life-span and even afterward."
+}
+---
 ====== SB 4.28.31 ======
 
 > एकैकस्याभवत्तेषां राजन्नर्बुदमर्बुदम् ।

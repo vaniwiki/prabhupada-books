@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.21.14~~
-~~bc:Text 14~~
-
-{{description>O King, the demons, aggravated by their usual anger, took their lances and tridents in hand, and against the will of Bali Mahārāja they pushed forward to kill Lord Vāmanadeva.}}
-
+---json
+{
+    "name":"SB 8.21.14",
+    "h1":"Text 14",
+    "title":" Śrīmad Bhāgavatam 8.21.14",
+    "description":"O King, the demons, aggravated by their usual anger, took their lances and tridents in hand, and against the will of Bali Mahārāja they pushed forward to kill Lord Vāmanadeva."
+}
+---
 ====== SB 8.21.14 ======
 
 ===== Text =====

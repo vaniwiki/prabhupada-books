@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 4.8.63~~
-~~bc:Text 63~~
-
-{{description>After Dhruva entered Madhuvana Forest to execute devotional service, the great sage Nārada thought it wise to go to the King to see how he was faring within the palace. When Nārada Muni approached, the King received him properly, offering him due obeisances. After being seated comfortably, Nārada began to speak.}}
-
+---json
+{
+    "name":"SB 4.8.63",
+    "h1":"Text 63",
+    "title":" Śrīmad Bhāgavatam 4.8.63",
+    "description":"After Dhruva entered Madhuvana Forest to execute devotional service, the great sage Nārada thought it wise to go to the King to see how he was faring within the palace. When Nārada Muni approached, the King received him properly, offering him due obeisances. After being seated comfortably, Nārada began to speak."
+}
+---
 ====== SB 4.8.63 ======
 
 > तपोवनं गते तस्मिन्प्रविष्टोऽन्तःपुरं मुनिः ।

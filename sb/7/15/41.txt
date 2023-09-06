@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.15.41~~
-~~bc:Text 41~~
-
-{{description>Transcendentalists who are advanced in knowledge compare the body, which is made by the order of the Supreme Personality of Godhead, to a chariot. The senses are like the horses; the mind, the master of the senses, is like the reins; the objects of the senses are the destinations; intelligence is the chariot driver; and consciousness, which spreads throughout the body, is the cause of bondage in this material world.}}
-
+---json
+{
+    "name":"SB 7.15.41",
+    "h1":"Text 41",
+    "title":" Śrīmad Bhāgavatam 7.15.41",
+    "description":"Transcendentalists who are advanced in knowledge compare the body, which is made by the order of the Supreme Personality of Godhead, to a chariot. The senses are like the horses; the mind, the master of the senses, is like the reins; the objects of the senses are the destinations; intelligence is the chariot driver; and consciousness, which spreads throughout the body, is the cause of bondage in this material world."
+}
+---
 ====== SB 7.15.41 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 7.9.51~~
-~~bc:Text 51~~
-
-{{description>The great saint Nārada said: Thus Lord Nṛsiṁhadeva was pacified by the devotee Prahlāda Mahārāja with prayers offered from the transcendental platform. The Lord gave up His anger, and being very kind to Prahlāda, who was offering prostrated obeisances, He spoke as follows.}}
-
+---json
+{
+    "name":"SB 7.9.51",
+    "h1":"Text 51",
+    "title":" Śrīmad Bhāgavatam 7.9.51",
+    "description":"The great saint Nārada said: Thus Lord Nṛsiṁhadeva was pacified by the devotee Prahlāda Mahārāja with prayers offered from the transcendental platform. The Lord gave up His anger, and being very kind to Prahlāda, who was offering prostrated obeisances, He spoke as follows."
+}
+---
 ====== SB 7.9.51 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title: Śrīmad Bhāgavatam 8.11.28~~
-~~bc:Text 28~~
-
-{{description>O King Parīkṣit, King Indra used his thunderbolt to cut off the heads of both Bala and Pāka in the presence of all their relatives and followers. In this way he created a very fearful atmosphere on the battlefield.}}
-
+---json
+{
+    "name":"SB 8.11.28",
+    "h1":"Text 28",
+    "title":" Śrīmad Bhāgavatam 8.11.28",
+    "description":"O King Parīkṣit, King Indra used his thunderbolt to cut off the heads of both Bala and Pāka in the presence of all their relatives and followers. In this way he created a very fearful atmosphere on the battlefield."
+}
+---
 ====== SB 8.11.28 ======
 
 ===== Text =====

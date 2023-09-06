@@ -13,28 +13,28 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
 
 ===== Table of contents =====
 
-  - [[books:sb:1:1|Questions by the Sages]]
-  - [[books:sb:1:2|Divinity and Divine Service]]
-  - [[books:sb:1:3|Kṛṣṇa Is the Source of All Incarnations]]
-  - [[books:sb:1:4|The Appearance of Śrī Nārada]]
-  - [[books:sb:1:5|Nārada's Instructions on Śrīmad-Bhāgavatam for Vyāsadeva]]
-  - [[books:sb:1:6|Conversation Between Nārada and Vyāsadeva]]
-  - [[books:sb:1:7|The Son of Droṇa Punished]]
-  - [[books:sb:1:8|Prayers by Queen Kuntī and Parīkṣit Saved]]
-  - [[books:sb:1:9|The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa]]
-  - [[books:sb:1:10|Departure of Lord Kṛṣṇa for Dvārakā]]
-  - [[books:sb:1:11|Lord Kṛṣṇa's Entrance into Dvārakā]]
-  - [[books:sb:1:12|Birth of Emperor Parīkṣit]]
-  - [[books:sb:1:13|Dhṛtarāṣṭra Quits Home]]
-  - [[books:sb:1:14|The Disappearance of Lord Kṛṣṇa]]
-  - [[books:sb:1:15|The Pāṇḍavas Retire Timely]]
-  - [[books:sb:1:16|How Parīkṣit Received the Age of Kali]]
-  - [[books:sb:1:17|Punishment and Reward of Kali]]
-  - [[books:sb:1:18|Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy]]
-  - [[books:sb:1:19|The Appearance of Śukadeva Gosvāmī]]
+  - [[:books:sb:1:1|Questions by the Sages]]
+  - [[:books:sb:1:2|Divinity and Divine Service]]
+  - [[:books:sb:1:3|Kṛṣṇa Is the Source of All Incarnations]]
+  - [[:books:sb:1:4|The Appearance of Śrī Nārada]]
+  - [[:books:sb:1:5|Nārada's Instructions on Śrīmad-Bhāgavatam for Vyāsadeva]]
+  - [[:books:sb:1:6|Conversation Between Nārada and Vyāsadeva]]
+  - [[:books:sb:1:7|The Son of Droṇa Punished]]
+  - [[:books:sb:1:8|Prayers by Queen Kuntī and Parīkṣit Saved]]
+  - [[:books:sb:1:9|The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa]]
+  - [[:books:sb:1:10|Departure of Lord Kṛṣṇa for Dvārakā]]
+  - [[:books:sb:1:11|Lord Kṛṣṇa's Entrance into Dvārakā]]
+  - [[:books:sb:1:12|Birth of Emperor Parīkṣit]]
+  - [[:books:sb:1:13|Dhṛtarāṣṭra Quits Home]]
+  - [[:books:sb:1:14|The Disappearance of Lord Kṛṣṇa]]
+  - [[:books:sb:1:15|The Pāṇḍavas Retire Timely]]
+  - [[:books:sb:1:16|How Parīkṣit Received the Age of Kali]]
+  - [[:books:sb:1:17|Punishment and Reward of Kali]]
+  - [[:books:sb:1:18|Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy]]
+  - [[:books:sb:1:19|The Appearance of Śukadeva Gosvāmī]]
 
 ===== 1. Questions by the Sages =====
-  * [[:books:sb:1:1|Summary of the Chapter]]
+  * [[:books:sb:1:1:start|Summary of the Chapter]]
   * [[:books:sb:1:1:1|Purpose of the Gayatri Mantra]]
   * [[:books:sb:1:1:2|Paramesvara the Supreme]]
   * [[:books:sb:1:1:2|Three Divisions of Vedic Ways]]
@@ -47,7 +47,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:1:20|Incarnation of Godhead Is Distinguished]]
 
 ===== 2. Divinity and Divine Service =====
-  * [[:books:sb:1:2|Summary of the Chapter]]
+  * [[:books:sb:1:2:start|Summary of the Chapter]]
   * [[:books:sb:1:2:2|Obeisances unto the Spiritual Master and the Lord]]
   * [[:books:sb:1:2:3|Srimad-Bhagavatam Summarized]]
   * [[:books:sb:1:2:10|Scope of Sense Satisfaction]]
@@ -63,7 +63,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:2:32|He Is All-Pervading]]
 
 ===== 3. Krsna Is the Source of All Incarnations =====
-  * [[:books:sb:1:3|Summary of the Chapter]]
+  * [[:books:sb:1:3:start|Summary of the Chapter]]
   * [[:books:sb:1:3:1|Purusa Incarnations: The Cause of Matter and the Material World]]
   * [[:books:sb:1:3:2|From Him Brahma Is Manifested]]
   * [[:books:sb:1:3:3|Description of the Universal Form]]
@@ -101,7 +101,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:3:44|Srimad-Bhagavatam and Its Incompatibilities]]
 
 ===== 4. Appearance of Sri Narada =====
-  * [[:books:sb:1:4|Summary of the Chapter]]
+  * [[:books:sb:1:4:start|Summary of the Chapter]]
   * [[:books:sb:1:4:5|Paramahamsa Sukadeva Gosvami]]
   * [[:books:sb:1:4:12|The Ideal King, Maharaja Pariksit]]
   * [[:books:sb:1:4:14|Birthdate of Vyasadeva]]
@@ -113,7 +113,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:4:30|Dissatisfaction of Vyasadeva and Its Cause]]
 
 ===== 5. Narada’s Instructions on Srimad-Bhagavatam for Vyasadeva =====
-  * [[:books:sb:1:5|Summary of the Chapter]]
+  * [[:books:sb:1:5:start|Summary of the Chapter]]
   * [[:books:sb:1:5:2|The Mind and the Body]]
   * [[:books:sb:1:5:5|Identification of Self with the Body or Mind Is the Cause of Despondency]]
   * [[:books:sb:1:5:8|The Cause Explained]]
@@ -141,7 +141,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:5:38#id3|Concluding Instruction of Narada]]
 
 ===== 6. Conversation Between Narada and Vyasa =====
-  * [[:books:sb:1:6|Summary of the Chapter]]
+  * [[:books:sb:1:6:start|Summary of the Chapter]]
   * [[:books:sb:1:6:1|Further Inquiry by Vyasadeva]]
   * [[:books:sb:1:6:5|History of Narada’s Previous Life]]
   * [[:books:sb:1:6:11|His Touring]]
@@ -156,7 +156,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:6:35|Comparative Importance of Bhakti-yoga and Mystic Powers]]
 
 ===== 7. The Son of Drona Punished =====
-  * [[:books:sb:1:7|Summary of the Chapter]]
+  * [[:books:sb:1:7:start|Summary of the Chapter]]
   * [[:books:sb:1:7:2|Vyasadeva’s Meditation]]
   * [[:books:sb:1:7:4|His Clear Conception]]
   * [[:books:sb:1:7:5|Acts of Maya, the Illusory Energy]]
@@ -178,7 +178,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[:books:sb:1:7:53-54|Lord Krsna Solves the Dilemma]]
 
 ===== 8. Prayers by Queen Kunti and Pariksit Saved =====
-  * [[:books:sb:1:8|Summary of the Chapter]]
+  * [[:books:sb:1:8:start|Summary of the Chapter]]
   * [[:books:sb:1:8:|The Battle of Kuruksetra Ends]] 1
   * [[:books:sb:1:8:|The Attempt to Slaughter Uttara’s Unborn Child]] 8
   * [[:books:sb:1:8:|Lord Krsna Saves Pariksit from Death in the Womb]] 13

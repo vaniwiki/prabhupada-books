@@ -1,5 +1,11 @@
-~~bc:Chapter 22~~
-~~Title:Cc. Madhya 22: The Process of Devotional Service~~
+---json
+{
+    "name":"Cc. Madhya 22",
+    "h1":"Chapter 22",
+    "title":"Cc. Madhya 22: The Process of Devotional Service",
+    "description":""
+}
+---
 
 ====== The Process of Devotional Service ======
 
@@ -9,483 +15,483 @@ In this chapter Śrī Caitanya Mahāprabhu has differentiated between a pure dev
 
 The six symptoms of fully surrendered souls are also described in this chapter. Devotional service has been divided into two categories---regulative devotional service and spontaneous love. There are sixty-four items listed in regulative devotional service, and out of these sixty-four the last five are considered very important. By practicing even one of the nine processes of devotional service, one can become successful. Speculative knowledge and mystic //yoga// can never help one in devotional service. Pious activity, nonviolence, sense control and regulation are not separate from devotional service in its pure form. If one engages in devotional service, all good qualities follow. One does not have to cultivate them separately. Spontaneous devotional service arises when one follows a pure devotee who is awakened to spontaneous love of God. Śrī Caitanya Mahāprabhu has described the symptoms of devotees who are already situated in spontaneous love of God. He has also described the devotees who are trying to follow in the footsteps of the pure devotees
 
-  ; [[.22:1|Cc. Madhya 22.1]]
+  ; [[books:cc:adi:22:1|Cc. Madhya 22.1]]
   : I offer my respectful obeisances unto Lord Śrī Caitanya Mahāprabhu. He is an ocean of transcendental mercy, and although the subject matter of bhakti-yoga is very confidential, He has nonetheless manifested it so niceIy, even in this Age of Kali, the age of quarrel.
 
-  ; [[.22:2|Cc. Madhya 22.2]]
+  ; [[books:cc:adi:22:2|Cc. Madhya 22.2]]
   : All glories to Śrī Caitanya Mahāprabhu! All glories to Nityānanda Prabhu! All glories to Advaitacandra! All glories to all the devotees of Śrī Caitanya Mahāprabhu!
 
-  ; [[.22:3|Cc. Madhya 22.3]]
+  ; [[books:cc:adi:22:3|Cc. Madhya 22.3]]
   : Śrī Caitanya Mahāprabhu said, "I have described one's relation with Kṛṣṇa in various ways. This is the subject matter of all the Vedas. Kṛṣṇa is the center of all activities.
 
-  ; [[.22:4|Cc. Madhya 22.4]]
+  ; [[books:cc:adi:22:4|Cc. Madhya 22.4]]
   : "Now I shall speak about the characteristics of devotional service, by which one can attain the shelter of Kṛṣṇa and His loving transcendental service.
 
-  ; [[.22:5|Cc. Madhya 22.5]]
+  ; [[books:cc:adi:22:5|Cc. Madhya 22.5]]
   : "A human being's activities should be centered only about devotional service to Lord Kṛṣṇa. That is the verdict of all Vedic literatures, and all saintly people have ascertained this.
 
-  ; [[.22:6|Cc. Madhya 22.6]]
+  ; [[books:cc:adi:22:6|Cc. Madhya 22.6]]
   : " 'When the mother Vedas [śruti] is questioned as to whom to worship, she says that You are the only Lord and worshipable object. Similarly, the corollaries of the śruti-śāstras, the smṛti-śāstras, give the same instructions, just like sisters. The Purāṇas, which are like brothers, follow in the footsteps of their mother. O enemy of the demon Mura, the conclusion is that You are the only shelter. Now I have understood this in truth.'
 
-  ; [[.22:7|Cc. Madhya 22.7]]
+  ; [[books:cc:adi:22:7|Cc. Madhya 22.7]]
   : "Kṛṣṇa is the nondual Absolute Truth, the Supreme Personality of Godhead. Although He is one, He maintains different personal expansions and energies for His pastimes.
 
-  ; [[.22:8|Cc. Madhya 22.8]]
+  ; [[books:cc:adi:22:8|Cc. Madhya 22.8]]
   : "Kṛṣṇa expands Himself in many forms. Some of them are personal expansions, and some are separate expansions. Thus He performs pastimes in both the spiritual and material worlds. The spiritual worlds are the Vaikuṇṭha planets, and the material universes are brahmāṇḍas, gigantic globes governed by Lord Brahmā.
 
-  ; [[.22:9|Cc. Madhya 22.9]]
+  ; [[books:cc:adi:22:9|Cc. Madhya 22.9]]
   : "Expansions of His personal self-like the quadruple manifestations of Saṅkarṣaṇa, Pradyumna, Aniruddha and Vāsudeva-descend as incarnations from Vaikuṇṭha to this material world. The separated expansions are living entities. Although they are expansions of Kṛṣṇa, they are counted among His different potencies.
 
-  ; [[.22:10|Cc. Madhya 22.10]]
+  ; [[books:cc:adi:22:10|Cc. Madhya 22.10]]
   : "The living entities [jīvas] are divided into two categories. Some are eternally liberated, and others are eternally conditioned.
 
-  ; [[.22:11|Cc. Madhya 22.11]]
+  ; [[books:cc:adi:22:11|Cc. Madhya 22.11]]
   : "Those who are eternally liberated are always awake to Kṛṣṇa consciousness, and they render transcendental loving service at the feet of Lord Kṛṣṇa. They are to be considered eternal associates of Kṛṣṇa, and they are eternally enjoying the transcendental bliss of serving Kṛṣṇa.
 
-  ; [[.22:12|Cc. Madhya 22.12]]
+  ; [[books:cc:adi:22:12|Cc. Madhya 22.12]]
   : "Apart from the ever-liberated devotees, there are the conditioned souls who always turn away from the service of the Lord. They are perpetually conditioned in this material world and are subjected to the material tribulations brought about by different bodily forms in hellish conditions.
 
-  ; [[.22:13|Cc. Madhya 22.13]]
+  ; [[books:cc:adi:22:13|Cc. Madhya 22.13]]
   : "Due to his being opposed to Kṛṣṇa consciousness, the conditioned soul is punished by the witch of the external energy, māyā. He is thus ready to suffer the threefold miseries-miseries brought about by the body and mind, the inimical behavior of other living entities and natural disturbances caused by the demigods.
 
-  ; [[.22:14-15|Cc. Madhya 22.14-15]]
+  ; [[books:cc:adi:22:14-15|Cc. Madhya 22.14-15]]
   : "In this way the conditioned soul becomes the servant of lusty desires, and when these are not fulfilled, he becomes a servant of anger and continues to be kicked by the external energy, māyā. Wandering and wandering throughout the universe, he may by chance get the association of a devotee physician, whose instructions and hymns make the witch of external energy flee. The conditioned soul thus gets into touch with the devotional service of Lord Kṛṣṇa, and in this way he can approach nearer and nearer to the Lord.
 
-  ; [[.22:16|Cc. Madhya 22.16]]
+  ; [[books:cc:adi:22:16|Cc. Madhya 22.16]]
   : " 'O my Lord, there is no limit to the unwanted orders of lusty desires. Although I have rendered them so much service, they have not shown any mercy to me. I have not been ashamed to serve them, nor have I even desired to give them up. O my Lord, O head of the Yadu dynasty, recently, however, my intelligence has been awakened, and now I am giving them up. Due to transcendental intelligence, I now refuse to obey the unwanted orders of these desires, and I now come to You to surrender myself at Your fearless lotus feet. Kindly engage me in Your personal service and save me.'
 
-  ; [[.22:17|Cc. Madhya 22.17]]
+  ; [[books:cc:adi:22:17|Cc. Madhya 22.17]]
   : "Devotional service to Kṛṣṇa is the chief function of the living entity. There are different methods for the liberation of the conditioned soul-karma, jñāna, yoga and bhakti---but all are dependent on bhakti.
 
-  ; [[.22:18|Cc. Madhya 22.18]]
+  ; [[books:cc:adi:22:18|Cc. Madhya 22.18]]
   : "But for devotional service, all other methods for spiritual self-realization are weak and insignificant. Unless one comes to the devotional service of Lord Kṛṣṇa, jñāna and yoga cannot give the desired results.
 
-  ; [[.22:19|Cc. Madhya 22.19]]
+  ; [[books:cc:adi:22:19|Cc. Madhya 22.19]]
   : " 'When pure knowledge is beyond all material affinity but is not dedicated to the Supreme PersonaIity of Godhead [Kṛṣṇa], it does not appear very beautiful, although it is knowledge without a material tinge. What, then, is the use of fruitive activities-which are naturally painful from the beginning and transient by nature-if they are not utilized for the devotional service of the Lord? How can they be very attractive?'
 
-  ; [[.22:20|Cc. Madhya 22.20]]
+  ; [[books:cc:adi:22:20|Cc. Madhya 22.20]]
   : " 'Those who perform severe austerities and penances, those who give away all their possessions out of charity, those who are very famous for their auspicious activity, those who are engaged in meditation and mental speculation, and even those who are very expert in reciting the Vedic mantras, are not able to obtain any auspicious results, although they are engaged in auspicious activities, if they do not dedicate their activities to the service of the Supreme Personality of Godhead. I therefore repeatedly offer my respectful obeisances unto the Supreme Personality of Godhead, whose glories are always auspicious.'
 
-  ; [[.22:21|Cc. Madhya 22.21]]
+  ; [[books:cc:adi:22:21|Cc. Madhya 22.21]]
   : "Speculative knowledge alone, without devotional service, is not able to give liberation. On the other hand, even without knowledge one can obtain liberation if one engages in the Lord's devotional service.
 
-  ; [[.22:22|Cc. Madhya 22.22]]
+  ; [[books:cc:adi:22:22|Cc. Madhya 22.22]]
   : " 'My dear Lord, devotional service unto You is the only auspicious path. If one gives it up simply for speculative knowledge or the understanding that these living beings are spirit souls and the material world is false, he undergoes a great deal of trouble. He only gains troublesome and inauspicious activities. His endeavors are like beating a husk that is already devoid of rice. One's labor becomes fruitless.'
 
-  ; [[.22:23|Cc. Madhya 22.23]]
+  ; [[books:cc:adi:22:23|Cc. Madhya 22.23]]
   : " 'This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.'
 
-  ; [[.22:24|Cc. Madhya 22.24]]
+  ; [[books:cc:adi:22:24|Cc. Madhya 22.24]]
   : "The living entity is bound around the neck by the chain of māyā because he has forgotten that he is eternally a servant of Kṛṣṇa.
 
-  ; [[.22:25|Cc. Madhya 22.25]]
+  ; [[books:cc:adi:22:25|Cc. Madhya 22.25]]
   : "If the conditioned soul engages in the service of the Lord and simultaneously carries out the orders of his spiritual master and serves him, he can get out of the clutches of māyā and become eligible for shelter at Kṛṣṇa's lotus feet.
 
-  ; [[.22:26|Cc. Madhya 22.26]]
+  ; [[books:cc:adi:22:26|Cc. Madhya 22.26]]
   : "The followers of the varṇāśrama institution accept the regulative principles of the four social orders [brāhmaṇa, kṣatriya, vaiśya and śūdra] and four spiritual orders [brahmacarya, gṛhastha, vānaprastha and sannyāsa]. However, if one carries out the regulative principles of these orders but does not render transcendental service to Kṛṣṇa, he falls into the hellish condition of material life.
 
-  ; [[.22:27|Cc. Madhya 22.27]]
+  ; [[books:cc:adi:22:27|Cc. Madhya 22.27]]
   : " 'From the mouth of Brahmā, the brahminical order has come into existence. Similarly, from his arms the kṣatriyas have come, from his waist the vaiśyas have come, and from his legs the śūdras have come. These four orders and their spiritual counterparts [brahmacarya, gṛhastha, vānaprastha and sannyāsa] combine to make human society complete.
 
-  ; [[.22:28|Cc. Madhya 22.28]]
+  ; [[books:cc:adi:22:28|Cc. Madhya 22.28]]
   : " 'If one simply maintains an official position in the four varṇas and āśramas but does not worship the Supreme Lord Viṣṇu, he falls down from his puffed-up position into a heIlish condition.'
 
-  ; [[.22:29|Cc. Madhya 22.29]]
+  ; [[books:cc:adi:22:29|Cc. Madhya 22.29]]
   : "There are many philosophical speculators [jñānīs] belonging to the Māyāvāda school who consider themselves liberated and call themselves Nārāyaṇa. However, their intelligence is not purified unless they engage in Kṛṣṇa's devotional service.
 
-  ; [[.22:30|Cc. Madhya 22.30]]
+  ; [[books:cc:adi:22:30|Cc. Madhya 22.30]]
   : " 'O lotus-eyed one, those who think they are liberated in this life but do not render devotional service to You must be of impure intelligence. Although they accept severe austerities and penances and rise to the spiritual position, to impersonal Brahman realization, they fall down again because they neglect to worship Your lotus feet.'
 
-  ; [[.22:31|Cc. Madhya 22.31]]
+  ; [[books:cc:adi:22:31|Cc. Madhya 22.31]]
   : "Kṛṣṇa is compared to sunshine, and māyā is compared to darkness. Wherever there is sunshine, there cannot be darkness. As soon as one takes to Kṛṣṇa consciousness, the darkness of illusion (the influence of the external energy) will immediately vanish.
 
-  ; [[.22:32|Cc. Madhya 22.32]]
+  ; [[books:cc:adi:22:32|Cc. Madhya 22.32]]
   : " 'The external illusory energy of Kṛṣṇa, known as māyā, is always ashamed to stand in front of Kṛṣṇa, just as darkness is ashamed to remain before the sunshine. However, that māyā bewilders unfortunate people who have no intelligence. Thus they simply boast that this material world is theirs and that they are its enjoyers.'
 
-  ; [[.22:33|Cc. Madhya 22.33]]
+  ; [[books:cc:adi:22:33|Cc. Madhya 22.33]]
   : "One is immediately freed from the clutches of māyā if he seriously and sincerely says, 'My dear Lord Kṛṣṇa, although I have forgotten You for so many long years in the material world, today I am surrendering unto You. I am Your sincere and serious servant. Please engage me in Your service.'
 
-  ; [[.22:34|Cc. Madhya 22.34]]
+  ; [[books:cc:adi:22:34|Cc. Madhya 22.34]]
   : " 'It is My vow that if one only once seriously surrenders unto Me, saying, "My dear Lord, from this day I am Yours," and prays to Me for courage, I shall immediately award courage to that person, and he will always remain safe from that time on.'
 
-  ; [[.22:35|Cc. Madhya 22.35]]
+  ; [[books:cc:adi:22:35|Cc. Madhya 22.35]]
   : "Due to bad association, the living entity desires material happiness, liberation or merging into the impersonal aspect of the Lord, or he engages in mystic yoga for material power. If such a person actually becomes intelligent, he takes to Kṛṣṇa consciousness by engaging himself in intense devotional service to Lord Śrī Kṛṣṇa.
 
-  ; [[.22:36|Cc. Madhya 22.36]]
+  ; [[books:cc:adi:22:36|Cc. Madhya 22.36]]
   : " 'Whether one desires everything or nothing, or whether he desires to merge into the existence of the Lord, he is intelligent only if he worships Lord Kṛṣṇa, the Supreme Personality of Godhead, by rendering transcendental Ioving service.'
 
-  ; [[.22:37|Cc. Madhya 22.37]]
+  ; [[books:cc:adi:22:37|Cc. Madhya 22.37]]
   : "If those who desire material enjoyment or merging into the existence of the Absolute Truth engage in the Lord's transcendental loving service, they will immediately attain shelter at Kṛṣṇa's lotus feet, although they did not ask for it. Kṛṣṇa is therefore very merciful.
 
-  ; [[.22:38|Cc. Madhya 22.38]]
+  ; [[books:cc:adi:22:38|Cc. Madhya 22.38]]
   : "Kṛṣṇa says, 'If one engages in My transcendental loving service but at the same time wants the opulence of material enjoyment, he is very, very foolish. Indeed, he is just like a person who gives up ambrosia to drink poison.
 
-  ; [[.22:39|Cc. Madhya 22.39]]
+  ; [[books:cc:adi:22:39|Cc. Madhya 22.39]]
   : " 'Since I am very intelligent, why should I give this fool material prosperity? Instead I shall induce him to take the nectar of the shelter of My lotus feet and make him forget illusory material enjoyment.'
 
-  ; [[.22:40|Cc. Madhya 22.40]]
+  ; [[books:cc:adi:22:40|Cc. Madhya 22.40]]
   : " 'Whenever Kṛṣṇa is requested to fulfill one's desire, He undoubtedly does so, but He does not award anything which, after being enjoyed, will cause someone to petition Him again and again to fulfill further desires. When one has other desires but engages in the Lord's service, Kṛṣṇa forcibly gives one shelter at His lotus feet, where one will forget all other desires.'
 
-  ; [[.22:41|Cc. Madhya 22.41]]
+  ; [[books:cc:adi:22:41|Cc. Madhya 22.41]]
   : "When someone engages in Lord Kṛṣṇa's devotional service for the satisfaction of the senses and instead acquires a taste to serve Kṛṣṇa, he gives up his material desires and willingly offers himself as an eternal servant of Kṛṣṇa.
 
-  ; [[.22:42|Cc. Madhya 22.42]]
+  ; [[books:cc:adi:22:42|Cc. Madhya 22.42]]
   : [When he was being benedicted by the Supreme Personality of Godhead, Dhruva Mahārāja said] " 'O my Lord, because I was seeking an opulent material position, I was performing severe types of penance and austerity. Now I have gotten You, who are very difficult for the great demigods, saintly persons and kings to attain. I was searching after a piece of glass, but instead I have found a most valuable jewel. Therefore I am so satisfied that I do not wish to ask any benediction from You.'
 
-  ; [[.22:43|Cc. Madhya 22.43]]
+  ; [[books:cc:adi:22:43|Cc. Madhya 22.43]]
   : "There are unlimited conditioned souls who are bereft of Lord Kṛṣṇa's service. Not knowing how to cross the ocean of nescience, they are scattered by waves, time and tide. However, some are fortunate to contact devotees, and by this contact they are deIivered from the ocean of nescience, just as a log, floating down a river, accidentally washes upon the bank.
 
-  ; [[.22:44|Cc. Madhya 22.44]]
+  ; [[books:cc:adi:22:44|Cc. Madhya 22.44]]
   : "Because I am so fallen, I shall never get a chance to see the Supreme Personality of Godhead." This was my false apprehension. Rather, by chance a person as fallen as I am may get to see the Supreme Personality of Godhead. Although one is being carried away by the waves of the river of time, one may eventually reach the shore.'
 
-  ; [[.22:45|Cc. Madhya 22.45]]
+  ; [[books:cc:adi:22:45|Cc. Madhya 22.45]]
   : "By good fortune, one becomes eligible to cross the ocean of nescience, and when one's term of material existence decreases, one may get an opportunity to associate with pure devotees. By such association, one's attraction to Kṛṣṇa is awakened.
 
-  ; [[.22:46|Cc. Madhya 22.46]]
+  ; [[books:cc:adi:22:46|Cc. Madhya 22.46]]
   : " 'O my Lord! O infallible Supreme Person! When a person wandering throughout the universes becomes eligible for liberation from material existence, he gets an opportunity to associate with devotees. When he associates with devotees, his attraction for You is awakened. You are the Supreme Personality of Godhead, the highest goal of the supreme devotees and the Lord of the universe.'
 
-  ; [[.22:47|Cc. Madhya 22.47]]
+  ; [[books:cc:adi:22:47|Cc. Madhya 22.47]]
   : "Kṛṣṇa is situated in everyone's heart as caitya-guru, the spiritual master within. When He is kind to some fortunate conditioned soul, He personally gives one lessons to progress in devotional service, instructing the person as the Supersoul within and the spiritual master without.
 
-  ; [[.22:48|Cc. Madhya 22.48]]
+  ; [[books:cc:adi:22:48|Cc. Madhya 22.48]]
   : " 'O my Lord! Transcendental poets and experts in spiritual science could not fully express their indebtedness to You, even if they were endowed with the prolonged lifetime of Brahmā, for You appear in two features-externally as the ācārya and internally as the Supersoul-to deliver the embodied living being by directing him how to come to You.'
 
-  ; [[.22:49|Cc. Madhya 22.49]]
+  ; [[books:cc:adi:22:49|Cc. Madhya 22.49]]
   : "By associating with a devotee, one awakens his faith in devotional service to Kṛṣṇa. Because of devotional service, one's dormant love for Kṛṣṇa awakens, and thus one's material, conditional existence comes to an end.
 
-  ; [[.22:50|Cc. Madhya 22.50]]
+  ; [[books:cc:adi:22:50|Cc. Madhya 22.50]]
   : " 'Somehow or other, if one is attracted to talks about Me and has faith in the instructions I have set forth in Bhagavad-gītā, and if one is actually detached from material things and material existence, his dormant love for Me will be awakened by devotional service.'
 
-  ; [[.22:51|Cc. Madhya 22.51]]
+  ; [[books:cc:adi:22:51|Cc. Madhya 22.51]]
   : "Unless one is favored by a pure devotee, he cannot attain the platform of devotional service. To say nothing of kṛṣṇa-bhakti, one cannot even be relieved from the bondage of material existence.
 
-  ; [[.22:52|Cc. Madhya 22.52]]
+  ; [[books:cc:adi:22:52|Cc. Madhya 22.52]]
   : " 'O King Rahūgaṇa, without taking upon one's head the dust from the lotus feet of a pure devotee [a mahājana or mahātmā], one cannot attain devotional service. Devotional service is not possible to attain simply by undergoing severe austerities and penances, by gorgeously worshiping the Deity, or by strictly following the rules and regulations of the sannyāsa or gṛhastha order, nor by studying the Vedas, submerging oneself in water, or exposing oneself to fire or scorching sunlight.'
 
-  ; [[.22:53|Cc. Madhya 22.53]]
+  ; [[books:cc:adi:22:53|Cc. Madhya 22.53]]
   : " 'Unless human society accepts the dust of the lotus feet of great mahātmās-devotees who have nothing to do with material possessions-mankind cannot turn its attention to the lotus feet of Kṛṣṇa. Those lotus feet vanquish all the unwanted miserable conditions of material life.'
 
-  ; [[.22:54|Cc. Madhya 22.54]]
+  ; [[books:cc:adi:22:54|Cc. Madhya 22.54]]
   : "The verdict of all revealed scriptures is that by even a moment's association with a pure devotee, one can attain all success.
 
-  ; [[.22:55|Cc. Madhya 22.55]]
+  ; [[books:cc:adi:22:55|Cc. Madhya 22.55]]
   : " 'The value of a moment's association with a devotee of the Lord cannot even be compared to the attainment of heavenly planets or liberation from matter, and what to speak of worldly benedictions in the form of material prosperity, which is for those who are meant for death.'
 
-  ; [[.22:56|Cc. Madhya 22.56]]
+  ; [[books:cc:adi:22:56|Cc. Madhya 22.56]]
   : "Kṛṣṇa is so merciful that simply by aiming His instructions at Arjuna, He has given protection to the whole world.
 
-  ; [[.22:57-58|Cc. Madhya 22.57-58]]
+  ; [[books:cc:adi:22:57-58|Cc. Madhya 22.57-58]]
   : " 'Because you are My very dear friend, I am speaking to you the most confidential part of knowledge. Hear this from Me, for it is for your benefit. Always think of Me and become My devotee, worship Me and offer obeisances unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend.'
 
-  ; [[.22:59|Cc. Madhya 22.59]]
+  ; [[books:cc:adi:22:59|Cc. Madhya 22.59]]
   : "Although Kṛṣṇa has previously explained the proficiency of executing Vedic rituals, performing fruitive activity as enjoined in the Vedas, practicing yoga and cultivating jñāna, these last instructions are most powerful and stand above all the others.
 
-  ; [[.22:60|Cc. Madhya 22.60]]
+  ; [[books:cc:adi:22:60|Cc. Madhya 22.60]]
   : "If the devotee has faith in the strength of this order, he worships Lord Kṛṣṇa and gives up all other activities.
 
-  ; [[.22:61|Cc. Madhya 22.61]]
+  ; [[books:cc:adi:22:61|Cc. Madhya 22.61]]
   : " 'As long as one is not satiated by fruitive activity and has not awakened his taste for devotional service by śravaṇaṁ kīrtanaṁ viṣṇoh, one has to act according to the regulative principles of the Vedic injunctions.'
 
-  ; [[.22:62|Cc. Madhya 22.62]]
+  ; [[books:cc:adi:22:62|Cc. Madhya 22.62]]
   : "By rendering transcendental loving service to Kṛṣṇa, one automatically performs all subsidiary activities. This confident, firm faith, favorable to the discharge of devotional service, is called śraddhā.
 
-  ; [[.22:63|Cc. Madhya 22.63]]
+  ; [[books:cc:adi:22:63|Cc. Madhya 22.63]]
   : " 'By pouring water on the root of a tree, one automatically satisfies the trunk, branches and twigs. Similarly, by supplying food to the stomach, where it nourishes the life air, one satisfies all the senses. In the same way, by worshiping Kṛṣṇa and rendering Him service, one automatically satisfies all the demigods.'
 
-  ; [[.22:64|Cc. Madhya 22.64]]
+  ; [[books:cc:adi:22:64|Cc. Madhya 22.64]]
   : "A faithful devotee is a truly eligible candidate for the loving service of the Lord. According to one's faith, one is classified as a topmost devotee, an intermediate devotee or an inferior devotee.
 
-  ; [[.22:65|Cc. Madhya 22.65]]
+  ; [[books:cc:adi:22:65|Cc. Madhya 22.65]]
   : "One who is expert in logic, argument and the revealed scriptures and who has firm faith in Kṛṣṇa is classified as a topmost devotee. He can deliver the whole world.
 
-  ; [[.22:66|Cc. Madhya 22.66]]
+  ; [[books:cc:adi:22:66|Cc. Madhya 22.66]]
   : " 'One who is expert in logic and understanding of revealed scriptures, and who always has firm conviction and deep faith that is not blind, is to be considered a topmost devotee in devotional service.'
 
-  ; [[.22:67|Cc. Madhya 22.67]]
+  ; [[books:cc:adi:22:67|Cc. Madhya 22.67]]
   : "One who is not very expert in argument and logic based on revealed scriptures but who has firm faith is considered a second-class devotee. He also must be considered most fortunate.
 
-  ; [[.22:68|Cc. Madhya 22.68]]
+  ; [[books:cc:adi:22:68|Cc. Madhya 22.68]]
   : " 'He who does not know scriptural argument very well but who has firm faith is called an intermediate or second-class devotee.'
 
-  ; [[.22:69|Cc. Madhya 22.69]]
+  ; [[books:cc:adi:22:69|Cc. Madhya 22.69]]
   : "One whose faith is soft and pliable is called a neophyte, but by gradually following the process, he will rise to the platform of a first-class devotee.
 
-  ; [[.22:70|Cc. Madhya 22.70]]
+  ; [[books:cc:adi:22:70|Cc. Madhya 22.70]]
   : " 'One whose faith is not very strong, who is just beginning, should be considered a neophyte devotee.'
 
-  ; [[.22:71|Cc. Madhya 22.71]]
+  ; [[books:cc:adi:22:71|Cc. Madhya 22.71]]
   : "A devotee is considered superlative and superior according to his attachment and love. In the Eleventh Canto of Śrīmad-Bhāgavatam, the following symptoms have been ascertained.
 
-  ; [[.22:72|Cc. Madhya 22.72]]
+  ; [[books:cc:adi:22:72|Cc. Madhya 22.72]]
   : " 'A person advanced in devotional service sees within everything the soul of souls, the Supreme Personality of Godhead, Śrī Kṛṣṇa. Consequently he always sees the form of the Supreme Personality of Godhead as the cause of all causes and understands that all things are situated in Him.
 
-  ; [[.22:73|Cc. Madhya 22.73]]
+  ; [[books:cc:adi:22:73|Cc. Madhya 22.73]]
   : " 'An intermediate, second-class devotee shows love for the Supreme Personality of Godhead, is friendly to all devotees and is very merciful to neophytes and ignorant people. The intermediate devotee neglects those who are envious of devotional service.
 
-  ; [[.22:74|Cc. Madhya 22.74]]
+  ; [[books:cc:adi:22:74|Cc. Madhya 22.74]]
   : " 'A prākṛta, or materialistic devotee does not purposefully study the śāstra and try to understand the actual standard of pure devotional service. Consequently he does not show proper respect to advanced devotees. He may, however, follow the regulative principles learned from his spiritual master or from his family who worships the Deity. He is to be considered on the material platform, although he is trying to advance in devotional service. Such a person is a bhakta-prāya [neophyte devotee], or bhaktābhāsa, for he is a little enlightened by Vaiṣṇava philosophy.'
 
-  ; [[.22:75|Cc. Madhya 22.75]]
+  ; [[books:cc:adi:22:75|Cc. Madhya 22.75]]
   : "A Vaiṣṇava is one who has developed all good transcendental qualities. All the good qualities of Kṛṣṇa gradually develop in Kṛṣṇa's devotee.
 
-  ; [[.22:76|Cc. Madhya 22.76]]
+  ; [[books:cc:adi:22:76|Cc. Madhya 22.76]]
   : " 'In one who has unflinching devotional faith in Kṛṣṇa, all the good qualities of Kṛṣṇa and the demigods are consistently manifest. However, he who has no devotion to the Supreme Personality of Godhead has no good qualifications because he is engaged by mental concoction in material existence, which is the external feature of the Lord.'
 
-  ; [[.22:77|Cc. Madhya 22.77]]
+  ; [[books:cc:adi:22:77|Cc. Madhya 22.77]]
   : "All these transcendental qualities are the characteristics of pure Vaiṣṇavas, and they cannot be fully explained, but I shall try to point out some of the important qualities.
 
-  ; [[.22:78-80|Cc. Madhya 22.78-80]]
+  ; [[books:cc:adi:22:78-80|Cc. Madhya 22.78-80]]
   : "Devotees are always merciful, humble, truthful, equal to all, faultless, magnanimous, mild and clean. They are without material possessions, and they perform welfare work for everyone. They are peaceful, surrendered to Kṛṣṇa and desireless. They are indifferent to material acquisitions and are fixed in devotional service. They completely control the six bad qualities-lust, anger, greed and so forth. They eat only as much as required, and they are not inebriated. They are respectful, grave, compassionate and without false prestige. They are friendly, poetic, expert and silent.
 
-  ; [[.22:81|Cc. Madhya 22.81]]
+  ; [[books:cc:adi:22:81|Cc. Madhya 22.81]]
   : " 'Devotees are always tolerant, forebearing and very merciful. They are the well-wishers of every living entity. They follow the scriptural injunctions, and because they have no enemies, they are very peaceful. These are the decorations of devotees.'
 
-  ; [[.22:82|Cc. Madhya 22.82]]
+  ; [[books:cc:adi:22:82|Cc. Madhya 22.82]]
   : " 'It is the verdict of all śāstras and great personalities that by serving a pure devotee, one attains the path of liberation. However, by associating with materialistic people who are attached to material enjoyment and women, one attains the path of darkness. Those who are actually devotees are broadminded, equal to everyone and very peaceful. They never become angry, and they are friendly to all living entities.'
 
-  ; [[.22:83|Cc. Madhya 22.83]]
+  ; [[books:cc:adi:22:83|Cc. Madhya 22.83]]
   : "The root cause of devotional service to Lord Kṛṣṇa is association with advanced devotees. Even when one's dormant love for Kṛṣṇa awakens, association with devotees is still most essential.
 
-  ; [[.22:84|Cc. Madhya 22.84]]
+  ; [[books:cc:adi:22:84|Cc. Madhya 22.84]]
   : " 'O my Lord! O infallible Supreme Person! When a person wandering throughout the universes becomes eligible for liberation from material existence, he gets an opportunity to associate with devotees. When he associates with devotees, his attraction for You is awakened. You are the Supreme Personality of Godhead, the highest goal of the supreme devotees and the Lord of the universe.'
 
-  ; [[.22:85|Cc. Madhya 22.85]]
+  ; [[books:cc:adi:22:85|Cc. Madhya 22.85]]
   : " 'O devotees! O you who are free from all sins! Let me inquire from you about that which is supremely auspicious for all living entities. Association with a pure devotee for even half a moment in this material world is the greatest treasure for human society.'
 
-  ; [[.22:86|Cc. Madhya 22.86]]
+  ; [[books:cc:adi:22:86|Cc. Madhya 22.86]]
   : " 'The spiritually powerful message of Godhead can be properly discussed only in a society of devotees, and it is greatly pleasing to hear in that association. If one hears from devotees, the way of transcendental experience quickly opens, and gradually one attains firm faith that in due course develops into attraction and devotion.'
 
-  ; [[.22:87|Cc. Madhya 22.87]]
+  ; [[books:cc:adi:22:87|Cc. Madhya 22.87]]
   : "A Vaiṣṇava should always avoid the association of ordinary people. Common people are very much materially attached, especially to women. Vaiṣṇavas should also avoid the company of those who are not devotees of Lord Kṛṣṇa.
 
-  ; [[.22:88-90|Cc. Madhya 22.88-90]]
+  ; [[books:cc:adi:22:88-90|Cc. Madhya 22.88-90]]
   : " 'By association with worldly people, one becomes devoid of truthfulness, cleanliness, mercy, gravity, spiritual intelligence, shyness, austerity, fame, forgiveness, control of the mind, control of the senses, fortune and all opportunities. One should not at any time associate with a coarse fool who is bereft of the knowledge of self-realization and who is no more than a toy animal in the hands of a woman. The illusion and bondage that accrue to a man from attachment to any other object are not as complete as that resulting from association with a woman or with men too attached to women.'
 
-  ; [[.22:91|Cc. Madhya 22.91]]
+  ; [[books:cc:adi:22:91|Cc. Madhya 22.91]]
   : " 'It is better to accept the miseries of being encaged within bars and surrounded by burning flames than to associate with those bereft of Kṛṣṇa consciousness. Such association is a very great hardship.'
 
-  ; [[.22:92|Cc. Madhya 22.92]]
+  ; [[books:cc:adi:22:92|Cc. Madhya 22.92]]
   : " One should not even see those who are bereft of devotional service in Kṛṣṇa consciousness and who are therefore devoid of pious activities.
 
-  ; [[.22:93|Cc. Madhya 22.93]]
+  ; [[books:cc:adi:22:93|Cc. Madhya 22.93]]
   : "Without hesitation, one should take the exclusive shelter of Lord Kṛṣṇa with full confidence, giving up bad association and even neglecting the regulative principles of the four varṇas and four āśramas. That is to say, one should abandon all material attachment.
 
-  ; [[.22:94|Cc. Madhya 22.94]]
+  ; [[books:cc:adi:22:94|Cc. Madhya 22.94]]
   : " 'After giving up all kinds of religious and occupational duties, if you come to Me, the Supreme Personality of Godhead, and take shelter, I shall give you protection from all of life's sinful reactions. Do not worry.'
 
-  ; [[.22:95|Cc. Madhya 22.95]]
+  ; [[books:cc:adi:22:95|Cc. Madhya 22.95]]
   : "Lord Kṛṣṇa is very kind to His devotees. He is always very grateful and magnanimous, and He possesses all abilities. A learned man does not give up Kṛṣṇa to worship anyone else.
 
-  ; [[.22:96|Cc. Madhya 22.96]]
+  ; [[books:cc:adi:22:96|Cc. Madhya 22.96]]
   : " 'My dear Lord, You are very affectionate to Your devotees. You are also a truthful and grateful friend. Where is that learned man who would give You up and surrender to someone else? You fulfill all the desires of Your devotees, so much so that sometimes You even give Yourself to them. Still, You neither increase nor decrease by such activity.'
 
-  ; [[.22:97|Cc. Madhya 22.97]]
+  ; [[books:cc:adi:22:97|Cc. Madhya 22.97]]
   : "Whenever an experienced person develops real knowledge of Kṛṣṇa and His transcendental qualities, he naturally gives up all other engagements and renders service to the Lord. Uddhava gives evidence concerning this.
 
-  ; [[.22:98|Cc. Madhya 22.98]]
+  ; [[books:cc:adi:22:98|Cc. Madhya 22.98]]
   : " 'Oh, how wonderful it is! Pūtanā, the sister of Bakāsura, wanted to kill Kṛṣṇa by smearing deadly poison on her breasts and having Kṛṣṇa take it. Nonetheless, Lord Kṛṣṇa accepted her as His mother, and thus she attained the destination befitting Kṛṣṇa's mother. Of whom should I take shelter but Kṛṣṇa, who is most merciful?'
 
-  ; [[.22:99|Cc. Madhya 22.99]]
+  ; [[books:cc:adi:22:99|Cc. Madhya 22.99]]
   : "There are two kinds of devotees---those who are fully satiated and free from all material desires and those who are fully surrendered to the lotus feet of the Lord. Their qualities are one and the same, but those who are fully surrendered to Kṛṣṇa's lotus feet are qualified with another transcendental quality-ātma-samarpaṇa, full surrender without reservation.
 
-  ; [[.22:100|Cc. Madhya 22.100]]
+  ; [[books:cc:adi:22:100|Cc. Madhya 22.100]]
   : " 'The six divisions of surrender are the acceptance of those things favorable to devotional service, the rejection of unfavorable things, the conviction that Kṛṣṇa will give protection, the acceptance of the Lord as one's guardian or master, full self-surrender and humility.
 
-  ; [[.22:101|Cc. Madhya 22.101]]
+  ; [[books:cc:adi:22:101|Cc. Madhya 22.101]]
   : " 'One whose body is fully surrendered takes shelter at the holy place where Kṛṣṇa had His pastimes, and he prays to the Lord, "My Lord, I am Yours." Understanding this with his mind, he enjoys spiritual bliss.
 
-  ; [[.22:102|Cc. Madhya 22.102]]
+  ; [[books:cc:adi:22:102|Cc. Madhya 22.102]]
   : "When a devotee thus fully surrenders unto Kṛṣṇa's lotus feet, Kṛṣṇa accepts him as one of His confidential associates.
 
-  ; [[.22:103|Cc. Madhya 22.103]]
+  ; [[books:cc:adi:22:103|Cc. Madhya 22.103]]
   : " 'The living entity who is subjected to birth and death attains immortality when he gives up all material activities, dedicates his life to the execution of My order, and acts according to My directions. In this way he becomes fit to enjoy the spiritual bliss derived from exchanging loving mellows with Me.'
 
-  ; [[.22:104|Cc. Madhya 22.104]]
+  ; [[books:cc:adi:22:104|Cc. Madhya 22.104]]
   : "My dear Sanātana, please now hear about the regulative principles for the execution of devotional service. By this process, one can attain the highest perfection of love of Godhead, which is the most desirable treasure.
 
-  ; [[.22:105|Cc. Madhya 22.105]]
+  ; [[books:cc:adi:22:105|Cc. Madhya 22.105]]
   : " 'When transcendental devotional service by which love for Kṛṣṇa is attained is executed by the senses, it is called sādhana-bhakti, or the regulative discharge of devotional service. Such devotion eternally exists within the heart of every living entity. The awakening of this eternal devotion is the potentiality of devotional service in practice.'
 
-  ; [[.22:106|Cc. Madhya 22.106]]
+  ; [[books:cc:adi:22:106|Cc. Madhya 22.106]]
   : "The spiritual activities of hearing, chanting, remembering and so forth are the natural characteristics of devotional service. The marginal characteristic is that it awakens pure love for Kṛṣṇa.
 
-  ; [[.22:107|Cc. Madhya 22.107]]
+  ; [[books:cc:adi:22:107|Cc. Madhya 22.107]]
   : "Pure love for Kṛṣṇa is eternally established in the hearts of living entities. It is not something to be gained from another source. When the heart is purified by hearing and chanting, the living entity naturally awakens.
 
-  ; [[.22:108|Cc. Madhya 22.108]]
+  ; [[books:cc:adi:22:108|Cc. Madhya 22.108]]
   : "There are two processes of practical devotional service. One is regulative devotional service, and the other is spontaneous devotional service.
 
-  ; [[.22:109|Cc. Madhya 22.109]]
+  ; [[books:cc:adi:22:109|Cc. Madhya 22.109]]
   : "Those who have not attained the platform of spontaneous attachment in devotional service render devotional service under the guidance of a bona fide spiritual master according to the regulative principles mentioned in the revealed scriptures. According to the revealed scriptures, this kind of devotional service is called vaidhī bhakti.
 
-  ; [[.22:110|Cc. Madhya 22.110]]
+  ; [[books:cc:adi:22:110|Cc. Madhya 22.110]]
   : " 'O descendant of Bharata! O Mahārāja Parīkṣit! The Supreme Personality of Godhead, who is situated in everyone's heart as Paramātmā, who is the supreme controller and who always removes the miseries of living entities, must always be heard about from reliable sources, and He must be glorified and remembered by one who wishes to become fearless.'
 
-  ; [[.22:111|Cc. Madhya 22.111]]
+  ; [[books:cc:adi:22:111|Cc. Madhya 22.111]]
   : " 'From the mouth of Brahmā, the brahminical order has come into existence. Similarly, from his arms the kṣatriyas have come, from his waist the vaiśyas have come and from his legs the śūdras have come. These four orders and their spiritual counterparts [brahmacarya, gṛhastha, vānaprastha and sannyāsa] combine to make human society complete.
 
-  ; [[.22:112|Cc. Madhya 22.112]]
+  ; [[books:cc:adi:22:112|Cc. Madhya 22.112]]
   : " 'If one simply maintains an official position in the four varṇas and āśramas but does not worship the Supreme Lord Viṣṇu, he falls down from his puffed-up position into a hellish condition.'
 
-  ; [[.22:113|Cc. Madhya 22.113]]
+  ; [[books:cc:adi:22:113|Cc. Madhya 22.113]]
   : " 'Kṛṣṇa is the origin of Lord Viṣṇu. He should always be remembered and never forgotten at any time. All the rules and prohibitions mentioned in the śāstras should be the servants of these two principles.'
 
-  ; [[.22:114|Cc. Madhya 22.114]]
+  ; [[books:cc:adi:22:114|Cc. Madhya 22.114]]
   : "I shall say something about the various practices of devotional service, which is expanded in so many ways. I wish to speak briefly of the essential practices.
 
-  ; [[.22:115|Cc. Madhya 22.115]]
+  ; [[books:cc:adi:22:115|Cc. Madhya 22.115]]
   : "On the path of regulative devotional service, one must observe the following items: (1) One must accept a bona fide spiritual master. (2) Accept initiation from him. (3) Serve him. (4) Receive instructions from the spiritual master and make inquiries in order to learn devotional service. (5) Follow in the footsteps of the previous ācāryas and follow the directions given by the spiritual master.
 
-  ; [[.22:116|Cc. Madhya 22.116]]
+  ; [[books:cc:adi:22:116|Cc. Madhya 22.116]]
   : "The next steps are as follows: (6) One should be prepared to give up everything for Kṛṣṇa's satisfaction, and one should also accept everything for Kṛṣṇa's satisfaction. (7) One must live in a place where Kṛṣṇa is present-a city like Vṛndāvana or Mathurā or a Kṛṣṇa temple. (8) One should acquire a livelihood that is just sufficient to keep body and soul together. (9) One must fast on Ekādaśī day.
 
-  ; [[.22:117|Cc. Madhya 22.117]]
+  ; [[books:cc:adi:22:117|Cc. Madhya 22.117]]
   : "One should worship dhātrī trees, banyan trees, cows, brāhmaṇas and devotees of Lord Viṣṇu. One should avoid offenses against devotional service and the holy name.
 
-  ; [[.22:118|Cc. Madhya 22.118]]
+  ; [[books:cc:adi:22:118|Cc. Madhya 22.118]]
   : "The twelfth item is to give up the company of nondevotees. (13) One should not accept an unlimited number of disciples. (14) One should not partially study many scriptures just to be able to give references and expand explanations.
 
-  ; [[.22:119|Cc. Madhya 22.119]]
+  ; [[books:cc:adi:22:119|Cc. Madhya 22.119]]
   : "Fifteen: The devotee should treat loss and gain equally. (16) The devotee should not be overwhelmed by lamentation. (17) The devotee should not worship demigods, nor should he disrespect them. Similarly, the devotee should not study or criticize other scriptures.
 
-  ; [[.22:120|Cc. Madhya 22.120]]
+  ; [[books:cc:adi:22:120|Cc. Madhya 22.120]]
   : "Eighteen: The devotee should not hear Lord Viṣṇu or His devotees blasphemed. (19) The devotee should avoid reading or hearing newspapers or mundane books that contain stories of love affairs between men and women or subjects palatable to the senses. (20) Neither by mind nor words should the devotee cause anxiety to any living entity, regardless how insignificant he may be.
 
-  ; [[.22:121|Cc. Madhya 22.121]]
+  ; [[books:cc:adi:22:121|Cc. Madhya 22.121]]
   : "After one is established in devotional service, the positive actions are (1) hearing, (2) chanting, (3) remembering, (4) worshiping, (5) praying, (6) serving, (7) accepting servitorship, (8) becoming a friend and (9) surrendering fully.
 
-  ; [[.22:122|Cc. Madhya 22.122]]
+  ; [[books:cc:adi:22:122|Cc. Madhya 22.122]]
   : "One should also (10) dance before the Deity, (11) sing before the Deity, (12) open one's mind to the Deity, (13) offer obeisances to the Deity, (14) stand up before the Deity and the spiritual master just to show them respect, (15) follow the Deity or the spiritual master and (16) visit different places of pilgrimage or go see the Deity in the temple.
 
-  ; [[.22:123|Cc. Madhya 22.123]]
+  ; [[books:cc:adi:22:123|Cc. Madhya 22.123]]
   : "One should (17) circumambulate the temple, (18) recite various prayers, (19) chant softly, (20) chant congregationally, (21) smell the incense and flower garlands offered to the Deity, and (22) eat the remnants of food offered to the Deity.
 
-  ; [[.22:124|Cc. Madhya 22.124]]
+  ; [[books:cc:adi:22:124|Cc. Madhya 22.124]]
   : "One should (23) attend ārati and festivals, (24) see the Deity, (25) present what is very dear to oneself to the Deity, (26) meditate, and (27) serve those related to the Lord.
 
-  ; [[.22:125|Cc. Madhya 22.125]]
+  ; [[books:cc:adi:22:125|Cc. Madhya 22.125]]
   : "Tadīya means the tulasī leaves, the devotees of Kṛṣṇa, the birthplace of Kṛṣṇa, Mathurā, and the Vedic literature Śrīmad-Bhāgavatam. Kṛṣṇa is very eager to see His devotee serve tulasī, Vaiṣṇavas, Mathurā and Bhāgavatam.
 
-  ; [[.22:126|Cc. Madhya 22.126]]
+  ; [[books:cc:adi:22:126|Cc. Madhya 22.126]]
   : "Thirty-one: One should perform all endeavors for Kṛṣṇa. (32) One should look forward to His mercy. (33) One should partake of various ceremonies with devotees, ceremonies like Lord Kṛṣṇa's birthday or Rāmacandra's birthday.
 
-  ; [[.22:127|Cc. Madhya 22.127]]
+  ; [[books:cc:adi:22:127|Cc. Madhya 22.127]]
   : "Thirty-four: One should surrender to Kṛṣṇa in all respects. (35) One should observe particular vows like kārtika-vrata. These are some of the sixty-four important items of devotional service.
 
-  ; [[.22:128|Cc. Madhya 22.128]]
+  ; [[books:cc:adi:22:128|Cc. Madhya 22.128]]
   : "One should associate with devotees, chant the holy name of the Lord, hear Śrīmad-Bhāgavatam, reside at Mathurā and worship the Deity with faith and veneration.
 
-  ; [[.22:129|Cc. Madhya 22.129]]
+  ; [[books:cc:adi:22:129|Cc. Madhya 22.129]]
   : "These five limbs of devotional service are the best of all. Even a slight performance of these five awakens love for Kṛṣṇa.
 
-  ; [[.22:130|Cc. Madhya 22.130]]
+  ; [[books:cc:adi:22:130|Cc. Madhya 22.130]]
   : " 'One should have full faith and Iove in worshiping the lotus feet of the Deity.
 
-  ; [[.22:131|Cc. Madhya 22.131]]
+  ; [[books:cc:adi:22:131|Cc. Madhya 22.131]]
   : " 'One should taste the meaning of Śrīmad-Bhāgavatam in the association of pure devotees, and one should associate with the devotees who are more advanced than oneself and endowed with a similar type of affection for the Lord.
 
-  ; [[.22:132|Cc. Madhya 22.132]]
+  ; [[books:cc:adi:22:132|Cc. Madhya 22.132]]
   : " 'One should congregationally chant the holy name of the Lord and reside in Vṛndāvana.'
 
-  ; [[.22:133|Cc. Madhya 22.133]]
+  ; [[books:cc:adi:22:133|Cc. Madhya 22.133]]
   : " 'The power of these five principles is very wonderful and difficult to reconcile. Even without faith in them, a person who is offenseless can experience dormant love of Kṛṣṇa simply by being a little connected with them.'
 
-  ; [[.22:134|Cc. Madhya 22.134]]
+  ; [[books:cc:adi:22:134|Cc. Madhya 22.134]]
   : "When one is firmly fixed in devotional service, whether he executes one or many processes of devotional service, the waves of love of Godhead will awaken.
 
-  ; [[.22:135|Cc. Madhya 22.135]]
+  ; [[books:cc:adi:22:135|Cc. Madhya 22.135]]
   : "There are many devotees who execute only one of the nine processes of devotional service. Nonetheless, they get ultimate success. Devotees like Mahārāja Ambarīṣa execute all nine items and they also get ultimate success.
 
-  ; [[.22:136|Cc. Madhya 22.136]]
+  ; [[books:cc:adi:22:136|Cc. Madhya 22.136]]
   : " 'Mahārāja Parīkṣit attained the highest perfection, shelter at Lord Kṛṣṇa's lotus feet, simply by hearing about Lord Viṣṇu. Śukadeva Gosvāmī attained perfection simply by reciting Śrīmad-Bhāgavatam. Prahlāda Mahārāja attained perfection by remembering the Lord. The goddess of fortune attained perfection by massaging the transcendental legs of Mahā-Viṣṇu. Mahārāja Pṛthu attained perfection by worshiping the Deity, and Akrūra attained perfection by offering prayers unto the Lord. Vajrāṅgajī [Hanumān] attained perfection by rendering service to Lord Rāmacandra, and Arjuna attained perfection simply by being Kṛṣṇa's friend. Bali Mahārāja attained perfection by dedicating everything to the lotus feet of Kṛṣṇa.'
 
-  ; [[.22:137-139|Cc. Madhya 22.137-139]]
+  ; [[books:cc:adi:22:137-139|Cc. Madhya 22.137-139]]
   : " 'Mahārāja Ambarīṣa always engaged his mind at the lotus feet of Kṛṣṇa, his words in describing the spiritual world and the Supreme Personality of Godhead, his hands in cleansing and washing the Lord's temple, his ears in hearing topics about the Supreme Lord, his eyes in seeing the Deity of Lord Kṛṣṇa in the temple, his body in touching the lotus feet of Vaiṣṇavas and embracing them, his nostrils in smelling the aroma of the tulasī leaves offered to Kṛṣṇa's lotus feet, his tongue in tasting food offered to Kṛṣṇa, his legs in going to places of pilgrimage like Vṛndāvana and Mathurā or to the Lord's temple, and his head in touching the lotus feet of the Lord and offering Him prayers. Thus Mahārāja Ambarīṣa desired only to serve the Lord faithfully. In this way he engaged his senses in the transcendental loving service of the Lord. As a result, he awakened his dormant loving propensity for the Lord's service.'
 
-  ; [[.22:140|Cc. Madhya 22.140]]
+  ; [[books:cc:adi:22:140|Cc. Madhya 22.140]]
   : "If a person gives up all material desires and completely engages in the transcendental loving service of Kṛṣṇa, as enjoined in revealed scriptures, he is never indebted to demigods, sages or forefathers.
 
-  ; [[.22:141|Cc. Madhya 22.141]]
+  ; [[books:cc:adi:22:141|Cc. Madhya 22.141]]
   : " 'One who has given up all material duties and taken full shelter at the lotus feet of Mukunda, who gives shelter to all, is not indebted to the demigods, great sages, ordinary living beings, relatives, friends, mankind or even one's forefathers who have passed away.'
 
-  ; [[.22:142|Cc. Madhya 22.142]]
+  ; [[books:cc:adi:22:142|Cc. Madhya 22.142]]
   : "Although the pure devotee does not follow all the regulative principles of varṇāśrama, he worships the lotus feet of Kṛṣṇa. Therefore he naturally has no tendency to commit sin.
 
-  ; [[.22:143|Cc. Madhya 22.143]]
+  ; [[books:cc:adi:22:143|Cc. Madhya 22.143]]
   : "If, however, a devotee accidentally becomes involved in a sinful activity, Kṛṣṇa purifies him. He does not have to undergo the regulative form of atonement.
 
-  ; [[.22:144|Cc. Madhya 22.144]]
+  ; [[books:cc:adi:22:144|Cc. Madhya 22.144]]
   : " 'One who has given up everything and taken full shelter at the lotus feet of Hari, the Supreme Personality of Godhead, is very dear to Kṛṣṇa. If he is involved in some sinful activity by accident, the Supreme Personality of Godhead, who is seated within everyone's heart, removes his sins without difficulty.'
 
-  ; [[.22:145|Cc. Madhya 22.145]]
+  ; [[books:cc:adi:22:145|Cc. Madhya 22.145]]
   : "The path of speculative knowledge and renunciation is not very essential for devotional service. Indeed, good qualities such as nonviolence and mind and sense control automatically accompany a devotee of Lord Kṛṣṇa.
 
-  ; [[.22:146|Cc. Madhya 22.146]]
+  ; [[books:cc:adi:22:146|Cc. Madhya 22.146]]
   : " 'For one who is fully engaged in My devotional service, whose mind is fixed on Me in bhakti-yoga, the path of speculative knowledge and dry renunciation is not very beneficial.'
 
-  ; [[.22:147|Cc. Madhya 22.147]]
+  ; [[books:cc:adi:22:147|Cc. Madhya 22.147]]
   : " 'O hunter, good qualities like nonviolence, which you have developed, are not very astonishing, for those who are engaged in the Lord's devotional service are never inclined to give pain to others because of envy.'
 
-  ; [[.22:148|Cc. Madhya 22.148]]
+  ; [[books:cc:adi:22:148|Cc. Madhya 22.148]]
   : "My dear Sanātana, I have now in detail described devotional service according to the regulative principles. Now hear from Me about spontaneous devotional service and its characteristics.
 
-  ; [[.22:149|Cc. Madhya 22.149]]
+  ; [[books:cc:adi:22:149|Cc. Madhya 22.149]]
   : "The original inhabitants of Vṛndāvana are attached to Kṛṣṇa spontaneously in devotional service. Nothing can compare to such spontaneous devotional service, which is called rāgātmikā bhakti. When a devotee follows in the footsteps of the devotees of Vṛndāvana, his devotional service is called rāgānugā bhakti.
 
-  ; [[.22:150|Cc. Madhya 22.150]]
+  ; [[books:cc:adi:22:150|Cc. Madhya 22.150]]
   : " 'When one becomes attached to the Supreme Personality of Godhead, his natural inclination to love is fully absorbed in thoughts of the Lord. That is called transcendental attachment, and devotional service according to that attachment is called rāgātmikā, or spontaneous devotional service.'
 
-  ; [[.22:151|Cc. Madhya 22.151]]
+  ; [[books:cc:adi:22:151|Cc. Madhya 22.151]]
   : "The primary characteristic of spontaneous love is deep attachment for the Supreme Personality of Godhead. Absorption in Him is a marginal characteristic.
 
-  ; [[.22:152|Cc. Madhya 22.152]]
+  ; [[books:cc:adi:22:152|Cc. Madhya 22.152]]
   : "Thus devotional service which consists of rāga [deep attachment] is called rāgātmikā, spontaneous loving service. If a devotee covets such a position, he is considered to be most fortunate.
 
-  ; [[.22:153|Cc. Madhya 22.153]]
+  ; [[books:cc:adi:22:153|Cc. Madhya 22.153]]
   : "If one follows in the footsteps of the inhabitants of Vṛndāvana out of such transcendental covetousness, he does not care for the injunctions or reasonings of śāstra. That is the way of spontaneous love.
 
-  ; [[.22:154|Cc. Madhya 22.154]]
+  ; [[books:cc:adi:22:154|Cc. Madhya 22.154]]
   : " 'Devotional service in spontaneous love is vividly expressed and manifested by the inhabitants of Vṛndāvana. Devotional service that accords with their devotional service is called rāgānugā bhakti, or devotional service following in the wake of spontaneous loving service.'
 
-  ; [[.22:155|Cc. Madhya 22.155]]
+  ; [[books:cc:adi:22:155|Cc. Madhya 22.155]]
   : " 'When an advanced realized devotee hears about the affairs of the devotees of Vṛndāvana-in the mellows of śānta, dāsya, sakhya, vātsalya and mādhurya-he becomes inclined in that way, and his intelligence becomes attracted. Indeed, he begins to covet that particular type of devotion. When such covetousness is awakened, one's intelligence no longer depends on the instruction of śāstra, revealed scripture, logic or argument.'
 
-  ; [[.22:156-157|Cc. Madhya 22.156-157]]
+  ; [[books:cc:adi:22:156-157|Cc. Madhya 22.156-157]]
   : "There are two processes by which one may execute this rāgānugā bhakti-external and internal. When self-realized, the advanced devotee externally remains like a neophyte and executes all the śāstric injunctions, especially hearing and chanting. However, within his mind, in his original purified self-realized position, he serves Kṛṣṇa in Vṛndāvana in his particular way. He serves Kṛṣṇa twenty-four hours, all day and night.
 
-  ; [[.22:158|Cc. Madhya 22.158]]
+  ; [[books:cc:adi:22:158|Cc. Madhya 22.158]]
   : " 'The advanced devotee who is inclined to spontaneous loving service should follow the activities of a particular associate of Kṛṣṇa in Vṛndāvana. He should execute service externally as a regulative devotee as well as internally from his self-realized position. Thus he should perform devotional service both externally and internally.'
 
-  ; [[.22:159|Cc. Madhya 22.159]]
+  ; [[books:cc:adi:22:159|Cc. Madhya 22.159]]
   : "Actually the inhabitants of Vṛndāvana are very dear to Kṛṣṇa. If one wants to engage in spontaneous loving service, he must follow the inhabitants of Vṛndāvana and constantly engage in devotional service within his mind.
 
-  ; [[.22:160|Cc. Madhya 22.160]]
+  ; [[books:cc:adi:22:160|Cc. Madhya 22.160]]
   : " 'The devotee should always think of Kṛṣṇa within himself, and one should choose a very dear devotee who is a servitor of Kṛṣṇa in Vṛndāvana. One should constantly engage in topics about that servitor and his loving relationship to Kṛṣṇa, and one should live in Vṛndāvana. However, if one is physically unable to go to Vṛndāvana, he should mentally live there.'
 
-  ; [[.22:161|Cc. Madhya 22.161]]
+  ; [[books:cc:adi:22:161|Cc. Madhya 22.161]]
   : "Kṛṣṇa has many types of devotees-some are servants, some are friends, some are parents, and some are conjugal lovers. Those who are situated in one of these attitudes of spontaneous love according to their choice are considered to be on the path of spontaneous loving service.
 
-  ; [[.22:162|Cc. Madhya 22.162]]
+  ; [[books:cc:adi:22:162|Cc. Madhya 22.162]]
   : " 'My dear mother, Devahūti! O emblem of peace! My weapon, the disc of time, never vanquishes those for whom I am very dear, for whom I am the Supersoul, the son, friend, spiritual master, well-wisher, worshipable Deity and desired goal. Since the devotees are always attached to Me, they are never vanquished by the agents of time.'
 
-  ; [[.22:163|Cc. Madhya 22.163]]
+  ; [[books:cc:adi:22:163|Cc. Madhya 22.163]]
   : " 'Let me offer my respectful obeisances again and again to those who always eagerly meditate upon the Supreme Personality of Godhead as a husband, son, friend, brother, father or intimate friend.'
 
-  ; [[.22:164|Cc. Madhya 22.164]]
+  ; [[books:cc:adi:22:164|Cc. Madhya 22.164]]
   : "If one engages in spontaneous loving service to the Lord, his affection at the lotus feet of Kṛṣṇa gradually increases.
 
-  ; [[.22:165|Cc. Madhya 22.165]]
+  ; [[books:cc:adi:22:165|Cc. Madhya 22.165]]
   : "In the seed of affection, there is attachment which goes by two names, rati and bhāva. The Supreme Personality of Godhead comes under the control of such attachment.
 
-  ; [[.22:166|Cc. Madhya 22.166]]
+  ; [[books:cc:adi:22:166|Cc. Madhya 22.166]]
   : "That by which one can attain loving service to the Lord I have described in detail as the execution of devotional service called abhidheya.
 
-  ; [[.22:167|Cc. Madhya 22.167]]
+  ; [[books:cc:adi:22:167|Cc. Madhya 22.167]]
   : "My dear Sanātana, I have briefly described the process of devotional service in practice, which is the means for obtaining love of Kṛṣṇa. It cannot be described broadly."
 
-  ; [[.22:168|Cc. Madhya 22.168]]
+  ; [[books:cc:adi:22:168|Cc. Madhya 22.168]]
   : Whoever hears the process of practical devotional service very soon attains shelter at the lotus feet of Kṛṣṇa in love and affection.
 
-  ; [[.22:169|Cc. Madhya 22.169]]
+  ; [[books:cc:adi:22:169|Cc. Madhya 22.169]]
   : Praying at the lotus feet of Śrī Rūpa and Śrī Raghunātha, always desiring their mercy, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps.
 

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.8~~
-~~bc:Text 8~~
-
-{{description>Kṛṣṇa, the original form of the Personality of Godhead, is the summum bonum of the all-pervading Viṣṇu. He is all-perfect knowledge and all-perfect bliss. He is the Supreme Transcendence.}}
-
+---json
+{
+    "name":"Cc. Ādi 2.8",
+    "h1":"Text 8",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.8",
+    "description":"Kṛṣṇa, the original form of the Personality of Godhead, is the summum bonum of the all-pervading Viṣṇu. He is all-perfect knowledge and all-perfect bliss. He is the Supreme Transcendence."
+}
+---
 ====== Cc. Ādi 2.8 ======
 
 ===== Text =====

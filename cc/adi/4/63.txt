@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.63~~
-~~bc:Text 63~~
-
-{{description>"O Lord, You are the support of everything. The three attributes hlādinī, sandhinī and samvit exist in You as one spiritual energy. But the material modes, which cause happiness, misery and mixtures of the two, do not exist in You, for You have no material qualities."}}
-
+---json
+{
+    "name":"Cc. Ādi 4.63",
+    "h1":"Text 63",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.63",
+    "description":""O Lord, You are the support of everything. The three attributes hlādinī, sandhinī and samvit exist in You as one spiritual energy. But the material modes, which cause happiness, misery and mixtures of the two, do not exist in You, for You have no material qualities.""
+}
+---
 ====== Cc. Ādi 4.63 ======
 
 ===== Text =====

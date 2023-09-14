@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 9.6~~
-~~bc:Text 6~~
-
-{{description>I take shelter of the Supreme Personality of Godhead Śrī Caitanya Mahāprabhu, who Himself is the tree of transcendental love of Kṛṣṇa, its gardener and also the bestower and enjoyer of its fruits.}}
-
+---json
+{
+    "name":"Cc. Ādi 9.6",
+    "h1":"Text 6",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.6",
+    "description":"I take shelter of the Supreme Personality of Godhead Śrī Caitanya Mahāprabhu, who Himself is the tree of transcendental love of Kṛṣṇa, its gardener and also the bestower and enjoyer of its fruits."
+}
+---
 ====== Cc. Ādi 9.6 ======
 
 ===== Text =====

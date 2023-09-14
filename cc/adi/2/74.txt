@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.74~~
-~~bc:Text 74~~
-
-{{description>" 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'}}
-
+---json
+{
+    "name":"Cc. Ādi 2.74",
+    "h1":"Text 74",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.74",
+    "description":"" 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'"
+}
+---
 ====== Cc. Ādi 2.74 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 14.2~~
-~~bc:Text 2~~
-
-{{description>All glories to Śrī Caitanya Mahāprabhu, known as Gauracandra! All glories to Lord Nityānanda Prabhu! All glories to Advaita Ācārya, who is so exalted!}}
-
+---json
+{
+    "name":"Cc. Madhya 14.2",
+    "h1":"Text 2",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.2",
+    "description":"All glories to Śrī Caitanya Mahāprabhu, known as Gauracandra! All glories to Lord Nityānanda Prabhu! All glories to Advaita Ācārya, who is so exalted!"
+}
+---
 ====== Cc. Madhya 14.2 ======
 
 ===== Text =====

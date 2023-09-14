@@ -1,8 +1,11 @@
-~~Title:Nectar of Instruction Text 1~~
-~~bc:Text 1~~
-
-{{description>A sober person who can tolerate the urge to speak, the mind's demands, the actions of anger and the urges of the tongue, belly and genitals is qualified to make disciples all over the world.}}
-
+---json
+{
+    "name":"Nectar of Instruction Text 1",
+    "h1":"Text 1",
+    "title":"Nectar of Instruction Text 1",
+    "description":"A sober person who can tolerate the urge to speak, the mind's demands, the actions of anger and the urges of the tongue, belly and genitals is qualified to make disciples all over the world."
+}
+---
 ====== Text 1 ======
 
 > वाचो वेगं मनसः क्रोधवेगं

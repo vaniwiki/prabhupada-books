@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.51~~
-~~bc:Text 51~~
-
-{{description>"Garbhodakaśāyī Viṣṇu is the Supersoul of the aggregate of living entities, and Kṣīrodakaśāyī Viṣṇu is the Supersoul of each individual living being.}}
-
+---json
+{
+    "name":"Cc. Ādi 2.51",
+    "h1":"Text 51",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.51",
+    "description":""Garbhodakaśāyī Viṣṇu is the Supersoul of the aggregate of living entities, and Kṣīrodakaśāyī Viṣṇu is the Supersoul of each individual living being."
+}
+---
 ====== Cc. Ādi 2.51 ======
 
 ===== Text =====

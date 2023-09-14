@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 11.55~~
-~~bc:Text 55~~
-
-{{description>Śrīla Vyāsadeva described the pastimes of Kṛṣṇa in Śrīmad-Bhāgavatam. The Vyāsa of the pastimes of Lord Caitanya Mahāprabhu was Vṛndāvana dāsa.}}
-
+---json
+{
+    "name":"Cc. Ādi 11.55",
+    "h1":"Text 55",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.55",
+    "description":"Śrīla Vyāsadeva described the pastimes of Kṛṣṇa in Śrīmad-Bhāgavatam. The Vyāsa of the pastimes of Lord Caitanya Mahāprabhu was Vṛndāvana dāsa."
+}
+---
 ====== Cc. Ādi 11.55 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.200~~
-~~bc:Text 200~~
-
-{{description>"Stay with Me at Jagannātha Purī for one year, and after that I shall send you to Vṛndāvana."}}
-
+---json
+{
+    "name":"Cc. Antya 4.200",
+    "h1":"Text 200",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.200",
+    "description":""Stay with Me at Jagannātha Purī for one year, and after that I shall send you to Vṛndāvana.""
+}
+---
 ====== Cc. Antya 4.200 ======
 
 ===== Text =====

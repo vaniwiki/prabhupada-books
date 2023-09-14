@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.53~~
-~~bc:Text 53~~
-
-{{description>"Prior to the cosmic creation, only I exist, and no phenomena exist, either gross, subtle or primordial. After creation, only I exist in everything, and after annihilation, only I remain eternally.}}
-
+---json
+{
+    "name":"Cc. Ādi 1.53",
+    "h1":"Text 53",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.53",
+    "description":""Prior to the cosmic creation, only I exist, and no phenomena exist, either gross, subtle or primordial. After creation, only I exist in everything, and after annihilation, only I remain eternally."
+}
+---
 ====== Cc. Ādi 1.53 ======
 
 ===== Text =====

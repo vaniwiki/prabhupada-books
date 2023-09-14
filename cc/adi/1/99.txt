@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.99~~
-~~bc:Text 99~~
-
-{{description>One of the bhāgavatas is the great scripture Śrīmad-Bhāgavatam, and the other is the pure devotee absorbed in the mellows of loving devotion.}}
-
+---json
+{
+    "name":"Cc. Ādi 1.99",
+    "h1":"Text 99",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.99",
+    "description":"One of the bhāgavatas is the great scripture Śrīmad-Bhāgavatam, and the other is the pure devotee absorbed in the mellows of loving devotion."
+}
+---
 ====== Cc. Ādi 1.99 ======
 
 ===== Text =====

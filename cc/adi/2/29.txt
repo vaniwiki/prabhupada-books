@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.29~~
-~~bc:Text 29~~
-
-{{description>This Personality of Godhead [Śrī Kṛṣṇa] has two hands and holds a flute, whereas the other [Nārāyaṇa] has four hands, with conch, wheel, mace and lotus.}}
-
+---json
+{
+    "name":"Cc. Ādi 2.29",
+    "h1":"Text 29",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.29",
+    "description":"This Personality of Godhead [Śrī Kṛṣṇa] has two hands and holds a flute, whereas the other [Nārāyaṇa] has four hands, with conch, wheel, mace and lotus."
+}
+---
 ====== Cc. Ādi 2.29 ======
 
 ===== Text =====

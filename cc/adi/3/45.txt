@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.45~~
-~~bc:Text 45~~
-
-{{description>He is peaceful, self-controlled and fully devoted to the transcendental service of Lord Śrī Kṛṣṇa. He is affectionate toward His devotees, He is gentle, and He is equally disposed toward all living beings.}}
-
+---json
+{
+    "name":"Cc. Ādi 3.45",
+    "h1":"Text 45",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.45",
+    "description":"He is peaceful, self-controlled and fully devoted to the transcendental service of Lord Śrī Kṛṣṇa. He is affectionate toward His devotees, He is gentle, and He is equally disposed toward all living beings."
+}
+---
 ====== Cc. Ādi 3.45 ======
 
 ===== Text =====

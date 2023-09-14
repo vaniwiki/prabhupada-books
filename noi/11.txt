@@ -1,8 +1,11 @@
-~~Title:Nectar of Instruction Text 11~~
-~~bc:Text 11~~
-
-{{description>Of the many objects of favored delight and of all the lovable damsels of Vrajabhūmi, Śrīmatī Rādhārāṇī is certainly the most treasured object of Kṛṣṇa's love. And, in every respect, Her divine kuṇḍa is described by great sages as similarly dear to Him. Undoubtedly Rādhā-kuṇḍa is very rarely attained even by the great devotees; therefore it is even more difficult for ordinary devotees to attain. If one simply bathes once within those holy waters, one's pure love of Kṛṣṇa is fully aroused.}}
-
+---json
+{
+    "name":"Nectar of Instruction Text 11",
+    "h1":"Text 11",
+    "title":"Nectar of Instruction Text 11",
+    "description":"Of the many objects of favored delight and of all the lovable damsels of Vrajabhūmi, Śrīmatī Rādhārāṇī is certainly the most treasured object of Kṛṣṇa's love. And, in every respect, Her divine kuṇḍa is described by great sages as similarly dear to Him. Undoubtedly Rādhā-kuṇḍa is very rarely attained even by the great devotees; therefore it is even more difficult for ordinary devotees to attain. If one simply bathes once within those holy waters, one's pure love of Kṛṣṇa is fully aroused."
+}
+---
 ====== Text 11 ======
 
 > कृष्णस्योच्चैः प्रणयवसतिः प्रेयसीभ्योपि राधा 

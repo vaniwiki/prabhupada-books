@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.5~~
-~~bc:Text 5~~
-
-{{description>Lord Kṛṣṇa, the son of the King of Vraja, is the Supreme Lord. He eternally enjoys transcendental pastimes in His eternal abode, Goloka, which includes Vrajadhāma.}}
-
+---json
+{
+    "name":"Cc. Ādi 3.5",
+    "h1":"Text 5",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.5",
+    "description":"Lord Kṛṣṇa, the son of the King of Vraja, is the Supreme Lord. He eternally enjoys transcendental pastimes in His eternal abode, Goloka, which includes Vrajadhāma."
+}
+---
 ====== Cc. Ādi 3.5 ======
 
 ===== Text =====

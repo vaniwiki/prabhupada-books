@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.130~~
-~~bc:Text 130~~
-
-{{description>"Praṇava [oṁkāra] is the mahā-vākya [mahā-mantra] in the Vedas. Śaṅkarācārya's followers cover this to stress without authority the mantra tat tvam asi.}}
-
+---json
+{
+    "name":"Cc. Ādi 7.130",
+    "h1":"Text 130",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.130",
+    "description":""Praṇava [oṁkāra] is the mahā-vākya [mahā-mantra] in the Vedas. Śaṅkarācārya's followers cover this to stress without authority the mantra tat tvam asi."
+}
+---
 ====== Cc. Ādi 7.130 ======
 
 ===== Text =====

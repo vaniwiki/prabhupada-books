@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 1.8~~
-~~bc:Text 8~~
-
-{{description>All glories to Lord Śrī Caitanya Mahāprabhu! All glories to Lord Nityānanda! All glories to Advaita Ācārya! All glories to the devotees of Lord Śrī Caitanya Mahāprabhu!}}
-
+---json
+{
+    "name":"Cc. Antya 1.8",
+    "h1":"Text 8",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.8",
+    "description":"All glories to Lord Śrī Caitanya Mahāprabhu! All glories to Lord Nityānanda! All glories to Advaita Ācārya! All glories to the devotees of Lord Śrī Caitanya Mahāprabhu!"
+}
+---
 ====== Cc. Antya 1.8 ======
 
 ===== Text =====

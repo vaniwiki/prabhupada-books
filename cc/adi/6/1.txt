@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 6.1~~
-~~bc:Text 1~~
-
-{{description>I offer my respectful obeisances to Śrī Advaita Ācārya, whose activities are all wonderful. By His mercy, even a foolish person can describe His characteristics.}}
-
+---json
+{
+    "name":"Cc. Ādi 6.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.1",
+    "description":"I offer my respectful obeisances to Śrī Advaita Ācārya, whose activities are all wonderful. By His mercy, even a foolish person can describe His characteristics."
+}
+---
 ====== Cc. Ādi 6.1 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 5.77~~
-~~bc:Text 77~~
-
-{{description>"Viṣṇu has three forms called puruṣas. The first, Mahā-Viṣṇu, is the creator of the total material energy [mahat], the second is Garbhodaśāyī, who is situated within each universe, and the third is Kṣīrodaśāyī, who lives in the heart of every living being. He who knows these three becomes liberated from the clutches of māyā.}}
-
+---json
+{
+    "name":"Cc. Ādi 5.77",
+    "h1":"Text 77",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.77",
+    "description":""Viṣṇu has three forms called puruṣas. The first, Mahā-Viṣṇu, is the creator of the total material energy [mahat], the second is Garbhodaśāyī, who is situated within each universe, and the third is Kṣīrodaśāyī, who lives in the heart of every living being. He who knows these three becomes liberated from the clutches of māyā."
+}
+---
 ====== Cc. Ādi 5.77 ======
 
 ===== Text =====

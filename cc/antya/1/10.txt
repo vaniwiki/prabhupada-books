@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 1.10~~
-~~bc:Text 10~~
-
-{{description>I have briefly described the antya-līlā within the description of the madhya-līlā.}}
-
+---json
+{
+    "name":"Cc. Antya 1.10",
+    "h1":"Text 10",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.10",
+    "description":"I have briefly described the antya-līlā within the description of the madhya-līlā."
+}
+---
 ====== Cc. Antya 1.10 ======
 
 ===== Text =====

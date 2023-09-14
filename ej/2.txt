@@ -1,7 +1,10 @@
-~~bc:Chapter 2~~
-~~Title:Easy Journey to Other Planets 2: Varieties of Planetary Systems~~
-
-{{description>In these days, when men are trying to go to the moon, people should not think that Kṛṣṇa consciousness is concerned with something old-fashioned.}}
+---json
+{
+    "name":"Easy Journey 2",
+    "h1":"Chapter 2",
+    "title":"Easy Journey to Other Planets 2: Varieties of Planetary Systems",
+    "description":"In these days, when men are trying to go to the moon, people should not think that Kṛṣṇa consciousness is concerned with something old-fashioned."
+}
 
 ====== Varieties of Planetary Systems ======
 
@@ -146,6 +149,3 @@ The people I have seen in America are very restless. They go from one apartment 
 We have to give up this body, willingly or unwillingly. The day will come when we will have to submit to the laws of nature and give up this body. Even President Kennedy in his procession had to submit to nature's law and change his body for another body. He could not say, "Oh, I am the President; I am Mr. Kennedy. I cannot do that." He was forced to do it. That is the way nature works.
 
 The purpose of our developed human consciousness is to understand how nature works. Aside from human consciousness, there is consciousness in dogs, cats, worms, trees, birds, beasts and all other species. But we are not meant to live in that consciousness. The //Śrīmad-Bhāgavatam// says that after many, many births we have attained the human form of body. Now we should not misuse it. Please utilize this human life to develop Kṛṣṇa consciousness and be happy.
-
-
-

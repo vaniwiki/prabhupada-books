@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.77~~
-~~bc:Text 77~~
-
-{{description>Lord Śrī Kṛṣṇa Caitanya is the initiator of saṅkīrtana [congregational chanting of the holy name of the Lord]. One who worships Him through saṅkīrtana is fortunate indeed.}}
-
+---json
+{
+    "name":"Cc. Ādi 3.77",
+    "h1":"Text 77",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.77",
+    "description":"Lord Śrī Kṛṣṇa Caitanya is the initiator of saṅkīrtana [congregational chanting of the holy name of the Lord]. One who worships Him through saṅkīrtana is fortunate indeed."
+}
+---
 ====== Cc. Ādi 3.77 ======
 
 ===== Text =====

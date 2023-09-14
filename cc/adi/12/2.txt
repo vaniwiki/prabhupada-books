@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 12.2~~
-~~bc:Text 2~~
-
-{{description> All glories to Śrī Caitanya Mahāprabhu! All glories to Lord Nityānanda! All glories to Śrī Advaita Prabhu! All of Them are glorious.}}
-
+---json
+{
+    "name":"Cc. Ādi 12.2",
+    "h1":"Text 2",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.2",
+    "description":" All glories to Śrī Caitanya Mahāprabhu! All glories to Lord Nityānanda! All glories to Śrī Advaita Prabhu! All of Them are glorious."
+}
+---
 ====== Cc. Ādi 12.2 ======
 
 ===== Text =====

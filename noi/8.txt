@@ -1,8 +1,11 @@
-~~Title:Nectar of Instruction Text 8~~
-~~bc:Text 8~~
-
-{{description>The essence of all advice is that one should utilize one's full time—twenty-four hours a day—in nicely chanting and remembering the Lord's divine name, transcendental form, qualities and eternal pastimes, thereby gradually engaging one's tongue and mind. In this way one should reside in Vraja [Goloka Vṛndāvana dhāma] and serve Kṛṣṇa under the guidance of devotees. One should follow in the footsteps of the Lord's beloved devotees, who are deeply attached to His devotional service.}}
-
+---json
+{
+    "name":"Nectar of Instruction Text 8",
+    "h1":"Text 8",
+    "title":"Nectar of Instruction Text 8",
+    "description":"The essence of all advice is that one should utilize one's full time—twenty-four hours a day—in nicely chanting and remembering the Lord's divine name, transcendental form, qualities and eternal pastimes, thereby gradually engaging one's tongue and mind. In this way one should reside in Vraja [Goloka Vṛndāvana dhāma] and serve Kṛṣṇa under the guidance of devotees. One should follow in the footsteps of the Lord's beloved devotees, who are deeply attached to His devotional service."
+}
+---
 ====== Text 8 ======
 
 > तन्नामरूपचरितादिसुकीर्तनानु-

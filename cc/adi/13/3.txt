@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 13.3~~
-~~bc:Text 3~~
-
-{{description>All glories to Gadādhara Prabhu! All glories to Śrīvāsa Ṭhākura! All glories to Mukunda Prabhu and Vāsudeva Prabhu! All glories to Haridāsa Ṭhākura!}}
-
+---json
+{
+    "name":"Cc. Ādi 13.3",
+    "h1":"Text 3",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.3",
+    "description":"All glories to Gadādhara Prabhu! All glories to Śrīvāsa Ṭhākura! All glories to Mukunda Prabhu and Vāsudeva Prabhu! All glories to Haridāsa Ṭhākura!"
+}
+---
 ====== Cc. Ādi 13.3 ======
 
 ===== Text =====

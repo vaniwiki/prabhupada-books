@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 1.35~~
-~~bc:Text 35~~
-
-{{description>Some of the books compiled by Śrīla Sanātana Gosvāmī were the Hari-bhakti-vilāsa, Bṛhad-bhāgavatāmṛta, Daśama-ṭippanī and Daśama-carita.}}
-
+---json
+{
+    "name":"Cc. Madhya 1.35",
+    "h1":"Text 35",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.35",
+    "description":"Some of the books compiled by Śrīla Sanātana Gosvāmī were the Hari-bhakti-vilāsa, Bṛhad-bhāgavatāmṛta, Daśama-ṭippanī and Daśama-carita."
+}
+---
 ====== Cc. Madhya 1.35 ======
 
 ===== Text =====

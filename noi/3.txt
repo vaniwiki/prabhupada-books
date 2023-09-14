@@ -1,8 +1,11 @@
-~~Title:Nectar of Instruction Text 3~~
-~~bc:Text 3~~
-
-{{description>There are six principles favorable to the execution of pure devotional service: (1) being enthusiastic, (2) endeavoring with confidence, (3) being patient, (4) acting according to regulative principles [such as śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇam—hearing, chanting and remembering Kṛṣṇa], (5) abandoning the association of nondevotees, and (6) following in the footsteps of the previous ācāryas. These six principles undoubtedly assure the complete success of pure devotional service.}}
-
+---json
+{
+    "name":"Nectar of Instruction Text 3",
+    "h1":"Text 3",
+    "title":"Nectar of Instruction Text 3",
+    "description":"There are six principles favorable to the execution of pure devotional service: (1) being enthusiastic, (2) endeavoring with confidence, (3) being patient, (4) acting according to regulative principles [such as śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇam—hearing, chanting and remembering Kṛṣṇa], (5) abandoning the association of nondevotees, and (6) following in the footsteps of the previous ācāryas. These six principles undoubtedly assure the complete success of pure devotional service."
+}
+---
 ====== Text 3 ======
 
 > उत्साहान्निश्चयाद्ढैर्यात्तत्तत्कर्मप्रवर्तनात् ।

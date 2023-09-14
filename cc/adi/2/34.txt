@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.34~~
-~~bc:Text 34~~
-
-{{description>Śrī Kṛṣṇa said, "O Brahmā, your father is Nārāyaṇa. I am but a cowherd boy. How can you be My son?"}}
-
+---json
+{
+    "name":"Cc. Ādi 2.34",
+    "h1":"Text 34",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.34",
+    "description":"Śrī Kṛṣṇa said, "O Brahmā, your father is Nārāyaṇa. I am but a cowherd boy. How can you be My son?""
+}
+---
 ====== Cc. Ādi 2.34 ======
 
 ===== Text =====

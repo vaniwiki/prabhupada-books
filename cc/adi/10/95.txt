@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 10.95~~
-~~bc:Text 95~~
-
-{{description>Thus Śrīla Raghunātha dāsa Gosvāmī came to Vṛndāvana, visited Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī and offered them his obeisances.}}
-
+---json
+{
+    "name":"Cc. Ādi 10.95",
+    "h1":"Text 95",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.95",
+    "description":"Thus Śrīla Raghunātha dāsa Gosvāmī came to Vṛndāvana, visited Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī and offered them his obeisances."
+}
+---
 ====== Cc. Ādi 10.95 ======
 
 ===== Text =====

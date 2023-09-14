@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 9.2~~
-~~bc:Text 2~~
-
-{{description>All glories to Śrī Kṛṣṇa Caitanya, who is known as Gaurahari! All glories to Advaita and Nityānanda Prabhu!}}
-
+---json
+{
+    "name":"Cc. Ādi 9.2",
+    "h1":"Text 2",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.2",
+    "description":"All glories to Śrī Kṛṣṇa Caitanya, who is known as Gaurahari! All glories to Advaita and Nityānanda Prabhu!"
+}
+---
 ====== Cc. Ādi 9.2 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 6.1~~
-~~bc:Text 1~~
-
-{{description>I offer my respectful obeisances unto Lord Gauracandra, the Supreme Personality of Godhead, who converted the hardhearted Sārvabhauma Bhaṭṭācārya, the reservoir of all bad logic, into a great devotee.}}
-
+---json
+{
+    "name":"Cc. Madhya 6.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.1",
+    "description":"I offer my respectful obeisances unto Lord Gauracandra, the Supreme Personality of Godhead, who converted the hardhearted Sārvabhauma Bhaṭṭācārya, the reservoir of all bad logic, into a great devotee."
+}
+---
 ====== Cc. Madhya 6.1 ======
 
 ===== Text =====

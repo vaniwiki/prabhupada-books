@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.101~~
-~~bc:Text 101~~
-
-{{description>The first wonder is that both brothers appear simultaneously, and the other is that They illuminate the innermost depths of the heart.}}
-
+---json
+{
+    "name":"Cc. Ādi 1.101",
+    "h1":"Text 101",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.101",
+    "description":"The first wonder is that both brothers appear simultaneously, and the other is that They illuminate the innermost depths of the heart."
+}
+---
 ====== Cc. Ādi 1.101 ======
 
 ===== Text =====

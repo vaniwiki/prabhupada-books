@@ -1,8 +1,11 @@
-~~Title:Light of the Bhāgavata 2~~
-~~bc:Text 2~~
-
-{{description>The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded.}}
-
+---json
+{
+    "name":"Light of the Bhāgavata 2",
+    "h1":"Text 2",
+    "title":"Light of the Bhāgavata 2",
+    "description":"The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded."
+}
+---
 <card>
 {{:artwork:light_of_the_bhagavata:lob_02.jpg|}}
 //Light of the Bhagavata, Plate 2//

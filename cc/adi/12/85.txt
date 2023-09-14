@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 12.85~~
-~~bc:Text 85~~
-
-{{description>The nineteenth branch was Śrī Hari Ācārya; the twentieth, Sādipuriyā Gopāla; the twenty-first, Kṛṣṇadāsa Brahmacārī; and the twenty-second, Puṣpagopāla.}}
-
+---json
+{
+    "name":"Cc. Ādi 12.85",
+    "h1":"Text 85",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.85",
+    "description":"The nineteenth branch was Śrī Hari Ācārya; the twentieth, Sādipuriyā Gopāla; the twenty-first, Kṛṣṇadāsa Brahmacārī; and the twenty-second, Puṣpagopāla."
+}
+---
 ====== Cc. Ādi 12.85 ======
 
 ===== Text =====

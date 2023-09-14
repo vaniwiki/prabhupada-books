@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 5.1~~
-~~bc:Text 1~~
-
-{{description>I offer my respectful obeisances unto the Supreme Personality of God [brahmaṇya-deva], who appeared as Sākṣi-gopāla to benefit a brāhmaṇa. For one hundred days He traveled through the country, walking on His own legs. Thus His activities are wonderful.}}
-
+---json
+{
+    "name":"Cc. Madhya 5.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.1",
+    "description":"I offer my respectful obeisances unto the Supreme Personality of God [brahmaṇya-deva], who appeared as Sākṣi-gopāla to benefit a brāhmaṇa. For one hundred days He traveled through the country, walking on His own legs. Thus His activities are wonderful."
+}
+---
 ====== Cc. Madhya 5.1 ======
 
 ===== Text =====

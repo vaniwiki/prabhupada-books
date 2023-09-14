@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.55~~
-~~bc:Text 55~~
-
-{{description>"As the material elements enter the bodies of all living beings and yet remain outside them all, I exist within all material creations and yet am not within them.}}
-
+---json
+{
+    "name":"Cc. Ādi 1.55",
+    "h1":"Text 55",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.55",
+    "description":""As the material elements enter the bodies of all living beings and yet remain outside them all, I exist within all material creations and yet am not within them."
+}
+---
 ====== Cc. Ādi 1.55 ======
 
 ===== Text =====

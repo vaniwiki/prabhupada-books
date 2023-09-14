@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.1~~
-~~bc:Text 1~~
-
-{{description>I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service, unto all the Vaiṣṇavas and unto the six Gosvāmīs, including Śrīla Rūpa Gosvāmī, Śrīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī and their associates. I offer my respectful obeisances unto Śrī Advaita Ācārya Prabhu, Śrī Nityānanda Prabhu and Śrī Caitanya Mahāprabhu, as well as all His devotees, headed by Śrīvāsa Ṭhākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa and Śrīmatī Rādhārāṇī and all the gopīs, headed by Lalitā and Viśākhā.}}
-
+---json
+{
+    "name":"Cc. Antya 3.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.1",
+    "description":"I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service, unto all the Vaiṣṇavas and unto the six Gosvāmīs, including Śrīla Rūpa Gosvāmī, Śrīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī and their associates. I offer my respectful obeisances unto Śrī Advaita Ācārya Prabhu, Śrī Nityānanda Prabhu and Śrī Caitanya Mahāprabhu, as well as all His devotees, headed by Śrīvāsa Ṭhākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa and Śrīmatī Rādhārāṇī and all the gopīs, headed by Lalitā and Viśākhā."
+}
+---
 ====== Cc. Antya 3.1 ======
 
 ===== Text =====

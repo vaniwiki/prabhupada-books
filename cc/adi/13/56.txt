@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 13.56~~
-~~bc:Text 56~~
-
-{{description>There was also Śrī Upendra Miśra, a resident of the district of Śrīhaṭṭa. He was a great devotee of Lord Viṣṇu, a learned scholar, a rich man and a reservoir of all good qualities.}}
-
+---json
+{
+    "name":"Cc. Ādi 13.56",
+    "h1":"Text 56",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.56",
+    "description":"There was also Śrī Upendra Miśra, a resident of the district of Śrīhaṭṭa. He was a great devotee of Lord Viṣṇu, a learned scholar, a rich man and a reservoir of all good qualities."
+}
+---
 ====== Cc. Ādi 13.56 ======
 
 ===== Text =====

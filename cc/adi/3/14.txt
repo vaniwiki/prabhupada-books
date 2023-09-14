@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.14~~
-~~bc:Text 14~~
-
-{{description>"For a long time I have not bestowed unalloyed loving service to Me upon the inhabitants of the world. Without such loving attachment, the existence of the material world is useless.}}
-
+---json
+{
+    "name":"Cc. Ādi 3.14",
+    "h1":"Text 14",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.14",
+    "description":""For a long time I have not bestowed unalloyed loving service to Me upon the inhabitants of the world. Without such loving attachment, the existence of the material world is useless."
+}
+---
 ====== Cc. Ādi 3.14 ======
 
 ===== Text =====

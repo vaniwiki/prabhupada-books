@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.1~~
-~~bc:Text 1~~
-
-{{description>I offer my obeisances to Sri Caitanya Mahāprabhu, by whose mercy even an ignorant child can swim across the ocean of conclusive truth, which is full of the crocodiles of various theories.}}
-
+---json
+{
+    "name":"Cc. Ādi 2.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.1",
+    "description":"I offer my obeisances to Sri Caitanya Mahāprabhu, by whose mercy even an ignorant child can swim across the ocean of conclusive truth, which is full of the crocodiles of various theories."
+}
+---
 ====== Cc. Ādi 2.1 ======
 
 ===== Text =====

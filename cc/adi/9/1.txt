@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 9.1~~
-~~bc:Text 1~~
-
-{{description>Let me offer my respectful obeisances unto the spiritual master of the entire world, Lord Śrī Kṛṣṇa Caitanya Mahāprabhu, by whose mercy even a dog can swim across a great ocean.}}
-
+---json
+{
+    "name":"Cc. Ādi 9.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.1",
+    "description":"Let me offer my respectful obeisances unto the spiritual master of the entire world, Lord Śrī Kṛṣṇa Caitanya Mahāprabhu, by whose mercy even a dog can swim across a great ocean."
+}
+---
 ====== Cc. Ādi 9.1 ======
 
 ===== Text =====

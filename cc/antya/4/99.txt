@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.99~~
-~~bc:Text 99~~
-
-{{description>Sanātana Gosvāmī replied, "O Haridāsa Ṭhākura, who is equal to you? You are one of the associates of Śrī Caitanya Mahāprabhu. Therefore you are the most fortunate.}}
-
+---json
+{
+    "name":"Cc. Antya 4.99",
+    "h1":"Text 99",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.99",
+    "description":"Sanātana Gosvāmī replied, "O Haridāsa Ṭhākura, who is equal to you? You are one of the associates of Śrī Caitanya Mahāprabhu. Therefore you are the most fortunate."
+}
+---
 ====== Cc. Antya 4.99 ======
 
 ===== Text =====

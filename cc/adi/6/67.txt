@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 6.67~~
-~~bc:Text 67~~
-
-{{description>"O Lord, remover of the afflictions of the inhabitants of Vṛndāvana! O hero of all women! O Lord who destroy the pride of Your devotees by Your sweet, gentle smile! O friend! We are Your maidservants. Please fulfill our desires and show us Your attractive lotus face."}}
-
+---json
+{
+    "name":"Cc. Ādi 6.67",
+    "h1":"Text 67",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.67",
+    "description":""O Lord, remover of the afflictions of the inhabitants of Vṛndāvana! O hero of all women! O Lord who destroy the pride of Your devotees by Your sweet, gentle smile! O friend! We are Your maidservants. Please fulfill our desires and show us Your attractive lotus face.""
+}
+---
 ====== Cc. Ādi 6.67 ======
 
 ===== Text =====

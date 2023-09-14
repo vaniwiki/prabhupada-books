@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 5.1~~
-~~bc:Text 1~~
-
-{{description>Let me offer my obeisances to Lord Śrī Nityānanda, the Supreme Personality of Godhead, whose opulence is wonderful and unlimited. By His will, even a fool can understand His identity.}}
-
+---json
+{
+    "name":"Cc. Ādi 5.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.1",
+    "description":"Let me offer my obeisances to Lord Śrī Nityānanda, the Supreme Personality of Godhead, whose opulence is wonderful and unlimited. By His will, even a fool can understand His identity."
+}
+---
 ====== Cc. Ādi 5.1 ======
 
 ===== Text =====

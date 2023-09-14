@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 22.2~~
-~~bc:Text 2~~
-
-{{description>All glories to Śrī Caitanya Mahāprabhu! All glories to Nityānanda Prabhu! All glories to Advaitacandra! All glories to all the devotees of Śrī Caitanya Mahāprabhu!}}
-
+---json
+{
+    "name":"Cc. Madhya 22.2",
+    "h1":"Text 2",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.2",
+    "description":"All glories to Śrī Caitanya Mahāprabhu! All glories to Nityānanda Prabhu! All glories to Advaitacandra! All glories to all the devotees of Śrī Caitanya Mahāprabhu!"
+}
+---
 ====== Cc. Madhya 22.2 ======
 
 ===== Text =====

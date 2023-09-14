@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.42~~
-~~bc:Text 42~~
-
-{{description>One who measures four cubits in height and in breadth by his own hand is celebrated as a great personality.}}
-
+---json
+{
+    "name":"Cc. Ādi 3.42",
+    "h1":"Text 42",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.42",
+    "description":"One who measures four cubits in height and in breadth by his own hand is celebrated as a great personality."
+}
+---
 ====== Cc. Ādi 3.42 ======
 
 ===== Text =====

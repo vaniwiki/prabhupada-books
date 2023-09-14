@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 22.1~~
-~~bc:Text 1~~
-
-{{description>I offer my respectful obeisances unto Lord Śrī Caitanya Mahāprabhu. He is an ocean of transcendental mercy, and although the subject matter of bhakti-yoga is very confidential, He has nonetheless manifested it so niceIy, even in this Age of Kali, the age of quarrel.}}
-
+---json
+{
+    "name":"Cc. Madhya 22.1",
+    "h1":"Text 1",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.1",
+    "description":"I offer my respectful obeisances unto Lord Śrī Caitanya Mahāprabhu. He is an ocean of transcendental mercy, and although the subject matter of bhakti-yoga is very confidential, He has nonetheless manifested it so niceIy, even in this Age of Kali, the age of quarrel."
+}
+---
 ====== Cc. Madhya 22.1 ======
 
 ===== Text =====

@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.47~~
-~~bc:Text 47~~
-
-{{description>Kṛṣṇa said, "Brahmā, I cannot understand what you are saying. Lord Nārāyaṇa is He who sits in the hearts of all living beings and lies down in the waters of the Kāraṇa Ocean."}}
-
+---json
+{
+    "name":"Cc. Ādi 2.47",
+    "h1":"Text 47",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.47",
+    "description":"Kṛṣṇa said, "Brahmā, I cannot understand what you are saying. Lord Nārāyaṇa is He who sits in the hearts of all living beings and lies down in the waters of the Kāraṇa Ocean.""
+}
+---
 ====== Cc. Ādi 2.47 ======
 
 ===== Text =====

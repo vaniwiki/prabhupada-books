@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.8~~
-~~bc:Text 8~~
-
-{{description>Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, is the supreme enjoyer in the rāsa dance. He is the leader of the damsels of Vraja, and all others are simply His associates.}}
-
+---json
+{
+    "name":"Cc. Ādi 7.8",
+    "h1":"Text 8",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.8",
+    "description":"Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, is the supreme enjoyer in the rāsa dance. He is the leader of the damsels of Vraja, and all others are simply His associates."
+}
+---
 ====== Cc. Ādi 7.8 ======
 
 ===== Text =====

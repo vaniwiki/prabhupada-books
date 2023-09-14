@@ -1,8 +1,11 @@
-~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 5.111~~
-~~bc:Text 111~~
-
-{{description>There, in part of the ocean of milk, lies Śvetadvīpa, the abode of the sustainer, Lord Viṣṇu.}}
-
+---json
+{
+    "name":"Cc. Ādi 5.111",
+    "h1":"Text 111",
+    "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.111",
+    "description":"There, in part of the ocean of milk, lies Śvetadvīpa, the abode of the sustainer, Lord Viṣṇu."
+}
+---
 ====== Cc. Ādi 5.111 ======
 
 ===== Text =====

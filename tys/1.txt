@@ -2,7 +2,7 @@
 {
     "name":"TYS 1: The Perfection of Yoga",
     "h1":"Chapter 1",
-    "title":"Topmost Yoga System 1: The Perfection of Yoga"
+    "title":"(.*?)",
     "description":""
 }
 ---

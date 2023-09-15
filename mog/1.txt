@@ -2,7 +2,7 @@
 {
     "name":"Transcendental Knowledge",
     "h1":"Chapter 1",
-    "title":"MOG 1: Transcendental Knowledge"
+    "title":"(.*?)",
     "description":""
 }
 ---

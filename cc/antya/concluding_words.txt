@@ -2,7 +2,7 @@
 {
     "name":"Concluding Words",
     "h1":"Concluding Words",
-    "title":"Cc Concluding Words"
+    "title":"(.*?)",
     "description":""
 }
 ---

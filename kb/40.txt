@@ -2,7 +2,7 @@
 {
     "name":"Prayers by Akrūra",
     "h1":"Chapter 40",
-    "title":"KṚṢṆA 40: Prayers by Akrūra"
+    "title":"(.*?)",
     "description":""
 }
 ---

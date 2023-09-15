@@ -2,7 +2,7 @@
 {
     "name":"The Devotee",
     "h1":"Chapter 12",
-    "title":"TLC 12: The Devotee"
+    "title":"(.*?)",
     "description":""
 }
 ---

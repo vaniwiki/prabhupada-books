@@ -2,7 +2,7 @@
 {
     "name":"Lord Caitanya in Five Features",
     "h1":"Chapter 7",
-    "title":"Cc. Ādi 7: Lord Caitanya in Five Features"
+    "title":"(.*?)",
     "description":""
 }
 ---

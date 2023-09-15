@@ -2,7 +2,7 @@
 {
     "name":"Uddhava Visits Vṛndāvana",
     "h1":"Chapter 46",
-    "title":"KṚṢṆA 46: Uddhava Visits Vṛndāvana"
+    "title":"(.*?)",
     "description":""
 }
 ---

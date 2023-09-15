@@ -2,7 +2,7 @@
 {
     "name":"Conjugal Affection",
     "h1":"Chapter 33",
-    "title":"Nectar of Devotion 33: Conjugal Affection"
+    "title":"(.*?)",
     "description":""
 }
 ---

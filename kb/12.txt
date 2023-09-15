@@ -2,7 +2,7 @@
 {
     "name":"The Killing of the Aghāsura Demon",
     "h1":"Chapter 12",
-    "title":"KṚṢṆA 12: The Killing of the Aghāsura Demon"
+    "title":"(.*?)",
     "description":""
 }
 ---

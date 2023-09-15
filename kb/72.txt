@@ -2,7 +2,7 @@
 {
     "name":"The Liberation of King Jarāsandha",
     "h1":"Chapter 72",
-    "title":"KṚṢṆA 72: The Liberation of King Jarāsandha"
+    "title":"(.*?)",
     "description":""
 }
 ---

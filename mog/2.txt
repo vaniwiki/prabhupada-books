@@ -2,7 +2,7 @@
 {
     "name":"Karma-yoga",
     "h1":"Chapter 2",
-    "title":"MOG 2: Karma-yoga"
+    "title":"(.*?)",
     "description":""
 }
 ---

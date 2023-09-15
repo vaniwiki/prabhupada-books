@@ -2,7 +2,7 @@
 {
     "name":"Approaching Kṛṣṇa, the All-pervading Truth",
     "h1":"Chapter 4",
-    "title":"TQK 4: Approaching Kṛṣṇa, the All-pervading Truth"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The First Morning Walk: April 18, 1973",
     "h1":"Chapter 1",
-    "title":"LCFL 1: The First Morning Walk: April 18, 1973"
+    "title":"(.*?)",
     "description":""
 }
 ---

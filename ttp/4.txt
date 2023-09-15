@@ -2,7 +2,7 @@
 {
     "name":"“I Love Kṛṣṇa More Than Anything!”",
     "h1":"Chapter 4",
-    "title":"TTP 4: “I Love Kṛṣṇa More Than Anything!”"
+    "title":"(.*?)",
     "description":""
 }
 ---

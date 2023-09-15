@@ -2,7 +2,7 @@
 {
     "name":"Approaching a Bona Fide Guru",
     "h1":"Chapter 4",
-    "title":"TLK 4: Approaching a Bona Fide Guru"
+    "title":"(.*?)",
     "description":""
 }
 ---

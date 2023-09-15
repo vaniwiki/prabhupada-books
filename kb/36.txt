@@ -2,7 +2,7 @@
 {
     "name":"Kaṁsa Sends Akrūra for Kṛṣṇa",
     "h1":"Chapter 36",
-    "title":"KṚṢṆA 36: Kaṁsa Sends Akrūra for Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

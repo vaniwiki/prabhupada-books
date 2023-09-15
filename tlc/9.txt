@@ -2,7 +2,7 @@
 {
     "name":"The Opulences of Kṛṣṇa",
     "h1":"Chapter 9",
-    "title":"TLC 9: The Opulences of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

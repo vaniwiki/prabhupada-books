@@ -2,7 +2,7 @@
 {
     "name":"Knowledge Beyond Saṁsāra",
     "h1":"Chapter 2",
-    "title":"RV 2: Knowledge Beyond Saṁsāra"
+    "title":"(.*?)",
     "description":""
 }
 ---

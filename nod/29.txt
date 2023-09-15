@@ -2,7 +2,7 @@
 {
     "name":"Expressions of Love for Kṛṣṇa",
     "h1":"Chapter 29",
-    "title":"Nectar of Devotion 29: Expressions of Love for Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

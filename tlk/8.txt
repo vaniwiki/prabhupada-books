@@ -2,7 +2,7 @@
 {
     "name":"Bhakti-yoga: The Supreme Yoga System",
     "h1":"Chapter 8",
-    "title":"TLK 8: Bhakti-yoga: The Supreme Yoga System"
+    "title":"(.*?)",
     "description":""
 }
 ---

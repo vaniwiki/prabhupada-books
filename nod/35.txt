@@ -2,7 +2,7 @@
 {
     "name":"Neutral Love of God",
     "h1":"Chapter 35",
-    "title":"Nectar of Devotion 35: Neutral Love of God"
+    "title":"(.*?)",
     "description":""
 }
 ---

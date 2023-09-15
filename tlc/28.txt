@@ -2,7 +2,7 @@
 {
     "name":"Relationship with the Supreme",
     "h1":"Chapter 28",
-    "title":"TLC 28: Relationship with the Supreme"
+    "title":"(.*?)",
     "description":""
 }
 ---

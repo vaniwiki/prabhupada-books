@@ -2,7 +2,7 @@
 {
     "name":"Destination After Death",
     "h1":"Chapter 9",
-    "title":"The Path of Perfection 9: Destination After Death"
+    "title":"(.*?)",
     "description":""
 }
 ---

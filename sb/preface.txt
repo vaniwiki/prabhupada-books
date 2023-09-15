@@ -2,7 +2,7 @@
 {
     "name":"Śrīmad-Bhāgavatam Preface",
     "h1":" Preface",
-    "title":" Śrīmad-Bhāgavatam Preface"
+    "title":"(.*?)",
     "description":""
 }
 ---

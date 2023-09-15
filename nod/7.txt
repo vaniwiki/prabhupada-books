@@ -2,7 +2,7 @@
 {
     "name":"Evidence Regarding Devotional Principles",
     "h1":"Chapter 7",
-    "title":"Nectar of Devotion 7: Evidence Regarding Devotional Principles"
+    "title":"(.*?)",
     "description":""
 }
 ---

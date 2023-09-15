@@ -2,7 +2,7 @@
 {
     "name":"Summary of Śrīmad Bhāgavatam Canto 10",
     "h1":"Summary",
-    "title":" SB Canto 10: Summary"
+    "title":"(.*?)",
     "description":""
 }
 ---

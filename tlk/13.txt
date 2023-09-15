@@ -2,7 +2,7 @@
 {
     "name":"Association with the Supreme Lord Through Hearing",
     "h1":"Chapter 13",
-    "title":"TLK 13: Association with the Supreme Lord Through Hearing"
+    "title":"(.*?)",
     "description":""
 }
 ---

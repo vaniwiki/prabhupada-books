@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Recovers the Son of His Teacher",
     "h1":"Chapter 45",
-    "title":"KṚṢṆA 45: Kṛṣṇa Recovers the Son of His Teacher"
+    "title":"(.*?)",
     "description":""
 }
 ---

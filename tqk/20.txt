@@ -2,7 +2,7 @@
 {
     "name":"Full Surrender",
     "h1":"Chapter 20",
-    "title":"TQK 20: Full Surrender"
+    "title":"(.*?)",
     "description":""
 }
 ---

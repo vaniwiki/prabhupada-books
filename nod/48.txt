@@ -2,14 +2,14 @@
 {
     "name":"Dread and Ghastliness",
     "h1":"Chapter 48",
-    "title":"Nectar of Devotion 48: Dread and Ghastliness"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Dread and Ghastliness ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_48_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_48_NOD.mp3}}*/
 
 ===== Dread =====
 

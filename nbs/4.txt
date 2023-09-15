@@ -2,7 +2,7 @@
 {
     "name":"Sūtra 4",
     "h1":"Sūtra 4",
-    "title":"NBS 4"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Ill-motivated Dhṛtarāṣṭra",
     "h1":"Chapter 49",
-    "title":"KṚṢṆA 49: Ill-motivated Dhṛtarāṣṭra"
+    "title":"(.*?)",
     "description":""
 }
 ---

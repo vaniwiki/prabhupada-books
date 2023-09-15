@@ -2,7 +2,7 @@
 {
     "name":"Killing the Demon Pralambāsura",
     "h1":"Chapter 18",
-    "title":"KṚṢṆA 18: Killing the Demon Pralambāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

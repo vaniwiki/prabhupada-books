@@ -2,7 +2,7 @@
 {
     "name":"TYS 6: The Hare Kṛṣṇa Mantra",
     "h1":"Chapter 6",
-    "title":"Topmost Yoga System 6: The Hare Kṛṣṇa Mantra"
+    "title":"(.*?)",
     "description":""
 }
 ---

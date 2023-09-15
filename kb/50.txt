@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Erects the Dvārakā Fort",
     "h1":"Chapter 50",
-    "title":"KṚṢṆA 50: Kṛṣṇa Erects the Dvārakā Fort"
+    "title":"(.*?)",
     "description":""
 }
 ---

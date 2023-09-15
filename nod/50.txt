@@ -2,7 +2,7 @@
 {
     "name":"Further Analysis of Mixed Rasas",
     "h1":"Chapter 50",
-    "title":"Nectar of Devotion 50: Further Analysis of Mixed Rasas"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Learning Steadiness in Kṛṣṇa Consciousness",
     "h1":"Chapter 5",
-    "title":"Matchless Gift 5: Learning Steadiness in Kṛṣṇa Consciousness"
+    "title":"(.*?)",
     "description":""
 }
 ---

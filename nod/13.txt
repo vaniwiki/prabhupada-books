@@ -2,7 +2,7 @@
 {
     "name":"The Mahā-mantra",
     "h1":"Chapter 13",
-    "title":"Nectar of Devotion 13: The Mahā-mantra"
+    "title":"(.*?)",
     "description":""
 }
 ---

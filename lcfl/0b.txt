@@ -2,7 +2,7 @@
 {
     "name":"Science: Truth and Fiction",
     "h1":" Introduction",
-    "title":"LCFL Introduction"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Lord Kṛṣṇa’s Wonderful Activities",
     "h1":"Chapter 14",
-    "title":"TQK 14: Lord Kṛṣṇa’s Wonderful Activities"
+    "title":"(.*?)",
     "description":""
 }
 ---

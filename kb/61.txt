@@ -2,7 +2,7 @@
 {
     "name":"The Genealogical Table of the Family of Kṛṣṇa",
     "h1":"Chapter 61",
-    "title":"KṚṢṆA 61: The Genealogical Table of the Family of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

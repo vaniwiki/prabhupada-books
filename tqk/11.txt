@@ -2,7 +2,7 @@
 {
     "name":"The Touch of Superior Energy",
     "h1":"Chapter 11",
-    "title":"TQK 11: The Touch of Superior Energy"
+    "title":"(.*?)",
     "description":""
 }
 ---

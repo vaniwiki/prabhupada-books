@@ -2,7 +2,7 @@
 {
     "name":"The Marriage of Sāmba",
     "h1":"Chapter 68",
-    "title":"KṚṢṆA 68: The Marriage of Sāmba"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Vision of the Universal Form",
     "h1":"Chapter 8",
-    "title":"KṚṢṆA 8: Vision of the Universal Form"
+    "title":"(.*?)",
     "description":""
 }
 ---

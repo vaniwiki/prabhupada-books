@@ -2,7 +2,7 @@
 {
     "name":"TYS 9: The Real Peace Formula",
     "h1":"Chapter 9",
-    "title":"Topmost Yoga System 9: The Real Peace Formula"
+    "title":"(.*?)",
     "description":""
 }
 ---

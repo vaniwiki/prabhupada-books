@@ -2,7 +2,7 @@
 {
     "name":"Killing the Demons Vatsāsura and Bakāsura",
     "h1":"Chapter 11",
-    "title":"KṚṢṆA 11: Killing the Demons Vatsāsura and Bakāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

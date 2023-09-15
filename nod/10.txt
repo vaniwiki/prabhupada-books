@@ -2,7 +2,7 @@
 {
     "name":"Techniques of Hearing and Memorizing",
     "h1":"Chapter 10",
-    "title":"Nectar of Devotion 10: Techniques of Hearing and Memorizing"
+    "title":"(.*?)",
     "description":""
 }
 ---

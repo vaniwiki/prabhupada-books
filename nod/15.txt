@@ -2,7 +2,7 @@
 {
     "name":"Spontaneous Devotional Service",
     "h1":"Chapter 15",
-    "title":"Nectar of Devotion 15: Spontaneous Devotional Service"
+    "title":"(.*?)",
     "description":""
 }
 ---

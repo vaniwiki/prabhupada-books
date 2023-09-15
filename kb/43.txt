@@ -2,7 +2,7 @@
 {
     "name":"The Killing of the Elephant Kuvalayāpīḍa",
     "h1":"Chapter 43",
-    "title":"KṚṢṆA 43: The Killing of the Elephant Kuvalayāpīḍa"
+    "title":"(.*?)",
     "description":""
 }
 ---

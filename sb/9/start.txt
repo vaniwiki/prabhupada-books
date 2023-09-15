@@ -2,7 +2,7 @@
 {
     "name":"Canto 9: Liberation",
     "h1":"Canto 9",
-    "title":"Śrīmad-Bhāgavatam Canto 9: Liberation"
+    "title":"(.*?)",
     "description":""
 }
 ---

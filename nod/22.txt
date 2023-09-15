@@ -2,14 +2,14 @@
 {
     "name":"Qualities of Kṛṣṇa Further Explained",
     "h1":"Chapter 22",
-    "title":"Nectar of Devotion 22: Qualities of Kṛṣṇa Further Explained"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Qualities of Kṛṣṇa Further Explained ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_22_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_22_NOD.mp3}}*/
 
 ===== 31. Heroic =====
 

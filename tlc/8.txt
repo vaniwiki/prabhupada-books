@@ -2,7 +2,7 @@
 {
     "name":"The Avatāras",
     "h1":"Chapter 8",
-    "title":"TLC 8: The Avatāras"
+    "title":"(.*?)",
     "description":""
 }
 ---

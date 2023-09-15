@@ -2,14 +2,14 @@
 {
     "name":"Compassion and Anger",
     "h1":"Chapter 47",
-    "title":"Nectar of Devotion 47: Compassion and Anger"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Compassion and Anger ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_47_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_47_NOD.mp3}}*/
 
 ===== Compassion =====
 

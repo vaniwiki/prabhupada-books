@@ -2,7 +2,7 @@
 {
     "name":"Attaining Perfection",
     "h1":"Chapter 8",
-    "title":"SSR 8: Attaining Perfection"
+    "title":"(.*?)",
     "description":"Every thoughtful human being asks the fundamental question, “What is the purpose of life?” Unfortunately, our difficulty in finding ultimate meaning is compounded by the fact that thousands of conflicting philosophies, religions, and ideologies and their proponents compete for our loyalty. Here Śrīla Prabhupāda provides some simple and enlightening guidance."
 }
 ---

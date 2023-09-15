@@ -2,7 +2,7 @@
 {
     "name":"Pradyumna Born to Kṛṣṇa and Rukmiṇī",
     "h1":"Chapter 55",
-    "title":"KṚṢṆA 55: Pradyumna Born to Kṛṣṇa and Rukmiṇī"
+    "title":"(.*?)",
     "description":""
 }
 ---

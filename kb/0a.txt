@@ -2,7 +2,7 @@
 {
     "name":"Dedication",
     "h1":"Dedication",
-    "title":"KṚṢṆA Dedication"
+    "title":"(.*?)",
     "description":""
 }
 ---

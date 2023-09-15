@@ -2,7 +2,7 @@
 {
     "name":"What Is Our Actual Value?",
     "h1":"Chapter 21",
-    "title":"TQK 21: What Is Our Actual Value?"
+    "title":"(.*?)",
     "description":""
 }
 ---

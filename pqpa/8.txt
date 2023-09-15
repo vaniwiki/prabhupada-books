@@ -2,7 +2,7 @@
 {
     "name":"Advancing in Kṛṣṇa Consciousness",
     "h1":"Chapter 8",
-    "title":"PQPA 8: Advancing in Kṛṣṇa Consciousness"
+    "title":"(.*?)",
     "description":""
 }
 ---

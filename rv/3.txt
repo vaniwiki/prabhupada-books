@@ -2,7 +2,7 @@
 {
     "name":"Knowledge of Kṛṣṇa’s Energies",
     "h1":"Chapter 3",
-    "title":"RV 3: Knowledge of Kṛṣṇa’s Energies"
+    "title":"(.*?)",
     "description":""
 }
 ---

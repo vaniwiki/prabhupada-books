@@ -2,7 +2,7 @@
 {
     "name":"The Superexcellent Power of Kṛṣṇa",
     "h1":"Chapter 89",
-    "title":"KṚṢṆA 89: The Superexcellent Power of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

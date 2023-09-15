@@ -2,7 +2,7 @@
 {
     "name":"Parenthood",
     "h1":"Chapter 43",
-    "title":"Nectar of Devotion 43: Parenthood"
+    "title":"(.*?)",
     "description":""
 }
 ---

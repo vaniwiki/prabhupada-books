@@ -2,7 +2,7 @@
 {
     "name":"Summary Description of Lord Kṛṣṇa’s Pastimes",
     "h1":"Chapter 90",
-    "title":"KṚṢṆA 90: Summary Description of Lord Kṛṣṇa’s Pastimes"
+    "title":"(.*?)",
     "description":""
 }
 ---

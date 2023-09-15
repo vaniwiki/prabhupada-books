@@ -2,7 +2,7 @@
 {
     "name":"The Story of the Syamantaka Jewel",
     "h1":"Chapter 56",
-    "title":"KṚṢṆA 56: The Story of the Syamantaka Jewel"
+    "title":"(.*?)",
     "description":""
 }
 ---

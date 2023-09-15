@@ -2,7 +2,7 @@
 {
     "name":"Eligibility of the Candidate for Accepting Devotional Service",
     "h1":"Chapter 3",
-    "title":"Nectar of Devotion 3: Eligibility of the Candidate for Accepting Devotional Service"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"How to Understand the Lord’s Activities",
     "h1":"Chapter 3",
-    "title":"TLK 3: How to Understand the Lord’s Activities"
+    "title":"(.*?)",
     "description":""
 }
 ---

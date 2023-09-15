@@ -2,7 +2,7 @@
 {
     "name":"Lord Kapila Begins to Explain Self-realization",
     "h1":"Chapter 7",
-    "title":"TLK 7: Lord Kapila Begins to Explain Self-realization"
+    "title":"(.*?)",
     "description":""
 }
 ---

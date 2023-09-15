@@ -2,14 +2,14 @@
 {
     "name":"Further Consideration of Devotional Principles",
     "h1":"Chapter 9",
-    "title":"Nectar of Devotion 9: Further Consideration of Devotional Principles"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Further Consideration of Devotional Principles ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_09_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_09_NOD.mp3}}*/
 
 ===== Blasphemy =====
 

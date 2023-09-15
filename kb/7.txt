@@ -2,7 +2,7 @@
 {
     "name":"Salvation of Tṛṇāvarta",
     "h1":"Chapter 7",
-    "title":"KṚṢṆA 7: Salvation of Tṛṇāvarta"
+    "title":"(.*?)",
     "description":""
 }
 ---

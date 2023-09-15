@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Defeats All the Princes and Takes Rukmiṇī Home to Dvārakā",
     "h1":"Chapter 54",
-    "title":"KṚṢṆA 54: Kṛṣṇa Defeats All the Princes and Takes Rukmiṇī Home to Dvārakā"
+    "title":"(.*?)",
     "description":""
 }
 ---

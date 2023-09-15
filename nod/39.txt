@@ -2,7 +2,7 @@
 {
     "name":"Ways of Meeting Kṛṣṇa",
     "h1":"Chapter 39",
-    "title":"Nectar of Devotion 39: Ways of Meeting Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

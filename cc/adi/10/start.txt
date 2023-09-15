@@ -2,7 +2,7 @@
 {
     "name":"The Trunk, Branches and Subbranches of the Caitanya Tree",
     "h1":"Chapter 10",
-    "title":"Cc. Ādi 10: The Trunk, Branches and Subbranches of the Caitanya Tree"
+    "title":"(.*?)",
     "description":""
 }
 ---

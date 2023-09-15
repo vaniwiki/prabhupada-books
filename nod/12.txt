@@ -2,7 +2,7 @@
 {
     "name":"Revealed Scriptures",
     "h1":"Chapter 12",
-    "title":"Nectar of Devotion 12: Revealed Scriptures"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Yoga as Meditation on Kṛṣṇa",
     "h1":"Chapter 3",
-    "title":"The Perfection of Yoga 3: Yoga as Meditation on Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

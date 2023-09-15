@@ -2,7 +2,7 @@
 {
     "name":"Lord Kṛṣṇa Fights with Bāṇāsura",
     "h1":"Chapter 63",
-    "title":"KṚṢṆA 63: Lord Kṛṣṇa Fights with Bāṇāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

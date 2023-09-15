@@ -2,7 +2,7 @@
 {
     "name":"Mastering the Mind and Senses",
     "h1":"Chapter 2",
-    "title":"The Path of Perfection 2: Mastering the Mind and Senses"
+    "title":"(.*?)",
     "description":""
 }
 ---

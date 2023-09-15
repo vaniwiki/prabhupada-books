@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 33",
     "h1":"Text 33",
-    "title":"Light of the Bhāgavata 33"
+    "title":"(.*?)",
     "description":"There are waterfalls flowing from the hills of the forest, but sometimes water does not flow from them. So the waterfalls are not like ordinary rainfall. They are compared to great reformers, who speak or do not speak, as the time requires."
 }
 ---

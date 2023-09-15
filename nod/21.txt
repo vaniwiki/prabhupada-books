@@ -2,7 +2,7 @@
 {
     "name":"Qualities of Śrī Kṛṣṇa",
     "h1":"Chapter 21",
-    "title":"Nectar of Devotion 21: Qualities of Śrī Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

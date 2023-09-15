@@ -2,7 +2,7 @@
 {
     "name":"Cutting Off Ties of Affection",
     "h1":"Chapter 24",
-    "title":"TQK 24: Cutting Off Ties of Affection"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Devotional Service in Attachment",
     "h1":"Chapter 13",
-    "title":"TLC 13: Devotional Service in Attachment"
+    "title":"(.*?)",
     "description":""
 }
 ---

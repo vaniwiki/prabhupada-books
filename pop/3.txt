@@ -2,7 +2,7 @@
 {
     "name":"Learning How to See God",
     "h1":"Chapter 3",
-    "title":"The Path of Perfection 3: Learning How to See God"
+    "title":"(.*?)",
     "description":""
 }
 ---

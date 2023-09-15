@@ -2,7 +2,7 @@
 {
     "name":"Killing the Keśī Demon and Vyomāsura",
     "h1":"Chapter 37",
-    "title":"KṚṢṆA 37: Killing the Keśī Demon and Vyomāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

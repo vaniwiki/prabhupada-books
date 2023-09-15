@@ -2,14 +2,14 @@
 {
     "name":"Other Ecstatic Symptoms",
     "h1":"Chapter 28",
-    "title":"Nectar of Devotion 28: Other Ecstatic Symptoms"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Other Ecstatic Symptoms ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_28_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_28_NOD.mp3}}*/
 
 ===== Existential Ecstatic Love for Kṛṣṇa =====
 

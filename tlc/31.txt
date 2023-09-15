@@ -2,7 +2,7 @@
 {
     "name":"The Supreme Perfection",
     "h1":"Chapter 31",
-    "title":"TLC 31: The Supreme Perfection"
+    "title":"(.*?)",
     "description":""
 }
 ---

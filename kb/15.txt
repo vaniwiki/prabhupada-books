@@ -2,7 +2,7 @@
 {
     "name":"Killing of Dhenukāsura",
     "h1":"Chapter 15",
-    "title":"KṚṢṆA 15: Killing of Dhenukāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

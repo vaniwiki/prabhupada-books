@@ -2,7 +2,7 @@
 {
     "name":"Birth of Lord Kṛṣṇa",
     "h1":"Chapter 3",
-    "title":"KṚṢṆA 3: Birth of Lord Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

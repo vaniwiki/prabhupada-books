@@ -2,7 +2,7 @@
 {
     "name":"Bewildering Pastimes",
     "h1":"Chapter 12",
-    "title":"TQK 12: Bewildering Pastimes"
+    "title":"(.*?)",
     "description":""
 }
 ---

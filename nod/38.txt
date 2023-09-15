@@ -2,7 +2,7 @@
 {
     "name":"Indifference and Separation",
     "h1":"Chapter 38",
-    "title":"Nectar of Devotion 38: Indifference and Separation"
+    "title":"(.*?)",
     "description":""
 }
 ---

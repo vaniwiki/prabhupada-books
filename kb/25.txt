@@ -2,7 +2,7 @@
 {
     "name":"Devastating Rainfall in Vṛndāvana",
     "h1":"Chapter 25",
-    "title":"KṚṢṆA 25: Devastating Rainfall in Vṛndāvana"
+    "title":"(.*?)",
     "description":""
 }
 ---

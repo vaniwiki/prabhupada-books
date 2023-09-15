@@ -2,7 +2,7 @@
 {
     "name":"Delivery of the Message of Kṛṣṇa to the Gopīs",
     "h1":"Chapter 47",
-    "title":"KṚṢṆA 47: Delivery of the Message of Kṛṣṇa to the Gopīs"
+    "title":"(.*?)",
     "description":""
 }
 ---

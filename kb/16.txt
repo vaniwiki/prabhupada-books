@@ -2,7 +2,7 @@
 {
     "name":"Subduing Kāliya",
     "h1":"Chapter 16",
-    "title":"KṚṢṆA 16: Subduing Kāliya"
+    "title":"(.*?)",
     "description":""
 }
 ---

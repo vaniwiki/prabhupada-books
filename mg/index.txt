@@ -2,7 +2,7 @@
 {
     "name":"Index",
     "h1":"Index",
-    "title":"Matchless Gift Index"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Additional Notes For This Chapter",
     "h1":" Notes",
-    "title":"SB 10.1 Additional Notes "
+    "title":"(.*?)",
     "description":""
 }
 ---

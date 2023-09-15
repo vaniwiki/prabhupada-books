@@ -2,7 +2,7 @@
 {
     "name":"Practicing Yoga in the Modern Age",
     "h1":"Chapter 5",
-    "title":"SSR 5: Practicing Yoga in the Modern Age"
+    "title":"(.*?)",
     "description":"The goals of modern-day Western yoga enthusiasts are dwarfed by the achievements of India’s ancient yogīs, who, according to historical accounts, could become smaller than atoms and lighter than air and who could travel, unaided, anywhere in the universe. Yet even these superachievements, says Śrīla Prabhupāda, are “only a step forward.” How the true pinnacle of human consciousness, superconsciousness, is obtainable—here and now—is disclosed by Śrīla Prabhupāda in the following talk given in 1967."
 }
 ---

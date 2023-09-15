@@ -2,7 +2,7 @@
 {
     "name":"Lord Kṛṣṇa’s Daily Activities",
     "h1":"Chapter 70",
-    "title":"KṚṢṆA 70: Lord Kṛṣṇa’s Daily Activities"
+    "title":"(.*?)",
     "description":""
 }
 ---

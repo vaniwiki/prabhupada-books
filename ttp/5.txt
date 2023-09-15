@@ -2,7 +2,7 @@
 {
     "name":"Realizing that God Is Everywhere",
     "h1":"Chapter 5",
-    "title":"TTP 5: Realizing that God Is Everywhere"
+    "title":"(.*?)",
     "description":""
 }
 ---

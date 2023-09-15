@@ -2,7 +2,7 @@
 {
     "name":"Advent of Lord Kṛṣṇa",
     "h1":"Chapter 1",
-    "title":"KṚṢṆA 1: Advent of Lord Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

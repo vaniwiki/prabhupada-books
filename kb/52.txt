@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa, the Ranchor",
     "h1":"Chapter 52",
-    "title":"KṚṢṆA 52: Kṛṣṇa, the Ranchor"
+    "title":"(.*?)",
     "description":""
 }
 ---

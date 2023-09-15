@@ -2,7 +2,7 @@
 {
     "name":"Yoga for the Modern Age",
     "h1":"Chapter 7",
-    "title":"The Path of Perfection 7: Yoga for the Modern Age"
+    "title":"(.*?)",
     "description":""
 }
 ---

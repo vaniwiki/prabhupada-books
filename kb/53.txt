@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Kidnaps Rukmiṇī",
     "h1":"Chapter 53",
-    "title":"KṚṢṆA 53: Kṛṣṇa Kidnaps Rukmiṇī"
+    "title":"(.*?)",
     "description":""
 }
 ---

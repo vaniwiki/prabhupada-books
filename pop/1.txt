@@ -2,7 +2,7 @@
 {
     "name":"Yoga as Action",
     "h1":"Chapter 1",
-    "title":"The Path of Perfection 1: Yoga as Action"
+    "title":"(.*?)",
     "description":""
 }
 ---

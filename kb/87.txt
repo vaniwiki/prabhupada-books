@@ -2,7 +2,7 @@
 {
     "name":"Prayers by the Personified Vedas",
     "h1":"Chapter 87",
-    "title":"KṚṢṆA 87: Prayers by the Personified Vedas"
+    "title":"(.*?)",
     "description":""
 }
 ---

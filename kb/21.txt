@@ -2,7 +2,7 @@
 {
     "name":"The Gopīs Attracted by the Flute",
     "h1":"Chapter 21",
-    "title":"KṚṢṆA 21: The Gopīs Attracted by the Flute"
+    "title":"(.*?)",
     "description":""
 }
 ---

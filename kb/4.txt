@@ -2,7 +2,7 @@
 {
     "name":"Kaṁsa Begins His Persecutions",
     "h1":"Chapter 4",
-    "title":"KṚṢṆA 4: Kaṁsa Begins His Persecutions"
+    "title":"(.*?)",
     "description":""
 }
 ---

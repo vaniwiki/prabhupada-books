@@ -2,7 +2,7 @@
 {
     "name":"Learning Tapasya, Self-Control",
     "h1":"Chapter 4",
-    "title":"Matchless Gift 4: Learning Tapasya, Self-Control"
+    "title":"(.*?)",
     "description":""
 }
 ---

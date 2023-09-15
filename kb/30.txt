@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa’s Hiding from the Gopīs",
     "h1":"Chapter 30",
-    "title":"KṚṢṆA 30: Kṛṣṇa’s Hiding from the Gopīs"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Action in Knowledge of Kṛṣṇa",
     "h1":"Chapter 8",
-    "title":"RV 8: Action in Knowledge of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Yoga as Reestablishing Relations with Kṛṣṇa",
     "h1":"Chapter 7",
-    "title":"The Perfection of Yoga 7: Yoga as Reestablishing Relations with Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

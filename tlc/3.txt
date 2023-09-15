@@ -2,7 +2,7 @@
 {
     "name":"Teachings to Sanātana Gosvāmī",
     "h1":"Chapter 3",
-    "title":"TLC 3: Teachings to Sanātana Gosvāmī"
+    "title":"(.*?)",
     "description":""
 }
 ---

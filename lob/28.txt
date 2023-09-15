@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 28",
     "h1":"Text 28",
-    "title":"Light of the Bhāgavata 28"
+    "title":"(.*?)",
     "description":"The fully beautiful scenery after the rainy season was attractive to the eyes of everyone, including Śrī Kṛṣṇa, the cause of all causes."
 }
 ---

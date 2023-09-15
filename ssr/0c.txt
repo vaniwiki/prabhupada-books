@@ -2,7 +2,7 @@
 {
     "name":"Introduction",
     "h1":"Introduction",
-    "title":"The Science of Self Realization, Introduction"
+    "title":"(.*?)",
     "description":""
 }
 ---

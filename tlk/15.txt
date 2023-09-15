@@ -2,7 +2,7 @@
 {
     "name":"Meditation on the Lord’s Transcendental Form",
     "h1":"Chapter 15",
-    "title":"TLK 15: Meditation on the Lord’s Transcendental Form"
+    "title":"(.*?)",
     "description":""
 }
 ---

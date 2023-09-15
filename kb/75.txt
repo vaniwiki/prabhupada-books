@@ -2,7 +2,7 @@
 {
     "name":"Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
     "h1":"Chapter 75",
-    "title":"KṚṢṆA 75: Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice"
+    "title":"(.*?)",
     "description":""
 }
 ---

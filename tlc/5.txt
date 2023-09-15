@@ -2,7 +2,7 @@
 {
     "name":"How to Approach God",
     "h1":"Chapter 5",
-    "title":"TLC 5: How to Approach God"
+    "title":"(.*?)",
     "description":""
 }
 ---

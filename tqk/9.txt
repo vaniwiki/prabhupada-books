@@ -2,7 +2,7 @@
 {
     "name":"Decreasing the Fever of Illusion",
     "h1":"Chapter 9",
-    "title":"TQK 9: Decreasing the Fever of Illusion"
+    "title":"(.*?)",
     "description":""
 }
 ---

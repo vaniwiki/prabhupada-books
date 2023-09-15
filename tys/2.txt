@@ -2,7 +2,7 @@
 {
     "name":"TYS 2: Yoga and the Master of Yoga",
     "h1":"Chapter 2",
-    "title":"Topmost Yoga System 2: Yoga and the Master of Yoga"
+    "title":"(.*?)",
     "description":""
 }
 ---

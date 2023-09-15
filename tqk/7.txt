@@ -2,7 +2,7 @@
 {
     "name":"Dangerous Encounters",
     "h1":"Chapter 7",
-    "title":"TQK 7: Dangerous Encounters"
+    "title":"(.*?)",
     "description":""
 }
 ---

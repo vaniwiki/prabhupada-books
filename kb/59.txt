@@ -2,7 +2,7 @@
 {
     "name":"Deliverance of the Demon Bhaumāsura",
     "h1":"Chapter 59",
-    "title":"KṚṢṆA 59: Deliverance of the Demon Bhaumāsura"
+    "title":"(.*?)",
     "description":""
 }
 ---

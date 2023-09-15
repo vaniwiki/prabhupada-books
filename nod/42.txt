@@ -2,7 +2,7 @@
 {
     "name":"Fraternal Loving Affairs",
     "h1":"Chapter 42",
-    "title":"Nectar of Devotion 42: Fraternal Loving Affairs"
+    "title":"(.*?)",
     "description":""
 }
 ---

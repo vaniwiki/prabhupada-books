@@ -2,7 +2,7 @@
 {
     "name":"The First Stages of Devotion",
     "h1":"Chapter 2",
-    "title":"Nectar of Devotion 2: The First Stages of Devotion"
+    "title":"(.*?)",
     "description":""
 }
 ---

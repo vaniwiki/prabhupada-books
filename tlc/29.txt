@@ -2,7 +2,7 @@
 {
     "name":"Pure Love for Kṛṣṇa",
     "h1":"Chapter 29",
-    "title":"TLC 29: Pure Love for Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

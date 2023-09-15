@@ -2,7 +2,7 @@
 {
     "name":"TYS 5: Our Real Life",
     "h1":"Chapter 5",
-    "title":"Topmost Yoga System 5: Our Real Life"
+    "title":"(.*?)",
     "description":""
 }
 ---

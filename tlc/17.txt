@@ -2,7 +2,7 @@
 {
     "name":"Lord Caitanya, the Original Personality of Godhead",
     "h1":"Chapter 17",
-    "title":"TLC 17: Lord Caitanya, the Original Personality of Godhead"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Consciousness: The Perfection of Mercy",
     "h1":"Chapter 6",
-    "title":"TTP 6: Kṛṣṇa Consciousness: The Perfection of Mercy"
+    "title":"(.*?)",
     "description":""
 }
 ---

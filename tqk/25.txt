@@ -2,7 +2,7 @@
 {
     "name":"Unalloyed Devotion",
     "h1":"Chapter 25",
-    "title":"TQK 25: Unalloyed Devotion"
+    "title":"(.*?)",
     "description":""
 }
 ---

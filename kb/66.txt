@@ -2,7 +2,7 @@
 {
     "name":"The Deliverance of Pauṇḍraka and the King of Kāśī",
     "h1":"Chapter 66",
-    "title":"KṚṢṆA 66: The Deliverance of Pauṇḍraka and the King of Kāśī"
+    "title":"(.*?)",
     "description":""
 }
 ---

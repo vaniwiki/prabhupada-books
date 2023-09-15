@@ -2,7 +2,7 @@
 {
     "name":"Acting in Knowledge of Kṛṣṇa",
     "h1":"Chapter 7",
-    "title":"PQPA 7: Acting in Knowledge of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

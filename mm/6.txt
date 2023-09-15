@@ -2,7 +2,7 @@
 {
     "name":"Mukunda-mālā-stotra, Sūtra 6",
     "h1":"Sūtra 6",
-    "title":"Mukunda-mālā-stotra, Sūtra 6"
+    "title":"(.*?)",
     "description":"O Lord, killer of the demon Naraka! Let me reside either in the realm of the demigods, in the world of human beings, or in hell, as You please. I pray only that at the point of death I may remember Your two lotus feet, whose beauty defies that of the lotus growing in the Śarat season."
 }
 ---

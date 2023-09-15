@@ -2,7 +2,7 @@
 {
     "name":"Lord Kṛṣṇa Returns to the City of Hastināpura",
     "h1":"Chapter 73",
-    "title":"KṚṢṆA 73: Lord Kṛṣṇa Returns to the City of Hastināpura"
+    "title":"(.*?)",
     "description":""
 }
 ---

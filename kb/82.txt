@@ -2,7 +2,7 @@
 {
     "name":"Lord Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana",
     "h1":"Chapter 82",
-    "title":"KṚṢṆA 82: Lord Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana"
+    "title":"(.*?)",
     "description":""
 }
 ---

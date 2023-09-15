@@ -2,7 +2,7 @@
 {
     "name":"Becoming Pure",
     "h1":"Chapter 5",
-    "title":"PQPA 5: Becoming Pure"
+    "title":"(.*?)",
     "description":""
 }
 ---

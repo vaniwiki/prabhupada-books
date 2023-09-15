@@ -2,7 +2,7 @@
 {
     "name":"The Gopīs’ Feelings of Separation",
     "h1":"Chapter 35",
-    "title":"KṚṢṆA 35: The Gopīs’ Feelings of Separation"
+    "title":"(.*?)",
     "description":""
 }
 ---

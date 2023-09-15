@@ -2,7 +2,7 @@
 {
     "name":"Wonderful Kṛṣṇa",
     "h1":"Chapter 26",
-    "title":"KṚṢṆA 26: Wonderful Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The Most Intelligent Woman",
     "h1":"Chapter 3",
-    "title":"TQK 3: The Most Intelligent Woman"
+    "title":"(.*?)",
     "description":""
 }
 ---

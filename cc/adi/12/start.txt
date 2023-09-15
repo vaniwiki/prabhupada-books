@@ -2,7 +2,7 @@
 {
     "name":"The Expansions of Advaita Ācārya and Gadādhara Paṇḍita",
     "h1":"Chapter 12",
-    "title":"Cc. Ādi 12: The Expansions of Advaita Ācārya and Gadādhara Paṇḍita"
+    "title":"(.*?)",
     "description":""
 }
 ---

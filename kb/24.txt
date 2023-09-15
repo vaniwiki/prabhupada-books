@@ -2,7 +2,7 @@
 {
     "name":"Worshiping Govardhana Hill",
     "h1":"Chapter 24",
-    "title":"KṚṢṆA 24: Worshiping Govardhana Hill"
+    "title":"(.*?)",
     "description":""
 }
 ---

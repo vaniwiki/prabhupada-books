@@ -2,7 +2,7 @@
 {
     "name":"Extinguishing the Forest Fire",
     "h1":"Chapter 17",
-    "title":"KṚṢṆA 17: Extinguishing the Forest Fire"
+    "title":"(.*?)",
     "description":""
 }
 ---

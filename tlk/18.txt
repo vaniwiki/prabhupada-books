@@ -2,7 +2,7 @@
 {
     "name":"Devotional Service: The Final Perfection",
     "h1":"Chapter 18",
-    "title":"TLK 18: Devotional Service: The Final Perfection"
+    "title":"(.*?)",
     "description":""
 }
 ---

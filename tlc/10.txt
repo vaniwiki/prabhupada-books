@@ -2,7 +2,7 @@
 {
     "name":"The Beauty of Kṛṣṇa",
     "h1":"Chapter 10",
-    "title":"TLC 10: The Beauty of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Personal and Impersonal Realization",
     "h1":"Chapter 25",
-    "title":"TLC 25: Personal and Impersonal Realization"
+    "title":"(.*?)",
     "description":""
 }
 ---

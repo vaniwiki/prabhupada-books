@@ -2,7 +2,7 @@
 {
     "name":"Beyond the Senses",
     "h1":"Chapter 2",
-    "title":"TQK 2: Beyond the Senses"
+    "title":"(.*?)",
     "description":""
 }
 ---

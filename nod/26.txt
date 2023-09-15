@@ -2,7 +2,7 @@
 {
     "name":"Stimulation for Ecstatic Love",
     "h1":"Chapter 26",
-    "title":"Nectar of Devotion 26: Stimulation for Ecstatic Love"
+    "title":"(.*?)",
     "description":""
 }
 ---

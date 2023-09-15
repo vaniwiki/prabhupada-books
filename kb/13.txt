@@ -2,7 +2,7 @@
 {
     "name":"The Stealing of the Boys and Calves by Brahmā",
     "h1":"Chapter 13",
-    "title":"KṚṢṆA 13: The Stealing of the Boys and Calves by Brahmā"
+    "title":"(.*?)",
     "description":""
 }
 ---

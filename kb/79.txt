@@ -2,7 +2,7 @@
 {
     "name":"The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
     "h1":"Chapter 79",
-    "title":"KṚṢṆA 79: The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places"
+    "title":"(.*?)",
     "description":""
 }
 ---

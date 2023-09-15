@@ -2,7 +2,7 @@
 {
     "name":"The Wise Man",
     "h1":"Chapter 4",
-    "title":"TLC 4: The Wise Man"
+    "title":"(.*?)",
     "description":""
 }
 ---

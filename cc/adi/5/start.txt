@@ -2,7 +2,7 @@
 {
     "name":"The Glories of Lord Nityānanda Balarāma",
     "h1":"Chapter 5",
-    "title":"Cc. Ādi 5: The Glories of Lord Nityānanda Balarāma"
+    "title":"(.*?)",
     "description":""
 }
 ---

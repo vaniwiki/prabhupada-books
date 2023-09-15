@@ -2,7 +2,7 @@
 {
     "name":"Perverted Expression of Mellows",
     "h1":"Chapter 51",
-    "title":"Nectar of Devotion 51: Perverted Expression of Mellows"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 41",
     "h1":"Text 41",
-    "title":"Light of the Bhāgavata 41"
+    "title":"(.*?)",
     "description":"In the clear sky of autumn, the beautiful moon among the beautiful stars becomes the cynosure of all eyes, just as Lord Śrī Kṛṣṇa is the central attraction in the Vṛṣṇi dynasty or in the family of Yadu."
 }
 ---

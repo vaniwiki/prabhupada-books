@@ -2,7 +2,7 @@
 {
     "name":"The Ecstasy of the Lord and His Devotees",
     "h1":"Chapter 14",
-    "title":"TLC 14: The Ecstasy of the Lord and His Devotees"
+    "title":"(.*?)",
     "description":""
 }
 ---

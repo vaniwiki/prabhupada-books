@@ -2,7 +2,7 @@
 {
     "name":"The Symptoms of a Sadhu",
     "h1":"Chapter 11",
-    "title":"TLK 11: The Symptoms of a Sadhu"
+    "title":"(.*?)",
     "description":""
 }
 ---

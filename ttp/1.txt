@@ -2,7 +2,7 @@
 {
     "name":"The Dearmost Person",
     "h1":"Chapter 1",
-    "title":"TTP 1: The Dearmost Person"
+    "title":"(.*?)",
     "description":""
 }
 ---

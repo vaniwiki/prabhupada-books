@@ -2,7 +2,7 @@
 {
     "name":"Ecstatic Love",
     "h1":"Chapter 17",
-    "title":"Nectar of Devotion 17: Ecstatic Love"
+    "title":"(.*?)",
     "description":""
 }
 ---

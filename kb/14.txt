@@ -2,7 +2,7 @@
 {
     "name":"Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
     "h1":"Chapter 14",
-    "title":"KṚṢṆA 14: Prayers Offered by Lord Brahmā to Lord Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

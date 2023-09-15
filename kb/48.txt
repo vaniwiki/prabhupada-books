@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa Pleases His Devotees",
     "h1":"Chapter 48",
-    "title":"KṚṢṆA 48: Kṛṣṇa Pleases His Devotees"
+    "title":"(.*?)",
     "description":""
 }
 ---

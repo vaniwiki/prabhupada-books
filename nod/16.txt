@@ -2,14 +2,14 @@
 {
     "name":"Varieties of Love for Kṛṣṇa",
     "h1":"Chapter 16",
-    "title":"Nectar of Devotion 16: Varieties of Love for Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Varieties of Love for Kṛṣṇa ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_16_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_16_NOD.mp3}}*/
 
 ===== Parental Relationship =====
 

@@ -2,7 +2,7 @@
 {
     "name":"Cc. Antya 6.143",
     "h1":"Text 143",
-    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.143"
+    "title":"(.*?)",
     "description":""
 }
 ---

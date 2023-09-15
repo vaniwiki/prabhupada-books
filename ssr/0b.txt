@@ -2,7 +2,7 @@
 {
     "name":"Foreword",
     "h1":"Foreword",
-    "title":"The Science of Self Realization, Foreword"
+    "title":"(.*?)",
     "description":""
 }
 ---

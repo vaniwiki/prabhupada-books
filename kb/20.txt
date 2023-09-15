@@ -2,7 +2,7 @@
 {
     "name":"Description of Autumn",
     "h1":"Chapter 20",
-    "title":"KṚṢṆA 20: Description of Autumn"
+    "title":"(.*?)",
     "description":""
 }
 ---

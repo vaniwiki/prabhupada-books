@@ -2,7 +2,7 @@
 {
     "name":"Dedication",
     "h1":"Dedication",
-    "title":"The Science of Self Realization, Dedication"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The Master of the Senses",
     "h1":"Chapter 6",
-    "title":"TQK 6: The Master of the Senses"
+    "title":"(.*?)",
     "description":""
 }
 ---

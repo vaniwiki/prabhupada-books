@@ -2,7 +2,7 @@
 {
     "name":"Conclusion",
     "h1":"Chapter 32",
-    "title":"TLC 32: Conclusion"
+    "title":"(.*?)",
     "description":""
 }
 ---

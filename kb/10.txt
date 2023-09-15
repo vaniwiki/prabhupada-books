@@ -2,7 +2,7 @@
 {
     "name":"Deliverance of Nalakūvara and Maṇigrīva",
     "h1":"Chapter 10",
-    "title":"KṚṢṆA 10: Deliverance of Nalakūvara and Maṇigrīva"
+    "title":"(.*?)",
     "description":""
 }
 ---

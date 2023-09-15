@@ -2,7 +2,7 @@
 {
     "name":"“We Are Spoiling Our Lives”",
     "h1":"Chapter 2",
-    "title":"TTP 2: “We Are Spoiling Our Lives”"
+    "title":"(.*?)",
     "description":""
 }
 ---

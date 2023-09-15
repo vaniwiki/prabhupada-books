@@ -2,7 +2,7 @@
 {
     "name":"The Deliverance of Śālva",
     "h1":"Chapter 77",
-    "title":"KṚṢṆA 77: The Deliverance of Śālva"
+    "title":"(.*?)",
     "description":""
 }
 ---

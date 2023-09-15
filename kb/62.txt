@@ -2,7 +2,7 @@
 {
     "name":"The Meeting of Uṣā and Aniruddha",
     "h1":"Chapter 62",
-    "title":"KṚṢṆA 62: The Meeting of Uṣā and Aniruddha"
+    "title":"(.*?)",
     "description":""
 }
 ---

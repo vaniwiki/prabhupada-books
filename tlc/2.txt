@@ -2,7 +2,7 @@
 {
     "name":"Sanātana Gosvāmī",
     "h1":"Chapter 2",
-    "title":"TLC 2: Sanātana Gosvāmī"
+    "title":"(.*?)",
     "description":""
 }
 ---

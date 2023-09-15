@@ -2,7 +2,7 @@
 {
     "name":"Meeting of Nanda and Vasudeva",
     "h1":"Chapter 5",
-    "title":"KṚṢṆA 5: Meeting of Nanda and Vasudeva"
+    "title":"(.*?)",
     "description":""
 }
 ---

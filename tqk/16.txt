@@ -2,7 +2,7 @@
 {
     "name":"Returning to Our Natural Consciousness",
     "h1":"Chapter 16",
-    "title":"TQK 16: Returning to Our Natural Consciousness"
+    "title":"(.*?)",
     "description":""
 }
 ---

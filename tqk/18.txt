@@ -2,7 +2,7 @@
 {
     "name":"Liberation from Ignorance and Suffering",
     "h1":"Chapter 18",
-    "title":"TQK 18: Liberation from Ignorance and Suffering"
+    "title":"(.*?)",
     "description":""
 }
 ---

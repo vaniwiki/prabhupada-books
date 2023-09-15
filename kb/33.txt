@@ -2,7 +2,7 @@
 {
     "name":"Description of the Rāsa Dance",
     "h1":"Chapter 33",
-    "title":"KṚṢṆA 33: Description of the Rāsa Dance"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Transcendental Mellow",
     "h1":"Chapter 20",
-    "title":"Nectar of Devotion 20: Transcendental Mellow"
+    "title":"(.*?)",
     "description":""
 }
 ---

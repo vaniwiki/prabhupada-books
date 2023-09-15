@@ -2,7 +2,7 @@
 {
     "name":"Talks with Sārvabhauma Bhaṭṭācārya",
     "h1":"Chapter 24",
-    "title":"TLC 24: Talks with Sārvabhauma Bhaṭṭācārya"
+    "title":"(.*?)",
     "description":""
 }
 ---

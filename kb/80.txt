@@ -2,7 +2,7 @@
 {
     "name":"Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
     "h1":"Chapter 80",
-    "title":"KṚṢṆA 80: Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

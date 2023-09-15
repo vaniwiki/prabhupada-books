@@ -2,7 +2,7 @@
 {
     "name":"Perception of the Supersoul",
     "h1":"Chapter 6",
-    "title":"The Path of Perfection 6: Perception of the Supersoul"
+    "title":"(.*?)",
     "description":""
 }
 ---

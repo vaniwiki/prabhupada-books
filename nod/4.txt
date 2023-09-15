@@ -2,7 +2,7 @@
 {
     "name":"Devotional Service Surpasses All Liberation",
     "h1":"Chapter 4",
-    "title":"Nectar of Devotion 4: Devotional Service Surpasses All Liberation"
+    "title":"(.*?)",
     "description":""
 }
 ---

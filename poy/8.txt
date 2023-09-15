@@ -2,7 +2,7 @@
 {
     "name":"The Perfection of Yoga",
     "h1":"Chapter 8",
-    "title":"The Perfection of Yoga 8: The Perfection of Yoga"
+    "title":"(.*?)",
     "description":""
 }
 ---

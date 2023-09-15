@@ -2,7 +2,7 @@
 {
     "name":"Taking to Kṛṣṇa Consciousness",
     "h1":"Chapter 6",
-    "title":"Elevation to Kṛṣṇa Consciousness 6: Taking to Kṛṣṇa Consciousness"
+    "title":"(.*?)",
     "description":""
 }
 ---

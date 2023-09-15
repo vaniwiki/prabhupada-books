@@ -2,7 +2,7 @@
 {
     "name":"SB 1.14.19",
     "h1":"Text 19",
-    "title":"Śrīmad Bhāgavatam 1.14.19"
+    "title":"(.*?)",
     "description":""
 }
 ---

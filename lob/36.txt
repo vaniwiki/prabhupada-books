@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 36",
     "h1":"Text 36",
-    "title":"Light of the Bhāgavata 36"
+    "title":"(.*?)",
     "description":"With the progress of the autumn season the moist earth and muddy places begin to dry up, and the green vegetation begins to fade. This drying up and fading resembles the gradual disappearance of the false sense of affinity and ego."
 }
 ---

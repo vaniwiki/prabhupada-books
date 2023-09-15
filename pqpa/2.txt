@@ -2,7 +2,7 @@
 {
     "name":"Vedic Culture: Varṇāśrama-dharma",
     "h1":"Chapter 2",
-    "title":"PQPA 2: Vedic Culture: Varṇāśrama-dharma"
+    "title":"(.*?)",
     "description":""
 }
 ---

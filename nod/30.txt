@@ -2,14 +2,14 @@
 {
     "name":"Further Features of Ecstatic Love for Kṛṣṇa",
     "h1":"Chapter 30",
-    "title":"Nectar of Devotion 30: Further Features of Ecstatic Love for Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Further Features of Ecstatic Love for Kṛṣṇa ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_30_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_30_NOD.mp3}}*/
 
 ===== Confusion =====
 

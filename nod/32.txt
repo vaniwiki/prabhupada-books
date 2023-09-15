@@ -2,7 +2,7 @@
 {
     "name":"Symptoms of Continuous Ecstasy",
     "h1":"Chapter 32",
-    "title":"Nectar of Devotion 32: Symptoms of Continuous Ecstasy"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 40",
     "h1":"Text 40",
-    "title":"Light of the Bhāgavata 40"
+    "title":"(.*?)",
     "description":"In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas."
 }
 ---

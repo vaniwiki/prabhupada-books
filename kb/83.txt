@@ -2,7 +2,7 @@
 {
     "name":"Draupadī Meets the Queens of Kṛṣṇa",
     "h1":"Chapter 83",
-    "title":"KṚṢṆA 83: Draupadī Meets the Queens of Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

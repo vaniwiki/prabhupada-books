@@ -2,7 +2,7 @@
 {
     "name":"Additional Symptoms",
     "h1":"Chapter 31",
-    "title":"Nectar of Devotion 31: Additional Symptoms"
+    "title":"(.*?)",
     "description":""
 }
 ---

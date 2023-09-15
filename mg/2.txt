@@ -2,7 +2,7 @@
 {
     "name":"Getting Out — the Material Mire",
     "h1":"Chapter 2",
-    "title":"Matchless Gift 2: Getting Out — the Material Mire"
+    "title":"(.*?)",
     "description":""
 }
 ---

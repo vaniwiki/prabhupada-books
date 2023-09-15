@@ -2,7 +2,7 @@
 {
     "name":"Talks Between Kṛṣṇa and Rukmiṇī",
     "h1":"Chapter 60",
-    "title":"KṚṢṆA 60: Talks Between Kṛṣṇa and Rukmiṇī"
+    "title":"(.*?)",
     "description":""
 }
 ---

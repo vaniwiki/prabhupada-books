@@ -2,7 +2,7 @@
 {
     "name":"The Killing of Satrājit and Śatadhanvā",
     "h1":"Chapter 57",
-    "title":"KṚṢṆA 57: The Killing of Satrājit and Śatadhanvā"
+    "title":"(.*?)",
     "description":""
 }
 ---

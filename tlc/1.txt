@@ -2,7 +2,7 @@
 {
     "name":"Teachings to Rūpa Gosvāmī",
     "h1":"Chapter 1",
-    "title":"TLC 1: Teachings to Rūpa Gosvāmī"
+    "title":"(.*?)",
     "description":""
 }
 ---

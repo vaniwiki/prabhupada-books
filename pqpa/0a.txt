@@ -2,7 +2,7 @@
 {
     "name":"PQPA Introduction",
     "h1":"Introduction",
-    "title":"PQPA Introduction"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Bhaṭṭācārya is Converted",
     "h1":"Chapter 26",
-    "title":"TLC 26: Bhaṭṭācārya is Converted"
+    "title":"(.*?)",
     "description":""
 }
 ---

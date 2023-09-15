@@ -2,7 +2,7 @@
 {
     "name":"Knowledge by Way of the Mahātmās, Great Souls",
     "h1":"Chapter 4",
-    "title":"RV 4: Knowledge by Way of the Mahātmās, Great Souls"
+    "title":"(.*?)",
     "description":""
 }
 ---

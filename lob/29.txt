@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 29",
     "h1":"Text 29",
-    "title":"Light of the Bhāgavata 29"
+    "title":"(.*?)",
     "description":"Thus the rainy season came to an end. The autumn began, and there were no more clouds in the sky. All the reservoirs of water became crystal clear, and the wind was no longer forceful. Lord Kṛṣṇa, along with His elder brother, Lord Baladeva, lived at Vṛndāvana in this auspicious season."
 }
 ---

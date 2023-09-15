@@ -2,7 +2,7 @@
 {
     "name":"The Śrīmad Bhāgavatam",
     "h1":"Chapter 22",
-    "title":"TLC 22: The Śrīmad Bhāgavatam"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"TLC Preface",
     "h1":"Preface",
-    "title":"TLC Preface"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The Property of the Impoverished",
     "h1":"Chapter 10",
-    "title":"TQK 10: The Property of the Impoverished"
+    "title":"(.*?)",
     "description":""
 }
 ---

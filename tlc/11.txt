@@ -2,7 +2,7 @@
 {
     "name":"Service to the Lord",
     "h1":"Chapter 11",
-    "title":"TLC 11: Service to the Lord"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Purifying the Mind for Self-realization",
     "h1":"Chapter 9",
-    "title":"TLK 9: Purifying the Mind for Self-realization"
+    "title":"(.*?)",
     "description":""
 }
 ---

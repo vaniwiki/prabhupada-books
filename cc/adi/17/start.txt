@@ -2,7 +2,7 @@
 {
     "name":"The Pastimes of Lord Caitanya Mahāprabhu in His Youth",
     "h1":"Chapter 17",
-    "title":"Cc. Ādi 17: The Pastimes of Lord Caitanya Mahāprabhu in His Youth"
+    "title":"(.*?)",
     "description":""
 }
 ---

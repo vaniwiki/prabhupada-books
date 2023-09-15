@@ -2,7 +2,7 @@
 {
     "name":"TYS 7: How Bhakti-yoga Works",
     "h1":"Chapter 7",
-    "title":"Topmost Yoga System 7: How Bhakti-yoga Works"
+    "title":"(.*?)",
     "description":""
 }
 ---

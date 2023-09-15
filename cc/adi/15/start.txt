@@ -2,7 +2,7 @@
 {
     "name":"The Lord’s Paugaṇḍa-līlā",
     "h1":"Chapter 15",
-    "title":"Cc. Ādi 15: The Lord’s Paugaṇḍa-līlā"
+    "title":"(.*?)",
     "description":""
 }
 ---

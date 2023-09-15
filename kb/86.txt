@@ -2,7 +2,7 @@
 {
     "name":"The Kidnapping of Subhadrā and Lord Kṛṣṇa’s Visiting Śrutadeva and Bahulāśva",
     "h1":"Chapter 86",
-    "title":"KṚṢṆA 86: The Kidnapping of Subhadrā and Lord Kṛṣṇa’s Visiting Śrutadeva and Bahulāśva"
+    "title":"(.*?)",
     "description":""
 }
 ---

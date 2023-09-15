@@ -2,7 +2,7 @@
 {
     "name":"Exploring the Spiritual Frontier",
     "h1":"Chapter 7",
-    "title":"SSR 7: Exploring the Spiritual Frontier"
+    "title":"(.*?)",
     "description":"Several years after Śrīla Prabhupāda first arrived in America, a disciple discovered the diary he had kept during his passage from India on the steamship Jaladuta. Inside was a poem, handwritten in Bengali, that Śrīla Prabhupāda had written on board the ship just after it had arrived in Boston harbor. The poem beautifully captures Śrīla Prabhupāda’s first impressions of Western civilization and reveals his heartfelt determination to change the consciousness of America."
 }
 ---

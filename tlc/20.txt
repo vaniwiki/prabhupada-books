@@ -2,7 +2,7 @@
 {
     "name":"The Goal of Vedānta Study",
     "h1":"Chapter 20",
-    "title":"TLC 20: The Goal of Vedānta Study"
+    "title":"(.*?)",
     "description":""
 }
 ---

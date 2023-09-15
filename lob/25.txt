@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 25",
     "h1":"Text 25",
-    "title":"Light of the Bhāgavata 25"
+    "title":"(.*?)",
     "description":"The Lord reciprocated the feelings of the inhabitants of the forest of Vṛndāvana. When there was rainfall, the Lord took shelter at the feet of the trees or in the caves and enjoyed the taste of different fruits with his eternal associates the cowherd boys. He played with them, sat with them, and ate fruits with them."
 }
 ---

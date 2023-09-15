@@ -2,7 +2,7 @@
 {
     "name":"Mother Yaśodā Binding Lord Kṛṣṇa",
     "h1":"Chapter 9",
-    "title":"KṚṢṆA 9: Mother Yaśodā Binding Lord Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

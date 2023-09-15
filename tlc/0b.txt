@@ -2,7 +2,7 @@
 {
     "name":"TLC Prologue",
     "h1":"Prologue",
-    "title":"TLC Prologue"
+    "title":"(.*?)",
     "description":""
 }
 ---

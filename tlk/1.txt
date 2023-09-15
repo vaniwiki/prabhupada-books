@@ -2,7 +2,7 @@
 {
     "name":"The Purpose of Lord Kapila’s Advent",
     "h1":"Chapter 1",
-    "title":"TLK 1: The Purpose of Lord Kapila’s Advent"
+    "title":"(.*?)",
     "description":""
 }
 ---

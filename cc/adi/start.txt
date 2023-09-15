@@ -2,7 +2,7 @@
 {
     "name":"Śrī Caitanya-caritāmṛta Ādi-līlā",
     "h1":"Ādi-līlā",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā"
+    "title":"(.*?)",
     "description":""
 }
 ---

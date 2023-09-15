@@ -2,7 +2,7 @@
 {
     "name":"Paramparā: Knowledge Through Disciplic Succession",
     "h1":"Chapter 5",
-    "title":"RV 5: Paramparā: Knowledge Through Disciplic Succession"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Stealing the Garments of the Unmarried Gopī Girls",
     "h1":"Chapter 22",
-    "title":"KṚṢṆA 22: Stealing the Garments of the Unmarried Gopī Girls"
+    "title":"(.*?)",
     "description":""
 }
 ---

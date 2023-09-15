@@ -2,7 +2,7 @@
 {
     "name":"Liberation in Kṛṣṇa Consciousness",
     "h1":"Chapter 7",
-    "title":"Matchless Gift 7: Liberation in Kṛṣṇa Consciousness"
+    "title":"(.*?)",
     "description":""
 }
 ---

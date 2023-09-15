@@ -2,7 +2,7 @@
 {
     "name":"Crossing Beyond Illusion’s Currents",
     "h1":"Chapter 19",
-    "title":"TQK 19: Crossing Beyond Illusion’s Currents"
+    "title":"(.*?)",
     "description":""
 }
 ---

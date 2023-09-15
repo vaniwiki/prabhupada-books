@@ -2,7 +2,7 @@
 {
     "name":"Rāja-Vidyā: The King of Knowledge",
     "h1":"Chapter 1",
-    "title":"RV 1: Rāja-Vidyā: The King of Knowledge"
+    "title":"(.*?)",
     "description":""
 }
 ---

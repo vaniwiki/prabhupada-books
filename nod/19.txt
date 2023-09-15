@@ -2,7 +2,7 @@
 {
     "name":"Devotional Service in Love of God",
     "h1":"Chapter 19",
-    "title":"Nectar of Devotion 19: Devotional Service in Love of God"
+    "title":"(.*?)",
     "description":""
 }
 ---

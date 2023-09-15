@@ -2,7 +2,7 @@
 {
     "name":"The Māyāvādī Philosophers are Converted",
     "h1":"Chapter 21",
-    "title":"TLC 21: The Māyāvādī Philosophers are Converted"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"Offenses to Be Avoided",
     "h1":"Chapter 8",
-    "title":"Nectar of Devotion 8: Offenses to Be Avoided"
+    "title":"(.*?)",
     "description":""
 }
 ---

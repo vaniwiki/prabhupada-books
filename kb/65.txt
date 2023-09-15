@@ -2,7 +2,7 @@
 {
     "name":"Lord Balarāma Visits Vṛndāvana",
     "h1":"Chapter 65",
-    "title":"KṚṢṆA 65: Lord Balarāma Visits Vṛndāvana"
+    "title":"(.*?)",
     "description":""
 }
 ---

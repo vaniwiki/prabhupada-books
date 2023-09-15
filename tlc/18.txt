@@ -2,7 +2,7 @@
 {
     "name":"The Conversations with Prakāśānanda",
     "h1":"Chapter 18",
-    "title":"TLC 18: The Conversations with Prakāśānanda"
+    "title":"(.*?)",
     "description":""
 }
 ---

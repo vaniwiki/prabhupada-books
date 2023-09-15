@@ -2,7 +2,7 @@
 {
     "name":"Why Study the Vedānta-sūtra?",
     "h1":"Chapter 23",
-    "title":"TLC 23: Why Study the Vedānta-sūtra?"
+    "title":"(.*?)",
     "description":""
 }
 ---

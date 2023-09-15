@@ -2,7 +2,7 @@
 {
     "name":"Devotional Qualifications",
     "h1":"Chapter 14",
-    "title":"Nectar of Devotion 14: Devotional Qualifications"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The Story of King Nṛga",
     "h1":"Chapter 64",
-    "title":"KṚṢṆA 64: The Story of King Nṛga"
+    "title":"(.*?)",
     "description":""
 }
 ---

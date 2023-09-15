@@ -2,7 +2,7 @@
 {
     "name":"Śrīmad-Bhāgavatam Introduction",
     "h1":"Introduction",
-    "title":"Śrīmad-Bhāgavatam Introduction"
+    "title":"(.*?)",
     "description":""
 }
 ---

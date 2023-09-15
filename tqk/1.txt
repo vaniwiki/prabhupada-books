@@ -2,7 +2,7 @@
 {
     "name":"The Original Person",
     "h1":"Chapter 1",
-    "title":"TQK 1: The Original Person"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,7 +2,7 @@
 {
     "name":"The Vital Force of the Universe",
     "h1":"Chapter 13",
-    "title":"TQK 13: The Vital Force of the Universe"
+    "title":"(.*?)",
     "description":""
 }
 ---

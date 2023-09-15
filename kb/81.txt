@@ -2,7 +2,7 @@
 {
     "name":"The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
     "h1":"Chapter 81",
-    "title":"KṚṢṆA 81: The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa"
+    "title":"(.*?)",
     "description":""
 }
 ---

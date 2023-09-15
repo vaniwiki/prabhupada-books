@@ -2,7 +2,7 @@
 {
     "name":"Choosing Human and Animal Lives",
     "h1":"Chapter 1",
-    "title":"Elevation to Kṛṣṇa Consciousness 1: Choosing Human and Animal Lives"
+    "title":"(.*?)",
     "description":""
 }
 ---

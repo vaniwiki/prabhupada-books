@@ -2,7 +2,7 @@
 {
     "name":"Lord Caitanya and Rāmānanda Rāya",
     "h1":"Chapter 27",
-    "title":"TLC 27: Lord Caitanya and Rāmānanda Rāya"
+    "title":"(.*?)",
     "description":""
 }
 ---

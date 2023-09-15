@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇa, the All-Attractive",
     "h1":"Chapter 1",
-    "title":"PQPA 1: Kṛṣṇa, the All-Attractive"
+    "title":"(.*?)",
     "description":""
 }
 ---

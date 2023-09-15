@@ -2,7 +2,7 @@
 {
     "name":"Light of the Bhāgavata 45",
     "h1":"Text 45",
-    "title":"Light of the Bhāgavata 45"
+    "title":"(.*?)",
     "description":"After the new grains were cut and brought home from the paddy fields, the people began to observe the navānna ceremony everywhere, in the presence of the Lord as Śrī Kṛṣṇa and Baladeva."
 }
 ---

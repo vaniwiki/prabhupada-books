@@ -2,7 +2,7 @@
 {
     "name":"Concluding words",
     "h1":"Concluding words",
-    "title":"PQPA: Concluding words"
+    "title":"(.*?)",
     "description":""
 }
 ---

@@ -2,14 +2,14 @@
 {
     "name":"Astonishment and Chivalry",
     "h1":"Chapter 46",
-    "title":"Nectar of Devotion 46: Astonishment and Chivalry"
+    "title":"(.*?)",
     "description":""
 }
 ---
 
 ====== Astonishment and Chivalry ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_46_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_46_NOD.mp3}}*/
 
 ===== Astonishment =====
 

@@ -2,7 +2,7 @@
 {
     "name":"The Deliverance of Dvivida Gorilla",
     "h1":"Chapter 67",
-    "title":"KṚṢṆA 67: The Deliverance of Dvivida Gorilla"
+    "title":"(.*?)",
     "description":""
 }
 ---

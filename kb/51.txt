@@ -2,7 +2,7 @@
 {
     "name":"Deliverance of Mucukunda",
     "h1":"Chapter 51",
-    "title":"KṚṢṆA 51: Deliverance of Mucukunda"
+    "title":"(.*?)",
     "description":""
 }
 ---

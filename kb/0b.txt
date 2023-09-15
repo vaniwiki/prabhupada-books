@@ -2,7 +2,7 @@
 {
     "name":"Words from Apple",
     "h1":"Words from Apple",
-    "title":"KṚṢṆA Words from Apple"
+    "title":"(.*?)",
     "description":""
 }
 ---

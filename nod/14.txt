@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Devotional Qualifications",
+    "name":"NOD 14",
     "h1":"Chapter 14",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 14: Devotional Qualifications",
     "description":""
 }
 ---
 
 ====== Devotional Qualifications ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_14_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_14_NOD.mp3}}*/
 
 Some scholars recommend that knowledge and renunciation are important factors for elevating oneself to devotional service. But actually that is not a fact. Actually, the cultivation of knowledge or renunciation, which are favorable for achieving a footing in Kṛṣṇa consciousness, may be accepted in the beginning, but ultimately they may also come to be rejected, for devotional service is dependent on nothing other than the sentiment or desire for such service. It requires nothing more than sincerity.
 

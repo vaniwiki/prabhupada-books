@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Revealed Scriptures",
+    "name":"NOD 12",
     "h1":"Chapter 12",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 12: Revealed Scriptures",
     "description":""
 }
 ---
 
 ====== Revealed Scriptures ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_12_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_12_NOD.mp3}}*/
 
 According to Śrīla Rūpa Gosvāmī, any book which gives enlightenment in the matter of advancing devotional service is considered to be revealed scripture. Śrīla Madhvācārya has also defined //revealed scriptures// as referring to books such as the //Rāmāyaṇa, Mahābhārata, Purāṇas, Upaniṣads, Vedānta-//and any other literature which is written in pursuance of such revealed scriptures.
 

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Śrī Caitanya-caritāmṛta Ādi-līlā",
+    "name":"Cc. Ādi-līlā",
     "h1":"Ādi-līlā",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā",
     "description":""
 }
 ---

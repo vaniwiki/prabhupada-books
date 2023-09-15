@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Fraternal Loving Affairs",
+    "name":"NOD 42",
     "h1":"Chapter 42",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 42: Fraternal Loving Affairs",
     "description":""
 }
 ---
 
 ====== Fraternal Loving Affairs ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_42_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_42_NOD.mp3}}*/
 
 Kṛṣṇa's age, His beauty, His bugle, His flute, His conchshell and His pleasing attitude all provoke love in friendship for Him. His exceptional joking abilities, exhibited sometimes by His pretending to be a royal prince, or even the Supreme Personality of Godhead, also give impetus to devotees developing love for Kṛṣṇa in friendship.
 

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Deliverance of Dvivida Gorilla",
+    "name":"KB 67",
     "h1":"Chapter 67",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 67: The Deliverance of Dvivida Gorilla",
     "description":""
 }
 ---

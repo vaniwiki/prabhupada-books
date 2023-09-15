@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
+    "name":"KB 79",
     "h1":"Chapter 79",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 79: The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
     "description":""
 }
 ---

@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Eligibility of the Candidate for Accepting Devotional Service",
+    "name":"NOD 3",
     "h1":"Chapter 3",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 3: Eligibility of the Candidate for Accepting Devotional Service",
     "description":""
 }
 ---
 
 ====== Eligibility of the Candidate for Accepting Devotional Service ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_03_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_03_NOD.mp3}}*/
 
 On account of his association with //mahātmās,// or great souls one hundred percent in the devotional service of the Lord, one may attain a little bit of attraction for Śrī Kṛṣṇa. But at the same time one may remain very much attached to fruitive activities and material sense enjoyment and not be prepared to undergo the different types of renunciation. Such a person, if he has unflinching attraction to Kṛṣṇa, becomes an eligible candidate for discharging devotional service.
 

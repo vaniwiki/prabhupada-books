@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Deliverance of Śālva",
+    "name":"KB 77",
     "h1":"Chapter 77",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 77: The Deliverance of Śālva",
     "description":""
 }
 ---

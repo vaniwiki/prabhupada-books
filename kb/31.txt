@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Songs by the Gopīs",
+    "name":"KB 31",
     "h1":"Chapter 31",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 31: Songs by the Gopīs",
     "description":""
 }
 ---

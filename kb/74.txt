@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Deliverance of Śiśupāla",
+    "name":"KB 74",
     "h1":"Chapter 74",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 74: The Deliverance of Śiśupāla",
     "description":""
 }
 ---

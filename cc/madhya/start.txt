@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Śrī Caitanya-caritāmṛta Madhya-līlā",
+    "name":"Cc. Madhya-līlā",
     "h1":"Madhya-līlā",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Madhya-līlā",
     "description":""
 }
 ---

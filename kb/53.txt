@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Kṛṣṇa Kidnaps Rukmiṇī",
+    "name":"KB 53",
     "h1":"Chapter 53",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 53: Kṛṣṇa Kidnaps Rukmiṇī",
     "description":""
 }
 ---

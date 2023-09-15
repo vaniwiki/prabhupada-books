@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Extinguishing the Forest Fire",
+    "name":"KB 17",
     "h1":"Chapter 17",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 17: Extinguishing the Forest Fire",
     "description":""
 }
 ---

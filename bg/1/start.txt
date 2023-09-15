@@ -9,8 +9,9 @@
 
 ====== Observing the Armies on the Battlefield of Kurukṣetra ======
 
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 1}}
+/*{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3|Bhagavad-gītā As It Is Chapter 1}}*/
 
+/*
 <card-columns>
 <card>
 {{ books:bg:plate01.jpg?500x500 |}}
@@ -37,7 +38,7 @@ Plate 5 — When Arjuna saw all different grades of friends and relatives, he be
 Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
 </card>
 </card-columns>
-
+*/
 
   ; [[books:bg:1:1|Bg 1.1]]
   : Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?

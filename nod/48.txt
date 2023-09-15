@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Dread and Ghastliness",
+    "name":"NOD 48",
     "h1":"Chapter 48",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 48: Dread and Ghastliness",
     "description":""
 }
 ---

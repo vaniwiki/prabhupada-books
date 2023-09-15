@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Further Analysis of Mixed Rasas",
+    "name":"NOD 50",
     "h1":"Chapter 50",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 50: Further Analysis of Mixed Rasas",
     "description":""
 }
 ---
 
 ====== Further Analysis of Mixed Rasas ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_50_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_50_NOD.mp3}}*/
 
 As already described, if certain kinds of mellows become mixed and there is a joining of opposite mellows, then the situation is called incompatible. When one is eating sweet rice and something salty or sour is mixed in, the mixture is not very tasteful, and it is called incompatible.
 

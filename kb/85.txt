@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Spiritual Instruction for Vasudeva and Return of the Six Dead Sons of Devakī by Lord Kṛṣṇa",
+    "name":"KB 85",
     "h1":"Chapter 85",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 85: Spiritual Instruction for Vasudeva and Return of the Six Dead Sons of Devakī by Lord Kṛṣṇa",
     "description":""
 }
 ---

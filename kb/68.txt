@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Marriage of Sāmba",
+    "name":"KB 68",
     "h1":"Chapter 68",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 68: The Marriage of Sāmba",
     "description":""
 }
 ---

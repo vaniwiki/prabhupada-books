@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Worshiping Govardhana Hill",
+    "name":"KB 24",
     "h1":"Chapter 24",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 24: Worshiping Govardhana Hill",
     "description":""
 }
 ---

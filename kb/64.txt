@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Story of King Nṛga",
+    "name":"KB 64",
     "h1":"Chapter 64",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 64: The Story of King Nṛga",
     "description":""
 }
 ---

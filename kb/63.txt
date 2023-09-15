@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Lord Kṛṣṇa Fights with Bāṇāsura",
+    "name":"KB 63",
     "h1":"Chapter 63",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 63: Lord Kṛṣṇa Fights with Bāṇāsura",
     "description":""
 }
 ---

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Stealing of the Boys and Calves by Brahmā",
+    "name":"KB 13",
     "h1":"Chapter 13",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 13: The Stealing of the Boys and Calves by Brahmā",
     "description":""
 }
 ---

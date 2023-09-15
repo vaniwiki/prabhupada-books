@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Qualities of Kṛṣṇa Further Explained",
+    "name":"NOD 22",
     "h1":"Chapter 22",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 22: Qualities of Kṛṣṇa Further Explained",
     "description":""
 }
 ---

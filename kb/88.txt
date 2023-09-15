@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Deliverance of Lord Śiva",
+    "name":"KB 88",
     "h1":"Chapter 88",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 88: The Deliverance of Lord Śiva",
     "description":""
 }
 ---

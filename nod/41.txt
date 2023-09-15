@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Fraternal Devotion",
+    "name":"NOD 41",
     "h1":"Chapter 41",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 41: Fraternal Devotion",
     "description":""
 }
 ---
 
 ====== Fraternal Devotion ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_41_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_41_NOD.mp3}}*/
 
 When a devotee is permanently situated in devotional service, and by different symptoms of ecstasy he has developed and matured a fraternal mellow or flavor in relationship with the Personality of Godhead, his feeling is called fraternal love of Godhead.
 

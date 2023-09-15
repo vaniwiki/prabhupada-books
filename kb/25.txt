@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Devastating Rainfall in Vṛndāvana",
+    "name":"KB 25",
     "h1":"Chapter 25",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 25: Devastating Rainfall in Vṛndāvana",
     "description":""
 }
 ---

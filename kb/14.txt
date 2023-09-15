@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
+    "name":"KB 14",
     "h1":"Chapter 14",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 14: Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
     "description":""
 }
 ---

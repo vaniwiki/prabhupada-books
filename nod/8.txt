@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Offenses to Be Avoided",
+    "name":"NOD 8",
     "h1":"Chapter 8",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 8: Offenses to Be Avoided",
     "description":""
 }
 ---
 
 ====== Offenses to Be Avoided ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_08_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_08_NOD.mp3}}*/
 
 In the supplementary Vedic literature, there is the following list of 32 offenses in the matter of serving the Lord:
 **1**) One should not enter the temple of the Deity in a car or palanquin or with shoes on the feet.

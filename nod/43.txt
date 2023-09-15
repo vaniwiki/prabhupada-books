@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Parenthood",
+    "name":"NOD 43",
     "h1":"Chapter 43",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 43: Parenthood",
     "description":""
 }
 ---
 
 ====== Parenthood ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_43_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_43_NOD.mp3}}*/
 
 When ecstatic love develops into the relationship of parenthood and becomes steadily established, the relationship is called //vātsalya-rasa.// The exhibition of this //vātsalya-rasa// standard of devotional service can be found in the dealings of Kṛṣṇa with His devotees who represent themselves as superior personalities like father, mother, teacher, etc.
 

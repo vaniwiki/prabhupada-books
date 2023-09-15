@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Killing the Demons Vatsāsura and Bakāsura",
+    "name":"KB 11",
     "h1":"Chapter 11",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 11: Killing the Demons Vatsāsura and Bakāsura",
     "description":""
 }
 ---

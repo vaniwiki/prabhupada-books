@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Devotees of Kṛṣṇa",
+    "name":"NOD 25",
     "h1":"Chapter 25",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 25: Devotees of Kṛṣṇa",
     "description":""
 }
 ---
 
 ====== Devotees of Kṛṣṇa ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_25_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_25_NOD.mp3}}*/
 
 A person who is always absorbed in Kṛṣṇa consciousness is called a devotee of Kṛṣṇa. Śrīla Rūpa Gosvāmī says that all the transcendental qualities discussed above are also found in the devotees of Kṛṣṇa. The devotees of Kṛṣṇa can be classified into two groups: those who are cultivating devotional service in order to enter into the transcendental kingdom, and those who are already in the perfectional stage of devotional service.
 

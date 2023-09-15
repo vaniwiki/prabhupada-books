@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Stealing the Garments of the Unmarried Gopī Girls",
+    "name":"KB 22",
     "h1":"Chapter 22",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 22: Stealing the Garments of the Unmarried Gopī Girls",
     "description":""
 }
 ---

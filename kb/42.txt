@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Breaking of the Bow in the Sacrificial Arena",
+    "name":"KB 42",
     "h1":"Chapter 42",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 42: The Breaking of the Bow in the Sacrificial Arena",
     "description":""
 }
 ---

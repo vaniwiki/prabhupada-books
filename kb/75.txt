@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
+    "name":"KB 75",
     "h1":"Chapter 75",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 75: Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
     "description":""
 }
 ---

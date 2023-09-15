@@ -1,17 +1,15 @@
 ---json
 {
-    "name":"Kaṁsa Begins His Persecutions",
+    "name":"KB 4",
     "h1":"Chapter 4",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 4: Kaṁsa Begins His Persecutions",
     "description":""
 }
 ---
 
 ====== Kaṁsa Begins His Persecutions ======
 
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-4-verse-only.mp3|KṚṢṆA Chapter 4: Kaṁsa Begins His Persecutions}}
-</audio>
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-4-verse-only.mp3|KṚṢṆA Chapter 4: Kaṁsa Begins His Persecutions}}*/
 
 After Vasudeva adjusted all the doors and gates, the gatekeepers awoke and heard the newborn child crying. Kaṁsa was waiting to hear the news of the child's birth, and the gatekeepers immediately approached him and informed him that the child was born. At that time, Kaṁsa got up from his bed very quickly and exclaimed, "Now the cruel death of my life is born!" Kaṁsa became perplexed now that his death was approaching, and his hair stood on end. Immediately he proceeded toward the place where the child was born.
 

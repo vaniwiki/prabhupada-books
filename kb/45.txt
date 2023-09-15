@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Kṛṣṇa Recovers the Son of His Teacher",
+    "name":"KB 45",
     "h1":"Chapter 45",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 45: Kṛṣṇa Recovers the Son of His Teacher",
     "description":""
 }
 ---

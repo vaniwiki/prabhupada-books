@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Battle Between Śālva and the Yadu Dynasty",
+    "name":"KB 76",
     "h1":"Chapter 76",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 76: The Battle Between Śālva and the Yadu Dynasty",
     "description":""
 }
 ---

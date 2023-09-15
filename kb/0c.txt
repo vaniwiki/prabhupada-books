@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Preface",
+    "name":"KB Preface",
     "h1":"Preface",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Preface",
     "description":""
 }
 ---

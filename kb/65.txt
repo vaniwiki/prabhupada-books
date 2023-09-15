@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Lord Balarāma Visits Vṛndāvana",
+    "name":"KB 65",
     "h1":"Chapter 65",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 65: Lord Balarāma Visits Vṛndāvana",
     "description":""
 }
 ---

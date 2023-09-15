@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Delivering the Wives of the Brāhmanas Who Performed Sacrifices",
+    "name":"KB 23",
     "h1":"Chapter 23",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 23: Delivering the Wives of the Brāhmanas Who Performed Sacrifices",
     "description":""
 }
 ---

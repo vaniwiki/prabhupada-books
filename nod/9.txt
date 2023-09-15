@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Further Consideration of Devotional Principles",
+    "name":"NOD 9",
     "h1":"Chapter 9",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 9: Further Consideration of Devotional Principles",
     "description":""
 }
 ---

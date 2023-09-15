@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Prayers by Akrūra",
+    "name":"KB 40",
     "h1":"Chapter 40",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 40: Prayers by Akrūra",
     "description":""
 }
 ---

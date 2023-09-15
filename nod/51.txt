@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Perverted Expression of Mellows",
+    "name":"NOD 51",
     "h1":"Chapter 51",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 51: Perverted Expression of Mellows",
     "description":""
 }
 ---
 
 ====== Perverted Expression of Mellows ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_51_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_51_NOD.mp3}}*/
 
 //Rasābhāsa,// or incompatible mixtures of mellows, may be classified as //uparasa// (false expression) //anurasa// (imitation) and //aparasa// (perverted or misrepresented mellows).
 

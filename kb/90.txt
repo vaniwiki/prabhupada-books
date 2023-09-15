@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Summary Description of Lord Kṛṣṇa’s Pastimes",
+    "name":"KB 90",
     "h1":"Chapter 90",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 90: Summary Description of Lord Kṛṣṇa’s Pastimes",
     "description":""
 }
 ---

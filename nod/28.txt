@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Other Ecstatic Symptoms",
+    "name":"NOD 28",
     "h1":"Chapter 28",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 28: Other Ecstatic Symptoms",
     "description":""
 }
 ---

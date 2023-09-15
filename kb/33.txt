@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Description of the Rāsa Dance",
+    "name":"KB 33",
     "h1":"Chapter 33",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 33: Description of the Rāsa Dance",
     "description":""
 }
 ---

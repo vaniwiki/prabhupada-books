@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Great Sage Nārada Visits the Different Homes of Lord Kṛṣṇa",
+    "name":"KB 69",
     "h1":"Chapter 69",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 69: The Great Sage Nārada Visits the Different Homes of Lord Kṛṣṇa",
     "description":""
 }
 ---

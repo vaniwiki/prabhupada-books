@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"Words from Apple",
+    "name":"KB Words from Apple",
     "h1":"Words from Apple",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Words From Apple",
     "description":""
 }
 ---
 
 ====== Words from Apple ======
 
-{{ :books:words-from-apple.png?nolink |}}
+/*{{ :books:words-from-apple.png?nolink |}}*/
 
 Everybody is looking for Kṛṣṇa.\\
 Some don't realize that they are, but they are.\\

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Lord Kṛṣṇa Returns to the City of Hastināpura",
+    "name":"KB 73",
     "h1":"Chapter 73",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 73: Lord Kṛṣṇa Returns to the City of Hastināpura",
     "description":""
 }
 ---

@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"The Nectar of Devotion",
+    "name":"NOD 34",
     "h1":"Chapter 34",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 34: The Nectar of Devotion",
     "description":""
 }
 ---
 
 ====== The Nectar of Devotion ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_34_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_34_NOD.mp3}}*/
 
 The particular type of ecstatic loving sentiment that develops within the heart of a particular devotee is considered to be //vibhāva.// And the resultant manifestations such as moving of the eyebrows, fear, astonishment and smiling, which have been explained hereinbefore, are called //anubhāva.// The different causes for developing //anubhāva// and //vibhāva// are called steady ecstasy, or //sañcāri-bhāva.//
 

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Pradyumna Born to Kṛṣṇa and Rukmiṇī",
+    "name":"KB 55",
     "h1":"Chapter 55",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 55: Pradyumna Born to Kṛṣṇa and Rukmiṇī",
     "description":""
 }
 ---

@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Salvation of Tṛṇāvarta",
+    "name":"KB 7",
     "h1":"Chapter 7",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 7: Salvation of Tṛṇāvarta",
     "description":""
 }
 ---

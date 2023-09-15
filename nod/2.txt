@@ -1,15 +1,15 @@
 ---json
 {
-    "name":"The First Stages of Devotion",
+    "name":"NOD 2",
     "h1":"Chapter 2",
-    "title":"(.*?)",
+    "title":"Nectar of Devotion Chapter 2: The First Stages of Devotion",
     "description":""
 }
 ---
 
 ====== The First Stages of Devotion ======
 
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_02_NOD.mp3}}
+/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_02_NOD.mp3}}*/
 
 The three categories of devotional service which Śrīla Rūpa Gosvāmī describes in //Bhakti-rasāmṛta-sindhu// are listed as devotional service in practice, devotional service in ecstasy and devotional service in pure love of Godhead. There are many sub-headings in each of these categories. Generally it is understood that in the category of devotional service in practice there are two different qualities; devotional service in ecstasy has four qualities, and devotional service in pure love of Godhead has six qualities. These qualities will be explained by Śrīla Rūpa Gosvāmī later on.
 

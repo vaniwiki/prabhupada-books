@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Ill-motivated Dhṛtarāṣṭra",
+    "name":"KB 49",
     "h1":"Chapter 49",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 49: Ill-motivated Dhṛtarāṣṭra",
     "description":""
 }
 ---

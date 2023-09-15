@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Uddhava Visits Vṛndāvana",
+    "name":"KB 46",
     "h1":"Chapter 46",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 46: Uddhava Visits Vṛndāvana",
     "description":""
 }
 ---

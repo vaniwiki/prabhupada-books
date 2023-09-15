@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Kṛṣṇa Returns to the Gopīs",
+    "name":"KB 32",
     "h1":"Chapter 32",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 32: Kṛṣṇa Returns to the Gopīs",
     "description":""
 }
 ---

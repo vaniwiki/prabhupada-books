@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Gopīs Attracted by the Flute",
+    "name":"KB 21",
     "h1":"Chapter 21",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 21: The Gopīs Attracted by the Flute",
     "description":""
 }
 ---

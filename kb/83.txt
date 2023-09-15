@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Draupadī Meets the Queens of Kṛṣṇa",
+    "name":"KB 83",
     "h1":"Chapter 83",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 83: Draupadī Meets the Queens of Kṛṣṇa",
     "description":""
 }
 ---

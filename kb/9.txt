@@ -1,19 +1,19 @@
 ---json
 {
-    "name":"Mother Yaśodā Binding Lord Kṛṣṇa",
+    "name":"KB 9",
     "h1":"Chapter 9",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 9: Mother Yaśodā Binding Lord Kṛṣṇa",
     "description":""
 }
 ---
 
 ====== Mother Yaśodā Binding Lord Kṛṣṇa ======
 
+/*
 [{{ :artwork:krishna_book:15.jpg?nolink |Kṛṣṇa always demanded mother Yaśodā's complete attention.}}]
+*/
 
-<WRAP audio nopurple>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-9-verse-only.mp3|KṚṢṆA 9: Mother Yaśodā Binding Lord Kṛṣṇa}}
-</WRAP>
+/*{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-9-verse-only.mp3|KṚṢṆA 9: Mother Yaśodā Binding Lord Kṛṣṇa}}*/
 
 Once upon a time, seeing that her maidservant was engaged in different household duties, mother Yaśodā personally took charge of churning butter. And while she churned butter, she sang the childhood pastimes of Kṛṣṇa and enjoyed thinking of her son.
 

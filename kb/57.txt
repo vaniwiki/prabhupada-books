@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Killing of Satrājit and Śatadhanvā",
+    "name":"KB 57",
     "h1":"Chapter 57",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 57: The Killing of Satrājit and Śatadhanvā",
     "description":""
 }
 ---

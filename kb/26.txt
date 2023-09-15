@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Wonderful Kṛṣṇa",
+    "name":"KB 26",
     "h1":"Chapter 26",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 26: Wonderful Kṛṣṇa",
     "description":""
 }
 ---

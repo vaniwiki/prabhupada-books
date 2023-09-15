@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The Deliverance of Pauṇḍraka and the King of Kāśī",
+    "name":"KB 66",
     "h1":"Chapter 66",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 66: The Deliverance of Pauṇḍraka and the King of Kāśī",
     "description":""
 }
 ---

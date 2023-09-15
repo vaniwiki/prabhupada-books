@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Akrūra’s Arrival in Vṛndāvana",
+    "name":"KB 38",
     "h1":"Chapter 38",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 38: Akrūra’s Arrival in Vṛndāvana",
     "description":""
 }
 ---

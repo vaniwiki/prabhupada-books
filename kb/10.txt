@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Deliverance of Nalakūvara and Maṇigrīva",
+    "name":"KB 10",
     "h1":"Chapter 10",
-    "title":"(.*?)",
+    "title":"KṚṢṆA Chapter 10: Deliverance of Nalakūvara and Maṇigrīva",
     "description":""
 }
 ---

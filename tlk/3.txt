@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title: TLK 3: How to Understand the Lord’s Activities ~~
+---json
+{
+    "name":"How to Understand the Lord’s Activities",
+    "h1":"Chapter 3",
+    "title":"TLK 3: How to Understand the Lord’s Activities"
+    "description":""
+}
+---
 
 ====== How to Understand the Lord’s Activities ======
 

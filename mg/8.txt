@@ -1,5 +1,11 @@
-~~Title:Matchless Gifts: The Universal Teacher~~
-~~bc:The Universal Teacher~~
+---json
+{
+    "name":"MG 8",
+    "h1":"Chapter 8",
+    "title":"Matchless Gifts: The Universal Teacher",
+    "description":""
+}
+---
 
 ====== The Universal Teacher ======
 

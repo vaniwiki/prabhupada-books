@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:TQK 5: The Vision of Lotuses~~
+---json
+{
+    "name":"The Vision of Lotuses",
+    "h1":"Chapter 5",
+    "title":"TQK 5: The Vision of Lotuses"
+    "description":""
+}
+---
 
 ====== The Vision of Lotuses ======
 

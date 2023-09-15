@@ -1,4 +1,11 @@
-~~bc:Perfection of Yoga~~
+---json
+{
+    "name":"POY",
+    "h1":"Perfection of Yoga",
+    "title":"Perfection of Yoga",
+    "description":""
+}
+---
 
 ====== The Perfection of Yoga ======
 

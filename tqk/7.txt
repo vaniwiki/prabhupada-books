@@ -1,5 +1,11 @@
-~~bc:Chapter 7~~
-~~Title:TQK 7: Dangerous Encounters~~
+---json
+{
+    "name":"Dangerous Encounters",
+    "h1":"Chapter 7",
+    "title":"TQK 7: Dangerous Encounters"
+    "description":""
+}
+---
 
 ====== Dangerous Encounters ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 14~~
-~~Title:TLC 14: The Ecstasy of the Lord and His Devotees~~
+---json
+{
+    "name":"The Ecstasy of the Lord and His Devotees",
+    "h1":"Chapter 14",
+    "title":"TLC 14: The Ecstasy of the Lord and His Devotees"
+    "description":""
+}
+---
 
 ====== The Ecstasy of the Lord and His Devotees ======
 

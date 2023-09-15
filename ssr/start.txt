@@ -1,55 +1,62 @@
-{{description>In this book you will discover the timeless science that great teachers have spoken for millennia. The Science of Self-Relization opens up the secrets of the self within, nature of the universe, and the Supreme Self within and without.}}
+---json
+{
+    "name":"SSR",
+    "h1":"The Science of Self Realization",
+    "title":"The Science of Self Realization",
+    "description":"In this book you will discover the timeless science that great teachers have spoken for millennia. The Science of Self-Relization opens up the secrets of the self within, nature of the universe, and the Supreme Self within and without."
+}
+---
 
 ====== The Science of Self Realization ======
 
-  * [[.ssr:0a|Dedication]]
-  * [[.ssr:0b|Foreword]]
-  * [[.ssr:0c|Introduction]]
+  * [[books:ssr:0a|Dedication]]
+  * [[books:ssr:0b|Foreword]]
+  * [[books:ssr:0c|Introduction]]
 
-  - **[[.ssr:1|Learning the Science of the Self]]**
-    * [[.ssr:1#Discovering the Self]]
-    * [[.ssr:1#What Is Kṛṣṇa Consciousness?]]
-    * [[.ssr:1#A Definition of God]]
-    * [[.ssr:1#Reincarnation and Beyond]]
-    * [[.ssr:1#Truth and Beauty]]
-    * [[.ssr:1#The Art of Dying]]
-    * [[.ssr:1#Soul Research]]
-  - **[[.ssr:2|Choosing a Spiritual Master]]**
-    * [[.ssr:2#What Is a Guru?]]
-    * [[.ssr:2#Saints and Swindlers]]
-    * [[.ssr:2#The Absolute Necessity of a Spiritual Master]]
-  - **[[.ssr:3|Discovering the Roots]]**
-    * [[.ssr:3#The Immortal Nectar of the Bhagavad-gītā]]
-    * [[.ssr:3#The Scriptural Basis of Kṛṣṇa Consciousness]]
-    * [[.ssr:3#Kṛṣṇa Consciousness: Hindu Cult or Divine Culture?]]
-  - **[[.ssr:4|Understanding Kṛṣṇa and Christ]]**
-    * [[.ssr:4#Kṛṣṇa, Christos, Christ]]
-    * [[.ssr:4#Jesus Christ Was a Guru]]
-    * [[.ssr:4#“Thou Shalt Not Kill” or “Thou Shalt Not Murder”?]]
-  - **[[.ssr:5|Practicing Yoga in the Modern Age]]**
-    * [[.ssr:5#Superconsciousness]]
-    * [[.ssr:5#The Appearance of Lord Caitanya]]
-    * [[.ssr:5#Chanting the Hare Kṛṣṇa Mantra]]
-    * [[.ssr:5#Kṛṣṇa Consciousness—the Yoga for the Modern Age]]
-    * [[.ssr:5#Meditation and the Self Within]]
-  - **[[.ssr:6|Finding Spiritual Solutions to Material Problems]]**
-    * [[.ssr:6#Crime: Why and What to Do?]]
-    * [[.ssr:6#Human Society or Animal Society?]]
-    * [[.ssr:6#Altruism: Temporary and Eternal]]
-    * [[.ssr:6#Declaring Our Dependence on God]]
-    * [[.ssr:6#The Peace Formula]]
-    * [[.ssr:6#Spiritual Communism]]
-    * [[.ssr:6#The Tiny World of Modern Science]]
-  - **[[.ssr:7|Exploring the Spiritual Frontier]]**
-    * [[.ssr:7#Śrīla Prabhupāda Arrives in America]]
-    * [[.ssr:7#Build Your Nation on the Spiritual Platform]]
-    * [[.ssr:7#Saintly Compassion]]
-    * [[.ssr:7#Protecting Oneself from Illusion]]
-    * [[.ssr:7#An Awareness of What Is Best and Most Beautiful]]
-  - **[[.ssr:8|Attaining Perfection]]**
-    * [[.ssr:8#Knowing the Purpose of Life]]
-    * [[.ssr:8#The Highest Love]]
-    * [[.ssr:8#The Perfection of Self-realization]]
+  - **[[books:ssr:1|Learning the Science of the Self]]**
+    * Discovering the Self
+    * What Is Kṛṣṇa Consciousness?
+    * A Definition of God
+    * Reincarnation and Beyond
+    * Truth and Beauty
+    * The Art of Dying
+    * Soul Research
+  - **[[books:ssr:2|Choosing a Spiritual Master]]**
+    * What Is a Guru?
+    * Saints and Swindlers
+    * The Absolute Necessity of a Spiritual Master
+  - **[[books:ssr:3|Discovering the Roots]]**
+    * The Immortal Nectar of the Bhagavad-gītā
+    * The Scriptural Basis of Kṛṣṇa Consciousness
+    * Kṛṣṇa Consciousness: Hindu Cult or Divine Culture?
+  - **[[books:ssr:4|Understanding Kṛṣṇa and Christ]]**
+    * Kṛṣṇa, Christos, Christ
+    * Jesus Christ Was a Guru
+    * “Thou Shalt Not Kill” or “Thou Shalt Not Murder”?
+  - **[[books:ssr:5|Practicing Yoga in the Modern Age]]**
+    * Superconsciousness
+    * The Appearance of Lord Caitanya
+    * Chanting the Hare Kṛṣṇa Mantra
+    * Kṛṣṇa Consciousness—the Yoga for the Modern Age
+    * Meditation and the Self Within
+  - **[[books:ssr:6|Finding Spiritual Solutions to Material Problems]]**
+    * Crime: Why and What to Do?
+    * Human Society or Animal Society?
+    * Altruism: Temporary and Eternal
+    * Declaring Our Dependence on God
+    * The Peace Formula
+    * Spiritual Communism
+    * The Tiny World of Modern Science
+  - **[[books:ssr:7|Exploring the Spiritual Frontier]]**
+    * Śrīla Prabhupāda Arrives in America
+    * Build Your Nation on the Spiritual Platform
+    * Saintly Compassion
+    * Protecting Oneself from Illusion
+    * An Awareness of What Is Best and Most Beautiful
+  - **[[books:ssr:8|Attaining Perfection]]**
+    * Knowing the Purpose of Life
+    * The Highest Love
+    * The Perfection of Self-realization
 
 ===== From the back cover =====
 

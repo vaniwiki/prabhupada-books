@@ -1,5 +1,11 @@
-~~bc:Chapter 23~~
-~~Title:TQK 23: Natural Prosperity~~
+---json
+{
+    "name":"Natural Prosperity",
+    "h1":"Chapter 23",
+    "title":"TQK 23: Natural Prosperity"
+    "description":""
+}
+---
 
 ====== Natural Prosperity ======
 

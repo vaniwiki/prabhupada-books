@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 35~~
-~~bc:Text 35~~
+---json
+{
+    "name":"Light of the Bhāgavata 35",
+    "h1":"Text 35",
+    "title":"Light of the Bhāgavata 35"
+    "description":"When the small pools of water become too hot because of the scorching heat of the autumn sun, the poor, small creatures, with their many family members, suffer terribly, as poor householders with too many family members suffer economic strains and yet go on begetting children because of uncontrolled senses."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 35 ======
 
 **When the small pools of water become too hot because of the scorching heat of the autumn sun, the poor, small creatures, with their many family members, suffer terribly, as poor householders with too many family members suffer economic strains and yet go on begetting children because of uncontrolled senses.**
-
-{{description>When the small pools of water become too hot because of the scorching heat of the autumn sun, the poor, small creatures, with their many family members, suffer terribly, as poor householders with too many family members suffer economic strains and yet go on begetting children because of uncontrolled senses.}}
 
 Human life is meant for controlling the senses, for uncontrolled senses are the cause of material bondage. But for fools sense enjoyment is the pivot of life's activities. All men undergo hard, laborious duties all day and night and in all seasons of the year, only for the sake of sense pleasure with their mates. These foolish creatures have no information of other enjoyment. In a godless civilization especially, sense pleasure, accepted in the name of culture and philosophy, is all in all. Men who are addicted to this pleasure are called //kṛpaṇas.//
 

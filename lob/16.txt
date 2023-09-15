@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 16~~
-~~bc:Text 16~~
+---json
+{
+    "name":"Light of the Bhāgavata 16",
+    "h1":"Text 16",
+    "title":"Light of the Bhāgavata 16"
+    "description":"At night, by the grace of the moonlight, the clouds in the sky can be seen moving. Yet the moon itself also appears to be moving, just as a living being appears to be moving because of false identification with matter."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 16 ======
 
 **At night, by the grace of the moonlight, the clouds in the sky can be seen moving. Yet the moon itself also appears to be moving, just as a living being appears to be moving because of false identification with matter.**
-
-{{description>At night, by the grace of the moonlight, the clouds in the sky can be seen moving. Yet the moon itself also appears to be moving, just as a living being appears to be moving because of false identification with matter.}}
 
 At night in the rainy season the moving clouds reflecting the moonlight make the moon appear to be moving. This is called illusion. The spirit soul, or the living being, is the root of all the activities of the material body, but because of illusion the spirit soul remains covered by the gross and subtle material bodies. Thus covered, the conditioned soul identifies with the material body and becomes subject to the sense of false ego.
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 11~~
-~~Title:TQK 11: The Touch of Superior Energy~~
+---json
+{
+    "name":"The Touch of Superior Energy",
+    "h1":"Chapter 11",
+    "title":"TQK 11: The Touch of Superior Energy"
+    "description":""
+}
+---
 
 ====== The Touch of Superior Energy ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 19~~
-~~Title:TQK 19: Crossing Beyond Illusion’s Currents~~
+---json
+{
+    "name":"Crossing Beyond Illusion’s Currents",
+    "h1":"Chapter 19",
+    "title":"TQK 19: Crossing Beyond Illusion’s Currents"
+    "description":""
+}
+---
 
 ====== Crossing Beyond Illusion’s Currents ======
 

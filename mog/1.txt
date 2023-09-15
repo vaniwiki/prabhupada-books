@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:MOG 1: Transcendental Knowledge~~
+---json
+{
+    "name":"Transcendental Knowledge",
+    "h1":"Chapter 1",
+    "title":"MOG 1: Transcendental Knowledge"
+    "description":""
+}
+---
 
 ====== Transcendental Knowledge ======
 

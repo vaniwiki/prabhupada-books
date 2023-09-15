@@ -1,5 +1,11 @@
-~~bc:Concluding Words~~
-~~Title:Cc Concluding Words~~
+---json
+{
+    "name":"Concluding Words",
+    "h1":"Concluding Words",
+    "title":"Cc Concluding Words"
+    "description":""
+}
+---
 
 ====== Concluding Words ======
 

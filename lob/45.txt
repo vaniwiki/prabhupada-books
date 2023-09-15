@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 45~~
-~~bc:Text 45~~
+---json
+{
+    "name":"Light of the Bhāgavata 45",
+    "h1":"Text 45",
+    "title":"Light of the Bhāgavata 45"
+    "description":"After the new grains were cut and brought home from the paddy fields, the people began to observe the navānna ceremony everywhere, in the presence of the Lord as Śrī Kṛṣṇa and Baladeva."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 45 ======
 
 **After the new grains were cut and brought home from the paddy fields, the people began to observe the navānna ceremony everywhere, in the presence of the Lord as Śrī Kṛṣṇa and Baladeva.**
-
-{{description>After the new grains were cut and brought home from the paddy fields, the people began to observe the navānna ceremony everywhere, in the presence of the Lord as Śrī Kṛṣṇa and Baladeva.}}
 
 According to Vedic culture, learned men consider all natural products, such as food grains, fruits, flowers, and milk, to be God-sent. No one can manufacture these things in man-made factories, however scientifically advanced people may be. People can make preparations of such God-sent foodstuffs, but they cannot manufacture the natural ingredients. Spiritually cultured men, therefore, feel obliged to the Lord when they get sufficient natural foodstuffs by the grace of the Lord.
 

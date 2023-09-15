@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:KṚṢṆA 1: Advent of Lord Kṛṣṇa~~
+---json
+{
+    "name":"Advent of Lord Kṛṣṇa",
+    "h1":"Chapter 1",
+    "title":"KṚṢṆA 1: Advent of Lord Kṛṣṇa"
+    "description":""
+}
+---
 
 ====== Advent of Lord Kṛṣṇa ======
 

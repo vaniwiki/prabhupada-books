@@ -1,5 +1,11 @@
-~~bc:Chapter 46~~
-~~Title:Nectar of Devotion 46: Astonishment and Chivalry~~
+---json
+{
+    "name":"Astonishment and Chivalry",
+    "h1":"Chapter 46",
+    "title":"Nectar of Devotion 46: Astonishment and Chivalry"
+    "description":""
+}
+---
 
 ====== Astonishment and Chivalry ======
 

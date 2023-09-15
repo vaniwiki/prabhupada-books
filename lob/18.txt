@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 18~~
-~~bc:Text 18~~
+---json
+{
+    "name":"Light of the Bhāgavata 18",
+    "h1":"Text 18",
+    "title":"Light of the Bhāgavata 18"
+    "description":"Many plants and creepers that were almost dead during the months of April and May are now visible again in various forms, for they are nourished by their roots in the moist earth. These numberless plants and creepers resemble persons who dry up in severe penances for some material gain but then achieve their objectives and become luxuriously fat, nourished by sense enjoyment."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 18 ======
 
 **Many plants and creepers that were almost dead during the months of April and May are now visible again in various forms, for they are nourished by their roots in the moist earth. These numberless plants and creepers resemble persons who dry up in severe penances for some material gain but then achieve their objectives and become luxuriously fat, nourished by sense enjoyment.**
-
-{{description>Many plants and creepers that were almost dead during the months of April and May are now visible again in various forms, for they are nourished by their roots in the moist earth. These numberless plants and creepers resemble persons who dry up in severe penances for some material gain but then achieve their objectives and become luxuriously fat, nourished by sense enjoyment.}}
 
 In //Bhagavad-gītā// it is said that when the daytime of Brahmā is over, the manifested creations of the universe all vanish, and after the end of Brahmā's night the creation is manifested again. Thus the cosmic creation, in its manifestation and nonmanifestation, resembles the creepers and plants that appear during the rainy season and gradually vanish when the season is over.
 

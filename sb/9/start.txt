@@ -1,5 +1,11 @@
-~~bc:Canto 9~~
-~~Title:Śrīmad-Bhāgavatam Canto 9: Liberation~~
+---json
+{
+    "name":"Canto 9: Liberation",
+    "h1":"Canto 9",
+    "title":"Śrīmad-Bhāgavatam Canto 9: Liberation"
+    "description":""
+}
+---
 
 ====== Canto 9: Liberation ======
 

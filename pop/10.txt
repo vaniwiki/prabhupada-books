@@ -1,5 +1,11 @@
-~~bc:Chapter 10~~
-~~Title:The Path of Perfection 10: The Path of Perfection~~
+---json
+{
+    "name":"The Path of Perfection",
+    "h1":"Chapter 10",
+    "title":"The Path of Perfection 10: The Path of Perfection"
+    "description":""
+}
+---
 
 ====== The Path of Perfection ======
 

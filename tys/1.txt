@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:TYS 1: The Perfection of Yoga~~
+---json
+{
+    "name":"TYS 1: The Perfection of Yoga",
+    "h1":"Chapter 1",
+    "title":"Topmost Yoga System 1: The Perfection of Yoga"
+    "description":""
+}
+---
 
 ====== The Perfection of Yoga ======
 

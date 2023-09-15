@@ -1,5 +1,11 @@
-~~bc: Notes~~
-~~Title: SB 10.1 Additional Notes ~~
+---json
+{
+    "name":"Additional Notes For This Chapter",
+    "h1":" Notes",
+    "title":"SB 10.1 Additional Notes "
+    "description":""
+}
+---
 
 ====== Additional Notes For This Chapter ======
 

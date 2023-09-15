@@ -1,5 +1,11 @@
-~~bc:Chapter 64~~
-~~Title:KṚṢṆA 64: The Story of King Nṛga~~
+---json
+{
+    "name":"The Story of King Nṛga",
+    "h1":"Chapter 64",
+    "title":"KṚṢṆA 64: The Story of King Nṛga"
+    "description":""
+}
+---
 
 ====== The Story of King Nṛga ======
 

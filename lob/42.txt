@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 42~~
-~~bc:Text 42~~
+---json
+{
+    "name":"Light of the Bhāgavata 42",
+    "h1":"Text 42",
+    "title":"Light of the Bhāgavata 42"
+    "description":"At night in autumn the atmosphere is pleasant because it is neither very hot nor very cold. The mild wind blowing through the gardens of fruits and flowers in Vṛndāvana appeared very much pleasing to all—all but the gopīs, who were always overtaken by heartfelt sorrow in the absence of Kṛṣṇa."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 42 ======
 
 **At night in autumn the atmosphere is pleasant because it is neither very hot nor very cold. The mild wind blowing through the gardens of fruits and flowers in Vṛndāvana appeared very much pleasing to all---all but the gopīs, who were always overtaken by heartfelt sorrow in the absence of Kṛṣṇa.**
-
-{{description>At night in autumn the atmosphere is pleasant because it is neither very hot nor very cold. The mild wind blowing through the gardens of fruits and flowers in Vṛndāvana appeared very much pleasing to all---all but the gopīs, who were always overtaken by heartfelt sorrow in the absence of Kṛṣṇa.}}
 
 There are two kinds of transcendental feelings for those engaged in the worship of the Lord. One is called //sambhoga,// and the other is called //viraha.// According to authorities in the disciplic line, //viraha// worship is more palatable than //sambhoga// worship. //Sambhoga// takes place in direct touch, whereas //viraha// takes place without such direct contact. Lord Caitanya Mahāprabhu taught us to accept //viraha// worship. In the present state of affairs we cannot make any direct touch with the Personality of Godhead. But if we practice the //viraha// mode of worship we can transcendentally realize the presence of the Lord more lovingly than in His presence.
 

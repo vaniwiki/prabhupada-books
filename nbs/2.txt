@@ -1,5 +1,11 @@
-~~bc:Sūtra 2~~
-~~Title:NBS 2~~
+---json
+{
+    "name":"Sūtra 2",
+    "h1":"Sūtra 2",
+    "title":"NBS 2"
+    "description":""
+}
+---
 
 ====== Sūtra 2 ======
 

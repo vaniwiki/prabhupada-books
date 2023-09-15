@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:Nectar of Devotion 2: The First Stages of Devotion~~
+---json
+{
+    "name":"The First Stages of Devotion",
+    "h1":"Chapter 2",
+    "title":"Nectar of Devotion 2: The First Stages of Devotion"
+    "description":""
+}
+---
 
 ====== The First Stages of Devotion ======
 

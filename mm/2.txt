@@ -1,6 +1,11 @@
-~~bc:Sūtra 2~~
-~~Title:Mukunda-mālā-stotra, Sūtra 2~~
-{{description>All glories to this Personality of Godhead known as the son of Śrīmatī Devakī devī! All glories to Lord Śrī Kṛṣṇa, the brilliant light of the Vṛṣṇi dynasty! All glories to the Personality of Godhead, the hue of whose soft body resembles the blackish color of a new cloud! All glories to Lord Mukunda, who removes the burdens of the earth!}}
+---json
+{
+    "name":"Mukunda-mālā-stotra, Sūtra 2",
+    "h1":"Sūtra 2",
+    "title":"Mukunda-mālā-stotra, Sūtra 2"
+    "description":"All glories to this Personality of Godhead known as the son of Śrīmatī Devakī devī! All glories to Lord Śrī Kṛṣṇa, the brilliant light of the Vṛṣṇi dynasty! All glories to the Personality of Godhead, the hue of whose soft body resembles the blackish color of a new cloud! All glories to Lord Mukunda, who removes the burdens of the earth!"
+}
+---
 
 ====== Sūtra 2 ======
 

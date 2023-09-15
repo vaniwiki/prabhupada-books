@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:RV 1: Rāja-Vidyā: The King of Knowledge~~
+---json
+{
+    "name":"Rāja-Vidyā: The King of Knowledge",
+    "h1":"Chapter 1",
+    "title":"RV 1: Rāja-Vidyā: The King of Knowledge"
+    "description":""
+}
+---
 
 ====== Rāja-Vidyā: The King of Knowledge ======
 

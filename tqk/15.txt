@@ -1,5 +1,11 @@
-~~bc:Chapter 15~~
-~~Title:TQK 15: Beyond Birth and Death~~
+---json
+{
+    "name":"Beyond Birth and Death",
+    "h1":"Chapter 15",
+    "title":"TQK 15: Beyond Birth and Death"
+    "description":""
+}
+---
 
 ====== Beyond Birth and Death ======
 

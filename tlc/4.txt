@@ -1,5 +1,11 @@
-~~bc:Chapter 4~~
-~~Title:TLC 4: The Wise Man~~
+---json
+{
+    "name":"The Wise Man",
+    "h1":"Chapter 4",
+    "title":"TLC 4: The Wise Man"
+    "description":""
+}
+---
 
 ====== The Wise Man ======
 

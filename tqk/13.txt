@@ -1,5 +1,11 @@
-~~bc:Chapter 13~~
-~~Title:TQK 13: The Vital Force of the Universe~~
+---json
+{
+    "name":"The Vital Force of the Universe",
+    "h1":"Chapter 13",
+    "title":"TQK 13: The Vital Force of the Universe"
+    "description":""
+}
+---
 
 ====== The Vital Force of the Universe ======
 

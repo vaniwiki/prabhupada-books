@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:TLC 1: Teachings to Rūpa Gosvāmī~~
+---json
+{
+    "name":"Teachings to Rūpa Gosvāmī",
+    "h1":"Chapter 1",
+    "title":"TLC 1: Teachings to Rūpa Gosvāmī"
+    "description":""
+}
+---
 
 ====== Teachings to Rūpa Gosvāmī ======
 

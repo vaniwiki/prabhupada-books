@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:Śrīmad-Bhāgavatam Introduction~~
+---json
+{
+    "name":"Śrīmad-Bhāgavatam Introduction",
+    "h1":"Introduction",
+    "title":"Śrīmad-Bhāgavatam Introduction"
+    "description":""
+}
+---
 
 ====== Śrīmad-Bhāgavatam Introduction ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:RV 2: Knowledge Beyond Saṁsāra~~
+---json
+{
+    "name":"Knowledge Beyond Saṁsāra",
+    "h1":"Chapter 2",
+    "title":"RV 2: Knowledge Beyond Saṁsāra"
+    "description":""
+}
+---
 
 ====== Knowledge Beyond Saṁsāra ======
 

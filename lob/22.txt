@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 22~~
-~~bc:Text 22~~
+---json
+{
+    "name":"Light of the Bhāgavata 22",
+    "h1":"Text 22",
+    "title":"Light of the Bhāgavata 22"
+    "description":"After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 22 ======
 
 **After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends.**
-
-{{description>After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends.}}
 
 Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, appears with His personal entourage once in paraphernalia, just to attract the conditioned souls of the material world. Although the material world is only a shadow of the spiritual world, the materially encaged living entities seek spiritual happiness here in a form perverted by materialistic attachment. Empiric philosophers with a poor fund of knowledge imagine a spiritual picture that is impersonal. But the spiritual living being, less attracted by the impersonal form of spiritual emancipation, becomes more attracted by the material form and becomes hopeless of spiritual emancipation.
 

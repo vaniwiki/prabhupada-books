@@ -1,16 +1,15 @@
-~~Title:Light of the Bhāgavata 6~~
-~~bc:Text 6~~
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_06.jpg?nolink|}}
-//Light of the Bhagavata, Plate 6//
-</card>
+---json
+{
+    "name":"LOB 6",
+    "h1":"Text 6",
+    "title":"Light of the Bhāgavata 6",
+    "description":"On hearing the sound of the torrential rains, the frogs come out of the mountain caves and begin to chant, like brahmacārīs who chant the Vedic hymns by the order of the spiritual master."
+}
+---
 
 ====== Light of the Bhāgavata Text 6 ======
 
 **On hearing the sound of the torrential rains, the frogs come out of the mountain caves and begin to chant, like brahmacārīs who chant the Vedic hymns by the order of the spiritual master.**
-
-{{description>On hearing the sound of the torrential rains, the frogs come out of the mountain caves and begin to chant, like brahmacārīs who chant the Vedic hymns by the order of the spiritual master.}}
 
 In this age of a godless civilization, the sages of world-recognized religious sects who believe in God must come out of their secluded places and preach the science of God, the Supreme Will, to the people in general. Hindus, Muslims, Christians, and the members of the other sects that have convincing faith in the authority of God must not sit idly now and silently watch the rapid growth of a godless civilization. There is the supreme will of God, and no nation or society can live in peace and prosperity without acceptance of this vital truth.
 

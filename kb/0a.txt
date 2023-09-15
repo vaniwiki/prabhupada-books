@@ -1,5 +1,11 @@
-~~bc:Dedication~~
-~~Title:KṚṢṆA Dedication~~
+---json
+{
+    "name":"Dedication",
+    "h1":"Dedication",
+    "title":"KṚṢṆA Dedication"
+    "description":""
+}
+---
 
 ====== Dedication ======
 

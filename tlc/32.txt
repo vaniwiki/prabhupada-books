@@ -1,5 +1,11 @@
-~~bc:Chapter 32~~
-~~Title:TLC 32: Conclusion~~
+---json
+{
+    "name":"Conclusion",
+    "h1":"Chapter 32",
+    "title":"TLC 32: Conclusion"
+    "description":""
+}
+---
 
 ====== Conclusion ======
 

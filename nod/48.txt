@@ -1,5 +1,11 @@
-~~bc:Chapter 48~~
-~~Title:Nectar of Devotion 48: Dread and Ghastliness~~
+---json
+{
+    "name":"Dread and Ghastliness",
+    "h1":"Chapter 48",
+    "title":"Nectar of Devotion 48: Dread and Ghastliness"
+    "description":""
+}
+---
 
 ====== Dread and Ghastliness ======
 

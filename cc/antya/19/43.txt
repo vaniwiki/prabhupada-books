@@ -1,7 +1,11 @@
-{{description>"Kṛṣṇa is the reservoir of art and culture, and He is the panacea that saves My life. O My dear friend, since I live without Him, who is the best among My friends, I condemn the duration of My life. I think that Providence has cheated Me in many ways.}}
-
-~~bc:Text 43~~
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 19.43~~
+---json
+{
+    "name":"Cc. Antya 19.43",
+    "h1":"Text 43",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.43"
+    "description":"\"Kṛṣṇa is the reservoir of art and culture, and He is the panacea that saves My life. O My dear friend, since I live without Him, who is the best among My friends, I condemn the duration of My life. I think that Providence has cheated Me in many ways."
+}
+---
 
 ====== Cc. Antya 19.43 ======
 

@@ -1,11 +1,16 @@
-{{description>Śrīmad-Bhāgavatam, an epic philosophical and literary classic, holds a prominent position in India's voluminous written wisdom. The timeless wisdom of India is expressed in the Vedas, ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the Vedas were first put into writing by Śrīla Vyāsadeva, the "literary incarnation of God." After compiling the Vedas, Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of Śrīmad-Bhāgavatam. Known as "the ripened fruit of the tree of Vedic literature," Śrīmad-Bhāgavatam is the most complete and authoritative exposition of Vedic knowledge.}}
-
-<card>
-{{artwork:bbt.se:12_cantos_large.jpg}}
-//Śrīmad-Bhāgavatam, an epic philosophical and literary classic, holds a prominent position in India’s voluminous written wisdom. The timeless wisdom of India is expressed in the Vedas, ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the Vedas were first put into writing by Śrīla Vyāsadeva, the “literary incarnation of God.” After compiling the Vedas, Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of Śrīmad-Bhāgavatam. Known as “the ripened fruit of the tree of Vedic literature,” Śrīmad-Bhāgavatam is the most complete and authoritative exposition of Vedic knowledge.//
-</card>
+---json
+{
+    "name":"Śrīmad-Bhāgavatam",
+    "h1":"Śrīmad-Bhāgavatam",
+    "title":"Śrīmad-Bhāgavatam",
+    "description":"Śrīmad-Bhāgavatam, an epic philosophical and literary classic, holds a prominent position in India’s voluminous written wisdom. The timeless wisdom of India is expressed in the Vedas, ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the Vedas were first put into writing by Śrīla Vyāsadeva, the “literary incarnation of God.” After compiling the Vedas, Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of Śrīmad-Bhāgavatam. Known as “the ripened fruit of the tree of Vedic literature,” Śrīmad-Bhāgavatam is the most complete and authoritative exposition of Vedic knowledge."
+}
+---
 
 ====== Śrīmad-Bhāgavatam ======
+
+<card>
+<header>Table of contents</header>
 
   * [[books:sb:0a|Preface]]
   * [[books:sb:0b|Introduction]]
@@ -20,6 +25,7 @@
   - [[books:sb:9|Liberation]]
   - [[books:sb:10|The Summum Bonum]]
 
+</card>
 
 ===== From the back cover =====
 

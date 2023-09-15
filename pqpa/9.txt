@@ -1,5 +1,11 @@
-~~bc:Chapter 9~~
-~~Title:PQPA 9: Deciding for the Future~~
+---json
+{
+    "name":"Deciding for the Future",
+    "h1":"Chapter 9",
+    "title":"PQPA 9: Deciding for the Future"
+    "description":""
+}
+---
 
 ====== Deciding for the Future ======
 

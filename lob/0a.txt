@@ -1,5 +1,11 @@
-~~Title:Light of the Bhāgavata Preface~~
-~~bc:Preface~~
+---json
+{
+    "name":"LOB Preface",
+    "h1":"Preface",
+    "title":"Light of the Bhāgavata Preface",
+    "description":"We offer our respectful obeisances unto the lotus feet of His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, Founder-Ācārya of the International Society for Krishna Consciousness, who has delivered the light of the Bhāgavata to the whole world. We are pleased to present for his pleasure this publication of his sublime work Light of the Bhāgavata."
+}
+---
 
 ====== Preface ======
 

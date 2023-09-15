@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:MOG Introduction~~
+---json
+{
+    "name":"Introduction",
+    "h1":"Introduction",
+    "title":"MOG Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

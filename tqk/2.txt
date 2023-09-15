@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:TQK 2: Beyond the Senses~~
+---json
+{
+    "name":"Beyond the Senses",
+    "h1":"Chapter 2",
+    "title":"TQK 2: Beyond the Senses"
+    "description":""
+}
+---
 
 ====== Beyond the Senses ======
 

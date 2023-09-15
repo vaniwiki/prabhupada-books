@@ -1,5 +1,11 @@
-~~bc: Chapter 6 ~~
-~~Title: TLK 6: Devahuti Desires Transcendental Knowledge ~~
+---json
+{
+    "name":"Devahuti Desires Transcendental Knowledge",
+    "h1":" Chapter 6 ",
+    "title":"TLK 6: Devahuti Desires Transcendental Knowledge"
+    "description":""
+}
+---
 
 ====== Devahuti Desires Transcendental Knowledge ======
 

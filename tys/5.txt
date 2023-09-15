@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:TYS 5: Our Real Life~~
+---json
+{
+    "name":"TYS 5: Our Real Life",
+    "h1":"Chapter 5",
+    "title":"Topmost Yoga System 5: Our Real Life"
+    "description":""
+}
+---
 
 ====== Our Real Life ======
 

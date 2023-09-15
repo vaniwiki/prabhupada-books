@@ -1,5 +1,11 @@
-~~bc:Chapter 11~~
-~~Title:Nectar of Devotion 11: Aspects of Transcendental Service~~
+---json
+{
+    "name":"Aspects of Transcendental Service",
+    "h1":"Chapter 11",
+    "title":"Nectar of Devotion 11: Aspects of Transcendental Service"
+    "description":""
+}
+---
 
 ====== Aspects of Transcendental Service ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 18~~
-~~Title: TLK 18: Devotional Service: The Final Perfection ~~
+---json
+{
+    "name":"Devotional Service: The Final Perfection",
+    "h1":"Chapter 18",
+    "title":"TLK 18: Devotional Service: The Final Perfection"
+    "description":""
+}
+---
 
 ====== Devotional Service: The Final Perfection ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:PQPA 1: Kṛṣṇa, the All-Attractive~~
+---json
+{
+    "name":"Kṛṣṇa, the All-Attractive",
+    "h1":"Chapter 1",
+    "title":"PQPA 1: Kṛṣṇa, the All-Attractive"
+    "description":""
+}
+---
 
 ====== Kṛṣṇa, the All-Attractive ======
 

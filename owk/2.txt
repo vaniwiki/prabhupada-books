@@ -1,7 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:OWK 2: The Way of Chanting and Knowing Kṛṣṇa~~
-
-{{description>Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. This is transcendental sound vibration. It will help us to cleanse the dust from the mirror of the mind.}}
+---json
+{
+    "name":"OWK 2",
+    "h1":"Chapter 2",
+    "title":"OWK 2: The Way of Chanting and Knowing Kṛṣṇa",
+    "description":"Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. This is transcendental sound vibration. It will help us to cleanse the dust from the mirror of the mind."
+}
+---
 
 ====== The Way of Chanting and Knowing Kṛṣṇa ======
 

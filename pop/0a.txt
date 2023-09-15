@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:The Path of Perfection, Introduction~~
+---json
+{
+    "name":"POP Introduction",
+    "h1":"Introduction",
+    "title":"The Path of Perfection, Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

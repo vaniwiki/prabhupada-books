@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:TTP 3: Family Illusion~~
+---json
+{
+    "name":"Family Illusion",
+    "h1":"Chapter 3",
+    "title":"TTP 3: Family Illusion"
+    "description":""
+}
+---
 
 ====== Family Illusion ======
 

@@ -1,7 +1,11 @@
-{{description>Every day, the Mohammedan would chastise Raghunātha dāsa and tell him, "Bring your father and his elder brother. Otherwise you will be punished."}}
-
-~~bc:Text 21~~
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.21~~
+---json
+{
+    "name":"Cc. Antya 6.21",
+    "h1":"Text 21",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.21",
+    "description":"Every day, the Mohammedan would chastise Raghunātha dāsa and tell him, \"Bring your father and his elder brother. Otherwise you will be punished.\""
+}
+---
 
 ====== Cc. Antya 6.21 ======
 

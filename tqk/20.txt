@@ -1,5 +1,11 @@
-~~bc:Chapter 20~~
-~~Title:TQK 20: Full Surrender~~
+---json
+{
+    "name":"Full Surrender",
+    "h1":"Chapter 20",
+    "title":"TQK 20: Full Surrender"
+    "description":""
+}
+---
 
 ====== Full Surrender ======
 

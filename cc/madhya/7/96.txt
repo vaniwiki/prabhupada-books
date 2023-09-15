@@ -1,7 +1,9 @@
-~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 7.96~~
-~~bc:Text 96~~
-
-{{description>The Lord chanted:
+---json
+{
+    "name":"Cc. Madhya 7.96",
+    "h1":"Text 96",
+    "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.96",
+    "description":"The Lord chanted:
 Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! he
 Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! he
 Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Rakṣa mām
@@ -9,7 +11,9 @@ Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! P�
 That is, “O Lord Kṛṣṇa, please protect Me and maintain Me.” He also chanted:
 Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Rakṣa mām
 Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! pāhi mām
-That is, “O Lord Rāma, descendant of King Raghu, please protect Me. O Kṛṣṇa, O Keśava, killer of the Keśī demon, please maintain Me.”}}
+That is, “O Lord Rāma, descendant of King Raghu, please protect Me. O Kṛṣṇa, O Keśava, killer of the Keśī demon, please maintain Me.”"
+}
+---
 
 ====== Cc. Madhya 7.96 ======
 

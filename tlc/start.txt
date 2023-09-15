@@ -1,49 +1,51 @@
-{{description>The Teachings of Lord Chaitanya narrate the life and teachings of Sri Chaitanya Mahaprabhu who appeared in West Bengal in 1486 and spread love of Krishna all over India. Later His Divine Grace A.C. Bhaktivedanta Swami Prabhupada expanded this mission to the entire Western world.}}
-
-<card>
-{{books:covers:teachings_of_lord_chaitanya-original_1968.jpg?nolink|Jacket painting/Jadurani Photo/Gurudas}}
-The Teachings of Lord Chaitanya narrate the life and teachings of Sri Chaitanya Mahaprabhu who appeared in West Bengal in 1486 and spread love of Krishna all over India. Later His Divine Grace A.C. Bhaktivedanta Swami Prabhupada expanded this mission to the entire Western world.
-</card>
+---json
+{
+    "name":"TLC",
+    "h1":"Teachings of Lord Caitanya",
+    "title":"Teachings of Lord Caitanya",
+    "description":"The Teachings of Lord Chaitanya narrate the life and teachings of Sri Chaitanya Mahaprabhu who appeared in West Bengal in 1486 and spread love of Krishna all over India. Later His Divine Grace A.C. Bhaktivedanta Swami Prabhupada expanded this mission to the entire Western world."
+}
+---
 
 ====== Teachings of Lord Caitanya ======
 
-  * [[.tlc:0a|Preface]]
-  * [[.tlc:0b|Prologue]]
-  * [[.tlc:0c|Lord Caitanya's Mission]]
-  * [[.tlc:0d|Introduction]]
+  * [[books:tlc:0a|Preface]]
+  * [[books:tlc:0b|Prologue]]
+  * [[books:tlc:0c|Lord Caitanya's Mission]]
+  * [[books:tlc:0d|Introduction]]
 
-  - [[.tlc:1|Teachings to Rūpa Gosvāmī]]
-  - [[.tlc:2|Sanātana Gosvāmī]]
-  - [[.tlc:3|Teachings to Sanātana Gosvāmī]]
-  - [[.tlc:4|The Wise Man]]
-  - [[.tlc:5|How to Approach God]]
-  - [[.tlc:6|His Forms Are One and the Same]]
-  - [[.tlc:7|Unlimited Forms of Godhead]]
-  - [[.tlc:8|The Avatāras]]
-  - [[.tlc:9|The Opulences of Kṛṣṇa]]
-  - [[.tlc:10|The Beauty of Kṛṣṇa]]
-  - [[.tlc:11|Service to the Lord]]
-  - [[.tlc:12|The Devotee]]
-  - [[.tlc:13|Devotional Service in Attachment]]
-  - [[.tlc:14|The Ecstasy of the Lord and His Devotees]]
-  - [[.tlc:15|Explanation of the Ātmārāma Verse in Śrīmad Bhāgavatam]]
-  - [[.tlc:16|Conclusion of Teachings to Sanātana Gosvāmī]]
-  - [[.tlc:17|Lord Caitanya, the Original Personality of Godhead]]
-  - [[.tlc:18|The Conversations with Prakāśānanda]]
-  - [[.tlc:19|Further Talks with Prakāśānanda]]
-  - [[.tlc:20|The Goal of Vedānta Study]]
-  - [[.tlc:21|The Māyāvādī Philosophers are Converted]]
-  - [[.tlc:22|The Śrīmad Bhāgavatam]]
-  - [[.tlc:23|Why Study the Vedānta-sūtra?]]
-  - [[.tlc:24|Talks with Sārvabhauma Bhaṭṭācārya]]
-  - [[.tlc:25|Personal and Impersonal Realization]]
-  - [[.tlc:26|Bhaṭṭācārya is Converted]]
-  - [[.tlc:27|Lord Caitanya and Rāmānanda Rāya]]
-  - [[.tlc:28|Relationship with the Supreme]]
-  - [[.tlc:29|Pure Love for Kṛṣṇa]]
-  - [[.tlc:30|The Transcendental Pastimes of Rādhā and Kṛṣṇa]]
-  - [[.tlc:31|The Supreme Perfection]]
-  - [[.tlc:32|Conclusion]]
+  - [[books:tlc:1|Teachings to Rūpa Gosvāmī]]
+  - [[books:tlc:2|Sanātana Gosvāmī]]
+  - [[books:tlc:3|Teachings to Sanātana Gosvāmī]]
+  - [[books:tlc:4|The Wise Man]]
+  - [[books:tlc:5|How to Approach God]]
+  - [[books:tlc:6|His Forms Are One and the Same]]
+  - [[books:tlc:7|Unlimited Forms of Godhead]]
+  - [[books:tlc:8|The Avatāras]]
+  - [[books:tlc:9|The Opulences of Kṛṣṇa]]
+  - [[books:tlc:10|The Beauty of Kṛṣṇa]]
+  - [[books:tlc:11|Service to the Lord]]
+  - [[books:tlc:12|The Devotee]]
+  - [[books:tlc:13|Devotional Service in Attachment]]
+  - [[books:tlc:14|The Ecstasy of the Lord and His Devotees]]
+  - [[books:tlc:15|Explanation of the Ātmārāma Verse in Śrīmad Bhāgavatam]]
+  - [[books:tlc:16|Conclusion of Teachings to Sanātana Gosvāmī]]
+  - [[books:tlc:17|Lord Caitanya, the Original Personality of Godhead]]
+  - [[books:tlc:18|The Conversations with Prakāśānanda]]
+  - [[books:tlc:19|Further Talks with Prakāśānanda]]
+  - [[books:tlc:20|The Goal of Vedānta Study]]
+  - [[books:tlc:21|The Māyāvādī Philosophers are Converted]]
+  - [[books:tlc:22|The Śrīmad Bhāgavatam]]
+  - [[books:tlc:23|Why Study the Vedānta-sūtra?]]
+  - [[books:tlc:24|Talks with Sārvabhauma Bhaṭṭācārya]]
+  - [[books:tlc:25|Personal and Impersonal Realization]]
+  - [[books:tlc:26|Bhaṭṭācārya is Converted]]
+  - [[books:tlc:27|Lord Caitanya and Rāmānanda Rāya]]
+  - [[books:tlc:28|Relationship with the Supreme]]
+  - [[books:tlc:29|Pure Love for Kṛṣṇa]]
+  - [[books:tlc:30|The Transcendental Pastimes of Rādhā and Kṛṣṇa]]
+  - [[books:tlc:31|The Supreme Perfection]]
+  - [[books:tlc:32|Conclusion]]
 
 
 <blockquote>In the Kali Yuga the Supreme Lord comes as One Who always chants the Holy Name of Sri Krishna, Who is Sri Krishna Himself, Whose complexion is yellow.

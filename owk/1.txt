@@ -1,7 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:OWK 1: Throughway to Happiness~~
-
-{{description>Every one of us is searching after happiness, but we do not know what real happiness is. We see so much advertised about happiness, but practically speaking we see so few happy people. This is because so few people know that the platform of real happiness is beyond temporary things. It is this real happiness that is described in Bhagavad-gītā by Lord Kṛṣṇa to Arjuna.}}
+---json
+{
+    "name":"OWK 1",
+    "h1":"Chapter 1",
+    "title":"OWK 1: Throughway to Happiness",
+    "description":"Every one of us is searching after happiness, but we do not know what real happiness is. We see so much advertised about happiness, but practically speaking we see so few happy people. This is because so few people know that the platform of real happiness is beyond temporary things. It is this real happiness that is described in Bhagavad-gītā by Lord Kṛṣṇa to Arjuna."
+}
+---
 
 ====== Throughway to Happiness ======
 

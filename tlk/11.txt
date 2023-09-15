@@ -1,5 +1,11 @@
-~~bc:Chapter 11~~
-~~Title: TLK 11: The Symptoms of a Sadhu ~~
+---json
+{
+    "name":"The Symptoms of a Sadhu",
+    "h1":"Chapter 11",
+    "title":"TLK 11: The Symptoms of a Sadhu"
+    "description":""
+}
+---
 
 ====== The Symptoms of a Sadhu ======
 

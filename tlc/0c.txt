@@ -1,5 +1,11 @@
-~~bc:Lord Caitanya’s Mission~~
-~~Title:TLC Lord Caitanya’s Mission~~
+---json
+{
+    "name":"Lord Caitanya’s Mission",
+    "h1":"Lord Caitanya’s Mission",
+    "title":"TLC Lord Caitanya’s Mission"
+    "description":""
+}
+---
 
 ====== Lord Caitanya’s Mission ======
 

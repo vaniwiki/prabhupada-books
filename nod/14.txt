@@ -1,5 +1,11 @@
-~~bc:Chapter 14~~
-~~Title:Nectar of Devotion 14: Devotional Qualifications~~
+---json
+{
+    "name":"Devotional Qualifications",
+    "h1":"Chapter 14",
+    "title":"Nectar of Devotion 14: Devotional Qualifications"
+    "description":""
+}
+---
 
 ====== Devotional Qualifications ======
 

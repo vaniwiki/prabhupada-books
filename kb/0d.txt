@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:KṚṢṆA Introduction~~
+---json
+{
+    "name":"Introduction",
+    "h1":"Introduction",
+    "title":"KṚṢṆA Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 20~~
-~~Title:Nectar of Devotion 20: Transcendental Mellow~~
+---json
+{
+    "name":"Transcendental Mellow",
+    "h1":"Chapter 20",
+    "title":"Nectar of Devotion 20: Transcendental Mellow"
+    "description":""
+}
+---
 
 ====== Transcendental Mellow ======
 

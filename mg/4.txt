@@ -1,5 +1,11 @@
-~~bc:Chapter 4~~
-~~Title:Matchless Gift 4: Learning Tapasya, Self-Control~~
+---json
+{
+    "name":"Learning Tapasya, Self-Control",
+    "h1":"Chapter 4",
+    "title":"Matchless Gift 4: Learning Tapasya, Self-Control"
+    "description":""
+}
+---
 
 ====== Learning Tapasya, Self-Control ======
 

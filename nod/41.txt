@@ -1,5 +1,11 @@
-~~bc:Chapter 41~~
-~~Title:Nectar of Devotion 41: Fraternal Devotion~~
+---json
+{
+    "name":"Fraternal Devotion",
+    "h1":"Chapter 41",
+    "title":"Nectar of Devotion 41: Fraternal Devotion"
+    "description":""
+}
+---
 
 ====== Fraternal Devotion ======
 

@@ -1,5 +1,11 @@
-~~bc:Sūtra 6~~
-~~Title:NBS 6~~
+---json
+{
+    "name":"Sūtra 6",
+    "h1":"Sūtra 6",
+    "title":"NBS 6"
+    "description":""
+}
+---
 
 ====== Sūtra 6 ======
 

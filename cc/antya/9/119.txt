@@ -1,9 +1,11 @@
-{{description>"The King said, 'Speak to the Lord in such a way that He will not think, "For My sake the King has forfeited 200,000 kāhanas of kauḍis."}}
-
-FIXME
-
-~~bc:Text 119~~
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 9.119~~
+---json
+{
+    "name":"Cc. Antya 9.119",
+    "h1":"Text 119",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.119",
+    "description":"\"The King said, 'Speak to the Lord in such a way that He will not think, "For My sake the King has forfeited 200,000 kāhanas of kauḍis.\""
+}
+---
 
 ====== Cc. Antya 9.119 ======
 

@@ -1,6 +1,11 @@
-~~bc:Chapter 44~~
-~~Title:KṚṢṆA 44: The Killing of Kaṁsa~~
-
+---json
+{
+    "name":"The Killing of Kaṁsa",
+    "h1":"Chapter 44",
+    "title":"KṚṢṆA 44: The Killing of Kaṁsa"
+    "description":""
+}
+---
 
 ====== The Killing of Kaṁsa ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title: TLK 2: The Transcendental Matter and Supreme Yogi~~
+---json
+{
+    "name":"The Transcendental Matter and Supreme Yogi",
+    "h1":"Chapter 2",
+    "title":"TLK 2: The Transcendental Matter and Supreme Yogi"
+    "description":""
+}
+---
 
 ====== The Transcendental Matter and Supreme Yogi ======
 

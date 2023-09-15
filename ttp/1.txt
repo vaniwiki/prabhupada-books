@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:TTP 1: The Dearmost Person~~
+---json
+{
+    "name":"The Dearmost Person",
+    "h1":"Chapter 1",
+    "title":"TTP 1: The Dearmost Person"
+    "description":""
+}
+---
 
 ====== The Dearmost Person ======
 

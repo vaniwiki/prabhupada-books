@@ -1,6 +1,11 @@
-~~bc:Chapter 12~~
-~~Title:KṚṢṆA 12: The Killing of the Aghāsura Demon~~
-
+---json
+{
+    "name":"The Killing of the Aghāsura Demon",
+    "h1":"Chapter 12",
+    "title":"KṚṢṆA 12: The Killing of the Aghāsura Demon"
+    "description":""
+}
+---
 
 ====== The Killing of the Aghāsura Demon ======
 

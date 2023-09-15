@@ -1,7 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:The Perfection of Yoga 1: Yoga as Rejected by Arjuna~~
-
-{{description>There have been many yoga systems popularized in the Western world, especially in this century, but none of them have actually taught the perfection of yoga.}}
+---json
+{
+    "name":"POY 1",
+    "h1":"Chapter 1",
+    "title":"The Perfection of Yoga 1: Yoga as Rejected by Arjuna",
+    "description":"There have been many yoga systems popularized in the Western world, especially in this century, but none of them have actually taught the perfection of yoga."
+}
+---
 
 ====== Yoga as Rejected by Arjuna ======
 

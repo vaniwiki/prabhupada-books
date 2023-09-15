@@ -1,6 +1,11 @@
-~~bc:Chapter 29: The Rāsa Dance~~
-~~Title:KṚṢṆA 29: The Rāsa Dance: Introduction~~
-
+---json
+{
+    "name":"The Rāsa Dance: Introduction",
+    "h1":"Chapter 29: The Rāsa Dance",
+    "title":"KṚṢṆA 29: The Rāsa Dance: Introduction"
+    "description":""
+}
+---
 
 ====== The Rāsa Dance: Introduction ======
 

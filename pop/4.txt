@@ -1,5 +1,11 @@
-~~bc:Chapter 4~~
-~~Title:The Path of Perfection 4: Moderation in Yoga~~
+---json
+{
+    "name":"Moderation in Yoga",
+    "h1":"Chapter 4",
+    "title":"The Path of Perfection 4: Moderation in Yoga"
+    "description":""
+}
+---
 
 ====== Moderation in Yoga ======
 

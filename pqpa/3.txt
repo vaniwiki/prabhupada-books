@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:PQPA 3: The Real Goal of life~~
+---json
+{
+    "name":"The Real Goal of life",
+    "h1":"Chapter 3",
+    "title":"PQPA 3: The Real Goal of life"
+    "description":""
+}
+---
 
 ====== The Real Goal of life ======
 

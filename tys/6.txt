@@ -1,5 +1,11 @@
-~~bc:Chapter 6~~
-~~Title:TYS 6: The Hare Kṛṣṇa Mantra~~
+---json
+{
+    "name":"TYS 6: The Hare Kṛṣṇa Mantra",
+    "h1":"Chapter 6",
+    "title":"Topmost Yoga System 6: The Hare Kṛṣṇa Mantra"
+    "description":""
+}
+---
 
 ====== The Hare Kṛṣṇa Mantra ======
 

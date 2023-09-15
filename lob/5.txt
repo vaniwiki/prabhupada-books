@@ -1,16 +1,15 @@
-~~Title:Light of the Bhāgavata 5~~
-~~bc:Text 5~~
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_05.jpg?nolink|}}
-//Light of the Bhagavata, Plate 5//
-</card>
+---json
+{
+    "name":"LOB 5",
+    "h1":"Text 5",
+    "title":"Light of the Bhāgavata 5",
+    "description":"The evening in the rainy season is dark all around. There is no sight of the twinkling stars on the horizon or the pleasing moon. They are covered by clouds. And the insignificant glowworms become prominent in the absence of the luminaries in the open sky."
+}
+---
 
 ====== Light of the Bhāgavata Text 5 ======
 
 **The evening in the rainy season is dark all around. There is no sight of the twinkling stars on the horizon or the pleasing moon. They are covered by clouds. And the insignificant glowworms become prominent in the absence of the luminaries in the open sky.**
-
-{{description>The evening in the rainy season is dark all around. There is no sight of the twinkling stars on the horizon or the pleasing moon. They are covered by clouds. And the insignificant glowworms become prominent in the absence of the luminaries in the open sky.}}
 
 As there are seasonal changes within a year, so there are changing ages in the duration of the manifest cosmic world. These changing ages are called //yugas,// or periods. As there are three modes of nature, there are also various ages dominated by these three modes. The period dominated by the mode of goodness is called Satya-yuga, the period of passion is called Tretā-yuga, the period of mixed passion and ignorance is called Dvāpara-yuga, and the period of darkness and ignorance (the last period) is called Kali-yuga, or the age of quarrel. The word //kali// means "quarrel." Kali-yuga is compared to the rainy season because many difficulties in life are experienced during this damp season.
 

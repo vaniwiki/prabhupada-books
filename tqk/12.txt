@@ -1,5 +1,11 @@
-~~bc:Chapter 12~~
-~~Title:TQK 12: Bewildering Pastimes~~
+---json
+{
+    "name":"Bewildering Pastimes",
+    "h1":"Chapter 12",
+    "title":"TQK 12: Bewildering Pastimes"
+    "description":""
+}
+---
 
 ====== Bewildering Pastimes ======
 

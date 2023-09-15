@@ -1,5 +1,11 @@
-~~bc:Chapter 15~~
-~~Title: TLK 15: Meditation on the Lord’s Transcendental Form ~~
+---json
+{
+    "name":"Meditation on the Lord’s Transcendental Form",
+    "h1":"Chapter 15",
+    "title":"TLK 15: Meditation on the Lord’s Transcendental Form"
+    "description":""
+}
+---
 
 ====== Meditation on the Lord’s Transcendental Form ======
 

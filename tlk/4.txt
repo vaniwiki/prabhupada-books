@@ -1,5 +1,11 @@
-~~bc:Chapter 4~~
-~~Title: TLK 4: Approaching a Bona Fide Guru ~~
+---json
+{
+    "name":"Approaching a Bona Fide Guru",
+    "h1":"Chapter 4",
+    "title":"TLK 4: Approaching a Bona Fide Guru"
+    "description":""
+}
+---
 
 ====== Approaching a Bona Fide Guru ======
 

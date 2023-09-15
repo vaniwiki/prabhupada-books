@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:TTP 2: “We Are Spoiling Our Lives”~~
+---json
+{
+    "name":"“We Are Spoiling Our Lives”",
+    "h1":"Chapter 2",
+    "title":"TTP 2: “We Are Spoiling Our Lives”"
+    "description":""
+}
+---
 
 ====== “We Are Spoiling Our Lives” ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 12~~
-~~Title:Nectar of Devotion 12: Revealed Scriptures~~
+---json
+{
+    "name":"Revealed Scriptures",
+    "h1":"Chapter 12",
+    "title":"Nectar of Devotion 12: Revealed Scriptures"
+    "description":""
+}
+---
 
 ====== Revealed Scriptures ======
 

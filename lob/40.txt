@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 40~~
-~~bc:Text 40~~
+---json
+{
+    "name":"Light of the Bhāgavata 40",
+    "h1":"Text 40",
+    "title":"Light of the Bhāgavata 40"
+    "description":"In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 40 ======
 
 **In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas.**
-
-{{description>In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas.}}
 
 It is said that the import of the //Vedas// becomes clear to one who is not only a sincere devotee of the Lord but also a sincere servitor of the spiritual master. The spiritual master knows the purpose of the //Vedas,// practices it personally, and teaches the disciple of the true light of the //Vedas.// The supreme spiritual master, Lord Śrī Kṛṣṇa, teaches us the import of the //Vedas// in the following verse of //Bhagavad-gītā// [[books:bg:15:16|(15.16)]]:
 

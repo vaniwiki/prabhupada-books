@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:TLC Introduction~~
+---json
+{
+    "name":"TLC Introduction",
+    "h1":"Introduction",
+    "title":"TLC Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

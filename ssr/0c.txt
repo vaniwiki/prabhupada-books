@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:The Science of Self Realization, Introduction~~
+---json
+{
+    "name":"Introduction",
+    "h1":"Introduction",
+    "title":"The Science of Self Realization, Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

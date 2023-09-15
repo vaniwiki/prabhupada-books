@@ -1,5 +1,11 @@
-~~bc:Chapter 17~~
-~~Title:Nectar of Devotion 17: Ecstatic Love~~
+---json
+{
+    "name":"Ecstatic Love",
+    "h1":"Chapter 17",
+    "title":"Nectar of Devotion 17: Ecstatic Love"
+    "description":""
+}
+---
 
 ====== Ecstatic Love ======
 

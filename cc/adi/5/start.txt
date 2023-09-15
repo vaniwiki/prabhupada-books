@@ -1,7 +1,13 @@
-~~bc:Chapter 5~~
-~~Title:Cc. Ādi 5: The Glories of Lord Nityānanda Balarāma~~
+---json
+{
+    "name":"The Glories of Lord Nityānanda Balarāma",
+    "h1":"Chapter 5",
+    "title":"Cc. Ādi 5: The Glories of Lord Nityānanda Balarāma"
+    "description":""
+}
+---
 
-====== The Glories of Lord Nityānanda Balarāma =====
+====== The Glories of Lord Nityānanda Balarāma ======
 
 This chapter is chiefly devoted to describing the essential nature and glories of Śrī Nityānanda Prabhu. Lord Śrī Kṛṣṇa is the absolute Personality of Godhead, and His first expansion in a form for pastimes is Śrī Balarāma.
 

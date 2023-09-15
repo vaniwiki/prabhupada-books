@@ -1,5 +1,11 @@
-~~bc:Ādi-līlā~~
-~~Title:Śrī Caitanya-caritāmṛta Ādi-līlā~~
+---json
+{
+    "name":"Śrī Caitanya-caritāmṛta Ādi-līlā",
+    "h1":"Ādi-līlā",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā"
+    "description":""
+}
+---
 
 ====== Śrī Caitanya-caritāmṛta Ādi-līlā ======
 

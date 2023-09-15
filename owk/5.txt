@@ -1,7 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:OWK 5: Steering Toward the Supreme~~
-
-{{description>Kṛṣṇa is saying that all the men who come to Him—whether they be distressed, in need of money, curious, etc.—are welcomed, but out of them the person who is in knowledge is very dear to Him.}}
+---json
+{
+    "name":"OWK 5",
+    "h1":"Chapter 5",
+    "title":"OWK 5: Steering Toward the Supreme",
+    "description":"Kṛṣṇa is saying that all the men who come to Him—whether they be distressed, in need of money, curious, etc.—are welcomed, but out of them the person who is in knowledge is very dear to Him."
+}
+---
 
 ====== Steering Toward the Supreme ======
 

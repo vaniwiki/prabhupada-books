@@ -1,5 +1,11 @@
-~~bc:Chapter 25~~
-~~Title:TLC 25: Personal and Impersonal Realization~~
+---json
+{
+    "name":"Personal and Impersonal Realization",
+    "h1":"Chapter 25",
+    "title":"TLC 25: Personal and Impersonal Realization"
+    "description":""
+}
+---
 
 ====== Personal and Impersonal Realization ======
 

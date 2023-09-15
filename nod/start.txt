@@ -1,64 +1,72 @@
-~~bc:The Nectar of Devotion~~
-
-{{description>The Nectar of Devotion is a summary study of Śrīla Rūpa Gosvāmī's Bhakti-rasāmṛta-sindhu, or "the nectar which is derived from the ocean of devotion (bhakti)." It fully contains the complete science of bhakti-yoga, or linking with the Supreme by transcendental loving devotion. Bhakti-yoga is the highest path of attaining God consciousness, but it is simultaneously simple and sublime. It is recommended for everyone in this age.}}
+---json
+{
+    "name":"NOD",
+    "h1":"The Nectar of Devotion",
+    "title":"The Nectar of Devotion",
+    "description":"The Nectar of Devotion is a summary study of Śrīla Rūpa Gosvāmī's Bhakti-rasāmṛta-sindhu, or \"the nectar which is derived from the ocean of devotion (bhakti).\" It fully contains the complete science of bhakti-yoga, or linking with the Supreme by transcendental loving devotion. Bhakti-yoga is the highest path of attaining God consciousness, but it is simultaneously simple and sublime. It is recommended for everyone in this age."
+}
+---
 
 ====== The Nectar of Devotion ======
 
-  * [[.nod:0a|Preface]]
-  * [[.nod:0b|Introduction]]
-  - [[.nod:1|Characteristics of Pure Devotional Service]]
-  - [[.nod:2|The First Stages of Devotion]]
-  - [[.nod:3|Eligibility of the Candidate for Accepting Devotional Service]]
-  - [[.nod:4|Devotional Service Surpasses All Liberation]]
-  - [[.nod:5|Purity of Devotional Service]]
-  - [[.nod:6|How to Discharge Devotional Service]]
-  - [[.nod:7|Evidence Regarding Devotional Principles]]
-  - [[.nod:8|Offenses to Be Avoided]]
-  - [[.nod:9|Further Consideration of Devotional Principles]]
-  - [[.nod:10|Techniques of Hearing and Memorizing]]
-  - [[.nod:11|Aspects of Transcendental Service]]
-  - [[.nod:12|Revealed Scriptures]]
-  - [[.nod:13|The Mahā-mantra]]
-  - [[.nod:14|Devotional Qualifications]]
-  - [[.nod:15|Spontaneous Devotional Service]]
-  - [[.nod:16|Varieties of Love for Kṛṣṇa]]
-  - [[.nod:17|Ecstatic Love]]
-  - [[.nod:18|Character of One in Ecstatic Love]]
-  - [[.nod:19|Devotional Service in Love of God]]
-  - [[.nod:20|Transcendental Mellow]]
-  - [[.nod:21|Qualities of Śrī Kṛṣṇa]]
-  - [[.nod:22|Qualities of Kṛṣṇa Further Explained]]
-  - [[.nod:23|Kṛṣṇa's Personality]]
-  - [[.nod:24|Further Traits of Śrī Kṛṣṇa]]
-  - [[.nod:25|Devotees of Kṛṣṇa]]
-  - [[.nod:26|Stimulation for Ecstatic Love]]
-  - [[.nod:27|Symptoms of Ecstatic Love]]
-  - [[.nod:28|Other Ecstatic Symptoms]]
-  - [[.nod:29|Expressions of Love for Kṛṣṇa]]
-  - [[.nod:30|Further Features of Ecstatic Love for Kṛṣṇa]]
-  - [[.nod:31|Additional Symptoms]]
-  - [[.nod:32|Symptoms of Continuous Ecstasy]]
-  - [[.nod:33|Conjugal Affection]]
-  - [[.nod:34|The Nectar of Devotion]]
-  - [[.nod:35|Neutral Love of God]]
-  - [[.nod:36|Transcendental Affection (Servitude)]]
-  - [[.nod:37|Impetuses for Kṛṣṇa's Service]]
-  - [[.nod:38|Indifference and Separation]]
-  - [[.nod:39|Ways of Meeting Kṛṣṇa]]
-  - [[.nod:40|Reverential Devotion of Sons and Other Subordinates]]
-  - [[.nod:41|Fraternal Devotion]]
-  - [[.nod:42|Fraternal Loving Affairs]]
-  - [[.nod:43|Parenthood]]
-  - [[.nod:44|Devotional Service in Conjugal Love]]
-  - [[.nod:45|Laughing Ecstasy]]
-  - [[.nod:46|Astonishment and Chivalry]]
-  - [[.nod:47|Compassion and Anger]]
-  - [[.nod:48|Dread and Ghastliness]]
-  - [[.nod:49|Mixing of Rasas]]
-  - [[.nod:50|Further Analysis of Mixed Rasas]]
-  - [[.nod:51|Perverted Expression of Mellows]]
+<card>
+<header>Table of contents</header>
 
-===== From the back cover =====
+  * [[books:nod:0a|Preface]]
+  * [[books:nod:0b|Introduction]]
+  - [[books:nod:1|Characteristics of Pure Devotional Service]]
+  - [[books:nod:2|The First Stages of Devotion]]
+  - [[books:nod:3|Eligibility of the Candidate for Accepting Devotional Service]]
+  - [[books:nod:4|Devotional Service Surpasses All Liberation]]
+  - [[books:nod:5|Purity of Devotional Service]]
+  - [[books:nod:6|How to Discharge Devotional Service]]
+  - [[books:nod:7|Evidence Regarding Devotional Principles]]
+  - [[books:nod:8|Offenses to Be Avoided]]
+  - [[books:nod:9|Further Consideration of Devotional Principles]]
+  - [[books:nod:10|Techniques of Hearing and Memorizing]]
+  - [[books:nod:11|Aspects of Transcendental Service]]
+  - [[books:nod:12|Revealed Scriptures]]
+  - [[books:nod:13|The Mahā-mantra]]
+  - [[books:nod:14|Devotional Qualifications]]
+  - [[books:nod:15|Spontaneous Devotional Service]]
+  - [[books:nod:16|Varieties of Love for Kṛṣṇa]]
+  - [[books:nod:17|Ecstatic Love]]
+  - [[books:nod:18|Character of One in Ecstatic Love]]
+  - [[books:nod:19|Devotional Service in Love of God]]
+  - [[books:nod:20|Transcendental Mellow]]
+  - [[books:nod:21|Qualities of Śrī Kṛṣṇa]]
+  - [[books:nod:22|Qualities of Kṛṣṇa Further Explained]]
+  - [[books:nod:23|Kṛṣṇa's Personality]]
+  - [[books:nod:24|Further Traits of Śrī Kṛṣṇa]]
+  - [[books:nod:25|Devotees of Kṛṣṇa]]
+  - [[books:nod:26|Stimulation for Ecstatic Love]]
+  - [[books:nod:27|Symptoms of Ecstatic Love]]
+  - [[books:nod:28|Other Ecstatic Symptoms]]
+  - [[books:nod:29|Expressions of Love for Kṛṣṇa]]
+  - [[books:nod:30|Further Features of Ecstatic Love for Kṛṣṇa]]
+  - [[books:nod:31|Additional Symptoms]]
+  - [[books:nod:32|Symptoms of Continuous Ecstasy]]
+  - [[books:nod:33|Conjugal Affection]]
+  - [[books:nod:34|The Nectar of Devotion]]
+  - [[books:nod:35|Neutral Love of God]]
+  - [[books:nod:36|Transcendental Affection (Servitude)]]
+  - [[books:nod:37|Impetuses for Kṛṣṇa's Service]]
+  - [[books:nod:38|Indifference and Separation]]
+  - [[books:nod:39|Ways of Meeting Kṛṣṇa]]
+  - [[books:nod:40|Reverential Devotion of Sons and Other Subordinates]]
+  - [[books:nod:41|Fraternal Devotion]]
+  - [[books:nod:42|Fraternal Loving Affairs]]
+  - [[books:nod:43|Parenthood]]
+  - [[books:nod:44|Devotional Service in Conjugal Love]]
+  - [[books:nod:45|Laughing Ecstasy]]
+  - [[books:nod:46|Astonishment and Chivalry]]
+  - [[books:nod:47|Compassion and Anger]]
+  - [[books:nod:48|Dread and Ghastliness]]
+  - [[books:nod:49|Mixing of Rasas]]
+  - [[books:nod:50|Further Analysis of Mixed Rasas]]
+  - [[books:nod:51|Perverted Expression of Mellows]]
+
+</card>
 
 //The Nectar of Devotion// is a unique spiritual text that explains the devotional science of bhakti-yoga, or Kṛṣṇa consciousness. Astonishingly intimate in its detailed descriptions of the loving relationships between Lord Śrī Kṛṣṇa and His devotees, it is at the same time practical, authoritative and philosophically substantial. It is a summary study of //Bhakti-rasāmṛta-sindhu,// which was written in Sanskrit over 400 years ago by the great philosopher-devotee Śrīla Rūpa Gosvāmī Prabhupāda, and it contains hundreds of quotes from such important Vedic literatures as //Bhagavad-gītā, Śrīmad-Bhāgavatam,// the //Upaniṣads, Mahābhārata// and the //Purāṇas.//
 
@@ -72,5 +80,4 @@ Most importantly, //The Nectar of Devotion// goes beyond the limitations of both
 
 This book is especially intended to help establish eternal religious principles for the benefit of all human beings. The text is flooded with nectarean stories, philosophy and poetic verses about Kṛṣṇa and His pure devotees---all taken directly from the Vedic literatures. It is a summary study of Bhakti-rasāmṛta-sindhu, which was written in Sanskrit by Śrīla Rūpa Gosvāmī, the chief of the six direct disciples of Lord Caitanya Mahāprabhu. Lord Caitanya, who appeared in India 500 years ago, is revealed by Vedic scriptures to be an incarnation of God in the role of His own devotee. He and His followers are thus most authorized to teach us how to become perfect in spiritual life.
 
-The subject matter is love of God. The basic principle of life is that we all have a general propensity to love someone. At the present moment, human society teaches one to love his country or family or his personal self, but there is no information where to repose the loving propensity so that everyone can become happy. That missing point is God, or Kṛṣṇa. //The Nectar of Devotion// teaches us how to stimulate our original love for Kṛṣṇa and how to be situated in that position where we can enjoy our blissful life. The presentation of this authoritative information about the Supreme Personality of Godhead, Kṛṣṇa, and our relationship with Him is simply the mercy of His pure devotee, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda,
-the spiritual master in disciplic succession from Lord Caitanya who is distributing the science of Kṛṣṇa throughout the world.
+The subject matter is love of God. The basic principle of life is that we all have a general propensity to love someone. At the present moment, human society teaches one to love his country or family or his personal self, but there is no information where to repose the loving propensity so that everyone can become happy. That missing point is God, or Kṛṣṇa. //The Nectar of Devotion// teaches us how to stimulate our original love for Kṛṣṇa and how to be situated in that position where we can enjoy our blissful life. The presentation of this authoritative information about the Supreme Personality of Godhead, Kṛṣṇa, and our relationship with Him is simply the mercy of His pure devotee, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, the spiritual master in disciplic succession from Lord Caitanya who is distributing the science of Kṛṣṇa throughout the world.

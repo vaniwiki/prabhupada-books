@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:Matchless Gift 3: Learning to Love~~
+---json
+{
+    "name":"Learning to Love",
+    "h1":"Chapter 3",
+    "title":"Matchless Gift 3: Learning to Love"
+    "description":""
+}
+---
 
 ====== Learning to Love ======
 

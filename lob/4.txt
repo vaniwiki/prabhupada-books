@@ -1,17 +1,15 @@
-~~Title:Light of the Bhāgavata 4~~
-~~bc:Text 4~~
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_04.jpg|}}
-//Light of the Bhagavata, Plate 4//
-</card>
+---json
+{
+    "name":"LOB 4",
+    "h1":"Text 4",
+    "title":"Light of the Bhāgavata 4",
+    "description":"After heavy rain showers, the fields and forests in all directions appear green and healthy. Thus they resemble a man who has undergone severe austerities for some material gain and has achieved his end, for such a man is strong, hearty, and good-looking."
+}
+---
 
 ====== Light of the Bhāgavata Text 4 ======
 
-
 **After heavy rain showers, the fields and forests in all directions appear green and healthy. Thus they resemble a man who has undergone severe austerities for some material gain and has achieved his end, for such a man is strong, hearty, and good-looking.**
-
-{{description>After heavy rain showers, the fields and forests in all directions appear green and healthy. Thus they resemble a man who has undergone severe austerities for some material gain and has achieved his end, for such a man is strong, hearty, and good-looking.}}
 
 The greenery of the rainy season is but a temporary show. It looks very pleasant, but we must remember that it will not last. Similarly, there are persons who undergo severe austerities for some material gain, but those who are sane avoid this. Severe austerities for temporary gains are simply a waste of time and energy. Material loss and gain are destined in accordance with the formation of each particular body. There are 8,400,000 species of life, and each type of body is destined to enjoy and suffer in accordance with its particular formation. The bodily enjoyments and sufferings of a wealthy man's son are different from those of a poor man's son. Although no one undergoes severe austerities to obtain distress, it comes upon us uncalled. Similarly, the happiness we are destined to enjoy will come upon us even without our desires. Even though we may be able to avoid distress and artificially enjoy some material happiness by temporary achievements, this represents no factual gain in life. Our duty is to achieve permanent happiness and eternal life, and it is for that purpose only---for the ultimate gain---that we should undertake all sorts of penances and austerities.
 

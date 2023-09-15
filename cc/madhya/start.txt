@@ -1,5 +1,11 @@
-~~bc:Madhya-līlā~~
-~~Title:Śrī Caitanya-caritāmṛta Madhya-līlā~~
+---json
+{
+    "name":"Śrī Caitanya-caritāmṛta Madhya-līlā",
+    "h1":"Madhya-līlā",
+    "title":"Śrī Caitanya-caritāmṛta Madhya-līlā"
+    "description":""
+}
+---
 
 ====== Śrī Caitanya-caritāmṛta Madhya-līlā ======
 

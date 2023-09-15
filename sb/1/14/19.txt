@@ -1,5 +1,11 @@
-~~bc:Text 19~~
-~~Title: Śrīmad Bhāgavatam 1.14.19~~
+---json
+{
+    "name":"SB 1.14.19",
+    "h1":"Text 19",
+    "title":"Śrīmad Bhāgavatam 1.14.19"
+    "description":""
+}
+---
 
 ====== SB 1.14.19 ======
 

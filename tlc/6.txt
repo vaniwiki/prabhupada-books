@@ -1,5 +1,11 @@
-~~bc:Chapter 6~~
-~~Title:TLC 6: His Forms Are One and the Same~~
+---json
+{
+    "name":"His Forms Are One and the Same",
+    "h1":"Chapter 6",
+    "title":"TLC 6: His Forms Are One and the Same"
+    "description":""
+}
+---
 
 ====== His Forms Are One and the Same ======
 

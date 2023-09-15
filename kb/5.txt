@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:KṚṢṆA 5: Meeting of Nanda and Vasudeva~~
+---json
+{
+    "name":"Meeting of Nanda and Vasudeva",
+    "h1":"Chapter 5",
+    "title":"KṚṢṆA 5: Meeting of Nanda and Vasudeva"
+    "description":""
+}
+---
 
 ====== Meeting of Nanda and Vasudeva ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 9~~
-~~Title:TQK 9: Decreasing the Fever of Illusion~~
+---json
+{
+    "name":"Decreasing the Fever of Illusion",
+    "h1":"Chapter 9",
+    "title":"TQK 9: Decreasing the Fever of Illusion"
+    "description":""
+}
+---
 
 ====== Decreasing the Fever of Illusion ======
 

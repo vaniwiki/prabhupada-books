@@ -1,5 +1,11 @@
-~~bc:Concluding words~~
-~~Title:PQPA: Concluding words~~
+---json
+{
+    "name":"Concluding words",
+    "h1":"Concluding words",
+    "title":"PQPA: Concluding words"
+    "description":""
+}
+---
 
 ====== Concluding words ======
 

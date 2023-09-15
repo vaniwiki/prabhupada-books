@@ -1,5 +1,11 @@
-~~bc:Chapter 8~~
-~~Title:TQK 8: Let There Be Calamities~~
+---json
+{
+    "name":"Let There Be Calamities",
+    "h1":"Chapter 8",
+    "title":"TQK 8: Let There Be Calamities"
+    "description":""
+}
+---
 
 ====== Let There Be Calamities ======
 

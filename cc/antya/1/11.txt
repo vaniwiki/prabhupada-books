@@ -1,7 +1,11 @@
-{{description>I am now almost an invalid because of old age, and I know that at any moment I may die. Therefore I have already described some portions of the antya-līlā.}}
-
-~~bc:Text 11~~
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 1.11~~
+---json
+{
+    "name":"Cc. Antya 1.11",
+    "h1":"Text 11",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.11",
+    "description":"I am now almost an invalid because of old age, and I know that at any moment I may die. Therefore I have already described some portions of the antya-līlā."
+}
+---
 
 ====== Cc. Antya 1.11 ======
 

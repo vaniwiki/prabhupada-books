@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:TQK 1: The Original Person~~
+---json
+{
+    "name":"The Original Person",
+    "h1":"Chapter 1",
+    "title":"TQK 1: The Original Person"
+    "description":""
+}
+---
 
 ====== The Original Person ======
 

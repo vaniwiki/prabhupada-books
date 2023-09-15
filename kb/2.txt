@@ -1,12 +1,18 @@
-~~bc:Chapter 2~~
-~~Title:KṚṢṆA 2: Prayers by the Demigods for Lord Kṛṣṇa in the Womb~~
+---json
+{
+    "name":"Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
+    "h1":"Chapter 2",
+    "title":"KṚṢṆA 2: Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
+    "description":""
+}
+---
+
+====== Prayers by the Demigods for Lord Kṛṣṇa in the Womb ======
 
 <card>
 {{:artwork:krishna_book:01.jpg|}}
 "Dear mother Devakī, within your womb is the Supreme Personality of Godhead."
 </card>
-
-====== Prayers by the Demigods for Lord Kṛṣṇa in the Womb ======
 
 {{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-2-verse-only.mp3|KṚṢṆA Chapter 2: Prayers by the Demigods for Lord Kṛṣṇa in the Womb}}
 

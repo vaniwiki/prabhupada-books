@@ -1,15 +1,18 @@
-~~bc:The Matchless Gift~~
+---json
+{
+    "name":"MG",
+    "h1":"The Matchless Gift",
+    "title":"Kṛṣṇa Consciousness, The Matchless Gift",
+    "description":""
+}
+---
 
 ====== Kṛṣṇa Consciousness, The Matchless Gift  ======
 
-<WRAP nopurple>
-
-  - [[books:mg:1|Spiritual Knowledge Through Kṛṣṇa]]
-  - [[books:mg:2|Getting Out — the Material Mire]]
-  - [[books:mg:3|Learning to Love]]
-  - [[books:mg:4|Learning Tapasya, Self-Control]]
-  - [[books:mg:5|Learning Steadiness in Kṛṣṇa Consciousness]]
-  - [[books:mg:6|Transcending Designations and Problems]]
-  - [[books:mg:7|The Matchless Gift: Liberation in Kṛṣṇa Consciousness]]
-
-</WRAP>
+  - [[books:mg:1:start|Spiritual Knowledge Through Kṛṣṇa]]
+  - [[books:mg:2:start|Getting Out — the Material Mire]]
+  - [[books:mg:3:start|Learning to Love]]
+  - [[books:mg:4:start|Learning Tapasya, Self-Control]]
+  - [[books:mg:5:start|Learning Steadiness in Kṛṣṇa Consciousness]]
+  - [[books:mg:6:start|Transcending Designations and Problems]]
+  - [[books:mg:7:start|The Matchless Gift: Liberation in Kṛṣṇa Consciousness]]

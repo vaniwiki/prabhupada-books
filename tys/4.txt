@@ -1,5 +1,11 @@
-~~bc:Chapter 4~~
-~~Title:TYS 4: The Goal of Yoga~~
+---json
+{
+    "name":"TYS 4: The Goal of Yoga",
+    "h1":"Chapter 4",
+    "title":"Topmost Yoga System 4: The Goal of Yoga"
+    "description":""
+}
+---
 
 ====== The Goal of Yoga ======
 

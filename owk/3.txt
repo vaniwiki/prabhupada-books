@@ -1,7 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:OWK 3: Seeing Kṛṣṇa Everywhere and Always~~
-
-{{description>In our practical life, Kṛṣṇa instructs us how to invoke Kṛṣṇa consciousness. It is not that we are to stop executing our duty or to cease from activity.}}
+---json
+{
+    "name":"OWK 3",
+    "h1":"Chapter 3",
+    "title":"OWK 3: Seeing Kṛṣṇa Everywhere and Always",
+    "description":"In our practical life, Kṛṣṇa instructs us how to invoke Kṛṣṇa consciousness. It is not that we are to stop executing our duty or to cease from activity."
+}
+---
 
 ====== Seeing Kṛṣṇa Everywhere and Always ======
 

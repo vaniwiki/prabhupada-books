@@ -1,8 +1,13 @@
-~~Title: SSR 1: Learning the Science of the Self~~
-~~bc:Chapter 1~~
-{{description>Who are you?... Are you your body? Or your mind? Or are you something higher? Do you know who you are, or do you merely think you know? And does it really matter? Our materialistic society, with its unenlightened leadership, has made it virtually taboo to inquire into our real, higher self. Instead we use our valuable time maintaining, decorating, and pampering the body for its own sake. Might there be an alternative?}}
+---json
+{
+    "name":"Learning the Science of the Self",
+    "h1":"Chapter 1",
+    "title":"SSR 1: Learning the Science of the Self"
+    "description":"Who are you?... Are you your body? Or your mind? Or are you something higher? Do you know who you are, or do you merely think you know? And does it really matter? Our materialistic society, with its unenlightened leadership, has made it virtually taboo to inquire into our real, higher self. Instead we use our valuable time maintaining, decorating, and pampering the body for its own sake. Might there be an alternative?"
+}
+---
 
-====== Learning the Science of the Self ======
+====== Learning the Science of the Self =======
 
 ===== Discovering the Self =====
 

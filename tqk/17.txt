@@ -1,5 +1,11 @@
-~~bc:Chapter 17~~
-~~Title:TQK 17: Lightening the Burden of the World~~
+---json
+{
+    "name":"Lightening the Burden of the World",
+    "h1":"Chapter 17",
+    "title":"TQK 17: Lightening the Burden of the World"
+    "description":""
+}
+---
 
 ====== Lightening the Burden of the World ======
 

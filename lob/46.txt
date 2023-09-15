@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 46~~
-~~bc:Text 46~~
+---json
+{
+    "name":"Light of the Bhāgavata 46",
+    "h1":"Text 46",
+    "title":"Light of the Bhāgavata 46"
+    "description":"The merchants, preachers, kings, and students who were confined to home during the four months June, July, August, and September began to flow out and attain success in life, just as perfected souls attain the required body as soon as they leave the present one."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 46 ======
 
 **The merchants, preachers, kings, and students who were confined to home during the four months June, July, August, and September began to flow out and attain success in life, just as perfected souls attain the required body as soon as they leave the present one.**
-
-{{description>The merchants, preachers, kings, and students who were confined to home during the four months June, July, August, and September began to flow out and attain success in life, just as perfected souls attain the required body as soon as they leave the present one.}}
 
 The people in general---especially the merchants, preachers, kings, and students---are advised not to leave home during the four months of the rainy season. These four months are known as Cāturmāsya, and for everyone there are specific rules for observing this period, partly for the sake of health and partly for spiritual realization. During this period the merchants cannot do free business, dedicated souls like //sannyāsīs// cannot freely preach the doctrines of the //Vedas,// kings cannot go out to tour their states, and students cannot go to their schools, which are closed. But after the Cāturmāsya period they all get the freedom to go out and perform their respective duties, and by doing so they can achieve the results they desire.
 

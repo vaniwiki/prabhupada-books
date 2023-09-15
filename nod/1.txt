@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:Nectar of Devotion 1: Characteristics of Pure Devotional Service~~
+---json
+{
+    "name":"Characteristics of Pure Devotional Service",
+    "h1":"Chapter 1",
+    "title":"Nectar of Devotion 1: Characteristics of Pure Devotional Service"
+    "description":""
+}
+---
 
 ====== Characteristics of Pure Devotional Service ======
 

@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:TLC 5: How to Approach God~~
+---json
+{
+    "name":"How to Approach God",
+    "h1":"Chapter 5",
+    "title":"TLC 5: How to Approach God"
+    "description":""
+}
+---
 
 ====== How to Approach God ======
 

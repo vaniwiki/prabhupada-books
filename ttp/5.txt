@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:TTP 5: Realizing that God Is Everywhere~~
+---json
+{
+    "name":"Realizing that God Is Everywhere",
+    "h1":"Chapter 5",
+    "title":"TTP 5: Realizing that God Is Everywhere"
+    "description":""
+}
+---
 
 ====== Realizing that God Is Everywhere ======
 

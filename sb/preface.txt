@@ -1,5 +1,11 @@
-~~bc: Preface~~
-~~Title: Śrīmad-Bhāgavatam Preface~~
+---json
+{
+    "name":"Śrīmad-Bhāgavatam Preface",
+    "h1":" Preface",
+    "title":" Śrīmad-Bhāgavatam Preface"
+    "description":""
+}
+---
 
 ====== Śrīmad-Bhāgavatam Preface ======
 

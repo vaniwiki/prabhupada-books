@@ -1,5 +1,11 @@
-~~bc:Chapter 20~~
-~~Title:KṚṢṆA 20: Description of Autumn~~
+---json
+{
+    "name":"Description of Autumn",
+    "h1":"Chapter 20",
+    "title":"KṚṢṆA 20: Description of Autumn"
+    "description":""
+}
+---
 
 ====== Description of Autumn ======
 

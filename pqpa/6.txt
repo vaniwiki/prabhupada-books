@@ -1,5 +1,11 @@
-~~bc:Chapter 6~~
-~~Title:PQPA 6: The Perfect Devotee~~
+---json
+{
+    "name":"The Perfect Devotee",
+    "h1":"Chapter 6",
+    "title":"PQPA 6: The Perfect Devotee"
+    "description":""
+}
+---
 
 ====== The Perfect Devotee ======
 

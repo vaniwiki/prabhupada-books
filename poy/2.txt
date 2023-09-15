@@ -1,7 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:The Perfection of Yoga 2: Yoga as Work in Devotion~~
-
-{{description>We have heard the names of so many different yogas and yogīs, but in Bhagavad-gītā Kṛṣṇa says that the actual yogī is he who has surrendered himself "fully unto Me."}}
+---json
+{
+    "name":"POY 2",
+    "h1":"Chapter 2",
+    "title":"The Perfection of Yoga 2: Yoga as Work in Devotion",
+    "description":"We have heard the names of so many different yogas and yogīs, but in Bhagavad-gītā Kṛṣṇa says that the actual yogī is he who has surrendered himself \"fully unto Me.\""
+}
+---
 
 ====== Yoga as Work in Devotion ======
 

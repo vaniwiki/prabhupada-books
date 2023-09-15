@@ -1,5 +1,11 @@
-~~bc:Chapter 7~~
-~~Title:TLC 7: Unlimited Forms of Godhead~~
+---json
+{
+    "name":"Unlimited Forms of Godhead",
+    "h1":"Chapter 7",
+    "title":"TLC 7: Unlimited Forms of Godhead"
+    "description":""
+}
+---
 
 ====== Unlimited Forms of Godhead ======
 

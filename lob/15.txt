@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 15~~
-~~bc:Text 15~~
+---json
+{
+    "name":"Light of the Bhāgavata 15",
+    "h1":"Text 15",
+    "title":"Light of the Bhāgavata 15"
+    "description":"In the midst of the thunder in the cloudy sky there appears a rainbow that has no string. Its appearance is compared to the appearance of the Supreme Personality of Godhead or His servants in the midst of the material atmosphere."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 15 ======
 
 **In the midst of the thunder in the cloudy sky there appears a rainbow that has no string. Its appearance is compared to the appearance of the Supreme Personality of Godhead or His servants in the midst of the material atmosphere.**
-
-{{description>In the midst of the thunder in the cloudy sky there appears a rainbow that has no string. Its appearance is compared to the appearance of the Supreme Personality of Godhead or His servants in the midst of the material atmosphere.}}
 
 The Sanskrit word //guṇa// means "quality" or "mode," as well as "string" or "rope." When a rainbow appears during the rainy season, it is observed to be like a bow with no //guṇa,// or string. Similarly, the appearance of the Personality of Godhead or His transcendental servants has nothing to do with the qualitative modes of material nature. The phenomenal appearance of the Transcendence is free from the qualities of material nature, and thus it resembles a bow with no string.
 

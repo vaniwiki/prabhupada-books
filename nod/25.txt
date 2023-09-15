@@ -1,5 +1,11 @@
-~~bc:Chapter 25~~
-~~Title:Nectar of Devotion 25: Devotees of Kṛṣṇa~~
+---json
+{
+    "name":"Devotees of Kṛṣṇa",
+    "h1":"Chapter 25",
+    "title":"Nectar of Devotion 25: Devotees of Kṛṣṇa"
+    "description":""
+}
+---
 
 ====== Devotees of Kṛṣṇa ======
 

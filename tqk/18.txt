@@ -1,5 +1,11 @@
-~~bc:Chapter 18~~
-~~Title:TQK 18: Liberation from Ignorance and Suffering~~
+---json
+{
+    "name":"Liberation from Ignorance and Suffering",
+    "h1":"Chapter 18",
+    "title":"TQK 18: Liberation from Ignorance and Suffering"
+    "description":""
+}
+---
 
 ====== Liberation from Ignorance and Suffering ======
 

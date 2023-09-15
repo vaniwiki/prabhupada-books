@@ -1,5 +1,11 @@
-~~bc:Chapter 42~~
-~~Title:Nectar of Devotion 42: Fraternal Loving Affairs~~
+---json
+{
+    "name":"Fraternal Loving Affairs",
+    "h1":"Chapter 42",
+    "title":"Nectar of Devotion 42: Fraternal Loving Affairs"
+    "description":""
+}
+---
 
 ====== Fraternal Loving Affairs ======
 

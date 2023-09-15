@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:The Path of Perfection 3: Learning How to See God~~
+---json
+{
+    "name":"Learning How to See God",
+    "h1":"Chapter 3",
+    "title":"The Path of Perfection 3: Learning How to See God"
+    "description":""
+}
+---
 
 ====== Learning How to See God ======
 

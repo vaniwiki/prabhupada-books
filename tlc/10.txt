@@ -1,5 +1,11 @@
-~~bc:Chapter 10~~
-~~Title:TLC 10: The Beauty of Kṛṣṇa~~
+---json
+{
+    "name":"The Beauty of Kṛṣṇa",
+    "h1":"Chapter 10",
+    "title":"TLC 10: The Beauty of Kṛṣṇa"
+    "description":""
+}
+---
 
 ====== The Beauty of Kṛṣṇa ======
 

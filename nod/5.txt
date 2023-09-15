@@ -1,5 +1,11 @@
-~~bc:Chapter 5~~
-~~Title:Nectar of Devotion 5: Purity of Devotional Service~~
+---json
+{
+    "name":"Purity of Devotional Service",
+    "h1":"Chapter 5",
+    "title":"Nectar of Devotion 5: Purity of Devotional Service"
+    "description":""
+}
+---
 
 ====== Purity of Devotional Service ======
 

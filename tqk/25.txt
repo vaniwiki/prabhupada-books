@@ -1,5 +1,11 @@
-~~bc:Chapter 25~~
-~~Title:TQK 25: Unalloyed Devotion~~
+---json
+{
+    "name":"Unalloyed Devotion",
+    "h1":"Chapter 25",
+    "title":"TQK 25: Unalloyed Devotion"
+    "description":""
+}
+---
 
 ====== Unalloyed Devotion ======
 

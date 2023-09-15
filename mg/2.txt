@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:Matchless Gift 2: Getting Out — the Material Mire~~
+---json
+{
+    "name":"Getting Out — the Material Mire",
+    "h1":"Chapter 2",
+    "title":"Matchless Gift 2: Getting Out — the Material Mire"
+    "description":""
+}
+---
 
 ====== Getting Out — the Material Mire ======
 

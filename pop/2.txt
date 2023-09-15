@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:The Path of Perfection 2: Mastering the Mind and Senses~~
+---json
+{
+    "name":"Mastering the Mind and Senses",
+    "h1":"Chapter 2",
+    "title":"The Path of Perfection 2: Mastering the Mind and Senses"
+    "description":""
+}
+---
 
 ====== Mastering the Mind and Senses ======
 

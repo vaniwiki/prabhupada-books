@@ -1,16 +1,15 @@
-~~Title:Light of the Bhāgavata 7~~
-~~bc:Text 7~~
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_07.jpg?nolink|}}
-//Light of the Bhagavata, Plate 7//
-</card>
+---json
+{
+    "name":"LOB 7",
+    "h1":"Text 7",
+    "title":"Light of the Bhāgavata 7",
+    "description":"The small rivulets that almost dried up during the months of May and June now begin to overflow their banks, like upstarts that suddenly overflow the limits of expenditure."
+}
+---
 
 ====== Light of the Bhāgavata Text 7 ======
 
 **The small rivulets that almost dried up during the months of May and June now begin to overflow their banks, like upstarts that suddenly overflow the limits of expenditure.**
-
-{{description>The small rivulets that almost dried up during the months of May and June now begin to overflow their banks, like upstarts that suddenly overflow the limits of expenditure.}}
 
 One should learn gravity from the sea and the rivulet. The sea is always within its limits, in spite of the many rivers pouring water into it. Similarly, one should properly use the assets of life and not squander them for purposes that have no permanent value. Uncontrolled, sensuous persons play with the assets of the body and accumulate wealth. But the strength of the body should be used for self-realization, not for sense gratification.
 

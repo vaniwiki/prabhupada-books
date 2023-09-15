@@ -1,5 +1,11 @@
-~~bc:Chapter 28~~
-~~Title:TLC 28: Relationship with the Supreme~~
+---json
+{
+    "name":"Relationship with the Supreme",
+    "h1":"Chapter 28",
+    "title":"TLC 28: Relationship with the Supreme"
+    "description":""
+}
+---
 
 ====== Relationship with the Supreme ======
 

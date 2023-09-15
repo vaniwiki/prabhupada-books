@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 19~~
-~~bc:Text 19~~
+---json
+{
+    "name":"Light of the Bhāgavata 19",
+    "h1":"Text 19",
+    "title":"Light of the Bhāgavata 19"
+    "description":"A crane stands on the edge of a pond that is always disturbed by flowing water, mud, and stones. The crane is like a householder who is disturbed in the shelter of his home but who, because of too much attachment, does not want to change his position."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 19 ======
 
 **A crane stands on the edge of a pond that is always disturbed by flowing water, mud, and stones. The crane is like a householder who is disturbed in the shelter of his home but who, because of too much attachment, does not want to change his position.**
-
-{{description>A crane stands on the edge of a pond that is always disturbed by flowing water, mud, and stones. The crane is like a householder who is disturbed in the shelter of his home but who, because of too much attachment, does not want to change his position.}}
 
 The forgetful householder life of the conditioned soul is a soul-killing dark well. This is the opinion of Śrī Prahlāda Mahārāja, the celebrated devotee of the Lord. Too much attachment for hearth and home is never recommended by a self-realized soul. Therefore the span of human life should be methodically divided.
 

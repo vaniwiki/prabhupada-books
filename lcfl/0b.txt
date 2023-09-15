@@ -1,5 +1,11 @@
-~~bc: Introduction~~
-~~Title:LCFL Introduction~~
+---json
+{
+    "name":"Science: Truth and Fiction",
+    "h1":" Introduction",
+    "title":"LCFL Introduction"
+    "description":""
+}
+---
 
 ====== Science: Truth and Fiction ======
 

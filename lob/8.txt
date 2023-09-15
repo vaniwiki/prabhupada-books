@@ -1,17 +1,15 @@
-~~Title:Light of the Bhāgavata 8~~
-~~bc:Text 8~~
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_08.jpg?nolink|}}
-//Light of the Bhagavata, Plate 8//
-</card>
-
+---json
+{
+    "name":"LOB 8",
+    "h1":"Text 8",
+    "title":"Light of the Bhāgavata 8",
+    "description":"The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets."
+}
+---
 
 ====== Light of the Bhāgavata Text 8 ======
 
 **The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets.**
-
-{{description>The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets.}}
 
 A rich man displays his opulence in various colorful ways. He has a good residential bungalow with sufficient property and a well-trimmed garden. The bungalow is decorated with up-to-date furniture and carpets. There are motorcars with dazzling polish, and a radio set receiving and broadcasting colorful news and melodious songs. All these captivate their proprietor as though he were in a dreamland of his own creation.
 

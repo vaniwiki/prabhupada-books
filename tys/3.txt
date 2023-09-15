@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:TYS 3: Beyond the Laws of Nature~~
+---json
+{
+    "name":"TYS 3: Beyond the Laws of Nature",
+    "h1":"Chapter 3",
+    "title":"Topmost Yoga System 3: Beyond the Laws of Nature"
+    "description":""
+}
+---
 
 ====== Beyond the Laws of Nature ======
 

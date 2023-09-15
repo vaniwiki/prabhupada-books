@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:MOG 2: Karma-yoga~~
+---json
+{
+    "name":"Karma-yoga",
+    "h1":"Chapter 2",
+    "title":"MOG 2: Karma-yoga"
+    "description":""
+}
+---
 
 ====== Karma-yoga ======
 

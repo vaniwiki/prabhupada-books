@@ -1,5 +1,11 @@
-~~bc:Chapter 2~~
-~~Title:TLC 2: Sanātana Gosvāmī~~
+---json
+{
+    "name":"Sanātana Gosvāmī",
+    "h1":"Chapter 2",
+    "title":"TLC 2: Sanātana Gosvāmī"
+    "description":""
+}
+---
 
 ====== Sanātana Gosvāmī ======
 

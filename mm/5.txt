@@ -1,6 +1,11 @@
-~~bc:Sūtra 5~~
-~~Title:Mukunda-mālā-stotra, Sūtra 5~~
-{{description>O my Lord! I have no attachment for religiosity, or for accumulating wealth, or for enjoying sense gratification. Let these come as they inevitably must, in accordance with my past deeds. But I do pray for this most cherished boon: birth after birth, let me render unflinching devotional service unto Your two lotus feet.}}
+---json
+{
+    "name":"Mukunda-mālā-stotra, Sūtra 5",
+    "h1":"Sūtra 5",
+    "title":"Mukunda-mālā-stotra, Sūtra 5"
+    "description":"O my Lord! I have no attachment for religiosity, or for accumulating wealth, or for enjoying sense gratification. Let these come as they inevitably must, in accordance with my past deeds. But I do pray for this most cherished boon: birth after birth, let me render unflinching devotional service unto Your two lotus feet."
+}
+---
 
 ====== Sūtra 5 ======
 

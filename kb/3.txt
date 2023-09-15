@@ -1,5 +1,11 @@
-~~bc:Chapter 3~~
-~~Title:KṚṢṆA 3: Birth of Lord Kṛṣṇa~~
+---json
+{
+    "name":"Birth of Lord Kṛṣṇa",
+    "h1":"Chapter 3",
+    "title":"KṚṢṆA 3: Birth of Lord Kṛṣṇa"
+    "description":""
+}
+---
 
 ====== Birth of Lord Kṛṣṇa ======
 

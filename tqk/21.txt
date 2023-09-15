@@ -1,5 +1,11 @@
-~~bc:Chapter 21~~
-~~Title:TQK 21: What Is Our Actual Value?~~
+---json
+{
+    "name":"What Is Our Actual Value?",
+    "h1":"Chapter 21",
+    "title":"TQK 21: What Is Our Actual Value?"
+    "description":""
+}
+---
 
 ====== What Is Our Actual Value? ======
 

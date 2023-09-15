@@ -1,5 +1,11 @@
-~~bc:Chapter 20~~
-~~Title:TLC 20: The Goal of Vedānta Study~~
+---json
+{
+    "name":"The Goal of Vedānta Study",
+    "h1":"Chapter 20",
+    "title":"TLC 20: The Goal of Vedānta Study"
+    "description":""
+}
+---
 
 ====== The Goal of Vedānta Study ======
 

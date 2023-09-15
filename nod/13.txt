@@ -1,5 +1,11 @@
-~~bc:Chapter 13~~
-~~Title:Nectar of Devotion 13: The Mahā-mantra~~
+---json
+{
+    "name":"The Mahā-mantra",
+    "h1":"Chapter 13",
+    "title":"Nectar of Devotion 13: The Mahā-mantra"
+    "description":""
+}
+---
 
 ====== The Mahā-mantra ======
 

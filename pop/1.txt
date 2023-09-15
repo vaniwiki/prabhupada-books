@@ -1,5 +1,11 @@
-~~bc:Chapter 1~~
-~~Title:The Path of Perfection 1: Yoga as Action~~
+---json
+{
+    "name":"Yoga as Action",
+    "h1":"Chapter 1",
+    "title":"The Path of Perfection 1: Yoga as Action"
+    "description":""
+}
+---
 
 ====== Yoga as Action ======
 

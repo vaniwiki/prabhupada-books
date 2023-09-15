@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 37~~
-~~bc:Text 37~~
+---json
+{
+    "name":"Light of the Bhāgavata 37",
+    "h1":"Text 37",
+    "title":"Light of the Bhāgavata 37"
+    "description":"With the inauguration of the autumn season the rough sea becomes calm and quiet, just like a philosopher after self-realization, who is no longer troubled by the modes of nature."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 37 ======
 
 **With the inauguration of the autumn season the rough sea becomes calm and quiet, just like a philosopher after self-realization, who is no longer troubled by the modes of nature.**
-
-{{description>With the inauguration of the autumn season the rough sea becomes calm and quiet, just like a philosopher after self-realization, who is no longer troubled by the modes of nature.}}
 
 The result of self-realization is cessation of the storms of desire and lust, which are products of the modes of ignorance and passion. This cessation of the storm does not mean that the sea becomes inactive. When the storm subsides, the work of navigation can take place smoothly. According to the Indian system of navigation, there is a ceremony on the seashore known as the coconut day. On the coconut day the sea is offered a coconut because she has become peaceful, and from that day on the seagoing vessels sail to foreign countries.
 

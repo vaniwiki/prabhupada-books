@@ -1,5 +1,11 @@
-~~bc:Chapter 45~~
-~~Title:Nectar of Devotion 45: Laughing Ecstasy~~
+---json
+{
+    "name":"Laughing Ecstasy",
+    "h1":"Chapter 45",
+    "title":"Nectar of Devotion 45: Laughing Ecstasy"
+    "description":""
+}
+---
 
 ====== Laughing Ecstasy ======
 

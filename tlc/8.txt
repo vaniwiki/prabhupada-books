@@ -1,5 +1,11 @@
-~~bc:Chapter 8~~
-~~Title:TLC 8: The Avatāras~~
+---json
+{
+    "name":"The Avatāras",
+    "h1":"Chapter 8",
+    "title":"TLC 8: The Avatāras"
+    "description":""
+}
+---
 
 ====== The Avatāras ======
 

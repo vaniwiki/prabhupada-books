@@ -1,11 +1,11 @@
-~~Title:Light of the Bhāgavata 9~~
-~~bc:Text 9~~
-{{description>A picturesque scene of green paddy fields enlivens the heart of the poor agriculturalist, but it brings gloom to the face of the capitalist who lives by exploiting the poor farmers.}}
-
-<card>
-{{:artwork:light_of_the_bhagavata:lob_09.jpg?nolink|}}
-//Light of the Bhagavata, Plate 9//
-</card>
+---json
+{
+    "name":"LOB 9",
+    "h1":"Text 9",
+    "title":"Light of the Bhāgavata 9",
+    "description":"A picturesque scene of green paddy fields enlivens the heart of the poor agriculturalist, but it brings gloom to the face of the capitalist who lives by exploiting the poor farmers."
+}
+---
 
 ====== Light of the Bhāgavata Text 9 ======
 

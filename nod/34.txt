@@ -1,5 +1,11 @@
-~~bc:Chapter 34~~
-~~Title:Nectar of Devotion 34: The Nectar of Devotion~~
+---json
+{
+    "name":"The Nectar of Devotion",
+    "h1":"Chapter 34",
+    "title":"Nectar of Devotion 34: The Nectar of Devotion"
+    "description":""
+}
+---
 
 ====== The Nectar of Devotion ======
 

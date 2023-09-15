@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 20~~
-~~bc:Text 20~~
+---json
+{
+    "name":"Light of the Bhāgavata 20",
+    "h1":"Text 20",
+    "title":"Light of the Bhāgavata 20"
+    "description":"Fierce torrents of rain break over the strands and the partition walls of the paddy field. These disturbances resemble those created by the seasonal opponents of the standard principles of the Vedas, who are influenced by the age of Kali."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 20 ======
 
 **Fierce torrents of rain break over the strands and the partition walls of the paddy field. These disturbances resemble those created by the seasonal opponents of the standard principles of the Vedas, who are influenced by the age of Kali.**
-
-{{description>Fierce torrents of rain break over the strands and the partition walls of the paddy field. These disturbances resemble those created by the seasonal opponents of the standard principles of the Vedas, who are influenced by the age of Kali.}}
 
 Originally the path of self-realization was established by the standard direction of the //Vedas.// Śrīla Vyāsadeva divided the original //Veda// into four divisions, namely //Sāma, Atharva, Ṛg,// and //Yajur.// Then he divided the same //Vedas// into eighteen //Purāṇas// (supplements) and the //Mahābhārata,// and then again the same author summarized them in the //Vedānta-sūtras.// The purpose of all these Vedic literatures is to realize one's self to be a spiritual being, eternally related with the Supreme Personality of Godhead, the all-attractive form (Śrī Kṛṣṇa).
 

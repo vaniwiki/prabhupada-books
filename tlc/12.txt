@@ -1,5 +1,11 @@
-~~bc:Chapter 12~~
-~~Title:TLC 12: The Devotee~~
+---json
+{
+    "name":"The Devotee",
+    "h1":"Chapter 12",
+    "title":"TLC 12: The Devotee"
+    "description":""
+}
+---
 
 ====== The Devotee ======
 

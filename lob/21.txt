@@ -1,12 +1,16 @@
-~~Title:Light of the Bhāgavata 21~~
-~~bc:Text 21~~
+---json
+{
+    "name":"Light of the Bhāgavata 21",
+    "h1":"Text 21",
+    "title":"Light of the Bhāgavata 21"
+    "description":"The wind carries the clouds to different parts of the globe, and the clouds distribute rains, to the satisfaction of the people in general, just as rich kings and merchants distribute their accumulated wealth, inspired by religious priests."
+}
+---
 
 ==== Light of the Bhāgavata ====
 ====== Text 21 ======
 
 **The wind carries the clouds to different parts of the globe, and the clouds distribute rains, to the satisfaction of the people in general, just as rich kings and merchants distribute their accumulated wealth, inspired by religious priests.**
-
-{{description>The wind carries the clouds to different parts of the globe, and the clouds distribute rains, to the satisfaction of the people in general, just as rich kings and merchants distribute their accumulated wealth, inspired by religious priests.}}
 
 As already explained, the four divisions of society---namely the intelligent class of men (the //brāhmaṇas//), the ruling class (the //kṣatriyas//), the mercantile class (the //vaiśyas//), and the laboring class (the //śūdras//)---are meant to achieve one goal in life: self-realization, or cultivation of the human spirit. The intelligent class of men, the //brāhmaṇas,// are to inspire the //kṣatriyas// and //vaiśyas// in performing sacrifices for spiritual cultivation, and thus the cooperation of the //brāhmaṇas, kṣatriyas,// and //vaiśyas// uplifts the people in general, or the ordinary laboring class of men. As soon as this cooperation between the four classes of men in society stops and the basic principles of spiritual culture are neglected, the social structure of humanity becomes a second edition of animal life, based on the propensities of eating, sleeping, fearing, and mating. It is the duty of the intelligent men to influence the members of the richer communities---the //kṣatriyas// and //vaiśyas//---to sacrifice for spiritual culture. Only in this way can the tension between the capitalists and the laborers be well mitigated.
 

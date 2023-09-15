@@ -1,5 +1,11 @@
-~~bc:Dedication~~
-~~Title:The Science of Self Realization, Dedication~~
+---json
+{
+    "name":"Dedication",
+    "h1":"Dedication",
+    "title":"The Science of Self Realization, Dedication"
+    "description":""
+}
+---
 
 ====== Dedication ======
 

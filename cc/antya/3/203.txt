@@ -1,7 +1,11 @@
-{{description>Then Haridāsa Ṭhākura got up to leave, and the Majumadāras, the masters of Gopāla Cakravartī, immediately dismissed Gopāla Cakravartī from their service.}}
-
-~~bc:Text 203~~
-~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.203~~
+---json
+{
+    "name":"Cc. Antya 3.203",
+    "h1":"Text 203",
+    "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.203",
+    "description":"Then Haridāsa Ṭhākura got up to leave, and the Majumadāras, the masters of Gopāla Cakravartī, immediately dismissed Gopāla Cakravartī from their service."
+}
+---
 
 ====== Cc. Antya 3.203 ======
 

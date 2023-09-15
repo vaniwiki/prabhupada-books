@@ -1,5 +1,11 @@
-~~bc:Words from Apple~~
-~~Title:KṚṢṆA Words from Apple~~
+---json
+{
+    "name":"Words from Apple",
+    "h1":"Words from Apple",
+    "title":"KṚṢṆA Words from Apple"
+    "description":""
+}
+---
 
 ====== Words from Apple ======
 

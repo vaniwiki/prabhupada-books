@@ -1,5 +1,11 @@
-~~bc:Introduction~~
-~~Title:Teachings of Queen Kuntī, Introduction~~
+---json
+{
+    "name":"TQK Introduction",
+    "h1":"Introduction",
+    "title":"Teachings of Queen Kuntī, Introduction"
+    "description":""
+}
+---
 
 ====== Introduction ======
 

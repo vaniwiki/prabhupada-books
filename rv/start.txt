@@ -1,4 +1,11 @@
-~~bc:Rāja-Vidyā~~
+---json
+{
+    "name":"Rāja-Vidyā",
+    "h1":"Rāja-Vidyā",
+    "title":"Rāja-Vidyā: The King of Knowledge",
+    "description":""
+}
+---
 
 ====== Rāja-Vidyā: The King of Knowledge ======
 

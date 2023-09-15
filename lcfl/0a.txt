@@ -1,4 +1,11 @@
-~~bc:Foreword~~
+---json
+{
+    "name":"LCFL Foreword",
+    "h1":"Foreword",
+    "title":"LCFL Foreword",
+    "description":"For people who have come to accept every pronouncement of modern scientists as tested and proven truth, this book will be an eye-opener. Life Comes From Life is an impromptu but brilliant critique of some of the dominant policies, theories and presuppositions of modern science and scientists by one of the greatest philosophers and scholars of the century, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda. Śrīla Prabhupāda's vivid analysis uncovers the hidden and blatantly unfounded assumptions that underlie currently fashionable doctrines concerning the origins and purpose of life."
+}
+---
 
 ====== LCFL Foreword ======
 

@@ -2,7 +2,7 @@
 {
     "name":"Preface",
     "h1":"Preface",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā Preface",
     "description":""
 }
 ---

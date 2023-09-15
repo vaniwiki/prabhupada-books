@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 42",
+    "name":"LOB 42",
     "h1":"Text 42",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 42",
     "description":"At night in autumn the atmosphere is pleasant because it is neither very hot nor very cold. The mild wind blowing through the gardens of fruits and flowers in Vṛndāvana appeared very much pleasing to all—all but the gopīs, who were always overtaken by heartfelt sorrow in the absence of Kṛṣṇa."
 }
 ---

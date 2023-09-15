@@ -2,7 +2,7 @@
 {
     "name":"The Lord’s Paugaṇḍa-līlā",
     "h1":"Chapter 15",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 15: The Lord’s Paugaṇḍa-līlā",
     "description":""
 }
 ---

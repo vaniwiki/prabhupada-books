@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 37",
+    "name":"LOB 37",
     "h1":"Text 37",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 37",
     "description":"With the inauguration of the autumn season the rough sea becomes calm and quiet, just like a philosopher after self-realization, who is no longer troubled by the modes of nature."
 }
 ---

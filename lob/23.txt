@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 23",
+    "name":"LOB 23",
     "h1":"Text 23",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 23",
     "description":"The cows that followed the Lord within the forest moved slowly because of their heavy, milk-laden udders. But when the Lord called them by their specific names they at once became alert, and as they hastened toward Him their milk bags overflowed and poured milk on the ground because of affection for the Lord."
 }
 ---

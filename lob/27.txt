@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 27",
+    "name":"LOB 27",
     "h1":"Text 27",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 27",
     "description":"After good rains the grazing ground for the animals was full of green pasture, and both the bulls and the cows sat down on the grass fully satisfied. The cows, followed by their calves, appeared tired of grazing, because of full milk bags. Calmly and quietly the cows and calves rested and ruminated, chewing their cud."
 }
 ---

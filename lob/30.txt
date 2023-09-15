@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 30",
+    "name":"LOB 30",
     "h1":"Text 30",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 30",
     "description":"In autumn all the reservoirs of water become enriched with growing lotuses. The muddy water again becomes normally clear and decorated, just as fallen, conditioned souls once more become spiritually enriched in devotional service."
 }
 ---

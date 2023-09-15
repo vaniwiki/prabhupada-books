@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 15",
+    "name":"LOB 15",
     "h1":"Text 15",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 15",
     "description":"In the midst of the thunder in the cloudy sky there appears a rainbow that has no string. Its appearance is compared to the appearance of the Supreme Personality of Godhead or His servants in the midst of the material atmosphere."
 }
 ---

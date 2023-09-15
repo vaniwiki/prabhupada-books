@@ -2,7 +2,7 @@
 {
     "name":"The Glories of Śrī Advaita Ācārya",
     "h1":"Chapter 6",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 6: The Glories of Śrī Advaita Ācārya",
     "description":""
 }
 ---

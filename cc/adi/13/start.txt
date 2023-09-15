@@ -2,7 +2,7 @@
 {
     "name":"The Advent of Lord Śrī Caitanya Mahāprabhu",
     "h1":"Chapter 13",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 13: The Advent of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }
 ---

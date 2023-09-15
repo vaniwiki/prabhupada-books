@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"The First Morning Walk: April 18, 1973",
+    "name":"LCFL 1",
     "h1":"Chapter 1",
-    "title":"(.*?)",
+    "title":"Life Comes From Life 1: The First Morning Walk: April 18, 1973",
     "description":""
 }
 ---

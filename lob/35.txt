@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 35",
+    "name":"LOB 35",
     "h1":"Text 35",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 35",
     "description":"When the small pools of water become too hot because of the scorching heat of the autumn sun, the poor, small creatures, with their many family members, suffer terribly, as poor householders with too many family members suffer economic strains and yet go on begetting children because of uncontrolled senses."
 }
 ---

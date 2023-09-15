@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 12",
+    "name":"LOB 12",
     "h1":"Text 12",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 12",
     "description":"The mountains, although being struck by torrents of rain during the rainy season, are not shaken, just as those whose hearts are dedicated to the transcendental Personality of Godhead are never disturbed, even when harassed by great misfortune."
 }
 ---

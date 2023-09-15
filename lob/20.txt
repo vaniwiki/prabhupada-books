@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 20",
+    "name":"LOB 20",
     "h1":"Text 20",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 20",
     "description":"Fierce torrents of rain break over the strands and the partition walls of the paddy field. These disturbances resemble those created by the seasonal opponents of the standard principles of the Vedas, who are influenced by the age of Kali."
 }
 ---

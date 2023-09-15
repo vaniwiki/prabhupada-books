@@ -2,7 +2,7 @@
 {
     "name":"Concluding Words",
     "h1":"Concluding Words",
-    "title":"(.*?)",
+    "title":"Śrī Caitanya-caritāmṛta Antya-līlā, Concluding Words",
     "description":""
 }
 ---

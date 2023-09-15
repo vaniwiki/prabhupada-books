@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Light of the Bhāgavata 17",
+    "name":"LOB 17",
     "h1":"Text 17",
-    "title":"(.*?)",
+    "title":"Light of the Bhāgavata 17",
     "description":"When the clouds appear in the sky the peacock begins to dance in ecstasy, as a sincere soul becomes overwhelmed with joy on the appearance of a saint at his house."
 }
 ---

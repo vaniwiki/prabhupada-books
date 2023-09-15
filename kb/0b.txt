@@ -1,6 +1,7 @@
 ---json
 {
-    "name":"KB Words from Apple",
+    "name":"KṚṢṆA Words from Apple",
+    "label":"Words from Apple",
     "h1":"Words from Apple",
     "title":"KṚṢṆA Words From Apple",
     "description":""

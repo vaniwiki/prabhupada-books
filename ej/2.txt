@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Easy Journey 2",
-    "h1":"Chapter 2",
+    "label":"Chapter 2",
+    "h1":"Varieties of Planetary Systems",
     "title":"Easy Journey to Other Planets 2: Varieties of Planetary Systems",
     "description":"In these days, when men are trying to go to the moon, people should not think that Kṛṣṇa consciousness is concerned with something old-fashioned."
 }

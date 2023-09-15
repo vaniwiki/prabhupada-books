@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Knowing Kṛṣṇa as He Is",
-    "h1":"Chapter 4",
+    "name":"EKC 4",
+    "label":"Chapter 4",
+    "h1":"Knowing Kṛṣṇa as He Is",
     "title":"Elevation to Kṛṣṇa Consciousness 4: Knowing Kṛṣṇa as He Is",
     "description":""
 }

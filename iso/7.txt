@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Īśo 7",
-    "h1":"Mantra 7",
-    "title":"Śrī Īśopaniṣad, Mantra 7",
+    "label":"Mantra 7",
+    "h1":"Īśo 7",
+    "title":"Śrī Īśopaniṣad Mantra 7",
     "description":"One who always sees all living entities as spiritual sparks, in quality one with the Lord, becomes a true knower of things. What, then, can be illusion or anxiety for him?"
 }
 ---

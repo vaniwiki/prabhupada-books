@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Īśo 10",
-    "h1":"Mantra 10",
-    "title":"Śrī Īśopaniṣad, Mantra 10",
+    "label":"Mantra 10",
+    "h1":"Īśo 10",
+    "title":"Śrī Īśopaniṣad Mantra 10",
     "description":"The wise have explained that one result is derived from the culture of knowledge and that a different result is obtained from the culture of nescience."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Īśo 5",
-    "h1":"Mantra 5",
-    "title":"Śrī Īśopaniṣad, Mantra 5",
+    "label":"Mantra 5",
+    "h1":"Īśo 5",
+    "title":"Śrī Īśopaniṣad Mantra 5",
     "description":"The Supreme Lord walks and does not walk. He is far away, but He is very near as well. He is within everything, and yet He is outside of everything."
 }
 ---

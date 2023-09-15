@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Īśo 16",
-    "h1":"Mantra 16",
-    "title":"Śrī Īśopaniṣad, Mantra 16",
+    "label":"Mantra 16",
+    "h1":"Īśo 16",
+    "title":"Śrī Īśopaniṣad Mantra 16",
     "description":"O my Lord, O primeval philosopher, maintainer of the universe, O regulating principle, destination of the pure devotees, well-wisher of the progenitors of mankind, please remove the effulgence of Your transcendental rays so that I can see Your form of bliss. You are the eternal Supreme Personality of Godhead, like unto the sun, as am I."
 }
 ---

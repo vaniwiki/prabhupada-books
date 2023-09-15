@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Toward a Peaceful Society",
-    "h1":"Chapter 3",
+    "name":"EKC 3",
+    "label":"Chapter 3",
+    "h1":"Toward a Peaceful Society",
     "title":"Elevation to Kṛṣṇa Consciousness 3: Toward a Peaceful Society",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"We Are Not These Bodies",
-    "h1":"Chapter 1",
+    "name":"BBD 1",
+    "label":"Chapter 1",
+    "h1":"We Are Not These Bodies",
     "title":"Beyond Birth and Death 1: We Are Not These Bodies",
     "description":"The very first step in self-realization is realizing one’s identity as separate from the body. 'I am not this body but am spirit soul' is an essential realization for anyone who wants to transcend death and enter into the spiritual world beyond. It is not simply a matter of saying 'I am not this body,' but of actually realizing it. This is not as simple as it may seem at first. Although we are not these bodies but are pure consciousness, somehow or other we have become encased within the bodily dress. If we actually want the happiness and independence that transcend death, we have to establish ourselves and remain in our constitutional position as pure consciousness."
 }

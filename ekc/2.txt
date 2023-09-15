@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Hard Struggle for Happiness",
-    "h1":"Chapter 2",
+    "name":"EKC 2",
+    "label":"Chapter 2",
+    "h1":"Hard Struggle for Happiness",
     "title":"Elevation to Kṛṣṇa Consciousness 2: Hard Struggle for Happiness",
     "description":""
 }

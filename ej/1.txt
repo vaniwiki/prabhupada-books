@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Easy Journey 1",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"Antimaterial Worlds",
     "title":"Easy Journey to Other Planets 1: Antimaterial Worlds",
     "description":"Materialistic science may one day finally discover the eternal antimaterial world which has for so long been unknown to the wranglers of gross materialism."
 }

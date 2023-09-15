@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Taking to Kṛṣṇa Consciousness",
-    "h1":"Chapter 6",
+    "name":"EKC 6",
+    "label":"Chapter 6",
+    "h1":"Taking to Kṛṣṇa Consciousness",
     "title":"Elevation to Kṛṣṇa Consciousness 6: Taking to Kṛṣṇa Consciousness",
     "description":""
 }

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Īśo 3",
-    "h1":"Mantra 3",
-    "title":"Śrī Īśopaniṣad, Mantra 3",
+    "label":"Mantra 3",
+    "h1":"Īśo 3",
+    "title":"Śrī Īśopaniṣad Mantra 3",
     "description":"The killer of the soul, whoever he may be, must enter into the planets known as the worlds of the faithless, full of darkness and ignorance."
 }
 ---

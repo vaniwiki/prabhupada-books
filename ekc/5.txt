@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Knowing Kṛṣṇa’s Energies",
-    "h1":"Chapter 5",
+    "name":"EKC 5",
+    "label":"Chapter 5",
+    "h1":"Knowing Kṛṣṇa’s Energies",
     "title":"Elevation to Kṛṣṇa Consciousness 5: Knowing Kṛṣṇa’s Energies",
     "description":""
 }

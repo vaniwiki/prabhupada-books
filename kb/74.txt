@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Deliverance of Śiśupāla",
-    "h1":"Chapter 74",
-    "title":"KṚṢṆA 74: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 74",
+    "label":"Chapter 74",
+    "h1":"The Deliverance of Śiśupāla",
+    "title":"KṚṢṆA 74: The Deliverance of Śiśupāla",
     "description":""
 }
 ---

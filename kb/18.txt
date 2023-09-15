@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Killing the Demon Pralambāsura",
-    "h1":"Chapter 18",
-    "title":"KṚṢṆA 18: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 18",
+    "label":"Chapter 18",
+    "h1":"Killing the Demon Pralambāsura",
+    "title":"KṚṢṆA 18: Killing the Demon Pralambāsura",
     "description":""
 }
 ---

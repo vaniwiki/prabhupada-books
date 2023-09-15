@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Mother Yaśodā Binding Lord Kṛṣṇa",
-    "h1":"Chapter 9",
-    "title":"KṚṢṆA 9: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 9",
+    "label":"Chapter 9",
+    "h1":"Mother Yaśodā Binding Lord Kṛṣṇa",
+    "title":"KṚṢṆA 9: Mother Yaśodā Binding Lord Kṛṣṇa",
     "description":""
 }
 ---

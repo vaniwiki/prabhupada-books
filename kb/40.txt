@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Prayers by Akrūra",
-    "h1":"Chapter 40",
-    "title":"KṚṢṆA 40: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 40",
+    "label":"Chapter 40",
+    "h1":"Prayers by Akrūra",
+    "title":"KṚṢṆA 40: Prayers by Akrūra",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Erects the Dvārakā Fort",
-    "h1":"Chapter 50",
-    "title":"KṚṢṆA 50: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 50",
+    "label":"Chapter 50",
+    "h1":"Kṛṣṇa Erects the Dvārakā Fort",
+    "title":"KṚṢṆA 50: Kṛṣṇa Erects the Dvārakā Fort",
     "description":""
 }
 ---

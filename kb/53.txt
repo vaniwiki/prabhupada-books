@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Kidnaps Rukmiṇī",
-    "h1":"Chapter 53",
-    "title":"KṚṢṆA 53: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 53",
+    "label":"Chapter 53",
+    "h1":"Kṛṣṇa Kidnaps Rukmiṇī",
+    "title":"KṚṢṆA 53: Kṛṣṇa Kidnaps Rukmiṇī",
     "description":""
 }
 ---

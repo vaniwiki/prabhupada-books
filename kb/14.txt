@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
-    "h1":"Chapter 14",
-    "title":"KṚṢṆA 14: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 14",
+    "label":"Chapter 14",
+    "h1":"Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
+    "title":"KṚṢṆA 14: Prayers Offered by Lord Brahmā to Lord Kṛṣṇa",
     "description":""
 }
 ---

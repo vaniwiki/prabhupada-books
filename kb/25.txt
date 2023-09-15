@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Devastating Rainfall in Vṛndāvana",
-    "h1":"Chapter 25",
-    "title":"KṚṢṆA 25: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 25",
+    "label":"Chapter 25",
+    "h1":"Devastating Rainfall in Vṛndāvana",
+    "title":"KṚṢṆA 25: Devastating Rainfall in Vṛndāvana",
     "description":""
 }
 ---

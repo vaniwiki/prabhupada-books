@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Five Queens Married by Kṛṣṇa",
-    "h1":"Chapter 58",
-    "title":"KṚṢṆA 58: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 58",
+    "label":"Chapter 58",
+    "h1":"Five Queens Married by Kṛṣṇa",
+    "title":"KṚṢṆA 58: Five Queens Married by Kṛṣṇa",
     "description":""
 }
 ---

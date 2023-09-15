@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kaṁsa Sends Akrūra for Kṛṣṇa",
-    "h1":"Chapter 36",
-    "title":"KṚṢṆA 36: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 36",
+    "label":"Chapter 36",
+    "h1":"Kaṁsa Sends Akrūra for Kṛṣṇa",
+    "title":"KṚṢṆA 36: Kaṁsa Sends Akrūra for Kṛṣṇa",
     "description":""
 }
 ---

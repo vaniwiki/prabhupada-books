@@ -2,7 +2,7 @@
 {
     "name":"Introduction",
     "h1":"Introduction",
-    "title":"(.*?)",
+    "title":"Message of Godhead Introduction",
     "description":""
 }
 ---

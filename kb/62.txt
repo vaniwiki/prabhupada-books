@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Meeting of Uṣā and Aniruddha",
-    "h1":"Chapter 62",
-    "title":"KṚṢṆA 62: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 62",
+    "label":"Chapter 62",
+    "h1":"The Meeting of Uṣā and Aniruddha",
+    "title":"KṚṢṆA 62: The Meeting of Uṣā and Aniruddha",
     "description":""
 }
 ---

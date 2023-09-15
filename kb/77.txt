@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Deliverance of Śālva",
-    "h1":"Chapter 77",
-    "title":"KṚṢṆA 77: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 77",
+    "label":"Chapter 77",
+    "h1":"The Deliverance of Śālva",
+    "title":"KṚṢṆA 77: The Deliverance of Śālva",
     "description":""
 }
 ---

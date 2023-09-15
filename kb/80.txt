@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
-    "h1":"Chapter 80",
-    "title":"KṚṢṆA 80: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 80",
+    "label":"Chapter 80",
+    "h1":"Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
+    "title":"KṚṢṆA 80: Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
     "description":""
 }
 ---

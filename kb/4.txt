@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kaṁsa Begins His Persecutions",
-    "h1":"Chapter 4",
-    "title":"KṚṢṆA 4: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 4",
+    "label":"Chapter 4",
+    "h1":"Kaṁsa Begins His Persecutions",
+    "title":"KṚṢṆA 4: Kaṁsa Begins His Persecutions",
     "description":""
 }
 ---

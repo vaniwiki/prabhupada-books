@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Stealing the Garments of the Unmarried Gopī Girls",
-    "h1":"Chapter 22",
-    "title":"KṚṢṆA 22: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 22",
+    "label":"Chapter 22",
+    "h1":"Stealing the Garments of the Unmarried Gopī Girls",
+    "title":"KṚṢṆA 22: Stealing the Garments of the Unmarried Gopī Girls",
     "description":""
 }
 ---

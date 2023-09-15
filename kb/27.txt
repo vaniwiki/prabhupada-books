@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Prayers by Indra, the King of Heaven",
-    "h1":"Chapter 27",
-    "title":"KṚṢṆA 27: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 27",
+    "label":"Chapter 27",
+    "h1":"Prayers by Indra, the King of Heaven",
+    "title":"KṚṢṆA 27: Prayers by Indra, the King of Heaven",
     "description":""
 }
 ---

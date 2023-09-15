@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Liberation of King Jarāsandha",
-    "h1":"Chapter 72",
-    "title":"KṚṢṆA 72: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 72",
+    "label":"Chapter 72",
+    "h1":"The Liberation of King Jarāsandha",
+    "title":"KṚṢṆA 72: The Liberation of King Jarāsandha",
     "description":""
 }
 ---

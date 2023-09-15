@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Pradyumna Born to Kṛṣṇa and Rukmiṇī",
-    "h1":"Chapter 55",
-    "title":"KṚṢṆA 55: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 55",
+    "label":"Chapter 55",
+    "h1":"Pradyumna Born to Kṛṣṇa and Rukmiṇī",
+    "title":"KṚṢṆA 55: Pradyumna Born to Kṛṣṇa and Rukmiṇī",
     "description":""
 }
 ---

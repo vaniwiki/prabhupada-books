@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Returns to the Gopīs",
-    "h1":"Chapter 32",
-    "title":"KṚṢṆA 32: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 32",
+    "label":"Chapter 32",
+    "h1":"Kṛṣṇa Returns to the Gopīs",
+    "title":"KṚṢṆA 32: Kṛṣṇa Returns to the Gopīs",
     "description":""
 }
 ---

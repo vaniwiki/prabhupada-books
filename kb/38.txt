@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Akrūra’s Arrival in Vṛndāvana",
-    "h1":"Chapter 38",
-    "title":"KṚṢṆA 38: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 38",
+    "label":"Chapter 38",
+    "h1":"Akrūra’s Arrival in Vṛndāvana",
+    "title":"KṚṢṆA 38: Akrūra’s Arrival in Vṛndāvana",
     "description":""
 }
 ---

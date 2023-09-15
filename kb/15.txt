@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Killing of Dhenukāsura",
-    "h1":"Chapter 15",
-    "title":"KṚṢṆA 15: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 15",
+    "label":"Chapter 15",
+    "h1":"Killing of Dhenukāsura",
+    "title":"KṚṢṆA 15: Killing of Dhenukāsura",
     "description":""
 }
 ---

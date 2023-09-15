@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Killing the Demons Vatsāsura and Bakāsura",
-    "h1":"Chapter 11",
-    "title":"KṚṢṆA 11: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 11",
+    "label":"Chapter 11",
+    "h1":"Killing the Demons Vatsāsura and Bakāsura",
+    "title":"KṚṢṆA 11: Killing the Demons Vatsāsura and Bakāsura",
     "description":""
 }
 ---

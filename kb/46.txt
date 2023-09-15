@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Uddhava Visits Vṛndāvana",
-    "h1":"Chapter 46",
-    "title":"KṚṢṆA 46: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 46",
+    "label":"Chapter 46",
+    "h1":"Uddhava Visits Vṛndāvana",
+    "title":"KṚṢṆA 46: Uddhava Visits Vṛndāvana",
     "description":""
 }
 ---

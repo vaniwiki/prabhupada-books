@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Kṛṣṇa Fights with Bāṇāsura",
-    "h1":"Chapter 63",
-    "title":"KṚṢṆA 63: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 63",
+    "label":"Chapter 63",
+    "h1":"Lord Kṛṣṇa Fights with Bāṇāsura",
+    "title":"KṚṢṆA 63: Lord Kṛṣṇa Fights with Bāṇāsura",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana",
-    "h1":"Chapter 82",
-    "title":"KṚṢṆA 82: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 82",
+    "label":"Chapter 82",
+    "h1":"Lord Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana",
+    "title":"KṚṢṆA 82: Lord Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana",
     "description":""
 }
 ---

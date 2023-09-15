@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
-    "h1":"Chapter 81",
-    "title":"KṚṢṆA 81: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 81",
+    "label":"Chapter 81",
+    "h1":"The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
+    "title":"KṚṢṆA 81: The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
     "description":""
 }
 ---

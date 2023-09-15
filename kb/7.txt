@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Salvation of Tṛṇāvarta",
-    "h1":"Chapter 7",
-    "title":"KṚṢṆA 7: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 7",
+    "label":"Chapter 7",
+    "h1":"Salvation of Tṛṇāvarta",
+    "title":"KṚṢṆA 7: Salvation of Tṛṇāvarta",
     "description":""
 }
 ---

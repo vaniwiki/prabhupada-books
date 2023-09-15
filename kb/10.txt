@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Deliverance of Nalakūvara and Maṇigrīva",
-    "h1":"Chapter 10",
-    "title":"KṚṢṆA 10: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 10",
+    "label":"Chapter 10",
+    "h1":"Deliverance of Nalakūvara and Maṇigrīva",
+    "title":"KṚṢṆA 10: Deliverance of Nalakūvara and Maṇigrīva",
     "description":""
 }
 ---

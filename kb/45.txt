@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Recovers the Son of His Teacher",
-    "h1":"Chapter 45",
-    "title":"KṚṢṆA 45: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 45",
+    "label":"Chapter 45",
+    "h1":"Kṛṣṇa Recovers the Son of His Teacher",
+    "title":"KṚṢṆA 45: Kṛṣṇa Recovers the Son of His Teacher",
     "description":""
 }
 ---

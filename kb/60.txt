@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Talks Between Kṛṣṇa and Rukmiṇī",
-    "h1":"Chapter 60",
-    "title":"KṚṢṆA 60: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 60",
+    "label":"Chapter 60",
+    "h1":"Talks Between Kṛṣṇa and Rukmiṇī",
+    "title":"KṚṢṆA 60: Talks Between Kṛṣṇa and Rukmiṇī",
     "description":""
 }
 ---

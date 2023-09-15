@@ -2,7 +2,7 @@
 {
     "name":"Mukunda-mālā-stotra, Sūtra 1",
     "h1":"Sūtra 1",
-    "title":"(.*?)",
+    "title":"Mukunda-mālā-stotra, Sūtra 1",
     "description":"O Mukunda, my Lord! Please let me become a constant reciter of Your names, addressing You as Śrī-vallabha [\"He who is very dear to Lakṣmī\"], Varada [\"the bestower of benedictions\"], Dayāpara [\"He who is causelessly merciful\"], Bhakta-priya [\"He who is very dear to His devotees\"], Bhava-luṇṭhana-kovida [\"He who is expert at plundering the status quo of repeated birth and death\"], Nātha [\"the Supreme Lord\"], Jagan-nivāsa [\"the resort of the cosmos\"], and Nāga-śayana [\"the Lord who lies down on the serpent bed\"]."
 }
 ---

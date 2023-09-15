@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Vision of the Universal Form",
-    "h1":"Chapter 8",
-    "title":"KṚṢṆA 8: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 8",
+    "label":"Chapter 8",
+    "h1":"Vision of the Universal Form",
+    "title":"KṚṢṆA 8: Vision of the Universal Form",
     "description":""
 }
 ---

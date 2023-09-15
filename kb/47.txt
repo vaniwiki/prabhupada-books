@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Delivery of the Message of Kṛṣṇa to the Gopīs",
-    "h1":"Chapter 47",
-    "title":"KṚṢṆA 47: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 47",
+    "label":"Chapter 47",
+    "h1":"Delivery of the Message of Kṛṣṇa to the Gopīs",
+    "title":"KṚṢṆA 47: Delivery of the Message of Kṛṣṇa to the Gopīs",
     "description":""
 }
 ---

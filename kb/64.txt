@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Story of King Nṛga",
-    "h1":"Chapter 64",
-    "title":"KṚṢṆA 64: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 64",
+    "label":"Chapter 64",
+    "h1":"The Story of King Nṛga",
+    "title":"KṚṢṆA 64: The Story of King Nṛga",
     "description":""
 }
 ---

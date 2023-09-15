@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Delivering the Wives of the Brāhmanas Who Performed Sacrifices",
-    "h1":"Chapter 23",
-    "title":"KṚṢṆA 23: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 23",
+    "label":"Chapter 23",
+    "h1":"Delivering the Wives of the Brāhmanas Who Performed Sacrifices",
+    "title":"KṚṢṆA 23: Delivering the Wives of the Brāhmanas Who Performed Sacrifices",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Sacrificial Ceremonies Performed by Vasudeva",
-    "h1":"Chapter 84",
-    "title":"KṚṢṆA 84: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 84",
+    "label":"Chapter 84",
+    "h1":"Sacrificial Ceremonies Performed by Vasudeva",
+    "title":"KṚṢṆA 84: Sacrificial Ceremonies Performed by Vasudeva",
     "description":""
 }
 ---

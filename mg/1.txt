@@ -2,7 +2,7 @@
 {
     "name":"Spiritual Knowledge Through Kṛṣṇa",
     "h1":"Chapter 1",
-    "title":"(.*?)",
+    "title":"Matchless Gift 1: Spiritual Knowledge Through Kṛṣṇa",
     "description":""
 }
 ---

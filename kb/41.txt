@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Enters Mathurā",
-    "h1":"Chapter 41",
-    "title":"KṚṢṆA 41: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 41",
+    "label":"Chapter 41",
+    "h1":"Kṛṣṇa Enters Mathurā",
+    "title":"KṚṢṆA 41: Kṛṣṇa Enters Mathurā",
     "description":""
 }
 ---

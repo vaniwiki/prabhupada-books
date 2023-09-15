@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Gopīs Attracted by the Flute",
-    "h1":"Chapter 21",
-    "title":"KṚṢṆA 21: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 21",
+    "label":"Chapter 21",
+    "h1":"The Gopīs Attracted by the Flute",
+    "title":"KṚṢṆA 21: The Gopīs Attracted by the Flute",
     "description":""
 }
 ---

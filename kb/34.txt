@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
-    "h1":"Chapter 34",
-    "title":"KṚṢṆA 34: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 34",
+    "label":"Chapter 34",
+    "h1":"Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
+    "title":"KṚṢṆA 34: Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
     "description":""
 }
 ---

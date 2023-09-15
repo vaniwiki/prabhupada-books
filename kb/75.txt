@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
-    "h1":"Chapter 75",
-    "title":"KṚṢṆA 75: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 75",
+    "label":"Chapter 75",
+    "h1":"Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
+    "title":"KṚṢṆA 75: Why Duryodhana Felt Insulted at the End of the Rājasūya Sacrifice",
     "description":""
 }
 ---

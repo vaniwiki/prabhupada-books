@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Breaking of the Bow in the Sacrificial Arena",
-    "h1":"Chapter 42",
-    "title":"KṚṢṆA 42: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 42",
+    "label":"Chapter 42",
+    "h1":"The Breaking of the Bow in the Sacrificial Arena",
+    "title":"KṚṢṆA 42: The Breaking of the Bow in the Sacrificial Arena",
     "description":""
 }
 ---

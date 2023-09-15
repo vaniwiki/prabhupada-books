@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Deliverance of Lord Śiva",
-    "h1":"Chapter 88",
-    "title":"KṚṢṆA 88: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 88",
+    "label":"Chapter 88",
+    "h1":"The Deliverance of Lord Śiva",
+    "title":"KṚṢṆA 88: The Deliverance of Lord Śiva",
     "description":""
 }
 ---

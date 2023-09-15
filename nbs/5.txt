@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"Sūtra 5",
+    "name":"NBS 5",
     "h1":"Sūtra 5",
-    "title":"(.*?)",
+    "title":"Nārada-bhakti-sūtra 5",
     "description":""
 }
 ---

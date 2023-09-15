@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Description of Autumn",
-    "h1":"Chapter 20",
-    "title":"KṚṢṆA 20: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 20",
+    "label":"Chapter 20",
+    "h1":"Description of Autumn",
+    "title":"KṚṢṆA 20: Description of Autumn",
     "description":""
 }
 ---

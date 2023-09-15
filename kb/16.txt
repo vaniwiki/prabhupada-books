@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Subduing Kāliya",
-    "h1":"Chapter 16",
-    "title":"KṚṢṆA 16: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 16",
+    "label":"Chapter 16",
+    "h1":"Subduing Kāliya",
+    "title":"KṚṢṆA 16: Subduing Kāliya",
     "description":""
 }
 ---

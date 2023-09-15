@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Battle Between Śālva and the Yadu Dynasty",
-    "h1":"Chapter 76",
-    "title":"KṚṢṆA 76: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 76",
+    "label":"Chapter 76",
+    "h1":"The Battle Between Śālva and the Yadu Dynasty",
+    "title":"KṚṢṆA 76: The Battle Between Śālva and the Yadu Dynasty",
     "description":""
 }
 ---

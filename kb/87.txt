@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Prayers by the Personified Vedas",
-    "h1":"Chapter 87",
-    "title":"KṚṢṆA 87: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 87",
+    "label":"Chapter 87",
+    "h1":"Prayers by the Personified Vedas",
+    "title":"KṚṢṆA 87: Prayers by the Personified Vedas",
     "description":""
 }
 ---

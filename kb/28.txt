@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Releasing Nanda Mahārāja from the Clutches of Varuṇa",
-    "h1":"Chapter 28",
+    "name":"KṚṢṆA 28",
+    "label":"Chapter 28",
+    "h1":"Releasing Nanda Mahārāja from the Clutches of Varuṇa",
     "title":"KṚṢṆA 28: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
     "description":""
 }

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Killing of the Elephant Kuvalayāpīḍa",
-    "h1":"Chapter 43",
-    "title":"KṚṢṆA 43: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 43",
+    "label":"Chapter 43",
+    "h1":"The Killing of the Elephant Kuvalayāpīḍa",
+    "title":"KṚṢṆA 43: The Killing of the Elephant Kuvalayāpīḍa",
     "description":""
 }
 ---

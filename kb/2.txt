@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
-    "h1":"Chapter 2",
-    "title":"KṚṢṆA 2: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 2",
+    "label":"Chapter 2",
+    "h1":"Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
+    "title":"KṚṢṆA 2: Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
     "description":""
 }
 ---

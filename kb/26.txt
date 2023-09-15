@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Wonderful Kṛṣṇa",
-    "h1":"Chapter 26",
-    "title":"KṚṢṆA 26: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 26",
+    "label":"Chapter 26",
+    "h1":"Wonderful Kṛṣṇa",
+    "title":"KṚṢṆA 26: Wonderful Kṛṣṇa",
     "description":""
 }
 ---

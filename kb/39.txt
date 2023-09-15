@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
-    "h1":"Chapter 39",
-    "title":"KṚṢṆA 39: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 39",
+    "label":"Chapter 39",
+    "h1":"Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
+    "title":"KṚṢṆA 39: Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
     "description":""
 }
 ---

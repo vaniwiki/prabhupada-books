@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Worshiping Govardhana Hill",
-    "h1":"Chapter 24",
-    "title":"KṚṢṆA 24: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 24",
+    "label":"Chapter 24",
+    "h1":"Worshiping Govardhana Hill",
+    "title":"KṚṢṆA 24: Worshiping Govardhana Hill",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Killing of the Aghāsura Demon",
-    "h1":"Chapter 12",
-    "title":"KṚṢṆA 12: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 12",
+    "label":"Chapter 12",
+    "h1":"The Killing of the Aghāsura Demon",
+    "title":"KṚṢṆA 12: The Killing of the Aghāsura Demon",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Extinguishing the Forest Fire",
-    "h1":"Chapter 17",
-    "title":"KṚṢṆA 17: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 17",
+    "label":"Chapter 17",
+    "h1":"Extinguishing the Forest Fire",
+    "title":"KṚṢṆA 17: Extinguishing the Forest Fire",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Ill-motivated Dhṛtarāṣṭra",
-    "h1":"Chapter 49",
-    "title":"KṚṢṆA 49: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 49",
+    "label":"Chapter 49",
+    "h1":"Ill-motivated Dhṛtarāṣṭra",
+    "title":"KṚṢṆA 49: Ill-motivated Dhṛtarāṣṭra",
     "description":""
 }
 ---

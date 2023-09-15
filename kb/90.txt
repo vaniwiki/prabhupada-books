@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Summary Description of Lord Kṛṣṇa’s Pastimes",
-    "h1":"Chapter 90",
-    "title":"KṚṢṆA 90: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 90",
+    "label":"Chapter 90",
+    "h1":"Summary Description of Lord Kṛṣṇa’s Pastimes",
+    "title":"KṚṢṆA 90: Summary Description of Lord Kṛṣṇa’s Pastimes",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Superexcellent Power of Kṛṣṇa",
-    "h1":"Chapter 89",
-    "title":"KṚṢṆA 89: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 89",
+    "label":"Chapter 89",
+    "h1":"The Superexcellent Power of Kṛṣṇa",
+    "title":"KṚṢṆA 89: The Superexcellent Power of Kṛṣṇa",
     "description":""
 }
 ---

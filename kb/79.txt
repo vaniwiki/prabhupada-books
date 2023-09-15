@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
-    "h1":"Chapter 79",
-    "title":"KṚṢṆA 79: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 79",
+    "label":"Chapter 79",
+    "h1":"The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
+    "title":"KṚṢṆA 79: The Liberation of Balvala, and Lord Balarāma’s Touring the Sacred Places",
     "description":""
 }
 ---

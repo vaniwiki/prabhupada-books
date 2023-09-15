@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa, the Ranchor",
-    "h1":"Chapter 52",
-    "title":"KṚṢṆA 52: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 52",
+    "label":"Chapter 52",
+    "h1":"Kṛṣṇa, the Ranchor",
+    "title":"KṚṢṆA 52: Kṛṣṇa, the Ranchor",
     "description":""
 }
 ---

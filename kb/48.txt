@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa Pleases His Devotees",
-    "h1":"Chapter 48",
-    "title":"KṚṢṆA 48: Releasing Nanda Mahārāja from the Clutches of Varuṇa",
+    "name":"KṚṢṆA 48",
+    "label":"Chapter 48",
+    "h1":"Kṛṣṇa Pleases His Devotees",
+    "title":"KṚṢṆA 48: Kṛṣṇa Pleases His Devotees",
     "description":""
 }
 ---

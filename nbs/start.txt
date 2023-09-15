@@ -1,25 +1,34 @@
+---json
+{
+    "name":"Nārada-bhakti-sūtra",
+    "h1":"Nārada-bhakti-sūtra",
+    "title":"Nārada-bhakti-sūtra",
+    "description":""
+}
+---
+
 ====== Nārada-bhakti-sūtra ======
 
-  ; [[.nbs:1|Sūtra 1]]
+  ; [[books:nbs:1|Sūtra 1]]
   : Now, therefore, I will try to explain the process of devotional service.
 
-  ; [[.nbs:2|Sūtra 2]]
+  ; [[books:nbs:2|Sūtra 2]]
   : Devotional service manifests as the most elevated, pure love for God.
 
-  ; [[.nbs:3|Sūtra 3]]
+  ; [[books:nbs:3|Sūtra 3]]
   : This pure love for God is eternal.
 
-  ; [[.nbs:4|Sūtra 4]]
+  ; [[books:nbs:4|Sūtra 4]]
   : Upon achieving that stage of transcendental devotional service in pure love of God, a person becomes perfect, immortal, and peaceful.
 
-  ; [[.nbs:5|Sūtra 5]]
+  ; [[books:nbs:5|Sūtra 5]]
   : A person engaged in such pure devotional service neither desires anything for sense gratification, nor laments for any loss, nor hates anything, nor enjoys anything on his personal account, nor becomes very enthusiastic in material activity.
 
-  ; [[.nbs:6|Sūtra 6]]
+  ; [[books:nbs:6|Sūtra 6]]
   : One who understands perfectly the process of devotional service in love of Godhead becomes intoxicated in its discharge. Sometimes he becomes stunned in ecstasy and thus enjoys his whole self, being engaged in the service of the Supreme Self.
 
-  ; [[.nbs:7|Sūtra 7]]
+  ; [[books:nbs:7|Sūtra 7]]
   : There is no question of lust in the execution of pure devotional service, because in it all material activities are renounced.
 
-  ; [[.nbs:8|Sūtra 8]]
+  ; [[books:nbs:8|Sūtra 8]]
   : Such renunciation in devotional service means to give up all kinds of social customs and religious rituals governed by Vedic injunction.

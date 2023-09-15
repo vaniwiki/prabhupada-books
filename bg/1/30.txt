@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 1.30",
-    "h1":"Text 30",
+    "h1":"Bg. 1.30",
+    "label":"Text 30",
     "title":"Bhagavad-gītā As It Is 1.30",
     "description":"I am now unable to stand here any longer. I am forgetting myself, and my mind is reeling. I foresee only evil, O killer of the Keśī demon."
 }

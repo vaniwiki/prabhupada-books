@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.14",
-    "h1":"Text 14",
+    "h1":"Bg. 10.14",
+    "label":"Text 14",
     "title":"Bhagavad-gītā As It Is 10.14",
     "description":"O Kṛṣṇa, I totally accept as truth all that You have told me. Neither the gods nor demons, O Lord, know Thy personality."
 }

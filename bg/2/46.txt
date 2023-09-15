@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 2.46",
-    "h1":"Text 46",
+    "h1":"Bg. 2.46",
+    "label":"Text 46",
     "title":"Bhagavad-gītā As It Is 2.46",
     "description":"All purposes that are served by the small pond can at once be served by the great reservoirs of water. Similarly, all the purposes of the Vedas can be served to one who knows the purpose behind them."
 }

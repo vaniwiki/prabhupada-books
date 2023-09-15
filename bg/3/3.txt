@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 3.3",
-    "h1":"Text 3",
+    "h1":"Bg. 3.3",
+    "label":"Text 3",
     "title":"Bhagavad-gītā As It Is 3.3",
     "description":"The Blessed Lord said: O sinless Arjuna, I have already explained that there are two classes of men who realize the Self. Some are inclined to understand Him by empirical, philosophical speculation, and others are inclined to know Him by devotional work."
 }

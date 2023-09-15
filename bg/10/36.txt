@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.36",
-    "h1":"Text 36",
+    "h1":"Bg. 10.36",
+    "label":"Text 36",
     "title":"Bhagavad-gītā As It Is 10.36",
     "description":"I am also the gambling of cheats, and of the splendid I am the splendor. I am victory, I am adventure, and I am the strength of the strong."
 }

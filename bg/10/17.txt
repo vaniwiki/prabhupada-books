@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.17",
-    "h1":"Text 17",
+    "h1":"Bg. 10.17",
+    "label":"Text 17",
     "title":"Bhagavad-gītā As It Is 10.17",
     "description":"How should I meditate on You? In what various forms are You to be contemplated, O Blessed Lord?"
 }

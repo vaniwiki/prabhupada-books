@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 2.71",
-    "h1":"Text 71",
+    "h1":"Bg. 2.71",
+    "label":"Text 71",
     "title":"Bhagavad-gītā As It Is 2.71",
     "description":"A person who has given up all desires for sense gratification, who lives free from desires, who has given up all sense of proprietorship and is devoid of false ego-he alone can attain real peace."
 }

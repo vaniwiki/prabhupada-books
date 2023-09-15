@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.15",
-    "h1":"Text 15",
+    "h1":"Bg. 18.15",
+    "label":"Text 15",
     "title":"Bhagavad-gītā As It Is 18.15",
     "description":"Whatever right or wrong action a man performs by body, mind or speech is caused by these five factors."
 }

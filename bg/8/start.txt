@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Chapter 8",
+    "name":"Attaining the Supreme",
     "h1":"Attaining the Supreme",
+    "label":"Chapter 8",
     "title":"Bhagavad-gītā 8: Attaining the Supreme",
     "description":"By remembering Lord Krishna in devotion throughout one’s life, and especially at the time of death, one can attain to His supreme abode, beyond the material world."
 }

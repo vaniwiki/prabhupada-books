@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 8.26",
-    "h1":"Text 26",
+    "h1":"Bg. 8.26",
+    "label":"Text 26",
     "title":"Bhagavad-gītā As It Is 8.26",
     "description":"According to the Vedas, there are two ways of passing from this world—one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns."
 }

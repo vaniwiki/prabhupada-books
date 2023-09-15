@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 17.11",
-    "h1":"Text 11",
+    "h1":"Bg. 17.11",
+    "label":"Text 11",
     "title":"Bhagavad-gītā As It Is 17.11",
     "description":"Of sacrifices, that sacrifice performed according to duty and to scriptural rules, and with no expectation of reward, is of the nature of goodness."
 }

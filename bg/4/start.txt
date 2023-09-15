@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Chapter 4",
-    "h1":"Chapter 4",
-    "title":"Transcendental Knowledge",
+    "name":"Transcendental Knowledge",
+    "h1":"Transcendental Knowledge",
+    "label":"Chapter 4",
+    "title":"Bhagavad-gītā 4: Transcendental Knowledge",
     "description":"Transcendental knowledge—the spiritual knowledge of the soul, of God, and their relationship—is both purifying and liberating. Such knowledge is the fruit of selfless devotional action (karma-yoga). The Lord explains the remote history of the Gita, the purpose and significance of His periodic descents to the material world, and the necessity of approaching a guru, a realized teacher."
 }
 ---

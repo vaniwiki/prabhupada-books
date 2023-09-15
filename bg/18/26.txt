@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.26",
-    "h1":"Text 26",
+    "h1":"Bg. 18.26",
+    "label":"Text 26",
     "title":"Bhagavad-gītā As It Is 18.26",
     "description":"The worker who is free from all material attachments and false ego, who is enthusiastic and resolute and who is indifferent to success or failure, is a worker in the mode of goodness."
 }

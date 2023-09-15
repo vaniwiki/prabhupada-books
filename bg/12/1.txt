@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 12.1",
-    "h1":"Text 1",
+    "h1":"Bg. 12.1",
+    "label":"Text 1",
     "title":"Bhagavad-gītā As It Is 12.1",
     "description":"Arjuna inquired: Which is considered to be more perfect: those who are properly engaged in Your devotional service, or those who worship the impersonal Brahman, the unmanifested?"
 }

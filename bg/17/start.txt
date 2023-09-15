@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Chapter 17",
+    "name":"The Divisions of Faith",
     "h1":"The Divisions of Faith",
+    "label":"Chapter 17",
     "title":"Bhagavad-gītā 17: The Divisions of Faith",
     "description":"There are three types of faith, corresponding to and evolving from the three modes of material nature. Acts performed by those whose faith is in passion and ignorance yield only impermanent, material results, whereas acts performed in goodness, in accord with scriptural injunctions, purify the heart and lead to pure faith in Lord Krishna and devotion to Him."
 }

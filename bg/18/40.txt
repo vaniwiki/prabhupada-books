@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.40",
-    "h1":"Text 40",
+    "h1":"Bg. 18.40",
+    "label":"Text 40",
     "title":"Bhagavad-gītā As It Is 18.40",
     "description":"There is no being existing, either here or among the demigods in the higher planetary systems, which is freed from the three modes of material nature."
 }

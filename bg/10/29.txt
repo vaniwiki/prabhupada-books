@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.29",
-    "h1":"Text 29",
+    "h1":"Bg. 10.29",
+    "label":"Text 29",
     "title":"Bhagavad-gītā As It Is 10.29",
     "description":"Of the celestial Nāga snakes I am Ananta; of the aquatic deities I am Varuṇa. Of departed ancestors I am Aryamā, and among the dispensers of law I am Yama, lord of death."
 }

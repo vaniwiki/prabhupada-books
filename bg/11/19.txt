@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 11.19",
-    "h1":"Text 19",
+    "h1":"Bg. 11.19",
+    "label":"Text 19",
     "title":"Bhagavad-gītā As It Is 11.19",
     "description":"You are the origin without beginning, middle or end. You have numberless arms, and the sun and moon are among Your great unlimited eyes. By Your own radiance You are heating this entire universe."
 }

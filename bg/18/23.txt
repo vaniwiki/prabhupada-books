@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.23",
-    "h1":"Text 23",
+    "h1":"Bg. 18.23",
+    "label":"Text 23",
     "title":"Bhagavad-gītā As It Is 18.23",
     "description":"As for actions, that action in accordance with duty, which is performed without attachment, without love or hate, by one who has renounced fruitive results, is called action in the mode of goodness."
 }

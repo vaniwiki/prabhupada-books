@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.9",
-    "h1":"Text 9",
+    "h1":"Bg. 10.9",
+    "label":"Text 9",
     "title":"Bhagavad-gītā As It Is 10.9",
     "description":"The thoughts of My pure devotees dwell in Me, their lives are surrendered to Me, and they derive great satisfaction and bliss enlightening one another and conversing about Me."
 }

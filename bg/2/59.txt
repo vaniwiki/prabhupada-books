@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 2.59",
-    "h1":"Text 59",
+    "h1":"Bg. 2.59",
+    "label":"Text 59",
     "title":"Bhagavad-gītā As It Is 2.59",
     "description":"The embodied soul may be restricted from sense enjoyment, though the taste for sense objects remains. But, ceasing such engagements by experiencing a higher taste, he is fixed in consciousness."
 }

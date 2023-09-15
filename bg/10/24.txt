@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.24",
-    "h1":"Text 24",
+    "h1":"Bg. 10.24",
+    "label":"Text 24",
     "title":"Bhagavad-gītā As It Is 10.24",
     "description":"Of priests, O Arjuna, know Me to be the chief, Bṛhaspati, the lord of devotion. Of generals I am Skanda, the lord of war; and of bodies of water I am the ocean."
 }

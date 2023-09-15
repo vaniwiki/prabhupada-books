@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 7.4",
-    "h1":"Text 4",
+    "h1":"Bg. 7.4",
+    "label":"Text 4",
     "title":"Bhagavad-gītā As It Is 7.4",
     "description":"Earth, water, fire, air, ether, mind, intelligence and false ego—altogether these eight comprise My separated material energies."
 }

@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Chapter 16",
+    "name":"The Divine And Demoniac Natures",
     "h1":"The Divine And Demoniac Natures",
+    "label":"Chapter 16",
     "title":"Bhagavad-gītā 16: The Divine And Demoniac Natures",
     "description":"Those who possess demoniac qualities and who live whimsically, without following the regulations of scripture, attain lower births and further material bondage. But those who possess divine qualities and regulated lives, abiding by scriptural authority, gradually attain spiritual perfection."
 }

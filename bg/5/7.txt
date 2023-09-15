@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 5.7",
-    "h1":"Text 7",
+    "h1":"Bg. 5.7",
+    "label":"Text 7",
     "title":"Bhagavad-gītā As It Is 5.7",
     "description":"One who works in devotion, who is a pure soul, and who controls his mind and senses, is dear to everyone, and everyone is dear to him. Though always working, such a man is never entangled."
 }

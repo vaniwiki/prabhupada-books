@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 17.1",
-    "h1":"Text 1",
+    "h1":"Bg. 17.1",
+    "label":"Text 1",
     "title":"Bhagavad-gītā As It Is 17.1",
     "description":"Arjuna said, O Kṛṣṇa, what is the situation of one who does not follow the principles of scripture but worships according to his own imagination? Is he in goodness, in passion or in ignorance?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.58",
-    "h1":"Text 58",
+    "h1":"Bg. 18.58",
+    "label":"Text 58",
     "title":"Bhagavad-gītā As It Is 18.58",
     "description":"If you become conscious of Me, you will pass over all the obstacles of conditional life by My grace. If, however, you do not work in such consciousness but act through false ego, not hearing Me, you will be lost."
 }

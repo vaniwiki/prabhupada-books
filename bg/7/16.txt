@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 7.16",
-    "h1":"Text 16",
+    "h1":"Bg. 7.16",
+    "label":"Text 16",
     "title":"Bhagavad-gītā As It Is 7.16",
     "description":"O best among the Bhāratas [Arjuna], four kinds of pious men render devotional service unto Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute."
 }

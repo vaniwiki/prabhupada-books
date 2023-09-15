@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.2",
-    "h1":"Text 2",
+    "h1":"Bg. 18.2",
+    "label":"Text 2",
     "title":"Bhagavad-gītā As It Is 18.2",
     "description":"The Supreme Lord said, To give up the results of all activities is called renunciation [tyāga] by the wise. And that state is called the renounced order of life [sannyāsa] by great learned men."
 }

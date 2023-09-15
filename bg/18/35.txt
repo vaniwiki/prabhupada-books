@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.35",
-    "h1":"Text 35",
+    "h1":"Bg. 18.35",
+    "label":"Text 35",
     "title":"Bhagavad-gītā As It Is 18.35",
     "description":"And that determination which cannot go beyond dreaming, fearfulness, lamentation, moroseness, and illusion—such unintelligent determination is in the mode of darkness."
 }

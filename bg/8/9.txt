@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 8.9",
-    "h1":"Text 9",
+    "h1":"Bg. 8.9",
+    "label":"Text 9",
     "title":"Bhagavad-gītā As It Is 8.9",
     "description":"One should meditate upon the Supreme Person as the one who knows everything, as He who is the oldest, who is the controller, who is smaller than the smallest, who is the maintainer of everything, who is beyond all material conception, who is inconceivable, and who is always a person. He is luminous like the sun and, being transcendental, is beyond this material nature."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 2.3",
-    "h1":"Text 3",
+    "h1":"Bg. 2.3",
+    "label":"Text 3",
     "title":"Bhagavad-gītā As It Is 2.3",
     "description":"O son of Pṛthā, do not yield to this degrading impotence. It does not become you. Give up such petty weakness of heart and arise, O chastiser of the enemy."
 }

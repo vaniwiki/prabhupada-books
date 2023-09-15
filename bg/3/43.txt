@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 3.43",
-    "h1":"Text 43",
+    "h1":"Bg. 3.43",
+    "label":"Text 43",
     "title":"Bhagavad-gītā As It Is 3.43",
     "description":"Thus knowing oneself to be transcendental to material senses, mind and intelligence, one should control the lower self by the higher self and thus—by spiritual strength—conquer this insatiable enemy known as lust."
 }

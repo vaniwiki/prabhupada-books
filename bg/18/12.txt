@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.12",
-    "h1":"Text 12",
+    "h1":"Bg. 18.12",
+    "label":"Text 12",
     "title":"Bhagavad-gītā As It Is 18.12",
     "description":"For one who is not renounced, the threefold fruits of action—desirable, undesirable and mixed—accrue after death. But those who are in the renounced order of life have no such results to suffer or enjoy."
 }

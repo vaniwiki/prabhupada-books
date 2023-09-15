@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 3.26",
-    "h1":"Text 26",
+    "h1":"Bg. 3.26",
+    "label":"Text 26",
     "title":"Bhagavad-gītā As It Is 3.26",
     "description":"Let not the wise disrupt the minds of the ignorant who are attached to fruitive action. They should not be encouraged to refrain from work, but to engage in work in the spirit of devotion."
 }

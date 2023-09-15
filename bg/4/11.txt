@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.11",
-    "h1":"Text 11",
+    "h1":"Bg. 4.11",
+    "label":"Text 11",
     "title":"Bhagavad-gītā As It Is 4.11",
     "description":"All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā."
 }

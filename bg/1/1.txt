@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 1.1",
-    "h1":"Text 1",
+    "h1":"Bg. 1.1",
+    "label":"Text 1",
     "title":"Bhagavad-gītā As It Is 1.1",
     "description":"Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?",
     "image":"books:bg:plate01.jpg"

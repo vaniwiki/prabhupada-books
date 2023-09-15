@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 16.13-15",
-    "h1":"Text 13-15",
+    "h1":"Bg. 16.13-15",
+    "label":"Text 13-15",
     "title":"Bhagavad-gītā As It Is 16.13-15",
     "description":"The demoniac person thinks: “So much wealth do I have today, and I will gain more according to my schemes. So much is mine now, and it will increase in the future, more and more. He is my enemy, and I have killed him; and my other enemy will also be killed. I am the lord of everything, I am the enjoyer, I am perfect, powerful and happy. I am the richest man, surrounded by aristocratic relatives. There is none so powerful and happy as I am. I shall perform sacrifices, I shall give some charity, and thus I shall rejoice.” In this way, such persons are deluded by ignorance."
 }

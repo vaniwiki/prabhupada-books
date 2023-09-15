@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.28",
-    "h1":"Text 28",
+    "h1":"Bg. 4.28",
+    "label":"Text 28",
     "title":"Bhagavad-gītā As It Is 4.28",
     "description":"There are others who, enlightened by sacrificing their material possessions in severe austerities, take strict vows and practice the yoga of eightfold mysticism, and others study the Vedas for the advancement of transcendental knowledge."
 }

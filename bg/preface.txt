@@ -2,6 +2,7 @@
 {
     "name":"Preface",
     "h1":"Preface",
+    "label":"Preface",
     "title":"Bhagavad-gītā As It Is Preface",
     "description":"Originally I wrote Bhagavad-gītā As It Is in the form in which it is presented now. When this book was first published, the original manuscript was, unfortunately, cut short to less than 400 pages, without illustrations and without explanations for most of the original verses of the Śrīmad Bhagavad-gītā."
 }

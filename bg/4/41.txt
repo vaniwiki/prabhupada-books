@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.41",
-    "h1":"Text 41",
+    "h1":"Bg. 4.41",
+    "label":"Text 41",
     "title":"Bhagavad-gītā As It Is 4.41",
     "description":"Therefore, one who has renounced the fruits of his action, whose doubts are destroyed by transcendental knowledge, and who is situated firmly in the self, is not bound by works, O conqueror of riches."
 }

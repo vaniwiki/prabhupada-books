@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 8.7",
-    "h1":"Text 7",
+    "h1":"Bg. 8.7",
+    "label":"Text 7",
     "title":"Bhagavad-gītā As It Is 8.7",
     "description":"Therefore, Arjuna, you should always think of Me in the form of Kṛṣṇa and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.14",
-    "h1":"Text 14",
+    "h1":"Bg. 4.14",
+    "label":"Text 14",
     "title":"Bhagavad-gītā As It Is 4.14",
     "description":"There is no work that affects Me; nor do I aspire for the fruits of action. One who understands this truth about Me also does not become entangled in the fruitive reactions of work."
 }

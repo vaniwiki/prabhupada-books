@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 2.49",
-    "h1":"Text 49",
+    "h1":"Bg. 2.49",
+    "label":"Text 49",
     "title":"Bhagavad-gītā As It Is 2.49",
     "description":"O Dhanañjaya, rid yourself of all fruitive activities by devotional service, and surrender fully to that consciousness. Those who want to enjoy the fruits of their work are misers."
 }

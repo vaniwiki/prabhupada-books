@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Chapter 13",
+    "name":"Nature, the Enjoyer, and Consciousness",
     "h1":"Nature, the Enjoyer, and Consciousness",
+    "label":"Chapter 13",
     "title":"Bhagavad-gītā 13: Nature, the Enjoyer, and Consciousness",
     "description":"One who understands the difference between the body, the soul and the Supersoul beyond them both attains liberation from this material world."
 }

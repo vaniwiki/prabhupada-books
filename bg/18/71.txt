@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.71",
-    "h1":"Text 71",
+    "h1":"Bg. 18.71",
+    "label":"Text 71",
     "title":"Bhagavad-gītā As It Is 18.71",
     "description":"And one who listens with faith and without envy becomes free from sinful reaction and attains to the planets where the pious dwell."
 }

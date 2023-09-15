@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.18",
-    "h1":"Text 18",
+    "h1":"Bg. 18.18",
+    "label":"Text 18",
     "title":"Bhagavad-gītā As It Is 18.18",
     "description":"Knowledge, the object of knowledge and the knower are the three factors which motivate action; the senses, the work and the doer comprise the threefold basis of action."
 }

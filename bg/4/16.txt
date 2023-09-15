@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.16",
-    "h1":"Text 16",
+    "h1":"Bg. 4.16",
+    "label":"Text 16",
     "title":"Bhagavad-gītā As It Is 4.16",
     "description":"Even the intelligent are bewildered in determining what is action and what is inaction. Now I shall explain to you what action is, knowing which you shall be liberated from all sins."
 }

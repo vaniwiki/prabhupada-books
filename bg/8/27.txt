@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 8.27",
-    "h1":"Text 27",
+    "h1":"Bg. 8.27",
+    "label":"Text 27",
     "title":"Bhagavad-gītā As It Is 8.27",
     "description":"The devotees who know these two paths, O Arjuna, are never bewildered. Therefore be always fixed in devotion."
 }

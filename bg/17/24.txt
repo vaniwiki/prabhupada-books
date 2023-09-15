@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 17.24",
-    "h1":"Text 24",
+    "h1":"Bg. 17.24",
+    "label":"Text 24",
     "title":"Bhagavad-gītā As It Is 17.24",
     "description":"Thus the transcendentalists undertake sacrifices, charities, and penances, beginning always with om, to attain the Supreme."
 }

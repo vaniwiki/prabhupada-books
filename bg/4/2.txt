@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 4.2",
-    "h1":"Text 2",
+    "h1":"Bg. 4.2",
+    "label":"Text 2",
     "title":"Bhagavad-gītā As It Is 4.2",
     "description":"This supreme science was thus received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost."
 }

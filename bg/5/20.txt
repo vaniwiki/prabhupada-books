@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 5.20",
-    "h1":"Text 20",
+    "h1":"Bg. 5.20",
+    "label":"Text 20",
     "title":"Bhagavad-gītā As It Is 5.20",
     "description":"A person who neither rejoices upon achieving something pleasant nor laments upon obtaining something unpleasant, who is self-intelligent, unbewildered, and who knows the science of God, is to be understood as already situated in Transcendence."
 }

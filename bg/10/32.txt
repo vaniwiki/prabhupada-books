@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.32",
-    "h1":"Text 32",
+    "h1":"Bg. 10.32",
+    "label":"Text 32",
     "title":"Bhagavad-gītā As It Is 10.32",
     "description":"Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the Self, and among logicians I am the conclusive truth."
 }

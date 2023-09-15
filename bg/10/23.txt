@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.23",
-    "h1":"Text 23",
+    "h1":"Bg. 10.23",
+    "label":"Text 23",
     "title":"Bhagavad-gītā As It Is 10.23",
     "description":"Of all the Rudras I am Lord Śiva; of the Yakṣas and Rākṣasas I am the lord of wealth [Kuvera]; of the Vasus I am fire [Agni], and of the mountains I am Meru."
 }

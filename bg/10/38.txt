@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 10.38",
-    "h1":"Text 38",
+    "h1":"Bg. 10.38",
+    "label":"Text 38",
     "title":"Bhagavad-gītā As It Is 10.38",
     "description":"Among punishments I am the rod of chastisement, and of those who seek victory, I am morality. Of secret things I am silence, and of the wise I am wisdom."
 }

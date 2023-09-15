@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 11.55",
-    "h1":"Text 55",
+    "h1":"Bg. 11.55",
+    "label":"Text 55",
     "title":"Bhagavad-gītā As It Is 11.55",
     "description":"My dear Arjuna, one who is engaged in My pure devotional service, free from the contaminations of previous activities and from mental speculation, who is friendly to every living entity, certainly comes to Me."
 }

@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Chapter 12",
+    "name":"Devotional Service",
     "h1":"Devotional Service",
+    "label":"Chapter 12",
     "title":"Bhagavad-gītā 12: Devotional Service",
     "description":"Bhakti-yoga, pure devotional service to Lord Krishna, is the highest and most expedient means for attaining pure love for Krishna, which is the highest end of spiritual existence. Those who follow this supreme path develop divine qualities."
 }

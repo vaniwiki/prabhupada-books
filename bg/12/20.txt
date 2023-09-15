@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 12.20",
-    "h1":"Text 20",
+    "h1":"Bg. 12.20",
+    "label":"Text 20",
     "title":"Bhagavad-gītā As It Is 12.20",
     "description":"He who follows this imperishable path of devotional service and who completely engages himself with faith, making Me the supreme goal, is very, very dear to Me."
 }

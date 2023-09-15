@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 8.2",
-    "h1":"Text 2",
+    "h1":"Bg. 8.2",
+    "label":"Text 2",
     "title":"Bhagavad-gītā As It Is 8.2",
     "description":"How does this Lord of sacrifice live in the body, and in which part does He live, O Madhusūdana? And how can those engaged in devotional service know You at the time of death?"
 }

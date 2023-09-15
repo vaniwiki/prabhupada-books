@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg. 18.22",
-    "h1":"Text 22",
+    "h1":"Bg. 18.22",
+    "label":"Text 22",
     "title":"Bhagavad-gītā As It Is 18.22",
     "description":"And that knowledge by which one is attached to one kind of work as the all in all, without knowledge of the truth, and which is very meager, is said to be in the mode of darkness."
 }

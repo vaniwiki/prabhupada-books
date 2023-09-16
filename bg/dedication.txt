@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Dedication",
-    "h1":"Dedication",
+    "name":"Bg. Dedication",
+    "h1":"Bhagavad-gītā Dedication",
     "label":"Dedication",
     "title":"Bhagavad-gītā As It Is Dedication",
     "description":"To ŚRĪLA BALADEVA VIDYĀBHŪṢAṆA who presented so nicely the \"Govinda-bhāṣya\" commentary on Vedānta philosophy."

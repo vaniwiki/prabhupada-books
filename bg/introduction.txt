@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Introduction",
-    "h1":"Introduction",
+    "name":"Bg. Introduction",
+    "h1":"Bhagavad-gītā Introduction",
     "label":"Introduction",
     "title":"Bhagavad-gītā As It Is Introduction",
     "description":"I was born in the darkest ignorance, and my spiritual master opened my eyes with the torch of knowledge. I offer my respectful obeisances unto him. When will Śrīla Rūpa Gosvāmī Prabhupāda, who has established within this material world the mission to fulfill the desire of Lord Caitanya, give me shelter under his lotus feet?"

@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Foreword",
-    "h1":"Foreword",
+    "name":"Bg. Foreword",
+    "h1":"Bhagavad-gītā Foreword",
     "label":"Foreword",
     "title":"Bhagavad-gītā As It Is Foreword",
     "description":"The Bhagavad-gītā is the best known and the most frequently translated of Vedic religious texts. Why it should be so appealing to the Western mind is an interesting question. It has drama, for its setting is a scene of two great armies, banners flying, drawn up opposite one another on the field, poised for battle."

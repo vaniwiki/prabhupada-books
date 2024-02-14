@@ -2,7 +2,7 @@
 {
     "name":"Meditation on the Lord’s Transcendental Form",
     "h1":"Chapter 15",
-    "title":"(.*?)",
+    "title":"Meditation on the Lord’s Transcendental Form",
     "description":""
 }
 ---

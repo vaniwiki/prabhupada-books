@@ -2,7 +2,7 @@
 {
     "name":"Bhakti as Ultimate Liberation",
     "h1":"Chapter 14",
-    "title":"(.*?)",
+    "title":"Bhakti as Ultimate Liberation",
     "description":""
 }
 ---

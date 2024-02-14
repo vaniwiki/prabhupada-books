@@ -2,7 +2,7 @@
 {
     "name":"Approaching a Bona Fide Guru",
     "h1":"Chapter 4",
-    "title":"(.*?)",
+    "title":"Approaching a Bona Fide Guru",
     "description":""
 }
 ---

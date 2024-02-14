@@ -2,7 +2,7 @@
 {
     "name":"Lord Kapila Takes Charge of His Mother, Devahuti",
     "h1":"Chapter 5",
-    "title":"(.*?)",
+    "title":"Lord Kapila Takes Charge of His Mother, Devahuti",
     "description":""
 }
 ---

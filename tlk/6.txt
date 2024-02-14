@@ -2,7 +2,7 @@
 {
     "name":"Devahuti Desires Transcendental Knowledge",
     "h1":" Chapter 6 ",
-    "title":"(.*?)",
+    "title":"Devahuti Desires Transcendental Knowledge",
     "description":""
 }
 ---

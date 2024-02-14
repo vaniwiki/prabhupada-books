@@ -2,7 +2,7 @@
 {
     "name":"Taking Shelter of Krsna, the Supreme Controller",
     "h1":"Chapter 17",
-    "title":"(.*?)",
+    "title":"Taking Shelter of Krsna, the Supreme Controller",
     "description":""
 }
 ---

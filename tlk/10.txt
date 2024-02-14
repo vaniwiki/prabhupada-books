@@ -2,7 +2,7 @@
 {
     "name":"Spiritual Attachment and Material Detachment",
     "h1":"Chapter 10",
-    "title":"(.*?)",
+    "title":"Spiritual Attachment and Material Detachment",
     "description":""
 }
 ---

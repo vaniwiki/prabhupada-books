@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"SB 1.9: The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa",
+    "name":"The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa",
     "label":"Chapter 9",
-    "h1":"Chapter 9",
+    "h1":"The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa",
     "title":"SB 1.9: The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa",
     "description":""
 }

@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"SB 1.1",
+    "name":"Questions by the Sages",
     "label":"Chapter 1",
     "h1":"Questions by the Sages",
     "title":"SB 1.1: Questions by the Sages",

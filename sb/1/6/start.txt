@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"SB 1.6: Conversation Between Nārada and Vyāsadeva",
+    "name":"Conversation Between Nārada and Vyāsadeva",
     "label":"Chapter 6",
-    "h1":"Chapter 6",
+    "h1":"Conversation Between Nārada and Vyāsadeva",
     "title":"SB 1.6: Conversation Between Nārada and Vyāsadeva",
     "description":""
 }

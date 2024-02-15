@@ -1,8 +1,8 @@
 ---json
 {
-    "name":"SB 1.8: Prayers by Queen Kuntī and Parīkṣit Saved",
+    "name":"Prayers by Queen Kuntī and Parīkṣit Saved",
     "label":"Chapter 8",
-    "h1":"Chapter 8",
+    "h1":"Prayers by Queen Kuntī and Parīkṣit Saved",
     "title":"SB 1.8: Prayers by Queen Kuntī and Parīkṣit Saved",
     "description":""
 }

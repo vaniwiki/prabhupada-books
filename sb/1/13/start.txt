@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13: Dhṛtarāṣṭra Quits Home",
+    "label":"Chapter 13",
     "h1":"Chapter 13",
     "title":"SB 1.13: Dhṛtarāṣṭra Quits Home",
     "description":""

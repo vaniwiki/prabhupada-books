@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.38",
+    "label":"Text 38",
     "h1":"Text 38",
     "title":" Śrīmad Bhāgavatam 1.13.38",
     "description":"While Sañjaya was thus speaking, Śrī Nārada, the powerful devotee of the Lord, appeared on the scene carrying his tumburu. Mahārāja Yudhiṣṭhira and his brothers received him properly by getting up from their seats and offering obeisances."

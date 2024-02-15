@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.3",
+    "label":"Text 3",
     "h1":"Text 3",
     "title":" Śrīmad Bhāgavatam 1.5.3",
     "description":"Your inquiries were full and your studies were also well fulfilled, and there is no doubt that you have prepared a great and wonderful work, the Mahābhārata, which is full of all kinds of Vedic sequences elaborately explained."

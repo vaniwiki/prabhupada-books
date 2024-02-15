@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.16.4",
+    "label":"Text 4",
     "h1":"Text 4",
     "title":" Śrīmad Bhāgavatam 1.16.4",
     "description":"Once, when Mahārāja Parīkṣit was on his way to conquer the world, he saw the master of Kali-yuga, who was lower than a śūdra, disguised as a king and hurting the legs of a cow and bull. The King at once caught hold of him to deal sufficient punishment."

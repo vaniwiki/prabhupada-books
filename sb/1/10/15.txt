@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.10.15",
     "description":"While the Lord was departing from the palace of Hastināpura, different types of drums -like the mṛdaṅga, dhola, nagra, dhundhurī and dundubhi-and flutes of different types, the vīṇā, gomukha and bherī, all sounded together to show Him honor."

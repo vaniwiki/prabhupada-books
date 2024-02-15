@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.28",
+    "label":"Text 28",
     "h1":"Text 28",
     "title":" Śrīmad Bhāgavatam 1.9.28",
     "description":"Then he described the occupational duties of different orders and statuses of life, citing instances from history, for he was himself well acquainted with the truth."

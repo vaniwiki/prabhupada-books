@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.37",
+    "label":"Text 37",
     "h1":"Text 37",
     "title":" Śrīmad Bhāgavatam 1.18.37",
     "description":"The brāhmaṇa's son cursed the King thus: On the seventh day from today a snake-bird will bite the most wretched one of that dynasty [Mahārāja Parīkṣit] because of his having broken the laws of etiquette by insulting my father."

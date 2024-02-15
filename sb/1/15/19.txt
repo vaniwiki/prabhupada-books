@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.19",
+    "label":"Text 19",
     "h1":"Text 19",
     "title":" Śrīmad Bhāgavatam 1.15.19",
     "description":"Generally both of us used to live together and sleep, sit and loiter together. And at the time of advertising oneself for acts of chivalry, sometimes, if there were any irregularity, I used to reproach Him by saying, \"My friend, You are very truthful.\" Even in those hours when His value was minimized, He, being the Supreme Soul, used to tolerate all those utterings of mine, excusing me exactly as a true friend excuses his true friend, or a father excuses his son."

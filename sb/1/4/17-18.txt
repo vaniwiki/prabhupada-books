@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.17-18",
+    "label":"Text 17-18",
     "h1":"Text 17-18",
     "title":" Śrīmad Bhāgavatam 1.4.17-18",
     "description":"The great sage, who was fully equipped in knowledge, could see, through his transcendental vision, the deterioration of everything material, due to the influence of the age. He could also see that the faithless people in general would be reduced in duration of life and would be impatient due to lack of goodness. Thus he contemplated for the welfare of men in all statuses and orders of life."

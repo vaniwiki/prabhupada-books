@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.18",
+    "label":"Text 18",
     "h1":"Text 18",
     "title":" Śrīmad Bhāgavatam 1.9.18",
     "description":"This Śrī Kṛṣṇa is no other than the inconceivable, original Personality of Godhead. He is the first Nārāyaṇa, the supreme enjoyer. But He is moving amongst the descendants of King Vṛṣṇi just like one of us and He is bewildering us with His self-created energy."

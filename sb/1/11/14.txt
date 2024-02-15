@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.14",
+    "label":"Text 14",
     "h1":"Text 14",
     "title":" Śrīmad Bhāgavatam 1.11.14",
     "description":"The highways, subways, lanes, markets and public meeting places were all thoroughly cleansed and then moistened with scented water. And to welcome the Lord, fruits, flowers and unbroken seeds were strewn everywhere."

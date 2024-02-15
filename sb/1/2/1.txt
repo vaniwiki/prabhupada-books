@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.1",
+    "label":"Text 1",
     "h1":"Text 1",
     "title":" Śrīmad Bhāgavatam 1.2.1",
     "description":"Ugraśravā [Sūta Gosvāmī], the son of Romaharṣaṇa, being fully satisfied by the perfect questions of the brāhmaṇas, thanked them and thus attempted to reply."

@@ -2,8 +2,8 @@
 {
     "name":"Dedication",
     "h1":"Dedication",
-    "title":"(.*?)",
-    "description":""
+    "title":"SSR Dedication",
+    "description":"According to material vision, our beloved spiritual master, guide, and friend His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda passed away from this world on November 14, 1977, but actually he is still present. As Śrīla Prabhupāda often pointed out, there are two ways of associating with the spiritual master: through his physical presence (vapu) and through his instructions (vāṇī). Sometimes we can associate with the spiritual master through his physical presence and sometimes not, but we can always associate with him through his instructions"
 }
 ---
 

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.7.30",
     "description":"When the rays of the two brahmāstras combined, a great circle of fire, like the disc of the sun, covered all outer space and the whole firmament of planets."

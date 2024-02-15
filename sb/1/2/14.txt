@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.14",
+    "label":"Text 14",
     "h1":"Text 14",
     "title":" Śrīmad Bhāgavatam 1.2.14",
     "description":"Therefore, with one-pointed attention, one should constantly hear about, glorify, remember and worship the Personality of Godhead, who is the protector of the devotees."

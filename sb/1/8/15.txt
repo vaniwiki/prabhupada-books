@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.8.15",
     "description":"O Śaunaka, although the supreme brahmāstra weapon released by Aśvatthāmā was irresistible and without check or counteraction, it was neutralized and foiled when confronted by the strength of Viṣṇu [Lord Kṛṣṇa]."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.12.30",
     "description":"So his son would become famous in the world as Parīkṣit [examiner] because he would come to examine all human beings in his search after that personality whom he saw before his birth. Thus he would come to constantly contemplate Him."

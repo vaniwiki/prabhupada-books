@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 39",
-    "h1":"Text 39",
+    "label":"Text 39",
+    "h1":"Light of the Bhāgavata 39",
     "title":"Light of the Bhāgavata 39",
     "description":"In the autumn there is a gulf of difference between the day and the night. During the day the extreme heat of the sun is unbearable, but at night the moonlight is extremely soothing and refreshing. Similarly, Lord Śrī Kṛṣṇa is soothing for both the gopīs and the mundane man in illusion, who accepts the body as the soul."
 }

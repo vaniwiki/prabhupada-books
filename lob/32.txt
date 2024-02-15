@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 32",
-    "h1":"Text 32",
+    "label":"Text 32",
+    "h1":"Light of the Bhāgavata 32",
     "title":"Light of the Bhāgavata 32",
     "description":"The beautiful white clouds, freed from all burdens of water distribution, float in midair, like mendicants freed from all family responsibilities."
 }

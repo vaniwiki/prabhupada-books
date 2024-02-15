@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.31",
+    "label":"Text 31",
     "h1":"Text 31",
     "title":" Śrīmad Bhāgavatam 1.17.31",
     "description":"The King thus said: We have inherited the fame of Arjuna; therefore since you have surrendered yourself with folded hands you need not fear for your life. But you cannot remain in my kingdom, for you are the friend of irreligion."

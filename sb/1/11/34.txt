@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.34",
+    "label":"Text 34",
     "h1":"Text 34",
     "title":" Śrīmad Bhāgavatam 1.11.34",
     "description":"The Lord was pacified after killing those kings who were burdensome to the earth. They were puffed up with their military strength, their horses, elephants, chariots, infantry, etc. He Himself was not a party in the fight. He simply created hostility between the powerful administrators, and they fought amongst themselves. He was like the wind which causes friction between bamboos and so sparks a fire."

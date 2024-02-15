@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.4",
+    "label":"Text 4",
     "h1":"Text 4",
     "title":" Śrīmad Bhāgavatam 1.9.4",
     "description":"Seeing him [Bhīṣma] lying on the ground, like a demigod fallen from the sky, the Pāṇḍava King Yudhiṣṭhira, along with his younger brothers and Lord Kṛṣṇa, bowed down before him."

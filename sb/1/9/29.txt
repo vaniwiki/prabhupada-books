@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.29",
+    "label":"Text 29",
     "h1":"Text 29",
     "title":" Śrīmad Bhāgavatam 1.9.29",
     "description":"While Bhīṣmadeva was describing occupational duties, the sun's course ran into the northern hemisphere. This period is desired by mystics who die at their will."

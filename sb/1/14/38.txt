@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.38",
+    "label":"Text 38",
     "h1":"Text 38",
     "title":" Śrīmad Bhāgavatam 1.14.38",
     "description":"The great heroes of the Yadu dynasty, being protected by the arms of Lord Śrī Kṛṣṇa, always remain fearless in every respect. And therefore their feet trample over the Sudharmā assembly house, which the best demigods deserved but which was taken away from them."

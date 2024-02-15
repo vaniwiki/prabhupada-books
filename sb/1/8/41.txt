@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.41",
+    "label":"Text 41",
     "h1":"Text 41",
     "title":" Śrīmad Bhāgavatam 1.8.41",
     "description":"O Lord of the universe, soul of the universe, O personality of the form of the universe, please, therefore, sever my tie of affection for my kinsmen, the Pāṇḍavas and the Vṛṣṇis."

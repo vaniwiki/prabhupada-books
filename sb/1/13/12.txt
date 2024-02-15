@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.13.12",
     "description":"Thus being questioned by Mahārāja Yudhiṣṭhira, Mahātmā Vidura gradually described everything he had personally experienced, except news of the annihilation of the Yadu dynasty."

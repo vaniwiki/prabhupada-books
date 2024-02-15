@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.4",
+    "label":"Text 4",
     "h1":"Text 4",
     "title":" Śrīmad Bhāgavatam 1.19.4",
     "description":"While the King was thus repenting, he received news of his imminent death, which would be due to the bite of a snake-bird, occasioned by the curse spoken by the sage's son. The King accepted this as good news, for it would be the cause of his indifference toward worldly things."

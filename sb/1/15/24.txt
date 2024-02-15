@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.24",
+    "label":"Text 24",
     "h1":"Text 24",
     "title":" Śrīmad Bhāgavatam 1.15.24",
     "description":"Factually this is all due to the supreme will of the Lord, the Personality of Godhead. Sometimes people kill one another, and at other times they protect one another."

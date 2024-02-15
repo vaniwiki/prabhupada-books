@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.29",
+    "label":"Text 29",
     "h1":"Text 29",
     "title":" Śrīmad Bhāgavatam 1.6.29",
     "description":"At the end of the millennium, when the Personality of Godhead Lord Nārāyaṇa lay down within the water of devastation, Brahmā began to enter into Him along with all creative elements, and I also entered through His breathing."

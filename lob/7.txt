@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 7",
-    "h1":"Text 7",
+    "label":"Text 7",
+    "h1":"Light of the Bhāgavata 7",
     "title":"Light of the Bhāgavata 7",
     "description":"The small rivulets that almost dried up during the months of May and June now begin to overflow their banks, like upstarts that suddenly overflow the limits of expenditure."
 }

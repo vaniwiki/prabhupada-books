@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.16.31",
+    "label":"Text 31",
     "h1":"Text 31",
     "title":" Śrīmad Bhāgavatam 1.16.31",
     "description":"I am thinking about myself and also, O best amongst the demigods, about you, as well as about all the demigods, sages, denizens of Pitṛloka, devotees of the Lord and all men obedient to the system of varṇa and āśrama in human society."

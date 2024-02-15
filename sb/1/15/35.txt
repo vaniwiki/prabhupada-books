@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.15.35",
     "description":"The Supreme Lord relinquished the body which He manifested to diminish the burden of the earth. Just like a magician, He relinquishes one body to accept different ones, like the fish incarnation and others."

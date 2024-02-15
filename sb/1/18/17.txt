@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.18.17",
     "description":"Thus please narrate to us the narrations of the Unlimited, for they are purifying and supreme. They were spoken to Mahārāja Parīkṣit, and they are very dear to the pure devotees, being full of bhakti-yoga."

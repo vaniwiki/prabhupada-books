@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.52",
+    "label":"Text 52",
     "h1":"Text 52",
     "title":" Śrīmad Bhāgavatam 1.13.52",
     "description":"The place is called Saptasrota [\"divided by seven\"] because there the waters of the sacred Ganges were divided into seven branches. This was done for the satisfaction of the seven great ṛṣis."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.11-12",
+    "label":"Text 11-12",
     "h1":"Text 11-12",
     "title":" Śrīmad Bhāgavatam 1.10.11-12",
     "description":"The intelligent, who have understood the Supreme Lord in association with pure devotees and have become freed from bad materialistic association, can never avoid hearing the glories of the Lord, even though they have heard them only once. How, then, could the Pāṇḍavas tolerate His separation, for they had been intimately associated with His person, seeing Him face to face, touching Him, conversing with Him, and sleeping, sitting and dining with Him?"

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.17.12",
     "description":"He [Mahārāja Parīkṣit] repeatedly addressed and questioned the bull thus: O son of Surabhi, who has cut off your three legs? In the state of the kings who are obedient to the laws of the Supreme Personality of Godhead, Kṛṣṇa, there is no one as unhappy as you."

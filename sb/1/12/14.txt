@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.14",
+    "label":"Text 14",
     "h1":"Text 14",
     "title":" Śrīmad Bhāgavatam 1.12.14",
     "description":"Upon the birth of a son, the King, who knew how, where and when charity should be given, gave gold, land, villages, elephants, horses and good food grains to the brāhmaṇas."

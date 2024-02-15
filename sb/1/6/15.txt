@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.6.15",
     "description":"After that, under the shadow of a banyan tree in an uninhabited forest I began to meditate upon the Supersoul situated within, using my intelligence, as I had learned from liberated souls."

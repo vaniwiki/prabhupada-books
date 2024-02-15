@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.24",
+    "label":"Text 24",
     "h1":"Text 24",
     "title":" Śrīmad Bhāgavatam 1.5.24",
     "description":"Although they were impartial by nature, those followers of the Vedānta blessed me with their causeless mercy. As far as I was concerned, I was self-controlled and had no attachment for sports, even though I was a boy. In addition, I was not naughty, and I did not speak more than required."

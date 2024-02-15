@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.19.15",
     "description":"O brāhmaṇas, just accept me as a completely surrendered soul, and let mother Ganges, the representative of the Lord, also accept me in that way, for I have already taken the lotus feet of the Lord into my heart. Let the snake-bird—or whatever magical thing the brāhmaṇa created—bite me at once. I only desire that you all continue singing the deeds of Lord Viṣṇu."

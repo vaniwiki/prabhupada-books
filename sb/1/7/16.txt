@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.16",
+    "label":"Text 16",
     "h1":"Text 16",
     "title":" Śrīmad Bhāgavatam 1.7.16",
     "description":"O gentle lady, when I present you with the head of that brāhmaṇa, after beheading him with arrows from my Gāṇḍīva bow, I shall then wipe the tears from your eyes and pacify you. Then, after burning your sons' bodies, you can take your bath standing on his head."

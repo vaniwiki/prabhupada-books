@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.7",
+    "label":"Text 7",
     "h1":"Text 7",
     "title":" Śrīmad Bhāgavatam 1.11.7",
     "description":"O creator of the universe, You are our mother, well-wisher, Lord, father, spiritual master and worshipable Deity. By following in Your footsteps we have become successful in every respect. We pray, therefore, that You continue to bless us with Your mercy."

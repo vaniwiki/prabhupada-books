@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4: The Appearance of Śrī Nārada",
+    "label":"Chapter 4",
     "h1":"Chapter 4",
     "title":"SB 1.4: The Appearance of Śrī Nārada",
     "description":""

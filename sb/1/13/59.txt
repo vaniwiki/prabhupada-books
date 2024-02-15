@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.59",
+    "label":"Text 59",
     "h1":"Text 59",
     "title":" Śrīmad Bhāgavatam 1.13.59",
     "description":"Vidura, being affected with delight and grief, will then leave that place of sacred pilgrimage."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.11",
+    "label":"Text 11",
     "h1":"Text 11",
     "title":" Śrīmad Bhāgavatam 1.4.11",
     "description":"He was such a great emperor that all his enemies would come and bow down at his feet and surrender all their wealth for their own benefit. He was full of youth and strength, and he possessed insuperable kingly opulences. Why did he want to give up everything, including his life?"

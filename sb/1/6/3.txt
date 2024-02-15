@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.3",
+    "label":"Text 3",
     "h1":"Text 3",
     "title":" Śrīmad Bhāgavatam 1.6.3",
     "description":"O son of Brahmā, how did you pass your life after initiation, and how did you attain this body, having quit your old one in due course?"

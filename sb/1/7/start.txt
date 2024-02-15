@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7: The Son of Droṇa Punished",
+    "label":"Chapter 7",
     "h1":"Chapter 7",
     "title":"SB 1.7: The Son of Droṇa Punished",
     "description":""

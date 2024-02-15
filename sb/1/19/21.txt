@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.21",
+    "label":"Text 21",
     "h1":"Text 21",
     "title":" Śrīmad Bhāgavatam 1.19.21",
     "description":"We shall all wait here until the foremost devotee of the Lord, Mahārāja Parīkṣit, returns to the supreme planet, which is completely free from all mundane contamination and all kinds of lamentation."

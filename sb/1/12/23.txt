@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.23",
+    "label":"Text 23",
     "h1":"Text 23",
     "title":" Śrīmad Bhāgavatam 1.12.23",
     "description":"This child will be like his grandfather Yudhiṣṭhira or Brahmā in equanimity of mind. He will be munificent like the lord of the Kailāsa Hill, Śiva. And he will be the resort of everyone, like the Supreme Personality of Godhead Nārāyaṇa, who is even the shelter of the goddess of fortune."

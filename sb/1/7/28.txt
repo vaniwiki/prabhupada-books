@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.28",
+    "label":"Text 28",
     "h1":"Text 28",
     "title":" Śrīmad Bhāgavatam 1.7.28",
     "description":"O Arjuna, only another brahmāstra can counteract this weapon. Since you are expert in the military science, subdue this weapon's glare with the power of your own weapon."

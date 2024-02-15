@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 47",
-    "h1":"Text 47",
+    "label":"Text 47",
+    "h1":"Light of the Bhāgavata 47",
     "title":"Light of the Bhāgavata 47",
     "description":"From the Transcendence, which is called Kṛṣṇaloka, there emanates a glowing effulgence that resembles the tail of a comet. This glowing effulgence is unlimited, immeasurable, and unfathomable. Within this effulgence there are innumerable glowing planets, each of them self-luminous. Somewhere, a limited part of that glowing effulgence is covered by material energy, just as a part of the sky is covered by a cloud. Within this material energy there are innumerable universes, in every universe there are innumerable material planets, and the earth is one of these planets. Thus we can understand what an insignificant part of the entire cosmos is this globe on which we live."
 }

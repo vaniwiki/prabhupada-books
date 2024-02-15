@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.55",
+    "label":"Text 55",
     "h1":"Text 55",
     "title":" Śrīmad Bhāgavatam 1.13.55",
     "description":"Dhṛtarāṣṭra will have to amalgamate his pure identity with intelligence and then merge into the Supreme Being with knowledge of his qualitative oneness, as a living entity, with the Supreme Brahman. Being freed from the blocked sky, he will have to rise to the spiritual sky."

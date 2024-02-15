@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.3.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.3.2",
     "description":"A part of the puruṣa lies down within the water of the universe, from the navel lake of His body sprouts a lotus stem, and from the lotus flower atop this stem, Brahmā, the master of all engineers in the universe, becomes manifest."

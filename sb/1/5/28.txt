@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.28",
+    "label":"Text 28",
     "h1":"Text 28",
     "title":" Śrīmad Bhāgavatam 1.5.28",
     "description":"Thus during two seasons-the rainy season and autumn-I had the opportunity to hear these great-souled sages constantly chant the unadulterated glories of the Lord Hari. As the flow of my devotional service began, the coverings of the modes of passion and ignorance vanished."

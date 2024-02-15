@@ -1,15 +1,12 @@
 ---json
 {
     "name":"LOB 3",
-    "h1":"Text 3",
+    "label":"Text 3",
+    "h1":"Light of the Bhāgavata 3",
     "title":"Light of the Bhāgavata 3",
     "description":"Attracted by electricity throughout the sky and driven by forceful winds, clouds gradually cover the surface of the earth to satisfy the needy people by supplying water, which is the substance of their life. The clouds bestow rains upon man as the mercy of the Lord, who is always kind to the needy living being."
 }
 ---
-<card>
-{{:artwork:light_of_the_bhagavata:lob_03.jpg|}}
-Light of the Bhagavata, Plate 3
-</card>
 
 ====== Light of the Bhāgavata Text 3 ======
 

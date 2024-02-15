@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12: Birth of Emperor Parīkṣit",
+    "label":"Chapter 12",
     "h1":"Chapter 12",
     "title":"SB 1.12: Birth of Emperor Parīkṣit",
     "description":""

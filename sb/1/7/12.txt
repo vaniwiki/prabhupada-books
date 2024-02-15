@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.7.12",
     "description":"Sūta Gosvāmī thus addressed the ṛṣis headed by Śaunaka: Now I shall begin the transcendental narration of the Lord Śrī Kṛṣṇa and topics of the birth, activities and deliverance of King Parīkṣit, the sage amongst kings, as well as topics of the renunciation of the worldly order by the sons of Pāṇḍu."

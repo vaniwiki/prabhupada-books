@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.56",
+    "label":"Text 56",
     "h1":"Text 56",
     "title":" Śrīmad Bhāgavatam 1.13.56",
     "description":"He will have to suspend all the actions of the senses, even from the outside, and will have to be impervious to interactions of the senses, which are influenced by the modes of material nature. After renouncing all material duties, he must become immovably established, beyond all sources of hindrances on the path."

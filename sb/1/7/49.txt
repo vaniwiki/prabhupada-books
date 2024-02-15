@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.49",
+    "label":"Text 49",
     "h1":"Text 49",
     "title":" Śrīmad Bhāgavatam 1.7.49",
     "description":"Sūta Gosvāmī said: O brāhmaṇas, King Yudhiṣṭhira fully supported the statements of the Queen, which were in accordance with the principles of religion and were justified, glorious, full of mercy and equity, and without duplicity."

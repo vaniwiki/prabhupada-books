@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.1.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.1.17",
     "description":"His transcendental acts are magnificent and gracious, and great learned sages like Nārada sing of them. Please, therefore, speak to us, who are eager to hear about the adventures He performs in His various incarnations."

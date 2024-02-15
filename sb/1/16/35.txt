@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.16.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.16.35",
     "description":"Who, therefore, can tolerate the pangs of separation from that Supreme Personality of Godhead? He could conquer the gravity and passionate wrath of His sweethearts like Satyabhāmā by His sweet smile of love, pleasing glance and hearty appeals. When He traversed my [earth's] surface, I would be immersed in the dust of His lotus feet and thus would be sumptuously covered with grass which appeared like hairs standing on me out of pleasure."

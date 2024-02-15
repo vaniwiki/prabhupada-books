@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.17.6",
     "description":"You rogue, do you dare beat an innocent cow because Lord Kṛṣṇa and Arjuna, the carrier of the Gāṇḍīva bow, are out of sight? Since you are beating the innocent in a secluded place, you are considered a culprit and therefore deserve to be killed."

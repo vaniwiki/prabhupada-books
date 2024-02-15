@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.7",
+    "label":"Text 7",
     "h1":"Text 7",
     "title":" Śrīmad Bhāgavatam 1.2.7",
     "description":"By rendering devotional service unto the Personality of Godhead, Śrī Kṛṣṇa, one immediately acquires causeless knowledge and detachment from the world."

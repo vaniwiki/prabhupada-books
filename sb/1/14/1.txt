@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.1",
+    "label":"Text 1",
     "h1":"Text 1",
     "title":" Śrīmad Bhāgavatam 1.14.1",
     "description":"Śrī Sūta Gosvāmī said: Arjuna went to Dvārakā to see Lord Śrī Kṛṣṇa and other friends and also to learn from the Lord of His next activities."

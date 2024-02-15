@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.26",
+    "label":"Text 26",
     "h1":"Text 26",
     "title":" Śrīmad Bhāgavatam 1.17.26",
     "description":"The burden of the earth was certainly diminished by the Personality of Godhead and by others as well. When He was present as an incarnation, all good was performed because of His auspicious footprints."

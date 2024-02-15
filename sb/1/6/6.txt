@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.6.6",
     "description":"I was the only son of my mother, who was not only a simple woman but a maidservant as well. Since I was her only offspring, she had no other alternative for protection: she bound me with the tie of affection."

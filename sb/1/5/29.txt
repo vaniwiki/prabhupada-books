@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.29",
+    "label":"Text 29",
     "h1":"Text 29",
     "title":" Śrīmad Bhāgavatam 1.5.29",
     "description":"I was very much attached to those sages. I was gentle in behavior, and all my sins were eradicated in their service. In my heart I had strong faith in them. I had subjugated the senses, and I was strictly following them with body and mind."

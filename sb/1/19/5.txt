@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.5",
+    "label":"Text 5",
     "h1":"Text 5",
     "title":" Śrīmad Bhāgavatam 1.19.5",
     "description":"Mahārāja Parīkṣit sat down firmly on the banks of the Ganges to concentrate his mind in Kṛṣṇa consciousness, rejecting all other practices of self-realization, because transcendental loving service to Kṛṣṇa is the greatest achievement, superseding all other methods."

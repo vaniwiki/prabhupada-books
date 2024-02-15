@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.10",
+    "label":"Text 10",
     "h1":"Text 10",
     "title":" Śrīmad Bhāgavatam 1.9.10",
     "description":"Lord Śrī Kṛṣṇa is situated in everyone's heart, yet He manifests His transcendental form by His internal potency. This very Lord was sitting before Bhīṣmadeva, and since Bhīṣmadeva knew of His glories, he worshiped Him duly."

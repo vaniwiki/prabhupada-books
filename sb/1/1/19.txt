@@ -1,6 +1,8 @@
+
 ---json
 {
     "name":"SB 1.1.19",
+    "label":"Text 19",
     "h1":"Text 19",
     "title":" Śrīmad Bhāgavatam 1.1.19",
     "description":"We never tire of hearing the transcendental pastimes of the Personality of Godhead, who is glorified by hymns and prayers. Those who have developed a taste for transcendental relationships with Him relish hearing of His pastimes at every moment."

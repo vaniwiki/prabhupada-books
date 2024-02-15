@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.50",
+    "label":"Text 50",
     "h1":"Text 50",
     "title":" Śrīmad Bhāgavatam 1.7.50",
     "description":"Nakula and Sahadeva [the younger brothers of the King] and also Sātyaki, Arjuna, the Personality of Godhead Lord Sri Kṛṣṇa, son of Devakī, and the ladies and others all unanimously agreed with the King."

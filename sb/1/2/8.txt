@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.2.8",
     "description":"The occupational activities a man performs according to his own position are only so much useless labor if they do not provoke attraction for the message of the Personality of Godhead."

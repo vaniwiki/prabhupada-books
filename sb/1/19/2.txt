@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.19.2",
     "description":"[King Parīkṣit thought:] Due to my neglecting the injunctions of the Supreme Lord I must certainly expect some difficulty to overcome me in the near future. I now desire without reservation that the calamity come now, for in this way I may be freed of the sinful action and not commit such an offense again."

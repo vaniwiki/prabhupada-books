@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.5",
+    "label":"Text 5",
     "h1":"Text 5",
     "title":" Śrīmad Bhāgavatam 1.8.5",
     "description":"The clever Duryodhana and his party cunningly usurped the kingdom of Yudhiṣṭhira, who had no enemy. By the grace of the Lord, the recovery was executed, and the unscrupulous kings who joined with Duryodhana were killed by Him. Others also died, their duration of life having decreased for their rough handling of the hair of Queen Draupadī."

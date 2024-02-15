@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.24",
+    "label":"Text 24",
     "h1":"Text 24",
     "title":" Śrīmad Bhāgavatam 1.4.24",
     "description":"Thus the great sage Vyāsadeva, who is very kind to the ignorant masses, edited the Vedas so they might be assimilated by less intellectual men."

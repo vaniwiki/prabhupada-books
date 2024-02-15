@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.36",
+    "label":"Text 36",
     "h1":"Text 36",
     "title":" Śrīmad Bhāgavatam 1.7.36",
     "description":"A person who knows the principles of religion does not kill an enemy who is careless, intoxicated, insane, asleep, afraid or devoid of his chariot. Nor does he kill a boy, a woman, a foolish creature or a surrendered soul."

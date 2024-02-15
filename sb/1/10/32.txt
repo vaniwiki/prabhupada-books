@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.32",
+    "label":"Text 32",
     "h1":"Text 32",
     "title":" Śrīmad Bhāgavatam 1.10.32",
     "description":"Mahārāja Yudhiṣṭhira, although no one's enemy, engaged four divisions of defense [horse, elephant, chariot and army] to accompany Lord Kṛṣṇa, the enemy of the asuras [demons]. The Mahārāja did this because of the enemy, and also out of affection for the Lord."

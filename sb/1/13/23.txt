@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.23",
+    "label":"Text 23",
     "h1":"Text 23",
     "title":" Śrīmad Bhāgavatam 1.13.23",
     "description":"Alas, how powerful are the hopes of a living being to continue his life. Verily, you are living just like a household dog and are eating remnants of food given by Bhīma."

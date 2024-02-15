@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.2.6",
     "description":"The supreme occupation [dharma] for all humanity is that by which men can attain to loving devotional service unto the transcendent Lord. Such devotional service must be unmotivated and uninterrupted to completely satisfy the self."

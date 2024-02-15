@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.37",
+    "label":"Text 37",
     "h1":"Text 37",
     "title":" Śrīmad Bhāgavatam 1.6.37",
     "description":"Sūta Gosvāmī said: Thus addressing Vyāsadeva, Śrīla Nārada Muni took leave of him, and vibrating on his vīṇā instrument, he left to wander at his free will."

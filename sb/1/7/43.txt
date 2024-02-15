@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.43",
+    "label":"Text 43",
     "h1":"Text 43",
     "title":" Śrīmad Bhāgavatam 1.7.43",
     "description":"She could not tolerate Aśvatthāmā's being bound by ropes, and being a devoted lady, she said: Release him, for he is a brāhmaṇa, our spiritual master."

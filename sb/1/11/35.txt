@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.11.35",
     "description":"That Supreme Personality of Godhead Śrī Kṛṣṇa, out of His causeless mercy, appeared on this planet by His internal potency and enjoyed Himself amongst competent women as if He were engaging in mundane affairs."

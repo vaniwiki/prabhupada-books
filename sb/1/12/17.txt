@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.12.17",
     "description":"For this reason this child will be well known in the world as one who is protected by the Personality of Godhead. O most fortunate one, there is no doubt that this child will become a first-class devotee and will be qualified with all good qualities."

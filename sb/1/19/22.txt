@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.22",
+    "label":"Text 22",
     "h1":"Text 22",
     "title":" Śrīmad Bhāgavatam 1.19.22",
     "description":"All that was spoken by the great sages was very sweet to hear, full of meaning and appropriately presented as perfectly true. So after hearing them, Mahārāja Parīkṣit, desiring to hear of the activities of Lord Śrī Kṛṣṇa, the Personality of Godhead, congratulated the great sages."

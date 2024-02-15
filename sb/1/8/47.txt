@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.47",
+    "label":"Text 47",
     "h1":"Text 47",
     "title":" Śrīmad Bhāgavatam 1.8.47",
     "description":"King Yudhiṣṭhira, son of Dharma, overwhelmed by the death of his friends, was aggrieved just like a common, materialistic man. O sages, thus deluded by affection, he began to speak."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.27",
+    "label":"Text 27",
     "h1":"Text 27",
     "title":" Śrīmad Bhāgavatam 1.6.27",
     "description":"And so, O Brāhmaṇa Vyāsadeva, in due course of time I, who was fully absorbed in thinking of Kṛṣṇa and who therefore had no attachments, being completely freed from all material taints, met with death, as lightning and illumination occur simultaneously."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.23",
+    "label":"Text 23",
     "h1":"Text 23",
     "title":" Śrīmad Bhāgavatam 1.10.23",
     "description":"Here is the same Supreme Personality of Godhead whose transcendental form is experienced by the great devotees who are completely cleansed of material consciousness by dint of rigid devotional service and full control of life and the senses. And that is the only way to purify existence."

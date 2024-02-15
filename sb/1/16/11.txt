@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.16.11",
+    "label":"Text 11",
     "h1":"Text 11",
     "title":" Śrīmad Bhāgavatam 1.16.11",
     "description":"Mahārāja Parīkṣit sat on a chariot drawn by black horses. His flag was marked with the sign of a lion. Being so decorated and surrounded by charioteers, cavalry, elephants and infantry soldiers, he left the capital to conquer in all directions."

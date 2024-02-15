@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.10.6",
     "description":"Because of the King's having no enemy, the living beings were not at any time disturbed by mental agonies, diseases, or excessive heat or cold."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.7",
+    "label":"Text 7",
     "h1":"Text 7",
     "title":" Śrīmad Bhāgavatam 1.4.7",
     "description":"How did it so happen that King Parīkṣit met this great sage, making it possible for this great transcendental essence of the Vedas [Bhāgavatam] to be sung to him?"

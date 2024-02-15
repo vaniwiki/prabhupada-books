@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.6-7",
+    "label":"Text 6-7",
     "h1":"Text 6-7",
     "title":" Śrīmad Bhāgavatam 1.9.6-7",
     "description":"All the sages like Parvata Muni, Nārada, Dhaumya, Vyāsa the incarnation of God, Bṛhadaśva, Bharadvāja and Paraśurāma and disciples, Vasiṣṭha, Indrapramada, Trita, Gṛtsamada, Asita, Kakṣīvān, Gautama, Atri, Kauśika and Sudarśana were present."

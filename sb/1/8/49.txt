@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.49",
+    "label":"Text 49",
     "h1":"Text 49",
     "title":" Śrīmad Bhāgavatam 1.8.49",
     "description":"I have killed many boys, brāhmaṇas, well-wishers, friends, parents, preceptors and brothers. Though I live millions of years, I will not be relieved from the hell that awaits me for all these sins."

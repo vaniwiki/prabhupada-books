@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.20",
+    "label":"Text 20",
     "h1":"Text 20",
     "title":" Śrīmad Bhāgavatam 1.19.20",
     "description":"[The sages said:] O chief of all the saintly kings of the Pāṇḍu dynasty who are strictly in the line of Lord Śrī Kṛṣṇa! It is not at all astonishing that you give up your throne, which is decorated with the helmets of many kings, to achieve eternal association with the Personality of Godhead."

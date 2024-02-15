@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17: Punishment and Reward of Kali",
+    "label":"Chapter 17",
     "h1":"Chapter 17",
     "title":"SB 1.17: Punishment and Reward of Kali",
     "description":""

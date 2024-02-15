@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.15.2",
     "description":"Due to grief, Arjuna's mouth and lotuslike heart had dried up. Therefore his body lost all luster. Now, remembering the Supreme Lord, he could hardly utter a word in reply."

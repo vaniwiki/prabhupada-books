@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.13.6",
     "description":"Due to anxieties and long separation, they all cried out of affection. King Yudhiṣṭhira then arranged to offer sitting accommodations and a reception."

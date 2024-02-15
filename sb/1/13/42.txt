@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.42",
+    "label":"Text 42",
     "h1":"Text 42",
     "title":" Śrīmad Bhāgavatam 1.13.42",
     "description":"As a cow, bound through the nose by a long rope, is conditioned, so also human beings are bound by different Vedic injunctions and are conditioned to obey the orders of the Supreme."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.9",
+    "label":"Text 9",
     "h1":"Text 9",
     "title":" Śrīmad Bhāgavatam 1.11.9",
     "description":"O lotus-eyed Lord, whenever You go away to Mathurā, Vṛndāvana or Hastināpura to meet Your friends and relatives, every moment of Your absence seems like a million years. O infallible one, at that time our eyes become useless, as if bereft of sun."

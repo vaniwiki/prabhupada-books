@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.3.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.3.8",
     "description":"In the millennium of the ṛṣis, the Personality of Godhead accepted the third empowered incarnation in the form of Devarṣi Nārada, who is a great sage among the demigods. He collected expositions of the Vedas which deal with devotional service and which inspire nonfruitive action."

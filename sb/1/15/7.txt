@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.7",
+    "label":"Text 7",
     "h1":"Text 7",
     "title":" Śrīmad Bhāgavatam 1.15.7",
     "description":"Only by His merciful strength was I able to vanquish all the lusty princes assembled at the palace of King Drupada for the selection of the bridegroom. With my bow and arrow I could pierce the fish target and thereby gain the hand of Draupadī."

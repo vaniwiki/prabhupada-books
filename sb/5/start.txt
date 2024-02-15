@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"SB Canto 5: The Creative Impetus",
-    "h1":"Canto 5",
+    "name":"SB Canto 5",
+    "label":"Canto 5",
+    "h1":"The Creative Impetus",
     "title":"Śrīmad-Bhāgavatam Canto 5: The Creative Impetus",
     "description":"Details of the history of the descent of the River Ganges from the celestial realm to the studies of the actual Structure of the Universe as well as other planetary systems according to the Vedic perspective."
 }

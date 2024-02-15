@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.23",
+    "label":"Text 23",
     "h1":"Text 23",
     "title":" Śrīmad Bhāgavatam 1.9.23",
     "description":"The Personality of Godhead, who appears in the mind of the devotee by attentive devotion and meditation and by chanting of the holy name, releases the devotee from the bondage of fruitive activities at the time of his quitting the material body."

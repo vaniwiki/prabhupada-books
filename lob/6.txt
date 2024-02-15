@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 6",
-    "h1":"Text 6",
+    "label":"Text 6",
+    "h1":"Light of the Bhāgavata 6",
     "title":"Light of the Bhāgavata 6",
     "description":"On hearing the sound of the torrential rains, the frogs come out of the mountain caves and begin to chant, like brahmacārīs who chant the Vedic hymns by the order of the spiritual master."
 }

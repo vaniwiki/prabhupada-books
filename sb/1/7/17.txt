@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.7.17",
     "description":"Arjuna, who is guided by the infallible Lord as friend and driver, thus satisfied the dear lady by such statements. Then he dressed in armor and armed himself with furious weapons, and getting into his chariot, he set out to follow Aśvatthāmā, the son of his martial teacher."

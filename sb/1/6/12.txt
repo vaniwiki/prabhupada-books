@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.6.12",
     "description":"I passed through hills and mountains full of reservoirs of various minerals like gold, silver and copper, and through tracts of land with reservoirs of water filled with beautiful lotus flowers, fit for the denizens of heaven, decorated with bewildered bees and singing birds."

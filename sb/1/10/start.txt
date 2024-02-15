@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10: Departure of Lord Kṛṣṇa for Dvārakā",
+    "label":"Chapter 10",
     "h1":"Chapter 10",
     "title":"SB 1.10: Departure of Lord Kṛṣṇa for Dvārakā",
     "description":""

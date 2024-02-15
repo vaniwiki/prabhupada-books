@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"SB Canto 3: The Status Quo",
-    "h1":"Canto 3",
+    "name":"SB Canto 3",
+    "label":"Canto 3",
+    "h1":"The Status Quo",
     "title":"Śrīmad-Bhāgavatam Canto 3: The Status Quo",
     "description":"In this canto one finds not only a direct description of the Kingdom of God but also details of the fundamental Principles of the Material Nature and the Glories of Devotional Service, or Bhakti Yoga."
 }

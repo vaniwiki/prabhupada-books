@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.26",
+    "label":"Text 26",
     "h1":"Text 26",
     "title":" Śrīmad Bhāgavatam 1.4.26",
     "description":"O twice-born brāhmaṇas, still his mind was not satisfied, although he engaged himself in working for the total welfare of all people."

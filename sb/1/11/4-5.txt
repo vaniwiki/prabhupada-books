@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.4-5",
+    "label":"Text 4-5",
     "h1":"Text 4-5",
     "title":"Śrīmad Bhāgavatam 1.11.4-5",
     "description":"The citizens arrived before the Lord with their respective presentations, offering them to the fully satisfied and self-sufficient one, who, by His own potency, incessantly supplies others. These presentations were like the offering of a lamp to the sun. Yet the citizens began to speak in ecstatic language to receive the Lord, just as wards welcome their guardian and father."

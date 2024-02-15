@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.28-29",
+    "label":"Text 28-29",
     "h1":"Text 28-29",
     "title":" Śrīmad Bhāgavatam 1.14.28-29",
     "description":"Are Ugrasena, whose son was the mischievous Kaṁsa, and his younger brother still living? Are Hṛdīka and his son Kṛtavarmā happy? Are Akrūra, Jayanta, Gada, Sāraṇa and Śatrujit all happy? How is Balarāma, the Personality of Godhead and the protector of devotees?"

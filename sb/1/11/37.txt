@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.37",
+    "label":"Text 37",
     "h1":"Text 37",
     "title":" Śrīmad Bhāgavatam 1.11.37",
     "description":"The common materialistic conditioned souls speculate that the Lord is one of them. Out of their ignorance they think that the Lord is affected by matter, although He is unattached."

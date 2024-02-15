@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.7",
+    "label":"Text 7",
     "h1":"Text 7",
     "title":" Śrīmad Bhāgavatam 1.8.7",
     "description":"Lord Śrī Kṛṣṇa then prepared for His departure. He invited the sons of Pāṇḍu, after having been worshiped by the brāhmaṇas, headed by Śrīla Vyāsadeva. The Lord also reciprocated greetings."

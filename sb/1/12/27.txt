@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.27",
+    "label":"Text 27",
     "h1":"Text 27",
     "title":" Śrīmad Bhāgavatam 1.12.27",
     "description":"After hearing about his death, which will be caused by the bite of a snake-bird sent by a son of a brāhmaṇa, he will get himself freed from all material attachment and surrender unto the Personality of Godhead, taking shelter of Him."

@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"SB Canto 8: Withdrawal of the Cosmic Creations",
-    "h1":"Canto 8",
+    "name":"SB Canto 8",
+    "label":"Canto 8",
+    "h1":"Withdrawal of the Cosmic Creations",
     "title":"Śrīmad-Bhāgavatam Canto 8: Withdrawal of the Cosmic Creations",
     "description":""
 }

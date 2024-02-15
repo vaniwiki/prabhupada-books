@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.40",
+    "label":"Text 40",
     "h1":"Text 40",
     "title":" Śrīmad Bhāgavatam 1.15.40",
     "description":"Mahārāja Yudhiṣṭhira at once relinquished all his garments, belt and ornaments of the royal order and became completely disinterested and unattached to everything."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.14",
+    "label":"Text 14",
     "h1":"Text 14",
     "title":" Śrīmad Bhāgavatam 1.15.14",
     "description":"The military strength of the Kauravas was like an ocean in which there dwelled many invincible existences, and thus it was insurmountable. But because of His friendship, I, seated on the chariot, was able to cross over it. And only by His grace was I able to regain the cows and also collect by force many helmets of the kings which were bedecked with jewels that were sources of all brilliance."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.9.2",
     "description":"At that time all his brothers followed him on beautiful chariots drawn by first-class horses decorated with gold ornaments. With them were Vyāsa and ṛṣis like Dhaumya [the learned priest of the Pāṇḍavas] and others."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.8.8",
     "description":"As soon as He seated Himself on the chariot to start for Dvārakā, He saw Uttarā hurrying toward Him in fear."

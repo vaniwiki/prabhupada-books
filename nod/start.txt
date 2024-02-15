@@ -2,6 +2,7 @@
 {
     "name":"NOD",
     "h1":"The Nectar of Devotion",
+    "label":"Chapter 1",
     "title":"The Nectar of Devotion",
     "description":"The Nectar of Devotion is a summary study of Śrīla Rūpa Gosvāmī's Bhakti-rasāmṛta-sindhu, or \"the nectar which is derived from the ocean of devotion (bhakti).\" It fully contains the complete science of bhakti-yoga, or linking with the Supreme by transcendental loving devotion. Bhakti-yoga is the highest path of attaining God consciousness, but it is simultaneously simple and sublime. It is recommended for everyone in this age."
 }

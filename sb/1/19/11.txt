@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.19.11",
+    "label":"Text 11",
     "h1":"Text 11",
     "title":" Śrīmad Bhāgavatam 1.19.11",
     "description":"There were also many other saintly demigods, kings and special royal orders called aruṇādayas [a special rank of rājarṣis] from different dynasties of sages. When they all assembled together to meet the Emperor [Parīkṣit], he received them properly and bowed his head to the ground."

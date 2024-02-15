@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.19",
+    "label":"Text 19",
     "h1":"Text 19",
     "title":" Śrīmad Bhāgavatam 1.8.19",
     "description":"Being beyond the range of limited sense perception, You are the eternally irreproachable factor covered by the curtain of deluding energy. You are invisible to the foolish observer, exactly as an actor dressed as a player is not recognized."

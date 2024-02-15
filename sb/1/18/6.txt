@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.18.6",
     "description":"The very day and moment the Personality of Godhead, Lord Śrī Kṛṣṇa, left this earth, the personality of Kali, who promotes all kinds of irreligious activities, came into this world."

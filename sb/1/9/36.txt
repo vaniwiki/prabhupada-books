@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.36",
+    "label":"Text 36",
     "h1":"Text 36",
     "title":" Śrīmad Bhāgavatam 1.9.36",
     "description":"When Arjuna was seemingly polluted by ignorance upon observing the soldiers and commanders before him on the battlefield, the Lord eradicated his ignorance by delivering transcendental knowledge. May His lotus feet always remain the object of my attraction."

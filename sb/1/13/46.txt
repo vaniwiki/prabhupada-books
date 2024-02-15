@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.46",
+    "label":"Text 46",
     "h1":"Text 46",
     "title":" Śrīmad Bhāgavatam 1.13.46",
     "description":"This gross material body made of five elements is already under the control of eternal time [kāla], action [karma] and the modes of material nature [guṇa]. How, then, can it, being already in the jaws of the serpent, protect others?"

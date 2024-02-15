@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 18",
-    "h1":"Text 18",
+    "label":"Text 18",
+    "h1":"Light of the Bhāgavata 18",
     "title":"Light of the Bhāgavata 18",
     "description":"Many plants and creepers that were almost dead during the months of April and May are now visible again in various forms, for they are nourished by their roots in the moist earth. These numberless plants and creepers resemble persons who dry up in severe penances for some material gain but then achieve their objectives and become luxuriously fat, nourished by sense enjoyment."
 }

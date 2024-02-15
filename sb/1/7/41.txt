@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.41",
+    "label":"Text 41",
     "h1":"Text 41",
     "title":" Śrīmad Bhāgavatam 1.7.41",
     "description":"After reaching his own camp, Arjuna, along with his dear friend and charioteer [Śrī Kṛṣṇa], entrusted the murderer unto his dear wife, who was lamenting for her murdered sons."

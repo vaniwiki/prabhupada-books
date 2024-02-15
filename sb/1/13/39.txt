@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.39",
+    "label":"Text 39",
     "h1":"Text 39",
     "title":" Śrīmad Bhāgavatam 1.13.39",
     "description":"Mahārāja Yudhiṣṭhira said: O godly personality, I do not know where my two uncles have gone. Nor can I find my ascetic aunt who is grief-stricken by the loss of all her sons."

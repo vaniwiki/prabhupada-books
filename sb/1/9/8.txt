@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.9.8",
     "description":"And many others like Śukadeva Gosvāmī and other purified souls, Kaśyapa and Āṅgirasa and others, all accompanied by their respective disciples, arrived there."

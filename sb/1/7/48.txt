@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.48",
+    "label":"Text 48",
     "h1":"Text 48",
     "title":" Śrīmad Bhāgavatam 1.7.48",
     "description":"If the kingly administrative order, being unrestricted in sense control, offends the brāhmaṇa order and enrages them, then the fire of that rage burns up the whole body of the royal family and brings grief upon all."

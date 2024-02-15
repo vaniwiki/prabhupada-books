@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.14.2",
     "description":"A few months passed, and Arjuna did not return. Mahārāja Yudhiṣṭhira then began to observe some inauspicious omens, which were fearful in themselves."

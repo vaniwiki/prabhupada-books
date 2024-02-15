@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.24",
+    "label":"Text 24",
     "h1":"Text 24",
     "title":" Śrīmad Bhāgavatam 1.8.24",
     "description":"My dear Kṛṣṇa, Your Lordship has protected us from a poisoned cake, from a great fire, from cannibals, from the vicious assembly, from sufferings during our exile in the forest and from the battle where great generals fought. And now You have saved us from the weapon of Aśvatthāmā."

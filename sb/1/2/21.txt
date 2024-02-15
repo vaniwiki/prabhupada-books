@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.21",
+    "label":"Text 21",
     "h1":"Text 21",
     "title":" Śrīmad Bhāgavatam 1.2.21",
     "description":"Thus the knot in the heart is pierced, and all misgivings are cut to pieces. The chain of fruitive actions is terminated when one sees the self as master."

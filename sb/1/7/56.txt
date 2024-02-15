@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.56",
+    "label":"Text 56",
     "h1":"Text 56",
     "title":" Śrīmad Bhāgavatam 1.7.56",
     "description":"He [Aśvatthāmā] had already lost his bodily luster due to infanticide, and now, moreover, having lost the jewel from his head, he lost even more strength. Thus he was unbound and driven out of the camp."

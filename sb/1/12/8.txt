@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.12.8",
     "description":"He [the Lord] was only thumb high, but He was all transcendental. He had a very beautiful, blackish, infallible body, and He wore a dress of lightning yellow and a helmet of blazing gold. Thus He was seen by the child."

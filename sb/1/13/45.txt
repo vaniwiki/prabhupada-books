@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.45",
+    "label":"Text 45",
     "h1":"Text 45",
     "title":" Śrīmad Bhāgavatam 1.13.45",
     "description":"Therefore give up your anxiety due to ignorance of the self. You are now thinking of how they, who are helpless poor creatures, will exist without you."

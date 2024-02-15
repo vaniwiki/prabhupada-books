@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.5",
+    "label":"Text 5",
     "h1":"Text 5",
     "title":" Śrīmad Bhāgavatam 1.10.5",
     "description":"The rivers, oceans, hills, mountains, forests, creepers and active drugs, in every season, paid their tax quota to the King in profusion."

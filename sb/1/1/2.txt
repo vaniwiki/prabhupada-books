@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.1.2",
+    "label":"Text 2",
     "h1":"Text 2",
     "title":" Śrīmad Bhāgavatam 1.1.2",
     "description":"Completely rejecting all religious activities which are materially motivated, this Bhāgavata Purāṇa propounds the highest truth, which is understandable by those devotees who are fully pure in heart. The highest truth is reality distinguished from illusion for the welfare of all. Such truth uproots the threefold miseries. This beautiful Bhāgavatam, compiled by the great sage Vyāsadeva [in his maturity], is sufficient in itself for God realization. What is the need of any other scripture? As soon as one attentively and submissively hears the message of Bhāgavatam, by this culture of knowledge the Supreme Lord is established within his heart."

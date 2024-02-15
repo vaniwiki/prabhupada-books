@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.20",
+    "label":"Text 20",
     "h1":"Text 20",
     "title":" Śrīmad Bhāgavatam 1.11.20",
     "description":"Expert dramatists, artists, dancers, singers, historians, genealogists and learned speakers all gave their respective contributions, being inspired by the superhuman pastimes of the Lord. Thus they proceeded on and on."

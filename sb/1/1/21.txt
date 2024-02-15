@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.1.21",
+    "label":"Text 21",
     "h1":"Text 21",
     "title":" Śrīmad Bhāgavatam 1.1.21",
     "description":"Knowing well that the age of Kali has already begun, we are assembled here in this holy place to hear at great length the transcendental message of Godhead and in this way perform sacrifice."

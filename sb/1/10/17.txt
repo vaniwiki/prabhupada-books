@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.10.17",
     "description":"At that time Arjuna, the great warrior and conqueror of sleep, who is the intimate friend of the most beloved Supreme Lord, took up an umbrella which had a handle of jewels and was embroidered with lace and pearls."

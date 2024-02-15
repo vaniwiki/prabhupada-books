@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.2.30",
     "description":"In the beginning of the material creation, that Absolute Personality of Godhead [Vāsudeva], in His transcendental position, created the energies of cause and effect by His own internal energy."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.24",
+    "label":"Text 24",
     "h1":"Text 24",
     "title":" Śrīmad Bhāgavatam 1.6.24",
     "description":"Intelligence engaged in My devotion cannot be thwarted at any time. Even at the time of creation, as well as at the time of annihilation, your remembrance will continue by My mercy."

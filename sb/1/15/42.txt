@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.42",
+    "label":"Text 42",
     "h1":"Text 42",
     "title":" Śrīmad Bhāgavatam 1.15.42",
     "description":"Thus annihilating the gross body of five elements into the three qualitative modes of material nature, he merged them in one nescience and then absorbed that nescience in the self, Brahman, which is inexhaustible in all circumstances."

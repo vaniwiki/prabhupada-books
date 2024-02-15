@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.15.8",
     "description":"Because He was near me, it was possible for me to conquer with great dexterity the powerful King of heaven, Indradeva, along with his demigod associates and thus enable the fire-god to devastate the Khāṇḍava Forest. And only by His grace was the demon named Maya saved from the blazing Khāṇḍava Forest, and thus we could build our assembly house of wonderful architectural workmanship, where all the princes assembled during the performance of Rājasūya-yajña and paid you tributes."

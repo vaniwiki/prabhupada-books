@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.4.30",
     "description":"I am feeling incomplete, though I myself am fully equipped with everything required by the Vedas."

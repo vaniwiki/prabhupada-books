@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.11.30",
     "description":"Thereafter, the Lord entered His palaces, which were perfect to the fullest extent. His wives lived in them, and they numbered over sixteen thousand."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.14",
+    "label":"Text 14",
     "h1":"Text 14",
     "title":" Śrīmad Bhāgavatam 1.8.14",
     "description":"The Lord of supreme mysticism, Śrī Kṛṣṇa, resides within everyone's heart as the Paramātmā. As such, just to protect the progeny of the Kuru dynasty, He covered the embryo of Uttarā by His personal energy."

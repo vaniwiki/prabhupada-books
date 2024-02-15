@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.34",
+    "label":"Text 34",
     "h1":"Text 34",
     "title":" Śrīmad Bhāgavatam 1.6.34",
     "description":"It is personally experienced by me that those who are always full of cares and anxieties due to desiring contact of the senses with their objects can cross the ocean of nescience on a most suitable boat-the constant chanting of the transcendental activities of the Personality of Godhead."

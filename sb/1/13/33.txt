@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.33",
+    "label":"Text 33",
     "h1":"Text 33",
     "title":" Śrīmad Bhāgavatam 1.13.33",
     "description":"Where is my well-wisher, uncle Vidura, and mother Gāndhārī, who is very afflicted due to all her sons' demise? My uncle Dhṛtarāṣṭra was also very mortified due to the death of all his sons and grandsons. Undoubtedly I am very ungrateful. Did he, therefore, take my offenses very seriously and, along with his wife, drown himself in the Ganges?"

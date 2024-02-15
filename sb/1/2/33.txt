@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.2.33",
+    "label":"Text 33",
     "h1":"Text 33",
     "title":" Śrīmad Bhāgavatam 1.2.33",
     "description":"The Supersoul enters into the bodies of the created beings who are influenced by the modes of material nature and causes them to enjoy the effects of these modes by the subtle mind."

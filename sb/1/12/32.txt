@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.32",
+    "label":"Text 32",
     "h1":"Text 32",
     "title":" Śrīmad Bhāgavatam 1.12.32",
     "description":"Just at this time, King Yudhiṣṭhira was considering performing a horse sacrifice to get freed from sins incurred from fighting with kinsmen. But he became anxious to get some wealth, for there were no surplus funds outside of fines and tax collection."

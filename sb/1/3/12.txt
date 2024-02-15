@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.3.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.3.12",
     "description":"The seventh incarnation was Yajña, the son of Prajāpati Ruci and his wife Ākūti. He controlled the period during the change of the Svāyambhuva Manu and was assisted by demigods such as His son Yama."

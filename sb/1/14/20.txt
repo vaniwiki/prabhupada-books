@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.20",
+    "label":"Text 20",
     "h1":"Text 20",
     "title":" Śrīmad Bhāgavatam 1.14.20",
     "description":"The Deities seem to be crying in the temple, lamenting and perspiring. They seem about to leave. All the cities, villages, towns, gardens, mines and hermitages are now devoid of beauty and bereft of all happiness. I do not know what sort of calamities are now awaiting us."

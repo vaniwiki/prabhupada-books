@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.30",
+    "label":"Text 30",
     "h1":"Text 30",
     "title":" Śrīmad Bhāgavatam 1.13.30",
     "description":"The gentle and chaste Gāndhārī, who was the daughter of King Subala of Kandahar [or Gāndhāra], followed her husband, seeing that he was going to the Himalaya Mountains, which are the delight of those who have accepted the staff of the renounced order like fighters who have accepted a good lashing from the enemy."

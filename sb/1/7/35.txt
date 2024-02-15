@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.7.35",
     "description":"Lord Śrī Kṛṣṇa said: O Arjuna, you should not show mercy by releasing this relative of a brāhmaṇa [brahma-bandhu], for he has killed innocent boys in their sleep."

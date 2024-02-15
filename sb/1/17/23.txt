@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.23",
+    "label":"Text 23",
     "h1":"Text 23",
     "title":" Śrīmad Bhāgavatam 1.17.23",
     "description":"Thus it is concluded that the Lord's energies are inconceivable. No one can estimate them by mental speculation or by word jugglery."

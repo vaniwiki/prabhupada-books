@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.9.49",
+    "label":"Text 49",
     "h1":"Text 49",
     "title":" Śrīmad Bhāgavatam 1.9.49",
     "description":"After this, the great religious King, Mahārāja Yudhiṣṭhira, executed the royal power in the kingdom strictly according to the codes and royal principles approved by his uncle and confirmed by Lord Śrī Kṛṣṇa."

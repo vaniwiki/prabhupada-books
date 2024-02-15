@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.38",
+    "label":"Text 38",
     "h1":"Text 38",
     "title":" Śrīmad Bhāgavatam 1.8.38",
     "description":"As the name and fame of a particular body is finished with the disappearance of the living spirit, similarly if You do not look upon us, all our fame and activities, along with the Pāṇḍavas and Yadus, will end at once."

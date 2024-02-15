@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.21",
+    "label":"Text 21",
     "h1":"Text 21",
     "title":" Śrīmad Bhāgavatam 1.14.21",
     "description":"I think that all these earthly disturbances indicate some greater loss to the good fortune of the world. The world was fortunate to have been marked with the footprints of the lotus feet of the Lord. These signs indicate that this will no longer be."

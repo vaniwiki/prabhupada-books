@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.3.36",
+    "label":"Text 36",
     "h1":"Text 36",
     "title":" Śrīmad Bhāgavatam 1.3.36",
     "description":"The Lord, whose activities are always spotless, is the master of the six senses and is fully omnipotent with six opulences. He creates the manifested universes, maintains them and annihilates them without being in the least affected. He is within every living being and is always independent."

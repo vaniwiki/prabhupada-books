@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.29",
+    "label":"Text 29",
     "h1":"Text 29",
     "title":" Śrīmad Bhāgavatam 1.15.29",
     "description":"Arjuna's constant remembrance of the lotus feet of Lord Śrī Kṛṣṇa rapidly increased his devotion, and as a result all the trash in his thoughts subsided."

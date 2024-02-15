@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.40",
+    "label":"Text 40",
     "h1":"Text 40",
     "title":" Śrīmad Bhāgavatam 1.18.40",
     "description":"He threw the dead snake aside and asked his son why he was crying, whether anyone had done him harm. On hearing this, the son explained to him what had happened."

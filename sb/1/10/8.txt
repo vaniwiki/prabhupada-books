@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.10.8",
     "description":"Afterwards, when the Lord asked permission to depart and the King gave it, the Lord offered His respects to Mahārāja Yudhiṣṭhira by bowing down at his feet, and the King embraced Him. After this the Lord, being embraced by others and receiving their obeisances, got into His chariot."

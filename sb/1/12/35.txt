@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.12.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.12.35",
     "description":"Lord Śrī Kṛṣṇa, the Personality of Godhead, being invited to the sacrifices by Mahārāja Yudhiṣṭhira, saw to it that they were performed by qualified [twice-born] brāhmaṇas. After that, for the pleasure of the relatives, the Lord remained a few months."

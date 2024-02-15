@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.9",
+    "label":"Text 9",
     "h1":"Text 9",
     "title":" Śrīmad Bhāgavatam 1.18.9",
     "description":"O sages, as you did ask me, now I have described almost everything regarding the narrations about Lord Kṛṣṇa in connection with the history of the pious Mahārāja Parīkṣit."

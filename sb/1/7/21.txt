@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.21",
+    "label":"Text 21",
     "h1":"Text 21",
     "title":" Śrīmad Bhāgavatam 1.7.21",
     "description":"Thereupon a glaring light spread in all directions. It was so fierce that Arjuna thought his own life in danger, and so he began to address Lord Śrī Kṛṣṇa."

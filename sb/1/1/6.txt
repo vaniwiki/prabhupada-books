@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.1.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.1.6",
     "description":"The sages said: Respected Sūta Gosvāmī, you are completely free from all vice. You are well versed in all the scriptures famous for religious life, and in the Purāṇas and the histories as well, for you have gone through them under proper guidance and have also explained them."

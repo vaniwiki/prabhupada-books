@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.40",
+    "label":"Text 40",
     "h1":"Text 40",
     "title":" Śrīmad Bhāgavatam 1.7.40",
     "description":"Sūta Gosvāmī said: Although Kṛṣṇa, who was examining Arjuna in religion, encouraged Arjuna to kill the son of Droṇācārya, Arjuna, a great soul, did not like the idea of killing him, although Aśvatthāmā was a heinous murderer of Arjuna's family members."

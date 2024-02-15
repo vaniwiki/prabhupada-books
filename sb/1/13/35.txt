@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.35",
+    "label":"Text 35",
     "h1":"Text 35",
     "title":" Śrīmad Bhāgavatam 1.13.35",
     "description":"Sūta Gosvāmī said: Because of compassion and mental agitation, Sañjaya, not having seen his own master, Dhṛtarāṣṭra, was aggrieved and could not properly reply to Mahārāja Yudhiṣṭhira."

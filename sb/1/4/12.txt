@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.4.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.4.12",
     "description":"Those who are devoted to the cause of the Personality of Godhead live only for the welfare, development and happiness of others. They do not live for any selfish interest. So even though the Emperor [Parīkṣit] was free from all attachment to worldly possessions, how could he give up his mortal body, which was shelter for others?"

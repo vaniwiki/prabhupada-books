@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.13",
+    "label":"Text 13",
     "h1":"Text 13",
     "title":" Śrīmad Bhāgavatam 1.10.13",
     "description":"All their hearts were melting for Him on the pot of attraction. They looked at Him without blinking their eyes, and they moved hither and thither in perplexity."

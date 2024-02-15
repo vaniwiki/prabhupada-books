@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.39",
+    "label":"Text 39",
     "h1":"Text 39",
     "title":" Śrīmad Bhāgavatam 1.15.39",
     "description":"Then he posted Vajra, the son of Aniruddha [grandson of Lord Kṛṣṇa], at Mathurā as the King of Śūrasena. Afterwards Mahārāja Yudhiṣṭhira performed a Prājāpatya sacrifice and placed in himself the fire for quitting household life."

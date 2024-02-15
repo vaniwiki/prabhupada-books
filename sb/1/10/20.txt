@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.20",
+    "label":"Text 20",
     "h1":"Text 20",
     "title":" Śrīmad Bhāgavatam 1.10.20",
     "description":"Absorbed in the thought of the transcendental qualities of the Lord, who is glorified in select poetry, the ladies on the roofs of all the houses of Hastināpura began to talk of Him. This talk was more attractive than the hymns of the Vedas."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.36",
+    "label":"Text 36",
     "h1":"Text 36",
     "title":" Śrīmad Bhāgavatam 1.8.36",
     "description":"O Kṛṣṇa, those who continuously hear, chant and repeat Your transcendental activities, or take pleasure in others' doing so, certainly see Your lotus feet, which alone can stop the repetition of birth and death."

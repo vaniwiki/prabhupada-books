@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.6",
+    "label":"Text 6",
     "h1":"Text 6",
     "title":" Śrīmad Bhāgavatam 1.14.6",
     "description":"Mahārāja Yudhiṣṭhira said to his younger brother Bhīmasena, I sent Arjuna to Dvārakā to meet his friends and to learn from the Personality of Godhead Kṛṣṇa of His program of work."

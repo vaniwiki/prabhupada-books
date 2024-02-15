@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.8.40",
+    "label":"Text 40",
     "h1":"Text 40",
     "title":" Śrīmad Bhāgavatam 1.8.40",
     "description":"All these cities and villages are flourishing in all respects because the herbs and grains are in abundance, the trees are full of fruits, the rivers are flowing, the hills are full of minerals and the oceans full of wealth. And this is all due to Your glancing over them."

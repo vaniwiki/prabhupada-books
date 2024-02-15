@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.8",
+    "label":"Text 8",
     "h1":"Text 8",
     "title":" Śrīmad Bhāgavatam 1.7.8",
     "description":"The great sage Vyāsadeva, after compiling the Śrīmad-Bhāgavatam and revising it, taught it to his own son, Śrī Śukadeva Gosvāmī, who was already engaged in self-realization."

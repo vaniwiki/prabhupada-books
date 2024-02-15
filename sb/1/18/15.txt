@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.18.15",
     "description":"O Sūta Gosvāmī, you are a learned and pure devotee of the Lord because the Personality of Godhead is your chief object of service. Therefore please describe to us the pastimes of the Lord, which are above all material conception, for we are anxious to receive such messages."

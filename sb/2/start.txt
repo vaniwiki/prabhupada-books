@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"SB Canto 2: The Cosmic Manifestation",
-    "h1":"Canto 2",
+    "name":"SB Canto 2",
+    "label":"Canto 2",
+    "h1":"The Cosmic Manifestation",
     "title":"Śrīmad-Bhāgavatam Canto 2: The Cosmic Manifestation",
     "description":"Providing not only descriptions regarding the actual Process of Creation but also a list of the particular Functions of the Various Incarnations of the Lord since the beginning of time."
 }

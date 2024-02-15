@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.14.17",
+    "label":"Text 17",
     "h1":"Text 17",
     "title":" Śrīmad Bhāgavatam 1.14.17",
     "description":"The rays of the sun are declining, and the stars appear to be fighting amongst themselves. Confused living entities appear to be ablaze and weeping."

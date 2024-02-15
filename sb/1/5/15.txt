@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.15",
+    "label":"Text 15",
     "h1":"Text 15",
     "title":" Śrīmad Bhāgavatam 1.5.15",
     "description":"The people in general are naturally inclined to enjoy, and you have encouraged them in that way in the name of religion. This is verily condemned and is quite unreasonable. Because they are guided under your instructions, they will accept such activities in the name of religion and will hardly care for prohibitions."

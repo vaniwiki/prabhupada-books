@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.15.32",
+    "label":"Text 32",
     "h1":"Text 32",
     "title":" Śrīmad Bhāgavatam 1.15.32",
     "description":"Upon hearing of Lord Kṛṣṇa's returning to His abode, and upon understanding the end of the Yadu dynasty's earthly manifestation, Mahārāja Yudhiṣṭhira decided to go back home, back to Godhead."

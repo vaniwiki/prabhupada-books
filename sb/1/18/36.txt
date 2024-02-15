@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.36",
+    "label":"Text 36",
     "h1":"Text 36",
     "title":" Śrīmad Bhāgavatam 1.18.36",
     "description":"The son of the ṛṣi, his eyes red-hot with anger, touched the water of the River Kauśika while speaking to his playmates and discharged the following thunderbolt of words."

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.20",
+    "label":"Text 20",
     "h1":"Text 20",
     "title":" Śrīmad Bhāgavatam 1.18.20",
     "description":"It is now ascertained that He [the Personality of Godhead] is unlimited and there is none equal to Him. Consequently no one can speak of Him adequately. Great demigods cannot obtain the favor of the goddess of fortune even by prayers, but this very goddess renders service unto the Lord, although He is unwilling to have such service."

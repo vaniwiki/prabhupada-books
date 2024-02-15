@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.5.12",
+    "label":"Text 12",
     "h1":"Text 12",
     "title":" Śrīmad Bhāgavatam 1.5.12",
     "description":"Knowledge of self-realization, even though free from all material affinity, does not look well if devoid of a conception of the Infallible [God]. What, then, is the use of fruitive activities, which are naturally painful from the very beginning and transient by nature, if they are not utilized for the devotional service of the Lord?"

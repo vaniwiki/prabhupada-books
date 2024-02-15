@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.1",
+    "label":"Text 1",
     "h1":"Text 1",
     "title":" Śrīmad Bhāgavatam 1.10.1",
     "description":"Śaunaka Muni asked: After killing his enemies who desired to usurp his rightful inheritance, how did the greatest of all religious men, Mahārāja Yudhiṣṭhira, assisted by his brothers, rule his subjects? Surely he could not freely enjoy his kingdom with unrestricted consciousness."

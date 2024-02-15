@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.1.9",
+    "label":"Text 9",
     "h1":"Text 9",
     "title":" Śrīmad Bhāgavatam 1.1.9",
     "description":"Please, therefore, being blessed with many years, explain to us, in an easily understandable way, what you have ascertained to be the absolute and ultimate good for the people in general."

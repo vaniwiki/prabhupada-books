@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.3",
+    "label":"Text 3",
     "h1":"Text 3",
     "title":" Śrīmad Bhāgavatam 1.18.3",
     "description":"Furthermore, after leaving all his associates, the King surrendered himself as a disciple to the son of Vyāsa [Śukadeva Gosvāmī], and thus he was able to understand the actual position of the Personality of Godhead."

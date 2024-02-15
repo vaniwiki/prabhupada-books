@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.6.31",
+    "label":"Text 31",
     "h1":"Text 31",
     "title":" Śrīmad Bhāgavatam 1.6.31",
     "description":"Since then, by the grace of the almighty Viṣṇu, I travel everywhere without restriction both in the transcendental world and in the three divisions of the material world. This is because I am fixed in unbroken devotional service of the Lord."

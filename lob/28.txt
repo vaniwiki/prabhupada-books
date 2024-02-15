@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 28",
-    "h1":"Text 28",
+    "label":"Text 28",
+    "h1":"Light of the Bhāgavata 28",
     "title":"Light of the Bhāgavata 28",
     "description":"The fully beautiful scenery after the rainy season was attractive to the eyes of everyone, including Śrī Kṛṣṇa, the cause of all causes."
 }

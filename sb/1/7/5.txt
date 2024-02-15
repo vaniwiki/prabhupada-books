@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.5",
+    "label":"Text 5",
     "h1":"Text 5",
     "title":" Śrīmad Bhāgavatam 1.7.5",
     "description":"Due to this external energy, the living entity, although transcendental to the three modes of material nature, thinks of himself as a material product and thus undergoes the reactions of material miseries."

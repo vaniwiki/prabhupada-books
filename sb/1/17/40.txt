@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.17.40",
+    "label":"Text 40",
     "h1":"Text 40",
     "title":" Śrīmad Bhāgavatam 1.17.40",
     "description":"Thus the personality of Kali, by the directions of Mahārāja Parīkṣit, the son of Uttarā, was allowed to live in those five places."

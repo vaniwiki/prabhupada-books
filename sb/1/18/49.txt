@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.18.49",
+    "label":"Text 49",
     "h1":"Text 49",
     "title":" Śrīmad Bhāgavatam 1.18.49",
     "description":"The sage thus regretted the sin committed by his own son. He did not take the insult paid by the King very seriously."

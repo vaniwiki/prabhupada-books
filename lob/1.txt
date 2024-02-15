@@ -1,15 +1,12 @@
 ---json
 {
     "name":"LOB 1",
-    "h1":"Text 1",
+    "label":"Text 1",
+    "h1":"Light of the Bhāgavata 1",
     "title":"Light of the Bhāgavata 1",
     "description":"The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life."
 }
 ---
-<card>
-{{:artwork:light_of_the_bhagavata:lob_01.jpg|}}
-//Light of the Bhagavata, Plate 1//
-</card>
 
 ====== Light of the Bhāgavata Text 1 ======
 

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.10.34-35",
+    "label":"Text 34-35",
     "h1":"Text 34-35",
     "title":" Śrīmad Bhāgavatam 1.10.34-35",
     "description":"O Śaunaka, the Lord then proceeded towards Kurujāṅgala, Pāñcālā, Śūrasenā, the land on the bank of the River Yamunā, Brahmāvarta, Kurukṣetra, Matsyā, Sārasvatā, the province of the desert and the land of scanty water. After crossing these provinces He gradually reached the Sauvīra and Ābhīra provinces, then west of these, reached Dvārakā at last."

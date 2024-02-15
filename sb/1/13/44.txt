@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.44",
+    "label":"Text 44",
     "h1":"Text 44",
     "title":" Śrīmad Bhāgavatam 1.13.44",
     "description":"O King, in all circumstances, whether you consider the soul to be an eternal principle, or the material body to be perishable, or everything to exist in the impersonal Absolute Truth, or everything to be an inexplicable combination of matter and spirit, feelings of separation are due only to illusory affection and nothing more."

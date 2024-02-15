@@ -1,35 +1,36 @@
 ---json
 {
-    "name":"Canto 9: Liberation",
-    "h1":"Canto 9",
-    "title":"(.*?)",
+    "name":"Canto 9",
+    "label":"Canto 9",
+    "h1":"Liberation",
+    "title":"Śrīmad-Bhāgavatam Canto 9: Liberation",
     "description":""
 }
 ---
 
 ====== Canto 9: Liberation ======
 
-  - [[books:sb:9:1|King Sudyumna Becomes a Woman]]
-  - [[books:sb:9:2|The Dynasties of the Sons of Manu]]
-  - [[books:sb:9:3|The Marriage of Sukanyā and Cyavana Muni]]
-  - [[books:sb:9:4|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]
-  - [[books:sb:9:5|Durvāsā Muni's Life Spared]]
-  - [[books:sb:9:6|The Downfall of Saubhari Muni]]
-  - [[books:sb:9:7|The Descendants of King Māndhātā]]
-  - [[books:sb:9:8|The Sons of Sagara Meet Lord Kapiladeva]]
-  - [[books:sb:9:9|The Dynasty of Aṁśumān]]
-  - [[books:sb:9:10|The Pastimes of the Supreme Lord, Rāmacandra]]
-  - [[books:sb:9:11|Lord Rāmacandra Rules the World]]
-  - [[books:sb:9:12|The Dynasty of Kuśa, the Son of Lord Rāmacandra]]
-  - [[books:sb:9:13|The Dynasty of Mahārāja Nimi]]
-  - [[books:sb:9:14|King Purūravā Enchanted by Urvaśī]]
-  - [[books:sb:9:15|Paraśurāma, the Lord's Warrior Incarnation]]
-  - [[books:sb:9:16|Lord Paraśurāma Destroys the World's Ruling Class]]
-  - [[books:sb:9:17|The Dynasties of the Sons of Purūravā]]
-  - [[books:sb:9:18|King Yayāti Regains His Youth]]
-  - [[books:sb:9:19|King Yayāti Achieves Liberation]]
-  - [[books:sb:9:20|The Dynasty of Pūru]]
-  - [[books:sb:9:21|The Dynasty of Bharata]]
-  - [[books:sb:9:22|The Descendants of Ajamīḍha]]
-  - [[books:sb:9:23|The Dynasties of the Sons of Yayāti]]
-  - [[books:sb:9:24|Kṛṣṇa the Supreme Personality of Godhead]]
+  - [[books:sb:9:1:start|King Sudyumna Becomes a Woman]]
+  - [[books:sb:9:2:start|The Dynasties of the Sons of Manu]]
+  - [[books:sb:9:3:start|The Marriage of Sukanyā and Cyavana Muni]]
+  - [[books:sb:9:4:start|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]
+  - [[books:sb:9:5:start|Durvāsā Muni's Life Spared]]
+  - [[books:sb:9:6:start|The Downfall of Saubhari Muni]]
+  - [[books:sb:9:7:start|The Descendants of King Māndhātā]]
+  - [[books:sb:9:8:start|The Sons of Sagara Meet Lord Kapiladeva]]
+  - [[books:sb:9:9:start|The Dynasty of Aṁśumān]]
+  - [[books:sb:9:10:start|The Pastimes of the Supreme Lord, Rāmacandra]]
+  - [[books:sb:9:11:start|Lord Rāmacandra Rules the World]]
+  - [[books:sb:9:12:start|The Dynasty of Kuśa, the Son of Lord Rāmacandra]]
+  - [[books:sb:9:13:start|The Dynasty of Mahārāja Nimi]]
+  - [[books:sb:9:14:start|King Purūravā Enchanted by Urvaśī]]
+  - [[books:sb:9:15:start|Paraśurāma, the Lord's Warrior Incarnation]]
+  - [[books:sb:9:16:start|Lord Paraśurāma Destroys the World's Ruling Class]]
+  - [[books:sb:9:17:start|The Dynasties of the Sons of Purūravā]]
+  - [[books:sb:9:18:start|King Yayāti Regains His Youth]]
+  - [[books:sb:9:19:start|King Yayāti Achieves Liberation]]
+  - [[books:sb:9:20:start|The Dynasty of Pūru]]
+  - [[books:sb:9:21:start|The Dynasty of Bharata]]
+  - [[books:sb:9:22:start|The Descendants of Ajamīḍha]]
+  - [[books:sb:9:23:start|The Dynasties of the Sons of Yayāti]]
+  - [[books:sb:9:24:start|Kṛṣṇa the Supreme Personality of Godhead]]

@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.11.32",
+    "label":"Text 32",
     "h1":"Text 32",
     "title":" Śrīmad Bhāgavatam 1.11.32",
     "description":"The insuperable ecstasy was so strong that the queens, who were shy, first embraced the Lord in the innermost recesses of their hearts. Then they embraced Him visually, and then they sent their sons to embrace Him [which is equal to personal embracing]. But, O chief amongst the Bhṛgus, though they tried to restrain their feelings, they inadvertently shed tears."

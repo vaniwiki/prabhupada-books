@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"SB Canto 4: The Creation of the Fourth Order",
-    "h1":"Canto 4",
+    "name":"SB Canto 4",
+    "label":"Canto 4",
+    "h1":"The Creation of the Fourth Order",
     "title":"Śrīmad-Bhāgavatam Canto 4: The Creation of the Fourth Order",
     "description":"Personal pastimes involving infamous demigods like Lord Brahma and Lord Siva as well as the transcendental sage and spaceman Narada Muni and his musical vina."
 }

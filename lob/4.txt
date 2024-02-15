@@ -1,7 +1,8 @@
 ---json
 {
     "name":"LOB 4",
-    "h1":"Text 4",
+    "label":"Text 4",
+    "h1":"Light of the Bhāgavata 4",
     "title":"Light of the Bhāgavata 4",
     "description":"After heavy rain showers, the fields and forests in all directions appear green and healthy. Thus they resemble a man who has undergone severe austerities for some material gain and has achieved his end, for such a man is strong, hearty, and good-looking."
 }

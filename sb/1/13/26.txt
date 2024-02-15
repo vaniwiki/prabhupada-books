@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.13.26",
+    "label":"Text 26",
     "h1":"Text 26",
     "title":" Śrīmad Bhāgavatam 1.13.26",
     "description":"He is called undisturbed who goes to an unknown, remote place and, freed from all obligations, quits his material body when it has become useless."

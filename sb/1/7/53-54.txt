@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 1.7.53-54",
+    "label":"Text 53-54",
     "h1":"Text 53-54",
     "title":" Śrīmad Bhāgavatam 1.7.53-54",
     "description":"The Personality of Godhead Sri Kṛṣṇa said: A friend of a brāhmaṇa is not to be killed, but if he is an aggressor he must be killed. All these rulings are in the scriptures, and you should act accordingly. You have to fulfill your promise to your wife, and you must also act to the satisfaction of Bhīmasena and Me."

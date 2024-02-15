@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"SSR 1: Learning the Science of the Self",
+    "name":"SSR 1",
     "h1":"Learning the Science of the Self",
     "label":"Chapter 1",
     "title":"SSR 1: Learning the Science of the Self",

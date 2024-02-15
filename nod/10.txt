@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 10",
-    "h1":"Chapter 10",
-    "title":"Nectar of Devotion Chapter 10: Techniques of Hearing and Memorizing",
+    "h1":"Techniques of Hearing and Memorizing",
+    "label":"Chapter 10",
+    "title":"NOD 10: Techniques of Hearing and Memorizing",
     "description":""
 }
 ---

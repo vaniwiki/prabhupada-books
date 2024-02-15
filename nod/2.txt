@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 2",
-    "h1":"Chapter 2",
-    "title":"Nectar of Devotion Chapter 2: The First Stages of Devotion",
+    "h1":"The First Stages of Devotion",
+    "label":"Chapter 2",
+    "title":"NOD 2: The First Stages of Devotion",
     "description":""
 }
 ---

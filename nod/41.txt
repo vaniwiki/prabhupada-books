@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 41",
-    "h1":"Chapter 41",
-    "title":"Nectar of Devotion Chapter 41: Fraternal Devotion",
+    "h1":"Fraternal Devotion",
+    "label":"Chapter 41",
+    "title":"NOD 41: Fraternal Devotion",
     "description":""
 }
 ---

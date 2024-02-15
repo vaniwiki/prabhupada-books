@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 38",
-    "h1":"Chapter 38",
-    "title":"Nectar of Devotion Chapter 38: Indifference and Separation",
+    "h1":"Indifference and Separation",
+    "label":"Chapter 38",
+    "title":"NOD 38: Indifference and Separation",
     "description":""
 }
 ---

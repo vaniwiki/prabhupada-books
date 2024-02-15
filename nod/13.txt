@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 13",
-    "h1":"Chapter 13",
-    "title":"Nectar of Devotion Chapter 13: The Mahā-mantra",
+    "h1":"The Mahā-mantra",
+    "label":"Chapter 13",
+    "title":"NOD 13: The Mahā-mantra",
     "description":""
 }
 ---

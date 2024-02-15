@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 36",
-    "h1":"Chapter 36",
-    "title":"Nectar of Devotion Chapter 36: Transcendental Affection (Servitude)",
+    "h1":"Transcendental Affection (Servitude)",
+    "label":"Chapter 36",
+    "title":"NOD 36: Transcendental Affection (Servitude)",
     "description":""
 }
 ---

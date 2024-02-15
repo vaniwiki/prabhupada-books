@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 5",
-    "h1":"Chapter 5",
-    "title":"Nectar of Devotion Chapter 5: Purity of Devotional Service",
+    "h1":"Purity of Devotional Service",
+    "label":"Chapter 5",
+    "title":"NOD 5: Purity of Devotional Service",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 31",
-    "h1":"Chapter 31",
-    "title":"Nectar of Devotion Chapter 31: Additional Symptoms",
+    "h1":"Additional Symptoms",
+    "label":"Chapter 31",
+    "title":"NOD 31: Additional Symptoms",
     "description":""
 }
 ---

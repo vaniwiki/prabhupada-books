@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 26",
-    "h1":"Chapter 26",
-    "title":"Nectar of Devotion Chapter 26: Stimulation for Ecstatic Love",
+    "h1":"Stimulation for Ecstatic Love",
+    "label":"Chapter 26",
+    "title":"NOD 26: Stimulation for Ecstatic Love",
     "description":""
 }
 ---

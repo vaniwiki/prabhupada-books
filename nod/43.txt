@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 43",
-    "h1":"Chapter 43",
-    "title":"Nectar of Devotion Chapter 43: Parenthood",
+    "h1":"Parenthood",
+    "label":"Chapter 43",
+    "title":"NOD 43: Parenthood",
     "description":""
 }
 ---

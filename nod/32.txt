@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 32",
-    "h1":"Chapter 32",
-    "title":"Nectar of Devotion Chapter 32: Symptoms of Continuous Ecstasy",
+    "h1":"Symptoms of Continuous Ecstasy",
+    "label":"Chapter 32",
+    "title":"NOD 32: Symptoms of Continuous Ecstasy",
     "description":""
 }
 ---

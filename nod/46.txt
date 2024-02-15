@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 46",
-    "h1":"Chapter 46",
-    "title":"Nectar of Devotion Chapter 46: Astonishment and Chivalry",
+    "h1":"Astonishment and Chivalry",
+    "label":"Chapter 46",
+    "title":"NOD 46: Astonishment and Chivalry",
     "description":""
 }
 ---

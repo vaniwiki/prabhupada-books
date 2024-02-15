@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 42",
-    "h1":"Chapter 42",
-    "title":"Nectar of Devotion Chapter 42: Fraternal Loving Affairs",
+    "h1":"Fraternal Loving Affairs",
+    "label":"Chapter 42",
+    "title":"NOD 42: Fraternal Loving Affairs",
     "description":""
 }
 ---

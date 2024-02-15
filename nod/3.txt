@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 3",
-    "h1":"Chapter 3",
-    "title":"Nectar of Devotion Chapter 3: Eligibility of the Candidate for Accepting Devotional Service",
+    "h1":"Eligibility of the Candidate for Accepting Devotional Service",
+    "label":"Chapter 3",
+    "title":"NOD 3: Eligibility of the Candidate for Accepting Devotional Service",
     "description":""
 }
 ---

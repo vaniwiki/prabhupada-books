@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 23",
-    "h1":"Chapter 23",
-    "title":"Nectar of Devotion Chapter 23: Kṛṣṇa’s Personality",
+    "h1":"Kṛṣṇa’s Personality",
+    "label":"Chapter 23",
+    "title":"NOD 23: Kṛṣṇa’s Personality",
     "description":""
 }
 ---

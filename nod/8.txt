@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 8",
-    "h1":"Chapter 8",
-    "title":"Nectar of Devotion Chapter 8: Offenses to Be Avoided",
+    "h1":"Offenses to Be Avoided",
+    "label":"Chapter 8",
+    "title":"NOD 8: Offenses to Be Avoided",
     "description":""
 }
 ---

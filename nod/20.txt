@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 20",
-    "h1":"Chapter 20",
-    "title":"Nectar of Devotion Chapter 20: Transcendental Mellow",
+    "h1":"Transcendental Mellow",
+    "label":"Chapter 20",
+    "title":"NOD 20: Transcendental Mellow",
     "description":""
 }
 ---

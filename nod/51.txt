@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 51",
-    "h1":"Chapter 51",
-    "title":"Nectar of Devotion Chapter 51: Perverted Expression of Mellows",
+    "h1":"Perverted Expression of Mellows",
+    "label":"Chapter 51",
+    "title":"NOD 51: Perverted Expression of Mellows",
     "description":""
 }
 ---

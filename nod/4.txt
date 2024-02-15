@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 4",
-    "h1":"Chapter 4",
-    "title":"Nectar of Devotion Chapter 4: Devotional Service Surpasses All Liberation",
+    "h1":"Devotional Service Surpasses All Liberation",
+    "label":"Chapter 4",
+    "title":"NOD 4: Devotional Service Surpasses All Liberation",
     "description":""
 }
 ---

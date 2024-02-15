@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 44",
-    "h1":"Chapter 44",
-    "title":"Nectar of Devotion Chapter 44: Devotional Service in Conjugal Love",
+    "h1":"Devotional Service in Conjugal Love",
+    "label":"Chapter 44",
+    "title":"NOD 44: Devotional Service in Conjugal Love",
     "description":""
 }
 ---

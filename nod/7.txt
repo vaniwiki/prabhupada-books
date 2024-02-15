@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 7",
-    "h1":"Chapter 7",
-    "title":"Nectar of Devotion Chapter 7: Evidence Regarding Devotional Principles",
+    "h1":"Evidence Regarding Devotional Principles",
+    "label":"Chapter 7",
+    "title":"NOD 7: Evidence Regarding Devotional Principles",
     "description":""
 }
 ---

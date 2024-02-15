@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 47",
-    "h1":"Chapter 47",
-    "title":"Nectar of Devotion Chapter 47: Compassion and Anger",
+    "h1":"Compassion and Anger",
+    "label":"Chapter 47",
+    "title":"NOD 47: Compassion and Anger",
     "description":""
 }
 ---

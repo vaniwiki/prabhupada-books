@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 49",
-    "h1":"Chapter 49",
-    "title":"Nectar of Devotion Chapter 49: Mixing of Rasas",
+    "h1":"Mixing of Rasas",
+    "label":"Chapter 49",
+    "title":"NOD 49: Mixing of Rasas",
     "description":""
 }
 ---

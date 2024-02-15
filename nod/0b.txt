@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Introduction",
+    "name":"NOD Introduction",
     "h1":"Introduction",
-    "title":"Nectar of Devotion: Introduction",
+    "label":"Introduction",
+    "title":"NOD Introduction",
     "description":""
 }
 ---

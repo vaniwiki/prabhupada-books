@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 37",
-    "h1":"Chapter 37",
-    "title":"Nectar of Devotion Chapter 37: Impetuses for Kṛṣṇa’s Service",
+    "h1":"Impetuses for Kṛṣṇa’s Service",
+    "label":"Chapter 37",
+    "title":"NOD 37: Impetuses for Kṛṣṇa’s Service",
     "description":""
 }
 ---

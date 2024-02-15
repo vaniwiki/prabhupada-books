@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 11",
-    "h1":"Chapter 11",
-    "title":"Nectar of Devotion Chapter 11: Aspects of Transcendental Service",
+    "h1":"Aspects of Transcendental Service",
+    "label":"Chapter 11",
+    "title":"NOD Chapter 11: Aspects of Transcendental Service",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 12",
-    "h1":"Chapter 12",
-    "title":"Nectar of Devotion Chapter 12: Revealed Scriptures",
+    "h1":"Revealed Scriptures",
+    "label":"Chapter 12",
+    "title":"NOD 12: Revealed Scriptures",
     "description":""
 }
 ---

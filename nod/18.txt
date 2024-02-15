@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 18",
-    "h1":"Chapter 18",
-    "title":"Nectar of Devotion Chapter 18: Character of One in Ecstatic Love",
+    "h1":"Character of One in Ecstatic Love",
+    "label":"Chapter 18",
+    "title":"NOD 18: Character of One in Ecstatic Love",
     "description":""
 }
 ---

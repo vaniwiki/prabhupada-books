@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 35",
-    "h1":"Chapter 35",
-    "title":"Nectar of Devotion Chapter 35: Neutral Love of God",
+    "h1":"Neutral Love of God",
+    "label":"Chapter 35",
+    "title":"NOD 35: Neutral Love of God",
     "description":""
 }
 ---

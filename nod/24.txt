@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 24",
-    "h1":"Chapter 24",
-    "title":"Nectar of Devotion Chapter 24: Further Traits of Śrī Kṛṣṇa",
+    "h1":"Further Traits of Śrī Kṛṣṇa",
+    "label":"Chapter 24",
+    "title":"NOD 24: Further Traits of Śrī Kṛṣṇa",
     "description":""
 }
 ---

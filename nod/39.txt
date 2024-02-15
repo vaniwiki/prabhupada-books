@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 39",
-    "h1":"Chapter 39",
-    "title":"Nectar of Devotion Chapter 39: Ways of Meeting Kṛṣṇa",
+    "h1":"Ways of Meeting Kṛṣṇa",
+    "label":"Chapter 39",
+    "title":"NOD 39: Ways of Meeting Kṛṣṇa",
     "description":""
 }
 ---

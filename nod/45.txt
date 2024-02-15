@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 45",
-    "h1":"Chapter 45",
-    "title":"Nectar of Devotion Chapter 45: Laughing Ecstasy",
+    "h1":"Laughing Ecstasy",
+    "label":"Chapter 45",
+    "title":"NOD 45: Laughing Ecstasy",
     "description":""
 }
 ---

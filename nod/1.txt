@@ -1,15 +1,16 @@
 ---json
 {
     "name":"NOD 1",
-    "h1":"Chapter 1",
-    "title":"Nectar of Devotion Chapter 1: Characteristics of Pure Devotional Service",
+    "h1":"Characteristics of Pure Devotional Service",
+    "label":"Chapter 1",
+    "title":"NOD 1: Characteristics of Pure Devotional Service",
     "description":""
 }
 ---
 
 ====== Characteristics of Pure Devotional Service ======
 
-/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_01_NOD.mp3}}*/
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_01_NOD.mp3}}
 
 In the //Śrīmad-Bhāgavatam,// Third Canto, 29th Chapter, 10th verse, Śrīla Kapiladeva, while instructing His mother, has given the following characteristics of pure devotional service: "My dear mother, those who are My pure devotees, and who have no desire for material benefit or philosophical speculation, have their minds so much engaged in My service that they are never interested in asking Me for anything-except to be engaged in that service. They do not even beg to live in My abode with Me."
 

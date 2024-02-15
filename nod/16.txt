@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 16",
-    "h1":"Chapter 16",
-    "title":"Nectar of Devotion Chapter 16: Varieties of Love for Kṛṣṇa",
+    "h1":"Varieties of Love for Kṛṣṇa",
+    "label":"Chapter 16",
+    "title":"NOD 16: Varieties of Love for Kṛṣṇa",
     "description":""
 }
 ---

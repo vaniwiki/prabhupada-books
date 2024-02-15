@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 33",
-    "h1":"Chapter 33",
-    "title":"Nectar of Devotion Chapter 33: Conjugal Affection",
+    "h1":"Conjugal Affection",
+    "label":"Chapter 33",
+    "title":"NOD 33: Conjugal Affection",
     "description":""
 }
 ---

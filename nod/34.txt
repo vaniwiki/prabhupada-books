@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 34",
-    "h1":"Chapter 34",
-    "title":"Nectar of Devotion Chapter 34: The Nectar of Devotion",
+    "h1":"The Nectar of Devotion",
+    "label":"Chapter 34",
+    "title":"NOD 34: The Nectar of Devotion",
     "description":""
 }
 ---

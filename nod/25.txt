@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 25",
-    "h1":"Chapter 25",
-    "title":"Nectar of Devotion Chapter 25: Devotees of Kṛṣṇa",
+    "h1":"Devotees of Kṛṣṇa",
+    "label":"Chapter 25",
+    "title":"NOD 25: Devotees of Kṛṣṇa",
     "description":""
 }
 ---

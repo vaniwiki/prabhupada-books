@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 21",
-    "h1":"Chapter 21",
-    "title":"Nectar of Devotion Chapter 21: Qualities of Śrī Kṛṣṇa",
+    "h1":"Qualities of Śrī Kṛṣṇa",
+    "label":"Chapter 21",
+    "title":"NOD 21: Qualities of Śrī Kṛṣṇa",
     "description":""
 }
 ---

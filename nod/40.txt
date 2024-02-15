@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 40",
-    "h1":"Chapter 40",
-    "title":"Nectar of Devotion Chapter 40: Reverential Devotion of Sons and Other Subordinates",
+    "h1":"Reverential Devotion of Sons and Other Subordinates",
+    "label":"Chapter 40",
+    "title":"NOD 40: Reverential Devotion of Sons and Other Subordinates",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 19",
-    "h1":"Chapter 19",
-    "title":"Nectar of Devotion Chapter 19: Devotional Service in Love of God",
+    "h1":"Devotional Service in Love of God",
+    "label":"Chapter 19",
+    "title":"NOD 19: Devotional Service in Love of God",
     "description":""
 }
 ---

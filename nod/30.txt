@@ -1,8 +1,9 @@
 ---json
 {
     "name":"NOD 30",
-    "h1":"Chapter 30",
-    "title":"Nectar of Devotion Chapter 30: Further Features of Ecstatic Love for Kṛṣṇa",
+    "h1":"Further Features of Ecstatic Love for Kṛṣṇa",
+    "label":"Chapter 30",
+    "title":"NOD 30: Further Features of Ecstatic Love for Kṛṣṇa",
     "description":""
 }
 ---

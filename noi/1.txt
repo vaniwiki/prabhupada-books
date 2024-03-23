@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Nectar of Instruction Text 1",
+    "name":"NOD 1",
     "h1":"Text 1",
-    "title":"Nectar of Instruction Text 1",
+    "label":"Text 1",
+    "title":"The Nectar of Instruction Text 1",
     "description":"A sober person who can tolerate the urge to speak, the mind's demands, the actions of anger and the urges of the tongue, belly and genitals is qualified to make disciples all over the world."
 }
 ---

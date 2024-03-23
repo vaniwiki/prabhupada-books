@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Nectar of Instruction Text 6",
+    "name":"NOD 6",
     "h1":"Text 6",
-    "title":"Nectar of Instruction Text 6",
+    "label":"Text 6",
+    "title":"The Nectar of Instruction Text 6",
     "description":"Being situated in his original Kṛṣṇa conscious position, a pure devotee does not identify with the body. Such a devotee should not be seen from a materialistic point of view. Indeed, one should overlook a devotee's having a body born in a low family, a body with a bad complexion, a deformed body, or a diseased or infirm body. According to ordinary vision, such imperfections may seem prominent in the body of a pure devotee, but despite such seeming defects, the body of a pure devotee cannot be polluted. It is exactly like the waters of the Ganges, which sometimes during the rainy season are full of bubbles, foam and mud. The Ganges waters do not become polluted. Those who are advanced in spiritual understanding will bathe in the Ganges without considering the condition of the water."
 }
 ---

@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"Nectar of Instruction Text 9",
+    "name":"NOD 9",
     "h1":"Text 9",
-    "title":"Nectar of Instruction Text 9",
-    "description":"The holy place known as Mathurā is spiritually superior to Vaikuṇṭha, the transcendental world, because the Lord appeared there. Superior to Mathurā---Purī is the transcendental forest of Vṛndāvana because of Kṛṣṇa's rāsa-līlā pastimes. And superior to the forest of Vṛndāvana is Govardhana Hill, for it was raised by the divine hand of Śrī Kṛṣṇa and was the site of His various loving pastimes. And, above all, the superexcellent Śrī Rādhā-kuṇḍa stands supreme, for it is overflooded with the ambrosial nectarean prema of the Lord of Gokula, Śrī Kṛṣṇa. Where, then, is that intelligent Person who is unwilling to serve this divine Rādhā-kuṇḍa, which is situated at the foot of Govardhana Hill?"
+    "label":"Text 9",
+    "title":"The Nectar of Instruction Text 9",
+    "description":"The holy place known as Mathurā is spiritually superior to Vaikuṇṭha, the transcendental world, because the Lord appeared there. Superior to Mathurā—Purī is the transcendental forest of Vṛndāvana because of Kṛṣṇa's rāsa-līlā pastimes. And superior to the forest of Vṛndāvana is Govardhana Hill, for it was raised by the divine hand of Śrī Kṛṣṇa and was the site of His various loving pastimes. And, above all, the superexcellent Śrī Rādhā-kuṇḍa stands supreme, for it is overflooded with the ambrosial nectarean prema of the Lord of Gokula, Śrī Kṛṣṇa. Where, then, is that intelligent Person who is unwilling to serve this divine Rādhā-kuṇḍa, which is situated at the foot of Govardhana Hill?"
 }
 ---
 

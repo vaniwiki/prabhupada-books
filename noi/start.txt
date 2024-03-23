@@ -1,11 +1,14 @@
+---json
+{
+    "name":"The Nectar of Instruction",
+    "h1":"The Nectar of Instruction",
+    "label":"The Nectar of Instruction",
+    "title":"The Nectar of Instruction",
+    "description":"Across five centuries and half the globe comes this compact guidebook of essential spiritual teachings. How to choose a guru, how to practice yoga, even where to live—you'll find it all in this invaluable work originally written in Sanskrit by Śrīla Rūpa Gosvāmī, the greatest spiritual genius of medieval India."
+}
+---
+
 ====== The Nectar of Instruction ======
-
-<card>
-**Eleven Lessons in the Ancient Science of Bhakti-Yoga**
-
-Across five centuries and half the globe comes this compact guidebook of essential spiritual teachings. How to choose a guru, how to practice yoga, even where to live---you'll find it all in this invaluable work originally written in Sanskrit by Śrīla Rūpa Gosvāmī, the greatest spiritual genius of medieval India. 
-Now translated and illuminated by Rūpa Gosvāmī's modern successor, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, //The Nectar of Instruction// is the key to enlightenment for all seekers on the path of spiritual perfection.}}
-</card>
 
 **[[books:noi:0a|Preface]]**
 

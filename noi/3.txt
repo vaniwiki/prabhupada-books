@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Nectar of Instruction Text 3",
+    "name":"NOD 3",
     "h1":"Text 3",
-    "title":"Nectar of Instruction Text 3",
+    "label":"Text 3",
+    "title":"The Nectar of Instruction Text 3",
     "description":"There are six principles favorable to the execution of pure devotional service: (1) being enthusiastic, (2) endeavoring with confidence, (3) being patient, (4) acting according to regulative principles [such as śravaṇaṁ kīrtanaṁ viṣṇoḥ smaraṇam—hearing, chanting and remembering Kṛṣṇa], (5) abandoning the association of nondevotees, and (6) following in the footsteps of the previous ācāryas. These six principles undoubtedly assure the complete success of pure devotional service."
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"LOB 44",
-    "label":"Text 44",
-    "h1":"Light of the Bhāgavata 44",
     "title":"Light of the Bhāgavata 44",
+    "h1":"Light of the Bhāgavata 44",
+    "label":"Text 44",
     "description":"In the autumn season all the reservoirs of water are full of lotus flowers. There are also flowers that resemble the lotus but are of a different class. Among them is a flower called kumuda. When the sun rises, all the flowers but the kumuda blossom beautifully. Similarly, lotuslike men take pleasure in the advent of a responsible king, but men who are like the kumuda do not like the existence of a king."
 }
 ---

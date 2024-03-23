@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 59",
-    "label":"Chapter 59",
-    "h1":"Deliverance of the Demon Bhaumāsura",
     "title":"KṚṢṆA 59: Deliverance of the Demon Bhaumāsura",
+    "h1":"Deliverance of the Demon Bhaumāsura",
+    "label":"Chapter 59",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 36",
-    "label":"Chapter 36",
-    "h1":"Kaṁsa Sends Akrūra for Kṛṣṇa",
     "title":"KṚṢṆA 36: Kaṁsa Sends Akrūra for Kṛṣṇa",
+    "h1":"Kaṁsa Sends Akrūra for Kṛṣṇa",
+    "label":"Chapter 36",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 38",
-    "label":"Chapter 38",
-    "h1":"Akrūra’s Arrival in Vṛndāvana",
     "title":"KṚṢṆA 38: Akrūra’s Arrival in Vṛndāvana",
+    "h1":"Akrūra’s Arrival in Vṛndāvana",
+    "label":"Chapter 38",
     "description":""
 }
 ---

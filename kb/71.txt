@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 71",
-    "label":"Chapter 71",
-    "h1":"Lord Kṛṣṇa in Indraprastha City",
     "title":"KṚṢṆA 71: Lord Kṛṣṇa in Indraprastha City",
+    "h1":"Lord Kṛṣṇa in Indraprastha City",
+    "label":"Chapter 71",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 5",
-    "label":"Chapter 5",
-    "h1":"Meeting of Nanda and Vasudeva",
     "title":"KṚṢṆA 5: Meeting of Nanda and Vasudeva",
+    "h1":"Meeting of Nanda and Vasudeva",
+    "label":"Chapter 5",
     "description":""
 }
 ---

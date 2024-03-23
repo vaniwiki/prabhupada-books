@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 39",
-    "label":"Chapter 39",
-    "h1":"Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
     "title":"KṚṢṆA 39: Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
+    "h1":"Akrūra’s Return Journey and His Visiting of Viṣṇuloka Within the Yamunā River",
+    "label":"Chapter 39",
     "description":""
 }
 ---

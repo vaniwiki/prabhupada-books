@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 41",
-    "label":"Chapter 41",
-    "h1":"Kṛṣṇa Enters Mathurā",
     "title":"KṚṢṆA 41: Kṛṣṇa Enters Mathurā",
+    "h1":"Kṛṣṇa Enters Mathurā",
+    "label":"Chapter 41",
     "description":""
 }
 ---

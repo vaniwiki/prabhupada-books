@@ -1,9 +1,9 @@
 ---json
 {
     "name":"EKC 1",
-    "label":"Chapter 1",
-    "h1":"Choosing Human and Animal Lives",
     "title":"Elevation to Kṛṣṇa Consciousness 1: Choosing Human and Animal Lives",
+    "h1":"Choosing Human and Animal Lives",
+    "label":"Chapter 1",
     "description":""
 }
 ---

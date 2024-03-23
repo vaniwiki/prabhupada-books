@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 21",
-    "label":"Chapter 21",
-    "h1":"The Gopīs Attracted by the Flute",
     "title":"KṚṢṆA 21: The Gopīs Attracted by the Flute",
+    "h1":"The Gopīs Attracted by the Flute",
+    "label":"Chapter 21",
     "description":""
 }
 ---

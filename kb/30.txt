@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 30",
-    "label":"Chapter 30",
-    "h1":"Kṛṣṇa’s Hiding from the Gopīs",
     "title":"KṚṢṆA 30: Kṛṣṇa’s Hiding from the Gopīs",
+    "h1":"Kṛṣṇa’s Hiding from the Gopīs",
+    "label":"Chapter 30",
     "description":""
 }
 ---

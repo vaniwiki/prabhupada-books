@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 47",
-    "label":"Chapter 47",
-    "h1":"Delivery of the Message of Kṛṣṇa to the Gopīs",
     "title":"KṚṢṆA 47: Delivery of the Message of Kṛṣṇa to the Gopīs",
+    "h1":"Delivery of the Message of Kṛṣṇa to the Gopīs",
+    "label":"Chapter 47",
     "description":""
 }
 ---

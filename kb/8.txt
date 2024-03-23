@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 8",
-    "label":"Chapter 8",
-    "h1":"Vision of the Universal Form",
     "title":"KṚṢṆA 8: Vision of the Universal Form",
+    "h1":"Vision of the Universal Form",
+    "label":"Chapter 8",
     "description":""
 }
 ---

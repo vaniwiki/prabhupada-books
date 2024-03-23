@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 54",
-    "label":"Chapter 54",
-    "h1":"Kṛṣṇa Defeats All the Princes and Takes Rukmiṇī Home to Dvārakā",
     "title":"KṚṢṆA 54: Kṛṣṇa Defeats All the Princes and Takes Rukmiṇī Home to Dvārakā",
+    "h1":"Kṛṣṇa Defeats All the Princes and Takes Rukmiṇī Home to Dvārakā",
+    "label":"Chapter 54",
     "description":""
 }
 ---

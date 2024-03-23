@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 51",
-    "label":"Chapter 51",
-    "h1":"Deliverance of Mucukunda",
     "title":"KṚṢṆA 51: Deliverance of Mucukunda",
+    "h1":"Deliverance of Mucukunda",
+    "label":"Chapter 51",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA Dedication",
-    "label":"Dedication",
-    "h1":"Dedication",
     "title":"KṚṢṆA Dedication",
+    "h1":"Dedication",
+    "label":"Dedication",
     "description":""
 }
 ---

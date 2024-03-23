@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 74",
-    "label":"Chapter 74",
-    "h1":"The Deliverance of Śiśupāla",
     "title":"KṚṢṆA 74: The Deliverance of Śiśupāla",
+    "h1":"The Deliverance of Śiśupāla",
+    "label":"Chapter 74",
     "description":""
 }
 ---

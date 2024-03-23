@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 44",
-    "label":"Chapter 44",
-    "h1":"The Killing of Kaṁsa",
     "title":"KṚṢṆA 44: The Killing of Kaṁsa",
+    "h1":"The Killing of Kaṁsa",
+    "label":"Chapter 44",
     "description":""
 }
 ---

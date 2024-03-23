@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 37",
-    "label":"Chapter 37",
-    "h1":"Killing the Keśī Demon and Vyomāsura",
     "title":"KṚṢṆA 37: Killing the Keśī Demon and Vyomāsura",
+    "h1":"Killing the Keśī Demon and Vyomāsura",
+    "label":"Chapter 37",
     "description":""
 }
 ---

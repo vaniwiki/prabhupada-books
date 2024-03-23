@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 62",
-    "label":"Chapter 62",
-    "h1":"The Meeting of Uṣā and Aniruddha",
     "title":"KṚṢṆA 62: The Meeting of Uṣā and Aniruddha",
+    "h1":"The Meeting of Uṣā and Aniruddha",
+    "label":"Chapter 62",
     "description":""
 }
 ---

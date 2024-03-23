@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 15",
-    "label":"Chapter 15",
-    "h1":"Killing of Dhenukāsura",
     "title":"KṚṢṆA 15: Killing of Dhenukāsura",
+    "h1":"Killing of Dhenukāsura",
+    "label":"Chapter 15",
     "description":""
 }
 ---

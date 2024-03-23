@@ -1,9 +1,9 @@
 ---json
 {
     "name":"LOB 16",
-    "label":"Text 16",
-    "h1":"Light of the Bhāgavata 16",
     "title":"Light of the Bhāgavata 16",
+    "h1":"Light of the Bhāgavata 16",
+    "label":"Text 16",
     "description":"At night, by the grace of the moonlight, the clouds in the sky can be seen moving. Yet the moon itself also appears to be moving, just as a living being appears to be moving because of false identification with matter."
 }
 ---

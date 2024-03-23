@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 19",
-    "label":"Chapter 19",
-    "h1":"Devouring the Forest Fire",
     "title":"KṚṢṆA 19: Devouring the Forest Fire",
+    "h1":"Devouring the Forest Fire",
+    "label":"Chapter 19",
     "description":""
 }
 ---

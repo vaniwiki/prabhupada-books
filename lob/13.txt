@@ -1,9 +1,9 @@
 ---json
 {
     "name":"LOB 13",
-    "label":"Text 13",
-    "h1":"Light of the Bhāgavata 13",
     "title":"Light of the Bhāgavata 13",
+    "h1":"Light of the Bhāgavata 13",
+    "label":"Text 13",
     "description":"In the rainy season some of the roads are not frequently used and become covered with long grasses, and thus it becomes very difficult to see the road. Similarly, in this age the transcendental scriptures are not properly studied by the brāhmaṇas. Being covered by the effects of time, the scriptures are practically lost, and it becomes very difficult to understand or follow them."
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 89",
-    "label":"Chapter 89",
-    "h1":"The Superexcellent Power of Kṛṣṇa",
     "title":"KṚṢṆA 89: The Superexcellent Power of Kṛṣṇa",
+    "h1":"The Superexcellent Power of Kṛṣṇa",
+    "label":"Chapter 89",
     "description":""
 }
 ---

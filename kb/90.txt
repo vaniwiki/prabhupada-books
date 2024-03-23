@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 90",
-    "label":"Chapter 90",
-    "h1":"Summary Description of Lord Kṛṣṇa’s Pastimes",
     "title":"KṚṢṆA 90: Summary Description of Lord Kṛṣṇa’s Pastimes",
+    "h1":"Summary Description of Lord Kṛṣṇa’s Pastimes",
+    "label":"Chapter 90",
     "description":""
 }
 ---

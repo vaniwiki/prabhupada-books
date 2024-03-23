@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 87",
-    "label":"Chapter 87",
-    "h1":"Prayers by the Personified Vedas",
     "title":"KṚṢṆA 87: Prayers by the Personified Vedas",
+    "h1":"Prayers by the Personified Vedas",
+    "label":"Chapter 87",
     "description":""
 }
 ---

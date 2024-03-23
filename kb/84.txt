@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 84",
-    "label":"Chapter 84",
-    "h1":"Sacrificial Ceremonies Performed by Vasudeva",
     "title":"KṚṢṆA 84: Sacrificial Ceremonies Performed by Vasudeva",
+    "h1":"Sacrificial Ceremonies Performed by Vasudeva",
+    "label":"Chapter 84",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 35",
-    "label":"Chapter 35",
-    "h1":"The Gopīs’ Feelings of Separation",
     "title":"KṚṢṆA 35: The Gopīs’ Feelings of Separation",
+    "h1":"The Gopīs’ Feelings of Separation",
+    "label":"Chapter 35",
     "description":""
 }
 ---

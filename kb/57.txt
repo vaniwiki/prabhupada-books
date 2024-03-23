@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 57",
-    "label":"Chapter 57",
-    "h1":"The Killing of Satrājit and Śatadhanvā",
     "title":"KṚṢṆA 57: The Killing of Satrājit and Śatadhanvā",
+    "h1":"The Killing of Satrājit and Śatadhanvā",
+    "label":"Chapter 57",
     "description":""
 }
 ---

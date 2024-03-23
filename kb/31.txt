@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 31",
-    "label":"Chapter 31",
-    "h1":"Songs by the Gopīs",
     "title":"KṚṢṆA 31: Songs by the Gopīs",
+    "h1":"Songs by the Gopīs",
+    "label":"Chapter 31",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 43",
-    "label":"Chapter 43",
-    "h1":"The Killing of the Elephant Kuvalayāpīḍa",
     "title":"KṚṢṆA 43: The Killing of the Elephant Kuvalayāpīḍa",
+    "h1":"The Killing of the Elephant Kuvalayāpīḍa",
+    "label":"Chapter 43",
     "description":""
 }
 ---

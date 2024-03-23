@@ -1,9 +1,9 @@
 ---json
 {
     "name":"LOB 21",
-    "label":"Text 21",
-    "h1":"Light of the Bhāgavata 21",
     "title":"Light of the Bhāgavata 21",
+    "h1":"Light of the Bhāgavata 21",
+    "label":"Text 21",
     "description":"The wind carries the clouds to different parts of the globe, and the clouds distribute rains, to the satisfaction of the people in general, just as rich kings and merchants distribute their accumulated wealth, inspired by religious priests."
 }
 ---

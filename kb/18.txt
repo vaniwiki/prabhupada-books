@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 18",
-    "label":"Chapter 18",
-    "h1":"Killing the Demon Pralambāsura",
     "title":"KṚṢṆA 18: Killing the Demon Pralambāsura",
+    "h1":"Killing the Demon Pralambāsura",
+    "label":"Chapter 18",
     "description":""
 }
 ---

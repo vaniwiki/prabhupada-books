@@ -1,9 +1,9 @@
 ---json
 {
     "name":"Īśo Introduction",
-    "label":"Introduction",
-    "h1":"Śrī Īśopaniṣad Introduction",
     "title":"Śrī Īśopaniṣad Introduction",
+    "h1":"Śrī Īśopaniṣad Introduction",
+    "label":"Introduction",
     "description":"Ladies and gentlemen, today's subject matter is the teachings of the Vedas. What are the Vedas? The Sanskrit verbal root of veda can be interpreted variously, but the purport is finally one. Veda means knowledge."
 }
 ---

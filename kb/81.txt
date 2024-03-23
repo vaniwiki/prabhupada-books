@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 81",
-    "label":"Chapter 81",
-    "h1":"The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
     "title":"KṚṢṆA 81: The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
+    "h1":"The Brāhmaṇa Sudāmā Benedicted by Lord Kṛṣṇa",
+    "label":"Chapter 81",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 86",
-    "label":"Chapter 86",
-    "h1":"The Kidnapping of Subhadrā and Lord Kṛṣṇa’s Visiting Śrutadeva and Bahulāśva",
     "title":"KṚṢṆA 86: The Kidnapping of Subhadrā and Lord Kṛṣṇa’s Visiting Śrutadeva and Bahulāśva",
+    "h1":"The Kidnapping of Subhadrā and Lord Kṛṣṇa’s Visiting Śrutadeva and Bahulāśva",
+    "label":"Chapter 86",
     "description":""
 }
 ---

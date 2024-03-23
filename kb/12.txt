@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 12",
-    "label":"Chapter 12",
-    "h1":"The Killing of the Aghāsura Demon",
     "title":"KṚṢṆA 12: The Killing of the Aghāsura Demon",
+    "h1":"The Killing of the Aghāsura Demon",
+    "label":"Chapter 12",
     "description":""
 }
 ---

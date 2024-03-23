@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 16",
-    "label":"Chapter 16",
-    "h1":"Subduing Kāliya",
     "title":"KṚṢṆA 16: Subduing Kāliya",
+    "h1":"Subduing Kāliya",
+    "label":"Chapter 16",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 80",
-    "label":"Chapter 80",
-    "h1":"Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
     "title":"KṚṢṆA 80: Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
+    "h1":"Meeting of Lord Kṛṣṇa with Sudāmā Brāhmaṇa",
+    "label":"Chapter 80",
     "description":""
 }
 ---

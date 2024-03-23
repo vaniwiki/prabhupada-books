@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 9",
-    "label":"Chapter 9",
-    "h1":"Mother Yaśodā Binding Lord Kṛṣṇa",
     "title":"KṚṢṆA 9: Mother Yaśodā Binding Lord Kṛṣṇa",
+    "h1":"Mother Yaśodā Binding Lord Kṛṣṇa",
+    "label":"Chapter 9",
     "description":""
 }
 ---

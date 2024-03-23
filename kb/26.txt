@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 26",
-    "label":"Chapter 26",
-    "h1":"Wonderful Kṛṣṇa",
     "title":"KṚṢṆA 26: Wonderful Kṛṣṇa",
+    "h1":"Wonderful Kṛṣṇa",
+    "label":"Chapter 26",
     "description":""
 }
 ---

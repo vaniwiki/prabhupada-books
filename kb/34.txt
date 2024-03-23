@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 34",
-    "label":"Chapter 34",
-    "h1":"Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
     "title":"KṚṢṆA 34: Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
+    "h1":"Vidyādhara Liberated and the Demon Śaṅkhāsura Killed",
+    "label":"Chapter 34",
     "description":""
 }
 ---

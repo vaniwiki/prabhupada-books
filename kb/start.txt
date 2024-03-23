@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA",
-    "label":"KṚṢṆA",
-    "h1":"KṚṢṆA, The Supreme Personality of Godhead",
     "title":"KṚṢṆA, The Supreme Personality of Godhead",
+    "h1":"KṚṢṆA, The Supreme Personality of Godhead",
+    "label":"KṚṢṆA",
     "description":""
 }
 ---

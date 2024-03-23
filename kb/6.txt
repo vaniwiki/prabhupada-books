@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 6",
-    "label":"Chapter 6",
-    "h1":"Pūtanā Killed",
     "title":"KṚṢṆA 6: Pūtanā Killed",
+    "h1":"Pūtanā Killed",
+    "label":"Chapter 6",
     "description":""
 }
 ---

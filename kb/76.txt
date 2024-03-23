@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 76",
-    "label":"Chapter 76",
-    "h1":"The Battle Between Śālva and the Yadu Dynasty",
     "title":"KṚṢṆA 76: The Battle Between Śālva and the Yadu Dynasty",
+    "h1":"The Battle Between Śālva and the Yadu Dynasty",
+    "label":"Chapter 76",
     "description":""
 }
 ---

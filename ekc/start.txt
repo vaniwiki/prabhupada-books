@@ -1,16 +1,14 @@
 ---json
 {
     "name":"Elevation to Kṛṣṇa Consciousness",
+    "title":"Elevation to Kṛṣṇa Consciousness",
     "h1":"Elevation to Kṛṣṇa Consciousness",
     "label":"Elevation to Kṛṣṇa Consciousness",
-    "title":"Elevation to Kṛṣṇa Consciousness",
     "description":""
 }
 ---
 
 ====== Elevation to Kṛṣṇa Consciousness ======
-
-/*{{ :books:covers:elevation_to_krsna_consciousness.jpg?nolink|}}*/
 
   - [[books:ekc:1|Choosing Human and Animal Lives]]
   - [[books:ekc:2|Hard Struggle for Happiness]]

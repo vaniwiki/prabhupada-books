@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 1",
-    "label":"Chapter 1",
-    "h1":"Advent of Lord Kṛṣṇa",
     "title":"KṚṢṆA 1: Advent of Lord Kṛṣṇa",
+    "h1":"Advent of Lord Kṛṣṇa",
+    "label":"Chapter 1",
     "description":""
 }
 ---

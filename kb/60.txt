@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 60",
-    "label":"Chapter 60",
-    "h1":"Talks Between Kṛṣṇa and Rukmiṇī",
     "title":"KṚṢṆA 60: Talks Between Kṛṣṇa and Rukmiṇī",
+    "h1":"Talks Between Kṛṣṇa and Rukmiṇī",
+    "label":"Chapter 60",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 56",
-    "label":"Chapter 56",
-    "h1":"The Story of the Syamantaka Jewel",
     "title":"KṚṢṆA 56: The Story of the Syamantaka Jewel",
+    "h1":"The Story of the Syamantaka Jewel",
+    "label":"Chapter 56",
     "description":""
 }
 ---

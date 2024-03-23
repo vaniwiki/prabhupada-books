@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 78",
-    "label":"Chapter 78",
-    "h1":"The Killing of Dantavakra, Vidūratha and Romaharṣaṇa",
     "title":"KṚṢṆA 78: The Killing of Dantavakra, Vidūratha and Romaharṣaṇa",
+    "h1":"The Killing of Dantavakra, Vidūratha and Romaharṣaṇa",
+    "label":"Chapter 78",
     "description":""
 }
 ---

@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 58",
-    "label":"Chapter 58",
-    "h1":"Five Queens Married by Kṛṣṇa",
     "title":"KṚṢṆA 58: Five Queens Married by Kṛṣṇa",
+    "h1":"Five Queens Married by Kṛṣṇa",
+    "label":"Chapter 58",
     "description":""
 }
 ---

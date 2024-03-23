@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 7",
-    "label":"Chapter 7",
-    "h1":"Salvation of Tṛṇāvarta",
     "title":"KṚṢṆA 7: Salvation of Tṛṇāvarta",
+    "h1":"Salvation of Tṛṇāvarta",
+    "label":"Chapter 7",
     "description":""
 }
 ---

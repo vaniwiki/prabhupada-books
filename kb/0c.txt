@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA Preface",
-    "label":"Preface",
-    "h1":"Preface",
     "title":"KṚṢṆA Preface",
+    "h1":"Preface",
+    "label":"Preface",
     "description":""
 }
 ---

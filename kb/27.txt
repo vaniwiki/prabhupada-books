@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 27",
-    "label":"Chapter 27",
-    "h1":"Prayers by Indra, the King of Heaven",
     "title":"KṚṢṆA 27: Prayers by Indra, the King of Heaven",
+    "h1":"Prayers by Indra, the King of Heaven",
+    "label":"Chapter 27",
     "description":""
 }
 ---

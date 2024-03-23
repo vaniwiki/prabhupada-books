@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 61",
-    "label":"Chapter 61",
-    "h1":"The Genealogical Table of the Family of Kṛṣṇa",
     "title":"KṚṢṆA 61: The Genealogical Table of the Family of Kṛṣṇa",
+    "h1":"The Genealogical Table of the Family of Kṛṣṇa",
+    "label":"Chapter 61",
     "description":""
 }
 ---

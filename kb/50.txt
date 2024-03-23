@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 50",
-    "label":"Chapter 50",
-    "h1":"Kṛṣṇa Erects the Dvārakā Fort",
     "title":"KṚṢṆA 50: Kṛṣṇa Erects the Dvārakā Fort",
+    "h1":"Kṛṣṇa Erects the Dvārakā Fort",
+    "label":"Chapter 50",
     "description":""
 }
 ---

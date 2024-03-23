@@ -1,9 +1,9 @@
 ---json
 {
     "name":"LOB 34",
-    "label":"Text 34",
-    "h1":"Light of the Bhāgavata 34",
     "title":"Light of the Bhāgavata 34",
+    "h1":"Light of the Bhāgavata 34",
+    "label":"Text 34",
     "description":"Small pools of water accumulate during the rainy season, and in the autumn they gradually dry up. The little creatures playing in those small pools do not understand that their days are now numbered and will end very soon. Thus they are like foolish men who, not caring for the nearing day of their death, become absorbed in the so-called enjoyment of family life."
 }
 ---

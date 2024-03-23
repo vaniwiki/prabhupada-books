@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 3",
-    "label":"Chapter 3",
-    "h1":"Birth of Lord Kṛṣṇa",
     "title":"KṚṢṆA 3: Birth of Lord Kṛṣṇa",
+    "h1":"Birth of Lord Kṛṣṇa",
+    "label":"Chapter 3",
     "description":""
 }
 ---

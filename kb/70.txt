@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 70",
-    "label":"Chapter 70",
-    "h1":"Lord Kṛṣṇa’s Daily Activities",
     "title":"KṚṢṆA 70: Lord Kṛṣṇa’s Daily Activities",
+    "h1":"Lord Kṛṣṇa’s Daily Activities",
+    "label":"Chapter 70",
     "description":""
 }
 ---

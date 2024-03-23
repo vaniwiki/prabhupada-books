@@ -1,9 +1,9 @@
 ---json
 {
     "name":"KṚṢṆA 72",
-    "label":"Chapter 72",
-    "h1":"The Liberation of King Jarāsandha",
     "title":"KṚṢṆA 72: The Liberation of King Jarāsandha",
+    "h1":"The Liberation of King Jarāsandha",
+    "label":"Chapter 72",
     "description":""
 }
 ---

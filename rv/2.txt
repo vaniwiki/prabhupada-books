@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Knowledge Beyond Saṁsāra",
-    "h1":"Chapter 2",
+    "h1":"Knowledge Beyond Saṁsāra",
+    "label":"Chapter 2",
     "title":"(.*?)",
     "description":""
 }

@@ -1,22 +1,30 @@
 ---json
 {
-    "name":"Rāja-Vidyā: The King of Knowledge",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
+    "name":"Rāja-Vidyā 1",
+    "h1":"Rāja-Vidyā: The King of Knowledge",
+    "label":"Chapter 1",
+    "title":"Rāja-Vidyā Chapter 1",
     "description":""
 }
 ---
 
 ====== Rāja-Vidyā: The King of Knowledge ======
 
-{{page>books:bg:9:1#text}}
+> śrī-bhagavān uvāca
+> idaṁ tu te guhyatamaṁ
+> pravakṣyāmy anasūyave
+> jñānaṁ vijñāna-sahitaṁ
+> yaj jñātvā mokṣyase ‘śubhāt
 
 **"The Supreme Lord said: My dear Arjuna, because you are never envious of Me, I shall impart to you this most secret wisdom, knowing which you shall be relieved of the miseries of material existence."**
 [[books:bg:9:1|(Bg. 9.1)]]
 
 The opening words of the Ninth Chapter of //Bhagavad-gītā// indicate that the Supreme Godhead is speaking. Here Śrī Kṛṣṇa is referred to as Bhagavān. //Bhaga// means opulences, and //vān// means one who possesses. We have some conception of God, but in the Vedic literature there are definite descriptions and definitions of what is meant by God, and what is meant is described in one word---Bhagavān. Bhagavān possesses all opulences, the totality of knowledge, wealth, power, beauty, fame and renunciation. When we find someone who possesses these opulences in full, we are to know that he is God. There are many rich, wise, famous, beautiful and powerful men, but no one man can claim to possess all of these opulences. Only Kṛṣṇa claims to possess them in totality.
 
-{{page>books:bg:5:29#text}}
+> bhoktāraṁ yajña-tapasāṁ
+> sarva-loka-maheśvaram
+> suhṛdaṁ sarva-bhūtānāṁ
+> jñātvā māṁ śāntim ṛcchati
 
 **"The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries."**
 [[books:bg:5:29|(Bg. 5.29)]]
@@ -29,14 +37,20 @@ In the first verse of this Ninth Chapter, by the word //guhyatamam,// Śrī Kṛ
 
 Because Arjuna is not envious, Kṛṣṇa speaks this special knowledge to him. This is not only theoretical knowledge but practical knowledge (//vijñāna-sahitam//). Whatever knowledge we receive from //Bhagavad-gītā// should not be taken for sentimentality or fanaticism. The knowledge is both //jñāna// and //vijñāna,// theoretical wisdom and scientific knowledge. If one becomes well-versed in this knowledge, liberation is certain. Life in this material world is by nature inauspicious and miserable. //Mokṣa// means liberation, and the promise is that by dint of understanding this knowledge one will attain liberation from all miseries. It is important then to understand what Kṛṣṇa says about this knowledge.
 
-{{page>books:bg:9:2#text}}
+> rāja-vidyā rāja-guhyaṁ
+> pavitram idam uttamam
+> pratyakṣāvagamaṁ dharmyaṁ
+> su-sukhaṁ kartum avyayam
 
 **"This knowledge is the king of education, the most secret of all secrets. It is the purest knowledge, and because it gives direct perception of the self by realization, it is the perfection of religion. It is everlasting, and it is joyfully performed."**
 [[books:bg:9:2|(Bg. 9.2)]]
 
 According to //Bhagavad-gītā,// the topmost knowledge (//rāja-vidyā rāja-guhyam//) is Kṛṣṇa consciousness because in //Bhagavad-gītā// we find that the symptom of one who is actually in knowledge is that he has surrendered unto Kṛṣṇa. As long as we go on speculating about God but do not surrender, it is understood that we have not attained the perfection of knowledge. The perfection of knowledge is:
 
-{{page>books:bg:7:19#text}}
+> bahūnāṁ janmanām ante
+> jñānavān māṁ prapadyate
+> vāsudevaḥ sarvam iti
+> sa mahātmā su-durlabhaḥ
 
 **"After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare."**
 [[books:bg:7:19|(Bg. 7.19)]]
@@ -45,7 +59,10 @@ As long as we do not surrender, we cannot understand God. Surrender to God may t
 
 The subject matter of the Ninth Chapter is //rāja-vidyā. Rāja// means "king," and //vidyā// means "knowledge." In ordinary life we find one person king in one subject and another in another subject. This knowledge, however, is sovereign over all others, and all other knowledge is subject or relative to it. The word //rāja-guhyam// indicates that this sovereign knowledge is very confidential, and the word //pavitram// means that it is very pure. This knowledge is also //uttamam; ud// means "transcend," and //tama// means "darkness," and that knowledge which surpasses this world and the knowledge of this world is called //uttamam.// It is the knowledge of light, and darkness has been separated from it. If one follows this path of knowledge, he will personally understand how far he has progressed down the path of perfection (//pratyakṣāvagamaṁ dharmyam//). //Su-sukhaṁ kartum// indicates that this knowledge is very happy and joyful to execute. And //avyayam// indicates that this knowledge is permanent. We may work in this material world for education or riches, but these things are not //avyayam,// for as soon as this body is finished, everything else is also finished. With death, our education, advanced degrees, bank balances, family---everything---are all finished. Whatever we're doing in this material world is not eternal. However, this knowledge is not like that.
 
-{{page>books:bg:2:40#text}}
+> nehābhikrama-nāśo ‘sti
+> pratyavāyo na vidyate
+> sv-alpam apy asya dharmasya
+> trāyate mahato bhayāt
 
 **"In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear."**
 [[books:bg:2:40|(Bg. 2.40)]]
@@ -68,7 +85,10 @@ In the present day most people claim to be devoted to some religion---Christian,
 
 Just knowing "I am not this body but am spirit soul" is not sufficient. We have to escape this entanglement of material nature. This is called //mukti,// liberation. Out of many thousands of persons who are in self-knowledge as to what and who they are, only one or two may be actually liberated. And out of many thousands who are liberated, only one or two may understand what and who Kṛṣṇa is. So understanding Kṛṣṇa is not such an easy job. Thus in this age of Kali, an age characterized by ignorance and chaos, liberation is out of the reach of practically everyone. One has to go through the whole ordeal of becoming civilized, then religious, and then one has to perform charities and sacrifices and come to the platform of knowledge, then to the stage of liberation, and finally, after liberation, to the understanding of what Kṛṣṇa is. This process is also indicated in //Bhagavad-gītā://
 
-{{page>books:bg:18:54#text}}
+> brahma-bhūtaḥ prasannātmā
+> na śocati na kāṅkṣati
+> samaḥ sarveṣu bhūteṣu
+> mad-bhaktiṁ labhate parām
 
 **"One who is thus transcendentally situated at once realizes the Supreme Brahman. He never laments or desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me."**
 [[books:bg:18:54|(Bg. 18.54)]]
@@ -82,4 +102,3 @@ Thus out of His causeless mercy, Śrī Kṛṣṇa came as Lord Caitanya Mahāpr
 We must understand that our suffering is due to our sinful activity, and sinful activity is due to our ignorance. Sins, or transgressions, are committed by those who do not know what is what. A child, for instance, will naively put his hand in a fire because of ignorance. He is thus burned immediately, for the fire is impartial and does not allow any special consideration for the innocent child. It will simply act as fire. Similarly, we do not know how this material world is functioning, who its controller is, nor how it is controlled, and due to our ignorance we act in foolish ways, but nature is so stringent that she does not allow us to escape the reactions to our actions. Whether we commit an act knowingly or unknowingly, the reactions and consequent sufferings are there. However, through knowledge we can understand what the actual situation is, who God is, and what our relationship with Him is.
 
 This knowledge by which we can gain release from suffering is possible in the human form of life, not in the animal form. To give us knowledge, to give us proper direction, there are scriptures written in various languages in all parts of the world. Lord Caitanya Mahāprabhu pointed out that people are forgetful from time immemorial about their relationship with the Supreme Lord; therefore Kṛṣṇa has sent so many representatives to impart the scriptures to man. We should take advantage of these, especially of //Bhagavad-gītā,// which is the prime scripture for the modern world.
-

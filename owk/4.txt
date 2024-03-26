@@ -1,7 +1,8 @@
 ---json
 {
     "name":"OWK 4",
-    "h1":"Chapter 4",
+    "h1":"The Roads of the Foolish and the Wise",
+    "label":"Chapter 4",
     "title":"OWK 4: The Roads of the Foolish and the Wise",
     "description":"Kṛṣṇa is thus explaining Himself as He is. Yet we are not attracted to Him. Why is this? The reason is given by Kṛṣṇa Himself:"
 }

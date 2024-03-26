@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.11.3",
+    "h1":"SB 1.11.3",
+    "title":"Śrīmad Bhāgavatam 1.11.3",
     "description":"The citizens of Dvārakā, having heard that sound which threatens fear personified in the material world, began to run towards Him fast, just to have a long desired audience with the Lord, who is the protector of all devotees."
 }
 ---

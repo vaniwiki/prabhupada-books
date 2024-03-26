@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.5.22",
+    "h1":"SB 1.5.22",
+    "title":"Śrīmad Bhāgavatam 1.5.22",
     "description":"Learned circles have positively concluded that the infallible purpose of the advancement of knowledge, namely austerities, study of the Vedas, sacrifice, chanting of hymns and charity, culminates in the transcendental descriptions of the Lord, who is defined in choice poetry."
 }
 ---

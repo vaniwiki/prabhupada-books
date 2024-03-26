@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.11.13",
+    "h1":"SB 1.11.13",
+    "title":"Śrīmad Bhāgavatam 1.11.13",
     "description":"The city gateway, the household doors and festooned arches along the roads were all nicely decorated with festive signs like plantain trees and mango leaves, all to welcome the Lord. Flags, garlands and painted signs and slogans all combined to shade the sunshine."
 }
 ---

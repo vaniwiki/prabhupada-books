@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.2.17",
+    "h1":"SB 1.2.17",
+    "title":"Śrīmad Bhāgavatam 1.2.17",
     "description":"Śrī Kṛṣṇa, the Personality of Godhead, who is the Paramātmā [Supersoul] in everyone's heart and the benefactor of the truthful devotee, cleanses desire for material enjoyment from the heart of the devotee who has developed the urge to hear His messages, which are in themselves virtuous when properly heard and chanted."
 }
 ---

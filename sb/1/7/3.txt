@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.7.3",
+    "h1":"SB 1.7.3",
+    "title":"Śrīmad Bhāgavatam 1.7.3",
     "description":"In that place, Śrīla Vyāsadeva, in his own āśrama, which was surrounded by berry trees, sat down to meditate after touching water for purification."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.43",
     "label":"Text 43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 1.18.43",
+    "h1":"SB 1.18.43",
+    "title":"Śrīmad Bhāgavatam 1.18.43",
     "description":"My dear boy, the Lord, who carries the wheel of a chariot, is represented by the monarchical regime, and when this regime is abolished the whole world becomes filled with thieves, who then at once vanquish the unprotected subjects like scattered lambs."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.39",
     "label":"Text 39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 1.14.39",
+    "h1":"SB 1.14.39",
+    "title":"Śrīmad Bhāgavatam 1.14.39",
     "description":"My brother Arjuna, please tell me whether your health is all right. You appear to have lost your bodily luster. Is this due to others disrespecting and neglecting you because of your long stay at Dvārakā?"
 }
 ---

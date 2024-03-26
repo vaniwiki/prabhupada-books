@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.25",
     "label":"Text 25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 1.14.25",
+    "h1":"SB 1.14.25",
+    "title":"Śrīmad Bhāgavatam 1.14.25",
     "description":"Mahārāja Yudhiṣṭhira said: My dear brother, please tell me whether our friends and relatives, such as Madhu, Bhoja, Daśārha, Ārha, Sātvata, Andhaka and the members of the Yadu family are all passing their days in happiness."
 }
 ---

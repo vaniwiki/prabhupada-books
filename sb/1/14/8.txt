@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.8",
     "label":"Text 8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 1.14.8",
+    "h1":"SB 1.14.8",
+    "title":"Śrīmad Bhāgavatam 1.14.8",
     "description":"Is He going to quit His earthly pastimes, as Devarṣi Nārada indicated? Has that time already arrived?"
 }
 ---

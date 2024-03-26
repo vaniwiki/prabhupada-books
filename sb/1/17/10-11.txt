@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.10-11",
     "label":"Text 10-11",
-    "h1":"Text 10-11",
-    "title":" Śrīmad Bhāgavatam 1.17.10-11",
+    "h1":"SB 1.17.10-11",
+    "title":"Śrīmad Bhāgavatam 1.17.10-11",
     "description":"O chaste one, the king's good name, duration of life and good rebirth vanish when all kinds of living beings are terrified by miscreants in his kingdom. It is certainly the prime duty of the king to subdue first the sufferings of those who suffer. Therefore I must kill this most wretched man because he is violent against other living beings."
 }
 ---

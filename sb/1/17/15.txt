@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.17.15",
+    "h1":"SB 1.17.15",
+    "title":"Śrīmad Bhāgavatam 1.17.15",
     "description":"An upstart living being who commits offenses by torturing those who are offenseless shall be directly uprooted by me, even though he be a denizen of heaven with armor and decorations."
 }
 ---

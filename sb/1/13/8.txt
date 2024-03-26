@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.8",
     "label":"Text 8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 1.13.8",
+    "h1":"SB 1.13.8",
+    "title":"Śrīmad Bhāgavatam 1.13.8",
     "description":"Mahārāja Yudhiṣṭhira said: My uncle, do you remember how you always protected us, along with our mother, from all sorts of calamities? Your partiality, like the wings of a bird, saved us from poisoning and arson."
 }
 ---

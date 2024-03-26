@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.6.14",
+    "h1":"SB 1.6.14",
+    "title":"Śrīmad Bhāgavatam 1.6.14",
     "description":"Thus traveling, I felt tired, both bodily and mentally, and I was both thirsty and hungry. So I took a bath in a river lake and also drank water. By contacting water, I got relief from my exhaustion."
 }
 ---

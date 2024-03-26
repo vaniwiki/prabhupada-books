@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.8",
     "label":"Text 8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 1.18.8",
+    "h1":"SB 1.18.8",
+    "title":"Śrīmad Bhāgavatam 1.18.8",
     "description":"Mahārāja Parīkṣit considered that less intelligent men might find the personality of Kali to be very powerful, but that those who are self-controlled would have nothing to fear. The King was powerful like a tiger and took care for the foolish, careless persons."
 }
 ---

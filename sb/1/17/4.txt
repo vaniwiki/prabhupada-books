@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.17.4",
+    "h1":"SB 1.17.4",
+    "title":"Śrīmad Bhāgavatam 1.17.4",
     "description":"Mahārāja Parīkṣit, well equipped with arrows and bow and seated on a gold-embossed chariot, spoke to him [the śūdra] with a deep voice sounding like thunder."
 }
 ---

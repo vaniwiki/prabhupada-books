@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.18",
     "label":"Text 18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 1.2.18",
+    "h1":"SB 1.2.18",
+    "title":"Śrīmad Bhāgavatam 1.2.18",
     "description":"By regular attendance in classes on the Bhāgavatam and by rendering of service to the pure devotee, all that is troublesome to the heart is almost completely destroyed, and loving service unto the Personality of Godhead, who is praised with transcendental songs, is established as an irrevocable fact."
 }
 ---

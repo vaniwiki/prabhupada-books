@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.12.3",
+    "h1":"SB 1.12.3",
+    "title":"Śrīmad Bhāgavatam 1.12.3",
     "description":"We all respectfully want to hear about him [Mahārāja Parīkṣit] to whom Śukadeva Gosvāmī imparted transcendental knowledge. Please speak on this matter."
 }
 ---

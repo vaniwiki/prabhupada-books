@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.29",
     "label":"Text 29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 1.12.29",
+    "h1":"SB 1.12.29",
+    "title":"Śrīmad Bhāgavatam 1.12.29",
     "description":"Thus those who were expert in astrological knowledge and in performance of the birth ceremony instructed King Yudhiṣṭhira about the future history of his child. Then, being sumptuously remunerated, they all returned to their respective homes."
 }
 ---

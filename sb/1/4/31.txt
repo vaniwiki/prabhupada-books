@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.31",
     "label":"Text 31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 1.4.31",
+    "h1":"SB 1.4.31",
+    "title":"Śrīmad Bhāgavatam 1.4.31",
     "description":"This may be because I did not specifically point out the devotional service of the Lord, which is dear both to perfect beings and to the infallible Lord."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.9",
     "label":"Text 9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 1.2.9",
+    "h1":"SB 1.2.9",
+    "title":"Śrīmad Bhāgavatam 1.2.9",
     "description":"All occupational engagements are certainly meant for ultimate liberation. They should never be performed for material gain. Furthermore, according to sages, one who is engaged in the ultimate occupational service should never use material gain to cultivate sense gratification."
 }
 ---

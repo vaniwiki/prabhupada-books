@@ -2,8 +2,8 @@
 {
     "name":"SB 1.10.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.10.3",
+    "h1":"SB 1.10.3",
+    "title":"Śrīmad Bhāgavatam 1.10.3",
     "description":"Mahārāja Yudhiṣṭhira, after being enlightened by what was spoken by Bhīṣmadeva and Lord Śrī Kṛṣṇa, the infallible, engaged himself in matters of perfect knowledge because all his misgivings were eradicated. Thus he ruled over the earth and seas and was followed by his younger brothers."
 }
 ---

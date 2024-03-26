@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.8.16",
+    "h1":"SB 1.8.16",
+    "title":"Śrīmad Bhāgavatam 1.8.16",
     "description":"O brāhmaṇas, do not think this to be especially wonderful in the activities of the mysterious and infallible Personality of Godhead. By His own transcendental energy, He maintains and annihilates all material things, although He Himself is unborn."
 }
 ---

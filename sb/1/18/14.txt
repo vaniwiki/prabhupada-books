@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.18.14",
+    "h1":"SB 1.18.14",
+    "title":"Śrīmad Bhāgavatam 1.18.14",
     "description":"The Personality of Godhead, Lord Kṛṣṇa [Govinda], is the exclusive shelter for all great living beings, and His transcendental attributes cannot even be measured by such masters of mystic powers as Lord Śiva and Lord Brahmā. Can anyone who is expert in relishing nectar [rasa] ever be fully satiated by hearing topics about Him?"
 }
 ---

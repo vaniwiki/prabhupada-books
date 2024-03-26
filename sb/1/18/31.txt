@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.31",
     "label":"Text 31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 1.18.31",
+    "h1":"SB 1.18.31",
+    "title":"Śrīmad Bhāgavatam 1.18.31",
     "description":"Upon returning, he began to contemplate and argue within himself whether the sage had actually been in meditation, with senses concentrated and eyes closed, or whether he had just been feigning trance just to avoid receiving a lower kṣatriya."
 }
 ---

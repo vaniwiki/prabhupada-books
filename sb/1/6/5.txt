@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.6.5",
+    "h1":"SB 1.6.5",
+    "title":"Śrīmad Bhāgavatam 1.6.5",
     "description":"Śrī Nārada said: The great sages, who had imparted scientific knowledge of transcendence to me, departed for other places, and I had to pass my life in this way."
 }
 ---

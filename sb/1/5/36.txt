@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.36",
     "label":"Text 36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 1.5.36",
+    "h1":"SB 1.5.36",
+    "title":"Śrīmad Bhāgavatam 1.5.36",
     "description":"While performing duties according to the order of Śrī Kṛṣṇa, the Supreme Personality of Godhead, one constantly remembers Him, His names and His qualities."
 }
 ---

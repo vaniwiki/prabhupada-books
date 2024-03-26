@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.51",
     "label":"Text 51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 1.8.51",
+    "h1":"SB 1.8.51",
+    "title":"Śrīmad Bhāgavatam 1.8.51",
     "description":"I have killed many friends of women, and I have thus caused enmity to such an extent that it is not possible to undo it by material welfare work."
 }
 ---

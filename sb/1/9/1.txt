@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.9.1",
+    "h1":"SB 1.9.1",
+    "title":"Śrīmad Bhāgavatam 1.9.1",
     "description":"Sūta Gosvāmī said: Being afraid for having killed so many subjects on the Battlefield of Kurukṣetra, Mahārāja Yudhiṣṭhira went to the scene of the massacre. There, Bhīṣmadeva was lying on a bed of arrows, about to pass away."
 }
 ---

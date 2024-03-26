@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.21",
     "label":"Text 21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 1.4.21",
+    "h1":"SB 1.4.21",
+    "title":"Śrīmad Bhāgavatam 1.4.21",
     "description":"After the Vedas were divided into four divisions, Paila Ṛṣi became the professor of the Ṛg Veda, Jaimini the professor of the Sāma Veda, and Vaiśampāyana alone became glorified by the Yajur Veda."
 }
 ---

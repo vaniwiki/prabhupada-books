@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.42",
     "label":"Text 42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 1.17.42",
+    "h1":"SB 1.17.42",
+    "title":"Śrīmad Bhāgavatam 1.17.42",
     "description":"Thereafter the King reestablished the lost legs of the personality of religion [the bull], and by encouraging activities he sufficiently improved the condition of the earth."
 }
 ---

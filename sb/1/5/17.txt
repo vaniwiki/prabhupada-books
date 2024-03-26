@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.5.17",
+    "h1":"SB 1.5.17",
+    "title":"Śrīmad Bhāgavatam 1.5.17",
     "description":"One who has forsaken his material occupations to engage in the devotional service of the Lord may sometimes fall down while in an immature stage, yet there is no danger of his being unsuccessful. On the other hand, a nondevotee, though fully engaged in occupational duties, does not gain anything."
 }
 ---

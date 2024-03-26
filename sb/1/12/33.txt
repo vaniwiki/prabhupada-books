@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.12.33",
+    "h1":"SB 1.12.33",
+    "title":"Śrīmad Bhāgavatam 1.12.33",
     "description":"Understanding the hearty wishes of the King, his brothers, as advised by the infallible Lord Kṛṣṇa, collected sufficient riches from the North [left by King Marutta]."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.37",
     "label":"Text 37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 1.3.37",
+    "h1":"SB 1.3.37",
+    "title":"Śrīmad Bhāgavatam 1.3.37",
     "description":"The foolish with a poor fund of knowledge cannot know the transcendental nature of the forms, names and activities of the Lord, who is playing like an actor in a drama. Nor can they express such things, neither in their speculations nor in their words."
 }
 ---

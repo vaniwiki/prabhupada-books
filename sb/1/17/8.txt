@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.8",
     "label":"Text 8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 1.17.8",
+    "h1":"SB 1.17.8",
+    "title":"Śrīmad Bhāgavatam 1.17.8",
     "description":"Now for the first time in a kingdom well protected by the arms of the kings of the Kuru dynasty, I see you grieving with tears in your eyes. Up till now no one on earth has ever shed tears because of royal negligence."
 }
 ---

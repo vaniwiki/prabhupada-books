@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.55",
     "label":"Text 55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 1.7.55",
+    "h1":"SB 1.7.55",
+    "title":"Śrīmad Bhāgavatam 1.7.55",
     "description":"Just then Arjuna could understand the motive of the Lord by His equivocal orders, and thus with his sword he severed both hair and jewel from the head of Aśvatthāmā."
 }
 ---

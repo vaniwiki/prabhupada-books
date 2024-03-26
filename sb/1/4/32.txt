@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.32",
     "label":"Text 32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 1.4.32",
+    "h1":"SB 1.4.32",
+    "title":"Śrīmad Bhāgavatam 1.4.32",
     "description":"As mentioned before, Nārada reached the cottage of Kṛṣṇa-dvaipāyana Vyāsa on the banks of the Sarasvatī just as Vyāsadeva was regretting his defects."
 }
 ---

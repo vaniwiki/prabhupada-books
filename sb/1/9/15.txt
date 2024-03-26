@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.9.15",
+    "h1":"SB 1.9.15",
+    "title":"Śrīmad Bhāgavatam 1.9.15",
     "description":"O how wonderful is the influence of inevitable time. It is irreversible-otherwise, how can there be reverses in the presence of King Yudhiṣṭhira, the son of the demigod controlling religion; Bhīma, the great fighter with a club; the great bowman Arjuna with his mighty weapon Gāṇḍīva; and above all, the Lord, the direct well-wisher of the Pāṇḍavas?"
 }
 ---

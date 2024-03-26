@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.9.17",
+    "h1":"SB 1.9.17",
+    "title":"Śrīmad Bhāgavatam 1.9.17",
     "description":"O best among the descendants of Bharata [Yudhiṣṭhira], I maintain, therefore, that all this is within the plan of the Lord. Accepting the inconceivable plan of the Lord, you must follow it. You are now the appointed administrative head, and, my lord, you should now take care of those subjects who are now rendered helpless."
 }
 ---

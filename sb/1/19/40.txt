@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.40",
     "label":"Text 40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 1.19.40",
+    "h1":"SB 1.19.40",
+    "title":"Śrīmad Bhāgavatam 1.19.40",
     "description":"Śrī Sūta Gosvāmī said: The King thus spoke and questioned the sage, using sweet language. Then the great and powerful personality, the son of Vyāsadeva, who knew the principles of religion, began his reply."
 }
 ---

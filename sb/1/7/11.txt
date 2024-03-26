@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.7.11",
+    "h1":"SB 1.7.11",
+    "title":"Śrīmad Bhāgavatam 1.7.11",
     "description":"Śrīla Śukadeva Gosvāmī, son of Śrīla Vyāsadeva, was not only transcendentally powerful. He was also very dear to the devotees of the Lord. Thus he underwent the study of this great narration [Śrīmad-Bhāgavatam]."
 }
 ---

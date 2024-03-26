@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.6.4",
+    "h1":"SB 1.6.4",
+    "title":"Śrīmad Bhāgavatam 1.6.4",
     "description":"O great sage, time annihilates everything in due course, so how is it that this subject matter, which happened prior to this day of Brahmā, is still fresh in your memory, undisturbed by time?"
 }
 ---

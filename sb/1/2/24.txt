@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.24",
     "label":"Text 24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 1.2.24",
+    "h1":"SB 1.2.24",
+    "title":"Śrīmad Bhāgavatam 1.2.24",
     "description":"Firewood is a transformation of earth, but smoke is better than the raw wood. And fire is still better, for by fire we can derive the benefits of superior knowledge [through Vedic sacrifices]. Similarly, passion [rajas] is better than ignorance [tamas], but goodness [sattva] is best because by goodness one can come to realize the Absolute Truth."
 }
 ---

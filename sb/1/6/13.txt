@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.6.13",
+    "h1":"SB 1.6.13",
+    "title":"Śrīmad Bhāgavatam 1.6.13",
     "description":"I then passed alone through many forests of rushes, bamboo, reeds, sharp grass, weeds and caves, which were very difficult to go through alone. I visited deep, dark and dangerously fearful forests, which were the play yards of snakes, owls and jackals."
 }
 ---

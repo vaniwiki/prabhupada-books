@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.14.4",
+    "h1":"SB 1.14.4",
+    "title":"Śrīmad Bhāgavatam 1.14.4",
     "description":"All ordinary transactions and dealings became polluted with cheating, even between friends. And in familial affairs, there was always misunderstanding between fathers, mothers and sons, between well-wishers, and between brothers. Even between husband and wife there was always strain and quarrel."
 }
 ---

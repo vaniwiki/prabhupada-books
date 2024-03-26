@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.2.22",
+    "h1":"SB 1.2.22",
+    "title":"Śrīmad Bhāgavatam 1.2.22",
     "description":"Certainly, therefore, since time immemorial, all transcendentalists have been rendering devotional service to Lord Kṛṣṇa, the Personality of Godhead, with great delight, because such devotional service is enlivening to the self."
 }
 ---

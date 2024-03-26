@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.7.1",
+    "h1":"SB 1.7.1",
+    "title":"Śrīmad Bhāgavatam 1.7.1",
     "description":"Ṛṣi Śaunaka asked: O Sūta, the great and transcendentally powerful Vyāsadeva heard everything from Śrī Nārada Muni. So after Nārada's departure, what did Vyāsadeva do?"
 }
 ---

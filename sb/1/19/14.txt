@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.19.14",
+    "h1":"SB 1.19.14",
+    "title":"Śrīmad Bhāgavatam 1.19.14",
     "description":"The Supreme Personality of Godhead, the controller of both the transcendental and mundane worlds, has graciously overtaken me in the form of a brāhmaṇa's curse. Due to my being too much attached to family life, the Lord, in order to save me, has appeared before me in such a way that only out of fear I will detach myself from the world."
 }
 ---

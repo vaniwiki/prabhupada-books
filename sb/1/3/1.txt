@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.3.1",
+    "h1":"SB 1.3.1",
+    "title":"Śrīmad Bhāgavatam 1.3.1",
     "description":"Sūta said: In the beginning of the creation, the Lord first expanded Himself in the universal form of the puruṣa incarnation and manifested all the ingredients for the material creation. And thus at first there was the creation of the sixteen principles of material action. This was for the purpose of creating the material universe."
 }
 ---

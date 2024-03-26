@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.15.20",
+    "h1":"SB 1.15.20",
+    "title":"Śrīmad Bhāgavatam 1.15.20",
     "description":"O Emperor, now I am separated from my friend and dearmost well-wisher, the Supreme Personality of Godhead, and therefore my heart appears to be void of everything. In His absence I have been defeated by a number of infidel cowherd men while I was guarding the bodies of all the wives of Kṛṣṇa."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.2",
     "label":"Text 2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 1.2.2",
+    "h1":"SB 1.2.2",
+    "title":"Śrīmad Bhāgavatam 1.2.2",
     "description":"Śrīla Sūta Gosvāmī said: Let me offer my respectful obeisances unto that great sage [Śukadeva Gosvāmī] who can enter the hearts of all. When he went away to take up the renounced order of life [sannyāsa], leaving home without undergoing reformation by the sacred thread or the ceremonies observed by the higher castes, his father, Vyāsadeva, fearing separation from him, cried out, \"O my son!\" Indeed, only the trees, which were absorbed in the same feelings of separation, echoed in response to the begrieved father."
 }
 ---

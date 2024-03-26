@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.9.20",
+    "h1":"SB 1.9.20",
+    "title":"Śrīmad Bhāgavatam 1.9.20",
     "description":"O King, that personality whom, out of ignorance only, you thought to be your maternal cousin, your very dear friend, well-wisher, counselor, messenger, benefactor, etc., is that very Personality of Godhead, Śrī Kṛṣṇa."
 }
 ---

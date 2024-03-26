@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.40",
     "label":"Text 40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 1.9.40",
+    "h1":"SB 1.9.40",
+    "title":"Śrīmad Bhāgavatam 1.9.40",
     "description":"Let my mind be fixed upon Lord Śrī Kṛṣṇa, whose motions and smiles of love attracted the damsels of Vrajadhāma [the gopīs]. The damsels imitated the characteristic movements of the Lord [after His disappearance from the rāsa dance]."
 }
 ---

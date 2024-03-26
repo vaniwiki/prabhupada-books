@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.12.5",
+    "h1":"SB 1.12.5",
+    "title":"Śrīmad Bhāgavatam 1.12.5",
     "description":"News even reached the celestial planets about Mahārāja Yudhiṣṭhira's worldly possessions, the sacrifices by which he would attain a better destination, his queen, his stalwart brothers, his extensive land, his sovereignty over the planet earth, and his fame, etc."
 }
 ---

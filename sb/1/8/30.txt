@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.30",
     "label":"Text 30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 1.8.30",
+    "h1":"SB 1.8.30",
+    "title":"Śrīmad Bhāgavatam 1.8.30",
     "description":"Of course it is bewildering, O soul of the universe, that You work, though You are inactive, and that You take birth, though You are the vital force and the unborn. You Yourself descend amongst animals, men, sages and aquatics. Verily, this is bewildering."
 }
 ---

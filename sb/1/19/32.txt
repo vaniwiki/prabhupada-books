@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.32",
     "label":"Text 32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 1.19.32",
+    "h1":"SB 1.19.32",
+    "title":"Śrīmad Bhāgavatam 1.19.32",
     "description":"The fortunate King Parīkṣit said: O brāhmaṇa, by your mercy only, you have sanctified us, making us like unto places of pilgrimage, all by your presence here as my guest. By your mercy, we, who are but unworthy royalty, become eligible to serve the devotee."
 }
 ---

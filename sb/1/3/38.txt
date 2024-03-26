@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.38",
     "label":"Text 38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 1.3.38",
+    "h1":"SB 1.3.38",
+    "title":"Śrīmad Bhāgavatam 1.3.38",
     "description":"Only those who render unreserved, uninterrupted, favorable service unto the lotus feet of Lord Kṛṣṇa, who carries the wheel of the chariot in His hand, can know the creator of the universe in His full glory, power and transcendence."
 }
 ---

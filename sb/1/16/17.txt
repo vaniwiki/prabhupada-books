@@ -2,8 +2,8 @@
 {
     "name":"SB 1.16.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.16.17",
+    "h1":"SB 1.16.17",
+    "title":"Śrīmad Bhāgavatam 1.16.17",
     "description":"Now you may hear from me of what happened while Mahārāja Parīkṣit was passing his days hearing of the good occupations of his forefathers and being absorbed in thought of them."
 }
 ---

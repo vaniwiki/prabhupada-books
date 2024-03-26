@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.14.10",
+    "h1":"SB 1.14.10",
+    "title":"Śrīmad Bhāgavatam 1.14.10",
     "description":"Just see, O man with a tiger's strength, how many miseries due to celestial influences, earthly reactions and bodily pains-all very dangerous in themselves-are foreboding danger in the near future by deluding our intelligence."
 }
 ---

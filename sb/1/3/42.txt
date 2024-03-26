@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.42",
     "label":"Text 42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 1.3.42",
+    "h1":"SB 1.3.42",
+    "title":"Śrīmad Bhāgavatam 1.3.42",
     "description":"Śukadeva Gosvāmī, the son of Vyāsadeva, in his turn delivered the Bhāgavatam to the great Emperor Parīkṣit, who sat surrounded by sages on the bank of the Ganges, awaiting death without taking food or drink."
 }
 ---

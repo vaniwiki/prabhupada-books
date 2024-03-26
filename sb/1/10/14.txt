@@ -2,8 +2,8 @@
 {
     "name":"SB 1.10.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.10.14",
+    "h1":"SB 1.10.14",
+    "title":"Śrīmad Bhāgavatam 1.10.14",
     "description":"The female relatives, whose eyes were flooded with tears out of anxiety for Kṛṣṇa, came out of the palace. They could stop their tears only with great difficulty. They feared that tears would cause misfortune at the time of departure."
 }
 ---

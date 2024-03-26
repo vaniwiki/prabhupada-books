@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.17.17",
+    "h1":"SB 1.17.17",
+    "title":"Śrīmad Bhāgavatam 1.17.17",
     "description":"The personality of religion said: These words just spoken by you befit a person of the Pāṇḍava dynasty. Captivated by the devotional qualities of the Pāṇḍavas, even Lord Kṛṣṇa, the Personality of Godhead, performed duties as a messenger."
 }
 ---

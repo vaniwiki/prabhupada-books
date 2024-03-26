@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.47",
     "label":"Text 47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 1.7.47",
+    "h1":"SB 1.7.47",
+    "title":"Śrīmad Bhāgavatam 1.7.47",
     "description":"My lord, do not make the wife of Droṇācārya cry like me. I am aggrieved for the death of my sons. She need not cry constantly like me."
 }
 ---

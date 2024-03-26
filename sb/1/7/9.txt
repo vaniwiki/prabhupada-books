@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.9",
     "label":"Text 9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 1.7.9",
+    "h1":"SB 1.7.9",
+    "title":"Śrīmad Bhāgavatam 1.7.9",
     "description":"Śrī Śaunaka asked Sūta Gosvāmī: Śrī Śukadeva Gosvāmī was already on the path of self-realization, and thus he was pleased with his own self. So why did he take the trouble to undergo the study of such a vast literature?"
 }
 ---

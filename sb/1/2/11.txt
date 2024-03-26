@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.2.11",
+    "h1":"SB 1.2.11",
+    "title":"Śrīmad Bhāgavatam 1.2.11",
     "description":"Learned transcendentalists who know the Absolute Truth call this nondual substance Brahman, Paramātmā or Bhagavān."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.37",
     "label":"Text 37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 1.7.37",
+    "h1":"SB 1.7.37",
+    "title":"Śrīmad Bhāgavatam 1.7.37",
     "description":"A cruel and wretched person who maintains his existence at the cost of others' lives deserves to be killed for his own well-being, otherwise he will go down by his own actions."
 }
 ---

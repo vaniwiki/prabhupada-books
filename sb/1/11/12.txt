@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.12",
     "label":"Text 12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 1.11.12",
+    "h1":"SB 1.11.12",
+    "title":"Śrīmad Bhāgavatam 1.11.12",
     "description":"The city of Dvārakāpurī was filled with the opulences of all seasons. There were hermitages, orchards, flower gardens, parks and reservoirs of water breeding lotus flowers all over."
 }
 ---

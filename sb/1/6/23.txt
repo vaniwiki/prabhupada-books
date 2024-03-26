@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.6.23",
+    "h1":"SB 1.6.23",
+    "title":"Śrīmad Bhāgavatam 1.6.23",
     "description":"By service of the Absolute Truth, even for a few days, a devotee attains firm and fixed intelligence in Me. Consequently he goes on to become My associate in the transcendental world after giving up the present deplorable material worlds."
 }
 ---

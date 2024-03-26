@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.13.34",
+    "h1":"SB 1.13.34",
+    "title":"Śrīmad Bhāgavatam 1.13.34",
     "description":"When my father, Pāṇḍu, fell down and we were all small children, these two uncles gave us protection from all kinds of calamities. They were always our good well-wishers. Alas, where have they gone from here?"
 }
 ---

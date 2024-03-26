@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.45",
     "label":"Text 45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 1.18.45",
+    "h1":"SB 1.18.45",
+    "title":"Śrīmad Bhāgavatam 1.18.45",
     "description":"At that time the people in general will fall systematically from the path of a progressive civilization in respect to the qualitative engagements of the castes and the orders of society and the Vedic injunctions. Thus they will be more attracted to economic development for sense gratification, and as a result there will be an unwanted population on the level of dogs and monkeys."
 }
 ---

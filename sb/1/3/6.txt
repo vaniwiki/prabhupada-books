@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.6",
     "label":"Text 6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 1.3.6",
+    "h1":"SB 1.3.6",
+    "title":"Śrīmad Bhāgavatam 1.3.6",
     "description":"First of all, in the beginning of creation, there were the four unmarried sons of Brahmā [the Kumāras], who, being situated in a vow of celibacy, underwent severe austerities for realization of the Absolute Truth."
 }
 ---

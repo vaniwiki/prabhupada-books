@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.2.34",
+    "h1":"SB 1.2.34",
+    "title":"Śrīmad Bhāgavatam 1.2.34",
     "description":"Thus the Lord of the universes maintains all planets inhabited by demigods, men and lower animals. Assuming the roles of incarnations, He performs pastimes to reclaim those in the mode of pure goodness."
 }
 ---

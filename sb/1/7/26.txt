@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.26",
     "label":"Text 26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 1.7.26",
+    "h1":"SB 1.7.26",
+    "title":"Śrīmad Bhāgavatam 1.7.26",
     "description":"O Lord of lords, how is it that this dangerous effulgence is spreading all around? Where does it come from? I do not understand it."
 }
 ---

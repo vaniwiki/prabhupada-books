@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.14.34",
+    "h1":"SB 1.14.34",
+    "title":"Śrīmad Bhāgavatam 1.14.34",
     "description":"Is Lord Kṛṣṇa, the Supreme Personality of Godhead, who gives pleasure to the cows, the senses and the brāhmaṇas, who is very affectionate towards His devotees, enjoying the pious assembly at Dvārakā Purī surrounded by friends?"
 }
 ---

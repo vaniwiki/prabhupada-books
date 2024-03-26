@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.12",
     "label":"Text 12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 1.2.12",
+    "h1":"SB 1.2.12",
+    "title":"Śrīmad Bhāgavatam 1.2.12",
     "description":"The seriously inquisitive student or sage, well equipped with knowledge and detachment, realizes that Absolute Truth by rendering devotional service in terms of what he has heard from the Vedānta-śruti."
 }
 ---

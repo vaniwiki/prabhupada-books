@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.6",
     "label":"Text 6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 1.12.6",
+    "h1":"SB 1.12.6",
+    "title":"Śrīmad Bhāgavatam 1.12.6",
     "description":"O brāhmaṇas, the opulence of the King was so enchanting that the denizens of heaven aspired for it. But because he was absorbed in the service of the Lord, nothing could satisfy him except the Lord's service."
 }
 ---

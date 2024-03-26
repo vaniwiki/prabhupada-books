@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.2",
     "label":"Text 2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 1.13.2",
+    "h1":"SB 1.13.2",
+    "title":"Śrīmad Bhāgavatam 1.13.2",
     "description":"After asking various questions and becoming established in the transcendental loving service of Lord Kṛṣṇa, Vidura retired from putting questions to Maitreya Muni."
 }
 ---

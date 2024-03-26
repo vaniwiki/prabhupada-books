@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.17.16",
+    "h1":"SB 1.17.16",
+    "title":"Śrīmad Bhāgavatam 1.17.16",
     "description":"The supreme duty of the ruling king is to give all protection to law-abiding persons and to chastise those who stray from the ordinances of the scriptures in ordinary times, when there is no emergency."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.24",
     "label":"Text 24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 1.19.24",
+    "h1":"SB 1.19.24",
+    "title":"Śrīmad Bhāgavatam 1.19.24",
     "description":"O trustworthy brāhmaṇas, I now ask you about my immediate duty. Please, after proper deliberation, tell me of the unalloyed duty of everyone in all circumstances, and specifically of those who are just about to die."
 }
 ---

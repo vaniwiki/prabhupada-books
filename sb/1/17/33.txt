@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.17.33",
+    "h1":"SB 1.17.33",
+    "title":"Śrīmad Bhāgavatam 1.17.33",
     "description":"Therefore, O friend of irreligion, you do not deserve to remain in a place where experts perform sacrifices according to truth and religious principles for the satisfaction of the Supreme Personality of Godhead."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.9.22",
+    "h1":"SB 1.9.22",
+    "title":"Śrīmad Bhāgavatam 1.9.22",
     "description":"Yet, despite His being equally kind to everyone, He has graciously come before me while I am ending my life, for I am His unflinching servitor."
 }
 ---

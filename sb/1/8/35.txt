@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.35",
     "label":"Text 35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 1.8.35",
+    "h1":"SB 1.8.35",
+    "title":"Śrīmad Bhāgavatam 1.8.35",
     "description":"And yet others say that You appeared to rejuvenate the devotional service of hearing, remembering, worshiping and so on in order that the conditioned souls suffering from material pangs might take advantage and gain liberation."
 }
 ---

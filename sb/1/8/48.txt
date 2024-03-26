@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.48",
     "label":"Text 48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 1.8.48",
+    "h1":"SB 1.8.48",
+    "title":"Śrīmad Bhāgavatam 1.8.48",
     "description":"King Yudhiṣṭhira said: O my lot! I am the most sinful man! Just see my heart, which is full of ignorance! This body, which is ultimately meant for others, has killed many, many phalanxes of men."
 }
 ---

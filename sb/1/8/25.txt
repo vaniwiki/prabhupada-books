@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.25",
     "label":"Text 25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 1.8.25",
+    "h1":"SB 1.8.25",
+    "title":"Śrīmad Bhāgavatam 1.8.25",
     "description":"I wish that all those calamities would happen again and again so that we could see You again and again, for seeing You means that we will no longer see repeated births and deaths."
 }
 ---

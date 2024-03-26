@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.14.13",
+    "h1":"SB 1.14.13",
+    "title":"Śrīmad Bhāgavatam 1.14.13",
     "description":"O Bhīmasena, tiger amongst men, now useful animals like cows are passing me on my left side, and lower animals like the asses are circumambulating me. My horses appear to weep upon seeing me."
 }
 ---

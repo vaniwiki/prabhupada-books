@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.40",
     "label":"Text 40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 1.3.40",
+    "h1":"SB 1.3.40",
+    "title":"Śrīmad Bhāgavatam 1.3.40",
     "description":"This Śrīmad-Bhāgavatam is the literary incarnation of God, and it is compiled by Śrīla Vyāsadeva, the incarnation of God. It is meant for the ultimate good of all people, and it is all-successful, all-blissful and all-perfect."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.7.10",
+    "h1":"SB 1.7.10",
+    "title":"Śrīmad Bhāgavatam 1.7.10",
     "description":"All different varieties of ātmārāmas [those who take pleasure in ātmā, or spirit self], especially those established on the path of self-realization, though freed from all kinds of material bondage, desire to render unalloyed devotional service unto the Personality of Godhead. This means that the Lord possesses transcendental qualities and therefore can attract everyone, including liberated souls."
 }
 ---

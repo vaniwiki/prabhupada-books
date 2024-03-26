@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.2.10",
+    "h1":"SB 1.2.10",
+    "title":"Śrīmad Bhāgavatam 1.2.10",
     "description":"Life's desires should never be directed toward sense gratification. One should desire only a healthy life, or self-preservation, since a human being is meant for inquiry about the Absolute Truth. Nothing else should be the goal of one's works."
 }
 ---

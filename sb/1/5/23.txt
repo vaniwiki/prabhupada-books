@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.5.23",
+    "h1":"SB 1.5.23",
+    "title":"Śrīmad Bhāgavatam 1.5.23",
     "description":"O muni, in the last millennium I was born as the son of a certain maidservant engaged in the service of brāhmaṇas who were following the principles of Vedānta. When they were living together during the four months of the rainy season, I was engaged in their personal service."
 }
 ---

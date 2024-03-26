@@ -2,8 +2,8 @@
 {
     "name":"SB 1.16.12",
     "label":"Text 12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 1.16.12",
+    "h1":"SB 1.16.12",
+    "title":"Śrīmad Bhāgavatam 1.16.12",
     "description":"Mahārāja Parīkṣit then conquered all parts of the earthly planet—Bhadrāśva, Ketumāla, Bhārata, the northern Kuru, Kimpuruṣa, etc.—and exacted tributes from their respective rulers."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.12.11",
+    "h1":"SB 1.12.11",
+    "title":"Śrīmad Bhāgavatam 1.12.11",
     "description":"While thus being observed by the child, the Supreme Lord Personality of Godhead, the Supersoul of everyone and the protector of the righteous, who stretches in all directions and who is unlimited by time and space, disappeared at once."
 }
 ---

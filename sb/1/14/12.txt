@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.12",
     "label":"Text 12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 1.14.12",
+    "h1":"SB 1.14.12",
+    "title":"Śrīmad Bhāgavatam 1.14.12",
     "description":"Just see, O Bhīma, how the she jackal cries at the rising sun and vomits fire, and how the dog barks at me fearlessly."
 }
 ---

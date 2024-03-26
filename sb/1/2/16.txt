@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.2.16",
+    "h1":"SB 1.2.16",
+    "title":"Śrīmad Bhāgavatam 1.2.16",
     "description":"O twice-born sages, by serving those devotees who are completely freed from all vice, great service is done. By such service, one gains affinity for hearing the messages of Vāsudeva."
 }
 ---

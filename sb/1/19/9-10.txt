@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.9-10",
     "label":"Text 9-10",
-    "h1":"Text 9-10",
-    "title":" Śrīmad Bhāgavatam 1.19.9-10",
+    "h1":"SB 1.19.9-10",
+    "title":"Śrīmad Bhāgavatam 1.19.9-10",
     "description":"From different parts of the universe there arrived great sages like Atri, Cyavana, Śaradvān, Ariṣṭanemi, Bhṛgu, Vasiṣṭha, Parāśara, Viśvāmitra, Aṅgirā, Paraśurāma, Utathya, Indrapramada, Idhmavāhu, Medhātithi, Devala, Ārṣṭiṣeṇa, Bhāradvāja, Gautama, Pippalāda, Maitreya, Aurva, Kavaṣa, Kumbhayoni, Dvaipāyana and the great personality Nārada."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.2.5",
+    "h1":"SB 1.2.5",
+    "title":"Śrīmad Bhāgavatam 1.2.5",
     "description":"O sages, I have been justly questioned by you. Your questions are worthy because they relate to Lord Kṛṣṇa and so are of relevance to the world's welfare. Only questions of this sort are capable of completely satisfying the self."
 }
 ---

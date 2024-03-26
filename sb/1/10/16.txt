@@ -2,8 +2,8 @@
 {
     "name":"SB 1.10.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.10.16",
+    "h1":"SB 1.10.16",
+    "title":"Śrīmad Bhāgavatam 1.10.16",
     "description":"Out of a loving desire to see the Lord, the royal ladies of the Kurus got up on top of the palace, and smiling with affection and shyness, they showered flowers upon the Lord."
 }
 ---

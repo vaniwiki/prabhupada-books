@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.17.34",
+    "h1":"SB 1.17.34",
+    "title":"Śrīmad Bhāgavatam 1.17.34",
     "description":"In all sacrificial ceremonies, although sometimes a demigod is worshiped, the Supreme Lord Personality of Godhead is worshiped because He is the Supersoul of everyone, and exists both inside and outside like the air. Thus it is He only who awards all welfare to the worshiper."
 }
 ---

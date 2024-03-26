@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.6",
     "label":"Text 6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 1.5.6",
+    "h1":"SB 1.5.6",
+    "title":"Śrīmad Bhāgavatam 1.5.6",
     "description":"My lord! Everything that is mysterious is known to you because you worship the creator and destroyer of the material world and the maintainer of the spiritual world, the original Personality of Godhead, who is transcendental to the three modes of material nature."
 }
 ---

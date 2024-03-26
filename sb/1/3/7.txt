@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.7",
     "label":"Text 7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 1.3.7",
+    "h1":"SB 1.3.7",
+    "title":"Śrīmad Bhāgavatam 1.3.7",
     "description":"The supreme enjoyer of all sacrifices accepted the incarnation of a boar [the second incarnation], and for the welfare of the earth He lifted the earth from the nether regions of the universe."
 }
 ---

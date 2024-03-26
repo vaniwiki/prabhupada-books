@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.19.33",
+    "h1":"SB 1.19.33",
+    "title":"Śrīmad Bhāgavatam 1.19.33",
     "description":"Simply by our remembering you, our houses become instantly sanctified. And what to speak of seeing you, touching you, washing your holy feet and offering you a seat in our home?"
 }
 ---

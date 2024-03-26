@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.46",
     "label":"Text 46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 1.18.46",
+    "h1":"SB 1.18.46",
+    "title":"Śrīmad Bhāgavatam 1.18.46",
     "description":"The Emperor Parīkṣit is a pious king. He is highly celebrated and is a first-class devotee of the Personality of Godhead. He is a saint amongst royalty, and he has performed many horse sacrifices. When such a king is tired and fatigued, being stricken with hunger and thirst, he does not at all deserve to be cursed."
 }
 ---

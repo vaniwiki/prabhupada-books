@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.5.4",
+    "h1":"SB 1.5.4",
+    "title":"Śrīmad Bhāgavatam 1.5.4",
     "description":"You have fully delineated the subject of impersonal Brahman as well as the knowledge derived therefrom. Why should you be despondent in spite of all this, thinking that you are undone, my dear prabhu?"
 }
 ---

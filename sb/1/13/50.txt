@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.50",
     "label":"Text 50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 1.13.50",
+    "h1":"SB 1.13.50",
+    "title":"Śrīmad Bhāgavatam 1.13.50",
     "description":"The Lord has already performed His duties to help the demigods, and He is awaiting the rest. You Pāṇḍavas may wait as long as the Lord is here on earth."
 }
 ---

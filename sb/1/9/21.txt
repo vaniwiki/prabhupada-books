@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.21",
     "label":"Text 21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 1.9.21",
+    "h1":"SB 1.9.21",
+    "title":"Śrīmad Bhāgavatam 1.9.21",
     "description":"Being the Absolute Personality of Godhead, He is present in everyone's heart. He is equally kind to everyone, and He is free from the false ego of differentiation. Therefore whatever He does is free from material inebriety. He is equibalanced."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.18",
     "label":"Text 18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 1.11.18",
+    "h1":"SB 1.11.18",
+    "title":"Śrīmad Bhāgavatam 1.11.18",
     "description":"They hastened toward the Lord on chariots with brāhmaṇas bearing flowers. Before them were elephants, emblems of good fortune. Conchshells and bugles were sounded, and Vedic hymns were chanted. Thus they offered their respects, which were saturated with affection."
 }
 ---

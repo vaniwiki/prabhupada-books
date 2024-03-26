@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.7",
     "label":"Text 7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 1.12.7",
+    "h1":"SB 1.12.7",
+    "title":"Śrīmad Bhāgavatam 1.12.7",
     "description":"O son of Bhṛgu [Śaunaka], when the child Parīkṣit, the great fighter, was in the womb of his mother, Uttarā, and was suffering from the burning heat of the brahmāstra [thrown by Aśvatthāmā], he could observe the Supreme Lord coming to him."
 }
 ---

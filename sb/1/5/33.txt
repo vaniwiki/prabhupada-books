@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.5.33",
+    "h1":"SB 1.5.33",
+    "title":"Śrīmad Bhāgavatam 1.5.33",
     "description":"O good soul, does not a thing, applied therapeutically, cure a disease which was caused by that very same thing?"
 }
 ---

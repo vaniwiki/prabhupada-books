@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.5.34",
+    "h1":"SB 1.5.34",
+    "title":"Śrīmad Bhāgavatam 1.5.34",
     "description":"Thus when all a man's activities are dedicated to the service of the Lord, those very activities which caused his perpetual bondage become the destroyer of the tree of work."
 }
 ---

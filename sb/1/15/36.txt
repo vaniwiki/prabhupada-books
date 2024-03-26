@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.36",
     "label":"Text 36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 1.15.36",
+    "h1":"SB 1.15.36",
+    "title":"Śrīmad Bhāgavatam 1.15.36",
     "description":"When the Personality of Godhead, Lord Kṛṣṇa, left this earthly planet in His selfsame form, from that very day Kali, who had already partially appeared, became fully manifest to create inauspicious conditions for those who are endowed with a poor fund of knowledge."
 }
 ---

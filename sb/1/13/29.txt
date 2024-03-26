@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.29",
     "label":"Text 29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 1.13.29",
+    "h1":"SB 1.13.29",
+    "title":"Śrīmad Bhāgavatam 1.13.29",
     "description":"Thus Mahārāja Dhṛtarāṣṭra, the scion of the family of Ajamīḍha, firmly convinced by introspective knowledge [prajñā], broke at once the strong network of familial affection by his resolute determination. Thus he immediately left home to set out on the path of liberation, as directed by his younger brother Vidura."
 }
 ---

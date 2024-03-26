@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.37",
     "label":"Text 37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 1.15.37",
+    "h1":"SB 1.15.37",
+    "title":"Śrīmad Bhāgavatam 1.15.37",
     "description":"Mahārāja Yudhiṣṭhira was intelligent enough to understand the influence of the age of Kali, characterized by increasing avarice, falsehood, cheating and violence throughout the capital, state, home and among individuals. So he wisely prepared himself to leave home, and he dressed accordingly."
 }
 ---

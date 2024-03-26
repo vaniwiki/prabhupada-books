@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.37",
     "label":"Text 37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 1.13.37",
+    "h1":"SB 1.13.37",
+    "title":"Śrīmad Bhāgavatam 1.13.37",
     "description":"Sañjaya said: My dear descendant of the Kuru dynasty, I have no information of the determination of your two uncles and Gāndhārī. O King, I have been cheated by those great souls."
 }
 ---

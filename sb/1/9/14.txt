@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.9.14",
+    "h1":"SB 1.9.14",
+    "title":"Śrīmad Bhāgavatam 1.9.14",
     "description":"In my opinion, this is all due to inevitable time, under whose control everyone in every planet is carried, just as the clouds are carried by the wind."
 }
 ---

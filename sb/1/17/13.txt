@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.17.13",
+    "h1":"SB 1.17.13",
+    "title":"Śrīmad Bhāgavatam 1.17.13",
     "description":"O bull, you are offenseless and thoroughly honest; therefore I wish all good to you. Please tell me of the perpetrator of these mutilations, which blackmail the reputation of the sons of Pṛthā."
 }
 ---

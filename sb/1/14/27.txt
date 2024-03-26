@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.27",
     "label":"Text 27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 1.14.27",
+    "h1":"SB 1.14.27",
+    "title":"Śrīmad Bhāgavatam 1.14.27",
     "description":"His seven wives, headed by Devakī, are all sisters. Are they and their sons and daughters-in-law all happy?"
 }
 ---

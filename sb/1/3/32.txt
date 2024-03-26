@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.32",
     "label":"Text 32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 1.3.32",
+    "h1":"SB 1.3.32",
+    "title":"Śrīmad Bhāgavatam 1.3.32",
     "description":"Beyond this gross conception of form is another, subtle conception of form which is without formal shape and is unseen, unheard and unmanifest. The living being has his form beyond this subtlety, otherwise he could not have repeated births."
 }
 ---

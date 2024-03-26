@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.2.13",
+    "h1":"SB 1.2.13",
+    "title":"Śrīmad Bhāgavatam 1.2.13",
     "description":"O best among the twice-born, it is therefore concluded that the highest perfection one can achieve by discharging the duties prescribed for one's own occupation according to caste divisions and orders of life is to please the Personality of Godhead."
 }
 ---

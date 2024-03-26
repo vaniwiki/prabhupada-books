@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.14.5",
+    "h1":"SB 1.14.5",
+    "title":"Śrīmad Bhāgavatam 1.14.5",
     "description":"In course of time it came to pass that people in general became accustomed to greed, anger, pride, etc. Mahārāja Yudhiṣṭhira, observing all these omens, spoke to his younger brother."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.12.34",
+    "h1":"SB 1.12.34",
+    "title":"Śrīmad Bhāgavatam 1.12.34",
     "description":"By those riches, the King could procure the ingredients for three horse sacrifices. Thus the pious King Yudhiṣṭhira, who was very fearful after the Battle of Kurukṣetra, pleased Lord Hari, the Personality of Godhead."
 }
 ---

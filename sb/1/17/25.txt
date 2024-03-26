@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.25",
     "label":"Text 25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 1.17.25",
+    "h1":"SB 1.17.25",
+    "title":"Śrīmad Bhāgavatam 1.17.25",
     "description":"You are now standing on one leg only, which is your truthfulness, and you are somehow or other hobbling along. But quarrel personified [Kali], flourishing by deceit, is also trying to destroy that leg."
 }
 ---

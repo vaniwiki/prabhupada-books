@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.5.14",
+    "h1":"SB 1.5.14",
+    "title":"Śrīmad Bhāgavatam 1.5.14",
     "description":"Whatever you desire to describe that is separate in vision from the Lord simply reacts, with different forms, names and results, to agitate the mind as the wind agitates a boat which has no resting place."
 }
 ---

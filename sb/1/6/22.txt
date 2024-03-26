@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.6.22",
+    "h1":"SB 1.6.22",
+    "title":"Śrīmad Bhāgavatam 1.6.22",
     "description":"O virtuous one, you have only once seen My person, and this is just to increase your desire for Me, because the more you hanker for Me, the more you will be freed from all material desires."
 }
 ---

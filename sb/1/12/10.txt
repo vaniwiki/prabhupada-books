@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.12.10",
+    "h1":"SB 1.12.10",
+    "title":"Śrīmad Bhāgavatam 1.12.10",
     "description":"The Lord was thus engaged in vanquishing the radiation of the brahmāstra, just as the sun evaporates a drop of dew. He was observed by the child, who thought about who He was."
 }
 ---

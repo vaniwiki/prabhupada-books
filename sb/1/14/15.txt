@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.14.15",
+    "h1":"SB 1.14.15",
+    "title":"Śrīmad Bhāgavatam 1.14.15",
     "description":"Just see how the smoke encircles the sky. It appears that the earth and mountains are throbbing. Just hear the cloudless thunder and see the bolts from the blue."
 }
 ---

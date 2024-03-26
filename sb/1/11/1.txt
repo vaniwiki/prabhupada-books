@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.11.1",
+    "h1":"SB 1.11.1",
+    "title":"Śrīmad Bhāgavatam 1.11.1",
     "description":"Sūta Gosvāmī said: Upon reaching the border of His most prosperous metropolis, known as the country of the Ānartas [Dvārakā], the Lord sounded His auspicious conchshell, heralding His arrival and apparently pacifying the dejection of the inhabitants."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.28",
     "label":"Text 28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 1.17.28",
+    "h1":"SB 1.17.28",
+    "title":"Śrīmad Bhāgavatam 1.17.28",
     "description":"Mahārāja Parīkṣit, who could fight one thousand enemies single-handedly, thus pacified the personality of religion and the earth. Then he took up his sharp sword to kill the personality of Kali, who is the cause of all irreligion."
 }
 ---

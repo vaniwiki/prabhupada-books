@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.18.34",
+    "h1":"SB 1.18.34",
+    "title":"Śrīmad Bhāgavatam 1.18.34",
     "description":"The descendants of the kingly orders are definitely designated as watchdogs, and they must keep themselves at the door. On what grounds can dogs enter the house and claim to dine with the master on the same plate?"
 }
 ---

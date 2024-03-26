@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.12.15",
+    "h1":"SB 1.12.15",
+    "title":"Śrīmad Bhāgavatam 1.12.15",
     "description":"The learned brāhmaṇas, who were very satisfied with the charities of the King, addressed him as the chief amongst the Pūrus and informed him that his son was certainly in the line of descent from the Pūrus."
 }
 ---

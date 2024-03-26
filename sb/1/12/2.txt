@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.2",
     "label":"Text 2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 1.12.2",
+    "h1":"SB 1.12.2",
+    "title":"Śrīmad Bhāgavatam 1.12.2",
     "description":"How was the great emperor Parīkṣit, who was a highly intelligent and great devotee, born in that womb? How did his death take place, and what did he achieve after his death?"
 }
 ---

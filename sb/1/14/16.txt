@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.14.16",
+    "h1":"SB 1.14.16",
+    "title":"Śrīmad Bhāgavatam 1.14.16",
     "description":"The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters."
 }
 ---

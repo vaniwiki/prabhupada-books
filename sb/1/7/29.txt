@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.29",
     "label":"Text 29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 1.7.29",
+    "h1":"SB 1.7.29",
+    "title":"Śrīmad Bhāgavatam 1.7.29",
     "description":"Śrī Sūta Gosvāmī said: Hearing this from the Personality of Godhead, Arjuna touched water for purification, and after circumambulating Lord Śrī Kṛṣṇa, he cast his brahmāstra weapon to counteract the other one."
 }
 ---

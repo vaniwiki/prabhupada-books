@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.3.20",
+    "h1":"SB 1.3.20",
+    "title":"Śrīmad Bhāgavatam 1.3.20",
     "description":"In the sixteenth incarnation of the Godhead, the Lord [as Bhṛgupati] annihilated the administrative class [kṣatriyas] twenty-one times, being angry with them because of their rebellion against the brāhmaṇas [the intelligent class]."
 }
 ---

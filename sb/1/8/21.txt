@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.21",
     "label":"Text 21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 1.8.21",
+    "h1":"SB 1.8.21",
+    "title":"Śrīmad Bhāgavatam 1.8.21",
     "description":"Let me therefore offer my respectful obeisances unto the Lord, who has become the son of Vasudeva, the pleasure of Devakī, the boy of Nanda and the other cowherd men of Vṛndāvana, and the enlivener of the cows and the senses."
 }
 ---

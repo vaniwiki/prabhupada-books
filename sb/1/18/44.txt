@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.44",
     "label":"Text 44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 1.18.44",
+    "h1":"SB 1.18.44",
+    "title":"Śrīmad Bhāgavatam 1.18.44",
     "description":"Due to the termination of the monarchical regimes and the plundering of the people's wealth by rogues and thieves, there will be great social disruptions. People will be killed and injured, and animals and women will be stolen. And for all these sins we shall be responsible."
 }
 ---

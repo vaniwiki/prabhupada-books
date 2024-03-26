@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.1.15",
+    "h1":"SB 1.1.15",
+    "title":"Śrīmad Bhāgavatam 1.1.15",
     "description":"O Sūta, those great sages who have completely taken shelter of the lotus feet of the Lord can at once sanctify those who come in touch with them, whereas the waters of the Ganges can sanctify only after prolonged use."
 }
 ---

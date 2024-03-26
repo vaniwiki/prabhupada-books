@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.24",
     "label":"Text 24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 1.7.24",
+    "h1":"SB 1.7.24",
+    "title":"Śrīmad Bhāgavatam 1.7.24",
     "description":"And yet, though You are beyond the purview of the material energy, You execute the four principles of liberation characterized by religion and so on for the ultimate good of the conditioned souls."
 }
 ---

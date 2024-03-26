@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.1.4",
+    "h1":"SB 1.1.4",
+    "title":"Śrīmad Bhāgavatam 1.1.4",
     "description":"Once, in a holy place in the forest of Naimiṣāraṇya, great sages headed by the sage Śaunaka assembled to perform a great thousand-year sacrifice for the satisfaction of the Lord and His devotees."
 }
 ---

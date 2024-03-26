@@ -2,8 +2,8 @@
 {
     "name":"SB 1.16.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.16.1",
+    "h1":"SB 1.16.1",
+    "title":"Śrīmad Bhāgavatam 1.16.1",
     "description":"Sūta Gosvāmī said: O learned brāhmaṇas, Mahārāja Parīkṣit then began to rule over the world as a great devotee of the Lord under the instructions of the best of the twice-born brāhmaṇas. He ruled by those great qualities which were foretold by expert astrologers at the time of his birth."
 }
 ---

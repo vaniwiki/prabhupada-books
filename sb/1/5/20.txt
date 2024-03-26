@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.5.20",
+    "h1":"SB 1.5.20",
+    "title":"Śrīmad Bhāgavatam 1.5.20",
     "description":"The Supreme Lord Personality of Godhead is Himself this cosmos, and still He is aloof from it. From Him only has this cosmic manifestation emanated, in Him it rests, and unto Him it enters after annihilation. Your good self knows all about this. I have given only a synopsis."
 }
 ---

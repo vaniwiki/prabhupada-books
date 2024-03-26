@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.6",
     "label":"Text 6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 1.4.6",
+    "h1":"SB 1.4.6",
+    "title":"Śrīmad Bhāgavatam 1.4.6",
     "description":"How was he [Śrīla Śukadeva, the son of Vyāsa] recognized by the citizens when he entered the city of Hastināpura [now Delhi], after wandering in the provinces of Kuru and Jāṅgala, appearing like a madman, dumb and retarded?"
 }
 ---

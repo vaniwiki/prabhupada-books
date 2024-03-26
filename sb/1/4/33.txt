@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.4.33",
+    "h1":"SB 1.4.33",
+    "title":"Śrīmad Bhāgavatam 1.4.33",
     "description":"At the auspicious arrival of Śrī Nārada, Śrī Vyāsadeva got up respectfully and worshiped him, giving him veneration equal to that given to Brahmājī, the creator."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.19.16",
+    "h1":"SB 1.19.16",
+    "title":"Śrīmad Bhāgavatam 1.19.16",
     "description":"Again, offering obeisances unto all you brāhmaṇas, I pray that if I should again take my birth in the material world I will have complete attachment to the unlimited Lord Kṛṣṇa, association with His devotees and friendly relations with all living beings."
 }
 ---

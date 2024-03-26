@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.34",
     "label":"Text 34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 1.8.34",
+    "h1":"SB 1.8.34",
+    "title":"Śrīmad Bhāgavatam 1.8.34",
     "description":"Others say that the world, being overburdened like a boat at sea, is much aggrieved, and that Brahmā, who is Your son, prayed for You, and so You have appeared to diminish the trouble."
 }
 ---

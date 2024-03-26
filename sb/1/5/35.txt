@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.35",
     "label":"Text 35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 1.5.35",
+    "h1":"SB 1.5.35",
+    "title":"Śrīmad Bhāgavatam 1.5.35",
     "description":"Whatever work is done here in this life for the satisfaction of the mission of the Lord is called bhakti-yoga, or transcendental loving service to the Lord, and what is called knowledge becomes a concomitant factor."
 }
 ---

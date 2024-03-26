@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.19",
     "label":"Text 19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 1.17.19",
+    "h1":"SB 1.17.19",
+    "title":"Śrīmad Bhāgavatam 1.17.19",
     "description":"Some of the philosophers, who deny all sorts of duality, declare that one's own self is responsible for his personal happiness and distress. Others say that superhuman powers are responsible, while yet others say that activity is responsible, and the gross materialists maintain that nature is the ultimate cause."
 }
 ---

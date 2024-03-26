@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.12.1",
+    "h1":"SB 1.12.1",
+    "title":"Śrīmad Bhāgavatam 1.12.1",
     "description":"The sage Śaunaka said: The womb of Uttarā, mother of Mahārāja Parīkṣit, was spoiled by the dreadful and invincible brahmāstra weapon released by Aśvatthāmā. But Mahārāja Parīkṣit was saved by the Supreme Lord."
 }
 ---

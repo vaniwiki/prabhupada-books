@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.15.17",
+    "h1":"SB 1.15.17",
+    "title":"Śrīmad Bhāgavatam 1.15.17",
     "description":"It was by His mercy only that my enemies neglected to kill me when I descended from my chariot to get water for my thirsty horses. And it was due to my lack of esteem for my Lord that I dared engage Him as my chariot driver, for He is worshiped and offered services by the best men to attain salvation."
 }
 ---

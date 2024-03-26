@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.18.5",
+    "h1":"SB 1.18.5",
+    "title":"Śrīmad Bhāgavatam 1.18.5",
     "description":"As long as the great, powerful son of Abhimanyu remains the Emperor of the world, there is no chance that the personality of Kali will flourish."
 }
 ---

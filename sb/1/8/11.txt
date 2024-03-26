@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.8.11",
+    "h1":"SB 1.8.11",
+    "title":"Śrīmad Bhāgavatam 1.8.11",
     "description":"Sūta Gosvāmī said: Having patiently heard her words, Lord Śrī Kṛṣṇa, who is always very affectionate to His devotees, could at once understand that Aśvatthāmā, the son of Droṇācārya, had thrown the brahmāstra to finish the last life in the Pāṇḍava family."
 }
 ---

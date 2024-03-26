@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.7.23",
+    "h1":"SB 1.7.23",
+    "title":"Śrīmad Bhāgavatam 1.7.23",
     "description":"You are the original Personality of Godhead who expands Himself all over the creations and is transcendental to material energy. You have cast away the effects of the material energy by dint of Your spiritual potency. You are always situated in eternal bliss and transcendental knowledge."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.5",
     "label":"Text 5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 1.9.5",
+    "h1":"SB 1.9.5",
+    "title":"Śrīmad Bhāgavatam 1.9.5",
     "description":"Just to see the chief of the descendants of King Bharata [Bhīṣma], all the great souls in the universe, namely the ṛṣis amongst the demigods, brāhmaṇas and kings, all situated in the quality of goodness, were assembled there."
 }
 ---

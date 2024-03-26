@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.13.17",
+    "h1":"SB 1.13.17",
+    "title":"Śrīmad Bhāgavatam 1.13.17",
     "description":"Insurmountable, eternal time imperceptibly overcomes those who are too much attached to family affairs and are always engrossed in their thought."
 }
 ---

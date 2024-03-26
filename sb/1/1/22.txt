@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.1.22",
+    "h1":"SB 1.1.22",
+    "title":"Śrīmad Bhāgavatam 1.1.22",
     "description":"We think that we have met Your Goodness by the will of providence, just so that we may accept you as captain of the ship for those who desire to cross the difficult ocean of Kali, which deteriorates all the good qualities of a human being."
 }
 ---

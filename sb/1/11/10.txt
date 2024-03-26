@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.11.10",
+    "h1":"SB 1.11.10",
+    "title":"Śrīmad Bhāgavatam 1.11.10",
     "description":"O master, if You live abroad all the time, then we cannot look at Your attractive face, whose smiles vanquish all our sufferings. How can we exist without Your presence?Upon hearing their speeches, the Lord, who is very kind to the citizens and the devotees, entered the city of Dvārakā and acknowledged all their greetings by casting His transcendental glance over them."
 }
 ---

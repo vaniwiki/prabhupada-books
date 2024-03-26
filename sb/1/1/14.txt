@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.1.14",
+    "h1":"SB 1.1.14",
+    "title":"Śrīmad Bhāgavatam 1.1.14",
     "description":"Living beings who are entangled in the complicated meshes of birth and death can be freed immediately by even unconsciously chanting the holy name of Kṛṣṇa, which is feared by fear personified."
 }
 ---

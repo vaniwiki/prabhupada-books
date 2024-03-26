@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.18.33",
+    "h1":"SB 1.18.33",
+    "title":"Śrīmad Bhāgavatam 1.18.33",
     "description":"[The brāhmaṇa's son, Śṛṅgi, said:] O just look at the sins of the rulers who, like crows and watchdogs at the door, perpetrate sins against their masters, contrary to the principles governing servants."
 }
 ---

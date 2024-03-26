@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.18.22",
+    "h1":"SB 1.18.22",
+    "title":"Śrīmad Bhāgavatam 1.18.22",
     "description":"Self-controlled persons who are attached to the Supreme Lord Śrī Kṛṣṇa can all of a sudden give up the world of material attachment, including the gross body and subtle mind, and go away to attain the highest perfection of the renounced order of life, by which nonviolence and renunciation are consequential."
 }
 ---

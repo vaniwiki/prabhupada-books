@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.8",
     "label":"Text 8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 1.6.8",
+    "h1":"SB 1.6.8",
+    "title":"Śrīmad Bhāgavatam 1.6.8",
     "description":"When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands."
 }
 ---

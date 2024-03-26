@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.42",
     "label":"Text 42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 1.8.42",
+    "h1":"SB 1.8.42",
+    "title":"Śrīmad Bhāgavatam 1.8.42",
     "description":"O Lord of Madhu, as the Ganges forever flows to the sea without hindrance, let my attraction be constantly drawn unto You without being diverted to anyone else."
 }
 ---

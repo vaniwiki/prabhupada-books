@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.30",
     "label":"Text 30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 1.5.30",
+    "h1":"SB 1.5.30",
+    "title":"Śrīmad Bhāgavatam 1.5.30",
     "description":"As they were leaving, those bhakti-vedāntas, who are very kind to poor-hearted souls, instructed me in that most confidential subject which is instructed by the Personality of Godhead Himself."
 }
 ---

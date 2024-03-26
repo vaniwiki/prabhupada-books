@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.11.22",
+    "h1":"SB 1.11.22",
+    "title":"Śrīmad Bhāgavatam 1.11.22",
     "description":"The Almighty Lord greeted everyone present by bowing His head, exchanging greetings, embracing, shaking hands, looking and smiling, giving assurances and awarding benedictions, even to the lowest in rank."
 }
 ---

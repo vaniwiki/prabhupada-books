@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.21",
     "label":"Text 21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 1.6.21",
+    "h1":"SB 1.6.21",
+    "title":"Śrīmad Bhāgavatam 1.6.21",
     "description":"O Nārada [the Lord spoke], I regret that during this lifetime you will not be able to see Me anymore. Those who are incomplete in service and who are not completely free from all material taints can hardly see Me."
 }
 ---

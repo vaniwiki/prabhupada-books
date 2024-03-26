@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.10",
     "label":"Text 10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 1.1.10",
+    "h1":"SB 1.1.10",
+    "title":"Śrīmad Bhāgavatam 1.1.10",
     "description":"O learned one, in this iron age of Kali men have but short lives. They are quarrelsome, lazy, misguided, unlucky and, above all, always disturbed."
 }
 ---

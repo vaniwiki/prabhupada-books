@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.28",
     "label":"Text 28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 1.18.28",
+    "h1":"SB 1.18.28",
+    "title":"Śrīmad Bhāgavatam 1.18.28",
     "description":"The King, not received by any formal welcome by means of being offered a seat, place, water and sweet addresses, considered himself neglected, and so thinking he became angry."
 }
 ---

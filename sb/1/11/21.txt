@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.21",
     "label":"Text 21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 1.11.21",
+    "h1":"SB 1.11.21",
+    "title":"Śrīmad Bhāgavatam 1.11.21",
     "description":"Lord Kṛṣṇa, the Personality of Godhead, approached them and offered due honor and respect to each and every one of the friends, relatives, citizens and all others who came to receive and welcome Him."
 }
 ---

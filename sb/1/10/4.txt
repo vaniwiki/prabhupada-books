@@ -2,8 +2,8 @@
 {
     "name":"SB 1.10.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.10.4",
+    "h1":"SB 1.10.4",
+    "title":"Śrīmad Bhāgavatam 1.10.4",
     "description":"During the reign of Mahārāja Yudhiṣṭhira, the clouds showered all the water that people needed, and the earth produced all the necessities of man in profusion. Due to its fatty milk bag and cheerful attitude, the cow used to moisten the grazing ground with milk."
 }
 ---

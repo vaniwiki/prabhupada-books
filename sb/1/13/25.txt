@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.25",
     "label":"Text 25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 1.13.25",
+    "h1":"SB 1.13.25",
+    "title":"Śrīmad Bhāgavatam 1.13.25",
     "description":"Despite your unwillingness to die and your desire to live even at the cost of honor and prestige, your miserly body will certainly dwindle and deteriorate like an old garment."
 }
 ---

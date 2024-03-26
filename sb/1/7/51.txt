@@ -2,8 +2,8 @@
 {
     "name":"SB 1.7.51",
     "label":"Text 51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 1.7.51",
+    "h1":"SB 1.7.51",
+    "title":"Śrīmad Bhāgavatam 1.7.51",
     "description":"Bhīma, however, disagreed with them and recommended killing this culprit who, in an angry mood, had murdered sleeping children for no purpose and for neither his nor his master's interest."
 }
 ---

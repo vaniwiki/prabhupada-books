@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.33",
     "label":"Text 33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 1.8.33",
+    "h1":"SB 1.8.33",
+    "title":"Śrīmad Bhāgavatam 1.8.33",
     "description":"Others say that since both Vasudeva and Devakī prayed for You, You have taken Your birth as their son. Undoubtedly You are unborn, yet You take Your birth for their welfare and to kill those who are envious of the demigods."
 }
 ---

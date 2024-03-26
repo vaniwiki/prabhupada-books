@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.51",
     "label":"Text 51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 1.13.51",
+    "h1":"SB 1.13.51",
+    "title":"Śrīmad Bhāgavatam 1.13.51",
     "description":"O King, your uncle Dhṛtarāṣṭra, his brother Vidura and his wife Gāndhārī have gone to the southern side of the Himalaya Mountains, where there are shelters of the great sages."
 }
 ---

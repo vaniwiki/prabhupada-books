@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.43",
     "label":"Text 43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 1.13.43",
+    "h1":"SB 1.13.43",
+    "title":"Śrīmad Bhāgavatam 1.13.43",
     "description":"As a player sets up and disperses his playthings according to his own sweet will, so the supreme will of the Lord brings men together and separates them."
 }
 ---

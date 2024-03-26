@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.24-25",
     "label":"Text 24-25",
-    "h1":"Text 24-25",
-    "title":" Śrīmad Bhāgavatam 1.18.24-25",
+    "h1":"SB 1.18.24-25",
+    "title":"Śrīmad Bhāgavatam 1.18.24-25",
     "description":"Once upon a time Mahārāja Parīkṣit, while engaged in hunting in the forest with bow and arrows, became extremely fatigued, hungry and thirsty while following the stags. While searching for a reservoir of water, he entered the hermitage of the well-known Śamīka Ṛṣi and saw the sage sitting silently with closed eyes."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.12.20",
+    "h1":"SB 1.12.20",
+    "title":"Śrīmad Bhāgavatam 1.12.20",
     "description":"This child will be a munificent donor of charity and protector of the surrendered, like the famous King Śibi of the Uśīnara country. And he will expand the name and fame of his family like Bharata, the son of Mahārāja Duṣyanta."
 }
 ---

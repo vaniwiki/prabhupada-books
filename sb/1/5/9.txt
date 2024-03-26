@@ -2,8 +2,8 @@
 {
     "name":"SB 1.5.9",
     "label":"Text 9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 1.5.9",
+    "h1":"SB 1.5.9",
+    "title":"Śrīmad Bhāgavatam 1.5.9",
     "description":"Although, great sage, you have very broadly described the four principles beginning with religious performances, you have not described the glories of the Supreme Personality, Vāsudeva."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.38",
     "label":"Text 38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 1.15.38",
+    "h1":"SB 1.15.38",
+    "title":"Śrīmad Bhāgavatam 1.15.38",
     "description":"Thereafter, in the capital of Hastināpura, he enthroned his grandson, who was trained and equally qualified, as the emperor and master of all land bordered by the seas."
 }
 ---

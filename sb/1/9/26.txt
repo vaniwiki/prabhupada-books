@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.26",
     "label":"Text 26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 1.9.26",
+    "h1":"SB 1.9.26",
+    "title":"Śrīmad Bhāgavatam 1.9.26",
     "description":"At Mahārāja Yudhiṣṭhira's inquiry, Bhīṣmadeva first defined all the classifications of castes and orders of life in terms of the individual's qualifications. Then he systematically, in twofold divisions, described counteraction by detachment and interaction by attachment."
 }
 ---

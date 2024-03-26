@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.14.23",
+    "h1":"SB 1.14.23",
+    "title":"Śrīmad Bhāgavatam 1.14.23",
     "description":"When he bowed at his feet, the King saw that his dejection was unprecedented. His head was down, and tears glided from his lotus eyes."
 }
 ---

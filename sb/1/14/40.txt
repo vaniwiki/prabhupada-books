@@ -2,8 +2,8 @@
 {
     "name":"SB 1.14.40",
     "label":"Text 40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 1.14.40",
+    "h1":"SB 1.14.40",
+    "title":"Śrīmad Bhāgavatam 1.14.40",
     "description":"Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?"
 }
 ---

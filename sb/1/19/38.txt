@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.38",
     "label":"Text 38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 1.19.38",
+    "h1":"SB 1.19.38",
+    "title":"Śrīmad Bhāgavatam 1.19.38",
     "description":"Please let me know what a man should hear, chant, remember and worship, and also what he should not do. Please explain all this to me."
 }
 ---

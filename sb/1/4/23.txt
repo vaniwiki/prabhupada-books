@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.4.23",
+    "h1":"SB 1.4.23",
+    "title":"Śrīmad Bhāgavatam 1.4.23",
     "description":"All these learned scholars, in their turn, rendered their entrusted Vedas unto their many disciples, grand-disciples and great grand-disciples, and thus the respective branches of the followers of the Vedas came into being."
 }
 ---

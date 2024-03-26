@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.4.22",
+    "h1":"SB 1.4.22",
+    "title":"Śrīmad Bhāgavatam 1.4.22",
     "description":"The Sumantu Muni Aṅgirā, who was very devotedly engaged, was entrusted with the Atharva Veda. And my father, Romaharṣaṇa, was entrusted with the Purāṇas and historical record"
 }
 ---

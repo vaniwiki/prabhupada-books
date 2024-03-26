@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.24",
     "label":"Text 24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 1.13.24",
+    "h1":"SB 1.13.24",
+    "title":"Śrīmad Bhāgavatam 1.13.24",
     "description":"There is no need to live a degraded life and subsist on the charity of those whom you tried to kill by arson and poisoning. You also insulted one of their wives and usurped their kingdom and wealth."
 }
 ---

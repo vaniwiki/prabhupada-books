@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.23",
     "label":"Text 23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 1.8.23",
+    "h1":"SB 1.8.23",
+    "title":"Śrīmad Bhāgavatam 1.8.23",
     "description":"O Hṛṣīkeśa, master of the senses and Lord of lords, You have released Your mother, Devakī, who was long imprisoned and distressed by the envious King Kaṁsa, and me and my children from a series of constant dangers."
 }
 ---

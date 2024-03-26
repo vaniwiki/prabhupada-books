@@ -2,8 +2,8 @@
 {
     "name":"SB 1.1.13",
     "label":"Text 13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 1.1.13",
+    "h1":"SB 1.1.13",
+    "title":"Śrīmad Bhāgavatam 1.1.13",
     "description":"O Sūta Gosvāmī, we are eager to learn about the Personality of Godhead and His incarnations. Please explain to us those teachings imparted by previous masters [ācāryas], for one is uplifted both by speaking them and by hearing them."
 }
 ---

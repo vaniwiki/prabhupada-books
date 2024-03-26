@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.14",
     "label":"Text 14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 1.13.14",
+    "h1":"SB 1.13.14",
+    "title":"Śrīmad Bhāgavatam 1.13.14",
     "description":"Thus Mahātmā Vidura, being treated just like a godly person by his kinsmen, remained there for a certain period just to rectify the mentality of his eldest brother and in this way bring happiness to all the others."
 }
 ---

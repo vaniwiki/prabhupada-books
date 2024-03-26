@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.39",
     "label":"Text 39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 1.19.39",
+    "h1":"SB 1.19.39",
+    "title":"Śrīmad Bhāgavatam 1.19.39",
     "description":"O powerful brāhmaṇa, it is said that you hardly stay in the houses of men long enough to milk a cow."
 }
 ---

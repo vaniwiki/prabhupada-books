@@ -2,8 +2,8 @@
 {
     "name":"SB 1.3.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.3.17",
+    "h1":"SB 1.3.17",
+    "title":"Śrīmad Bhāgavatam 1.3.17",
     "description":"In the twelfth incarnation, the Lord appeared as Dhanvantari, and in the thirteenth He allured the atheists by the charming beauty of a woman and gave nectar to the demigods to drink."
 }
 ---

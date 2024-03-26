@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.18",
     "label":"Text 18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 1.8.18",
+    "h1":"SB 1.8.18",
+    "title":"Śrīmad Bhāgavatam 1.8.18",
     "description":"Śrīmatī Kuntī said: O Kṛṣṇa, I offer my obeisances unto You because You are the original personality and are unaffected by the qualities of the material world. You are existing both within and without everything, yet You are invisible to all."
 }
 ---

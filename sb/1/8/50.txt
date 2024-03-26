@@ -2,8 +2,8 @@
 {
     "name":"SB 1.8.50",
     "label":"Text 50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 1.8.50",
+    "h1":"SB 1.8.50",
+    "title":"Śrīmad Bhāgavatam 1.8.50",
     "description":"There is no sin for a king who kills for the right cause, who is engaged in maintaining his citizens. But this injunction is not applicable to me."
 }
 ---

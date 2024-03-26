@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.6.11",
+    "h1":"SB 1.6.11",
+    "title":"Śrīmad Bhāgavatam 1.6.11",
     "description":"After my departure, I passed through many flourishing metropolises, towns, villages, animal farms, mines, agricultural lands, valleys, flower gardens, nursery gardens and natural forests."
 }
 ---

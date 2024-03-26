@@ -2,8 +2,8 @@
 {
     "name":"SB 1.19.35",
     "label":"Text 35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 1.19.35",
+    "h1":"SB 1.19.35",
+    "title":"Śrīmad Bhāgavatam 1.19.35",
     "description":"Lord Kṛṣṇa, the Personality of Godhead, who is very dear to the sons of King Pāṇḍu, has accepted me as one of those relatives just to please His great cousins and brothers."
 }
 ---

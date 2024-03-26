@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.15",
     "label":"Text 15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 1.13.15",
+    "h1":"SB 1.13.15",
+    "title":"Śrīmad Bhāgavatam 1.13.15",
     "description":"As long as Vidura played the part of a śūdra, being cursed by Maṇḍūka Muni, Aryamā officiated at the post of Yamarāja to punish those who committed sinful acts."
 }
 ---

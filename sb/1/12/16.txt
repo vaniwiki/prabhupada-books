@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.16",
     "label":"Text 16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 1.12.16",
+    "h1":"SB 1.12.16",
+    "title":"Śrīmad Bhāgavatam 1.12.16",
     "description":"The brāhmaṇas said: This spotless son has been restored by the all-powerful and all-pervasive Lord Viṣṇu, the Personality of Godhead, in order to oblige you. He was saved when he was doomed to be destroyed by an irresistible supernatural weapon."
 }
 ---

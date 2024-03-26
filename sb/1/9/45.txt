@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.45",
     "label":"Text 45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 1.9.45",
+    "h1":"SB 1.9.45",
+    "title":"Śrīmad Bhāgavatam 1.9.45",
     "description":"Thereafter, both men and demigods sounded drums in honor, and the honest royal order commenced demonstrations of honor and respect. And from the sky fell showers of flowers."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.11.11",
     "label":"Text 11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 1.11.11",
+    "h1":"SB 1.11.11",
+    "title":"Śrīmad Bhāgavatam 1.11.11",
     "description":"As Bhogavatī, the capital of Nāgaloka, is protected by the Nāgas, so was Dvārakā protected by the descendants of Vṛṣṇi—Bhoja, Madhu, Daśārha, Arha, Kukura, Andhaka, etc.—who were as strong as Lord Kṛṣṇa."
 }
 ---

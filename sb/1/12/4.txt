@@ -2,8 +2,8 @@
 {
     "name":"SB 1.12.4",
     "label":"Text 4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 1.12.4",
+    "h1":"SB 1.12.4",
+    "title":"Śrīmad Bhāgavatam 1.12.4",
     "description":"Śrī Sūta Gosvāmī said: Emperor Yudhiṣṭhira administered generously to everyone during his reign. He was exactly like his father. He had no personal ambition and was freed from all sorts of sense gratification because of his continuous service unto the lotus feet of the Lord Śrī Kṛṣṇa."
 }
 ---

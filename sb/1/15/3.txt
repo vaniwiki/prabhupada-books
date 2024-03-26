@@ -2,8 +2,8 @@
 {
     "name":"SB 1.15.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.15.3",
+    "h1":"SB 1.15.3",
+    "title":"Śrīmad Bhāgavatam 1.15.3",
     "description":"With great difficulty he checked the tears of grief that smeared his eyes. He was very distressed because Lord Kṛṣṇa was out of his sight, and he increasingly felt affection for Him."
 }
 ---

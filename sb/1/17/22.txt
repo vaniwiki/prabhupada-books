@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.22",
     "label":"Text 22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 1.17.22",
+    "h1":"SB 1.17.22",
+    "title":"Śrīmad Bhāgavatam 1.17.22",
     "description":"The King said: O you, who are in the form of a bull! You know the truth of religion, and you are speaking according to the principle that the destination intended for the perpetrator of irreligious acts is also intended for one who identifies the perpetrator. You are no other than the personality of religion."
 }
 ---

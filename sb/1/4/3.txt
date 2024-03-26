@@ -2,8 +2,8 @@
 {
     "name":"SB 1.4.3",
     "label":"Text 3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 1.4.3",
+    "h1":"SB 1.4.3",
+    "title":"Śrīmad Bhāgavatam 1.4.3",
     "description":"In what period and at what place was this first begun, and why was this taken up? From where did Kṛṣṇa-dvaipāyana Vyāsa, the great sage, get the inspiration to compile this literature?"
 }
 ---

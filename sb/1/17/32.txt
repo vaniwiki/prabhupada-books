@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.32",
     "label":"Text 32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 1.17.32",
+    "h1":"SB 1.17.32",
+    "title":"Śrīmad Bhāgavatam 1.17.32",
     "description":"If the personality of Kali, irreligion, is allowed to act as a man-god or an executive head, certainly irreligious principles like greed, falsehood, robbery, incivility, treachery, misfortune, cheating, quarrel and vanity will abound."
 }
 ---

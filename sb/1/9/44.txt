@@ -2,8 +2,8 @@
 {
     "name":"SB 1.9.44",
     "label":"Text 44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 1.9.44",
+    "h1":"SB 1.9.44",
+    "title":"Śrīmad Bhāgavatam 1.9.44",
     "description":"Knowing that Bhīṣmadeva had merged into the unlimited eternity of the Supreme Absolute, all present there became silent like birds at the end of the day."
 }
 ---

@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.41",
     "label":"Text 41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 1.17.41",
+    "h1":"SB 1.17.41",
+    "title":"Śrīmad Bhāgavatam 1.17.41",
     "description":"Therefore, whoever desires progressive well-being, especially kings, religionists, public leaders, brāhmaṇas and sannyāsīs, should never come in contact with the four above-mentioned irreligious principles."
 }
 ---

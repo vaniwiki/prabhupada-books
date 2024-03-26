@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.42",
     "label":"Text 42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 1.18.42",
+    "h1":"SB 1.18.42",
+    "title":"Śrīmad Bhāgavatam 1.18.42",
     "description":"O my boy, your intelligence is immature, and therefore you have no knowledge that the king, who is the best amongst human beings, is as good as the Personality of Godhead. He is never to be placed on an equal footing with common men. The citizens of the state live in prosperity, being protected by his unsurpassable prowess."
 }
 ---

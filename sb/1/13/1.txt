@@ -2,8 +2,8 @@
 {
     "name":"SB 1.13.1",
     "label":"Text 1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 1.13.1",
+    "h1":"SB 1.13.1",
+    "title":"Śrīmad Bhāgavatam 1.13.1",
     "description":"Śrī Sūta Gosvāmī said: While traveling on a pilgrimage, Vidura received knowledge of the destination of the self from the great sage Maitreya and then returned to Hastināpura. He became as well versed in the subject as he desired."
 }
 ---

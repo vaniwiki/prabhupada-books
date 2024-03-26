@@ -2,8 +2,8 @@
 {
     "name":"SB 1.17.36",
     "label":"Text 36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 1.17.36",
+    "h1":"SB 1.17.36",
+    "title":"Śrīmad Bhāgavatam 1.17.36",
     "description":"O Your Majesty, though I may live anywhere and everywhere under your order, I shall but see you with bow and arrows wherever I look."
 }
 ---

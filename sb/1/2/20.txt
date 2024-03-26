@@ -2,8 +2,8 @@
 {
     "name":"SB 1.2.20",
     "label":"Text 20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 1.2.20",
+    "h1":"SB 1.2.20",
+    "title":"Śrīmad Bhāgavatam 1.2.20",
     "description":"Thus established in the mode of unalloyed goodness, the man whose mind has been enlivened by contact with devotional service to the Lord gains positive scientific knowledge of the Personality of Godhead in the stage of liberation from all material association."
 }
 ---

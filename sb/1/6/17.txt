@@ -2,8 +2,8 @@
 {
     "name":"SB 1.6.17",
     "label":"Text 17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 1.6.17",
+    "h1":"SB 1.6.17",
+    "title":"Śrīmad Bhāgavatam 1.6.17",
     "description":"O Vyāsadeva, at that time, being exceedingly overpowered by feelings of happiness, every part of my body became separately enlivened. Being absorbed in an ocean of ecstasy, I could not see both myself and the Lord."
 }
 ---

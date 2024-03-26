@@ -2,8 +2,8 @@
 {
     "name":"SB 1.18.29",
     "label":"Text 29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 1.18.29",
+    "h1":"SB 1.18.29",
+    "title":"Śrīmad Bhāgavatam 1.18.29",
     "description":"O brāhmaṇas, the King's anger and envy, directed toward the brāhmaṇa sage, were unprecedented, being that circumstances had made him hungry and thirsty."
 }
 ---

@@ -1,5 +1,8 @@
 ====== Perfect Questions, Perfect Answers ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   * [[books:pqpa:0a|Introduction]]
   - [[books:pqpa:1|Kṛṣṇa, the All-Attractive]]
   - [[books:pqpa:2|Vedic Culture: Varṇāśrama-dharma]]
@@ -7,7 +10,9 @@
   - [[books:pqpa:4|The Three Modes Of Nature]]
   - [[books:pqpa:5|Becoming Pure]]
   - [[books:pqpa:6|The Perfect Devotee]]
-  - [[bookd:pqpa:7|Acting in Knowledge of Kṛṣṇa]]
-  - [[bookd:pqpa:8|Advancing in Kṛṣṇa Consciousness]]
-  - [[bookd:pqpa:9|Deciding for the Future]]
-  * [[bookd:pqpa:10|Concluding words]]
+  - [[books:pqpa:7|Acting in Knowledge of Kṛṣṇa]]
+  - [[books:pqpa:8|Advancing in Kṛṣṇa Consciousness]]
+  - [[books:pqpa:9|Deciding for the Future]]
+  * [[books:pqpa:10|Concluding words]]
+
+</card>

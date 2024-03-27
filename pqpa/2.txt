@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Vedic Culture: Varṇāśrama-dharma",
-    "h1":"Chapter 2",
-    "title":"(.*?)",
+    "name":"PQPA 2",
+    "h1":"Vedic Culture: Varṇāśrama-dharma",
+    "label":"Chapter 2",
+    "title":"PQPA 2: Vedic Culture: Varṇāśrama-dharma",
     "description":""
 }
 ---

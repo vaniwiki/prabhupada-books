@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Real Goal of life",
-    "h1":"Chapter 3",
-    "title":"(.*?)",
+    "name":"PQPA 3",
+    "h1":"The Real Goal of life",
+    "label":"Chapter 3",
+    "title":"PQPA 3: The Real Goal of life",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Kṛṣṇa, the All-Attractive",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
+    "name":"PQPA 1",
+    "h1":"Kṛṣṇa, the All-Attractive",
+    "label":"Chapter 1",
+    "title":"Perfect Questions, Perfect Answers 1: Kṛṣṇa, the All-Attractive",
     "description":""
 }
 ---

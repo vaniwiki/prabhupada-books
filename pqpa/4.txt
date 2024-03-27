@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Three Modes Of Nature",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
+    "name":"PQPA 4",
+    "h1":"The Three Modes Of Nature",
+    "label":"Chapter 4",
+    "title":"PQPA 4: The Three Modes Of Nature",
     "description":""
 }
 ---

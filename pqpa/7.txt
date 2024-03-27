@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Acting in Knowledge of Kṛṣṇa",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"PQPA 7",
+    "h1":"Acting in Knowledge of Kṛṣṇa",
+    "label":"Chapter 7",
+    "title":"PQPA 7: Acting in Knowledge of Kṛṣṇa",
     "description":""
 }
 ---

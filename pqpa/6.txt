@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Perfect Devotee",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"PQPA 6",
+    "h1":"The Perfect Devotee",
+    "label":"Chapter 6",
+    "title":"PQPA 6: The Perfect Devotee",
     "description":""
 }
 ---

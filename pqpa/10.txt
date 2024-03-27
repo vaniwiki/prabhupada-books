@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Concluding words",
+    "name":"PQPA Concluding words",
     "h1":"Concluding words",
-    "title":"(.*?)",
+    "label":"Concluding words",
+    "title":"Perfect Questions, Perfect Answers Concluding Words",
     "description":""
 }
 ---

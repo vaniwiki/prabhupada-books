@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Advancing in Kṛṣṇa Consciousness",
-    "h1":"Chapter 8",
-    "title":"(.*?)",
+    "name":"PQPA 8",
+    "h1":"Advancing in Kṛṣṇa Consciousness",
+    "label":"Chapter 8",
+    "title":"PQPA 8: Advancing in Kṛṣṇa Consciousness",
     "description":""
 }
 ---

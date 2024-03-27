@@ -1,9 +1,9 @@
 ---json
 {
-    "name":"NOD Preface",
+    "name":"NOI Preface",
     "h1":"Preface",
     "label":"Preface",
-    "title":"The Nectar of Devotion Preface",
+    "title":"The Nectar of Instruction Preface",
     "description":""
 }
 ---

@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"NOD 1",
+    "name":"NOI 1",
     "h1":"Text 1",
     "label":"Text 1",
     "title":"The Nectar of Instruction Text 1",

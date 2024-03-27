@@ -2,6 +2,7 @@
 {
     "name":"Karma-yoga",
     "h1":"Chapter 2",
+    "label":"Chapter 2",
     "title":"Message of Godhead 2: Karma-yoga",
     "description":""
 }

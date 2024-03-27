@@ -2,6 +2,7 @@
 {
     "name":"Transcendental Knowledge",
     "h1":"Chapter 1",
+    "label":"Chapter 1",
     "title":"Message of Godhead 1: Transcendental Knowledge",
     "description":""
 }

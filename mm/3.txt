@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Mukunda-mālā-stotra, Sūtra 3",
+    "name":"MMS 3",
     "h1":"Sūtra 3",
+    "label":"Sūtra 3",
     "title":"Mukunda-mālā-stotra, Sūtra 3",
     "description":"O Lord Mukunda! I bow down my head to Your Lordship and respectfully ask You to fulfill this one desire of mine: that in each of my future births I will, by Your Lordship's mercy, always remember and never forget Your lotus feet."
 }

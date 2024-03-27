@@ -2,6 +2,7 @@
 {
     "name":"Mukunda-mālā-stotra",
     "h1":"Mukunda-mālā-stotra",
+    "label":"Mukunda-mālā-stotra",
     "title":"Mukunda-mālā-stotra",
     "description":""
 }

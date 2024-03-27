@@ -9,6 +9,9 @@
 
 ====== The Path of Perfection ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   - [[books:pop:0a|Introduction]]
   - [[books:pop:1|Yoga as Action]]
   - [[books:pop:2|Mastering the Mind and Senses]]
@@ -20,3 +23,5 @@
   - [[books:pop:8|Failure and Success in Yoga]]
   - [[books:pop:9|Destination After Death]]
   - [[books:pop:10|The Path of Perfection]]
+
+</card>

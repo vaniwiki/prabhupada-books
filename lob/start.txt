@@ -10,10 +10,7 @@
 
 ====== Light of the Bhāgavata ======
 
-<card line-spacing="lg">
-<header>Table of contents</header>
-
-[[books:lob:0a|Preface]]
+  * [[books:lob:0a|Preface]]
 
   ; [[books:lob:1|Text 1]]
   : The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life.
@@ -158,5 +155,3 @@
 
   ; [[books:lob:48|Text 48]]
   : The moon, or Candraloka, is one of the four important places of residence for the demigods. Beyond Mānasa Lake is Sumeru Mountain. On the eastern side of this mountain is the planet Devadhānī, where Indra resides. On the southern side is the planet known as Saṁyamanī, where Yamarāja resides. On the western side is the planet known as Nimlocanī, the residence of Vāyu, the demigod who controls the wind. And on the northern side of the mountain is the moon, which is also known as Vibhāvarī.
-
-</card>

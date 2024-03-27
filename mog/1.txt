@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Transcendental Knowledge",
-    "h1":"Chapter 1",
+    "name":"MOG 1",
+    "h1":"Transcendental Knowledge",
     "label":"Chapter 1",
     "title":"Message of Godhead 1: Transcendental Knowledge",
     "description":""

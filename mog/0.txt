@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"Introduction",
+    "name":"MOG Introduction",
     "h1":"Introduction",
     "label":"Introduction",
     "title":"Message of Godhead Introduction",

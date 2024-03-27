@@ -1,7 +1,7 @@
 ---json
 {
-    "name":"Karma-yoga",
-    "h1":"Chapter 2",
+    "name":"MOG 2",
+    "h1":"Karma-yoga",
     "label":"Chapter 2",
     "title":"Message of Godhead 2: Karma-yoga",
     "description":""

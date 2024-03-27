@@ -2,12 +2,16 @@
 {
     "name":"The Matchless Gift",
     "h1":"The Matchless Gift",
+    "label":"The Matchless Gift",
     "title":"Kṛṣṇa Consciousness, The Matchless Gift",
     "description":""
 }
 ---
 
 ====== Kṛṣṇa Consciousness, The Matchless Gift  ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:mg:1|Spiritual Knowledge Through Kṛṣṇa]]
   - [[books:mg:2|Getting Out — the Material Mire]]
@@ -16,3 +20,5 @@
   - [[books:mg:5|Learning Steadiness in Kṛṣṇa Consciousness]]
   - [[books:mg:6|Transcending Designations and Problems]]
   - [[books:mg:7|The Matchless Gift: Liberation in Kṛṣṇa Consciousness]]
+
+</card>

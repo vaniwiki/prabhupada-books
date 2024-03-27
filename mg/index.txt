@@ -1,7 +1,8 @@
 ---json
 {
     "name":"MG Index",
-    "h1":"Index",
+    "h1":"Index"
+    "label":"Index",
     "title":"Matchless Gift: Index",
     "description":""
 }

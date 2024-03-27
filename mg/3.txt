@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Learning to Love",
-    "h1":"Chapter 3",
+    "h1":"Learning to Love",
+    "label":"Chapter 3",
     "title":"Matchless Gift 3: Learning to Love",
     "description":""
 }

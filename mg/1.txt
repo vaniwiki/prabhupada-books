@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Spiritual Knowledge Through Kṛṣṇa",
-    "h1":"Chapter 1",
+    "h1":"Spiritual Knowledge Through Kṛṣṇa",
+    "label":"Chapter 1",
     "title":"Matchless Gift 1: Spiritual Knowledge Through Kṛṣṇa",
     "description":""
 }

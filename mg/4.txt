@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Learning Tapasya, Self-Control",
-    "h1":"Chapter 4",
+    "h1":"Learning Tapasya, Self-Control",
+    "label":"Chapter 4",
     "title":"Matchless Gift 4: Learning Tapasya, Self-Control",
     "description":""
 }

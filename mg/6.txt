@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Transcending Designations and Problems",
-    "h1":"Chapter 6",
+    "h1":"Transcending Designations and Problems",
+    "label":"Chapter 6",
     "title":"Matchless Gift 6: Transcending Designations and Problems",
     "description":""
 }

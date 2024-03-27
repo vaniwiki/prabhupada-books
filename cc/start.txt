@@ -9,7 +9,7 @@
 
 ====== Śrī Caitanya-caritāmṛta ======
 
-<card>
+<card line-spacing="lg">
 <title>[[books:cc:adi:start|Ādi-līlā]]</title>
 
   * [[books:cc:adi:preface|Preface]]
@@ -35,7 +35,7 @@
 
 </card>
 
-<card>
+<card line-spacing="lg">
 <title>[[books:cc:madhya:start|Madhya-līlā]]</title>
 
   - [[books:cc:madhya:1:start|The Later Pastimes of Lord Śrī Caitanya Mahāprabhu]]
@@ -66,7 +66,7 @@
 
 </card>
 
-<card>
+<card line-spacing="lg">
 <title>[[books:cc:antya:start|Antya-līlā]]</title>
 
   - [[books:cc:antya:1:start|Śrīla Rūpa Gosvāmī's Second Meeting With the Lord]]

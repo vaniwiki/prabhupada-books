@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Liberation in Kṛṣṇa Consciousness",
-    "h1":"Chapter 7",
+    "h1":"Liberation in Kṛṣṇa Consciousness",
+    "label":"Chapter 7",
     "title":"Matchless Gift 7: Liberation in Kṛṣṇa Consciousness",
     "description":""
 }

@@ -7,10 +7,10 @@
 }
 ---
 
+====== Life Comes from Life ======
+
 <card line-spacing="lg">
 <header>Table of contents</header>
-
-====== Life Comes from Life ======
 
   * [[books:lcfl:0a|Foreword]]
   * [[books:lcfl:0b|Introduction]]

@@ -2,6 +2,7 @@
 {
     "name":"POP Introduction",
     "h1":"Introduction",
+    "label":"Introduction",
     "title":"(.*?)",
     "description":""
 }

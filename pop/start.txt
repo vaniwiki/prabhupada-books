@@ -2,6 +2,7 @@
 {
     "name":"POP",
     "h1":"Path of Perfection",
+    "label":"Path of Perfection",
     "title":"Path of Perfection",
     "description":""
 }

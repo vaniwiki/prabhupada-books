@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga as Action",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
+    "name":"POP 1",
+    "h1":"Yoga as Action",
+    "label":"Chapter 1",
+    "title":"The Path of Perfection 1: Yoga as Action",
     "description":""
 }
 ---

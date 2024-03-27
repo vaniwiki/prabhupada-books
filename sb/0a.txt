@@ -1,15 +1,14 @@
 ---json
 {
-    "name":"Śrīmad-Bhāgavatam Preface",
-    "h1":" Preface",
-    "title":"(.*?)",
+    "name":"SB Preface",
+    "h1":"Preface",
+    "label":"Preface",
+    "title":"Śrīmad-Bhāgavatam Preface",
     "description":""
 }
 ---
 
 ====== Śrīmad-Bhāgavatam Preface ======
-
-===== =====
 
 We must know the present need of human society. And what is that need? Human society is no longer bounded by geographical limits to particular countries or communities. Human society is broader than in the Middle Ages, and the world tendency is toward one state or one human society. The ideals of spiritual communism, according to //Śrīmad-Bhāgavatam,// are based more or less on the oneness of the entire human society, nay, of the entire energy of living beings. The need is felt by great thinkers to make this a successful ideology. //Śrīmad-Bhāgavatam// will fill this need in human society. It begins, therefore, with the aphorism of Vedānta philosophy //janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]] to establish the ideal of a common cause.
 

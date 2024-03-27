@@ -1,6 +1,9 @@
 ---json
 {
     "name":"Easy Journey to Other Planets",
+    "h1":"Easy Journey to Other Planets",
+    "label":"Easy Journey to Other Planets",
+    "title":"Easy Journey to Other Planets",
     "description":"The latest desire man has developed is the desire to travel to other planets. This is also quite natural, because he has the constitutional right to go to any part of the material or spiritual skies."
 }
 ---

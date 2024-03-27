@@ -7,6 +7,9 @@
 }
 ---
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
 ====== Life Comes from Life ======
 
   * [[books:lcfl:0a|Foreword]]
@@ -98,3 +101,5 @@
     * God Is Never Zero
     * The Absolute Nature of Kṛṣṇa's Love
     * Accepting Knowledge From a Learned Person
+
+</card>

@@ -1,9 +1,9 @@
 ---json
 {
-    "name":"Destination After Death",
-    "h1":"Chapter 9",
+    "name":"POP 9",
+    "h1":"Destination After Death",
     "label":"Chapter 9",
-    "title":"(.*?)",
+    "title":"The Path of Perfection 9: Destination After Death",
     "description":""
 }
 ---

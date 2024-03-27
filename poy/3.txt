@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga as Meditation on Kṛṣṇa",
-    "h1":"Chapter 3",
-    "title":"(.*?)",
+    "name":"POY 3",
+    "h1":"Yoga as Meditation on Kṛṣṇa",
+    "label":"Chapter 3",
+    "title":"The Perfection of Yoga 3: Yoga as Meditation on Kṛṣṇa",
     "description":""
 }
 ---

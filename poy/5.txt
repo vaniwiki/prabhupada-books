@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga as Freedom from Duality and Designation",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
+    "name":"POY 5",
+    "h1":"Yoga as Freedom from Duality and Designation",
+    "label":"Chapter 5",
+    "title":"The Perfection of Yoga 5: Yoga as Freedom from Duality and Designation",
     "description":""
 }
 ---

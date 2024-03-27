@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Fate of the Unsuccessful Yogī",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"POY 6",
+    "h1":"The Fate of the Unsuccessful Yogī",
+    "label":"Chapter 6",
+    "title":"The Perfection of Yoga 6: The Fate of the Unsuccessful Yogī",
     "description":""
 }
 ---

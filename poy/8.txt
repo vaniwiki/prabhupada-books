@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Perfection of Yoga",
-    "h1":"Chapter 8",
-    "title":"(.*?)",
+    "name":"POY 8",
+    "h1":"The Perfection of Yoga",
+    "label":"Chapter 8",
+    "title":"The Perfection of Yoga 8: The Perfection of Yoga",
     "description":""
 }
 ---

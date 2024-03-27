@@ -1,11 +1,14 @@
 ---json
 {
-    "name":"POY",
-    "h1":"Perfection of Yoga",
-    "title":"Perfection of Yoga",
+    "name":"The Perfection of Yoga",
+    "h1":"The Perfection of Yoga",
+    "title":"The Perfection of Yoga",
     "description":""
 }
 ---
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
 ====== The Perfection of Yoga ======
 
@@ -17,3 +20,5 @@
   - [[books:poy:6|The Fate of the Unsuccessful Yogī]]
   - [[books:poy:7|Yoga as Reestablishing Relations with Kṛṣṇa]]
   - [[books:poy:8|The Perfection of Yoga]]
+
+</card>

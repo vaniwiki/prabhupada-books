@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga as Reestablishing Relations with Kṛṣṇa",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"POY 7",
+    "h1":"Yoga as Reestablishing Relations with Kṛṣṇa",
+    "label":"Chapter 7",
+    "title":"The Perfection of Yoga 7: Yoga as Reestablishing Relations with Kṛṣṇa",
     "description":""
 }
 ---

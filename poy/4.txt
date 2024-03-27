@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga as Body and Mind Control",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
+    "name":"POY 4",
+    "h1":"Yoga as Body and Mind Control",
+    "label":"Chapter 4",
+    "title":"The Perfection of Yoga 4: Yoga as Body and Mind Control",
     "description":""
 }
 ---

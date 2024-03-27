@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Failure and Success in Yoga",
-    "h1":"Chapter 8",
-    "title":"(.*?)",
+    "name":"POP 8",
+    "h1":"Failure and Success in Yoga",
+    "label":"Chapter 8",
+    "title":"The Path of Perfection 8: Failure and Success in Yoga",
     "description":""
 }
 ---

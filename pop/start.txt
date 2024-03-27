@@ -1,9 +1,9 @@
 ---json
 {
-    "name":"POP",
-    "h1":"Path of Perfection",
-    "label":"Path of Perfection",
-    "title":"Path of Perfection",
+    "name":"The Path of Perfection",
+    "h1":"The Path of Perfection",
+    "label":"The Path of Perfection",
+    "title":"The Path of Perfection",
     "description":""
 }
 ---

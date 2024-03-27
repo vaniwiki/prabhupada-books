@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Yoga for the Modern Age",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"POP 7",
+    "h1":"Yoga for the Modern Age",
+    "label":"Chapter 7",
+    "title":"The Path of Perfection 7: Yoga for the Modern Age",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Path of Perfection",
-    "h1":"Chapter 10",
-    "title":"(.*?)",
+    "name":"POP 10",
+    "h1":"The Path of Perfection",
+    "label":"Chapter 10",
+    "title":"The Path of Perfection 10: The Path of Perfection",
     "description":""
 }
 ---

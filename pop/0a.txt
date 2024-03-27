@@ -3,7 +3,7 @@
     "name":"POP Introduction",
     "h1":"Introduction",
     "label":"Introduction",
-    "title":"(.*?)",
+    "title":"The Path of Perfection Introduction",
     "description":""
 }
 ---

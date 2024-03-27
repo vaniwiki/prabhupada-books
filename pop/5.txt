@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Determination and Steadiness in Yoga",
-    "h1":"Chapter 5",
-    "title":"(.*?)",
+    "name":"POP 5",
+    "h1":"Determination and Steadiness in Yoga",
+    "label":"Chapter 5",
+    "title":"The Path of Perfection 5: Determination and Steadiness in Yoga",
     "description":""
 }
 ---

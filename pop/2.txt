@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Mastering the Mind and Senses",
-    "h1":"Chapter 2",
-    "title":"(.*?)",
+    "name":"POP 2",
+    "h1":"Mastering the Mind and Senses",
+    "label:"Chapter 2",
+    "title":"The Path of Perfection 2: Mastering the Mind and Senses",
     "description":""
 }
 ---

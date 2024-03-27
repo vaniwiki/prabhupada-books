@@ -2,6 +2,7 @@
 {
     "name":"Destination After Death",
     "h1":"Chapter 9",
+    "label":"Chapter 9",
     "title":"(.*?)",
     "description":""
 }

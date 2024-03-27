@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Moderation in Yoga",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
+    "name":"POP 4",
+    "h1":"Moderation in Yoga",
+    "label":"Chapter 4",
+    "title":"The Path of Perfection 4: Moderation in Yoga",
     "description":""
 }
 ---

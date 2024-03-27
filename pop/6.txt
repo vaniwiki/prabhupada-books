@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Perception of the Supersoul",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"POP 6",
+    "h1":"Perception of the Supersoul",
+    "label":"Chapter 6",
+    "title":"The Path of Perfection 6: Perception of the Supersoul",
     "description":""
 }
 ---

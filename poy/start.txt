@@ -2,15 +2,16 @@
 {
     "name":"The Perfection of Yoga",
     "h1":"The Perfection of Yoga",
+    "label":"The Perfection of Yoga",
     "title":"The Perfection of Yoga",
     "description":""
 }
 ---
 
+====== The Perfection of Yoga ======
+
 <card line-spacing="lg">
 <header>Table of contents</header>
-
-====== The Perfection of Yoga ======
 
   - [[books:poy:1|Yoga as Rejected by Arjuna]]
   - [[books:poy:2|Yoga as Work in Devotion]]

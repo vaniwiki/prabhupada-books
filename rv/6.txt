@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Knowledge of Kṛṣṇa’s Appearances and Activities",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"Rāja-Vidyā 6",
+    "h1":"Knowledge of Kṛṣṇa’s Appearances and Activities",
+    "label":"Chapter 6",
+    "title":"Rāja-Vidyā 6: Knowledge of Kṛṣṇa’s Appearances and Activities",
     "description":""
 }
 ---

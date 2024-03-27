@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Paramparā: Knowledge Through Disciplic Succession",
-    "h1":"Chapter 5",
-    "title":"(.*?)",
+    "name":"Rāja-Vidyā 5",
+    "h1":"Paramparā: Knowledge Through Disciplic Succession",
+    "label":"Chapter 5",
+    "title":"Rāja-Vidyā 5: Paramparā: Knowledge Through Disciplic Succession",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"Knowledge of Kṛṣṇa’s Energies",
-    "h1":"Chapter 3",
-    "title":"(.*?)",
+    "h1":"Knowledge of Kṛṣṇa’s Energies",
+    "label":"Chapter 3",
+    "title":"Rāja-Vidyā 3: Knowledge of Kṛṣṇa’s Energies",
     "description":""
 }
 ---

@@ -3,7 +3,7 @@
     "name":"Knowledge Beyond Saṁsāra",
     "h1":"Knowledge Beyond Saṁsāra",
     "label":"Chapter 2",
-    "title":"(.*?)",
+    "title":"Rāja-Vidyā 2: Knowledge Beyond Saṁsāra",
     "description":""
 }
 ---

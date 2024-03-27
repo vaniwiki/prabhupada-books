@@ -3,14 +3,10 @@
     "name":"On The Way to Kṛṣṇa",
     "h1":"On The Way to Kṛṣṇa",
     "label":"On The Way to Kṛṣṇa",
-    "title":"OWK 5: Steering Toward the Supreme",
+    "title":"On The Way to Kṛṣṇa",
     "description":""
 }
 ---
-
-<card>
-{{:books:covers:on_the_way_to_krsna.jpg}}
-</card>
 
 ====== On the Way to Kṛṣṇa ======
 

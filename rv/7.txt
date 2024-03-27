@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Knowledge as Faith in Guru and surrender to Kṛṣṇa",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"Rāja-Vidyā 7",
+    "h1":"Knowledge as Faith in Guru and surrender to Kṛṣṇa",
+    "label":"Chapter 7",
+    "title":"Rāja-Vidyā 7: Knowledge as Faith in Guru and surrender to Kṛṣṇa",
     "description":""
 }
 ---

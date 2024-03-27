@@ -1,9 +1,9 @@
 ---json
 {
-    "name":"MG Index",
+    "name":"Matchless Gift Index",
     "h1":"Index"
     "label":"Index",
-    "title":"Matchless Gift: Index",
+    "title":"Matchless Gift Index",
     "description":""
 }
 ---

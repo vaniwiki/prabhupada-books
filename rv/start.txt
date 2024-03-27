@@ -9,6 +9,9 @@
 
 ====== Rāja-Vidyā: The King of Knowledge ======
 
+<card line-spacing="lg">
+<header>Table of Contents</header>
+
   - [[books:rv:1|Rāja-Vidyā: The King of Knowledge]]
   - [[books:rv:2|Knowledge Beyond Saṁsāra]]
   - [[books:rv:3|Knowledge of Kṛṣṇa's Energies]]
@@ -17,3 +20,4 @@
   - [[books:rv:6|Knowledge of Kṛṣṇa's Appearances and Activities]]
   - [[books:rv:7|Knowledge as Faith in Guru and surrender to Kṛṣṇa]]
   - [[books:rv:8|Action in Knowledge of Kṛṣṇa]]
+</card>

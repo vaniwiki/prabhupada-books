@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 5: Our Real Life",
-    "h1":"Chapter 5",
+    "h1":"Our Real Life",
+    "label":"Chapter 5",
     "title":"Topmost Yoga System Chapter 5: Our Real Life",
     "description":""
 }

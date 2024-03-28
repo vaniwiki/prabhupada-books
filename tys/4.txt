@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 4: The Goal of Yoga",
-    "h1":"Chapter 4",
+    "h1":"The Goal of Yoga",
+    "label":"Chapter 4",
     "title":"Topmost Yoga System Chapter 4: The Goal of Yoga",
     "description":""
 }

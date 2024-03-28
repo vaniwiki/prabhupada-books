@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 8: Sources of Absolute Knowledge",
-    "h1":"Chapter 8",
+    "h1":"Sources of Absolute Knowledge",
+    "label":"Chapter 8",
     "title":"Topmost Yoga System Chapter 8: Sources of Absolute Knowledge",
     "description":""
 }

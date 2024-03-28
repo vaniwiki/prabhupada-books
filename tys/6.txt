@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 6: The Hare Kṛṣṇa Mantra",
-    "h1":"Chapter 6",
+    "h1":"The Hare Kṛṣṇa Mantra",
+    "label":"Chapter 6",
     "title":"Topmost Yoga System Chapter 6: The Hare Kṛṣṇa Mantra",
     "description":""
 }

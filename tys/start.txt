@@ -1,13 +1,17 @@
 ---json
 {
-    "name":"KC TYS",
+    "name":"Kṛṣṇa Consciousness, The Topmost Yoga System",
     "h1":"Kṛṣṇa Consciousness, The Topmost Yoga System",
+    "label":"Kṛṣṇa Consciousness, The Topmost Yoga System",
     "title":"Kṛṣṇa Consciousness, The Topmost Yoga System",
     "description":""
 }
 ---
 
 ====== Kṛṣṇa Consciousness, The Topmost Yoga System ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:tys:1|The Perfection of Yoga]]
   - [[books:tys:2|Yoga and the Master of Yoga]]
@@ -18,3 +22,5 @@
   - [[books:tys:7|How Bhakti-yoga Works]]
   - [[books:tys:8|Sources of Absolute Knowledge]]
   - [[books:tys:9|The Real Peace Formula]]
+
+</card>

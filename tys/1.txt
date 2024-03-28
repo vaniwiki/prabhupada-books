@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 1: The Perfection of Yoga",
-    "h1":"Chapter 1",
+    "h1":"The Perfection of Yoga",
+    "label":"Chapter 1",
     "title":"Topmost Yoga System Chapter 1: The Perfection of Yoga",
     "description":""
 }

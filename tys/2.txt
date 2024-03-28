@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 2: Yoga and the Master of Yoga",
-    "h1":"Chapter 2",
+    "h1":"Yoga and the Master of Yoga",
+    "label":"Chapter 2",
     "title":"Topmost Yoga System Chapter 2: Yoga and the Master of Yoga",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"TYS 3: Beyond the Laws of Nature",
-    "h1":"Chapter 3",
+    "h1":"Beyond the Laws of Nature",
+    "label":"Chapter 3",
     "title":"Topmost Yoga System Chapter 3: Beyond the Laws of Nature",
     "description":""
 }

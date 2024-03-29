@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.285",
-    "h1":"Text 285",
+    "h1":"Cc. Ādi 17.285",
+    "label":"Text 285",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.285",
     "description":"As soon as Kṛṣṇa saw all the gopīs, He was struck with emotion. Thus He could not hide Himself, and out of fear He became motionless."
 }

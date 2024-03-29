@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 1.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.130",
     "description":"Eventually there was a meeting with Svarūpa Dāmodara Gosvāmī, and the Lord became very greatly pleased. Then there was a meeting with Śikhi Māhiti and with Bhavānanda Rāya, the father of Rāmānanda Rāya."
 }

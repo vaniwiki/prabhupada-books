@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 5.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.46",
     "description":"Saṅkarṣaṇa is the original shelter of the puruṣa, from whom this world is created and in whom it is dissolved."
 }

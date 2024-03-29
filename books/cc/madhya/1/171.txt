@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.171",
-    "h1":"Text 171",
+    "h1":"Cc. Madhya 1.171",
+    "label":"Text 171",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.171",
     "description":"When the Muslim King asked his assistant, Keśava Chatrī, for news of the influence of Śrī Caitanya Mahāprabhu, Keśava Chatrī, although knowing everything about Caitanya Mahāprabhu, tried to avoid the conversation by not giving any importance to Caitanya Mahāprabhu's activities."
 }

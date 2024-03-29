@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 10.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.32",
     "description":"Another variety of sweet was made with fused peas that were powdered, fried in ghee and then cooked in sugar juice. Camphor was mixed in, and then the sweet was rolled into a ball."
 }

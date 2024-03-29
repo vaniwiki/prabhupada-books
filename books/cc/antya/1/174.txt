@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.174",
-    "h1":"Text 174",
+    "h1":"Cc. Antya 1.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.174",
     "description":"It is even impudent for me to open my mouth before you.\" Then, having said this, he recited the introductory verse of Lalita-mādhava."
 }

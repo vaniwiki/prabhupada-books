@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9",
-    "h1":"Chapter 9",
+    "h1":"The Deliverance of Gopīnātha Paṭṭanāyaka",
+    "label":"Chapter 9",
     "title":"Cc. Antya 9: The Deliverance of Gopīnātha Paṭṭanāyaka",
     "description":""
 }

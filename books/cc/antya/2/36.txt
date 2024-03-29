@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 2.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.36",
     "description":"Śrī Caitanya Mahāprabhu appeared before Nṛsiṁhānanda Brahmacārī and ate his offerings. Please hear about this with attention."
 }

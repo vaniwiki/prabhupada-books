@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 11.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.24",
     "description":"Kamalākara Pippalāi is said to have been the third gopāla. His behavior and love of Godhead were uncommon, and thus he is celebrated all over the world."
 }

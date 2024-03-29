@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 10.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.43",
     "description":"The twentieth branch of the Caitanya tree was Haridāsa Ṭhākura. His character was wonderful. He used to chant the holy name of Kṛṣṇa 300,000 times a day without fail."
 }

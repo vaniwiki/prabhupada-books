@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 1.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.59",
     "description":"\"One should therefore avoid bad company and associate only with devotees. With their realized instructions, such saints can cut the knot connecting one with activities unfavorable to devotional service.\""
 }

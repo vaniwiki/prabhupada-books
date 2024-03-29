@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.159",
-    "h1":"Text 159",
+    "h1":"Cc. Antya 3.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.159",
     "description":"Rāmacandra Khān's business was questionable, for he tried to avoid paying income tax to the government. Therefore the government's minister of finance was angry and came to his residence."
 }

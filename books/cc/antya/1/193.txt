@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.193",
-    "h1":"Text 193",
+    "h1":"Cc. Antya 1.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.193",
     "description":"Śrīla Rāmānanda Rāya said, \"This is not a poetic presentation; it is a continuous shower of nectar. Indeed, it is the essence of all ultimate realizations, appearing in the form of plays."
 }

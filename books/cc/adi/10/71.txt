@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.71",
-    "h1":"Text 71",
+    "h1":"Cc. Ādi 10.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.71",
     "description":"In their two houses Lord Caitanya Mahāprabhu begged food on the Ekādaśī day and personally ate it."
 }

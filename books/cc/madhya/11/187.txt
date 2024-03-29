@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 11.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.187",
     "description":"Then both the Lord and His servant began to cry in ecstatic love. Indeed, the Lord was transformed by the quality of His servant, and the servant was transformed by the quality of his master."
 }

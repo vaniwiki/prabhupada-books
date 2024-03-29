@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.164",
-    "h1":"Text 164",
+    "h1":"Cc. Antya 3.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.164",
     "description":"Wherever an advanced devotee is insulted, for one man's fault the entire town or place is afflicted."
 }

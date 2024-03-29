@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 25.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.115",
     "description":"\" 'Impersonalists do not accept the personal feature of the Supreme Personality of Godhead. The Personality of Godhead is stressed in this verse in order to impress upon them the necessity of accepting Him. Therefore the word \"aham\" is mentioned three times. To stress something important, one repeats it three times."
 }

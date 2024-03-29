@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.143",
-    "h1":"Text 143",
+    "h1":"Cc. Antya 4.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.143",
     "description":"'Your purpose in coming has been fulfilled, for you have seen the lotus feet of the Lord. Therefore, after seeing Lord Jagannātha on the Ratha-yātrā car, you can leave.\""
 }

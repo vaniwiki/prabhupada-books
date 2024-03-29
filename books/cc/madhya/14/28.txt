@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 14.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.28",
     "description":"There were hundreds of different types of sweetmeats like manoharā-lāḍu, sweets like amṛta-guṭikā and various types of condensed milk."
 }

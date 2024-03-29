@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 24.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.12",
     "description":"\" 'The following are synonyms of the word ātmā: the body, mind, Absolute Truth, natural characteristics, firmness, intelligence and endeavor.'"
 }

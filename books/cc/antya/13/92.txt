@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 13.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.92",
     "description":"Rāmadāsa Viśvāsa was very learned in all the revealed scriptures. He was a teacher of the famous book Kāvya-prakāśa and was known as an advanced devotee and worshiper of Raghunātha [Lord Rāmacandra]."
 }

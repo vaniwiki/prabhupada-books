@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 21.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.77",
     "description":"\" 'Whatever burden was upon the earth You have taken away by descending on that planet.'"
 }

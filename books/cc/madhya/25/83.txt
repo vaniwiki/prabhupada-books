@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 25.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.83",
     "description":"\" 'O great sage, out of many millions of materially liberated people who are free from ignorance, and out of many millions of siddhas who have nearly attained perfection, there is hardly one pure devotee of Nārāyaṇa. Only such a devotee is actually completely satisfied and peaceful.'"
 }

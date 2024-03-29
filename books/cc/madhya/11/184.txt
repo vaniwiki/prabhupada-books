@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.184",
-    "h1":"Text 184",
+    "h1":"Cc. Madhya 11.184",
+    "label":"Text 184",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.184",
     "description":"After offering obeisances to Śrī Caitanya Mahāprabhu, all the devotees departed for their residences, and Gopīnātha Ācārya showed them their respective quarters."
 }

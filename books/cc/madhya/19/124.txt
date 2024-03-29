@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.124",
-    "h1":"Text 124",
+    "h1":"Cc. Madhya 19.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.124",
     "description":"If someone returned to his country after seeing Vṛndāvana, the associates of the Lord would ask him questions."
 }

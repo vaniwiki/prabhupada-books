@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.138",
-    "h1":"Text 138",
+    "h1":"Cc. Madhya 13.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.138",
     "description":"\" 'My dear Lord, kindly hear My true submission. My home is Vṛndāvana, and I wish Your association there. But if I do not get it, then it will be very difficult for Me to keep My life."
 }

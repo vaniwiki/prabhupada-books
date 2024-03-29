@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 9.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.139",
     "description":"Thinking in this way, Veṅkaṭa Bhaṭṭa believed that worship of Nārāyaṇa was the supreme form of worship, superior to all other processes of devotional service, for it was followed by the Śrī Vaiṣṇava disciples of Rāmānujācārya."
 }

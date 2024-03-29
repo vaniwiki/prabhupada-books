@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 22.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.76",
     "description":"\" 'In one who has unflinching devotional faith in Kṛṣṇa, all the good qualities of Kṛṣṇa and the demigods are consistently manifest. However, he who has no devotion to the Supreme Personality of Godhead has no good qualifications because he is engaged by mental concoction in material existence, which is the external feature of the Lord.'"
 }

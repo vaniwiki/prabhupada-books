@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 14.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.16",
     "description":"\"When the ecstatic emotion of enchantment gradually progresses, it becomes similar to bewilderment. Then one reaches the stage of astonishment [vaicitrī], which awakens transcendental madness. Udghūrṇā and citra-jalpa are two among the many divisions of transcendental madness.\""
 }

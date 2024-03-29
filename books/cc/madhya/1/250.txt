@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.250",
-    "h1":"Text 250",
+    "h1":"Cc. Madhya 1.250",
+    "label":"Text 250",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.250",
     "description":"During those eighteen years, all the devotees of Bengal used to visit Him at Jagannātha Purī every year. They would remain there for four continuous months and enjoy the company of the Lord."
 }

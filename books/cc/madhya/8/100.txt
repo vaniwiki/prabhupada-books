@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 8.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.100",
     "description":"\"When the gopīs began to talk among themselves, they said, 'Dear friends, the gopī who has been taken away by Kṛṣṇa to a secluded place must have worshiped the Lord more than anyone else.' \""
 }

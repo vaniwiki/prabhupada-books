@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.119-120",
-    "h1":"Text 119-120",
+    "h1":"Cc. Ādi 4.119-120",
+    "label":"Text 119-120",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.119-120",
     "description":"Even though Lord Kṛṣṇa, the abode of all mellows, had previously in this way chewed the essence of the mellows of love, still He was unable to fulfill three desires, although He made efforts to taste them."
 }

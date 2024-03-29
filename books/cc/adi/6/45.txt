@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 6.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.45",
     "description":"He says, \"Nityānanda and I are servants of Lord Caitanya.\" Nowhere else is there such joy as that which is tasted in this emotion of servitude."
 }

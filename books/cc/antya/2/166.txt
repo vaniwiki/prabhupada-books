@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.166",
-    "h1":"Text 166",
+    "h1":"Cc. Antya 2.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.166",
     "description":"Then all the devotees, headed by Svarūpa Dāmodara Gosvāmī, concluded that because Haridāsa had committed suicide at the confluence of the rivers Ganges and Yamunā, he must have ultimately attained shelter at the lotus feet of Śrī Caitanya Mahāprabhu."
 }

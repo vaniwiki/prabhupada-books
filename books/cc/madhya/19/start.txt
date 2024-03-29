@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19",
-    "h1":"Chapter 19",
+    "h1":"Lord Śrī Caitanya Mahāprabhu Instructs Śrīla Rūpa Gosvāmī",
+    "label":"Chapter 19",
     "title":"Cc. Madhya 19: Lord Śrī Caitanya Mahāprabhu Instructs Śrīla Rūpa Gosvāmī",
     "description":""
 }

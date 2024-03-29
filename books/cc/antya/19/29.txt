@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 19.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.29",
     "description":"Hearing this, all the devotees were astonished, especially Svarūpa Dāmodara, who became somewhat morose."
 }

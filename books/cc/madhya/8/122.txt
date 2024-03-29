@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 8.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.122",
     "description":"\"I simply repeat like a parrot whatever instructions You have given me. You are the Supreme Personality of Godhead Himself. Who can understand Your dramatic performances?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 24.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.209",
     "description":"\" 'Kirāta, Hūna, Āndhra, Pulinda, Pulkaśa, Ābhīra, Śumbha, Yavana and the Khaśa races and even others who are addicted to sinful acts can be purified by taking shelter of the devotees of the Lord due to His being the supreme power. I beg to offer my respectful obeisances unto Him.'"
 }

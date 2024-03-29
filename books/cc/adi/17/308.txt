@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.308",
-    "h1":"Text 308",
+    "h1":"Cc. Ādi 17.308",
+    "label":"Text 308",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.308",
     "description":"\"Anything transcendental to material nature is called inconceivable, whereas arguments are all mundane. Since mundane arguments cannot touch transcendental subject matters, one should not try to understand transcendental subjects through mundane arguments.\""
 }

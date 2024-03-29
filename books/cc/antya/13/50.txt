@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 13.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.50",
     "description":"Previously, a great sannyāsī named Mukunda Sarasvatī had given Sanātana Gosvāmī an outer garment."
 }

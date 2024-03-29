@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.130",
-    "h1":"Text 130",
+    "h1":"Cc. Antya 7.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.130",
     "description":"\"My dear Lord, I have committed offenses. Please excuse me. I seek shelter of You. Please be merciful unto me by placing Your lotus feet on my head.\""
 }

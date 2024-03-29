@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 16.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.151",
     "description":"Śrī Caitanya Mahāprabhu bade farewell to the officers, and Rāya Rāmānanda continued on with the Lord. The Lord talked to Rāmānanda Rāya about Śrī Kṛṣṇa day and night."
 }

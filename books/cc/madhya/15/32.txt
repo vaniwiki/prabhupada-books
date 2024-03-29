@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 15.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.32",
     "description":"On the victory day celebrating the conquest of Laṅkā-a day known as Vijayā-daśamī-Śrī Caitanya Mahāprabhu dressed up all His devotees like monkey soldiers."
 }

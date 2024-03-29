@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 11.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.1",
     "description":"After offering my obeisances unto all of the devotees of Śrī Nityānanda Prabhu, who are like bumblebees collecting honey from His lotus feet, I shall try to describe those who are the most prominent."
 }

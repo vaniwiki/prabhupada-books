@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 19.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.68",
     "description":"Vallabha Bhaṭṭācārya was very surprised at this. Śrī Caitanya Mahāprabhu, however, was very pleased, and He therefore spoke to him this description of Rūpa Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 25.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.193",
     "description":"This became a perplexing problem for him because his wife kept requesting him to kill Subuddhi Rāya. Finally the Nawab sprinkled a little water on Subuddhi Rāya's head from a pitcher that had been used by a Mohammedan."
 }

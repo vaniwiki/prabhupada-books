@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 19.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.93",
     "description":"Raghupati Upādhyāya first offered his respects to Śrī Caitanya Mahāprabhu, and the Lord gave him His blessings, saying, \"Always stay in Kṛṣṇa consciousness.\""
 }

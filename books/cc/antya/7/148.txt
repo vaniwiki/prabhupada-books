@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 7.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.148",
     "description":"Vallabha Bhaṭṭa was accustomed to worshiping the Lord as child Kṛṣṇa. Therefore he had been initiated into the Bāla-gopāla mantra and was thus worshiping the Lord."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 22.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.68",
     "description":"\" 'He who does not know scriptural argument very well but who has firm faith is called an intermediate or second-class devotee.'"
 }

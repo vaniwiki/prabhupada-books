@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.22",
-    "h1":"Text 22",
+    "h1":"Cc. Antya 6.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.22",
     "description":"The caudhurī wanted to beat him, but as soon as he saw Raghunātha's face, his mind changed, and he could not beat him."
 }

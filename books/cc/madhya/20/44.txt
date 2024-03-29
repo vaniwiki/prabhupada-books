@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 20.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.44",
     "description":"With great care, Śrīkānta gave him a woolen blanket and helped him cross the Ganges. Thus Sanātana Gosvāmī departed again."
 }

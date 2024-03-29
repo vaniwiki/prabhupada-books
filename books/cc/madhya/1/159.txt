@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 1.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.159",
     "description":"The entire road was surcharged with many cool breezes, which carried the fragrances from various flowers. He carried the construction of this road as far as Kānāi Nāṭaśālā."
 }

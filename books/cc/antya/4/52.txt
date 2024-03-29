@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 4.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.52",
     "description":"Every day Śrī Caitanya Mahāprabhu would go there to meet these two stalwart devotees and discuss topics of Kṛṣṇa with them for some time."
 }

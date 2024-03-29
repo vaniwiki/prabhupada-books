@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 11.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.24",
     "description":"\"Now that you have become old,\" the Lord said, \"you may reduce the number of rounds you chant daily. You are already liberated, and therefore you need not follow the regulative principles very strictly."
 }

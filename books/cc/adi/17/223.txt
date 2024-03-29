@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.223",
-    "h1":"Text 223",
+    "h1":"Cc. Ādi 17.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.223",
     "description":"Hearing this, the Lord got up, chanting \"Hari! Hari!\" Following Him, all the other Vaiṣṇavas also got up, chanting the vibration of the holy name."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 24.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.30",
     "description":"\"There are ten meanings to the word bhakti, devotional service. One is execution of devotional service according to the regulative principles, and the other, called prema-bhakti [ecstatic love] has nine varieties."
 }

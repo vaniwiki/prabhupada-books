@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 8.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.31",
     "description":"\"Indeed, I have come here just to meet you. It is very good that even without making an effort I have gotten your interview here.\""
 }

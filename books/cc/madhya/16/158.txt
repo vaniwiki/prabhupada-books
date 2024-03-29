@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 16.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.158",
     "description":"He informed the Lord that the territory ahead was ruled by a Moslem governor, who was a drunkard. Out of fear for this king, no one could walk the road freely."
 }

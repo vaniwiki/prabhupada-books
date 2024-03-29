@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 24.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.22",
     "description":"\"Through His all-pervasive feature, the Supreme Personality of Godhead expanded the entire creation. He is holding and maintaining this creation by His extraordinary potency. By His conjugal potency, He maintains the planetary system known as Goloka Vṛndāvana. Through His six opulences, He maintains many Vaikuṇṭha planets."
 }

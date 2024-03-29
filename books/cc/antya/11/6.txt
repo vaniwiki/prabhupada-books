@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 11.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.6",
     "description":"All glories to Lord Nityānanda, who is the life and soul of Śrī Caitanya Mahāprabhu. My dear Lord, kindly give me engagement in devotional service at Your lotus feet."
 }

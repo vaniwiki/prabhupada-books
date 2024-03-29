@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 3.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.64",
     "description":"Anyone who looks upon His beautiful body or beautiful face becomes freed from all sins and obtains the wealth of love of Godhead."
 }

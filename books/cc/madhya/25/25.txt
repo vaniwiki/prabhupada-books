@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 25.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.25",
     "description":"\"Śrī Caitanya Mahāprabhu explains the direct meaning of the Upaniṣads. When all learned scholars hear this, their minds and ears are satisfied."
 }

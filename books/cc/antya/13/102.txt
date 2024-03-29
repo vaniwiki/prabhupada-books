@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.102",
-    "h1":"Text 102",
+    "h1":"Cc. Antya 13.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.102",
     "description":"Raghunātha offered respectful obeisances to Śrī Caitanya Mahāprabhu on behalf of Tapana Miśra and Candraśekhara, and the Lord also inquired about them."
 }

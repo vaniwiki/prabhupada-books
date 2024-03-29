@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 1.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.83",
     "description":"In one verse, Śrīla Rūpa Gosvāmī has explained the confidential meaning of the verse of Śrīmad-Bhāgavatam for the understanding of the general populace."
 }

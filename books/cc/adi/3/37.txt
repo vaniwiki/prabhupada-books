@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.37",
-    "h1":"Text 37",
+    "h1":"Cc. Ādi 3.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.37",
     "description":"White, red and yellow—these are the three bodily lusters that the Lord, the husband of the goddess of fortune, assumes in the ages of Satya, Tretā and Kali respectively."
 }

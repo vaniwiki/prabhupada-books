@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 5.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.72",
     "description":"\"At that time I concentrated my mind and requested the brāhmaṇa to make the promise before the Gopāla Deity."
 }

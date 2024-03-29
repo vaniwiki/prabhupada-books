@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 3.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.134",
     "description":"Being fully absorbed in love of Godhead, He would not understand His fatigue. But Nityānanda Prabhu, catching Him, stopped His dancing."
 }

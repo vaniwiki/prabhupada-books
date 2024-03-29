@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.138",
-    "h1":"Text 138",
+    "h1":"Cc. Antya 6.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.138",
     "description":"Then Lord Nityānanda Prabhu called Raghunātha dāsa near Him, placed His lotus feet upon Raghunātha dāsa's head and began to speak."
 }

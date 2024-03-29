@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 17.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.10",
     "description":"Thereafter the Lord delivered love of Kṛṣṇa to His mother, Śacīdevī, nullifying her offense at the feet of Advaita Ācārya. Thus there was a meeting with Advaita Ācārya, who later had a vision of the Lord's universal form."
 }

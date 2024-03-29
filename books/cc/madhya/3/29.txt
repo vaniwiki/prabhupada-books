@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 3.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.29",
     "description":"After reciting this mantra, Śrī Caitanya Mahāprabhu offered obeisances and took His bath in the Ganges. At that time He had on only one piece of underwear, for there was no second garment."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 25.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.40",
     "description":"\" 'Those who are envious of My form, who are cruel and mischievous and lowest among men, are perpetually cast by Me into hellish existence in various demoniac species of life.'"
 }

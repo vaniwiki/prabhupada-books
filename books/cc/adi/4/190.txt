@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.190",
-    "h1":"Text 190",
+    "h1":"Cc. Ādi 4.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.190",
     "description":"When Lord Kṛṣṇa sees the gopīs, His joy increases, and His unparalleled sweetness increases also."
 }

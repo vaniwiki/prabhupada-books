@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 17.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.87",
     "description":"These are confidential pastimes of the son of Śacī. Other than devotees, no one knows of this incident."
 }

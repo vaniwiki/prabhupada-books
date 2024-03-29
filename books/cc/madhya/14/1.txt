@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 14.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.1",
     "description":"Accompanied by His personal devotees, Śrī Caitanya Mahāprabhu went to the festival known as Lakṣmī-vijayotsava. There He discussed the superexcellent love of the gopīs. Just by hearing about them, He became very pleased and danced in great ecstatic love for the Lord."
 }

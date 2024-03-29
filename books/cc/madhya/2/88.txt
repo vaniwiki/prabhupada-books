@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 2.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.88",
     "description":"In reply to those critics who say that Śrī Caitanya-caritāmṛta is full of Sanskrit verses, it can be said that Śrīmad-Bhāgavatam is also full of Sanskrit verses, as are the commentaries on Śrīmad-Bhāgavatam. Nonetheless, Śrīmad-Bhāgavatam can be understood by everyone, as well as by advanced devotees who study the Sanskrit commentaries. Why, then, will people not understand the Caitanya-caritāmṛta? There are only a few Sanskrit verses, and these have been explained in the Bengali vernacular. What is the difficulty in understanding?"
 }

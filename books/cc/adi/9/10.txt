@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 9.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.10",
     "description":"All glories to Śrī Mādhavendra Purī, the storehouse of all devotional service unto Kṛṣṇa! He is a desire tree of devotional service, and it is in him that the seed of devotional service first fructified."
 }

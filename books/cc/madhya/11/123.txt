@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 11.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.123",
     "description":"Saying this, the King gave them permission to leave. Sārvabhauma Bhaṭṭācārya also went to see the assembly of all the Vaiṣṇavas."
 }

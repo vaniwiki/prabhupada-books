@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.101",
-    "h1":"Text 101",
+    "h1":"Cc. Ādi 6.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.101",
     "description":"Lord Kṛṣṇa considers His devotees greater than Himself. In this connection the scriptures provide an abundance of evidence."
 }

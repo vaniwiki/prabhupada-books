@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 8.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.23",
     "description":"Simply by talking of Nityānanda Prabhu one awakens his love for Kṛṣṇa. Thus all his bodily limbs are agitated by ecstasy, and tears flow from his eyes like the waters of the Ganges."
 }

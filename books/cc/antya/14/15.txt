@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 14.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.15",
     "description":"Such is the state of transcendental madness. Why is it difficult to understand? When one is highly elevated in love of Kṛṣṇa, he becomes transcendentally mad and talks like a madman."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23",
-    "h1":"Chapter 23",
+    "h1":"Life’s Ultimate Goal — Love of Godhead",
+    "label":"Chapter 23",
     "title":"Cc. Madhya 23: Life’s Ultimate Goal — Love of Godhead",
     "description":""
 }

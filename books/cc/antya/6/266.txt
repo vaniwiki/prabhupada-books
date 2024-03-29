@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.266",
-    "h1":"Text 266",
+    "h1":"Cc. Antya 6.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.266",
     "description":"The next year, when Śivānanda Sena was going to Jagannātha Purī as usual, the servants and the brāhmaṇa, who was a cook, went with him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 5.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.41",
     "description":"\"His mind is as steady as wood or stone. Indeed, it is wonderful that even when he touches such young girls, his mind never changes."
 }

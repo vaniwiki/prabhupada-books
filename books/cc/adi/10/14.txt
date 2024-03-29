@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 10.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.14",
     "description":"Puṇḍarīka Vidyānidhi, the third big branch, was so dear to Lord Caitanya Mahāprabhu that in his absence Lord Caitanya Himself would sometimes cry."
 }

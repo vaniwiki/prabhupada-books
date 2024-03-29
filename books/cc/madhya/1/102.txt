@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 1.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.102",
     "description":"After bestowing mercy upon Sārvabhauma Bhaṭṭācārya, the Lord started for southern India. When He came to Kūrma-kṣetra, He delivered a person named Vāsudeva."
 }

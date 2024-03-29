@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 7.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.55",
     "description":"After receiving the Bhaṭṭācārya's permission, Lord Caitanya Mahāprabhu went to see Lord Jagannātha in the temple. He took the Bhaṭṭācārya with Him."
 }

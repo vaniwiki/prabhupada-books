@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.300",
-    "h1":"Text 300",
+    "h1":"Cc. Madhya 9.300",
+    "label":"Text 300",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.300",
     "description":"Śrī Raṅga Purī informed Śrī Caitanya Mahāprabhu that the sannyāsī named Śaṅkarāraṇya had attained perfection in that holy place, Pāṇḍarapura."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 6.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.11",
     "description":"To describe the fortunate position of Rāmānanda Rāya and Svarūpa Dāmodara Gosvāmī is extremely difficult. They were renowned as intimately confidential friends of Śrī Caitanya Mahāprabhu."
 }

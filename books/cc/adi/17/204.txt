@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.204",
-    "h1":"Text 204",
+    "h1":"Cc. Ādi 17.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.204",
     "description":"\"Coming to me, the Hindus complained, 'Nimāi Paṇḍita has broken the Hindu religious principles. He has introduced the saṅkīrtana system, which we never heard from any scripture."
 }

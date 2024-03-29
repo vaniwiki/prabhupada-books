@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.80",
-    "h1":"Text 80",
+    "h1":"Cc. Madhya 2.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.80",
     "description":"During His previous pastimes in Vṛndāvana, Lord Kṛṣṇa desired to enjoy the three different types of ecstasy, but despite great endeavor, He could not taste them. Such ecstasies are the monopoly of Śrīmatī Rādhārāṇī. Therefore, in order to taste them, Śrī Kṛṣṇa accepted the position of Śrīmatī Rādhārāṇī in the form of Śrī Caitanya Mahāprabhu."
 }

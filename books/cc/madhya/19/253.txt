@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.253",
-    "h1":"Text 253",
+    "h1":"Cc. Madhya 19.253",
+    "label":"Text 253",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.253",
     "description":"The Mahārāṣṭrīya brāhmaṇa came, and the Lord met him. Out of affection, the Lord bestowed His mercy upon him."
 }

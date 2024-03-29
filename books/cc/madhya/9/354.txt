@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.354",
-    "h1":"Text 354",
+    "h1":"Cc. Madhya 9.354",
+    "label":"Text 354",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.354",
     "description":"Śrī Caitanya Mahāprabhu then sent Sārvabhauma Bhaṭṭācārya to take his lunch, and the Lord remained that night in his home just to please him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.217",
-    "h1":"Text 217",
+    "h1":"Cc. Madhya 6.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.217",
     "description":"The priest there presented Him with garlands and prasāda that had been offered to Lord Jagannātha. This pleased Caitanya Mahāprabhu very much."
 }

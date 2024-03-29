@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 13.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.74",
     "description":"Śrī Caitanya Mahāprabhu kept all the gifts except the pīlu fruits, which He distributed to the devotees. Because the fruits were from Vṛndāvana, everyone ate them with great happiness."
 }

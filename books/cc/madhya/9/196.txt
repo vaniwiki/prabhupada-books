@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 9.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.196",
     "description":"Although the brāhmaṇa was fasting, he had faith in the words of Śrī Caitanya Mahāprabhu and accepted food. In this way his life was saved."
 }

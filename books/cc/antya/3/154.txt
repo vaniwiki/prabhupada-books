@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.154",
-    "h1":"Text 154",
+    "h1":"Cc. Antya 3.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.154",
     "description":"When Nityānanda Prabhu heard this order from the servant of Rāmacandra Khān, He became very angry and came out. Laughing very loudly, He spoke as follows."
 }

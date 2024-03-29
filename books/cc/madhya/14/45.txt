@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 14.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.45",
     "description":"Observing the beggars eating prasāda, Śrī Caitanya Mahāprabhu chanted, \"Hari bol!\" and instructed them to chant the holy name."
 }

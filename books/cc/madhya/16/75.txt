@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.75",
-    "h1":"Text 75",
+    "h1":"Cc. Madhya 16.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.75",
     "description":"In this way, Śrī Caitanya Mahāprabhu instructed different types of Vaiṣṇavas—the Vaiṣṇava, Vaiṣṇavatara and Vaiṣṇavatama. He thus successively explained all the symptoms of a Vaiṣṇava to the inhabitants of Kulīna-grāma."
 }

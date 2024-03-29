@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.90",
-    "h1":"Text 90",
+    "h1":"Cc. Ādi 6.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.90",
     "description":"Another of His incarnations, Lakṣmaṇa, who is very beautiful and opulent, always serves Lord Rāma."
 }

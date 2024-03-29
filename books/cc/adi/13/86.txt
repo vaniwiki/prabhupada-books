@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.86",
-    "h1":"Text 86",
+    "h1":"Cc. Ādi 13.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.86",
     "description":"After this conversation, both husband and wife were very jubilant, and together they rendered service to the household śālagrāma-śilā."
 }

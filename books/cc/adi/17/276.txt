@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.276",
-    "h1":"Text 276",
+    "h1":"Cc. Ādi 17.276",
+    "label":"Text 276",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.276",
     "description":"To taste the mellows of Śrīmatī Rādhārāṇī's loving affairs in Her relationship with Kṛṣṇa, and to understand the reservoir of pleasure in Kṛṣṇa, Kṛṣṇa Himself, as Śrī Caitanya Mahāprabhu, accepted the mood of Rādhārāṇī."
 }

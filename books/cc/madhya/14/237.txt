@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.237",
-    "h1":"Text 237",
+    "h1":"Cc. Madhya 14.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.237",
     "description":"Only Nityānanda Prabhu could catch Śrī Caitanya Mahāprabhu, but the ecstatic mood of the Lord would not stop. At the same time, kīrtana could not be continued."
 }

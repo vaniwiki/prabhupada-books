@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 1.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.42",
     "description":"Śrī Rūpa Gosvāmī's nephew, Śrīla Jīva Gosvāmī, has compiled so many books on devotional service that there is no counting them."
 }

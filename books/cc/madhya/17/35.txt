@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 17.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.35",
     "description":"Hearing the Lord's great vibration, all the does followed Him left and right. While reciting a verse with great curiosity, the Lord patted them."
 }

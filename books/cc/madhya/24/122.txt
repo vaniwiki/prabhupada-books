@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 24.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.122",
     "description":"\"There are many people within this material world who desire liberation, and for this purpose they render devotional service to Lord Kṛṣṇa."
 }

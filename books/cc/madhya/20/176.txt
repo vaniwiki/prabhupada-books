@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 20.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.176",
     "description":"\"When the Lord is two-handed, He is called vaibhava-prakāśa, and when He is four-handed He is called prābhava-prakāśa."
 }

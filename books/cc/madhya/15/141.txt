@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.141",
-    "h1":"Text 141",
+    "h1":"Cc. Madhya 15.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.141",
     "description":"\" 'His character is very sweet, and His pastimes are melodious. He is expert in intelligence, and thus He enjoys all His pastimes and mellows.'"
 }

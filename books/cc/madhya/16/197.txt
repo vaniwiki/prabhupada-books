@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 16.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.197",
     "description":"Finally Śrī Caitanya Mahāprabhu bade farewell to the mahā-pātra. Standing on the river bank and looking at the boat, the mahā-pātra began to cry."
 }

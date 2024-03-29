@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 5.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.47",
     "description":"\"Tasting the transcendental, effulgent, sweetly ecstatic love of Kṛṣṇa, such a person can enjoy life twenty-four hours a day in the transcendental bIiss of the sweetness of Kṛṣṇa's pastimes."
 }

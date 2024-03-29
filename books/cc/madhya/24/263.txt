@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.263",
-    "h1":"Text 263",
+    "h1":"Cc. Madhya 24.263",
+    "label":"Text 263",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.263",
     "description":"\"The three animals that were half-killed were then brought to their consciousness by the sage Nārada. Indeed, the animals got up and swiftly fled."
 }

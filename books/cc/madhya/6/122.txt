@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 6.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.122",
     "description":"Lord Caitanya replied, \"You are very merciful to Me, and therefore I think it is My duty to obey your order.\""
 }

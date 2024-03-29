@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 17.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.46",
     "description":"Incessantly covered with germs and insects biting him all over his body, Gopāla Cāpāla felt unbearable pain. His entire body burned in distress."
 }

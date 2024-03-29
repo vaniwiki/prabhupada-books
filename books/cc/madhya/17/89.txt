@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 17.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.89",
     "description":"Tapana Miśra invited Śrī Caitanya Mahāprabhu to take lunch at his home, and he had Balabhadra Bhaṭṭācārya cook."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 7.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.14",
     "description":"One of Them is Mahāprabhu, and the other two are prabhus. These two prabhus serve the lotus feet of Mahāprabhu."
 }

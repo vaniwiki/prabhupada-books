@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.69-70",
-    "h1":"Text 69-70",
+    "h1":"Cc. Ādi 6.69-70",
+    "label":"Text 69-70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.69-70",
     "description":"What to speak of the other gopīs, even Śrī Rādhikā, who in every respect is the most elevated of them all and who has bound Śrī Kṛṣṇa forever by Her loving attributes, serves His feet as His maidservant."
 }

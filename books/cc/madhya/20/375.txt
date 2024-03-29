@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.375",
-    "h1":"Text 375",
+    "h1":"Cc. Madhya 20.375",
+    "label":"Text 375",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.375",
     "description":"\" 'Know that all beautiful, glorious and mighty creations spring but from a spark of My splendor."
 }

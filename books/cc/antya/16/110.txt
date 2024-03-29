@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 16.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.110",
     "description":"\"However,\" the Lord continued, \"in these ingredients there are extraordinary tastes and uncommon fragrances. Just taste them and see the difference in the experience."
 }

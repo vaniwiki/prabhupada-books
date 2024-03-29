@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 18.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.89",
     "description":"Kṛṣṇadāsa returned to Akrūra-tīrtha with the Lord, and remnants of the Lord's food were given to him."
 }

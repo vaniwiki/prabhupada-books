@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.119",
-    "h1":"Text 119",
+    "h1":"Cc. Antya 7.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.119",
     "description":"An ignorant living being does not recognize his actual profit. Because of ignorance and material pride, he sometimes considers profit a loss, but when his pride is cut down he can actually see his true benefit."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 7.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.38",
     "description":"Śrī Caitanya Mahāprabhu appeared in order to deliver all the fallen souls. Therefore He devised many methods to liberate them from the clutches of māyā."
 }

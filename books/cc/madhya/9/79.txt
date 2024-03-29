@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 9.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.79",
     "description":"After visiting the holy place named Śiva-kṣetra, Caitanya Mahāprabhu arrived at Pāpanāśana and there saw the temple of Lord Viṣṇu. Then He finally reached Śrī Raṅga-kṣetra."
 }

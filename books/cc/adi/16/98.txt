@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.98",
-    "h1":"Text 98",
+    "h1":"Cc. Ādi 16.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.98",
     "description":"When the poetic champion was thus defeated, all the Lord's disciples sitting there began to laugh loudly. But Lord Caitanya Mahāprabhu asked them not to do so, and He addressed the poet as follows."
 }

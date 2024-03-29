@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 6.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.197",
     "description":"\"These three items attract the mind of a perfect student engaged in spiritual activities and overcome all other processes of spiritual activity.\""
 }

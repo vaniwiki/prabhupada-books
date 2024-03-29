@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 9.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.4",
     "description":"I also remember the six Gosvāmīs-Rūpa, Sanātana, Bhaṭṭa Raghunātha, Śrī Jīva, Gopāla Bhaṭṭa and Dāsa Raghunātha."
 }

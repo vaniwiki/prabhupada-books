@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 1.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.201",
     "description":"\"Let us speak one word that is very true. Plainly hear us, O merciful one. There is no other object of mercy within the three worlds but us."
 }

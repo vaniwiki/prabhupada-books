@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.191",
-    "h1":"Text 191",
+    "h1":"Cc. Antya 1.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.191",
     "description":"Śrīmatī Rādhārāṇī is the Ganges in which the elephant of My mind enjoys pastimes. She is the shining of the full autumn moon for the cakora birds of My eyes. She is the dazzling ornament, the bright and beautiful arrangement of stars, on the border of the sky of My chest. Now today I have gained Śrīmatī Rādhārāṇī because of the highly elevated state of My mind.' \""
 }

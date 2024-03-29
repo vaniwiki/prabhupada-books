@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.75",
-    "h1":"Text 75",
+    "h1":"Cc. Madhya 19.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.75",
     "description":"\" 'For a person devoid of devotional service, birth in a great family or nation, knowledge of revealed scripture, performance of austerities and penance, and chanting of Vedic mantras are all like ornaments on a dead body. Such ornaments simply serve the concocted pleasures of the general populace.' \""
 }

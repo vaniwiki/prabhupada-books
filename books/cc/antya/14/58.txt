@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 14.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.58",
     "description":"Then Rāmānanda Rāya returned home, and Svarūpa Dāmodara Gosvāmī, along with Govinda, lay down in front of the door to Śrī Caitanya Mahāprabhu's room."
 }

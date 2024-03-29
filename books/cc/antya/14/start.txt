@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14",
-    "h1":"Chapter 14",
+    "h1":"Lord Śrī Caitanya Mahāprabhu’s Feelings of Separation from Kṛṣṇa",
+    "label":"Chapter 14",
     "title":"Cc. Antya 14: Lord Śrī Caitanya Mahāprabhu’s Feelings of Separation from Kṛṣṇa",
     "description":""
 }

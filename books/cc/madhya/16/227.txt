@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.227",
-    "h1":"Text 227",
+    "h1":"Cc. Madhya 16.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.227",
     "description":"After bidding farewell to Raghunātha dāsa, Śrī Caitanya Mahāprabhu returned to Jagannātha Purī. After returning home, Raghunātha dāsa became mad with ecstatic love."
 }

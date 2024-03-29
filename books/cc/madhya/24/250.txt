@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.250",
-    "h1":"Text 250",
+    "h1":"Cc. Madhya 24.250",
+    "label":"Text 250",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.250",
     "description":"\"Nārada Muni continued, 'My dear hunter, your business is killing animals. That is a slight offense on your part, but when you consciously give them unnecessary pain by leaving them half-dead, you incur very great sins.'"
 }

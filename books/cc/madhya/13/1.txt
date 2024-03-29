@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 13.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.1",
     "description":"May the Supreme Personality of Godhead, Śrī Kṛṣṇa Caitanya, who danced in front of the car of Śrī Jagannātha, be all glorified! By seeing His dancing, not only was the whole universe held in wonder, but Lord Jagannātha Himself became very much astonished."
 }

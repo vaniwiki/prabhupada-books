@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 15.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.16",
     "description":"All the devotees remained at Jagannātha Purī for four continuous months, and they observed all Lord Jagannātha's festivals with great pleasure."
 }

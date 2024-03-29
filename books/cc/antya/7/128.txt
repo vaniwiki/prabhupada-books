@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.128",
-    "h1":"Text 128",
+    "h1":"Cc. Antya 7.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.128",
     "description":"\"I am an ignorant fool, for I interpret as an insult what is meant for my benefit, just like King Indra, who out of ignorance tried to surpass Kṛṣṇa, the Supreme Lord."
 }

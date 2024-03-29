@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 6.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.17",
     "description":"Hearing this, the devotees could understand that they were speaking of Lord Caitanya Mahāprabhu. Just then, Śrī Gopīnātha Ācārya arrived."
 }

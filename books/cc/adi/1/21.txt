@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 1.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.21",
     "description":"Such remembrance destroys all difficulties and very easily enables one to fulfill his own desires."
 }

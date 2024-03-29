@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 10.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.40",
     "description":"Mukunda Datta, a class friend of Lord Caitanya's, was another branch of the Caitanya tree. Lord Caitanya danced while he sang."
 }

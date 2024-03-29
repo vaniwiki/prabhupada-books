@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 12.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.44",
     "description":"Śrī Rāmānanda Rāya was indeed a diplomatic minister for the King. His general behavior was very expert, and simply by describing the King's love for Śrī Caitanya Mahāprabhu, he gradually softened the Lord's mind."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 2.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.53",
     "description":"When Śrī Caitanya Mahāprabhu would see Jagannātha along with Balarāma and Subhadrā, He would immediately think that He had reached Kurukṣetra, where all of them had come. He would think that His life was successful because He had seen the lotus-eyed one, whom, if seen, pacifies the body, mind and eyes."
 }

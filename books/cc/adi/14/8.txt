@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 14.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.8",
     "description":"Seeing all these marks, neither His father nor His mother could understand whose footprints they were. Thus struck with wonder, they could not understand how those marks could be possible in their home."
 }

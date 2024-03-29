@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.75",
-    "h1":"Text 75",
+    "h1":"Cc. Madhya 23.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.75",
     "description":"\" 'Kṛṣṇa is very influential and famous, and He is the object of attachment for everyone. He is the shelter of the good and the virtuous. He is attractive to the minds of women, and He is worshiped by everyone. He is very, very rich."
 }

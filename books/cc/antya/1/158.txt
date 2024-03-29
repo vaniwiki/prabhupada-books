@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.158",
-    "h1":"Text 158",
+    "h1":"Cc. Antya 1.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.158",
     "description":"'The sweet, fragrant honey oozing from newly grown mango buds is again and again attracting groups of bumblebees, and this forest is trembling in the softly moving breezes from the Malaya Hills, which are full of sandalwood trees. Thus the forest of Vṛndāvana is increasing My transcendental pleasure.'"
 }

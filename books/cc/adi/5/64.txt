@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 5.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.64",
     "description":"Lord Kṛṣṇa is the creator, and māyā only helps Him as an instrument, just like the potter's wheel and other instruments, which are the instrumental causes of a pot."
 }

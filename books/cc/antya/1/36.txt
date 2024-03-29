@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 1.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.36",
     "description":"On his way to Gauḍa-deśa, Rūpa Gosvāmī had been thinking of how to write the action of the drama. Thus he had made some notes and begun to write."
 }

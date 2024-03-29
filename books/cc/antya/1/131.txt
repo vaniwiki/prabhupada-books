@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.131",
-    "h1":"Text 131",
+    "h1":"Cc. Antya 1.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.131",
     "description":"When Rūpa Gosvāmī thus recited his verse, Caitanya Mahāprabhu disapproved of it because it described His personal glories. He expressed the opinion that it was an exaggerated explanation."
 }

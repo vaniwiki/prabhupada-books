@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 12.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.62",
     "description":"Śrīvatsa Paṇḍita, Haridāsa Brahmacārī, Puruṣottama Brahmacārī and Kṛṣṇadāsa were the twenty-fifth, twenty-sixth, twenty-seventh and twenty-eighth branches of Advaita Ācārya."
 }

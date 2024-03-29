@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.299",
-    "h1":"Text 299",
+    "h1":"Cc. Antya 6.299",
+    "label":"Text 299",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.299",
     "description":"Svarūpa Dāmodara gave Raghunātha dāsa two cloths, each about six inches long, a wooden platform and a jug in which to keep water."
 }

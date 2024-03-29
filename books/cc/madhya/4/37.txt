@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 4.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.37",
     "description":"\"Please bring the people of the village and get them to take Me out of this bush. Then have them situate Me nicely on top of the hill."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 17.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.4",
     "description":"The Lord requested Rāmānanda Rāya and Svarūpa Dāmodara Gosvāmī to help Him go to Vṛndāvana."
 }

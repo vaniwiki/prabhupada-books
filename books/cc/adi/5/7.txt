@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.7",
-    "h1":"Text 7",
+    "h1":"Cc. Ādi 5.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.7",
     "description":"May Śrī Nityānanda Rāma be the object of my constant remembrance. Saṅkarṣaṇa, Śeṣa Nāga and the Viṣṇus who lie on the Kāraṇa Ocean, Garbha Ocean and ocean of milk are His plenary portions and the portions of His plenary portions."
 }

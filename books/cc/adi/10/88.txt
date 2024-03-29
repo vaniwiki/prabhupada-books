@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 10.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.88",
     "description":"The fruits of love of Godhead which fructified on these two branches were distributed in abundance. Tasting these fruits, everyone became mad after them."
 }

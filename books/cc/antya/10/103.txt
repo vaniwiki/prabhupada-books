@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 10.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.103",
     "description":"Accompanied by His personal associates, Śrī Caitanya Mahāprabhu washed and swept the Guṇḍicā temple, cleansing it as usual."
 }

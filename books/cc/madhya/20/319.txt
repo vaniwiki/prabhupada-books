@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.319",
-    "h1":"Text 319",
+    "h1":"Cc. Madhya 20.319",
+    "label":"Text 319",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.319",
     "description":"\"O Sanātana, just hear about the Manu incarnations [manvantara-avatāras]. They are unlimited, and no one can count them. Just hear of their source."
 }

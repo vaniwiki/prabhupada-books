@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 13.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.15",
     "description":"\"I am in the renounced order, and therefore I must lie on the floor. For Me to use a bedstead, quilt or pillow would be very shameful.\""
 }

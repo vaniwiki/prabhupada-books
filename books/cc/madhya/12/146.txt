@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 12.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.146",
     "description":"Advaita Ācārya and others began to chant the holy name of Lord Nṛsiṁha and sprinkle water. The roaring of the chant was so great that it seemed to shake the entire universe."
 }

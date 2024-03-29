@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 14.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.22",
     "description":"The Lord caused all the ladies to chant the holy names of the Hare Kṛṣṇa mahā-mantra on the plea of His crying, and while they chanted the Lord would smile."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 11.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.163",
     "description":"Haridāsa Ṭhākura did not come to the Lord's meeting place but remained fallen flat on the common road at a distance."
 }

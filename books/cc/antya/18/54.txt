@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 18.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.54",
     "description":"\"That ghost has taken the form of a corpse, but he keeps his eyes open. Sometimes he utters the sounds'goṅ-goṅ,' and sometimes he remains unconscious."
 }

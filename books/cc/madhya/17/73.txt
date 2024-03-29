@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 17.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.73",
     "description":"\"However, when I started for Vṛndāvana, many thousands and millions of people gathered and began to go with Me."
 }

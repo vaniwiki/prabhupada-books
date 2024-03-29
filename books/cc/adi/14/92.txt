@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 14.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.92",
     "description":"He related the dream to his friends and relatives, and every one of them was very much astonished to hear of it."
 }

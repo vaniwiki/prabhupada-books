@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 16.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.112",
     "description":"\"Therefore, it is to be understood that the spiritual nectar of Kṛṣṇa's lips has touched these ordinary ingredients and transferred to them all their spiritual qualities."
 }

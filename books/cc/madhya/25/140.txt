@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 25.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.140",
     "description":"\" 'Pure devotees develop a spiritual body and symptoms of ecstatic love simply by remembering and reminding others of the Supreme Personality of Godhead, Hari, who takes away everything inauspicious from the devotee. This position is attained by rendering devotional service according to the regulative principles and then rising to the platform of spontaneous love.'"
 }

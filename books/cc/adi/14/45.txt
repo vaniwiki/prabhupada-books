@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 14.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.45",
     "description":"Once the child, Caitanya Mahāprabhu, chastised His mother with His soft hand, and His mother pretended to faint. Seeing this, the Lord began to cry."
 }

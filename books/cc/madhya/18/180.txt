@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 18.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.180",
     "description":"At that time, Balabhadra Bhaṭṭācārya went to Śrī Caitanya Mahāprabhu and made Him sit down. Seeing the Mohammedan soldiers, the Lord regained His normal senses."
 }

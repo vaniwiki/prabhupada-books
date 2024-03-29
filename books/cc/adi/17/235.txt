@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.235",
-    "h1":"Text 235",
+    "h1":"Cc. Ādi 17.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.235",
     "description":"In the beginning Śrīvāsa Ṭhākura described the transcendental sweetness of Vṛndāvana's pastimes. Hearing this, the Lord felt great and increasing jubilation in His heart."
 }

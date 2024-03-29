@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 4.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.123",
     "description":"Mādhavendra Purī avoided begging. He was completely unattached and indifferent to material things. If, without his begging, someone offered him some food, he would eat; otherwise he would fast."
 }

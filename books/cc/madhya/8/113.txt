@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 8.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.113",
     "description":"\"Lord Kṛṣṇa's desire in the rāsa-līlā circle is perfectly complete, but Śrīmatī Rādhārāṇī is the binding link in that desire."
 }

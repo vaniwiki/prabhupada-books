@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 14.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.27",
     "description":"There were also oranges, grapefruit, tangerines, almonds, dried fruit, raisins and dates."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 3.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.167",
     "description":"When mother Śacī was thus overwhelmed in parental love for Lord Caitanya Mahāprabhu, she became transformed with happiness, fear and humility, as well as bodily symptoms."
 }

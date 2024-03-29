@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 14.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.203",
     "description":"This time, Śrīvāsa Ṭhākura smiled and told Dāmodara Paṇḍita, \"My dear sir, please hear! Just see how opulent my goddess of fortune is!"
 }

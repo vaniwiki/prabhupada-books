@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.228",
-    "h1":"Text 228",
+    "h1":"Cc. Madhya 18.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.228",
     "description":"The pastimes of Śrī Caitanya Mahāprabhu are an ocean of nectar. Even a drop of this ocean can inundate the whole world with transcendental bliss."
 }

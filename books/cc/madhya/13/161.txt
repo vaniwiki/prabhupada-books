@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 13.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.161",
     "description":"Śrī Caitanya Mahāprabhu would sit in His room with Svarūpa Dāmodara and taste the topics of these verses day and night."
 }

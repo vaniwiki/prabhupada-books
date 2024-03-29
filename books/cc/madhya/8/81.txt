@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 8.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.81",
     "description":"\" 'Suddenly, due to the their feelings of separation, Lord Kṛṣṇa appeared among the gopīs dressed in yellow garments and wearing a flower garland. His lotus face was smiling, and He was directly attracting the mind of Cupid.'"
 }

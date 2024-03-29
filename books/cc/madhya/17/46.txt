@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 17.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.46",
     "description":"Thus all living entities-some moving and some standing still in the forest of Jhārikhaṇḍa-became maddened by hearing the holy name of Lord Kṛṣṇa vibrated by Śrī Caitanya Mahāprabhu."
 }

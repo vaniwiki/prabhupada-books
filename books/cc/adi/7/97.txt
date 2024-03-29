@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 7.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.97",
     "description":"\"Compared to the ocean of transcendental bliss that is tasted by chanting the Hare Kṛṣṇa mantra, the pleasure derived from impersonal Brahman realization [brahmānanda] is like the shallow water in a canal."
 }

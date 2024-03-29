@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 5.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.145",
     "description":"\"Nescience, or māyā, may be called 'bandhu' because she entangles everyone in the material world. Therefore by using the word 'bandhu-han,' mother Sarasvatī says that Lord Kṛṣṇa is the vanquisher of māyā."
 }

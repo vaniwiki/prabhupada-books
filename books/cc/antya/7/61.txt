@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 7.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.61",
     "description":"The next day, when all the Vaiṣṇavas came to the abode of Śrī Caitanya Mahāprabhu, the Lord introduced Vallabha Bhaṭṭa to them all."
 }

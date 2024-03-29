@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 22.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.61",
     "description":"\" 'As long as one is not satiated by fruitive activity and has not awakened his taste for devotional service by śravaṇaṁ kīrtanaṁ viṣṇoh, one has to act according to the regulative principles of the Vedic injunctions.'"
 }

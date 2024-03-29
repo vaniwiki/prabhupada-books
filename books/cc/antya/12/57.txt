@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 12.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.57",
     "description":"When he offered his obeisances to the Lord, he said, \"I am the same Parameśvara.\" Upon seeing him, the Lord asked him questions with great affection."
 }

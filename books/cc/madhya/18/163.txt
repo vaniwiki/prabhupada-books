@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 18.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.163",
     "description":"While the Lord was unconscious, ten cavalry soldiers belonging to the Mohammedan Pāṭhāna military order rode up and dismounted."
 }

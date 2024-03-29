@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 11.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.61",
     "description":"After thus encouraging the King, Sārvabhauma Bhaṭṭācārya returned home. On the day of Lord Jagannātha's bathing ceremony, Śrī Caitanya Mahāprabhu was very happy at heart."
 }

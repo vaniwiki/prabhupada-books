@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.135",
-    "h1":"Text 135",
+    "h1":"Cc. Ādi 5.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.135",
     "description":"Sometimes He serves Lord Caitanya as His guru, sometimes as His friend and sometimes as His servant, just as Lord Balarāma played with Lord Kṛṣṇa in these three different modes in Vraja."
 }

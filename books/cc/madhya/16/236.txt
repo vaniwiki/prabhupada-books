@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.236",
-    "h1":"Text 236",
+    "h1":"Cc. Madhya 16.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.236",
     "description":"Since Śrī Caitanya Mahāprabhu was omniscient, He could understand Raghunātha dāsa's mind. The Lord therefore instructed him with the following reassuring words."
 }

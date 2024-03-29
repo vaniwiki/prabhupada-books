@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 20.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.38",
     "description":"In Hājipura there was a gentlemen named Śrīkānta, who happened to be the husband of Sanātana Gosvāmī's sister. He was engaged there in government service."
 }

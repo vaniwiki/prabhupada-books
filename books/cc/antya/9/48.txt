@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 9.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.48",
     "description":"\"It would be better to take the horses for a proper price and let him gradually repay the balance. Why are you killing him unnecessarily?\""
 }

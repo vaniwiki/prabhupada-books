@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 13.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.132",
     "description":"I have already described in brief Śrīmatī Rādhārāṇī's statement from Śrīmad-Bhāgavatam."
 }

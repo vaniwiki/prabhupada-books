@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 10.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.120",
     "description":"Śrī Caitanya Mahāprabhu raised Svarūpa Dāmodara to his feet and embraced him. They both became ecstatic in love and fell unconscious."
 }

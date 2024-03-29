@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 16.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.100",
     "description":"\"The word 'sukṛti' refers to pious activities performed by the mercy of Kṛṣṇa. One who is fortunate enough to obtain such mercy receives the remnants of the Lord's food and thus becomes glorious.\""
 }

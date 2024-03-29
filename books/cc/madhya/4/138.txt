@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.138",
-    "h1":"Text 138",
+    "h1":"Cc. Madhya 4.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.138",
     "description":"The priest offered his obeisances to Mādhavendra Purī and returned to the temple. Then, in ecstasy, Mādhavendra Purī ate the sweet rice offered to him by Kṛṣṇa."
 }

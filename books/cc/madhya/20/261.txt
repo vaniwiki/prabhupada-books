@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.261",
-    "h1":"Text 261",
+    "h1":"Cc. Madhya 20.261",
+    "label":"Text 261",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.261",
     "description":"\"Dull matter alone cannot create anything. The material energy produces the creation by the power of the Supreme Personality of Godhead. Iron itself has no power to burn, but when iron is placed in fire, it is empowered to burn."
 }

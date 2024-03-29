@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 18.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.92",
     "description":"\"Then Kṛṣṇa quarreled with Rādhārāṇī, and all the gopīs hid themselves in a cluster of white lotus flowers. They submerged their bodies up to their necks in the water. Only their faces floated above the surface, and the faces were indistinguishable from the lotuses."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.256",
-    "h1":"Text 256",
+    "h1":"Cc. Madhya 16.256",
+    "label":"Text 256",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.256",
     "description":"\"It was My decision to go to Vṛndāvana through Bengal in order to see My mother and the River Ganges."
 }

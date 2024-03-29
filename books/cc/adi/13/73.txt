@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.73",
-    "h1":"Text 73",
+    "h1":"Cc. Ādi 13.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.73",
     "description":"Jagannātha Miśra was very unhappy at the death of his children one after another. Therefore, desiring a son, he worshiped the lotus feet of Lord Viṣṇu."
 }

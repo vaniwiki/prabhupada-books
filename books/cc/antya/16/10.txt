@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 16.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.10",
     "description":"He would go to all the Vaiṣṇavas born in brāhmaṇa families, be they neophyte or advanced devotees, and present them gifts of first-class eatables."
 }

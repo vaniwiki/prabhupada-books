@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 5.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.96",
     "description":"If passed by Svarūpa Dāmodara Gosvāmī, it could be presented for Śrī Caitanya Mahāprabhu to hear."
 }

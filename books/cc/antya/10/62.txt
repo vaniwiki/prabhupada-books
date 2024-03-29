@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 10.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.62",
     "description":"The congregational chanting made a tumultuous roar that filled the sky. All the inhabitants of Jagannātha Purī came to see the kīrtana."
 }

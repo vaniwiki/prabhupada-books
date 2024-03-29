@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.270",
-    "h1":"Text 270",
+    "h1":"Cc. Madhya 20.270",
+    "label":"Text 270",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.270",
     "description":"\" 'In the spiritual world, there is neither the mode of passion, the mode of ignorance nor a mixture of both, nor is there adulterated goodness, nor the influence of time or māyā itself. Only the pure devotees of the Lord, who are worshiped both by demigods and by demons, reside in the spiritual world as the Lord's associates.'"
 }

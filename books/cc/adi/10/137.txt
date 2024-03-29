@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.137",
-    "h1":"Text 137",
+    "h1":"Cc. Ādi 10.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.137",
     "description":"Mādhavīdevī, the seventeenth of the prominent devotees, was the younger sister of Śikhi Māhiti. She is considered to have formerly been a maidservant of Śrīmatī Rādhārāṇī."
 }

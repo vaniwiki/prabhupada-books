@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 12.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.70",
     "description":"A person without Kṛṣṇa consciousness is no better than dry wood or a dead body. He is understood to be dead while living, and after death he is punishable by Yamarāja."
 }

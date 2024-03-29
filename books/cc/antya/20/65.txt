@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 20.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.65",
     "description":"If anyone recites or hears these eight verses of instruction by Śrī Caitanya Mahāprabhu, his ecstatic love and devotion for Kṛṣṇa increase day by day."
 }

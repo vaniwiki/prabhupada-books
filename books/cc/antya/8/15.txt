@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 8.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.15",
     "description":"\"I have heard,\" he said, \"that the followers of Caitanya Mahāprabhu eat more than necessary. Now I have directly seen that this is true."
 }

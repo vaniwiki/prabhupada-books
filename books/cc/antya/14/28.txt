@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 14.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.28",
     "description":"Seeing the woman's eagerness, Śrī Caitanya Mahāprabhu said, \"Lord Jagannātha has not bestowed so much eagerness upon Me."
 }

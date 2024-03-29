@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 11.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.25",
     "description":"\"Your role in this incarnation is to deliver the people in general. You have sufficiently preached the glories of the holy name in this world.\""
 }

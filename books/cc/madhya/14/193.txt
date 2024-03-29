@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 14.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.193",
     "description":"\"When Lord Śrī Kṛṣṇa happens to see Śrīmatī Rādhārāṇī decorated with these lalita ornaments, They both anxiously want to meet one another."
 }

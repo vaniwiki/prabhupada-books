@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 15.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.224",
     "description":"Śrī Caitanya Mahāprabhu was a little astonished to see the gorgeous arrangement, and, gesturing, He spoke to Sārvabhauma Bhaṭṭācārya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 5.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.24",
     "description":"Through the feminine poses and dances they were taught by Rāmānanda Rāya, the two girls precisely exhibited all these expressions of ecstasy before Lord Jagannātha."
 }

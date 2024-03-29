@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.60",
-    "h1":"Text 60",
+    "h1":"Cc. Ādi 4.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.60",
     "description":"That hlādinī energy gives Kṛṣṇa pleasure and nourishes His devotees."
 }

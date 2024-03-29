@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 13.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.165",
     "description":"In emotional ecstasy, Caitanya Mahāprabhu would sometimes sit on the ground and, looking down, would write on the ground with His finger."
 }

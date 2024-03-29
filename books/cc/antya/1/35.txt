@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.35",
-    "h1":"Text 35",
+    "h1":"Cc. Antya 1.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.35",
     "description":"In Vṛndāvana, Rūpa Gosvāmī began to write a drama. In particuIar, he composed the introductory verses to invoke good fortune."
 }

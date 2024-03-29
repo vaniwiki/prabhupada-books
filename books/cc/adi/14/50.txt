@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 14.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.50",
     "description":"Addressing the girls, the Lord would say, \"Worship Me, and I shall give you good husbands or good benedictions. The Ganges and Goddess Durgā are My maidservants. What to speak of other demigods, even Lord Śiva is My servant.\""
 }

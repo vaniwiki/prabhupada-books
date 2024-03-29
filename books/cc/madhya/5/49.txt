@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 5.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.49",
     "description":"The young brāhmaṇa came to him and offered respectful obeisances. Then, very humbly folding his hands, he spoke as follows."
 }

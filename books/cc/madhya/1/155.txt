@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.155",
-    "h1":"Text 155",
+    "h1":"Cc. Madhya 1.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.155",
     "description":"When Śrī Nṛsiṁhānanda Brahmacārī heard that Lord Caitanya Mahāprabhu would go to Vṛndāvana, he became very pleased and mentally began decorating the way there."
 }

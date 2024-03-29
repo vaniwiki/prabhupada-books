@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 11.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.93",
     "description":"\"How many names shall I speak to you? All the devotees you see here are associates of Śrī Caitanya Mahāprabhu, who is their life and soul.\""
 }

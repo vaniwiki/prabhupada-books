@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.179",
-    "h1":"Text 179",
+    "h1":"Cc. Antya 4.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.179",
     "description":"\"Since I am in the renounced order, My duty is to make no distinctions but instead be equipoised. My knowledge must be equally disposed toward sandalwood pulp and dirty mud."
 }

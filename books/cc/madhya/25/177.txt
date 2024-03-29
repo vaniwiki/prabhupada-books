@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 25.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.177",
     "description":"In this way, for five days, Śrī Caitanya Mahāprabhu delivered the people of Vārāṇasī. Finally, on the next day, He became very eager to leave."
 }

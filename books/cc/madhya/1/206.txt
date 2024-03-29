@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 1.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.206",
     "description":"\" 'By serving You constantly, one is freed from all material desires and is completely pacified. When shall I engage as Your permanent eternal servant and always feel joyful to have such a fitting master?' \""
 }

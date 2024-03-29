@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.161",
-    "h1":"Text 161",
+    "h1":"Cc. Antya 5.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.161",
     "description":"In the course of the narration, I have also told about the drama by the poet from Bengal. Although he was ignorant, because of his faith and humility he nevertheless obtained the shelter of Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 13.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.68",
     "description":"Thus Jagadānanda Paṇḍita, bearing all these gifts, started on his journey. Sanātana Gosvāmī, however, was very agitated after bidding him farewell."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.130",
-    "h1":"Text 130",
+    "h1":"Cc. Antya 5.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.130",
     "description":"Seeing the poet's unhappiness, Svarūpa Dāmodara Gosvāmī, who was naturally very kindhearted, advised him so that he could derive some benefit."
 }

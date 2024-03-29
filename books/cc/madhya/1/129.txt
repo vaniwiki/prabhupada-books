@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 1.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.129",
     "description":"After Rāmānanda Rāya's arrival, Śrī Caitanya Mahāprabhu bestowed His mercy upon Kāśī Miśra and met Pradyumna Miśra and others. At that time three personalities-Paramānanda Purī, Govinda and Kāśīśvara-came to see Lord Caitanya at Jagannātha Purī."
 }

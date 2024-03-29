@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 14.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.235",
     "description":"While dancing absorbed in Śrīmatī Rādhārāṇī's ecstatic love, Śrī Caitanya Mahāprabhu appeared in Her very form. Seeing this from a distant place, Nityānanda Prabhu offered prayers."
 }

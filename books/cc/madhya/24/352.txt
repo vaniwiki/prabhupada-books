@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.352",
-    "h1":"Text 352",
+    "h1":"Cc. Madhya 24.352",
+    "label":"Text 352",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.352",
     "description":"By reading these instructions to Sanātana Gosvāmī, one will become fully aware of Lord Kṛṣṇa's various expansions and the process of devotional service according to the regulative principles and spontaneous love. Thus everything can be fully known."
 }

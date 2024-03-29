@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.181",
-    "h1":"Text 181",
+    "h1":"Cc. Madhya 13.181",
+    "label":"Text 181",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.181",
     "description":"Mahārāja Pratāparudra picked the Lord up with great respect, but upon seeing the King, Lord Caitanya Mahāprabhu came to His external senses."
 }

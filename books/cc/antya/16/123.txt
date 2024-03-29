@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 16.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.123",
     "description":"\"My dear Kṛṣṇa, since You are a male, it is not very extraordinary that the attraction of Your lips can disturb the minds of women. I am ashamed to say this, but Your lips sometimes attract even Your flute, which is also considered a male. It likes to drink the nectar of Your lips, and thus it also forgets all other tastes."
 }

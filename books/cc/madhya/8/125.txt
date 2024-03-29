@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 8.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.125",
     "description":"\"Due to the association of Sārvabhauma Bhaṭṭācārya, My mind has been enlightened. Therefore I have asked Sārvabhauma Bhaṭṭācārya about the truths of transcendental loving service to Kṛṣṇa."
 }

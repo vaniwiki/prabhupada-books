@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.81",
-    "h1":"Text 81",
+    "h1":"Cc. Ādi 12.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.81",
     "description":"The fifth branch was Ananta Ācārya; the sixth, Kavi Datta; the seventh, Nayana Miśra; the eighth, Gaṅgāmantrī; the ninth, Māmu Ṭhākura; and the tenth, Kaṇṭhābharaṇa."
 }

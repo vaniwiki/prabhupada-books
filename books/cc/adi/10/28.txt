@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 10.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.28",
     "description":"I shall describe the contents of the bags of Rāghava Paṇḍita later in this book. Hearing this narration, devotees generally cry, and tears glide down from their eyes."
 }

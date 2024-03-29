@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 16.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.20",
     "description":"Śivānanda Sena took care of all the necessities the devotees required. In particular, he made arrangements for residential quarters, and he knew the roads of Orissa."
 }

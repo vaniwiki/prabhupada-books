@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 13.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.76",
     "description":"The hot chili-like taste burned the tongues of those who chewed the seeds. The eating of pīlu fruits from Vṛndāvana was a pastime for Śrī Caitanya Mahāprabhu."
 }

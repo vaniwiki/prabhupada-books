@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 17.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.50",
     "description":"The Lord did not always manifest His ecstasy. Being afraid of a great assembly of people, the Lord kept His ecstasy concealed."
 }

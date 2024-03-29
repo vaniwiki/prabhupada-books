@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.194",
-    "h1":"Text 194",
+    "h1":"Cc. Madhya 25.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.194",
     "description":"Taking the Nawab's sprinkling water upon him as an opportunity, Subuddhi Rāya left his family and business affairs and went to Vārāṇasī."
 }

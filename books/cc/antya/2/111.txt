@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.111",
-    "h1":"Text 111",
+    "h1":"Cc. Antya 2.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.111",
     "description":"When Śrī Caitanya Mahāprabhu asked who had begged the rice and brought it back, Bhagavān Ācārya mentioned the name of Junior Haridāsa."
 }

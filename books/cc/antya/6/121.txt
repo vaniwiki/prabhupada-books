@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.121",
-    "h1":"Text 121",
+    "h1":"Cc. Antya 6.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.121",
     "description":"Rāghava Paṇḍita offered Them betel nuts and worshiped Their lotus feet. He also distributed betel nuts, flower garlands and sandalwood pulp to the devotees."
 }

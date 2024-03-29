@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.115",
-    "h1":"Text 115",
+    "h1":"Cc. Antya 12.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.115",
     "description":"Hearing these words of Śrī Caitanya Mahāprabhu, Govinda remained silent. The next morning, Jagadānanda went to see the Lord."
 }

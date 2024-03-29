@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.345",
-    "h1":"Text 345",
+    "h1":"Cc. Madhya 24.345",
+    "label":"Text 345",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.345",
     "description":"\"I have thus given a synopsis of the Vaiṣṇava regulative principles. I have given this in brief just to give you a little direction. When you write on this subject, Kṛṣṇa will help you by spiritually awakening you.\""
 }

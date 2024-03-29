@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.181",
-    "h1":"Text 181",
+    "h1":"Cc. Antya 6.181",
+    "label":"Text 181",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.181",
     "description":"In Jhāṅkarā, the ten men caught up with the group of Vaiṣṇavas going to Nīlācala."
 }

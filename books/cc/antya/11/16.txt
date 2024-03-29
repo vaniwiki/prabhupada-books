@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 11.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.16",
     "description":"One day Govinda, the personal servant of Śrī Caitanya Mahāprabhu, went in great jubilation to deliver the remnants of Lord Jagannātha's food to Haridāsa Ṭhākura."
 }

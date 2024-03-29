@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 10.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.123",
     "description":"Svarūpa said, \"My dear Lord, please excuse my offense. I gave up Your company to go elsewhere, and that was my great mistake."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 19.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.15",
     "description":"On the pretext of bad health, Sanātana Gosvāmī remained home. Thus he gave up government service and did not go to the royal court."
 }

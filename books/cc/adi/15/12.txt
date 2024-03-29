@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 15.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.12",
     "description":"Hearing of this, Viśvarūpa immediately left home and went away to accept sannyāsa and travel from one place of pilgrimage to another."
 }

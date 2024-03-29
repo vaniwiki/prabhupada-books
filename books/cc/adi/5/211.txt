@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.211",
-    "h1":"Text 211",
+    "h1":"Cc. Ādi 5.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.211",
     "description":"I am not fit to speak all these confidential words about my visiting Lord Madana Gopāla and Lord Govinda."
 }

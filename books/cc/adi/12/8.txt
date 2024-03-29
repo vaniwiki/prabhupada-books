@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 12.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.8",
     "description":" At first all the followers of Advaita Ācārya shared a single opinion. But later they followed two different opinions, as ordained by providence."
 }

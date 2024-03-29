@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 13.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.51",
     "description":"Sanātana Gosvāmī was wearing this cloth bound about his head when he came to Jagadānanda Paṇḍita's door and sat down."
 }

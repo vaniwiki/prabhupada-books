@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 6.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.56",
     "description":"He also obtained five or seven especially large earthen pots, and in these pots a brāhmaṇa began soaking chipped rice for the satisfaction of Lord Nityānanda."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.162",
-    "h1":"Text 162",
+    "h1":"Cc. Antya 6.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.162",
     "description":"Yadunandana Ācārya had been officially initiated by Advaita Ācārya. Thus he considered Lord Caitanya his life and soul."
 }

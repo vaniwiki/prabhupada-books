@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.111",
-    "h1":"Text 111",
+    "h1":"Cc. Antya 6.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.111",
     "description":"The food prepared and offered to the Deity by Rāghava Paṇḍita was like the essence of nectar. Śrī Caitanya Mahāprabhu came there again and again to eat such prasāda."
 }

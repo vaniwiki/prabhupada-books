@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 12.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.81",
     "description":"The Lord specifically advised Nityānanda Prabhu, \"You should not come here again and again. You will have My association in Bengal.\""
 }

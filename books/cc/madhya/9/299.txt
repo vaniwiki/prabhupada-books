@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.299",
-    "h1":"Text 299",
+    "h1":"Cc. Madhya 9.299",
+    "label":"Text 299",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.299",
     "description":"Śrī Raṅga Purī also remembered that one of her deserving sons had accepted the renounced order at a very young age. His name was Śaṅkarāraṇya."
 }

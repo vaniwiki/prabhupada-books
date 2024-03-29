@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 12.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.48",
     "description":"The son was in the womb of his wife, and when he returned home the son was born."
 }

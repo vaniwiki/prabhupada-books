@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 9.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.65",
     "description":"After arriving at Tirupati, Lord Śrī Caitanya Mahāprabhu visited the temple of Lord Rāmacandra. He offered His prayers and obeisances before Rāmacandra, the descendant of King Raghu."
 }

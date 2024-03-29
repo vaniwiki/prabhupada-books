@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 2.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.24",
     "description":"\"I say, 'My dear friends, you are asking Me to be patient, saying that Kṛṣṇa is an ocean of mercy and that some time in the future He will accept Me. However, I must say that this will not console Me. A living entity's life is very flickering. It is like water on the leaf of a lotus flower. Who will live long enough to expect Kṛṣṇa's mercy?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.185",
-    "h1":"Text 185",
+    "h1":"Cc. Ādi 5.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.185",
     "description":"He had beautifully formed hands, arms and legs, and eyes like lotus flowers. He wore a silk cloth, with a silk turban on His head."
 }

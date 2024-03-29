@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 9.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.52",
     "description":"The Buddhists could understand that Lord Śrī Caitanya Mahāprabhu was a Vaiṣṇava, and they returned home very unhappy. Later, however, they began to plot against the Lord."
 }

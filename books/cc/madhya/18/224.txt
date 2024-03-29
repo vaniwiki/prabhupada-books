@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 18.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.224",
     "description":"What ordinary living being can describe the pastimes of Śrī Caitanya Mahāprabhu? I have only indicated the general direction in the form of codes."
 }

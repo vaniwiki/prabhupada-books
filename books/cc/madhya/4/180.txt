@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 4.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.180",
     "description":"\"After receiving the transcendental orders of Gopāla, this great personality traveled thousands of miles just to collect sandalwood by begging."
 }

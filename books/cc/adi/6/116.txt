@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 6.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.116",
     "description":"I offer my obeisances ten million times to the lotus feet of Śrī Advaita Ācārya. Please do not take offense at this."
 }

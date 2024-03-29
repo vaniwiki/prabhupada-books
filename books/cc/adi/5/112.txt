@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.112",
-    "h1":"Text 112",
+    "h1":"Cc. Ādi 5.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.112",
     "description":"He is the Supersoul of all living entities. He maintains this material world, and He is its Lord."
 }

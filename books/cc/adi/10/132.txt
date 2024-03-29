@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.132",
-    "h1":"Text 132",
+    "h1":"Cc. Ādi 10.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.132",
     "description":"Embracing Rāya Bhavānanda, the Lord declared to him, \"You formerly appeared as Pāṇḍu, and your five sons appeared as the five Pāṇḍavas.\""
 }

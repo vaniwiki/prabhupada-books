@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.224",
-    "h1":"Text 224",
+    "h1":"Cc. Antya 6.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.224",
     "description":"\"A vairāgī [a person in the renounced order] should not depend on others. 'If he does so, he will be unsuccessful, and he will be neglected by Kṛṣṇa."
 }

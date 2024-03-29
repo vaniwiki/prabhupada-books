@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 14.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.26",
     "description":"Śrī Caitanya Mahāprabhu said to Govinda, \"O ādi-vasyā [uncivilized man], do not forbid this woman to climb the Garuḍa-stambha. Let her see Lord Jagannātha to her satisfaction.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 16.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.7",
     "description":"After this, Śrī Caitanya Mahāprabhu Himself consulted Rāmānanda Rāya and Sārvabhauma Bhaṭṭācārya, saying, \"I shall go to Vṛndāvana.\""
 }

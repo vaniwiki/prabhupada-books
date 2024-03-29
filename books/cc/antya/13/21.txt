@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 13.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.21",
     "description":"Formerly, when Jagadānanda Paṇḍita had desired to go to Vṛndāvana, Śrī Caitanya Mahāprabhu had not given His permission, and therefore he could not go."
 }

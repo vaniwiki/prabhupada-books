@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 2.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.62",
     "description":"\"My dear Kṛṣṇa, only You and I know the strength of Your beautiful features and, because of them, My unsteadiness. Now, this is My position; I do not know what to do or where to go. Where can I find You? I am asking You to give directions.\""
 }

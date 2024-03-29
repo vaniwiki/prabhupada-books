@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 17.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.44",
     "description":"Various birds, including the peacock, saw Śrī Caitanya Mahāprabhu and began to follow Him, chanting and dancing. They were all maddened by the holy name of Kṛṣṇa."
 }

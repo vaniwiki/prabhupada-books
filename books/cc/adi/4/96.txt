@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 4.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.96",
     "description":"Śrī Rādhā is the full power, and Lord Kṛṣṇa is the possessor of full power. The two are not different, as evidenced by the revealed scriptures."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 18.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.54",
     "description":"After staying at Mathurā for one month, the Deity Gopāla returned to His own place, and Śrī Rūpa Gosvāmī returned to Vṛndāvana."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 22.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.132",
     "description":"\" 'One should congregationally chant the holy name of the Lord and reside in Vṛndāvana.'"
 }

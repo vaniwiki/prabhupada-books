@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 8.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.163",
     "description":"\" 'I worship Govinda, the primeval Lord, who resides in His own realm, Goloka, with Rādhā, who resembles His own spiritual figure and who embodies the ecstatic potency [hlādinī]. Their companions are Her confidantes, who embody extensions of Her bodily form and who are imbued and permeated with ever-blissful spiritual rasa.'"
 }

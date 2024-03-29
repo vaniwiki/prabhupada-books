@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.22",
-    "h1":"Text 22",
+    "h1":"Cc. Antya 13.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.22",
     "description":"Now, concealing his anger and unhappiness, Jagadānanda Paṇḍita again asked Śrī Caitanya Mahāprabhu for permission to go to Mathurā."
 }

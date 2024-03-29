@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.228",
-    "h1":"Text 228",
+    "h1":"Cc. Ādi 5.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.228",
     "description":"All the groups of Vaiṣṇavas who live in Vṛndāvana are absorbed in chanting the all-auspicious name of Kṛṣṇa."
 }

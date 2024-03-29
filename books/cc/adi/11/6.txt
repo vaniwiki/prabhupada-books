@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 11.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.6",
     "description":"Watered by the desire of Śrī Caitanya Mahāprabhu, these branches and subbranches have grown unlimitedly and covered the entire world with fruits and flowers."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 15.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.10",
     "description":"Mother Śacī said, \"You have spoken very nicely. I shall not eat grains on Ekādaśī.\" From that day, she began to observe fasting on Ekādaśī."
 }

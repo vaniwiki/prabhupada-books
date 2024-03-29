@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 21.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.42",
     "description":"\"This is the middle meaning. Now please hear the confidential meaning. Lord Kṛṣṇa has three places of residence, which are well known from revealed scriptures."
 }

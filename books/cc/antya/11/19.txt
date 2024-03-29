@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 11.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.19",
     "description":"\"I have not finished chanting my regular number of rounds. How, then, can I eat? But you have brought mahā-prasāda, and how can I neglect it?\""
 }

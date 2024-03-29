@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 10.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.93",
     "description":"While residing at the house of Śacīmātā, Paramānanda Purī heard the news of Śrī Caitanya Mahāprabhu's return to Jagannātha Purī. He therefore decided to go there as soon as possible."
 }

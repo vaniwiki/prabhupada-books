@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 5.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.103",
     "description":"The young brāhmaṇa walked and walked in this way until he eventually arrived in his own country. When he neared his own village, he began to think as follows."
 }

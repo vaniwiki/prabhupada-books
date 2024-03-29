@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 9.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.68",
     "description":"\"You are a renounced sannyāsī. What connections do You have? One who worships You for some material purpose is blind to all knowledge.\""
 }

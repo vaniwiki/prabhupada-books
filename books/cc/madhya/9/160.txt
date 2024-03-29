@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 9.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.160",
     "description":"\"Out of Your causeless mercy You have told me of the glories of Lord Kṛṣṇa. No one can reach the end of the opulence, qualities and forms of the Lord."
 }

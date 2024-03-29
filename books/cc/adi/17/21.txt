@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 17.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.21",
     "description":"\" 'In this Age of Kali there is no other means, no other means, no other means for self-realization than chanting the holy name, chanting the holy name, chanting the holy name of Lord Hari.'"
 }

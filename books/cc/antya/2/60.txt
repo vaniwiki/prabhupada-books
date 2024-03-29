@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 2.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.60",
     "description":"After he finished cooking, he brought separate dishes for Jagannātha and Śrī Caitanya Mahāprabhu."
 }

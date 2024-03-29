@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.257",
-    "h1":"Text 257",
+    "h1":"Cc. Madhya 1.257",
+    "label":"Text 257",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.257",
     "description":"At Jagannātha Purī, Haridāsa Ṭhākura passed away. The incident was very wonderful because the Lord Himself performed the festival of Ṭhākura Haridāsa's departure."
 }

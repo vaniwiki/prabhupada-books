@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.183",
-    "h1":"Text 183",
+    "h1":"Cc. Antya 1.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.183",
     "description":"Rāmānanda Rāya inquired, \"By which subdivision of style do the players enter?\" Rūpa Gosvāmī then began to speak specifically about this subject."
 }

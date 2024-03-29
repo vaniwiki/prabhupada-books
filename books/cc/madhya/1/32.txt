@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 1.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.32",
     "description":"After going to Vṛndāvana, the brothers preached devotional service and discovered many places of pilgrimage. They specifically initiated the service of Madana-mohana and Govindajī."
 }

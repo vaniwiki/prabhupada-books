@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.209",
-    "h1":"Text 209",
+    "h1":"Cc. Antya 6.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.209",
     "description":"After saying this, Śrī Caitanya Mahāprabhu got up and went to perform His midday duties, and Raghunātha met all the devotees present."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 9.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.208",
     "description":"Indeed, when Śrī Caitanya Mahāprabhu heard these conclusive statements from the Kūrma Purāṇa, He felt great happiness. After asking the brāhmaṇas' permission, He took possession of those manuscript leaves."
 }

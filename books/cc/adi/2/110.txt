@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.110",
-    "h1":"Text 110",
+    "h1":"Cc. Ādi 2.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.110",
     "description":"Therefore Lord Caitanya is the Supreme Absolute Truth. To call Him Kṣīrodakaśāyī Viṣṇu does not add to His glory."
 }

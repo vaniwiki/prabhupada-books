@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 3.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.40",
     "description":"Saying this, Śrī Advaita Ācārya took the Lord into the boat and brought the Lord to His residence. There Advaita Ācārya washed the feet of the Lord and was consequently very happy within."
 }

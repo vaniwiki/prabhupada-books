@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 11.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.128",
     "description":"Indeed, Śrī Caitanya Mahāprabhu and Advaita Ācārya displayed agitation due to ecstatic love. Seeing the time and circumstance, however, Lord Caitanya Mahāprabhu remained patient."
 }

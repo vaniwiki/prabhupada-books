@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 3.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.109",
     "description":"At night the prostitute, after dressing herself most attractively, went to the cottage of Haridāsa Ṭhākura with great jubilation."
 }

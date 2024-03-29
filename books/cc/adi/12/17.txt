@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 12.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.17",
     "description":"When Advaita Ācārya heard this statement from His five-year-old son Acyutānanda, He felt great satisfaction because of his conclusive judgment."
 }

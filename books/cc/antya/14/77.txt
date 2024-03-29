@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.77",
-    "h1":"Text 77",
+    "h1":"Cc. Antya 14.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.77",
     "description":"Hearing the description of His condition while lying near the Siṁha-dvāra, Śrī Caitanya Mahāprabhu was very astonished. He said, \"I do not remember any of these things."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.312",
-    "h1":"Text 312",
+    "h1":"Cc. Ādi 17.312",
+    "label":"Text 312",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.312",
     "description":"We can see in the scripture Śrīmad-Bhāgavatam the conduct of its author, Śrī Vyāsadeva. After speaking the narration, he repeats it again and again."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 20.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.151",
     "description":"\" 'The Tenth Canto of Śrīmad-Bhāgavatam reveals the tenth object, the Supreme Personality of Godhead, who is the shelter of all surrendered souls. He is known as Śrī Kṛṣṇa, and He is the ultimate source of all the universes. Let me offer my obeisances unto Him.'"
 }

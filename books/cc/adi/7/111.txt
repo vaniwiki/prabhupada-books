@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.111",
-    "h1":"Text 111",
+    "h1":"Cc. Ādi 7.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.111",
     "description":"\"According to direct understanding, the Absolute Truth is the Supreme Personality of Godhead, who has all spiritual opulences. No one can be equal to or greater than Him."
 }

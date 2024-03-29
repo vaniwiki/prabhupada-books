@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 3.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.182",
     "description":"Mother Śacī said, \"This consideration is good. In my opinion, if Nimāi remains at Jagannātha Purī, He may not leave any one of us and at the same time can remain aloof as a sannyāsī. Thus both purposes are fulfilled."
 }

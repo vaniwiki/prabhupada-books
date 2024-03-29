@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 18.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.28",
     "description":"\"Flee this village tonight, and do not allow one person to remain. Take the Deity with you and leave, for the Mohammedan soldiers will come tomorrow.\""
 }

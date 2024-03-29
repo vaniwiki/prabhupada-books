@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 10.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.58",
     "description":"After seeing Lord Jagannātha, Śrī Caitanya Mahāprabhu began His all-encompassing saṅkīrtana. He formed seven groups, which then began to chant."
 }

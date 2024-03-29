@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.228",
-    "h1":"Text 228",
+    "h1":"Cc. Antya 4.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.228",
     "description":"After renouncing everything, Śrīla Jīva Gosvāmī went to Vṛndāvana. Later he also wrote many books on devotional service and expanded the work of preaching."
 }

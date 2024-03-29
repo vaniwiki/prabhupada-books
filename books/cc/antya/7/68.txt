@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 7.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.68",
     "description":"Svarūpa Dāmodara, Jagadānanda, Kāśīśvara and Śaṅkara, along with Rāghava and Dāmodara Paṇḍita, took charge of distributing the prasāda."
 }

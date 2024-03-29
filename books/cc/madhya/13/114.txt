@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 13.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.114",
     "description":"When this refrain was loudly sung by Svarūpa Dāmodara, Śrī Caitanya Mahāprabhu again began rhythmically dancing in transcendental bliss."
 }

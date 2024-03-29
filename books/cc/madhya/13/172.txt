@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.172",
-    "h1":"Text 172",
+    "h1":"Cc. Madhya 13.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.172",
     "description":"There was an increase in all the natural emotional symptoms. Thus there were awakening emotions, peacefulness, joined, mixed, transcendental and prevalent emotions, and impetuses for emotion."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.130-131",
-    "h1":"Text 130-131",
+    "h1":"Cc. Madhya 8.130-131",
+    "label":"Text 130-131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.130-131",
     "description":"Śrī Rāmānanda Rāya was a great devotee of the Lord and a lover of God, and although his mind could not be covered by Kṛṣṇa's illusory energy, and although he could understand the mind of the Lord, which was very strong and intense, Rāmānanda's mind became a little agitated."
 }

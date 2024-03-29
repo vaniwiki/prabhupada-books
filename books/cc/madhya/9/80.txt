@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.80",
-    "h1":"Text 80",
+    "h1":"Cc. Madhya 9.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.80",
     "description":"After bathing in the river Kāverī, Śrī Caitanya Mahāprabhu saw the temple of Raṅganātha and offered His ardent prayers and obeisances. Thus He felt Himself successful."
 }

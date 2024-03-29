@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 11.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.66",
     "description":"After a hole was dug in the sand, the body of Haridāsa Ṭhākura was placed in it. Remnants from Lord Jagannātha, such as His silken ropes, sandalwood pulp, food and cloth, were placed on the body."
 }

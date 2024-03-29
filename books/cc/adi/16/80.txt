@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.80",
-    "h1":"Text 80",
+    "h1":"Cc. Ādi 16.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.80",
     "description":"\"The existence of mother Ganges begins from the lotus feet of the Lord. Although this statement that water comes from a lotus flower is a contradiction, in connection with Lord Viṣṇu it is a great wonder."
 }

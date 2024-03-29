@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 1.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.75",
     "description":"Generally Śrī Caitanya Mahāprabhu recited a verse while dancing and chanting before the ratha, but no one knew why He was reciting that particular verse."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 7.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.3",
     "description":"In the beginning I have discussed the truth about the spiritual master. Now I shall try to explain the Pañca-tattva."
 }

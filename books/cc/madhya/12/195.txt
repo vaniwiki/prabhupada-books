@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 12.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.195",
     "description":"Nityānanda Prabhu continued: \"You are such a monist! And now I am eating beside You. I do not know how My mind will be affected in this way.\""
 }

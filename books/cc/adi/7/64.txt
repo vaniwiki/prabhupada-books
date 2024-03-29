@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 7.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.64",
     "description":"The Lord replied: \"I belong to a lower order of sannyāsīs. Therefore I do not deserve to sit with you.\""
 }

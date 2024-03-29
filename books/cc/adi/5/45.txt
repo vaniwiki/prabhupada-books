@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 5.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.45",
     "description":"There is one marginal potency, known as the jīva. Mahā-saṅkarṣaṇa is the shelter of all jīvas."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.232",
-    "h1":"Text 232",
+    "h1":"Cc. Ādi 5.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.232",
     "description":"I have attained all this by coming to Vṛndāvana, and this was made possible by the mercy of Lord Nityānanda."
 }

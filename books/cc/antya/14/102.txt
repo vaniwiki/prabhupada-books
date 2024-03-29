@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.102",
-    "h1":"Text 102",
+    "h1":"Cc. Antya 14.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.102",
     "description":"When Śrī Caitanya Mahāprabhu stood up, all the Vaiṣṇavas loudly chanted, \"Hari! Hari!\" in great jubilation. The auspicious sound filled the air in all directions."
 }

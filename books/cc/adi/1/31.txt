@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 1.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.31",
     "description":"I request all my Vaiṣṇava readers to read and hear with rapt attention this narration of Śrī Kṛṣṇa Caitanya as inculcated in the revealed scriptures."
 }

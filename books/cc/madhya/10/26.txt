@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 10.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.26",
     "description":"Hearing of the Lord's return, everyone became very happy, and they all went to Sārvabhauma Bhaṭṭācārya and spoke to him as follows."
 }

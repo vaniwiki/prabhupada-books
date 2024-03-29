@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 24.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.165",
     "description":"\"The word ātmā sometimes means 'the mind.' In this case, the word ātmārāma means 'a person who is satisfied by mental speculation.' When such a person associates with a pure devotee, he takes to devotional service at the lotus feet of Kṛṣṇa."
 }

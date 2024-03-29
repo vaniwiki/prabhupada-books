@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 7.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.78",
     "description":"\"While chanting the holy name of the Lord in pure ecstasy, I lose myself, and thus I laugh, cry, dance and sing just like a madman."
 }

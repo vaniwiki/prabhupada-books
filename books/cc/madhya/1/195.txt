@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 1.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.195",
     "description":"\"Jagāi and Mādhāi uttered Your holy name by way of blaspheming You. Fortunately, that holy name became the cause of their deliverance."
 }

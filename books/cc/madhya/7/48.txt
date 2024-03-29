@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 7.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.48",
     "description":"\"If a thunderbolt falls on my head or if my son dies, I can tolerate it. But I cannot endure the unhappiness of Your separation."
 }

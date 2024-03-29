@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 6.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.109",
     "description":"Rāghava Paṇḍita brought the prasāda before the two brothers and thereafter distributed prasāda to all the other Vaiṣṇavas."
 }

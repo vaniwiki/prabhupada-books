@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.294",
-    "h1":"Text 294",
+    "h1":"Cc. Madhya 8.294",
+    "label":"Text 294",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.294",
     "description":"Actually, these conversations are like a great mine where, from a single place, one can extract all kinds of metals-copper, bell metal, silver and gold-and also touchstone, the basis of all metals."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 25.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.199",
     "description":"Śrī Caitanya Mahāprabhu further advised Subuddhi Rāya: \"Begin chanting the Hare Kṛṣṇa mantra, and when your chanting is almost pure, all your sinful reactions will go away. After you chant perfectly, you will get shelter at the lotus feet of Kṛṣṇa."
 }

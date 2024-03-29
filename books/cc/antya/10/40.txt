@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 10.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.40",
     "description":"The superintendent for all those bags was Makaradhvaja Kara, who kept them with great attention like his very life."
 }

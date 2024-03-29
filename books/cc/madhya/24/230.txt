@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.230",
-    "h1":"Text 230",
+    "h1":"Cc. Madhya 24.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.230",
     "description":"\"Once upon a time the great saint Nārada, after visiting Lord Nārāyaṇa in the Vaikuṇṭhas, went to Prayāga to bathe at the confluence of three rivers—the Ganges, Yamunā and Sarasvatī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 11.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.169",
     "description":"At this time, Kāśī Miśra, along with the superintendent of the temple, came and offered his respects unto the lotus feet of Lord Śrī Caitanya Mahāprabhu."
 }

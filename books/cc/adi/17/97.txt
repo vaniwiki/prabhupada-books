@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 17.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.97",
     "description":"\"There was no offense in Your appearing as Nṛsiṁhadeva. Rather, any man who saw You in that mood was immediately liberated from the bondage of material existence.\""
 }

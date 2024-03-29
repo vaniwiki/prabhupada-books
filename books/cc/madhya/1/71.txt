@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 1.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.71",
     "description":"Having shown the verse to Svarūpa Dāmodara with great wonder, Caitanya Mahāprabhu asked him how Rūpa Gosvāmī could understand the intentions of His mind."
 }

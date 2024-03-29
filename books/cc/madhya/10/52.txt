@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 10.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.52",
     "description":"Śrī Caitanya Mahāprabhu honored Bhavānanda Rāya by saying, \"The glories of a person who has a jewel of a son like Rāmānanda Rāya cannot be described within this mortal world."
 }

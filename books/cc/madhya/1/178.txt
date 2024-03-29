@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 1.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.178",
     "description":"\"Why are you questioning me? Better that you question your own mind. Because you are the King of the people, you are the representative of the Supreme Personality of Godhead. Therefore you can understand this better than I.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.171",
-    "h1":"Text 171",
+    "h1":"Cc. Madhya 17.171",
+    "label":"Text 171",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.171",
     "description":"Upon hearing this, the brāhmaṇa became afraid. He then said, \"Why do You speak like this? You are a sannyāsī."
 }

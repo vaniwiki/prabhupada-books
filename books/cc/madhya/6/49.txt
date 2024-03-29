@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 6.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.49",
     "description":"Hearing these words, Sārvabhauma understood Lord Caitanya to be a Vaiṣṇava sannyāsī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 10.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.28",
     "description":"She made some of the flat rice into puffed rice, fried it in ghee, cooked it in sugar juice, mixed in some camphor and rolled it into balls."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 1.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.114",
     "description":"Caitanya Mahāprabhu also had a discussion with the Tattvavādī community, and the Tattvavādīs felt themselves to be inferior Vaiṣṇavas."
 }

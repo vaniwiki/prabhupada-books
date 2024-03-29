@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 1.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.235",
     "description":"Śrī Caitanya Mahāprabhu, although requesting all the devotees to go back, allowed two people to follow Him. He requested all the devotees to come to Jagannātha Purī and meet Him during the car festival."
 }

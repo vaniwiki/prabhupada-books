@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.216",
-    "h1":"Text 216",
+    "h1":"Cc. Antya 4.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.216",
     "description":"Thus after finishing all the tasks he had on his mind, he returned to Vṛndāvana fully satisfied."
 }

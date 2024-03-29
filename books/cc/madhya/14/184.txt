@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.184",
-    "h1":"Text 184",
+    "h1":"Cc. Madhya 14.184",
+    "label":"Text 184",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.184",
     "description":"Being thus requested, Svarūpa Dāmodara began to speak. All the devotees of Śrī Caitanya Mahāprabhu were very happy to hear him."
 }

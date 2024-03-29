@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 25.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.202",
     "description":"Subuddhi Rāya stayed for some time at Naimiṣāraṇya. During that time, Śrī Caitanya Mahāprabhu went to Prayāga after visiting Vṛndāvana."
 }

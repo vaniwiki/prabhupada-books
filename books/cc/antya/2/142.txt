@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.142",
-    "h1":"Text 142",
+    "h1":"Cc. Antya 2.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.142",
     "description":"When Śrī Caitanya Mahāprabhu went to see Lord Jagannātha in the temple, Haridāsa would stay a long distance away and see Him."
 }

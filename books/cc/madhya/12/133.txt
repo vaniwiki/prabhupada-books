@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 12.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.133",
     "description":"In this way all the quarters of the Guṇḍicā temple were completely cleansed and cleared. All quarters were cool and spotless, like one's cleansed and pacified mind."
 }

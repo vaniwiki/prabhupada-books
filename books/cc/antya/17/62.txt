@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 17.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.62",
     "description":"Suddenly Śrī Caitanya Mahāprabhu returned to external consciousness and said to Svarūpa Dāmodara Gosvāmī, \"My dear Svarūpa, please sing some sweet songs.\" The Lord's ears were satisfied when He heard Svarūpa Dāmodara sing songs from Gīta-govinda and those by the poet Vidyāpati."
 }

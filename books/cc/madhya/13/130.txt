@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 13.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.130",
     "description":"\"Here there is not even a drop of the ocean of transcendental happiness that I enjoyed with You in Vṛndāvana."
 }

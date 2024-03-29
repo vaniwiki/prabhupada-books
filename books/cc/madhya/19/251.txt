@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.251",
-    "h1":"Text 251",
+    "h1":"Cc. Madhya 19.251",
+    "label":"Text 251",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.251",
     "description":"It was known to Śrī Caitanya Mahāprabhu that He would remain there only five or seven days. He would not accept any invitation that involved Māyāvādī sannyāsīs."
 }

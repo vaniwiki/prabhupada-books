@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 17.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.197",
     "description":"It was with great difficulty that the cowherd men were able to keep the cows back. Then when the Lord chanted, all the deer heard His sweet voice and approached Him."
 }

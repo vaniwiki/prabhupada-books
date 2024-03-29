@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 12.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.4",
     "description":"When Śrī Caitanya Mahāprabhu returned from His South Indian tour, Mahārāja Pratāparudra, the King of Orissa, became very anxious to meet Him."
 }

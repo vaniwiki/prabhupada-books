@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 23.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.101",
     "description":"\"This brief description is an elaboration of the ultimate goal of life. Indeed, this is the fifth and ultimate goal, which is beyond the platform of liberation. It is called kṛṣṇa-prema-dhana, the treasure of love for Kṛṣṇa."
 }

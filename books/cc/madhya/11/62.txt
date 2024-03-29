@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 11.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.62",
     "description":"Upon seeing the bathing ceremony of Lord Jagannātha, Śrī Caitanya Mahāprabhu became very happy. But when Lord Jagannātha retired after the ceremony, Lord Caitanya became very unhappy because He could not see Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.113",
-    "h1":"Text 113",
+    "h1":"Cc. Ādi 2.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.113",
     "description":"Some say that Śrī Kṛṣṇa is directly Nara-Nārāyaṇa. Others say that He is directly Vāmana."
 }

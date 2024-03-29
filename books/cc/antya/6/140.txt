@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.140",
-    "h1":"Text 140",
+    "h1":"Cc. Antya 6.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.140",
     "description":"\"By His causeless mercy He ate the chipped rice and milk. Then, after seeing the dancing of the devotees at night, He took His supper."
 }

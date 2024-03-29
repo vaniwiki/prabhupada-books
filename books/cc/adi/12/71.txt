@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.71",
-    "h1":"Text 71",
+    "h1":"Cc. Ādi 12.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.71",
     "description":"Not only the misguided descendants of Advaita Ācārya but anyone who is against the cult of Śrī Caitanya Mahāprabhu should be considered an atheist subject to be punished by Yamarāja."
 }

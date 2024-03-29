@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.121",
-    "h1":"Text 121",
+    "h1":"Cc. Antya 13.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.121",
     "description":"\"In Vṛndāvana you should chant the Hare Kṛṣṇa mantra twenty-four hours a day and read Śrīmad-Bhāgavatam continuously. Kṛṣṇa, the Supreme Personality of Godhead, will very soon bestow His mercy upon you.\""
 }

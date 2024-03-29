@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 10.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.106",
     "description":"All the devotees from Bengal stayed in Jagannātha Purī for the four months of the rainy season and observed many other ceremonies, such as the anniversary of Lord Kṛṣṇa's birth."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 3.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.70",
     "description":"\"My Lord, the moving entities who have heard Your loud saṅkīrtana have already been delivered from bondage to the material world, and after the nonmoving living entities like trees hear it, there is an echo."
 }

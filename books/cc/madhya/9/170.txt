@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 9.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.170",
     "description":"Paramānanda Purī informed Śrī Caitanya Mahāprabhu that he was going to see Puruṣottama at Jagannātha Purī. After seeing Lord Jagannātha there, he would go to Bengal to bathe in the Ganges."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 13.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.139",
     "description":"\" 'My dear Kṛṣṇa, formerly, when You were staying in Mathurā, You sent Uddhava to teach Me speculative knowledge and mystic yoga. Now You Yourself are speaking the same thing, but My mind doesn't accept it. There is no place in My mind for jñāna-yoga or dhyāna-yoga. Although You know Me very well, You are still instructing Me in jñāna-yoga and dhyāna-yoga. It is not right for You to do so.' \""
 }

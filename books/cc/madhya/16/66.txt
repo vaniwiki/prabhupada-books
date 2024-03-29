@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 16.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.66",
     "description":"Nityānanda Prabhu replied, \"O Lord, You are the life, and I am the body. There is no difference between the body and life itself, but life is more important than the body."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 7.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.12",
     "description":"\"You have spread the saṅkīrtana movement of Kṛṣṇa consciousness. Therefore it is evident that You have been empowered by Lord Kṛṣṇa. There is no question about it."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.76",
-    "h1":"Text 76",
+    "h1":"Cc. Ādi 14.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.76",
     "description":"Sometimes, taking her son with her, mother Śacī would lie down on her bed, and she would see that denizens of the celestial world had come there, filling the entire house."
 }

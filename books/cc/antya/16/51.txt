@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 16.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.51",
     "description":"Śrī Caitanya Mahāprabhu, His left side toward the Deity, offered obeisances to Lord Nṛsiṁha as He proceeded toward the temple. He recited the following verses again and again while offering obeisances."
 }

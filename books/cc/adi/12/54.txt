@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 12.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.54",
     "description":"Only Lord Caitanya Mahāprabhu could understand the intentions of Advaita Ācārya, and Advaita Ācārya appreciated the grave instruction of Lord Caitanya Mahāprabhu."
 }

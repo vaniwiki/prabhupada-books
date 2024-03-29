@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.124",
-    "h1":"Text 124",
+    "h1":"Cc. Antya 13.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.124",
     "description":"Śrī Caitanya Mahāprabhu gave the garland and betel to Raghunātha Bhaṭṭa, who accepted them as a worshipable Deity, preserving them very carefully."
 }

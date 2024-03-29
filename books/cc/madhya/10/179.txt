@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 10.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.179",
     "description":"Lord Śrī Caitanya Mahāprabhu replied, \"You have a deep ecstatic love for Kṛṣṇa; therefore wherever you turn your eyes, you simply heighten your Kṛṣṇa consciousness.\""
 }

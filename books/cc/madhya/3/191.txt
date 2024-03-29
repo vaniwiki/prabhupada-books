@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 3.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.191",
     "description":"After thus instructing the devotees, the Lord asked their permission to go to Jagannātha Purī. He assured them that at intervals He would come there and meet them again and again."
 }

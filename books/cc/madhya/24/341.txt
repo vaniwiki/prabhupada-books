@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.341",
-    "h1":"Text 341",
+    "h1":"Cc. Madhya 24.341",
+    "label":"Text 341",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.341",
     "description":"\"Ekādaśī, Janmāṣṭamī, Vāmana-dvādaśī, Rāma-navamī and Nṛsiṁha-caturdaśī should all be observed."
 }

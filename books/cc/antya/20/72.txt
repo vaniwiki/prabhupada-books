@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 20.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.72",
     "description":"There is no limit to Śrī Caitanya Mahāprabhu's activities and His words of madness. Therefore describing them all would greatly increase the size of this book."
 }

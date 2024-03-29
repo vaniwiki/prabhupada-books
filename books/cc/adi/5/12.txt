@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 5.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.12",
     "description":"I have explained this seventh verse in four subsequent verses. By these verses all the world can know the truth about Lord Nityānanda."
 }

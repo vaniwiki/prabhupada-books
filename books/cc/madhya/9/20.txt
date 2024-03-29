@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 9.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.20",
     "description":"That day, Lord Caitanya remained there and accepted prasāda at his house. After bestowing mercy upon him in this way, the Lord proceeded ahead."
 }

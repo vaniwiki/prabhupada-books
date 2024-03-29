@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 9.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.104",
     "description":"After offering obeisances to Kāśī Miśra, the King returned to his palace and called for both Gopīnātha and the eldest prince."
 }

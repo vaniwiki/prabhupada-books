@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 12.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.174",
     "description":"Svarūpa Dāmodara Gosvāmī then said, \"Just take a little of this mahā-prasāda, and see how it is that Lord Jagannātha has accepted it.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.129",
-    "h1":"Text 129",
+    "h1":"Cc. Ādi 17.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.129",
     "description":"After saying this, the Kazi returned home, and the devotees, greatly shocked that they were forbidden to chant Hare Kṛṣṇa, submitted their grief to Lord Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 13.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.116",
     "description":"Seeing the transcendental bodily effulgence of the child, each of His nicely constructed limbs full of auspicious signs and resembling a form of gold, Sītā Ṭhākurāṇī was very much pleased, and because of her maternal affection, she felt as if her heart were melting."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 25.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.127",
     "description":"\" 'A highly elevated devotee can bind Me, the Supreme Personality of Godhead, in his heart by love. Wherever he looks, he sees Me and nothing else."
 }

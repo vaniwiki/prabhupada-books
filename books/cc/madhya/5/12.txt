@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 5.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.12",
     "description":"After reaching Mathurā, they started visiting the different forests of Vṛndāvana and came to Govardhana Hill. They visited all twelve forests [vanas] and at last came to the town of Vṛndāvana."
 }

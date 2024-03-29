@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 5.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.99",
     "description":"Bhagavān Ācārya submitted to Svarūpa Dāmodara Gosvāmī, \"A good brāhmaṇa has prepared a drama about Śrī Caitanya Mahāprabhu that appears exceptionally well composed."
 }

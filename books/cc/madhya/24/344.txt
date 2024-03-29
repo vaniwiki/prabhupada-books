@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.344",
-    "h1":"Text 344",
+    "h1":"Cc. Madhya 24.344",
+    "label":"Text 344",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.344",
     "description":"\"You should give general and specific descriptions of the behavior and activities of a Vaiṣṇava. You should outline things that are to be done and things that are not to be done. All this should be described as regulations and etiquette."
 }

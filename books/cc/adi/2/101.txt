@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.101",
-    "h1":"Text 101",
+    "h1":"Cc. Ādi 2.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.101",
     "description":"\"The cit-śakti, which is also called svarūpa-śakti or antaraṅga-śakti, displays many varied manifestations. It sustains the kingdom of God and its paraphernalia."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 7.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.62",
     "description":"He was surprised to see the brilliance of their faces. Indeed, among them Vallabha Bhaṭṭa seemed just like a glowworm."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 5.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.134",
     "description":"Thus Śrī Caitanya Mahāprabhu heard the narration of Gopāla's activities. Both He and His personal devotees became very pleased."
 }

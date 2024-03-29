@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.85",
-    "h1":"Text 85",
+    "h1":"Cc. Ādi 13.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.85",
     "description":"\"From my heart it entered your heart. I therefore understand that a great personality will soon take birth.\""
 }

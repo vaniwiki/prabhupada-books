@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 5.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.160",
     "description":"One who hears this narration of Lord Gopāla with faith and love very soon attains the lotus feet of Lord Gopāla."
 }

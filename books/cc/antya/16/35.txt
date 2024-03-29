@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.35",
-    "h1":"Text 35",
+    "h1":"Cc. Antya 16.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.35",
     "description":"When he finished eating, he left the seeds on the banana leaf, and his wife, after feeding her husband, later began to eat."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.114",
-    "h1":"Text 114",
+    "h1":"Cc. Antya 20.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.114",
     "description":"The Seventh Chapter tells how Śrī Caitanya met Vallabha Bhaṭṭa and dismantled his false pride in various ways."
 }

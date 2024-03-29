@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.98",
-    "h1":"Text 98",
+    "h1":"Cc. Ādi 5.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.98",
     "description":"After filling half the universe with water, He made His own residence therein and manifested the fourteen worlds in the other half."
 }

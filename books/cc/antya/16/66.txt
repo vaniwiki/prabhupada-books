@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 16.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.66",
     "description":"Taking his son, Śivānanda Sena went to see Śrī Caitanya Mahāprabhu at His residence. He made his son offer respectful obeisances at the lotus feet of the Lord."
 }

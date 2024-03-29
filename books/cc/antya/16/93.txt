@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.93",
-    "h1":"Text 93",
+    "h1":"Cc. Antya 16.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.93",
     "description":"To Śrī Caitanya Mahāprabhu the prasāda tasted millions upon millions of times better than nectar, and thus He was fully satisfied. The hair all over His body stood on end, and incessant tears flowed from His eyes."
 }

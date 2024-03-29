@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 15.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.110",
     "description":"\" 'The holy name of Lord Kṛṣṇa is an attractive feature for many saintly, liberal people. It is the annihilator of all sinful reactions and is so powerful that save for the dumb who cannot chant it, it is readily available to everyone, including the lowest type of man, the caṇḍāla. The holy name of Kṛṣṇa is the controller of the opulence of liberation, and it is identical with Kṛṣṇa. Simply by touching the holy name with one's tongue, immediate effects are produced. Chanting the holy name does not depend on initiation, pious activities or the puraścaryā regulative principles generally observed before initiation. The holy name does not wait for all these activities. It is self-sufficient.' \""
 }

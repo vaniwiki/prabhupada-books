@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 12.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.176",
     "description":"Svarūpa Dāmodara and Jagadānanda again and again offered the Lord some food. Thus they behaved affectionately with the Lord. This was very, very uncommon."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 14.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.23",
     "description":"After some days the Lord began to move His legs and walk. He mixed with other children and exhibited various sports."
 }

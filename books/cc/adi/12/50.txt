@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 12.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.50",
     "description":"\"Advaita Ācārya, My spiritual master, should never accept charity from rich men or kings because if a spiritual master accepts money or grains from such materialists his mind becomes polluted."
 }

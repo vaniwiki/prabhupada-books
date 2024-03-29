@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 14.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.11",
     "description":"While mother Śacī was feeding the child from her breast, she saw on His lotus feet all the marks that were visible on the floor of the room, and she called for Jagannātha Miśra."
 }

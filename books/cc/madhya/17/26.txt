@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 17.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.26",
     "description":"When the Lord passed through the jungle in great ecstasy, packs of tigers, elephants, rhinoceros and boars came, and the Lord passed right through them."
 }

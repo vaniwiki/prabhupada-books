@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.204",
-    "h1":"Text 204",
+    "h1":"Cc. Madhya 12.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.204",
     "description":"The next day marked the performance of the festival of Netrotsava. This great festival was the life and soul of the devotees."
 }

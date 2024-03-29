@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.270",
-    "h1":"Text 270",
+    "h1":"Cc. Madhya 24.270",
+    "label":"Text 270",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.270",
     "description":"\"With great alacrity the hunter began to run toward his spiritual master, but he could not fall down and offer obeisances because ants were running hither and thither around his feet."
 }

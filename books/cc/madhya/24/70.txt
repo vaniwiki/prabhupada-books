@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 24.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.70",
     "description":"\"I have now described the different meanings of the eleven separate words. Now let Me give the complete meaning of the śloka, as it is applied in different places."
 }

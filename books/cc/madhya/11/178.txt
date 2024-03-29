@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 11.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.178",
     "description":"\"My Lord, we are Your two servants and are here just to carry out Your orders. By Your mercy, please tell us to do whatever You want.\""
 }

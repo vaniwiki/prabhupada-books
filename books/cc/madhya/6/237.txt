@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.237",
-    "h1":"Text 237",
+    "h1":"Cc. Madhya 6.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.237",
     "description":"From that day on, Sārvabhauma Bhaṭṭācārya did not know anything but the lotus feet of Lord Caitanya Mahāprabhu, and from that day he could explain the revealed scriptures only in accordance with the process of devotional service."
 }

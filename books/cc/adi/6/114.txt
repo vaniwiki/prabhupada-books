@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.114",
-    "h1":"Text 114",
+    "h1":"Cc. Ādi 6.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.114",
     "description":"He liberated the universe by preaching saṅkīrtana. Thus the people of the world received the treasure of love of Godhead through the mercy of Śrī Advaita."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.38",
-    "h1":"Text 38",
+    "h1":"Cc. Antya 2.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.38",
     "description":"One year, Śrīkānta Sena came alone to Jagannātha Purī in great eagerness to see the Lord."
 }

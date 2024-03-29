@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 5.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.116",
     "description":"That Lord Viṣṇu is but a part of a part of a plenary portion of Lord Nityānanda, who is the source of all incarnations."
 }

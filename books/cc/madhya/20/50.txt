@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 20.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.50",
     "description":"\"O Muslim mendicant, please come in. The Lord is calling you.\" Sanātana Gosvāmī was very pleased to hear this order, and he entered Candraśekhara's house."
 }

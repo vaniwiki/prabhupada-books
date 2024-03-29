@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.351",
-    "h1":"Text 351",
+    "h1":"Cc. Madhya 20.351",
+    "label":"Text 351",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.351",
     "description":"Sanātana Gosvāmī said, \"I am a very insignificant living entity. I am low and poorly behaved. How can I understand who is the incarnation for this Age of Kali?\""
 }

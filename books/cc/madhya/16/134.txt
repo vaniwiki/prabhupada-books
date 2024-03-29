@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 16.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.134",
     "description":"The Paṇḍita replied, \"Do not worry. All the faults will be on my head. I shall not accompany You but shall go alone."
 }

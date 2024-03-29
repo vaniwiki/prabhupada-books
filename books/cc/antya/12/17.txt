@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 12.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.17",
     "description":"One day when the party was being checked by a toll collector, the devotees were allowed to pass, and Śivānanda Sena remained behind alone to pay the taxes."
 }

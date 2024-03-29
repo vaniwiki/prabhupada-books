@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 18.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.21",
     "description":"Endless waves arise moment after moment in that ocean of love. How could an insignificant living entity estimate their limits?"
 }

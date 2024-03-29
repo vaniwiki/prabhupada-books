@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.104",
-    "h1":"Text 104",
+    "h1":"Cc. Ādi 4.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.104",
     "description":"That most confidential cause is threefold. Svarūpa Dāmodara has revealed it."
 }

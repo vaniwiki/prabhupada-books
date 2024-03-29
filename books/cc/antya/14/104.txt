@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 14.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.104",
     "description":"When Śrī Caitanya Mahāprabhu saw all the Vaiṣṇavas, He returned to partial external consciousness and spoke to Svarūpa Dāmodara."
 }

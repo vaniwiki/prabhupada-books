@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.231",
-    "h1":"Text 231",
+    "h1":"Cc. Madhya 11.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.231",
     "description":"Wanting to see the dancing of the four great personalities, Śrī Caitanya Mahāprabhu exhibited Himself in such a way to appear as if He were seeing everyone."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 14.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.39",
     "description":"All the devotees sat down in lines, and Śrī Caitanya Mahāprabhu personally began to distribute the prasāda."
 }

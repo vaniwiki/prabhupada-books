@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.84",
-    "h1":"Text 84",
+    "h1":"Cc. Madhya 7.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.84",
     "description":"When Lord Nityānanda Prabhu took Śrī Caitanya Mahāprabhu for lunch at noon, everyone came running around Them."
 }

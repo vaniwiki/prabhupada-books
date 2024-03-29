@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 13.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.196",
     "description":"It was customary that food be offered to the Lord at vipra-śāsana. Indeed, innumerable dishes of food were offered, and Lord Jagannātha tasted each one of them."
 }

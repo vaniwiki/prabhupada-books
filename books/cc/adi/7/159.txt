@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.159",
-    "h1":"Text 159",
+    "h1":"Cc. Ādi 7.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.159",
     "description":"Whenever the crowds were too great, Śrī Caitanya Mahāprabhu stood up, raised His hands and chanted, \"Hari! Hari!\" to which all the people responded, filling both the land and sky with the vibration."
 }

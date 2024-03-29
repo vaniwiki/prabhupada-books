@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 7.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.34",
     "description":"\"O brāhmaṇa, what pious activities did Nanda Mahārāja perform to receive the Supreme Personality of Godhead Kṛṣṇa as his son? And what pious activities did mother Yaśodā perform that made the Absolute Supreme Personality of Godhead Kṛṣṇa call her \"mother\" and suck her breasts?'"
 }

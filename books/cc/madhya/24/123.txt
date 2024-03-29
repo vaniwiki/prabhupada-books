@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 24.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.123",
     "description":"\" 'Those who want to be relieved from the material clutches give up the worship of the various demigods, who have fearful bodily features. Such peaceful devotees, who are not envious of the demigods, worship the different forms of the Supreme Personality of Godhead, Nārāyaṇa.'"
 }

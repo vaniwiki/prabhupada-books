@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 9.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.11",
     "description":"The seed of devotional service next fructified in the form of Śrī Īśvara Purī, and then the gardener Himself, Caitanya Mahāprabhu, became the main trunk of the tree of devotional service."
 }

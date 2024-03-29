@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.141",
-    "h1":"Text 141",
+    "h1":"Cc. Madhya 11.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.141",
     "description":"The Lord said, \"For your sake only, I have brought two books from South India."
 }

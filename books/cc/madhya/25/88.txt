@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 25.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.88",
     "description":"Prakāśānanda Sarasvatī said, \"We can understand the faults You have pointed out in the Māyāvāda philosophy. All the explanations given by Śaṅkarācārya are imaginary."
 }

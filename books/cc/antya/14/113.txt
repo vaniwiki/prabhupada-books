@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.113",
-    "h1":"Text 113",
+    "h1":"Cc. Antya 14.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.113",
     "description":"At that time, Paramānanda Purī and Brahmānanda Bhāratī arrived. Seeing them, Śrī Caitanya Mahāprabhu became somewhat respectful."
 }

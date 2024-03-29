@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 7.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.116",
     "description":"\"The Lord is like a great blazing fire, and the living entities are like small sparks of that fire."
 }

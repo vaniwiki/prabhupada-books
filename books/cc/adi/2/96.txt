@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 2.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.96",
     "description":"\"One who knows the real feature of Śrī Kṛṣṇa and His three different energies cannot remain ignorant about Him."
 }

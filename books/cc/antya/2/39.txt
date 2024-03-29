@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 2.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.39",
     "description":"Seeing Śrīkānta Sena, Śrī Caitanya Mahāprabhu bestowed causeless mercy upon him. Śrīkānta Sena stayed near Śrī Caitanya Mahāprabhu for about two months at Jagannātha Purī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 10.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.62",
     "description":"The three sons of Śivānanda Sena, named Caitanya dāsa, Rāmadāsa and Karṇapūra, were all heroic devotees of Lord Caitanya."
 }

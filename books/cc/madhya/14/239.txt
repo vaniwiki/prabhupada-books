@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.239",
-    "h1":"Text 239",
+    "h1":"Cc. Madhya 14.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.239",
     "description":"Śrī Caitanya Mahāprabhu then entered the flower garden with all His devotees. After resting there for some time, He finished His afternoon bath."
 }

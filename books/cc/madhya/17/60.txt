@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 17.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.60",
     "description":"In some villages there were no brāhmaṇas; nonetheless, devotees born in non-brāhmaṇa families came and extended invitations to Balabhadra Bhaṭṭācārya."
 }

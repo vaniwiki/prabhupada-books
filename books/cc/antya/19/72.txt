@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 19.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.72",
     "description":"He would lie asleep without a covering on his body, and Śrī Caitanya Mahāprabhu would get up and wrap him with His own quilt."
 }

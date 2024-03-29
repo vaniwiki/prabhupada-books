@@ -2,6 +2,7 @@
 {
     "name":"Śrī Caitanya-caritāmṛta",
     "h1":"Śrī Caitanya-caritāmṛta",
+    "label":"Śrī Caitanya-caritāmṛta",
     "title":"Śrī Caitanya-caritāmṛta",
     "description":""
 }

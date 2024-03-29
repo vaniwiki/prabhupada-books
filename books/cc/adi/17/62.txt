@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 17.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.62",
     "description":"That brāhmaṇa was expert in talking harshly and cursing others. Thus he broke his sacred thread and declared, \"I shall now curse You, for Your behavior has greatly aggrieved me.\""
 }

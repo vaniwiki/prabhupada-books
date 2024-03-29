@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.137",
-    "h1":"Text 137",
+    "h1":"Cc. Madhya 9.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.137",
     "description":"\"Vyāsadeva, the supreme authority on Vedic literature, composed the verse beginning 'nāyaṁ sukhāpo bhagavān' because no one can enter into the rāsa-līlā dance in any body other than that of a gopī.\""
 }

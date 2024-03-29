@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 3.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.208",
     "description":"Śrī Caitanya Mahāprabhu told them, \"Sometimes you will come to Jagannātha Purī, and sometimes I shall come bathe in the Ganges.\""
 }

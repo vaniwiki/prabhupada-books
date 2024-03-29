@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.274",
-    "h1":"Text 274",
+    "h1":"Cc. Madhya 15.274",
+    "label":"Text 274",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.274",
     "description":"\"The heart of a brāhmaṇa is by nature very clean; therefore it is a proper place for Kṛṣṇa to sit."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.74",
-    "h1":"Text 74",
+    "h1":"Cc. Madhya 20.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.74",
     "description":"Tapana Miśra then said, \"Sanātana has some duty to perform; therefore he cannot accept lunch now. At the conclusion of the meal, I shall supply Sanātana with some remnants.\""
 }

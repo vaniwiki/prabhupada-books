@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4",
-    "h1":"Chapter 4",
+    "h1":"The Confidential Reasons for Lord Caitanya’s Appearance",
+    "label":"Chapter 4",
     "title":"Cc. Ādi 4: The Confidential Reasons for Lord Caitanya’s Appearance",
     "description":""
 }

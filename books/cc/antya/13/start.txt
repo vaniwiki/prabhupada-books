@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13",
-    "h1":"Chapter 13",
+    "h1":"Pastimes with Jagadānanda Paṇḍita and Raghunātha Bhaṭṭa Gosvāmī",
+    "label":"Chapter 13",
     "title":"Cc. Antya 13: Pastimes with Jagadānanda Paṇḍita and Raghunātha Bhaṭṭa Gosvāmī",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.162",
-    "h1":"Text 162",
+    "h1":"Cc. Antya 4.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.162",
     "description":"\"I can also understand my misfortune. No one in this world is as fortunate as Jagadānanda."
 }

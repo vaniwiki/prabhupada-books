@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 13.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.20",
     "description":"The decorations included bright mirrors and hundreds and hundreds of cāmaras [white whisks made of yak tails]. On top of the car were a neat and clean canopy and very beautiful flag."
 }

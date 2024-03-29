@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 3.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.36",
     "description":"\"In the condition of external separation, you were again under illusion, thinking that you had not offered the food to Lord Viṣṇu."
 }

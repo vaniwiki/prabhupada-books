@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.347",
-    "h1":"Text 347",
+    "h1":"Cc. Madhya 9.347",
+    "label":"Text 347",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.347",
     "description":"In ecstatic love Śrī Caitanya Mahāprabhu danced and chanted. At that time all the attendants and priests came to offer Him a garland and the remnants of Lord Jagannātha's food."
 }

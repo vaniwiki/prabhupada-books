@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.143-144",
-    "h1":"Text 143-144",
+    "h1":"Cc. Madhya 25.143-144",
+    "label":"Text 143-144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.143-144",
     "description":"\" 'The meaning of the Vedānta-sūtra is present in Śrīmad-Bhāgavatam. The full purport of the Mahābhārata is also there. The commentary of the Brahma-gāyatrī is also there and fully expanded with all Vedic knowledge. Śrīmad Bhāgavatam is the supreme Purāṇa, and it was compiled by the Supreme Personality of Godhead in His incarnation as Vyāsadeva. There are twelve cantos, 335 chapters and eighteen thousand verses.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 7.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.57",
     "description":"Vallabha Bhaṭṭa said, \"Where do all these Vaiṣṇavas live, and how can I see them?\""
 }

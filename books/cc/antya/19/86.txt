@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 19.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.86",
     "description":"When He saw Kṛṣṇa, Śrī Caitanya Mahāprabhu began running very swiftly, but Kṛṣṇa smiled and disappeared."
 }

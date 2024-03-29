@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 12.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.21",
     "description":"Hearing this curse, Śivānanda Sena's wife began to cry. Just then, Śivānanda returned from the toll station."
 }

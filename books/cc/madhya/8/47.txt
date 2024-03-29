@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 8.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.47",
     "description":"In this way each of them praised the qualities of the other, and both of them were pleased to see each other."
 }

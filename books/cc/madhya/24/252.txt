@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.252",
-    "h1":"Text 252",
+    "h1":"Cc. Madhya 24.252",
+    "label":"Text 252",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.252",
     "description":"\"In this way, through the association of the great sage Nārada Muni, the hunter was a little convinced of his sinful activity. He therefore became somewhat afraid due to his offenses."
 }

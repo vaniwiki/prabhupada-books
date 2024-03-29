@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 12.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.7",
     "description":"In this letter the King requested Sārvabhauma Bhaṭṭācārya, \"Please appeal to all the devotees associated with Śrī Caitanya Mahāprabhu and submit this petition to them on my behalf."
 }

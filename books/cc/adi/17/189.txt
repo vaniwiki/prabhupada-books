@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.189",
-    "h1":"Text 189",
+    "h1":"Cc. Ādi 17.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.189",
     "description":"\"After coming to me, the orderly said, 'When I went to stop the congregational chanting, suddenly flames struck my face."
 }

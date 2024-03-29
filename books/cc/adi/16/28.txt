@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 16.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.28",
     "description":"On one full moon night the Lord was sitting on the bank of the Ganges with His many disciples and discussing literary topics."
 }

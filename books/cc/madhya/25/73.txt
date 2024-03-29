@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 25.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.73",
     "description":"Śrī Caitanya Mahāprabhu continued, \"You are a great, spiritually advanced personality, and therefore you cannot worship a person like Me. I am far inferior. If you do so, My spiritual power will be diminished, for you are as good as the impersonal Brahman."
 }

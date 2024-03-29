@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 2.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.53",
     "description":"His real name was Pradyumna Brahmacārī. The name Nṛsiṁhānanda had been given to him by Lord Gaurasundara Himself."
 }

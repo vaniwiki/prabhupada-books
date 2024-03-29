@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 1.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.141",
     "description":" Śrīla Rūpa Gosvāmī gradually informed Rāmānanda Rāya about everything he asked. Hearing his explanations, all the devotees of Śrī Caitanya Mahāprabhu were struck with wonder."
 }

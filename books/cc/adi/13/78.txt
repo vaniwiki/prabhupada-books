@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 13.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.78",
     "description":"Because Mahā-saṅkarṣaṇa is the ingredient and efficient cause of the cosmic manifestation, He is present in every detail of it. Lord Caitanya therefore called Him His elder brother. The two brothers are known as Kṛṣṇa and Balarāma in the spiritual world, but at the present moment they are Caitanya and Nitāi. Therefore the conclusion is that Nityānanda Prabhu is the original Saṅkarṣaṇa, Baladeva."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.222",
-    "h1":"Text 222",
+    "h1":"Cc. Antya 3.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.222",
     "description":"\"Feeding you is equal to feeding ten million brāhmaṇas,\" Advaita Ācārya said. \"Therefore, accept this śrāddha-pātra.\" Thus Advaita Ācārya made him eat."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 2.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.16",
     "description":"In Āmbuyā-muluka there was a person named Nakula Brahmacārī, who was a perfectly pure devotee, greatly advanced in devotional service."
 }

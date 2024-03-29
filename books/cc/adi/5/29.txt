@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.29",
-    "h1":"Text 29",
+    "h1":"Cc. Ādi 5.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.29",
     "description":"Although His pastimes are His only characteristic functions, by His causeless mercy He performs one activity for the fallen souls."
 }

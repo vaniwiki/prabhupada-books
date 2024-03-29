@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 10.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.55",
     "description":"Rāghava Paṇḍita delivered the bags of eatables to Govinda, who kept them in a corner of the dining room."
 }

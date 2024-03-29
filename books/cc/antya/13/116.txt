@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.116",
-    "h1":"Text 116",
+    "h1":"Cc. Antya 13.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.116",
     "description":"After taking permission from Śrī Caitanya Mahāprabhu and all the devotees, headed by Svarūpa Dāmodara, Raghunātha Bhaṭṭa returned to Vārāṇasī."
 }

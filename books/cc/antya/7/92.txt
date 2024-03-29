@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 7.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.92",
     "description":"Ashamed, insulted and unhappy, Vallabha Bhaṭṭa went to Gadādhara Paṇḍita."
 }

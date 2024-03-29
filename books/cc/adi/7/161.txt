@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.161",
-    "h1":"Text 161",
+    "h1":"Cc. Ādi 7.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.161",
     "description":"Because the city of Vārāṇasī was always full of tumultuous crowds, Śrī Caitanya Mahāprabhu, after sending Sanātana to Vṛndāvana, returned to Jagannātha Purī."
 }

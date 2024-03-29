@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.125",
-    "h1":"Text 125",
+    "h1":"Cc. Antya 12.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.125",
     "description":"He had cooked fine rice, mixed it with ghee and piled it high on a banana leaf. There were also varieties of vegetables, placed all around in pots made of banana tree bark."
 }

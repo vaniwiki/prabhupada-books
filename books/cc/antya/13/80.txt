@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.80",
-    "h1":"Text 80",
+    "h1":"Cc. Antya 13.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.80",
     "description":"Hearing the song from a distance, Śrī Caitanya Mahāprabhu immediately became ecstatic. He did not know whether it was a man or a woman singing."
 }

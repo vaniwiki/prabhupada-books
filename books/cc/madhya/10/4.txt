@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 10.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.4",
     "description":"When Sārvabhauma Bhaṭṭācārya met with the King, the King offered him a seat with all respects and inquired about news of Śrī Caitanya Mahāprabhu."
 }

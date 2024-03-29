@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.120-121",
-    "h1":"Text 120-121",
+    "h1":"Cc. Madhya 11.120-121",
+    "label":"Text 120-121",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.120-121",
     "description":"Mahārāja Pratāparudra then told both Kāśī Miśra and the temple inspector, \"Provide all the devotees and associates of Śrī Caitanya Mahāprabhu with comfortable residences, convenient eating facilities for prasāda and convenient visiting arrangements at the temple so that there will not be any difficulty."
 }

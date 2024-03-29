@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.39",
-    "h1":"Text 39",
+    "h1":"Cc. Ādi 9.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.39",
     "description":"\"Distribute this Kṛṣṇa consciousness movement all over the world. Let people eat these fruits and ultimately become free from old age and death."
 }

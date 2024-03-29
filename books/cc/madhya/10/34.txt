@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.34",
-    "h1":"Text 34",
+    "h1":"Cc. Madhya 10.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.34",
     "description":"Śrī Caitanya Mahāprabhu next sat down at the place prepared for Him, and all the devotees, headed by Lord Nityānanda Prabhu, surrounded Him."
 }

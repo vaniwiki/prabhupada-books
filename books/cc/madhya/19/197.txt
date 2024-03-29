@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 19.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.197",
     "description":"\" 'When Devakī and Vasudeva understood that their two sons Kṛṣṇa and Balarāma, who had paid obeisances to them, were the Supreme Personality of Godhead, they became fearful and did not embrace Them.'"
 }

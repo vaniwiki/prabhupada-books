@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 6.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.201",
     "description":"When Sārvabhauma Bhaṭṭācārya denounced himself as an offender and took shelter of the Lord, the Lord desired to show him mercy."
 }

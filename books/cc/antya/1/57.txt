@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 1.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.57",
     "description":"May Rūpa Gosvāmī, by Your mercy, become so powerful that he will be able to describe the transcendental mellows of devotional service.\""
 }

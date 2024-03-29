@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.170",
-    "h1":"Text 170",
+    "h1":"Cc. Ādi 4.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.170",
     "description":"That is called firm attachment to Lord Kṛṣṇa. It is spotlessly pure, like a clean cloth that has no stain."
 }

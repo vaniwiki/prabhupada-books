@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 15.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.49",
     "description":"\"The gopīs then came upon many trees so laden with fruits and flowers that their branches bent down to the ground."
 }

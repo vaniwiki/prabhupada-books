@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.139",
-    "h1":"Text 139",
+    "h1":"Cc. Antya 4.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.139",
     "description":"\"In this way I am committing offenses at His lotus feet, for which I shall certainly not be delivered. At the same time, I cannot see Lord Jagannātha. This is my great unhappiness."
 }

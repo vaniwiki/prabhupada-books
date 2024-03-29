@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 14.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.167",
     "description":"\"The transcendental ornaments of Śrīmatī Rādhārāṇī's body include the eight sāttvikas, or transcendental symptoms, the thirty-three vyabhicārībhāvas, beginning with harṣa, or jubilation in natural love, and the twenty bhāvas, or ecstatic emotional ornaments."
 }

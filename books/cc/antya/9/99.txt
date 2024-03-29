@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 9.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.99",
     "description":"\"He sneered at Puruṣottama Jānā. Therefore the prince tried to scare him as a punishment."
 }

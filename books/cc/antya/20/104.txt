@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 20.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.104",
     "description":"That chapter also describes the incident of Śivānanda Sena's dog, who was induced by Śrī Caitanya Mahāprabhu to chant the holy name of Kṛṣṇa and was thus liberated."
 }

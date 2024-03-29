@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 4.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.30",
     "description":"\"From the very beginning of his childhood, my younger brother Anupama was a great devotee of Raghunātha [Lord Rāmacandra], and he worshiped Him with great determination."
 }

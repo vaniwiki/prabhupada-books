@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 6.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.65",
     "description":"Everyone was offered two earthen pots. In one was put chipped rice with condensed milk and in the other chipped rice with yogurt."
 }

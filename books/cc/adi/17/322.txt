@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.322",
-    "h1":"Text 322",
+    "h1":"Cc. Ādi 17.322",
+    "label":"Text 322",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.322",
     "description":"The Ninth Chapter describes the desire tree of devotional service. Śrī Caitanya Mahāprabhu Himself is the gardener who planted it."
 }

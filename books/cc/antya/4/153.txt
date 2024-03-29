@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.153",
-    "h1":"Text 153",
+    "h1":"Cc. Antya 4.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.153",
     "description":"\"Moreover, blood is running from infected itching sores on my body, smearing Your body with moisture, but still You touch me by force."
 }

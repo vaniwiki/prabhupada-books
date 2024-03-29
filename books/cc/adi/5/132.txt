@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.132",
-    "h1":"Text 132",
+    "h1":"Cc. Ādi 5.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.132",
     "description":"In whatever form one knows the Lord, one speaks of Him in that way. In this there is no falsity, since everything is possible in Kṛṣṇa."
 }

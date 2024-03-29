@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 23.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.52",
     "description":"\"There are other ingredients beginning with complete despondency and jubilation. Altogether there are thirty-three varieties, and when these combine, the mellow becomes very wonderful."
 }

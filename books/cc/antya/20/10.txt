@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 20.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.10",
     "description":"\" 'In the age of Kali, intelligent persons perform congregational chanting to worship the incarnation of Godhead who constantly sings the name of Kṛṣṇa. Although His complexion is not blackish, He is Kṛṣṇa Himself. He is accompanied by His associates, servants, weapons and confidential companions.'"
 }

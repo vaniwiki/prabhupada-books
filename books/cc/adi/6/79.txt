@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.79",
-    "h1":"Text 79",
+    "h1":"Cc. Ādi 6.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.79",
     "description":"Rudra, who is an expansion of Sadāśiva and who appears in unlimited universes, is also a guṇāvatāra [qualitative incarnation] and is the ornament of all the demigods in the endless universes."
 }

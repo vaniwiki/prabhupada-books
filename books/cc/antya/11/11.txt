@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 11.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.11",
     "description":"Śrī Caitanya Mahāprabhu thus resided at Jagannātha Purī with His personal devotees and enjoyed the congregational chanting of the Hare Kṛṣṇa mahā mantra."
 }

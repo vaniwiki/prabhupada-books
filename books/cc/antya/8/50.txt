@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 8.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.50",
     "description":"Śrī Caitanya Mahāprabhu had heard rumors about Rāmacandra Purī's blasphemy. Now He directly heard his fanciful accusations."
 }

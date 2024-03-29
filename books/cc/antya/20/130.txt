@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.130",
-    "h1":"Text 130",
+    "h1":"Cc. Antya 20.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.130",
     "description":"Also in that chapter, the glories of mahā-prasāda are explained, and a verse is tasted describing the effect of nectar from the lips of Kṛṣṇa."
 }

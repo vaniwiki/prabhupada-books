@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 13.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.49",
     "description":"One day Jagadānanda Paṇḍita, having invited Sanātana to the nearby temple for lunch, finished his routine duties and began to cook."
 }

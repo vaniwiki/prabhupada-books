@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 4.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.197",
     "description":"\"O My Lord! O most merciful master! O master of Mathurā! When shall I see You again? Because of My not seeing You, My agitated heart has become unsteady. O most beloved one, what shall I do now?\""
 }

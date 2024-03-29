@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 21.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.76",
     "description":"\" 'All of you should be happy. Is there any fear from the demons?' They replied, 'By Your mercy, we are victorious everywhere."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 3.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.36",
     "description":"Advaita Ācārya then explained that at that spot both the Ganges and Yamunā flow together. On the western side was the Yamunā, and on the eastern side was the Ganges."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.174",
-    "h1":"Text 174",
+    "h1":"Cc. Ādi 4.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.174",
     "description":"The gopīs do not care for their own pleasures or pains. All their physical and mental activities are directed toward offering enjoyment to Lord Kṛṣṇa."
 }

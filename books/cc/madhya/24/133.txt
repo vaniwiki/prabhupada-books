@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 24.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.133",
     "description":"\" 'Although I was worshiped by those on the path of monism and initiated into self-realization through the yoga system, I am nonetheless forcibly turned into a maidservant by some cunning boy who is always joking with the gopīs.'"
 }

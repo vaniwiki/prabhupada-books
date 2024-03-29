@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.19",
-    "h1":"Text 19",
+    "h1":"Cc. Ādi 2.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.19",
     "description":"As the one sun appears reflected in countless jewels, so Govinda manifests Himself [as the Paramātmā] in the hearts of all living beings."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 8.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.245",
     "description":"On one occasion the Lord inquired, \"Of all types of education, which is the most important?\" Rāmānanda Rāya replied, \"No education is important other than the transcendental devotional service of Kṛṣṇa.\""
 }

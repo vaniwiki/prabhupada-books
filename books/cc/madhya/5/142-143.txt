@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.142-143",
-    "h1":"Text 142-143",
+    "h1":"Cc. Madhya 5.142-143",
+    "label":"Text 142-143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.142-143",
     "description":"When Lord Caitanya Mahāprabhu went to the temple of Lord Śiva known as Kapoteśvara, Nityānanda Prabhu, who was keeping His sannyāsa staff in custody, broke the staff in three parts and threw it into the river Bhārgīnadī. Later this river became known as Daṇḍa-bhāṅgā-nadī."
 }

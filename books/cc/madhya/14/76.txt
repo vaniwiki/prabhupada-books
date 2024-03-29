@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 14.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.76",
     "description":"The Lord personally splashed all the devotees with water, and the devotees, surrounding Him on all sides, also splashed the Lord."
 }

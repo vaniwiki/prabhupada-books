@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.77",
-    "h1":"Text 77",
+    "h1":"Cc. Ādi 12.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.77",
     "description":"Thus I have briefly described the three branches [Acyutānanda, Kṛṣṇa Miṣra and Gopāla] of Śrī Advaita Ācārya's descendants."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 17.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.54",
     "description":"After saying this, the Lord left to take His bath in the Ganges, and that sinful man did not give up his life but continued to suffer."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 13.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.45",
     "description":"After Sanātana Gosvāmī had taken Jagadānanda to see all twelve forests of Vṛndāvana, concluding with Mahāvana, they both remained in Gokula."
 }

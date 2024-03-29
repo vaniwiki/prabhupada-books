@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 7.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.7",
     "description":"\"For a long time,\" he said, \"I have desired to see You, my Lord. Now Lord Jagannātha has fulfilled this desire; therefore I am seeing You."
 }

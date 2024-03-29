@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.256",
-    "h1":"Text 256",
+    "h1":"Cc. Madhya 8.256",
+    "label":"Text 256",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.256",
     "description":"Śrī Caitanya Mahāprabhu asked, \"Among all worshipable objects, which is the chief?\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 6.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.45",
     "description":"Many devotees sat on the ground surrounding Him. Seeing the influence of Nityānanda Prabhu, Raghunātha dāsa was astonished."
 }

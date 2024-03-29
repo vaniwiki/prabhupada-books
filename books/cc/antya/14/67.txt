@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 14.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.67",
     "description":"It appeared that only skin covered His elongated joints. Seeing the Lord's condition, all the devotees were very unhappy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 15.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.118",
     "description":"Śrī Caitanya Mahāprabhu became very happy just to speak of the glories of His devotees. Indeed, when He spoke of their glories, it was as if He had five faces."
 }

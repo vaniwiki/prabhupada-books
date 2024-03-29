@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 1.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.54",
     "description":"When Caitanya Mahāprabhu used to dance before the cart during the festival, He always sang the following two lines."
 }

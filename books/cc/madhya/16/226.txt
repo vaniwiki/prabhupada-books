@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 16.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.226",
     "description":"When Raghunātha dāsa was there, Advaita Ācārya favored him by giving him the food remnants left by the Lord. Raghunātha dāsa was thus engaged for five or seven days by rendering service to the Lord's lotus feet."
 }

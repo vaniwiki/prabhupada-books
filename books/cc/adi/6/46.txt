@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 6.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.46",
     "description":"The most beloved goddess of fortune resides on the chest of Śrī Kṛṣṇa, yet she too, earnestly praying, begs for the joy of service at His feet."
 }

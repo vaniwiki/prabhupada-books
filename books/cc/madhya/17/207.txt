@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 17.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.207",
     "description":"The Lord then clasped the necks of the deer and began to cry. There was jubilation manifest in the bodies of the deer, and tears were in their eyes."
 }

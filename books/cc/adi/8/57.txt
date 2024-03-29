@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.57",
-    "h1":"Text 57",
+    "h1":"Cc. Ādi 8.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.57",
     "description":"The fifty qualities of Lord Kṛṣṇa were all present in his body."
 }

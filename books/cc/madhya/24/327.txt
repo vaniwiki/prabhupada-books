@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.327",
-    "h1":"Text 327",
+    "h1":"Cc. Madhya 24.327",
+    "label":"Text 327",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.327",
     "description":"\"If You would please manifest Yourself within my heart and personally direct me in writing this book, then, although I am lowborn, I may hope to be able to write it. You can do this because You are the Supreme Personality of Godhead Yourself, and whatever You direct is perfect.\""
 }

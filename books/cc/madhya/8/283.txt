@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.283",
-    "h1":"Text 283",
+    "h1":"Cc. Madhya 8.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.283",
     "description":"Upon seeing this form, Rāmānanda Rāya lost consciousness in transcendental bliss. Unable to remain standing, he fell to the ground."
 }

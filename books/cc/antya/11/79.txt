@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 11.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.79",
     "description":"In this way varieties of prasāda were collected, then packed up in different loads and carried on the heads of the four servants."
 }

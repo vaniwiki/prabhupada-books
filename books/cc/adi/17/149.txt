@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.149",
-    "h1":"Text 149",
+    "h1":"Cc. Ādi 17.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.149",
     "description":"\"Nīlāmbara Cakravartī is Your maternal grandfather, and by this relationship You are thus my nephew."
 }

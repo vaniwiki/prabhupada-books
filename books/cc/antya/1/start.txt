@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1",
-    "h1":"Chapter 1",
+    "h1":"Śrīla Rūpa Gosvāmī’s Second Meeting With the Lord",
+    "label":"Chapter 1",
     "title":"Cc. Antya 1: Śrīla Rūpa Gosvāmī’s Second Meeting With the Lord",
     "description":""
 }

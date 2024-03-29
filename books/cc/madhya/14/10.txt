@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 14.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.10",
     "description":"As soon as the King recited the verse beginning with the words \"tava kathāmṛtam,\" the Lord immediately arose in ecstatic love and embraced him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 5.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.146",
     "description":"Śrī Caitanya Mahāprabhu laughed, cried, danced and made many ecstatic vibrations and sounds. Although the temple was only six miles away, to Him the distance seemed thousands of miles."
 }

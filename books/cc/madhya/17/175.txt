@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 17.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.175",
     "description":"The brāhmaṇa then took Śrī Caitanya Mahāprabhu to his home and, out of his own free will, began to serve the Lord in various ways."
 }

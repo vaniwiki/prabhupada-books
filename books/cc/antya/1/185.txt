@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.185",
-    "h1":"Text 185",
+    "h1":"Cc. Antya 1.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.185",
     "description":"\"This introduction is technically called udghātyaka, and the whole scene is called vīthī. You are so expert in dramatic expression that each of my statements before you is like a wave from an ocean of impudence."
 }

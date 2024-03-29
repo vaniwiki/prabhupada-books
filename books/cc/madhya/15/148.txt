@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.148",
-    "h1":"Text 148",
+    "h1":"Cc. Madhya 15.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.148",
     "description":"\"In the morning Murāri Gupta came to see Me. Catching hold of My feet and crying, he submitted an appeal."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.177",
-    "h1":"Text 177",
+    "h1":"Cc. Ādi 17.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.177",
     "description":"The Lord replied, \"All these men are My confidential associates. You may speak frankly. There is no reason to be afraid of them.\""
 }

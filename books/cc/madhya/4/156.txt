@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.156",
-    "h1":"Text 156",
+    "h1":"Cc. Madhya 4.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.156",
     "description":"When the priest of Gopīnātha saw Mādhavendra Purī again, he offered all respects to him and, giving him the sweet rice prasāda, made him eat."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.58",
-    "h1":"Text 58",
+    "h1":"Cc. Ādi 4.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.58",
     "description":"Therefore I shall first delineate the position of Rādhā and Kṛṣṇa. From that the glory of Lord Caitanya will be known."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.133",
-    "h1":"Text 133",
+    "h1":"Cc. Ādi 7.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.133",
     "description":"\"To prove their philosophy, the members of the Māyāvāda school have given up the real, easily understood meaning of the Vedic literature and introduced indirect meanings based on their imaginative powers.\""
 }

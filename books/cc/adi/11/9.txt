@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 11.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.9",
     "description":"Although Vīrabhadra Gosāñi was the Supreme Personality of Godhead, He presented Himself as a great devotee. And although the Supreme Godhead is transcendental to all Vedic injunctions, He strictly followed the Vedic rituals."
 }

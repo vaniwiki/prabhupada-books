@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.282",
-    "h1":"Text 282",
+    "h1":"Cc. Ādi 17.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.282",
     "description":"During the season of springtime, when the rāsa dance was going on, suddenly Kṛṣṇa disappeared from the scene, indicating that He wanted to be alone with Śrīmatī Rādhārāṇī."
 }

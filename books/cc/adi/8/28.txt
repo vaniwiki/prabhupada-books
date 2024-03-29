@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 8.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.28",
     "description":"As a result of chanting the Hare Kṛṣṇa mahā-mantra, one makes such great advancement in spiritual life that simultaneously his material existence terminates and he receives love of Godhead. The holy name of Kṛṣṇa is so powerful that by chanting even one name, one very easily achieves these transcendental riches."
 }

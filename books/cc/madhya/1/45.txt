@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 1.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.45",
     "description":"Thus Śrīla Rūpa Gosvāmī, Sanātana Gosvāmī and their nephew Śrīla Jīva Gosvāmī, as well as practically all of their family members, lived in Vṛndāvana and published important books on devotional service."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.279",
-    "h1":"Text 279",
+    "h1":"Cc. Madhya 6.279",
+    "label":"Text 279",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.279",
     "description":"As long as it does not turn iron into gold by its touch, no one can recognize an unknown stone to be a touchstone."
 }

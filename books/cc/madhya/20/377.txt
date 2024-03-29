@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.377",
-    "h1":"Text 377",
+    "h1":"Cc. Madhya 20.377",
+    "label":"Text 377",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.377",
     "description":"\"Thus I have explained specifically empowered incarnations. Now please hear about the characteristics of Lord Kṛṣṇa's childhood, boyhood and youth."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 1.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.26",
     "description":"I offer innumerable obeisances unto the lotus feet of Śrī Nityānanda Prabhu, who is so kind that He spread the service of Śrī Caitanya Mahāprabhu all over the world."
 }

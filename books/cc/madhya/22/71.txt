@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 22.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.71",
     "description":"\"A devotee is considered superlative and superior according to his attachment and love. In the Eleventh Canto of Śrīmad-Bhāgavatam, the following symptoms have been ascertained."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.181",
-    "h1":"Text 181",
+    "h1":"Cc. Antya 4.181",
+    "label":"Text 181",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.181",
     "description":"Haridāsa said, \"My dear Lord, what You have spoken deals with external formalities. I do not accept it."
 }

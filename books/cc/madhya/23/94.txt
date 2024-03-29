@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 23.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.94",
     "description":"\"Now hear how the mellows appear and how they are realized by the devotees on different transcendental platforms."
 }

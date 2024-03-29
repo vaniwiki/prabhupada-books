@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 3.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.70",
     "description":"Śrī Caitanya Mahāprabhu said, \"It is not proper for a sannyāsī to eat such a variety of foods. If he does, how can he control his senses?\""
 }

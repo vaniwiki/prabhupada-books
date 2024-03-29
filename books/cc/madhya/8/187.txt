@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 8.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.187",
     "description":"Rāya Rāmānanda replied, \"Lord Kṛṣṇa is dhīra-lalita, for He can always keep His girlfriends in a subjugated state. Thus His only business is enjoying sense gratification."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 11.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.125",
     "description":"Beginning from the right side of the lion gate, or the main gate of the temple, all the Vaiṣṇavas began to proceed toward the house of Kāśī Miśra."
 }

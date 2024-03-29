@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 3.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.76",
     "description":"\"You have preached the loud chanting of the Hare Kṛṣṇa mahā-mantra and in this way freed all moving and nonmoving living entities from material bondage.\""
 }

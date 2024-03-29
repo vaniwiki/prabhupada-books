@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 10.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.52",
     "description":"After concluding His pastimes in the water, Lord Govinda returned to His residence. Then Śrī Caitanya Mahāprabhu went to the temple, taking all His devotees with Him."
 }

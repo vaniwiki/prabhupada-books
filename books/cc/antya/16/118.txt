@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.118",
-    "h1":"Text 118",
+    "h1":"Cc. Antya 16.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.118",
     "description":"Upon hearing Rāmānanda Rāya quote this verse, Śrī Caitanya Mahāprabhu was very satisfied. Then He recited the following verse, which had been spoken by Śrīmatī Rādhārāṇī in great anxiety."
 }

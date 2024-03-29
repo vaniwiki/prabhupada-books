@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 4.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.14",
     "description":"Thus the killing of the demons is but secondary work. I shall now speak of the main reason for the Lord's incarnation."
 }

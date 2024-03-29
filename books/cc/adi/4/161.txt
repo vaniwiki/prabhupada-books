@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.161",
-    "h1":"Text 161",
+    "h1":"Cc. Ādi 4.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.161",
     "description":"Anyone else who claims to know it must have heard it from him, for he was the most intimate companion of Lord Caitanya Mahāprabhu."
 }

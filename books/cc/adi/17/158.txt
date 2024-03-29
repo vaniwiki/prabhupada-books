@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.158",
-    "h1":"Text 158",
+    "h1":"Cc. Ādi 17.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.158",
     "description":"As a learned scholar, the Kazi challenged Caitanya Mahāprabhu, \"In Your Vedic scriptures there is an injunction for killing a cow. On the strength of this injunction, great sages peformed sacrifices involving cow-killing.\""
 }

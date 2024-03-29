@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.140",
-    "h1":"Text 140",
+    "h1":"Cc. Antya 20.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.140",
     "description":"I have thus described the principal pastimes and their meaning, for by such repetition one can remember the descriptions in the book."
 }

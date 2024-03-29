@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.69",
-    "h1":"Text 69",
+    "h1":"Cc. Ādi 4.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.69",
     "description":"Śrī Rādhā Ṭhākurāṇī is the embodiment of mahābhāva. She is the repository of all good qualities and the crest jewel among all the lovely consorts of Lord Kṛṣṇa."
 }

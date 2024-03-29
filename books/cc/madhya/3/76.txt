@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 3.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.76",
     "description":"Śrī Advaita Ācārya said, \"The amount of food that three people can eat does not constitute even a morsel for You. In proportion to that, these edibles are not even five morsels of food for You.\""
 }

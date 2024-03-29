@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.207",
-    "h1":"Text 207",
+    "h1":"Cc. Antya 1.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.207",
     "description":"Advaita Ācārya, Nityānanda Prabhu and all the other devotees showed their causeless mercy to Rūpa Gosvāmī by embracing him in return."
 }

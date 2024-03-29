@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.63",
-    "h1":"Text 63",
+    "h1":"Cc. Ādi 14.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.63",
     "description":"Seeing Lakṣmīdevī, the Lord became attached to her, and Lakṣmī, upon seeing the Lord, felt great satisfaction within her mind."
 }

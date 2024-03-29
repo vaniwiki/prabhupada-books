@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.179",
-    "h1":"Text 179",
+    "h1":"Cc. Antya 6.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.179",
     "description":"\"Raghunātha dāsa has fled with them. Ten men should immediately go catch him and bring him back.\""
 }

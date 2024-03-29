@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.48",
-    "h1":"Text 48",
+    "h1":"Cc. Ādi 9.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.48",
     "description":"The fruit of love of God is so relishable that wherever a devotee distributes it, those who taste the fruit, anywhere in the world, immediately become intoxicated."
 }

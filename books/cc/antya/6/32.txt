@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 6.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.32",
     "description":"\"The elder brother of your father is less intelligent,\" he said. \"He enjoys 800,000 coins, but since I am also a shareholder, he should give some portion of it to me."
 }

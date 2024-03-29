@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.283",
-    "h1":"Text 283",
+    "h1":"Cc. Madhya 24.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.283",
     "description":"\"In this way we have found three more meanings. Combine these with the other meanings, and the total number of meanings add up to twenty-six in all."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 5.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.102",
     "description":"While Gopāla followed the young brāhmaṇa, the tinkling sound of His ankle bells could be heard. The brāhmaṇa became very pleased, and he cooked first-class rice for Gopāla to eat."
 }

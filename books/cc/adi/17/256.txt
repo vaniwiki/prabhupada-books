@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.256",
-    "h1":"Text 256",
+    "h1":"Cc. Ādi 17.256",
+    "label":"Text 256",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.256",
     "description":"\"If He again performs such an atrocious act, certainly we shall retaliate and strike Him in turn. What kind of important person is He, that He can check us in this way?\""
 }

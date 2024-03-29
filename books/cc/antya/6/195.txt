@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.195",
-    "h1":"Text 195",
+    "h1":"Cc. Antya 6.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.195",
     "description":"The Lord continued, \"Your father and his elder brother are both related as brothers to My grandfather, Nīlāmbara Cakravartī. Therefore I consider them My grandfathers."
 }

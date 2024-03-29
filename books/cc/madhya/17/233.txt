@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 17.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.233",
     "description":"The whole world became merged in the inundation of the pastimes of Śrī Caitanya Mahāprabhu. One can swim in that water to the extent that he has the strength."
 }

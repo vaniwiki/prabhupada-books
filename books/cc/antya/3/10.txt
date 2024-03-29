@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 3.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.10",
     "description":"After some time, when the boy stood up and left, the intolerant Dāmodara Paṇḍita began to speak."
 }

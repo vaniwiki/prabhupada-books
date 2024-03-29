@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.166",
-    "h1":"Text 166",
+    "h1":"Cc. Madhya 12.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.166",
     "description":"Just by remembering the pastimes of Lord Śrī Kṛṣṇa, Śrī Caitanya Mahāprabhu was agitated by ecstatic love. But considering the time and circumstance, He remained somewhat patient."
 }

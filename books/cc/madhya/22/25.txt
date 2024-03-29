@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 22.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.25",
     "description":"\"If the conditioned soul engages in the service of the Lord and simultaneously carries out the orders of his spiritual master and serves him, he can get out of the clutches of māyā and become eligible for shelter at Kṛṣṇa's lotus feet."
 }

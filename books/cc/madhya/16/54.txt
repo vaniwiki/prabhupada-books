@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 16.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.54",
     "description":"As in the previous year, the Lord, with all the devotees, saw the Ratha-yātrā festival and the Herā-pañcamī festival as well."
 }

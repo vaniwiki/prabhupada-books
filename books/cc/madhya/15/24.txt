@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 15.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.24",
     "description":"Śrī Caitanya Mahāprabhu wheeled and threw the rod, sometimes over His head, sometimes behind His back, sometimes in front of Him, sometimes to His side and sometimes between His legs. Indeed, all the people laughed to see this."
 }

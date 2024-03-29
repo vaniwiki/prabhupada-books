@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 17.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.79",
     "description":"\"You have made me Your carrier Garuḍa, although I am no better than a condemned crow. Thus You are the independent Personality of Godhead, the original Lord."
 }

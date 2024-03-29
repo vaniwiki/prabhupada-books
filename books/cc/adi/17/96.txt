@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 17.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.96",
     "description":"Śrīvāsa Ṭhākura replied, \"Anyone who takes Your holy name vanquishes ten million of his offenses immediately."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 22.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.152",
     "description":"\"Thus devotional service which consists of rāga [deep attachment] is called rāgātmikā, spontaneous loving service. If a devotee covets such a position, he is considered to be most fortunate."
 }

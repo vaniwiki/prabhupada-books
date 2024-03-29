@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.236",
-    "h1":"Text 236",
+    "h1":"Cc. Madhya 6.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.236",
     "description":"After speaking to Sārvabhauma Bhaṭṭācārya in this way, Śrī Caitanya Mahāprabhu returned to His residence. From that day on, the Bhaṭṭācārya was free because his false pride had been dismantled."
 }

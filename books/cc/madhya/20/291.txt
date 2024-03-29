@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.291",
-    "h1":"Text 291",
+    "h1":"Cc. Madhya 20.291",
+    "label":"Text 291",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.291",
     "description":"\"Brahmā, Viṣṇu and Śiva are His three incarnations of the material qualities. Creation, maintenance and destruction respectively are under the charge of these three personalities."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 17.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.5",
     "description":"Śrī Caitanya Mahāprabhu said, \"I shall leave early in the morning and go incognito, taking the road to the forest. I shall go alone and not take anyone with Me."
 }

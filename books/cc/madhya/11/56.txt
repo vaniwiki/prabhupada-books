@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.56",
-    "h1":"Text 56",
+    "h1":"Cc. Madhya 11.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.56",
     "description":"\"When Śrī Caitanya Mahāprabhu enters the Guṇḍicā, you should also go there and read the five chapters about Lord Kṛṣṇa's dancing with the gopīs. In this way you can catch hold of the Lord's lotus feet."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 17.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.190",
     "description":"Śrī Caitanya Mahāprabhu bathed in twenty-four ghats along the banks of the Yamunā, and the brāhmaṇa showed Him all the places of pilgrimage."
 }

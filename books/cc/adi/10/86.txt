@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.86",
-    "h1":"Text 86",
+    "h1":"Cc. Ādi 10.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.86",
     "description":"By the will of the supreme gardener, the branches of Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī grew many times over, expanding throughout the western countries and covering the entire region."
 }

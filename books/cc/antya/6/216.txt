@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.216",
-    "h1":"Text 216",
+    "h1":"Cc. Antya 6.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.216",
     "description":"If they see a Vaiṣṇava standing at the Siṁha-dvāra begging alms, out of mercy they arrange with the shopkeepers to give him something to eat."
 }

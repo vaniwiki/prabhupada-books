@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 24.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.235",
     "description":"\"The hunter's body was blackish. He had reddish eyes, and he appeared fierce. It was as if the superintendent of death, Yamarāja, was standing there with bows and arrows in his hands."
 }

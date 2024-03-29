@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.19",
-    "h1":"Text 19",
+    "h1":"Cc. Ādi 4.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.19",
     "description":"\"In whatever transcendental mellow My devotee worships Me, I reciprocate with him. That is My natural behavior."
 }

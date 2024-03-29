@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 2.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.76",
     "description":"As the spiritual master chastises the disciple and teaches him the art of devotional service, so all the ecstatic symptoms of Lord Caitanya Mahāprabhu-including despondency, moroseness, humility, restlessness, joy, endurance and anger-all instructed His body and mind. In this way, Śrī Caitanya Mahāprabhu passed His time."
 }

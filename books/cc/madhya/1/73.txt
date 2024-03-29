@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 1.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.73",
     "description":"The Lord said, \"I was so much pleased with Rūpa Gosvāmī that I embraced him and bestowed upon him all necessary potencies for preaching the bhakti cult."
 }

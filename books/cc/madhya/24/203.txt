@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 24.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.203",
     "description":"\"Living entities include great personalities like the four Kumāras, low-class foolish people, trees, plants, birds and beasts."
 }

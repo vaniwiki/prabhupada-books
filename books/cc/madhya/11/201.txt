@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 11.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.201",
     "description":"All the devotees kept their hands raised over the prasāda distributed to them, for they did not want to eat without seeing the Lord eat first."
 }

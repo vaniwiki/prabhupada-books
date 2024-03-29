@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.213",
-    "h1":"Text 213",
+    "h1":"Cc. Madhya 19.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.213",
     "description":"\" 'The word śama or śānta-rasa indicates that one is attached to the lotus feet of Kṛṣṇa. Dama means controlling the senses and not being deviated from the Lord's service. Endurance of unhappiness is titikṣā, and dhṛti means controlling the tongue and the genitals.'"
 }

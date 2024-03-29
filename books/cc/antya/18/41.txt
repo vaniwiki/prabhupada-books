@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 18.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.41",
     "description":"When they arrived at the seashore, they conferred among themselves. Then some of them sought out Śrī Caitanya Mahāprabhu at Caṭaka-parvata."
 }

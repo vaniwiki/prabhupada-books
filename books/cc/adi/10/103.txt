@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.103",
-    "h1":"Text 103",
+    "h1":"Cc. Ādi 10.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.103",
     "description":"I am struck with wonder when I hear about the devotional service he executed. I accept Śrīla Rūpa Gosvāmī and Raghunātha dāsa Gosvāmī as my guides."
 }

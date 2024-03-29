@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 14.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.9",
     "description":"These two great personalities [Svarūpa Dāmodara and Raghunātha dāsa Gosvāmī] recorded the activities of Śrī Caitanya Mahāprabhu moment by moment. They described these activities briefly as well as elaborately in their notebooks."
 }

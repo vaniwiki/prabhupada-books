@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 9.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.103",
     "description":"\"Bhavānanda Rāya is worthy of my worship and respect. Therefore I am always naturally affectionate to his sons.\""
 }

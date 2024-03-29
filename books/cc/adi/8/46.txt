@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 8.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.46",
     "description":"The pastimes of Lord Caitanya are unlimited and unfathomable. Therefore, in describing all those pastimes, the book became voluminous."
 }

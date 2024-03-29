@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 7.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.34",
     "description":"Śrī Caitanya Mahāprabhu remained in householder life for twenty-four years, and on the verge of His twenty-fifth year He accepted the sannyāsa order."
 }

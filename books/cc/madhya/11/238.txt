@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.238",
-    "h1":"Text 238",
+    "h1":"Cc. Madhya 11.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.238",
     "description":"After the saṅkīrtana ended, Śrī Caitanya Mahāprabhu watched the offering of flowers to the Lord Jagannātha Deity. Then He and all the Vaiṣṇavas returned to His residence."
 }

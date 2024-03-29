@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 12.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.5",
     "description":" Śrī Caitanya Mahāprabhu was also the gardener, and as He poured the water of His mercy on the tree, all the branches and subbranches grew, day after day."
 }

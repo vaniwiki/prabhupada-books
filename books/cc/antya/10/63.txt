@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 10.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.63",
     "description":"Accompanied by his personal staff, the King also came there and watched from a distance, and all the queens watched from the elevated parts of the palace."
 }

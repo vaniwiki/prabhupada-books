@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.247",
-    "h1":"Text 247",
+    "h1":"Cc. Madhya 1.247",
+    "label":"Text 247",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.247",
     "description":"While at Jagannātha Purī, the Lord passed His time in great joy by performing saṅkīrtana and visiting the temple of Jagannātha in great ecstasy."
 }

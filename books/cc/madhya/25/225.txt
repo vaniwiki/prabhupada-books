@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.225",
-    "h1":"Text 225",
+    "h1":"Cc. Madhya 25.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.225",
     "description":"Hearing news of the Lord's arrival from Balabhadra Bhaṭṭācārya, hordes of devotees became so happy that they seemed to be getting their lives back. It was as though their consciousness had returned to their bodies. Their senses also became agitated."
 }

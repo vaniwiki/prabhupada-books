@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 7.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.46",
     "description":"Upon hearing this, Sārvabhauma Bhaṭṭācārya became very agitated. Catching hold of the lotus feet of Caitanya Mahāprabhu, he gave this sorrowful reply."
 }

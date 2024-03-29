@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 2.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.88",
     "description":"\"Only the Personality of Godhead, the source of all other Divinities, is eligible to be designated svayaṁ bhagavān, or the primeval Lord."
 }

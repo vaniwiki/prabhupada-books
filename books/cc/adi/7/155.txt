@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.155",
-    "h1":"Text 155",
+    "h1":"Cc. Ādi 7.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.155",
     "description":"Śrī Caitanya Mahāprabhu visited the city of Vārāṇasī, and all of its people were very thankful."
 }

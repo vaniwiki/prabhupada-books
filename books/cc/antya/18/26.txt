@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 18.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.26",
     "description":"While thus wandering near the temple of Āiṭoṭā, Śrī Caitanya Mahāprabhu suddenly saw the sea."
 }

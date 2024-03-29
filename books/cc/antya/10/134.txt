@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.134",
-    "h1":"Text 134",
+    "h1":"Cc. Antya 10.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.134",
     "description":"From time to time, Advaita Ācārya and others would invite Śrī Caitanya Mahāprabhu for home-cooked rice and varieties of vegetables."
 }

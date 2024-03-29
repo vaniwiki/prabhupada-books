@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 7.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.35",
     "description":"\"Yet I still submit one petition to You. Please consider it, and if You think it proper, please accept it."
 }

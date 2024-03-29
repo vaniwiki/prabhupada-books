@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.69-70",
-    "h1":"Text 69-70",
+    "h1":"Cc. Ādi 1.69-70",
+    "label":"Text 69-70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.69-70",
     "description":"When the Personality of Godhead expands Himself in many forms, all nondifferent in Their features, as Lord Kṛṣṇa did when He married sixteen thousand queens and when He performed His rāsa dance, such forms of the Lord are called manifested forms [prakāśa-vigrahas]."
 }

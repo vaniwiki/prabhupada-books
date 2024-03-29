@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 12.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.21",
     "description":"While Lord Caitanya Mahāprabhu and Advaita Prabhu chanted the Hare Kṛṣṇa mantra and danced, there were various ecstatic symptoms in Their bodies, and Their minds were very pleased."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 7.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.134",
     "description":"Thus Lord Śrī Caitanya Mahāprabhu would remain at night in one place and the next morning, after bathing, start again."
 }

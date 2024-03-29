@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 7.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.130",
     "description":"At whosoever's house Śrī Caitanya accepted His alms by taking prasāda, He would convert the dwellers to His saṅkīrtana movement and advise them just as He advised the brāhmaṇa named Kūrma."
 }

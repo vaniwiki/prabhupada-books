@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 21.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.96",
     "description":"\"Kṛṣṇa is thus situated eternally in His spiritual potency, and the opulence of that spiritual potency is called ṣaḍ-aiśvarya, indicating six kinds of opulence."
 }

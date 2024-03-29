@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.371",
-    "h1":"Text 371",
+    "h1":"Cc. Madhya 20.371",
+    "label":"Text 371",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.371",
     "description":"\"The power of knowledge was invested in the four Kumāras, and the power of devotional service was invested in Nārada. The power of creation was invested in Lord Brahmā, and the power to carry innumerable planets was invested in Lord Ananta."
 }

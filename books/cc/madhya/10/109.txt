@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 10.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.109",
     "description":"After taking permission from his sannyāsa-guru, Svarūpa Dāmodara went to Nīlācala and accepted the shelter of Śrī Caitanya Mahāprabhu. Then all day and night, in ecstatic love of Kṛṣṇa, he enjoyed transcendental mellows in the loving service of the Lord."
 }

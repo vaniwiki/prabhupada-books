@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 16.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.43",
     "description":"Śrī Caitanya Mahāprabhu ordered His personal servant Govinda that no one should take the water that had washed His feet."
 }

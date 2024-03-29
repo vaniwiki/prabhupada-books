@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.163",
-    "h1":"Text 163",
+    "h1":"Cc. Ādi 5.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.163",
     "description":"Absorbed in emotional love, he sat in my courtyard, and all the Vaiṣṇavas bowed down at his feet."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.197",
-    "h1":"Text 197",
+    "h1":"Cc. Antya 6.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.197",
     "description":"\"My dear Raghunātha dāsa, your father and his elder brother are just like worms in stool in the ditch of material enjoyment, for the great disease of the poison of material enjoyment is what they consider happiness."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.178-179",
-    "h1":"Text 178-179",
+    "h1":"Cc. Ādi 17.178-179",
+    "label":"Text 178-179",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.178-179",
     "description":"The Kazi said, \"When I went to the Hindu's house, broke the drum and forbade the performance of congregational chanting, in my dreams that very night I saw a greatly fearful lion, roaring very loudly, His body like a human being's and His face like a lion's."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 12.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.63",
     "description":"As soon as the prince was touched by Lord Śrī Caitanya Mahāprabhu, symptoms of ecstatic love immediately manifested themselves in his body. These symptoms included perspiration, trembling, tears, being stunned and jubilation."
 }

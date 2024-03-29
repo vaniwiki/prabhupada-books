@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 18.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.38",
     "description":"Śrī Caitanya Mahāprabhu said, \" 'May the left arm of Śrī Kṛṣṇa, whose eyes are like the petals of a lotus flower, always protect you. With His left arm He raised Govardhana Hill as if it were a toy.' \""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 7.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.4",
     "description":"These five tattvas incarnate with Lord Caitanya Mahāprabhu, and thus the Lord executes His saṅkīrtana movement with great pleasure."
 }

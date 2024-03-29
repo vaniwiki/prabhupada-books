@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.289",
-    "h1":"Text 289",
+    "h1":"Cc. Antya 6.289",
+    "label":"Text 289",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.289",
     "description":"He presented Śrī Caitanya Mahāprabhu these two items—the garland of conchshells and the stone from Govardhana Hill."
 }

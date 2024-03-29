@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.142",
-    "h1":"Text 142",
+    "h1":"Cc. Antya 6.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.142",
     "description":"\"Śrī Caitanya Mahāprabhu will accept you and place you under the charge of His secretary, Svarūpa Dāmodara. You will thus become one of the most confidential internal servants and will attain the shelter of Śrī Caitanya Mahāprabhu."
 }

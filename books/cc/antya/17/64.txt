@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 17.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.64",
     "description":"Even Anantadeva, who possesses thousands of mouths, cannot fully describe the ecstatic transformations that Śrī Caitanya Mahāprabhu experienced in a single day."
 }

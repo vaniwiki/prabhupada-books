@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 16.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.98",
     "description":"After Lord Caitanya reached Bhavānīpura, Rāmānanda Rāya arrived on his palanquin, and Vāṇīnātha Rāya had a large quantity of prasāda sent to the Lord."
 }

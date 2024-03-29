@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.84",
-    "h1":"Text 84",
+    "h1":"Cc. Ādi 13.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.84",
     "description":"Jagannātha Miśra then replied, \"In a dream I saw the effulgent abode of the Lord enter my heart."
 }

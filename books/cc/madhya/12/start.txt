@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12",
-    "h1":"Chapter 12",
+    "h1":"The Cleansing of the Guṇḍicā Temple",
+    "label":"Chapter 12",
     "title":"Cc. Madhya 12: The Cleansing of the Guṇḍicā Temple",
     "description":""
 }

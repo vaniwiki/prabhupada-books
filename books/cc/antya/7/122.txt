@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 7.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.122",
     "description":"\"Being very proud of my learning, I am thinking, 'Let me become victorious.' Śrī Caitanya Mahāprabhu, however, is trying to purify me by nullifying this false pride, for a characteristic of the Supreme Personality of Godhead is that He acts for everyone's welfare."
 }

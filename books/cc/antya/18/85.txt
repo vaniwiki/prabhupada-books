@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.85",
-    "h1":"Text 85",
+    "h1":"Cc. Antya 18.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.85",
     "description":"\"The sporting pastimes in the water began, and everyone started splashing water back and forth. In the tumultuous showers of water, no one could be certain which party was winning and which was losing. This sporting water fight increased unlimitedly."
 }

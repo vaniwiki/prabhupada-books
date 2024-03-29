@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.270",
-    "h1":"Text 270",
+    "h1":"Cc. Ādi 4.270",
+    "label":"Text 270",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.270",
     "description":"At that time Śrī Advaita was earnestly worshiping Him. Advaita attracted Him with His loud calls."
 }

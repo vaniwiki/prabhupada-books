@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 15.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.26",
     "description":"\"Without a wife,\" Lord Caitanya considered, \"there is no meaning to householder life.\" Thus the Lord decided to marry."
 }

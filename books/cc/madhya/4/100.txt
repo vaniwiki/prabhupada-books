@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 4.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.100",
     "description":"Thus countless presentations of gold, silver, garments, scented articles and eatables arrived. The store of Gopāla increased daily."
 }

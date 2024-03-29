@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.94",
-    "h1":"Text 94",
+    "h1":"Cc. Ādi 6.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.94",
     "description":"With His body He worshiped the Lord by offering Ganges water and tulasī leaves, and by preaching devotional service He delivered the entire universe."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 14.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.106",
     "description":"Knowing that the Herā-pañcamī festival was drawing near, King Pratāparudra attentively talked with Kāśī Miśra."
 }

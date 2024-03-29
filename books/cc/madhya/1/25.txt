@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 1.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.25",
     "description":"Śrī Nityānanda Prabhu is by nature very much inspired in rendering transcendental loving service to Lord Kṛṣṇa. Now, being ordered by Śrī Caitanya Mahāprabhu, He distributed this loving service anywhere and everywhere."
 }

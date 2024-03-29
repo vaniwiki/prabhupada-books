@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.186",
-    "h1":"Text 186",
+    "h1":"Cc. Madhya 3.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.186",
     "description":"After hearing Śacīmātā, all the devotees offered her prayers and assured her that her order, like a Vedic injunction, could not be violated."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 16.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.100",
     "description":"After reaching the city of Kaṭaka, He saw the temple of Gopāla, and a brāhmaṇa there named Svapneśvara invited the Lord to eat."
 }

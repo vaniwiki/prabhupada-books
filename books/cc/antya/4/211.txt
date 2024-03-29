@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.211",
-    "h1":"Text 211",
+    "h1":"Cc. Antya 4.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.211",
     "description":"Sanātana Gosvāmī met all the devotees of Śrī Caitanya Mahāprabhu and then, traveling by that same path, visited the places through which Śrī Caitanya Mahāprabhu had passed."
 }

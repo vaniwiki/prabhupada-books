@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.268",
-    "h1":"Text 268",
+    "h1":"Cc. Madhya 1.268",
+    "label":"Text 268",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.268",
     "description":"Dressing like human beings on pilgrimage, they all used to come to Jagannātha Purī to visit Śrī Caitanya Mahāprabhu."
 }

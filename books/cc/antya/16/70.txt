@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 16.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.70",
     "description":"\"But I could not induce this boy to chant the holy name of Kṛṣṇa.\" Hearing this, Svarūpa Dāmodara Gosvāmī began to speak."
 }

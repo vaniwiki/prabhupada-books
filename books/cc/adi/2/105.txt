@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 2.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.105",
     "description":"\"Although the three puruṣas are the shelter of all the universes, Lord Kṛṣṇa is the original source of the puruṣas."
 }

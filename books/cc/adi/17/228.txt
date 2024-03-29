@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.228",
-    "h1":"Text 228",
+    "h1":"Cc. Ādi 17.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.228",
     "description":"At that time a calamity took place-Śrīvāsa Ṭhākura's son died. Yet Śrīvāsa Ṭhākura was not at all sorry."
 }

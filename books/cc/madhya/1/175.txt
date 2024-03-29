@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 1.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.175",
     "description":"In private, the King inquired from Dabira Khāsa [Śrīla Rūpa Gosvāmī], who began to speak about the glories of the Lord."
 }

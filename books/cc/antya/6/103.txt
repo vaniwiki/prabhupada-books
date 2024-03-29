@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 6.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.103",
     "description":"Lord Śrī Caitanya Mahāprabhu was observing the dancing of Lord Nityānanda Prabhu. Nityānanda Prabhu could see this, but the others could not."
 }

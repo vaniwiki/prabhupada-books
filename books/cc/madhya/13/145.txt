@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 13.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.145",
     "description":"\" 'I do not care for My personal unhappiness, but when I see the morose face of Your mother Yaśodā and the hearts of all the inhabitants of Vṛndāvana breaking because of You, I wonder whether You want to kill them all. Is it that You want to enliven them by coming there? Why is it You are simply keeping them alive in a state of suffering?"
 }

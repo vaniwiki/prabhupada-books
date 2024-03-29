@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.275",
-    "h1":"Text 275",
+    "h1":"Cc. Madhya 1.275",
+    "label":"Text 275",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.275",
     "description":"When the Lord heard the humble petition made by the people, his heart softened. Being very merciful, He immediately came out and gave audience to all of them."
 }

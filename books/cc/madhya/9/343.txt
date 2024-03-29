@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.343",
-    "h1":"Text 343",
+    "h1":"Cc. Madhya 9.343",
+    "label":"Text 343",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.343",
     "description":"Sārvabhauma Bhaṭṭācārya also went to see the Lord with great pleasure, and he met Him on the beach by the sea."
 }

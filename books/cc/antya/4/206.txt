@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.206",
-    "h1":"Text 206",
+    "h1":"Cc. Antya 4.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.206",
     "description":"In this way Sanātana Gosvāmī stayed under the care of Śrī Caitanya Mahāprabhu and discussed the transcendental qualities of Śrī Caitanya Mahāprabhu with Haridāsa Ṭhākura."
 }

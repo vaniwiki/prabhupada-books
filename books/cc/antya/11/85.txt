@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.85",
-    "h1":"Text 85",
+    "h1":"Cc. Antya 11.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.85",
     "description":"All the devotees who sat down would not accept the prasāda as long as the Lord had not eaten. On that day, however, Kāśī Miśra had extended an invitation to the Lord."
 }

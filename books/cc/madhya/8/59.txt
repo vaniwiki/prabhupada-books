@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 8.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.59",
     "description":"The Lord replied, \"This is external. You had better tell Me of some other means.\" Rāmānanda replied, \"To offer the results of one's activities to Kṛṣṇa is the essence of all perfection.\""
 }

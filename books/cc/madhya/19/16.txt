@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 19.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.16",
     "description":"The greedy masters of his clerical and secretarial staff performed the government duties while Sanātana personally remained home and discussed revealed scriptures."
 }

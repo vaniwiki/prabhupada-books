@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.142",
-    "h1":"Text 142",
+    "h1":"Cc. Ādi 7.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.142",
     "description":"\"By practicing this regulated devotional service under the direction of the spiritual master, certainly one awakens his dormant love of Godhead. This process is called abhidheya."
 }

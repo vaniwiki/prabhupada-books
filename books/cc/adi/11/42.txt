@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.42",
-    "h1":"Text 42",
+    "h1":"Cc. Ādi 11.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.42",
     "description":"The twenty-seventh prominent devotee of Nityānanda Prabhu was Ācārya Vaiṣṇavānanda, a great personality in devotional service. He was formerly known as Raghunātha Purī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 7.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.96",
     "description":"Although Gadādhara Paṇḍita Gosāñi did not want to hear it, Vallabha Bhaṭṭa began to read his explanation with great force."
 }

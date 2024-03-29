@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 16.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.25",
     "description":"\"Even though one is a very learned scholar in Sanskrit literature, if he is not engaged in pure devotional service, he is not accepted as My devotee. But if someone born in a family of dog-eaters is a pure devotee with no motives for enjoyment through fruitive activity or mental speculation, he is very dear to Me. All respect should be given to him, and whatever he offers should be accepted, for such devotees are indeed as worshipable as I am.'"
 }

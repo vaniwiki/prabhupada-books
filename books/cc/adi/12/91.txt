@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.91",
-    "h1":"Text 91",
+    "h1":"Cc. Ādi 12.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.91",
     "description":"Simply by remembering the names of all these branches and subbranches of the three trunks I have described [Nityānanda, Advaita and Gadādhara], one attains freedom from the entanglement of material existence."
 }

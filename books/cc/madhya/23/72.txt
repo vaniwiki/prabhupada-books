@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 23.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.72",
     "description":"\" 'Kṛṣṇa is very expert in artistic enjoyment. He is highly cunning, expert, grateful and firmly determined in His vows. He knows how to deal according to time, person and country, and He sees through the scriptures and authoritative books. He is very clean and self-controlled."
 }

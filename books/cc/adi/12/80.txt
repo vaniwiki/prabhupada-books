@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.80",
-    "h1":"Text 80",
+    "h1":"Cc. Ādi 12.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.80",
     "description":"The chief branches of Śrī Gadādhara Paṇḍita were (1) Śrī Dhruvānanda, (2) Śrīdhara Brahmacārī, (3) Haridāsa Brahmacārī and (4) Raghunātha Bhāgavatācārya."
 }

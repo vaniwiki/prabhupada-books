@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 11.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.58",
     "description":"There was a tumultuous noise as they all chanted the holy names \"Hari\" and \"Kṛṣṇa.\" Śrī Caitanya Mahāprabhu became overwhelmed with ecstatic love."
 }

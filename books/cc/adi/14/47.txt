@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.47",
-    "h1":"Text 47",
+    "h1":"Cc. Ādi 14.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.47",
     "description":"He then immediately went outside the house and brought two coconuts. All the ladies were astonished to see such wonderful activities."
 }

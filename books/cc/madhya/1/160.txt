@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 1.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.160",
     "description":"Within the mind of Nṛsiṁhānanda Brahmacārī, the road could not be constructed beyond Kānāi Nāṭaśālā. He could not understand why the road's construction could not be completed, and thus he was astonished."
 }

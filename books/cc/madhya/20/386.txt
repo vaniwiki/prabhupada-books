@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.386",
-    "h1":"Text 386",
+    "h1":"Cc. Madhya 20.386",
+    "label":"Text 386",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.386",
     "description":"\"Let me give an example by which people may understand Lord Kṛṣṇa's eternal pastimes. An example can be found in the zodiac."
 }

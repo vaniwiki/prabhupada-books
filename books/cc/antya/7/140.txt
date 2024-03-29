@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.140",
-    "h1":"Text 140",
+    "h1":"Cc. Antya 7.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.140",
     "description":"Śrī Caitanya Mahāprabhu is always eager to see everyone in the material world happy. Therefore sometimes He chastises someone just to purify his heart."
 }

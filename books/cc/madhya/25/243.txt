@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.243",
-    "h1":"Text 243",
+    "h1":"Cc. Madhya 25.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.243",
     "description":"In the First Chapter I have given a synopsis of the last pastimes [Antya-līlā]. Within this chapter is a vivid description of some of the pastimes of the Lord that took place toward the end of His life."
 }

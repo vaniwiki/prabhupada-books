@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 16.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.205",
     "description":"The Lord stayed at Rāghava Paṇḍita's place for only one day. The next morning, He went to Kumārahaṭṭa, where Śrīvāsa Ṭhākura lived."
 }

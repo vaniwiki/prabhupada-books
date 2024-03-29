@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 16.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.102",
     "description":"While Śrī Caitanya Mahāprabhu was taking rest beneath a bakula tree, Rāmānanda Rāya immediately went to Mahārāja Pratāparudra."
 }

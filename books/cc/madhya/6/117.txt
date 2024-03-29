@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 6.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.117",
     "description":"\"Out of paternal affection for Me, he wants to protect Me and see that I follow the regulative principles of a sannyāsī. What fault is there in this?\""
 }

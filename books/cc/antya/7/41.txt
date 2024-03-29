@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 7.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.41",
     "description":"\"Obsessed with pure love, without knowledge of opulences, the gopīs sometimes chastised Kṛṣṇa. That is a symptom of pure ecstatic love."
 }

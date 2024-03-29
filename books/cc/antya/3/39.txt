@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 3.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.39",
     "description":"\"Only by your order am I living in Nīlācala [Jagannātha Purī]. Nevertheless, you still pull Me near you because of your great love for Me.' \""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.169",
-    "h1":"Text 169",
+    "h1":"Cc. Ādi 5.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.169",
     "description":"When Mīnaketana was seated in the yard, this brāhmaṇa did not offer him respect. Seeing this, Śrī Rāmadāsa became angry and spoke."
 }

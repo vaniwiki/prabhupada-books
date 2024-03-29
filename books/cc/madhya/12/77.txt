@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 12.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.77",
     "description":"\"To wash the temple, You need many waterpots and brooms. Therefore order me. I can immediately bring all these things to You.\""
 }

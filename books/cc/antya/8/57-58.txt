@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.57-58",
-    "h1":"Text 57-58",
+    "h1":"Cc. Antya 8.57-58",
+    "label":"Text 57-58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.57-58",
     "description":"That day, a brāhmaṇa extended an invitation to Śrī Caitanya Mahāprabhu. When Govinda accepted only five gaṇḍās worth of vegetables and a fourth of a pot of rice, the brāhmaṇa, in great despair, struck his head with his hand and cried, \"Alas! Alas!\""
 }

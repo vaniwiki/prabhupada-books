@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 6.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.20",
     "description":"Mukunda Datta offered obeisances unto Gopīnātha Ācārya upon meeting him. Then the Ācārya embraced Mukunda Datta and inquired about news of Śrī Caitanya Mahāprabhu."
 }

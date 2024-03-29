@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.52",
-    "h1":"Text 52",
+    "h1":"Cc. Ādi 7.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.52",
     "description":"While Tapana Miśra and Candraśekhara were thus talking with Śrī Caitanya Mahāprabhu, He only smiled slightly and remained silent. At that time a brāhmaṇa came there to meet the Lord."
 }

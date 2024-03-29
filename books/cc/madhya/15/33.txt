@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 15.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.33",
     "description":"Displaying the emotions of Hanumān, Śrī Caitanya Mahāprabhu took up a large tree branch, and, mounting the walls of the Laṅkā fort, began to dismantle it."
 }

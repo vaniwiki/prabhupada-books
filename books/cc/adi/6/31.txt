@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 6.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.31",
     "description":"Since He is a limb or part of the lotus-eyed Supreme Lord, He also bears the name Kamalākṣa."
 }

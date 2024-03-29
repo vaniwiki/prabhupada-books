@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 11.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.133",
     "description":"After this, Gopīnātha Ācārya and Sārvabhauma Bhaṭṭācārya met all the Vaiṣṇavas at the place of Śrī Caitanya Mahāprabhu in a befitting manner."
 }

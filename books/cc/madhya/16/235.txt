@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 16.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.235",
     "description":"Raghunātha dāsa thought, \"How shall I be able to get free from the hands of the watchmen? How shall I be able to go with Śrī Caitanya Mahāprabhu to Nīlācala?\""
 }

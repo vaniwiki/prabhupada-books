@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 1.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.41",
     "description":"Who can count the rest of the books (headed by the Laghu-bhāgavatāmṛta) written by Śrīla Rūpa Gosvāmī? He has described the pastimes of Vṛndāvana in all of them."
 }

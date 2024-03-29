@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 2.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.91",
     "description":"In this chapter I have to some extent described the essence of the pastimes of Lord Caitanya at the end. If I die in the meantime and cannot describe them in detail, at least the devotees will have this transcendental treasure."
 }

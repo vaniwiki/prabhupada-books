@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 6.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.21",
     "description":"Every day, the Mohammedan would chastise Raghunātha dāsa and tell him, \"Bring your father and his elder brother. Otherwise you will be punished.\""
 }

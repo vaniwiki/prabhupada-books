@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 5.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.122",
     "description":"\"At no time is there a distinction between the body and soul of the Supreme Personality of Godhead. His personal identity and His body are made of blissful spiritual energy. There is no distinction between them."
 }

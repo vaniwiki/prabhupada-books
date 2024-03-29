@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 8.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.26",
     "description":"These brāhmaṇas began to think, \"We can see that this sannyāsī has a luster like the effulgence of Brahman, but how is it He is crying upon embracing a śūdra, a member of the fourth caste in the social order?\""
 }

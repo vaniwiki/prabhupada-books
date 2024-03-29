@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 10.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.66",
     "description":"The seven groups began chanting and beating their drums in seven directions, and Śrī Caitanya Mahāprabhu began dancing in the center in great ecstatic love."
 }

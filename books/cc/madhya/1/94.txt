@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 1.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.94",
     "description":"After three days, Lord Caitanya Mahāprabhu came to the house of Advaita Ācārya at Śāntipura and accepted alms there. This was His first acceptance of alms. At night He performed congregational chanting there."
 }

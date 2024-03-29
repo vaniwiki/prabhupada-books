@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 23.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.61",
     "description":"\"Udghūrṇā [unsteadiness] and vivaśa-ceṣṭā [boastful activities] are aspects of transcendental madness. In separation from Kṛṣṇa, one experiences the manifestation of Kṛṣṇa, and one thinks oneself to be Kṛṣṇa."
 }

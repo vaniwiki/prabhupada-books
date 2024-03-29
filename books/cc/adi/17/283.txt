@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.283",
-    "h1":"Text 283",
+    "h1":"Cc. Ādi 17.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.283",
     "description":"Kṛṣṇa was sitting in a solitary bush, waiting for Śrīmatī Rādhārāṇī to pass by. But while He was searching, the gopīs arrived there, like a phalanx of soldiers."
 }

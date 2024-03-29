@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 14.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.170",
     "description":"\"Now hear a description of different ecstasies, beginning with kila-kiñcita. With these ecstatic ornaments, Śrīmatī Rādhārāṇī enchants the mind of Kṛṣṇa."
 }

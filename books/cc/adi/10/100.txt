@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.100",
-    "h1":"Text 100",
+    "h1":"Cc. Ādi 10.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.100",
     "description":"Day and night he rendered service within his mind to Rādhā-Kṛṣṇa, and for three hours a day he discoursed about the character of Lord Caitanya Mahāprabhu."
 }

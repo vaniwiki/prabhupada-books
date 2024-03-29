@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.310",
-    "h1":"Text 310",
+    "h1":"Cc. Ādi 17.310",
+    "label":"Text 310",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.310",
     "description":"In this discourse I have explained the essence of the devotional conclusion. Anyone who hears this develops unalloyed devotional service to the Lord."
 }

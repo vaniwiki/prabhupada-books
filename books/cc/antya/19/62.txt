@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 19.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.62",
     "description":"They brought the Lord to His bed, calmed Him and then asked, \"Why have You done this to Yourself?\""
 }

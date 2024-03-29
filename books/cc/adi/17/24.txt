@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 17.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.24",
     "description":"\"The use of the word 'kevala' ['only'] prohibits all other processes, such as cultivation of knowledge, practice of mystic yoga, and performance of austerities and fruitive activities."
 }

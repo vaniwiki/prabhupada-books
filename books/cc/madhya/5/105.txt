@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 5.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.105",
     "description":"The brāhmaṇa then began to think that if the people didn't directly see the Gopāla Deity, they would not believe that He had arrived. \"But even if Gopāla stays here,\" he thought, \"there is still nothing to fear.\""
 }

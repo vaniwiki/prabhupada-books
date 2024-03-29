@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 18.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.178",
     "description":"When the Lord shouted very loudly in ecstatic love, it appeared to the Mohammedan soldiers that their hearts were struck by thunderbolts."
 }

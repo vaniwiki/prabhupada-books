@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 1.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.223",
     "description":"\"Although the King is respectful toward You, he still belongs to the yavana class and should not be believed. We think that there is no need for such a great crowd to accompany You on Your pilgrimage to Vṛndāvana."
 }

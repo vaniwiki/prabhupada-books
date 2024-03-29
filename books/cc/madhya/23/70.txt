@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 23.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.70",
     "description":"\" 'Kṛṣṇa, the supreme hero, has the most beautiful transcendental body. This body possesses all good features. It is radiant and very pleasing to the eyes. His body is powerful, strong and youthful."
 }

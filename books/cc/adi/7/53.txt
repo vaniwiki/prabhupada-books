@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 7.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.53",
     "description":"The brāhmaṇa immediately fell at the lotus feet of Caitanya Mahāprabhu and requested Him to accept his proposal in a joyful mood."
 }

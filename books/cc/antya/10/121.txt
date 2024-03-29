@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.121",
-    "h1":"Text 121",
+    "h1":"Cc. Antya 10.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.121",
     "description":"\"And all these varieties of food have been given by Vāsudeva Datta, Murāri Gupta and Buddhimanta Khān."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.210",
-    "h1":"Text 210",
+    "h1":"Cc. Ādi 17.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.210",
     "description":"\" 'Now He has given up His own name Nimāi and introduced Himself by the name Gaurahari. He has spoiled the Hindu religious principles and introduced the irreligion of nonbelievers."
 }

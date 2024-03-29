@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.215",
-    "h1":"Text 215",
+    "h1":"Cc. Antya 4.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.215",
     "description":"He collected whatever money he had accumulated in Bengal and divided it among his relatives, the brāhmaṇas and the temples."
 }

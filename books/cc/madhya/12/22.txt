@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 12.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.22",
     "description":"Hearing all these statements, Śrī Caitanya Mahāprabhu's mind was certainly softened, but externally He wished to speak some harsh words."
 }

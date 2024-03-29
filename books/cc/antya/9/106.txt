@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 9.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.106",
     "description":"\"Do not again misappropriate the revenue of the government. In case you think your salary insufficient, henceforward it will be doubled.\""
 }

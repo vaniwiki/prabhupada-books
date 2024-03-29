@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.231",
-    "h1":"Text 231",
+    "h1":"Cc. Antya 3.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.231",
     "description":"Thus everyone who saw the beauty of the cave, with the tulasī plant on a clean altar, was astonished and satisfied at heart."
 }

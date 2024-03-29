@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 8.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.96",
     "description":"Lord Caitanya Mahāprabhu replied, \"This is certainly the limit of perfection, but please be merciful to Me and speak more if there is more.\""
 }

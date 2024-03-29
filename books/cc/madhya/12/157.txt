@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.157",
-    "h1":"Text 157",
+    "h1":"Cc. Madhya 12.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.157",
     "description":"Ācāryaratna, Ācāryanidhi, Śrīvāsa Ṭhākura, Gadādhara Paṇḍita, Śaṅkara, Nandanācārya, Rāghava Paṇḍita and Vakreśvara were also present."
 }

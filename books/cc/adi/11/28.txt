@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 11.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.28",
     "description":"The thirteenth important devotee of Śrī Nityānanda Prabhu was Paṇḍita Purandara, who moved in the ocean of love of Godhead just like the Mandara Hill."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 2.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.89",
     "description":"I have already given a synopsis of all the facts and figures of Lord Śrī Caitanya Mahāprabhu's last pastimes, and I have a desire to describe them elaborately. If I remain longer and am fortunate enough to receive the mercy of Lord Śrī Caitanya Mahāprabhu, I shall try to describe them again more elaborately."
 }

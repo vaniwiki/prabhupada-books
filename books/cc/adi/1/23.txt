@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 1.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.23",
     "description":"The first two verses offer respectful obeisances, generally and specifically, to the Lord, who is the object of worship."
 }

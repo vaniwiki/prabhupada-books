@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.284-285",
-    "h1":"Text 284-285",
+    "h1":"Cc. Madhya 6.284-285",
+    "label":"Text 284-285",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.284-285",
     "description":"If one hears with faith and love these pastimes concerning Lord Caitanya Mahāprabhu's meeting with Sārvabhauma Bhaṭṭācārya, he very soon is freed from the net of speculation and fruitive activity and attains the shelter of Śrī Caitanya Mahāprabhu's lotus feet."
 }

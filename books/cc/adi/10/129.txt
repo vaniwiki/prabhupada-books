@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.129",
-    "h1":"Text 129",
+    "h1":"Cc. Ādi 10.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.129",
     "description":"Now let me enumerate the devotees of Bengal who first came to see the Lord at Jagannātha Purī."
 }

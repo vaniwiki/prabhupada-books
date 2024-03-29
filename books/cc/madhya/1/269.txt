@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.269",
-    "h1":"Text 269",
+    "h1":"Cc. Madhya 1.269",
+    "label":"Text 269",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.269",
     "description":"One day all the devotees, headed by Śrīvāsa Ṭhākura, were chanting the transcendental qualities of Śrī Caitanya Mahāprabhu."
 }

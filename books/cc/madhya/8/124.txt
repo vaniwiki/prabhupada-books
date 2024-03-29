@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.124",
-    "h1":"Text 124",
+    "h1":"Cc. Madhya 8.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.124",
     "description":"Lord Caitanya Mahāprabhu said, \"I am a Māyāvādī in the renounced order of life, and I do not even know what transcendental loving service to the Lord is. I simply float in the ocean of Māyāvāda philosophy."
 }

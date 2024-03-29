@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.194",
-    "h1":"Text 194",
+    "h1":"Cc. Antya 6.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.194",
     "description":"Raghunātha dāsa answered within his mind, \"I do not know who Kṛṣṇa is. I simply know that Your mercy, O my Lord, has saved me from my family life.\""
 }

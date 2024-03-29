@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 3.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.187",
     "description":"All the devotees informed Lord Caitanya of Śacīmātā's decision. Hearing it, the Lord became very pleased."
 }

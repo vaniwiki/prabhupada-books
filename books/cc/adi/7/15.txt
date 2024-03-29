@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.15",
-    "h1":"Text 15",
+    "h1":"Cc. Ādi 7.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.15",
     "description":"The three predominators [Caitanya Mahāprabhu, Nityānanda Prabhu and Advaita Prabhu] are worshipable by all living entities, and the fourth principle [Śrī Gadādhara Prabhu] is to be understood as Their worshiper."
 }

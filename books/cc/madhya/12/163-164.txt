@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.163-164",
-    "h1":"Text 163-164",
+    "h1":"Cc. Madhya 12.163-164",
+    "label":"Text 163-164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.163-164",
     "description":"Svarūpa Dāmodara Gosvāmī, Jagadānanda, Dāmodara Paṇḍita, Kāśīśvara, Gopīnātha, Vāṇīnātha and Śaṅkara distributed prasāda, and the devotees chanted the holy names at intervals."
 }

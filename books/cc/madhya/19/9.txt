@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.9",
-    "h1":"Text 9",
+    "h1":"Cc. Madhya 19.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.9",
     "description":"He deposited ten thousand coins, which were later spent by Śrī Sanātana Gosvāmī, in the custody of a local Bengali grocer."
 }

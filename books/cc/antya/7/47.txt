@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 7.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.47",
     "description":"\"The gopīs of Vṛndāvana have given up the association of their husbands, sons and other family members, who are very difficult to give up, and they have forsaken the path of chastity to take shelter of the lotus feet of Mukunda, Kṛṣṇa, which one should search for by Vedic knowledge. Oh, let me be fortunate enough to be one of the bushes, creepers or herbs in Vṛndāvana because the gopīs trample them and bless them with the dust of their lotus feet.'"
 }

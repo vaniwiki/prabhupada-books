@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 9.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.29",
     "description":"\" 'The Supreme Absolute Truth is called Rāma because the transcendentalists take pleasure in the unlimited true pleasure of spiritual existence.'"
 }

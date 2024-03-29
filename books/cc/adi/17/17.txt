@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 17.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.17",
     "description":"Thereafter mother Śacīdevī saw the brothers Kṛṣṇa and Balarāma in Their manifestation of Lord Caitanya and Nityānanda. Then the Lord delivered the two brothers Jagāi and Mādhāi."
 }

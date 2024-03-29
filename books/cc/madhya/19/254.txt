@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.254",
-    "h1":"Text 254",
+    "h1":"Cc. Madhya 19.254",
+    "label":"Text 254",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.254",
     "description":"Hearing that Śrī Caitanya Mahāprabhu had come, all the respectable members of the brāhmaṇa and kṣatriya communities came to see Him."
 }

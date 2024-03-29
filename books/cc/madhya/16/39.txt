@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 16.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.39",
     "description":"Govinda offered the two garlands to Advaita Ācārya and Nityānanda Prabhu, and They both became very happy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.20",
-    "h1":"Text 20",
+    "h1":"Cc. Ādi 11.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.20",
     "description":"There were many extraordinary activities performed by Murāri, a great devotee of Lord Caitanya Mahāprabhu. Sometimes in his ecstasy he would slap the cheek of a tiger, and sometimes he would play with a venomous snake."
 }

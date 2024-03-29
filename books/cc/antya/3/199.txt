@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.199",
-    "h1":"Text 199",
+    "h1":"Cc. Antya 3.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.199",
     "description":"Then Haridāsa Ṭhākura accepted the challenge offered by Gopāla Cakravartī. \"If by nāmābhāsa liberation is not available,\" he said, \"certainly I shall cut off my nose.\""
 }

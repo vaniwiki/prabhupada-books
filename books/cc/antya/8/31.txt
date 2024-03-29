@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 8.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.31",
     "description":"Thus Īśvara Purī became like an ocean of ecstatic love for Kṛṣṇa, whereas Rāmacandra Purī became a dry speculator and a critic of everyone else."
 }

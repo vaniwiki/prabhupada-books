@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.85",
-    "h1":"Text 85",
+    "h1":"Cc. Antya 3.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.85",
     "description":"\"Although the Supreme Personality of Godhead may be seen, glorified or remembered with an attitude of envy, He nevertheless awards the most confidential liberation, which is rarely achieved by the demigods and demons. What, then, can be said of those who are already fully engaged in devotional service to the Lord?'"
 }

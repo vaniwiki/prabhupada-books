@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.116",
-    "h1":"Text 116",
+    "h1":"Cc. Antya 20.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.116",
     "description":"In the Ninth Chapter is a description of how Gopīnātha Paṭṭanāyaka was delivered and how the people of the three worlds were able to see Śrī Caitanya Mahāprabhu."
 }

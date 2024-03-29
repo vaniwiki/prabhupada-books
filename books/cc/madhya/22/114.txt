@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 22.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.114",
     "description":"\"I shall say something about the various practices of devotional service, which is expanded in so many ways. I wish to speak briefly of the essential practices."
 }

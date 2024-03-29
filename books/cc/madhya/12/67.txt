@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 12.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.67",
     "description":"Just by embracing his son, the King was filled with ecstatic love, just as if he had touched Śrī Caitanya Mahāprabhu directly."
 }

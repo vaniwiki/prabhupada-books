@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.264-265",
-    "h1":"Text 264-265",
+    "h1":"Cc. Madhya 6.264-265",
+    "label":"Text 264-265",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.264-265",
     "description":"The Bhaṭṭācārya continued, \"The impersonalists, who do not accept the transcendental form of Lord Śrī Kṛṣṇa, and the demons, who are always engaged in blaspheming and fighting with Him, are punished by being merged into the Brahman effulgence. But that does not happen to the person engaged in the devotional service of the Lord."
 }

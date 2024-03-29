@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.238",
-    "h1":"Text 238",
+    "h1":"Cc. Ādi 17.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.238",
     "description":"Śrīvāsa Paṇḍita narrated all the pastimes enacted during the six changing seasons. He described the drinking of honey, the celebration of the rāsa dance, the swimming in the Yamunā, and other such incidents."
 }

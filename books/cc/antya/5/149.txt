@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 5.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.149",
     "description":"\"Thus Lord Jagannātha and Śrī Caitanya Mahāprabhu, although appearing as two, are one because They are both Kṛṣṇa, who is one alone."
 }

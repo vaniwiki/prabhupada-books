@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 25.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.18",
     "description":"Beginning from the day on which Śrī Caitanya Mahāprabhu showed His mercy to the Māyāvādī sannyāsīs, there were vivid discussions about this conversion among the inhabitants of Vārāṇasī."
 }

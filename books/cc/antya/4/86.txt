@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 4.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.86",
     "description":"\"My dear Lord, as You cause one to dance, he dances accordingly, but how he dances and who is causing him to dance he does not know.\""
 }

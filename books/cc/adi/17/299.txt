@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.299",
-    "h1":"Text 299",
+    "h1":"Cc. Ādi 17.299",
+    "label":"Text 299",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.299",
     "description":"His natural emotions were always on the platform of fraternity and servitude, but the Lord sometimes treated Him as His spiritual master."
 }

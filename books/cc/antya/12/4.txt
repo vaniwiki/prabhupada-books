@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 12.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.4",
     "description":"The mind of Śrī Caitanya Mahāprabhu was always morose because of a continuously manifested feeling of separation from Kṛṣṇa."
 }

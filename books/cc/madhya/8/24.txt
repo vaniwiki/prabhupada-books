@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 8.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.24",
     "description":"When they embraced each other, ecstatic symptoms-paralysis, perspiration, tears, shivering, paleness and standing up of the bodily hairs-appeared. The word \"Kṛṣṇa\" came from their mouths falteringly."
 }

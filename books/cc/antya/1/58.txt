@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 1.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.58",
     "description":"Thus Rūpa Gosvāmī became the object of love and affection for all the devotees of the Lord, including those who came from Bengal and those who resided in Orissa."
 }

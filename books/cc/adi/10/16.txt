@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.16",
-    "h1":"Text 16",
+    "h1":"Cc. Ādi 10.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.16",
     "description":"His disciples and granddisciples are his subbranches. To describe them all would be difficult."
 }

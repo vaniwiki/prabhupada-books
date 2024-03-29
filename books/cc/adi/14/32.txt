@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 14.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.32",
     "description":"\"In a waterpot, which is a transformation of dirt, I can bring water very easily. But if I poured water on a lump of dirt, the lump would soak up the water, and my labor would be useless.\""
 }

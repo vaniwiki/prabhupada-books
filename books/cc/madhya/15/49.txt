@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 15.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.49",
     "description":"\"I am subordinate to the love of My mother, and it is My duty to serve her in return. Instead of doing so, I have accepted this renounced order. Certainly this is the act of a madman."
 }

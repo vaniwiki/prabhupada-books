@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 17.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.169",
     "description":"As soon as Caitanya Mahāprabhu heard about Mādhavendra Purī's relationship with the brāhmaṇa, He immediately offered obeisances at his feet. Becoming fearful, the brāhmaṇa also immediately fell at the Lord's feet."
 }

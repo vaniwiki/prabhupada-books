@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.74",
-    "h1":"Text 74",
+    "h1":"Cc. Madhya 24.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.74",
     "description":"\" 'Learned transcendentalists who know the Absolute Truth say that it is nondual knowledge and is called impersonal Brahman, localized Paramātmā and the Personality of Godhead.'"
 }

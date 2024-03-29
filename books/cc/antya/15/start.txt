@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15",
-    "h1":"Chapter 15",
+    "h1":"The Transcendental Madness of Lord Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 15",
     "title":"Cc. Antya 15: The Transcendental Madness of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 3.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.5",
     "description":"Passing through the tract of land known as Rāḍha-deśa, Śrī Caitanya Mahāprabhu recited the following verse in ecstasy."
 }

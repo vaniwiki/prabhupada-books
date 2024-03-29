@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 15.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.127",
     "description":"\"Being extraordinarily intelligent, the King could understand the whole affair. In his estimation, Mukunda was a most uncommon, exalted, liberated personality."
 }

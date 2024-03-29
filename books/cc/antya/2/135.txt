@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.135",
-    "h1":"Text 135",
+    "h1":"Cc. Antya 2.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.135",
     "description":"Paramānanda Purī said, \"My dear Lord Caitanya, You are the independent Personality of Godhead. You can do whatever You like. Who can say anything above You?"
 }

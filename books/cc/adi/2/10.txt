@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 2.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.10",
     "description":"In terms of His various manifestations, He is known in three features, called the impersonal Brahman, the localized Paramātmā and the original Personality of Godhead."
 }

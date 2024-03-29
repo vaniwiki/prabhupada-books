@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3",
-    "h1":"Chapter 3",
+    "h1":"The External Reasons for Lord Caitanya’s Appearance",
+    "label":"Chapter 3",
     "title":"Cc. Ādi 3: The External Reasons for Lord Caitanya’s Appearance",
     "description":""
 }

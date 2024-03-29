@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 25.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.197",
     "description":"In his state of perplexity, Subuddhi Rāya met Śrī Caitanya Mahāprabhu when the Lord was at Vārāṇasī. Subuddhi Rāya explained his position and asked Śrī Caitanya Mahāprabhu what he should do."
 }

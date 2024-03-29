@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.281",
-    "h1":"Text 281",
+    "h1":"Cc. Madhya 1.281",
+    "label":"Text 281",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.281",
     "description":"The Lord replied, \"My dear Śrīnivāsa, please stop joking. You have all combined together to humiliate Me in this way.\""
 }

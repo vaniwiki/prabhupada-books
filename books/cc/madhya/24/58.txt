@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 24.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.58",
     "description":"\"The qualities of Kṛṣṇa captivate and attract everything, living and dead. Even birds, animals and trees are attracted to Kṛṣṇa's qualities."
 }

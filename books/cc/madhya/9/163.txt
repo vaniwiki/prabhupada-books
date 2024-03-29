@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 9.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.163",
     "description":"When the period of Cāturmāsya was completed, Śrī Caitanya Mahāprabhu took permission to leave Veṅkaṭa Bhaṭṭa, and after visiting Śrī Raṅga He proceeded further toward southern India."
 }

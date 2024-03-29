@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 19.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.88",
     "description":"Thus Śrī Caitanya Mahāprabhu was offered lunch with great care and affection. The brothers Rūpa Gosvāmī and Śrī Vallabha were also offered food."
 }

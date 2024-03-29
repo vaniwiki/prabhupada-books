@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 7.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.64",
     "description":"All the sannyāsī associates of Śrī Caitanya Mahāprabhu headed by Paramānanda Purī, sat on one side and thus partook of the prasāda."
 }

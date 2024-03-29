@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.112",
-    "h1":"Text 112",
+    "h1":"Cc. Ādi 17.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.112",
     "description":"The astrologer said, \"What I saw in meditation was full of opulence, and therefore I was confused."
 }

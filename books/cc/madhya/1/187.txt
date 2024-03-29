@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 1.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.187",
     "description":"The two brothers got up, and again taking straw between their teeth, they humbly offered their prayers with folded hands."
 }

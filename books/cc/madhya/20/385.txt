@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.385",
-    "h1":"Text 385",
+    "h1":"Cc. Madhya 20.385",
+    "label":"Text 385",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.385",
     "description":"\"Descriptions of Kṛṣṇa's eternal pastimes are in all revealed scriptures. But one cannot understand how they are continuing eternally."
 }

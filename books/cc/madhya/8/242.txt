@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.242",
-    "h1":"Text 242",
+    "h1":"Cc. Madhya 8.242",
+    "label":"Text 242",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.242",
     "description":"In this way they both departed to perform their respective duties. Then, in the evening, Rāmānanda Rāya returned to see Lord Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 17.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.154",
     "description":"While the Lord was going to Mathurā, He came across the River Yamunā several times, and as soon as He saw the River Yamunā, He would immediately jump in, falling unconscious in the water in the ecstasy of love of Kṛṣṇa."
 }

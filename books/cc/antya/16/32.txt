@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 16.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.32",
     "description":"Kālidāsa smeared the dust from those footprints all over his body. Then he hid in a place near Jhaḍu Ṭhākura's home."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 12.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.16",
     "description":"Having thus reached a decision, they all went to the place of Śrī Caitanya Mahāprabhu. There, although ready to speak, they could not even utter a word."
 }

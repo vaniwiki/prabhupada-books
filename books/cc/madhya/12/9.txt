@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.9",
-    "h1":"Text 9",
+    "h1":"Cc. Madhya 12.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.9",
     "description":"\"By the mercy of all the devotees, one can attain the shelter of the lotus feet of the Lord. Without His mercy, my kingdom does not appeal to me."
 }

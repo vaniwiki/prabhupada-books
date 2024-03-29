@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 13.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.142",
     "description":"Śrī Caitanya Mahāprabhu continued: \" 'The gopīs are fallen in the great ocean of separation, and they are being devoured by the timiṅgila fish, which represent their ambition to serve You. The gopīs are to be delivered from the mouths of these timiṅgila fish, for they are pure devotees. Since they have no material conception of life, why should they aspire for liberation? The gopīs do not want that liberation desired by yogīs and jñānīs, for they are already liberated from the ocean of material existence."
 }

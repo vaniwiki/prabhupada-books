@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 25.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.55",
     "description":"\"Of the philosophers mentioned, none really cares for the Supreme Personality of Godhead, the cause of all causes. They are always busy refuting the philosophical theories of others and establishing their own."
 }

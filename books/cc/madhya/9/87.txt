@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.87",
-    "h1":"Text 87",
+    "h1":"Cc. Madhya 9.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.87",
     "description":"While there, Śrī Caitanya Mahāprabhu took His bath in the river Kāverī and visited the temple of Śrī Raṅga. Every day the Lord also danced in ecstasy."
 }

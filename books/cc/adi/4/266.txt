@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.266",
-    "h1":"Text 266",
+    "h1":"Cc. Ādi 4.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.266",
     "description":"\"But these three desires have not been satisfied, for one cannot enjoy them in a contrary position."
 }

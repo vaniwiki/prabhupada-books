@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 18.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.39",
     "description":"In separation from the Lord, everyone felt as though he had lost his very life. They concluded that there must have been some mishap. They could not think of anything else."
 }

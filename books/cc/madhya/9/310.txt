@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.310",
-    "h1":"Text 310",
+    "h1":"Cc. Madhya 9.310",
+    "label":"Text 310",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.310",
     "description":"Śrī Caitanya Mahāprabhu next arrived at the banks of the river Tāpī. After bathing there, He went to Māhiṣmatī-pura. While there, He saw many holy places on the banks of the river Narmadā."
 }

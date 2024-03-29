@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 14.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.197",
     "description":"\" 'When the border of Her sari and the cloth veiling Her face are caught, She externally appears offended and angry, but within Her heart She is very happy. Learned scholars call this attitude kuṭṭamita.'"
 }

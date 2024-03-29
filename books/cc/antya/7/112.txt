@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 7.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.112",
     "description":"The next day when he came to the assembly of Śrī Caitanya Mahāprabhu, he sat down after offering obeisances to the Lord and said something with great pride."
 }

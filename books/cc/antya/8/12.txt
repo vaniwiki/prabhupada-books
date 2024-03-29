@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 8.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.12",
     "description":"After finishing the meal, Rāmacandra Purī requested, \"My dear Jagadānanda, please listen. You eat the food that is left.\""
 }

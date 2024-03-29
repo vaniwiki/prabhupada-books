@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.158",
-    "h1":"Text 158",
+    "h1":"Cc. Antya 3.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.158",
     "description":"To purify the Durgā-maṇḍapa temple and the courtyard, Rāmacandra Khān sprinkled and smeared it with water mixed with cow dung, but still his mind was unsatisfied."
 }

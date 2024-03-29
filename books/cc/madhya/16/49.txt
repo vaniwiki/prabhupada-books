@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 16.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.49",
     "description":"The inhabitants of Kulīna-grāma delivered silken ropes to Lord Jagannātha, and as previously they all danced before the Lord's car."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 21.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.46",
     "description":"\"Below the Vṛndāvana planet is the spiritual sky, which is known as Viṣṇuloka. In Viṣṇuloka there are innumerable Vaikuṇṭha planets controlled by Nārāyaṇa and other innumerable expansions of Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 10.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.109",
     "description":"Some brought paiḍa [a coconut preparation], some brought sweetballs, and some brought cakes and sweet rice. The prasāda was of different varieties, all very costly."
 }

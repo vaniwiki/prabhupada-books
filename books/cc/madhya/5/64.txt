@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.64",
-    "h1":"Text 64",
+    "h1":"Cc. Madhya 5.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.64",
     "description":"At that time the young brāhmaṇa said, \"My dear gentlemen, please hear. Just to gain victory in an argument, this man is lying."
 }

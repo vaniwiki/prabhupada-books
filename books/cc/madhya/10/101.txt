@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 10.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.101",
     "description":"There was a solitary room at Kāśī Miśra's house, and Śrī Caitanya Mahāprabhu gave it to Paramānanda Purī. He also gave him one servant."
 }

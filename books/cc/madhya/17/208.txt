@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 17.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.208",
     "description":"When a male and female parrot appeared on the branches of a tree, the Lord saw them and wanted to hear them speak."
 }

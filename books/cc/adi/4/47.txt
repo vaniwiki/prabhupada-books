@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.47",
-    "h1":"Text 47",
+    "h1":"Cc. Ādi 4.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.47",
     "description":"There is a great increase of mellow in the unwedded conjugal mood. Such love is found nowhere but in Vraja."
 }

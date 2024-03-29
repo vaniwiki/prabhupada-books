@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 3.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.158",
     "description":"To everyone who came to see the Lord from villages nearby, especially from Navadvīpa, Advaita Ācārya gave residential quarters, as well as all kinds of eatables, for many days. Indeed, He properly adjusted everything."
 }

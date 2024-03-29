@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.166",
-    "h1":"Text 166",
+    "h1":"Cc. Madhya 22.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.166",
     "description":"\"That by which one can attain loving service to the Lord I have described in detail as the execution of devotional service called abhidheya."
 }

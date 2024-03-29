@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.55",
-    "h1":"Text 55",
+    "h1":"Cc. Ādi 5.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.55",
     "description":"In that ocean lies one plenary portion of Lord Saṅkarṣaṇa."
 }

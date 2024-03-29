@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 17.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.147",
     "description":"When Śrī Caitanya Mahāprabhu started for Mathurā, all three devotees started to go with Him. However, the Lord forbade them to accompany Him, and from a distance He asked them to return home."
 }

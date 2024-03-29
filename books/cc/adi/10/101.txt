@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.101",
-    "h1":"Text 101",
+    "h1":"Cc. Ādi 10.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.101",
     "description":"Śrī Raghunātha dāsa Gosvāmī took three baths daily in the Rādhā-kuṇḍa lake. As soon as he found a Vaiṣṇava residing in Vṛndāvana, he would embrace him and give him all respect."
 }

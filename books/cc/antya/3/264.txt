@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.264",
-    "h1":"Text 264",
+    "h1":"Cc. Antya 3.264",
+    "label":"Text 264",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.264",
     "description":"The goddess of fortune and others, allured by love of Kṛṣṇa, also came down in the form of human beings and tasted the holy name of the Lord in love."
 }

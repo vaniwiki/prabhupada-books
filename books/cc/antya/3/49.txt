@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 3.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.49",
     "description":"One day Śrī Caitanya Mahāprabhu met Haridāsa Ṭhākura as usual, and in the course of discussion He inquired as follows."
 }

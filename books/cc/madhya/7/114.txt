@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 7.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.114",
     "description":"While at this place, Lord Śrī Caitanya Mahāprabhu was in His usual ecstasy of love of Godhead and was laughing, crying, dancing and chanting. Everyone who saw Him was astonished."
 }

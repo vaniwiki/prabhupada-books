@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.107",
-    "h1":"Text 107",
+    "h1":"Cc. Ādi 17.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.107",
     "description":"Struck with wonder, the astrologer remained silent, unable to speak. But when the Lord again put the question before him, he replied as follows."
 }

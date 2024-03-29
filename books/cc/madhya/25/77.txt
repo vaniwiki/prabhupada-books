@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 25.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.77",
     "description":"\" 'Being touched by the lotus feet of Śrī Kṛṣṇa, that serpent was immediately freed from the reactions of his sinful life. Thus the serpent gave up his body and assumed the body of a beautiful Vidyādhara demigod.' \""
 }

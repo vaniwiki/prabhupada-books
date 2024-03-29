@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.51-52",
-    "h1":"Text 51-52",
+    "h1":"Cc. Madhya 8.51-52",
+    "label":"Text 51-52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.51-52",
     "description":"Rāmānanda Rāya replied, \"My Lord, although You have come to correct me, a fallen soul, my mind is not yet purified simply by seeing You. Please stay for five or seven days and kindly cleanse my polluted mind. After that much time, my mind will certainly be pure.\""
 }

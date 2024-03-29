@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 8.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.17",
     "description":"The characteristic of Rāmacandra Purī was that first he would induce someone to eat more than necessary and then he would criticize him."
 }

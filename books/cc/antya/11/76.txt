@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 11.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.76",
     "description":"However, Svarūpa Dāmodara stopped them, and the shopkeepers returned to their shops and sat down with their baskets."
 }

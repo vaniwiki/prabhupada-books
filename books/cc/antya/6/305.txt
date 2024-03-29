@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.305",
-    "h1":"Text 305",
+    "h1":"Cc. Antya 6.305",
+    "label":"Text 305",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.305",
     "description":"Raghunātha dāsa then began offering the costly sweetmeats known as khājā, which Govinda, following the order of Svarūpa Dāmodara, would supply."
 }

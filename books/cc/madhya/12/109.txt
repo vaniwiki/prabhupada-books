@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 12.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.109",
     "description":"With the exception of Nityānanda Prabhu, Advaita Ācārya, Svarūpa Dāmodara, Brahmānanda Bhāratī and Paramānanda Purī, everyone was engaged in filling the waterpots and bringing them there."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 6.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.39",
     "description":"The Bhaṭṭācārya informed all of them, \"Please take your midday baths immediately. Today I shall offer you mahā-prasāda, the remnants of food offered to Lord Jagannātha.\""
 }

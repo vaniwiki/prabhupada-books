@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 17.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.203",
     "description":"Seeing their affection, the Lord was moved by ecstatic love. He began to sport with them exactly as a friend sports with another friend. Thus He voluntarily came under the control of His friends."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 11.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.27",
     "description":"\"Because the King has shown so much love for you, Lord Kṛṣṇa will certainly accept him."
 }

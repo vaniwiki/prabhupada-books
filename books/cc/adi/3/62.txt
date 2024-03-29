@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 3.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.62",
     "description":"Raising His arms, chanting the holy name and looking upon all with deep love, He drives away all sins and floods everyone with love of Godhead."
 }

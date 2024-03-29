@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.151",
-    "h1":"Text 151",
+    "h1":"Cc. Antya 20.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.151",
     "description":"If one hears the pastimes of Lord Śrī Caitanya Mahāprabhu as described in Śrī Caitanya-caritāmṛta, I wash his lotus feet and drink the water."
 }

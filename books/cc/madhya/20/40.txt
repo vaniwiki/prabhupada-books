@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 20.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.40",
     "description":"When Śrīkānta was sitting in an elevated place, he could see Sanātana Gosvāmī. That night he took a servant and went to see Sanātana Gosvāmī."
 }

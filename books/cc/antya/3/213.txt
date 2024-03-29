@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.213",
-    "h1":"Text 213",
+    "h1":"Cc. Antya 3.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.213",
     "description":"A characteristic of a pure devotee is that he excuses any offense by an ignorant rascal. The characteristic of Kṛṣṇa, however, is that He cannot tolerate blasphemy of His devotees."
 }

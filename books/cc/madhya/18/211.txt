@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.211",
-    "h1":"Text 211",
+    "h1":"Cc. Madhya 18.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.211",
     "description":"Later these very Pāṭhānas became celebrated as the Pāṭhāna Vaiṣṇavas. They toured all over the country and chanted the glorious activities of Śrī Caitanya Mahāprabhu."
 }

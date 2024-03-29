@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 2.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.50",
     "description":"Then Śivānanda Sena told him, \"Śrī Caitanya Mahāprabhu promised that He would come. Why, then, has He not arrived?\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 19.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.29",
     "description":"Sanātana Gosvāmī replied, \"You are going to Orissa to give pain to the Supreme Personality of Godhead. For this reason I am powerless to go with you.\""
 }

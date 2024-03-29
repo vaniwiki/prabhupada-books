@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.18",
-    "h1":"Text 18",
+    "h1":"Cc. Ādi 16.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.18",
     "description":"I cannot understand the inconceivable pastimes of Lord Caitanya Mahāprabhu, for although Tapana Miśra wanted to live with Him in Navadvīpa, the Lord advised him to go to Vārāṇasī."
 }

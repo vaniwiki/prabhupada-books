@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 18.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.202",
     "description":"\"I have studied the Mohammedan scripture very extensively, but from it I cannot conclusively decide what the ultimate goal of life is or how I can approach it."
 }

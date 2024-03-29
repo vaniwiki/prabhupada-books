@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.225",
-    "h1":"Text 225",
+    "h1":"Cc. Madhya 16.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.225",
     "description":"Raghunātha dāsa's father, Govardhana, always rendered much service to Advaita Ācārya. Consequently Advaita Ācārya was very pleased with the family."
 }

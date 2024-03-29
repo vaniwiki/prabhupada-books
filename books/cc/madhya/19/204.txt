@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.204",
-    "h1":"Text 204",
+    "h1":"Cc. Madhya 19.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.204",
     "description":"\" 'When mother Yaśodā saw all the universes within Kṛṣṇa's mouth, she was astonished for the time being. The Lord is worshiped like Indra and other demigods by the followers of the three Vedas, who offer Him sacrifices. He is worshiped as impersonal Brahman by saintly persons who understand His greatness through studying the Upaniṣads, as the puruṣa by great philosophers who analytically study the universe, as the all-pervading Supersoul by great yogīs, and as the Supreme Personality of Godhead by devotees. Nevertheless, mother Yaśodā considered the Lord her own son.'"
 }

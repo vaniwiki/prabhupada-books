@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 11.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.188",
     "description":"Haridāsa Ṭhākura said, \"My dear Lord, please do not touch me, for I am most fallen and untouchable and am the lowest among men.\""
 }

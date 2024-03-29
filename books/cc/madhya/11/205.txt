@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 11.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.205",
     "description":"\"You may sit down and accept the luncheon with Nityānanda Prabhu, and I shall distribute the prasāda to all the Vaiṣṇavas.\""
 }

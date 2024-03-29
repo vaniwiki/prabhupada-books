@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 25.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.100",
     "description":"\"That which is explained in the verses of Śrīmad-Bhāgavatam and in the Upaniṣads serves the same purpose."
 }

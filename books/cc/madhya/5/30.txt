@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 5.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.30",
     "description":"\"My dear boy, I will give my daughter to you in charity, and I will neglect the position of all others. Don't doubt me in this regard; just accept my proposal.\""
 }

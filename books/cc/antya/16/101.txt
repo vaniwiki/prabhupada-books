@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 16.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.101",
     "description":"After saying this, Śrī Caitanya Mahāprabhu bade farewell to all the servants. After seeing the next offering of food to Lord Jagannātha, a function known as upala-bhoga, He returned to His own quarters."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.137",
-    "h1":"Text 137",
+    "h1":"Cc. Madhya 11.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.137",
     "description":"As soon as Śrī Caitanya Mahāprabhu saw Vāsudeva Datta, the father of Mukunda Datta, He immediately became very happy and, placing His hand on his body, began to speak."
 }

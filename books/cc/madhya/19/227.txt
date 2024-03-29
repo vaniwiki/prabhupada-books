@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.227",
-    "h1":"Text 227",
+    "h1":"Cc. Madhya 19.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.227",
     "description":"\"The essence of fraternal love is intimacy devoid of the formality and veneration found in the dāsya-rasa. Due to a greater sense of intimacy, the devotee functioning in paternal love chastises and rebukes the Lord in an ordinary way."
 }

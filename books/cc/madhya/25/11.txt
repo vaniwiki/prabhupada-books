@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 25.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.11",
     "description":"Thinking like this, the Mahārāṣṭrian brāhmaṇa extended an invitation to all the sannyāsīs of Vārāṇasī. After doing this, he finally approached Śrī Caitanya Mahāprabhu to extend Him an invitation."
 }

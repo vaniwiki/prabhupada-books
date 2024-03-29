@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 24.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.220",
     "description":"\"In addition to the nineteen other meanings, this ātmārāma meaning [including those laboring under the bodily conception] makes four meanings altogether and brings the total to twenty-three meanings. Now hear of another three meanings, which are very suitable."
 }

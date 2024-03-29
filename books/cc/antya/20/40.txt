@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 20.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.40",
     "description":"\"In My agitation, a day never ends, for every moment seems like a millennium. Pouring incessant tears, My eyes are like clouds in the rainy season."
 }

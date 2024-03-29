@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.231",
-    "h1":"Text 231",
+    "h1":"Cc. Madhya 20.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.231",
     "description":"\"Lord Śrīdhara holds the lotus, disc, club and conch. Lord Hṛṣīkeśa holds the club, disc, lotus and conch."
 }

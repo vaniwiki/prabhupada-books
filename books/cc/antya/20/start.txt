@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20",
-    "h1":"Chapter 20",
+    "h1":"The Śikṣāṣṭaka Prayers",
+    "label":"Chapter 20",
     "title":"Cc. Antya 20: The Śikṣāṣṭaka Prayers",
     "description":""
 }

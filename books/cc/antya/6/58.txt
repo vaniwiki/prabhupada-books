@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 6.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.58",
     "description":"The other half was mixed with condensed milk and a special type of banana known as cāṅpā-kalā. Then sugar, clarified butter and camphor were added."
 }

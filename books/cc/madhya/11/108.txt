@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 11.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.108",
     "description":"The King said, \"The son of Bhavānanda Rāya named Vāṇīnātha, along with five or seven other men, went there to obtain the remnants of Lord Jagannātha's food."
 }

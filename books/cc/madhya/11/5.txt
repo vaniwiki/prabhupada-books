@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 11.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.5",
     "description":"Sārvabhauma Bhaṭṭācārya said, \"There is a king named Pratāparudra Rāya. He is very anxious to meet You, and he wants Your permission.\""
 }

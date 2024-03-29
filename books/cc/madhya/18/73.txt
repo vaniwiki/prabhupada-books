@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 18.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.73",
     "description":"When the Lord regained His senses, He began to roll on the ground. He would sometimes laugh, cry, dance and fall down. He would also chant very loudly."
 }

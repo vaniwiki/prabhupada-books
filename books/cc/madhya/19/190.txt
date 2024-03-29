@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 19.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.190",
     "description":"\"In Vṛndāvana, examples of devotees in fraternity are Śrīdāmā and Sudāmā; in Dvārakā the Lord's friends are Bhīma and Arjuna; in Vṛndāvana the devotees in parental love are mother Yaśodā and father Nanda Mahārāja, and in Dvārakā the Lord's parents are Vasudeva and Devakī. There are also other superior persons who are devotees in parental love."
 }

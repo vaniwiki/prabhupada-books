@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 10.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.151",
     "description":"The next day Mukunda Datta informed Śrī Caitanya Mahāprabhu, \"Brahmānanda Bhāratī has come to see You.\""
 }

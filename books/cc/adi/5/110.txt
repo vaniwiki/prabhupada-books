@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.110",
-    "h1":"Text 110",
+    "h1":"Cc. Ādi 5.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.110",
     "description":"The material planets rest within the stem that grew from the lotus navel of Lord Nārāyaṇa. Among these planets are seven oceans."
 }

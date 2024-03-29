@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 1.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.50",
     "description":"For twenty consecutive years this meeting took place, and the situation became so intense that the Lord and the devotees could not be happy without meeting one another."
 }

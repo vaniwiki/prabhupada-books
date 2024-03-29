@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 20.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.26",
     "description":"Thereupon, Sanātana Gosvāmī took the seven gold coins in his hands and went to the landlord. Holding the gold coins before him, he spoke as follows."
 }

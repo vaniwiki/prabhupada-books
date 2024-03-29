@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 24.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.149",
     "description":"\"Although the words ātmārāmāś ca would be repeated six times, simply by adding the word ca, five ātmārāmas are deleted."
 }

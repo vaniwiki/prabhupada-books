@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 16.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.87",
     "description":"After hearing the explanation of Lord Caitanya Mahāprabhu, the champion poet was struck with wonder. His cleverness stunned, he could not say anything."
 }

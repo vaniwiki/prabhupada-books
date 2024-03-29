@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 14.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.42",
     "description":"Having lost His acquired gem, Śrī Caitanya Mahāprabhu became overwhelmed with lamentation by remembering its attributes. Then, grasping the necks of Rāmānanda Rāya and Svarūpa Dāmodara Gosvāmī, He cried, \"Alas, where is My Lord Hari? Where is Hari?\" Finally He became restless and lost all patience."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 15.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.37",
     "description":"One day the two brothers, Śrī Caitanya Mahāprabhu and Nityānanda Prabhu, consulted one another, sitting together in a solitary place."
 }

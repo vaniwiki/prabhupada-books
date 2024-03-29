@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 14.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.17",
     "description":"\"This child will preach the Vaiṣṇava cult and deliver both His maternal and paternal families."
 }

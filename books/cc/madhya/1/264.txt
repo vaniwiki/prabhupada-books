@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.264",
-    "h1":"Text 264",
+    "h1":"Cc. Madhya 1.264",
+    "label":"Text 264",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.264",
     "description":"After explaining the transcendental qualities of Rāmānanda Rāya, the Lord sent Pradyumna Miśra to the residence of Rāmānanda Rāya, and Pradyumna Miśra learned kṛṣṇa-kathā from him."
 }

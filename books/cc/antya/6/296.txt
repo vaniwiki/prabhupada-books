@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.296",
-    "h1":"Text 296",
+    "h1":"Cc. Antya 6.296",
+    "label":"Text 296",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.296",
     "description":"\"For such worship, one needs a jug of water and a few flowers from a tulasī tree. This is worship in complete goodness when performed in complete purity."
 }

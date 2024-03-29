@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.257",
-    "h1":"Text 257",
+    "h1":"Cc. Madhya 6.257",
+    "label":"Text 257",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.257",
     "description":"Indeed, Sārvabhauma Bhaṭṭācārya became an unalloyed devotee of Caitanya Mahāprabhu; he did not know anything but the service of the Lord."
 }

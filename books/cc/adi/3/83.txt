@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.83",
-    "h1":"Text 83",
+    "h1":"Cc. Ādi 3.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.83",
     "description":"\"O learned brāhmaṇa, sometimes I accept the renounced order of life to induce the fallen people of the Age of Kali to accept devotional service to the Lord.\""
 }

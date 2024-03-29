@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.27",
-    "h1":"Text 27",
+    "h1":"Cc. Ādi 8.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.27",
     "description":"When one's transcendental loving service to the Lord is actually awakened, it generates transformations in the body such as perspiration, trembling, throbbing of the heart, faltering of the voice and tears in the eyes."
 }

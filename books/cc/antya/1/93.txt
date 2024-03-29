@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.93",
-    "h1":"Text 93",
+    "h1":"Cc. Antya 1.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.93",
     "description":"After the four months of Cāturmāsya [Śrāvaṇa, Bhādra, Āśvina and Kārttika], all the Vaiṣṇavas of Bengal returned to their homes, but Śrīla Rūpa Gosvāmī remained in Jagannātha Purī under the shelter of the lotus feet of Śrī Caitanya Mahāprabhu."
 }

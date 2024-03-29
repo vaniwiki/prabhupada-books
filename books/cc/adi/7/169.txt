@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.169",
-    "h1":"Text 169",
+    "h1":"Cc. Ādi 7.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.169",
     "description":"While chanting the Pañca-tattva mahā-mantra, one must chant the names of Śrī Caitanya, Nityānanda, Advaita, Gadādhara and Śrīvāsa with their many devotees. This is the process."
 }

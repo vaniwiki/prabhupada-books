@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.298",
-    "h1":"Text 298",
+    "h1":"Cc. Madhya 20.298",
+    "label":"Text 298",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.298",
     "description":"\"Some of the pastime incarnations are the fish incarnation, the tortoise incarnation, Lord Rāmacandra, Lord Nṛsiṁha, Lord Vāmana, and Lord Varāha. There is no end to them."
 }

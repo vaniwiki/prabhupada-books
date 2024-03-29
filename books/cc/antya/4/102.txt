@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.102",
-    "h1":"Text 102",
+    "h1":"Cc. Antya 4.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.102",
     "description":"\"Some behave very well but do not preach the cult of Kṛṣṇa consciousness, whereas others preach but do not behave properly."
 }

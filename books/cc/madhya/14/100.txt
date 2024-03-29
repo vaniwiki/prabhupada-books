@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 14.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.100",
     "description":"Śrī Caitanya Mahāprabhu then ordered Vakreśvara Paṇḍita to dance, and as he began to dance, the Lord began to sing."
 }

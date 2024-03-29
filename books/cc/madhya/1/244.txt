@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.244",
-    "h1":"Text 244",
+    "h1":"Cc. Madhya 1.244",
+    "label":"Text 244",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.244",
     "description":"When Lord Caitanya Mahāprabhu arrived at Vārāṇasī, Sanātana Gosvāmī met Him there. The Lord remained there for two months and instructed Sanātana Gosvāmī perfectly."
 }

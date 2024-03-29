@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 7.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.103",
     "description":"When these individuals returned to their villages, they also converted others into devotees. When others came to see them, they also were converted."
 }

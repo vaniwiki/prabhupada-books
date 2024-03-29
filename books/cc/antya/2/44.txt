@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 2.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.44",
     "description":"When Śrīkānta Sena returned to Bengal and delivered this message, the minds of all the devotees were very pleased."
 }

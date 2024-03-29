@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.172",
-    "h1":"Text 172",
+    "h1":"Cc. Antya 7.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.172",
     "description":"I have thus explained the Lord's meeting with Vallabha Bhaṭṭa. By hearing of this incident, one can achieve the treasure of love for Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 8.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.159",
     "description":"\"The most essential part of this pleasure potency is love of Godhead [prema]. Consequently, the explanation of love of Godhead is also a transcendental mellow full of pleasure."
 }

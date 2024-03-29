@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 2.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.67",
     "description":"\"My dear Lord, You are engaged in Your pastimes, and You utilize all the women in the universe according to Your desire. You are so kind to Me. Please divert Your attention to Me, for by fortune You have appeared before Me."
 }

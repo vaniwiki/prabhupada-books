@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 17.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.71",
     "description":"\"I thought that once again I would see and meet all the devotees and take them with Me to Vṛndāvana."
 }

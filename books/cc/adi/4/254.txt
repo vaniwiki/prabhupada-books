@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.254",
-    "h1":"Text 254",
+    "h1":"Cc. Ādi 4.254",
+    "label":"Text 254",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.254",
     "description":"\"When She tastes the betel chewed by Me, She merges in an ocean of joy and forgets everything else."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.222",
-    "h1":"Text 222",
+    "h1":"Cc. Madhya 24.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.222",
     "description":"\"The word nirgranthāḥ is used as an adjective, and api is used in the sense of certainty. For instance, rāmaś ca kṛṣṇaś ca means that both Rāma and Kṛṣṇa enjoy walking in the forest."
 }

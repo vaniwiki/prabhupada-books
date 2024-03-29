@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 6.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.55",
     "description":"Seeing the crowd increasing, Raghunātha dāsa arranged to get more eatables from other villages. He also brought two to four hundred large, round earthen pots."
 }

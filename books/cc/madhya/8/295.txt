@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.295",
-    "h1":"Text 295",
+    "h1":"Cc. Madhya 8.295",
+    "label":"Text 295",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.295",
     "description":"Śrī Caitanya Mahāprabhu and Rāmānanda Rāya worked like miners, excavating all kinds of valuable metals, each one better than the other. Their questions and answers are exactly like that."
 }

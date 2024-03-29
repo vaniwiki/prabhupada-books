@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 3.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.43",
     "description":"He delivered all the prasāda to such great Vaiṣṇavas as Advaita Ācārya. Thus he stayed there and behaved according to the order of Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.115",
-    "h1":"Text 115",
+    "h1":"Cc. Ādi 7.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.115",
     "description":"\"One who considers the transcendental body of Lord Viṣṇu to be made of material nature is the greatest offender at the lotus feet of the Lord. There is no greater blasphemy against the Supreme Personality of Godhead."
 }

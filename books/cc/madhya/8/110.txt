@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 8.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.110",
     "description":"\"Lord Kṛṣṇa is equal to everyone in His general dealings, but due to the conflicting ecstatic love of Śrīmatī Rādhārāṇī, there were opposing elements."
 }

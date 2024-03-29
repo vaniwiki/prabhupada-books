@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.130",
-    "h1":"Text 130",
+    "h1":"Cc. Ādi 7.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.130",
     "description":"\"Praṇava [oṁkāra] is the mahā-vākya [mahā-mantra] in the Vedas. Śaṅkarācārya's followers cover this to stress without authority the mantra tat tvam asi."
 }

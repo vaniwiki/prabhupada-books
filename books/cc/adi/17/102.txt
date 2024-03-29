@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.102",
-    "h1":"Text 102",
+    "h1":"Cc. Ādi 17.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.102",
     "description":"He danced with the Lord because he was favored by love of Kṛṣṇa. Thus he flowed in the mellows of love of Godhead."
 }

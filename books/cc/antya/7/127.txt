@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.127",
-    "h1":"Text 127",
+    "h1":"Cc. Antya 7.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.127",
     "description":"\"My dear Lord, You are the Supreme Personality of Godhead. You have showed mercy to me in a way just befitting Your position by insulting me to cut down all my false pride."
 }

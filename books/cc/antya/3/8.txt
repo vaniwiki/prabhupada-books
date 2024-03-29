@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.8",
-    "h1":"Text 8",
+    "h1":"Cc. Antya 3.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.8",
     "description":"This was intolerable for Dāmodara Paṇḍita. He became greatly unhappy, but there was nothing he could say, for the boy would ignore his restrictions."
 }

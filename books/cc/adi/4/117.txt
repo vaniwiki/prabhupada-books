@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.117",
-    "h1":"Text 117",
+    "h1":"Cc. Ādi 4.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.117",
     "description":"\"Lord Kṛṣṇa made Śrīmatī Rādhārāṇī close Her eyes in shame before Her friends by His words relating Their amorous activities on the previous night. Then He showed the highest limit of cleverness in drawing pictures of dolphins in various playful sports on Her breasts. In this way Lord Hari made His youth successful by performing pastimes in the bushes with Śrī Rādhā and Her friends.\""
 }

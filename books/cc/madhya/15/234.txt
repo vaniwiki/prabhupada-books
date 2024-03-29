@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.234",
-    "h1":"Text 234",
+    "h1":"Cc. Madhya 15.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.234",
     "description":"\"Now please sit in this place and take Your lunch.\" Caitanya Mahāprabhu replied, \"This place is worshipable because it was used by Kṛṣṇa.\""
 }

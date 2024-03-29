@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 11.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.167",
     "description":"\"I do not wish the servants of Lord Jagannātha to touch me. I would remain there in the garden alone. That is my desire.\""
 }

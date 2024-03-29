@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 21.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.62",
     "description":"\"The doorman then informed Lord Kṛṣṇa of Lord Brahmā's description, and Lord Kṛṣṇa gave him permission to enter. The doorman escorted Lord Brahmā in, and as soon as Brahmā saw Lord Kṛṣṇa, he offered obeisances at His lotus feet."
 }

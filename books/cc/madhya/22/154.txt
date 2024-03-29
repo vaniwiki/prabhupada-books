@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 22.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.154",
     "description":"\" 'Devotional service in spontaneous love is vividly expressed and manifested by the inhabitants of Vṛndāvana. Devotional service that accords with their devotional service is called rāgānugā bhakti, or devotional service following in the wake of spontaneous loving service.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.178",
-    "h1":"Text 178",
+    "h1":"Cc. Antya 4.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.178",
     "description":"\" 'One who is fully satisfied in knowledge obtained and practically applied in life, who is always determined and fixed in his spiritual position, who completely controls his senses, and who sees pebbles, stone and gold on the same level, is understood to be a perfect yogī.'"
 }

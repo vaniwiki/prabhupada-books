@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 9.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.207",
     "description":"When Śrī Caitanya Mahāprabhu heard this story, He was very much pleased, and He remembered the words of Rāmadāsa Vipra."
 }

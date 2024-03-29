@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.326",
-    "h1":"Text 326",
+    "h1":"Cc. Ādi 17.326",
+    "label":"Text 326",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.326",
     "description":"The Fourteenth Chapter gives some description of the Lord's childhood pastimes. The Fifteenth briefly describes the Lord's boyhood pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.37",
-    "h1":"Text 37",
+    "h1":"Cc. Ādi 7.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.37",
     "description":"Lord Caitanya excused them all, and they merged into the ocean of devotional service, for no one can escape the unique loving network of Śrī Caitanya Mahāprabhu."
 }

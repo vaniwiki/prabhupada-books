@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.114",
-    "h1":"Text 114",
+    "h1":"Cc. Ādi 2.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.114",
     "description":"Some say that Kṛṣṇa is the incarnation of Kṣīrodakaśāyī Viṣṇu. None of these statements is impossible; each is as correct as the others."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 7.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.32",
     "description":"Therefore, to prevent them from accompanying Him and becoming unhappy, Śrī Caitanya Mahāprabhu declared their good qualities to be faults."
 }

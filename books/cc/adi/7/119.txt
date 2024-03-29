@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.119",
-    "h1":"Text 119",
+    "h1":"Cc. Ādi 7.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.119",
     "description":"\" 'The potency of Lord Viṣṇu is summarized in three categories-namely, the spiritual potency, the living entities and ignorance. The spiritual potency is full of knowledge; the living entities, although belonging to the spiritual potency, are subject to bewilderment; and the third energy, which is full of ignorance, is always visible in fruitive activities.'"
 }

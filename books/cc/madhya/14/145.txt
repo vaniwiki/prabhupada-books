@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 14.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.145",
     "description":"\"The sober heroine conceals her anger within her heart and externally speaks sweet words. When her lover embraces her, she also returns his embrace."
 }

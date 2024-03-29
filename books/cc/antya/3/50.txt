@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 3.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.50",
     "description":"\"My dear Ṭhākura Haridāsa, in this age of Kali most people are bereft of Vedic culture, and therefore they are called yavanas. They are concerned only with killing cows and brahminical culture. In this way they all engage in sinful acts."
 }

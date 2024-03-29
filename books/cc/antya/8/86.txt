@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 8.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.86",
     "description":"When they all requested very fervently that Śrī Caitanya Mahāprabhu take a full meal, He still would not do so. Instead, He responded to their request by accepting half as much as usual."
 }

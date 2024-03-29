@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 6.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.22",
     "description":"Śrī Advaita is the principal limb [aṅga] of Nārāyaṇa. Śrīmad-Bhāgavatam speaks of \"limb\" [aṅga] as \"a plenary portion\" [aṁśa] of the Lord."
 }

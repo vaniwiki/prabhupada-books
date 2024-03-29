@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.25",
-    "h1":"Text 25",
+    "h1":"Cc. Ādi 14.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.25",
     "description":"But when she returned to her household duties, the child hid from His mother and began to eat dirt."
 }

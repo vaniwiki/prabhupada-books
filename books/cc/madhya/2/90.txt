@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 2.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.90",
     "description":"I have now become too old and disturbed by invalidity. While I write, my hands tremble. I cannot remember anything, nor can I see or hear properly. Still I write, and this is a great wonder."
 }

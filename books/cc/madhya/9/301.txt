@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.301",
-    "h1":"Text 301",
+    "h1":"Cc. Madhya 9.301",
+    "label":"Text 301",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.301",
     "description":"Śrī Caitanya Mahāprabhu said, \"In My previous āśrama, Śaṅkarāraṇya was My brother and Jagannātha Miśra was My father.\""
 }

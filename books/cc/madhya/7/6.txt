@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.6",
-    "h1":"Text 6",
+    "h1":"Cc. Madhya 7.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.6",
     "description":"During the month of Caitra, while living at Jagannātha Purī, the Lord delivered Sārvabhauma Bhaṭṭācārya, and in the beginning of the next month (Vaiśākha), He decided to go to South India."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 8.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.53",
     "description":"In that temple of Govindajī, thousands of servitors always render service to the Lord in devotion. Even with thousands of mouths, one could not describe this service."
 }

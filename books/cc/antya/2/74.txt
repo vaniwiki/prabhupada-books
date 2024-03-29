@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 2.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.74",
     "description":"Then Śivānanda Sena again brought the ingredients with which to cook, and Pradyumna Brahmacārī again cooked and offered the food to Nṛsiṁhadeva."
 }

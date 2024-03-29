@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 20.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.200",
     "description":"\"In the month of Jyaiṣṭha, the predominating Deity is Trivikrama. In Āṣāḍha the Deity is Vāmana, in Śrāvaṇa the Deity is Śrīdhara, and in Bhādra the Deity is Hṛṣīkeśa."
 }

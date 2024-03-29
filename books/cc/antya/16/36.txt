@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 16.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.36",
     "description":"After she finished eating, she filled the banana leaves and bark with the seeds, picked them up and threw them in the ditch where all the refuse was thrown."
 }

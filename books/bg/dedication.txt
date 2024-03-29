@@ -8,13 +8,12 @@
 }
 ---
 
-<WRAP centeralign center 400px nopurple>
+<slide align="text-center">
 ====== Dedication ======
-
-{{ :wiki:baladeva-vidyabhusana-3.jpg?nolink |}}
 
 To
 **ŚRĪLA BALADEVA VIDYĀBHŪṢAṆA**\\
 who presented so nicely the "Govinda-bhāṣya" commentary 
 on Vedānta philosophy\\
-</WRAP>
+
+</slide>

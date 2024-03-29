@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.69",
-    "h1":"Text 69",
+    "h1":"Cc. Ādi 10.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.69",
     "description":"The thirtieth branch was Bhagavān Paṇḍita. He was an extremely dear servant of the Lord, but even previously he was a great devotee of Lord Kṛṣṇa who always kept the Lord within his heart."
 }

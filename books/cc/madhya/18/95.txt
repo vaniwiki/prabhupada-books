@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.95",
-    "h1":"Text 95",
+    "h1":"Cc. Madhya 18.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.95",
     "description":"\"Everyone has seen Lord Kṛṣṇa Himself. There is no doubt about it.\" Hearing this, Śrī Caitanya Mahāprabhu began to laugh. He then said, \"Everything is correct.\""
 }

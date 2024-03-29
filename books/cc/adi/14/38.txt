@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 14.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.38",
     "description":"In His childhood the Lord was taken away by two thieves outside His home. The Lord, however, got up on the shoulders of the thieves, and while they were thinking they were safely carrying the child to rob His ornaments, the Lord misled them, and thus instead of going to their own home the thieves came back to the home of Jagannātha Miśra."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.221",
-    "h1":"Text 221",
+    "h1":"Cc. Madhya 15.221",
+    "label":"Text 221",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.221",
     "description":"Sārvabhauma Bhaṭṭācārya also included several types of food that had been offered to Lord Jagannātha. This included sweetballs known as amṛta-guṭikā, sweet rice and cakes. All these were kept separately."
 }

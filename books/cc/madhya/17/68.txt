@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 17.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.68",
     "description":"\"My dear Bhaṭṭācārya, I have traveled very far through the forest, and I have not even slightly received any trouble."
 }

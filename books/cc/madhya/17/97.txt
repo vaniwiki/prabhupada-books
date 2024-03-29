@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.97",
-    "h1":"Text 97",
+    "h1":"Cc. Madhya 17.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.97",
     "description":"\"My dear Lord, we two think of Your lotus feet incessantly. Although You are the omniscient Supreme Personality of Godhead, You have granted us Your audience."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 10.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.143",
     "description":"\"As such, it is not befitting that the guru's servant should engage in My personal service. Yet My spiritual master has given this order. What shall I do?\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.64",
-    "h1":"Text 64",
+    "h1":"Cc. Madhya 3.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.64",
     "description":"Advaita Ācārya took Lord Nityānanda Prabhu and Lord Caitanya Mahāprabhu within the room, and the two Lords saw the arrangement of the prasāda. Śrī Caitanya Mahāprabhu was especially very much pleased."
 }

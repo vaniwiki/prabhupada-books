@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 1.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.200",
     "description":"\"If You simply deliver us by Your transcendental strength, then certainly Your name will be known as Patita-pāvana, the savior of the fallen souls."
 }

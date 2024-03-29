@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 16.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.176",
     "description":"After thinking this, the mahā-pātra immediately informed the Mohammedan secretary, \"It is a great fortune for your governor. Let him come visit Śrī Caitanya Mahāprabhu."
 }

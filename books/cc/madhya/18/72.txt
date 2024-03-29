@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 18.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.72",
     "description":"After seeing the holy place called Praskandana, Śrī Caitanya Mahāprabhu went to Dvādaśāditya. From there He went to Keśī-tīrtha, and when He saw the place where the rāsa dance had taken place, He immediately lost consciousness due to ecstatic love."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 11.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.8",
     "description":"After Nityānanda Prabhu, the greatest branch is Vīrabhadra Gosāñi, who also has innumerable branches and subbranches. It is not possible to describe them all."
 }

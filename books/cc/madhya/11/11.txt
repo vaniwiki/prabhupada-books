@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 11.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.11",
     "description":"\" 'Just as one is immediately frightened upon seeing a live serpent or even the form of a serpent, one endeavoring for self-realization should similarly fear a materialistic person and a woman. Indeed, he should not even glance at their bodily features.'"
 }

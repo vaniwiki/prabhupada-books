@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.88",
-    "h1":"Text 88",
+    "h1":"Cc. Antya 16.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.88",
     "description":"The offering of food known as gopāla-vallabha-bhoga was then given to Lord Jagannātha, and ārati was performed with the sound of the conch and the ringing of bells."
 }

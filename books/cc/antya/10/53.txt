@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 10.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.53",
     "description":"When Śrī Caitanya Mahāprabhu returned to His residence after visiting the temple of Jagannātha, He asked for a large quantity of Lord Jagannātha's prasāda, which He then distributed among His devotees so that they could eat sumptuously."
 }

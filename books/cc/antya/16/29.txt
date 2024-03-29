@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 16.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.29",
     "description":"\"Such a position may befit others, but I do not possess such spiritual power. I belong to a lower class and have not even a pinch of devotion to Kṛṣṇa.\""
 }

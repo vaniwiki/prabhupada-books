@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 10.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.4",
     "description":"The associates of Śrī Caitanya Mahāprabhu were many, but none of them should be considered lower or higher. This cannot be ascertained."
 }

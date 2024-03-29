@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 6.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.28",
     "description":"He delivered all living beings by offering the gift of kṛṣṇa-bhakti. He explained the Bhagavad-gītā and Śrīmad-Bhāgavatam in the light of devotional service."
 }

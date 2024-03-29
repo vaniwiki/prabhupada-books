@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 18.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.110",
     "description":"Speaking in this way, Śrī Caitanya Mahāprabhu fully returned to external consciousness. Seeing Svarūpa Dāmodara Gosvāmī, the Lord questioned him."
 }

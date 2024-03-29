@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.351",
-    "h1":"Text 351",
+    "h1":"Cc. Madhya 24.351",
+    "label":"Text 351",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.351",
     "description":"I have thus explained the mercy bestowed on Sanātana Gosvāmī by Śrī Caitanya Mahāprabhu. If one hears this, all moroseness in the heart will diminish."
 }

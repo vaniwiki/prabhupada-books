@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 3.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.12",
     "description":"Absorbed in such transcendental love, Lord Śrī Kṛṣṇa enjoys in Vraja with His devoted servants, friends, parents and conjugal lovers."
 }

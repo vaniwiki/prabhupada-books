@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 16.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.220",
     "description":"Nīlāmbara Cakravartī, the grandfather of Śrī Caitanya Mahāprabhu, was much worshiped by the two brothers, but Nīlāmbara Cakravartī used to treat them as his own brothers."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.87",
-    "h1":"Text 87",
+    "h1":"Cc. Madhya 10.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.87",
     "description":"Advaita Ācārya then held a festival that lasted two or three days. Thereafter, they all made a firm decision to go to Jagannātha Purī."
 }

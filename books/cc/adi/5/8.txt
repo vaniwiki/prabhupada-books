@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 5.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.8",
     "description":"Lord Balarāma is the original Saṅkarṣaṇa. He assumes five other forms to serve Lord Kṛṣṇa."
 }

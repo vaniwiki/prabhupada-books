@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 9.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.41",
     "description":"Then another person came with the news that Gopīnātha had already been set up to be thrown upon the points of the swords."
 }

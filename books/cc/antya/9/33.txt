@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.33",
-    "h1":"Text 33",
+    "h1":"Cc. Antya 9.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.33",
     "description":"\"If one is intelligent, let him perform service to the government, and after paying the government, he can spend whatever money is left.\""
 }

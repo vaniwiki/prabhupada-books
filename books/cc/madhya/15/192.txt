@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 15.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.192",
     "description":"In this way, by and by, Śrī Caitanya Mahāprabhu reduced the duration to five days. Thus for five days He regularly accepted the invitation to lunch."
 }

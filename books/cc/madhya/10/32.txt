@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 10.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.32",
     "description":"When Śrī Caitanya Mahāprabhu arrived at his house, Kāśī Miśra immediately fell down at His lotus feet and surrendered himself and all his possessions."
 }

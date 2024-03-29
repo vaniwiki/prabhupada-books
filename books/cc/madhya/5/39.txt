@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 5.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.39",
     "description":"They unanimously agreed, \"If you offer your daughter to a degraded family, your aristocracy will be lost. When people hear of this, they will make jokes and laugh at you.\""
 }

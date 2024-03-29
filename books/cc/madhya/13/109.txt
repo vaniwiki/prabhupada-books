@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 13.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.109",
     "description":"Water flowed from His eyes and sometimes through His nostrils, and foam fell from His mouth. These flowings appeared to be torrents of nectar descending from the moon."
 }

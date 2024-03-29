@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.232",
-    "h1":"Text 232",
+    "h1":"Cc. Madhya 9.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.232",
     "description":"However, their weapons fell from their hands and struck their own bodies. When some of the Bhaṭṭathāris were thus cut to pieces, the others ran away in the four directions."
 }

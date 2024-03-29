@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.255",
-    "h1":"Text 255",
+    "h1":"Cc. Madhya 16.255",
+    "label":"Text 255",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.255",
     "description":"Gadādhara Paṇḍita also came and met the Lord. Then, before all the devotees, Śrī Caitanya Mahāprabhu began to speak as follows."
 }

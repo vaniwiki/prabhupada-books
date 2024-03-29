@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.131",
-    "h1":"Text 131",
+    "h1":"Cc. Antya 12.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.131",
     "description":"\"Even when you cook in an angry mood,\" He said, \"the food is very tasteful. This shows how pleased Kṛṣṇa is with you."
 }

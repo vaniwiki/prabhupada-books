@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 6.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.75",
     "description":"\"I belong to a community of cowherd boys, and therefore I generally have many cowherd associates with Me. I am happy when we eat together in a picnic like this by the sandy bank of the river.\""
 }

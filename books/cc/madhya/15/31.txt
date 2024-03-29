@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 15.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.31",
     "description":"In great ecstasy, Śrī Caitanya Mahāprabhu returned to His residence. In this way, Śrī Caitanya Mahāprabhu, known as Gaurāṅga-sundara, performed various pastimes."
 }

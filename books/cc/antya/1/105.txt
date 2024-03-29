@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 1.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.105",
     "description":"When Śrī Caitanya Mahāprabhu recited the two important verses, He felt great pleasure; thus, as if He had five mouths, He began to praise His devotee."
 }

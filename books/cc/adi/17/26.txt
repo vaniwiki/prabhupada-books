@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 17.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.26",
     "description":"\"To chant the holy name always, one should be humbler than the grass in the street and devoid of all desire for personal honor, but one should offer others all respectful obeisances."
 }

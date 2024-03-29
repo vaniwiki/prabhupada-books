@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 7.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.47",
     "description":"\"After many births, due to some pious activity I got Your association. Now providence is breaking this invaluable association."
 }

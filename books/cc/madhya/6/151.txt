@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 6.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.151",
     "description":"\"All these mantras confirm that the Absolute Truth is personal, but the Māyāvādīs, throwing away the direct meaning, interpret the Absolute Truth as impersonal."
 }

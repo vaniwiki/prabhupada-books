@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 2.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.100",
     "description":"Thus Bhagavān Ācārya, greatly ashamed and fearful, remained silent. The next day, he asked Gopāla Bhaṭṭācārya to return to his own district."
 }

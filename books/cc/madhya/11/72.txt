@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 11.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.72",
     "description":"\"Actually I do not know any of them, although I have a desire to know them. Since Gopīnātha Ācārya knows them all, he will give you their names.\""
 }

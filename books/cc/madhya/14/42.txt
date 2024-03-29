@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 14.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.42",
     "description":"At that time, Śrī Caitanya Mahāprabhu sat down with His personal associates and fed everyone of them very sumptuously until they were filled to the necks."
 }

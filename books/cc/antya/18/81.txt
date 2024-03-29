@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 18.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.81",
     "description":"\"Lord Kṛṣṇa was in the water of the Yamunā in the company of the gopīs, headed by Śrīmatī Rādhārāṇī. They were performing pastimes in a great sporting manner."
 }

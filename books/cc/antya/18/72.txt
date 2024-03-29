@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 18.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.72",
     "description":"The Lord's body was stretched, and His skin was slack and hanging loose. To lift Him and take Him the long distance home would have been impossible."
 }

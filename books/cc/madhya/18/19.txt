@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 18.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.19",
     "description":"Mad with ecstatic love, Śrī Caitanya Mahāprabhu began to dance before the Harideva Deity. Hearing of the Lord's wonderful activities, all the people came to see Him."
 }

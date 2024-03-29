@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.221",
-    "h1":"Text 221",
+    "h1":"Cc. Madhya 18.221",
+    "label":"Text 221",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.221",
     "description":"Just as the Lord inundated South India on His tour there, He also inundated the western part of the country with love of Godhead."
 }

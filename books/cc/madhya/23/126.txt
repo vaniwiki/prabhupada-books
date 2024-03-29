@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 23.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.126",
     "description":"Whoever hears these instructions given to Sanātana Gosvāmī by the Lord comes very soon to realize love of God, Kṛṣṇa."
 }

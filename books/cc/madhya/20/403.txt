@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.403",
-    "h1":"Text 403",
+    "h1":"Cc. Madhya 20.403",
+    "label":"Text 403",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.403",
     "description":"\"Thus I have briefly described Kṛṣṇa's manifestation of transcendental forms. This subject matter is so large that even Lord Ananta cannot describe it fully."
 }

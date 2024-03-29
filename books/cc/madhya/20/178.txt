@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 20.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.178",
     "description":"\"When one compares the beauty, opulence, sweetness and intellectual pastimes of Vāsudeva, the warrior, to Kṛṣṇa, the cowherd boy, son of Nanda Mahārāja, one sees that Kṛṣṇa's attributes are more pleasant."
 }

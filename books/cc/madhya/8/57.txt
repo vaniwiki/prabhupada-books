@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 8.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.57",
     "description":"Śrī Caitanya Mahāprabhu ordered Rāmānanda Rāya to recite a verse from the revealed scriptures concerning the ultimate goal of life. Rāmānanda replied that if one executes the prescribed duties of his social position, he awakens his original Kṛṣṇa consciousness."
 }

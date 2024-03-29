@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.241",
-    "h1":"Text 241",
+    "h1":"Cc. Madhya 25.241",
+    "label":"Text 241",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.241",
     "description":"After taking sannyāsa at the age of twenty-four, Śrī Caitanya Mahāprabhu lived another twenty-four years. For six of these years, He traveled extensively throughout India, sometimes going to Jagannātha Purī and sometimes leaving. After traveling for six years, the Lord fixed His residence at Jagannātha Purī and stayed there for the eighteen remaining years of His life. During these eighteen years He mainly chanted Hare Kṛṣṇa with His devotees."
 }

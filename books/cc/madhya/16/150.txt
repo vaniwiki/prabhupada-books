@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 16.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.150",
     "description":"When Śrī Caitanya Mahāprabhu and His party arrived at Yājapura, the Lord asked the two government officers who had come with Him to return."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 15.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.58",
     "description":"\"While she was thus thinking and crying, I immediately went there with great haste and ate everything. Seeing the dish empty, she wiped her tears away."
 }

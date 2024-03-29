@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 7.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.28",
     "description":"\"You should all therefore remain here in Nīlācala for some days while I tour the sacred places of pilgrimage alone.\""
 }

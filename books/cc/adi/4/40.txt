@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 4.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.40",
     "description":"Thus He spread kīrtana even among the untouchables. He wove a wreath of the holy name and prema with which He garlanded the entire material world."
 }

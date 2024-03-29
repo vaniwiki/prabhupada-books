@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 1.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.26",
     "description":"Śrī Caitanya Mahāprabhu went with them to see the Lord in the temple, and on that day He also took lunch in the company of all those devotees."
 }

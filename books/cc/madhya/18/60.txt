@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 18.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.60",
     "description":"\"There is a father and mother with well-built bodies, and between them is a very beautiful child who is curved in three places.\""
 }

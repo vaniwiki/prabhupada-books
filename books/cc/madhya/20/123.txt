@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 20.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.123",
     "description":"\"The forgetful conditioned soul is educated by Kṛṣṇa through the Vedic literatures, the realized spiritual master and the Supersoul. Through these, he can understand the Supreme Personality of Godhead as He is, and he can understand that Lord Kṛṣṇa is his eternal master and deliverer from the clutches of māyā. In this way one can acquire real knowledge of his conditioned life and can come to understand how to attain liberation."
 }

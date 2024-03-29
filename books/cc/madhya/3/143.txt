@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 3.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.143",
     "description":"Understanding that Lord Caitanya had accepted the renounced order of life, Śacīmātā, crying, said to the Lord, \"My darling Nimāi, do not be cruel like Viśvarūpa, Your elder brother.\""
 }

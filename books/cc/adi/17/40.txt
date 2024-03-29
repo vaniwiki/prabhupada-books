@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 17.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.40",
     "description":"He placed a pot of wine beside all this, and in the morning when Śrīvāsa Ṭhākura opened his door he saw this paraphernalia."
 }

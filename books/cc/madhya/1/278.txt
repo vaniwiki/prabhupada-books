@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.278",
-    "h1":"Text 278",
+    "h1":"Cc. Madhya 1.278",
+    "label":"Text 278",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.278",
     "description":"While the people were offering their prayers unto the Lord, Śrīvāsa Ṭhākura sarcastically said to the Lord, \"At home, You wanted to be covered. Why have You exposed Yourself outside?\""
 }

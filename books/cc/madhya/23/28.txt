@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 23.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.28",
     "description":"\"A fully surrendered devotee always hopes that Lord Kṛṣṇa will be kind to him. This hope is very firm in him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 8.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.178",
     "description":"\"Śrīmatī Rādhārāṇī's bedstead is pride itself, and it is situated in the abode of Her bodily aroma. She is always seated there thinking of Kṛṣṇa's association."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.237",
-    "h1":"Text 237",
+    "h1":"Cc. Antya 6.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.237",
     "description":"\"Do not expect honor, but offer all respect to others. Always chant the holy name of Lord Kṛṣṇa, and within your mind render service to Rādhā and Kṛṣṇa in Vṛndāvana."
 }

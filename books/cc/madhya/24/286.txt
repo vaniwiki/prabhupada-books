@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.286",
-    "h1":"Text 286",
+    "h1":"Cc. Madhya 24.286",
+    "label":"Text 286",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.286",
     "description":"\"One who always engages in the service of the Supreme Personality of Godhead is called ātmārāma. There are two types of ātmārāma. One is an ātmārāma engaged in regulative devotional service, and the other is an ātmārāma engaged in spontaneous devotional service."
 }

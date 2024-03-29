@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 7.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.109",
     "description":"Hearing this, Vallabha Bhaṭṭa was speechless. He returned home greatly unhappy and began to consider thus."
 }

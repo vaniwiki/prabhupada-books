@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 17.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.63",
     "description":"Each day and night, Śrī Caitanya Mahāprabhu would become deranged in this way and talk like a madman."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 15.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.179",
     "description":"\"If a person possessing millions of wish-fulfilling cows loses one she-goat, he does not consider the loss. Kṛṣṇa owns all six opulences in full. If the entire material energy is destroyed, what does He lose?\""
 }

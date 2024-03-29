@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.158",
-    "h1":"Text 158",
+    "h1":"Cc. Antya 10.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.158",
     "description":"Thus I have described how Śrī Caitanya Mahāprabhu accepted invitations and how He accepted and tasted the prasāda offered by His devotees."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 8.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.8",
     "description":"Formerly kings like Jarāsandha [the father-in-law of Kaṁsa] strictly followed the Vedic rituals, thus worshiping Lord Viṣṇu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 2.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.31",
     "description":"\"You are chanting the Gaura-gopāla mantra composed of four syllables. Now please give up the doubts that have resided within you.\""
 }

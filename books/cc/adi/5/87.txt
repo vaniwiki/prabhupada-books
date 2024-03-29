@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 5.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.87",
     "description":"\"This is the opulence of the Lord. Although situated within the material nature, He is never affected by the modes of nature. Similarly, those who have surrendered to Him and have fixed their intelligence upon Him are not influenced by the modes of nature.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.157",
-    "h1":"Text 157",
+    "h1":"Cc. Madhya 9.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.157",
     "description":"Veṅkaṭa Bhaṭṭa then said, \"I am an ordinary fallen living entity, but You are Kṛṣṇa, the Supreme Personality of Godhead Himself."
 }

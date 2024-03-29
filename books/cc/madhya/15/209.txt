@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 15.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.209",
     "description":"There were a number of pots made of the bark of banana trees and the leaves of the keyā plant. These pots were filled with various cooked vegetables and placed on all sides of the leaf."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.152",
-    "h1":"Text 152",
+    "h1":"Cc. Ādi 5.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.152",
     "description":"When Lord Kṛṣṇa appeared, He [Balarāma] became His elder brother to serve Him to His heart's content and make Him enjoy all sorts of happiness."
 }

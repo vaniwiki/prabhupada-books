@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.171",
-    "h1":"Text 171",
+    "h1":"Cc. Madhya 11.171",
+    "label":"Text 171",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.171",
     "description":"Both submitted to Lord Śrī Caitanya Mahāprabhu, \"Please give us orders so that we may make proper arrangements to accommodate all the Vaiṣṇavas."
 }

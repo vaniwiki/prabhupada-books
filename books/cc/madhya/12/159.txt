@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 12.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.159",
     "description":"In this way all the devotees sat down to take their lunch in consecutive lines, one beside the other."
 }

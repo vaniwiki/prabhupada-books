@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 4.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.13",
     "description":"The Deity of Gopīnātha in the temple at Remuṇā was very attractive. Lord Caitanya visited the temple and offered His obeisances with great devotion."
 }

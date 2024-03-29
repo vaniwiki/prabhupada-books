@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 8.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.5",
     "description":"By remembering the lotus feet of the Pañca-tattva, a dumb man can become a poet, a lame man can cross mountains, and a blind man can see the stars in the sky."
 }

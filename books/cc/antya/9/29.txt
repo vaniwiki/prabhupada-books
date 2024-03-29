@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 9.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.29",
     "description":"\"The King replied, 'You can adopt whatever means you think best. Any device by which you can somehow or other realize the money is all right.'"
 }

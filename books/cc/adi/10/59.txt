@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 10.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.59",
     "description":"In his body there were symptoms of āvirbhāva. Such appearances are uncommon, but Lord Caitanya Mahāprabhu displayed many such pastimes through His different features."
 }

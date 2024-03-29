@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.176",
-    "h1":"Text 176",
+    "h1":"Cc. Antya 1.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.176",
     "description":"When Śrīla Rāmānanda Rāya further inquired about the second introductory verse, Śrīla Rūpa Gosvāmī was somewhat hesitant, but nevertheless he began to read."
 }

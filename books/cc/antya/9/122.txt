@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 9.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.122",
     "description":"\"I made Rāmānanda Rāya the governor of Rājamahendrī. There is practically no account of whatever money he took and distributed in that position."
 }

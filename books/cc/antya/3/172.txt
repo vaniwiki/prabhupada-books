@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.172",
-    "h1":"Text 172",
+    "h1":"Cc. Antya 3.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.172",
     "description":"One day Balarāma Ācārya requested Haridāsa Ṭhākura with great humility to come to the assembly of the Majumadāras, Hiraṇya and Govardhana. Thus Balarāma Ācārya went there with Haridāsa Ṭhākura."
 }

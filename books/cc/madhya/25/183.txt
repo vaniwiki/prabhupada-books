@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.183",
-    "h1":"Text 183",
+    "h1":"Cc. Madhya 25.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.183",
     "description":"Śrī Caitanya Mahāprabhu told Sanātana Gosvāmī, \"All My devotees who go to Vṛndāvana are generally very poor. They each have nothing with them but a torn quilt and a small waterpot. Therefore, Sanātana, you should give them shelter and maintain them.\""
 }

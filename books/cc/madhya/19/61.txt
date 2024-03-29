@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 19.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.61",
     "description":"At that time, Śrī Vallabha Bhaṭṭa was staying at Āḍāila-grāma, and when he heard that Śrī Caitanya Mahāprabhu had arrived, he went to His place to see Him."
 }

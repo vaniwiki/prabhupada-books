@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.141",
-    "h1":"Text 141",
+    "h1":"Cc. Ādi 5.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.141",
     "description":"\"What is the value of a throne to Lord Kṛṣṇa? The masters of the various planetary systems accept the dust of His lotus feet on their crowned heads. That dust makes the holy places sacred, and even Lord Brahmā, Lord Śiva, Lakṣmī and I Myself, who are all portions of His plenary portion, eternally carry that dust on our heads.\""
 }

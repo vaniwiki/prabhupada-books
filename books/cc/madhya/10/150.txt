@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 10.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.150",
     "description":"They all remained with Govinda to serve Śrī Caitanya Mahāprabhu; therefore no one could estimate the good fortune of Govinda."
 }

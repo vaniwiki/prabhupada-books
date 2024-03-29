@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 24.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.119",
     "description":"\"In the Eleventh Canto of Śrīmad-Bhāgavatam there is a full description of the devotional service of the nine Yogendras, who rendered devotional service because they were attracted by the Lord's transcendental qualities."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 9.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.5",
     "description":"It is by the mercy of all these Vaiṣṇavas and gurus that I attempt to write about the pastimes and qualities of Lord Caitanya Mahāprabhu. Whether I know or know not, it is for self-purification that I write this book."
 }

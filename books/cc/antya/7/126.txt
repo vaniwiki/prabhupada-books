@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 7.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.126",
     "description":"Vallabha Bhaṭṭa admitted, \"I am a great fool, and indeed I have acted like a fool by trying to demonstrate to You my learning."
 }

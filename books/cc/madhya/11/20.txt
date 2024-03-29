@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 11.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.20",
     "description":"\"When I submitted this proposal, the King immediately became very much pleased upon hearing Your name. Indeed, he instantly arose from his throne and embraced me."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 24.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.139",
     "description":"\"One does not attain liberation without rendering devotional service. Liberation is only attained by devotional service."
 }

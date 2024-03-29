@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 13.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.26",
     "description":"As Lord Jagannātha rode in His car and saw the beauty on both sides, His mind was filled with pleasure."
 }

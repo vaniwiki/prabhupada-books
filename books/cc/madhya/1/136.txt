@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.136",
-    "h1":"Text 136",
+    "h1":"Cc. Madhya 1.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.136",
     "description":"Śrī Caitanya Mahāprabhu desired to meet all the devotees of Bengal every year. Therefore He ordered them to come to see the Ratha-yātrā festival every year."
 }

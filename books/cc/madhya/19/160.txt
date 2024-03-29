@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 19.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.160",
     "description":"\"If one does not distinguish between the bhakti-latā creeper and the other creepers, the sprinkling of water is misused because the other creepers are nourished while the bhakti-latā creeper is curtailed."
 }

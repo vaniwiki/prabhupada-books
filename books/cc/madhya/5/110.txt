@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 5.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.110",
     "description":"When the people arrived, they were very pleased to see the beauty of Gopāla, and when they heard that He had actually walked there, they were all surprised."
 }

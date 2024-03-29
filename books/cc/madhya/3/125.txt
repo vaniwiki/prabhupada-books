@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 3.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.125",
     "description":"\" 'My feeling is like this: My mind burns day and night, and I can get no rest. If there were someplace I could go to meet Kṛṣṇa, I would immediately fly there.' \""
 }

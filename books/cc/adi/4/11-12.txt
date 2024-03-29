@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.11-12",
-    "h1":"Text 11-12",
+    "h1":"Cc. Ādi 4.11-12",
+    "label":"Text 11-12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.11-12",
     "description":"Lord Nārāyaṇa, the four primary expansions [Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha], Matsya and the other līlā incarnations, the yuga-avatāras, the manv-antara incarnations and as many other incarnations as there are-all descend in the body of Lord Kṛṣṇa. In this way the complete Supreme Godhead, Lord Kṛṣṇa Himself, appears."
 }

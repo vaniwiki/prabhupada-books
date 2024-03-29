@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 18.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.220",
     "description":"Whoever met Śrī Caitanya Mahāprabhu became a Vaiṣṇava, and whoever met that Vaiṣṇava also became a Vaiṣṇava. In this way, all the towns and villages one after the other became Vaiṣṇava."
 }

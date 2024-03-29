@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 7.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.145",
     "description":"Lord Śrī Caitanya Mahāprabhu sometimes desired to see Gadādhara Paṇḍita's affectionate anger, but because of knowledge of the Lord's opulences, his anger was never invoked."
 }

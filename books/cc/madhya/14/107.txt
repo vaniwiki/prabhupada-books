@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 14.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.107",
     "description":"\"Tomorrow will be the function of Herā-pañcamī or Lakṣmī-vijaya. Hold this festival in a way that it has never been held before.\""
 }

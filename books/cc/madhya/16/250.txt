@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.250",
-    "h1":"Text 250",
+    "h1":"Cc. Madhya 16.250",
+    "label":"Text 250",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.250",
     "description":"Śrīmatī Śacīdevī was sent back to Navadvīpa, and the Lord and His devotees started for Jagannātha Purī, Nīlādri."
 }

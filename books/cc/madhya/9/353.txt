@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.353",
-    "h1":"Text 353",
+    "h1":"Cc. Madhya 9.353",
+    "label":"Text 353",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.353",
     "description":"After offering food to Śrī Caitanya Mahāprabhu, Sārvabhauma Bhaṭṭācārya made Him lie down to rest, and he personally began to massage the legs of the Lord."
 }

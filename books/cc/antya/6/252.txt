@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.252",
-    "h1":"Text 252",
+    "h1":"Cc. Antya 6.252",
+    "label":"Text 252",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.252",
     "description":"\"Śrī Caitanya Mahāprabhu has placed him under the charge of Svarūpa Dāmodara. Raghunātha dāsa has become just like the life of all the Lord's devotees."
 }

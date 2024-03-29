@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 20.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.45",
     "description":"In that mood, the mind of Śrīmatī Rādhārāṇī was agitated, and therefore She spoke a verse of advanced devotion to Her gopī friends."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.107",
-    "h1":"Text 107",
+    "h1":"Cc. Antya 20.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.107",
     "description":"The Third Chapter also tells how Śrī Caitanya Mahāprabhu delivered everyone by bestowing upon the universe the holy name of the Lord, and it describes how Haridāsa Ṭhākura established the glories of the holy name by his practical example."
 }

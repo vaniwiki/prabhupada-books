@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 2.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.86",
     "description":"He sought the shelter of Śrī Caitanya Mahāprabhu with full surrender. Sometimes he would invite the Lord to dine at his home."
 }

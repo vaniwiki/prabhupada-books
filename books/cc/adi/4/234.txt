@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.234",
-    "h1":"Text 234",
+    "h1":"Cc. Ādi 4.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.234",
     "description":"All these conclusions are like the newly grown twigs of a mango tree; they are always pleasing to the devotees, who in this way resemble cuckoo birds."
 }

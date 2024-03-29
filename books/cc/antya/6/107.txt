@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.107",
-    "h1":"Text 107",
+    "h1":"Cc. Antya 6.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.107",
     "description":"Lord Nityānanda Prabhu sat down for supper with His personal associates and made a sitting place on His right side for Śrī Caitanya Mahāprabhu."
 }

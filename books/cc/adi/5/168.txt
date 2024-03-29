@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.168",
-    "h1":"Text 168",
+    "h1":"Cc. Ādi 5.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.168",
     "description":"One respectable brāhmaṇa named Śrī Guṇārṇava Miśra was serving the Deity."
 }

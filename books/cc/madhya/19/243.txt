@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.243",
-    "h1":"Text 243",
+    "h1":"Cc. Madhya 19.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.243",
     "description":"The brāhmaṇa from Deccan took Rūpa Gosvāmī to his home, and thereafter the two brothers departed for Vṛndāvana."
 }

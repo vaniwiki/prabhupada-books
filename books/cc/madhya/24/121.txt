@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.121",
-    "h1":"Text 121",
+    "h1":"Cc. Madhya 24.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.121",
     "description":"\"Those who wish to merge into the impersonal Brahman are also divided into three categories—those desiring to be liberated, those already liberated and those who have realized Brahman."
 }

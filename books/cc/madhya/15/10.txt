@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 15.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.10",
     "description":"After being worshiped by Advaita Ācārya, Śrī Caitanya Mahāprabhu would take the dish containing flowers and tulasī and, with whatever paraphernalia remained, would also worship Advaita Ācārya."
 }

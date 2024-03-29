@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 11.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.48",
     "description":"Mahārāja Pratāparudra continued, \"If Śrī Caitanya Mahāprabhu is determined not to see me, then I am determined to give up my life if I do not see Him."
 }

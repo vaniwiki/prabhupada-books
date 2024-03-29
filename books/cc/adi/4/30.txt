@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 4.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.30",
     "description":"\"Neither the gopīs nor I shall notice this, for our minds will always be entranced by one another's beauty and qualities."
 }

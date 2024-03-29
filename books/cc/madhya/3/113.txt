@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 3.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.113",
     "description":"When Advaita Ācārya began to dance, Nityānanda Prabhu began dancing behind Him. Haridāsa Ṭhākura, being very pleased, also began dancing behind Him."
 }

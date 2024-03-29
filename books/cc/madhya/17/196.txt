@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 17.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.196",
     "description":"Becoming pacified, Śrī Caitanya Mahāprabhu began to caress the cows, and the cows, being unable to give up His company, went with Him."
 }

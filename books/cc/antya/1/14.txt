@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 1.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.14",
     "description":"Upon hearing this news, mother Śacī and all the other devotees of Navadvīpa were very joyful, and they all departed together for Nīlācala [Jagannātha Purī]."
 }

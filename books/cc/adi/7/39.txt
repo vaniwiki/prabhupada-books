@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.39",
-    "h1":"Text 39",
+    "h1":"Cc. Ādi 7.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.39",
     "description":"All were converted into devotees of Lord Caitanya, even the mlecchas and yavanas. Only the impersonalist followers of Śaṅkarācārya evaded Him."
 }

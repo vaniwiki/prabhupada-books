@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 15.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.169",
     "description":"\"Whosever welfare you desire immediately becomes a Vaiṣṇava, and Kṛṣṇa delivers all Vaiṣṇavas from the reactions of their past sinful activities."
 }

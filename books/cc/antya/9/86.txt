@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 9.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.86",
     "description":"\"When Gopīnātha Paṭṭanāyaka was lifted onto the cāṅga,\" he said, \"all his servants went to inform Śrī Caitanya Mahāprabhu."
 }

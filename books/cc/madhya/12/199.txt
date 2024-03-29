@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 12.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.199",
     "description":"After this, Śrī Caitanya Mahāprabhu offered flower garlands and sandalwood pulp to all His devoted personal associates."
 }

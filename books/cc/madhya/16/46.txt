@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 16.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.46",
     "description":"In the previous year, everyone had his own particular residence, and the same residences were again offered. Thus they all went to take rest."
 }

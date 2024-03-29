@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 6.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.148",
     "description":"Thereupon, Rāghava Paṇḍita took Raghunātha dāsa to his home. After inducing him to see the Deity, he gave Raghunātha dāsa a garland and sandalwood pulp."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 20.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.106",
     "description":"In the Third Chapter is a description of the forceful glories of Haridāsa Ṭhākura. That chapter also mentions how Dāmodara Paṇḍita spoke words of criticism to Śrī Caitanya Mahāprabhu."
 }

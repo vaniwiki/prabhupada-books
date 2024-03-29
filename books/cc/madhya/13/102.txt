@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 13.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.102",
     "description":"His skin erupted with goose pimples, and the hairs of His body stood on end. His body resembled the śimulī [silk cotton tree], all covered with thorns."
 }

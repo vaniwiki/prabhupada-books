@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.66",
-    "h1":"Text 66",
+    "h1":"Cc. Ādi 8.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.66",
     "description":"Govinda Gosāñi, the priest engaged in the service of Lord Govinda in Vṛndāvana, was a disciple of Kāśīśvara Gosāñi. There was no servant more dear to the Govinda Deity."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 18.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.4",
     "description":"During a night of the autumn season when a full moon brightened everything, Śrī Caitanya Mahāprabhu wandered all night long with His devotees."
 }

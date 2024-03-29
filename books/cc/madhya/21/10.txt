@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 21.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.10",
     "description":"\"The spiritual qualities of Kṛṣṇa are also unlimited. Great personalities like Lord Brahmā, Lord Śiva and the four Kumāras cannot estimate the spiritual qualities of the Lord."
 }

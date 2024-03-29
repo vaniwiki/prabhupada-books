@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 14.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.67",
     "description":"During the four months of the rainy season, the remaining devotees extended invitations to the Lord for one day each. In this way they shared invitations."
 }

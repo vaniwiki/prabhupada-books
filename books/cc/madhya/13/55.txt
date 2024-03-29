@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 13.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.55",
     "description":"Lord Jagannātha was very pleased by the saṅkīrtana, and He brought His car to a standstill just to see the performance."
 }

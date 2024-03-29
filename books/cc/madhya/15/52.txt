@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 15.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.52",
     "description":"\"I am staying here at Jagannātha Purī, Nīlācala, to comply with her orders. However, at intervals I shall go see her lotus feet."
 }

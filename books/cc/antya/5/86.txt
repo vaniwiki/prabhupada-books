@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 5.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.86",
     "description":"Śrī Caitanya Mahāprabhu exhibited the glories of the holy name of the Lord through Haridāsa Ṭhākura, who was born in a Mohammedan family. Similarly, He exhibited the essence of devotional service through Sanātana Gosvāmī, who had almost been converted into a Mohammedan."
 }

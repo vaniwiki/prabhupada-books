@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.123",
-    "h1":"Text 123",
+    "h1":"Cc. Ādi 13.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.123",
     "description":"Anyone who attains a human body but does not take to the cult of Śri Caitanya Mahāprabhu is baffled in his opportunity. Amṛtadhunī is a flowing river of the nectar of devotional service. If after getting a human body one drinks the water in a poison pit of material happiness instead of the water of such a river, it would be better for him not to have lived, but to have died long ago."
 }

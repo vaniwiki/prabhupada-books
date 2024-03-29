@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.253",
-    "h1":"Text 253",
+    "h1":"Cc. Madhya 1.253",
+    "label":"Text 253",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.253",
     "description":"Jagadānanda, Bhagavān, Govinda, Kāśīśvara, Paramānanda Purī and Svarūpa Dāmodara were other devotees who also lived with the Lord."
 }

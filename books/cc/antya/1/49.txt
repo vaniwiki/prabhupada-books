@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 1.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.49",
     "description":"Śrī Caitanya Mahāprabhu then sat down with Haridāsa and Rūpa Gosvāmī. They inquired from one another about auspicious news, and then continued to talk together for some time."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 2.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.76",
     "description":"One day, in the presence of all the devotees, the Lord raised these topics concerning Nṛsiṁhānanda Brahmacārī and praised his transcendental qualities."
 }

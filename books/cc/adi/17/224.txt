@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.224",
-    "h1":"Text 224",
+    "h1":"Cc. Ādi 17.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.224",
     "description":"Śrī Caitanya Mahāprabhu went back to perform kīrtana, and the Kazi, his mind jubilant, went with Him."
 }

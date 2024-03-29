@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 16.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.41",
     "description":"Then, for the second time, Śrī Caitanya Mahāprabhu sent garlands through Svarūpa Dāmodara and other personal associates. Thus they went forward, sent by the son of mother Śacī."
 }

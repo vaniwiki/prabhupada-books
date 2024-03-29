@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 16.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.140",
     "description":"\"Your wanting to go with Me is simply a desire for sense gratification. In this way, you are breaking two religious principles, and because of this I am very unhappy."
 }

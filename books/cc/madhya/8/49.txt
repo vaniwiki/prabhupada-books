@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 8.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.49",
     "description":"Lord Śrī Caitanya Mahāprabhu accepted the brāhmaṇa's invitation, knowing him to be a devotee, and, slightly smiling, spoke as follows to Rāmānanda Rāya."
 }

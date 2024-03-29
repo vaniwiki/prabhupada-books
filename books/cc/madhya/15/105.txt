@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 15.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.105",
     "description":"Upon hearing this, Satyarāja said, \"How can I recognize a Vaiṣṇava? Please let me know what a Vaiṣṇava is. What are his common symptoms?\""
 }

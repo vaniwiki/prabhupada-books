@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 18.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.52",
     "description":"\"The body of this ghost is very long, five to seven cubits. Each of its arms and legs is as much as three cubits long."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 1.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.95",
     "description":"As soon as Haridāsa Ṭhākura and Rūpa Gosvāmī saw the Lord coming, they both stood up and then fell down to offer Him their respectful obeisances. Śrī Caitanya Mahāprabhu embraced them both and then sat down."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.211",
-    "h1":"Text 211",
+    "h1":"Cc. Madhya 16.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.211",
     "description":"The Lord then visited the village known as Rāmakeli and the place known as Kānāi Nāṭaśālā. From there He returned to Śāntipura."
 }

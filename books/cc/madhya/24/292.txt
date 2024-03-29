@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.292",
-    "h1":"Text 292",
+    "h1":"Cc. Madhya 24.292",
+    "label":"Text 292",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.292",
     "description":"\"On the path of spontaneous devotional service, there are also sixteen categories of devotees. Thus there are thirty-two types of ātmārāmas enjoying the Supreme Lord on these two paths."
 }

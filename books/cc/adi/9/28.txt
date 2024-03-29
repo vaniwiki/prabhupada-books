@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 9.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.28",
     "description":"All the wealth in the three worlds cannot equal the value of one such nectarean fruit of devotional service."
 }

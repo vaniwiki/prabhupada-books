@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.87",
-    "h1":"Text 87",
+    "h1":"Cc. Antya 15.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.87",
     "description":"All the ecstatic symptoms, such as bhāvodaya, bhāva-sandhi and bhāva-śābalya, awakened in the body of Śrī Caitanya Mahāprabhu. A great fight arose between one emotion and another, and each of them became prominent."
 }

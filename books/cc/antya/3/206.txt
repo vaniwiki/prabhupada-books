@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.206",
-    "h1":"Text 206",
+    "h1":"Cc. Antya 3.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.206",
     "description":"\"One cannot understand the glories of the holy name simply by logic and argument. Therefore this man cannot possibly understand the glories of the holy name."
 }

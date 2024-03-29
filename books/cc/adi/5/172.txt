@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.172",
-    "h1":"Text 172",
+    "h1":"Cc. Ādi 5.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.172",
     "description":"At the end of the festival Mīnaketana Rāmadāsa went away, offering his blessings to everyone. At that time he had some controversy with my brother."
 }

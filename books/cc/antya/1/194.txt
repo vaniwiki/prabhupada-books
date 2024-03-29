@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.194",
-    "h1":"Text 194",
+    "h1":"Cc. Antya 1.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.194",
     "description":"The wonderful descriptions of Rūpa Gosvāmī are superb arrangements to express loving affairs. Hearing them will plunge the heart and ears of everyone into a whirlpool of transcendental bliss."
 }

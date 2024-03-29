@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.38",
-    "h1":"Text 38",
+    "h1":"Cc. Antya 10.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.38",
     "description":"She then wrapped and sealed each and every bag with great attention. The bags were carried by three bearers, one after another."
 }

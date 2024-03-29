@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 14.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.68",
     "description":"They almost died when they saw Śrī Caitanya Mahāprabhu with His mouth full of saliva and foam and His eyes turned upward."
 }

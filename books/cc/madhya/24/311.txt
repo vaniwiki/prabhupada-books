@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.311",
-    "h1":"Text 311",
+    "h1":"Cc. Madhya 24.311",
+    "label":"Text 311",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.311",
     "description":"\"I have thus explained sixty different meanings, and all of them aim at the service of Lord Kṛṣṇa. After giving so many examples, that is the only meaning."
 }

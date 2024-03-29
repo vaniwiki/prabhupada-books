@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 3.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.100",
     "description":"Haridāsa Ṭhākura constructed a cottage in a solitary forest. There he planted a tulasī plant, and in front of the tulasī he would chant the holy name of the Lord 300,000 times daily. He chanted throughout the entire day and night."
 }

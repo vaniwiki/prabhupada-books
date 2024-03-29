@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.320",
-    "h1":"Text 320",
+    "h1":"Cc. Madhya 9.320",
+    "label":"Text 320",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.320",
     "description":"When Rāmānanda Rāya fell flat, touching the lotus feet of Śrī Caitanya Mahāprabhu, the Lord immediately raised him to his feet and embraced him."
 }

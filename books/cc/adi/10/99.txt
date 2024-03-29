@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.99",
-    "h1":"Text 99",
+    "h1":"Cc. Ādi 10.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.99",
     "description":"As a daily duty, he regularly offered one thousand obeisances to the Lord, chanted at least one hundred thousand holy names and offered obeisances to two thousand Vaiṣṇavas."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 3.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.9",
     "description":"The present Manu, who is the seventh, is called Vaivasvata [the son of Vivasvān]. Twenty-seven divya-yugas [27 x 4,320,000 solar years] of his age have now passed."
 }

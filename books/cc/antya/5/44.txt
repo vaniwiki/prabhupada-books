@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 5.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.44",
     "description":"\"But I can make a guess in terms of directions from the śāstra. Śrīmad Bhāgavatam, the Vedic scripture, gives the direct evidence in this matter."
 }

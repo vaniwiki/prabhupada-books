@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 3.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.79",
     "description":"Nityānanda Prabhu said, \"I have undergone fasting for three days continuously. Today I hoped to break My fast.\""
 }

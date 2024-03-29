@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 5.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.89",
     "description":"\"My dear Lord, I am not thinking to become happy by getting the daughter as a bride. I am simply thinking that the brāhmaṇa has broken his promise, and that is giving me great pain.\""
 }

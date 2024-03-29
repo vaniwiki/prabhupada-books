@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 24.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.65",
     "description":"\"When the conjunction ca [and] and the adverb api [although] are added to this verse, the verse can assume whatever meaning one wants to give it."
 }

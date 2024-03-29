@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 5.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.69",
     "description":"In great happiness he worshiped the lotus feet of Śrī Caitanya Mahāprabhu. The Lord inquired, \"Have you heard topics about Kṛṣṇa?\""
 }

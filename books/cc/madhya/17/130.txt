@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 17.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.130",
     "description":"\"The holy name of Kṛṣṇa is not manifest in their mouths because they are offenders unto Kṛṣṇa, the Supreme Personality of Godhead, who is identical with His holy name."
 }

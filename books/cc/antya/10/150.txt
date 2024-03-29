@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.150",
-    "h1":"Text 150",
+    "h1":"Cc. Antya 10.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.150",
     "description":"Śrī Caitanya Mahāprabhu said, \"This boy knows My mind. Therefore I am very satisfied to keep his invitation.\""
 }

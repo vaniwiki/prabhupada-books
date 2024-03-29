@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 5.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.60",
     "description":"\"There was no one besides this man with my father. Giving him an intoxicant known as dhuturā to eat, this rogue made my father mad."
 }

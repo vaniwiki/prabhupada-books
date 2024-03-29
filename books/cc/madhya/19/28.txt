@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 19.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.28",
     "description":"At this time, the Nawab was going to attack the province of Orissa, and he told Sanātana Gosvāmī, \"Come along with me.\""
 }

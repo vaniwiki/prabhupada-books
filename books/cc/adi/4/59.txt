@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 4.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.59",
     "description":"Śrīmatī Rādhikā is the transformation of Kṛṣṇa's love. She is His internal energy called hlādinī."
 }

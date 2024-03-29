@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 17.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.58",
     "description":"Whenever Śrī Caitanya Mahāprabhu visited a village, a few brāhmaṇas-five or seven-would come and extend invitations to the Lord."
 }

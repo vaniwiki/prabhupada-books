@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 15.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.56",
     "description":"\"Standing there with His flute to His lips, Kṛṣṇa, who enchants millions upon millions of Cupids, attracted the eyes and minds of all the world with His unlimited beauty.\""
 }

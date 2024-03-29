@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.143",
-    "h1":"Text 143",
+    "h1":"Cc. Ādi 10.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.143",
     "description":"Rāmāi and Nandāi, the twentieth and twenty-first among the important devotees in Jagannātha Purī, always assisted Govinda twenty-four hours a day in rendering service to the Lord."
 }

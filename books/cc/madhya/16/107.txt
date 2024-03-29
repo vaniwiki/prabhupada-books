@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 16.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.107",
     "description":"Finally Rāmānanda Rāya pacified the King and made him sit down. The Lord also bestowed mercy upon him through His body, mind and words."
 }

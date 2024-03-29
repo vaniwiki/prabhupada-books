@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.131",
-    "h1":"Text 131",
+    "h1":"Cc. Ādi 10.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.131",
     "description":"In the list of devotees at Jagannātha Purī [which begins with Paramānanda Purī, Svarūpa Dāmodara, Sārvabhauma Bhaṭṭācārya and Gopīnātha Ācārya], Kāśī Miśra was the fifth, Pradyumna Miśra the sixth and Bhavānanda Rāya the seventh. Lord Caitanya took great pleasure in meeting with them."
 }

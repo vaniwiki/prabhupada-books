@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 5.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.30",
     "description":"He delivers the fallen living entities by offering them the four kinds of liberation-sālokya, sāmīpya, sārṣṭi and sārūpya."
 }

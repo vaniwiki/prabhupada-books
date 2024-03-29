@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.203",
-    "h1":"Text 203",
+    "h1":"Cc. Antya 6.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.203",
     "description":"\"There are now three Raghunāthas among My associates. From this day forward, this Raghunātha should be known as the Raghu of Svarūpa Dāmodara.\""
 }

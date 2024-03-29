@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.156",
-    "h1":"Text 156",
+    "h1":"Cc. Antya 10.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.156",
     "description":"At first the cost of Jagannātha prasāda for an invitation was four paṇas of conchshells, but when Rāmacandra Purī was there, the price was cut in half."
 }

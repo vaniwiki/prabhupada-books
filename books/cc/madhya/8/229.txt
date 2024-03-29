@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 8.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.229",
     "description":"\"After thinking of Rādhā and Kṛṣṇa and Their pastimes for a long time and after getting completely free from material contamination, one is transferred to the spiritual world. There the devotee attains an opportunity to serve Rādhā and Kṛṣṇa as one of the gopīs."
 }

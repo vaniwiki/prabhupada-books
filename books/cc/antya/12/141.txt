@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 12.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.141",
     "description":"Accepting the sandalwood pulp and garland, the Lord sat down and said, \"Now, in front of Me, you must eat.\""
 }

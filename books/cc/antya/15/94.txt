@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 15.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.94",
     "description":"After they fed Him lunch, they made Him lie down. Then all the devotees, headed by Rāmānanda Rāya, returned to their respective homes."
 }

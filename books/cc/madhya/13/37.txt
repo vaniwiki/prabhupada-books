@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 13.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.37",
     "description":"The five who responded to the singing of Svarūpa Dāmodara were Dāmodara Paṇḍita, Nārāyaṇa, Govinda Datta, Rāghava Paṇḍita and Śrī Govindānanda."
 }

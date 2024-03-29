@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 13.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.208",
     "description":"Anyone who hears this description of the car festival will attain Śrī Caitanya Mahāprabhu. He will also attain the elevated state by which he will have firm conviction in devotional service and love of Godhead."
 }

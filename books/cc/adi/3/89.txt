@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.89",
-    "h1":"Text 89",
+    "h1":"Cc. Ādi 3.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.89",
     "description":"\"O my Lord, everything within material nature is limited by time, space and thought. Your characteristics, however, being unequaled and unsurpassed, are always transcendental to such limitations. You sometimes cover such characteristics by Your own energy, but nevertheless Your unalloyed devotees are always able to see You under all circumstances.\""
 }

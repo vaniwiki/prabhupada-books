@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 20.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.198",
     "description":"\"These twelve are the predominating Deities of the twelve months. Keśava is the predominating Deity of Agrahāyana, and Nārāyaṇa is the predominating Deity of Pauṣa."
 }

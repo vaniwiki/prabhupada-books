@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.125",
-    "h1":"Text 125",
+    "h1":"Cc. Ādi 7.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.125",
     "description":"\"Using the example of a touchstone, which by its energy turns iron to gold and yet remains the same, we can understand that although the Supreme Personality of Godhead transforms His innumerable energies, He remains unchanged."
 }

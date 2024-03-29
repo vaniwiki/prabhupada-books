@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 8.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.40",
     "description":"\" 'My dear Lord, sometimes great saintly persons go to the homes of householders, although these householders are generally low-minded. When a saintly person visits their homes, one can understand that it is for no other purpose than to benefit the householders.'"
 }

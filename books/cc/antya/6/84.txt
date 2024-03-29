@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.84",
-    "h1":"Text 84",
+    "h1":"Cc. Antya 6.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.84",
     "description":"Lord Nityānanda offered Śrī Caitanya Mahāprabhu a place and had Him sit down. Then together the two brothers began eating chipped rice."
 }

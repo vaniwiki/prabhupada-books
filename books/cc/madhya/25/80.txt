@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.80",
-    "h1":"Text 80",
+    "h1":"Cc. Madhya 25.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.80",
     "description":"\" 'A person who considers demigods like Brahmā and Śiva to be on an equal level with Nārāyaṇa is to be considered an offender, a pāṣaṇḍī.' \""
 }

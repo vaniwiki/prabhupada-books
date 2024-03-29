@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 7.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.119",
     "description":"After some time, when Lord Śrī Caitanya Mahāprabhu manifested His external consciousness, a priest of the Lord Kūrma Deity gave Him various offerings."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 2.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.133",
     "description":"After saying this, the Lord called for Govinda. Offering obeisances to Paramānanda Purī, He got up and began to leave."
 }

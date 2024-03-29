@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 5.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.48",
     "description":"The next day, the elderly brāhmaṇa was thinking deeply about this matter when the young brāhmaṇa came to his house."
 }

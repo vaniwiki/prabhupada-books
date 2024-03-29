@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 14.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.13",
     "description":"The lamentation of Śrīmatī Rādhārāṇī when Uddhava visited Vṛndāvana gradually became a feature of Śrī Caitanya Mahāprabhu's transcendental madness."
 }

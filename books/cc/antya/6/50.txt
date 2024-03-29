@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 6.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.50",
     "description":"\"You are just like a thief, for instead of coming near, you stay away at a distant place. Now that I have captured you, I shall punish you."
 }

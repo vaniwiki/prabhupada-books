@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 15.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.4",
     "description":"Thus Śrī Caitanya Mahāprabhu forgot Himself throughout the entire day and night, being merged in an ocean of ecstatic love for Kṛṣṇa."
 }

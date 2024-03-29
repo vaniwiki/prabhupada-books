@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 1.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.174",
     "description":"After pacifying the King in this way, Keśava Chatrī sent a brāhmaṇa messenger to Lord Caitanya Mahāprabhu, requesting Him to leave without delay."
 }

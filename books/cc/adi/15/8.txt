@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 15.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.8",
     "description":"One day Śrī Caitanya Mahāprabhu fell down at the feet of His mother and requested her to give Him one thing in charity."
 }

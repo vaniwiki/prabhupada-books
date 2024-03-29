@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.66",
-    "h1":"Text 66",
+    "h1":"Cc. Ādi 13.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.66",
     "description":"In the house of Advaita Ācārya, all the Vaiṣṇavas took pleasure in always talking of Kṛṣṇa, always worshiping Kṛṣṇa and always chanting the Hare Kṛṣṇa mahā-mantra."
 }

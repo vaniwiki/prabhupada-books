@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 6.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.32",
     "description":"His associates have the same bodily features as the Lord. They all have four arms and are dressed in yellow garments like Nārāyaṇa."
 }

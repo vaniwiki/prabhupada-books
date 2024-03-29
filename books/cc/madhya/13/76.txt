@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 13.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.76",
     "description":"Offering obeisances to the Lord with folded hands, Śrī Caitanya Mahāprabhu raised His face toward Jagannātha and prayed as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.108",
-    "h1":"Text 108",
+    "h1":"Cc. Ādi 3.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.108",
     "description":"Thinking of the lotus feet of Śrī Kṛṣṇa, He constantly offered tulasī buds in water from the Ganges."
 }

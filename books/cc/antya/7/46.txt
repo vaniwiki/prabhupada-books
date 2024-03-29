@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 7.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.46",
     "description":"\"Uddhava desires to take on his head the dust of the gopīs' lotus feet. I have learned about all these transcendental loving affairs of Lord Kṛṣṇa from Svarūpa Dāmodara."
 }

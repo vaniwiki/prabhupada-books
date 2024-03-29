@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 20.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.41",
     "description":"When they met, they had many conversations. Sanātana Gosvāmī told him in detail about his arrest and release."
 }

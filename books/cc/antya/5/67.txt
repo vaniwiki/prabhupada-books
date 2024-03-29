@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 5.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.67",
     "description":"Rāmānanda Rāya paid great respect to Pradyumna Miśra and bade him farewell. Pradyumna Miśra said, \"I have become very satisfied.\" He then began to dance."
 }

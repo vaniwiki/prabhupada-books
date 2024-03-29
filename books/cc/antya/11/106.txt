@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 11.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.106",
     "description":"The life and characteristics of Śrī Caitanya Mahāprabhu are exactly like an ocean of nectar, one drop of which can please the mind and ear."
 }

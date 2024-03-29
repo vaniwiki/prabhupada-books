@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 20.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.53",
     "description":"Shoulder to shoulder, Śrī Caitanya Mahāprabhu and Sanātana Gosvāmī began to cry unlimitedly. Candraśekhara was very astonished to see this."
 }

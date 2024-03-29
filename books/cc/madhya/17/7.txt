@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 17.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.7",
     "description":"\"Please give Me your permission with great pleasure and do not be unhappy. If you are happy, I shall be happy on My way to Vṛndāvana.\""
 }

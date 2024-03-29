@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 5.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.68",
     "description":"After returning home, Pradyumna Miśra bathed and ate his meal. In the evening he came to see the lotus feet of Śrī Caitanya Mahāprabhu."
 }

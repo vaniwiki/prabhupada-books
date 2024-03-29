@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.151",
-    "h1":"Text 151",
+    "h1":"Cc. Ādi 7.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.151",
     "description":"After this, all the sannyāsīs took the Lord in their midst, and thus they all took their meal together."
 }

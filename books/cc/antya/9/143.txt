@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.143",
-    "h1":"Text 143",
+    "h1":"Cc. Antya 9.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.143",
     "description":"\"First you should pay the revenue due the King, and then you may spend the balance for religious and fruitive activities."
 }

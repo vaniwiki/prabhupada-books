@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 16.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.70",
     "description":"\"One's beautiful body may be decorated with jewels, but one spot of white leprosy makes the entire body abominable."
 }

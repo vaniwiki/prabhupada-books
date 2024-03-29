@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 14.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.51",
     "description":"The strong elephants pulled with all their strength, but still the car remained at a standstill, not budging an inch."
 }

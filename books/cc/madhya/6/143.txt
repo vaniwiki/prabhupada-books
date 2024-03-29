@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 6.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.143",
     "description":"\"Everything in the cosmic manifestation emanates from the Absolute Truth. It remains in the Absolute Truth, and after annihilation it again enters the Absolute Truth."
 }

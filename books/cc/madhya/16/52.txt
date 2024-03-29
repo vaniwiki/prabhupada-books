@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 16.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.52",
     "description":"It was Kṛṣṇadāsa who filled a great waterpot and poured it over the Lord while He was taking His bath. The Lord was greatly satisfied by this."
 }

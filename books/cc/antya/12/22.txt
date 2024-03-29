@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.22",
-    "h1":"Text 22",
+    "h1":"Cc. Antya 12.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.22",
     "description":"Crying, his wife informed him, \"Lord Nityānanda has cursed our sons to die because His quarters have not been provided.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 4.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.45",
     "description":"Śrī Caitanya Mahāprabhu said, \"There was a similar incident concerning Murāri Gupta. Formerly I examined him, and his determination was similar."
 }

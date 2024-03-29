@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 6.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.9",
     "description":"Previously, when Lord Kṛṣṇa was personally present, Subala, one of His cowherd boy friends, gave Him happiness when He felt separation from Rādhārāṇī. Similarly, Rāmānanda Rāya helped give happiness to Lord Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.283",
-    "h1":"Text 283",
+    "h1":"Cc. Antya 6.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.283",
     "description":"Svarūpa Dāmodara replied, \"Raghunātha dāsa felt unhappy standing at the Siṁha-dvāra. Therefore he is now going at midday to beg alms from the charity booth.\""
 }

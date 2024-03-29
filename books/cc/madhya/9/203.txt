@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 9.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.203",
     "description":"Upon hearing from the Kūrma Purāṇa how Rāvaṇa had kidnapped a false form of mother Sītā, Śrī Caitanya Mahāprabhu became very much satisfied."
 }

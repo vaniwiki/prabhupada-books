@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.84",
-    "h1":"Text 84",
+    "h1":"Cc. Madhya 1.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.84",
     "description":"The gopīs continued, \"Dear Kṛṣṇa, the fragrance of the mellows of Your pastimes is spread throughout the forests of the glorious land of Vṛndāvana, which is surrounded by the sweetness of the district of Mathurā. In the congenial atmosphere of that wonderful land, You may enjoy Your pastimes, with Your flute dancing on Your lips, and surrounded by us, the gopīs, whose hearts are always enchanted by unpredictable ecstatic emotions.\""
 }

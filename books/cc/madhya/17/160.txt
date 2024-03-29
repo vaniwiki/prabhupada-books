@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 17.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.160",
     "description":"All the people then began to chant \"Hari! Hari!\" and there was a great uproar. The priest in Lord Keśava's service offered Śrī Caitanya Mahāprabhu a garland."
 }

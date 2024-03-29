@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.204",
-    "h1":"Text 204",
+    "h1":"Cc. Madhya 24.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.204",
     "description":"\"The devotional service of Vyāsa, Śuka and the four Kumāras has already been well celebrated. Now let Me explain how immovable living entities like trees and plants engage in the Lord's devotional service."
 }

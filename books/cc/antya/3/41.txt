@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 3.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.41",
     "description":"After saying this, Śrī Caitanya Mahāprabhu ordered that varieties of prasāda offered to Lord Jagannātha be brought. The Lord then gave him the prasāda, separately packed, to offer to various Vaiṣṇavas and His mother."
 }

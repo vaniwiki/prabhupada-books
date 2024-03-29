@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 2.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.1",
     "description":"While relating in synopsis form the last division of the pastimes of Lord Caitanya Mahāprabhu, in this chapter I shall describe the Lord's transcendental ecstasy, which appears like madness due to His separation from Kṛṣṇa."
 }

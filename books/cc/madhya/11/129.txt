@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 11.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.129",
     "description":"After this, all the devotees, headed by Śrīvāsa Ṭhākura, offered prayers to the lotus feet of the Lord, and the Lord embraced each and every one of them in great love and ecstasy."
 }

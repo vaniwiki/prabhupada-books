@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.260",
-    "h1":"Text 260",
+    "h1":"Cc. Madhya 6.260",
+    "label":"Text 260",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.260",
     "description":"He began to quote one of Lord Brahmā's prayers from Śrīmad-Bhāgavatam, but he changed two syllables at the end of the verse."
 }

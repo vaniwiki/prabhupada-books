@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 11.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.86",
     "description":"\"Here are Murāri Gupta, Paṇḍita Nārāyaṇa and Haridāsa Ṭhākura, the deliverer of the whole universe."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.166",
-    "h1":"Text 166",
+    "h1":"Cc. Madhya 25.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.166",
     "description":"After this, all the Māyāvādī sannyāsīs and learned scholars at Vārāṇasī began discussing Śrīmad-Bhāgavatam. In this way Śrī Caitanya Mahāprabhu delivered them."
 }

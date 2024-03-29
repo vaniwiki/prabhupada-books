@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 18.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.161",
     "description":"Suddenly a cowherd boy blew on his flute, and immediately the Lord was struck with ecstatic love."
 }

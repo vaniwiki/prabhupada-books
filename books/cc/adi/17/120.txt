@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.120",
-    "h1":"Text 120",
+    "h1":"Cc. Ādi 17.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.120",
     "description":"In this way they danced continuously for twelve hours, and in the evening they all took bath in the Ganges and then returned to their homes."
 }

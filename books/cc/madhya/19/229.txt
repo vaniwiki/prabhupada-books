@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 19.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.229",
     "description":"\"The exchange of spiritual happiness between Kṛṣṇa and His devotee, in which Kṛṣṇa is controlled by His devotee, is compared to an ocean of nectar into which the devotee and Kṛṣṇa plunge. This is the verdict of learned scholars who appreciate Kṛṣṇa's opulence."
 }

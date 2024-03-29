@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.116",
-    "h1":"Text 116",
+    "h1":"Cc. Antya 18.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.116",
     "description":"\"When we chanted the holy name of Kṛṣṇa, however, You came to semiconsciousness, and we have all been hearing You speak like a madman.\""
 }

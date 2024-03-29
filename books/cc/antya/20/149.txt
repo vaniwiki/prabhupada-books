@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 20.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.149",
     "description":"My inexperienced words do not know how to dance by themselves. The mercy of the guru made them dance as much as possible, and now, after dancing, they have taken rest."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13",
-    "h1":"Chapter 13",
+    "h1":"The Ecstatic Dancing of the Lord at Ratha-yātrā",
+    "label":"Chapter 13",
     "title":"Cc. Madhya 13: The Ecstatic Dancing of the Lord at Ratha-yātrā",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 8.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.11",
     "description":"A large quantity of the remnants of food from Lord Jagannātha was brought in for distribution. Rāmacandra Purī ate sumptuously, and then he wanted to find faults in Jagadānanda Paṇḍita."
 }

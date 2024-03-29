@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.104",
-    "h1":"Text 104",
+    "h1":"Cc. Ādi 1.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.104",
     "description":"I have invoked the benediction of the Lords with these two verses. Now please hear attentively the purport of the third."
 }

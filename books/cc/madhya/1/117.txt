@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 1.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.117",
     "description":"At Rāmeśvara, Śrī Caitanya Mahāprabhu had a chance to read the Kūrma Purāṇa, in which He discovered that the form of Sītā kidnapped by Rāvaṇa was not that of the real Sītā but a mere shadow representation."
 }

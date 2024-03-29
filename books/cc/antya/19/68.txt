@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 19.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.68",
     "description":"Thus Śaṅkara Paṇḍita lay at the feet of Śrī Caitanya Mahāprabhu, and the Lord placed His legs upon Śaṅkara's body."
 }

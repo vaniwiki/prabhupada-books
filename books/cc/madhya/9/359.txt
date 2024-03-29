@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.359",
-    "h1":"Text 359",
+    "h1":"Cc. Madhya 9.359",
+    "label":"Text 359",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.359",
     "description":"The pastimes of Lord Caitanya are unlimited. No one can properly describe His activities, yet I make the attempt out of greed. This but reveals my shamelessness."
 }

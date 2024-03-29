@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 5.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.41",
     "description":"Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha constitute this second quadruple. They are purely transcendental."
 }

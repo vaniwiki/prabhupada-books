@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.218",
-    "h1":"Text 218",
+    "h1":"Cc. Ādi 4.218",
+    "label":"Text 218",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.218",
     "description":"Rādhā is the beloved consort of Kṛṣṇa, and She is the wealth of His life. Without Her, the gopīs cannot give Him pleasure."
 }

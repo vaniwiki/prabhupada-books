@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 25.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.7",
     "description":"When the Māyāvādī sannyāsīs were criticizing Śrī Caitanya Mahāprabhu anywhere and everywhere in Vārāṇasī, the Mahārāṣṭrian brāhmaṇa, hearing this blasphemy, began to think about this unhappily."
 }

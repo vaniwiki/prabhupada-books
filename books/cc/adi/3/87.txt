@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 3.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.87",
     "description":"\"O my Lord, those influenced by demoniac principles cannot realize You, although You are clearly the Supreme by dint of Your exalted activities, forms, character and uncommon power, which are confirmed by all the revealed scriptures in the quality of goodness and the celebrated transcendentalists in the divine nature.\""
 }

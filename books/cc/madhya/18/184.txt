@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.184",
-    "h1":"Text 184",
+    "h1":"Cc. Madhya 18.184",
+    "label":"Text 184",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.184",
     "description":"\"Due to epilepsy, I sometimes fall unconscious. Out of their mercy, these four men maintain Me.\""
 }

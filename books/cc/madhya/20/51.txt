@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 20.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.51",
     "description":"As soon as Śrī Caitanya Mahāprabhu saw Sanātana Gosvāmī in the courtyard, He immediately went up to him with great haste. After embracing him, the Lord was overwhelmed with ecstatic love."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.166",
-    "h1":"Text 166",
+    "h1":"Cc. Antya 6.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.166",
     "description":"After saying this, Yadunandana Ācārya took Raghunātha dāsa with him and went out. By that time all the watchmen were deeply asleep because it was the end of the night."
 }

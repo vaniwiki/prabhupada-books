@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 8.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.94",
     "description":"Śrī Caitanya Mahāprabhu sometimes accepted Rāmacandra Purī as His master and considered Himself a servant, and sometimes the Lord, not caring for him, would see him as being just like a straw."
 }

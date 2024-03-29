@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 12.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.40",
     "description":"\"Thus I expounded the Yoga-vāśiṣṭha, which considers liberation the ultimate goal of life. For this the Lord became angry at Me and treated Me with apparent disrespect."
 }

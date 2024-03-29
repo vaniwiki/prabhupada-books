@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.265",
-    "h1":"Text 265",
+    "h1":"Cc. Madhya 8.265",
+    "label":"Text 265",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.265",
     "description":"Rāmānanda Rāya continued, \"The Supersoul within everyone's heart speaks not externally but from within. He instructs the devotees in all respects, and that is His way of instruction.\""
 }

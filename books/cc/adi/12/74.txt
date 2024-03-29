@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.74",
-    "h1":"Text 74",
+    "h1":"Cc. Ādi 12.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.74",
     "description":"By the mercy of Advaita Ācārya, the devotees who strictly followed the path of Caitanya Mahāprabhu attained the shelter of Lord Caitanya's lotus feet without difficulty."
 }

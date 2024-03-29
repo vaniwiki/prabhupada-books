@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 13.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.122",
     "description":"This verse was recited by Śrī Caitanya Mahāprabhu again and again. But for Svarūpa Dāmodara, no one could understand its meaning."
 }

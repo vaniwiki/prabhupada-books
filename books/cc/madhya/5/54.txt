@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 5.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.54",
     "description":"All the people of the village then called for the elderly brāhmaṇa and brought him to their meeting place. The young brāhmaṇa then began to speak before them as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 6.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.122",
     "description":"Rāghava Paṇḍita, being very merciful toward Raghunātha dāsa, offered him the dishes with the remnants of food left by the two brothers."
 }

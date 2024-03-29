@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.184",
-    "h1":"Text 184",
+    "h1":"Cc. Madhya 10.184",
+    "label":"Text 184",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.184",
     "description":"Later, Rāmabhadra Ācārya and Bhagavān Ācārya also joined them and, giving up all other responsibilities, remained under Śrī Caitanya Mahāprabhu's shelter."
 }

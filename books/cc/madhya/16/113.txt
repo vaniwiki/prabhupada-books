@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 16.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.113",
     "description":"The King ordered two respectable officers named Haricandana and Mardarāja to do whatever was necessary to carry out these orders."
 }

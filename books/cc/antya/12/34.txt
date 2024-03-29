@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 12.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.34",
     "description":"Śivānanda Sena's nephew, Śrīkānta, the son of his sister, felt offended, and he commented on the matter when his uncle was absent."
 }

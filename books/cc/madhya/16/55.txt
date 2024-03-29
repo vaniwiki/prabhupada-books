@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 16.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.55",
     "description":"Advaita Ācārya then extended an invitation to Śrī Caitanya Mahāprabhu, and there was a great rainstorm connected with that incident."
 }

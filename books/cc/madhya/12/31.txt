@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 12.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.31",
     "description":"\"Still, isn't it the nature of an attached man to give up his life if he does not attain his desired object?"
 }

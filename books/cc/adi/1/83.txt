@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.83",
-    "h1":"Text 83",
+    "h1":"Cc. Ādi 1.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.83",
     "description":"In the first verse I have invoked a general benediction, but in the second I have prayed to the Lord in a particular form."
 }

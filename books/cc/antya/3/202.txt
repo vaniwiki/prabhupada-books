@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.202",
-    "h1":"Text 202",
+    "h1":"Cc. Antya 3.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.202",
     "description":"\"You have insulted Haridāsa Ṭhākura. Thus there will be a dangerous position for you. You should not expect anything auspicious.\""
 }

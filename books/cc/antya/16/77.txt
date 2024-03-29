@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.77",
-    "h1":"Text 77",
+    "h1":"Cc. Antya 16.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.77",
     "description":"All the devotees remained with Śrī Caitanya Mahāprabhu continuously for four months. Then the Lord ordered them back to Bengal, and therefore they returned."
 }

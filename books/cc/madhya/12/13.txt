@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 12.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.13",
     "description":"Upon reading the letter, everyone was astonished to see that King Pratāparudra had so much devotion for the lotus feet of Śrī Caitanya Mahāprabhu."
 }

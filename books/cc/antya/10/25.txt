@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 10.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.25",
     "description":"She made many sweetmeats shaped like balls. Some were made with powdered coconut, and others looked as white as the water of the Ganges. In this way she made many varieties of long-lasting sugar confections."
 }

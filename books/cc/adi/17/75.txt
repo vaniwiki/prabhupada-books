@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 17.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.75",
     "description":"\"By following the paths of speculative philosophical knowledge, fruitive activity or mystic yoga to control the senses, one cannot satisfy Kṛṣṇa, the Supreme Lord. Unalloyed devotional love for Kṛṣṇa is the only cause for the Lord's satisfaction."
 }

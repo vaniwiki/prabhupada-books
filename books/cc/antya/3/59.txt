@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 3.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.59",
     "description":"\"The letters of the holy name have so much spiritual potency that they act even when uttered improperly."
 }

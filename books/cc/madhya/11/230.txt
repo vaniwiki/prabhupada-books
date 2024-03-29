@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.230",
-    "h1":"Text 230",
+    "h1":"Cc. Madhya 11.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.230",
     "description":"Śrī Caitanya Mahāprabhu stood in the middle of the dancers, and all the dancers in all directions perceived that Śrī Caitanya Mahāprabhu was looking at them."
 }

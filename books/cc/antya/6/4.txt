@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 6.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.4",
     "description":"Although Śrī Caitanya Mahāprabhu felt pangs of separation from Kṛṣṇa, He did not manifest His feelings externally, for He feared the unhappiness of His devotees."
 }

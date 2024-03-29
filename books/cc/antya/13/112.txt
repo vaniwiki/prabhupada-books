@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 13.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.112",
     "description":"After eight months, when Śrī Caitanya Mahāprabhu bade farewell to Raghunātha Bhaṭṭa, the Lord flatly forbade him to marry. \"Do not marry,\" the Lord said."
 }

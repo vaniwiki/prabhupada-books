@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.131",
-    "h1":"Text 131",
+    "h1":"Cc. Antya 13.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.131",
     "description":"Subsequently Raghunātha Bhaṭṭa ordered his disciples to construct a temple for Govinda. He prepared various ornaments for Govinda, including a flute and earrings shaped like sharks"
 }

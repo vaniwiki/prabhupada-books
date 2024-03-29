@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 5.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.96",
     "description":"\"My dear Lord, You are not a statue; You are directly the son of Mahārāja Nanda. Now, for the sake of the old brāhmaṇa, You can do something You have never done before.\""
 }

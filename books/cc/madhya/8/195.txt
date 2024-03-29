@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 8.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.195",
     "description":"\" 'O my Lord, You live in the forest of Govardhana Hill, and, like the king of elephants, You are expert in the art of conjugal love. O master of the universe, Your heart and Śrīmatī Rādhārāṇī's heart are just like shellac and are now melted in Your spiritual perspiration. Therefore one can no longer distinguish between You and Śrīmatī Rādhārāṇī. Now You have mixed Your newly invoked affection, which is like vermilion, with Your melted hearts, and for the benefit of the whole world You have painted both Your hearts red within this great palace of the universe.' \""
 }

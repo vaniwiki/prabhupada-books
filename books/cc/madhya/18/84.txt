@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.84",
-    "h1":"Text 84",
+    "h1":"Cc. Madhya 18.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.84",
     "description":"Upon seeing the Lord's personal beauty and ecstatic love, Kṛṣṇadāsa was very astonished. Out of ecstatic love, he offered his respectful obeisances unto the Lord."
 }

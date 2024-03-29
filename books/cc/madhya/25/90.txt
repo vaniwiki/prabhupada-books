@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 25.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.90",
     "description":"\"You are the Supreme Personality of Godhead, and therefore You have inconceivable energies. I wish to hear from You briefly about the Brahma-sūtra.\""
 }

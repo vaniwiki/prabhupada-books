@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 3.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.44",
     "description":"The cooked rice was a stack of very fine grains nicely cooked, and in the middle was yellow clarified butter from the milk of cows. Surrounding the stack of rice were pots made of the skins of banana trees, and in these pots were varieties of vegetables and mung dāl."
 }

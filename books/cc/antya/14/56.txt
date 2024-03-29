@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 14.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.56",
     "description":"Rāmānanda Rāya recited verses from Śrīmad-Bhāgavatam, and Svarūpa Dāmodara Gosvāmī sang of Kṛṣṇa's pastimes. In this way, they brought Śrī Caitanya Mahāprabhu to external consciousness."
 }

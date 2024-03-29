@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 11.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.47",
     "description":"Lord Śrī Caitanya Mahāprabhu inquired, \"My dear Haridāsa, what is the news?\" Haridāsa Ṭhākura replied, \"My Lord, whatever mercy You can bestow upon me.\""
 }

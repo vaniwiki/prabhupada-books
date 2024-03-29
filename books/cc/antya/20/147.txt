@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.147",
-    "h1":"Text 147",
+    "h1":"Cc. Antya 20.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.147",
     "description":"The mercy of their lotus feet is my spiritual master, and my words are my disciples that I have made dance in various ways."
 }

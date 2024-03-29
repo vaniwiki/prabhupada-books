@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.35",
-    "h1":"Text 35",
+    "h1":"Cc. Ādi 2.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.35",
     "description":"Brahmā replied, \"Are You not Nārāyaṇa? You are certainly Nārāyaṇa. Please listen as I state the proofs."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 12.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.39",
     "description":"Śrī Caitanya Mahāprabhu inquired from Śrīkānta about all the Vaiṣṇavas, and the boy informed the Lord about them, naming them one after another."
 }

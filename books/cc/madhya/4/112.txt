@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 4.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.112",
     "description":"Going into South India, Śrī Mādhavendra Purī visited Remuṇā, where Gopīnātha is situated. Upon seeing the beauty of the Deity, Mādhavendra Purī was overwhelmed."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 8.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.32",
     "description":"Śrī Caitanya Mahāprabhu, the independent Supreme Personality of Godhead, is greatly magnanimous. Unless one worships Him, one can never be liberated."
 }

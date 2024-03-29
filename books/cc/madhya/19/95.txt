@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.95",
-    "h1":"Text 95",
+    "h1":"Cc. Madhya 19.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.95",
     "description":"When Raghupati Upādhyāya was requested to describe Kṛṣṇa, he began to recite some verses he had personally composed about Kṛṣṇa's pastimes. Hearing those verses, Śrī Caitanya Mahāprabhu was overwhelmed with ecstatic love."
 }

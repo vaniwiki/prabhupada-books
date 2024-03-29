@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 13.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.178",
     "description":"Apart from the others, even Lord Jagannātha and Lord Balarāma, with great happiness, began to move very slowly upon seeing the dancing of Śrī Caitanya Mahāprabhu."
 }

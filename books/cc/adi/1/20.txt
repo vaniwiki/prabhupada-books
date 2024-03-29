@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.20",
-    "h1":"Text 20",
+    "h1":"Cc. Ādi 1.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.20",
     "description":"In the beginning of this narration, simply by remembering the spiritual master, the devotees of the Lord, and the Personality of Godhead, I have invoked their benedictions."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.273",
-    "h1":"Text 273",
+    "h1":"Cc. Madhya 15.273",
+    "label":"Text 273",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.273",
     "description":"As soon as Caitanya Mahāprabhu heard that Amogha was going to die, He immediately ran to him in great haste. Placing His hand on Amogha's chest, He spoke as follows."
 }

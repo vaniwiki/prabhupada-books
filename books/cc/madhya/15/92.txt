@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 15.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.92",
     "description":"Śrī Caitanya Mahāprabhu then mercifully embraced Rāghava Paṇḍita. The Lord also offered all the other devotees a reception with similar respect."
 }

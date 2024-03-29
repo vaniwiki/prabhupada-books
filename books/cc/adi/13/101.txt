@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.101",
-    "h1":"Text 101",
+    "h1":"Cc. Ādi 13.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.101",
     "description":"When he saw that the whole world was jubilant, Haridāsa Ṭhākura, his mind astonished, directly and indirectly expressed himself to Advaita Ācārya, \"Your dancing and distributing charity are very pleasing to me. I can understand that there is some special purpose in these actions.\""
 }

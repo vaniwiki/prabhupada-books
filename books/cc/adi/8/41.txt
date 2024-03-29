@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 8.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.41",
     "description":"Nārāyaṇī eternally eats the remnants of the food of Caitanya Mahāprabhu. Śrīla Vṛndāvana dāsa Ṭhākura was born of her womb."
 }

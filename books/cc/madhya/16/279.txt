@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.279",
-    "h1":"Text 279",
+    "h1":"Cc. Madhya 16.279",
+    "label":"Text 279",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.279",
     "description":"Being encouraged by Śrī Caitanya Mahāprabhu's words, Gadādhara Paṇḍita became absorbed in ecstatic love. Immediately clasping the lotus feet of the Lord, he began to speak with great humility."
 }

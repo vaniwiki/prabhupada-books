@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 4.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.196",
     "description":"Mādhavendra Purī recited this verse again and again at the end of his material existence. Thus uttering this verse, he attained the ultimate goal of life."
 }

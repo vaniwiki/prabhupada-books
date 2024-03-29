@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 2.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.38",
     "description":"\"If by chance such a moment comes when I can once again see Kṛṣṇa, then I shall worship those seconds, moments and hours with flower garlands and pulp of sandalwood and decorate them with all kinds of jewels and ornaments.\""
 }

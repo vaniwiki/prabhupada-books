@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 1.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.31",
     "description":"When he saw the dog sitting in that way and chanting the name of Kṛṣṇa, Śivānanda, because of his natural humility, immediately offered his obeisances to the dog just to counteract his offenses to it."
 }

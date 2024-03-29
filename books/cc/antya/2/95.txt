@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 2.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.95",
     "description":"\"When a Vaiṣṇava listens to the Śārīraka-bhāṣya, the Māyāvāda commentary upon Vedānta-sūtra, he gives up the Kṛṣṇa conscious attitude that the Lord is the master and the living entity is His servant. Instead, he considers himself the Supreme Lord."
 }

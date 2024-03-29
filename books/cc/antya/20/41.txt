@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 20.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.41",
     "description":"\"The three worlds have become void because of separation from Govinda. I feel as if I were burning alive in a slow fire."
 }

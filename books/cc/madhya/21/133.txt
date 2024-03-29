@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 21.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.133",
     "description":"\"When the onlooker of Kṛṣṇa's face becomes dissatisfied in this way, he thinks, 'Why didn't the creator give me thousands and millions of eyes? Why has he given me only two? Even these two eyes are disturbed by blinking, which keeps me from continuously seeing Kṛṣṇa's face.' Thus one accuses the creator of being dry and tasteless due to engaging in severe austerities. 'The creator is only a dry manufacturer. He does not know how to create and set things in their proper places."
 }

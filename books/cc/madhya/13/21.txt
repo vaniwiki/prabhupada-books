@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 13.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.21",
     "description":"The car was also decorated with silken cloth and various pictures. Many brass bells, gongs and ankle bells rang."
 }

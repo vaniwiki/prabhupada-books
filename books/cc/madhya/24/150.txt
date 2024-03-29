@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 24.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.150",
     "description":"\"Therefore there is no need to repeat the word ātmārāma. One is sufficient, and that one word indicates six persons."
 }

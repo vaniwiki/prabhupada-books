@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 12.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.61",
     "description":"Yādava dāsa, Vijaya dāsa, Janārdana dāsa, Ananta dāsa, Kānu Paṇḍita and Nārāyaṇa dāsa were the nineteenth, twentieth, twenty-first, twenty-second, twentythird and twenty-fourth branches of Advaita Ācārya."
 }

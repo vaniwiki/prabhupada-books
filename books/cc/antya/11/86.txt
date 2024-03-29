@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 11.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.86",
     "description":"Therefore Kāśī Miśra personally went there and delivered prasāda to Śrī Caitanya Mahāprabhu with great attention and made Him eat."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.222",
-    "h1":"Text 222",
+    "h1":"Cc. Ādi 4.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.222",
     "description":"Lord Śrī Kṛṣṇa Caitanya is Kṛṣṇa [Vrajendra-kumāra], the embodiment of rasas. He is amorous love personified."
 }

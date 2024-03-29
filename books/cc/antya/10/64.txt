@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 10.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.64",
     "description":"Due to the forceful vibration of kīrtana, the entire world began trembling. When everyone chanted the holy name, they made a tumultuous sound."
 }

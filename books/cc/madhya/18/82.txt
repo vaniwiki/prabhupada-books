@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 18.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.82",
     "description":"During this time, a Vaiṣṇava named Kṛṣṇadāsa came to see Śrī Caitanya Mahāprabhu. He was a householder belonging to the kṣatriya caste, and his house was located on the other side of the Yamunā."
 }

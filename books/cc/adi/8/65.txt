@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.65",
-    "h1":"Text 65",
+    "h1":"Cc. Ādi 8.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.65",
     "description":"By his causeless mercy he ordered me to write about the last pastimes of Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 12.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.165",
     "description":"Lord Śrī Kṛṣṇa had previously taken His lunch in the forest, and that very pastime was remembered by Śrī Caitanya Mahāprabhu."
 }

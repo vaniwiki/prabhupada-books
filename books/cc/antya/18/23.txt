@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 18.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.23",
     "description":"When an ordinary living entity describes the pastimes of Śrī Caitanya Mahāprabhu, he purifies himself by touching one drop of that great ocean."
 }

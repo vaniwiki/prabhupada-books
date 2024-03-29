@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 2.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.110",
     "description":"\"Where did you get such fine rice?\" the Lord asked. Bhagavān Ācārya replied, \"I got it by begging from Mādhavīdevī.\""
 }

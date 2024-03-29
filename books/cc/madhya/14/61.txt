@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 14.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.61",
     "description":"All the servants of Lord Jagannātha then took Him down from the car, and the Lord went to sit on His throne."
 }

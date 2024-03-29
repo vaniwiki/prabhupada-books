@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.227",
-    "h1":"Text 227",
+    "h1":"Cc. Ādi 5.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.227",
     "description":"Therefore who can describe the mercy of the lotus feet of Him [Lord Nityānanda] by whom I have attained the shelter of this Lord Govinda?"
 }

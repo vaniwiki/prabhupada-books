@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.88",
-    "h1":"Text 88",
+    "h1":"Cc. Antya 15.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.88",
     "description":"Lord Caitanya Mahāprabhu had Svarūpa Dāmodara sing the same verse again and again. Each time he sang it, the Lord tasted it anew, and thus He danced again and again."
 }

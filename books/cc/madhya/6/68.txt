@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 6.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.68",
     "description":"Gopīnātha Ācārya then took Mukunda Datta with him and went to Sārvabhauma's house. When they arrived, Sārvabhauma addressed Mukunda Datta as follows."
 }

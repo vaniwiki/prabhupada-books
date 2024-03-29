@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.19",
-    "h1":"Text 19",
+    "h1":"Cc. Ādi 11.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.19",
     "description":"When Vāsudeva Ghoṣa performed kīrtana, describing Lord Caitanya and Nityānanda, even wood and stone would melt upon hearing it."
 }

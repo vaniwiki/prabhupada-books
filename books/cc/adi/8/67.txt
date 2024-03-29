@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.67",
-    "h1":"Text 67",
+    "h1":"Cc. Ādi 8.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.67",
     "description":"Śrī Yādavācārya Gosāñi, a constant associate of Śrīla Rūpa Gosvāmī, was also very enthusiastic in hearing and chanting about Lord Caitanya's pastimes."
 }

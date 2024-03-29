@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 10.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.129",
     "description":"Śrī Caitanya Mahāprabhu then gave Svarūpa Dāmodara residence in a solitary place and ordered a servant to serve him with a supply of water and other necessities."
 }

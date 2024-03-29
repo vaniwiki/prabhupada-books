@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.95-98",
-    "h1":"Text 95-98",
+    "h1":"Cc. Madhya 23.95-98",
+    "label":"Text 95-98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.95-98",
     "description":"\" 'Those who are completely washed of all material contamination by pure devotional service, who are always satisfied and brightly enlightened in the heart, who are always attached to understanding the transcendental meaning of Śrīmad-Bhāgavatam, who are always eager to associate with advanced devotees, whose happiness in the service of the lotus feet of Govinda is their very life, who always discharge the confidential activities of love-for such advanced devotees, who are by nature situated in bliss, the seed of love [rati] is expanded in the heart by previous and current reformatory processes. Thus the mixture of ecstatic ingredients becomes tasty and, being within the perception of the devotee, reaches the highest platform of wonder and deep bliss.'"
 }

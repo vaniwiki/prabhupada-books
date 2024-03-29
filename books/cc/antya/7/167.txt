@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.167",
-    "h1":"Text 167",
+    "h1":"Cc. Antya 7.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.167",
     "description":"The Lord purified Vallabha Bhaṭṭa by cleansing him of the mud of false pride. By such activities the Lord also instructed others."
 }

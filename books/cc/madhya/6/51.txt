@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 6.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.51",
     "description":"Gopīnātha Ācārya replied, \"There was a man named Jagannātha, who was a resident of Navadvīpa, and whose surname was Miśra Purandara."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.151",
-    "h1":"Text 151",
+    "h1":"Cc. Antya 7.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.151",
     "description":"\"I am completely dependent. My Lord is Gauracandra, Śrī Caitanya Mahāprabhu. I cannot do anything independently, without His order."
 }

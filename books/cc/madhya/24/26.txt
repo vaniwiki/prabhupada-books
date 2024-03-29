@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 24.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.26",
     "description":"\" 'The terminations of the ātmanepada are employed when the fruit of the action accrues to the agent of verbs having an indicatory ñ or a svarita accent.'"
 }

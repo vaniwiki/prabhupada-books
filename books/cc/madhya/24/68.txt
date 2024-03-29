@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 24.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.68",
     "description":"\"There are seven chief meanings of the word api. They are as follows."
 }

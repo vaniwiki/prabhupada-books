@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 20.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.148",
     "description":"Seeing the fatigue of the disciples, the spiritual master has stopped making them dance, and because that mercy no longer makes them dance, my words now sit silently."
 }

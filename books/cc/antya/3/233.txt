@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.233",
-    "h1":"Text 233",
+    "h1":"Cc. Antya 3.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.233",
     "description":"The scent of her body perfumed all directions, and the tinkling of her ornaments startled the ear."
 }

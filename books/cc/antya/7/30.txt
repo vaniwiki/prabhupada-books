@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 7.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.30",
     "description":"\"In pure Kṛṣṇa consciousness, a friend mounts the shoulder of Kṛṣṇa, and mother Yaśodā binds the Lord."
 }

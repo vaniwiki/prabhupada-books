@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 6.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.4",
     "description":"Lord Śrī Caitanya Mahāprabhu went swiftly to embrace Lord Jagannātha, but when He entered the temple, He was so overwhelmed with love of Godhead that He fainted on the floor."
 }

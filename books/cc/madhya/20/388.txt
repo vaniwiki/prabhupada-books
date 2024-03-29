@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.388",
-    "h1":"Text 388",
+    "h1":"Cc. Madhya 20.388",
+    "label":"Text 388",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.388",
     "description":"\"According to Vedic astronomical calculations, the rotation of the sun consists of sixty daṇḍas, and it is divided into thirty-six hundred palas."
 }

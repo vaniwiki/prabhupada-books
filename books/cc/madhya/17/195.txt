@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 17.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.195",
     "description":"Seeing the herds approach Him, the Lord was stunned with ecstatic love. The cows then began to lick His body in great affection."
 }

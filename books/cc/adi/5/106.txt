@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.106",
-    "h1":"Text 106",
+    "h1":"Cc. Ādi 5.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.106",
     "description":"He is the Supersoul, Hiraṇyagarbha, the cause of the material world. The universal form is conceived as His expansion."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 20.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.63",
     "description":"Thus overwhelmed by ecstatic love, Śrī Caitanya Mahāprabhu spoke like a madman and recited suitable verses."
 }

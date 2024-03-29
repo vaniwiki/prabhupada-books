@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.183",
-    "h1":"Text 183",
+    "h1":"Cc. Madhya 17.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.183",
     "description":"\"Foolish people will blaspheme You, but I shall not tolerate the words of such mischievous people.\""
 }

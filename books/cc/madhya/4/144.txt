@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 4.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.144",
     "description":"When Mādhavendra Purī was overwhelmed in the ecstasy of love of Godhead, he sometimes stood up and sometimes fell to the ground. Sometimes he laughed, danced and sang. In this way he enjoyed transcendental bliss by seeing the Jagannātha Deity."
 }

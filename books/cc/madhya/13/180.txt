@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 13.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.180",
     "description":"When Lord Śrī Caitanya Mahāprabhu was dancing and wandering in this way, He fell down in front of Mahārāja Pratāparudra."
 }

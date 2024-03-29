@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 1.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.82",
     "description":"After reading the verse, Śrī Caitanya Mahāprabhu was overwhelmed by ecstatic love. At that very time, Rūpa Gosvāmī returned, having finished bathing in the sea."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 2.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.15",
     "description":"Śrī Caitanya Mahāprabhu used to express His mind in this way, \"Where is the Lord of My life, who is playing His flute? What shall I do now? Where should I go to find the son of Mahārāja Nanda?"
 }

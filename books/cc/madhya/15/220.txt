@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 15.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.220",
     "description":"On two sides of the stack of food were pitchers filled with scented cold water. The flowers of the tulasī tree were placed above the mound of rice."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 8.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.20",
     "description":"The Lord stood up and asked Rāmānanda Rāya to arise and chant the holy name of Kṛṣṇa. Indeed, Śrī Caitanya Mahāprabhu was very eager to embrace him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 12.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.220",
     "description":"Knowing that the car festival would take place in the morning, all the servants of Lord Jagannātha were doubling their offerings of food."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.94",
-    "h1":"Text 94",
+    "h1":"Cc. Ādi 7.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.94",
     "description":"\" 'When a person is actually advanced and takes pleasure in chanting the holy name of the Lord, who is very dear to him, he is agitated and loudly chants the holy name. He also laughs, cries, becomes agitated and chants just like a madman, not caring for outsiders.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 7.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.22",
     "description":"Śrī Pañca-tattva themselves danced again and again and thus made it easier to drink nectarean love of Godhead. They danced, cried, laughed and chanted like madmen, and in this way they distributed love of Godhead."
 }

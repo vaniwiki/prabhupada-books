@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 16.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.224",
     "description":"When Raghunātha dāsa went to see Śrī Caitanya Mahāprabhu, he fell at the Lord's lotus feet in ecstatic love. Showing him mercy, the Lord touched him with His feet."
 }

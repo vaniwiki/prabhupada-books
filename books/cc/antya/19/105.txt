@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 19.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.105",
     "description":"\"The activities and symptoms of that exalted personality in whose heart love of Godhead has awakened cannot be understood even by the most learned scholar.\""
 }

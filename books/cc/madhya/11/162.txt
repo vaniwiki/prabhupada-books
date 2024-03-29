@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.162",
-    "h1":"Text 162",
+    "h1":"Cc. Madhya 11.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.162",
     "description":"Śrī Caitanya Mahāprabhu then saw in the distance that Haridāsa Ṭhākura was lying down flat on the road offering obeisances."
 }

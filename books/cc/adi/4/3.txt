@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 4.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.3",
     "description":"I have described the meaning of the fourth verse. Now, O devotees, kindly hear the explanation of the fifth verse."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 20.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.191",
     "description":"\"From the original quadruple expansion, twenty-four forms are manifest. They differ according to the placement of weapons in Their four hands. They are called vaibhava-vilāsa."
 }

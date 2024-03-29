@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 3.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.161",
     "description":"All the people who came there during the day saw Lord Caitanya Mahāprabhu and the friendly behavior of Advaita Ācārya. At night they had the opportunity to see the Lord's dancing and hear His chanting."
 }

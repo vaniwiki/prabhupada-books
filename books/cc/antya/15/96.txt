@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 15.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.96",
     "description":"There He exhibited transcendental madness and ecstatic ravings, which Śrī Rūpa Gosvāmī has described very nicely in his Stava-mālā as follows."
 }

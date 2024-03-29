@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 8.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.75",
     "description":"When I prayed to the Lord for permission, a garland from His neck immediately slipped down."
 }

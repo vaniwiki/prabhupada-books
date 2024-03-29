@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.119",
-    "h1":"Text 119",
+    "h1":"Cc. Antya 10.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.119",
     "description":"\"Next there are varieties of food-cakes, cream, amṛta-maṇḍā and padmacini-given by Śrīvāsa Paṇḍita."
 }

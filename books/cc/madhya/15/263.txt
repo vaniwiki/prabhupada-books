@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.263",
-    "h1":"Text 263",
+    "h1":"Cc. Madhya 15.263",
+    "label":"Text 263",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.263",
     "description":"\"Instead, I shall never see the face of that blasphemer. I reject him and give up his relationship. I shall never even speak his name."
 }

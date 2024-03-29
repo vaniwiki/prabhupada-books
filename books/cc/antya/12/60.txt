@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 12.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.60",
     "description":"An intimate relationship sometimes makes a person overstep formal etiquette. Thus Parameśvara actually pleased the Lord in His heart by his simple and affectionate behavior."
 }

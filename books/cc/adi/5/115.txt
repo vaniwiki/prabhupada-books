@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.115",
-    "h1":"Text 115",
+    "h1":"Cc. Ādi 5.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.115",
     "description":"He then descends to maintain the material world. His unlimited opulences cannot be counted."
 }

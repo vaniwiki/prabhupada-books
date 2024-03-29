@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 15.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.245",
     "description":"At this time Bhaṭṭācārya had a son-in-law named Amogha, who was the husband of his daughter named Ṣāṭhī. Although born in an aristocratic brāhmaṇa family, this Amogha was a great faultfinder and blasphemer."
 }

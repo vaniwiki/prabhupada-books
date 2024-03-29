@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.350",
-    "h1":"Text 350",
+    "h1":"Cc. Madhya 20.350",
+    "label":"Text 350",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.350",
     "description":"Sanātana Gosvāmī had been a minister under Nawab Hussain Shah, and he was undoubtedly as intelligent as Bṛhaspati, the chief priest of the heavenly kingdom. Due to the Lord's unlimited mercy, Sanātana Gosvāmī questioned Him without hesitation."
 }

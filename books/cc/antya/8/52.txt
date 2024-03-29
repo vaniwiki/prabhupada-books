@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 8.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.52",
     "description":"After hearing this criticism, Śrī Caitanya Mahāprabhu was doubtful and apprehensive. Therefore He called Govinda and instructed him as follows."
 }

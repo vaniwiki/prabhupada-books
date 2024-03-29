@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 17.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.57",
     "description":"\"Śrīmatī Rādhārāṇī's ecstasy also made Her think of Kṛṣṇa as Cupid, and this understanding frightened Her. She said, 'This Cupid, who has conquered the whole world and entered My heart, is My greatest enemy, for He does not allow Me to forget Him.'"
 }

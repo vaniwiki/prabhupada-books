@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 17.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.189",
     "description":"When the people assembled, Śrī Caitanya Mahāprabhu raised His arms and said very loudly, \"Hari bol!\" The people responded to the Lord and became ecstatic. As if mad, they began to dance and vibrate the transcendental sound, \"Hari!\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 2.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.17",
     "description":"In this way Śrī Caitanya Mahāprabhu always expressed bewilderment and lamented in separation from Kṛṣṇa. At such times He used to recite the ślokas from Rāmānanda Rāya's drama known as Jagannātha-vallabha-nāṭaka."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 12.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.30",
     "description":"\"Today my birth, my family and my activities have all become successful. Today I have achieved the fulfillment of religious principles, economic development, satisfaction of the senses and ultimately devotional service to Lord Kṛṣṇa.\""
 }

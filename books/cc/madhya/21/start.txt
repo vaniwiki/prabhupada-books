@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21",
-    "h1":"Chapter 21",
+    "h1":"The Opulence and Sweetness of Lord Śrī Kṛṣṇa",
+    "label":"Chapter 21",
     "title":"Cc. Madhya 21: The Opulence and Sweetness of Lord Śrī Kṛṣṇa",
     "description":""
 }

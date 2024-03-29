@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 4.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.12",
     "description":"There were many rivers on the way, and at each river there was a tax collector. They did not hinder the Lord, however, and He showed them mercy. Finally He reached the village of Remuṇā."
 }

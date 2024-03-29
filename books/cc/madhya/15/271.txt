@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.271",
-    "h1":"Text 271",
+    "h1":"Cc. Madhya 15.271",
+    "label":"Text 271",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.271",
     "description":"At this time, Gopīnātha Ācārya went to see Śrī Caitanya Mahāprabhu, and the Lord asked him about the events taking place in Sārvabhauma Bhaṭṭācārya's house."
 }

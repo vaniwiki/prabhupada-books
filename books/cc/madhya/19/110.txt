@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 19.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.110",
     "description":"All the brāhmaṇas of the village were anxious to extend invitations to the Lord, but Vallabha Bhaṭṭācārya forbade them to do so."
 }

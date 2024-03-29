@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.103",
-    "h1":"Text 103",
+    "h1":"Cc. Ādi 17.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.103",
     "description":"On another day an astrologer came who was supposed to know everything-past, present and future. Thus Śrī Caitanya Mahāprabhu received him with all honor and put this question before him."
 }

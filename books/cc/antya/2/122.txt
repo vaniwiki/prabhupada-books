@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 2.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.122",
     "description":"The next day, all the devotees together approached the lotus feet of Śrī Caitanya Mahāprabhu to submit an appeal on behalf of Junior Haridāsa."
 }

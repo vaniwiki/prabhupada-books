@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 20.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.34",
     "description":"\"Be causelessly merciful to Me by giving Me a place with the particles of dust at Your lotus feet so that I may engage in the service of Your Lordship as Your eternal servant.\""
 }

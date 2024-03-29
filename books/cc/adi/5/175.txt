@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.175",
-    "h1":"Text 175",
+    "h1":"Cc. Ādi 5.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.175",
     "description":"\"These two brothers,\" I told him, \"are like one body; They are identical manifestations. If you do not believe in Lord Nityānanda, you will fall down."
 }

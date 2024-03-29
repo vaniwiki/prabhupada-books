@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 22.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.108",
     "description":"\"There are two processes of practical devotional service. One is regulative devotional service, and the other is spontaneous devotional service."
 }

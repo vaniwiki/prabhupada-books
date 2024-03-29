@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.99",
-    "h1":"Text 99",
+    "h1":"Cc. Ādi 17.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.99",
     "description":"On another day a great devotee of Lord Śiva, chanting of Lord Śiva's qualities, came to Lord Caitanya's house, where he began dancing in the courtyard and playing his ḍamaru [a musical instrument]."
 }

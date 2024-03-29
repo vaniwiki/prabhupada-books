@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 23.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.120",
     "description":"Sanātana Gosvāmī said, \"My dear Lord, I am a very lowborn person. Indeed, I am a servant to lowborn people; therefore I am very, very downtrodden. Nonetheless, You have taught me conclusions unknown even to Lord Brahmā."
 }

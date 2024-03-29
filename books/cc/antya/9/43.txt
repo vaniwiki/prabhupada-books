@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 9.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.43",
     "description":"\"Therefore if you want to save him, you should all pray together at the lotus feet of Jagannātha."
 }

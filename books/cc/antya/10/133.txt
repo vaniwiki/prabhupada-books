@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 10.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.133",
     "description":"Thus Śrī Caitanya Mahāprabhu spent the entire period of Cāturmāsya [the four months of the rainy season] in the happiness of discussing topics of Kṛṣṇa with His devotees."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 19.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.198",
     "description":"\"When Kṛṣṇa manifested His universal form, Arjuna became reverent and fearful, and he begged forgiveness for his past impudence toward Kṛṣṇa as a friend."
 }

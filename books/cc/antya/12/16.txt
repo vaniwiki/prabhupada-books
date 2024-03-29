@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 12.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.16",
     "description":"Śivānanda Sena took care of everyone and gave each devotee places to stay. He knew all the paths leading to Orissa."
 }

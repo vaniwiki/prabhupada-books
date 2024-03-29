@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 16.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.37",
     "description":"Kālidāsa licked the banana bark and the mango seeds and skins, and while licking them he was overwhelmed in jubilation by ecstatic love."
 }

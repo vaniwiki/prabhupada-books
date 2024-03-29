@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 10.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.65",
     "description":"\"Now that I have brought him here, I am asking him to leave. Now he can go wherever he likes, for I am no longer responsible for him.\""
 }

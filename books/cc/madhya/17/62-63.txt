@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.62-63",
-    "h1":"Text 62-63",
+    "h1":"Cc. Madhya 17.62-63",
+    "label":"Text 62-63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.62-63",
     "description":"Balabhadra Bhaṭṭācārya used to keep a stock of food grains that would last from two to four days. Where there were no people, he would cook the grains and prepare vegetables, spinach, roots and fruits collected from the forest."
 }

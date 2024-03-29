@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.73",
-    "h1":"Text 73",
+    "h1":"Cc. Antya 13.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.73",
     "description":"Jagadānanda Paṇḍita also offered obeisances to the Lord on behalf of Sanātana Gosvāmī. Then he gave the Lord the dust from the site of the rāsa dance and the other gifts."
 }

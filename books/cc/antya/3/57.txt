@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 3.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.57",
     "description":"\"Ajāmila was a great sinner during his life, but at the time of death he accidentally called for his youngest son, whose name was Nārāyaṇa, and the attendants of Lord Viṣṇu came to relieve him from the bonds of Yamarāja, the superintendent of death."
 }

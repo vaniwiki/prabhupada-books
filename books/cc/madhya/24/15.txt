@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 24.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.15",
     "description":"\"The word muni refers to one who is thoughtful, one who is grave or silent, an ascetic, one who keeps great vows, one in the renounced order, a saint. These are the different meanings of the word muni."
 }

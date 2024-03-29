@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 14.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.196",
     "description":"\"This ecstatic dress of Śrīmatī Rādhārāṇī's is called kuṭṭamita. When it is manifest, She externally tries to avoid Kṛṣṇa, and She apparently becomes angry, although She is very happy within."
 }

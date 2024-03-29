@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.205",
-    "h1":"Text 205",
+    "h1":"Cc. Antya 6.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.205",
     "description":"Svarūpa Dāmodara Gosvāmī accepted Raghunātha dāsa, saying, \"Śrī Caitanya Mahāprabhu, whatever You order is accepted.\" He then embraced Raghunātha dāsa again."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.89",
-    "h1":"Text 89",
+    "h1":"Cc. Ādi 10.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.89",
     "description":"The people in general on the western side of India were neither intelligent nor well behaved, but by the influence of Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī they were trained in devotional service and good behavior."
 }

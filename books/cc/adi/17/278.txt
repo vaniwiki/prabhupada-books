@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.278",
-    "h1":"Text 278",
+    "h1":"Cc. Ādi 17.278",
+    "label":"Text 278",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.278",
     "description":"It is firmly ascertained that the ecstatic mood of the gopīs is possible only before Kṛṣṇa, and no one else."
 }

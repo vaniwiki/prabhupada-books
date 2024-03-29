@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 5.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.116",
     "description":"Lord Gopāla stayed, and the two brāhmaṇas engaged in His service. After hearing of the incident, many people from different countries began to come to see Gopāla."
 }

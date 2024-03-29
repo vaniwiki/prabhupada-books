@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 6.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.8",
     "description":"That puruṣa creates and maintains with His external energy. He creates innumerable universes in His pastimes."
 }

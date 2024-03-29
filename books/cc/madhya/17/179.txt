@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 17.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.179",
     "description":"The brāhmaṇa belonged to the Sanoḍiyā brāhmaṇa community, and a sannyāsī does not accept food from such a brāhmaṇa."
 }

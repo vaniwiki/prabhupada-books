@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.211",
-    "h1":"Text 211",
+    "h1":"Cc. Antya 6.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.211",
     "description":"Raghunātha dāsa took his bath in the sea and saw Lord Jagannātha. Then he returned to Govinda, the personal servant of Śrī Caitanya Mahāprabhu."
 }

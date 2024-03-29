@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 19.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.3",
     "description":"After meeting Śrī Caitanya Mahāprabhu in the village of Rāmakeli, the brothers Rūpa and Sanātana returned to their homes."
 }

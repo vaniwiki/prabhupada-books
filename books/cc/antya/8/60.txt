@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 8.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.60",
     "description":"Thus both Śrī Caitanya Mahāprabhu and Govinda ate only half the food they needed. Because of this, all the other devotees gave up eating."
 }

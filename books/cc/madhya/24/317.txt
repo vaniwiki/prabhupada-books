@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.317",
-    "h1":"Text 317",
+    "h1":"Cc. Madhya 24.317",
+    "label":"Text 317",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.317",
     "description":"Śrī Caitanya Mahāprabhu replied, \"Why are you glorifying Me personally? You should understand the transcendental position of Śrīmad-Bhāgavatam. Why don't you consider this important point?"
 }

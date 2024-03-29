@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.144",
-    "h1":"Text 144",
+    "h1":"Cc. Ādi 10.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.144",
     "description":"Every day Rāmāi filled twenty-two big waterpots, whereas Nandāi personally assisted Govinda."
 }

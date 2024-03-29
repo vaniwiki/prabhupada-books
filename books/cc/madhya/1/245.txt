@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 1.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.245",
     "description":"After fully instructing Sanātana Gosvāmī, Śrī Caitanya Mahāprabhu sent him to Mathurā with empowered devotional service. In Benares He also bestowed His mercy upon the Māyāvādī sannyāsīs. He then returned to Nīlācala [Jagannātha Purī]."
 }

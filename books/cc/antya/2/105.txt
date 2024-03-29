@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 2.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.105",
     "description":"Śrī Caitanya Mahāprabhu accepted her as having formerly been an associate of Śrīmatī Rādhārāṇī. In the entire world, three and a half people were His intimate devotees."
 }

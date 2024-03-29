@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 3.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.61",
     "description":"The greatest ignorance consists of activities, whether religious or irreligious, that are opposed to devotional service. They are to be known as sins [kalmaṣa]."
 }

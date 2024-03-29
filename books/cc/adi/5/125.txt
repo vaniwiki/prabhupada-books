@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.125",
-    "h1":"Text 125",
+    "h1":"Cc. Ādi 5.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.125",
     "description":"That person of whom Lord Ananta is a kalā, or part of a plenary part, is Lord Nityānanda Prabhu. Who, therefore, can know the pastimes of Lord Nityānanda?"
 }

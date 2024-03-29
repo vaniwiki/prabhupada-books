@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 3.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.51",
     "description":"\"O King, in this way people in Dvāpara-yuga worshiped the Lord of the universe. In Kali-yuga they also worship the Supreme Personality of Godhead by the regulations of the revealed scriptures. Kindly now hear of that from me."
 }

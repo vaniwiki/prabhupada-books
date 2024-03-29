@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 4.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.54",
     "description":"One day when the Lord came to meet them, He suddenly began speaking to Sanātana Gosvāmī."
 }

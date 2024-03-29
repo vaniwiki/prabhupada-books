@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.243",
-    "h1":"Text 243",
+    "h1":"Cc. Madhya 16.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.243",
     "description":"After returning home, Raghunātha dāsa gave up all craziness and external pseudo renunciation and engaged in his household duties without attachment."
 }

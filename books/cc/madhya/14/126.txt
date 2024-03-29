@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 14.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.126",
     "description":"\"Since there is no fault at all in Kṛṣṇa's pastimes, why does the goddess of fortune become angry?\""
 }

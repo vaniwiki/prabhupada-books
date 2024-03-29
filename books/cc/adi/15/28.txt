@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 15.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.28",
     "description":"One day when the Lord was coming back from school He accidentally saw the daughter of Vallabhācārya on the way to the Ganges."
 }

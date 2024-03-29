@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 2.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.60",
     "description":"In this way, the Lord's restlessness was awakened by ecstatic feelings, and His mind became agitated. No one could understand what course such ecstasy would take. Because Lord Caitanya could not meet the Supreme Personality of Godhead, Kṛṣṇa, His mind burned. He began to ask Kṛṣṇa of the means by which He could reach Him."
 }

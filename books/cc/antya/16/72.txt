@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 16.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.72",
     "description":"\"This boy chants the mantra within his mind, but does not say it aloud. That is his intention, as far as I can guess.\""
 }

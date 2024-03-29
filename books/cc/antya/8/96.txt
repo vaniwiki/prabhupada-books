@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 8.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.96",
     "description":"Thus Rāmacandra Purī stayed for some days at Nīlācala [Jagannātha Purī]. Then he left to visit various holy places of pilgrimage."
 }

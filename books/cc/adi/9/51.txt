@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 9.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.51",
     "description":"The great gardener, Lord Caitanya, personally eats this fruit, and as a result He constantly remains mad, as if helpless and bewildered."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.162",
-    "h1":"Text 162",
+    "h1":"Cc. Madhya 22.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.162",
     "description":"\" 'My dear mother, Devahūti! O emblem of peace! My weapon, the disc of time, never vanquishes those for whom I am very dear, for whom I am the Supersoul, the son, friend, spiritual master, well-wisher, worshipable Deity and desired goal. Since the devotees are always attached to Me, they are never vanquished by the agents of time.'"
 }

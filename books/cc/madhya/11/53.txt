@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 11.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.53",
     "description":"Sārvabhauma Bhaṭṭācārya then suggested, \"There is one means by which you can directly see Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.44",
-    "h1":"Text 44",
+    "h1":"Cc. Ādi 14.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.44",
     "description":"Then Śacīmātā would take her son on her lap and pacify Him, and the Lord would be very much ashamed, admitting His own faults."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 2.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.101",
     "description":"One day Bhagavān Ācārya invited Śrī Caitanya Mahāprabhu to dine at his home. Thus he was preparing rice and various types of vegetables."
 }

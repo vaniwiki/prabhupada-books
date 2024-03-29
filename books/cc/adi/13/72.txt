@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 13.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.72",
     "description":"Before the birth of Lord Caitanya Mahāprabhu, eight daughters took birth one after another from the womb of Śacīmātā, the wife of Jagannātha Miśra. But just after their birth, they all died."
 }

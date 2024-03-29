@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 13.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.22",
     "description":"For the pastimes of the Ratha-yātrā ceremony, Lord Jagannātha got aboard one car, and His sister, Subhadrā, and elder brother, Balarāma, got aboard two other cars."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 13.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.193",
     "description":"When they reached the place called Balagaṇḍi, Lord Jagannātha stopped His car and began to look left and right."
 }

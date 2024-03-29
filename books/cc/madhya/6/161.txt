@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 6.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.161",
     "description":"\"In His spiritual potency, the Supreme Lord enjoys six kinds of opulence. You do not accept this spiritual potency, and this is due to your great impudence."
 }

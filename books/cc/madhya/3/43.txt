@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 3.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.43",
     "description":"Of the three divisions, one was arranged on a metal plate, and the other two were arranged on plantain leaves. These leaves were not bifurcated, and they were taken from a banana tree that held at least thirty-two bunches of bananas. The two plates were filled very nicely with the kinds of food described below."
 }

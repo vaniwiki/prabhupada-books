@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 11.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.75",
     "description":"Hearing this, all the shopkeepers immediately came forward with big baskets of prasāda, which they jubilantly delivered to Lord Caitanya."
 }

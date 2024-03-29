@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.210",
-    "h1":"Text 210",
+    "h1":"Cc. Ādi 5.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.210",
     "description":"Although I am sinful and I am the most fallen, He has conferred upon me the lotus feet of Śrī Rūpa Gosvāmī."
 }

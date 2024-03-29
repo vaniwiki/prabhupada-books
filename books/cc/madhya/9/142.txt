@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 9.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.142",
     "description":"\"Lord Nārāyaṇa, the opulent form of Kṛṣṇa, attracts the minds of the goddess of fortune and her followers."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 9.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.180",
     "description":"After bathing in the river Kṛtamālā, Śrī Caitanya Mahāprabhu went to the brāhmaṇa's house to take lunch, but He saw that the food was unprepared because the brāhmaṇa had not cooked it."
 }

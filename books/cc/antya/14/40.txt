@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 14.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.40",
     "description":"At night, Lord Caitanya would reveal to Svarūpa Dāmodara and Rāmānanda Rāya the ecstatic feelings of His mind."
 }

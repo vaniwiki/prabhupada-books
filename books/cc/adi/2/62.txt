@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 2.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.62",
     "description":"In this way their arguments appear in various forms, but the poetry of the Bhāgavatam expertly refutes them all."
 }

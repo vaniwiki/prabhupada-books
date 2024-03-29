@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 9.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.226",
     "description":"Śrī Caitanya Mahāprabhu was accompanied by His servant, Kṛṣṇadāsa. He was a brāhmaṇa, but he met with the Bhaṭṭathāris there."
 }

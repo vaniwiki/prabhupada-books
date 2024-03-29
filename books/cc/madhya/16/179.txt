@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 16.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.179",
     "description":"Upon seeing Śrī Caitanya Mahāprabhu from a distant place, the Mohammedan governor fell to the ground and offered obeisances. Tears came to his eyes, and he was jubilant with ecstatic emotions."
 }

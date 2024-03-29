@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 4.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.45",
     "description":"\"Increasing love is experienced in various tastes, one above another. But that love which has the highest taste in the gradual succession of desire manifests itself in the form of conjugal love.\""
 }

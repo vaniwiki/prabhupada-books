@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 9.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.113",
     "description":"\"Just to associate with Kṛṣṇa, Lakṣmī abandoned all transcendental happiness in Vaikuṇṭha and for a long time accepted vows and regulative principles and performed unlimited austerities.\""
 }

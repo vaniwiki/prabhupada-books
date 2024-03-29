@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 21.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.116",
     "description":"\"Even the dearest consort of Nārāyaṇa, the goddess of fortune, who is worshiped by all chaste women, is captivated by the unparalleled sweetness of Kṛṣṇa. She even gave up everything in her desire to enjoy Kṛṣṇa, and taking a great vow, she underwent severe austerities."
 }

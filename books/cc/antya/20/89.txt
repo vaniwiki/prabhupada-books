@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.89",
-    "h1":"Text 89",
+    "h1":"Cc. Antya 20.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.89",
     "description":"Whatever remnants of milk Vṛndāvana dāsa Ṭhākura has given me are sufficient to fill my belly. Now my thirst is completely satiated."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 14.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.61",
     "description":"When this cunning behavior of the Lord with the girls became known to the people in general, it did not create misunderstandings among them. Rather, they enjoyed happiness in these dealings."
 }

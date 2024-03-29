@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.243",
-    "h1":"Text 243",
+    "h1":"Cc. Ādi 17.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.243",
     "description":"One day when Śrī Caitanya Mahāprabhu had finished His dancing, a woman, the wife of a brāhmaṇa, came there and caught hold of His lotus feet."
 }

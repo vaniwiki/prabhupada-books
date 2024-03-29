@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.232",
-    "h1":"Text 232",
+    "h1":"Cc. Madhya 15.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.232",
     "description":"Sārvabhauma Bhaṭṭācārya said, \"It is not so wonderful, my Lord. Everything has been made possible by the energy and mercy of He who will eat the food."
 }

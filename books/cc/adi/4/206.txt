@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.206",
-    "h1":"Text 206",
+    "h1":"Cc. Ādi 4.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.206",
     "description":"\"These are the characteristics of transcendental loving service to Puruṣottama, the Supreme Personality of Godhead: it is causeless, and it cannot be obstructed in any way."
 }

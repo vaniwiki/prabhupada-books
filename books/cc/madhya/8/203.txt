@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 8.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.203",
     "description":"\"Without the gopīs, these pastimes between Rādhā and Kṛṣṇa cannot be nourished. Only by their cooperation are such pastimes broadcast. It is their business to taste the mellows."
 }

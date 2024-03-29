@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 5.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.81",
     "description":"The young brāhmaṇa took this opportunity to speak: \"Please write this down on paper in black and white so that you may not again change your word of honor.\""
 }

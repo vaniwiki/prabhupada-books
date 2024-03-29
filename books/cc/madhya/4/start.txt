@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4",
-    "h1":"Chapter 4",
+    "h1":"Śrī Mādhavendra Puri’s Devotional Service",
+    "label":"Chapter 4",
     "title":"Cc. Madhya 4: Śrī Mādhavendra Puri’s Devotional Service",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.307",
-    "h1":"Text 307",
+    "h1":"Cc. Ādi 17.307",
+    "label":"Text 307",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.307",
     "description":"If one simply adheres to mundane arguments and therefore does not accept this, he will boil in the hell of Kumbhīpāka. For him there is no deliverance."
 }

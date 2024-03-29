@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 5.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.45",
     "description":"\"If you simply say, 'I do not remember,' I shall take care of the rest. By argument, I shall defeat the young brāhmaṇa.\""
 }

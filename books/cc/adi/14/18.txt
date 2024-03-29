@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.18",
-    "h1":"Text 18",
+    "h1":"Cc. Ādi 14.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.18",
     "description":"\"I propose to perform a name-giving ceremony. We should observe a festival and call for the brāhmaṇas because today is very auspicious."
 }

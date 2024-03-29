@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.213",
-    "h1":"Text 213",
+    "h1":"Cc. Ādi 5.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.213",
     "description":"He enjoys the rāsa dance with Śrīmatī Rādhārāṇī, Śrī Lalitā and others. He manifests Himself as the Cupid of Cupids."
 }

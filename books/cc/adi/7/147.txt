@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.147",
-    "h1":"Text 147",
+    "h1":"Cc. Ādi 7.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.147",
     "description":"When all the Māyāvādī sannyāsīs thus heard the explanation of Caitanya Mahāprabhu on the basis of sambandha, abhidheya and prayojana, they spoke very humbly."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 7.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.38",
     "description":"\"When, along the way, You fall unconscious in ecstatic love of Godhead, who will protect Your belongings—the waterpot, garments and so forth?\""
 }

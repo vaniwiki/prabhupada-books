@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 14.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.58",
     "description":"In a moment the car reached the door of the Guṇḍicā temple. Upon seeing the uncommon strength of Śrī Caitanya Mahāprabhu, all the people were struck with wonder."
 }

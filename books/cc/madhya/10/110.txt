@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 10.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.110",
     "description":"Svarūpa Dāmodara was the limit of all learned scholarship, but he did not exchange words with anyone. He simply remained in a solitary place, and no one could understand where he was."
 }

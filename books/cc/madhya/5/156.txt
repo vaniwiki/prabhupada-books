@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.156",
-    "h1":"Text 156",
+    "h1":"Cc. Madhya 5.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.156",
     "description":"Śrī Caitanya Mahāprabhu then began to walk very swiftly before all the other devotees. No one could understand the real purpose of the two Lords, Caitanya Mahāprabhu and Nityānanda Prabhu."
 }

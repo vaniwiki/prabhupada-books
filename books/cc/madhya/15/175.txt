@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 15.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.175",
     "description":"\"The entire spiritual world constitutes the unlimited opulence of Kṛṣṇa, and there are innumerable Vaikuṇṭha planets there. The Causal Ocean is considered the surrounding waters of Vaikuṇṭhaloka."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.115",
-    "h1":"Text 115",
+    "h1":"Cc. Antya 2.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.115",
     "description":"Haridāsa fasted continuously for three days. Then Svarūpa Dāmodara Gosvāmī and other confidential devotees approached Śrī Caitanya Mahāprabhu to inquire from Him."
 }

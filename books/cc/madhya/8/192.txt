@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 8.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.192",
     "description":"Rāya Rāmānanda then informed Śrī Caitanya Mahāprabhu that there was another topic, known as prema-vilāsa-vivarta. \"You may hear of this from me,\" Rāmānanda Rāya said, \"but I do not know whether You will be happy with it or not.\""
 }

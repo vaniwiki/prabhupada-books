@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 8.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.101",
     "description":"The character of Śrī Caitanya Mahāprabhu is full of nectar. Hearing about it is pleasing to the ear and mind."
 }

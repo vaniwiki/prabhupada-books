@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.37",
-    "h1":"Text 37",
+    "h1":"Cc. Ādi 8.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.37",
     "description":"In Śrī Caitanya-maṅgala [later known as Śrī Caitanya-bhāgavata] Śrīla Vṛndāvana dāsa Ṭhākura has given the conclusion and essence of devotional service by quoting the authoritative statements of Śrīmad-Bhāgavatam."
 }

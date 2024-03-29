@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 13.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.118",
     "description":"When Caitanya Mahāprabhu was dramatically enacting the song, He would sometimes fall behind in the procession. At such times, Lord Jagannātha would come to a standstill. When Caitanya Mahāprabhu again went forward, Lord Jagannātha's car would slowly start again."
 }

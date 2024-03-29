@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 12.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.103",
     "description":"They filled a large earthen pot with the aromatic oil, and with great care Jagadānanda Paṇḍita brought it to Nīlācala, Jagannātha Purī."
 }

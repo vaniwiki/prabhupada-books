@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.162",
-    "h1":"Text 162",
+    "h1":"Cc. Madhya 15.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.162",
     "description":"\"My Lord, my heart breaks to see the sufferings of all conditioned souls; therefore I request You to transfer the karma of their sinful lives upon my head."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 1.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.55",
     "description":"Śrīla Rūpa Gosvāmī offered his respectful obeisances unto the lotus feet of them all, and all the devotees, by their mercy, embraced him."
 }

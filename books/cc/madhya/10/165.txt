@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 10.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.165",
     "description":"Lord Śrī Caitanya Mahāprabhu replied, \"Actually, to tell you the truth, due to your presence there are now two Brahmans at Jagannātha Purī."
 }

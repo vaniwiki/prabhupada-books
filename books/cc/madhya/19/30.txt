@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 19.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.30",
     "description":"The Nawab again arrested Sanātana Gosvāmī and kept him in prison. At this time, Śrī Caitanya Mahāprabhu departed for Vṛndāvana from Jagannātha Purī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.310",
-    "h1":"Text 310",
+    "h1":"Cc. Madhya 8.310",
+    "label":"Text 310",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.310",
     "description":"He who has accepted as everything the lotus feet of Śrī Caitanya Mahāprabhu, Nityānanda Prabhu and Advaita Prabhu can attain this transcendental treasure."
 }

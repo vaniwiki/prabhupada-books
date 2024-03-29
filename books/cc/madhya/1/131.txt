@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 1.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.131",
     "description":"All the devotees from Bengal gradually began arriving at Jagannātha Purī. At this time, the residents of Kulīna-grāma also came to see Śrī Caitanya Mahāprabhu for the first time."
 }

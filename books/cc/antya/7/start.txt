@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7",
-    "h1":"Chapter 7",
+    "h1":"The Meeting of Śrī Caitanya Mahāprabhu and Vallabha Bhaṭṭa",
+    "label":"Chapter 7",
     "title":"Cc. Antya 7: The Meeting of Śrī Caitanya Mahāprabhu and Vallabha Bhaṭṭa",
     "description":""
 }

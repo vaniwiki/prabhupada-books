@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 24.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.83",
     "description":"\"If one follows the path of philosophical speculation, the Absolute Truth manifests Himself as impersonal Brahman, and if one follows the path of mystic yoga, He manifests Himself as the Supersoul."
 }

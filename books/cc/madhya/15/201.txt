@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 15.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.201",
     "description":"After returning to his home, Sārvabhauma Bhaṭṭācārya gave orders to his wife, and his wife, known as Ṣāṭhīra Mātā, the mother of Ṣāṭhī, began cooking with great pleasure."
 }

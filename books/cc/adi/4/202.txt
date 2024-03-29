@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.202",
-    "h1":"Text 202",
+    "h1":"Cc. Ādi 4.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.202",
     "description":"\"Śrī Dāruka did not relish his ecstatic feelings of love, for they caused his limbs to become stunned and thus obstructed his service of fanning Lord Kṛṣṇa.\""
 }

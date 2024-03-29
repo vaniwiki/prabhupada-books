@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 14.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.69",
     "description":"Since they could not get one day each, two or three devotees combined to extend an invitation. These are the pastimes of Lord Śrī Caitanya Mahāprabhu's acceptance of invitations."
 }

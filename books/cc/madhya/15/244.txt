@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.244",
-    "h1":"Text 244",
+    "h1":"Cc. Madhya 15.244",
+    "label":"Text 244",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.244",
     "description":"Hearing this, Śrī Caitanya Mahāprabhu smiled and sat down to eat. Bhaṭṭācārya, with great pleasure, first offered Him the prasāda from the Jagannātha temple."
 }

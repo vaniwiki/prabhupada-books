@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 17.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.78",
     "description":"\" 'Since I am but a poor, sinful brahma-bandhu, not brahminically qualified although born in a brāhmaṇa family, and You, Lord Kṛṣṇa, are the shelter of the goddess of fortune, it is simply wonderful, my dear Lord Kṛṣṇa, that You have embraced me with Your arms.' \""
 }

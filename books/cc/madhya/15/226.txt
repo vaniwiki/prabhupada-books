@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 15.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.226",
     "description":"\"Even a hundred men cooking on a hundred ovens could not possibly finish all these preparations within so short a time."
 }

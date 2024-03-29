@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 3.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.23",
     "description":"\"You are the most neutral among My associates. This is very good, for without being neutral one cannot protect religious principles."
 }

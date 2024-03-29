@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 1.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.1",
     "description":"I offer my respectful obeisances to Śrī Kṛṣṇa Caitanya Mahāprabhu, by whose mercy even a lame man can cross over a mountain and a dumb man recite Vedic literature."
 }

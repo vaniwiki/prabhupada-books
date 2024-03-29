@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 24.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.48",
     "description":"\" 'I offer my respectful obeisances unto Śrīla Śukadeva Gosvāmī, the son of Vyāsadeva. He is the destroyer of all sinful reactions and is full in self-realization and bliss. Because of this, he has no other desire. Still, he was attracted by the transcendental pastimes of the Supreme Personality of Godhead, and out of compassion for the people, he described the transcendental historical literature called Śrīmad-Bhāgavatam. This is compared to the light of the Absolute Truth.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 11.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.34",
     "description":"Balarāma dāsa always fully tasted the nectar of love of Kṛṣṇa. Upon hearing the name of Nityānanda Prabhu, he would become greatly maddened."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 19.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.32",
     "description":"Suddenly there awoke within Śrī Caitanya Mahāprabhu the scene of Lord Kṛṣṇa's departure to Mathurā, and He began exhibiting the symptom of ecstatic madness known as udghūrṇā."
 }

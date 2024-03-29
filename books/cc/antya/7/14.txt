@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 7.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.14",
     "description":"\"Without being especially empowered by Kṛṣṇa, one cannot manifest ecstatic love of Kṛṣṇa, for Kṛṣṇa is the only one who gives ecstatic love. That is the verdict of all revealed scriptures."
 }

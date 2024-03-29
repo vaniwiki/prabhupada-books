@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 20.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.86",
     "description":"The mendicant replied, \"Sir, you are a respectable gentleman. Why are you joking with me? Why would you trade your valuable blanket for my torn quilt?\""
 }

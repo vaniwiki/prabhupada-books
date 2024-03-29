@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 19.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.106",
     "description":"\" 'The form of Śyāmasundara is the supreme form, the city of Mathurā is the supreme abode, Lord Kṛṣṇa's fresh youth should always be meditated upon, and the mellow of conjugal love is the supreme mellow.' \""
 }

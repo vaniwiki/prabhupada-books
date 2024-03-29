@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 5.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.31",
     "description":"The younger brāhmaṇa replied, \"If you have decided to give your young daughter to me, then say so before the Gopāla Deity.\""
 }

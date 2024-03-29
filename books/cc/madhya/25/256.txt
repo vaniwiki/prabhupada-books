@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.256",
-    "h1":"Text 256",
+    "h1":"Cc. Madhya 25.256",
+    "label":"Text 256",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.256",
     "description":"In the Seventeenth Chapter I have described the Lord's journey through the great forest of Jhārikhaṇḍa and His arrival at Mathurā. In the Eighteenth Chapter there is a description of His tour of the forest of Vṛndāvana."
 }

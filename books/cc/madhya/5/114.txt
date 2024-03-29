@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 5.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.114",
     "description":"The Lord continued, \"I have become very pleased by the truthfulness of you both. Now you can ask for a benediction.\" Thus with great pleasure the two brāhmaṇas begged for a benediction."
 }

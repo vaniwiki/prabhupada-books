@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 2.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.11",
     "description":"Having seen the Lord, they all became Vaiṣṇavas. Thus they danced and chanted the Hare Kṛṣṇa mantra in ecstatic love of Godhead."
 }

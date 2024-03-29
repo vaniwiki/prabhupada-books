@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 18.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.83",
     "description":"After bathing at Keśī-tīrtha, Kṛṣṇadāsa went toward Kālīya-daha and suddenly saw Śrī Caitanya Mahāprabhu sitting at Āmli-talā [Teṅtulī-talā]."
 }

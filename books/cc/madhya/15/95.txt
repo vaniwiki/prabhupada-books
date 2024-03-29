@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.95",
-    "h1":"Text 95",
+    "h1":"Cc. Madhya 15.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.95",
     "description":"\"Being a householder, Vāsudeva Datta needs to save some money. Because he is not doing so, it is very difficult for him to maintain his family."
 }

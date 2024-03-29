@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 6.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.154",
     "description":"\" 'The internal potency of the Supreme Lord, Viṣṇu, is spiritual, as verified by the śāstras. There is another spiritual potency, known as kṣetra-jña, or the living entity. The third potency, which is known as nescience, makes the living entity godless and fills him with fruitive activity."
 }

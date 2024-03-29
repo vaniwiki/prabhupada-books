@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 18.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.145",
     "description":"\"It is now the beginning of the month of Māgha. If we go to Prayāga at this time, we shall have an opportunity to bathe for a few days during Makara-saṅkrānti.\""
 }

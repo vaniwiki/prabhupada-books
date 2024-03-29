@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.128",
-    "h1":"Text 128",
+    "h1":"Cc. Antya 2.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.128",
     "description":"The next day, all the devotees went to Śrī Paramānanda Purī and requested him to pacify the Lord."
 }

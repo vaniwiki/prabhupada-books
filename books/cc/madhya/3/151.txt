@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 3.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.151",
     "description":"The Lord met all the devotees one after the other, and looking at everyone's face individually, He embraced them tightly."
 }

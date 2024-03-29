@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 1.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.68",
     "description":"When Rūpa Gosvāmī fell down like a rod, Śrī Caitanya Mahāprabhu got up and gave him a slap. Then, taking him on His lap, He began to speak to him."
 }

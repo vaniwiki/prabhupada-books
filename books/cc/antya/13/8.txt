@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.8",
-    "h1":"Text 8",
+    "h1":"Cc. Antya 13.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.8",
     "description":"In this way he made a quilt and a pillow, which he then gave to Govinda, saying, \"Ask the Lord to lie on this.\""
 }

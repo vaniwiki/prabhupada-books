@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.99",
-    "h1":"Text 99",
+    "h1":"Cc. Madhya 20.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.99",
     "description":"Sanātana Gosvāmī said, \"I was born in a low family, and my associates are all low-class men. I myself am fallen and am the lowest of men. Indeed, I have passed my whole life fallen in the well of sinful materialism."
 }

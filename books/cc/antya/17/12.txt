@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 17.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.12",
     "description":"He went to a cow shed on the southern side of the Siṁha-dvāra. There the Lord fell down unconscious among cows from the district of Tailaṅga."
 }

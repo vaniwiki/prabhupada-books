@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.77",
-    "h1":"Text 77",
+    "h1":"Cc. Ādi 10.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.77",
     "description":"Devānanda Paṇḍita was a professional reciter of Śrīmad-Bhāgavatam, but by the mercy of Vakreśvara Paṇḍita and the grace of the Lord he understood the devotional interpretation of the Bhāgavatam."
 }

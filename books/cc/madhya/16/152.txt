@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 16.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.152",
     "description":"In each and every village, in compliance with the King's order, government officers constructed new houses and filled each of them with stocks of grains. Thus they served the Lord."
 }

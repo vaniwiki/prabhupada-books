@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 18.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.118",
     "description":"\"By Your bodily features we can see that You are none other than the son of Nanda Mahārāja, although the golden luster of Your body has covered Your original complexion."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 18.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.153",
     "description":"Śrī Caitanya Mahāprabhu said, \"You have brought Me here to show Me Vṛndāvana. I am very much indebted to you, and I shall not be able to repay this debt."
 }

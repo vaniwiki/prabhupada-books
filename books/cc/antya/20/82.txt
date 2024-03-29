@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 20.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.82",
     "description":"Vṛndāvana dāsa Ṭhākura is Lord Nityānanda's favorite devotee, and therefore he is the original Vyāsadeva in describing the pastimes of Śrī Caitanya Mahāprabhu."
 }

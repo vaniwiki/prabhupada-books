@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 10.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.53",
     "description":"Śrī Gadādhara dāsa, the twenty-third branch, was understood to be the topmost, for he induced all the Muslim Kāzīs to chant the holy name of Lord Hari."
 }

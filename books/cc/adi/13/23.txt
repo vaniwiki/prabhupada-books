@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 13.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.23",
     "description":"In His childhood, when the Lord was crying, He would stop immediately upon hearing the holy names Kṛṣṇa and Hari."
 }

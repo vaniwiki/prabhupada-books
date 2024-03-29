@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 18.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.154",
     "description":"\"Whatever you desire, I must do. Wherever you take Me, I shall go.\""
 }

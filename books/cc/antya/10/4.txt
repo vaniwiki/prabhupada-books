@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 10.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.4",
     "description":"Advaita Ācārya Gosāñi led the party from Bengal. He was followed by Ācāryaratna, Ācāryanidhi, Śrīvāsa Ṭhākura and other glorious devotees."
 }

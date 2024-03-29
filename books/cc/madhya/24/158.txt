@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 24.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.158",
     "description":"\"By these three divisions of advancement in yoga-yogārurukṣu, yogārūḍha and prāpta-siddhi—there are six kinds of mystic yogīs."
 }

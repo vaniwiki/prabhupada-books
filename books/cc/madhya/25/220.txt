@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 25.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.220",
     "description":"When Rūpa Gosvāmī saw that all the people of Vārāṇasī respected Śrī Caitanya Mahāprabhu, he became very happy. He even heard stories from the general populace."
 }

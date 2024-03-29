@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.306",
-    "h1":"Text 306",
+    "h1":"Cc. Antya 6.306",
+    "label":"Text 306",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.306",
     "description":"When Raghunātha dāsa received from Śrī Caitanya Mahāprabhu the stone and the garland of conchshells, he could understand the Lord's intention. Thus he thought as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 11.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.71",
     "description":"After saṅkīrtana, Śrī Caitanya Mahāprabhu bathed in the sea with His devotees, swimming and playing in the water in great jubilation."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 12.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.24",
     "description":"Advaita Ācārya chanted various mantras, but Gopāla did not come to consciousness. Thus all the Vaiṣṇavas present cried in sorrow at His plight."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 3.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.159",
     "description":"The supplies of Advaita Ācārya were inexhaustible and indestructible. As many goods and commodities as He used, just as many again appeared."
 }

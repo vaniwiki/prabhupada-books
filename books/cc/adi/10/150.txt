@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.150",
-    "h1":"Text 150",
+    "h1":"Cc. Ādi 10.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.150",
     "description":"Acyutānanda, the thirty-fifth devotee, was the son of Advaita Ācārya. He also lived with Lord Caitanya, taking shelter of His lotus feet at Jagannātha Purī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.14",
-    "h1":"Text 14",
+    "h1":"Cc. Madhya 24.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.14",
     "description":"\"My dear Sanātana, first hear the meanings of the other words, beginning with the word muni. I shall first explain their separate meanings, then combine them."
 }

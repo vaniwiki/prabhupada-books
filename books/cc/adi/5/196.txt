@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.196",
-    "h1":"Text 196",
+    "h1":"Cc. Ādi 5.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.196",
     "description":"After saying this, He directed me toward Vṛndāvana by waving His hand. Then He disappeared with His associates."
 }

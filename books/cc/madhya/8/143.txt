@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 8.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.143",
     "description":"\"Kṛṣṇa is all-attractive for devotees in all devotional mellows because He is the personification of the conjugal mellow. Kṛṣṇa is attractive not only to all the devotees, but to Himself as well."
 }

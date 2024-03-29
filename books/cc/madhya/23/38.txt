@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 23.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.38",
     "description":"\"These are the symptoms of a person who has developed attraction [bhāva] for Kṛṣṇa. Now let me describe the symptoms of a person who is actually elevated to love of Kṛṣṇa. O Sanātana, please hear this from Me."
 }

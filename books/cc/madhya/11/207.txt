@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 11.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.207",
     "description":"Then Śrī Caitanya Mahāprabhu personally sat down to accept lunch with the other sannyāsīs, and Gopīnātha Ācārya began to distribute the prasāda with great pleasure."
 }

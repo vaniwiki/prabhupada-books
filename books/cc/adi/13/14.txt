@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 13.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.14",
     "description":"The pastimes of His household life are known as ādi-līlā, or the original pastimes. His later pastimes are known as madhya-līlā and antya-līlā, or the middle and final pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 3.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.55",
     "description":"In two places there were earthen pots filled with another preparation made with yogurt, sandeśa [a sweetmeat made with curd] and banana. I am unable to describe it all."
 }

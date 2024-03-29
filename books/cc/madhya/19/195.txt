@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 19.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.195",
     "description":"\"On the transcendental platform of neutrality and service, sometimes the opulence of the Lord is prominent. However, in the transcendental mellows of fraternal, paternal and conjugal love, the opulence is minimized."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 6.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.245",
     "description":"Offering his obeisances to Gopīnātha Ācārya, the Bhaṭṭācārya said, \"Because I am related to you and you are a devotee, by your mercy the Lord has shown mercy to me."
 }

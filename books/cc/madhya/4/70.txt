@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 4.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.70",
     "description":"The vegetable preparations were made from various kinds of spinach, roots and fruits collected from the forest, and someone had made baḍā and baḍi by mashing dāl. In this way the brāhmaṇas prepared all kinds of food."
 }

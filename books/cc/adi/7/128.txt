@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.128",
-    "h1":"Text 128",
+    "h1":"Cc. Ādi 7.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.128",
     "description":"\"The Vedic sound vibration oṁkāra, the principal word in the Vedic scriptures, is the basis of all Vedic vibrations. Therefore one should accept oṁkāra as the sound representation of the Supreme Personality of Godhead and the reservoir of the cosmic manifestation."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.114",
-    "h1":"Text 114",
+    "h1":"Cc. Antya 7.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.114",
     "description":"\"Whatever Śrīdhara Svāmī reads he explains according to the circumstances. Therefore he is inconsistent in his explanations and cannot be accepted as an authority.\""
 }

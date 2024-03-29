@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.85",
-    "h1":"Text 85",
+    "h1":"Cc. Antya 12.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.85",
     "description":"As a wooden doll dances to the will of a puppeteer, everything is accomplished by the will of the Lord. Who can understand the characteristics of the Supreme Personality of Godhead?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.248",
-    "h1":"Text 248",
+    "h1":"Cc. Madhya 6.248",
+    "label":"Text 248",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.248",
     "description":"After visiting the temple of Lord Jagannātha, Sārvabhauma Bhaṭṭācārya returned home with Jagadānanda and Dāmodara."
 }

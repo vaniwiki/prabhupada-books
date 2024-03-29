@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.120",
-    "h1":"Text 120",
+    "h1":"Cc. Antya 20.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.120",
     "description":"In the Twelfth Chapter are descriptions of how Jagadānanda Paṇḍita broke a pot of oil and how Lord Nityānanda chastised Śivānanda Sena."
 }

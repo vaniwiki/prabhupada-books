@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 3.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.148",
     "description":"When Lord Nityānanda returned to Bengal to preach the cult of bhakti, love of Godhead, He began touring all over the country."
 }

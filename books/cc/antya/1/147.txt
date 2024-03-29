@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.147",
-    "h1":"Text 147",
+    "h1":"Cc. Antya 1.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.147",
     "description":"Rāmānanda Rāya inquired, \"What are the characteristics of emotional love?\" Rūpa Gosvāmī replied, \"This is the nature of emotional love for Kṛṣṇa."
 }

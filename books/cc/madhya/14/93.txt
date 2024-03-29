@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 14.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.93",
     "description":"Whatever extra prasāda was brought by Vāṇīnātha Rāya was taken by the other associates of Śrī Caitanya Mahāprabhu."
 }

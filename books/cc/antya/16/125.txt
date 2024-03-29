@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.125",
-    "h1":"Text 125",
+    "h1":"Cc. Antya 16.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.125",
     "description":"\"That flute is a very cunning male who drinks again and again the taste of another male's lips. It advertises its qualities and says to the gopīs, 'O gopīs, if you are so proud of being women, come forward and enjoy your property—the nectar of the lips of the Supreme Personality of Godhead.'"
 }

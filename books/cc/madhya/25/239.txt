@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.239",
-    "h1":"Text 239",
+    "h1":"Cc. Madhya 25.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.239",
     "description":"Whoever hears Śrī Caitanya Mahāprabhu's pastimes with faith and love very soon attains shelter at the Lord's lotus feet."
 }

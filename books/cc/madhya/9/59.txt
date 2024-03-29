@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 9.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.59",
     "description":"The Lord then replied to the Buddhist disciples, \"You should all chant the names of Kṛṣṇa and Hari very loudly near the ear of your spiritual master."
 }

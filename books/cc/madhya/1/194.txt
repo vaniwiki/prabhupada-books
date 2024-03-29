@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.194",
-    "h1":"Text 194",
+    "h1":"Cc. Madhya 1.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.194",
     "description":"\"Jagāi and Mādhāi had but one fault—they were addicted to sinful activity. However, volumes of sinful activity can be burned to ashes simply by a dim reflection of the chanting of Your holy name."
 }

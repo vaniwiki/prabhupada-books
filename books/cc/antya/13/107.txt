@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.107",
-    "h1":"Text 107",
+    "h1":"Cc. Antya 13.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.107",
     "description":"Raghunātha Bhaṭṭa was an expert cook. Whatever he prepared tasted just like nectar."
 }

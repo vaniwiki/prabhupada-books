@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.64",
-    "h1":"Text 64",
+    "h1":"Cc. Madhya 4.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.64",
     "description":"After the bathing ceremony was finished, incense and lamps were burned and all kinds of food offered before the Deity. These foods included yogurt, milk and as many sweetmeats as were received."
 }

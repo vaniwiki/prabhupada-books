@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 16.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.189",
     "description":"The Mohammedan governor then prayed for liberation from the unlimited sinful activities he had previously incurred by being envious of brāhmaṇas and Vaiṣṇavas and killing cows."
 }

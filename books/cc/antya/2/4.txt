@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 2.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.4",
     "description":"The Lord delivered the fallen souls in some places by meeting them directly, in other places by empowering a pure devotee, and in still other places by appearing before someone Himself."
 }

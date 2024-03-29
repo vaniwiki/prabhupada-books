@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 6.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.199",
     "description":"Upon hearing Caitanya Mahāprabhu's explanation of the ātmārāma verse, Sārvabhauma Bhaṭṭācārya was struck with wonder. He then understood Lord Śrī Caitanya Mahāprabhu to be Kṛṣṇa in person, and he thus condemned himself in the following words."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.93",
-    "h1":"Text 93",
+    "h1":"Cc. Ādi 5.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.93",
     "description":"I offer my full obeisances unto the feet of Śrī Nityānanda Rāma, a partial part of whom is Garbhodakaśāyī Viṣṇu. From the navel of Garbhodakaśāyī Viṣṇu sprouts the lotus that is the birthplace of Brahmā, the engineer of the universe. The stem of that lotus is the resting place of the multitude of planets."
 }

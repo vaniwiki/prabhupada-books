@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.216",
-    "h1":"Text 216",
+    "h1":"Cc. Ādi 5.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.216",
     "description":"The mercy of Lord Nityānanda showed me Śrī Madanamohana and gave me Śrī Madanamohana as my Lord and master."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.197",
-    "h1":"Text 197",
+    "h1":"Cc. Ādi 4.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.197",
     "description":"There is another natural symptom of the gopīs' love that shows it to be without a trace of lust."
 }

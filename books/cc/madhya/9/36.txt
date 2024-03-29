@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 9.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.36",
     "description":"\"By Your appearance, Lord Kṛṣṇa's holy name also appeared, and at that time the glories of Kṛṣṇa's name awoke in my heart.\""
 }

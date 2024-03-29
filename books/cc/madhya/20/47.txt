@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 20.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.47",
     "description":"Śrī Caitanya Mahāprabhu said, \"There is a devotee at your door. Please call him in.\" Going outside, Candraśekhara could not see a Vaiṣṇava at his door."
 }

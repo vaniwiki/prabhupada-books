@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 22.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.39",
     "description":"\" 'Since I am very intelligent, why should I give this fool material prosperity? Instead I shall induce him to take the nectar of the shelter of My lotus feet and make him forget illusory material enjoyment.'"
 }

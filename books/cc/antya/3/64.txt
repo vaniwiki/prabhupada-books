@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 3.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.64",
     "description":"\"While dying, Ajāmila chanted the holy name of the Lord, intending to call his son Nārāyaṇa. Nevertheless, he attained the spiritual world. What then to speak of those who chant the holy name with faith and reverence?'"
 }

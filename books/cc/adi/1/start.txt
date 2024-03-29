@@ -1,9 +1,10 @@
 ---json
 {
     "name":"Cc. Ādi 1",
-    "h1":"Chapter 1",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 1: The Spiritual Masters",
-    "description":""
+    "h1":"The Spiritual Masters",
+    "label":"Chapter 1",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā 1: The Spiritual Masters",
+    "description":"Śrī Caitanya Mahāprabhu is none other than the combined form of Śrī Rādhā and Kṛṣṇa. He is the life of those devotees who strictly follow in the footsteps of Śrīla Rūpa Gosvāmī. Śrīla Rūpa Gosvāmī and Śrīla Sanātana Gosvāmī are the two principal followers of Śrīla Svarūpa Dāmodara Gosvāmī, who acted as the most confidential servitor of Lord Śrī Kṛṣṇa Caitanya Mahāprabhu, known as Viśvambhara in His early life. A direct disciple of Śrīla Rūpa Gosvāmī was Śrīla Raghunātha dāsa Gosvāmī. The author of Śrī Caitanya-caritāmṛta, Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī, stands as the direct disciple of Śrīla Rūpa Gosvāmī and Śrīla Raghunātha dāsa Gosvāmī."
 }
 ---
 

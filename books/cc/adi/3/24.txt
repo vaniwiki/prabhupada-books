@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 3.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.24",
     "description":"\" 'If I did not show the proper principles of religion, all these worlds would fall into ruin. I would be a cause of unwanted population and would spoil all these living beings.'"
 }

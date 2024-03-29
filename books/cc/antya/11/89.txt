@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.89",
-    "h1":"Text 89",
+    "h1":"Cc. Antya 11.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.89",
     "description":"After all the devotees finished accepting prasāda and had washed their hands and mouths, Śrī Caitanya Mahāprabhu decorated each of them with a flower garland and sandalwood pulp."
 }

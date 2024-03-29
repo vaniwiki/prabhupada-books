@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 10.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.102",
     "description":"Svarūpa Dāmodara also arrived the next day. He was a very intimate friend of Śrī Caitanya Mahāprabhu, and he was an ocean of transcendental mellows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 4.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.154",
     "description":"In this way Mādhavendra Purī started for Vṛndāvana with the burden of sandalwood, and after some days he again reached the village of Remuṇā and the Gopīnātha temple there."
 }

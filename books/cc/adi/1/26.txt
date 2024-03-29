@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 1.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.26",
     "description":"In that verse I have also explained the external reason for Lord Caitanya's incarnation. But in the fifth and sixth verses I have explained the prime reason for His advent."
 }

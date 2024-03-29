@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 13.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.58",
     "description":"The King and Sārvabhauma Bhaṭṭācārya were both aware of the Lord's activities, but no one else could see the tricks of Lord Caitanya Mahāprabhu."
 }

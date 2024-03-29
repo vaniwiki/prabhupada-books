@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 17.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.39",
     "description":"Śrī Caitanya Mahāprabhu spoke these words in a mood of anger as He floated on waves of ecstatic love. Merged in an ocean of anxiety, He recited a verse spoken by Śrīmatī Rādhārāṇī expressing the same emotion. Then He personally explained the verse and thus tasted the sweetness of Kṛṣṇa."
 }

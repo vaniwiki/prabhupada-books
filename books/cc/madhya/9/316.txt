@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.316",
-    "h1":"Text 316",
+    "h1":"Cc. Madhya 9.316",
+    "label":"Text 316",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.316",
     "description":"Eventually Śrī Caitanya Mahāprabhu arrived at a lake known as Pampā, where He took His bath. He then went to a place called Pañcavaṭī, where He rested."
 }

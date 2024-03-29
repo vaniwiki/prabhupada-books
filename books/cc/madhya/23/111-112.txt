@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.111-112",
-    "h1":"Text 111-112",
+    "h1":"Cc. Madhya 23.111-112",
+    "label":"Text 111-112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.111-112",
     "description":"\" 'One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always grave and satisfied with anything, who doesn't care for any residence, and who is fixed in devotional service, is very dear to Me."
 }

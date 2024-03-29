@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.315",
-    "h1":"Text 315",
+    "h1":"Cc. Ādi 17.315",
+    "label":"Text 315",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.315",
     "description":"Śrī Kṛṣṇa Caitanya Mahāprabhu, who is Kṛṣṇa Himself, has now appeared as the son of mother Śacī. The Third Chapter describes the general cause of His appearance."
 }

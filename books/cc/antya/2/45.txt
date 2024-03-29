@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 2.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.45",
     "description":"Advaita Ācārya was just about to go to Jagannātha Purī with the other devotees, but upon hearing this message, He waited. Śivānanda Sena and Jagadānanda also stayed back, awaiting the arrival of Śrī Caitanya Mahāprabhu."
 }

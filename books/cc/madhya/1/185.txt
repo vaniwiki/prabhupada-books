@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.185",
-    "h1":"Text 185",
+    "h1":"Cc. Madhya 1.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.185",
     "description":"In great humility, both brothers took bunches of straw between their teeth and, each binding a cloth around his neck, fell down like rods before the Lord."
 }

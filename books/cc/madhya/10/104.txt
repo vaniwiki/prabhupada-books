@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.104",
-    "h1":"Text 104",
+    "h1":"Cc. Madhya 10.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.104",
     "description":"After seeing that Śrī Caitanya Mahāprabhu accepted the renounced order, Puruṣottama Ācārya became like a madman and immediately went to Vārāṇasī to take sannyāsa."
 }

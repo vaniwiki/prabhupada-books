@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 10.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.17",
     "description":"Vakreśvara Paṇḍita, the fifth branch of the tree, was a very dear servant of Lord Caitanya's. He could dance with constant ecstasy for seventy-two hours."
 }

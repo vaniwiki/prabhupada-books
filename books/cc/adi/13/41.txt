@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 13.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.41",
     "description":"As Śrīmatī Rādhārāṇī talked inconsistently when She met Uddhava, so also Śrī Caitanya Mahāprabhu relished, both day and night, such ecstatic talk in the mood of Śrīmatī Rādhārāṇī."
 }

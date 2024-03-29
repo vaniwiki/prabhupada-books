@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.122",
-    "h1":"Text 122",
+    "h1":"Cc. Ādi 7.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.122",
     "description":"\"According to Śaṅkarācārya, by accepting the theory of the transformation of the energy of the Lord, one creates an illusion by indirectly accepting that the Absolute Truth is transformed."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 13.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.100",
     "description":"Traveling in this way, Raghunātha Bhaṭṭa soon arrived at Jagannātha Purī. There, with great delight, he met Śrī Caitanya Mahāprabhu and fell at His lotus feet."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 20.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.177",
     "description":"\"In His original form, the Lord dresses like a cowherd boy and thinks Himself one of them. When He appears as Vāsudeva, the son of Vasudeva and Devakī, His dress and consciousness are those of a kṣatriya, a warrior."
 }

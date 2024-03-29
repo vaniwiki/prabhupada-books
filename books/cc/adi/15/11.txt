@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 15.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.11",
     "description":"Thereafter, seeing that Viśvarūpa was a grown-up youth, Jagannātha Miśra wanted to find a girl and arrange a marriage ceremony for Him."
 }

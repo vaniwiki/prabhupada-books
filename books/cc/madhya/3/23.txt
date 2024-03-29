@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.23",
-    "h1":"Text 23",
+    "h1":"Cc. Madhya 3.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.23",
     "description":"After sending Ācāryaratna to the house of Advaita Ācārya, Śrī Nityānanda Prabhu went before Lord Caitanya Mahāprabhu and gave notice of His coming."
 }

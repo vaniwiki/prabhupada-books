@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.212",
-    "h1":"Text 212",
+    "h1":"Cc. Madhya 19.212",
+    "label":"Text 212",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.212",
     "description":"\"These are the words of the Supreme Personality of Godhead: 'When one's intelligence is fully attached to My lotus feet but one does not render practical service, one has attained the stage called śānta-rati, or śama. Without śānta-rati, attachment to Kṛṣṇa is very difficult to achieve.'"
 }

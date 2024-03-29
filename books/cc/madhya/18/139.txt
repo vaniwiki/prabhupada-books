@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 18.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.139",
     "description":"After this, Balabhadra Bhaṭṭācārya took the Sanoḍiyā brāhmaṇa to a secluded place and consulted with him."
 }

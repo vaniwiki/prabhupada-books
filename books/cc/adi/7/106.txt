@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.106",
-    "h1":"Text 106",
+    "h1":"Cc. Ādi 7.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.106",
     "description":"The Lord said, \"Vedānta philosophy consists of words spoken by the Supreme Personality of Godhead Nārāyaṇa in the form of Vyāsadeva."
 }

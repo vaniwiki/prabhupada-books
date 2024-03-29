@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.22",
-    "h1":"Text 22",
+    "h1":"Cc. Antya 5.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.22",
     "description":"Rāmānanda Rāya directed the two girls how to dance and express the deep meaning of his songs through dramatic performances."
 }

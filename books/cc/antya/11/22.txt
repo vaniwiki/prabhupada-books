@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.22",
-    "h1":"Text 22",
+    "h1":"Cc. Antya 11.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.22",
     "description":"Haridāsa offered his obeisances to the Lord and replied, \"My body is all right, but my mind and intelligence are not well.\""
 }

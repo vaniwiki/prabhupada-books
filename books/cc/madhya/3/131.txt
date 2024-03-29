@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 3.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.131",
     "description":"Lord Nityānanda began to walk with Caitanya Mahāprabhu to see that He would not fall, and Advaita Ācārya and Haridāsa Ṭhākura followed Them, dancing."
 }

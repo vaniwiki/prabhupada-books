@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 15.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.26",
     "description":"Svarūpa Dāmodara Gosvāmī would sing appropriate songs, and Rāmānanda Rāya would recite suitable verses to enhance the ecstatic mood of the Lord. In this way they were able to pacify Him."
 }

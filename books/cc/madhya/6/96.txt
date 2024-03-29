@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 6.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.96",
     "description":"Upon hearing this, Gopīnātha Ācārya became very unhappy. He said to the Bhaṭṭācārya, \"You consider yourself the knower of all Vedic scriptures."
 }

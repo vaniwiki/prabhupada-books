@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 21.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.17",
     "description":"\"At Vṛndāvana, the Lord immediately created all material and spiritual planets in one moment. Indeed, all of them were created with their predominating deities."
 }

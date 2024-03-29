@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 19.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.59",
     "description":"Balabhadra Bhaṭṭācārya invited the two brothers to take lunch also. The remnants of food from the plate of Śrī Caitanya Mahāprabhu were offered to them."
 }

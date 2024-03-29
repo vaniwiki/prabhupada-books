@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.400",
-    "h1":"Text 400",
+    "h1":"Cc. Madhya 20.400",
+    "label":"Text 400",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.400",
     "description":"\" 'When the Supreme Personality of Godhead does not manifest all His transcendental qualities, He is called complete. When all the qualities are manifest, but not fully, He is called more complete. When He manifests all His qualities in fullness, He is called most complete. This is the version of all learned scholars in the devotional science."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 18.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.192",
     "description":"\"Creation, maintenance and dissolution come from Him. He is the original shelter of all gross and subtle cosmic manifestations."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 3.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.71",
     "description":"\"Actually, however, it is not an echo; it is the kīrtana of the nonmoving living entities. All this, although inconceivable, is possible by Your mercy."
 }

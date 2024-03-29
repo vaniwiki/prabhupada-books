@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 13.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.27",
     "description":"The pullers of the car were known as gauḍas, and they pulled with great pleasure. However, the car sometimes went very fast and sometimes very slow."
 }

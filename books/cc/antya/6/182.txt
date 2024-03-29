@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.182",
-    "h1":"Text 182",
+    "h1":"Cc. Antya 6.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.182",
     "description":"After delivering the letter, the men inquired from Śivānanda Sena about Raghunātha dāsa, but Śivānanda Sena replied, \"He did not come here.\""
 }

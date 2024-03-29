@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 3.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.15",
     "description":"Śrī Caitanya Mahāprabhu thus blessed them all, saying that they were all fortunate. In this way He praised them, and He felt very successful because they chanted the holy name of Lord Hari."
 }

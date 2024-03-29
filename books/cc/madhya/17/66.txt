@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 17.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.66",
     "description":"The Lord used to bathe three times a day in the warm water of the waterfalls. He also used to heat Himself morning and evening with a fire made of the limitless wood."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.156",
-    "h1":"Text 156",
+    "h1":"Cc. Antya 3.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.156",
     "description":"Having said this, Lord Nityānanda stood up and left in an angry mood. To chastise Rāmacandra Khān, He did not even stay in that village."
 }

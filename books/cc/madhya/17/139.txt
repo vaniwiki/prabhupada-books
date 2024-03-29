@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 17.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.139",
     "description":"\"The transcendental qualities of Śrī Kṛṣṇa are completely blissful and relishable. Consequently Lord Kṛṣṇa's qualities attract even the minds of self-realized persons from the bliss of self-realization."
 }

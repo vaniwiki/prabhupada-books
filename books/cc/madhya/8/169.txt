@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 8.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.169",
     "description":"\"Śrīmatī Rādhārāṇī's affection for Kṛṣṇa is the upper garment, which is pinkish in color. She then covers Her breasts with another garment, comprised of affection and anger toward Kṛṣṇa."
 }

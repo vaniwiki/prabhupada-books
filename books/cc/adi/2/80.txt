@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.80",
-    "h1":"Text 80",
+    "h1":"Cc. Ādi 2.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.80",
     "description":"\"First the word, 'ete' ['these'], establishes the subject [the incarnations]. Then 'plenary portions of the puruṣa-avatāras' follows as the predicate."
 }

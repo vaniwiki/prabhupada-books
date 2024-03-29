@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 16.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.38",
     "description":"When they all arrived at a bridge called Āṭhāranālā, Śrī Caitanya Mahāprabhu, hearing the news of their arrival, sent two garlands with Govinda."
 }

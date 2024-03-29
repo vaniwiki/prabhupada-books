@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 1.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.92",
     "description":"The foremost process of cheating is to desire to achieve liberation by merging into the Supreme, for this causes the permanent disappearance of loving service to Kṛṣṇa."
 }

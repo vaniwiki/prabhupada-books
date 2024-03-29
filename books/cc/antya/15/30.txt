@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 15.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.30",
     "description":"After Kṛṣṇa disappeared with Rādhārāṇī during the rāsa dance, the gopīs wandered in the forest looking for Him. In the same way, Śrī Caitanya Mahāprabhu wandered in that garden by the sea."
 }

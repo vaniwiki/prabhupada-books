@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.155",
-    "h1":"Text 155",
+    "h1":"Cc. Madhya 6.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.155",
     "description":"\" 'O King, the kṣetra-jña-śakti is the living entity. Although he has the facility to live in either the material or the spiritual world, he suffers the threefold miseries of material existence because he is influenced by the avidyā [nescience] potency, which covers his constitutional position."
 }

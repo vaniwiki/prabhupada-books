@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.99",
-    "h1":"Text 99",
+    "h1":"Cc. Ādi 13.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.99",
     "description":"At that time Śrī Advaita Ācārya Prabhu, in His own house at Śāntipura, was dancing in a pleasing mood. Taking Haridāsa Ṭhākura with Him, He danced and loudly chanted Hare Kṛṣṇa. But why they were dancing, no one could understand."
 }

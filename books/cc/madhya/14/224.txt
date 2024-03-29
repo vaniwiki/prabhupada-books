@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 14.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.224",
     "description":"\"In Vṛndāvana, the natural speech of the people sounds like music, and their natural motion resembles a dance."
 }

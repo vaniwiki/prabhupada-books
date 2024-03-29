@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 7.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.127",
     "description":"Śrī Caitanya Mahāprabhu replied, \"Don't speak like that again. Better to remain at home and chant the holy name of Kṛṣṇa always."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 13.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.11",
     "description":"After twenty-four years He accepted the renounced order of life, sannyāsa, and He resided for twenty-four years more at Jagannātha Purī."
 }

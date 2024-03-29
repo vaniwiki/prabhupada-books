@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 6.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.163",
     "description":"\"In the Bhagavad-gītā the living entity is established as the marginal potency of the Supreme Personality of Godhead. Yet you say that the living entity is completely different from the Lord."
 }

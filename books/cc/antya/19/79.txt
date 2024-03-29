@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 19.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.79",
     "description":"The Lord, along with His devotees, entered one of the nicest gardens, called Jagannātha-vallabha."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.139",
-    "h1":"Text 139",
+    "h1":"Cc. Ādi 17.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.139",
     "description":"Peforming kīrtana in this way, circumambulating through every nook and corner of the city, they finilly reached the door of the Kazi."
 }

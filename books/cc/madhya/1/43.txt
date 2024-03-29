@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 1.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.43",
     "description":"In Śrī Bhāgavata-sandarbha, Śrīla Jīva Gosvāmī has written conclusively about the ultimate end of devotional service."
 }

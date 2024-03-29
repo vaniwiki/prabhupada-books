@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.165",
-    "h1":"Text 165",
+    "h1":"Cc. Ādi 4.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.165",
     "description":"The desire to gratify one's own senses is kāma [lust], but the desire to please the senses of Lord Kṛṣṇa is prema [love]."
 }

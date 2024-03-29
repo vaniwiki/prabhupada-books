@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 8.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.43",
     "description":"I fervently appeal to everyone to adopt the method of devotional service given by Lord Caitanya and Nityānanda and thus be freed from the miseries of material existence and ultimately achieve the loving service of the Lord."
 }

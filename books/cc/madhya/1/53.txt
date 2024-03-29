@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 1.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.53",
     "description":"At those times, Śrī Caitanya Mahāprabhu would visit Lord Jagannātha. Then His feelings exactly corresponded to those of the gopīs when they saw Kṛṣṇa at Kurukṣetra after long separation. Kṛṣṇa had come to Kurukṣetra with His brother and sister to visit."
 }

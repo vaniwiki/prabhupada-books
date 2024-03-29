@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.255",
-    "h1":"Text 255",
+    "h1":"Cc. Antya 3.255",
+    "label":"Text 255",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.255",
     "description":"\"Anyone who does not float in this inundation is most condemned. Such a person cannot be delivered for millions of kalpas."
 }

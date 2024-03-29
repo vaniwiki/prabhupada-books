@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.188",
-    "h1":"Text 188",
+    "h1":"Cc. Ādi 5.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.188",
     "description":"His face was more beautiful than millions upon millions of moons, and His teeth were like pomegranate seeds because of His chewing betel."
 }

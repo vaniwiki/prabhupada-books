@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.249",
-    "h1":"Text 249",
+    "h1":"Cc. Madhya 24.249",
+    "label":"Text 249",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.249",
     "description":"\"Nārada Muni replied, 'If you leave the animals half-dead, you are purposefully giving them pain. Therefore you will have to suffer in retaliation.'"
 }

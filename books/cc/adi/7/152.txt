@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.152",
-    "h1":"Text 152",
+    "h1":"Cc. Ādi 7.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.152",
     "description":"After taking lunch among the Māyāvādī sannyāsīs, Śrī Caitanya Mahāprabhu, who is known as Gaurasundara, returned to His residence. Thus the Lord performs His wonderful pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 17.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.65",
     "description":"Balabhadra Bhaṭṭācārya was so affectionate to the Lord that he was rendering service just like a menial servant. His assistant brāhmaṇa carried the waterpot and garments."
 }

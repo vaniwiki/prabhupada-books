@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 2.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.78",
     "description":"Hearing this, all the devotees were struck with wonder, and Śivānanda became confident that the incident was true."
 }

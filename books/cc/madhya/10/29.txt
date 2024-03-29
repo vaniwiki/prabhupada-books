@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 10.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.29",
     "description":"The next day Śrī Caitanya Mahāprabhu arrived and went with Sārvabhauma Bhaṭṭācārya, with great enthusiasm, to see the temple of Lord Jagannātha."
 }

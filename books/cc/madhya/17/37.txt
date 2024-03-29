@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 17.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.37",
     "description":"While Śrī Caitanya Mahāprabhu was passing through the jungle, five or seven tigers came. Joining the deer, the tigers began to follow the Lord."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 1.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.119",
     "description":"Indeed, Lord Caitanya Mahāprabhu eagerly tore this page from the Kūrma Purāṇa, although the book was very old, and He later showed it to Rāmadāsa Vipra, whose unhappiness was mitigated."
 }

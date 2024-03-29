@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.171",
-    "h1":"Text 171",
+    "h1":"Cc. Ādi 4.171",
+    "label":"Text 171",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.171",
     "description":"Therefore lust and love are quite different. Lust is like dense darkness, but love is like the bright sun."
 }

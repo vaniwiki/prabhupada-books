@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 13.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.28",
     "description":"During His paugaṇḍa age He became a serious student and also taught disciples. In this way He used to explain the holy name of Kṛṣṇa everywhere."
 }

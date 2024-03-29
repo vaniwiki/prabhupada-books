@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 17.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.122",
     "description":"When the brāhmaṇa heard Prakāśānanda Sarasvatī speak like this about Śrī Caitanya Mahāprabhu, he became very grief-stricken. Chanting the holy name of Kṛṣṇa, he immediately left."
 }

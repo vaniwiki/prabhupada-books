@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 21.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.110",
     "description":"\"The Supreme Personality of Godhead, Kṛṣṇa, is full in all six opulences, including His attractive beauty, which engages Him in conjugal love with the gopīs. Such sweetness is the quintessence of His qualities. Śukadeva Gosvāmī, the son of Vyāsadeva, has described these pastimes of Kṛṣṇa throughout Śrīmad-Bhāgavatam. Hearing the descriptions, the devotees become mad with love of God.\""
 }

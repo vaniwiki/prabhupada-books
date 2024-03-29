@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.81",
-    "h1":"Text 81",
+    "h1":"Cc. Ādi 17.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.81",
     "description":"As people looked on, the tree became fully grown, with fruits that fully ripened. Thus everyone was struck with wonder."
 }

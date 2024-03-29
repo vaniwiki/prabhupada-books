@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 9.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.50",
     "description":"When Śrī Caitanya Mahāprabhu, the great gardener, sees that people are chanting, dancing and laughing and that some of them are rolling on the floor and some are making loud humming sounds, He smiles with great pleasure."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.278",
-    "h1":"Text 278",
+    "h1":"Cc. Madhya 6.278",
+    "label":"Text 278",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.278",
     "description":"Indeed, that very person who was accustomed to reading and teaching Māyāvāda philosophy was now even hating the word \"mukti.\" This was possible only by the mercy of Śrī Caitanya Mahāprabhu."
 }

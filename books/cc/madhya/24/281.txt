@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.281",
-    "h1":"Text 281",
+    "h1":"Cc. Madhya 24.281",
+    "label":"Text 281",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.281",
     "description":"\"Nārada Muni approved his not wanting more than a daily supply of food, and he blessed him, saying, 'You are fortunate.' Nārada Muni and Parvata Muni then disappeared from that place."
 }

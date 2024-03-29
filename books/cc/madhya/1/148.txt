@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.148",
-    "h1":"Text 148",
+    "h1":"Cc. Madhya 1.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.148",
     "description":"To visit Vṛndāvana, the Lord went to Gauḍa-deśa [Bengal]. On the way, King Pratāparudra performed a variety of service to please the Lord."
 }

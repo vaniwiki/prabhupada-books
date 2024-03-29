@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.140",
-    "h1":"Text 140",
+    "h1":"Cc. Ādi 7.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.140",
     "description":"\"When we speak of the Supreme as impersonal, we deny His spiritual potencies. Logically, if you accept half of the truth, you cannot understand the whole."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 12.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.38",
     "description":"When the King received the old cloth, he began to worship it exactly as he would worship the Lord personally."
 }

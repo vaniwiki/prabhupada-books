@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 15.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.92",
     "description":"At that time, Rāmānanda Rāya made the Lord sit down and dissipated His fatigue by fanning Him."
 }

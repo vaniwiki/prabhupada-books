@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.76",
-    "h1":"Text 76",
+    "h1":"Cc. Ādi 8.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.76",
     "description":"As soon as this happened, the Vaiṣṇavas standing there all loudly chanted, \"Haribol!\" and the priest, Gosāñi dāsa, brought me the garland and put it around my neck."
 }

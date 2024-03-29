@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.14",
-    "h1":"Text 14",
+    "h1":"Cc. Madhya 11.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.14",
     "description":"At this time, Mahārāja Pratāparudra arrived at Jagannātha Purī, Puruṣottama, and, accompanied by his secretaries, ministers and military officers, went to visit the temple of Lord Jagannātha."
 }

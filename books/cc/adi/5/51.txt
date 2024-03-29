@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 5.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.51",
     "description":"Outside the Vaikuṇṭha planets is the impersonal Brahman effulgence, and beyond that effulgence is the Kāraṇa Ocean, or Causal Ocean."
 }

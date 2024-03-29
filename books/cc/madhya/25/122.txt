@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 25.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.122",
     "description":"\" 'It is therefore the duty of every man-in every country, in every circumstance and at all times-to approach the bona fide spiritual master, question him about devotional service and listen to him explain the process."
 }

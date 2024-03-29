@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 19.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.5",
     "description":"The brāhmaṇas performed religious ceremonies and chanted the holy name of Kṛṣṇa so that the two brothers might attain shelter at the lotus feet of Śrī Caitanya Mahāprabhu very soon."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 4.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.101",
     "description":"One very rich kṣatriya of the royal order constructed a temple, someone made cooking utensils, and someone constructed boundary walls."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.73",
-    "h1":"Text 73",
+    "h1":"Cc. Antya 14.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.73",
     "description":"\"Sometimes Śrī Caitanya Mahāprabhu would go to the house of Kāśī Miśra. There He would be greatly aggrieved, feeling separation from Kṛṣṇa. The joints of His transcendental body would slacken, and His arms and legs would become elongated. Rolling on the ground, the Lord would cry out in distress in a faltering voice and weep very sorrowfully. The appearance of Śrī Caitanya Mahāprabhu, awakening in my heart, maddens me.\""
 }

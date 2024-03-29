@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 9.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.31",
     "description":"Lord Caitanya thus addressed the multifarious varieties of branches and subbranches of the tree of devotional service:"
 }

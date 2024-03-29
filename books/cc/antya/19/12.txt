@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 19.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.12",
     "description":"Following the order of Paramānanda Purī, Śrī Caitanya Mahāprabhu sent His mother the prasāda clothing left by Lord Jagannātha after His pastimes as a cowherd boy."
 }

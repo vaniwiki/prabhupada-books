@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 16.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.48",
     "description":"Śrī Caitanya Mahāprabhu is the most exalted, omniscient Supreme Personality of Godhead, and therefore He knew that Kālidāsa, in the core of his heart, had full faith in Vaiṣṇavas."
 }

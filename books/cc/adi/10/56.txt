@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.56",
-    "h1":"Text 56",
+    "h1":"Cc. Ādi 10.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.56",
     "description":"Lord Śrī Caitanya Mahāprabhu bestows His causeless mercy upon His devotees in three features: His own direct appearance [sākṣāt], His prowess within someone He empowers [āveśa], and His manifestation [āvirbhāva]."
 }

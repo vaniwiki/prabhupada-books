@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 19.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.112",
     "description":"Vallabha Bhaṭṭa said, \"If anyone likes, he can go to Prayāga and extend invitations to the Lord.\" In this way he took the Lord with him and departed for Prayāga."
 }

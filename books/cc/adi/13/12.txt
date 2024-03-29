@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 13.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.12",
     "description":"Of these last twenty-four years, He spent the first six years continuously touring India, sometimes in South India, sometimes in Bengal and sometimes in Vṛndāvana."
 }

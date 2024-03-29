@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.110",
-    "h1":"Text 110",
+    "h1":"Cc. Ādi 3.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.110",
     "description":"Therefore the principal reason for Śrī Caitanya's descent is this appeal by Advaita Ācārya. The Lord, the protector of religion, appears by the desire of His devotee."
 }

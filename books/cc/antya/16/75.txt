@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 16.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.75",
     "description":"Although the boy was only seven years old and still had no education, he composed such a nice verse. Everyone was struck with wonder."
 }

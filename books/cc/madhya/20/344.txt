@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.344",
-    "h1":"Text 344",
+    "h1":"Cc. Madhya 20.344",
+    "label":"Text 344",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.344",
     "description":"\" 'My dear King, although Kali-yuga is full of faults, there is still one good quality about this age. It is that simply by chanting the Hare Kṛṣṇa mahā-mantra, one can become free from material bondage and be promoted to the transcendental kingdom."
 }

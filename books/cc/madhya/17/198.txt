@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 17.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.198",
     "description":"When the does and bucks came and saw the Lord's face, they began to lick His body. Not being at all afraid of Him, they accompanied Him along the path."
 }

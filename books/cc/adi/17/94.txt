@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.94",
-    "h1":"Text 94",
+    "h1":"Cc. Ādi 17.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.94",
     "description":"Seeing the people so afraid, the Lord came to His external senses and thus returned to the house of Śrīvāsa Ṭhākura and threw away the club."
 }

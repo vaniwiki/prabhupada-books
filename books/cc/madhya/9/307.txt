@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.307",
-    "h1":"Text 307",
+    "h1":"Cc. Madhya 9.307",
+    "label":"Text 307",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.307",
     "description":"There is no comparison to the Kṛṣṇa-karṇāmṛta within the three worlds. By studying this book, one is elevated to the knowledge of pure devotional service to Kṛṣṇa."
 }

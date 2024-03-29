@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 7.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.82",
     "description":"Upon seeing the chanting and dancing of Lord Śrī Caitanya Mahāprabhu, Lord Nityānanda predicted that later there would be dancing and chanting in every village."
 }

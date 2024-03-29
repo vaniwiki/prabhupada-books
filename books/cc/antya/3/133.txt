@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 3.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.133",
     "description":"Haridāsa Ṭhākura replied, \"I know everything about the conspiracy of Rāmacandra Khān. He is nothing but an ignorant fool. Therefore his activities do not make me feel unhappy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 8.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.193",
     "description":"Saying this, Rāmānanda Rāya began to sing a song he had composed, but Śrī Caitanya Mahāprabhu, out of the ecstasy of love of Godhead, immediately covered Rāmānanda's mouth with His own hand."
 }

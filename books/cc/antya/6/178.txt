@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.178",
-    "h1":"Text 178",
+    "h1":"Cc. Antya 6.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.178",
     "description":"Raghunātha dāsa's father said, \"Now all the devotees from Bengal have gone to Jagannātha Purī to see Lord Śrī Caitanya Mahāprabhu."
 }

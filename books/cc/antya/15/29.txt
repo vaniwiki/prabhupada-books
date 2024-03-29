@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 15.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.29",
     "description":"Lord Caitanya mistook that garden for Vṛndāvana and very quickly entered it. Absorbed in ecstatic love of Kṛṣṇa, He wandered throughout the garden, searching for Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 19.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.62",
     "description":"Vallabha Bhaṭṭācārya offered Śrī Caitanya Mahāprabhu his obeisances, and the Lord embraced him. After that, they discussed topics about Kṛṣṇa for some time."
 }

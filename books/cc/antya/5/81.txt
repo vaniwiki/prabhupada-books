@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 5.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.81",
     "description":"To demonstrate the transcendental attributes of Rāmānanda Rāya, Śrī Caitanya Mahāprabhu sent Pradyumna Miśra to hear discourses about Kṛṣṇa from him."
 }

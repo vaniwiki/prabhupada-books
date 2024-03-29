@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 12.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.1",
     "description":"O devotees, may the transcendental life and characteristics of Śrī Caitanya Mahāprabhu be always heard, chanted and meditated upon with great happiness."
 }

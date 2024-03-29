@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.246",
-    "h1":"Text 246",
+    "h1":"Cc. Madhya 6.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.246",
     "description":"\"You are a first-class devotee, whereas I am in the darkness of logical arguments. Because of your relationship with the Lord, the Lord has bestowed His benediction upon me.\""
 }

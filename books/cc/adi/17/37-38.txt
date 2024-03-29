@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.37-38",
-    "h1":"Text 37-38",
+    "h1":"Cc. Ādi 17.37-38",
+    "label":"Text 37-38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.37-38",
     "description":"One night while kīrtana was going on inside Śrīvāsa Ṭhākura's house, a brāhmaṇa named Gopāla Cāpāla, the chief of the nonbelievers, who was talkative and very rough in his speech, placed all the paraphernalia for worshiping the goddess Durgā outside Śrīvāsa Ṭhākura's door."
 }

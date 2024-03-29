@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 12.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.59",
     "description":"Hearing the name of Mukundāra Mātā, Lord Caitanya hesitated, but because of affection for Parameśvara, He did not say anything."
 }

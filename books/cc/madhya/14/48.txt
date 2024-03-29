@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 14.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.48",
     "description":"When the gauḍas saw that they could not budge the car, they abandoned the attempt. Then the King arrived in great anxiety, and he was accompanied by his officers and friends."
 }

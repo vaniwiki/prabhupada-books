@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 12.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.102",
     "description":"The water that fell from the lotus feet of Śrī Caitanya Mahāprabhu was drunk by someone who hid himself. Someone else begged for that water, and another person was giving that water in charity."
 }

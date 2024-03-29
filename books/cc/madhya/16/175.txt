@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 16.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.175",
     "description":"\"It must be Śrī Caitanya Mahāprabhu Himself who has changed the Mohammedan's mind. Due to His presence and even due to His remembrance, the whole world is liberated.\""
 }

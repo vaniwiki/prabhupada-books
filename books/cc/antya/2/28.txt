@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 2.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.28",
     "description":"Thus people began running here and there, calling in all directions, \"Śivānanda! Whoever is Śivānanda, please come. Nakula Brahmacārī is calling you.\""
 }

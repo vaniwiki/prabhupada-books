@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.361",
-    "h1":"Text 361",
+    "h1":"Cc. Madhya 9.361",
+    "label":"Text 361",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.361",
     "description":"Please hear the transcendental pastimes of Lord Śrī Caitanya Mahāprabhu with faith and devotion. Giving up envy of the Lord, everyone chant the Lord's holy name, Hari."
 }

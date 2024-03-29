@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 23.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.109",
     "description":"\" 'A devotee who is not dependent on others but dependent solely on Me, who is clean inwardly and outwardly, who is expert, indifferent to material things, without cares, free from all pains, and who rejects all pious and impious activities, is very dear to Me."
 }

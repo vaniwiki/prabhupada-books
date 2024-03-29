@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 20.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.110",
     "description":"\" 'Just as the illumination of a fire, which is situated in one place, is spread all over, the energies of the Supreme Personality of Godhead, Parabrahman, are spread all over this universe.'"
 }

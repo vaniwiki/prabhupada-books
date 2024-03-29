@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.219",
-    "h1":"Text 219",
+    "h1":"Cc. Madhya 11.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.219",
     "description":"Everyone was astonished to see such a performance of saṅkīrtana, and they all agreed that never before had kīrtana been so performed and ecstatic love of God so exhibited."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 11.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.224",
     "description":"After circumambulating the temple, Śrī Caitanya Mahāprabhu for some time remained at the rear of the temple and continued His saṅkīrtana."
 }

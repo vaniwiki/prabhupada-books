@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 5.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.97",
     "description":"The universe measures five hundred million yojanas. Its length and breadth are one and the same."
 }

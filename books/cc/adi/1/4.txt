@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 1.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.4",
     "description":"May that Lord who is known as the son of Śrīmatī Śacīdevī be transcendentally situated in the innermost chambers of your heart. Resplendent with the radiance of molten gold, He has appeared in the Age of Kali by His causeless mercy to bestow what no incarnation ever offered before: the most sublime and radiant spiritual knowledge of the mellow taste of His service."
 }

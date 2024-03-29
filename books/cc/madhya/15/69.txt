@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 15.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.69",
     "description":"Śrī Caitanya Mahāprabhu then informed everyone, \"Just hear about the pure devotional service rendered to Kṛṣṇa by Rāghava Paṇḍita. Indeed, Rāghava Paṇḍita's service is supremely pure and highly accomplished."
 }

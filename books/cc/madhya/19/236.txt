@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.236",
-    "h1":"Text 236",
+    "h1":"Cc. Madhya 19.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.236",
     "description":"\"When one thinks of Kṛṣṇa constantly, love for Him is manifest within the heart. Even though one may be ignorant, one can reach the shore of the ocean of transcendental love by Lord Kṛṣṇa's mercy.\""
 }

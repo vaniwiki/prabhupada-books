@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.8",
-    "h1":"Text 8",
+    "h1":"Cc. Antya 14.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.8",
     "description":"In those days, Svarūpa Dāmodara and Raghunātha dāsa Gosvāmī lived with Śrī Caitanya Mahāprabhu, whereas all other commentators lived far away from Him."
 }

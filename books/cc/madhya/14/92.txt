@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 14.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.92",
     "description":"Paramānanda Purī, Brahmānanda Bhāratī and all the other chief devotees of Śrī Caitanya Mahāprabhu took lunch at the invitation of Advaita Ācārya."
 }

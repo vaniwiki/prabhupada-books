@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 17.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.17",
     "description":"As the Lord lay there unconscious, His body resembled a large pumpkin. Externally He was completely inert, but within He felt overwhelming transcendental bliss."
 }

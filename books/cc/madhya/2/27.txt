@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 2.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.27",
     "description":"In this way, Lord Śrī Caitanya Mahāprabhu lamented in a great ocean of sadness, and thus He opened the doors of His unhappiness. Forced by the waves of ecstasy, His mind wandered over transcendental mellows, and in this way He recited another verse [as follows]."
 }

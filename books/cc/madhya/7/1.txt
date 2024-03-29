@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 7.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.1",
     "description":"Lord Caitanya Mahāprabhu, being very compassionate toward a brāhmaṇa named Vāsudeva, cured him of leprosy. He transformed him into a beautiful man satisfied with devotional service. I offer my respectful obeisances unto the glorious Lord Śrī Caitanya Mahāprabhu."
 }

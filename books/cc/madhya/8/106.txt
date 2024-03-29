@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 8.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.106",
     "description":"\" 'Lord Kṛṣṇa, the enemy of Kaṁsa, took Śrīmatī Rādhārāṇī within His heart, for He desired to dance with Her. Thus He left the arena of the rāsa dance and the company of all the other beautiful damsels of Vraja.'"
 }

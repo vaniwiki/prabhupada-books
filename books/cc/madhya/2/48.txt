@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 2.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.48",
     "description":"\"Love for Lord Kṛṣṇa is very pure, just like the waters of the Ganges. That love is an ocean of nectar. That pure attachment to Kṛṣṇa does not conceal any spot, which would appear just like a spot of ink on a white cloth."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.215",
-    "h1":"Text 215",
+    "h1":"Cc. Antya 6.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.215",
     "description":"After finishing their prescribed duties, the many servants of Lord Jagannātha, who are known as viṣayīs, return home at night."
 }

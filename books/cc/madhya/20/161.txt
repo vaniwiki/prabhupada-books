@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 20.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.161",
     "description":"\"The Paramātmā, the Supersoul feature, is the partial plenary portion of the Supreme Personality of Godhead, who is the original source of all living entities. It is also Kṛṣṇa who is the original source of Paramātmā."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.8",
-    "h1":"Text 8",
+    "h1":"Cc. Antya 5.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.8",
     "description":"\"It is your good fortune that you are inclined to hear topics regarding Kṛṣṇa. The best course for you would be to go to Rāmānanda Rāya and hear these topics from him."
 }

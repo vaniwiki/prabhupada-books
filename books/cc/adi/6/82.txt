@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.82",
-    "h1":"Text 82",
+    "h1":"Cc. Ādi 6.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.82",
     "description":"All the emotions, whether those of father, mother, teacher or friend, are full of sentiments of servitude. That is the nature of love of Kṛṣṇa."
 }

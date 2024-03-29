@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.148",
-    "h1":"Text 148",
+    "h1":"Cc. Madhya 13.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.148",
     "description":"\"After hearing Śrīmatī Rādhārāṇī's statements, Lord Kṛṣṇa's love for the inhabitants of Vṛndāvana was evoked, and His body and mind became very perturbed. After hearing of their love for Him, He immediately thought Himself to be always indebted to the residents of Vṛndāvana. Then Kṛṣṇa began to pacify Śrīmatī Rādhārāṇī as follows."
 }

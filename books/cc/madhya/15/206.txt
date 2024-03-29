@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 15.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.206",
     "description":"The room was so constructed that there was only one door as an entrance from the outside for Śrī Caitanya Mahāprabhu. There was another door attached to the kitchen, and it was through this door that the food was brought."
 }

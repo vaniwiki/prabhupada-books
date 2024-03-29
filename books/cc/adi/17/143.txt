@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.143",
-    "h1":"Text 143",
+    "h1":"Cc. Ādi 17.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.143",
     "description":"Thereafter, when Śrī Caitanya Mahāprabhu reached the Kazi's house, He sat down by the doorway and sent some respectable persons to call for the Kazi."
 }

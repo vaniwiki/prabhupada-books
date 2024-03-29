@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.271-272",
-    "h1":"Text 271-272",
+    "h1":"Cc. Ādi 4.271-272",
+    "label":"Text 271-272",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.271-272",
     "description":"First Lord Kṛṣṇa made His parents and elders appear. Then Kṛṣṇa Himself, with the sentiments and complexion of Rādhikā, appeared in Navadvīpa, like the full moon, from the womb of mother Śacī, which is like an ocean of pure milk."
 }

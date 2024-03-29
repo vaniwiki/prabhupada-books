@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.287",
-    "h1":"Text 287",
+    "h1":"Cc. Antya 6.287",
+    "label":"Text 287",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.287",
     "description":"After saying this, Śrī Caitanya Mahāprabhu again bestowed His mercy upon Raghunātha dāsa by giving him a piece of stone from Govardhana Hill and a garland of small conchshells."
 }

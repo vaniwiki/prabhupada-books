@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.350",
-    "h1":"Text 350",
+    "h1":"Cc. Madhya 9.350",
+    "label":"Text 350",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.350",
     "description":"Sārvabhauma Bhaṭṭācārya then took the Lord with him to his home, saying, \"Today's luncheon will be at my home.\" In this way he invited the Lord."
 }

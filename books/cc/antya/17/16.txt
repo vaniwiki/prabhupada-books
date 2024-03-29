@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 17.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.16",
     "description":"His arms and legs had entered the trunk of His body, exactly like those of a tortoise. His mouth was foaming, there were eruptions on His body, and tears flowed from His eyes."
 }

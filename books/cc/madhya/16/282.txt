@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.282",
-    "h1":"Text 282",
+    "h1":"Cc. Madhya 16.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.282",
     "description":"Taking this opportunity, Gadādhara Paṇḍita said, \"Just now the four months of the rainy season have begun. You should therefore spend the next four months in Jagannātha Purī."
 }

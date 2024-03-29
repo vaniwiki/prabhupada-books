@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 11.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.105",
     "description":"The King said, \"Instead of visiting the temple of Lord Jagannātha, all the devotees are running toward the residence of Śrī Caitanya Mahāprabhu.\""
 }

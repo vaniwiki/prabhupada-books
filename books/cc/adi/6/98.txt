@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.98",
-    "h1":"Text 98",
+    "h1":"Cc. Ādi 6.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.98",
     "description":"Lord Kṛṣṇa is the source of all incarnations, and all others are His parts or partial incarnations. We find that the whole and the part behave as superior and inferior."
 }

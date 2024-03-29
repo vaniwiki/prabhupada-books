@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 5.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.17",
     "description":"Śrī Gokula, the highest of all, is also called Vraja, Goloka, Śvetadvīpa and Vṛndāvana."
 }

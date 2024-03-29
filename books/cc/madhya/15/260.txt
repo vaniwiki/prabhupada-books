@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.260",
-    "h1":"Text 260",
+    "h1":"Cc. Madhya 15.260",
+    "label":"Text 260",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.260",
     "description":"After returning to his home, Sārvabhauma Bhaṭṭācārya consulted with his wife, the mother of Ṣāṭhī. After personally condemning himself, he began to speak as follows."
 }

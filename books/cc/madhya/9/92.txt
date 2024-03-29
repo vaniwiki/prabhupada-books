@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 9.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.92",
     "description":"Each day the Lord was invited by a different brāhmaṇa, but some of the brāhmaṇas did not get the opportunity to offer Him lunch because the period of Cāturmāsya came to an end."
 }

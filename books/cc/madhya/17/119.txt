@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 17.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.119",
     "description":"\"Sārvabhauma Bhaṭṭācārya was a very learned scholar, but I have heard that he also has become a madman due to his association with this Caitanya."
 }

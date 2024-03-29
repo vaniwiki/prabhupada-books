@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 12.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.24",
     "description":"After saying this, Śivānanda Sena went to Nityānanda Prabhu, who then stood up and kicked him."
 }

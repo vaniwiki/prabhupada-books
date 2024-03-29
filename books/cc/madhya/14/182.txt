@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 14.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.182",
     "description":"Upon hearing this, Śrī Caitanya Mahāprabhu became very happy, and, being absorbed in this happiness, He embraced Svarūpa Dāmodara Gosvāmī."
 }

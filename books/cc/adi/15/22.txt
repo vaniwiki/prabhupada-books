@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 15.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.22",
     "description":"In this way Lord Caitanya Mahāprabhu performed various pastimes, but why He did so I cannot understand."
 }

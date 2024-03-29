@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 24.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.197",
     "description":"\" 'Whether one desires everything or nothing, or whether he desires to merge into the existence of the Lord, he is intelligent only if he worships Lord Kṛṣṇa, the Supreme Personality of Godhead, by rendering transcendental loving service.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 4.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.91",
     "description":"Śrī Mādhavendra Purī did not eat anything throughout the day, but at night, after laying the Deity down to rest, he took a milk preparation."
 }

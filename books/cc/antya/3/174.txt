@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.174",
-    "h1":"Text 174",
+    "h1":"Cc. Antya 3.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.174",
     "description":"In that assembly were many learned scholars, brāhmaṇas and respectable gentlemen. The two brothers Hiraṇya and Govardhana were also greatly learned."
 }

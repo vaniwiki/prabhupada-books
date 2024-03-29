@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 12.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.12",
     "description":"Paddy is mixed with straw at first, and one must fan it to separate the paddy from the straw."
 }

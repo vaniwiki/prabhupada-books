@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 1.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.106",
     "description":"Just to examine Sārvabhauma Bhaṭṭācārya and Rāmānanda Rāya, the Lord began to praise the transcendental qualities of Śrī Rūpa Gosvāmī before them."
 }

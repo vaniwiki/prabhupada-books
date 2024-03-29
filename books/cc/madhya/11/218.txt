@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.218",
-    "h1":"Text 218",
+    "h1":"Cc. Madhya 11.218",
+    "label":"Text 218",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.218",
     "description":"When the congregational chanting began, ecstatic love immediately overflooded everything, and all the residents of Jagannātha Purī came running."
 }

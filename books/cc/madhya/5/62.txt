@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 5.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.62",
     "description":"\"All of you assembled here are gentlemen. Please judge whether it is befitting to offer this poor brāhmaṇa my father's daughter.\""
 }

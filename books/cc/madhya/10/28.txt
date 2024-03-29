@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 10.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.28",
     "description":"The Bhaṭṭācārya replied to the people, \"Tomorrow the Lord will be at the house of Kāśī Miśra. I shall arrange for you all to meet Him.\""
 }

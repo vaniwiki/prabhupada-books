@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.83",
-    "h1":"Text 83",
+    "h1":"Cc. Antya 11.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.83",
     "description":"Svarūpa Dāmodara Gosvāmī requested Śrī Caitanya Mahāprabhu, \"Please sit down and watch. With these men to help me, I shall distribute the prasāda.\""
 }

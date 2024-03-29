@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 24.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.198",
     "description":"\"Devotional service is so strong that when one engages in it, he gradually gives up all material desires and becomes fully attracted to the lotus feet of Kṛṣṇa. All this is brought about by attraction for the transcendental qualities of the Lord."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 16.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.67",
     "description":"\"By Your inconceivable energy, You can do whatever You like, and whatever You make Me do, I do without restriction.\""
 }

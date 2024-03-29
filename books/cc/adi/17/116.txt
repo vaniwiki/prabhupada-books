@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 17.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.116",
     "description":"Nityānanda Prabhu Gosāñi, understanding the ecstatic mood of Śrī Caitanya Mahāprabhu, brought a pot of Ganges water as a token and put it before Him."
 }

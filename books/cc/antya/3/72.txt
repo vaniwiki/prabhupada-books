@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 3.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.72",
     "description":"\"When loud chanting of the Hare Kṛṣṇa mantra is performed all over the world by those who follow in Your footsteps, all living entities, moving and nonmoving, dance in ecstatic devotional love."
 }

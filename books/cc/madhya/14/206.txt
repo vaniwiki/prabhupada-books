@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 14.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.206",
     "description":"\"She wondered, 'Why did Lord Jagannātha give up so much opulence and go to Vṛndāvana?' To make Him a laughingstock, the goddess of fortune made arrangements for much decoration."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 5.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.127",
     "description":"\"If there were a hole in the Deity's nose, I could transfer the pearl to Him.\""
 }

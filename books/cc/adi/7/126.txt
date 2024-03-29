@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.126",
-    "h1":"Text 126",
+    "h1":"Cc. Ādi 7.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.126",
     "description":"\"Although a touchstone produces many varieties of valuable jewels, it nevertheless remains the same. It does not change its original form."
 }

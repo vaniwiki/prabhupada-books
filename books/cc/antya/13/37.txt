@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 13.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.37",
     "description":"\"Do not mix freely with the residents of Mathurā; show them respect from a distance. Because you are on a different platform of devotional service, you cannot adopt their behavior and practices."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.186",
-    "h1":"Text 186",
+    "h1":"Cc. Antya 6.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.186",
     "description":"Not caring about eating, he traveled all day. Hunger was not an impediment, for his mind was concentrated upon obtaining shelter at the lotus feet of Śrī Caitanya Mahāprabhu."
 }

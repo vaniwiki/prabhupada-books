@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 1.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.22",
     "description":"The invocation involves three processes: defining the objective, offering benedictions and offering obeisances."
 }

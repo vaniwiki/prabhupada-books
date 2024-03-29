@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3",
-    "h1":"Chapter 3",
+    "h1":"Lord Śrī Caitanya Mahāprabhu’s Stay at the House of Advaita Ācārya",
+    "label":"Chapter 3",
     "title":"Cc. Madhya 3: Lord Śrī Caitanya Mahāprabhu’s Stay at the House of Advaita Ācārya",
     "description":""
 }

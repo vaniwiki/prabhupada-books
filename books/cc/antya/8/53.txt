@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 8.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.53",
     "description":"\"From today on it will be a rule that I shall accept only one-fourth of a pot of Lord Jagannātha's prasāda and five gaṇḍās worth of vegetables."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 17.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.134",
     "description":"\"The holy name of Kṛṣṇa, His body and His pastimes cannot be understood by blunt material senses. They are manifest independently."
 }

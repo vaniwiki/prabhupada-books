@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 14.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.16",
     "description":"How powerful is the mercy of Śrī Caitanya Mahāprabhu! Without even inquiring about the King, the Lord made everything successful."
 }

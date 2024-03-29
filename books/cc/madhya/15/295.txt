@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.295",
-    "h1":"Text 295",
+    "h1":"Cc. Madhya 15.295",
+    "label":"Text 295",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.295",
     "description":"After saying this, Śrī Caitanya Mahāprabhu went to see Lord Jagannātha. Sārvabhauma Bhaṭṭācārya completed his bath, went to see Lord Jagannātha and then returned to his house to accept food."
 }

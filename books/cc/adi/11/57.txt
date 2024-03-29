@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.57",
-    "h1":"Text 57",
+    "h1":"Cc. Ādi 11.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.57",
     "description":"No one can count the unlimited followers of Nityānanda Prabhu. I have mentioned some of them just for my self-purification."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 10.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.25",
     "description":"When all the residents of Jagannātha Purī became extremely anxious to meet the Lord again, He returned from South India."
 }

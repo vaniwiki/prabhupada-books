@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.191",
-    "h1":"Text 191",
+    "h1":"Cc. Ādi 17.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.191",
     "description":"\"After seeing this, I was very afraid. I asked them not to stop the congregational chanting but to go sit down at home."
 }

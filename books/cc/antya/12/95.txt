@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 12.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.95",
     "description":"In this way, Jagadānanda Paṇḍita and mother Śacī talked day and night about the happiness of Śrī Caitanya Mahāprabhu."
 }

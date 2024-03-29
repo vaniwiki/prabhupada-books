@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.63",
-    "h1":"Text 63",
+    "h1":"Cc. Ādi 6.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.63",
     "description":"Although they fight with Him and climb upon His shoulders, they worship His lotus feet in a spirit of servitude."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.56",
-    "h1":"Text 56",
+    "h1":"Cc. Madhya 13.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.56",
     "description":"King Pratāparudra also was astonished to see the saṅkīrtana. He became inactive and was converted to ecstatic love of Kṛṣṇa."
 }

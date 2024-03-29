@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 7.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.154",
     "description":"O devotees, please do not consider my offenses in this regard. Your lotus feet are my only shelter."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 6.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.229",
     "description":"As they danced and embraced, spiritual symptoms manifested in their bodies. They perspired, trembled and shed tears, and the Lord began to speak in His ecstasy."
 }

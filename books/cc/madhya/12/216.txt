@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.216",
-    "h1":"Text 216",
+    "h1":"Cc. Madhya 12.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.216",
     "description":"Thus Śrī Caitanya Mahāprabhu and His devotees enjoyed transcendental bliss upon seeing the face of Jagannātha. This continued to midday."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.8",
-    "h1":"Text 8",
+    "h1":"Cc. Antya 15.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.8",
     "description":"When He realized Lord Jagannātha to be Kṛṣṇa Himself, Śrī Caitanya Mahāprabhu's five senses were immediately absorbed in attraction for the five attributes of Lord Kṛṣṇa."
 }

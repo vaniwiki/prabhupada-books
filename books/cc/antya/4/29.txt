@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 4.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.29",
     "description":"\"My Lord, without hatred for my family You have accepted me as Your servant. Only by Your mercy is there good fortune in my family."
 }

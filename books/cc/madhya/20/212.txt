@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.212",
-    "h1":"Text 212",
+    "h1":"Cc. Madhya 20.212",
+    "label":"Text 212",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.212",
     "description":"\"Although They all have Their residences eternally in the spiritual sky, some of Them are situated within the material universes."
 }

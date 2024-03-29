@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 11.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.42",
     "description":"\"My Lord, You are always affectionate to Your devotees. I am just an imitation devotee, but nevertheless I wish that You fulfill my desire. That is my expectation.\""
 }

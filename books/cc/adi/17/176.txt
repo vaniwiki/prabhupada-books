@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.176",
-    "h1":"Text 176",
+    "h1":"Cc. Ādi 17.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.176",
     "description":"\"Kindly listen, O Gaurahari! If You come to a private place, I shall then explain the reason.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 20.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.19",
     "description":"\"You have invested Your full potencies in each individual holy name, but I am so unfortunate that I have no attachment for chanting Your holy names.\""
 }

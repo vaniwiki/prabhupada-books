@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.106",
-    "h1":"Text 106",
+    "h1":"Cc. Ādi 10.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.106",
     "description":"The ācārya Śaṅkarāraṇya was considered the forty-eighth branch of the original tree. From him proceeded the subbranches known as Mukunda, Kāśīnātha and Rudra."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.34",
-    "h1":"Text 34",
+    "h1":"Cc. Madhya 20.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.34",
     "description":"After crossing the hills, Sanātana Gosvāmī told his servant, \"Īśāna, I think you still have some balance left from the gold coins.\""
 }

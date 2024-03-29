@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 15.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.35",
     "description":"Everyone became very astonished to see the emotional ecstasy of Śrī Caitanya Mahāprabhu, and everyone began to chant, \"All glories! All glories!\" again and again."
 }

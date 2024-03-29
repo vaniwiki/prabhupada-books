@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 21.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.146",
     "description":"\"Since I have become a madman, I am saying one thing instead of another. This is because I am being carried away by the waves of the nectarean ocean of Lord Kṛṣṇa's transcendental sweetness.\""
 }

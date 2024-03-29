@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.9",
-    "h1":"Text 9",
+    "h1":"Cc. Madhya 17.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.9",
     "description":"\"Dear Lord, kindly hear our one petition. You have already said that You will derive happiness from our happiness. This is Your own statement."
 }

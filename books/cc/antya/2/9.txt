@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 2.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.9",
     "description":"Similarly, people who went to Jagannātha Purī from various provinces of India were fully satisfied after seeing the lotus feet of Śrī Caitanya Mahāprabhu."
 }

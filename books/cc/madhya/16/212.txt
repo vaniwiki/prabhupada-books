@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.212",
-    "h1":"Text 212",
+    "h1":"Cc. Madhya 16.212",
+    "label":"Text 212",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.212",
     "description":"Śrī Caitanya Mahāprabhu stayed in Śāntipura for ten days. This has all been described very elaborately by Vṛndāvana dāsa Ṭhākura."
 }

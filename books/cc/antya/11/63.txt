@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 11.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.63",
     "description":"Śrī Caitanya Mahāprabhu danced in front of the procession, and Vakreśvara Paṇḍita, along with the other devotees, chanted and danced behind Him."
 }

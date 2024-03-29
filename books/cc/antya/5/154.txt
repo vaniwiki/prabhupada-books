@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.154",
-    "h1":"Text 154",
+    "h1":"Cc. Antya 5.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.154",
     "description":"\"Thus I have explained the meaning intended by mother Sarasvatī, the goddess of learning. It is your great fortune that you have described Lord Jagannātha and Lord Śrī Caitanya Mahāprabhu in that way."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 8.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.30",
     "description":"Pleased with Īśvara Purī, Mādhavendra Purī embraced him and gave him the benediction that he would be a great devotee and lover of Kṛṣṇa."
 }

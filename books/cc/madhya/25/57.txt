@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 25.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.57",
     "description":"\" 'Dry arguments are inconclusive. A great personality whose opinion does not differ from others is not considered a great sage. Simply by studying the Vedas, which are variegated, one cannot come to the right path by which religious principles are understood. The solid truth of religious principles is hidden in the heart of an unadulterated self-realized person. Consequently, as the śāstras confirm, one should accept whatever progressive path the mahājanas advocate.'"
 }

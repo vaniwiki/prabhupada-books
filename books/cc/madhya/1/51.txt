@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 1.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.51",
     "description":"The last twelve years were simply devoted to relishing the pastimes of Kṛṣṇa in separation within the heart of the Lord."
 }

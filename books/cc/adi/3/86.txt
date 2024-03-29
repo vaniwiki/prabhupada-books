@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.86",
-    "h1":"Text 86",
+    "h1":"Cc. Ādi 3.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.86",
     "description":"But faithless unbelievers do not see what is clearly evident, just as owls do not see the rays of the sun."
 }

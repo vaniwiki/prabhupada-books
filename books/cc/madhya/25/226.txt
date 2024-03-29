@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 25.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.226",
     "description":"Being overwhelmed with great pleasure, all the devotees hastily went to see the Lord. They met Him on the banks of Narendra-sarovara, the celebrated lake."
 }

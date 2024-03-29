@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 10.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.88",
     "description":"All the devotees met together at Navadvīpa and, with mother Śacī's permission, departed for Nīlādri, Jagannātha Purī."
 }

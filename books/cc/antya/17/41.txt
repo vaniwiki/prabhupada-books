@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 17.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.41",
     "description":"\"Kṛṣṇa's deep voice is more resonant than newly arrived clouds, and His sweet song defeats even the sweet voice of the cuckoo. Indeed, His song is so sweet that even one particle of its sound can inundate the entire world. If such a particle enters one's ear, one is immediately bereft of all other types of hearing."
 }

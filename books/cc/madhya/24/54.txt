@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 24.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.54",
     "description":"\" 'O Lord, we do not know how the serpent Kāliya attained such an opportunity to be touched by the dust of Your lotus feet. For this end, the goddess of fortune performed austerities for centuries, giving up all other desires and taking austere vows. Indeed, we do not know how this serpent Kāliya got such an opportunity.'"
 }

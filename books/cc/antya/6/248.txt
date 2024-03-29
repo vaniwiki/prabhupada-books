@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.248",
-    "h1":"Text 248",
+    "h1":"Cc. Antya 6.248",
+    "label":"Text 248",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.248",
     "description":"When all the devotees from Bengal returned home after staying at Jagannātha Purī for four months, Raghunātha dāsa's father heard about their arrival and therefore sent a man to Śivānanda Sena."
 }

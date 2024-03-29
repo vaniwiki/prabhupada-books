@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 21.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.67",
     "description":"\"These Brahmās had different numbers of heads. Some had ten heads, some twenty, some a hundred, some a thousand, some ten thousand, some a hundred thousand, some ten million and others a hundred million. No one can count the number of faces they had."
 }

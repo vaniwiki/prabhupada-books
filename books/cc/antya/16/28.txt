@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 16.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.28",
     "description":"Hearing these quotations from the revealed scripture Śrīmad-Bhāgavatam, Jhaḍu Ṭhākura replied, \"Yes, this is true, for it is the version of śāstra. It is true, however, for one who is genuinely advanced in devotion to Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 21.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.5",
     "description":"\"Each Vaikuṇṭha planet is very large, and each is made of spiritual bliss. The inhabitants are all associates of the Supreme Lord, and they have full opulence like the Lord Himself. Thus they are all situated."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.266",
-    "h1":"Text 266",
+    "h1":"Cc. Madhya 1.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.266",
     "description":"Rāmacandra Purī criticized Lord Caitanya Mahāprabhu's eating; therefore the Lord reduced His eating to a minimum. However, when all the Vaiṣṇavas became very sorry, the Lord increased His portion to half as much as usual."
 }

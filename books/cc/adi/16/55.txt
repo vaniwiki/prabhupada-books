@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.55",
-    "h1":"Text 55",
+    "h1":"Cc. Ādi 16.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.55",
     "description":"\"In this verse the fault of avimṛṣṭa-vidheyāṁśa occurs twice, and the faults of viruddha-mati, bhagna-krama and punar-ātta occur once each."
 }

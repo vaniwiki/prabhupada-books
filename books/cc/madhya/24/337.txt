@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.337",
-    "h1":"Text 337",
+    "h1":"Cc. Madhya 24.337",
+    "label":"Text 337",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.337",
     "description":"\"The items of worship, such as water, conchshell, flowers, incense and lamp, should be described. You should also mention chanting softly, offering prayers, circumambulating, and offering obeisances. All these should be carefully studied."
 }

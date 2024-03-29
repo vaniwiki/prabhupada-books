@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 1.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.143",
     "description":"First the Lord washed the temple of Guṇḍicā very thoroughly. Then everyone saw the Ratha-yātrā festival and the Lord's dancing before the car."
 }

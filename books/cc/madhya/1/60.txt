@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 1.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.60",
     "description":"Although the meaning of the verse was known only to Svarūpa Dāmodara, Rūpa Gosvāmī, after hearing it from Śrī Caitanya Mahāprabhu, immediately composed another verse that described the meaning of the original verse."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 17.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.116",
     "description":"Prakāśānanda Sarasvatī said, \"Yes, I have heard about Him. He is a sannyāsī from Bengal, and He is very sentimental. I have also heard that He belongs to the Bhāratī-sampradāya, for He is a disciple of Keśava Bhāratī. However, He is only a pretender.\""
 }

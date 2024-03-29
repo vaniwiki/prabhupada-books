@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.126",
-    "h1":"Text 126",
+    "h1":"Cc. Ādi 17.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.126",
     "description":"\"For so long you did not follow the regulative principles of the Hindu religion, but now you are following them with great enthusiasm. May I know by whose strength you are doing so?"
 }

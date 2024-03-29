@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.143",
-    "h1":"Text 143",
+    "h1":"Cc. Ādi 5.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.143",
     "description":"Thus Lord Caitanya is also the only controller. All others are His associates or servants."
 }

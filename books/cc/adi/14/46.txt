@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 14.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.46",
     "description":"The neighboring ladies told Him, \"Dear child, please bring a coconut from somewhere, and then Your mother will be cured.\""
 }

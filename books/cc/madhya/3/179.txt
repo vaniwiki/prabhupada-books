@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 3.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.179",
     "description":"After hearing Lord Caitanya's statement, all the devotees, headed by Advaita Ācārya, approached mother Śacī."
 }

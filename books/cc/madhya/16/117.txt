@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 16.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.117",
     "description":"When the King heard that the Lord was leaving that evening, he immediately made arrangements for some elephants with small tents on their backs to be brought there. Then all the ladies of the palace got on the elephants."
 }

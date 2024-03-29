@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.225",
-    "h1":"Text 225",
+    "h1":"Cc. Madhya 11.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.225",
     "description":"On all four sides the four saṅkīrtana groups chanted very loudly, and in the middle Śrī Caitanya Mahāprabhu danced, jumping high."
 }

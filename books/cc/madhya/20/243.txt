@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.243",
-    "h1":"Text 243",
+    "h1":"Cc. Madhya 20.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.243",
     "description":"\"I have already described the pastime and prakāśa forms. Now please hear about the different personal expansions."
 }

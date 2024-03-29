@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.127",
-    "h1":"Text 127",
+    "h1":"Cc. Ādi 10.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.127",
     "description":"All these devotees were associates of the Lord from the very beginning, and when the Lord took up residence in Jagannātha Purī they remained there to serve Him faithfully."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.154",
-    "h1":"Text 154",
+    "h1":"Cc. Antya 20.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.154",
     "description":"Caitanya-caritāmṛta is filled with the activities of Śrī Caitanya Mahāprabhu, who is the Supreme Personality of Godhead Himself. It invokes all good fortune and destroys everything inauspicious. If one tastes the nectar of Caitanya-caritāmṛta with faith and love, I become like a bumblebee tasting the honey of transcendental love from his lotus feet."
 }

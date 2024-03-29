@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 7.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.56",
     "description":"When Vallabha Bhaṭṭa heard from the mouth of Śrī Caitanya Mahāprabhu about the pure Vaiṣṇavism of all these devotees, he immediately desired to see them."
 }

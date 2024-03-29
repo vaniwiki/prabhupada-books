@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 2.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.13",
     "description":"To deliver people in regions throughout the universe who could not meet Him, Śrī Caitanya Mahāprabhu personally entered the bodies of pure devotees."
 }

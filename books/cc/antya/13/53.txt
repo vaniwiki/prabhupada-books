@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 13.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.53",
     "description":"\"Where did you get that reddish cloth on your head?\" Jagadānanda asked. Sanātana Gosvāmī replied, \"Mukunda Sarasvatī gave it to me.\""
 }

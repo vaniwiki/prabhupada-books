@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 12.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.74",
     "description":"\"I have only this body, and therefore I surrender it unto you. Now, if you wish, you may sell it anywhere you like. It is your property.\""
 }

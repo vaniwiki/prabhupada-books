@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.89",
-    "h1":"Text 89",
+    "h1":"Cc. Antya 6.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.89",
     "description":"Who can understand the influence and mercy of Lord Nityānanda Prabhu? He is so powerful that He induced Lord Śrī Caitanya Mahāprabhu to come eat chipped rice on the bank of the Ganges."
 }

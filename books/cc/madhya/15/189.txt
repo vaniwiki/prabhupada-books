@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 15.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.189",
     "description":"Sārvabhauma then said, \"Please accept the invitation for twenty days,\" but Śrī Caitanya Mahāprabhu replied, \"It is not a religious principle of the renounced order.\""
 }

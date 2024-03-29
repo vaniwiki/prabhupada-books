@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 16.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.105",
     "description":"In this way both the poet and Caitanya Mahāprabhu went back to their homes, and at night the poet worshiped mother Sarasvatī."
 }

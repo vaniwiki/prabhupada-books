@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 9.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.224",
     "description":"After visiting Kanyā-kumārī, Śrī Caitanya Mahāprabhu came to Āmlitalā, where He saw the Deity of Śrī Rāmacandra. Thereafter He went to a place known as Mallāra-deśa, where a community of Bhaṭṭathāris lived."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 6.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.34",
     "description":"He worshiped Kṛṣṇa with tulasī leaves and water of the Ganges and called for Him in a loud voice. Thus Lord Caitanya Mahāprabhu appeared on earth, accompanied by His personal associates."
 }

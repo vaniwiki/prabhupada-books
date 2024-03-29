@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 16.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.30",
     "description":"That night, all the great devotees remained in the temple, and the priests brought twelve pots of condensed milk, which they placed before Lord Nityānanda Prabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 13.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.169",
     "description":"Lord Jagannātha was garlanded, dressed with nice garments and adorned with beautiful ornaments. His face was glittering from the rays of sunshine, and the entire atmosphere was fragrant."
 }

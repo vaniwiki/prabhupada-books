@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.317",
-    "h1":"Text 317",
+    "h1":"Cc. Madhya 20.317",
+    "label":"Text 317",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.317",
     "description":"\"The conclusion is that Lord Brahmā and Lord Śiva are simply devotee incarnations who carry out orders. However, Lord Viṣṇu, the maintainer, is the personal feature of Lord Kṛṣṇa."
 }

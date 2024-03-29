@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.239",
-    "h1":"Text 239",
+    "h1":"Cc. Madhya 16.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.239",
     "description":"Śrī Caitanya Mahāprabhu continued: \"Within your heart, you should keep yourself very faithful, but externally you may behave like an ordinary man. Thus Kṛṣṇa will soon be very pleased and deliver you from the clutches of māyā."
 }

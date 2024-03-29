@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 17.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.4",
     "description":"Exhibiting His scholarship, beauty and fine dress, Lord Caitanya danced, as He chanted and distributed the holy name of the Lord to awaken dormant love of Kṛṣṇa. Thus Lord Śrī Gaurasundara shone in His youthful pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 13.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.51",
     "description":"Lord Caitanya Mahāprabhu wandered through all seven groups chanting the holy name, \"Hari, Hari!\" Raising His arms, He shouted, \"All glories to Lord Jagannātha!\""
 }

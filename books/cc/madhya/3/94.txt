@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 3.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.94",
     "description":"After saying this, Nityānanda Prabhu took a handful of rice and threw it on the floor in front of Him, as if He were angry."
 }

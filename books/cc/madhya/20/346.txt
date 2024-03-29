@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.346",
-    "h1":"Text 346",
+    "h1":"Cc. Madhya 20.346",
+    "label":"Text 346",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.346",
     "description":"\" 'Whatever is achieved by meditation in Satya-yuga, by the performance of yajña in Tretā-yuga or by the worship of Kṛṣṇa's lotus feet in Dvāpara-yuga is also obtained in the Age of Kali simply by chanting and glorifying Lord Keśava.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.326",
-    "h1":"Text 326",
+    "h1":"Cc. Madhya 24.326",
+    "label":"Text 326",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.326",
     "description":"Sanātana Gosvāmī then requested the Lord, \"Please personally tell me how I can write this difficult book about Vaiṣṇava behavior. Please manifest Yourself in my heart."
 }

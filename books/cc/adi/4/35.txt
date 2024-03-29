@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.35",
-    "h1":"Text 35",
+    "h1":"Cc. Ādi 4.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.35",
     "description":"Here the use of the verb \"bhavet,\" which is in the imperative mood, tells us that this certainly must be done. Noncompliance would be abandonment of duty."
 }

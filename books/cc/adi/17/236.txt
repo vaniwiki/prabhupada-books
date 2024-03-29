@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.236",
-    "h1":"Text 236",
+    "h1":"Cc. Ādi 17.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.236",
     "description":"Thereafter the Lord again and again asked him, \"Speak on! Speak on!\" Thus Śrīvāsa again and again described the pastimes of Vṛndāvana, vividly expanding them."
 }

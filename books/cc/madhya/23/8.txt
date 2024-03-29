@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.8",
-    "h1":"Text 8",
+    "h1":"Cc. Madhya 23.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.8",
     "description":"\" 'When one develops an unflinching sense of ownership or possessiveness in relation to Lord Viṣṇu, or, in other words, when one thinks Viṣṇu and no one else to be the only object of love, such an awakening is called bhakti [devotion] by exalted persons like Bhīṣma, Prahlāda, Uddhava and Nārada.'"
 }

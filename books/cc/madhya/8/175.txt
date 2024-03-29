@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 8.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.175",
     "description":"\"These bodily ornaments constitute twenty kinds of ecstatic symptoms, beginning with kila-kiñcita. Her transcendental qualities are the flower garland hanging in fullness over Her body."
 }

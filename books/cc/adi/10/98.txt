@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.98",
-    "h1":"Text 98",
+    "h1":"Cc. Ādi 10.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.98",
     "description":"Raghunātha dāsa Gosvāmī gradually gave up all food and drink but a few drops of buttermilk."
 }

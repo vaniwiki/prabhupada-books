@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.20",
-    "h1":"Text 20",
+    "h1":"Cc. Antya 16.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.20",
     "description":"Kālidāsa replied, \"My dear sir, please bestow your mercy upon me. I have come to see you, although I am very fallen and sinful."
 }

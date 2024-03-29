@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 18.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.195",
     "description":"\"The happiness of liberation, whereby one merges into the Lord's existence, cannot even be compared to a fragment of the transcendental bliss obtained by service unto the Lord's lotus feet."
 }

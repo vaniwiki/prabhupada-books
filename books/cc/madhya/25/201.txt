@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 25.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.201",
     "description":"Thus receiving the order from Śrī Caitanya Mahāprabhu to go to Vṛndāvana, Subuddhi Rāya left Vārāṇasī and went through Prayāga, Ayodhyā and Naimiṣāraṇya toward Vṛndāvana."
 }

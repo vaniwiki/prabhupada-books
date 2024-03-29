@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 12.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.21",
     "description":"Nityānanda Prabhu continued, \"The King also expressed his desire to see the moonlike face of Śrī Caitanya Mahāprabhu to his eye's full satisfaction. He would like to raise the lotus feet of the Lord to his heart.\""
 }

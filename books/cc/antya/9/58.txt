@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 9.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.58",
     "description":"Hearing this news, the Lord was very pleased. Who can understand the mercy of the Lord upon His devotee?"
 }

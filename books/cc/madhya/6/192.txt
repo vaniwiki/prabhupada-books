@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 6.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.192",
     "description":"\"My dear Bhaṭṭācārya, you have certainly explained this verse by the prowess of your vast learning, but you should know that, besides this scholarly explanation, there is another purport to this verse.\""
 }

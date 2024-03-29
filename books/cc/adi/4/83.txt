@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.83",
-    "h1":"Text 83",
+    "h1":"Cc. Ādi 4.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.83",
     "description":"\"The transcendental goddess Śrīmatī Rādhārāṇī is the direct counterpart of Lord Śrī Kṛṣṇa. She is the central figure for all the goddesses of fortune. She possesses all the attractiveness to attract the all-attractive Personality of Godhead. She is the primeval internal potency of the Lord.\""
 }

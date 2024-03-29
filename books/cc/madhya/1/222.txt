@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.222",
-    "h1":"Text 222",
+    "h1":"Cc. Madhya 1.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.222",
     "description":"They said, \"Dear Lord, although the King of Bengal, Nawab Hussain Shah, is very respectful toward You, You have no other business here. Kindly depart from this place."
 }

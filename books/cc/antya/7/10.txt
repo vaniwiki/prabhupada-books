@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 7.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.10",
     "description":"\"One can immediately purify his entire house simply by remembering exalted personalities, to say nothing of directly seeing them, touching their lotus feet, washing their feet or offering them places to sit.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.186",
-    "h1":"Text 186",
+    "h1":"Cc. Madhya 15.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.186",
     "description":"One day Sārvabhauma Bhaṭṭācārya came before Śrī Caitanya Mahāprabhu with folded hands and submitted a request."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.29",
-    "h1":"Text 29",
+    "h1":"Cc. Ādi 10.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.29",
     "description":"Paṇḍita Gaṅgādāsa was the eighth dear branch of the tree of Śrī Caitanya Mahāprabhu. One who remembers his activities attains freedom from all bondage."
 }

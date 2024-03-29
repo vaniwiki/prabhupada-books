@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 16.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.126",
     "description":"Rāmānanda Rāya, Mardarāja and Śrī Haricandana always went with Śrī Caitanya Mahāprabhu and rendered various services."
 }

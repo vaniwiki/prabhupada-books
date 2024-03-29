@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 10.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.158",
     "description":"When Brahmānanda Bhāratī heard this, he thought, \"My deerskin is not approved by Śrī Caitanya Mahāprabhu.\""
 }

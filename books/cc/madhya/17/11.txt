@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 17.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.11",
     "description":"\"Our Lord, please take one very nice brāhmaṇa with You. He will collect alms for You, cook for You, give You prasāda, and carry Your waterpot while traveling."
 }

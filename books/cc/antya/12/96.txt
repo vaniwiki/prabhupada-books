@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 12.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.96",
     "description":"Jagadānanda Paṇḍita met all the other devotees in Nadia. They were all very happy to have him present."
 }

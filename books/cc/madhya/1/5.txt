@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 1.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.5",
     "description":"May Gopīnāthajī, who attracts all the gopīs with the song of His flute and who has begun the most melodious rāsa dance on the bank of the Yamunā in Vaṁśīvaṭa, be merciful upon us."
 }

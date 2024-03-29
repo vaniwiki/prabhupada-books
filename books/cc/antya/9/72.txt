@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 9.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.72",
     "description":"\"However, because he has received the mercy of Your lotus feet, he does not even accept his father's money. Instead he eats by begging alms from centers for the distribution of food."
 }

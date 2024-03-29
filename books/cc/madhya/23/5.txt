@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 23.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.5",
     "description":"\" 'When devotional service is situated on the transcendental platform of pure goodness, it is like a ray of the sunlight of love for Kṛṣṇa. At such a time, devotional service causes the heart to be softened by various tastes, and it is called bhāva [emotion].'"
 }

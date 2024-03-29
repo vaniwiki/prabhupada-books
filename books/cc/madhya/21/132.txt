@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 21.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.132",
     "description":"\"If by devotional service one gets the results of pious activities and sees Lord Kṛṣṇa's face, he can relish the Lord with his eyes. His greed and thirst then increase twofold by seeing the nectarean face of Kṛṣṇa. Due to one's inability to sufficiently drink that nectar, one becomes very unhappy and criticizes the creator for not having given more than two eyes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 9.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.200",
     "description":"There, among the brāhmaṇas, Śrī Caitanya Mahāprabhu listened to the Kūrma Purāṇa, wherein was mentioned the chaste woman's narration."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.165",
-    "h1":"Text 165",
+    "h1":"Cc. Antya 3.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.165",
     "description":"Haridāsa Ṭhākura walked until he came to the village known as Cāndapura. There he stayed at the house of Balarāma Ācārya."
 }

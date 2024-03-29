@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.245-246",
-    "h1":"Text 245-246",
+    "h1":"Cc. Madhya 16.245-246",
+    "label":"Text 245-246",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.245-246",
     "description":"Meanwhile, at Śāntipura, Śrī Caitanya Mahāprabhu assembled all His devotees-headed by Advaita Ācārya and Nityānanda Prabhu-embraced them all and asked their permission to return to Jagannātha Purī."
 }

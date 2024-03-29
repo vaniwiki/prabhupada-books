@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.241",
-    "h1":"Text 241",
+    "h1":"Cc. Madhya 19.241",
+    "label":"Text 241",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.241",
     "description":"\"Later, you can go from Vṛndāvana to Jagannātha Purī through Bengal [Gauḍa-deśa]. There you will meet Me again.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.64",
-    "h1":"Text 64",
+    "h1":"Cc. Madhya 6.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.64",
     "description":"Sārvabhauma Bhaṭṭācārya then told Gopīnātha Ācārya, \"Take Gosvāmījī and show Him Lord Jagannātha."
 }

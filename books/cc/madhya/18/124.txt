@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.124",
-    "h1":"Text 124",
+    "h1":"Cc. Madhya 18.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.124",
     "description":"\"Simply by hearing Your holy name, dog-eaters become holy saints. Your uncommon potencies cannot be described in words."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 9.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.158",
     "description":"\"The transcendental pastimes of the Lord are unfathomable, and I do not know anything about them. Whatever You say I accept as the truth."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 1.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.92",
     "description":"When proceeding toward Vṛndāvana, Śrī Caitanya Mahāprabhu was overwhelmed with ecstatic love for Kṛṣṇa, and He lost all remembrance of the external world. In this way He traveled continuously for three days in Rāḍha-deśa, the country where the Ganges River does not flow."
 }

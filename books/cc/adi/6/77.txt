@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.77",
-    "h1":"Text 77",
+    "h1":"Cc. Ādi 6.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.77",
     "description":"He also considers Himself a servant of Lord Kṛṣṇa. Indeed, who is there who does not have this conception of being a servant of Lord Kṛṣṇa?"
 }

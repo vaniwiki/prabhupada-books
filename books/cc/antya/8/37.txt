@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 8.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.37",
     "description":"I have incidentally described the passing away of Mādhavendra Purī. Anyone who hears this must be considered very fortunate."
 }

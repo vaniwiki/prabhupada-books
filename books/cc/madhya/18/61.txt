@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 18.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.61",
     "description":"Hearing this, Śrī Caitanya Mahāprabhu became very happy. After excavating the cave, He saw the three deities."
 }

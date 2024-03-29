@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.212",
-    "h1":"Text 212",
+    "h1":"Cc. Ādi 5.212",
+    "label":"Text 212",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.212",
     "description":"Lord Madana Gopāla, the chief Deity of Vṛndāvana, is the enjoyer of the rāsa dance and is directly the son of the King of Vraja."
 }

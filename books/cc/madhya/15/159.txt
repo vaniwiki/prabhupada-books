@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 15.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.159",
     "description":"When Caitanya Mahāprabhu glorified him, Vāsudeva Datta immediately became very embarrassed and shy. He then submitted himself, touching the Lord's lotus feet."
 }

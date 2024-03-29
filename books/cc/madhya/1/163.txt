@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 1.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.163",
     "description":"When Lord Caitanya Mahāprabhu began to proceed from Kuliyā toward Vṛndāvana, thousands of men were with Him, and all of them were devotees."
 }

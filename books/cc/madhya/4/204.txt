@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.204",
-    "h1":"Text 204",
+    "h1":"Cc. Madhya 4.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.204",
     "description":"When many people crowded around Śrī Caitanya Mahāprabhu, He regained His external senses. In the meantime, the offering to the Deity had been finished, and there was a resounding ārati performance."
 }

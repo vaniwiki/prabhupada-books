@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 11.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.82",
     "description":"Śrī Caitanya Mahāprabhu was not accustomed to taking prasāda in small quantities. He therefore put on each plate what at least five men could eat."
 }

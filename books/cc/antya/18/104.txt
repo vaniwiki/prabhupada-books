@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 18.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.104",
     "description":"\"Among the fruits were many varieties of coconut and mango, bananas, berries, jackfruits, dates, tangerines, oranges, blackberries, santarās, grapes, almonds and all kinds of dried fruit."
 }

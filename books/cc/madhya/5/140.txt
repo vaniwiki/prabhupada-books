@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 5.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.140",
     "description":"[In his book Caitanya-bhāgavata] Śrīla Vṛndāvana dāsa Ṭhākura has very vividly described the places visited by the Lord on the way to Bhuvaneśvara."
 }

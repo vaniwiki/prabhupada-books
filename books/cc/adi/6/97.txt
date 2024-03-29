@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 6.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.97",
     "description":"The scriptures call them incarnations as devotees [bhakta-avatāra]. The position of being such an incarnation is above all others."
 }

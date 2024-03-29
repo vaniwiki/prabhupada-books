@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 15.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.101",
     "description":"\"To say nothing of you, even a dog living in your village is very dear to Me. What, then, to speak of others?\""
 }

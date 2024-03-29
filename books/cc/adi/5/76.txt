@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.76",
-    "h1":"Text 76",
+    "h1":"Cc. Ādi 5.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.76",
     "description":"Garbhodaśāyī and Kṣīrodaśāyī are both called puruṣas. They are plenary portions of Kāraṇodaśāyī Viṣṇu, the first puruṣa, who is the abode of all the universes."
 }

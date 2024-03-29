@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.170",
-    "h1":"Text 170",
+    "h1":"Cc. Antya 1.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.170",
     "description":"Although the effulgence of the moon is brilliant initially at night, in the daytime it fades away. Similarly, although the lotus is beautiful during the daytime, at night it closes. But, O My friend, the face of My most dear Śrīmatī Rādhārāṇī is always bright and beautiful, both day and night. Therefore, to what can Her face be compared?'"
 }

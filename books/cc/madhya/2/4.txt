@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 2.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.4",
     "description":"Śrī Caitanya Mahāprabhu's state of mind, day and night, was practically identical to Rādhārāṇī's state of mind when Uddhava came to Vṛndāvana to see the gopīs."
 }

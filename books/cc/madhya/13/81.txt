@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 13.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.81",
     "description":"Having recited all these verses from scripture, the Lord again offered His obeisances, and all the devotees, with folded hands, also offered prayers to the Supreme Personality of Godhead."
 }

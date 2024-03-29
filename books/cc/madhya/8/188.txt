@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 8.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.188",
     "description":"\" 'A person who is very cunning and always youthful, expert in joking and without anxiety, and who can keep his girlfriends always subjugated, is called dhīra-lalita.'"
 }

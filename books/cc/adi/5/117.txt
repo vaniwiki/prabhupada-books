@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.117",
-    "h1":"Text 117",
+    "h1":"Cc. Ādi 5.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.117",
     "description":"That same Lord Viṣṇu, in the form of Lord Śeṣa, holds the planets upon His heads, although He does not know where they are, for He cannot feel their existence upon His heads."
 }

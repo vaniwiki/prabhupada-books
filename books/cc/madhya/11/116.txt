@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 11.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.116",
     "description":"\"Previously the Lord gave me mahā-prasāda rice one morning, and I ate that just sitting on my bed, without having even washed my mouth."
 }

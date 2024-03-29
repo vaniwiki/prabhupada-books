@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.23",
-    "h1":"Text 23",
+    "h1":"Cc. Madhya 24.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.23",
     "description":"\"The word urukrama indicates the Supreme Personality of Godhead, who, by His external potency, has perfectly created innumerable universes."
 }

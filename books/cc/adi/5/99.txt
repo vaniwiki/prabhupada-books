@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.99",
-    "h1":"Text 99",
+    "h1":"Cc. Ādi 5.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.99",
     "description":"There He manifested Vaikuṇṭha as His own abode and rested in the waters on the bed of Lord Śeṣa."
 }

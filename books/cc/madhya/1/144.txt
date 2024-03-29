@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 1.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.144",
     "description":"In the garden along the road from the Jagannātha temple to Guṇḍicā, Lord Caitanya Mahāprabhu performed various pastimes. A brāhmaṇa named Kṛṣṇadāsa performed the bathing ceremony of Lord Śrī Caitanya Mahāprabhu."
 }

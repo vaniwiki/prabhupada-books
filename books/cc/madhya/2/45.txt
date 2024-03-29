@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 2.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.45",
     "description":"Śrī Caitanya Mahāprabhu continued, \" 'My dear friends, I have not the slightest tinge of love of Godhead within My heart. When you see Me crying in separation, I am just falsely exhibiting a demonstration of My great fortune. Indeed, not seeing the beautiful face of Kṛṣṇa playing His flute, I continue to live My life like an insect, without purpose.'"
 }

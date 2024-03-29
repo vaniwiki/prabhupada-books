@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 17.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.86",
     "description":"Tapana Miśra then took Śrī Caitanya Mahāprabhu to visit the temple of Viśveśvara. Coming from there, they saw the lotus feet of Lord Bindu Mādhava."
 }

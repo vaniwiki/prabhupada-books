@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 12.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.14",
     "description":"When Acyutānanda heard from his father that Keśava Bhāratī was the spiritual master of Lord Caitanya Mahāprabhu, he was very unhappy."
 }

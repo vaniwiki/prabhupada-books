@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.109",
-    "h1":"Text 109",
+    "h1":"Cc. Ādi 2.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.109",
     "description":"That same Lord Kṛṣṇa, the fountainhead of all incarnations, is known as the son of the King of Vraja. He has descended personally as Lord Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 4.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.53",
     "description":"To accept ecstatic love is the main reason He appeared and reestablished the religious system for this age. I shall now explain that reason. Everyone please listen."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 10.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.105",
     "description":"At the conclusion of his sannyāsa, his spiritual master, Caitanyānanda Bhāratī, ordered him, \"Read Vedānta-sūtra and teach it to all others.\""
 }

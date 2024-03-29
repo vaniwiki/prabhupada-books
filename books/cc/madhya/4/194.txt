@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.194",
-    "h1":"Text 194",
+    "h1":"Cc. Madhya 4.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.194",
     "description":"Actually this verse was spoken by Śrīmatī Rādhārāṇī Herself, and by Her mercy only was it manifest in the words of Mādhavendra Purī."
 }

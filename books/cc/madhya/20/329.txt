@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.329",
-    "h1":"Text 329",
+    "h1":"Cc. Madhya 20.329",
+    "label":"Text 329",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.329",
     "description":"\"O Sanātana, now hear from Me about the yuga-avatāras, the incarnations for the millenniums. First of all, there are four yugas-Satya-yuga, Tretā-yuga, Dvāpara-yuga and Kali-yuga."
 }

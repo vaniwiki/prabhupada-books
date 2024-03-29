@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 22.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.18",
     "description":"\"But for devotional service, all other methods for spiritual self-realization are weak and insignificant. Unless one comes to the devotional service of Lord Kṛṣṇa, jñāna and yoga cannot give the desired results."
 }

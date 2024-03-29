@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 11.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.60",
     "description":"When the King asked the Bhaṭṭācārya when the bathing ceremony [Snāna-yātrā] of Lord Jagannātha would take place, the Bhaṭṭācārya replied that there were only three days left before the ceremony."
 }

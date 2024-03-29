@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.272",
-    "h1":"Text 272",
+    "h1":"Cc. Madhya 16.272",
+    "label":"Text 272",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.272",
     "description":"\"I then understood that I was going to Vṛndāvana like a magician with his show, and this is certainly not good. No one should go to Vṛndāvana with so many men."
 }

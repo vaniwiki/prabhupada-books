@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 16.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.72",
     "description":"\"A person who is always chanting the holy name of the Lord is to be considered a first-class Vaiṣṇava, and your duty is to serve his lotus feet.\""
 }

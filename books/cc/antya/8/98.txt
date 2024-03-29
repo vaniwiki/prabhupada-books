@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 8.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.98",
     "description":"After his departure, everything was happy once again. Śrī Caitanya Mahāprabhu accepted invitations as usual and led congregational chanting and dancing. Everyone else also accepted prasāda without hindrances."
 }

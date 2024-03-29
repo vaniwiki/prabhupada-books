@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 20.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.37",
     "description":"Walking and walking, Sanātana Gosvāmī finally arrived at a place called Hājipura. That evening he sat down within a garden."
 }

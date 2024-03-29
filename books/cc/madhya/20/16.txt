@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 20.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.16",
     "description":"In this way, Sanātana Gosvāmī was released. However, he was not able to walk along the path of the fortress. Walking day and night, he finally arrived at the hilly tract of land known as Pātaḍā."
 }

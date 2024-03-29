@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.18",
-    "h1":"Text 18",
+    "h1":"Cc. Ādi 17.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.18",
     "description":"After this incident, the Lord remained in an ecstatic position for twenty-one hours, and all the devotees saw His specific pastimes."
 }

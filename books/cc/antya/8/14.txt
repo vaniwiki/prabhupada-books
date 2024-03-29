@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 8.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.14",
     "description":"Encouraging him again and again, Rāmacandra Purī fed him sumptuously, but when Jagadānanda had washed his hands and mouth, Rāmacandra Purī began criticizing him."
 }

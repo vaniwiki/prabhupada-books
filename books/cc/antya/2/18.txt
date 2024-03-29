@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.18",
-    "h1":"Text 18",
+    "h1":"Cc. Antya 2.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.18",
     "description":"Nakula Brahmacārī became exactly like a man haunted by a ghost. Thus he sometimes laughed, sometimes cried, sometimes danced and sometimes chanted like a madman."
 }

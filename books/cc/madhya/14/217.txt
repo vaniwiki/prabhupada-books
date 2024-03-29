@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.217",
-    "h1":"Text 217",
+    "h1":"Cc. Madhya 14.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.217",
     "description":"\"Svarūpa Dāmodara is a pure devotee of Vṛndāvana. He does not even know what opulence is, for he is simply absorbed in pure devotional service.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 9.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.235",
     "description":"When the Lord saw the Ādi-keśava temple, He was immediately overwhelmed with ecstasy. Offering various obeisances and prayers, He chanted and danced."
 }

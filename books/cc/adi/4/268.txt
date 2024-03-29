@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.268",
-    "h1":"Text 268",
+    "h1":"Cc. Ādi 4.268",
+    "label":"Text 268",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.268",
     "description":"\"Therefore, assuming Rādhārāṇī's sentiments and bodily complexion, I shall descend to fulfill these three desires.\""
 }

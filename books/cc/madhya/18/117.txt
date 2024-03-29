@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 18.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.117",
     "description":"After Śrī Caitanya Mahāprabhu explained the difference between an ordinary living being and the Supreme Personality of Godhead, the people said, \"No one considers You an ordinary human being. You are like Kṛṣṇa in every respect, in both bodily features and characteristics."
 }

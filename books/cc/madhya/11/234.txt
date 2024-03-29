@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.234",
-    "h1":"Text 234",
+    "h1":"Cc. Madhya 11.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.234",
     "description":"When someone came nearby while dancing, Śrī Caitanya Mahāprabhu would tightly embrace him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 8.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.167",
     "description":"\"Śrīmatī Rādhārāṇī takes Her first bath in the shower of the nectar of compassion, and She takes Her second bath in the nectar of youth."
 }

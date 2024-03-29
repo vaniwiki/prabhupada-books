@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.217",
-    "h1":"Text 217",
+    "h1":"Cc. Madhya 19.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.217",
     "description":"\"These two qualities of the śānta stage spread through the lives of all devotees. They are like the quality of sound in the sky. Sound vibration is found in all material elements."
 }

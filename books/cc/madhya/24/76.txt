@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 24.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.76",
     "description":"\" 'Prior to the cosmic creation, only I exist, and no phenomena exist, either gross, subtle or primordial. After creation, only I exist in everything, and after annihilation only I remain eternally.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.239",
-    "h1":"Text 239",
+    "h1":"Cc. Madhya 20.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.239",
     "description":"\"According to the Hayaśīrṣa Pañcarātra, Nārāyaṇa and others are also presented differently as holding the weapons in different hands."
 }

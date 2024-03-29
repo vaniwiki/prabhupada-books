@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 12.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.200",
     "description":"The seven persons headed by Svarūpa Dāmodara who were engaged in distributing prasāda to others then took their meals within the room."
 }

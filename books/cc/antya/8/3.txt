@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 8.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.3",
     "description":"All glories to Nityānanda Prabhu, the greatest of mendicants, who bound the entire world with a knot of ecstatic love for God."
 }

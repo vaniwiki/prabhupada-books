@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 24.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.116",
     "description":"\"By the mercy of Śrīla Vyāsadeva, Śukadeva Gosvāmī was attracted by the pastimes of Lord Kṛṣṇa. Being thus attracted by Kṛṣṇa's transcendental qualities, he also became a devotee and engaged in His service."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 4.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.114",
     "description":"From the excellence of the arrangements, Mādhavendra Purī understood by deduction that only the best food was offered."
 }

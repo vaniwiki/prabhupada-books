@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.139",
-    "h1":"Text 139",
+    "h1":"Cc. Antya 5.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.139",
     "description":"\"Thus Indra thought, 'I have properly chastised Kṛṣṇa and defamed Him.' But Sarasvatī, the goddess of learning, took this opportunity to offer prayers to Kṛṣṇa."
 }

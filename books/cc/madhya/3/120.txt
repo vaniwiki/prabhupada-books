@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 3.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.120",
     "description":"Being agitated by the ecstasy, Śrī Caitanya Mahāprabhu suddenly fell to the ground. Seeing this, Advaita Ācārya stopped dancing."
 }

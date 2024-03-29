@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 1.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.28",
     "description":"When all the devotees came to the place of Śrī Caitanya Mahāprabhu, they saw the same dog was sitting a little apart the Lord."
 }

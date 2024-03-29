@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.153",
-    "h1":"Text 153",
+    "h1":"Cc. Ādi 4.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.153",
     "description":"\"The gopīs saw their beloved Kṛṣṇa at Kurukṣetra after a long separation. They secured and embraced Him in their hearts through their eyes, and they attained a joy so intense that not even perfect yogīs can attain it. The gopīs cursed the creator for creating eyelids that interfered with their vision.\""
 }

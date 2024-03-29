@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.210",
-    "h1":"Text 210",
+    "h1":"Cc. Madhya 15.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.210",
     "description":"There were about ten kinds of spinach, a soup called sukhta, which was made with bitter nimba leaves, a pungent preparation made with black pepper, a mild cake made of fried curd, and buttermilk mixed with small fried pieces of dhal."
 }

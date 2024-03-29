@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 14.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.30",
     "description":"Astonished that the child was speaking Māyāvāda philosophy, mother Śacī replied, \"Who has taught You this philosophical speculation that justifies eating dirt?\""
 }

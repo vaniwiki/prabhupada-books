@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 4.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.92",
     "description":"Thus Śrī Caitanya Mahāprabhu embraced both Haridāsa Ṭhākura and Sanātana Gosvāmī and then got up and left to perform His noon duties."
 }

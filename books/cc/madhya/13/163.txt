@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 13.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.163",
     "description":"No one can describe the good fortune of Svarūpa Dāmodara Gosvāmī, for he is always absorbed in the service of the Lord with his body, mind and words."
 }

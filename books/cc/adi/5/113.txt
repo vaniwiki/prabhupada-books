@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.113",
-    "h1":"Text 113",
+    "h1":"Cc. Ādi 5.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.113",
     "description":"In the ages and millenniums of Manu, He appears as different incarnations to establish the principles of real religion and vanquish the principles of irreligion."
 }

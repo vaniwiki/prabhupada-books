@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.63",
-    "h1":"Text 63",
+    "h1":"Cc. Ādi 13.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.63",
     "description":"Before the appearance of Lord Caitanya Mahāprabhu, all the devotees of Navadvīpa used to gather in the house of Advaita Ācārya."
 }

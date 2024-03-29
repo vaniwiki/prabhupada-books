@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.49",
-    "h1":"Text 49",
+    "h1":"Cc. Ādi 8.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.49",
     "description":"The devotees of Vṛndāvana were all very anxious to hear those pastimes."
 }

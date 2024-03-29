@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.27",
-    "h1":"Text 27",
+    "h1":"Cc. Ādi 7.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.27",
     "description":"When the five members of the Pañca-tattva saw the entire world drowned in love of Godhead and the seed of material enjoyment in the living entities completely destroyed, they all became exceedingly happy."
 }

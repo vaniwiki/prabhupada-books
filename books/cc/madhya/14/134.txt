@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 14.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.134",
     "description":"When the servants fall down before the lotus feet of the goddess of fortune, they almost fall unconscious. They are chastised and made the butt of jokes and loose language."
 }

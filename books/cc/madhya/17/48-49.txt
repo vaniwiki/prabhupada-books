@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.48-49",
-    "h1":"Text 48-49",
+    "h1":"Cc. Madhya 17.48-49",
+    "label":"Text 48-49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.48-49",
     "description":"When someone heard the chanting of the holy name from the mouth of Śrī Caitanya Mahāprabhu, and someone else heard this chanting from that second person, and someone again heard this chanting from the third person, everyone in all countries became a Vaiṣṇava through such disciplic succession. Thus everyone chanted the holy name of Kṛṣṇa and Hari, and they danced, cried and smiled."
 }

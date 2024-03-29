@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 14.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.125",
     "description":"\"All the pastimes with the gopīs that take place in those gardens are very confidential ecstasies of Lord Kṛṣṇa. No one knows them."
 }

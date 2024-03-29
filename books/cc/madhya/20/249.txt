@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.249",
-    "h1":"Text 249",
+    "h1":"Cc. Madhya 20.249",
+    "label":"Text 249",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.249",
     "description":"\" 'O learned brāhmaṇas, just as hundreds and thousands of small ponds issue from great reservoirs of water, innumerable incarnations flow from Śrī Hari, the Supreme Personality of Godhead and the reservoir of all power.'"
 }

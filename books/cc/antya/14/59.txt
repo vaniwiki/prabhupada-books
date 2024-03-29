@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 14.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.59",
     "description":"Śrī Caitanya Mahāprabhu remained awake throughout the entire night, chanting the Hare Kṛṣṇa mantra very loudly."
 }

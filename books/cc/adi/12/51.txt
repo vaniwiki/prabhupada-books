@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 12.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.51",
     "description":"\"When one's mind is polluted, it is very difficult to remember Kṛṣṇa; and when remembrance of Lord Kṛṣṇa is hampered, one's life is unproductive."
 }

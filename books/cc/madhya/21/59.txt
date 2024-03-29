@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 21.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.59",
     "description":"\"Once, when Kṛṣṇa was ruling Dvārakā, Lord Brahmā came to see Him, and the doorman immediately informed Lord Kṛṣṇa of Brahmā's arrival."
 }

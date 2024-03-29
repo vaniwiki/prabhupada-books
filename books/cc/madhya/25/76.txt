@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 25.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.76",
     "description":"\" 'If a person considered liberated in this life commits offenses against the reservoir of inconceivable potencies, the Supreme Personality of Godhead, he will again fall down and desire the material atmosphere for material enjoyment.'"
 }

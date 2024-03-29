@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.221",
-    "h1":"Text 221",
+    "h1":"Cc. Madhya 6.221",
+    "label":"Text 221",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.221",
     "description":"The Bhaṭṭācārya noticed Śrī Caitanya Mahāprabhu outside, and with great haste he went to Him and offered prayers unto His lotus feet."
 }

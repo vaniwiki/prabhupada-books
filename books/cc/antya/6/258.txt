@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.258",
-    "h1":"Text 258",
+    "h1":"Cc. Antya 6.258",
+    "label":"Text 258",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.258",
     "description":"Hearing the description of Raghunātha dāsa's behavior in the renounced order, his father and mother were very unhappy. Therefore they decided to send him some men with goods for his comfort."
 }

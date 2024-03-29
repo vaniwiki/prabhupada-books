@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.282",
-    "h1":"Text 282",
+    "h1":"Cc. Madhya 20.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.282",
     "description":"\"Mahā-Viṣṇu is the Supersoul of all the universes. Lying on the Causal Ocean, He is the master of all material worlds."
 }

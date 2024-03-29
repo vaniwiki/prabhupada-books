@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 12.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.101",
     "description":"Someone brought water to pour into the hands of Śrī Caitanya Mahāprabhu, and someone poured water on His lotus feet."
 }

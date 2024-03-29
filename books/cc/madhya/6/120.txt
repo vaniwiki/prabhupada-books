@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 6.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.120",
     "description":"He then began to instruct Lord Caitanya Mahāprabhu on Vedānta philosophy, and out of affection and devotion, he spoke to the Lord as follows."
 }

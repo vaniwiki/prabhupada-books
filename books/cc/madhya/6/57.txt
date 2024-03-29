@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 6.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.57",
     "description":"As soon as Caitanya Mahāprabhu heard this from the Bhaṭṭācārya, He immediately remembered Lord Viṣṇu and began to speak humbly to him as follows."
 }

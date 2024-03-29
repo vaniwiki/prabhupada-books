@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.259",
-    "h1":"Text 259",
+    "h1":"Cc. Madhya 1.259",
+    "label":"Text 259",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.259",
     "description":"After this, the Lord punished Junior Haridāsa, and Dāmodara Paṇḍita gave some warning to the Lord."
 }

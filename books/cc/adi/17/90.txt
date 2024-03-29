@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.90",
-    "h1":"Text 90",
+    "h1":"Cc. Ādi 17.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.90",
     "description":"One day the Lord ordered Śrīvāsa Ṭhākura to read the Bṛhat-sahasra-nāma [the thousand names of Lord Viṣṇu], for He wanted to hear them at that time."
 }

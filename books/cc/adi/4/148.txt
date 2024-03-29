@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.148",
-    "h1":"Text 148",
+    "h1":"Cc. Ādi 4.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.148",
     "description":"All minds are attracted by hearing His sweet voice and flute, or by seeing His beauty. Even Lord Kṛṣṇa Himself makes efforts to taste that sweetness."
 }

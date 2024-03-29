@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 21.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.24",
     "description":"\"When the Lord Brahmā from this universe saw this pastime, he was astonished and struck with wonder. After offering his prayers, he gave the following conclusion."
 }

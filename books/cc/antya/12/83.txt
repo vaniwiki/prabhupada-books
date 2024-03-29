@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.83",
-    "h1":"Text 83",
+    "h1":"Cc. Antya 12.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.83",
     "description":"The Lord bound everyone by His transcendental mercy. Who can repay his debt for the mercy of Śrī Caitanya Mahāprabhu?"
 }

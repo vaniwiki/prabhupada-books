@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.247",
-    "h1":"Text 247",
+    "h1":"Cc. Antya 6.247",
+    "label":"Text 247",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.247",
     "description":"\"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā.\""
 }

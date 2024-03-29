@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 16.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.16",
     "description":"When Kālidāsa went to Jhaḍu Ṭhākura, he saw that saintly person sitting with his wife. As soon as Jhaḍu Ṭhākura saw Kālidāsa, he likewise offered his respectful obeisances unto him."
 }

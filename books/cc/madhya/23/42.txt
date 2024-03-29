@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 23.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.42",
     "description":"\"Love of Godhead increases and is manifest as affection, counter-love, love, attachment, subattachment, ecstasy and sublime ecstasy."
 }

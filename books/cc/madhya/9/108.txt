@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 9.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.108",
     "description":"Śrī Caitanya Mahāprabhu remained at the house of Veṅkaṭa Bhaṭṭa and constantly talked with him about Lord Kṛṣṇa. In this way He was very happy."
 }

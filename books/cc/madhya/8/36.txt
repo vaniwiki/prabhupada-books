@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 8.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.36",
     "description":"\"You do not fear the Vedic injunctions stating that You should not associate with a śūdra. You were not contemptuous of my touch, although in the Vedas You are forbidden to associate with śūdras."
 }

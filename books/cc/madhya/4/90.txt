@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 4.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.90",
     "description":"One village after another was pleased to beg Mādhavendra Purī to allot them one day to perform the Annakūṭa ceremony. Thus, day after day, the Annakūṭa ceremony was performed for some time."
 }

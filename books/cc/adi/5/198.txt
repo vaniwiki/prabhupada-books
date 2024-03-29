@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.198",
-    "h1":"Text 198",
+    "h1":"Cc. Ādi 5.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.198",
     "description":"I thought about what I had seen and heard and concluded that the Lord had ordered me to proceed to Vṛndāvana at once."
 }

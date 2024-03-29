@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.284",
-    "h1":"Text 284",
+    "h1":"Cc. Madhya 20.284",
+    "label":"Text 284",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.284",
     "description":"\"After creating the total number of universes, which are unlimited, the Mahā-Viṣṇu expanded Himself into unlimited forms and entered into each of them."
 }

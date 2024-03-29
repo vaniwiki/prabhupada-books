@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 6.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.68",
     "description":"Some of the brāhmaṇas, not having gotten a place on the platform, went to the bank of the Ganges with their two earthen pots and soaked their chipped rice there."
 }

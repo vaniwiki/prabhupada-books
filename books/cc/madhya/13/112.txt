@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 13.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.112",
     "description":"After abandoning the dancing, the Lord ordered Svarūpa Dāmodara to sing. Understanding His mind, Svarūpa Dāmodara began to sing as follows."
 }

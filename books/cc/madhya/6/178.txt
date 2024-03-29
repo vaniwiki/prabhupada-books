@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 6.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.178",
     "description":"Śrī Caitanya Mahāprabhu continued, \"The Supreme Personality of Godhead is the central point of all relationships, acting in devotional service to Him is one's real occupation, and the attainment of love of Godhead is the ultimate goal of life. These three subject matters are described in the Vedic literature."
 }

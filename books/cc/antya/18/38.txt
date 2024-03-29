@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.38",
-    "h1":"Text 38",
+    "h1":"Cc. Antya 18.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.38",
     "description":"While they were searching for the Lord, the night ended, and thus they all decided, \"Lord Śrī Caitanya Mahāprabhu has now disappeared.\""
 }

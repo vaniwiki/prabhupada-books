@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2",
-    "h1":"Chapter 2",
+    "h1":"The Ecstatic Manifestations of Lord Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 2",
     "title":"Cc. Madhya 2: The Ecstatic Manifestations of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }

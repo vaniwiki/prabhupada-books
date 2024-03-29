@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.213",
-    "h1":"Text 213",
+    "h1":"Cc. Madhya 12.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.213",
     "description":"The chin of the Lord, tinged with buff color, conquered the beauty of the bāndhulī flower. This increased the beauty of His mild smiling, which was like lustrous waves of nectar."
 }

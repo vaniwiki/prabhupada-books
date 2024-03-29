@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.242",
-    "h1":"Text 242",
+    "h1":"Cc. Madhya 14.242",
+    "label":"Text 242",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.242",
     "description":"As soon as He saw Lord Jagannātha, Śrī Caitanya Mahāprabhu began to chant and dance. Afterward, accompanied by His devotees, the Lord enjoyed sporting in the lake called Narendra-sarovara."
 }

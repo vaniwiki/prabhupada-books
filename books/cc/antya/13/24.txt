@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 13.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.24",
     "description":"Grasping the Lord's feet, Jagadānanda Paṇḍita then said, \"For a long time I have desired to go to Vṛndāvana."
 }

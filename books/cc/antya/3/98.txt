@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 3.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.98",
     "description":"O devotees of Śrī Caitanya Mahāprabhu, please hear something about the qualities of Haridāsa Ṭhākura that Śrīla Vṛndāvana dāsa Ṭhākura has not described in detail."
 }

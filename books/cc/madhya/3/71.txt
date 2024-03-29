@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 3.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.71",
     "description":"When Śrī Caitanya Mahāprabhu did not accept the food that had already been served, Advaita Ācārya said, \"Please give up Your concealment. I know what You are, and I know the confidential meaning of Your accepting the sannyāsa order.\""
 }

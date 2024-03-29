@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.37",
-    "h1":"Text 37",
+    "h1":"Cc. Ādi 13.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.37",
     "description":"The activities of Lord Caitanya Mahāprabhu in His travels after He accepted sannyāsa are His principal pastimes. His activities during His remaining eighteen years are called antya-līlā, or the final portion of His pastimes."
 }

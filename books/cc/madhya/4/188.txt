@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 4.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.188",
     "description":"\"With great trouble and after much labor, Mādhavendra Purī brought the load of sandalwood to Remuṇā. However, he was still very pleased; he discounted all the difficulties."
 }

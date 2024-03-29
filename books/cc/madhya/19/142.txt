@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 19.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.142",
     "description":"\" 'Among minute particles, I am the living entity.'"
 }

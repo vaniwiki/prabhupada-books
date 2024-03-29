@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.321",
-    "h1":"Text 321",
+    "h1":"Cc. Antya 6.321",
+    "label":"Text 321",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.321",
     "description":"When Śrī Caitanya Mahāprabhu heard news of this from the mouth of Govinda, He went there the next day and spoke as follows."
 }

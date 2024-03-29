@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 6.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.38",
     "description":"Caitanya Mahāprabhu got up and very loudly chanted, \"Hari! Hari!\" Sārvabhauma Bhaṭṭācārya was very pleased to see the Lord regain consciousness, and he took the dust of the Lord's lotus feet."
 }

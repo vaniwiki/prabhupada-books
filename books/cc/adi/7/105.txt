@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 7.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.105",
     "description":"\"Dear sir, by Your influence our minds are greatly satisfied, and we believe that Your words will never be unreasonable. Therefore You can speak on the Vedānta-sūtra.\""
 }

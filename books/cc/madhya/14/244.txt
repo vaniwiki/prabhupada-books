@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.244",
-    "h1":"Text 244",
+    "h1":"Cc. Madhya 14.244",
+    "label":"Text 244",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.244",
     "description":"The next day Lord Jagannātha came out from the temple and, riding on the car, returned to His own abode."
 }

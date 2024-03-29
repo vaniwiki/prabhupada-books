@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 10.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.23",
     "description":"They sometimes appeared to fight over trifles, but these quarrels were based on their affection, of which I shall speak later."
 }

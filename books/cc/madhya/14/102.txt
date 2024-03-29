@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 14.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.102",
     "description":"After thus performing pastimes in the garden for some time, they all went to a lake called Narendra-sarovara and there enjoyed sporting in the water."
 }

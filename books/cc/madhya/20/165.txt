@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 20.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.165",
     "description":"\"The Supreme Personality of Godhead exists in three principal forms-svayaṁ-rūpa, tad-ekātma-rūpa, and āveśa-rūpa."
 }

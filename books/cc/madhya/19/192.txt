@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 19.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.192",
     "description":"\"Attachment for Kṛṣṇa is divided into two categories. One is attachment with awe and reverence, and the other is pure attachment without reverence."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 1.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.132",
     "description":"Eventually Narahari dāsa and other inhabitants of Khaṇḍa, along with Śivānanda Sena, all arrived, and Śrī Caitanya Mahāprabhu met them."
 }

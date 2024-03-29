@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 6.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.31",
     "description":"Sārvabhauma Bhaṭṭācārya permitted all the devotees to enter his house, and upon seeing Nityānanda Prabhu, the Bhaṭṭācārya offered Him obeisances."
 }

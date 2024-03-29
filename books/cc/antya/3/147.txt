@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.147",
-    "h1":"Text 147",
+    "h1":"Cc. Antya 3.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.147",
     "description":"Because of blaspheming the cult of Vaiṣṇavism and insulting the devotees for a long time, he now received the results of his offensive activities."
 }

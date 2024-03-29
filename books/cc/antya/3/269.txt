@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.269",
-    "h1":"Text 269",
+    "h1":"Cc. Antya 3.269",
+    "label":"Text 269",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.269",
     "description":"I have heard from the mouth of Raghunātha dāsa Gosvāmī all that Svarūpa Dāmodara Gosvāmī recorded in his notes about the pastimes of Śrī Caitanya Mahāprabhu."
 }

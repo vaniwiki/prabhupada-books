@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 12.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.71",
     "description":"In this way, the Lord passed some days in great jubilation. Then the car festival of Lord Jagannātha approached."
 }

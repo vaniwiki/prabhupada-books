@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 9.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.245",
     "description":"Caitanya Mahāprabhu next arrived at Uḍupī, the place of Madhvācārya, where the philosophers known as Tattvavādīs resided. There He saw the Deity of Lord Kṛṣṇa and became mad with ecstasy."
 }

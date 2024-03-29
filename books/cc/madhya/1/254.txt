@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.254",
-    "h1":"Text 254",
+    "h1":"Cc. Madhya 1.254",
+    "label":"Text 254",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.254",
     "description":"Śrīla Rāmānanda Rāya and other devotees who were residents of Jagannātha Purī also remained permanently with the Lord."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 4.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.55",
     "description":"\"My dear Sanātana,\" He said, \"if I could attain Kṛṣṇa by committing suicide, I would certainly give up millions of bodies without a moment's hesitation."
 }

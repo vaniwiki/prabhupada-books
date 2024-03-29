@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.108",
-    "h1":"Text 108",
+    "h1":"Cc. Antya 20.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.108",
     "description":"The Fourth Chapter describes Sanātana Gosvāmī's second visit with Śrī Caitanya Mahāprabhu and how the Lord saved him from committing suicide."
 }

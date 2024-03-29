@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 13.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.71",
     "description":"The Lord performed kīrtana for some time and, through His own endeavor, inspired all the devotees to dance."
 }

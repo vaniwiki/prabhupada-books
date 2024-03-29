@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.219",
-    "h1":"Text 219",
+    "h1":"Cc. Ādi 17.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.219",
     "description":"After the Kazi heard this, tears flowed down from his eyes. He immediately touched the lotus feet of the Lord and spoke the following sweet words."
 }

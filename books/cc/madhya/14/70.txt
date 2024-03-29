@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 14.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.70",
     "description":"After taking His bath early in the morning, Śrī Caitanya Mahāprabhu would go see Lord Jagannātha in the temple. Then He would perform saṅkīrtana with His devotees."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 15.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.163",
     "description":"\"My dear Lord, let me suffer perpetually in a hellish condition, accepting all the sinful reactions of all living entities. Please finish their diseased material life.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 6.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.15",
     "description":"There the devotees heard the people talking about a mendicant who had come to Jagannātha Purī and seen the Deity of Jagannātha."
 }

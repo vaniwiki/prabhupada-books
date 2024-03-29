@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.267",
-    "h1":"Text 267",
+    "h1":"Cc. Madhya 1.267",
+    "label":"Text 267",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.267",
     "description":"There are fourteen planetary systems within the universe, and all living entities reside in those planetary systems."
 }

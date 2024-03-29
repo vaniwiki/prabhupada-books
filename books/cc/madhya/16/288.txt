@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.288",
-    "h1":"Text 288",
+    "h1":"Cc. Madhya 16.288",
+    "label":"Text 288",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.288",
     "description":"In this way, Śrī Caitanya Mahāprabhu performs His pastimes, which are unlimited and unfathomable. Somehow or other, these have briefly been described. It is not possible to describe them elaborately."
 }

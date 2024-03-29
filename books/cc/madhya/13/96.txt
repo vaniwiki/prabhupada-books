@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 13.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.96",
     "description":"As the angered Haricandana was about to speak to Śrīvāsa Ṭhākura, Pratāparudra Mahārāja personally stopped him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 13.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.53",
     "description":"Lord Kṛṣṇa therefore first allowed His family of superiors to descend on the earth. I shall try to describe them in brief because it is not possible to describe them fully."
 }

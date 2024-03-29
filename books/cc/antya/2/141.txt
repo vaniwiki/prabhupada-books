@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 2.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.141",
     "description":"Having said this, Svarūpa Dāmodara Gosvāmī induced Haridāsa to bathe and take prasāda. After thus reassuring him, he returned home."
 }

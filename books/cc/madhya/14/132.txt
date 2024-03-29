@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 14.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.132",
     "description":"When the procession arrived, the maidservants of the goddess of fortune began to arrest all the principal servants of Lord Jagannātha."
 }

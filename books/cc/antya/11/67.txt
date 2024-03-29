@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 11.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.67",
     "description":"All around the body, the devotees performed congregational chanting, and Vakreśvara Paṇḍita danced in jubilation."
 }

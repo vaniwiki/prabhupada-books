@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.218",
-    "h1":"Text 218",
+    "h1":"Cc. Madhya 3.218",
+    "label":"Text 218",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.218",
     "description":"If one hears the activities of the Lord at the house of Advaita Ācārya, he will certainly very soon attain the riches of love of Kṛṣṇa."
 }

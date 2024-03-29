@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 10.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.46",
     "description":"The Gauḍīya-sampradāya, consisting of all the devotees from Bengal, began congregational chanting. When they met the Lord, they began to cry loudly in ecstatic love."
 }

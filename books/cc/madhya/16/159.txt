@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 16.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.159",
     "description":"The jurisdiction of the Mohammedan government extended up to Pichaladā. Due to fear of the Mohammedans, no one would cross the river."
 }

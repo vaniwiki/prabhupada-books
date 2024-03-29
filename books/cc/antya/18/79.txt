@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 18.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.79",
     "description":"In this half-external consciousness, Śrī Caitanya Mahāprabhu talked like a madman. The devotees could distinctly hear Him speaking to the sky."
 }

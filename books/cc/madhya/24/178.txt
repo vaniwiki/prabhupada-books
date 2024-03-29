@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 24.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.178",
     "description":"\" 'All the cranes and swans in the water are being enchanted by the melodious song of Kṛṣṇa's flute. They have approached and are worshiping the Supreme Personality of Godhead with full attention. Alas, they are closing their eyes and are becoming completely silent.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 7.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.48",
     "description":"\"Haridāsa Ṭhākura, the teacher of the holy name, is among the most exalted of all devotees. Every day he chants 300,000 holy names of the Lord."
 }

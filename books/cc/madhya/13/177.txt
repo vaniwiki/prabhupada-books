@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 13.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.177",
     "description":"Everyone danced and chanted in ecstatic love, and a great noise resounded. Everyone was overwhelmed with transcendental bliss just to see the dancing of Śrī Caitanya Mahāprabhu."
 }

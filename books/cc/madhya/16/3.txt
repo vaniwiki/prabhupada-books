@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 16.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.3",
     "description":"Śrī Caitanya Mahāprabhu decided to go to Vṛndāvana, and Mahārāja Pratāparudra became very morose upon hearing this news."
 }

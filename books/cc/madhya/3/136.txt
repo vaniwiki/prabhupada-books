@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.136",
-    "h1":"Text 136",
+    "h1":"Cc. Madhya 3.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.136",
     "description":"For ten continuous days Advaita Ācārya held feasting and chanting in the evening. He served the Lord in this way without any change."
 }

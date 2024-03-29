@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 3.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.7",
     "description":"The boy came every day to Śrī Caitanya Mahāprabhu, who treated him with great affection. It is the nature of ay boy to go see a ma who loves him."
 }

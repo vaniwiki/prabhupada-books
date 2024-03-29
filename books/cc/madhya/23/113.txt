@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 23.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.113",
     "description":"\" 'He who thus follows this imperishable religious principle of Kṛṣṇa consciousness with great faith and devotion, fully accepting Me as the supreme goal, is very, very dear to Me.'"
 }

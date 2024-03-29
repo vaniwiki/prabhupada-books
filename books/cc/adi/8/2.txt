@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.2",
-    "h1":"Text 2",
+    "h1":"Cc. Ādi 8.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.2",
     "description":"Let me offer my respectful obeisances unto Śrī Kṛṣṇa Caitanya Mahāprabhu, who is known as Gaurasundara. I also offer my respectful obeisances unto Nityānanda Prabhu, who is always very joyful."
 }

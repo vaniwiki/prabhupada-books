@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.84",
-    "h1":"Text 84",
+    "h1":"Cc. Ādi 5.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.84",
     "description":"\"In the beginning of the creation, the Lord expanded Himself in the form of the puruṣa incarnation, accompanied by all the ingredients of material creation. First He created the sixteen principal energies suitable for creation. This was for the purpose of manifesting the material universes.\""
 }

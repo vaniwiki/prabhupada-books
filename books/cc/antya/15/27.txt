@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 15.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.27",
     "description":"The Lord especially liked to hear Bilvamaṅgala Ṭhākura's Kṛṣṇa-karṇāmṛta, the poetry of Vidyāpati and Śrī Gīta-govinda by Jayadeva Gosvāmī. Śrī Caitanya Mahāprabhu felt great pleasure in His heart when His associates chanted verses from these books."
 }

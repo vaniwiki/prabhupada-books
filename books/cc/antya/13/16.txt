@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 13.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.16",
     "description":"When Svarūpa Dāmodara returned and related all these incidents, Jagadānanda Paṇḍita felt very unhappy."
 }

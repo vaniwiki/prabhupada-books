@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 1.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.59",
     "description":"This verse appears to be the hankering between some ordinary boy and girl, but its actual deep meaning was known only to Svarūpa Dāmodara. By chance, one year Rūpa Gosvāmī was also present there."
 }

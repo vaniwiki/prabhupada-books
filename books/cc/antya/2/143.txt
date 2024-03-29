@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.143",
-    "h1":"Text 143",
+    "h1":"Cc. Antya 2.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.143",
     "description":"Śrī Caitanya Mahāprabhu is the ocean of mercy. Who can understand Him? When He chastises His dear devotees, He certainly does so to reestablish the principles of religion or duty."
 }

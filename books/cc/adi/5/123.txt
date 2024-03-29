@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.123",
-    "h1":"Text 123",
+    "h1":"Cc. Ādi 5.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.123",
     "description":"He serves Lord Kṛṣṇa, assuming all the following forms: umbrella, slippers, bedding, pillow, garments, resting chair, residence, sacred thread and throne."
 }

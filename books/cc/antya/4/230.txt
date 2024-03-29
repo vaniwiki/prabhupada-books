@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.230",
-    "h1":"Text 230",
+    "h1":"Cc. Antya 4.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.230",
     "description":"He also compiled the book named Gopāla-campū, which is the essence of all Vedic literature. In this book he has exhibited the ecstatic loving transactions and pastimes of Rādhā and Kṛṣṇa in Vṛndāvana."
 }

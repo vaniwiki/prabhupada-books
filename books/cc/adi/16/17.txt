@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 16.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.17",
     "description":"The Lord assured Tapana Miśra that they would meet again in Vārāṇasī. Receiving this order, Tapana Miśra went there."
 }

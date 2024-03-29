@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 15.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.198",
     "description":"\"Sometimes You will come alone to my place, and sometimes You will be accompanied by Svarūpa Dāmodara.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 5.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.78",
     "description":"\"This is a natural characteristic of those advanced in devotional service. They do not personally speak of their own good qualities.\""
 }

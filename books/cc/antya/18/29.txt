@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 18.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.29",
     "description":"Falling into the sea, He lost consciousness and could not understand where He was. Sometimes He sank beneath the waves, and sometimes He floated above them."
 }

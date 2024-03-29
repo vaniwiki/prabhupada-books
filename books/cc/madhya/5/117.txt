@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 5.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.117",
     "description":"Eventually the King of that country heard of this wonderful story, and he also came to see Gopāla and thus became very satisfied."
 }

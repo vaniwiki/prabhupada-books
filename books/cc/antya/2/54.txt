@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 2.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.54",
     "description":"After meditating for two days, Nṛsiṁhānanda Brahmacārī told Śivānanda Sena, \"I have already brought Śrī Caitanya Mahāprabhu to the village known as Pāṇihāṭi."
 }

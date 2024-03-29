@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 11.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.78",
     "description":"Svarūpa Dāmodara said to all the shopkeepers, \"Deliver to me four palmfuls of prasāda from each and every item.\""
 }

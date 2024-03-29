@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 7.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.106",
     "description":"In whatever village Śrī Caitanya Mahāprabhu stayed to accept alms, many people came to see Him."
 }

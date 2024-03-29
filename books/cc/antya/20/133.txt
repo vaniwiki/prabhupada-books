@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 20.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.133",
     "description":"Due to the conjunction of various ecstatic emotions, Śrī Caitanya Mahāprabhu again began speaking like a madman and described in detail the meaning of a verse from Kṛṣṇa-karṇāmṛta."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.317",
-    "h1":"Text 317",
+    "h1":"Cc. Madhya 9.317",
+    "label":"Text 317",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.317",
     "description":"Śrī Caitanya Mahāprabhu then visited Nāsika, where He saw the deity of Tryambaka [Lord Śiva]. He then went to Brahma-giri and then to Kuśāvarta, the source of the river Godāvarī."
 }

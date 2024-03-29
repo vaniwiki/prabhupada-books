@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 4.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.105",
     "description":"In this way the Deity worship in the temple was very gorgeously performed for two years. Then one day Mādhavendra Purī had a dream."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 8.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.61",
     "description":"Paṇḍita Haridāsa had great faith in Lord Caitanya and Nityānanda. Therefore he took great satisfaction in knowing about Their pastimes and qualities."
 }

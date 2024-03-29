@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.185",
-    "h1":"Text 185",
+    "h1":"Cc. Madhya 16.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.185",
     "description":"\"It is no wonder that this Mohammedan governor has attained such results. Simply by seeing You, all this is possible."
 }

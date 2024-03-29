@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 25.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.33",
     "description":"\"The word Brahman means 'the greatest.' This means that the Supreme Personality of Godhead is full in all six opulences. However, if we take the one-sided impersonalist view, His fullness is diminished."
 }

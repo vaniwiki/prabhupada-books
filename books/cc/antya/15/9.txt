@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 15.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.9",
     "description":"Just as in a tug-of-war, the single mind of Lord Caitanya was attracted in five directions by the five transcendental attributes of Lord Kṛṣṇa. Thus the Lord became unconscious."
 }

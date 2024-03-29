@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 18.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.223",
     "description":"Śrī Caitanya Mahāprabhu's visit to Vṛndāvana and His activities there are unlimited. Even Lord Śeṣa, who has thousands of hoods, cannot reach the end of His activities."
 }

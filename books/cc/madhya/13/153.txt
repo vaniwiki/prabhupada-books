@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 13.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.153",
     "description":"\" 'A loving, chaste wife and a loving husband who desire all welfare for each other in separation and do not care for personal happiness, desire only one another's well-being. Such a pair certainly meet again without delay."
 }

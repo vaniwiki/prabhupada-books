@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.219",
-    "h1":"Text 219",
+    "h1":"Cc. Madhya 6.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.219",
     "description":"He arrived at the Bhaṭṭācārya's house a little before sunrise, just when the Bhaṭṭācārya was arising from bed."
 }

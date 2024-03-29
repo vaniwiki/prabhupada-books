@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 4.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.34",
     "description":"\"Kṛṣṇa manifests His eternal humanlike form and performs His pastimes to show mercy to the devotees. Having heard such pastimes, one should engage in service to Him.\""
 }

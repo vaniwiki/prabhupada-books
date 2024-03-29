@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 5.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.43",
     "description":"One variety of the pastimes of the spiritual energy is described as pure goodness [viśuddha-sattva]. It comprises all the abodes of Vaikuṇṭha."
 }

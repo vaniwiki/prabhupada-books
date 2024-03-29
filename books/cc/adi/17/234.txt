@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.234",
-    "h1":"Text 234",
+    "h1":"Cc. Ādi 17.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.234",
     "description":"Hearing this reply, the Lord said in ecstasy, \"Go on talking! Go on talking!\" Thus Śrīvāsa described the transcendental mellow pastimes of Śrī Vṛndāvana."
 }

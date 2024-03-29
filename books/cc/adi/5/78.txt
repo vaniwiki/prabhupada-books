@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 5.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.78",
     "description":"Although Kṣīrodaśāyī Viṣṇu is called a kalā of Lord Kṛṣṇa, He is the source of Matsya, Kūrma and the other incarnations."
 }

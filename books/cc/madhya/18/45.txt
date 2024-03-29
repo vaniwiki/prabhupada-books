@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 18.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.45",
     "description":"The two brothers Rūpa and Sanātana did not climb the hill. To them also Lord Gopāla granted an interview."
 }

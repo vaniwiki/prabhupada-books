@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 10.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.116",
     "description":"Svarūpa Dāmodara was as expert a musician as the Gandharvas, and in scriptural discussion he was just like Bṛhaspati, the priest of the heavenly gods. Therefore it is to be concluded that there was no great personality quite like Svarūpa Dāmodara."
 }

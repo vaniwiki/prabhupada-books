@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.167",
-    "h1":"Text 167",
+    "h1":"Cc. Antya 1.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.167",
     "description":"'O beautiful-faced one, who is this creative person standing before us? With the sharp chisels of His loving glances, He is splitting the hard stones of many women's devotion to their husbands. And with the luster of His body, surpassing the brilliance of countless emeralds, He is simultaneously constructing private meeting places for His pastimes.'"
 }

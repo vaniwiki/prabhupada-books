@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 7.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.4",
     "description":"Śrī Caitanya Mahāprabhu accepted the renounced order during the waxing fortnight of the month of Māgha. During the following month, Phālguna, He went to Jagannātha Purī and resided there."
 }

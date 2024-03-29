@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.60",
-    "h1":"Text 60",
+    "h1":"Cc. Ādi 17.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.60",
     "description":"Another brāhmaṇa also came to see the kīrtana performance, but the door was closed, and he could not enter the hall."
 }

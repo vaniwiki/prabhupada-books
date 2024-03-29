@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 3.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.61",
     "description":"When Lord Śrī Caitanya Mahāprabhu and Nityānanda Prabhu went to accept the prasāda, They both called Mukunda and Haridāsa to come with Them. However, Mukunda and Haridāsa, both with folded hands, spoke as follows."
 }

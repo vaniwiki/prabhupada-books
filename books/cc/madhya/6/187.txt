@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 6.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.187",
     "description":"After hearing the ātmārāma verse, Sārvabhauma Bhaṭṭācārya addressed Śrī Caitanya Mahāprabhu, \"My dear Sir, please explain this verse. I have a great desire to hear Your explanation of it.\""
 }

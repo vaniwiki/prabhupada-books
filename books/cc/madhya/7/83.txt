@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 7.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.83",
     "description":"Seeing that it was already getting late, Lord Nityānanda Prabhu, the spiritual master, invented a means to disperse the crowd."
 }

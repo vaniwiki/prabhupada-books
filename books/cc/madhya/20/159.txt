@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 20.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.159",
     "description":"\"The manifestation of the impersonal Brahman effulgence, which is without variety, is the rays of Kṛṣṇa's bodily effulgence. It is exactly like the sun. When the sun is seen by our ordinary eyes, it simply appears to consist of effulgence."
 }

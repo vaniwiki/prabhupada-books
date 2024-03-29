@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.68",
-    "h1":"Text 68",
+    "h1":"Cc. Ādi 12.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.68",
     "description":"Some branches did not accept the original trunk that vitalized and maintained the entire tree. When they thus became ungrateful, the original trunk was angry at them."
 }

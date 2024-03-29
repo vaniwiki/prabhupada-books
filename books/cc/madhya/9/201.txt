@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 9.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.201",
     "description":"Śrīmatī Sītādevī is the mother of the three worlds and the wife of Lord Rāmacandra. Among chaste women she is supreme, and she is the daughter of King Janaka."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 22.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.163",
     "description":"\" 'Let me offer my respectful obeisances again and again to those who always eagerly meditate upon the Supreme Personality of Godhead as a husband, son, friend, brother, father or intimate friend.'"
 }

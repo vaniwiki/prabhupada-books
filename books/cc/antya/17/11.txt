@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 17.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.11",
     "description":"All three doors were fastened as usual, but Śrī Caitanya Mahāprabhu, in great ecstasy, nevertheless got out of the room and left the house."
 }

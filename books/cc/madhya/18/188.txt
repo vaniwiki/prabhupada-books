@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 18.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.188",
     "description":"Whatever arguments he put forward, the Lord refuted them all. Finally the person became stunned and could not speak."
 }

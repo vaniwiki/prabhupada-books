@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 11.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.132",
     "description":"Śrī Caitanya Mahāprabhu made all the devotees sit at His side, and with His own hand He offered them garlands and sandalwood pulp."
 }

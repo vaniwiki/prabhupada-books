@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 5.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.63",
     "description":"Hearing all these statements, all the people gathered there became a little doubtful. They thought it quite possible that because of attraction for riches one might give up his religious principles."
 }

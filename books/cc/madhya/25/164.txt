@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 25.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.164",
     "description":"After giving those explanations again, Śrī Caitanya Mahāprabhu arose and took His leave. All the people there offered their obeisances unto Him and chanted the mahā-mantra."
 }

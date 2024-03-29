@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 19.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.89",
     "description":"Vallabha Bhaṭṭācārya first offered the remnants of the Lord's food to Śrīla Rūpa Gosvāmī and then to Kṛṣṇadāsa."
 }

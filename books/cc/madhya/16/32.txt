@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 16.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.32",
     "description":"They then all discussed the story of Śrī Mādhavendra Purī's installation of the Gopāla Deity, and they discussed how Gopāla begged sandalwood from him."
 }

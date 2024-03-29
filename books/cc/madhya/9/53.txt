@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 9.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.53",
     "description":"Having made their plot, the Buddhists brought a plate of untouchable food before Lord Śrī Caitanya Mahāprabhu and called it mahā-prasāda."
 }

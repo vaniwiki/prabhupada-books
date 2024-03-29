@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 20.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.202",
     "description":"\"When putting the twelve tilaka marks on the twelve places of the body, one has to chant the mantra consisting of these twelve Viṣṇu names. After daily worship, when one anoints the different parts of the body with water, these names should be chanted as one touches each part of the body."
 }

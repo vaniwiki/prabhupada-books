@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 20.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.189",
     "description":"\"The first expansion of the caturvyūha, quadruple forms, is unique. There is nothing to compare with Them. These quadruple forms are the source of unlimited quadruple forms."
 }

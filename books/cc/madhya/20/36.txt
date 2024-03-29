@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 20.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.36",
     "description":"After departing from Īśāna, Sanātana Gosvāmī began traveling alone with a waterpot in his hand. Simply covered with a torn quilt, he thus lost all his anxiety."
 }

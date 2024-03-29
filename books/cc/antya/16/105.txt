@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 16.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.105",
     "description":"Following the indications of Śrī Caitanya Mahāprabhu, Govinda brought the prasāda of Lord Jagannātha. The Lord sent some to Paramānanda Purī and Brahmānanda Bhāratī."
 }

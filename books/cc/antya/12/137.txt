@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.137",
-    "h1":"Text 137",
+    "h1":"Cc. Antya 12.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.137",
     "description":"Again and again when the Lord wished to get up, Jagadānanda Paṇḍita would feed Him more vegetables."
 }

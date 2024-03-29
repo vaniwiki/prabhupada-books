@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.124",
-    "h1":"Text 124",
+    "h1":"Cc. Ādi 17.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.124",
     "description":"Hearing the resounding vibration of the Hare Kṛṣṇa mantra, the local Muslims, greatly angry, submitted a complaint to the Kazi."
 }

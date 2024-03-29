@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 7.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.79",
     "description":"Thus Vallabha Bhaṭṭa witnessed the car festival. He was simply astonished by the characteristics of Śrī Caitanya Mahāprabhu."
 }

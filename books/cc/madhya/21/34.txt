@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.34",
-    "h1":"Text 34",
+    "h1":"Cc. Madhya 21.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.34",
     "description":"\"Kṛṣṇa is the original Supreme Personality of Godhead; therefore He is the greatest of all. No one is equal to Him, nor is anyone greater than Him."
 }

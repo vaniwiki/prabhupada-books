@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 8.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.29",
     "description":"When they regained their sanity, they both sat down, and Śrī Caitanya Mahāprabhu smiled and began to speak as follows."
 }

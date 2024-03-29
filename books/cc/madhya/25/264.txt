@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.264",
-    "h1":"Text 264",
+    "h1":"Cc. Madhya 25.264",
+    "label":"Text 264",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.264",
     "description":"To deliver all fallen souls, the Lord traveled from country to country. He personally tasted the transcendental pleasure of devotional service, and He simultaneously spread the cult of devotion everywhere."
 }

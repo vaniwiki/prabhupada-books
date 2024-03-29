@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 11.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.38",
     "description":"The twenty-third and twenty-fourth prominent devotees of Nityānanda Prabhu were Sadāśiva Kavirāja and his son Puruṣottama dāsa, who was the tenth gopāla."
 }

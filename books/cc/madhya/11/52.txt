@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 11.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.52",
     "description":"As soon as the Bhaṭṭācārya saw the King's firm determination, he declared, \"The Supreme Lord is approached only by pure love. Your love for Śrī Caitanya Mahāprabhu is very, very deep; therefore without a doubt He will be merciful upon you.\""
 }

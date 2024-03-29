@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 24.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.93",
     "description":"\"With the exception of devotional service, all the methods of self-realization are like nipples on the neck of a goat. An intelligent person adopts only devotional service, giving up all other processes of self-realization."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 4.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.200",
     "description":"Exhibiting ecstatic emotions, the Lord began to run here and there, making resounding noises. Sometimes He laughed, and sometimes He cried, and sometimes He danced and sang."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.152",
-    "h1":"Text 152",
+    "h1":"Cc. Antya 2.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.152",
     "description":"While hearing the devotees lament, Śrī Caitanya Mahāprabhu was mildly smiling. Thus all the devotees were very astonished."
 }

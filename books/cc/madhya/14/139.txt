@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 14.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.139",
     "description":"\"But in the case of the goddess of fortune, I see a different kind of pride. She manifests her own opulences and even goes with her soldiers to attack her husband.\""
 }

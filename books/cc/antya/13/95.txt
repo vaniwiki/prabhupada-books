@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 13.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.95",
     "description":"Rāmadāsa served Raghunātha Bhaṭṭa in various ways, even massaging his legs. Raghunātha Bhaṭṭa felt some hesitation in accepting all this service."
 }

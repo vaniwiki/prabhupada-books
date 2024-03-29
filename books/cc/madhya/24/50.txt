@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 24.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.50",
     "description":"\" 'Dear Kṛṣṇa, we have simply surrendered ourselves as Your maidservants, for we have seen Your beautiful face decorated with tresses of hair, Your earrings falling upon Your cheeks and the nectar of Your lips. We have also seen the beauty of Your smile and have been embraced by Your arms, which give us courage. Because we have seen Your chest, which is beautiful and broad, we have surrendered ourselves.'"
 }

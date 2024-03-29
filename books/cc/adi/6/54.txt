@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 6.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.54",
     "description":"For evidence, please listen to the examples described in the revealed scriptures, which are also corroborated by the realization of great souls."
 }

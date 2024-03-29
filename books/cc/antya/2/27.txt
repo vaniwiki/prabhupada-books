@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 2.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.27",
     "description":"In his inspired state, Nakula Brahmacārī said, \"Śivānanda Sena is staying some distance away. Two or four of you go call him.\""
 }

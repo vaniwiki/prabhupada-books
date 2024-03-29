@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.63",
-    "h1":"Text 63",
+    "h1":"Cc. Ādi 10.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.63",
     "description":"Śrīvallabha Sena and Śrīkānta Sena were also subbranches of Śivānanda Sena, for they were not only his nephews but also unalloyed devotees of Śrī Caitanya Mahāprabhu."
 }

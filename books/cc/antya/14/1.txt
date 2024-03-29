@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 14.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.1",
     "description":"I shall now describe a very small portion of the activities performed by Śrī Caitanya Mahāprabhu with His mind, intelligence and body when He was bewildered by strong feelings of separation from Kṛṣṇa."
 }

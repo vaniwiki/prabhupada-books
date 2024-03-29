@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.217",
-    "h1":"Text 217",
+    "h1":"Cc. Ādi 5.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.217",
     "description":"He granted to one as low as me the sight of Lord Govinda. Words cannot describe this, nor is it fit to be disclosed."
 }

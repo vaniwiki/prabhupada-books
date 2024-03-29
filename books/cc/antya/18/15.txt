@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 18.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.15",
     "description":"Even Lord Kṛṣṇa is struck with wonder at seeing the transformations of ecstasy in His devotees. If Kṛṣṇa Himself cannot estimate the limits of such emotions, how could others?"
 }

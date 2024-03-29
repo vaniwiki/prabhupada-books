@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 10.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.78",
     "description":"Thus only one group continued chanting with Svarūpa Dāmodara, and they chanted very softly."
 }

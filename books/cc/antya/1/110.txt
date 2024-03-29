@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 1.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.110",
     "description":"Thus Śrī Caitanya Mahāprabhu and His personal devotees met Rūpa Gosvāmī and Haridāsa Ṭhākura. The Lord then sat down in an elevated place with His devotees."
 }

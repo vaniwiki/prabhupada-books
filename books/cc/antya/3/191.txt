@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.191",
-    "h1":"Text 191",
+    "h1":"Cc. Antya 3.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.191",
     "description":"This Gopāla Cakravartī lived in Bengal. His duty as chief tax collector was to collect 1,200,000 coins to deposit in the treasury of the emperor."
 }

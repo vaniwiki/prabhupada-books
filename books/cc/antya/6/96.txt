@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 6.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.96",
     "description":"Then a brāhmaṇa brought a flower garland, placed the garland on Nityānanda Prabhu's neck and smeared sandalwood pulp all over His body."
 }

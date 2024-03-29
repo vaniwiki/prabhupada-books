@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 21.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.123",
     "description":"\" 'All men and women were accustomed to enjoying the beauty of the shining face of Lord Kṛṣṇa, as well as His sharklike earrings swinging on His ears. His beautiful features, His cheeks and His playful smiles all combined to form a constant festival for the eyes, and the blinking of the eyes became obstacles that impeded one from seeing that beauty. For this reason, men and women became very angry at the creator [Lord Brahmā].'"
 }

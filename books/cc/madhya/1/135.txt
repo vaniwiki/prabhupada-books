@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.135",
-    "h1":"Text 135",
+    "h1":"Cc. Madhya 1.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.135",
     "description":"In that garden, Lord Caitanya Mahāprabhu bestowed His mercy upon King Pratāparudra. Afterwards, when the Bengali devotees were about to return home, the Lord gave separate orders to almost every one of them."
 }

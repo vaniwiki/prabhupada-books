@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 11.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.59",
     "description":"All these devotees had unlimited strength to deliver unobstructed, unceasing love of Kṛṣṇa. By their own strength they could offer anyone Kṛṣṇa and love of Kṛṣṇa."
 }

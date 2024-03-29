@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 17.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.144",
     "description":"\"I have come here to sell My emotional ecstatic sentiments in this city of Kāśī, but I cannot find any customers. If they are not sold, I must take them back home."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 7.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.33",
     "description":"Four devotees then humbly insisted that they go with the Lord, but Śrī Caitanya Mahāprabhu, being the independent Supreme Personality of Godhead, did not accept their request."
 }

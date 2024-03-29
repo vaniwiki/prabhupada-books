@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 13.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.101",
     "description":"When Caitanya Mahāprabhu danced and jumped high, eight wonderful transformations indicative of divine ecstasy were seen in His body. All these symptoms were visible simultaneously."
 }

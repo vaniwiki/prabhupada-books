@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.142",
-    "h1":"Text 142",
+    "h1":"Cc. Ādi 10.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.142",
     "description":"When Caitanya Mahāprabhu went to the temple of Jagannātha, Kāśīśvara, being very strong, cleared the crowds aside with his hands so that Caitanya Mahāprabhu could pass untouched."
 }

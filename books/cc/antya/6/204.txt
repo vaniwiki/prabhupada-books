@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.204",
-    "h1":"Text 204",
+    "h1":"Cc. Antya 6.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.204",
     "description":"Saying this, Śrī Caitanya Mahāprabhu grasped the hand of Raghunātha dāsa and entrusted him to the hands of Svarūpa Dāmodara Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 4.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.189",
     "description":"\"To test the intense love of Mādhavendra Purī, Gopāla, the Supreme Personality of Godhead, ordered him to bring sandalwood from Nīlācala, and when Mādhavendra Purī passed this examination, the Lord became very merciful to him."
 }

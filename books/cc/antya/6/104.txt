@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 6.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.104",
     "description":"The dancing of Lord Nityānanda Prabhu, like the dancing of Śrī Caitanya Mahāprabhu, cannot be compared to anything within these three worlds."
 }

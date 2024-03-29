@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 9.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.206",
     "description":"When the illusory Sītā was brought before the fire by Lord Rāmacandra, the fire-god made the illusory form disappear and delivered the real Sītā to Lord Rāmacandra."
 }

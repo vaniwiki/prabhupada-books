@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.78",
-    "h1":"Text 78",
+    "h1":"Cc. Madhya 23.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.78",
     "description":"\" 'Apart from these fifty qualities, there are five other qualities found in the Supreme Personality of Godhead that are partially present in demigods like Śiva."
 }

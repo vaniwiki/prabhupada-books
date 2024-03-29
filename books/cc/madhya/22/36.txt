@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 22.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.36",
     "description":"\" 'Whether one desires everything or nothing, or whether he desires to merge into the existence of the Lord, he is intelligent only if he worships Lord Kṛṣṇa, the Supreme Personality of Godhead, by rendering transcendental Ioving service.'"
 }

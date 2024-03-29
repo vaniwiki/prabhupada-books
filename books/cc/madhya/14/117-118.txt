@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.117-118",
-    "h1":"Text 117-118",
+    "h1":"Cc. Madhya 14.117-118",
+    "label":"Text 117-118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.117-118",
     "description":"\"Although Lord Jagannātha enjoys His pastimes at Dvārakā-dhāma and naturally manifests sublime liberality there, still, once a year, He becomes unlimitedly eager to see Vṛndāvana.\""
 }

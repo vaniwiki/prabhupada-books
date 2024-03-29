@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 11.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.102",
     "description":"The Bhaṭṭācārya replied, \"A person who has received but a small fraction of mercy from Śrī Caitanya Mahāprabhu can understand that He is Lord Kṛṣṇa. No one else can."
 }

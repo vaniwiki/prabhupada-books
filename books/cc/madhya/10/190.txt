@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 10.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.190",
     "description":"Praying at the lotus feet of Śrī Rūpa and Śrī Raghunātha, always desiring their mercy, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps."
 }

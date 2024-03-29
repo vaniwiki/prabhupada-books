@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 7.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.76",
     "description":"All the devotees followed Śrī Caitanya Mahāprabhu to a place known as Ālālanātha. There they all offered respects and various prayers."
 }

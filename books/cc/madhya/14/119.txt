@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 14.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.119",
     "description":"Pointing out the neighboring gardens, Śrī Caitanya Mahāprabhu said, \"All these gardens exactly resemble Vṛndāvana; therefore Lord Jagannātha is very eager to see them again."
 }

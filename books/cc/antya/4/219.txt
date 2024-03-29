@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.219",
-    "h1":"Text 219",
+    "h1":"Cc. Antya 4.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.219",
     "description":"Śrīla Sanātana Gosvāmī compiled the Bhāgavatāmṛta. From this book one can understand who is a devotee, what is the process of devotional service, and who is Kṛṣṇa, the Absolute Truth."
 }

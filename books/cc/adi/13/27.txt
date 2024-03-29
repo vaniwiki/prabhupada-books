@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.27",
-    "h1":"Text 27",
+    "h1":"Cc. Ādi 13.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.27",
     "description":"After His marriage His youth began, and in His youth He induced everyone to chant the Hare Kṛṣṇa mahā-mantra anywhere and everywhere."
 }

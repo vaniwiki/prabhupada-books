@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.15",
-    "h1":"Text 15",
+    "h1":"Cc. Ādi 15.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.15",
     "description":"Śrī Caitanya Mahāprabhu assured His parents that He would serve them, and thus the minds of His father and mother were satisfied."
 }

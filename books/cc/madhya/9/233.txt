@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 9.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.233",
     "description":"While there was much roaring and crying at the Bhaṭṭathāri community, Śrī Caitanya Mahāprabhu grabbed Kṛṣṇadāsa by the hair and took him away."
 }

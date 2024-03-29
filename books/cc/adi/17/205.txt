@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.205",
-    "h1":"Text 205",
+    "h1":"Cc. Ādi 17.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.205",
     "description":"\" 'When we keep a nightlong vigil to observe religious performances for the worship of Maṅgalacaṇḍī and Viṣahari, playing on musical instruments, dancing and chanting are certainly fitting customs."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 20.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.21",
     "description":"\"One who thinks himself lower than the grass, who is more tolerant than a tree, and who does not expect personal honor but is always prepared to give all respect to others can very easily always chant the holy name of the Lord."
 }

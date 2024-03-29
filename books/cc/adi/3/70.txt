@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 3.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.70",
     "description":"The manifestation of the Nārāyaṇa who predominates in everyone's heart, as well as the Nārāyaṇa who lives in the waters [Kāraṇa, Garbha and Kṣīra], is Your plenary portion. You are therefore the original Nārāyaṇa."
 }

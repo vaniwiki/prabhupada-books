@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 11.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.55",
     "description":"He began to chant the holy name of Śrī Kṛṣṇa Caitanya again and again. As he drank the sweetness of the face of the Lord, tears constantly glided down from his eyes."
 }

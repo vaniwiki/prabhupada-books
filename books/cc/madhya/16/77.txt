@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 16.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.77",
     "description":"Svarūpa Dāmodara Gosvāmī and Puṇḍarīka Vidyānidhi had a friendly, intimate relationship, and as far as discussing topics about Kṛṣṇa, they were situated on the same platform."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 11.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.54",
     "description":"\"On the day of the car festival, Śrī Caitanya Mahāprabhu will dance before the Deity in great ecstatic love."
 }

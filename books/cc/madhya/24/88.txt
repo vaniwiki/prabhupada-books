@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 24.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.88",
     "description":"\" 'Those who discuss the activities of Lord Kṛṣṇa are on the highest platform of devotional life, and they evince the symptoms of tears in the eyes and bodily jubilation. Such persons discharge devotional service to Kṛṣṇa without practicing the rules and regulations of the mystic yoga system. They possess all spiritual qualities, and they are elevated to the Vaikuṇṭha planets, which exist above us.'"
 }

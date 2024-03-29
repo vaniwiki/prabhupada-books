@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15",
-    "h1":"Chapter 15",
+    "h1":"The Lord Accepts Prasāda at the House of Sārvabhauma Bhaṭṭācārya",
+    "label":"Chapter 15",
     "title":"Cc. Madhya 15: The Lord Accepts Prasāda at the House of Sārvabhauma Bhaṭṭācārya",
     "description":""
 }

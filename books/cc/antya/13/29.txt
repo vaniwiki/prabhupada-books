@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 13.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.29",
     "description":"\"Naturally I have a desire to go to Vṛndāvana; therefore please humbly request Him to grant His permission.\""
 }

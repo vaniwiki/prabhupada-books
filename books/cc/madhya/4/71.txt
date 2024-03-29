@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 4.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.71",
     "description":"Five to seven men had prepared a huge quantity of chapatis, which were sufficiently covered with ghee [clarified butter], as were all the vegetables, rice and dāl."
 }

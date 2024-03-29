@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.13",
-    "h1":"Text 13",
+    "h1":"Cc. Ādi 12.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.13",
     "description":"A big branch of Advaita Ācārya was Acyutānanda, His son. From the beginning of his life he engaged in the service of the lotus feet of Lord Caitanya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 1.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.169",
     "description":"\"Such a person, who is followed by so many people without giving them charity, must be a prophet. I can surely understand this fact.\""
 }

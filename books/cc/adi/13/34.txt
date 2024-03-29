@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 13.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.34",
     "description":"For His remaining twenty-four years, Śrī Caitanya Mahāprabhu, after accepting the renounced order of life, stayed at Jagannātha Purī with His devotees."
 }

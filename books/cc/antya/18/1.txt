@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 18.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.1",
     "description":"In the brilliant autumn moonlight, Śrī Caitanya Mahāprabhu mistook the sea for the River Yamunā. Greatly afflicted by separation from Kṛṣṇa, He ran and dove into the sea and remained unconscious in the water the entire night. In the morning, He was found by His personal devotees. May that Śrī Caitanya Mahāprabhu, the son of mother Śacī, protect us by His transcendental pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 21.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.61",
     "description":"\"When the doorman asked, 'Which Brahmā?' Lord Brahmā was surprised. He told the doorman, 'Please go inform Lord Kṛṣṇa that I am the four-headed Brahmā who is the father of the four Kumāras.'"
 }

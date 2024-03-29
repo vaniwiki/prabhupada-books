@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 7.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.10",
     "description":"Śrī Caitanya Mahāprabhu, who is the supreme controller, the one Personality of Godhead, has ecstatically become a devotee, yet His body is transcendental and not materially tinged."
 }

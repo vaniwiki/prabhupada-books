@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.210",
-    "h1":"Text 210",
+    "h1":"Cc. Madhya 12.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.210",
     "description":"Out of great eagerness to see the Lord, they all neglected the regulative principles and, just to see the Lord's face, went to the place where the food was offered."
 }

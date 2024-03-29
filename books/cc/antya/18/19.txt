@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 18.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.19",
     "description":"One who wants to describe the transformations of ecstatic love of Kṛṣṇa is like a dwarf trying to catch the moon in the sky."
 }

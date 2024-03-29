@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 12.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.64",
     "description":"During the day, Śrī Caitanya Mahāprabhu engaged in various activities with His devotees, but at night He felt great separation from Kṛṣṇa and used to cry."
 }

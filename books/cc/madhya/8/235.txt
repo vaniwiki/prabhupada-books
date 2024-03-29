@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.235",
-    "h1":"Text 235",
+    "h1":"Cc. Madhya 8.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.235",
     "description":"Before departing from Śrī Caitanya Mahāprabhu, Rāmānanda Rāya fell to the ground and caught hold of the Lord's lotus feet. He then spoke submissively as follows."
 }

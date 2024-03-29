@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 4.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.67",
     "description":"\"Anyone who takes to devotional service is exalted, whereas a nondevotee is always condemned and abominable. Therefore in the discharge of devotional service to the Lord, there is no consideration of the status of one's family."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.228",
-    "h1":"Text 228",
+    "h1":"Cc. Antya 6.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.228",
     "description":"The next day, Raghunātha dāsa inquired at the lotus feet of Svarūpa Dāmodara about his duty."
 }

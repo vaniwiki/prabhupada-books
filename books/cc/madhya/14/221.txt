@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.221",
-    "h1":"Text 221",
+    "h1":"Cc. Madhya 14.221",
+    "label":"Text 221",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.221",
     "description":"\"Vṛndāvana-dhāma is made of transcendental touchstone. Its entire surface is the source of all valuable jewels, and the cintāmaṇi stone is used to decorate the lotus feet of the maidservants of Vṛndāvana."
 }

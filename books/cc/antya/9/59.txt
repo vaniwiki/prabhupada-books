@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 9.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.59",
     "description":"At that time Kāśī Miśra came to the residence of Śrī Caitanya Mahāprabhu, and the Lord talked with him with some agitation."
 }

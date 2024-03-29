@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.153",
-    "h1":"Text 153",
+    "h1":"Cc. Ādi 5.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.153",
     "description":"Śrī Rāma and Śrī Lakṣmaṇa, who are plenary portions of Lord Kṛṣṇa and Lord Balarāma, entered into Them at the time of Kṛṣṇa's and Balarāma's appearance."
 }

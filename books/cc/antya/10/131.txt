@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.131",
-    "h1":"Text 131",
+    "h1":"Cc. Antya 10.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.131",
     "description":"All the varieties of the remaining prasāda were kept to eat throughout the year. When Śrī Caitanya Mahāprabhu ate His lunch, Svarūpa Dāmodara Gosvāmī would serve it little by little."
 }

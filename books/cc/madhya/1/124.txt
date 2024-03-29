@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.124",
-    "h1":"Text 124",
+    "h1":"Cc. Madhya 1.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.124",
     "description":"When the devotees from Bengal arrived at Jagannātha Purī, both Nityānanda Prabhu and Sārvabhauma Bhaṭṭācārya greatly endeavored to take Śrī Caitanya Mahāprabhu back to Jagannātha Purī."
 }

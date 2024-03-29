@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.39",
-    "h1":"Text 39",
+    "h1":"Cc. Ādi 8.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.39",
     "description":"The subject matter of this book is so sublime that it appears that Śrī Caitanya Mahāprabhu has personally spoken through the writings of Śrī Vṛndāvana dāsa Ṭhākura."
 }

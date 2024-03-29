@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 24.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.61",
     "description":"\" 'As all fuel is burned to ashes by a full-fledged fire, all sinful activities are totally erased when one engages in devotional service to Me.'"
 }

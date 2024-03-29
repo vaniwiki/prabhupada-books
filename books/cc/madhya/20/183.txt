@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.183",
-    "h1":"Text 183",
+    "h1":"Cc. Madhya 20.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.183",
     "description":"\"When that body is a little differently manifest and its features a little different in transcendental emotion and form, it is called tad-ekātma."
 }

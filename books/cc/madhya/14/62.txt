@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 14.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.62",
     "description":"Subhadrā and Balarāma also sat on their respective thrones. There followed the bathing of Lord Jagannātha and finally the offering of food."
 }

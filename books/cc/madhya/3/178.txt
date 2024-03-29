@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 3.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.178",
     "description":"\"Make some arrangement so that I may not leave you and at the same time people may not blame Me for remaining with relatives after taking sannyāsa.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.225",
-    "h1":"Text 225",
+    "h1":"Cc. Madhya 20.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.225",
     "description":"\"Pradyumna holds the disc, conch, club and lotus. Aniruddha holds the disc, club, conch and lotus."
 }

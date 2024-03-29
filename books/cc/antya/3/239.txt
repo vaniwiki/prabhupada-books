@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.239",
-    "h1":"Text 239",
+    "h1":"Cc. Antya 3.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.239",
     "description":"Haridāsa Ṭhākura was immovable, for he was deeply determined. He began to speak to her, being very merciful toward her."
 }

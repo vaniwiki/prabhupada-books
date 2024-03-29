@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 10.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.3",
     "description":"The next year, all the devotees were very pleased to go to Jagannātha Purī [Nīlācala] to see Śrī Caitanya Mahāprabhu."
 }

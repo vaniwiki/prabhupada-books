@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 24.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.38",
     "description":"\"Lord Kṛṣṇa is so exalted that He is more attractive than anything else and more pleasing than anything else. He is the most sublime abode of bliss. By His own strength, He causes one to forget all other ecstasies."
 }

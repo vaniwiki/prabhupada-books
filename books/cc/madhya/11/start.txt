@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11",
-    "h1":"Chapter 11",
+    "h1":"The Beḍā-kīrtana Pastimes of Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 11",
     "title":"Cc. Madhya 11: The Beḍā-kīrtana Pastimes of Śrī Caitanya Mahāprabhu",
     "description":""
 }

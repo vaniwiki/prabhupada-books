@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.157",
-    "h1":"Text 157",
+    "h1":"Cc. Ādi 5.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.157",
     "description":"The ocean of Lord Nityānanda's glories is infinite and unfathomable. Only by His mercy can I touch even a drop of it."
 }

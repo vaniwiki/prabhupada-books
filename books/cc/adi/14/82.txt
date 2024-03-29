@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.82",
-    "h1":"Text 82",
+    "h1":"Cc. Ādi 14.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.82",
     "description":"Jagannātha Miśra replied, \"Never mind what it is. There is no need to worry. Let there always be good fortune for Viśvambhara. This is all I want.\""
 }

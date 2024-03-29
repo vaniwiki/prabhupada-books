@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.33",
-    "h1":"Text 33",
+    "h1":"Cc. Ādi 13.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.33",
     "description":"Lord Caitanya Mahāprabhu lived in the Navadvīpa area for twenty-four years, and He induced every person to chant the Hare Kṛṣṇa mahā-mantra and thus merge in love of Kṛṣṇa."
 }

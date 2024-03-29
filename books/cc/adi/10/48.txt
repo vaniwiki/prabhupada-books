@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.48",
-    "h1":"Text 48",
+    "h1":"Cc. Ādi 10.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.48",
     "description":"One subbranch of Haridāsa Ṭhākura consisted of the residents of Kulīna-grāma. The most important among them was Satyarāja Khān, or Satyarāja Vasu, who was a recipient of all the mercy of Haridāsa Ṭhākura."
 }

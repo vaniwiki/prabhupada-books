@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 14.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.32",
     "description":"Becoming fully absorbed in that vision, Śrī Caitanya Mahāprabhu had assumed the mood of the gopīs, so much so that everywhere He looked He saw Kṛṣṇa standing with His flute to His lips."
 }

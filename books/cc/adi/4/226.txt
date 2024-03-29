@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.226",
-    "h1":"Text 226",
+    "h1":"Cc. Ādi 4.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.226",
     "description":"Thus He initiated the dharma for the Age of Kali. The devotees of Lord Caitanya know all these truths."
 }

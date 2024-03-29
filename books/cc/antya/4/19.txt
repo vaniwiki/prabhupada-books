@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 4.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.19",
     "description":"When Śrī Caitanya Mahāprabhu came forward to embrace him, Sanātana backed away and spoke as folIows."
 }

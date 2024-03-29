@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 11.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.4",
     "description":"The Lord gave the Bhaṭṭācārya assurance that he could speak without fear, but added that if his statement were suitable He would accept it, and if it were not, He would reject it."
 }

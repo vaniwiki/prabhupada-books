@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 10.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.43",
     "description":"\"This is Pradyumna Miśra, who is chief of all Vaiṣṇavas. He is a great servitor of Jagannātha, and his name is Dāsa."
 }

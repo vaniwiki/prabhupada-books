@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.227",
-    "h1":"Text 227",
+    "h1":"Cc. Madhya 24.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.227",
     "description":"\"The word nirgrantha-when combined with api, used in the sense of certainty-indicates a person who is a hunter by profession or who is very poor. Nonetheless, when such a person associates with a great saint like Nārada, he engages in Lord Kṛṣṇa's devotional service."
 }

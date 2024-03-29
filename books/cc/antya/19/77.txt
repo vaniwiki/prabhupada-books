@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.77",
-    "h1":"Text 77",
+    "h1":"Cc. Antya 19.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.77",
     "description":"Śrī Caitanya Mahāprabhu in this way stayed immersed day and night in an ocean of ecstatic love for Kṛṣṇa. Sometimes He was submerged, and sometimes He floated."
 }

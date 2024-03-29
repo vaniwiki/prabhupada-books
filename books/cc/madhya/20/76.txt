@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 20.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.76",
     "description":"When Tapana Miśra offered Sanātana Gosvāmī a new cloth, he did not accept it. Instead, he spoke as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.309",
-    "h1":"Text 309",
+    "h1":"Cc. Madhya 8.309",
+    "label":"Text 309",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.309",
     "description":"This part of Śrī Caitanya Mahāprabhu's pastimes is most confidential. One can derive benefit quickly only by faith; otherwise by arguing one will always remain far away."
 }

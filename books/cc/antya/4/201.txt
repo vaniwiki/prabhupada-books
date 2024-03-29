@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.201",
-    "h1":"Text 201",
+    "h1":"Cc. Antya 4.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.201",
     "description":"After saying this, Śrī Caitanya Mahāprabhu again embraced Sanātana Gosvāmī. Thus immediately Sanātana's itches disappeared, and his entire body resembled the color of gold."
 }

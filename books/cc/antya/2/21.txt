@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 2.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.21",
     "description":"He advised whomever he met to chant the holy names Hare Kṛṣṇa. Thus upon seeing him, people were overwhelmed with love of Godhead."
 }

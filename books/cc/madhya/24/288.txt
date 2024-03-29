@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.288",
-    "h1":"Text 288",
+    "h1":"Cc. Madhya 24.288",
+    "label":"Text 288",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.288",
     "description":"\"Those who are practicing devotional service are either mature or immature. Therefore the sādhakas are of two types. Since the devotees execute either regulative devotional service or spontaneous devotional service and there are four groups within these two divisions, altogether there are eight varieties."
 }

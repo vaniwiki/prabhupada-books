@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.261",
-    "h1":"Text 261",
+    "h1":"Cc. Ādi 4.261",
+    "label":"Text 261",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.261",
     "description":"\"Considering this, I can understand that some unknown mellow in Me controls the entire existence of My captivator, Śrīmatī Rādhārāṇī."
 }

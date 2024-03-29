@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 24.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.192",
     "description":"\" 'To those who are constantly devoted and worship Me with love, I give the understanding by which they can come to Me.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 16.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.96",
     "description":"\"I shall offer prayers and meditation to the goddess of learning,\" the champion concluded, \"and ask her why she has insulted me so greatly through this boy.\""
 }

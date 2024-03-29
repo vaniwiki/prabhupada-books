@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.151",
-    "h1":"Text 151",
+    "h1":"Cc. Antya 10.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.151",
     "description":"After saying this, the Lord ate the rice mixed with yogurt and offered Caitanya dāsa the remnants of His food."
 }

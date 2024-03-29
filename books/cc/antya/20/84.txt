@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.84",
-    "h1":"Text 84",
+    "h1":"Cc. Antya 20.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.84",
     "description":"What I have described was left aside by Vṛndāvana dāsa Ṭhākura, but although he could not describe these pastimes, he gave us a synopsis."
 }

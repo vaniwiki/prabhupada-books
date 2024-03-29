@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.56",
-    "h1":"Text 56",
+    "h1":"Cc. Ādi 4.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.56",
     "description":"Rādhā and Kṛṣṇa are one and the same, but They have assumed two bodies. Thus They enjoy each other, tasting the mellows of love."
 }

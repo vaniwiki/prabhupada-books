@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.275",
-    "h1":"Text 275",
+    "h1":"Cc. Madhya 24.275",
+    "label":"Text 275",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.275",
     "description":"\"He then fetched water and washed the sages' feet with great devotion. Then both husband and wife drank that water and sprinkled it on their heads."
 }

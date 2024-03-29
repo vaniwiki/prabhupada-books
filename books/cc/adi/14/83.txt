@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.83",
-    "h1":"Text 83",
+    "h1":"Cc. Ādi 14.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.83",
     "description":"On another occasion, Jagannātha Miśra, seeing the mischievous acts of his son, gave Him lessons in morality after rebuking Him greatly."
 }

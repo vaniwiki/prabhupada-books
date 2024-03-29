@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 19.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.67",
     "description":"After consulting with one another, they entreated Śrī Caitanya Mahāprabhu to allow Śaṅkara Paṇḍita to lie down in the same room with Him."
 }

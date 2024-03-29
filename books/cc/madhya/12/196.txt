@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 12.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.196",
     "description":"Thus They both went on talking and praising one another, although Their praise appeared negative, for it appeared as if They exchanged ill names."
 }

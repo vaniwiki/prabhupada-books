@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.322",
-    "h1":"Text 322",
+    "h1":"Cc. Madhya 24.322",
+    "label":"Text 322",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.322",
     "description":"\"In this way, like a madman, I have explained the meaning of just one verse. I do not know who will take this as evidence."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.240",
-    "h1":"Text 240",
+    "h1":"Cc. Madhya 11.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.240",
     "description":"Finally they all departed to rest in bed. In this way Śrī Caitanya Mahāprabhu, the son of Śacīmātā, performed His pastimes."
 }

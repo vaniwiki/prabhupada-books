@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 22.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.52",
     "description":"\" 'O King Rahūgaṇa, without taking upon one's head the dust from the lotus feet of a pure devotee [a mahājana or mahātmā], one cannot attain devotional service. Devotional service is not possible to attain simply by undergoing severe austerities and penances, by gorgeously worshiping the Deity, or by strictly following the rules and regulations of the sannyāsa or gṛhastha order, nor by studying the Vedas, submerging oneself in water, or exposing oneself to fire or scorching sunlight.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 6.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.78",
     "description":"When Śrī Caitanya Mahāprabhu arrived, Lord Nityānanda Prabhu stood up. They then saw how the others were enjoying the chipped rice with yogurt and condensed milk."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 8.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.226",
     "description":"\"The word 'aṅghri-padma-sudhā' means 'associating intimately with Kṛṣṇa.' One can attain such perfection only by spontaneous love of God. One cannot obtain Kṛṣṇa in Goloka Vṛndāvana simply by serving the Lord according to regulative principles."
 }

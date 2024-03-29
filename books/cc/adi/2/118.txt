@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.118",
-    "h1":"Text 118",
+    "h1":"Cc. Ādi 2.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.118",
     "description":"By such conclusive studies I know the glories of Lord Caitanya. Only by knowing these glories can one become strong and fixed in attachment to Him."
 }

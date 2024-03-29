@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.112",
-    "h1":"Text 112",
+    "h1":"Cc. Ādi 3.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.112",
     "description":"The essence of the meaning of this verse is that Lord Kṛṣṇa appears in all His innumerable eternal forms because of the desires of His pure devotees."
 }

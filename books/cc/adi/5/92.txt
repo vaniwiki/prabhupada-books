@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 5.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.92",
     "description":"I have thus explained the ninth verse, and now I shall explain the tenth. Please listen with rapt attention."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 15.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.107",
     "description":"\"Simply by chanting the holy name of Kṛṣṇa, one is relieved from all the reactions of a sinful life. One can complete the nine processes of devotional service simply by chanting the holy name."
 }

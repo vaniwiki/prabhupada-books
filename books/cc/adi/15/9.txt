@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 15.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.9",
     "description":"His mother replied, \"My dear son, I will give You whatever You ask.\" Then the Lord said, \"My dear mother, please do not eat grains on the Ekādaśī day.\""
 }

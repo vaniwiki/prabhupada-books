@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.161",
-    "h1":"Text 161",
+    "h1":"Cc. Antya 6.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.161",
     "description":"Yadunandana Ācārya was the priest and spiritual master of Raghunātha dāsa. Although born in a brāhmaṇa family, he had accepted the mercy of Vāsudeva Datta."
 }

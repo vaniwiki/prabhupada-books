@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 22.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.116",
     "description":"\"The next steps are as follows: (6) One should be prepared to give up everything for Kṛṣṇa's satisfaction, and one should also accept everything for Kṛṣṇa's satisfaction. (7) One must live in a place where Kṛṣṇa is present-a city like Vṛndāvana or Mathurā or a Kṛṣṇa temple. (8) One should acquire a livelihood that is just sufficient to keep body and soul together. (9) One must fast on Ekādaśī day."
 }

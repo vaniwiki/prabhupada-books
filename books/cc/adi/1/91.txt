@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.91",
-    "h1":"Text 91",
+    "h1":"Cc. Ādi 1.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.91",
     "description":"\"The great scripture Śrīmad-Bhāgavatam, compiled by Mahā-muni Vyāsadeva from four original verses, describes the most elevated and kindhearted devotees and completely rejects the cheating ways of materially motivated religiosity. It propounds the highest principle of eternal religion, which can factually mitigate the threefold miseries of a living being and award the highest benediction of full prosperity and knowledge. Those willing to hear the message of this scripture in a submissive attitude of service can at once capture the Supreme Lord in their hearts. Therefore there is no need for any scripture other than Śrīmad-Bhāgavatam.\""
 }

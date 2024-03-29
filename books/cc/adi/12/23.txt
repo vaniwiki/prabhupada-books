@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 12.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.23",
     "description":"Advaita Ācārya Prabhu became very unhappy. Taking His son on His lap, He began to chant the Nṛsiṁha mantra for his protection."
 }

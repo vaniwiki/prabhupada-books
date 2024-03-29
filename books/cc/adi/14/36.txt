@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.36",
-    "h1":"Text 36",
+    "h1":"Cc. Ādi 14.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.36",
     "description":"Thus under various excuses the Lord exhibited His opulences as much as possible in His childhood, and later, after exhibiting such opulences, He hid Himself."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 8.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.16",
     "description":"Śrī Caitanya Mahāprabhu could understand that the person who had come to bathe in the river was Rāmānanda Rāya. The Lord wanted so much to meet him that His mind immediately began running after him."
 }

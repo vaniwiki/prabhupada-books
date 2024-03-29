@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.39",
-    "h1":"Text 39",
+    "h1":"Cc. Ādi 14.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.39",
     "description":"Pretending to be sick, the Lord asked some food from the house of Hiraṇya and Jagadīśa on the Ekādaśī day."
 }

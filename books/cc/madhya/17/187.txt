@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 17.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.187",
     "description":"After this discussion, the brāhmaṇa gave lunch to Śrī Caitanya Mahāprabhu. Then all the people residing in Mathurā came to see the Lord."
 }

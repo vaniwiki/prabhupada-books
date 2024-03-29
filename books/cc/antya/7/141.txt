@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 7.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.141",
     "description":"When Vallabha Bhaṭṭa invited Śrī Caitanya Mahāprabhu and His associates, the Lord was very pleased with him."
 }

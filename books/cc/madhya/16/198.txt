@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 16.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.198",
     "description":"The Mohammedan governor then personally accompanied Śrī Caitanya Mahāprabhu. Because of pirates, the governor took ten boats, which were full with many soldiers."
 }

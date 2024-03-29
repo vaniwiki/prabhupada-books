@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 1.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.45",
     "description":"According to the deliberate opinion of all revealed scriptures, the spiritual master is nondifferent from Kṛṣṇa. Lord Kṛṣṇa in the form of the spiritual master delivers His devotees."
 }

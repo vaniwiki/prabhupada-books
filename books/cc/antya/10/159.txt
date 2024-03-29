@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.159",
-    "h1":"Text 159",
+    "h1":"Cc. Antya 10.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.159",
     "description":"In the midst of that narration are descriptions of Rāghava Paṇḍita's bags of food and the dancing in the temple of Jagannātha."
 }

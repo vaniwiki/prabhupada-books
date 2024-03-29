@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.178",
-    "h1":"Text 178",
+    "h1":"Cc. Antya 3.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.178",
     "description":"Haridāsa Ṭhākura protested, \"These two benedictions are not the true result of chanting the holy name. By actually chanting the holy name without offenses, one awakens his ecstatic love for the lotus feet of Kṛṣṇa."
 }

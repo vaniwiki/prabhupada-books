@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.121",
-    "h1":"Text 121",
+    "h1":"Cc. Antya 9.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.121",
     "description":"\"Therefore I have appointed them collectors in various places, and although they spend the government's money, eat, drink, plunder and distribute it as they like, I do not take them very seriously."
 }

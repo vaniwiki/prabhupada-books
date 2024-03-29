@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 6.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.100",
     "description":"Thus I have described the pastimes of Lord Nityānanda Prabhu in relation to the celebrated festival of chipped rice and yogurt."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 18.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.58",
     "description":"\"This ghost, however, overcomes me with redoubled strength when I chant the Nṛsiṁha mantra. When I even see the form of this ghost, great fear arises in my mind."
 }

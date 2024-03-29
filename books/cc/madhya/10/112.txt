@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 10.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.112",
     "description":"If someone wrote a book or composed verses and songs and wanted to recite them before Śrī Caitanya Mahāprabhu, Svarūpa Dāmodara would first examine them and then correctly present them. Only then would Śrī Caitanya Mahāprabhu agree to listen."
 }

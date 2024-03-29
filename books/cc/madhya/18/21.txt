@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 18.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.21",
     "description":"At Brahma-kuṇḍa, Bhaṭṭācārya cooked food, and the Lord, after taking His bath at Brahma-kuṇḍa, accepted His lunch."
 }

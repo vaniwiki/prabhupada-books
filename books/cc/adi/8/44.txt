@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.44",
-    "h1":"Text 44",
+    "h1":"Cc. Ādi 8.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.44",
     "description":"Śrīla Vṛndāvana dāsa Ṭhākura has written Śrī Caitanya-maṅgala and therein described in all respects the pastimes of Lord Caitanya."
 }

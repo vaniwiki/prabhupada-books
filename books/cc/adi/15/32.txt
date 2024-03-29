@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 15.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.32",
     "description":"The Lord performed many varieties of pastimes in His early age, and Śrīla Vṛndāvana dāsa Ṭhākura has described them elaborately."
 }

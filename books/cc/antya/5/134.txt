@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.134",
-    "h1":"Text 134",
+    "h1":"Cc. Antya 5.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.134",
     "description":"\"You have composed this introductory verse to your great satisfaction, but the meaning you have expressed is contaminated by offenses to both Lord Jagannātha and Śrī Caitanya Mahāprabhu."
 }

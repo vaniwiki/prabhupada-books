@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.76",
-    "h1":"Text 76",
+    "h1":"Cc. Ādi 3.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.76",
     "description":"Lord Nityānanda's very features indicate that He is the subduer of the unbelievers. All sins and unbelievers flee from the loud shouts of Advaita Ācārya."
 }

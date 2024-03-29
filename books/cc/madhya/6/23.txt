@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.23",
-    "h1":"Text 23",
+    "h1":"Cc. Madhya 6.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.23",
     "description":"Mukunda Datta continued, \"After accepting the sannyāsa order, Lord Caitanya Mahāprabhu has come to Jagannātha Purī and has brought all of us with Him."
 }

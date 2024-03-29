@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 25.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.174",
     "description":"Hundreds and thousands of people came to see Śrī Caitanya Mahāprabhu. There was no counting the number. Because the Lord's residence was very small, not everyone could see Him."
 }

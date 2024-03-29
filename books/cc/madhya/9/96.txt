@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 9.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.96",
     "description":"While reading the book, the brāhmaṇa experienced transcendental bodily transformations. His hair stood on end, tears welled in his eyes, and his body trembled and perspired as he read. Seeing this, Śrī Caitanya Mahāprabhu became very happy."
 }

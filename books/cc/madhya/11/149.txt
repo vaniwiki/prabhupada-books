@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 11.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.149",
     "description":"Then turning toward Śivānanda Sena, the Lord said, \"I know that from the very beginning your affection for Me has been very great.\""
 }

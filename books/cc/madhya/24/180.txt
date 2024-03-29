@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 24.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.180",
     "description":"\"The word dhṛti is also used when one is fully perfect in knowledge. When due to having obtained the lotus feet of the Supreme Personality of Godhead, he has no material miseries, he attains mahā-pūrṇa, the highest level of perfection."
 }

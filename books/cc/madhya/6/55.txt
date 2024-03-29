@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 6.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.55",
     "description":"Hearing that Śrī Caitanya Mahāprabhu belonged to the Nadīyā district, Sārvabhauma Bhaṭṭācārya became very pleased and addressed the Lord as follows."
 }

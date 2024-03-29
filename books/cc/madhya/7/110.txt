@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 7.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.110",
     "description":"Lord Śrī Caitanya Mahāprabhu's empowering of others can be understood by one who is actually a devotee of the Lord and who has received His mercy."
 }

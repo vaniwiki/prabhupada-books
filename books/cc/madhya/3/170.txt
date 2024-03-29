@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 3.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.170",
     "description":"Śacīmātā submitted, \"As far as you are concerned, you can meet Nimāi, Śrī Caitanya Mahāprabhu, many times somewhere else, but what is the possibility of my ever meeting Him again? I shall have to remain at home. A sannyāsī never returns to his home.\""
 }

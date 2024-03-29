@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 3.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.32",
     "description":"In His early pastimes He is known as Viśvambhara because He floods the world with the nectar of devotion and thus saves the living beings."
 }

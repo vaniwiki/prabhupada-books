@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.119",
-    "h1":"Text 119",
+    "h1":"Cc. Ādi 13.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.119",
     "description":"In this way mother Śacīdevī and Jagannātha Miśra, having obtained a son who was the husband of the goddess of fortune, had all their desires fulfilled. Their house was always filled with riches and grains. As they saw the beloved body of Śrī Caitanya Mahāprabhu, day after day their pleasure increased."
 }

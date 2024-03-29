@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.279",
-    "h1":"Text 279",
+    "h1":"Cc. Madhya 15.279",
+    "label":"Text 279",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.279",
     "description":"While Amogha danced in ecstatic love, he manifested all the ecstatic symptoms-trembling, tears, jubilation, trance, perspiration and a faltering voice. Seeing these waves of ecstatic emotion, Śrī Caitanya Mahāprabhu began to laugh."
 }

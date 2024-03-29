@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 18.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.96",
     "description":"\"The hands of the gopīs, which resembled red lotus flowers, arose from the water in pairs to obstruct the bluish flowers. The blue lotuses tried to plunder the white cakravāka birds, and the red lotuses tried to protect them. Thus there was a fight between the two."
 }

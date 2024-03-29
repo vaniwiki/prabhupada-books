@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 12.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.108",
     "description":"Hundreds of devotees brought water in the pots, and hundreds took the empty pots away to fill them up again."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.111",
-    "h1":"Text 111",
+    "h1":"Cc. Madhya 21.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.111",
     "description":"Just as the women of Mathurā ecstatically described the fortune of the gopīs of Vṛndāvana and the transcendental qualities of Kṛṣṇa, Śrī Caitanya Mahāprabhu described the different mellows of Kṛṣṇa and became overwhelmed with ecstatic love. Grasping the hand of Sanātana Gosvāmī, He recited the following verse."
 }

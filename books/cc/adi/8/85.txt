@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.85",
-    "h1":"Text 85",
+    "h1":"Cc. Ādi 8.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.85",
     "description":"Praying at the lotus feet of Śrī Rūpa and Śrī Raghunātha, always desiring their mercy, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps."
 }

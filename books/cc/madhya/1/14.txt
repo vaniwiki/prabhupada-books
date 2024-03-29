@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.14",
-    "h1":"Text 14",
+    "h1":"Cc. Madhya 1.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.14",
     "description":"Placing his lotus feet upon my head in great devotion, I shall now describe in summary the Lord's final pastimes."
 }

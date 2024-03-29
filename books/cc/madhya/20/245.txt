@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 20.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.245",
     "description":"\"There are six types of incarnations [avatāras] of Kṛṣṇa. One is the incarnations of Viṣṇu [puruṣa-avatāras], and another is the incarnations meant for the performance of pastimes [līlā-avatāras]."
 }

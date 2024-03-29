@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.331",
-    "h1":"Text 331",
+    "h1":"Cc. Ādi 17.331",
+    "label":"Text 331",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.331",
     "description":"The pastimes of Lord Śrī Caitanya Mahāprabhu are wonderful and unlimited. Even personalities like Lord Brahmā, Lord Śiva and Śeṣa Nāga cannot find their end."
 }

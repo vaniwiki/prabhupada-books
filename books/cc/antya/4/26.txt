@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 4.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.26",
     "description":"Śrī Caitanya Mahāprabhu informed Sanātana Gosvāmī, \"Śrīla Rūpa Gosvāmī was here for ten months. He left for Bengal just ten days ago."
 }

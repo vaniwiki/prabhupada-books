@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 13.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.53",
     "description":"Everyone said, \"Lord Caitanya Mahāprabhu is present in my group. Indeed, He does not go anywhere else. He is bestowing His mercy upon us.\""
 }

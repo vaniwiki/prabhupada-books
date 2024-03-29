@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 5.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.46",
     "description":"When the elderly brāhmaṇa heard this, his mind became very agitated. Feeling helpless, he simply turned his attention to the lotus feet of Gopāla."
 }

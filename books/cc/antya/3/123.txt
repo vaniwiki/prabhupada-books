@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 3.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.123",
     "description":"When the night came to an end, the prostitute was restless. Seeing this, Haridāsa Ṭhākura spoke to her as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 2.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.148",
     "description":"Immediately after committing suicide in this way, he went in his spiritual body to Śrī Caitanya Mahāprabhu and received the mercy of the Lord. However, he still remained invisible."
 }

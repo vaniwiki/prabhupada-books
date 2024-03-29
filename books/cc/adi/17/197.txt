@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.197",
-    "h1":"Text 197",
+    "h1":"Cc. Ādi 17.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.197",
     "description":"\" 'The Hindus chant the name Hari because that is the name of their God. But you are Muslim meat-eaters. Why do you chant the name of the Hindus' God?'"
 }

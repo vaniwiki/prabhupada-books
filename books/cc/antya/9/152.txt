@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.152",
-    "h1":"Text 152",
+    "h1":"Cc. Antya 9.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.152",
     "description":"Whether or not one understands it, if one hears of this incident concerning Gopīnātha Paṭṭanāyaka's activities and Lord Śrī Caitanya Mahāprabhu's causeless mercy upon him, certainly he will be promoted to the platform of ecstatic love for the Lord, and for him all dangers will be nullified."
 }

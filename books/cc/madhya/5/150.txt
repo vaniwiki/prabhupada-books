@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 5.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.150",
     "description":"\"Thus the staff broke under Our weight. Where the pieces have gone, I cannot say."
 }

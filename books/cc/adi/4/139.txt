@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.139",
-    "h1":"Text 139",
+    "h1":"Cc. Ādi 4.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.139",
     "description":"\"Only Rādhikā, by the strength of Her love, tastes all the nectar of My sweetness."
 }

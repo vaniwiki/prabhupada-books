@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 3.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.163",
     "description":"Frequently the Lord would tumble to the ground. Seeing this, mother Śacī would cry."
 }

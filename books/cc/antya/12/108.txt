@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.108",
-    "h1":"Text 108",
+    "h1":"Cc. Antya 12.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.108",
     "description":"The Lord replied, \"A sannyāsī has no use for oil, especially perfumed oil such as this. Take it out immediately.\""
 }

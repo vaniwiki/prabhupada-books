@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 14.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.63",
     "description":"At first they were overjoyed to see Him, but when they saw His condition, all the devotees, headed by Svarūpa Dāmodara Gosvāmī, were very anxious."
 }

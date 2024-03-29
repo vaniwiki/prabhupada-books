@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 13.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.206",
     "description":"In his prayer known as the Caitanyāṣṭaka, Śrīla Rūpa Gosvāmī has given a vivid description of the Lord's dancing before the car of Jagannātha."
 }

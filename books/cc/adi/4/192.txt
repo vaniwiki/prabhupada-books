@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.192",
-    "h1":"Text 192",
+    "h1":"Cc. Ādi 4.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.192",
     "description":"The beauty of Lord Kṛṣṇa increases at the sight of the beauty of the gopīs. And the more the gopīs see Lord Kṛṣṇa's beauty, the more their beauty increases."
 }

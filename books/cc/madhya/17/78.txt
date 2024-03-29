@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.78",
-    "h1":"Text 78",
+    "h1":"Cc. Madhya 17.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.78",
     "description":"\"Sir, I am most fallen, yet You have brought me with You. Showing great mercy, You have accepted food prepared by me."
 }

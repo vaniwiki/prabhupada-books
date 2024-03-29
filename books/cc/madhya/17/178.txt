@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 17.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.178",
     "description":"\"Whatever action is performed by a great man, common men follow. And whatever standards he sets by exemplary acts, all the world pursues.\""
 }

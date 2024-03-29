@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.185",
-    "h1":"Text 185",
+    "h1":"Cc. Ādi 4.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.185",
     "description":"There is another wonderful feature of the emotion of the gopīs. Its power is beyond the comprehension of the intelligence."
 }

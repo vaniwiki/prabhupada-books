@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.183",
-    "h1":"Text 183",
+    "h1":"Cc. Madhya 16.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.183",
     "description":"Upon hearing the governor's submissive statement, the mahā-pātra was overwhelmed with joy. He clasped the lotus feet of Śrī Caitanya Mahāprabhu and began to offer the following prayers."
 }

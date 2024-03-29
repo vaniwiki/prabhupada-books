@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 13.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.87",
     "description":"In this way the pregnancy approached its thirteenth month, but still there was no sign of the delivery of the child. Thus Jagannātha Miśra became greatly apprehensive."
 }

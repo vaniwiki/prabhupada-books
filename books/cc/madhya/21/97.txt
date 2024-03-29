@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.97",
-    "h1":"Text 97",
+    "h1":"Cc. Madhya 21.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.97",
     "description":"\"Because Be possesses the spiritual potencies which fulfill all His desires, Kṛṣṇa is accepted as the Supreme Personality of Godhead. This is the Vedic version."
 }

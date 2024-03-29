@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 16.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.31",
     "description":"When the condensed milk was placed before Nityānanda Prabhu, He distributed the prasāda to everyone, and thus everyone's transcendental bliss increased."
 }

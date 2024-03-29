@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 13.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.79",
     "description":"\" 'Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakī-nandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!'"
 }

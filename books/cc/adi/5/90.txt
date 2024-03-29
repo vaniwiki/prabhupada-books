@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.90",
-    "h1":"Text 90",
+    "h1":"Cc. Ādi 5.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.90",
     "description":"\"O Arjuna, you should know this as My inconceivable opulence.\" This is the meaning propagated by Lord Kṛṣṇa in the Bhagavad-gītā."
 }

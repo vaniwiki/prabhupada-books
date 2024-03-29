@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 4.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.26",
     "description":"When he saw the beauty of that boy, Mādhavendra Purī became very satisfied. Hearing His sweet words, he forgot all hunger and thirst."
 }

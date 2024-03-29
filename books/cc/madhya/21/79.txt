@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 21.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.79",
     "description":"\"Thus the opulence of Dvārakā was perceived by each and every one of them. Although they were all assembled together, no one could see anyone but himself."
 }

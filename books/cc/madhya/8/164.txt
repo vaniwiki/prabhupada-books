@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 8.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.164",
     "description":"\"That supreme ecstasy of Śrīmatī Rādhārāṇī is the essence of spiritual life. Her only business is to fulfill all the desires of Kṛṣṇa."
 }

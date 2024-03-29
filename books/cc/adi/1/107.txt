@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.107",
-    "h1":"Text 107",
+    "h1":"Cc. Ādi 1.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.107",
     "description":"Simply hearing submissively will free one's heart from all the faults of ignorance, and thus one will achieve deep love for Kṛṣṇa. This is the path of peace."
 }

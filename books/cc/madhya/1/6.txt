@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.6",
-    "h1":"Text 6",
+    "h1":"Cc. Madhya 1.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.6",
     "description":"All glories unto Śrī Gaurahari, who is an ocean of mercy! All glories unto You, the son of Śacīdevī, for You are the only friend of all fallen souls!"
 }

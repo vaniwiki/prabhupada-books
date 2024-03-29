@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 10.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.49",
     "description":"Śrī Caitanya Mahāprabhu entered the water with His devotees and began His pastimes with them in great jubilation."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 7.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.24",
     "description":"Although the members of the Pañca-tattva plundered the storehouse of love of Godhead and ate and distributed its contents, there was no scarcity, for this wonderful storehouse is so complete that as the love is distributed, the supply increases hundreds of times."
 }

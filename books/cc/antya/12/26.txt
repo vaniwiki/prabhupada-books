@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 12.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.26",
     "description":"Śivānanda Sena touched the lotus feet of Nityānanda Prabhu and led Him to His residence. After giving the Lord His quarters, Śivānanda Sena, being very pleased, spoke as follows."
 }

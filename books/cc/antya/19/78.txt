@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 19.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.78",
     "description":"One full-moon night in the month of Vaiśākha [April and May], Śrī Caitanya Mahāprabhu went to a garden."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 4.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.145",
     "description":"When Mādhavendra Purī came to Jagannātha Purī, people were aware of his transcendental reputation. Therefore crowds of people came and offered him all sorts of respect in devotion."
 }

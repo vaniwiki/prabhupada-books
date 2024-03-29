@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 16.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.75",
     "description":"\"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds."
 }

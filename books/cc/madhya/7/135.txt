@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.135",
-    "h1":"Text 135",
+    "h1":"Cc. Madhya 7.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.135",
     "description":"When Śrī Caitanya Mahāprabhu left, the brāhmaṇa Kūrma followed Him a great distance, but eventually Lord Caitanya took care to send him back home."
 }

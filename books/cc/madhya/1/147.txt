@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 1.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.147",
     "description":"After this, Śrī Caitanya Mahāprabhu bade farewell to all the devotees from Gauḍa-deśa [Bengal] and continued chanting with His intimate devotees who constantly remained with Him."
 }

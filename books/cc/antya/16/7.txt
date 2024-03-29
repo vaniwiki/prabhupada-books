@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 16.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.7",
     "description":"When he used to throw dice in jest, he would throw the dice while chanting Hare Kṛṣṇa."
 }

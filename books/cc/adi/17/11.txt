@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 17.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.11",
     "description":"Śrīvāsa Ṭhākura then worshiped Lord Caitanya Mahāprabhu by the process of abhiṣeka. Sitting on a cot, the Lord exhibited transcendental opulence."
 }

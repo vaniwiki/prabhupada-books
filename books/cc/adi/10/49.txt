@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.49",
-    "h1":"Text 49",
+    "h1":"Cc. Ādi 10.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.49",
     "description":"Murāri Gupta, the twenty-first branch of the tree of Śrī Caitanya Mahāprabhu, was a storehouse of love of Godhead. His great humility and meekness melted the heart of Lord Caitanya."
 }

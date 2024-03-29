@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.166",
-    "h1":"Text 166",
+    "h1":"Cc. Ādi 17.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.166",
     "description":"\"Cow-killers are condemned to rot in hellish life for as many thousands of years as there are hairs on the body of the cow."
 }

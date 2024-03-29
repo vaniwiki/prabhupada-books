@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 13.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.113",
     "description":"\"Now I have gained the Lord of My life, in the absence of whom I was being burned by Cupid and was withering away.\""
 }

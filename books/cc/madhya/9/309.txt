@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.309",
-    "h1":"Text 309",
+    "h1":"Cc. Madhya 9.309",
+    "label":"Text 309",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.309",
     "description":"The Brahma-saṁhitā and Kṛṣṇa-karṇāmṛta were two books that Śrī Caitanya Mahāprabhu considered to be most valuable jewels. Therefore He took them with Him on His return trip."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 23.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.3",
     "description":"Śrī Caitanya Mahāprabhu continued, \"Now hear, O Sanātana, about the result of devotional service, which is love of Godhead, life's ultimate goal. If one hears this description, he will be enlightened in the transcendental mellows of devotional service."
 }

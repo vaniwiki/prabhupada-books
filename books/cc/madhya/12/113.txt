@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 12.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.113",
     "description":"Whenever anyone had to speak, he did so by uttering the holy name of Kṛṣṇa. Consequently, the holy name of Kṛṣṇa became an indication for everyone who wanted something."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.5",
-    "h1":"Text 5",
+    "h1":"Cc. Antya 18.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.5",
     "description":"He walked from garden to garden, seeing the pastimes of Lord Kṛṣṇa and hearing and reciting songs and verses concerning the rāsa-līlā."
 }

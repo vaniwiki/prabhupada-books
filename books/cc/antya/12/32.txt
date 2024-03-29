@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 12.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.32",
     "description":"Being very pleased by Nityānanda Prabhu's behavior, Śivānanda Sena began to arrange residential quarters for all the Vaiṣṇavas, headed by Advaita Ācārya."
 }

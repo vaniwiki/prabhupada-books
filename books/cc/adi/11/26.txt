@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 11.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.26",
     "description":"Gaurīdāsa Paṇḍita, the emblem of the most elevated devotional service in love of Godhead, had the greatest potency to receive and deliver such love."
 }

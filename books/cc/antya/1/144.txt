@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.144",
-    "h1":"Text 144",
+    "h1":"Cc. Antya 1.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.144",
     "description":"\"O dearly beautiful, the artistic loveliness of Your picture is now impressed within My mind. Since You are now living within My mind, wherever I wish to run because I am agitated by impressions of You, I find that You, O My friend, are blocking My way.\""
 }

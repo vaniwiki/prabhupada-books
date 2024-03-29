@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 6.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.113",
     "description":"Śrīla Mukunda Datta felt very satisfied to hear the conclusive statements of Gopīnātha Ācārya, but he became very unhappy and angry to hear the statements put forward by Sārvabhauma Bhaṭṭācārya."
 }

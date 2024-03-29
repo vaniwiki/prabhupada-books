@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.100",
-    "h1":"Text 100",
+    "h1":"Cc. Ādi 6.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.100",
     "description":"The position of being a devotee is higher than that of equality with Lord Kṛṣṇa, for the devotees are dearer to Lord Kṛṣṇa than His own self."
 }

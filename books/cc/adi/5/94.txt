@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.94",
-    "h1":"Text 94",
+    "h1":"Cc. Ādi 5.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.94",
     "description":"After creating millions of universes, the first puruṣa entered into each of them in a separate form, as Śrī Garbhodakaśāyī."
 }

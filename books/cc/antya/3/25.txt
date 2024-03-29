@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 3.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.25",
     "description":"\"It is best for you to go to the shelter of My mother's lotus feet, for no one will be able to behave independently in front of you."
 }

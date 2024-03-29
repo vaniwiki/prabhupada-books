@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.247",
-    "h1":"Text 247",
+    "h1":"Cc. Madhya 24.247",
+    "label":"Text 247",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.247",
     "description":"\" 'I beg you that from this day on you will kill animals completely and not leave them half-dead.'"
 }

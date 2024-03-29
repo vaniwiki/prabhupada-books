@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.152",
-    "h1":"Text 152",
+    "h1":"Cc. Antya 3.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.152",
     "description":"The servant informed Lord Nityānanda, \"My dear sir, Rāmacandra Khān has sent me to accommodate You in some common man's house."
 }

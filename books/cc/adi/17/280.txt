@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.280",
-    "h1":"Text 280",
+    "h1":"Cc. Ādi 17.280",
+    "label":"Text 280",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.280",
     "description":"If Lord Kṛṣṇa gives up this original form and assumes another Viṣṇu form, nearness to Him cannot invoke the ecstatic mood of the gopīs."
 }

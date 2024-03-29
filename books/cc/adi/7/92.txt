@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 7.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.92",
     "description":"\" 'My dear child, continue dancing, chanting and performing saṅkīrtana in association with devotees. Furthermore, go out and preach the value of chanting kṛṣṇa-nāma, for by this process You will be able to deliver all fallen souls.'"
 }

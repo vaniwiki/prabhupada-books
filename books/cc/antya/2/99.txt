@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 2.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.99",
     "description":"\"The Māyāvādī philosopher tries to establish that the living entity is only imaginary and that the Supreme Personality of Godhead is under the influence of māyā. Hearing this kind of commentary breaks the heart and life of a devotee.\""
 }

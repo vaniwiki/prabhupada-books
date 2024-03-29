@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 13.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.86",
     "description":"Nityānanda Prabhu would stretch out His two hands and try to catch the Lord when He was running here and there."
 }

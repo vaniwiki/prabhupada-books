@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 11.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.17",
     "description":"When Govinda came to Haridāsa, he saw that Haridāsa Ṭhākura was lying on his back and chanting his rounds very slowly."
 }

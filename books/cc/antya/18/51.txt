@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 18.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.51",
     "description":"\"I do not know whether it was the ghost of a dead brāhmaṇa or an ordinary man, but as soon as one looks upon it, it enters his body."
 }

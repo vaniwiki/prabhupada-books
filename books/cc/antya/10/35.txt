@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.35",
-    "h1":"Text 35",
+    "h1":"Cc. Antya 10.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.35",
     "description":"Damayantī took earth from the Ganges, dried it, powdered it, strained it through a fine cloth, mixed in aromatic ingredients and rolled it into small balls."
 }

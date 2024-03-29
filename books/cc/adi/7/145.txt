@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.145",
-    "h1":"Text 145",
+    "h1":"Cc. Ādi 7.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.145",
     "description":"\"The Supreme Lord, who is greater than the greatest, becomes submissive to even a very insignificant devotee because of his devotional service. It is the beautiful and exalted nature of devotional service that the infinite Lord becomes submissive to the infinitesimal living entity because of it. In reciprocal devotional activities with the Lord, the devotee actually enjoys the transcendental mellow quality of devotional service."
 }

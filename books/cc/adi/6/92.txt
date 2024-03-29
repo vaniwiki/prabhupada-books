@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 6.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.92",
     "description":"Advaita Ācārya is a separate expansion of Him. He always engages in devotional service with His thoughts, words and actions."
 }

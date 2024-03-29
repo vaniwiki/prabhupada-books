@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 6.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.108",
     "description":"\" 'I offer my respectful obeisances unto the Supreme Personality of Godhead, who is full of unlimited qualities and whose different potencies bring about agreement and disagreement between disputants. Thus the illusory energy again and again covers the self-realization of both disputants.'"
 }

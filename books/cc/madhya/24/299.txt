@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.299",
-    "h1":"Text 299",
+    "h1":"Cc. Madhya 24.299",
+    "label":"Text 299",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.299",
     "description":"\" 'By the plural word vṛkṣāḥ [trees], all trees, such as banyan trees, fig trees, kapittha trees and mango trees, are indicated.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 25.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.41",
     "description":"\"Not accepting the transformation of energy, Śrīpād Śaṅkarācārya has tried to establish the theory of illusion under the plea that Vyāsadeva has made a mistake."
 }

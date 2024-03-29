@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.28",
-    "h1":"Text 28",
+    "h1":"Cc. Ādi 2.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.28",
     "description":"Nārāyaṇa and Śrī Kṛṣṇa are the same Personality of Godhead, but although They are identical, Their bodily features are different."
 }

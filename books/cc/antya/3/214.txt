@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.214",
-    "h1":"Text 214",
+    "h1":"Cc. Antya 3.214",
+    "label":"Text 214",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.214",
     "description":"Haridāsa Ṭhākura was unhappy when he heard that the brāhmaṇa Gopāla Cakravartī had been attacked by leprosy. Thus after informing Balarāma Ācārya, the priest of Hiraṇya Majumadāra, he went to Śāntipura, the home of Advaita Ācārya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 3.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.89",
     "description":"As soon as half of the vegetable in the pot was finished, Advaita Ācārya filled it up again. In this way, as the Lord finished half of a preparation, Advaita Ācārya again and again filled it up."
 }

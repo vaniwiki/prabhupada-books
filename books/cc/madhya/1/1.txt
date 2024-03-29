@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 1.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.1",
     "description":"Even a person with no knowledge can immediately acquire all knowledge simply by the benediction of Śrī Caitanya Mahāprabhu. Therefore I am praying to the Lord for His causeless mercy upon me."
 }

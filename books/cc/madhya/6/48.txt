@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 6.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.48",
     "description":"Offering his obeisances to Caitanya Mahāprabhu, Sārvabhauma Bhaṭṭācārya said, \"Namo nārāyaṇāya\" [\"I offer my obeisances to Nārāyaṇa\"].\" In return, Caitanya Mahāprabhu said, \"Kṛṣṇe matir astu\" [\"Let your attention be on Kṛṣṇa\"].\""
 }

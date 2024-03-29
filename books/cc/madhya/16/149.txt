@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 16.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.149",
     "description":"All these are the misgivings of loving affairs. Whoever listens to these incidents gets Śrī Caitanya Mahāprabhu's shelter very soon."
 }

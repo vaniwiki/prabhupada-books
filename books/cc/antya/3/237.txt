@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.237",
-    "h1":"Text 237",
+    "h1":"Cc. Antya 3.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.237",
     "description":"\"My dear sir, kindly accept me and be merciful toward me, for it is a characteristic of all saintly persons to be kind toward the poor and fallen.\""
 }

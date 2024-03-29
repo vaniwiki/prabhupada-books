@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 10.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.31",
     "description":"She took parched rice from fine paddy, fried it in ghee, cooked it in a sugar solution, mixed in some camphor and thus made a preparation called ukhḍā or muḍki."
 }

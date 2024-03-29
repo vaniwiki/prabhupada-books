@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.132",
-    "h1":"Text 132",
+    "h1":"Cc. Antya 16.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.132",
     "description":"\"The betel chewed by Kṛṣṇa is priceless, and the remnants of such chewed betel from His mouth are said to be the essence of nectar. When the gopīs accept these remnants, their mouths become like His spittoons."
 }

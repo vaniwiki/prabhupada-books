@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.172",
-    "h1":"Text 172",
+    "h1":"Cc. Madhya 6.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.172",
     "description":"\"Śaṅkarācārya's theory states that the Absolute Truth is transformed. By accepting this theory, the Māyāvādī philosophers denigrate Śrīla Vyāsadeva by accusing him of error. They thus find fault in the Vedānta-sūtra and interpret it to try to establish the theory of illusion."
 }

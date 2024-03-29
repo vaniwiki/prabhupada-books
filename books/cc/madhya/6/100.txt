@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 6.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.100",
     "description":"Gopīnātha Ācārya continued, \"There is certainly an incarnation in every age, and such an incarnation is called the yuga-avatāra. But your heart has become so hardened by logic and argument that you cannot consider all these facts."
 }

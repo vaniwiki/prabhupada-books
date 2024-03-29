@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 19.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.100",
     "description":"When Raghupati Upādhyāya saw Śrī Caitanya Mahāprabhu's ecstatic symptoms, he decided that the Lord was not a human being but Kṛṣṇa Himself."
 }

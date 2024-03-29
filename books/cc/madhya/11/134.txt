@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.134",
-    "h1":"Text 134",
+    "h1":"Cc. Madhya 11.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.134",
     "description":"Śrī Caitanya Mahāprabhu addressed Advaita Ācārya Prabhu, saying sweetly, \"My dear Sir, today I have become perfect because of Your arrival.\""
 }

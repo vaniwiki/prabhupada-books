@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 5.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.39",
     "description":"\"He personally bathes and dresses them and decorates them with ornaments. In this way, he naturally sees and touches the private parts of their bodies."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 6.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.202",
     "description":"To show him mercy, Śrī Caitanya Mahāprabhu allowed him to see His Viṣṇu form. Thus He immediately assumed four hands."
 }

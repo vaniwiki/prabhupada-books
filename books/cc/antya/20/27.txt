@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 20.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.27",
     "description":"As Lord Caitanya spoke in this way, His humility increased, and He began praying to Kṛṣṇa that He could discharge pure devotional service."
 }

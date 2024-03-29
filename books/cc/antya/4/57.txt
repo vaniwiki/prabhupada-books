@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 4.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.57",
     "description":"\"Acts such as suicide are influenced by the mode of ignorance, and in ignorance and passion one cannot understand who Kṛṣṇa is."
 }

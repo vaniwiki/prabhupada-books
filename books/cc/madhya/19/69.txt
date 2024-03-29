@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 19.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.69",
     "description":"Śrī Caitanya Mahāprabhu said, \"Don't touch him, for he belongs to a very low caste. You are a follower of Vedic principles and are a well experienced performer of many sacrifices. You also belong to the aristocracy.\""
 }

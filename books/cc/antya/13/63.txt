@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 13.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.63",
     "description":"After eating the prasāda, they embraced each other and cried due to separation from Lord Caitanya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.168",
-    "h1":"Text 168",
+    "h1":"Cc. Madhya 17.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.168",
     "description":"\"After installing the Deity Gopāla, Śrīla Mādhavendra Purī rendered Him service. That very Deity is still being worshiped at Govardhana Hill.\""
 }

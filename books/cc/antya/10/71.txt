@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 10.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.71",
     "description":"The Lord fell to the ground unconscious, not even breathing. Then suddenly He stood up, making a loud sound."
 }

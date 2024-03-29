@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 8.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.4",
     "description":"All glories to Advaita Prabhu, the incarnation of the Supreme Personality of Godhead. He induced Kṛṣṇa to descend and thus delivered the entire world."
 }

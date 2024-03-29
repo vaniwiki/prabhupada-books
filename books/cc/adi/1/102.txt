@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.102",
-    "h1":"Text 102",
+    "h1":"Cc. Ādi 1.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.102",
     "description":"These two, the sun and moon, are very kind to the people of the world. Thus for the good fortune of all, They have appeared on the horizon of Bengal."
 }

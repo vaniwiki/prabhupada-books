@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 1.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.19",
     "description":"For six years of the last twenty-four, Śrī Caitanya Mahāprabhu traveled all over India from Jagannātha Purī to Bengal and from Cape Comorin to Vṛndāvana."
 }

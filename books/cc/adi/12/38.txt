@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 12.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.38",
     "description":"Seeing Kamalākānta Viśvāsa unhappy, Advaita Ācārya Prabhu told him, \"You are greatly fortunate to have been punished by the Supreme Lord, the Personality of Godhead, Lord Caitanya Mahāprabhu."
 }

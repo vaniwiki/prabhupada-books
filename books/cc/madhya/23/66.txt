@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 23.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.66",
     "description":"\"Lord Kṛṣṇa, the Supreme Personality of Godhead who appeared as the son of Nanda Mahārāja, is the supreme hero in all dealings. Similarly, Śrīmatī Rādhārāṇī is the topmost heroine in all dealings."
 }

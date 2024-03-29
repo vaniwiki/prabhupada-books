@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 16.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.119",
     "description":"When Śrī Caitanya Mahāprabhu went to the bank of the River Citrotpalā to take His bath, all the queens and ladies of the palace offered their obeisances to Him."
 }

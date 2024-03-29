@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 15.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.102",
     "description":"After this, Rāmānanda Vasu and Satyarāja Khān both submitted questions at the lotus feet of Śrī Caitanya Mahāprabhu."
 }

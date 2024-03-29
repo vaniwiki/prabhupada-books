@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 5.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.1",
     "description":"I am infected by germs of material activity and suffering from boils due to envy. Therefore, falling in an ocean of humility, I take shelter of the great physician Lord Śrī Caitanya Mahāprabhu."
 }

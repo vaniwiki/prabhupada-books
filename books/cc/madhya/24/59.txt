@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 24.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.59",
     "description":"\"Although the word hari has many different meanings, two of them are foremost. One meaning is that the Lord takes away all inauspicious things from His devotee, and the second meaning is that He attracts the mind by ecstatic love for God."
 }

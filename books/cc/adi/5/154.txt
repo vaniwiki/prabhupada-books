@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.154",
-    "h1":"Text 154",
+    "h1":"Cc. Ādi 5.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.154",
     "description":"Kṛṣṇa and Balarāma present Themselves as elder or younger brother, but in the scriptures They are described as the original Supreme Personality of Godhead and His expansion."
 }

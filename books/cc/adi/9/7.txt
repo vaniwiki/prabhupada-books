@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.7",
-    "h1":"Text 7",
+    "h1":"Cc. Ādi 9.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.7",
     "description":"Lord Caitanya thought, \"My name is Viśvambhara, 'one who maintains the entire universe.' Its meaning will be actualized if I can fill the whole universe with love of Godhead.\""
 }

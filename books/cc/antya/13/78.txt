@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 13.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.78",
     "description":"One day when the Lord was going to the temple of Yameśvara, a female singer began to sing in the Jagannātha temple."
 }

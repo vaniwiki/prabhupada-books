@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 19.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.49",
     "description":"\"O misbehaved Providence! If you reply to us, 'Akrūra is actually at fault; why are you angry with me?' then I say to you, 'Providence, you have taken the form of Akrūra and have stolen Kṛṣṇa away. No one else would behave like this.'"
 }

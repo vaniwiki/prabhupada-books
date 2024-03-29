@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.278",
-    "h1":"Text 278",
+    "h1":"Cc. Madhya 24.278",
+    "label":"Text 278",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.278",
     "description":"\"Parvata Muni continued, 'My dear friend Nārada Muni, you are glorified as the sage among the demigods. By your mercy, even a lowborn person like this hunter can immediately become attached to Lord Kṛṣṇa.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.105-106",
-    "h1":"Text 105-106",
+    "h1":"Cc. Ādi 6.105-106",
+    "label":"Text 105-106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.105-106",
     "description":"Baladeva, Lakṣmaṇa, Advaita Ācārya, Lord Nityānanda, Lord Śeṣa and Lord Saṅkarṣaṇa taste the nectarean mellows of the transcendental bliss of Lord Kṛṣṇa by recognizing Themselves as being His devotees and servants. They are all mad with that happiness, and they know nothing else."
 }

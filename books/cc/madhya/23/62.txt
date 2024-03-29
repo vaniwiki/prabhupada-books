@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 23.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.62",
     "description":"\"In conjugal love [śṛṅgāra] there are two departments-meeting and separation. On the platform of meeting, there are unlimited varieties that are beyond description."
 }

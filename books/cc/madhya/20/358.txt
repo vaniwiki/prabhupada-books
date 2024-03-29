@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.358",
-    "h1":"Text 358",
+    "h1":"Cc. Madhya 20.358",
+    "label":"Text 358",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.358",
     "description":"\"In the auspicious invocation in the beginning of Śrīmad-Bhāgavatam, Śrīla Vyāsadeva has described the Supreme Personality of Godhead by these symptoms."
 }

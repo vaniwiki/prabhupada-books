@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.168",
-    "h1":"Text 168",
+    "h1":"Cc. Ādi 7.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.168",
     "description":"I thus explain the truth of the Pañca-tattva. One who hears this explanation increases in knowledge of Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 16.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.95",
     "description":"Understanding this, Śrī Caitanya Mahāprabhu felt an emotion of ecstatic love for Kṛṣṇa, but upon seeing the servants of Lord Jagannātha, He restrained Himself."
 }

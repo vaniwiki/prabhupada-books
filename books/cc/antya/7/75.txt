@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 7.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.75",
     "description":"Fourteen mṛdaṅgas resounded with the loud congregational chanting, and in each group was a dancer whose dance of ecstatic love inundated the entire world."
 }

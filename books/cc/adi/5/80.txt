@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.80",
-    "h1":"Text 80",
+    "h1":"Cc. Ādi 5.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.80",
     "description":"That puruṣa [Kṣīrodakaśāyī Viṣṇu] is the performer of creation, maintenance and destruction. He manifests Himself in many incarnations, for He is the maintainer of the world."
 }

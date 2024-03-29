@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 19.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.48",
     "description":"Śrī Caitanya Mahāprabhu was very pleased to see Śrīla Rūpa Gosvāmī, and He told him, \"Stand up! Stand up! My dear Rūpa, come here.\""
 }

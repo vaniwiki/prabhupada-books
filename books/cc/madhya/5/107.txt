@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 5.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.107",
     "description":"The Lord told the brāhmaṇa, \"Now you can go home. I shall stay here and shall not leave.\""
 }

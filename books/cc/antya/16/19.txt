@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 16.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.19",
     "description":"\"If you will permit me, I shall send some food to a brāhmaṇa's house, and there you may take prasāda. If you do so, I shall then live very comfortably.\""
 }

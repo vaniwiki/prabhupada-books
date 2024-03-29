@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 4.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.79",
     "description":"\"You shall have to ascertain the basic principles of a devotee, devotional service, love of Godhead, Vaiṣṇava duties, and Vaiṣṇava characteristics."
 }

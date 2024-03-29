@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 17.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.41",
     "description":"Śrīvāsa Ṭhākura called for all the respectable gentlemen of the neighborhood and smilingly addressed them as follows."
 }

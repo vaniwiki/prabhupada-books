@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.48-49",
-    "h1":"Text 48-49",
+    "h1":"Cc. Antya 2.48-49",
+    "label":"Text 48-49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.48-49",
     "description":"Suddenly Nṛsiṁhānanda arrived, and Jagadānanda and Śivānanda arranged for him to sit near them. Seeing them both so unhappy, Nṛsiṁhānanda inquired, \"Why do I see that you are both despondent?\""
 }

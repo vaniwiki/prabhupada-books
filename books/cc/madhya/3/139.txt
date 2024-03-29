@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 3.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.139",
     "description":"In the morning, after regular duties were completed and the Lord was chanting the Hare Kṛṣṇa mahā-mantra, the people accompanied Śacīmātā to the house of Advaita Ācārya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 6.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.105",
     "description":"No one can properly describe the sweetness of Lord Nityānanda's dancing. Śrī Caitanya Mahāprabhu personally comes to see it."
 }

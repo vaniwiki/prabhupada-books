@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.132",
-    "h1":"Text 132",
+    "h1":"Cc. Antya 3.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.132",
     "description":"\"Because I have taken the profession of a prostitute,\" she said, \"I have performed unlimited sinful acts. My lord, be merciful to me. Deliver my fallen soul.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 5.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.7",
     "description":"Śrī Caitanya Mahāprabhu replied, \"I do not know about topics concerning Lord Kṛṣṇa. I think that only Rāmānanda Rāya knows, for I hear these topics from him."
 }

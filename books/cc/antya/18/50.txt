@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 18.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.50",
     "description":"\"I shivered in fear and shed tears. My voice faltered, and all the hairs on my body stood up."
 }

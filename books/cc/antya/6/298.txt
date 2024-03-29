@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.298",
-    "h1":"Text 298",
+    "h1":"Cc. Antya 6.298",
+    "label":"Text 298",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.298",
     "description":"After thus advising him how to worship, Lord Śrī Caitanya Mahāprabhu personally offered Raghunātha dāsa the govardhana-śilā with His transcendental hand. As advised by the Lord, Raghunātha dāsa worshiped the śilā in great transcendental jubilation."
 }

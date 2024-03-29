@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 17.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.28",
     "description":"\"Because you brought Me back here, I could no longer hear the nectarean voices of Kṛṣṇa and the gopīs, nor could I hear the sounds of their ornaments or the flute.\""
 }

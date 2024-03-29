@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 17.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.34",
     "description":"Śrī Caitanya Mahāprabhu regularly led congregational chanting of the Hare Kṛṣṇa mahā-mantra in the house of Śrīvāsa Ṭhākura every night for one full year."
 }

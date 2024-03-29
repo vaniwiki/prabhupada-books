@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 10.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.24",
     "description":"Thus all the residents of Jagannātha Purī, which is also known as Puruṣottama, became anxious to meet Śrī Caitanya Mahāprabhu again."
 }

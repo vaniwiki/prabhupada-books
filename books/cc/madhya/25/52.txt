@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 25.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.52",
     "description":"\"The Pātañjala philosophers say that when one is self-realized, he understands the Lord. Similarly, according to the Vedas and Vedic principles, the original cause is the Supreme Personality of Godhead."
 }

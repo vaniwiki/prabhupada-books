@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 15.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.66",
     "description":"\"Such an incident took place on the last Vijayā-daśamī day. You can ask her about this incident and thus make her believe that I actually go there.\""
 }

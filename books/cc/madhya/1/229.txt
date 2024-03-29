@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 1.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.229",
     "description":"The Lord thought, \"If I go to Mathurā with such crowds behind Me, it would not be a very happy situation, for the atmosphere would be disturbed.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.329",
-    "h1":"Text 329",
+    "h1":"Cc. Madhya 9.329",
+    "label":"Text 329",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.329",
     "description":"Rāmānanda Rāya and Śrī Caitanya Mahāprabhu discussed Kṛṣṇa day and night, and thus they passed from five to seven days in great happiness."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.173",
-    "h1":"Text 173",
+    "h1":"Cc. Antya 6.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.173",
     "description":"Giving up the general path from village to village, he passed through the jungles, thinking with heart and soul about the lotus feet of Śrī Caitanya Mahāprabhu."
 }

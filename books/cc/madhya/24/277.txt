@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.277",
-    "h1":"Text 277",
+    "h1":"Cc. Madhya 24.277",
+    "label":"Text 277",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.277",
     "description":"\"When Parvata Muni saw the ecstatic loving symptoms of the hunter, he told Nārada, 'Certainly you are a touchstone.'"
 }

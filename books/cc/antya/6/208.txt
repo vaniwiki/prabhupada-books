@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.208",
-    "h1":"Text 208",
+    "h1":"Cc. Antya 6.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.208",
     "description":"Then Śrī Caitanya Mahāprabhu told Raghunātha dāsa, \"Go bathe in the sea. Then see Lord Jagannātha in the temple and return here to take your meal.\""
 }

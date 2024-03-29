@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 1.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.118",
     "description":"Śrī Caitanya Mahāprabhu was very glad to read about the false Sītā, and He remembered His meeting with Rāmadāsa Vipra, who was very sorry that mother Sītā had been kidnapped by Rāvaṇa."
 }

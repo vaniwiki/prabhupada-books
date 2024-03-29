@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.90",
-    "h1":"Text 90",
+    "h1":"Cc. Antya 5.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.90",
     "description":"Thus Lord Śrī Caitanya Mahāprabhu, accompanied by His associates, His pure devotees, enjoyed transcendental bliss in Jagannātha Purī [Nīlācala] preaching the bhakti cult in many ways."
 }

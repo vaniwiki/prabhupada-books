@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 1.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.112",
     "description":"When Śrī Caitanya Mahāprabhu ordered Rūpa Gosvāmī to read the verse they had previously heard, Rūpa Gosvāmī, because of great shyness, did not read it but instead remained silent."
 }

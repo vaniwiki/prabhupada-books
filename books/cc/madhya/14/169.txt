@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 14.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.169",
     "description":"\"When Śrīmatī Rādhārāṇī's body manifests the ornaments of many ecstatic symptoms, the ocean of Kṛṣṇa's happiness immediately displays transcendental waves."
 }

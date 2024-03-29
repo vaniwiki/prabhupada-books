@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.130",
-    "h1":"Text 130",
+    "h1":"Cc. Antya 10.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.130",
     "description":"He tasted a little of everything they contained and praised it all for its flavor and aroma."
 }

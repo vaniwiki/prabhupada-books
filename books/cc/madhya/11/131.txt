@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 11.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.131",
     "description":"Since the residence of Kāśī Miśra was insufficient, all the assembled devotees were very much overcrowded."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 2.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.52",
     "description":"Śivānanda and Jagadānanda knew of Nṛsiṁhānanda Brahmacārī's influence and love of Godhead. Therefore they now felt assured that he would certainly bring Śrī Caitanya Mahāprabhu."
 }

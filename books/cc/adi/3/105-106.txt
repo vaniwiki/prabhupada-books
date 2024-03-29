@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.105-106",
-    "h1":"Text 105-106",
+    "h1":"Cc. Ādi 3.105-106",
+    "label":"Text 105-106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.105-106",
     "description":"Advaita Ācārya considered the meaning of the verse in this way: Not finding any way to repay the debt He owes to one who offers Him a tulasī leaf and water, Lord Kṛṣṇa thinks, \"There is no wealth in My possession that is equal to a tulasī leaf and water.\""
 }

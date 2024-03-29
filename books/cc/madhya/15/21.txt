@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 15.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.21",
     "description":"As usual, Śrī Caitanya Mahāprabhu danced jubilantly. Everyone was covered with milk, yogurt and yellow turmeric water."
 }

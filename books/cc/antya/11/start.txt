@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11",
-    "h1":"Chapter 11",
+    "h1":"The Passing of Haridāsa Ṭhākura",
+    "label":"Chapter 11",
     "title":"Cc. Antya 11: The Passing of Haridāsa Ṭhākura",
     "description":""
 }

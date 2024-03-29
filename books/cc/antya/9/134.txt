@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.134",
-    "h1":"Text 134",
+    "h1":"Cc. Antya 9.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.134",
     "description":"\"I was lifted upon the cāṅga to be killed, but on the contrary I was honored with this silken cloth. This is all Your mercy."
 }

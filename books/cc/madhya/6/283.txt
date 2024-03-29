@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.283",
-    "h1":"Text 283",
+    "h1":"Cc. Madhya 6.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.283",
     "description":"I shall also describe in full detail how Sārvabhauma Bhaṭṭācārya perfectly rendered service to Śrī Caitanya Mahāprabhu by offering Him alms."
 }

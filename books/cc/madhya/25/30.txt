@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 25.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.30",
     "description":"\"In this Age of Kali, one cannot attain liberation without taking to the devotional service of the Lord. In this age, even if one does not chant the holy name of Kṛṣṇa perfectly, he still attains liberation very easily."
 }

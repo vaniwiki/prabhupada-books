@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 1.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.188",
     "description":"\"All glories to Śrī Kṛṣṇa Caitanya Mahāprabhu, the most merciful savior of the fallen souls! All glories to the Supreme Personality!"
 }

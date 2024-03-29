@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.39-40",
-    "h1":"Text 39-40",
+    "h1":"Cc. Madhya 1.39-40",
+    "label":"Text 39-40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.39-40",
     "description":"Śrīla Rūpa Gosvāmī also compiled the Dāna-keli-kaumudī, Stavāvalī, Līlā-cchanda, Padyāvalī, Govinda-virudāvalī, Mathurā-māhātmya and Nāṭaka-varṇana."
 }

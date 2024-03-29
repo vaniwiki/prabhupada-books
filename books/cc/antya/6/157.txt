@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.157",
-    "h1":"Text 157",
+    "h1":"Cc. Antya 6.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.157",
     "description":"At that time, all the devotees of Bengal were going to Jagannātha Purī to see Lord Caitanya Mahāprabhu."
 }

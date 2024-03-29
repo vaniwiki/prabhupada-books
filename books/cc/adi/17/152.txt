@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.152",
-    "h1":"Text 152",
+    "h1":"Cc. Ādi 17.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.152",
     "description":"The Lord said, \"My dear uncle, I have come to your home just to ask you some questions.\""
 }

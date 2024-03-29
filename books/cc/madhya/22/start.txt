@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22",
-    "h1":"Chapter 22",
+    "h1":"The Process of Devotional Service",
+    "label":"Chapter 22",
     "title":"Cc. Madhya 22: The Process of Devotional Service",
     "description":""
 }

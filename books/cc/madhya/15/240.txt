@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.240",
-    "h1":"Text 240",
+    "h1":"Cc. Madhya 15.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.240",
     "description":"\"At Dvārakā, You keep sixteen thousand queens in sixteen thousand palaces. Also, there are eighteen mothers and numerous friends and relatives of the Yadu dynasty."
 }

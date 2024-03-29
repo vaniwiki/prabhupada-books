@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 13.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.43",
     "description":"Two brothers named Mādhava Ghosh and Vāsudeva Ghosh also joined this group as responsive singers. Vakreśvara Paṇḍita was the dancer."
 }

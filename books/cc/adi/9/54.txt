@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 9.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.54",
     "description":"After describing the Lord's distribution of the fruit of love of Godhead, I now wish to describe the different branches of the tree of Lord Caitanya Mahāprabhu."
 }

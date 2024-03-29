@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 8.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.115",
     "description":"\"When Kṛṣṇa went out to search for Śrīmatī Rādhārāṇī, He wandered here and there. But not finding Her, He became afflicted by the arrow of Cupid and began to lament."
 }

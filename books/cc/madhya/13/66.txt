@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 13.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.66",
     "description":"Just as Lord Śrī Kṛṣṇa formerly performed the rāsa-līlā dance and other pastimes at Vṛndāvana, Lord Śrī Caitanya Mahāprabhu performed uncommon pastimes moment after moment."
 }

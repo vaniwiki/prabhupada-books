@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.125",
-    "h1":"Text 125",
+    "h1":"Cc. Antya 13.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.125",
     "description":"Taking permission from Śrī Caitanya Mahāprabhu, Raghunātha Bhaṭṭa then departed for Vṛndāvana. When he arrived there, he put himself under the care of Rūpa and Sanātana Gosvāmīs."
 }

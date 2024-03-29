@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.163",
-    "h1":"Text 163",
+    "h1":"Cc. Antya 6.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.163",
     "description":"When Yadunandana Ācārya entered the house of Raghunātha dāsa and stood in the courtyard, Raghunātha dāsa went there and fell down to offer his obeisances."
 }

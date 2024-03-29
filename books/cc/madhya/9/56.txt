@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.56",
-    "h1":"Text 56",
+    "h1":"Cc. Madhya 9.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.56",
     "description":"The plate was made of metal, and when its edge hit the head of the teacher, it cut him, and the teacher immediately fell to the ground unconscious."
 }

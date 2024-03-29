@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.109",
-    "h1":"Text 109",
+    "h1":"Cc. Ādi 4.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.109",
     "description":"At night He talked incoherently in grief with His arms around Svarūpa Dāmodara's neck. He spoke out His heart in ecstatic inspiration."
 }

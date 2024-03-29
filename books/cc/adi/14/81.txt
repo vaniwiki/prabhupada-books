@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.81",
-    "h1":"Text 81",
+    "h1":"Cc. Ādi 14.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.81",
     "description":"\"They made noisy sounds I could not understand. I guess they were offering prayers to someone.\""
 }

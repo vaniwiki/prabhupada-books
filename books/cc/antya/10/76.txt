@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 10.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.76",
     "description":"The ocean of transcendental bliss overflowed, and everyone present forgot his body, mind and home."
 }

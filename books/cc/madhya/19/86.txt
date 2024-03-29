@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 19.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.86",
     "description":"Vallabha Bhaṭṭācārya and his whole family then sprinkled that water over their heads. They then offered the Lord new underwear and outer garments."
 }

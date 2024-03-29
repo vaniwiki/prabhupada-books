@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.114",
-    "h1":"Text 114",
+    "h1":"Cc. Antya 13.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.114",
     "description":"Śrī Caitanya Mahāprabhu concluded, \"Come again to Nīlācala [Jagannātha Purī].\" After saying this, the Lord put His own neck beads on Raghunātha Bhaṭṭa's neck."
 }

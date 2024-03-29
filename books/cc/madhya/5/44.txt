@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 5.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.44",
     "description":"\"You do not have to flatly deny that you spoke such a thing. There is no need to make a false statement. Simply say that you do not remember what you said."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 14.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.81",
     "description":"Another duel took place between Śrīvāsa Ṭhākura and Gadādhara Paṇḍita, and yet another between Rāghava Paṇḍita and Vakreśvara Paṇḍita. Thus they all engaged in throwing water."
 }

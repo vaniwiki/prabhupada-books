@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 15.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.17",
     "description":"After His father and mother sprinkled water on His mouth with great haste, the Lord revived and said something wonderful they had never heard before."
 }

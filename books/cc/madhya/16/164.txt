@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 16.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.164",
     "description":"\"All these saintly people incessantly chant the Hare Kṛṣṇa mahā-mantra, and they all laugh, dance, chant and cry."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.147",
-    "h1":"Text 147",
+    "h1":"Cc. Antya 10.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.147",
     "description":"Because of Śivānanda Sena's glories, Śrī Caitanya Mahāprabhu ate all kinds of prasāda to honor his request. However, the Lord ate more than necessary, and therefore His mind was dissatisfied."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.247",
-    "h1":"Text 247",
+    "h1":"Cc. Madhya 8.247",
+    "label":"Text 247",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.247",
     "description":"Śrī Caitanya Mahāprabhu asked, \"Of the many capitalists who possess great riches, who is the topmost?\" Rāmānanda Rāya replied, \"He who is richest in love for Rādhā and Kṛṣṇa is the greatest capitalist.\""
 }

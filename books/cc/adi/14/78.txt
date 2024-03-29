@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 14.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.78",
     "description":"When the child was going out, there was a tinkling of ankle bells from His lotus feet. Hearing this, His father and mother were struck with wonder."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.265-266",
-    "h1":"Text 265-266",
+    "h1":"Cc. Madhya 16.265-266",
+    "label":"Text 265-266",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.265-266",
     "description":"\"After speaking to them in this way, I bade them farewell. As I was leaving, Sanātana told Me, 'It is not appropriate for one to be followed by a crowd of thousands when one goes to Vṛndāvana.'"
 }

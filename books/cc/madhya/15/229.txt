@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 15.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.229",
     "description":"\"The color of the rice is so attractive and its aroma so good that it appears Rādhā and Kṛṣṇa have directly taken it."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 2.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.37",
     "description":"\"Whenever I had the chance to see Lord Kṛṣṇa's face and His flute, even in a dream, two enemies would appear before Me. They were pleasure and Cupid, and since they took away My mind, I was not able to see the face of Kṛṣṇa to the full satisfaction of My eyes."
 }

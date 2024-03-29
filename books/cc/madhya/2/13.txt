@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 2.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.13",
     "description":"Sometimes Śrī Caitanya Mahāprabhu's hands, legs and head would all enter within His body, just like the withdrawn limbs of a tortoise."
 }

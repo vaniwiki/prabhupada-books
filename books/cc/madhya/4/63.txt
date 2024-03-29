@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 4.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.63",
     "description":"After the body of the Deity was cleansed, He was dressed very nicely with new garments. Then sandalwood pulp, tulasī garlands and other fragrant flower garlands were placed upon the body of the Deity."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.36",
-    "h1":"Text 36",
+    "h1":"Cc. Ādi 1.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.36",
     "description":"The instructing spiritual masters are Śrī Rūpa Gosvāmī, Śrī Sanātana Gosvāmī, Śrī Bhaṭṭa Raghunātha, Śrī Jīva Gosvāmī, Śrī Gopāla Bhaṭṭa Gosvāmī and Śrīla Raghunātha dāsa Gosvāmī."
 }

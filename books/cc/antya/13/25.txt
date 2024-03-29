@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 13.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.25",
     "description":"\"I could not go without Your Lordship's permission. Now You must give me permission, and I shall certainly go there.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 19.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.52",
     "description":"\"Yet why should I be angry with Kṛṣṇa? It is the fault of My own misfortune. The fruit of my sinful activities has ripened, and therefore Kṛṣṇa, who has always been dependent on My love, is now indifferent. This means that My misfortune is very strong.\""
 }

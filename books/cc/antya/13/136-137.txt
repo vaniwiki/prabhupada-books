@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.136-137",
-    "h1":"Text 136-137",
+    "h1":"Cc. Antya 13.136-137",
+    "label":"Text 136-137",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.136-137",
     "description":"In this chapter I have spoken about three topics: Jagadānanda Paṇḍita's visit to Vṛndāvana, Śrī Caitanya Mahāprabhu's listening to the song of the deva-dāsī at the temple of Jagannātha, and how Raghunātha Bhaṭṭa Gosvāmī achieved ecstatic love of Kṛṣṇa by the mercy of Śrī Caitanya Mahāprabhu."
 }

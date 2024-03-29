@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.166",
-    "h1":"Text 166",
+    "h1":"Cc. Antya 7.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.166",
     "description":"Gadādhara Paṇḍita is celebrated all over the world for his gentle behavior, his brahminical attributes and his steady love for Śrī Caitanya Mahāprabhu."
 }

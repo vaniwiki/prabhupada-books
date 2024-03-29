@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.64",
-    "h1":"Text 64",
+    "h1":"Cc. Madhya 8.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.64",
     "description":"After hearing Rāmānanda Rāya speak in this way, Lord Śrī Caitanya Mahāprabhu again rejected his statement and said, \"Go ahead and say something more.\" Rāmānanda Rāya then replied, \"Devotional service mixed with empiric knowledge is the essence of perfection.\""
 }

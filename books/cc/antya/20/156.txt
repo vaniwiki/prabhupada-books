@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.156",
-    "h1":"Text 156",
+    "h1":"Cc. Antya 20.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.156",
     "description":"Realized devotees are like bumblebees maddened by their own mellows at Kṛṣṇa's lotus feet. The scent of those lotus feet perfumes the entire world. Who is the realized soul that could give them up?"
 }

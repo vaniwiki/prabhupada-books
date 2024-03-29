@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 5.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.105",
     "description":"Assuming the form of Rudra, He destroys the creation. Thus creation, maintenance and dissolution are created by His will."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.144",
-    "h1":"Text 144",
+    "h1":"Cc. Ādi 4.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.144",
     "description":"\"If I see My sweetness in a mirror, I am tempted to taste it, but nevertheless I cannot."
 }

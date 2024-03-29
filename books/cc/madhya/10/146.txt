@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 10.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.146",
     "description":"\" 'The order of a great personality like a father must be executed without consideration because there is good fortune in such an order for both of us. In particular, there is good fortune for Me.' \""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.164",
-    "h1":"Text 164",
+    "h1":"Cc. Antya 7.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.164",
     "description":"No one can say how merciful the Lord is to Gadādhara Paṇḍita, but people know the Lord as Gadāira Gaura, \"the Lord Gaurāṅga of Gadādhara Paṇḍita.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 11.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.117",
     "description":"\"The man to whom the Lord shows His mercy by inspiring him within the heart takes shelter only of Lord Kṛṣṇa and abandons all Vedic and social customs."
 }

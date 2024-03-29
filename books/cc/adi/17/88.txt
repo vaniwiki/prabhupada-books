@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 17.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.88",
     "description":"In this way the Lord Performed saṅkīrtana every day, and at the end of saṅkīrtana there was a mango-eating festival every day for twelve months."
 }

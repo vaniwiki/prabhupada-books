@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 4.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.146",
     "description":"Haridāsa Ṭhākura offered obeisances to the lotus feet of Śrī Caitanya Mahāprabhu, and the Lord embraced him in ecstatic love."
 }

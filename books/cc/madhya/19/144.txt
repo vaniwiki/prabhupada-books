@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 19.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.144",
     "description":"\"The unlimited living entities can be divided into two divisions—those that can move and those that cannot move. Among living entities that can move, there are birds, aquatics and animals."
 }

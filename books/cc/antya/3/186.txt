@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.186",
-    "h1":"Text 186",
+    "h1":"Cc. Antya 3.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.186",
     "description":"\"Liberation is the insignificant result derived from a glimpse of awakening of offenseless chanting of the holy name."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.143",
-    "h1":"Text 143",
+    "h1":"Cc. Antya 12.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.143",
     "description":"\"Rāmāi Paṇḍita and Raghunātha Bhaṭṭa did the cooking, and I want to give them some rice and vegetables.\""
 }

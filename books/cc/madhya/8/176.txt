@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 8.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.176",
     "description":"\"The tilaka of good fortune is on Her beautiful broad forehead. Her various loving affairs are a gem, and Her heart is the locket."
 }

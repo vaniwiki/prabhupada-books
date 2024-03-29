@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.301",
-    "h1":"Text 301",
+    "h1":"Cc. Madhya 8.301",
+    "label":"Text 301",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.301",
     "description":"All the residents of Vidyānagara were of different faiths, but after seeing Śrī Caitanya Mahāprabhu, they abandoned their own faiths and became Vaiṣṇavas."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 21.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.82",
     "description":"\"Brahmā then said, 'Whatever I formerly decided about my knowledge, I have just now had personally verified.'"
 }

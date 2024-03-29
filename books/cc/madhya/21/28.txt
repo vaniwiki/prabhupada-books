@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 21.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.28",
     "description":"\"Let the glories of Lord Kṛṣṇa be! Who could be aware of all of them? His abode, Vṛndāvana, has many wonderful opulences. Just try to see them all."
 }

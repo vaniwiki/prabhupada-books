@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.162",
-    "h1":"Text 162",
+    "h1":"Cc. Antya 3.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.162",
     "description":"In that very room he cooked the flesh of a cow for three consecutive days. Then the next day he left, accompanied by his followers."
 }

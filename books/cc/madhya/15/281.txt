@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.281",
-    "h1":"Text 281",
+    "h1":"Cc. Madhya 15.281",
+    "label":"Text 281",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.281",
     "description":"Not only did Amogha beg the Lord's pardon, but he also began slapping his own cheeks, saying, \"By this mouth I have blasphemed You.\""
 }

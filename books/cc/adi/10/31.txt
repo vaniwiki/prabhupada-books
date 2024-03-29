@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 10.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.31",
     "description":"Dāmodara Paṇḍita, the tenth branch of the Caitanya tree, was so elevated in love of Lord Caitanya that he once unhesitatingly chastised the Lord with strong words."
 }

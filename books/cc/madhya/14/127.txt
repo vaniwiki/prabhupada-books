@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 14.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.127",
     "description":"Svarūpa Dāmodara replied, \"It is the nature of a girl afflicted by love to become immediately angry upon finding neglect on the part of her lover.\""
 }

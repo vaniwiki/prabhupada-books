@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.311",
-    "h1":"Text 311",
+    "h1":"Cc. Madhya 20.311",
+    "label":"Text 311",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.311",
     "description":"\"Lord Śiva is an associate of the external energy; therefore he is absorbed in the material quality of darkness. Lord Viṣṇu is transcendental to māyā and the qualities of māyā. Therefore He is the Supreme Personality of Godhead."
 }

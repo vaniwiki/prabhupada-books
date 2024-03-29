@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 10.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.126",
     "description":"Svarūpa Dāmodara then worshiped the lotus feet of Nityānanda Prabhu, and Nityānanda in turn embraced him in the ecstasy of love."
 }

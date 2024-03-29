@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.74",
-    "h1":"Text 74",
+    "h1":"Cc. Ādi 7.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.74",
     "description":"\" 'In this Age of Kali there is no religious principle other than the chanting of the holy name, which is the essence of all Vedic hymns. This is the purport of all scriptures.'"
 }

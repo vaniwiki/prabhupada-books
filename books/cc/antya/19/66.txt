@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 19.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.66",
     "description":"Svarūpa Dāmodara was very anxious, but then he had an idea. The following day, he and the other devotees considered it together."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 17.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.61",
     "description":"He returned home with an unhappy mind, but on the next day he met Lord Caitanya on the bank of the Ganges and spoke to Him."
 }

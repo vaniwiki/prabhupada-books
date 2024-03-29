@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 11.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.48",
     "description":"Upon hearing this, Śrī Caitanya Mahāprabhu immediately began great congregational chanting in the courtyard. Vakreśvara Paṇḍita was the chief dancer."
 }

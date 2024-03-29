@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 7.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.69",
     "description":"Śrī Caitanya Mahāprabhu asked the Bhaṭṭācārya to bless Him while he engaged in the devotional service of Lord Kṛṣṇa at home, so that by Sārvabhauma's mercy the Lord could return to Jagannātha Purī."
 }

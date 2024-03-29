@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 19.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.21",
     "description":"\"I am depending on you to carry out so many of my activities, but you have given up your governmental duties to sit here at home."
 }

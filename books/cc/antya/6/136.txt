@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.136",
-    "h1":"Text 136",
+    "h1":"Cc. Antya 6.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.136",
     "description":"\"One who experiences the fragrance of the lotus feet of Lord Kṛṣṇa does not even value the standard of happiness available in Brahmaloka, the topmost planet. And what to speak of heavenly happiness?"
 }

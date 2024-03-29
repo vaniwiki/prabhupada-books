@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 10.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.117",
     "description":"Śrī Svarūpa Dāmodara was very dear to Advaita Ācārya and Nityānanda Prabhu, and he was the life and soul of all the devotees, headed by Śrīvāsa Ṭhākura."
 }

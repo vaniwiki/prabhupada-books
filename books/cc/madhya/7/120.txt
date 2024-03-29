@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 7.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.120",
     "description":"Śrī Caitanya Mahāprabhu's mode of preaching has already been explained, and I shall not repeat the explanation. In whichever village the Lord entered, His behavior was the same."
 }

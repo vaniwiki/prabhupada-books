@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.95-96",
-    "h1":"Text 95-96",
+    "h1":"Cc. Madhya 20.95-96",
+    "label":"Text 95-96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.95-96",
     "description":"Formerly, Śrī Caitanya Mahāprabhu asked Rāmānanda Rāya spiritual questions, and by the Lord's causeless mercy, Rāmānanda Rāya could properly reply. Now, by the Lord's mercy, Sanātana Gosvāmī questioned the Lord, and Śrī Caitanya Mahāprabhu personally supplied the truth."
 }

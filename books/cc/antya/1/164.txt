@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.164",
-    "h1":"Text 164",
+    "h1":"Cc. Antya 1.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.164",
     "description":"'The transcendental vibration of Kṛṣṇa's flute blocked the movements of the rain clouds, struck the Gandharvas full of wonder, and agitated the meditation of great saintly persons like Sanaka and Sanandana. It created wonder in Lord Brahmā, wrought intense curiosity that agitated the mind of Bali Mahārāja, who was otherwise firmly fixed, made Mahārāja Ananta, the carrier of the planets, whirl around, and penetrated the strong coverings of the universe. Thus the sound of the flute in the hands of Kṛṣṇa created a wonderful situation.'"
 }

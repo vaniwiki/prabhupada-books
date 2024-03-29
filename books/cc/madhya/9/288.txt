@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.288",
-    "h1":"Text 288",
+    "h1":"Cc. Madhya 9.288",
+    "label":"Text 288",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.288",
     "description":"Upon seeing Śrī Caitanya Mahāprabhu in such an ecstatic mood, Śrī Raṅga Purī said, \"Your Holiness, please get up."
 }

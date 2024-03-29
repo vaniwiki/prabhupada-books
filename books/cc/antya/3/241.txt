@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.241",
-    "h1":"Text 241",
+    "h1":"Cc. Antya 3.241",
+    "label":"Text 241",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.241",
     "description":"\"As long as the vow to chant is unfulfilled, I do not desire anything else. When I finish my chanting, then I have an opportunity to do anything."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 1.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.123",
     "description":"Rāmānanda Rāya inquired, \"What kind of drama are you writing? We ca understand that it is a mine of conclusive statements.\""
 }

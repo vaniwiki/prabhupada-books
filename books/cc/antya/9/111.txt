@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.111",
-    "h1":"Text 111",
+    "h1":"Cc. Antya 9.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.111",
     "description":"On one hand Gopīnātha Paṭṭanāyaka was unable to clear his debt even by selling all his possessions, but on the other his salary was doubled, and he was honored with the silken wrapper."
 }

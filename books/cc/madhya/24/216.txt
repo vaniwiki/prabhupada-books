@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.216",
-    "h1":"Text 216",
+    "h1":"Cc. Madhya 24.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.216",
     "description":"\"The tapasvīs, those who undergo severe austerities and penances to elevate themselves to the higher planetary systems, are also in the same category. When such persons come in contact with a devotee, they give up all those practices and engage in Lord Kṛṣṇa's service."
 }

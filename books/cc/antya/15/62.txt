@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 15.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.62",
     "description":"Śrī Caitanya Mahāprabhu then recited the following verse, which was spoken by Śrīmatī Rādhārāṇī to Her dear friend Viśākhā."
 }

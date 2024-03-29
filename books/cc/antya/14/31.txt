@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 14.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.31",
     "description":"Just previously, Śrī Caitanya Mahāprabhu had been seeing Lord Jagannātha as the son of Mahārāja Nanda, Kṛṣṇa, in person."
 }

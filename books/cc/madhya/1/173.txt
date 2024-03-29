@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.173",
-    "h1":"Text 173",
+    "h1":"Cc. Madhya 1.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.173",
     "description":"Keśava Chatrī said, \"Out of jealousy your Muslim servant plots against Him. I think that you should not be very interested in Him, for there is no profit in it. Rather, there is simply loss.\""
 }

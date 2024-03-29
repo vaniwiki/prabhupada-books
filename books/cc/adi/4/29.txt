@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.29",
-    "h1":"Text 29",
+    "h1":"Cc. Ādi 4.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.29",
     "description":"\"The influence of yogamāyā will inspire the gopīs with the sentiment that I am their paramour."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.2",
-    "h1":"Text 2",
+    "h1":"Cc. Ādi 4.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.2",
     "description":"All glory to Lord Caitanya Mahāprabhu. All glory to Lord Nityānanda. All glory to Śrī Advaita Ācārya. And all glory to all the devotees of Lord Caitanya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.248",
-    "h1":"Text 248",
+    "h1":"Cc. Madhya 25.248",
+    "label":"Text 248",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.248",
     "description":"In the Sixth Chapter I have told how Sārvabhauma Bhaṭṭācārya was delivered, and in the Seventh Chapter I have described the Lord's tour of different holy places and His deliverance of Vāsudeva."
 }

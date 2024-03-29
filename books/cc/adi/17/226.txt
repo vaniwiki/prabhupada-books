@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.226",
-    "h1":"Text 226",
+    "h1":"Cc. Ādi 17.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.226",
     "description":"This is the incident concerning the Kazi and the Lord's mercy upon him. Anyone who hears this is also freed from all offenses."
 }

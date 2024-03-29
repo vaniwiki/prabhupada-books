@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 13.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.67",
     "description":"The gifts consisted of some sand from the site of the rāsa-līlā, a stone from Govardhana Hill, dry ripened pīlu fruits and a garland of small conchshells."
 }

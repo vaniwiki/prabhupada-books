@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.179",
-    "h1":"Text 179",
+    "h1":"Cc. Ādi 4.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.179",
     "description":"That promise has been broken by the worship of the gopīs, as Lord Kṛṣṇa Himself admits."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 15.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.83",
     "description":"\" 'After touching the ceiling above the door, you have touched the coconuts. Now they are no longer fit to be offered to Kṛṣṇa because they are contaminated.'"
 }

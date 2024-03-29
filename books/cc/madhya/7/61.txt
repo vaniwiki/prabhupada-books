@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 7.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.61",
     "description":"While Lord Śrī Caitanya Mahāprabhu was departing, Sārvabhauma Bhaṭṭācārya submitted the following at His lotus feet, \"My Lord, I have one final request that I hope You will kindly fulfill."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.79",
-    "h1":"Text 79",
+    "h1":"Cc. Ādi 17.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.79",
     "description":"One day the Lord performed saṅkīrtana with all His devotees, and when they were greatly fatigued they sat down."
 }

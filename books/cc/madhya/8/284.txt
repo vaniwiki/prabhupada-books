@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.284",
-    "h1":"Text 284",
+    "h1":"Cc. Madhya 8.284",
+    "label":"Text 284",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.284",
     "description":"When Rāmānanda Rāya fell to the ground unconscious, Caitanya Mahāprabhu touched his hand, and he immediately regained consciousness. But when he saw Lord Caitanya in the dress of a sannyāsī, he was struck with wonder."
 }

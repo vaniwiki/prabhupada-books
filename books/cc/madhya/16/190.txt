@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 16.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.190",
     "description":"Mukunda Datta then told the Mohammedan governor, \"My dear sir, please hear. Śrī Caitanya Mahāprabhu wishes to go to the bank of the Ganges."
 }

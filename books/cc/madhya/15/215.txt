@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.215",
-    "h1":"Text 215",
+    "h1":"Cc. Madhya 15.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.215",
     "description":"There were bharats made of mung dhal, of urd dhal and of sweet bananas, and there was sweet rice cake, coconut cake and various other cakes."
 }

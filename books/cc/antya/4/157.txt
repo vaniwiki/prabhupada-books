@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.157",
-    "h1":"Text 157",
+    "h1":"Cc. Antya 4.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.157",
     "description":"Hearing this, Śrī Caitanya Mahāprabhu, in an angry mood, began to chastise Jagadānanda Paṇḍita."
 }

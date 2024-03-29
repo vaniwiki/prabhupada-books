@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 7.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.3",
     "description":"The next year, all the devotees of Bengal went to visit Śrī Caitanya Mahāprabhu, and as previously, the Lord met each and every one of them."
 }

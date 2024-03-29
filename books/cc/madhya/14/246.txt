@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.246",
-    "h1":"Text 246",
+    "h1":"Cc. Madhya 14.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.246",
     "description":"During the Pāṇḍu-vijaya, Lord Jagannātha was carried, and while He was being carried, a bunch of silken ropes broke."
 }

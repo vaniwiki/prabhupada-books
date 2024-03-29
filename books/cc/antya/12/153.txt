@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.153",
-    "h1":"Text 153",
+    "h1":"Cc. Antya 12.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.153",
     "description":"Who can estimate the limit of Jagadānanda Paṇḍita's fortune? He himself is the example of his own great fortune."
 }

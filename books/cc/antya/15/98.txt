@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 15.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.98",
     "description":"The pastimes of Śrī Caitanya Mahāprabhu are unlimited; it is not possible to write of them properly. I can only give an indication of them as I try to introduce them."
 }

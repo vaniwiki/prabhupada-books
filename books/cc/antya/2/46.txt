@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 2.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.46",
     "description":"When the month of Pauṣa arrived, both Jagadānanda and Śivānanda collected all kinds of paraphernalia for the Lord's reception. Every day, they would wait until evening for the Lord to come."
 }

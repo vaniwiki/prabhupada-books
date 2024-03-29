@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 25.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.209",
     "description":"When Rūpa Gosvāmī heard that Śrī Caitanya Mahāprabhu had gone to Prayāga on the road along the banks of the Ganges, both Rūpa and his brother Anupama went that way to meet the Lord."
 }

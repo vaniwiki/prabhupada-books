@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.162",
-    "h1":"Text 162",
+    "h1":"Cc. Madhya 3.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.162",
     "description":"When the Lord performed kīrtana, He manifested all kinds of transcendental symptoms. He appeared stunned and trembling, His hair stood on end, and His voice faltered. There were tears and devastation."
 }

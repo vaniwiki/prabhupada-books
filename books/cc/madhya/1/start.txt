@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1",
-    "h1":"Chapter 1",
+    "h1":"The Later Pastimes of Lord Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 1",
     "title":"Cc. Madhya 1: The Later Pastimes of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }

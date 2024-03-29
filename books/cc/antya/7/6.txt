@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 7.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.6",
     "description":"With great respect, Śrī Caitanya Mahāprabhu seated Vallabha Bhaṭṭa near Him. Then Vallabha Bhaṭṭa very humbly began to speak."
 }

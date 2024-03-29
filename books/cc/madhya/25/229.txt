@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.229",
-    "h1":"Text 229",
+    "h1":"Cc. Madhya 25.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.229",
     "description":"Kāśī Miśra, Pradyumna Miśra, Dāmodara Paṇḍita, Haridāsa Ṭhākura and Śaṅkara Paṇḍita also came there to meet the Lord."
 }

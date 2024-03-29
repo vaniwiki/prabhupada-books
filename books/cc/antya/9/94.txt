@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 9.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.94",
     "description":"When King Pratāparudra heard all these details, he felt great pain in his mind.\"I shall give up all that is due from Gopīnātha Paṭṭanāyaka,\" he said, \"if Śrī Caitanya Mahāprabhu stays here at Jagannātha Purī."
 }

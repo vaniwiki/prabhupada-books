@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 1.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.61",
     "description":"A pure devotee constantly engaged in the loving service of the Lord is identical with the Lord, who is always seated in his heart."
 }

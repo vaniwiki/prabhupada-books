@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 19.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.75",
     "description":"This pastime of Śrī Caitanya Mahāprabhu's has been described very nicely by Raghunātha dāsa Gosvāmī in his book known as Gaurāṅga-stava-kalpavṛkṣa."
 }

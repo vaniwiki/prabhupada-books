@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.326",
-    "h1":"Text 326",
+    "h1":"Cc. Madhya 9.326",
+    "label":"Text 326",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.326",
     "description":"News spread in the village of Vidyānagara about the arrival of Śrī Caitanya Mahāprabhu, and everyone came to see Him once again."
 }

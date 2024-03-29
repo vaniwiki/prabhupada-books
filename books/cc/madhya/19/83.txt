@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 19.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.83",
     "description":"Seeing the circumstances, Śrī Caitanya Mahāprabhu finally became calm so that the boat was able to reach the shore of Āḍāila and land there."
 }

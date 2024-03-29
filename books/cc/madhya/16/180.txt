@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 16.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.180",
     "description":"Arriving in that way, the Mohammedan governor was respectfully brought before Śrī Caitanya Mahāprabhu by the mahā-pātra. The governor then stood before the Lord with folded hands, and he chanted the holy name of Kṛṣṇa."
 }

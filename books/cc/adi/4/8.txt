@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 4.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.8",
     "description":"To take away this burden, however, is not the work of the Supreme Personality of Godhead. The maintainer, Lord Viṣṇu, is the one who protects the universe."
 }

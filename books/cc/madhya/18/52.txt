@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 18.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.52",
     "description":"The great devotee Govinda, Vāṇī Kṛṣṇadāsa, Puṇḍarīkākṣa, Īśāna and Laghu Haridāsa also accompanied him."
 }

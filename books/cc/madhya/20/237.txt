@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.237",
-    "h1":"Text 237",
+    "h1":"Cc. Madhya 20.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.237",
     "description":"\"According to the Hayaśīrṣa-pañcarātra, there are sixteen personalities. I shall now describe that opinion of how They hold the weapons."
 }

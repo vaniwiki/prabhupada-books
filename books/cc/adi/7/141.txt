@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.141",
-    "h1":"Text 141",
+    "h1":"Cc. Ādi 7.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.141",
     "description":"\"It is only by devotional service, beginning with hearing, that one can approach the Supreme Personality of Godhead. That is the only means to approach Him."
 }

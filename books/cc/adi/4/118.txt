@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.118",
-    "h1":"Text 118",
+    "h1":"Cc. Ādi 4.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.118",
     "description":"\"O Paurṇamāsī, if Lord Hari had not descended in Mathurā with Śrīmatī Rādhārāṇī, this entire creation-and especially Cupid, the demigod of love-would have been useless.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.290",
-    "h1":"Text 290",
+    "h1":"Cc. Ādi 17.290",
+    "label":"Text 290",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.290",
     "description":"When Lord Kṛṣṇa saw Rādhārāṇī, He wanted to maintain the four-armed form to joke with Her."
 }

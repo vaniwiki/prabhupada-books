@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 16.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.42",
     "description":"Śrī Caitanya Mahāprabhu would wash His feet in this ditch, and then He would enter the temple to see Lord Jagannātha."
 }

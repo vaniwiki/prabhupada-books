@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 17.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.209",
     "description":"Both parrots flew onto the hand of the Lord and began to chant the transcendental qualities of Kṛṣṇa, and the Lord listened to them."
 }

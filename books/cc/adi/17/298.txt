@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.298",
-    "h1":"Text 298",
+    "h1":"Cc. Ādi 17.298",
+    "label":"Text 298",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.298",
     "description":"Śrīla Advaita Ācārya Prabhu appeared as an incarnation of a devotee. He is in the category of Kṛṣṇa, but He descended to this earth to propagate devotional service."
 }

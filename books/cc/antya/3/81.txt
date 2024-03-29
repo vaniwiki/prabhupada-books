@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 3.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.81",
     "description":"\"Previously, when Lord Rāmacandra left this world, He took with Him all the living entities of Āyodhyā. Then He filled Āyodhyā again with other living entities."
 }

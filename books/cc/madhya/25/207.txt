@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 25.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.207",
     "description":"When Rūpa Gosvāmī arrived at Mathurā, Subuddhi Rāya, out of love and affection for him, wanted to serve him in so many ways. He personally took Rūpa Gosvāmī to see all the twelve forests of Vṛndāvana."
 }

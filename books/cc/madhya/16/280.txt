@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.280",
-    "h1":"Text 280",
+    "h1":"Cc. Madhya 16.280",
+    "label":"Text 280",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.280",
     "description":"Gadādhara Paṇḍita said, \"Wherever You stay is Vṛndāvana, as well as the River Yamunā, the River Ganges and all other places of pilgrimage."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.102",
-    "h1":"Text 102",
+    "h1":"Cc. Ādi 4.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.102",
     "description":"The Lord came to propagate saṅkīrtana. That is an external purpose, as I have already indicated."
 }

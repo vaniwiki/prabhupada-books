@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.357",
-    "h1":"Text 357",
+    "h1":"Cc. Madhya 9.357",
+    "label":"Text 357",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.357",
     "description":"Śrī Caitanya Mahāprabhu continued, \"I received much pleasure from the talks of Rāmānanda Rāya.\""
 }

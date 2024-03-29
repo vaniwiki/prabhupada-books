@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 10.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.146",
     "description":"Śivānanda Sena had bought very costly remnants of Lord Jagannātha's food. He brought it in and offered it to Śrī Caitanya Mahāprabhu, who sat down to accept the prasāda with His associates."
 }

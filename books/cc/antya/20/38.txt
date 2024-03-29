@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.38",
-    "h1":"Text 38",
+    "h1":"Cc. Antya 20.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.38",
     "description":"Separation from Kṛṣṇa awoke various mellows of distress, lamentation and humility. Thus Śrī Caitanya Mahāprabhu spoke like a crazy man."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 10.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.108",
     "description":"Upon accepting sannyāsa, Puruṣottama Ācārya followed the regulative principles by giving up his tuft of hair and sacred thread, but he did not accept the saffron-colored dress. Also, he did not accept a sannyāsī title but remained as a naiṣṭhika-brahmacārī."
 }

@@ -1,13 +1,17 @@
 ---json
 {
     "name":"Cc. Antya-līlā",
-    "h1":"Antya-līlā",
+    "h1":"Cc. Antya-līlā",
+    "label":"Cc. Antya-līlā",
     "title":"Śrī Caitanya-caritāmṛta Antya-līlā",
     "description":""
 }
 ---
 
 ====== Śrī Caitanya-caritāmṛta Antya-līlā  ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:cc:antya:1:start|Śrīla Rūpa Gosvāmī's Second Meeting With the Lord]]
   - [[books:cc:antya:2:start|The Chastisement of Junior Haridāsa]]
@@ -30,3 +34,5 @@
   - [[books:cc:antya:19:start|The Inconceivable Behavior of Lord Śrī Caitanya Mahāprabhu]]
   - [[books:cc:antya:20:start|The Śikṣāṣṭaka Prayers]]
   - [[books:cc:antya:concluding_words|Concluding Words]]
+
+</card>

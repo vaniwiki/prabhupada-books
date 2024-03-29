@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 13.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.30",
     "description":"Paramānanda Purī and Brahmānanda Bhāratī were both personally given garlands and sandalwood pulp from the very hands of Śrī Caitanya Mahāprabhu. This increased their transcendental pleasure."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 18.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.150",
     "description":"\"I will be very happy if we all leave and take the path by the banks of the Ganges. Then we can have the opportunity to bathe in the Ganges in Prayāga during Makara-saṅkrānti."
 }

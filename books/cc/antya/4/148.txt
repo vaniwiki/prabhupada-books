@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.148",
-    "h1":"Text 148",
+    "h1":"Cc. Antya 4.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.148",
     "description":"Out of fear of committing offenses, Sanātana Gosvāmī did not come forward to meet Śrī Caitanya Mahāprabhu. The Lord, however, went forward to meet him."
 }

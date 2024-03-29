@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.228",
-    "h1":"Text 228",
+    "h1":"Cc. Madhya 19.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.228",
     "description":"\"On the platform of paternal love, the devotee considers himself the Lord's maintainer. Thus the Lord is the object of maintenance, like a son, and therefore this mellow is full of the four qualities of śānta-rasa, dāsya-rasa, fraternity and parental love. This is more transcendental nectar."
 }

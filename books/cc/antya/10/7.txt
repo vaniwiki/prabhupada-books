@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 10.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.7",
     "description":"During the rāsa dance, Kṛṣṇa asked all the gopīs to return home, but the gopīs neglected His order and stayed there for His association."
 }

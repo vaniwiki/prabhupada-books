@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 4.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.28",
     "description":"The boy replied, \"Sir, I am a cowherd boy, and I reside in this village. In My village, no one fasts."
 }

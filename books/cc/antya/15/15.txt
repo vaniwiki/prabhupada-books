@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 15.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.15",
     "description":"\"Lord Śrī Kṛṣṇa's beauty, the sound of His words and the vibration of His flute, His touch, His fragrance and the taste of His lips are full of an indescribable sweetness. When all these features attract My five senses at once, My senses all ride together on the single horse of My mind but want to go in five different directions."
 }

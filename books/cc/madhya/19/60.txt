@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 19.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.60",
     "description":"Śrī Caitanya Mahāprabhu selected His residence beside the confluence of the Ganges and Yamunā at a place called Triveṇī. The two brothers-Rūpa Gosvāmī and Śrī Vallabha-selected their residence near the Lord's."
 }

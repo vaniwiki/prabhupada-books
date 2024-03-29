@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.273",
-    "h1":"Text 273",
+    "h1":"Cc. Madhya 9.273",
+    "label":"Text 273",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.273",
     "description":"After hearing Śrī Caitanya Mahāprabhu, the ācārya of the Tattvavāda-sampradāya became very much ashamed. Upon observing Śrī Caitanya Mahāprabhu's rigid faith in Vaiṣṇavism, he was struck with wonder."
 }

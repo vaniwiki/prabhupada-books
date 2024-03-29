@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 5.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.10",
     "description":"\"A person who properly performs his regulative duties according to varṇa and āśrama but does not develop his dormant attachment for Kṛṣṇa or awaken his taste to hear and chant about Kṛṣṇa is certainly laboring fruitlessly.' \""
 }

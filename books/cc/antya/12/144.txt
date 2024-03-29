@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.144",
-    "h1":"Text 144",
+    "h1":"Cc. Antya 12.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.144",
     "description":"Śrī Caitanya Mahāprabhu then told Govinda, \"You remain here. When the Paṇḍita has taken his food, come inform Me."
 }

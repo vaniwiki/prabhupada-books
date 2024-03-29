@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 16.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.86",
     "description":"During the fifth year, the devotees from Bengal came to see the Ratha-yātrā festival. After seeing it, they did not stay but returned to Bengal."
 }

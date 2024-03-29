@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 13.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.79",
     "description":"She sang a gujjarī tune in a very sweet voice, and because the subject was Jayadeva Gosvāmī's Gīta-govinda, the song attracted the attention of the entire world."
 }

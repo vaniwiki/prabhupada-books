@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 16.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.11",
     "description":"He would beg remnants of food from such Vaiṣṇavas, and if he did not receive any, he would hide."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.192",
-    "h1":"Text 192",
+    "h1":"Cc. Antya 6.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.192",
     "description":"Raghunātha dāsa offered prayers at the lotus feet of all the devotees, headed by Svarūpa Dāmodara Gosvāmī. Seeing the special mercy Śrī Caitanya Mahāprabhu had bestowed upon Raghunātha dāsa, they embraced him also."
 }

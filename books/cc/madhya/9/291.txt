@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.291",
-    "h1":"Text 291",
+    "h1":"Cc. Madhya 9.291",
+    "label":"Text 291",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.291",
     "description":"After some moments, they came to their senses and became patient. Śrī Caitanya Mahāprabhu then informed Śrī Raṅga Purī about His relationship with Īśvara Purī."
 }

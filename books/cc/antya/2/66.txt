@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 2.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.66",
     "description":"Although Nṛsiṁha Brahmacārī felt jubilation within his heart to see Śrī Caitanya Mahāprabhu eating everything, for the sake of Lord Nṛsiṁhadeva he externally expressed disappointment."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 25.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.91",
     "description":"Śrī Caitanya Mahāprabhu replied, \"I am an ordinary living being, and therefore my knowledge is very insignificant. However, the meaning of the Brahma-sūtra is very grave because its author, Vyāsadeva, is the Supreme Personality of Godhead Himself."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.160",
-    "h1":"Text 160",
+    "h1":"Cc. Antya 2.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.160",
     "description":"A devotee returned to Navadvīpa from Prayāga and told everyone the details of Junior Haridāsa's suicide."
 }

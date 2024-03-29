@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 14.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.202",
     "description":"\"It is not at all possible to describe the unlimited pastimes of Śrī Kṛṣṇa, even though He Himself describes them in His incarnation of Sahasra-vadana, the thousand-mouthed Śeṣa Nāga.\""
 }

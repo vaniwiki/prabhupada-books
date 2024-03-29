@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.150",
-    "h1":"Text 150",
+    "h1":"Cc. Ādi 17.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.150",
     "description":"\"When a nephew is very angry, his maternal uncle is tolerant, and when the maternal uncle commits an offense, the nephew does not take it very seriously.\""
 }

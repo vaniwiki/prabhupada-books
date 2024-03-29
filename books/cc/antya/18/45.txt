@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 18.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.45",
     "description":"Seeing the activities of the fisherman, everyone was astonished. Svarūpa Dāmodara Gosvāmī, therefore, asked him for information."
 }

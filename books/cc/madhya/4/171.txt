@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.171",
-    "h1":"Text 171",
+    "h1":"Cc. Madhya 4.171",
+    "label":"Text 171",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.171",
     "description":"Lord Śrī Caitanya Mahāprabhu asked Nityānanda Prabhu to judge whether there was anyone within the world as fortunate as Mādhavendra Purī."
 }

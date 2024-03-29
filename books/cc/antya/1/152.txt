@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.152",
-    "h1":"Text 152",
+    "h1":"Cc. Antya 1.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.152",
     "description":"'Desiring the happiness of His association and embraces, My dear friend, I disregarded even My superiors and relaxed My shyness and gravity before them. Furthermore, although you are My best friend, more dear to Me than My own life, I have given you so much trouble. Indeed, I even put aside the vow of dedication to My husband, a vow kept by the most elevated women. Oh, alas! Although He is now neglecting Me, I am so sinful that I am still living. Therefore I must condemn My so-called patience.'"
 }

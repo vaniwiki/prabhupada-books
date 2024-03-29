@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 8.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.11",
     "description":"When He saw the River Godāvarī, the Lord remembered the River Yamunā, and when He saw the forest on the banks of the river, He remembered Śrī Vṛndāvana-dhāma."
 }

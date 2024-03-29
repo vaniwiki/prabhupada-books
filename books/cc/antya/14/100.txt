@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 14.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.100",
     "description":"The devotees loudly chanted the Hare Kṛṣṇa mantra near Śrī Caitanya Mahāprabhu and washed His body with cold water."
 }

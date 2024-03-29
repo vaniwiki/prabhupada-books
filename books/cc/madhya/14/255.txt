@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.255",
-    "h1":"Text 255",
+    "h1":"Cc. Madhya 14.255",
+    "label":"Text 255",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.255",
     "description":"Thus Śrī Caitanya Mahāprabhu showed the Ratha-yātrā ceremony to His devotees and performed the Vṛndāvana pastimes with them."
 }

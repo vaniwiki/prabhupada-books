@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 18.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.176",
     "description":"Upon hearing this challenge, the Pāṭhāna soldiers became hesitant. Then suddenly Śrī Caitanya Mahāprabhu regained consciousness."
 }

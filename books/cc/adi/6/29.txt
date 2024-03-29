@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.29",
-    "h1":"Text 29",
+    "h1":"Cc. Ādi 6.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.29",
     "description":"Since He has no other occupation than to teach devotional service, His name is Advaita Ācārya."
 }

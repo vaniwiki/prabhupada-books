@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 21.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.140",
     "description":"\"His slight smiling and fragrant illumination are compared to camphor, which enters the sweetness of the lips. That sweetness is transformed and enters into space as vibrations from the holes of His flute."
 }

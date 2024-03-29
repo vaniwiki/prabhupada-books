@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 6.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.196",
     "description":"Śrī Caitanya Mahāprabhu said, \"The Supreme Personality of Godhead, His different potencies and His transcendental qualities all have inconceivable prowess. It is not possible to explain them fully."
 }

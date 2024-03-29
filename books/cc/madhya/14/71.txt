@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 14.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.71",
     "description":"By chanting and dancing, Śrī Caitanya Mahāprabhu induced Advaita Ācārya to dance. Sometimes He induced Nityānanda, Haridāsa Ṭhākura and Acyutānanda to dance."
 }

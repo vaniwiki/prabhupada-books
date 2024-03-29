@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 4.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.64",
     "description":"The essential portion of the sandhinī potency is śuddha-sattva. Lord Kṛṣṇa's existence rests upon it."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 24.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.20",
     "description":"\"Krama also means power, trembling, a systematic method, argument, and a forcible attack by stepping forward. Thus Vāmana caused the three worlds to tremble."
 }

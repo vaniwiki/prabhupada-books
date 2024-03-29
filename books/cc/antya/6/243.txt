@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.243",
-    "h1":"Text 243",
+    "h1":"Cc. Antya 6.243",
+    "label":"Text 243",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.243",
     "description":"As He had previously done, He cleansed the Guṇḍicā temple and held a picnic feast in the garden with the devotees."
 }

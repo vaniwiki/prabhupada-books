@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.93",
-    "h1":"Text 93",
+    "h1":"Cc. Antya 13.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.93",
     "description":"Rāmadāsa had renounced everything and was going to see Lord Jagannātha. While traveling, he chanted the holy name of Lord Rāma twenty-four hours a day."
 }

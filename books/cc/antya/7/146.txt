@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 7.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.146",
     "description":"For this purpose Śrī Caitanya Mahāprabhu sometimes showed His apparent anger. Hearing of this anger inspired great fear in the heart of Gadādhara Paṇḍita."
 }

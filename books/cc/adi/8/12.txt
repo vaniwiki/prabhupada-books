@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 8.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.12",
     "description":"One who does not show respect unto this merciful Lord, Caitanya Mahāprabhu, or does not worship Him should be considered a demon, even if he is very exalted in human society."
 }

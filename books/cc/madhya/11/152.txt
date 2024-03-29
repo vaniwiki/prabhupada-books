@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 11.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.152",
     "description":"Murāri Gupta at first did not meet the Lord but rather remained outside the door, falling down like a stick to offer obeisances."
 }

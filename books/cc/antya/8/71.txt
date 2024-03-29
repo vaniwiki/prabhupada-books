@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 8.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.71",
     "description":"The next day, Paramānanda Purī and other devotees approached Śrī Caitanya Mahāprabhu with great humility and submission."
 }

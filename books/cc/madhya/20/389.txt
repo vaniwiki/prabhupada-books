@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.389",
-    "h1":"Text 389",
+    "h1":"Cc. Madhya 20.389",
+    "label":"Text 389",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.389",
     "description":"\"The sun rises in steps consisting of sixty palas. Sixty palas equal one daṇḍa, and eight daṇḍas comprise one prahara."
 }

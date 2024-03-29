@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.144",
-    "h1":"Text 144",
+    "h1":"Cc. Antya 2.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.144",
     "description":"After all the devotees saw this example, a mentality of fear grew among them. Therefore they all stopped talking with women, even in dreams."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 16.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.233",
     "description":"Hearing this request, Raghunātha dāsa's father agreed. Giving him many servants and materials, the father sent him to see Śrī Caitanya Mahāprabhu, requesting him to return soon."
 }

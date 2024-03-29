@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 10.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.34",
     "description":"Sadāśiva Paṇḍita, the twelfth branch, was always anxious to serve the lotus feet of the Lord. It was his good fortune that when Lord Nityānanda came to Navadvīpa He resided at his house."
 }

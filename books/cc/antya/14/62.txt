@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 14.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.62",
     "description":"After searching for some time, they came upon Śrī Caitanya Mahāprabhu lying in a corner by the northern side of the Siṁha-dvāra gate."
 }

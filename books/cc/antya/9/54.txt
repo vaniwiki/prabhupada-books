@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 9.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.54",
     "description":"Then the government took all the horses for a proper price, a time was set for payment of the balance, and Gopīnātha Paṭṭanāyaka was released."
 }

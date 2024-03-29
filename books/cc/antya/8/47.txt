@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 8.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.47",
     "description":"Śrī Caitanya Mahāprabhu knew that Rāmacandra Purī was criticizing Him before everyone, but whenever Rāmacandra Purī came to see Him, the Lord offered him respects with great attention."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 14.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.64",
     "description":"Their natural love for one another awakened, and although it was covered by childhood emotions, it became apparent that they were mutually attracted."
 }

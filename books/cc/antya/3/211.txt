@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.211",
-    "h1":"Text 211",
+    "h1":"Cc. Antya 3.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.211",
     "description":"Seeing the condition of Gopāla Cakravartī, everyone was astonished. Everyone praised the influence of Haridāsa Ṭhākura and offered him obeisances."
 }

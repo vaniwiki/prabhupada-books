@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 9.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.9",
     "description":"Dressed in different ways, people from the seven islands and nine khaṇḍas visited Śrī Caitanya Mahāprabhu."
 }

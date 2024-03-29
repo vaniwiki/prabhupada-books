@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.140",
-    "h1":"Text 140",
+    "h1":"Cc. Ādi 5.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.140",
     "description":"\"Who is this mystic power, and where has she come from? Is she a demigod or a demoness? She must be the illusory energy of My master, Lord Kṛṣṇa, for who else can bewilder Me?\""
 }

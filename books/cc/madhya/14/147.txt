@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 14.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.147",
     "description":"\"The restless heroine, however, sometimes chastises her lover with cruel words, sometimes pulls his ear and sometimes binds him with a flower garland."
 }

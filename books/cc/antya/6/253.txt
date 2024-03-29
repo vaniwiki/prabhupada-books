@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.253",
-    "h1":"Text 253",
+    "h1":"Cc. Antya 6.253",
+    "label":"Text 253",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.253",
     "description":"\"He chants the Hare Kṛṣṇa mahā-mantra all day and night. He never gives up the shelter of Śrī Caitanya Mahāprabhu, not even for a moment."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.95",
-    "h1":"Text 95",
+    "h1":"Cc. Ādi 6.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.95",
     "description":"Śeṣa Saṅkarṣaṇa, who holds all the planets on His head, expands Himself in different bodies to render service to Lord Kṛṣṇa."
 }

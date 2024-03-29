@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 10.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.187",
     "description":"As all the rivers flow into the sea, all the devotees throughout the country finally came to Śrī Caitanya Mahāprabhu's shelter."
 }

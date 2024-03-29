@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.292",
-    "h1":"Text 292",
+    "h1":"Cc. Ādi 17.292",
+    "label":"Text 292",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.292",
     "description":"The influence of Rādhārāṇī's pure ecstasy is so inconceivably great that it forced Kṛṣṇa to come to His original two-armed form."
 }

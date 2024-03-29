@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 21.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.89",
     "description":"\"In this way Lord Kṛṣṇa bade farewell to the four-headed Brahmā of this universe. We may thus understand that no one can calculate the extent of Kṛṣṇa's energies."
 }

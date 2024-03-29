@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.142",
-    "h1":"Text 142",
+    "h1":"Cc. Antya 3.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.142",
     "description":"Thus the prostitute became a celebrated devotee. She became very advanced in spiritual life, and many stalwart Vaiṣṇavas would come to see her."
 }

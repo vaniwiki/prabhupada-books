@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 20.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.56",
     "description":"\"If a gopī envious of Me satisfies Kṛṣṇa and Kṛṣṇa desires her, I shall not hesitate to go to her house and become her maidservant, for then My happiness will be awakened."
 }

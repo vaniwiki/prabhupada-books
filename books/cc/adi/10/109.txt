@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.109",
-    "h1":"Text 109",
+    "h1":"Cc. Ādi 10.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.109",
     "description":"The fifty-first branch of the Caitanya tree was Kṛṣṇadāsa Vaidya, the fifty-second was Paṇḍita Śekhara, the fifty-third was Kavicandra, and the fifty-fourth was Ṣaṣṭhīvara, who was a great saṅkīrtana performer."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 14.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.10",
     "description":"Svarūpa Dāmodara wrote short codes, whereas Raghunātha dāsa Gosvāmī wrote elaborate descriptions. I shall now describe Śrī Caitanya Mahāprabhu's activities more elaborately, as if fluffing out compressed cotton."
 }

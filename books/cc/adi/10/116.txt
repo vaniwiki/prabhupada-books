@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.116",
-    "h1":"Text 116",
+    "h1":"Cc. Ādi 10.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.116",
     "description":"Rāmadāsa Abhirāma was fully absorbed in the mellow of friendship. He made a flute of a bamboo stick with sixteen knots."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 7.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.54",
     "description":"After staying five days at the home of Sārvabhauma Bhaṭṭācārya, Śrī Caitanya Mahāprabhu personally asked his permission to depart for South India."
 }

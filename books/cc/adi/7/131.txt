@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.131",
-    "h1":"Text 131",
+    "h1":"Cc. Ādi 7.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.131",
     "description":"\"In all the Vedic sūtras and scriptures, it is Lord Kṛṣṇa who is to be understood, but the followers of Śaṅkarācārya have covered the real meaning of the Vedas with indirect explanations."
 }

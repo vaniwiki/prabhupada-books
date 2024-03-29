@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 5.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.75",
     "description":"I say that this kalā is Mahā-Viṣṇu. He is the Mahā-puruṣa, who is the source of the other puruṣas and who is all-pervading."
 }

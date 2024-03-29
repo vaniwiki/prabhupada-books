@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.117",
-    "h1":"Text 117",
+    "h1":"Cc. Antya 9.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.117",
     "description":"Upon hearing about Kāśī Miśra's tactics with the King, Śrī Caitanya Mahāprabhu said, \"Kāśī Miśra, what have you done? You have made Me indirectly take help from the King.\""
 }

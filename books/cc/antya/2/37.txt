@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 2.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.37",
     "description":"Śivānanda Sena had a nephew named Śrīkānta Sena, who by the grace of Śrī Caitanya Mahāprabhu was extremely fortunate."
 }

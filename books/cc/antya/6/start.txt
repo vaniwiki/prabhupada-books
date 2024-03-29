@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6",
-    "h1":"Chapter 6",
+    "h1":"The Meeting of Śrī Caitanya Mahāprabhu and Raghunātha dāsa Gosvāmī",
+    "label":"Chapter 6",
     "title":"Cc. Antya 6: The Meeting of Śrī Caitanya Mahāprabhu and Raghunātha dāsa Gosvāmī",
     "description":""
 }

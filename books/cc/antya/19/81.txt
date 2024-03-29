@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 19.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.81",
     "description":"A mild breeze was blowing, carrying the fragrance of aromatic flowers. The breeze had become a guru and was teaching all the trees and creepers how to dance."
 }

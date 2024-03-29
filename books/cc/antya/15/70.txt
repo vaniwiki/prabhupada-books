@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 15.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.70",
     "description":"\"Dear Kṛṣṇa, by seeing Your beautiful face decorated with tresses of hair, by seeing the beauty of Your earrings falling on Your cheeks, and by seeing the nectar of Your lips, the beauty of Your smiling glances, Your two arms, which assure complete fearlessness, and Your broad chest, whose beauty arouses conjugal attraction, we have simply surrendered ourselves to becoming Your maidservants.'"
 }

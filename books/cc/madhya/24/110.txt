@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 24.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.110",
     "description":"\"Characteristically, one in devotional service is attracted away from the impersonal Brahman platform. Be is offered a transcendental body to engage in Lord Kṛṣṇa's service."
 }

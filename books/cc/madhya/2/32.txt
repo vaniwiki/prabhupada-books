@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 2.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.32",
     "description":"\"The nectar from the lips of Lord Kṛṣṇa and His transcendental qualities and characteristics surpass the taste of the essence of all nectar, and there is no fault in tasting such nectar. If one does not taste it, he should die immediately after birth, and his tongue is to be considered no better than the tongue of a frog."
 }

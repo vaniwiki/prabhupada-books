@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 17.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.44",
     "description":"\"Kṛṣṇa's speech is far sweeter than nectar. Each of His jubilant words is full of meaning, and when His speech mixes with His smile, which is like camphor, the resultant sound and the deep meaning of Kṛṣṇa's words create various transcendental mellows."
 }

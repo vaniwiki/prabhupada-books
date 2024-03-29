@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 11.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.96",
     "description":"\"I have never before seen such ecstatic love, nor heard the vibration of the holy name of the Lord chanted in such a way, nor seen such dancing during saṅkīrtana.\""
 }

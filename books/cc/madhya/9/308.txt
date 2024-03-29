@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.308",
-    "h1":"Text 308",
+    "h1":"Cc. Madhya 9.308",
+    "label":"Text 308",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.308",
     "description":"One who constantly reads the Kṛṣṇa-karṇāmṛta can fully understand the beauty and melodious taste of the pastimes of Lord Kṛṣṇa."
 }

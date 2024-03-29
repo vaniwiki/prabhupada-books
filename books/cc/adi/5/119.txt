@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.119",
-    "h1":"Text 119",
+    "h1":"Cc. Ādi 5.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.119",
     "description":"The universe, which measures five hundred million yojanas in diameter, rests on one of His hoods like a mustard seed."
 }

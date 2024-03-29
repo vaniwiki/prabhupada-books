@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.256",
-    "h1":"Text 256",
+    "h1":"Cc. Madhya 24.256",
+    "label":"Text 256",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.256",
     "description":"\"The hunter then said, 'My dear sir, whatever you say I shall do.' Nārada immediately ordered him, 'First of all, break your bow. Then I shall tell you what is to be done.'"
 }

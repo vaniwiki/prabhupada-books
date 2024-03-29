@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 21.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.147",
     "description":"Śrī Caitanya Mahāprabhu then remained silent for a moment. Finally, adjusting things within His mind, He again spoke to Sanātana Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.209",
-    "h1":"Text 209",
+    "h1":"Cc. Ādi 5.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.209",
     "description":"He delivers all those who fall down before Him. Therefore He has delivered such a sinful and fallen person as me."
 }

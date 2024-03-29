@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.142",
-    "h1":"Text 142",
+    "h1":"Cc. Ādi 5.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.142",
     "description":"Lord Kṛṣṇa alone is the supreme controller, and all others are His servants. They dance as He makes them do so."
 }

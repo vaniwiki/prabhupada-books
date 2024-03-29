@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 14.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.72",
     "description":"Śrīla Raghunātha dāsa Gosvāmī has described these pastimes elaborately in his book Gaurāṅga-stava-kalpavṛkṣa."
 }

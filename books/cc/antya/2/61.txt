@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 2.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.61",
     "description":"He also separately offered dishes to Nṛsiṁhadeva, his worshipable Deity. Thus he divided all the food into three offerings. Then, outside the temple, he began to meditate upon the Lord."
 }

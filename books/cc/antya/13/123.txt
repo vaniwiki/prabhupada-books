@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 13.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.123",
     "description":"At a festival Śrī Caitanya Mahāprabhu had been given some unspiced betel and a garland of tulasī leaves fourteen cubits long. The garland had been worn by Lord Jagannātha."
 }

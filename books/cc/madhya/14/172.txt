@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.172",
-    "h1":"Text 172",
+    "h1":"Cc. Madhya 14.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.172",
     "description":"\"Approaching Her, Kṛṣṇa prohibits Śrīmatī Rādhārāṇī from picking flowers. He may also touch Her in front of Her friends."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 9.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.145",
     "description":"Thus the mercy of Śrī Caitanya Mahāprabhu was spoken of in the family of Bhavānanda Rāya. That mercy was clearly demonstrated, although it appeared to be something different."
 }

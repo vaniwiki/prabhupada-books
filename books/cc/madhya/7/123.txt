@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 7.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.123",
     "description":"With great affection and respect, that Kūrma brāhmaṇa made Śrī Caitanya Mahāprabhu eat all kinds of food. After that, the remnants were shared by all the members of the family."
 }

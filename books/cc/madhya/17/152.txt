@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 17.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.152",
     "description":"Wherever the Lord stopped to rest on the way to Mathurā, He delivered the holy name of Kṛṣṇa and ecstatic love of Kṛṣṇa. Thus He made the people dance."
 }

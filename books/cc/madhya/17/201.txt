@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.201",
-    "h1":"Text 201",
+    "h1":"Cc. Madhya 17.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.201",
     "description":"The trees and creepers, overloaded with fruits and flowers, fell down at the lotus feet of the Lord and greeted Him with various presentations as if they were friends."
 }

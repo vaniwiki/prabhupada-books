@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 19.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.129",
     "description":"\"They carry only waterpots, and they wear torn quilts. They always chant the holy names of Kṛṣṇa and discuss His pastimes. In great jubilation, they also dance."
 }

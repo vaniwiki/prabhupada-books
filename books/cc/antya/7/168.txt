@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.168",
-    "h1":"Text 168",
+    "h1":"Cc. Antya 7.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.168",
     "description":"Śrī Caitanya Mahāprabhu was actually always merciful within His heart, but He was sometimes externally negligent of His devotees. We should not be preoccupied with His external feature, however, for if we do so we shall be vanquished."
 }

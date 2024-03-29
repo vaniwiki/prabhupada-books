@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 22.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.115",
     "description":"\"On the path of regulative devotional service, one must observe the following items: (1) One must accept a bona fide spiritual master. (2) Accept initiation from him. (3) Serve him. (4) Receive instructions from the spiritual master and make inquiries in order to learn devotional service. (5) Follow in the footsteps of the previous ācāryas and follow the directions given by the spiritual master."
 }

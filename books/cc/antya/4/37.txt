@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 4.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.37",
     "description":"\"Vallabha replied, 'My dear brothers, how can I disobey your orders? Initiate me into the Kṛṣṇa mantra so that I may perform devotional service to Lord Kṛṣṇa.'"
 }

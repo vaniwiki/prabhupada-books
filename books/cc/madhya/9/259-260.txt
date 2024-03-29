@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.259-260",
-    "h1":"Text 259-260",
+    "h1":"Cc. Madhya 9.259-260",
+    "label":"Text 259-260",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.259-260",
     "description":"\" 'This process entails hearing, chanting and remembering the holy name, form, pastimes, qualities and entourage of the Lord, offering service according to the time, place and performer, worshiping the Deity, offering prayers, always considering oneself the eternal servant of Kṛṣṇa, making friends with Him and dedicating everything unto Him. These nine items of devotional service, when directly offered to Kṛṣṇa, constitute the highest attainment of life. This is the verdict of the revealed scriptures.'"
 }

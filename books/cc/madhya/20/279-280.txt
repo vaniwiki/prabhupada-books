@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.279-280",
-    "h1":"Text 279-280",
+    "h1":"Cc. Madhya 20.279-280",
+    "label":"Text 279-280",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.279-280",
     "description":"\"These universes are understood to be floating in air as the Mahā-Viṣṇu exhales. They are like atomic particles that float in sunshine and pass through the holes of a screen. All these universes are thus created by the exhalation of Mahā-Viṣṇu, and when Mahā-Viṣṇu inhales, they return to His body. The unlimited opulences of Mahā-Viṣṇu are completely beyond material conception."
 }

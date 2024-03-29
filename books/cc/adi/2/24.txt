@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.24",
-    "h1":"Text 24",
+    "h1":"Cc. Ādi 2.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.24",
     "description":"The Personality of Godhead is He who is described as the Absolute Whole in the Vedas, Bhāgavatam, Upaniṣads and other transcendental literatures. No one is equal to Him."
 }

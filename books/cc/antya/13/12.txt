@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 13.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.12",
     "description":"After asking Govinda to put aside the quilt and pillow, the Lord lay down on the dry plantain bark."
 }

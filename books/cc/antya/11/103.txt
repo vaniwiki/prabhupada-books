@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 11.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.103",
     "description":"At the last stage of Haridāsa Ṭhākura's life, Śrī Caitanya Mahāprabhu gave him His company and allowed him to touch Him. Thereafter, He took the body of Ṭhākura Haridāsa on His lap and personally danced with it."
 }

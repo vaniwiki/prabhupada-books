@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 10.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.13",
     "description":"\"A Vaiṣṇava travels to places of pilgrimage to purify them and reclaim fallen conditioned souls. This is one of the duties of a Vaiṣṇava. Actually, Śrī Caitanya Mahāprabhu is not a living entity but the Supreme Personality of Godhead Himself. Consequently, He is a fully independent controller, yet in His position as a devotee, He carries out the activities of a devotee.\""
 }

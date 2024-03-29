@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 21.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.47",
     "description":"\"The spiritual sky, which is full in all six opulences, is the interim residence of Lord Kṛṣṇa. It is there that an unlimited number of forms of Kṛṣṇa enjoy Their pastimes."
 }

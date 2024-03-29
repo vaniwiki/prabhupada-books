@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 20.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.46",
     "description":"Sanātana Gosvāmī then went to the house of Candraśekhara and sat down by the door. Understanding what was happening, Śrī Caitanya Mahāprabhu spoke to Candraśekhara."
 }

@@ -1,13 +1,17 @@
 ---json
 {
     "name":"Cc. Ādi-līlā",
-    "h1":"Ādi-līlā",
+    "h1":"Cc. Ādi-līlā",
+    "label":"Cc. Ādi-līlā",
     "title":"Śrī Caitanya-caritāmṛta Ādi-līlā",
     "description":""
 }
 ---
 
 ====== Śrī Caitanya-caritāmṛta Ādi-līlā ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   * [[books:cc:adi:preface|Preface]]
   * [[books:cc:adi:introduction|Introduction]]
@@ -29,3 +33,5 @@
   - [[books:cc:adi:15:start|The Lord's Paugaṇḍa-līlā]]
   - [[books:cc:adi:16:start|The Pastimes of the Lord in His Childhood and Youth]]
   - [[books:cc:adi:17:start|The Pastimes of Lord Caitanya Mahāprabhu in His Youth]]
+
+</card>

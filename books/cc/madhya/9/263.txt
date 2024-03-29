@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.263",
-    "h1":"Text 263",
+    "h1":"Cc. Madhya 9.263",
+    "label":"Text 263",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.263",
     "description":"\"In every revealed scripture there is condemnation of fruitive activities. It is advised everywhere to give up engagement in fruitive activities, for by executing them no one can attain the highest goal of life, love of Godhead."
 }

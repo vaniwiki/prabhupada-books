@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 3.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.41",
     "description":"The luster of His expansive body resembles molten gold. The deep sound of His voice conquers the thundering of newly assembled clouds."
 }

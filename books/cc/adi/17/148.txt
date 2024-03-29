@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.148",
-    "h1":"Text 148",
+    "h1":"Cc. Ādi 17.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.148",
     "description":"\"In our village relationship, Nīlāmbara Cakravartī Ṭhākura was my uncle. Such a relationship is stronger than a bodily relationship."
 }

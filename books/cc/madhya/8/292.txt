@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.292",
-    "h1":"Text 292",
+    "h1":"Cc. Madhya 8.292",
+    "label":"Text 292",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.292",
     "description":"For ten nights Lord Caitanya Mahāprabhu and Rāmānanda Rāya spent a happy time discussing the pastimes of Kṛṣṇa."
 }

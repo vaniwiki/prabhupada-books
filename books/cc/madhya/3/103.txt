@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 3.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.103",
     "description":"Śrī Advaita Ācārya fed the two Lords cloves and cardamom mixed with tulasī flowers. Thus there was a good flavor within Their mouths."
 }

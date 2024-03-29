@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.117",
-    "h1":"Text 117",
+    "h1":"Cc. Antya 10.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.117",
     "description":"Śrī Caitanya Mahāprabhu sat down to eat. Then Govinda offered Him the preparations one after another, and as he did so he spoke the name of the person who had given each one."
 }

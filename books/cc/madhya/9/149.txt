@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 9.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.149",
     "description":"\"Although Kṛṣṇa assumed the four-armed form of Nārāyaṇa, He could not attract the serious attention of the gopīs in ecstatic love."
 }

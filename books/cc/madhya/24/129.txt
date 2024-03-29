@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 24.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.129",
     "description":"\"There are many people who are liberated even in this lifetime. Some are liberated by discharging devotional service, and others are liberated through the philosophical speculative process."
 }

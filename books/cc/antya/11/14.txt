@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 11.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.14",
     "description":"Day after day the symptoms increased, and at night they increased even more. All these symptoms, such as transcendental anxiety, agitation, and talking like a madman, were present, just as they are described in the śāstras."
 }

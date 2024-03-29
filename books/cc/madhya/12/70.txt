@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 12.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.70",
     "description":"Some of the prominent devotees like Advaita Ācārya used to invite Śrī Caitanya Mahāprabhu to take His meals at their homes. The Lord accepted such invitations accompanied by His devotees."
 }

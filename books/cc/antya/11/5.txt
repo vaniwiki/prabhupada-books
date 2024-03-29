@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.5",
-    "h1":"Text 5",
+    "h1":"Cc. Antya 11.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.5",
     "description":"All glories to the transcendental form of Śrī Caitanya Mahāprabhu, who is Kṛṣṇa Himself, the Supreme Personality of Godhead. My dear Lord, kindly give me shelter at Your lotus feet by Your causeless mercy."
 }

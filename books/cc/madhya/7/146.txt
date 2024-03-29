@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 7.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.146",
     "description":"Being meek and humble, the brāhmaṇa Vāsudeva worried that he would become proud after being cured by the grace of Śrī Caitanya Mahāprabhu."
 }

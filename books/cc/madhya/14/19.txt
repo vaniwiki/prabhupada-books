@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 14.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.19",
     "description":"At that time, Śrī Caitanya Mahāprabhu displayed some of His divine opulences to the King, and He forbade him to disclose this to anyone."
 }

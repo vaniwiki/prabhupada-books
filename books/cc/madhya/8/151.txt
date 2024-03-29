@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 8.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.151",
     "description":"\"Kṛṣṇa has unlimited potencies, which can be divided into three main parts. These are the spiritual potency, the material potency and the marginal potency, which is known as the living entities."
 }

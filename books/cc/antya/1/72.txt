@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 1.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.72",
     "description":"During the Ratha-yātrā ceremony Rūpa Gosvāmī saw Lord Jagannātha. He also saw Lord Caitanya Mahāprabhu dancing and chanting in front of the ratha."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 10.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.75",
     "description":"His transcendental bliss increased at every moment. Therefore even by midafternoon the dancing had not ended."
 }

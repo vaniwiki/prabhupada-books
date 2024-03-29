@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.10",
-    "h1":"Text 10",
+    "h1":"Cc. Ādi 11.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.10",
     "description":"He is the main pillar in the hall of devotional service erected by Śrī Caitanya Mahāprabhu. He knew within Himself that He acted as the Supreme Lord Viṣṇu, but externally He was prideless."
 }

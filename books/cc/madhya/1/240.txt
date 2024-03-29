@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.240",
-    "h1":"Text 240",
+    "h1":"Cc. Madhya 1.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.240",
     "description":"When Śrī Caitanya Mahāprabhu visited all twelve places of Śrī Kṛṣṇa's pastimes, He became very agitated because of ecstasy. Balabhadra Bhaṭṭācārya somehow or other got Him out of Mathurā."
 }

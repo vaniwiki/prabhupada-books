@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20",
-    "h1":"Chapter 20",
+    "h1":"Lord Śrī Caitanya Mahāprabhu Instructs Sanātana Gosvāmī in the Science of the Absolute Truth",
+    "label":"Chapter 20",
     "title":"Cc. Madhya 20: Lord Śrī Caitanya Mahāprabhu Instructs Sanātana Gosvāmī in the Science of the Absolute Truth",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.140",
-    "h1":"Text 140",
+    "h1":"Cc. Ādi 10.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.140",
     "description":"Both Kāśīśvara and Govinda were Godbrothers of Śrī Caitanya Mahāprabhu, and thus the Lord duly honored them as soon as they arrived. But because Īśvara Purī had ordered them to give Caitanya Mahāprabhu personal service, the Lord accepted their service."
 }

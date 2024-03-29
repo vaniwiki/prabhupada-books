@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 20.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.3",
     "description":"While Sanātana Gosvāmī was imprisoned in Bengal, a letter arrived from Śrīla Rūpa Gosvāmī."
 }

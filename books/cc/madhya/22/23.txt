@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.23",
-    "h1":"Text 23",
+    "h1":"Cc. Madhya 22.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.23",
     "description":"\" 'This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.'"
 }

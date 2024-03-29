@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 19.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.44",
     "description":"\"Why does Providence continue the life of one who does not wish to liver? This thought aroused anger and lamentation. Śrī Caitanya Mahāprabhu then"
 }

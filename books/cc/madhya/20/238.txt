@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.238",
-    "h1":"Text 238",
+    "h1":"Cc. Madhya 20.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.238",
     "description":"\"Keśava is described differently as holding the lotus, conch, club and disc, and Mādhava is described as holding disc, club, conch and lotus in His hands."
 }

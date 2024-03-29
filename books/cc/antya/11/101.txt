@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 11.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.101",
     "description":"Thus I have spoken about the victorious passing away of Haridāsa Ṭhākura. Anyone who hears this narration will certainly fix his mind firmly in devotional service to Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 6.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.226",
     "description":"\" 'The prasāda of Lord Kṛṣṇa is to be eaten by gentlemen as soon as it is received; there should be no hesitation. There are no regulative principles concerning time and place. This is the order of the Supreme Personality of Godhead.' \""
 }

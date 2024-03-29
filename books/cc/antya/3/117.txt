@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.117",
-    "h1":"Text 117",
+    "h1":"Cc. Antya 3.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.117",
     "description":"When she saw that it was morning, the prostitute stood up and left. Coming before Rāmacandra Khān, she informed him of all the news."
 }

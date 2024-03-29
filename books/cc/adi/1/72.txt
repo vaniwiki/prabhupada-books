@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 1.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.72",
     "description":"\"When Lord Kṛṣṇa, surrounded by groups of cowherd girls, began the festivities of the rāsa dance, the Lord of all mystic powers placed Himself between each two girls.\""
 }

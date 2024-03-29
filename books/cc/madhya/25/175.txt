@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 25.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.175",
     "description":"When Śrī Caitanya Mahāprabhu went to take His bath in the Ganges and to see the temple of Viśveśvara, people would line up on both sides to see the Lord."
 }

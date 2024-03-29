@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 15.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.38",
     "description":"No one could understand what the brothers discussed between Themselves, but later all the devotees could guess what the subject matter was."
 }

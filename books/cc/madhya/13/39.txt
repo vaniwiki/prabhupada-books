@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 13.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.39",
     "description":"The five singers who responded to the singing of Śrīvāsa Ṭhākura were Gaṅgādāsa, Haridāsa, Śrīmān, Śubhānanda and Śrī Rāma Paṇḍita. Śrī Nityānanda Prabhu was appointed as a dancer."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 11.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.58",
     "description":"\"The Lord has already changed His mind due to Rāmānanda Rāya's description of your pure love for Him.\""
 }

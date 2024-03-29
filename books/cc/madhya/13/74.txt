@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.74",
-    "h1":"Text 74",
+    "h1":"Cc. Madhya 13.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.74",
     "description":"When Śrī Caitanya Mahāprabhu desired to jump high while dancing, He placed these nine people in the charge of Svarūpa Dāmodara."
 }

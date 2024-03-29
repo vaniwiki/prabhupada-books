@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.203",
-    "h1":"Text 203",
+    "h1":"Cc. Antya 1.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.203",
     "description":"Śrīla Rāmānanda Rāya replied to Śrī Caitanya Mahāprabhu, \"My Lord, You are the Supreme Personality of Godhead. If You like, You can cause even a wooden doll to dance."
 }

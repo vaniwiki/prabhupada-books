@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.110",
-    "h1":"Text 110",
+    "h1":"Cc. Ādi 4.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.110",
     "description":"Whenever a particular sentiment arose in His heart, Svarūpa Dāmodara satisfied Him by singing songs or reciting verses of the same nature."
 }

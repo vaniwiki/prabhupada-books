@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.323",
-    "h1":"Text 323",
+    "h1":"Cc. Antya 6.323",
+    "label":"Text 323",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.323",
     "description":"When Śrī Caitanya Mahāprabhu was taking another morsel of food, Svarūpa Dāmodara caught Him by the hand and said, \"It is not fit for You.\" Thus he forcibly took the food away."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.318",
-    "h1":"Text 318",
+    "h1":"Cc. Antya 6.318",
+    "label":"Text 318",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.318",
     "description":"Then he ate the hard inner portion of the rice with salt."
 }

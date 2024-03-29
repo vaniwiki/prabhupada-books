@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.138",
-    "h1":"Text 138",
+    "h1":"Cc. Madhya 21.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.138",
     "description":"\"Kṛṣṇa's body is a city of attractive features, and it is sweeter than sweet. His face, which is like the moon, is sweeter still, and the gentle smile on that moonlike face is like rays of moonshine."
 }

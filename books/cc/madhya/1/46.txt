@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 1.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.46",
     "description":"The first year after Śrī Caitanya Mahāprabhu accepted the renounced order of life, all the devotees, headed by Śrī Advaita Prabhu, went to see the Lord at Jagannātha Purī."
 }

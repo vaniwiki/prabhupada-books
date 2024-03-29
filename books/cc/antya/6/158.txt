@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.158",
-    "h1":"Text 158",
+    "h1":"Cc. Antya 6.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.158",
     "description":"Raghunātha dāsa could not accompany them, for they were so famous that he would immediately have been caught."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 8.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.26",
     "description":"Rāmacandra Purī was thus denounced by Mādhavendra Purī. Due to his offense, gradually material desire appeared within him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.142",
-    "h1":"Text 142",
+    "h1":"Cc. Antya 9.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.142",
     "description":"\"However, just obey one order from Me. Do not spend any of the King's revenue."
 }

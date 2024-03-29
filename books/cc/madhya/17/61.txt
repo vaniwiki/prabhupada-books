@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 17.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.61",
     "description":"Balabhadra Bhaṭṭācārya used to cook all kinds of vegetables gathered from the forest, and Śrī Caitanya Mahāprabhu was very pleased to accept these preparations."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 8.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.139",
     "description":"\"The very name Kṛṣṇa means that He attracts even Cupid. He is therefore attractive to everyone-male and female, moving and inert living entities. Indeed, Kṛṣṇa is known as the all-attractive one."
 }

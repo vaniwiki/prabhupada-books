@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 24.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.33",
     "description":"\"Devotees in Vṛndāvana who are friends of the Lord can increase their ecstatic love to the point of anurāga. Paternal affectionate lovers, Kṛṣṇa's father and mother, can increase their love of Godhead up to the anurāga point also."
 }

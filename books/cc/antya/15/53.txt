@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 15.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.53",
     "description":"\" 'Did He or did He not pay attention while You offered Him obeisances? Kindly give evidence supporting your words."
 }

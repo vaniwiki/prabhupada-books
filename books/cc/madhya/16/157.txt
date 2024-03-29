@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.157",
-    "h1":"Text 157",
+    "h1":"Cc. Madhya 16.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.157",
     "description":"For two or four days, the government officer served the Lord. He also gave the Lord detailed information of what was ahead."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 2.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.149",
     "description":"In a spiritual body resembling that of a Gandharva, Junior Haridāsa, although invisible, would sing at night for Śrī Caitanya Mahāprabhu to hear. No one but the Lord, however, knew of this."
 }

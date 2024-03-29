@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.161",
-    "h1":"Text 161",
+    "h1":"Cc. Antya 3.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.161",
     "description":"He arrested Rāmacandra Khān, along with his wife and sons, and then he continuously plundered the house and village for three days."
 }

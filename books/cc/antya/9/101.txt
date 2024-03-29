@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 9.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.101",
     "description":"Kāśī Miśra said, \"Excusing Gopīnātha Paṭṭanāyaka of all his debts will not make the Lord happy, for that is not His intention.\""
 }

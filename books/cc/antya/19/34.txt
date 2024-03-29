@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 19.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.34",
     "description":"Just as Śrīmatī Rādhārāṇī inquired from Her personal friend Viśākhā, Śrī Caitanya Mahāprabhu, reading that very verse, began speaking like a madman."
 }

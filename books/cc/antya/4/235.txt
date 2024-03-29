@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.235",
-    "h1":"Text 235",
+    "h1":"Cc. Antya 4.235",
+    "label":"Text 235",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.235",
     "description":"By the order of Nityānanda Prabhu, he went and actually achieved the result of His order, for he compiled many books for a long time and preached the cult of bhakti from Vṛndāvana."
 }

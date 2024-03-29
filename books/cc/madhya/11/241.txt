@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.241",
-    "h1":"Text 241",
+    "h1":"Cc. Madhya 11.241",
+    "label":"Text 241",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.241",
     "description":"As long as the devotees remained at Jagannātha Purī with Śrī Caitanya Mahāprabhu, the pastime of saṅkīrtana was performed with great jubilation every day."
 }

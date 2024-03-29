@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 7.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.118",
     "description":"By hearing the holy name of Kṛṣṇa, the entire country became Vaiṣṇava. It was as if the nectar of the holy name of Kṛṣṇa overflooded the entire country."
 }

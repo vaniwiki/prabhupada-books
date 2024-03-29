@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.135",
-    "h1":"Text 135",
+    "h1":"Cc. Madhya 13.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.135",
     "description":"While dancing, Śrī Caitanya Mahāprabhu again began to recite that verse, which He tasted in the association of Svarūpa Dāmodara Gosvāmī."
 }

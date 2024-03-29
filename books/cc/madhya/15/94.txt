@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 15.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.94",
     "description":"\"Vāsudeva Datta is very liberal. Every day, whatever income he receives, he spends. He does not keep any balance."
 }

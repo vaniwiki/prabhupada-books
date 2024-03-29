@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 13.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.71",
     "description":"Meanwhile, traveling very quickly, Jagadānanda Paṇḍita soon arrived in Jagannātha Purī, much to the joy of Śrī Caitanya Mahāprabhu and His devotees."
 }

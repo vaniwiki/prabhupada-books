@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 6.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.61",
     "description":"Among them were Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva and Purandara."
 }

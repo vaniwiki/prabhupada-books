@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.14-15",
-    "h1":"Text 14-15",
+    "h1":"Cc. Madhya 16.14-15",
+    "label":"Text 14-15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.14-15",
     "description":"Although the Lord told Nityānanda Prabhu to stay in Bengal and spread ecstatic love of God, Nityānanda left to go see Caitanya Mahāprabhu. Who can understand Nityānanda Prabhu's ecstatic love?"
 }

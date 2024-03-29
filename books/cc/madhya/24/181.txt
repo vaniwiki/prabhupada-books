@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.181",
-    "h1":"Text 181",
+    "h1":"Cc. Madhya 24.181",
+    "label":"Text 181",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.181",
     "description":"\" 'Dhṛti is the fullness felt by the absence of misery and brought about by receiving knowledge of the Supreme Lord and by obtaining pure love for Him. The lamentation that accrues from not obtaining a goal or by loss of something already attained does not affect this completeness.'"
 }

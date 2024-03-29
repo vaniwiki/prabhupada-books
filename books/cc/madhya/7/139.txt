@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 7.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.139",
     "description":"When the leper Vāsudeva came to Kūrma's house to see Caitanya Mahāprabhu, he was informed that the Lord had already left. The leper then fell to the ground unconscious."
 }

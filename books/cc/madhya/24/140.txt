@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 24.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.140",
     "description":"\" 'My dear Lord, devotional service unto You is the only auspicious path. If one gives it up simply for speculative knowledge or the understanding that these living beings are spirit souls and the material world is false, he undergoes a great deal of trouble. Be only gains troublesome and inauspicious activities. His actions are like beating a husk that is already devoid of rice. One's labor becomes fruitless.'"
 }

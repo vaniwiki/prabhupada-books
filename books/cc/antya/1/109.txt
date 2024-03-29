@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 1.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.109",
     "description":"When Haridāsa Ṭhākura and Rūpa Gosvāmī saw that Śrī Caitanya Mahāprabhu had come with His intimate devotees, they both immediately fell down like logs and offered prayers to their lotus feet."
 }

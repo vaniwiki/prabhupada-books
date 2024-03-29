@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.66",
-    "h1":"Text 66",
+    "h1":"Cc. Ādi 17.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.66",
     "description":"Lord Caitanya respected Advaita Ācārya as His spiritual master, but Advaita Ācārya Prabhu was greatly aggrieved by such behavior."
 }

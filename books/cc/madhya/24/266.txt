@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.266",
-    "h1":"Text 266",
+    "h1":"Cc. Madhya 24.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.266",
     "description":"\"The news that the hunter had become a Vaiṣṇava spread all over the village. Indeed, all the villagers brought alms and presented them to the Vaiṣṇava who was formerly a hunter."
 }

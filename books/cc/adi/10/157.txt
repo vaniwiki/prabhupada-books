@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.157",
-    "h1":"Text 157",
+    "h1":"Cc. Ādi 10.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.157",
     "description":"Later, by the order of Lord Caitanya, Raghunātha went to Vṛndāvana and remained there under the shelter of Śrīla Rūpa Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 16.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.160",
     "description":"Mahārāja Pratāparudra's government officer further informed Śrī Caitanya Mahāprabhu that He should stay at the Orissa border for some days so that a peaceful agreement could be negotiated with the Mohammedan governor. In that way, the Lord would be able to cross the river peacefully in a boat."
 }

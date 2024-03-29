@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.81",
-    "h1":"Text 81",
+    "h1":"Cc. Ādi 8.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.81",
     "description":"I took permission from Śrīla Vṛndāvana dāsa Ṭhākura by praying at his lotus feet, and upon receiving his order I have attempted to write this auspicious scripture."
 }

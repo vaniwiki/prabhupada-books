@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 2.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.7",
     "description":"When Śrī Caitanya Mahāprabhu was personally present, anyone in the world who met Him even once was fully satisfied and became spiritually advanced."
 }

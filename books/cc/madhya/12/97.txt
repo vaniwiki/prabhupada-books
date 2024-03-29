@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.97",
-    "h1":"Text 97",
+    "h1":"Cc. Madhya 12.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.97",
     "description":"In this way, Śrī Caitanya Mahāprabhu first washed the main temple and then thoroughly washed the ceiling, the walls, the floor, the sitting place [siṁhāsana] and everything else within the room."
 }

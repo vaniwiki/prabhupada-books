@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 12.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.118",
     "description":"As soon as they heard Śrī Caitanya Mahāprabhu say this, everyone became ashamed. Thus the devotees began to work with great attention."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 16.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.23",
     "description":"Jhaḍu Ṭhākura replied, \"It does not befit you to ask this of me. I belong to a very low-caste family, whereas you are a respectable rich gentleman.\""
 }

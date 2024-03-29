@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.77",
-    "h1":"Text 77",
+    "h1":"Cc. Antya 4.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.77",
     "description":"\"Why should you want to destroy another's property? Can't you consider what is right and wrong?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 7.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.54",
     "description":"\"I am a great Vaiṣṇava. Having learned all the conclusions of Vaiṣṇava philosophy, I can understand the meaning of Śrīmad-Bhāgavatam and explain it very well.\""
 }

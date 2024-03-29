@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.34",
-    "h1":"Text 34",
+    "h1":"Cc. Madhya 8.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.34",
     "description":"\"I can see that You have bestowed special mercy upon Sārvabhauma Bhaṭṭācārya. Therefore You have touched me, although I am untouchable. This is due only to his love for You."
 }

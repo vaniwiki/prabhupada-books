@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 19.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.106",
     "description":"The activities of Śrī Caitanya Mahāprabhu are undoubtedly uncommon, especially His talking like a madman. Therefore, one who hears of these pastimes should not put forward mundane arguments. He should simply hear the pastimes with full faith."
 }

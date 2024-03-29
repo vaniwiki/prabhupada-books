@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 4.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.205",
     "description":"When the Deities were laid down to rest, the priest came out of the temple and offered all twelve pots of sweet rice to Lord Caitanya Mahāprabhu."
 }

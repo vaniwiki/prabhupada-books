@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.142",
-    "h1":"Text 142",
+    "h1":"Cc. Ādi 4.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.142",
     "description":"\"There is constant competition between My sweetness and the mirror of Rādhā's love. They both go on increasing, but neither knows defeat."
 }

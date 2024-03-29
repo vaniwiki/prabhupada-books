@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 6.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.169",
     "description":"\"Śrīla Vyāsadeva presented Vedānta philosophy for the deliverance of conditioned souls, but if one hears the commentary of Śaṅkarācārya, everything is spoiled."
 }

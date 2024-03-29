@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.173",
-    "h1":"Text 173",
+    "h1":"Cc. Madhya 3.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.173",
     "description":"When Śrī Caitanya Mahāprabhu saw His mother's great eagerness, He became a little agitated. He therefore assembled all the devotees present and spoke to them."
 }

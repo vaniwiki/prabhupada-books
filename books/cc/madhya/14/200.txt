@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 14.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.200",
     "description":"\" 'Actually She has no desire to stop Kṛṣṇa's endeavor to touch Her body with His hands, yet Śrīmatī Rādhārāṇī, whose thighs are like the trunk of a baby elephant, protests His advances and, sweetly smiling, admonishes Him. At such times She cries without tears on Her charming face.'"
 }

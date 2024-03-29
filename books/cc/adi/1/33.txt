@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.33",
-    "h1":"Text 33",
+    "h1":"Cc. Ādi 1.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.33",
     "description":"I therefore worship the lotus feet of these six diversities of the one truth by invoking their benedictions."
 }

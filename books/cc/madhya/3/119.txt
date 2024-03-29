@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 3.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.119",
     "description":"When Advaita Ācārya danced in that way, Lord Caitanya felt ecstatic love for Kṛṣṇa, and because of His separation, the waves and flames of love increased."
 }

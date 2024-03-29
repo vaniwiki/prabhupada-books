@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 9.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.82",
     "description":"He would come daily to the house of Kāśī Miśra to massage his lotus feet. The King would also hear from him about how opulently Lord Jagannātha was served."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 5.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.106",
     "description":"\"One who has accepted the lotus feet of Śrī Caitanya Mahāprabhu as his life and soul can describe the pastimes of Lord Kṛṣṇa or the pastimes of Lord Śrī Caitanya Mahāprabhu."
 }

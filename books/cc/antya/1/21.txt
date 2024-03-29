@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 1.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.21",
     "description":"At night, when Śivānanda Sena returned and was taking his meal, he inquired from the servant whether the dog had gotten its meals."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 11.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.31",
     "description":"\"I have had one desire for a very long time. I think that quite soon, my Lord, You will bring to a close Your pastimes within this material world."
 }

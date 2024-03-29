@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.65",
-    "h1":"Text 65",
+    "h1":"Cc. Ādi 12.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.65",
     "description":"Vijaya Paṇḍita and Śrīrāma Paṇḍita were two important branches of Advaita Ācārya. There are innumerable branches, but I am unable to mention them all."
 }

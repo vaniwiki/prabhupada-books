@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 25.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.69",
     "description":"All the people were astonished to see the Lord's jubilation and humility and to hear Him talk in ecstasy. Indeed, all the residents of Benares [Kāśī] saw the bodily transformations and were astonished."
 }

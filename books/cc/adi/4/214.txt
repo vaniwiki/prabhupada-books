@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.214",
-    "h1":"Text 214",
+    "h1":"Cc. Ādi 4.214",
+    "label":"Text 214",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.214",
     "description":"Among the gopīs, Śrīmatī Rādhikā is the foremost. She surpasses all in beauty, in good qualities, in good fortune and, above all, in love."
 }

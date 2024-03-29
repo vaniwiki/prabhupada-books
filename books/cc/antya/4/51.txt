@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 4.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.51",
     "description":"In this way, Sanātana Gosvāmī stayed under the care of Śrī Caitanya Mahāprabhu. He would see the wheel on the pinnacle of the Jagannātha temple and offer respectful obeisances."
 }

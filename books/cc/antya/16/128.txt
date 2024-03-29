@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.128",
-    "h1":"Text 128",
+    "h1":"Cc. Antya 16.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.128",
     "description":"\"The nectar of Your lips and vibration of Your flute join together to loosen our belts and induce us to give up shame and religion, even before our superiors. As if catching us by our hair, they forcibly take us away and surrender us unto You to become Your maidservants. Hearing of these incidents, people laugh at us. We have thus become completely subordinate to the flute."
 }

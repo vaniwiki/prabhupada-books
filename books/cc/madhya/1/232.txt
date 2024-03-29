@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.232",
-    "h1":"Text 232",
+    "h1":"Cc. Madhya 1.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.232",
     "description":"Walking and walking, Śrī Caitanya Mahāprabhu arrived at Śāntipura and remained at the house of Advaita Ācārya for five to seven days."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 10.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.1",
     "description":"Let me offer my respectful obeisances unto Lord Śrī Caitanya Mahāprabhu, who is always pleased to accept anything given with faith and love by His devotees and is always ready to bestow mercy upon them."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 10.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.64",
     "description":"Govindānanda and Govinda Datta, the twenty-fifth and twenty-sixth branches of the tree, were performers of kīrtana in the company of Śrī Caitanya Mahāprabhu. Govinda Datta was the principal singer in Lord Caitanya's kīrtana party."
 }

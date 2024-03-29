@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 12.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.69",
     "description":"\"I ordered Śrī Nityānanda Prabhu not to leave Bengal, but He has transgressed My order and come to see Me. What can I say?"
 }

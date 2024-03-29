@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 16.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.106",
     "description":"When the Lord embraced the King, the King again and again offered prayers and obeisances. In this way, the Lord's mercy brought tears from the King, and the Lord's body was bathed with these tears."
 }

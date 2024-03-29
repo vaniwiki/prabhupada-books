@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 19.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.17",
     "description":"Śrī Sanātana Gosvāmī used to discuss Śrīmad-Bhāgavatam in an assembly of twenty or thirty learned brāhmaṇa scholars."
 }

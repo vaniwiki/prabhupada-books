@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.97",
-    "h1":"Text 97",
+    "h1":"Cc. Antya 12.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.97",
     "description":"Jagadānanda Paṇḍita thereafter went to meet Advaita Ācārya, who also was very happy to have him."
 }

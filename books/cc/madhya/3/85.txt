@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.85",
-    "h1":"Text 85",
+    "h1":"Cc. Madhya 3.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.85",
     "description":"Advaita Ācārya said, \"You are a reject paramahaṁsa, and You have accepted the renounced order of life just to fill up Your belly. I can understand that Your business is to give trouble to brāhmaṇas.\""
 }

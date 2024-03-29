@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.209",
-    "h1":"Text 209",
+    "h1":"Cc. Antya 1.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.209",
     "description":"Then, when Śrī Caitanya Mahāprabhu left with all of His devotees, Haridāsa Ṭhākura also embraced Śrīla Rūpa Gosvāmī."
 }

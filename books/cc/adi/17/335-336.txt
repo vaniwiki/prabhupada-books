@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.335-336",
-    "h1":"Text 335-336",
+    "h1":"Cc. Ādi 17.335-336",
+    "label":"Text 335-336",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.335-336",
     "description":"I wish to place the lotus feet of the Gosvāmīs on my head. Their names are Śrī Svarūpa Dāmodara, Śrī Rūpa Gosvāmī, Śrī Sanātana Gosvāmī, Śrī Raghunātha dāsa Gosvāmī and Śrī Jīva Gosvāmī. Placing their lotus feet on my head, always hoping to serve them, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps."
 }

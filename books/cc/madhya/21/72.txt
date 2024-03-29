@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 21.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.72",
     "description":"\"When all the helmets struck together at Kṛṣṇa's lotus feet, there was a tumultuous sound. It appeared that the helmets themselves were offering prayers unto Kṛṣṇa's lotus feet."
 }

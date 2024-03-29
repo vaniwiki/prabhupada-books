@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 22.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.37",
     "description":"\"If those who desire material enjoyment or merging into the existence of the Absolute Truth engage in the Lord's transcendental loving service, they will immediately attain shelter at Kṛṣṇa's lotus feet, although they did not ask for it. Kṛṣṇa is therefore very merciful."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.261",
-    "h1":"Text 261",
+    "h1":"Cc. Antya 3.261",
+    "label":"Text 261",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.261",
     "description":"Therefore I shall explain the reasons why people should have faith. Everyone who hears this will be faithful."
 }

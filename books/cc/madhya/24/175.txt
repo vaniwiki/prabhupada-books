@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 24.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.175",
     "description":"\"The word muni also means 'bird,' and 'bumblebee.' The word nirgrantha refers to foolish people. By the mercy of Kṛṣṇa, such creatures contact a sādhu [spiritual master] and thus engage in devotional service."
 }

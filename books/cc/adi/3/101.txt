@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.101",
-    "h1":"Text 101",
+    "h1":"Cc. Ādi 3.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.101",
     "description":"\"I shall worship Kṛṣṇa in a purified state of mind. I shall constantly petition Him in humbleness."
 }

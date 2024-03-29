@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 5.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.158",
     "description":"The pastime of the breaking of the staff is very deep. Only one whose devotion is fixed upon the lotus feet of the two Lords can understand it."
 }

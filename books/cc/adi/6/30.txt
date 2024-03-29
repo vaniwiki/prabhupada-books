@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 6.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.30",
     "description":"He is the spiritual master of all devotees and is the most revered personality in the world. By a combination of these two names, His name is Advaita Ācārya."
 }

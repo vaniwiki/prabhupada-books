@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.157",
-    "h1":"Text 157",
+    "h1":"Cc. Antya 5.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.157",
     "description":"Thereupon all the devotees accepted his association. Explaining his humble behavior, they introduced him to Śrī Caitanya Mahāprabhu."
 }

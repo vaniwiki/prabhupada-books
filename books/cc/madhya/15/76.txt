@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 15.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.76",
     "description":"\"When Rāghava Paṇḍita saw that the juice had been drunk from the coconuts, he was very pleased. He would then break the coconut, take out the pulp and put it on another plate."
 }

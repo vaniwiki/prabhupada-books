@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 1.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.202",
     "description":"\"We are the most fallen; therefore by showing us Your mercy, Your mercy is most successful. Let the power of Your mercy be exhibited throughout the entire universe!"
 }

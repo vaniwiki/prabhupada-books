@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.69",
-    "h1":"Text 69",
+    "h1":"Cc. Ādi 5.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.69",
     "description":"Thereafter, when He inhales, all the universes again enter His body."
 }

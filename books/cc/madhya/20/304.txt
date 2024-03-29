@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.304",
-    "h1":"Text 304",
+    "h1":"Cc. Madhya 20.304",
+    "label":"Text 304",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.304",
     "description":"\" 'The sun manifests his brilliance in a gem, although it is stone. Similarly, the original Personality of Godhead, Govinda, manifests His special power in a pious living entity. Thus the living entity becomes Brahmā and manages the affairs of the universe. Let me worship Govinda, the original Personality of Godhead.'"
 }

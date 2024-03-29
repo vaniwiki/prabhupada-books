@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 20.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.54",
     "description":"Catching his hand, Śrī Caitanya Mahāprabhu took Sanātana Gosvāmī inside and made him sit in an elevated place next to Him."
 }

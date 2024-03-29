@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 16.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.109",
     "description":"All the governmental officers also paid their respects to the Lord, and finally the King and his men were bade farewell by the son of mother Śacī."
 }

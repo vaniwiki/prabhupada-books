@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.185",
-    "h1":"Text 185",
+    "h1":"Cc. Madhya 3.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.185",
     "description":"\"I do not care for my personal happiness or unhappiness, but only for His happiness. Indeed, I accept His happiness as my happiness.\""
 }

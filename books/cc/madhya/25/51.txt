@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 25.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.51",
     "description":"\"The followers of nyāya, the philosophy of logic, maintain that the atom is the cause of the cosmic manifestation, and the Māyāvādī philosophers maintain that the impersonal Brahman effulgence is the cause of the cosmic manifestation."
 }

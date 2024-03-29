@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 15.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.152",
     "description":"\"Hearing this, I became very happy. I then raised Murāri Gupta and embraced him."
 }

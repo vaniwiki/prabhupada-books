@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 15.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.176",
     "description":"\"Māyā and her unlimited material universes are situated in that Causal Ocean. Indeed, māyā appears to be floating like a pot filled with mustard seeds."
 }

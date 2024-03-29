@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.217",
-    "h1":"Text 217",
+    "h1":"Cc. Ādi 4.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.217",
     "description":"All the other gopīs help increase the joy of Kṛṣṇa's pastimes with Rādhārāṇī. The gopīs act as the instruments of Their mutual enjoyment."
 }

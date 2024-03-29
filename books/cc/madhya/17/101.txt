@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 17.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.101",
     "description":"At Vārāṇasī there was a Mahārāṣṭrīyan brāhmaṇa who used to come daily to see Śrī Caitanya Mahāprabhu. This brāhmaṇa was simply astonished to see the Lord's personal beauty and ecstatic love for Kṛṣṇa."
 }

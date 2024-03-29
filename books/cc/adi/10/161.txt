@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.161",
-    "h1":"Text 161",
+    "h1":"Cc. Ādi 10.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.161",
     "description":"Every branch and subbranch of the tree is full of innumerable fruits and flowers. They inundate the world with the waters of love of Kṛṣṇa."
 }

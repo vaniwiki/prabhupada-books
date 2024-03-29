@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 10.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.16",
     "description":"\"Still, I endeavored very hard to keep Him here, but because He is the Supreme Personality of Godhead and completely independent, I was not successful.\""
 }

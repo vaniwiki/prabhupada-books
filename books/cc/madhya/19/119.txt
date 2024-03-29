@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 19.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.119",
     "description":"\"In the course of time, the transcendental news of Kṛṣṇa's pastimes in Vṛndāvana was almost lost. To enunciate explicitly those transcendental pastimes, Śrī Caitanya Mahāprabhu, at Prayāga, empowered Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī with the nectar of His mercy to carry out this work in Vṛndāvana."
 }

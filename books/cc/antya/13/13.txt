@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 13.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.13",
     "description":"Svarūpa Dāmodara said to the Lord, \"I cannot contradict Your supreme will, my Lord, but if You do not accept the bedding, Jagadānanda Paṇḍita will feel great unhappiness.\""
 }

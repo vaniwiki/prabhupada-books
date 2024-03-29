@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 10.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.149",
     "description":"Both Haridāsa senior and Haridāsa junior, who were musicians, as well as Rāmāi and Nandāi, used to stay with Govinda."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.186",
-    "h1":"Text 186",
+    "h1":"Cc. Madhya 4.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.186",
     "description":"\"This is the natural result of intense love of Godhead. The devotee does not consider personal inconveniences or impediments. In all circumstances he wants to serve the Supreme Personality of Godhead."
 }

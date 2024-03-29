@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.57",
-    "h1":"Text 57",
+    "h1":"Cc. Antya 16.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.57",
     "description":"Taking the remnants of the food of Vaiṣṇavas is so valuable that it induced Śrī Caitanya Mahāprabhu to offer Kālidāsa His supreme mercy."
 }

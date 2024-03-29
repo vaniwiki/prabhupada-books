@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 22.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.159",
     "description":"\"Actually the inhabitants of Vṛndāvana are very dear to Kṛṣṇa. If one wants to engage in spontaneous loving service, he must follow the inhabitants of Vṛndāvana and constantly engage in devotional service within his mind."
 }

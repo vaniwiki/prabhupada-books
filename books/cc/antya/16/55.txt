@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 16.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.55",
     "description":"Kālidāsa was standing outside the door, expecting the remnants of food from Śrī Caitanya Mahāprabhu. Knowing this, Mahāprabhu gave an indication to Govinda."
 }

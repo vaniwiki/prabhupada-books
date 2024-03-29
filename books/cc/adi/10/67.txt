@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.67",
-    "h1":"Text 67",
+    "h1":"Cc. Ādi 10.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.67",
     "description":"The twenty-ninth branch was Śrīdhara, a trader in banana-tree bark. He was a very dear servant of the Lord. On many occasions, the Lord played jokes on him."
 }

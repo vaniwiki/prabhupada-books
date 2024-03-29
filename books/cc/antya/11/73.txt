@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.73",
-    "h1":"Text 73",
+    "h1":"Cc. Antya 11.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.73",
     "description":"Approaching the Siṁha-dvāra gate, Śrī Caitanya Mahāprabhu spread His cloth and began to beg prasāda from all the shopkeepers there."
 }

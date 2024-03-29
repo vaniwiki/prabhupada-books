@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 1.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.189",
     "description":"\"Sir, we belong to the lowest class of men, and our associates and employment are also of the lowest type. Therefore we cannot introduce ourselves to You. We feel very much ashamed, standing here before You."
 }

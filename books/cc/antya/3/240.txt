@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.240",
-    "h1":"Text 240",
+    "h1":"Cc. Antya 3.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.240",
     "description":"\"I have been initiated into a vow to perform a great sacrifice by chanting the holy name a certain number of times every day."
 }

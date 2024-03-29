@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.369",
-    "h1":"Text 369",
+    "h1":"Cc. Madhya 20.369",
+    "label":"Text 369",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.369",
     "description":"\"Some śaktyāveśa-avatāras are the four Kumāras, Nārada, Mahārāja Pṛthu and Paraśurāma. When a living being is empowered to act as Lord Brahmā, he is also considered a śaktyāveśa-avatāra."
 }

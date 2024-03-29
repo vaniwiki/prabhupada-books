@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 3.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.72",
     "description":"Śrī Advaita Prabhu and Śrī Nityānanda Prabhu are both plenary portions of Lord Caitanya. Thus They are the limbs [aṅgas] of His body. The parts of these two limbs are called the upāṅgas."
 }

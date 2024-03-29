@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 20.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.19",
     "description":"The palmist said, \"This man Sanātana possesses eight gold coins.\" Hearing this, the landlord was very pleased and spoke the following to Sanātana Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 19.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.65",
     "description":"In this state of madness, Śrī Caitanya Mahāprabhu's mind was unsteady. Whatever He said or did was all symptomatic of madness."
 }

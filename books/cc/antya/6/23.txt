@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 6.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.23",
     "description":"Indeed, the caudhurī was afraid of Raghunātha dāsa because Raghunātha dāsa belong to the kāyastha community. Although the caudhurī would chastise him with oral vibrations, he was afraid to beat him."
 }

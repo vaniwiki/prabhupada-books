@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 7.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.29",
     "description":"Actually the Lord was controlled by the good qualities of all His devotees. On the pretense of attributing faults, He tasted all these qualities."
 }

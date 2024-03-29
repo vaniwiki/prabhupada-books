@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 14.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.128",
     "description":"While Svarūpa Dāmodara and Śrī Caitanya Mahāprabhu were talking, the procession of the goddess of fortune came by. She was riding upon a golden palanquin carried by four men and bedecked with a variety of jewels."
 }

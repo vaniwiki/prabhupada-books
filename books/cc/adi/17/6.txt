@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 17.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.6",
     "description":"By dint of pride in His education, Śrī Caitanya Mahāprabhu, not caring for anyone else, defeated all kinds of learned scholars while executing His studies."
 }

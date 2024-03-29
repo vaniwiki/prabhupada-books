@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 3.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.53",
     "description":"My dear brothers, please hear all these glories of Lord Caitanya. This verse clearly summarizes His activities and characteristics."
 }

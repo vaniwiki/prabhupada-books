@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.15",
-    "h1":"Text 15",
+    "h1":"Cc. Ādi 1.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15",
     "description":"Glory to the all-merciful Rādhā and Madana-mohana! I am lame and ill-advised, yet They are my directors, and Their lotus feet are everything to me."
 }

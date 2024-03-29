@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 7.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.149",
     "description":"In the association of Gadādhara Paṇḍita, his mind was converted, and he dedicated his mind to worshiping Kiśora-gopāla, Kṛṣṇa as a young boy."
 }

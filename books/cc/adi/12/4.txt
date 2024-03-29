@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 12.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.4",
     "description":" Śrī Advaita Prabhu was the second big branch of the tree. There are many subbranches, but it is impossible to mention them all."
 }

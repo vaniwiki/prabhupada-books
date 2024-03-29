@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 18.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.98",
     "description":"When the people saw Śrī Caitanya Mahāprabhu, they actually saw Kṛṣṇa, but because they were following their own imperfect knowledge, they accepted the wrong thing as Kṛṣṇa."
 }

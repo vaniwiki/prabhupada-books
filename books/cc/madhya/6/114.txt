@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 6.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.114",
     "description":"According to the instructions of Sārvabhauma Bhaṭṭācārya, Gopīnātha Ācārya went to Śrī Caitanya Mahāprabhu and invited Him on the Bhaṭṭācārya's behalf."
 }

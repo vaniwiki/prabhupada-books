@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.20",
-    "h1":"Text 20",
+    "h1":"Cc. Antya 7.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.20",
     "description":"\"Lord Nityānanda Prabhu, the avadhūta, is also directly the Supreme Personality of Godhead. He is always intoxicated with the madness of ecstatic love. Indeed, He is an ocean of love of Kṛṣṇa."
 }

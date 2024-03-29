@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 10.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.49",
     "description":"At this time Bhavānanda Rāya appeared with four of his sons, and all of them fell down at the lotus feet of Śrī Caitanya Mahāprabhu."
 }

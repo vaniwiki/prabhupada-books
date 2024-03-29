@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 10.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.125",
     "description":"\"I gave up Your company, but You did not give me up. By Your rope of mercy You have bound me by the neck and brought me back again to Your lotus feet.\""
 }

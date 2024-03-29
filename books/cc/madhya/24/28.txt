@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 24.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.28",
     "description":"\"First we take the word bhukti [material enjoyment], which is of unlimited variety. We may also take the word siddhi [perfection], which has eighteen varieties. Similarly, the word mukti has five varieties."
 }

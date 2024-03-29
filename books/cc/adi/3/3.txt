@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 3.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.3",
     "description":"I have given the purport of the third verse. Now, O devotees, please listen to the meaning of the fourth with full attention."
 }

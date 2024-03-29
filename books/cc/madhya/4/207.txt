@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 4.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.207",
     "description":"The seven remaining pots were pushed forward and delivered to the priest. Then the five pots of sweet rice the Lord had accepted were distributed among the five devotees, and they ate the prasāda."
 }

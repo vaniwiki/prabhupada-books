@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 11.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.196",
     "description":"When Nityānanda Prabhu, Jagadānanda Prabhu, Dāmodara Prabhu and Mukunda Prabhu met Haridāsa Ṭhākura, they all became very much pleased."
 }

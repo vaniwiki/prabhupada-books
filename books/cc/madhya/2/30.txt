@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 2.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.30",
     "description":"\"My dear friends, please hear Me. I have lost all providential strength. Without Kṛṣṇa, My body, consciousness and mind, as well as all My senses, are useless."
 }

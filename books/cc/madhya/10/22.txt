@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 10.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.22",
     "description":"After saying this, the King became very anxious for the Lord to return. Sārvabhauma Bhaṭṭācārya then went to Kāśī Miśra to convey the King's desire."
 }

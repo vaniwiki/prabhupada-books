@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 18.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.112",
     "description":"\"A sannyāsī in the renounced order is certainly part and parcel of the complete whole, just as a shining molecular particle of sunshine is part and parcel of the sun itself. Kṛṣṇa is like the sun, full of six opulences, but the living entity is only a fragment of the complete whole."
 }

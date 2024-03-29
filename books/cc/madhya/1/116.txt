@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 1.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.116",
     "description":"After that, Lord Caitanya Mahāprabhu delivered the celebrated Sapta-tāla trees, took His bath at Setubandha Rāmeśvara and visited the temple of Lord Śiva known as Rāmeśvara."
 }

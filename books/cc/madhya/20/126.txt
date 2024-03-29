@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 20.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.126",
     "description":"\"When one attains the transcendental bliss of an intimate relationship with Kṛṣṇa, he renders service to Him and tastes the mellows of Kṛṣṇa consciousness."
 }

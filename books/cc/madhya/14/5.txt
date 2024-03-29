@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 14.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.5",
     "description":"Following Sārvabhauma Bhaṭṭācārya's instructions, the King had given up his royal dress. He now entered the garden in the dress of a Vaiṣṇava."
 }

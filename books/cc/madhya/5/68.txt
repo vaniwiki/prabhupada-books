@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 5.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.68",
     "description":"\"Still this brāhmaṇa insisted. Again and again he asked me to accept his proposal, saying, 'I have given you my daughter. Please accept her.'"
 }

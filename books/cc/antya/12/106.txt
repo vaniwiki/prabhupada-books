@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 12.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.106",
     "description":"\"It is his desire that Your Lordship apply a little of this oil on Your head so that blood pressure due to bile and air will be considerably diminished."
 }

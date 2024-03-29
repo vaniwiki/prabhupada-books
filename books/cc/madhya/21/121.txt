@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.121",
-    "h1":"Text 121",
+    "h1":"Cc. Madhya 21.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.121",
     "description":"\"Beauty, humility, mercy, merit, patience and expert intelligence are all manifest in Kṛṣṇa. But besides these, Kṛṣṇa has other qualities like good behavior, mildness and magnanimity. He also performs welfare activities for the whole world. All these qualities are not visible in expansions like Nārāyaṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.80",
-    "h1":"Text 80",
+    "h1":"Cc. Antya 1.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.80",
     "description":"After writing this verse on a palm leaf, Rūpa Gosvāmī put it somewhere in his thatched roof and went to bathe in the sea."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.295",
-    "h1":"Text 295",
+    "h1":"Cc. Antya 6.295",
+    "label":"Text 295",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.295",
     "description":"Śrī Caitanya Mahāprabhu continued, \"Worship this stone in the mode of goodness like a perfect brāhmaṇa, for by such worship you will surely attain ecstatic love of Kṛṣṇa without delay."
 }

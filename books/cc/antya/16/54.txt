@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 16.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.54",
     "description":"Having offered obeisances to Lord Nṛsiṁhadeva, Śrī Caitanya Mahāprabhu visited the temple of Lord Jagannātha. Then He returned to His residence, finished His noon duties and took His lunch."
 }

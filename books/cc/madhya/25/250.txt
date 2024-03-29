@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.250",
-    "h1":"Text 250",
+    "h1":"Cc. Madhya 25.250",
+    "label":"Text 250",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.250",
     "description":"In the Ninth Chapter I have described the Lord's tour of South India and the different places of pilgrimage. In the Tenth Chapter I have described the meeting of all the devotees of the Lord."
 }

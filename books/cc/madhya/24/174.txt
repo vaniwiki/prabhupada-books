@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 24.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.174",
     "description":"\"Another meaning of ātmā is dhṛti, or endurance. A person who endeavors with endurance is ātmārāma. With endurance, such a person engages in devotional service."
 }

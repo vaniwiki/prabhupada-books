@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.5",
-    "h1":"Text 5",
+    "h1":"Cc. Antya 15.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.5",
     "description":"The Lord would maintain Himself in three kinds of consciousness: sometimes He merged totally in ecstatic emotion, sometimes He was in partial external consciousness and sometimes in full external consciousness."
 }

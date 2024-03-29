@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.112",
-    "h1":"Text 112",
+    "h1":"Cc. Ādi 7.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.112",
     "description":"\"Everything about the Supreme Personality of Godhead is spiritual, including His body, opulence and paraphernalia. Māyāvāda philosophy, however, covering His spiritual opulence, advocates the theory of impersonalism."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 1.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.107",
     "description":"When Śrī Caitanya Mahāprabhu came to the land of Śrī Raṅga-kṣetra, on the bank of the Kāverī, He visited the temple of Śrī Raṅganātha and was there overwhelmed in the ecstasy of love of Godhead."
 }

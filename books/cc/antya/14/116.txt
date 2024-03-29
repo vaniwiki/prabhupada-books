@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.116",
-    "h1":"Text 116",
+    "h1":"Cc. Antya 14.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.116",
     "description":"When He heard this, Śrī Caitanya Mahāprabhu was somewhat ashamed. Then He went to bathe in the sea with all the Vaiṣṇavas."
 }

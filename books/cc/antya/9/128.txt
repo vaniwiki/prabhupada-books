@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.128",
-    "h1":"Text 128",
+    "h1":"Cc. Antya 9.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.128",
     "description":"Bhavānanda Rāya, along with his five sons, fell at the lotus feet of Śrī Caitanya Mahāprabhu, who lifted him up and embraced him."
 }

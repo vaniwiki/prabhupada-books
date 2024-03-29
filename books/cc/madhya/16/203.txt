@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.203",
-    "h1":"Text 203",
+    "h1":"Cc. Madhya 16.203",
+    "label":"Text 203",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.203",
     "description":"The place called Pānihāṭi was located on the bank of the Ganges. After hearing that Śrī Caitanya Mahāprabhu had arrived, all kinds of men assembled both on land and on the water."
 }

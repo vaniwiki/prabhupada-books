@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 16.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.40",
     "description":"Indeed, They began chanting the holy name of Kṛṣṇa on that very spot, and, dancing and dancing, both Advaita Ācārya and Nityānanda Prabhu reached Jagannātha Purī."
 }

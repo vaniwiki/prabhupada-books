@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 14.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.21",
     "description":"After some days the Lord began to crawl on His knees, and He caused various wonderful things to be seen."
 }

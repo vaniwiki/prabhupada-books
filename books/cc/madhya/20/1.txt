@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 20.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.1",
     "description":"Let me offer my respectful obeisances unto Śrī Caitanya Mahāprabhu, who has unlimited, wonderful opulences. By His mercy, even a person born as the lowest of men can spread the science of devotional service."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 9.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.77",
     "description":"At Devasthāna, Caitanya Mahāprabhu visited the temple of Lord Viṣṇu, and there He talked with the Vaiṣṇavas in the disciplic succession of Rāmānujācārya. These Vaiṣṇavas are known as Śrī Vaiṣṇavas."
 }

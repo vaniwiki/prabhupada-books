@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 25.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.196",
     "description":"When Subuddhi Rāya consulted some other brāhmaṇas, they told him that he had not committed a grievous fault and that consequently he should not drink hot ghee and give up his life. As a result, Subuddhi Rāya was doubtful about what to do."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.117",
-    "h1":"Text 117",
+    "h1":"Cc. Antya 20.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.117",
     "description":"In the Tenth Chapter I have described how Śrī Caitanya Mahāprabhu tasted the food given by His devotees, and I have also described the assortments in the bags of Rāghava Paṇḍita."
 }

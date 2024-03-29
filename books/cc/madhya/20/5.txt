@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 20.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.5",
     "description":"Sanātana Gosvāmī told the Mohammedan jailkeeper, \"Dear sir, you are a saintly person and are very fortunate. You have full knowledge of the revealed scriptures such as the Koran and similar books."
 }

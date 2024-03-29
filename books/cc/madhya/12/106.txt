@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 12.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.106",
     "description":"When the temple was cleansed, it was purified, cool and pleasing, just as if the Lord's own pure mind had appeared."
 }

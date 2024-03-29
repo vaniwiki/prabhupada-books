@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.338",
-    "h1":"Text 338",
+    "h1":"Cc. Madhya 20.338",
+    "label":"Text 338",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.338",
     "description":"\" 'I offer my respectful obeisances unto the Supreme Personality of Godhead, expanded as Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.'"
 }

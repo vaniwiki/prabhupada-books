@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 17.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.3",
     "description":"When autumn arrived, Śrī Caitanya Mahāprabhu decided to go to Vṛndāvana. In a solitary place, He consulted with Rāmānanda Rāya and Svarūpa Dāmodara Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 19.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.220",
     "description":"\"On the dāsya-rasa platform, knowledge of the Supreme Personality of Godhead is revealed with awe and veneration. By rendering service unto Lord Kṛṣṇa, the devotee in dāsya-rasa gives constant happiness to the Lord."
 }

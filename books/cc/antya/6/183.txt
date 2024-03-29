@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.183",
-    "h1":"Text 183",
+    "h1":"Cc. Antya 6.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.183",
     "description":"The ten men returned home, and Raghunātha dāsa's father and mother were filled with anxiety."
 }

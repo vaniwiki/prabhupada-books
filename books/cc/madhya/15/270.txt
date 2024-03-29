@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.270",
-    "h1":"Text 270",
+    "h1":"Cc. Madhya 15.270",
+    "label":"Text 270",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.270",
     "description":"\" 'When a person mistreats great souls, his life span, opulence, reputation, religion, possessions and good fortune are all destroyed.'"
 }

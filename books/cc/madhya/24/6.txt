@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.6",
-    "h1":"Text 6",
+    "h1":"Cc. Madhya 24.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.6",
     "description":"\"I have heard this wonderful story and am therefore very inquisitive to hear it again. If You would kindly repeat it, I would be very pleased to hear.\""
 }

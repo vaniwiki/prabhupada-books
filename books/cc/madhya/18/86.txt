@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.86",
-    "h1":"Text 86",
+    "h1":"Cc. Madhya 18.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.86",
     "description":"\"I belong to the Rājaputa caste, and my home is just on the other side of the River Yamunā. However, I wish to be the servant of a Vaiṣṇava."
 }

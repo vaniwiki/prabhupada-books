@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 10.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.100",
     "description":"These are some of the finer points of etiquette in devotional service. Only one who has received the mercy of Śrī Caitanya Mahāprabhu can understand these principles."
 }

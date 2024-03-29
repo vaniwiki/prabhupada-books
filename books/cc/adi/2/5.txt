@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 2.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.5",
     "description":"What the Upaniṣads describe as the impersonal Brahman is but the effulgence of His body, and the Lord known as the Supersoul is but His localized plenary portion. He is the Supreme Personality of Godhead, Kṛṣṇa Himself, full with six opulences. He is the Absolute Truth, and no other truth is greater than or equal to Him."
 }

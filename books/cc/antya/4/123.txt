@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 4.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.123",
     "description":"Śrī Caitanya Mahāprabhu said, \"How did you come through the beach where the sand is so hot? Why didn't you come by the path in front of the Siṁha-dvāra gate? It is very cool."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 20.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.105",
     "description":"In the Second Chapter the Lord instructively punished Junior Haridāsa. Also in that chapter is the wonderful vision of Śivānanda Sena."
 }

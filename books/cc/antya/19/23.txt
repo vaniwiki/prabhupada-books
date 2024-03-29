@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 19.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.23",
     "description":"After hearing the equivocal sonnet by Advaita Ācārya, Śrī Caitanya Mahāprabhu quietly smiled. \"That is His order,\" He said. Then He fell silent."
 }

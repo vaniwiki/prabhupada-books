@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 4.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.182",
     "description":"\"Without considering his personal comforts, Mādhavendra Purī carried one māna [about eighty-two pounds] of sandalwood and twenty tolās [about eight ounces] of camphor to smear over the body of Gopāla. This transcendental pleasure was sufficient for him."
 }

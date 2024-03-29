@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 25.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.1",
     "description":"After converting into Vaiṣṇavas all the residents of Vārāṇasī, who were headed by the sannyāsīs, and after completely educating and instructing Sanātana Gosvāmī at Vārāṇasī, Śrī Caitanya Mahāprabhu returned to Jagannātha Purī."
 }

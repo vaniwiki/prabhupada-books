@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.198",
-    "h1":"Text 198",
+    "h1":"Cc. Ādi 4.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.198",
     "description":"The love of the gopīs nourishes the sweetness of Lord Kṛṣṇa. That sweetness in turn increases their love, for they are greatly satisfied."
 }

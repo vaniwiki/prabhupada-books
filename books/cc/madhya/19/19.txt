@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 19.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.19",
     "description":"As soon as all the brāhmaṇas and Sanātana Gosvāmī saw the Nawab appear, they all stood up and respectfully gave him a sitting place to honor him."
 }

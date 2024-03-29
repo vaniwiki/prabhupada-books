@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.316",
-    "h1":"Text 316",
+    "h1":"Cc. Antya 6.316",
+    "label":"Text 316",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.316",
     "description":"All the decomposed food is thrown before the cows from Tailaṅga at the Siṁha-dvāra gate. Because of its rotten odor, even the cows cannot eat it."
 }

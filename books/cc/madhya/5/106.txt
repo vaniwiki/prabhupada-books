@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 5.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.106",
     "description":"Thinking this, the brāhmaṇa turned to look back, and He saw that Gopāla, the Supreme Personality of Godhead, was standing there smiling."
 }

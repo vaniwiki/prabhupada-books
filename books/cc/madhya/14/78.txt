@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.78",
-    "h1":"Text 78",
+    "h1":"Cc. Madhya 14.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.78",
     "description":"Sometimes two would pair off to fight in the water. One would emerge victorious and the other defeated, and the Lord would watch all this fun."
 }

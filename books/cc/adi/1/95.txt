@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.95",
-    "h1":"Text 95",
+    "h1":"Cc. Ādi 1.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.95",
     "description":"By the grace of Lord Caitanya and Lord Nityānanda, this darkness of ignorance is removed, and the truth is brought to light."
 }

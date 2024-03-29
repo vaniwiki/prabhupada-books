@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 14.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.1",
     "description":" Things that are very difficult to do become easy to execute if one somehow or other simply remembers Lord Caitanya Mahāprabhu. But if one does not remember Him, even easy things become very difficult. To this Lord Caitanya Mahāprabhu I offer my respectful obeisances."
 }

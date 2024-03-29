@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.117",
-    "h1":"Text 117",
+    "h1":"Cc. Ādi 6.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.117",
     "description":"Your glories are as fathomless as millions of oceans and seas. Speaking of its measure is a great offense indeed."
 }

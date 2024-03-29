@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.166",
-    "h1":"Text 166",
+    "h1":"Cc. Antya 3.166",
+    "label":"Text 166",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.166",
     "description":"Hiraṇya and Govardhana were the two governmental treasurers in that division of the country. Their priest was named Balarāma Ācārya."
 }

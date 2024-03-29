@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 4.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.142",
     "description":"Thinking this, Śrī Mādhavendra Purī offered his obeisances to Gopīnātha on the spot and left Remuṇā before morning."
 }

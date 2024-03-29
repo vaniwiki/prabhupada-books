@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.16",
-    "h1":"Text 16",
+    "h1":"Cc. Ādi 1.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.16",
     "description":"In a temple of jewels in Vṛndāvana, underneath a desire tree, Śrī Śrī Rādhā-Govinda, served by Their most confidential associates, sit upon an effulgent throne. I offer my humble obeisances unto Them."
 }

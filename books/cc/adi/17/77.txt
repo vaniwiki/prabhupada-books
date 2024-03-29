@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.77",
-    "h1":"Text 77",
+    "h1":"Cc. Ādi 17.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.77",
     "description":"Lord Caitanya then praised Murāri Gupta, saying, \"You have satisfied Lord Kṛṣṇa.\" Hearing this, Murāri Gupta quoted a verse from Śrīmad-Bhāgavatam."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 23.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.37",
     "description":"\" 'O Lord Puṇḍarīkākṣa, while chanting Your holy name with tears in my eyes, when shall I dance in ecstasy on the bank of the Yamunā?'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.213",
-    "h1":"Text 213",
+    "h1":"Cc. Madhya 15.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.213",
     "description":"Other preparations included eggplant mixed with newly grown nimba leaves fried together, light baḍī, fried paṭola, and fried rounds of squash and pumpkin."
 }

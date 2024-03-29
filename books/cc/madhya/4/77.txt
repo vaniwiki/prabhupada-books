@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 4.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.77",
     "description":"Although Śrī Gopāla ate everything offered, still, by the touch of His transcendental hand, everything remained as before."
 }

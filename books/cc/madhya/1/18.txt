@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 1.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.18",
     "description":"The final pastimes of the Lord, occurring in His last twenty-four years, are called madhya [middle] and antya [final]. All the devotees of the Lord refer to His pastimes according to these divisions."
 }

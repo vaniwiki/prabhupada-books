@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.56",
-    "h1":"Text 56",
+    "h1":"Cc. Madhya 25.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.56",
     "description":"\"By studying the six philosophical theories, one cannot reach the Absolute Truth. It is therefore our duty to follow the path of the mahājanas, the authorities. Whatever they say should be accepted as the supreme truth."
 }

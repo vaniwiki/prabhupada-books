@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.213",
-    "h1":"Text 213",
+    "h1":"Cc. Antya 6.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.213",
     "description":"Raghunātha dāsa stayed under the care of Svarūpa Dāmodara Gosvāmī, and Govinda supplied him remnants of Śrī Caitanya Mahāprabhu's food for five days."
 }

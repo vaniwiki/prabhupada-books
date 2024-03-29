@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 7.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.75",
     "description":"\"After describing the potency of the Hare Kṛṣṇa mahā-mantra, My spiritual master taught Me another verse, advising Me to always keep it within My throat."
 }

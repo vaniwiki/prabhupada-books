@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 16.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.97",
     "description":"Sarasvatī had in fact induced the champion to compose his verse in an impure way. Furthermore, when it was discussed she covered his intelligence, and thus the Lord's intelligence was triumphant."
 }

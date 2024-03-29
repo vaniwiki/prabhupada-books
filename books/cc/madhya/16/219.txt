@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.219",
-    "h1":"Text 219",
+    "h1":"Cc. Madhya 16.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.219",
     "description":"Practically all the brāhmaṇas residing in Nadia were dependent on the charity of Hiraṇya and Govardhana, who gave them money, land and villages."
 }

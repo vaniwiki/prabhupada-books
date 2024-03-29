@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.74",
-    "h1":"Text 74",
+    "h1":"Cc. Ādi 3.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.74",
     "description":"Śrī Nityānanda Gosāñi is directly Haladhara [Lord Balarāma], and Advaita Ācārya is the Personality of Godhead Himself."
 }

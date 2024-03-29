@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 1.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.96",
     "description":"The Absolute Truth is Śrī Kṛṣṇa, and loving devotion to Śrī Kṛṣṇa exhibited in pure love is achieved through congregational chanting of the holy name, which is the essence of all bliss."
 }

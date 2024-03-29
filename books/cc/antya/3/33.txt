@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.33",
-    "h1":"Text 33",
+    "h1":"Cc. Antya 3.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.33",
     "description":"\"You offered the food to Lord Kṛṣṇa, and while you were in meditation I suddenly appeared, and your eyes filled with tears."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 12.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.30",
     "description":"Nityānanda Prabhu then said, \"Who is there in the three worlds who can ask You to see the King?"
 }

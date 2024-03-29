@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.79-80",
-    "h1":"Text 79-80",
+    "h1":"Cc. Ādi 1.79-80",
+    "label":"Text 79-80",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.79-80",
     "description":"The energies [consorts] of the Supreme Lord are of three kinds: the Lakṣmīs in Vaikuṇṭha, the queens in Dvārakā and the gopīs in Vṛndāvana. The gopīs are the best of all, for they have the privilege of serving Śrī Kṛṣṇa, the primeval Lord, the son of the King of Vraja."
 }

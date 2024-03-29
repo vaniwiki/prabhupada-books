@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 16.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.13",
     "description":"He would also take gifts to the homes of Vaiṣṇavas born in śūdra families. Then he would hide and eat the remnants of food they threw away in this manner."
 }

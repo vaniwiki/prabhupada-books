@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 5.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.132",
     "description":"Seeing the hole in the nose of the Deity, they set the pearl there and, being very pleased, held a great festival."
 }

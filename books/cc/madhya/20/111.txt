@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.111",
-    "h1":"Text 111",
+    "h1":"Cc. Madhya 20.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.111",
     "description":"\"Lord Kṛṣṇa naturally has three energetic transformations, and these are known as the spiritual potency, the living entity potency and the illusory potency."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 1.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.150",
     "description":"When Śrī Caitanya Mahāprabhu reached Vidyānagara, Bengal, on the way to Vṛndāvana, He stopped at the house of Vidyā-vācaspati, who was the brother of Sārvabhauma Bhaṭṭācārya. When Lord Caitanya Mahāprabhu suddenly arrived at his house, great crowds of people gathered."
 }

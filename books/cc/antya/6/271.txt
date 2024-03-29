@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.271",
-    "h1":"Text 271",
+    "h1":"Cc. Antya 6.271",
+    "label":"Text 271",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.271",
     "description":"Raghunātha dāsa continued to invite Śrī Caitanya Mahāprabhu in this way for two years, but at the end of the second year he stopped."
 }

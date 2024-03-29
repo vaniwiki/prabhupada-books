@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 20.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.27",
     "description":"\"I have these seven gold coins with me. Please accept them, and from a religious point of view please get me across that hilly tract of land."
 }

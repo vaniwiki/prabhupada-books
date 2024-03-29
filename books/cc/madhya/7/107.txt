@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 7.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.107",
     "description":"By the mercy of the Supreme Lord, Śrī Caitanya Mahāprabhu, everyone became a first-class devotee. Later they became teachers or spiritual masters and liberated the entire world."
 }

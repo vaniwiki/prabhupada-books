@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 21.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.22",
     "description":"\"The cowherd boys then became four-handed Nārāyaṇas, predominating Deities of Vaikuṇṭha planets. All the separate Brahmās from different universes began to offer their prayers unto the Lords."
 }

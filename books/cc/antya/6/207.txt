@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.207",
-    "h1":"Text 207",
+    "h1":"Cc. Antya 6.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.207",
     "description":"\"On the way, Raghunātha dāsa has fasted and undergone hardships for many days. Therefore, take good care of him for some days so that he may eat to his satisfaction.\""
 }

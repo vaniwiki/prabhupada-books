@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.136",
-    "h1":"Text 136",
+    "h1":"Cc. Antya 4.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.136",
     "description":"When Jagadānanda Paṇḍita and Sanātana Gosvāmī sat together and began to discuss topics about Kṛṣṇa, Sanātana Gosvāmī submitted to Jagadānanda Paṇḍita the cause of his distress."
 }

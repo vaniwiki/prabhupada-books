@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.129",
-    "h1":"Text 129",
+    "h1":"Cc. Ādi 5.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.129",
     "description":"Some said that Kṛṣṇa was directly Lord Nara-Nārāyaṇa, and some called Him Lord Vāmanadeva incarnate."
 }

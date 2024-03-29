@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 2.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.36",
     "description":"\" 'If by chance the transcendental form of Kṛṣṇa comes before My path of vision, My heart, injured from being beaten, will be stolen away by Cupid, happiness personified. Because I could not see the beautiful form of Kṛṣṇa to My heart's content, when I again see His form I shall decorate the phases of time with many jewels.' \""
 }

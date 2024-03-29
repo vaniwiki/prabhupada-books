@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.211",
-    "h1":"Text 211",
+    "h1":"Cc. Ādi 4.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.211",
     "description":"\"O Pārtha, I speak to you the truth. The gopīs are My helpers, teachers, disciples, servants, friends and consorts. I do not know what they are not to Me.\""
 }

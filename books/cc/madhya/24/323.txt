@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.323",
-    "h1":"Text 323",
+    "h1":"Cc. Madhya 24.323",
+    "label":"Text 323",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.323",
     "description":"\"If one becomes a madman like Me, he may also understand the meaning of Śrīmad-Bhāgavatam by this process.\""
 }

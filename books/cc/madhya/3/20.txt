@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 3.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.20",
     "description":"As the Lord proceeded along the bank of the Ganges, Śrī Nityānanda Prabhu requested Ācāryaratna [Candraśekhara Ācārya] to go immediately to the house of Advaita Ācārya."
 }

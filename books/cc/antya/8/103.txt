@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 8.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.103",
     "description":"Praying at the lotus feet of Śrī Rūpa and Śrī Raghunātha, always desiring their mercy, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps."
 }

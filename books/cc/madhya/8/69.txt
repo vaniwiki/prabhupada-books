@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 8.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.69",
     "description":"Rāmānanda Rāya continued, \" 'As long as there is hunger and thirst within the stomach, varieties of food and drink make one feel very happy. Similarly, when the Lord is worshiped with pure love, the various activities performed in the course of that worship awaken transcendental bliss in the heart of the devotee.'"
 }

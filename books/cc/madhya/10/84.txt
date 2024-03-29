@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.84",
-    "h1":"Text 84",
+    "h1":"Cc. Madhya 10.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.84",
     "description":"Rāghava Paṇḍita, the son of Advaita Ācārya and all the devotees became very much satisfied. How many can I describe?"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 20.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.130",
     "description":"\"By the words of the astrologer, the poor man's connection with the treasure was established. Similarly, Vedic literature advises us that our real connection is with Śrī Kṛṣṇa, the Supreme Personality of Godhead."
 }

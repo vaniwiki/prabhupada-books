@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 17.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.70",
     "description":"Once Lord Caitanya Mahāprabhu went to the house of Śrīdhara after kīrtana and drank water from his damaged iron pot. Then He bestowed His benediction upon all the devotees according to their desires."
 }

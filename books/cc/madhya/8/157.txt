@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.157",
-    "h1":"Text 157",
+    "h1":"Cc. Madhya 8.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.157",
     "description":"\"The potency called hlādinī gives Kṛṣṇa transcendental pleasure. Through this pleasure potency, Kṛṣṇa personally tastes all spiritual pleasure."
 }

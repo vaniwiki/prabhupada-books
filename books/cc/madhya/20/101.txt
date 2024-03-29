@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 20.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.101",
     "description":"\"Out of Your causeless mercy, You have delivered me from the materialistic path. Now, by the same causeless mercy, please tell me what my duty is."
 }

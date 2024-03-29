@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 6.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.14",
     "description":"Instead of becoming a so-called renunciate, Raghunātha dāsa, foIlowing the instructions of the Lord, returned home and played exactly like a pounds-and-shillings man."
 }

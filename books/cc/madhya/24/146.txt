@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 24.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.146",
     "description":"\"The six kinds of ātmārāmas render devotional service to Kṛṣṇa without ulterior motives. The words munayaḥ and santaḥ indicate those who are very attached to meditating upon Kṛṣṇa."
 }

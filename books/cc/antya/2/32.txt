@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 2.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.32",
     "description":"Śivānanda Sena thereupon developed full confidence in his mind that Nakula Brahmacārī was filled with the presence of Śrī Caitanya Mahāprabhu. Śivānanda Sena then offered him respect and devotional service."
 }

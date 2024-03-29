@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 9.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.71",
     "description":"After visiting Trimalaya, Caitanya Mahāprabhu went to see Trikāla-hasti. There He saw Lord Śiva and offered him all respects and obeisances."
 }

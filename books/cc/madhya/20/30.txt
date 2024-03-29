@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 20.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.30",
     "description":"\"On this very night I would have killed you and taken your coins. It is very good that you have voluntarily offered them to me. I am now relieved from such a sinful activity."
 }

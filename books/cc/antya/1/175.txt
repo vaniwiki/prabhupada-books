@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.175",
-    "h1":"Text 175",
+    "h1":"Cc. Antya 1.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.175",
     "description":"The beautiful moonlike glories of Mukunda give distress to the lotuslike faces of the wives of the demons and to their raised breasts, which are like gleaming cakravāka birds. Those glories, however, are pleasing to all His devotees, who are like cakora birds. May those glories forever give pleasure to you all.' \""
 }

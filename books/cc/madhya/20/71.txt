@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 20.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.71",
     "description":"Candraśekhara offered a new set of garments to Sanātana Gosvāmī, but Sanātana did not accept them. When Śrī Caitanya Mahāprabhu heard news of this, he became unlimitedly happy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 23.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.103",
     "description":"\"O Sanātana, you should broadcast the revealed scriptures on devotional service and excavate the lost places of pilgrimage in the district of Mathurā."
 }

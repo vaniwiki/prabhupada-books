@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 13.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.3",
     "description":"All glories to Gadādhara Prabhu! All glories to Śrīvāsa Ṭhākura! All glories to Mukunda Prabhu and Vāsudeva Prabhu! All glories to Haridāsa Ṭhākura!"
 }

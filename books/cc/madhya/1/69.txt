@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 1.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.69",
     "description":"\"No one knows the purport of My verse,\" Caitanya Mahāprabhu said. \"How could you understand My intention?\""
 }

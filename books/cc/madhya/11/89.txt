@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 11.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.89",
     "description":"\"Here is Rāghava Paṇḍita, here is Ācārya Nandana, there is Śrīmān Paṇḍita, and here are Śrīkānta and Nārāyaṇa.\""
 }

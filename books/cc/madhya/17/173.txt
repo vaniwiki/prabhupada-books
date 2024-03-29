@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.173",
-    "h1":"Text 173",
+    "h1":"Cc. Madhya 17.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.173",
     "description":"\"This kind of ecstatic love can be experienced only when one has a relationship with Mādhavendra Purī. Without him, even a scent of such transcendental ecstatic love is impossible.\""
 }

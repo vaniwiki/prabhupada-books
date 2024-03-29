@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 1.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.32",
     "description":"Lord Kṛṣṇa enjoys by manifesting Himself as the spiritual masters, the devotees, the diverse energies, the incarnations and the plenary portions. They are all six in one."
 }

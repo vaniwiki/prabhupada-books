@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.187",
-    "h1":"Text 187",
+    "h1":"Cc. Antya 6.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.187",
     "description":"Sometimes he chewed fried grains, sometimes he cooked, and sometimes he drank milk. In this way he kept his life and soul together with whatever was available wherever he went."
 }

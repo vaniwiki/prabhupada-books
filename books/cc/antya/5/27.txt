@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 5.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.27",
     "description":"When the servant informed Rāmānanda Rāya of Pradyumna Miśra's arrival, Rāmānanda Rāya immediately went to the assembly room."
 }

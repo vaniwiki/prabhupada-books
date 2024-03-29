@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 6.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.133",
     "description":"\"Placing Your feet on my head, give me the benediction that I may achieve the shelter of Śrī Caitanya Mahāprabhu without difficulty. I pray for this benediction.\""
 }

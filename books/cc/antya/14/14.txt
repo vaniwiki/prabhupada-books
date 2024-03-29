@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 14.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.14",
     "description":"Śrīmatī Rādhārāṇī's emotions after seeing Uddhava exactly correspond to those of Śrī Caitanya Mahāprabhu. He always conceived of Himself in Her position and sometimes thought that He was Śrīmatī Rādhārāṇī Herself."
 }

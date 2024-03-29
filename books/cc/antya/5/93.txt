@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.93",
-    "h1":"Text 93",
+    "h1":"Cc. Antya 5.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.93",
     "description":"First the brāhmaṇa induced Bhagavān Ācārya to hear the drama, and then many other devotees joined Bhagavān Ācārya in listening to it."
 }

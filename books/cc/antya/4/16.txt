@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 4.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.16",
     "description":"At that very moment, Śrī Caitanya Mahāprabhu, after visiting the temple of Jagannātha to see the offering of upala-bhoga [morning refreshments], came with His other devotees to see Haridāsa Ṭhākura."
 }

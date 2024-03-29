@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 5.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.95",
     "description":"Customarily, anyone who composed a song, verse, literary composition or poem about Śrī Caitanya Mahāprabhu first had to bring it to Svarūpa Dāmodara Gosvāmī to be heard."
 }

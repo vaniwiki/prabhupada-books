@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 4.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.167",
     "description":"In this way Gopīnāthajī was supplied ground sandalwood pulp daily. The servants of Gopīnātha were very pleased with this."
 }

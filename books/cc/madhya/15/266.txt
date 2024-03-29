@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.266",
-    "h1":"Text 266",
+    "h1":"Cc. Madhya 15.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.266",
     "description":"That night Amogha, Sārvabhauma Bhaṭṭācārya's son-in-law, fled, and in the morning he immediately fell sick with cholera."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 12.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.142",
     "description":"The Lord thus chanted and danced for some time. Finally, understanding the circumstances, He stopped."
 }

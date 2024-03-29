@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 8.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.82",
     "description":"\"There are various means and processes by which one may attain the favor of Lord Kṛṣṇa. All those transcendental processes will be studied from the viewpoint of comparative importance."
 }

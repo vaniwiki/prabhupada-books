@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 8.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.45",
     "description":"\"Although I am a Māyāvādī sannyāsī, a nondevotee, I am also floating in the ocean of love of Kṛṣṇa simply by touching you. And what to speak of others?"
 }

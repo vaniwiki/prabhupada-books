@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 13.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.62",
     "description":"When Jagadānanda Paṇḍita finished cooking, he offered the food to Śrī Caitanya Mahāprabhu. Then he and Sanātana Gosvāmī sat down and ate the prasāda."
 }

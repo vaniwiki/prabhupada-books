@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.236",
-    "h1":"Text 236",
+    "h1":"Cc. Madhya 24.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.236",
     "description":"\"When Nārada Muni left the forest path and went to the hunter, all the animals immediately saw him and fled."
 }

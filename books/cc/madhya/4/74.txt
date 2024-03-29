@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.74",
-    "h1":"Text 74",
+    "h1":"Cc. Madhya 4.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.74",
     "description":"Pots of yogurt, milk, buttermilk and śikhariṇī, sweet rice, cream and solid cream were placed alongside the vegetables."
 }

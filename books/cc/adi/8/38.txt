@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 8.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.38",
     "description":"If even a great atheist hears Śrī Caitanya-maṅgala, he immediately becomes a great devotee."
 }

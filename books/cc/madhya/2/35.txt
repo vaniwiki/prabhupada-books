@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 2.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.35",
     "description":"Lamenting in this way, Śrī Caitanya Mahāprabhu opened the doors of grief within His heart. Morose, humble and disappointed, He recited a verse again and again with a despondent heart."
 }

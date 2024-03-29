@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 16.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.169",
     "description":"Upon hearing this, the mind of the Mohammedan governor was changed. He then sent his own secretary to the representative of the Orissan government."
 }

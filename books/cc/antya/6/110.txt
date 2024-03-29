@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 6.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.110",
     "description":"There were varieties of cakes, sweet rice and fine cooked rice that surpassed the taste of nectar. There were also varieties of vegetables."
 }

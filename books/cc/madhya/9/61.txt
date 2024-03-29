@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 9.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.61",
     "description":"When all the disciples chanted the holy names Kṛṣṇa, Rāma and Hari, the Buddhist teacher regained consciousness and immediately began to chant the holy name of Lord Hari."
 }

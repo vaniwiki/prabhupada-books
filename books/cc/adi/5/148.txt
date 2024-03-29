@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.148",
-    "h1":"Text 148",
+    "h1":"Cc. Ādi 5.148",
+    "label":"Text 148",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.148",
     "description":"I cannot describe the truth of Advaita Ācārya. He has delivered the entire world by making Lord Kṛṣṇa descend."
 }

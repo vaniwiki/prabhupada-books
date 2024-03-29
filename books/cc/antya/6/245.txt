@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.245",
-    "h1":"Text 245",
+    "h1":"Cc. Antya 6.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.245",
     "description":"When Raghunātha dāsa met all the devotees, Advaita Ācārya showed him great mercy."
 }

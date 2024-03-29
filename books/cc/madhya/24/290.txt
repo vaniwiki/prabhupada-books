@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.290",
-    "h1":"Text 290",
+    "h1":"Cc. Madhya 24.290",
+    "label":"Text 290",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.290",
     "description":"\"Among those who have perfected themselves by devotional service, there are servants, friends, superiors and beloved damsels. Similarly, there are four types of mature devotees."
 }

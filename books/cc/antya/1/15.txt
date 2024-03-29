@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 1.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.15",
     "description":"Thus all the devotees of Kulīna-grāma and Śrī Khaṇḍa, as well as Advaita Ācārya, came together to meet Śivānanda Sena."
 }

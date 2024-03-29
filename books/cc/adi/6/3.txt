@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 6.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.3",
     "description":"In five verses I have described the principle of Lord Nityānanda. Then in the following two verses I describe the glories of Śrī Advaita Ācārya."
 }

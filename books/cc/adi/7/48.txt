@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.48",
-    "h1":"Text 48",
+    "h1":"Cc. Ādi 7.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.48",
     "description":"On the basis of scriptures like Śrīmad-Bhāgavatam, which reveal these confidential directions, Śrī Caitanya Mahāprabhu instructed Sanātana Gosvāmī regarding all the regular activities of a devotee."
 }

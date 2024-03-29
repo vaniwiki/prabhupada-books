@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.79",
-    "h1":"Text 79",
+    "h1":"Cc. Ādi 13.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.79",
     "description":"The husband and wife [Jagannātha Miśra and Śacīmātā], having gotten Viśvarūpa as their son, were very pleased within their minds. Because of their pleasure, they specifically began to serve the lotus feet of Govinda."
 }

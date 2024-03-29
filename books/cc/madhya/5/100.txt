@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 5.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.100",
     "description":"\"Cook one kilogram of rice daily and offer it. I shall eat that rice and follow behind you.\""
 }

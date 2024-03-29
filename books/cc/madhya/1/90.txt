@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 1.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.90",
     "description":"Just to indicate those pastimes, I am presenting a general survey of the chief pastimes in the form of a synopsis."
 }

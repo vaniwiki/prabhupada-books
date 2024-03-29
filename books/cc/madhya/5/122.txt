@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 5.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.122",
     "description":"King Puruṣottama-deva was a great devotee and was advanced in the civilization of the Āryans. He begged at the lotus feet of Gopāla, \"Please come to my kingdom.\""
 }

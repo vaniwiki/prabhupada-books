@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 13.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.54",
     "description":"Hearing this, Jagadānanda Paṇḍita was immediately very angry and took a cooking pot in his hand, intending to beat Sanātana Gosvāmī."
 }

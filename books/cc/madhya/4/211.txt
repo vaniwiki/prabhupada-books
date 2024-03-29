@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.211",
-    "h1":"Text 211",
+    "h1":"Cc. Madhya 4.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.211",
     "description":"Thus I have described both the transcendental glories of Lord Caitanya Mahāprabhu's affection for His devotees and the highest limit of ecstatic love of God."
 }

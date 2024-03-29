@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.245",
-    "h1":"Text 245",
+    "h1":"Cc. Antya 3.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.245",
     "description":"For three days she approached Haridāsa Ṭhākura in this way, exhibiting various feminine postures that would bewilder the mind of even Lord Brahmā."
 }

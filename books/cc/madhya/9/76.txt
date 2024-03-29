@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 9.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.76",
     "description":"Seeing the Śiva deity named Amṛta-liṅga, Lord Caitanya Mahāprabhu offered His obeisances. Thus He visited all the temples of Lord Śiva and converted the devotees of Lord Śiva into Vaiṣṇavas."
 }

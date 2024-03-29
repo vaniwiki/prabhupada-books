@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 12.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.140",
     "description":"The sky was filled with the great and loud chanting of saṅkīrtana, and the earth shook from the jumping and dancing of Lord Caitanya Mahāprabhu."
 }

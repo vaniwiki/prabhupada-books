@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 10.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.115",
     "description":"Śrī Svarūpa Dāmodara used to read the poems of Vidyāpati and Caṇḍīdāsa and Jayadeva Gosvāmī's Śrī Gīta-govinda. He used to make Śrī Caitanya Mahāprabhu very happy by singing these songs."
 }

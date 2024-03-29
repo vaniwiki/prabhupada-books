@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.283",
-    "h1":"Text 283",
+    "h1":"Cc. Madhya 20.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.283",
     "description":"\"I have thus explained the truth of the first Personality of Godhead, Mahā Viṣṇu. I shall now explain the glories of the second Personality of Godhead."
 }

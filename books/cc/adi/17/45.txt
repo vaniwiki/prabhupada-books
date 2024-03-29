@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 17.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.45",
     "description":"After three days, leprosy attacked Gopāla Cāpāla, and blood oozed from sores all over his body."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.118",
-    "h1":"Text 118",
+    "h1":"Cc. Antya 14.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.118",
     "description":"Thus I have described the transcendental ecstatic emotions of Śrī Caitanya Mahāprabhu. Even Lord Brahmā cannot describe their influence."
 }

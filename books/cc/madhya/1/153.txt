@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 1.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.153",
     "description":"The specific acts performed by Śrī Caitanya Mahāprabhu at this time were His showing favor to Devānanda Paṇḍita and excusing the brāhmaṇa known as Gopāla Cāpala from the offense he had committed at the lotus feet of Śrīvāsa Ṭhākura."
 }

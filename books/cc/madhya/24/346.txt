@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.346",
-    "h1":"Text 346",
+    "h1":"Cc. Madhya 24.346",
+    "label":"Text 346",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.346",
     "description":"Thus I have narrated Lord Caitanya's mercy upon Sanātana Gosvāmī. When one hears these topics, one's heart will be cleansed of all contamination."
 }

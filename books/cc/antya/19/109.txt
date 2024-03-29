@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 19.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.109",
     "description":"If one becomes a servant of the servants of Śrī Caitanya Mahāprabhu and Lord Nityānanda Prabhu and is favored by Them, he can believe in all these discourses."
 }

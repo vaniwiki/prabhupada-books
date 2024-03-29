@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 9.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.12",
     "description":"After meeting Śrī Caitanya Mahāprabhu, all those different Vaiṣṇavas became devotees of Kṛṣṇa and began chanting the Hare Kṛṣṇa mahā-mantra."
 }

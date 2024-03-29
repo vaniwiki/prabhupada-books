@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.91",
-    "h1":"Text 91",
+    "h1":"Cc. Antya 2.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.91",
     "description":"Śrī Caitanya Mahāprabhu derives no happiness from meeting one who is not a pure devotee of Kṛṣṇa. Thus because Gopāla Bhaṭṭācārya was a Māyāvādī scholar, the Lord felt no jubilation in meeting him. Nevertheless, because Gopāla Bhaṭṭācārya was related to Bhagavān Ācārya, Śrī Caitanya Mahāprabhu feigned pleasure in seeing him."
 }

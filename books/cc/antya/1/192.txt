@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.192",
-    "h1":"Text 192",
+    "h1":"Cc. Antya 1.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.192",
     "description":"After hearing this, Śrīla Rāmānanda Rāya submitted at the lotus feet of Śrī Caitanya Mahāprabhu the superexcellence of Śrīla Rūpa Gosvāmī's poetic expression and began to praise it as if he had thousands of mouths."
 }

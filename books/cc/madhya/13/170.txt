@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 13.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.170",
     "description":"An ocean of transcendental bliss expanded in the heart of Lord Śrī Caitanya Mahāprabhu, and symptoms of madness immediately intensified like a hurricane."
 }

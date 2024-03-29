@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.147",
-    "h1":"Text 147",
+    "h1":"Cc. Antya 5.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.147",
     "description":"\"In that way, although your verse is blasphemous according to your meaning, mother Sarasvatī has taken advantage of it to offer prayers to the Lord."
 }

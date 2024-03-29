@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 12.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.197",
     "description":"Thereafter, calling all the Vaiṣṇavas, Śrī Caitanya Mahāprabhu distributed mahā-prasāda as if sprinkling nectar. At that time the mock fight between Advaita Ācārya and Nityānanda Prabhu became more and more delicious."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 15.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.50",
     "description":"\"A mother is not offended by her mad son, and, knowing this, My mother is not offended by Me."
 }

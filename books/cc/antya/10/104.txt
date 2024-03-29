@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 10.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.104",
     "description":"The Lord danced and chanted and then enjoyed a picnic in the garden as He had done before."
 }

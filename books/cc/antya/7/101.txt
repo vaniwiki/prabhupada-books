@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 7.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.101",
     "description":"Whatever conclusions Vallabha Bhaṭṭa eagerly presented were refuted by personalities like Advaita Ācārya."
 }

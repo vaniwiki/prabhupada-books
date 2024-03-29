@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 15.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.11",
     "description":"Śrī Caitanya Mahāprabhu would worship Advaita Ācārya by chanting the mantra, \"Whatever You are, You are—but I offer My respects unto You.\" In addition, the Lord would make some sounds within His mouth that would make Advaita Ācārya laugh."
 }

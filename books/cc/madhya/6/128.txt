@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 6.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.128",
     "description":"Sārvabhauma Bhaṭṭācārya replied, \"I accept that You do not understand, yet even one who does not understand inquires about the subject matter."
 }

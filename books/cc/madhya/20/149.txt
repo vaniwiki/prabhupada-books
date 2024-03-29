@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 20.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.149",
     "description":"\"The transcendental form of Lord Kṛṣṇa is unlimited and also has unlimited opulence. He possesses the internal potency, external potency and marginal potency."
 }

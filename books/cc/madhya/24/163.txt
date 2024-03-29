@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 24.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.163",
     "description":"\"The word ahaitukī is always applicable to the Supreme Personality of Godhead, Urukrama. In this way I have described the import of all these things in thirteen complete varieties."
 }

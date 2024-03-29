@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 12.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.82",
     "description":"The devotees of Śrī Caitanya Mahāprabhu began their journey crying, while the Lord remained morosely at His residence."
 }

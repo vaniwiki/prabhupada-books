@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.124",
-    "h1":"Text 124",
+    "h1":"Cc. Antya 2.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.124",
     "description":"Śrī Caitanya Mahāprabhu said, \"My mind is not under My control. It does not like to see anyone in the renounced order who talks intimately with women."
 }

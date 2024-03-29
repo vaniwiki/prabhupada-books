@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 10.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.38",
     "description":"After this, Sārvabhauma Bhaṭṭācārya, sitting at the right hand of the Lord, began to introduce all the inhabitants of Puruṣottama, Jagannātha Purī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.180",
-    "h1":"Text 180",
+    "h1":"Cc. Ādi 17.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.180",
     "description":"\"While I was asleep, the lion jumped on my chest, laughing fiercely and gnashing His teeth."
 }

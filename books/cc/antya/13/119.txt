@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.119",
-    "h1":"Text 119",
+    "h1":"Cc. Antya 13.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.119",
     "description":"As previously, Raghunātha remained continuously with Śrī Caitanya Mahāprabhu for eight months. Then the Lord gave him the following order."
 }

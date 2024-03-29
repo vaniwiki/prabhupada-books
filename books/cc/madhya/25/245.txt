@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.245",
-    "h1":"Text 245",
+    "h1":"Cc. Madhya 25.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.245",
     "description":"In the Third Chapter I have described the Lord's acceptance of the renounced order and how He enjoyed His pastimes in the house of Advaita Ācārya."
 }

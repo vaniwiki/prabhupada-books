@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.135",
-    "h1":"Text 135",
+    "h1":"Cc. Antya 1.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.135",
     "description":"'When the entrance of the actors is set in motion by the arrival of a suitable time, the entrance is called pravartaka.'"
 }

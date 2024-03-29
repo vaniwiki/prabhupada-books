@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.242",
-    "h1":"Text 242",
+    "h1":"Cc. Madhya 1.242",
+    "label":"Text 242",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.242",
     "description":"At Prayāga, Rūpa Gosvāmī fell down on the ground to offer obeisances to the Lord, and the Lord embraced him with great delight."
 }

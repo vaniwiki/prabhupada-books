@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 13.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.36",
     "description":"Svarūpa Dāmodara was chosen as the leader of the first party and was given five assistants to respond to his chanting."
 }

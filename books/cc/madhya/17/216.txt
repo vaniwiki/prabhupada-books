@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.216",
-    "h1":"Text 216",
+    "h1":"Cc. Madhya 17.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.216",
     "description":"The parrot śārī said, \"When Lord Śrī Kṛṣṇa is with Rādhārāṇī, He is the enchanter of Cupid; otherwise, when He is alone, He Himself is enchanted by erotic feelings even though He enchants the whole universe.\""
 }

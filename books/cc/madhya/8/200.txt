@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 8.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.200",
     "description":"\"Actually You are speaking through my mouth, and at the same time You are listening. This is very mysterious. Anyway, kindly hear the explanation by which the goal can be attained."
 }

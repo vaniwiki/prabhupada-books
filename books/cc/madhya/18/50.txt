@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 18.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.50",
     "description":"Bhūgarbha Gosvāmī, Śrī Jīva Gosvāmī, Śrī Yādava Ācārya and Govinda Gosvāmī also accompanied Śrīla Rūpa Gosvāmī."
 }

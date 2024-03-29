@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.50",
-    "h1":"Text 50",
+    "h1":"Cc. Antya 1.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.50",
     "description":"When Śrī Caitanya Mahāprabhu inquired about Sanātana Gosvāmī, Rūpa Gosvāmī replied, \"I did not meet him."
 }

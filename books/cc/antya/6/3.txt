@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 6.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.3",
     "description":"Thus Lord Gauracandra performed various pastimes with His associates at Jagannātha Purī in varieties of transcendental pleasure."
 }

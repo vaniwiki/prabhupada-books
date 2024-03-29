@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.125",
-    "h1":"Text 125",
+    "h1":"Cc. Antya 9.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.125",
     "description":"\"The prince created this situation without my knowledge, but actually I consider all the sons of Bhavānanda Rāya to be like my relatives."
 }

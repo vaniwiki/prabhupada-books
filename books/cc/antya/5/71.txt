@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 5.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.71",
     "description":"\"I cannot properly describe the discourses of Rāmānanda Rāya, for he is not an ordinary human being. He is fully absorbed in the devotional service of the Lord."
 }

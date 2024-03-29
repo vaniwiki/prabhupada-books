@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 20.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.109",
     "description":"The Fourth Chapter also tells how Sanātana Gosvāmī was tested in the sunshine of Jyaiṣṭha [May and June] and was then empowered and sent back to Vṛndāvana."
 }

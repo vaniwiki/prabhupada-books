@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.89",
-    "h1":"Text 89",
+    "h1":"Cc. Antya 14.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.89",
     "description":"Svarūpa Dāmodara Gosvāmī, Jagadānanda Paṇḍita, Gadādhara Paṇḍita, Rāmāi, Nandāi and Śaṅkara Paṇḍita are some of the devotees who ran after Śrī Caitanya Mahāprabhu."
 }

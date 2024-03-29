@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 6.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.115",
     "description":"The Bhaṭṭācārya's statements were discussed before Śrī Caitanya Mahāprabhu. Gopīnātha Ācārya and Mukunda Datta disapproved of the Bhaṭṭācārya's statements because they caused mental pain."
 }

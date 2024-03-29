@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.153",
-    "h1":"Text 153",
+    "h1":"Cc. Antya 10.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.153",
     "description":"Gadādhara Paṇḍita and Sārvabhauma Bhaṭṭācārya had fixed dates on which Śrī Caitanya Mahāprabhu would accept their invitations every month."
 }

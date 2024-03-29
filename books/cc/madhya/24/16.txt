@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 24.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.16",
     "description":"\"The word nirgrantha refers to one who is liberated from the material knots of ignorance. It also refers to one who is devoid of all regulative principles enjoined in the Vedic literature. It also refers to one who does not have knowledge."
 }

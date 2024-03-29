@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 21.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.49",
     "description":"\" 'Below the planet named Goloka Vṛndāvana are the planets known as Devī-dhāma, Maheśa-dhāma and Hari-dhāma. These are opulent in different ways. They are managed by the Supreme Personality of Godhead, Govinda, the original Lord. I offer my obeisances unto Him.'"
 }

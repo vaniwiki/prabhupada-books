@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 9.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.49",
     "description":"The scriptures of the Buddhist cult are chiefly based on argument and logic, and they contain nine chief principles. Because Śrī Caitanya Mahāprabhu defeated them in their argument, they could not establish their cult."
 }

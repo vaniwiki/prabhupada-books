@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 9.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.17",
     "description":"After seeing the Ahovala-nṛsiṁha Deity, Caitanya Mahāprabhu offered many prayers unto the Lord. He then went to Siddhavaṭa, where He saw the Deity of Rāmacandra, the Lord of Sītādevī."
 }

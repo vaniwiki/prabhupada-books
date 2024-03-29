@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 10.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.69",
     "description":"\"After hearing news of Śrī Caitanya Mahāprabhu's arrival, devotees like Advaita and Śrīvāsa will certainly come to see Him."
 }

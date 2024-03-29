@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.197",
-    "h1":"Text 197",
+    "h1":"Cc. Ādi 5.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.197",
     "description":"I fainted and fell to the ground, my dream broke, and when I regained consciousness I saw that morning had come."
 }

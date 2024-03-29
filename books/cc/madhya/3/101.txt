@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 3.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.101",
     "description":"Advaita Ācārya replied, \"I shall never again invite another sannyāsī, for it is a sannyāsī who has spoiled all My brahminical smṛti regulations.\""
 }

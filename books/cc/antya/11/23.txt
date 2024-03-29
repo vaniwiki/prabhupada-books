@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 11.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.23",
     "description":"Śrī Caitanya Mahāprabhu further inquired from Haridāsa, \"Can you ascertain what your disease is?\" Haridāsa Ṭhākura replied, \"My disease is that I cannot complete my rounds.\""
 }

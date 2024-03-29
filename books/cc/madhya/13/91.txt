@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 13.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.91",
     "description":"With his hands on the shoulders of Haricandana, King Pratāparudra could see Lord Caitanya Mahāprabhu dancing, and the King felt great ecstasy."
 }

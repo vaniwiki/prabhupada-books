@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 3.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.47",
     "description":"Amongst the various vegetables were newly grown leaves of nimba trees fried with eggplant. The fruit known as paṭola was fried with phulabaḍi, a kind of dāl preparation first mashed and then dried in the sun. There was also a preparation known as kuṣmāṇḍa-mānacāki."
 }

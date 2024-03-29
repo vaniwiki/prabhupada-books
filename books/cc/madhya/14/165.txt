@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 14.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.165",
     "description":"\"Śrīmatī Rādhārāṇī's love is a highly advanced ecstasy. All Her dealings are completely pure and devoid of material tinge. Indeed, Her dealings are ten times purer than gold."
 }

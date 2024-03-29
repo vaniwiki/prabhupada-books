@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.90",
-    "h1":"Text 90",
+    "h1":"Cc. Ādi 12.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.90",
     "description":"All the followers of Gadādhara Paṇḍita are considered great devotees because they have Lord Śrī Caitanya Mahāprabhu as their life and soul."
 }

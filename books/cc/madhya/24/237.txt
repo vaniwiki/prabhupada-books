@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.237",
-    "h1":"Text 237",
+    "h1":"Cc. Madhya 24.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.237",
     "description":"\"When all the animals fled, the hunter wanted to chastise Nārada with abusive language, but due to Nārada's presence, he could not utter anything abusive."
 }

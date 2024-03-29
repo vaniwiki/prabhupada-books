@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 20.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.105",
     "description":"\"Since you possess Lord Kṛṣṇa's potency, you certainly know these things. However, it is the nature of a sādhu to inquire. Although he knows these things, the sādhu inquires for the sake of strictness."
 }

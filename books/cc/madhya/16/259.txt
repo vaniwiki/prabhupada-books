@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.259",
-    "h1":"Text 259",
+    "h1":"Cc. Madhya 16.259",
+    "label":"Text 259",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.259",
     "description":"\"Indeed, the crowd was so large that the house and the boundary walls of the house where I stayed were destroyed, and wherever I looked I could see only large crowds."
 }

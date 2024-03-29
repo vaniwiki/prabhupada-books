@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 4.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.5",
     "description":"By nature all the activities of Śrī Caitanya Mahāprabhu are very wonderful and sweet, and when they are described by Vṛndāvana dāsa Ṭhākura, they become like a shower of nectar."
 }

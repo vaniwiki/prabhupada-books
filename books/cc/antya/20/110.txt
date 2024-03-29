@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 20.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.110",
     "description":"In the Fifth Chapter, the Lord showed His favor to Pradyumna Miśra and made him hear topics of Kṛṣṇa from Rāmānanda Rāya."
 }

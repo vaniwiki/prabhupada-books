@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.16",
-    "h1":"Text 16",
+    "h1":"Cc. Ādi 7.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.16",
     "description":"There are innumerable pure devotees of the Lord, headed by Śrīvāsa Ṭhākura, who are known as unalloyed devotees."
 }

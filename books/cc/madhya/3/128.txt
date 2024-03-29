@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 3.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.128",
     "description":"The entire body of Lord Śrī Caitanya Mahāprabhu began to totter due to the onslaught of various ecstatic symptoms. As a result, He immediately fell on the ground, and His breathing almost stopped."
 }

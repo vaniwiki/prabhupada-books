@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.65",
-    "h1":"Text 65",
+    "h1":"Cc. Ādi 13.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.65",
     "description":"In all the revealed scriptures of Vedic culture, devotional service to Lord Kṛṣṇa is explained throughout. Therefore devotees of Lord Kṛṣṇa do not recognize the processes of philosophical speculation, mystic yoga, unnecessary austerity and so-called religious rituals. They do not accept any process but devotional service."
 }

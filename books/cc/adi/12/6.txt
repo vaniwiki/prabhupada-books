@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 12.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.6",
     "description":" The fruits of love of Godhead that grew on those branches of the Caitanya tree were so large that they flooded the entire world with love of Kṛṣṇa."
 }

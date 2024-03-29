@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 16.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.62",
     "description":"No one knew what Advaita Ācārya requested or what the Lord ordered. After embracing the Ācārya, Śrī Caitanya Mahāprabhu bade Him farewell."
 }

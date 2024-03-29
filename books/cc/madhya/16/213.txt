@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.213",
-    "h1":"Text 213",
+    "h1":"Cc. Madhya 16.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.213",
     "description":"I will not narrate these incidents because they have already been described by Vṛndāvana dāsa Ṭhākura. There is no need to repeat the same information, for such repetition would unlimitedly increase the size of this book."
 }

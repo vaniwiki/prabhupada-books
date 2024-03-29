@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.216",
-    "h1":"Text 216",
+    "h1":"Cc. Ādi 4.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.216",
     "description":"\"O Pārtha, in all the three planetary systems, this earth is especially fortunate, for on earth is the town of Vṛndāvana. And there the gopīs are especially glorious because among them is My Śrīmatī Rādhārāṇī.\""
 }

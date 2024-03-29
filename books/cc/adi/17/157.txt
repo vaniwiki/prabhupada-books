@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.157",
-    "h1":"Text 157",
+    "h1":"Cc. Ādi 17.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.157",
     "description":"\"On the path of material activities, there is regulation for killing cows. If such killing is done under the guidance of scripture, there is no sin.\""
 }

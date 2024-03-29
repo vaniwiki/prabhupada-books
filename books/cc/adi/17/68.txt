@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.68",
-    "h1":"Text 68",
+    "h1":"Cc. Ādi 17.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.68",
     "description":"At that time Advaita Ācārya was greatly pleased. The Lord understood this, and He was somewhat ashamed, but He offered Advaita Ācārya His benediction."
 }

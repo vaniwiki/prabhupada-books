@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.311",
-    "h1":"Text 311",
+    "h1":"Cc. Madhya 8.311",
+    "label":"Text 311",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.311",
     "description":"I offer ten million obeisances unto the lotus feet of Śrī Rāmānanda Rāya because from his mouth much spiritual information has been expanded by Śrī Caitanya Mahāprabhu."
 }

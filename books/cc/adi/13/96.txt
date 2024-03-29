@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 13.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.96",
     "description":"While all the ladies vibrated the holy name of Hari on earth, in the heavenly planets dancing and music were going on, for the demigods were very curious."
 }

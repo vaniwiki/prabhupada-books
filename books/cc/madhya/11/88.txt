@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 11.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.88",
     "description":"\"Here also are Govinda Ghoṣa, Mādhava Ghoṣa and Vāsudeva Ghoṣa. They are three brothers, and their saṅkīrtana, congregational chanting, pleases the Lord very much."
 }

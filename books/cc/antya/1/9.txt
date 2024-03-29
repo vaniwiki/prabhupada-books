@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 1.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.9",
     "description":"I have briefly described the pastimes of Śrī Caitanya Mahāprabhu known as the madhya-līlā. Now I shall attempt to describe something about His last pastimes, which are known as the antya-līlā."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.283",
-    "h1":"Text 283",
+    "h1":"Cc. Madhya 9.283",
+    "label":"Text 283",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.283",
     "description":"Śrī Caitanya Mahāprabhu chanted and danced in various ways as usual. A brāhmaṇa, seeing Him in ecstatic love, was very much pleased and invited the Lord to his home for lunch."
 }

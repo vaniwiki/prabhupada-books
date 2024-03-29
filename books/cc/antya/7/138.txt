@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.138",
-    "h1":"Text 138",
+    "h1":"Cc. Antya 7.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.138",
     "description":"Vallabha Bhaṭṭa Ācārya requested Śrī Caitanya Mahāprabhu, \"If You are actually pleased with me, please accept my invitation once again.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.62",
-    "h1":"Text 62",
+    "h1":"Cc. Ādi 8.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.62",
     "description":"He always accepted the good qualities of Vaiṣṇavas and never found fault in them. He engaged his heart and soul only to satisfy the Vaiṣṇavas."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.220",
-    "h1":"Text 220",
+    "h1":"Cc. Ādi 5.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.220",
     "description":"By His left side is Śrīmatī Rādhārāṇī and Her personal friends. With them Lord Govinda enjoys the rāsa-līlā and many other pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 7.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.78",
     "description":"Seeing the beauty of Śrī Caitanya Mahāprabhu and the awakening of His ecstatic love, Vallabha Bhaṭṭa concluded, \"Here is Lord Kṛṣṇa, without a doubt.\""
 }

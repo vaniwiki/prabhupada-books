@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 8.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.36",
     "description":"Mādhavendra Purī sowed the seed of ecstatic love for Kṛṣṇa within this material world and then departed. That seed later became a great tree in the form of Śrī Caitanya Mahāprabhu."
 }

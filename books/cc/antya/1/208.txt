@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.208",
-    "h1":"Text 208",
+    "h1":"Cc. Antya 1.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.208",
     "description":"Seeing Śrī Caitanya Mahāprabhu's special mercy toward Śrīla Rūpa Gosvāmī and seeing his personal qualities, all the devotees were struck with wonder."
 }

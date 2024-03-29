@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 14.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.220",
     "description":"\"Śrī Kṛṣṇa is the Supreme Personality of Godhead full of all opulences, and His complete opulences are exhibited only in Vṛndāvana-dhāma."
 }

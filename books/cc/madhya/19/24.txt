@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 19.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.24",
     "description":"Becoming angry with Sanātana Gosvāmī, the Nawab said, \"Your elder brother is acting just like a plunderer."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 6.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.73",
     "description":"Gopīnātha Ācārya replied, \"Śrī Kṛṣṇa Caitanya Mahāprabhu does not rely on any external formality. There is no need for Him to accept the sannyāsa order from a superior sampradāya.\""
 }

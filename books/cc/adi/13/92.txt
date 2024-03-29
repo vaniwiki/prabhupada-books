@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 13.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.92",
     "description":"Considering this, Rāhu, the black planet, covered the full moon, and immediately vibrations of \"Kṛṣṇa! Kṛṣṇa! Hari!\" inundated the three worlds."
 }

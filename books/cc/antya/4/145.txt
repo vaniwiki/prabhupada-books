@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 4.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.145",
     "description":"After talking in this way, Sanātana Gosvāmī and Jagadānanda Paṇḍita returned to their respective duties. The next day, Śrī Caitanya Mahāprabhu went to see Haridāsa and Sanātana Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 4.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.118",
     "description":"\"This sweet rice is celebrated throughout the world as gopīnātha-kṣīra. It is not offered anywhere else in the world.\""
 }

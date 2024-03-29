@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 4.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.195",
     "description":"Only Śrī Caitanya Mahāprabhu has tasted the poetry of this verse. No fourth man is capable of understanding it."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 2.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.146",
     "description":"Thus at the end of one night, Junior Haridāsa, after offering Śrī Caitanya Mahāprabhu his respectful obeisances, departed for Prayāga without saying anything to anyone."
 }

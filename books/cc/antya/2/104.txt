@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 2.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.104",
     "description":"Śikhi Māhiti's sister was named Mādhavīdevī. She was an elderly lady who always performed austerities. She was very advanced in devotional service."
 }

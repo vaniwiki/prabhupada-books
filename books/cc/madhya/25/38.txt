@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 25.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.38",
     "description":"\" 'O most auspicious one! For our benefit You are worshiped by us. You manifest Your transcendental form, which You show to us in our meditation. We offer our respectful obeisances unto You, the Supreme Person, and we worship You whom impersonalists do not accept due to their poor fund of knowledge. Thus they are liable to descend into a hellish condition.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 24.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.188",
     "description":"\"By the mercy of Kṛṣṇa and by the association of devotees, one increases his attraction to and intelligence for pure devotional service; therefore one gives up everything and engages himself at the lotus feet of Kṛṣṇa and His pure devotees."
 }

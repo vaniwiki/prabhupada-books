@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.246",
-    "h1":"Text 246",
+    "h1":"Cc. Madhya 20.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.246",
     "description":"\"There are incarnations that control the material qualities [guṇa-avatāras], incarnations of the Manus [manvantara-avatāras], incarnations in different millenniums [yuga-avatāras] and incarnations of empowered living entities [śaktyāveśa-avatāras]."
 }

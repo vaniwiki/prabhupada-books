@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 6.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.31",
     "description":"After informing the minister, the caudhurī released Raghunātha dāsa and then began to speak to him with great affection."
 }

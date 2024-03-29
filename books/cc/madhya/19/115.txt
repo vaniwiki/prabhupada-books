@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 19.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.115",
     "description":"Śrī Caitanya Mahāprabhu taught Śrīla Rūpa Gosvāmī the ultimate limit of the truth about Lord Kṛṣṇa, the truth about devotional service and the truth about transcendental mellows, consummating in conjugal love between Rādhā and Kṛṣṇa. Finally He told Rūpa Gosvāmī about the ultimate conclusions of Śrīmad-Bhāgavatam."
 }

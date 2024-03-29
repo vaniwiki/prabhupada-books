@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.102",
-    "h1":"Text 102",
+    "h1":"Cc. Ādi 13.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.102",
     "description":"Ācāryaratna [Candraśekhara] and Śrīvāsa Ṭhākura were overwhelmed with joy, and immediately they went to the bank of the Ganges to take bath in the water of the Ganges. Their minds full of happiness, they chanted the Hare Kṛṣṇa mantra and gave charity by mental strength."
 }

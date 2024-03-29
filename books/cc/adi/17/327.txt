@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.327",
-    "h1":"Text 327",
+    "h1":"Cc. Ādi 17.327",
+    "label":"Text 327",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.327",
     "description":"In the Sixteenth Chapter I have indicated the pastimes of the kaiśora age [the age prior to youth]. In the Seventeenth Chapter I have specifically described His youthful pastimes."
 }

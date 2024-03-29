@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.326",
-    "h1":"Text 326",
+    "h1":"Cc. Antya 6.326",
+    "label":"Text 326",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.326",
     "description":"In his own poem known as the Gaurāṅga-stava-kalpavṛkṣa, Raghunātha dāsa has described his personal deliverance."
 }

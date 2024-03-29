@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.304",
-    "h1":"Text 304",
+    "h1":"Cc. Madhya 24.304",
+    "label":"Text 304",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.304",
     "description":"\"The word api is then used in the sense of ascertainment, and then four times with four words the word eva can be uttered."
 }

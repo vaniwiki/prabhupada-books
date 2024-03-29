@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 4.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.68",
     "description":"\"The Supreme Personality of Godhead, Kṛṣṇa, is always favorable to the humble and meek, but aristocrats, learned scholars and the wealthy are always proud of their positions."
 }

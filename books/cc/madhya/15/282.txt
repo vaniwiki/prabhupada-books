@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.282",
-    "h1":"Text 282",
+    "h1":"Cc. Madhya 15.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.282",
     "description":"Indeed, Amogha continued slapping his face over and over until his cheeks were swollen. Finally Gopīnātha Ācārya stopped him by catching hold of his hands."
 }

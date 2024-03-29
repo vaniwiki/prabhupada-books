@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.36",
-    "h1":"Text 36",
+    "h1":"Cc. Madhya 15.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.36",
     "description":"Śrī Caitanya Mahāprabhu and His devotees participated in all the festivals known as Rāsa-yātrā, Dīpāvalī and Utthāna-dvādaśī."
 }

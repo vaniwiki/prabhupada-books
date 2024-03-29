@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 13.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.40",
     "description":"Day and night Lord Caitanya Mahāprabhu felt separation from Kṛṣṇa. Manifesting symptoms of this separation, He cried and talked very inconsistently, like a madman."
 }

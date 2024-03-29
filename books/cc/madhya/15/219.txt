@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.219",
-    "h1":"Text 219",
+    "h1":"Cc. Madhya 15.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.219",
     "description":"Thus Bhaṭṭācārya prepared a great variety of food and spread a fine cloth over a white wooden platform."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.11",
-    "h1":"Text 11",
+    "h1":"Cc. Madhya 12.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.11",
     "description":"When the Bhaṭṭācārya received this letter, he became very anxious. He then took the letter and went to the devotees of the Lord."
 }

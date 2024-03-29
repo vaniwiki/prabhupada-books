@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 22.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.59",
     "description":"\"Although Kṛṣṇa has previously explained the proficiency of executing Vedic rituals, performing fruitive activity as enjoined in the Vedas, practicing yoga and cultivating jñāna, these last instructions are most powerful and stand above all the others."
 }

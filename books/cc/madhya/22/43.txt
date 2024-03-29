@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 22.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.43",
     "description":"\"There are unlimited conditioned souls who are bereft of Lord Kṛṣṇa's service. Not knowing how to cross the ocean of nescience, they are scattered by waves, time and tide. However, some are fortunate to contact devotees, and by this contact they are deIivered from the ocean of nescience, just as a log, floating down a river, accidentally washes upon the bank."
 }

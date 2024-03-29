@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 6.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.58",
     "description":"\"Because you are a teacher of Vedānta philosophy, you are the master of all the people in the world and their well-wisher as well. You are also the benefactor of all kinds of sannyāsīs."
 }

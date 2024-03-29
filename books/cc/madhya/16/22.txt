@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 16.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.22",
     "description":"Śrīvāsa Paṇḍita also took his wife, Mālinī, and the wife of Śivānanda Sena also went with her husband."
 }

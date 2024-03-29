@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.13",
-    "h1":"Text 13",
+    "h1":"Cc. Ādi 6.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.13",
     "description":"Mahā-Viṣṇu creates the entire material world, with millions of His parts, energies and incarnations."
 }

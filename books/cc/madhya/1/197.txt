@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 1.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.197",
     "description":"\"Actually we belong to the caste of meat-eaters because we are servants of meat-eaters. Indeed, our activities are exactly like those of the meat-eaters. Because we always associate with such people, we are inimical toward the cows and brāhmaṇas.\""
 }

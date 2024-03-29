@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 6.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.193",
     "description":"Upon the request of Sārvabhauma Bhaṭṭācārya, Lord Caitanya Mahāprabhu began to explain the verse, without touching upon the nine explanations given by the Bhaṭṭācārya."
 }

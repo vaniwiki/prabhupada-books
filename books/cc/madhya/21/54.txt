@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 21.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.54",
     "description":"\"Kṛṣṇa is the supreme proprietor of all dhāmas, including Goloka-dhāma, Vaikuṇṭha-dhāma and Devī-dhāma. The paravyoma and Goloka-dhāma are beyond Devī-dhāma, this material world."
 }

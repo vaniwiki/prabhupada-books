@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 5.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.13",
     "description":"\"There are two dancing girls who are extremely beautiful. They are very youthful, and they are expert in dancing and singing."
 }

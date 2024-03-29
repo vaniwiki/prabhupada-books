@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 8.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.76",
     "description":"\"It is Rāmacandra Purī's business to inquire always about how others are eating and conducting their daily affairs."
 }

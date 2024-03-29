@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.139",
-    "h1":"Text 139",
+    "h1":"Cc. Ādi 10.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.139",
     "description":"In the list of prominent devotees at Nīlācala [Jagannātha Purī], Kāśīśvara was the eighteenth and Govinda the nineteenth. They both came to see Caitanya Mahāprabhu at Jagannātha Purī, being thus ordered by Īśvara Purī at the time of his passing away."
 }

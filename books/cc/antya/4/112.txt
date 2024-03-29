@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 4.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.112",
     "description":"Sanātana Gosvāmī was dear to everyone because of his exalted qualities in learning. Suitably, therefore, they bestowed upon him mercy, friendship and honor."
 }

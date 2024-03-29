@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.193",
-    "h1":"Text 193",
+    "h1":"Cc. Ādi 17.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.193",
     "description":"\" 'The religion of the Hindus has increased unlimitedly. There are always vibrations of \"Hari! Hari!\" We do not hear anything but this.'"
 }

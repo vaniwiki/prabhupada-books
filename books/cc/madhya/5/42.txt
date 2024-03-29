@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 5.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.42",
     "description":"The elderly brāhmaṇa said, \"If I do not give my daughter to the young brāhmaṇa, he will call Śrī Gopālajī as a witness. Thus he will take my daughter by force, and in that case my religious principles will become meaningless.\""
 }

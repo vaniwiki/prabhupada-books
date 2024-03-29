@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.163",
-    "h1":"Text 163",
+    "h1":"Cc. Madhya 25.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.163",
     "description":"When everyone heard Śrī Caitanya Mahāprabhu's explanation of the ātmārāma-śloka, everyone was astonished and struck with wonder. They concluded that Śrī Caitanya Mahāprabhu was none other than Lord Kṛṣṇa Himself."
 }

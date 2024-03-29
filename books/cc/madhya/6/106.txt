@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 6.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.106",
     "description":"\"When the Lord will be pleased with you, you will also understand these conclusions and will quote from the śāstras."
 }

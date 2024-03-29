@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 9.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.15",
     "description":"Śrī Caitanya Mahāprabhu then went to Mallikārjuna-tīrtha and saw the deity of Lord Śiva there. He also induced all the people to chant the Hare Kṛṣṇa mahā-mantra."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 16.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.33",
     "description":"It was Gopīnātha who stole condensed milk for the sake of Mādhavendra Purī. This incident had been previously related by Śrī Caitanya Mahāprabhu Himself."
 }

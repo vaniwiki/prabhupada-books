@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 19.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.61",
     "description":"Lighting a lamp, Svarūpa Dāmodara and Govinda entered the room. When they saw the Lord's face, both of them were full of sorrow."
 }

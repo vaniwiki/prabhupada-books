@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 16.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.60",
     "description":"The dust of the feet of a devotee, the water that has washed the feet of a devotee, and the remnants of food left by a devotee are three very powerful substances."
 }

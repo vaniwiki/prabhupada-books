@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 12.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.98",
     "description":"Vāsudeva Datta and Murāri Gupta were so pleased to see Jagadānanda Paṇḍita that they kept him at their homes and would not allow him to leave."
 }

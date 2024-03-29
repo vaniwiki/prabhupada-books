@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 13.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.17",
     "description":"Then Svarūpa Dāmodara Gosvāmī devised another method. First he secured a large quantity of dry banana leaves."
 }

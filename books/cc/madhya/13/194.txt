@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.194",
-    "h1":"Text 194",
+    "h1":"Cc. Madhya 13.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.194",
     "description":"On the left side, Lord Jagannātha saw the neighborhood of brāhmaṇas known as vipra-śāsana and the coconut tree grove. On the right side, He saw nice flower gardens resembling those in the holy place Vṛndāvana."
 }

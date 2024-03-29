@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 10.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.101",
     "description":"The Lord is very interested in manifesting the exalted qualities of His devotees, and that is why He engineered this incident."
 }

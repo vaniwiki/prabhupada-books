@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 3.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.169",
     "description":"Hearing these proposals made by other devotees of the Lord, mother Śacī said to the devotees, \"How many times shall I get the chance to see Nimāi again?\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.100",
-    "h1":"Text 100",
+    "h1":"Cc. Ādi 13.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.100",
     "description":"Seeing the lunar eclipse and laughing, both Advaita Ācārya and Haridāsa Ṭhākura immediately went to the bank of the Ganges and bathed in the Ganges in great jubilation. Taking advantage of the occasion of the lunar eclipse, Advaita Ācārya, by His own mental strength, distributed various types of charity to the brāhmaṇas."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 5.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.152",
     "description":"After hearing the story about how His staff had been broken, the Lord expressed a little sadness and, displaying a bit of anger, began to speak as follows."
 }

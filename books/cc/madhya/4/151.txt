@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 4.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.151",
     "description":"Those who were acquainted with government officers met with them and begged for camphor and sandalwood, which they collected."
 }

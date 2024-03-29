@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 25.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.145",
     "description":"\" 'The essence of all Vedic literature and all histories has been collected in this Śrīmad-Bhāgavatam.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 22.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.101",
     "description":"\" 'One whose body is fully surrendered takes shelter at the holy place where Kṛṣṇa had His pastimes, and he prays to the Lord, \"My Lord, I am Yours.\" Understanding this with his mind, he enjoys spiritual bliss."
 }

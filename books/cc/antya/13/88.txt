@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.88",
-    "h1":"Text 88",
+    "h1":"Cc. Antya 13.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.88",
     "description":"After saying this, Śrī Caitanya Mahāprabhu returned home. When Svarūpa Gosvāmī and His other attendants heard about the incident, they were very afraid."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.75",
-    "h1":"Text 75",
+    "h1":"Cc. Madhya 6.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.75",
     "description":"\"I shall continuously recite Vedānta philosophy before Caitanya Mahāprabhu so that He may remain fixed in His renunciation and thus enter upon the path of monism.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 2.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.92",
     "description":"In this chapter I have briefly described the antya-līlā. Whatever I have not described I shall describe extensively in the future. If by Śrī Caitanya Mahāprabhu's mercy I live for so many days that I can fulfill my desires, I will give full consideration to these pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.102",
-    "h1":"Text 102",
+    "h1":"Cc. Antya 5.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.102",
     "description":"\"In the writings of so-called poets there is generally a possibility of overlapping transcendental mellows. When the mellows thus go against the conclusive understanding, no one likes to hear such poetry."
 }

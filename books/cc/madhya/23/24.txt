@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 23.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.24",
     "description":"\"In the material field, people are interested in material enjoyment, mystic power and sense gratification. However, these things do not appeal to the devotee at all."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.182",
-    "h1":"Text 182",
+    "h1":"Cc. Antya 4.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.182",
     "description":"\"My Lord, we are all fallen, but You have accepted us due to Your attribute of being merciful to the fallen. This is well known all over the world.\""
 }

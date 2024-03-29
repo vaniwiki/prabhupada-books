@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 16.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.1",
     "description":"I worship Lord Śrī Caitanya Mahāprabhu, whose nectarean mercy flows like a great river, inundating the entire universe. Just as a river flows downstream, Lord Caitanya especially extends Himself to the fallen."
 }

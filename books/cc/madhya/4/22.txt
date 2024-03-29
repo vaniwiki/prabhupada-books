@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 4.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.22",
     "description":"Mādhavendra Purī was almost mad in his ecstasy of love of Godhead, and he did not know whether it was day or night. Sometimes he stood up, and sometimes he fell to the ground. He could not discriminate whether he was in a proper place or not."
 }

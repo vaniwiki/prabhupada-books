@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 5.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.146",
     "description":"\"Śiśupāla also blasphemed Kṛṣṇa in this way, but the goddess of learning, Sarasvatī, offered her prayers to Kṛṣṇa even by his words."
 }

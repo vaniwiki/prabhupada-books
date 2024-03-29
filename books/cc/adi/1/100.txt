@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.100",
-    "h1":"Text 100",
+    "h1":"Cc. Ādi 1.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.100",
     "description":"Through the actions of these two bhāgavatas the Lord instills the mellows of transcendental loving service into the heart of a living being, and thus the Lord, in the heart of His devotee, comes under the control of the devotee's love."
 }

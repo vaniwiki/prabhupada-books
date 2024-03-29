@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 6.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.29",
     "description":"Hearing this and feeling very pleased, Gopīnātha Ācārya immediately took all the devotees with him and approached the house of Sārvabhauma Bhaṭṭācārya."
 }

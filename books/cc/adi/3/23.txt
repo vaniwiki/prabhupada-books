@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 3.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.23",
     "description":"\" 'To deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I Myself appear, millennium after millennium.'"
 }

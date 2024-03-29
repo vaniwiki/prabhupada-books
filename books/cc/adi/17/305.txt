@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.305",
-    "h1":"Text 305",
+    "h1":"Cc. Ādi 17.305",
+    "label":"Text 305",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.305",
     "description":"One cannot understand the contradictions in Lord Caitanya's character by putting forward mundane logic and arguments. Consequently one should not maintain doubts in this connection. One should simply try to understand the inconceivable energy of Kṛṣṇa; otherwise one cannot understand how such contradictions are possible."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 4.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.53",
     "description":"Since the Deity was very heavy, some of the stronger men assembled to carry Him to the top of the hill. Mādhavendra Purī also went there."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.202",
-    "h1":"Text 202",
+    "h1":"Cc. Madhya 8.202",
+    "label":"Text 202",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.202",
     "description":"\"Actually, only the gopīs have the right to appreciate these transcendental pastimes, and only from them can these pastimes be expanded."
 }

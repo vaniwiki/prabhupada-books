@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 25.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.142",
     "description":"\"Śrīmad-Bhāgavatam gives the actual meaning of the Vedānta-sūtra. The author of the Vedānta-sūtra is Vyāsadeva, and he himself has explained those codes in the form of Śrīmad-Bhāgavatam."
 }

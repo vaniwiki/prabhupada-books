@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.279",
-    "h1":"Text 279",
+    "h1":"Cc. Madhya 9.279",
+    "label":"Text 279",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.279",
     "description":"Śrī Caitanya Mahāprabhu, the son of mother Śacī, went to Tritakūpa, and after seeing the Viśālā Deity there, He went to the holy place known as Pañcāpsarā-tīrtha."
 }

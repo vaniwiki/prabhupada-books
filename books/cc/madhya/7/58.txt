@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 7.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.58",
     "description":"Accompanied by His personal associates and Sārvabhauma Bhaṭṭācārya, Śrī Caitanya Mahāprabhu circumambulated the altar of Jagannātha. The Lord then departed on His South Indian tour."
 }

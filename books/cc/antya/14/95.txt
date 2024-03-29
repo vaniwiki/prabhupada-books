@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 14.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.95",
     "description":"His entire body faded to the color of a white conchshell, and then He began to quiver, like the waves in the ocean."
 }

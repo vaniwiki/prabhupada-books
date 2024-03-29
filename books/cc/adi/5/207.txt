@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.207",
-    "h1":"Text 207",
+    "h1":"Cc. Ādi 5.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.207",
     "description":"Who in this world but Nityānanda could show His mercy to such an abominable person as me?"
 }

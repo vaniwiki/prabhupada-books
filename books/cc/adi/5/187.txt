@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.187",
-    "h1":"Text 187",
+    "h1":"Cc. Ādi 5.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.187",
     "description":"His body was anointed with sandalwood pulp, and He was nicely decorated with tilaka. His movements surpassed those of a maddened elephant."
 }

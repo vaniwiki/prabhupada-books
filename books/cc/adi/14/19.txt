@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.19",
-    "h1":"Text 19",
+    "h1":"Cc. Ādi 14.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.19",
     "description":"\"In the future this child will protect and maintain all the world. For this reason He is to be called Viśvambhara.\""
 }

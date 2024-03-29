@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.247",
-    "h1":"Text 247",
+    "h1":"Cc. Madhya 14.247",
+    "label":"Text 247",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.247",
     "description":"When the Jagannātha Deity is carried, at intervals He is placed on cotton pads. When the ropes broke, the cotton pads also broke due to the weight of Lord Jagannātha, and the cotton floated in the air."
 }

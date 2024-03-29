@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.139",
-    "h1":"Text 139",
+    "h1":"Cc. Antya 6.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.139",
     "description":"\"My dear Raghunātha dāsa,\" He said, \"since you arranged the feast on the bank of the Ganges, Śrī Caitanya Mahāprabhu came here just to show you His mercy."
 }

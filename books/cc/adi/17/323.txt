@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.323",
-    "h1":"Text 323",
+    "h1":"Cc. Ādi 17.323",
+    "label":"Text 323",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.323",
     "description":"The Tenth Chapter describes the branches and subbranches of the main trunk, and the distribution of their fruits."
 }

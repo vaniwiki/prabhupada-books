@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 8.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.28",
     "description":"Īśvara Purī, the spiritual master of Śrī Caitanya Mahāprabhu, performed service to Mādhavendra Purī, cleaning up his stool and urine with his own hand."
 }

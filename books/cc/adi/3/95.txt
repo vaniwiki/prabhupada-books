@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.95",
-    "h1":"Text 95",
+    "h1":"Cc. Ādi 3.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.95",
     "description":"Mādhavendra Purī, Īśvara Purī, Śrīmatī Śacīmātā and Śrīla Jagannātha Miśra all appeared with Śrī Advaita Ācārya."
 }

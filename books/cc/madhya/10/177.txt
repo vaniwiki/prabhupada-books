@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 10.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.177",
     "description":"\"Bilvamaṅgala Ṭhākura abandoned his impersonal realization for the realization of the Personality of Godhead. I now see that my condition is similar to his, for it has already changed.\""
 }

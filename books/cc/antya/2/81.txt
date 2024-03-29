@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 2.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.81",
     "description":"Lord Gaurasundara is greatly influenced by the love of His devotees. Therefore wherever there is pure devotion to the Lord, the Lord Himself, subdued by such love, appears, and His devotees see Him."
 }

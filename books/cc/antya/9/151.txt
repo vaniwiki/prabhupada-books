@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.151",
-    "h1":"Text 151",
+    "h1":"Cc. Antya 9.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.151",
     "description":"The intentions of Śrī Caitanya Mahāprabhu are so deep that one can understand them only if he has complete faith in service to the lotus feet of the Lord."
 }

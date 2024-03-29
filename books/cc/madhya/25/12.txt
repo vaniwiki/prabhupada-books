@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 25.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.12",
     "description":"At this time, Candraśekhara and Tapana Miśra both heard blasphemous criticism against Śrī Caitanya Mahāprabhu and felt very unhappy. They came to Śrī Caitanya Mahāprabhu's lotus feet to submit a request."
 }

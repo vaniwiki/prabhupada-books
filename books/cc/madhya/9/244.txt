@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.244",
-    "h1":"Text 244",
+    "h1":"Cc. Madhya 9.244",
+    "label":"Text 244",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.244",
     "description":"Then He saw the monastery known as Śṛṅgeri-maṭha, the abode of Ācārya Śaṅkara. He then visited Matsya-tīrtha, a place of pilgrimage, and took a bath in the river Tuṅgabhadrā."
 }

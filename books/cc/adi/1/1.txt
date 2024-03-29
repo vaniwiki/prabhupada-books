@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 1.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.1",
     "description":"I offer my respectful obeisances unto the spiritual masters, the devotees of the Lord, the Lord's incarnations, His plenary portions, His energies, and the primeval Lord Himself, Śrī Kṛṣṇa Caitanya."
 }

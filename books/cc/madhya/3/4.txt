@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 3.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.4",
     "description":"After accepting the sannyāsa order, Caitanya Mahāprabhu, out of intense love for Kṛṣṇa, started for Vṛndāvana. However, He mistakenly wandered about in a trance continuously for three days in the tract of land known as Rāḍha-deśa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.125",
-    "h1":"Text 125",
+    "h1":"Cc. Madhya 17.125",
+    "label":"Text 125",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.125",
     "description":"The brāhmaṇa said, \"As soon as I uttered Your name before him, he immediately confirmed the fact that he knew Your name."
 }

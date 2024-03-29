@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 7.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.40",
     "description":"\"O dearly beloved! Your lotus feet are so soft that we place them gently on our breasts, fearing that Your feet will be hurt. Our lives rest only in You. Our minds, therefore, are filled with anxiety that Your tender feet might be wounded by pebbles as You roam about on the forest path.'"
 }

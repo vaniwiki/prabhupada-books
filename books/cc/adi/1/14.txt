@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 1.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.14",
     "description":"I offer my obeisances unto the Supreme Lord, Kṛṣṇa, who is nondifferent from His features as a devotee, devotional incarnation, devotional manifestation, pure devotee, and devotional energy."
 }

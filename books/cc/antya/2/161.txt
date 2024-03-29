@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.161",
-    "h1":"Text 161",
+    "h1":"Cc. Antya 2.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.161",
     "description":"He explained how Junior Haridāsa had made his resolution and had thus entered the waters at the confluence of the Yamunā and Ganges. Hearing these details, Śrīvāsa Ṭhākura and the other devotees were very surprised."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.220",
-    "h1":"Text 220",
+    "h1":"Cc. Antya 6.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.220",
     "description":"Renunciation is the basic principle sustaining the lives of Śrī Caitanya Mahāprabhu's devotees. Seeing this renunciation, Śrī Caitanya Mahāprabhu, the Supreme Personality of Godhead, is extremely satisfied."
 }

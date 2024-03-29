@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.342",
-    "h1":"Text 342",
+    "h1":"Cc. Madhya 9.342",
+    "label":"Text 342",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.342",
     "description":"The Lord was also filled with ecstatic love, and He embraced them all. Out of their love, they began to cry with pleasure."
 }

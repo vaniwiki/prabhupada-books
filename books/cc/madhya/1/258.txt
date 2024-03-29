@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.258",
-    "h1":"Text 258",
+    "h1":"Cc. Madhya 1.258",
+    "label":"Text 258",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.258",
     "description":"At Jagannātha Purī Śrīla Rūpa Gosvāmī met the Lord again, and the Lord invested his heart with all transcendental power."
 }

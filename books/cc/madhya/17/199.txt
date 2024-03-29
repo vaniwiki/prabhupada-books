@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 17.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.199",
     "description":"Bumblebees and birds like the parrot and cuckoo all began to sing loudly on the fifth note, and the peacocks began to dance in front of the Lord."
 }

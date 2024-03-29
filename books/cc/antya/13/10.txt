@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 13.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.10",
     "description":"When it was time for the Lord to go to bed, Svarūpa Dāmodara stayed nearby, but when Śrī Caitanya Mahāprabhu saw the quilt and pillow, He was immediately very angry."
 }

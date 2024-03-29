@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 20.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.21",
     "description":"Saying this, the landlord offered Sanātana grains to cook. Sanātana then went to the riverside and took his bath."
 }

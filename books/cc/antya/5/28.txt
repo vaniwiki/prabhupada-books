@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 5.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.28",
     "description":"He offered his obeisances to Pradyumna Miśra with all respect and then, with great humility, spoke as follows."
 }

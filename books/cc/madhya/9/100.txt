@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 9.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.100",
     "description":"\"While seeing Lord Kṛṣṇa sitting in a chariot and instructing Arjuna, I am filled with ecstatic happiness."
 }

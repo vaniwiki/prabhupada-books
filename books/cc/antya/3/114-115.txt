@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.114-115",
-    "h1":"Text 114-115",
+    "h1":"Cc. Antya 3.114-115",
+    "label":"Text 114-115",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.114-115",
     "description":"Haridāsa Ṭhākura replied, \"I shall accept you without fall, but you will have to wait until I have finished chanting my regular rounds on my beads. Until that time, please sit and listen to the chanting of the holy name. As soon as I am finished, I shall fulfill your desire.\""
 }

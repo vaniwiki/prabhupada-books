@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 6.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.126",
     "description":"Śrī Caitanya Mahāprabhu replied, \"I am a fool, and consequently I do not study the Vedānta-sūtra. I am just trying to hear it from you because you have ordered Me."
 }

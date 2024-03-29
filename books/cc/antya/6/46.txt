@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 6.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.46",
     "description":"Raghunātha dāsa offered his obeisances by falling prostrate at a distant place, and the servant of Nityānanda Prabhu pointed out, \"There is Raghunātha dāsa, offering You obeisances.\""
 }

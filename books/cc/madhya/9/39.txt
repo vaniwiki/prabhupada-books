@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.39",
-    "h1":"Text 39",
+    "h1":"Cc. Madhya 9.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.39",
     "description":"Śrī Caitanya Mahāprabhu then left Vṛddhakāśī and proceeded further. In one village He saw that most of the residents were brāhmaṇas, and He took His rest there."
 }

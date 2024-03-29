@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 14.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.71",
     "description":"As soon as the Lord returned to external consciousness, all His joints contracted, and His entire body returned to normal."
 }

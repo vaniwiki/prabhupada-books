@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 17.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.224",
     "description":"Being thus ordered by the Lord, both Balabhadra Bhaṭṭācārya and the brāhmaṇa began to chant the holy name of Kṛṣṇa. Then the Lord, dancing and dancing, proceeded along the path."
 }

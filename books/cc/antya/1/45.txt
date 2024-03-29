@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 1.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.45",
     "description":"Thus absorbed in thought, he quickly reached Jagannātha Purī. When he arrived, he approached the hut of Haridāsa Ṭhākura."
 }

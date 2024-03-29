@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.19",
-    "h1":"Text 19",
+    "h1":"Cc. Antya 17.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.19",
     "description":"The devotees tried to rouse the Lord by various means, but His consciousness did not return. Therefore they all lifted Him and brought Him back home."
 }

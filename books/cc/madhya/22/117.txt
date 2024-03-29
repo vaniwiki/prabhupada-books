@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 22.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.117",
     "description":"\"One should worship dhātrī trees, banyan trees, cows, brāhmaṇas and devotees of Lord Viṣṇu. One should avoid offenses against devotional service and the holy name."
 }

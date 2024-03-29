@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 1.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.146",
     "description":"On Janmāṣṭamī, Lord Kṛṣṇa's birthday, Śrī Caitanya Mahāprabhu dressed Himself as a cowherd boy. At that time He carried a balance with pots of yogurt and wheeled a rod about."
 }

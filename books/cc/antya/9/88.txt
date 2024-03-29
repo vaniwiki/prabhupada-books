@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.88",
-    "h1":"Text 88",
+    "h1":"Cc. Antya 9.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.88",
     "description":"\"Because he is mad after sense gratification,' the Lord said, 'he acts as a government servant but spends the government's revenue for various sinful activities."
 }

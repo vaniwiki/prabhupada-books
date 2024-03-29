@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 15.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.31",
     "description":"Absorbed in the ecstatic mood of the gopīs, Śrī Caitanya Mahāprabhu wandered here and there. He began to inquire after Kṛṣṇa by quoting verses to all the trees and creepers."
 }

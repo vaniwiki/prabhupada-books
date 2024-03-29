@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 18.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.70",
     "description":"Seeing a great crowd assemble at Mathurā, Śrī Caitanya Mahāprabhu left and went to Akrūra-tīrtha. He remained there in a solitary place."
 }

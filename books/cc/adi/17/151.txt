@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.151",
-    "h1":"Text 151",
+    "h1":"Cc. Ādi 17.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.151",
     "description":"In this way the Kazi and the Lord talked with each other with various indications, but no outsider could understand the inner meaning of their conversation."
 }

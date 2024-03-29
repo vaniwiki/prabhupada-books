@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 15.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.53",
     "description":"\"Indeed, I go there daily to see her lotus feet. She is able to feel My presence, although she does not believe it to be true."
 }

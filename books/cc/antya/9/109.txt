@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.109",
-    "h1":"Text 109",
+    "h1":"Cc. Antya 9.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.109",
     "description":"Gopīnātha Paṭṭanāyaka achieved the result of kingly opulence due to but a glimpse of the Lord's mercy. Therefore no one can calculate the full value of His mercy."
 }

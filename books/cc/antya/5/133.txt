@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 5.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.133",
     "description":"\"Only if you follow the principles of Śrī Caitanya Mahāprabhu and His devotees will your learning be successful. Then you will be able to write about the transcendental pastimes of Kṛṣṇa without material contamination."
 }

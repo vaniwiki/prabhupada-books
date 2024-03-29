@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 4.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.41",
     "description":"\" 'Both of you please be merciful to me and order me in such a way so that life after life I may serve the lotus feet of Lord Raghunātha."
 }

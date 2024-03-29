@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 10.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.105",
     "description":"Śrī Gopāla Bhaṭṭa Gosvāmī, the forty-seventh branch, was one of the great and exalted branches of the tree. He always engaged in discourses about love of Godhead in the company of Rūpa Gosvāmī and Sanātana Gosvāmī."
 }

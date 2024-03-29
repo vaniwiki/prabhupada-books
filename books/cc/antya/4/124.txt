@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.124",
-    "h1":"Text 124",
+    "h1":"Cc. Antya 4.124",
+    "label":"Text 124",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.124",
     "description":"\"The hot sand must have blistered your soles. Now you cannot walk. How did you tolerate it?\""
 }

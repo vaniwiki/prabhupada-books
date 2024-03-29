@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.155",
-    "h1":"Text 155",
+    "h1":"Cc. Antya 6.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.155",
     "description":"From that day on, he did not go into the interior section of the house. Instead, he would sleep on the Durgā-maṇḍapa [the place where mother Durgā was worshiped]."
 }

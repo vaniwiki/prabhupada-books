@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 24.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.191",
     "description":"\"Considering all these points, when one engages in the service of Kṛṣṇa's lotus feet, Kṛṣṇa gives one the intelligence by which he can gradually progress toward perfection in service to the Lord."
 }

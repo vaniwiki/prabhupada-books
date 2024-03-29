@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 11.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.53",
     "description":"Haridāsa Ṭhākura made Śrī Caitanya Mahāprabhu sit down in front of him, and then he fixed his eyes, like two bumblebees, on the lotus face of the Lord."
 }

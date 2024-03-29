@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.140",
-    "h1":"Text 140",
+    "h1":"Cc. Antya 5.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.140",
     "description":"\"The word 'vācāla' is used to refer to a person who can speak according to Vedic authority, and the word 'bāliśa' means 'innocent.' Kṛṣṇa spoke the Vedic knowledge, yet He always presents Himself as a prideless, innocent boy."
 }

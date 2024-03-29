@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.195",
-    "h1":"Text 195",
+    "h1":"Cc. Ādi 5.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.195",
     "description":"\"O my dear Kṛṣṇadāsa, do not be afraid. Go to Vṛndāvana, for there you will attain all things.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.269",
-    "h1":"Text 269",
+    "h1":"Cc. Madhya 9.269",
+    "label":"Text 269",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.269",
     "description":"\" 'It is very difficult to give up material opulence, land, children, society, friends, riches, wife or the blessings of the goddess of fortune, which are desired even by great demigods. But King Bharata did not desire such things, and this was quite befitting his position, because for a pure devotee whose mind is always engaged in service of the Lord, even the liberation of merging into the existence of the Lord is insignificant. And what to speak of material opportunities?'"
 }

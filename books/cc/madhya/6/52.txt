@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 6.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.52",
     "description":"\"Lord Caitanya Mahāprabhu is the son of that Jagannātha Miśra, and His former name was Viśvambhara Miśra. He also happens to be the grandson of Nīlāmbara Cakravartī.\""
 }

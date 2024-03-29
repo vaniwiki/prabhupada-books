@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 13.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.146",
     "description":"\" 'The inhabitants of Vṛndāvana do not want You dressed like a prince, nor do they want You to associate with great warriors in a different country. They cannot leave the land of Vṛndāvana, and without Your presence, they are all dying. What is their condition to be?"
 }

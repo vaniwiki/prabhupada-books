@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 24.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.151",
     "description":"\" 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'"
 }

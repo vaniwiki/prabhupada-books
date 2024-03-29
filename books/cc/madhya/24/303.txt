@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.303",
-    "h1":"Text 303",
+    "h1":"Cc. Madhya 24.303",
+    "label":"Text 303",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.303",
     "description":"\"Taking all the words together, there is another meaning. Whether one is an ātmārāma, a great sage, or nirgrantha, everyone must engage in the service of the Lord."
 }

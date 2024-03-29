@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 13.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.39",
     "description":"\"You should remain in Vṛndāvana for only a short time and then return here as soon as possible. Also, do not climb Govardhana Hill to see the Gopāla Deity."
 }

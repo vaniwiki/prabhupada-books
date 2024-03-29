@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.218",
-    "h1":"Text 218",
+    "h1":"Cc. Madhya 16.218",
+    "label":"Text 218",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.218",
     "description":"Both Hiraṇya Majumadāra and Govardhana Majumadāra were very opulent and magnanimous. They were well-behaved and devoted to brahminical culture. They belonged to an aristocratic family, and among religionists they were predominant."
 }

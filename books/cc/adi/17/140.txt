@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.140",
-    "h1":"Text 140",
+    "h1":"Cc. Ādi 17.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.140",
     "description":"Murmuring in anger and making a roaring sound, the people, under the protection of Lord Caitanya, became mad through such indulgence."
 }

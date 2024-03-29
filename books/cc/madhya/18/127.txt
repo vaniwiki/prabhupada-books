@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 18.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.127",
     "description":"Śrī Caitanya Mahāprabhu then bestowed His causeless mercy upon all the people there, and everyone became ecstatic with love of God. Finally they all returned to their homes."
 }

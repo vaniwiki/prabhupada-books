@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 5.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.63",
     "description":"Thereupon Rāmānanda Rāya gradually began speaking on topics of Kṛṣṇa. Thus the ocean of the transcendental mellow of those topics became agitated."
 }

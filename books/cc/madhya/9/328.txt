@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.328",
-    "h1":"Text 328",
+    "h1":"Cc. Madhya 9.328",
+    "label":"Text 328",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.328",
     "description":"Śrī Rāmānanda Rāya returned at night, and he and the Lord discussed topics concerning Kṛṣṇa. Thus they passed the night."
 }

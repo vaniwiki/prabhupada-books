@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 9.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.26",
     "description":"\"Gopīnātha Paṭṭanāyaka said, 'My horses never turn their necks or look upward. Therefore the price for them should not be reduced.'"
 }

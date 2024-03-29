@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.37",
-    "h1":"Text 37",
+    "h1":"Cc. Ādi 9.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.37",
     "description":"\"I am the only gardener. If I do not distribute these fruits, what shall I do with them? How many fruits can I alone eat?"
 }

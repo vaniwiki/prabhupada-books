@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.251",
-    "h1":"Text 251",
+    "h1":"Cc. Madhya 8.251",
+    "label":"Text 251",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.251",
     "description":"\"Out of all auspicious and beneficial activities, which is best for the living entity?\""
 }

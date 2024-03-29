@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8",
-    "h1":"Chapter 8",
+    "h1":"Talks Between Śrī Caitanya Mahāprabhu and Rāmānanda Rāya",
+    "label":"Chapter 8",
     "title":"Cc. Madhya 8: Talks Between Śrī Caitanya Mahāprabhu and Rāmānanda Rāya",
     "description":""
 }

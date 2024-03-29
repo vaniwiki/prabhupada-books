@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.75",
-    "h1":"Text 75",
+    "h1":"Cc. Madhya 15.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.75",
     "description":"\"Lord Kṛṣṇa used to drink the juice from these coconuts, and sometimes the coconuts were left drained of juice. At other times the coconuts were filled with juice."
 }

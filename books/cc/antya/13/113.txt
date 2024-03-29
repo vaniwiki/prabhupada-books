@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.113",
-    "h1":"Text 113",
+    "h1":"Cc. Antya 13.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.113",
     "description":"Śrī Caitanya Mahāprabhu said to Raghunātha Bhaṭṭa, \"When you return home, serve your aged father and mother, who are devotees, and try to study Śrīmad-Bhāgavatam from a pure Vaiṣṇava who has realized God.\""
 }

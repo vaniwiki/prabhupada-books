@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.232",
-    "h1":"Text 232",
+    "h1":"Cc. Ādi 4.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.232",
     "description":"Therefore I shall mention them, revealing only their essence, so that loving devotees will understand them but fools will not."
 }

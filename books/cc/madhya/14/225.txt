@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.225",
-    "h1":"Text 225",
+    "h1":"Cc. Madhya 14.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.225",
     "description":"\"The water in Vṛndāvana is nectar, and the brahmajyoti effulgence, which is full of transcendental bliss, is directly perceived there in its form."
 }

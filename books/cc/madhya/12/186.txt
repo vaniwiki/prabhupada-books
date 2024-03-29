@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.186",
-    "h1":"Text 186",
+    "h1":"Cc. Madhya 12.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.186",
     "description":"Thus there is no one within these three worlds-save for Śrī Caitanya Mahāprabhu-who is always so willing to increase the glories of the devotees and give them satisfaction."
 }

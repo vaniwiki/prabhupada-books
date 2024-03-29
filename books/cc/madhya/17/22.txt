@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 17.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.22",
     "description":"Because the Lord had departed, the devotees, unable to see Him early in the morning, began to search for Him with great anxiety."
 }

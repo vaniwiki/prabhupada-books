@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 4.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.193",
     "description":"As the Kaustubha-maṇi is considered the most precious of valuable stones, this verse is similarly considered the best of poems dealing with the mellows of devotional service."
 }

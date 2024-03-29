@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 4.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.46",
     "description":"Therefore I call it madhura-rasa. It has two further divisions, namely wedded and unwedded love."
 }

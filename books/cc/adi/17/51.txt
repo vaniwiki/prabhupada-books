@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 17.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.51",
     "description":"\"O sinful person, envious of pure devotees, I shall not deliver you! Rather, I shall have you bitten by these germs for many millions of years."
 }

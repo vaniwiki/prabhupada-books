@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 6.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.61",
     "description":"\"Wherever we wander in the material universe under the influence of karma by the will of the Lord, may our auspicious activities cause our attraction to Lord Kṛṣṇa to increase.\""
 }

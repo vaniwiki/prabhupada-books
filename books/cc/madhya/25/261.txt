@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.261",
-    "h1":"Text 261",
+    "h1":"Cc. Madhya 25.261",
+    "label":"Text 261",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.261",
     "description":"In the Twenty-fifth Chapter there is a description of how the residents of Vārāṇasī were converted to Vaiṣṇavism. The Lord also returned to Nīlācala [Jagannātha Purī] from Vārāṇasī."
 }

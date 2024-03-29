@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 8.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.61",
     "description":"Śrī Caitanya Mahāprabhu ordered Govinda and Kāśīśvara, \"You may both take alms elsewhere to fill your bellies.\""
 }

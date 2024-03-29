@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.288",
-    "h1":"Text 288",
+    "h1":"Cc. Madhya 20.288",
+    "label":"Text 288",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.288",
     "description":"\"In the stem of that lotus flower the fourteen worlds were generated. Then He became Lord Brahmā and created the entire universe."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17",
-    "h1":"Chapter 17",
+    "h1":"The Bodily Transformations of Lord Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 17",
     "title":"Cc. Antya 17: The Bodily Transformations of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.28",
-    "h1":"Text 28",
+    "h1":"Cc. Antya 13.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.28",
     "description":"\"I cannot go there, however, without the Lord's permission, which at present He denies me. He says, 'You are going because you are angry at Me.'"
 }

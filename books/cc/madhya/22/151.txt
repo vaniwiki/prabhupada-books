@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.151",
-    "h1":"Text 151",
+    "h1":"Cc. Madhya 22.151",
+    "label":"Text 151",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.151",
     "description":"\"The primary characteristic of spontaneous love is deep attachment for the Supreme Personality of Godhead. Absorption in Him is a marginal characteristic."
 }

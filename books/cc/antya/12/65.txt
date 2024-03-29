@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 12.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.65",
     "description":"In this way the Lord spent the four months of the rainy season in various pastimes, and then He ordered the Bengali devotees to return to their homes."
 }

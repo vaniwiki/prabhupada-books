@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 20.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.52",
     "description":"\"I do not mind My personal distress. I only wish for the happiness of Kṛṣṇa, for His happiness is the goal of My life. However, if He feels great happiness in giving Me distress, that distress is the best of My happiness."
 }

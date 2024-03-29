@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.122",
-    "h1":"Text 122",
+    "h1":"Cc. Antya 4.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.122",
     "description":"When the Lord inquired, \"By which path have you come?\" Sanātana Gosvāmī replied, \"I have come on the path along the beach.\""
 }

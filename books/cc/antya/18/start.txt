@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18",
-    "h1":"Chapter 18",
+    "h1":"Rescuing the Lord from the Sea",
+    "label":"Chapter 18",
     "title":"Cc. Antya 18: Rescuing the Lord from the Sea",
     "description":""
 }

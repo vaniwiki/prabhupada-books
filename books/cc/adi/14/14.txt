@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.14",
-    "h1":"Text 14",
+    "h1":"Cc. Ādi 14.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.14",
     "description":"\"There are thirty-two bodily marks that symptomize a great personality, and I see all those marks on the body of this child."
 }

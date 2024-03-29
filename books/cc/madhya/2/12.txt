@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 2.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.12",
     "description":"The joints of His hands and legs would sometimes become separated by eight inches, and they remained connected only by the skin."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 1.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.29",
     "description":"Nityānanda Prabhu requested everyone to serve Śrī Caitanya Mahāprabhu, chant His glories and utter His name. Nityānanda Prabhu claimed that person to be His life and soul who rendered devotional service unto Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.96",
-    "h1":"Text 96",
+    "h1":"Cc. Madhya 1.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.96",
     "description":"On the way toward Jagannātha Purī, Caitanya Mahāprabhu performed many other pastimes. He visited various temples and heard the story about Mādhavendra Purī and the installation of Gopāla."
 }

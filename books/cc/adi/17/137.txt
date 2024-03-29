@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.137",
-    "h1":"Text 137",
+    "h1":"Cc. Ādi 17.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.137",
     "description":"Lord Gaurasundara Himself danced in the rear party, and Śrī Nityānanda Prabhu moved with Lord Caitanya's dancing."
 }

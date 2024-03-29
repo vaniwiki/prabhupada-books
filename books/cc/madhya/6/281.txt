@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.281",
-    "h1":"Text 281",
+    "h1":"Cc. Madhya 6.281",
+    "label":"Text 281",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.281",
     "description":"After this incident, all the inhabitants of Jagannātha Purī, headed by Kāśī Miśra, came to take shelter of the lotus feet of the Lord."
 }

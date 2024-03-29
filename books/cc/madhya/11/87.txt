@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.87",
-    "h1":"Text 87",
+    "h1":"Cc. Madhya 11.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.87",
     "description":"\"Here is Hari Bhaṭṭa, and there is Nṛsiṁhānanda. Here are Vāsudeva Datta and Śivānanda Sena."
 }

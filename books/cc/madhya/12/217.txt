@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.217",
-    "h1":"Text 217",
+    "h1":"Cc. Madhya 12.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.217",
     "description":"As usual, there were transcendental blissful symptoms in Caitanya Mahāprabhu's body. He perspired and trembled, and a constant flow of tears fell from His eyes. But the Lord checked these tears so they would not disturb His seeing the face of the Lord."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 25.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.178",
     "description":"After rising very early on the sixth day, Śrī Caitanya Mahāprabhu started to leave, and five devotees began to follow Him."
 }

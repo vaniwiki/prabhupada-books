@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 13.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.195",
     "description":"Śrī Caitanya Mahāprabhu and His devotees were dancing in front of the car, and, having stopped the car, Lord Jagannātha watched the dancing."
 }

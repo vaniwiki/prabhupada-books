@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 16.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.26",
     "description":"As stated, Śivānanda Sena used to make all arrangements for the party's necessities. In particular, he used to pacify the men in charge of levying taxes, and he found resting places for everyone."
 }

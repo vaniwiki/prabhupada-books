@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 19.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.44",
     "description":"Śrī Caitanya Mahāprabhu had made an acquaintance with a brāhmaṇa from Deccan [in South India], and that brāhmaṇa invited Him for meals and took Him to his place."
 }

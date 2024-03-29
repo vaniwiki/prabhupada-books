@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 6.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.167",
     "description":"\"One who does not accept the transcendental form of the Lord is certainly an agnostic. Such a person should be neither seen nor touched. Indeed, he is subject to be punished by Yamarāja."
 }

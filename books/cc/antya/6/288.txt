@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.288",
-    "h1":"Text 288",
+    "h1":"Cc. Antya 6.288",
+    "label":"Text 288",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.288",
     "description":"Previously, when Śaṅkarānanda Sarasvatī had returned from Vṛndāvana, he had brought the piece of stone from Govardhana Hill and also the garland of conchshells."
 }

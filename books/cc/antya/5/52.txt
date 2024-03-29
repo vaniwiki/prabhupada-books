@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 5.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.52",
     "description":"\"I also hear topics about Kṛṣṇa from Rāmānanda Rāya. If you want to hear such topics, go to him again."
 }

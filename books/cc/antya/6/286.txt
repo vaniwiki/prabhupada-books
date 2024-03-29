@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.286",
-    "h1":"Text 286",
+    "h1":"Cc. Antya 6.286",
+    "label":"Text 286",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.286",
     "description":"\"If one goes to the booth where free food is distributed and fills his belly with whatever he obtains, there is no chance of further unwanted talk, and one can very peacefully chant the Hare Kṛṣṇa mahā-mantra.\""
 }

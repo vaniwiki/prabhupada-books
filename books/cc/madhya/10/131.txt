@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 10.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.131",
     "description":"At that time Govinda appeared on the scene, offered his respectful obeisances and spoke submissively."
 }

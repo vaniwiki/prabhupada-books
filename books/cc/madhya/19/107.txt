@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 19.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.107",
     "description":"Śrī Caitanya Mahāprabhu then embraced Raghupati Upādhyāya in ecstatic love. Raghupati Upādhyāya also was overwhelmed by love, and he began to dance."
 }

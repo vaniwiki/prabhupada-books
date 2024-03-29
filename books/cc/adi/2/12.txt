@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 2.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.12",
     "description":"What the Upaniṣads call the transcendental, impersonal Brahman is the realm of the glowing effulgence of the same Supreme Person."
 }

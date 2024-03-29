@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 3.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.193",
     "description":"After requesting all the devotees to return home, the Lord decided to go to Jagannātha Purī. At that time Haridāsa Ṭhākura began to cry and speak some pathetic words."
 }

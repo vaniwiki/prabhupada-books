@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 13.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.197",
     "description":"All kinds of devotees of Lord Jagannātha-from neophytes to the most advanced-offered their best cooked food to the Lord."
 }

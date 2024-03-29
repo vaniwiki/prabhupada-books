@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.9",
-    "h1":"Text 9",
+    "h1":"Cc. Antya 13.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.9",
     "description":"Jagadānanda said to Svarūpa Dāmodara Gosvāmī, \"Today please personally persuade Śrī Caitanya Mahāprabhu to lie down on the bed.\""
 }

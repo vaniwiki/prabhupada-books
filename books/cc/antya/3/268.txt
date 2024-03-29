@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.268",
-    "h1":"Text 268",
+    "h1":"Cc. Antya 3.268",
+    "label":"Text 268",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.268",
     "description":"The holy name of Kṛṣṇa is so attractive that anyone who chants it-including all living entities, moving and nonmoving, and even Lord Kṛṣṇa Himself-becomes imbued with love of Kṛṣṇa. This is the effect of chanting the Hare Kṛṣṇa mahā-mantra."
 }

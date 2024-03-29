@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 21.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.69",
     "description":"\"When the four-headed Brahmā of this universe saw all these opulences of Kṛṣṇa, he became very bewildered and considered himself a rabbit among many elephants."
 }

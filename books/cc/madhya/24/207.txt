@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 24.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.207",
     "description":"\" 'My dear friend, both Kṛṣṇa and Balarāma are passing through the forest leading Their cows with Their cowherd boy friends. They both carry ropes with which, at the time of milking, They bind the rear legs of the cows. When They play on Their flutes, all moving living entities are stunned, and nonmoving living entities experience ecstatic jubilation by Their sweet music. All these things are certainly very wonderful.'"
 }

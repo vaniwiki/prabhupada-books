@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 17.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.83",
     "description":"At that time, Tapana Miśra was taking his bath in the Ganges, and he was astonished to see the Lord there."
 }

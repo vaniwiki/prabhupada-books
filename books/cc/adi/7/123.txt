@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.123",
-    "h1":"Text 123",
+    "h1":"Cc. Ādi 7.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.123",
     "description":"\"Transformation of energy is a proven fact. It is the false bodily conception of the self that is an illusion."
 }

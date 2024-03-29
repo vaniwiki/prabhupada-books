@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 9.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.41",
     "description":"The Lord's bodily features were very beautiful, and in addition He was always in the ecstasy of love of Godhead. Simply by seeing Him, everyone began chanting the holy name of Kṛṣṇa, and thus everyone became a Vaiṣṇava devotee."
 }

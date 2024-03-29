@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 14.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.59",
     "description":"Hearing this supposed curse by Lord Caitanya, the girls, considering that He might know something uncommon or be empowered by demigods, were afraid that His curse might be effective."
 }

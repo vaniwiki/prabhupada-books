@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 6.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.24",
     "description":"While this was going on, Raghunātha dāsa thought of a tricky method of escape. Thus he humbly submitted this plea at the feet of the Mohammedan caudhurī."
 }

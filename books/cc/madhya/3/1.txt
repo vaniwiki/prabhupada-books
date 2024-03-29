@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.1",
-    "h1":"Text 1",
+    "h1":"Cc. Madhya 3.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.1",
     "description":"After accepting the sannyāsa order of life, Lord Caitanya Mahāprabhu, out of intense love for Kṛṣṇa, wanted to go to Vṛndāvana, but apparently by mistake He wandered in the Rāḍha-deśa. Later He arrived at Śāntipura and enjoyed Himself there with His devotees. I offer my respectful obeisances to Śrī Caitanya Mahāprabhu."
 }

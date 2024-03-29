@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 9.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.17",
     "description":"From the trunk grew many branches and above them innumerable others."
 }

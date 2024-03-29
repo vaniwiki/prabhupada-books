@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 16.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.154",
     "description":"When Rāmānanda Rāya fell to the ground and lost consciousness, Śrī Caitanya Mahāprabhu took him upon His lap and began to cry."
 }

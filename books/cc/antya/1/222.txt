@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.222",
-    "h1":"Text 222",
+    "h1":"Cc. Antya 1.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.222",
     "description":"Thus I have described the second meeting of Rūpa Gosvāmī and Śrī Caitanya Mahāprabhu. Anyone who hears of this incident will certainly attain the shelter of Śrī Caitanya Mahāprabhu."
 }

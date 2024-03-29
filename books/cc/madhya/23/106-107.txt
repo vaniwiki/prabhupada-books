@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.106-107",
-    "h1":"Text 106-107",
+    "h1":"Cc. Madhya 23.106-107",
+    "label":"Text 106-107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.106-107",
     "description":"\" 'One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego, equal in both happiness and distress, always satisfied, forgiving and self-controlled, who is engaged in devotional service with determination and whose mind and intelligence are dedicated to Me-he is very dear to Me."
 }

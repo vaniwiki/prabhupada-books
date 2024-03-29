@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.192",
-    "h1":"Text 192",
+    "h1":"Cc. Ādi 5.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.192",
     "description":"Some of them played horns and flutes, and others danced and sang. Some of them offered betel nuts, and others waved cāmara fans about Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 1.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.126",
     "description":"\"The two plays are called Vidagdha-mādhava and Lalita-mādhava. Both of them wonderfully describe ecstatic emotional love of God.\""
 }

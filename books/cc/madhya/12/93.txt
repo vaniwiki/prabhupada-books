@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 12.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.93",
     "description":"The Lord then ordered everyone to cleanse the inside of the temple very perfectly by taking finer dust, straws and grains of sand and throwing them outside."
 }

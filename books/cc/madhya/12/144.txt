@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 12.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.144",
     "description":"While dancing in ecstatic love, Śrī Gopāla fainted and fell to the ground unconscious."
 }

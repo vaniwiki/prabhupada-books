@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 8.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.46",
     "description":"When they met, the Lord would offer him respectful obeisances, considering him a Godbrother of His spiritual master. Rāmacandra Purī's business, however, was to search for faults in the Lord."
 }

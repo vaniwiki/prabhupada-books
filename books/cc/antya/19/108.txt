@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.108",
-    "h1":"Text 108",
+    "h1":"Cc. Antya 19.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.108",
     "description":"The songs of the queens at Dvārakā, which are mentioned at the end of the Tenth Canto of Śrīmad-Bhāgavatam, have a very special meaning. They are not understood even by the most learned scholars."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 5.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.29",
     "description":"The elderly brāhmaṇa said, \"My daughter is my own property. If I choose to give my property to someone, who has the power to stop me?"
 }

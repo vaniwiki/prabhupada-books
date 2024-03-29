@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 22.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.94",
     "description":"\" 'After giving up all kinds of religious and occupational duties, if you come to Me, the Supreme Personality of Godhead, and take shelter, I shall give you protection from all of life's sinful reactions. Do not worry.'"
 }

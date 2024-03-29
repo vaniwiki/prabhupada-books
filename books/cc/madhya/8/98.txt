@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 8.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.98",
     "description":"\"Among the loving affairs of the gopīs,\" Rāmānanda Rāya continued, \"Śrīmatī Rādhārāṇī's love for Śrī Kṛṣṇa is topmost. Indeed, the glories of Śrīmatī Rādhārāṇī are highly esteemed in all revealed scriptures."
 }

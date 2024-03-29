@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 10.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.153",
     "description":"After saying this, Śrī Caitanya Mahāprabhu and His devotees came into the presence of Brahmānanda Bhāratī."
 }

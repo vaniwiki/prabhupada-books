@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.32",
-    "h1":"Text 32",
+    "h1":"Cc. Ādi 10.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.32",
     "description":"Later in the Caitanya-caritāmṛta I shall describe this incident of chastisement in detail. The Lord, being very much satisfied by this chastisement, sent Dāmodara Paṇḍita to Navadvīpa."
 }

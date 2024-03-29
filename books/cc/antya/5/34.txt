@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 5.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.34",
     "description":"Pradyumna Miśra thereupon described the activities of Śrī Rāmānanda Rāya. After hearing about these activities, Śrī Caitanya Mahāprabhu began to speak."
 }

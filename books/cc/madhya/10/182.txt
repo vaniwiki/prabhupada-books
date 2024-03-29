@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 10.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.182",
     "description":"Śrī Caitanya Mahāprabhu said, \"Sārvabhauma Bhaṭṭācārya, what are you saying? Lord Viṣṇu, save Me! Such glorification is simply another form of blasphemy.\""
 }

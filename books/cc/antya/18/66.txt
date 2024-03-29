@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 18.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.66",
     "description":"\"Simply touching Him has awakened your dormant love of Kṛṣṇa, but because you thought Him a ghost, you were very much afraid of Him."
 }

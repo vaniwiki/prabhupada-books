@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 16.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.90",
     "description":"\"In Bengal I have two shelters-my mother and the River Ganges. Both of them are very merciful."
 }

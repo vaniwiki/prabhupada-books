@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 7.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.98",
     "description":"\"Śrī Caitanya Mahāprabhu is present in everyone's heart, and He will certainly know my mind. Therefore I do not fear Him. His associates, however, are extremely critical.\""
 }

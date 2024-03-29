@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.257",
-    "h1":"Text 257",
+    "h1":"Cc. Madhya 25.257",
+    "label":"Text 257",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.257",
     "description":"In the Nineteenth Chapter, the Lord returned to Prayāga from Mathurā and empowered Śrī Rūpa Gosvāmī to spread devotional service."
 }

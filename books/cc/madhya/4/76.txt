@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 4.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.76",
     "description":"Many waterpots were filled with scented water for drinking, and Lord Śrī Gopāla, who had been hungry for many days, ate everything offered to Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 15.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.18",
     "description":"Having dressed up like cowherd boys, all the devotees carried pots of milk and yogurt balanced on rods over their shoulders. Thus they all arrived at the festival grounds chanting the holy name of Hari."
 }

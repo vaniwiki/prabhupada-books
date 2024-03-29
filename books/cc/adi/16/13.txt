@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.13",
-    "h1":"Text 13",
+    "h1":"Cc. Ādi 16.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.13",
     "description":"\"Because He is the Lord [īśvara],\" the brāhmaṇa told him, \"undoubtedly He can give you proper direction.\""
 }

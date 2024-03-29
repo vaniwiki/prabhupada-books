@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.141",
-    "h1":"Text 141",
+    "h1":"Cc. Madhya 7.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.141",
     "description":"When Śrī Caitanya Mahāprabhu touched him, both the leprosy and his distress went to a distant place. Indeed, Vāsudeva's body became very beautiful, to his great happiness."
 }

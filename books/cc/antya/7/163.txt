@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.163",
-    "h1":"Text 163",
+    "h1":"Cc. Antya 7.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.163",
     "description":"No one can describe the characteristics and ecstatic love of Gadādhara Paṇḍita. Therefore another name for Śrī Caitanya Mahāprabhu is Gadādhara-prāṇanātha, \"the life and soul of Gadādhara Paṇḍita.\""
 }

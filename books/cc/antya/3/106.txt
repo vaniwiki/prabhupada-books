@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.106",
-    "h1":"Text 106",
+    "h1":"Cc. Antya 3.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.106",
     "description":"Among the prostitutes, one attractive young girl was selected.\"I shall attract the mind of Haridāsa Ṭhākura,\" she promised, \"within three days.\""
 }

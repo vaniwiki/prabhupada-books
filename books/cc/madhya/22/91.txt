@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 22.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.91",
     "description":"\" 'It is better to accept the miseries of being encaged within bars and surrounded by burning flames than to associate with those bereft of Kṛṣṇa consciousness. Such association is a very great hardship.'"
 }

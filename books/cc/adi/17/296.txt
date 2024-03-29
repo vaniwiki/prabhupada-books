@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.296",
-    "h1":"Text 296",
+    "h1":"Cc. Ādi 17.296",
+    "label":"Text 296",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.296",
     "description":"Śrī Nityānanda Prabhu always feels the ecstatic emotions of paternity, servitude and friendship. He always assists Śrī Caitanya Mahāprabhu in that way."
 }

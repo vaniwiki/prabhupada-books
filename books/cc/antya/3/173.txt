@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.173",
-    "h1":"Text 173",
+    "h1":"Cc. Antya 3.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.173",
     "description":"Seeing Haridāsa Ṭhākura, the two brothers immediately stood up and fell at his lotus feet. Then with great respect they offered him a place to sit."
 }

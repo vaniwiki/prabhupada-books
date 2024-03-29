@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.80",
-    "h1":"Text 80",
+    "h1":"Cc. Madhya 12.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.80",
     "description":"He then gave each devotee a broom with His own hand, and taking all of them personally with Him, the Lord went to Guṇḍicā."
 }

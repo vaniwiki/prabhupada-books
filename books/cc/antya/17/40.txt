@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 17.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.40",
     "description":"Śrī Caitanya Mahāprabhu continued, \"My dear friend, the Supreme Personality of Godhead, Kṛṣṇa, has a voice as deep as a cloud resounding in the sky. With the tinkling of His ornaments, He attracts the ears of the gopīs, and with the sound of His flute He attracts even the goddess of fortune and other beautiful women. That Personality of Godhead, known as Madana-mohana, whose joking words carry many indications and deep meanings, is increasing the lusty desires of My ears.'"
 }

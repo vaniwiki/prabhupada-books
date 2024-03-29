@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 20.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.46",
     "description":"In the same spirit of ecstasy, Śrī Caitanya Mahāprabhu recited that verse, and as soon as He did so, He felt like Śrīmatī Rādhārāṇī."
 }

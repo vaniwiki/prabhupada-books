@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.133",
-    "h1":"Text 133",
+    "h1":"Cc. Ādi 10.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.133",
     "description":"The five sons of Bhavānanda Rāya were Rāmānanda Rāya, Paṭṭanāyaka Gopīnātha, Kalānidhi, Sudhānidhi and Nāyaka Vāṇīnātha."
 }

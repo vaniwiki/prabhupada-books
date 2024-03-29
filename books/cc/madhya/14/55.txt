@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 14.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.55",
     "description":"Śrī Caitanya Mahāprabhu then went to the back of the car and began to push with His head. It was then that the car began to move and ramble along, making a rattling sound."
 }

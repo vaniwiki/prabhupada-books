@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.127",
-    "h1":"Text 127",
+    "h1":"Cc. Antya 3.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.127",
     "description":"The prostitute returned to Rāmacandra Khān and informed him of what had happened. The next day she came earlier, at the beginning of the evening, and stayed with Haridāsa Ṭhākura."
 }

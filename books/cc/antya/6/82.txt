@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 6.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.82",
     "description":"No one could understand what Nityānanda Prabhu was doing as He walked about. Some, however, who were very fortunate, could see that Lord Śrī Caitanya Mahāprabhu was also present."
 }

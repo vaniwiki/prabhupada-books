@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.119",
-    "h1":"Text 119",
+    "h1":"Cc. Antya 18.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.119",
     "description":"Thereafter, Svarūpa Dāmodara Gosvāmī had Lord Śrī Caitanya Mahāprabhu bathe in the sea, and then he very happily brought Him back home."
 }

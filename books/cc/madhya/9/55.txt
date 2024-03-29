@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 9.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.55",
     "description":"Indeed, the untouchable food fell upon the Buddhists, and the large bird dropped the plate on the head of the chief Buddhist teacher. When it fell on his head, it made a big sound."
 }

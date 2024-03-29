@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 6.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.190",
     "description":"The Bhaṭṭācārya explained the ātmārāma verse in nine different ways on the basis of scripture. After hearing his explanation, Śrī Caitanya Mahāprabhu, smiling a little, began to speak."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 16.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.153",
     "description":"Śrī Caitanya Mahāprabhu finally arrived at Remuṇā, where He bade farewell to Śrī Rāmānanda Rāya."
 }

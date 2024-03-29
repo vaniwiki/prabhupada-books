@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 10.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.113",
     "description":"Śrī Caitanya Mahāprabhu was never pleased to hear books or verses opposed to the conclusive statements of devotional service. The Lord did not like hearing rasābhāsa, the overlapping of transcendental mellows."
 }

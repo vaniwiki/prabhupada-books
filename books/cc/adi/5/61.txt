@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 5.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.61",
     "description":"Therefore Lord Kṛṣṇa is the original cause of the cosmic manifestation. Prakṛti is like the nipples on the neck of a goat, for they cannot give any milk."
 }

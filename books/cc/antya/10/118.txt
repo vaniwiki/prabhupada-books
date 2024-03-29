@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.118",
-    "h1":"Text 118",
+    "h1":"Cc. Antya 10.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.118",
     "description":"\"These preparations-paiḍa, sweet rice, cakes made with cream, and also amṛta-guṭikā, maṇḍā and a pot of camphor-have been given by Advaita Ācārya."
 }

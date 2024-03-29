@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 17.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.177",
     "description":"Śrī Caitanya Mahāprabhu said, \"Mādhavendra Purī has already taken lunch at your place. Therefore you may cook and give Me the food. That is My instruction.\""
 }

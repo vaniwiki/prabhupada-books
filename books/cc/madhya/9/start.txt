@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9",
-    "h1":"Chapter 9",
+    "h1":"Lord Śrī Caitanya Mahāprabhu’s Travels to the Holy Places",
+    "label":"Chapter 9",
     "title":"Cc. Madhya 9: Lord Śrī Caitanya Mahāprabhu’s Travels to the Holy Places",
     "description":""
 }

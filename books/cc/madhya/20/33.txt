@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 20.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.33",
     "description":"After this settlement was made, the landlord gave Sanātana Gosvāmī four watchmen to accompany him. They went through the forest path for the whole night and thus brought him over the hilly tract of land."
 }

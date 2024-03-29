@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.133",
-    "h1":"Text 133",
+    "h1":"Cc. Antya 13.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.133",
     "description":"He would not listen to blasphemy of a Vaiṣṇava, nor would he listen to talk of a Vaiṣṇava's misbehavior. He knew only that everyone was engaged in Kṛṣṇa's service; he did not understand anything else."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.54-55",
-    "h1":"Text 54-55",
+    "h1":"Cc. Ādi 13.54-55",
+    "label":"Text 54-55",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.54-55",
     "description":"Lord Śrī Kṛṣṇa, before appearing as Lord Caitanya, requested these devotees to precede Him: Śrī Śacīdevī, Jagannātha Miśra, Mādhavendra Purī, Keśava Bhāratī, Īśvara Purī, Advaita Ācārya, Śrīvāsa Paṇḍita, Ācāryaratna, Vidyānidhi and Ṭhākura Haridāsa."
 }

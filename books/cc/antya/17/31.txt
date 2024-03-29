@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 17.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.31",
     "description":"\" 'My dear Lord Kṛṣṇa, where is that woman within the three worlds who cannot be captivated by the rhythms of the sweet songs coming from Your wonderful flute? Who cannot fall down from the path of chastity in this way? Your beauty is the most sublime within the three worlds. Upon seeing Your beauty, even cows, birds, animals and trees in the forest are stunned in jubilation.'"
 }

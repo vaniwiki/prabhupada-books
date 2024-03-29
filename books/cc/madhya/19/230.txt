@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.230",
-    "h1":"Text 230",
+    "h1":"Cc. Madhya 19.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.230",
     "description":"\" 'Again let me offer my respectful obeisances unto the Supreme Personality of Godhead. O my Lord, I offer my obeisances hundreds and thousands of times with all affection because by Your personal pastimes You plunge the gopīs into an ocean of nectar. Appreciating Your opulence, devotees generally declare that You are always subjugated by their feelings.'"
 }

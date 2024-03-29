@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 13.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.9",
     "description":"In the year 1407 of the Śaka Era (A.D. 1486), Lord Śrī Caitanya Mahāprabhu appeared, and in the year 1455 (A.D. 1534) He disappeared from this world."
 }

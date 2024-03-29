@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.231",
-    "h1":"Text 231",
+    "h1":"Cc. Antya 6.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.231",
     "description":"The next day, Svarūpa Dāmodara Gosvāmī submitted to Lord Śrī Caitanya Mahāprabhu, \"Raghunātha dāsa has this to say at Your lotus feet."
 }

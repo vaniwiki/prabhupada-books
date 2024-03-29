@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 19.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.191",
     "description":"\"The chief devotees in conjugal love are the gopīs in Vṛndāvana, the queens in Dvārakā and the goddesses of fortune in Vaikuṇṭha. These devotees are innumerable."
 }

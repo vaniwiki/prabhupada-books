@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 12.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.178",
     "description":"Lord Śrī Caitanya Mahāprabhu also wanted to offer Sārvabhauma Bhaṭṭācārya first-class food; therefore, out of affection, He had the servers put first-class food on his plate again and again."
 }

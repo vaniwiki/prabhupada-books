@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.2",
-    "h1":"Text 2",
+    "h1":"Cc. Ādi 2.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.2",
     "description":"O my merciful Lord Caitanya, may the nectarean Ganges waters of Your transcendental activities flow on the surface of my desertlike tongue. Beautifying these waters are the lotus flowers of singing, dancing and loud chanting of Kṛṣṇa's holy name, which are the pleasure abodes of unalloyed devotees. These devotees are compared to swans, ducks and bees. The river's flowing produces a melodious sound that gladdens their ears."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16",
-    "h1":"Chapter 16",
+    "h1":"Lord Śrī Caitanya Mahāprabhu Tastes Nectar from the Lips of Lord Śrī Kṛṣṇa",
+    "label":"Chapter 16",
     "title":"Cc. Antya 16: Lord Śrī Caitanya Mahāprabhu Tastes Nectar from the Lips of Lord Śrī Kṛṣṇa",
     "description":""
 }

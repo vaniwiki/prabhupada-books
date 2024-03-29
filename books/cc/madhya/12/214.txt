@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.214",
-    "h1":"Text 214",
+    "h1":"Cc. Madhya 12.214",
+    "label":"Text 214",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.214",
     "description":"The luster of His beautiful face increased at every moment, and the eyes of hundreds and thousands of devotees drank its honey like bumblebees."
 }

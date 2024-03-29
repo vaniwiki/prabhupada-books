@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 6.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.43",
     "description":"In the village of Pānihāṭi, Raghunātha dāsa obtained an interview with Nityānanda Prabhu, who was accompanied by many kīrtana performers, servants and others."
 }

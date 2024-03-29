@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 9.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.107",
     "description":"That brāhmaṇa became a great devotee of Śrī Caitanya Mahāprabhu, and for four continuous months he did not give up the Lord's company."
 }

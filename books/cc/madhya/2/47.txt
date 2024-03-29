@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 2.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.47",
     "description":"\"Even though I do not see the moonlike face of Kṛṣṇa playing on His flute and although there is no possibility of My meeting Him, still I take care of My own body. That is the way of lust. In this way, I maintain My flylike life."
 }

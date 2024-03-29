@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.91",
-    "h1":"Text 91",
+    "h1":"Cc. Antya 9.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.91",
     "description":"\"The King wanted his revenue paid and did not want to enforce punishment. Therefore the King is certainly very religious. But Gopīnātha Paṭṭanāyaka is a great cheat."
 }

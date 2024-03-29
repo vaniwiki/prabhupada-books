@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.82",
-    "h1":"Text 82",
+    "h1":"Cc. Antya 8.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.82",
     "description":"\"One should not, therefore, follow the principles of Rāmacandra Purī. Nevertheless, I have to say something against him because he is making our hearts unhappy."
 }

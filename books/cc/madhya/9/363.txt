@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.363",
-    "h1":"Text 363",
+    "h1":"Cc. Madhya 9.363",
+    "label":"Text 363",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.363",
     "description":"The pastimes of Śrī Caitanya Mahāprabhu are just like an unfathomable ocean. It is not possible for me to enter into them. Simply standing on the shore, I am but touching the water."
 }

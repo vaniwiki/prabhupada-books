@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 19.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.161",
     "description":"\"As soon as an intelligent devotee sees an unwanted creeper growing beside the original creeper, he must cut it down instantly. Then the real creeper of bhakti-latā-bīja grows nicely, returns home, back to Godhead, and seeks shelter under the lotus feet of Kṛṣṇa."
 }

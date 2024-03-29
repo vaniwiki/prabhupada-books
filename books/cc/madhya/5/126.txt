@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 5.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.126",
     "description":"The Queen had a very valuable pearl, which she wore on her nose, and she wished to give it to Gopāla. She then began to think as follows."
 }

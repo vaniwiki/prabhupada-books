@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 8.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.49",
     "description":"\"Last night there was sugar candy here,\" he said. \"Therefore ants are wandering about. Alas, this renounced sannyāsī is attached to such sense gratification!\" After speaking in this way, he got up and left."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 18.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.59",
     "description":"\"Do not go near there. I forbid you. If you go, that ghost will catch you all.\""
 }

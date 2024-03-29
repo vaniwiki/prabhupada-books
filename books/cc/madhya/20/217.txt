@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.217",
-    "h1":"Text 217",
+    "h1":"Cc. Madhya 20.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.217",
     "description":"\"At Viṣṇu-kāñcī there is Lord Viṣṇu, at Māyāpur Lord Hari, and throughout the universe a variety of other forms."
 }

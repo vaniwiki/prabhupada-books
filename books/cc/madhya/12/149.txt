@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 12.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.149",
     "description":"As soon as Gopāla heard the voice of Śrī Caitanya Mahāprabhu, he immediately came to his senses. All the devotees then began to dance, chanting the holy name of Hari."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.18",
-    "h1":"Text 18",
+    "h1":"Cc. Antya 18.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.18",
     "description":"Ecstatic love of Kṛṣṇa makes Kṛṣṇa and His devotees dance, and it also dances personally. In this way, all three dance together in one place."
 }

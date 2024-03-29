@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 13.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.63",
     "description":"Lord Śrī Caitanya Mahāprabhu performed His pastimes for some time in this way. He personally sang and induced His personal associates to dance."
 }

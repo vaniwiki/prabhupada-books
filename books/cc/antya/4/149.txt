@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 4.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.149",
     "description":"Sanātana Gosvāmī backed away, but Śrī Caitanya Mahāprabhu caught him by force and embraced him."
 }

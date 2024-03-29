@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.337",
-    "h1":"Text 337",
+    "h1":"Cc. Madhya 9.337",
+    "label":"Text 337",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.337",
     "description":"Wherever Śrī Caitanya Mahāprabhu went, the holy name of Śrī Hari was vibrated. Seeing this, the Lord became very happy."
 }

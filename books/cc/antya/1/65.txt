@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 1.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.65",
     "description":"On the next day, when Śrī Caitanya Mahāprabhu went to see Śrīla Rūpa Gosvāmī, the omniscient Lord spoke as follows."
 }

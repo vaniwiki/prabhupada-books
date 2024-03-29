@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 3.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.63",
     "description":"Haridāsa Ṭhākura said, \"I am the most sinful and lowest among men. Later I shall eat one palmful of prasāda while waiting outside.\""
 }

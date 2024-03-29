@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 3.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.141",
     "description":"She worshiped the tulasī plant, following in the footsteps of her spiritual master. Instead of eating regularly, she chewed whatever food she received as alms, and if nothing was supplied she would fast. Thus by eating frugally and fasting she conquered her senses, and as soon as her senses were controlled, symptoms of love of Godhead appeared in her person."
 }

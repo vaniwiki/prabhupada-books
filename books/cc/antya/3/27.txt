@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 3.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.27",
     "description":"\"Offer My mother millions of My obeisances. Please speak to her about My happiness here and thus give her happiness."
 }

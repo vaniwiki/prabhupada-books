@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 18.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.55",
     "description":"In the course of this story, I have given a description of Lord Gopāla's mercy. After seeing the Gopāla Deity, Śrī Caitanya Mahāprabhu went to Śrī Kāmyavana."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 19.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.27",
     "description":"\"After the worship is completed, He sends the Deity somewhere else. I do not know the meaning of this sonnet, nor do I know what is in Advaita Prabhu's mind."
 }

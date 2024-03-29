@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 11.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.209",
     "description":"They ate all kinds of cakes and sweet rice, filling themselves up to their throats, and at intervals they vibrated the holy name of the Lord in great jubilation."
 }

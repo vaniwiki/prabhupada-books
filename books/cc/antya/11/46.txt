@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 11.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.46",
     "description":"Śrī Caitanya Mahāprabhu and the other devotees came before Haridāsa Ṭhākura, who offered his respects to the lotus feet of Śrī Caitanya Mahāprabhu and all the Vaiṣṇavas."
 }

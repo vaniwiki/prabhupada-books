@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 7.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.60",
     "description":"\"Bring the four sets of loincloths and outer garments I keep at home, and also some prasāda of Lord Jagannātha's. You may carry these things with the help of some brāhmaṇa.\""
 }

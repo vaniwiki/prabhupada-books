@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 5.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.126",
     "description":"\"Whereas Kṛṣṇa, the Absolute Truth, the Supreme Personality of Godhead, is full of transcendental bliss, possesses all six spiritual opulences in full, and is the master of the material energy, the small conditioned soul, who is always unhappy, is the servant of the material energy."
 }

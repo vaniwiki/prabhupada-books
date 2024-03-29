@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 22.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.53",
     "description":"\" 'Unless human society accepts the dust of the lotus feet of great mahātmās-devotees who have nothing to do with material possessions-mankind cannot turn its attention to the lotus feet of Kṛṣṇa. Those lotus feet vanquish all the unwanted miserable conditions of material life.'"
 }

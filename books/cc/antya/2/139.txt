@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.139",
-    "h1":"Text 139",
+    "h1":"Cc. Antya 2.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.139",
     "description":"\"At present Śrī Caitanya Mahāprabhu is persisting in His mood of anger because He is the independent Supreme Personality of Godhead. At some time, however, He will surely be merciful, for at heart He is very kind."
 }

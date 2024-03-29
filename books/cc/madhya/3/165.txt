@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 3.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.165",
     "description":"\"My dear Lord, kindly bestow this benediction as a result of whatever service I have rendered unto You from my childhood."
 }

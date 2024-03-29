@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.114",
-    "h1":"Text 114",
+    "h1":"Cc. Antya 14.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.114",
     "description":"Śrī Caitanya Mahāprabhu returned to complete external consciousness and immediately offered prayers to them. Then these two elderly gentlemen both embraced the Lord with loving affection."
 }

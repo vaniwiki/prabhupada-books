@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.63",
-    "h1":"Text 63",
+    "h1":"Cc. Madhya 21.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.63",
     "description":"\"After being worshiped by Lord Brahmā, Lord Kṛṣṇa also honored him with suitable words. Then Lord Kṛṣṇa asked him, 'Why have you come here?'"
 }

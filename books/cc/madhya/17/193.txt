@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 17.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.193",
     "description":"Śrī Caitanya Mahāprabhu visited the different forests, including Madhuvana, Tālavana, Kumudavana and Bahulāvana. Wherever He went, He took His bath with great ecstatic love."
 }

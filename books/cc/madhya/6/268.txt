@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.268",
-    "h1":"Text 268",
+    "h1":"Cc. Madhya 6.268",
+    "label":"Text 268",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.268",
     "description":"\"A pure devotee does not like even to hear about sāyujya-mukti, which inspires him with fear and hatred. Indeed, the pure devotee would rather go to hell than merge into the effulgence of the Lord.\""
 }

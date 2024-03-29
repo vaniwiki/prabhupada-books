@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.42",
-    "h1":"Text 42",
+    "h1":"Cc. Ādi 9.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.42",
     "description":"\"It is the duty of every living being to perform welfare activities for the benefit of others with his life, wealth, intelligence and words.\""
 }

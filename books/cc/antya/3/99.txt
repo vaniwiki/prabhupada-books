@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 3.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.99",
     "description":"After leaving his home, Haridāsa Ṭhākura stayed for some time in the forest of Benāpola."
 }

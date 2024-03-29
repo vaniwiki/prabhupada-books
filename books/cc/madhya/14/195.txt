@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 14.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.195",
     "description":"\"When Kṛṣṇa comes forward and greedily snatches at the border of Rādhārāṇī's sari, She is actually very pleased within, but overtly She tries to stop Him."
 }

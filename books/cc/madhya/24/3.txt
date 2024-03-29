@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 24.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.3",
     "description":"Thereafter, Sanātana Gosvāmī clasped the lotus feet of Śrī Caitanya Mahāprabhu and humbly submitted the following petition."
 }

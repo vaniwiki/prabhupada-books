@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 12.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.46",
     "description":"Hearing this, Lord Caitanya Mahāprabhu laughed with satisfaction and immediately called Kamalākānta Viśvāsa."
 }

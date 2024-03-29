@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 13.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.59",
     "description":"Jagannātha Miśra was designated as Purandara. Exactly like Nanda Mahārāja and Vasudeva, he was an ocean of all good qualities."
 }

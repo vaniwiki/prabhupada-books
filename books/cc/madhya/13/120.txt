@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 13.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.120",
     "description":"While Śrī Caitanya Mahāprabhu was dancing, His ecstasy changed. Raising His two arms, He began to recite the following verse in a loud voice."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.112",
-    "h1":"Text 112",
+    "h1":"Cc. Antya 6.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.112",
     "description":"When Rāghava Paṇḍita offered the food to the Deity after cooking, he would make a separate offering for Śrī Caitanya Mahāprabhu."
 }

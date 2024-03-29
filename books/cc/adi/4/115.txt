@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.115",
-    "h1":"Text 115",
+    "h1":"Cc. Ādi 4.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.115",
     "description":"In His youth Lord Kṛṣṇa made all three of His ages, and the entire universe, successful by His pastimes of amorous love like the rāsa dance."
 }

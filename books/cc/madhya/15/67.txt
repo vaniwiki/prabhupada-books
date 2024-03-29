@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 15.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.67",
     "description":"While describing all this, Śrī Caitanya Mahāprabhu was a little overwhelmed, but just to finish bidding farewell to the devotees, He remained patient."
 }

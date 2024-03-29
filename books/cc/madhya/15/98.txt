@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 15.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.98",
     "description":"The Lord then with great respect extended an invitation to all the inhabitants of Kulīna-grāma, asking them to come every year and bring silken rope to carry Lord Jagannātha during the Ratha-yātrā festival."
 }

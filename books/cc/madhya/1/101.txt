@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.101",
-    "h1":"Text 101",
+    "h1":"Cc. Madhya 1.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.101",
     "description":"After this incident, Lord Caitanya Mahāprabhu bestowed His mercy upon Sārvabhauma Bhaṭṭācārya by showing him His original form as the Lord."
 }

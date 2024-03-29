@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.253",
-    "h1":"Text 253",
+    "h1":"Cc. Madhya 15.253",
+    "label":"Text 253",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.253",
     "description":"Seeing the lamentation of both husband and wife, Śrī Caitanya Mahāprabhu tried to pacify them. According to their desire, He ate the prasāda and was very satisfied."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 4.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.58",
     "description":"Various foods and sweetmeats, as well as other kinds of presentations, were brought there. I am unable to describe all these."
 }

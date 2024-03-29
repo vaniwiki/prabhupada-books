@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 9.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.76",
     "description":"\"One who engages in Your devotional service twenty-four hours a day, desiring only Your mercy, will very soon attain shelter at Your lotus feet."
 }

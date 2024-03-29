@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 17.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.133",
     "description":"\" 'The holy name of Kṛṣṇa is transcendentally blissful. It bestows all spiritual benedictions, for it is Kṛṣṇa Himself, the reservoir of all pleasure. Kṛṣṇa's name is complete, and it is the form of all transcendental mellows. It is not a material name under any condition, and it is no less powerful than Kṛṣṇa Himself. Since Kṛṣṇa's name is not contaminated by the material qualities, there is no question of its being involved with māyā. Kṛṣṇa's name is always liberated and spiritual; it is never conditioned by the laws of material nature. This is because the name of Kṛṣṇa and Kṛṣṇa Himself are identical.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 10.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.127",
     "description":"After worshiping Nityānanda Prabhu, Svarūpa Dāmodara met Jagadānanda, Mukunda, Śaṅkara and Sārvabhauma, as was befitting."
 }

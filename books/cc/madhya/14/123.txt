@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 14.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.123",
     "description":"\"In the pastimes of Vṛndāvana, the only assistants are the gopīs. But for the gopīs, no one can attract the mind of Kṛṣṇa.\""
 }

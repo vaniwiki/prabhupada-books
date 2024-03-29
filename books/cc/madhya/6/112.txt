@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 6.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.112",
     "description":"Gopīnātha Ācārya was the brother-in-law of Sārvabhauma Bhaṭṭācārya; therefore their relationship was very sweet and intimate. Under the circumstances, Gopīnātha Ācārya taught him by sometimes blaspheming him, sometimes praising him and sometimes laughing at him. This had been going on for some time."
 }

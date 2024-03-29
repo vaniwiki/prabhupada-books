@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 25.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.149",
     "description":"\" 'Completely rejecting all religious activities which are materially motivated, this Bhāgavata Purāṇa propounds the highest truth, which is understandable by those devotees who are pure in heart. The highest truth is reality distinguished from illusion for the welfare of all. Such truth uproots the threefold miseries. This beautiful Bhāgavatam, compiled by the great sage Śrī Vyāsadeva, is sufficient in itself for God realization. As soon as one attentively and submissively hears the message of Bhāgavatam, he becomes attached to the Supreme Lord.'"
 }

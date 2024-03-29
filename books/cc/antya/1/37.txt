@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 1.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.37",
     "description":"In this way the two brothers Rūpa and Anupama reached Bengal, but when they arrived there Anupama died."
 }

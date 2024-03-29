@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.66",
-    "h1":"Text 66",
+    "h1":"Cc. Madhya 11.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.66",
     "description":"At this time, Gopīnātha Ācārya came there while Sārvabhauma Bhaṭṭācārya was with King Pratāparudra. Being a brāhmaṇa, he offered his benediction to the King and addressed Sārvabhauma Bhaṭṭācārya as follows."
 }

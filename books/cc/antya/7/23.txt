@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 7.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.23",
     "description":"\"Śrīla Rāmānanda Rāya is the ultimate knower of the transcendental mellows of Lord Kṛṣṇa's devotional service. He has instructed Me that Lord Kṛṣṇa is the Supreme Personality of Godhead."
 }

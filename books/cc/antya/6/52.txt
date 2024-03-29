@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.52",
-    "h1":"Text 52",
+    "h1":"Cc. Antya 6.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.52",
     "description":"Raghunātha dāsa immediately sent his own men to the village to purchase all kinds of eatables and bring them back."
 }

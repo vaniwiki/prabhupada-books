@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.14",
-    "h1":"Text 14",
+    "h1":"Cc. Antya 13.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.14",
     "description":"Śrī Caitanya Mahāprabhu replied, \"You should bring a bedstead here for Me to lie on. Jagadānanda wants Me to enjoy material happiness."
 }

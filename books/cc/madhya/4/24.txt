@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 4.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.24",
     "description":"While he was sitting beneath a tree, an unknown cowherd boy came with a pot of milk, placed it before Mādhavendra Purī and, smiling, addressed him as follows."
 }

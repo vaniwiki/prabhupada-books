@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 10.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.81",
     "description":"Also hearing this auspicious news, Haridāsa Ṭhākura became very much pleased. So also did Vāsudeva Datta, Murāri Gupta and Śivānanda Sena."
 }

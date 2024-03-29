@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.310",
-    "h1":"Text 310",
+    "h1":"Cc. Madhya 20.310",
+    "label":"Text 310",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.310",
     "description":"\" 'Milk changes into yogurt when mixed with a yogurt culture, but actually it is constitutionally nothing but milk. Similarly, Govinda, the Supreme Personality of Godhead, assumes the form of Lord Śiva [Śambhu] for the special purpose of material transactions. I offer my obeisances at His lotus feet.'"
 }

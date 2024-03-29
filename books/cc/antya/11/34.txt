@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 11.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.34",
     "description":"\"With my tongue I shall chant Your holy name, 'Śrī Kṛṣṇa Caitanya!' That is my desire. Kindly let me give up my body in this way."
 }

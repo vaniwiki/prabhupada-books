@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 19.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.38",
     "description":"At Prayāga, Śrī Caitanya Mahāprabhu went to see the temple of Bindu Mādhava, and many hundreds of thousands of people followed Him just to meet Him."
 }

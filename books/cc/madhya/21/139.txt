@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 21.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.139",
     "description":"\"The beauty of Kṛṣṇa's smile is the sweetest feature of all. His smile is like a full moon that spreads its rays throughout the three worlds-Goloka Vṛndāvana, the spiritual sky of the Vaikuṇṭhas, and Devī-dhāma, the material world. Thus Kṛṣṇa's shining beauty spreads in all ten directions."
 }

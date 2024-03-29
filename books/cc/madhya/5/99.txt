@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.99",
-    "h1":"Text 99",
+    "h1":"Cc. Madhya 5.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.99",
     "description":"\"You will know that I am walking behind you by the sound of My ankle bells."
 }

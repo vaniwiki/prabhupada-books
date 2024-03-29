@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.97",
-    "h1":"Text 97",
+    "h1":"Cc. Madhya 16.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.97",
     "description":"It was with great care that Caitanya Mahāprabhu forbade the Orissa devotees to follow Him. Accompanied by personal associates, He first went to Bhavānīpura."
 }

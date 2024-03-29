@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 19.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.182",
     "description":"\"These tastes are like a combination of yogurt, sugar candy, ghee [clarified butter], black pepper and camphor and are as palatable as sweet nectar."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.80",
-    "h1":"Text 80",
+    "h1":"Cc. Antya 18.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.80",
     "description":"\"Seeing the River Yamunā,\" He said, \"I went to Vṛndāvana. There I saw the son of Nanda Mahārāja performing His sporting pastimes in the water."
 }

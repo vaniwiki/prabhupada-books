@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.208",
-    "h1":"Text 208",
+    "h1":"Cc. Ādi 4.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.208",
     "description":"\"My devotees, having fulfilled their desires by serving Me, do not accept the four kinds of salvation that are easily earned by such service. Why then should they accept any pleasures that are lost in the course of time?\""
 }

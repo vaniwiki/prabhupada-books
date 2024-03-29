@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.120",
-    "h1":"Text 120",
+    "h1":"Cc. Antya 6.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.120",
     "description":"After eating, the two brothers washed Their hands and mouths. Then Rāghava Paṇḍita brought flower garlands and sandalwood pulp and decorated Them."
 }

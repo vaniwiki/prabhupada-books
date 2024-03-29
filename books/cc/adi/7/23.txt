@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 7.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.23",
     "description":"In distributing love of Godhead, Caitanya Mahāprabhu and His associates did not consider who was a fit candidate and who was not, nor where such distribution should or should not take place. They made no conditions. Wherever they got the opportunity the members of the Pañca-tattva distributed love of Godhead."
 }

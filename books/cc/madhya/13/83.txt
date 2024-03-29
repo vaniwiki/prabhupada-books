@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 13.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.83",
     "description":"Wherever Śrī Caitanya Mahāprabhu stepped while dancing, the whole earth, with its hills and seas, appeared to tilt."
 }

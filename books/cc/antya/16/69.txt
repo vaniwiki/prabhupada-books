@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 16.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.69",
     "description":"Śrī Caitanya Mahāprabhu said, \"I have induced the whole world to take to the holy name of Kṛṣṇa. I have induced even the trees and immovable plants to chant the holy name."
 }

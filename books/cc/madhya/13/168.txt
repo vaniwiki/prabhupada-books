@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.168",
-    "h1":"Text 168",
+    "h1":"Cc. Madhya 13.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.168",
     "description":"Śrī Caitanya Mahāprabhu looked upon the beautiful lotuslike face and eyes of Lord Jagannātha."
 }

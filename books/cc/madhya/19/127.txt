@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 19.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.127",
     "description":"\"The brothers actually have no fixed residence. They reside beneath trees-one night under one tree and the next night under another."
 }

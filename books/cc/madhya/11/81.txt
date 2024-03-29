@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 11.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.81",
     "description":"\"Īśvara Purī ordered Govinda to serve Śrī Caitanya Mahāprabhu. Thus the Lord keeps him by His side.\""
 }

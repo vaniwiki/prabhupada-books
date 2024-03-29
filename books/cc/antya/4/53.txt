@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 4.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.53",
     "description":"The offerings of prasāda in the temple of Lord Jagannātha were of the highest quality. Śrī Caitanya Mahāprabhu would bring this prasāda and deliver it to both devotees."
 }

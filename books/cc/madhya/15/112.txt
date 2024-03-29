@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.112",
-    "h1":"Text 112",
+    "h1":"Cc. Madhya 15.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.112",
     "description":"Śrī Caitanya Mahāprabhu then turned His attention to three persons-Mukunda dāsa, Raghunandana and Śrī Narahari-inhabitants of the place called Khaṇḍa."
 }

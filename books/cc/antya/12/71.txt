@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.71",
-    "h1":"Text 71",
+    "h1":"Cc. Antya 12.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.71",
     "description":"\"All My devotees come here just for Me. Leaving aside their homes and families, they travel by very difficult paths to come here in great haste."
 }

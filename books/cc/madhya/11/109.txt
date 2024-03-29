@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 11.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.109",
     "description":"\"Indeed, Vāṇīnātha has already gone to the residence of Lord Śrī Caitanya Mahāprabhu and has taken a huge quantity of mahā-prasāda. Please let me know the reason for this.\""
 }

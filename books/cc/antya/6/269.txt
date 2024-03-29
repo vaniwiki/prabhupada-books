@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.269",
-    "h1":"Text 269",
+    "h1":"Cc. Antya 6.269",
+    "label":"Text 269",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.269",
     "description":"At that time, Raghunātha dāsa invited Śrī Caitanya Mahāprabhu to his house with great attention for two days every month."
 }

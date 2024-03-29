@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 3.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.45",
     "description":"Among the cooked vegetables were paṭolas, squash, mānakacu and a salad made with pieces of ginger and various types of spinach."
 }

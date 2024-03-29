@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 17.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.82",
     "description":"Finally the Lord with great happiness arrived at the holy place called Kāśī. There He took His bath in the bathing ghat known as Maṇikarṇikā."
 }

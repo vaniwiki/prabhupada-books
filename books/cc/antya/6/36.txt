@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.36",
-    "h1":"Text 36",
+    "h1":"Cc. Antya 6.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.36",
     "description":"He got up alone one night and left, but his father caught him in a distant place and brought him back."
 }

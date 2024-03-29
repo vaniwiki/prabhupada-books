@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 11.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.1",
     "description":"Let me offer my respectful obeisances unto Haridāsa Ṭhākura and his master, Śrī Caitanya Mahāprabhu, who danced with the body of Haridāsa Ṭhākura on His lap."
 }

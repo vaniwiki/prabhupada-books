@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 6.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.53",
     "description":"Raghunātha dāsa brought chipped rice, yogurt, milk, sweetmeats, sugar, bananas and other eatables and placed them all around."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 12.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.72",
     "description":"\"There is no fatigue or trouble for Me, for I stay here at Nīlācala, Jagannātha Purī, and do not move at all. This is the favor of all of you."
 }

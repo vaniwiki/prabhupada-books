@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.42",
-    "h1":"Text 42",
+    "h1":"Cc. Madhya 4.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.42",
     "description":"\"When the Muslims attacked, the priest who was serving Me hid Me in this bush in the jungle. Then he ran away out of fear of the attack."
 }

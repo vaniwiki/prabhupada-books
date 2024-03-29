@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.209-210",
-    "h1":"Text 209-210",
+    "h1":"Cc. Madhya 3.209-210",
+    "label":"Text 209-210",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.209-210",
     "description":"Śrī Advaita Ācārya sent four persons-Nityānanda Gosāñi, Jagadānanda Paṇḍita, Dāmodara Paṇḍita and Mukunda Datta-to accompany the Lord. After pacifying His mother, Śacīmātā, Śrī Caitanya Mahāprabhu submitted prayers to her lotus feet."
 }

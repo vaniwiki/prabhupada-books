@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.258",
-    "h1":"Text 258",
+    "h1":"Cc. Madhya 15.258",
+    "label":"Text 258",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.258",
     "description":"After saying this, Śrī Caitanya Mahāprabhu left and returned to His residence. Sārvabhauma Bhaṭṭācārya also followed Him."
 }

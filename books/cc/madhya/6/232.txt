@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.232",
-    "h1":"Text 232",
+    "h1":"Cc. Madhya 6.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.232",
     "description":"\"Indeed, today you have undoubtedly taken shelter of the lotus feet of Kṛṣṇa, and Kṛṣṇa, without reservation, has become very merciful toward you."
 }

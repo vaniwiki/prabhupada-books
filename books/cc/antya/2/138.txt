@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.138",
-    "h1":"Text 138",
+    "h1":"Cc. Antya 2.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.138",
     "description":"Svarūpa Dāmodara Gosāñi said, \"Please hear us, Haridāsa, for we all wish you well. Please believe this."
 }

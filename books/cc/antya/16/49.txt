@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 16.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.49",
     "description":"Because of this quality, Śrī Caitanya Mahāprabhu satisfied him with mercy not attainable by anyone else."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 9.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.40",
     "description":"\"If the fruits are distributed all over the world, My reputation as a pious man will be known everywhere, and thus all people will glorify My name with great pleasure."
 }

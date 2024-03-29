@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.215",
-    "h1":"Text 215",
+    "h1":"Cc. Ādi 5.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.215",
     "description":"With Rādhā and Lalitā serving Him on His two sides, He attracts the hearts of all by His own sweetness."
 }

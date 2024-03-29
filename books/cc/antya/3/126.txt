@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 3.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.126",
     "description":"\"Tomorrow I will surely finish, and my vow will be fulfilled. Then it will be possible for me to enjoy with you in full freedom.\""
 }

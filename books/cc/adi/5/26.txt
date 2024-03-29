@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 5.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.26",
     "description":"In the Vaikuṇṭha planets of the spiritual sky the Lord manifests His identity as Nārāyaṇa and performs pastimes in various ways."
 }

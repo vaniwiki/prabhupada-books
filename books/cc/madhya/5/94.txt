@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 5.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.94",
     "description":"\"Only if You go there in this form of Gopāla and speak the words from Your beautiful face will Your testimony be heard by all the people.\""
 }

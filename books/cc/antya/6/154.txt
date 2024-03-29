@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.154",
-    "h1":"Text 154",
+    "h1":"Cc. Antya 6.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.154",
     "description":"After taking dust from the feet of Rāghava Paṇḍita, Raghunātha dāsa returned to his home, feeling greatly obligated to Lord Nityānanda Prabhu because of having received His merciful benediction."
 }

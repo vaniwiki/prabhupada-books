@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 18.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.71",
     "description":"The next day, Śrī Caitanya Mahāprabhu went to Vṛndāvana and took His bath at the Kālīya Lake and Praskandana."
 }

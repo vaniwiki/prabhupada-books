@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.287",
-    "h1":"Text 287",
+    "h1":"Cc. Ādi 17.287",
+    "label":"Text 287",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.287",
     "description":"\"He is not Kṛṣṇa! He is the Supreme Personality of Godhead, Nārāyaṇa.\" After saying this, they offered obeisances and the following respectful prayers."
 }

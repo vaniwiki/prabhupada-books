@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 11.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.16",
     "description":"Upon meeting Śrī Caitanya Mahāprabhu, Rāmānanda Rāya offered his obeisances. The Lord embraced him, and both of them began to cry in the great ecstasy of love."
 }

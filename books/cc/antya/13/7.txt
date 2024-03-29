@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 13.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.7",
     "description":"He acquired some fine cloth and colored it with red oxide. Then he filled it with cotton from a śimula tree."
 }

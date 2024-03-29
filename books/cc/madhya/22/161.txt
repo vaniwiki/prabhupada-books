@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 22.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.161",
     "description":"\"Kṛṣṇa has many types of devotees-some are servants, some are friends, some are parents, and some are conjugal lovers. Those who are situated in one of these attitudes of spontaneous love according to their choice are considered to be on the path of spontaneous loving service."
 }

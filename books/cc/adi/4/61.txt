@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 4.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.61",
     "description":"Lord Kṛṣṇa's body is eternal [sat], full of knowledge [cit] and full of bliss [ānanda]. His one spiritual energy manifests three forms."
 }

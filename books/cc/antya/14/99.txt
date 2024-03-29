@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 14.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.99",
     "description":"All eight kinds of transcendental transformations were visible in the Lord's body. All the devotees were struck with wonder to see such a sight."
 }

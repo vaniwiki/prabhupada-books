@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.120",
-    "h1":"Text 120",
+    "h1":"Cc. Antya 13.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.120",
     "description":"\"My dear Raghunātha, go to Vṛndāvana, following My instructions, and place yourself under the care of Rūpa and Sanātana Gosvāmīs."
 }

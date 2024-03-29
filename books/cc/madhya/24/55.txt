@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 24.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.55",
     "description":"\"Kṛṣṇa attracts not only the minds of the gopīs and the goddesses of fortune but the minds of all the young girls in the three worlds as well."
 }

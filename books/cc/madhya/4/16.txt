@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.16",
-    "h1":"Text 16",
+    "h1":"Cc. Madhya 4.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.16",
     "description":"All the servants of the Deity were struck with wonder due to Śrī Caitanya Mahāprabhu's intense love, His exquisite beauty and His transcendental qualities."
 }

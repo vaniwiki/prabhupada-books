@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 8.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.180",
     "description":"\"Śrīmatī Rādhārāṇī induces Kṛṣṇa to drink the honey of the conjugal relationship. She is therefore engaged in satisfying all the lusty desires of Kṛṣṇa."
 }

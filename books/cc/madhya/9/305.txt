@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.305",
-    "h1":"Text 305",
+    "h1":"Cc. Madhya 9.305",
+    "label":"Text 305",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.305",
     "description":"The brāhmaṇa community there was composed of pure devotees, who regularly studied a book entitled Kṛṣṇa-karṇāmṛta, which was composed by Bilvamaṅgala Ṭhākura."
 }

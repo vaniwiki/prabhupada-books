@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.40",
-    "h1":"Text 40",
+    "h1":"Cc. Antya 4.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.40",
     "description":"\" 'I have sold my head at the lotus feet of Lord Rāmacandra. I cannot take it away. That would be too painful for me."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 10.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.189",
     "description":"Thus I have described the meeting of all the Vaiṣṇavas with Śrī Caitanya Mahāprabhu. Whoever hears this description ultimately attains His shelter."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 18.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.20",
     "description":"The people were astonished when they saw Śrī Caitanya Mahāprabhu's ecstatic love and personal beauty. The priests who served the Harideva Deity offered the Lord a good reception."
 }

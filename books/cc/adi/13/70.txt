@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 13.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.70",
     "description":"With this consideration, Advaita Ācārya Prabhu, promising to cause Lord Kṛṣṇa to descend, began to worship the Supreme Personality of Godhead, Kṛṣṇa, with tulasī leaves and water of the Ganges."
 }

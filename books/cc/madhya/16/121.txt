@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.121",
-    "h1":"Text 121",
+    "h1":"Cc. Madhya 16.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.121",
     "description":"There is no one as merciful as Śrī Caitanya Mahāprabhu within all three worlds. Simply by seeing Him from a distance, one is overwhelmed with love of Godhead."
 }

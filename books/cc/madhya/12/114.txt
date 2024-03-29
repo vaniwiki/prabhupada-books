@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 12.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.114",
     "description":"As Śrī Caitanya Mahāprabhu was vibrating the holy name of Kṛṣṇa in ecstatic love, He Himself was performing the work of hundreds of men."
 }

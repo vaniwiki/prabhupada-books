@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 10.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.128",
     "description":"Svarūpa Dāmodara also offered his worshipful prayers at the lotus feet of Paramānanda Purī, who, in return, embraced him in ecstatic love."
 }

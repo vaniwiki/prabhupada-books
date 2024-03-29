@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 20.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.18",
     "description":"A man who was expert in palmistry was at that time staying with the landlord. Knowing about Sanātana, he whispered the following in the landlord's ear."
 }

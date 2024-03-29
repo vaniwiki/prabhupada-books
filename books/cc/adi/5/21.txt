@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 5.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.21",
     "description":"But with the eyes of love of Godhead one can see its real identity as the place where Lord Kṛṣṇa performs His pastimes with the cowherd boys and cowherd girls."
 }

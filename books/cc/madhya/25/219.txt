@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.219",
-    "h1":"Text 219",
+    "h1":"Cc. Madhya 25.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.219",
     "description":"While staying at Vārāṇasī, Rūpa Gosvāmī heard of all Śrī Caitanya Mahāprabhu's activities. When he heard of His deliverance of the Māyāvādī sannyāsīs, he became very happy."
 }

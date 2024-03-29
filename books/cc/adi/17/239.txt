@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.239",
-    "h1":"Text 239",
+    "h1":"Cc. Ādi 17.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.239",
     "description":"When the Lord, hearing with great pleasure, said, \"Go on speaking! Go on speaking!\" Śrīvāsa Ṭhākura described the rāsa-līlā dance, which is filled with transcendental mellows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.142",
-    "h1":"Text 142",
+    "h1":"Cc. Ādi 17.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.142",
     "description":"Naturally some of the people who were very much agitated began to retaliate the Kazi's actions by wrecking his house and flower garden. Śrīla Vṛndāvana dāsa Ṭhākura has elaborately described this incident."
 }

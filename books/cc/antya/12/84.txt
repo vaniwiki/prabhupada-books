@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.84",
-    "h1":"Text 84",
+    "h1":"Cc. Antya 12.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.84",
     "description":"Śrī Caitanya Mahāprabhu is the fully independent Personality of Godhead and makes everyone dance as He likes. Leaving His company, therefore, all the devotees returned to their homes in different parts of the country."
 }

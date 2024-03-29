@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.114",
-    "h1":"Text 114",
+    "h1":"Cc. Ādi 4.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.114",
     "description":"In youth He tasted the essence of rasa, fulfilling His desires in pastimes like the rāsa dance with Śrīmatī Rādhikā and the other gopīs."
 }

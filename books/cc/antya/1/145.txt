@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 1.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.145",
     "description":"\"Upon seeing peacock feathers in front of Her, this girl suddenly begins trembling. When She sometimes sees a necklace of guñjā [small conchshells], She sheds tears and cries Ioudly. I do not know what kind of new ecstatic influence has entered the heart of this poor girl. It has imbued Her with the dancing attitude of a player creating wonderful, unprecedented dances on a stage.\""
 }

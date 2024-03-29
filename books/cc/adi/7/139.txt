@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.139",
-    "h1":"Text 139",
+    "h1":"Cc. Ādi 7.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.139",
     "description":"\"In His original form the Supreme Personality of Godhead is full of transcendental opulences, which are free from the contamination of the material world. It is to be understood that in all Vedic literature the Supreme Personality of Godhead is the ultimate goal."
 }

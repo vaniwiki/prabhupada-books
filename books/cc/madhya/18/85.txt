@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.85",
-    "h1":"Text 85",
+    "h1":"Cc. Madhya 18.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.85",
     "description":"Śrī Caitanya Mahāprabhu asked Kṛṣṇadāsa, \"Who are you? Where is your home?\" Kṛṣṇadāsa replied, \"I am a most fallen householder."
 }

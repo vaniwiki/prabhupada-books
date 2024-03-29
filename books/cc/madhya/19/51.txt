@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 19.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.51",
     "description":"After reciting this verse, Śrī Caitanya Mahāprabhu embraced both brothers, and out of His causeless mercy He placed His feet on their heads."
 }

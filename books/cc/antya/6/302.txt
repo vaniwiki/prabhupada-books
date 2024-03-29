@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.302",
-    "h1":"Text 302",
+    "h1":"Cc. Antya 6.302",
+    "label":"Text 302",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.302",
     "description":"The amount of transcendental bliss that Raghunātha dāsa enjoyed simply by offering water and tulasī is impossible to achieve even if one worships the Deity with sixteen kinds of paraphernalia."
 }

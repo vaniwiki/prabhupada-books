@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 4.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.62",
     "description":"After the mahā-snāna was finished, the Deity was again massaged with scented oil and His body made glossy. Then the last bathing ceremony was performed with scented water kept within a conchshell."
 }

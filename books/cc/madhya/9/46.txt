@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 9.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.46",
     "description":"When the nonbelievers heard of the erudition of Śrī Caitanya Mahāprabhu, they came to Him with great pride, bringing their disciples with them."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 24.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.52",
     "description":"\" 'O most beautiful Kṛṣṇa, I have heard about Your transcendental qualities from others, and therefore all my bodily miseries are relieved. If one sees Your transcendental beauty, his eyes have attained everything profitable in life. O infallible one, I have become shameless after hearing of Your qualities, and I have become attracted to You.'"
 }

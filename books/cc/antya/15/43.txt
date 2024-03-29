@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 15.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.43",
     "description":"\"The gopīs then came upon a group of she-deer. Smelling the aroma of Kṛṣṇa's body and seeing the faces of the deer, the gopīs inquired from them to ascertain if Kṛṣṇa was nearby."
 }

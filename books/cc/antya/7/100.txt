@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 7.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.100",
     "description":"Every day, Vallabha Bhaṭṭa would come to the place of Śrī Caitanya Mahāprabhu to engage in unnecessary arguments with Advaita Ācārya and other great personalities, such as Svarūpa Dāmodara."
 }

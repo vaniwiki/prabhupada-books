@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 2.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.23",
     "description":"Desiring to test the authenticity of Nakula Brahmacārī, he stayed outside, thinking as follows."
 }

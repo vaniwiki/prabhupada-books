@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 3.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.60",
     "description":"\"If a devotee once utters the holy name of the Lord, or if it penetrates his mind or enters his ear, which is the channel of aural reception, that holy name will certainly deliver him from material bondage, whether vibrated properly or improperly, with correct or incorrect grammar, and properly joined or vibrated in separate parts. O brāhmaṇa, the potency of the holy name is therefore certainly great. However, if one uses the vibration of the holy name for the benefit of the material body, for material wealth and followers, or under the influence of greed or atheism-in other words, if one utters the name with offenses-such chanting will not produce the desired result very soon. Therefore one should diligently avoid offenses in chanting the holy name of the Lord.' \""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.220",
-    "h1":"Text 220",
+    "h1":"Cc. Ādi 17.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.220",
     "description":"\"Only by Your mercy have my bad intentions vanished. Kindly favor me so that my devotion may always be fixed upon You.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 9.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.91",
     "description":"All the Vaiṣṇava brāhmaṇas residing in Śrī Raṅga-kṣetra invited the Lord to their homes. Indeed, He had an invitation every day."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 25.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.71",
     "description":"After stopping the kīrtana, Śrī Caitanya Mahāprabhu, who is a great example of humility, offered prayers unto the feet of Prakāśānanda Sarasvatī. At this, Prakāśānanda Sarasvatī immediately came forward and clasped the Lord's lotus feet."
 }

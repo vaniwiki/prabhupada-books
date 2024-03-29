@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.159",
-    "h1":"Text 159",
+    "h1":"Cc. Madhya 14.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.159",
     "description":"\"The gopīs can be divided into a left wing and a right wing. Both wings induce Kṛṣṇa to taste transcendental mellows by various manifestations of ecstatic love."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 13.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.105",
     "description":"Dressing themselves as the wives of brāhmaṇas, all the celestial ladies, including the wives of Lord Brahmā, Lord Śiva, Lord Nṛsiṁhadeva, King Indra and Vasiṣṭha Ṛṣi, along with Rambhā, a dancing girl of heaven, came there with varieties of gifts."
 }

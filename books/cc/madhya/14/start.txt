@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14",
-    "h1":"Chapter 14",
+    "h1":"Performance of the Vṛndāvana Pastimes",
+    "label":"Chapter 14",
     "title":"Cc. Madhya 14: Performance of the Vṛndāvana Pastimes",
     "description":""
 }

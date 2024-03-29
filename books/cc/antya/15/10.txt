@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.10",
-    "h1":"Text 10",
+    "h1":"Cc. Antya 15.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.10",
     "description":"Just then, the upala-bhoga ceremony of Lord Jagannātha concluded, and the devotees who had accompanied Lord Caitanya to the temple brought Him back home."
 }

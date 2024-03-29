@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 20.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.70",
     "description":"Candraśekhara then made Sanātana Gosvāmī look like a gentleman. He took him to bathe in the Ganges, and afterwards he brought him a new set of clothes."
 }

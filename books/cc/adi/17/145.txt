@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.145",
-    "h1":"Text 145",
+    "h1":"Cc. Ādi 17.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.145",
     "description":"In a friendly way, the Lord said, \"Sir, I have come to your house as your guest, but upon seeing Me you hid yourself in your room. What kind of etiquette is this?\""
 }

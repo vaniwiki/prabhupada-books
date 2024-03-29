@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 13.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.190",
     "description":"As soon as He pushed, the car immediately started to move, making a rattling noise. The people all around began to chant the holy name of the Lord, \"Hari! Hari!\""
 }

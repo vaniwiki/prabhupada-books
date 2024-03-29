@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 20.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.35",
     "description":"Īśāna replied, \"I still have one gold coin in my possession.\" Sanātana Gosvāmī then said, \"Take the coin and return to your home.\""
 }

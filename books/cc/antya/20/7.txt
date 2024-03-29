@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 20.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.7",
     "description":"Sometimes the Lord would be absorbed in a particular emotion and would stay awake all night reciting related verses and relishing their taste."
 }

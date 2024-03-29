@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.84",
-    "h1":"Text 84",
+    "h1":"Cc. Antya 4.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.84",
     "description":"At that time Sanātana Gosvāmī said to Śrī Caitanya Mahāprabhu, \"I offer my respectful obeisances unto You. No one can understand the deep ideas You plan within Your heart."
 }

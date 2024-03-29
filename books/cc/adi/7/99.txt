@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.99",
-    "h1":"Text 99",
+    "h1":"Cc. Ādi 7.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.99",
     "description":"After hearing Lord Śrī Caitanya Mahāprabhu, all the Māyāvādī sannyāsīs were moved. Their minds changed, and thus they spoke with pleasing words."
 }

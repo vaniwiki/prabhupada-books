@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 6.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.195",
     "description":"Lord Caitanya Mahāprabhu took each word specifically and combined it with the word \"ātmārāma.\" He thus explained the word \"ātmārāma\" in eighteen different ways."
 }

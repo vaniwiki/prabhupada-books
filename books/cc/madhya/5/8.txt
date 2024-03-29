@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.8",
-    "h1":"Text 8",
+    "h1":"Cc. Madhya 5.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.8",
     "description":"Previously, when Nityānanda Prabhu had toured all over India to see different places of pilgrimage, He also had come to see Sākṣi-gopāla at Kaṭaka."
 }

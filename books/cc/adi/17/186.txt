@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.186",
-    "h1":"Text 186",
+    "h1":"Cc. Ādi 17.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.186",
     "description":"\"After saying this, the lion left, but I was very afraid of Him. Just see the marks of His nails on my heart!\""
 }

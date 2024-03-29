@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.35",
-    "h1":"Text 35",
+    "h1":"Cc. Antya 20.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.35",
     "description":"Natural humility and eagerness then awoke in Lord Śrī Caitanya Mahāprabhu. He prayed to Kṛṣṇa to be able to chant the mahā-mantra in ecstatic love."
 }

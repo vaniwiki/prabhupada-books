@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 19.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.31",
     "description":"The two persons who went to Jagannātha Purī to inquire about the Lord's departure returned and informed Rūpa Gosvāmī that the Lord had already departed for Vṛndāvana."
 }

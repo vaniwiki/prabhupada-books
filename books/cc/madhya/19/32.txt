@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 19.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.32",
     "description":"Upon receiving this message from his two messengers, Rūpa Gosvāmī immediately wrote a letter to Sanātana Gosvāmī saying that Śrī Caitanya Mahāprabhu had departed for Vṛndāvana."
 }

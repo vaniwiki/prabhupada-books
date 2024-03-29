@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 12.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.9",
     "description":"Some of the disciples strictly accepted the orders of the ācārya, and others deviated, independently concocting their own opinions under the spell of daivī-māyā."
 }

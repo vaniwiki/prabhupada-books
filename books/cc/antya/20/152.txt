@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.152",
-    "h1":"Text 152",
+    "h1":"Cc. Antya 20.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.152",
     "description":"I decorate my head with the dust of the lotus feet of my audience. Now you have all drunk this nectar, and therefore my labor is successful."
 }

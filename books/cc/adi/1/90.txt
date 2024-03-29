@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.90",
-    "h1":"Text 90",
+    "h1":"Cc. Ādi 1.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.90",
     "description":"The darkness of ignorance is called kaitava, the way of cheating, which begins with religiosity, economic development, sense gratification and liberation."
 }

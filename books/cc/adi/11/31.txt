@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 11.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.31",
     "description":"The sixteenth dear servant of Nityānanda Prabhu was Dhanañjaya Paṇḍita. He was very much renounced and always merged in love of Kṛṣṇa."
 }

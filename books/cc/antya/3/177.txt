@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.177",
-    "h1":"Text 177",
+    "h1":"Cc. Antya 3.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.177",
     "description":"Some of them said, \"By chanting the holy name of the Lord, one is freed from the reactions of all sinful life.\" Others said, \"Simply by chanting the holy name of the Lord, a living being is liberated from material bondage.\""
 }

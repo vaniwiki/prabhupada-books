@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.318",
-    "h1":"Text 318",
+    "h1":"Cc. Ādi 17.318",
+    "label":"Text 318",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.318",
     "description":"The Fifth Chapter describes the truth of Lord Nityānanda Prabhu, who is none other than Balarāma, the son of Rohiṇī."
 }

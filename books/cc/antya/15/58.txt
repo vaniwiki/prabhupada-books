@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 15.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.58",
     "description":"Just as before, they saw all the symptoms of transcendental ecstatic love manifested in the body of Śrī Caitanya Mahāprabhu. Although externally He appeared bewildered, He was tasting transcendental bliss within."
 }

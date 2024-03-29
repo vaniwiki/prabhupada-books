@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 6.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.21",
     "description":"Mukunda Datta replied, \"The Lord has already arrived here. We have come with Him.\""
 }

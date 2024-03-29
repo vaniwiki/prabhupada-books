@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 3.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.1",
     "description":"I offer my respectful obeisances to Śrī Caitanya Mahāprabhu. By the potency of the shelter of His lotus feet, even a fool can collect the valuable jewels of conclusive truth from the mines of the revealed scriptures."
 }

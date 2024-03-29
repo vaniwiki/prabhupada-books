@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 8.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.45",
     "description":"He first summarized all the pastimes of the Lord and later described them vividly in detail."
 }

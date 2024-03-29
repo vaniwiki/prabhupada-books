@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 3.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.74",
     "description":"\"When Your devotee Vāsudeva Datta submitted his plea at Your lotus feet for the deliverance of all living entities, You accepted that request."
 }

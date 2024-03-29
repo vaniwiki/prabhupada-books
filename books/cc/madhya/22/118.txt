@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 22.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.118",
     "description":"\"The twelfth item is to give up the company of nondevotees. (13) One should not accept an unlimited number of disciples. (14) One should not partially study many scriptures just to be able to give references and expand explanations."
 }

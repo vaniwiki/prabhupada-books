@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.104",
-    "h1":"Text 104",
+    "h1":"Cc. Madhya 17.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.104",
     "description":"There was a great Māyāvādī sannyāsī named Prakāśānanda Sarasvatī who used to teach Vedānta philosophy to a great assembly of followers."
 }

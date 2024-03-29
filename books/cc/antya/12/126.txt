@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 12.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.126",
     "description":"On the rice and vegetables were tulasī flowers, and in front of the Lord were cakes, sweet rice and other prasāda of Jagannātha."
 }

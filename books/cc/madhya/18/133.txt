@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 18.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.133",
     "description":"The brāhmaṇas from different places, such as Kānyakubja and South India, who were all strict followers of the Vedic religion, offered invitations to Śrī Caitanya Mahāprabhu with great humility."
 }

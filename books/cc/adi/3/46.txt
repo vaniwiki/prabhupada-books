@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.46",
-    "h1":"Text 46",
+    "h1":"Cc. Ādi 3.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.46",
     "description":"He is decorated with sandalwood bangles and armlets and anointed with the pulp of sandalwood. He especially wears these decorations to dance in śrī-kṛṣṇa-saṅkīrtana."
 }

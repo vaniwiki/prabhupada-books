@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 7.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.52",
     "description":"The Bhaṭṭācārya's wife, whose name was Ṣāṭhīmātā (the mother of Ṣāṭhī), did the cooking. The narrations of these pastimes are very wonderful."
 }

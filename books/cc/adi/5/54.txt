@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 5.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.54",
     "description":"The water of the Kāraṇa Ocean, which is the original cause, is therefore spiritual. The sacred Ganges, which is but a drop of it, purifies the fallen souls."
 }

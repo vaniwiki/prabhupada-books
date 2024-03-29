@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 24.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.154",
     "description":"\"The yogī who worships the Supersoul within himself is also called ātmārāma. There are two types of ātmārāma-yogīs."
 }

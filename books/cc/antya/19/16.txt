@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.16",
-    "h1":"Text 16",
+    "h1":"Cc. Antya 19.16",
+    "label":"Text 16",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.16",
     "description":"He then met all the other devotees, headed by Advaita Ācārya, and gave them the prasāda of Jagannātha. After staying for one month, he took permission from mother Śacī to leave."
 }

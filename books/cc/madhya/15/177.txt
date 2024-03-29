@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 15.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.177",
     "description":"\"Of the millions of mustard seeds floating in that pot, if one seed is lost, the loss is not at all significant. Similarly, if one universe is lost, it is not significant to Lord Kṛṣṇa."
 }

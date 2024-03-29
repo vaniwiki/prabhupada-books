@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.122",
-    "h1":"Text 122",
+    "h1":"Cc. Ādi 17.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.122",
     "description":"[All the devotees sang this popular song along with the Hare Kṛṣṇa mahā-mantra.] \"Haraye namaḥ, kṛṣṇa yādavāya namaḥ gopāla govinda rāma śrī-madhusūdana.\""
 }

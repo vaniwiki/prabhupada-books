@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 18.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.208",
     "description":"Vijulī Khān was very young, and he was the son of the king. All the other Mohammedans, Pāṭhānas, headed by Rāmadāsa, were his servants."
 }

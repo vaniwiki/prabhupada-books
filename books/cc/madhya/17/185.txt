@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.185",
-    "h1":"Text 185",
+    "h1":"Cc. Madhya 17.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.185",
     "description":"\"A devotee's behavior establishes the true purpose of religious principles. The behavior of Mādhavendra Purī Gosvāmī is the essence of such religious principles.\""
 }

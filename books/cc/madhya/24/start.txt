@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24",
-    "h1":"Chapter 24",
+    "h1":"The Sixty-One Explanations of the Ātmārāma Verse",
+    "label":"Chapter 24",
     "title":"Cc. Madhya 24: The Sixty-One Explanations of the Ātmārāma Verse",
     "description":""
 }

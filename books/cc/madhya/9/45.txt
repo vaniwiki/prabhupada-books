@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.45",
-    "h1":"Text 45",
+    "h1":"Cc. Madhya 9.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.45",
     "description":"Being thus defeated by Lord Śrī Caitanya Mahāprabhu, all these philosophers and their followers entered into His cult. In this way Lord Caitanya made South India into a country of Vaiṣṇavas."
 }

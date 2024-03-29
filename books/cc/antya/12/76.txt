@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 12.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.76",
     "description":"Catching hold of His devotees, the Lord embraced them all and began to cry and cry."
 }

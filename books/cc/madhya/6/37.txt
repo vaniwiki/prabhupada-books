@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 6.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.37",
     "description":"All of the devotees then began to loudly chant the Hare Kṛṣṇa mantra. Just before noon the Lord regained His consciousness."
 }

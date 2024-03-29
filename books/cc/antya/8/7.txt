@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 8.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.7",
     "description":"Then a sannyāsī named Rāmacandra Purī Gosāñi came to see Paramānanda Purī and Śrī Caitanya Mahāprabhu."
 }

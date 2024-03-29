@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.50",
-    "h1":"Text 50",
+    "h1":"Cc. Madhya 16.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.50",
     "description":"After dancing a great deal, they all went to a nearby garden and took rest beside a lake."
 }

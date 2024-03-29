@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.258",
-    "h1":"Text 258",
+    "h1":"Cc. Ādi 17.258",
+    "label":"Text 258",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.258",
     "description":"But the proud student community did not become submissive. On the contrary, the students spoke of the incident anywhere and everywhere. In a laughing manner they criticized the Lord."
 }

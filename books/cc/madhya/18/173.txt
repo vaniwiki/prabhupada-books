@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.173",
-    "h1":"Text 173",
+    "h1":"Cc. Madhya 18.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.173",
     "description":"Rājaputa Kṛṣṇadāsa said, \"I have my home here, and I also have about two hundred Turkish soldiers and about one hundred cannons."
 }

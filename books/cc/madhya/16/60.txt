@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 16.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.60",
     "description":"Then Śrīla Advaita Ācārya said something to Caitanya Mahāprabhu through gestures and read some poetic passages, which no one understood."
 }

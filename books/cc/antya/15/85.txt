@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.85",
-    "h1":"Text 85",
+    "h1":"Cc. Antya 15.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.85",
     "description":"When Svarūpa Dāmodara Gosvāmī sang this special song, Śrī Caitanya Mahāprabhu immediately got up and began to dance in ecstatic love."
 }

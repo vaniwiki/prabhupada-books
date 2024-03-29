@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 13.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.30",
     "description":"When Lord Caitanya Mahāprabhu was a student, He asked whomever He met to chant the Hare Kṛṣṇa mahā-mantra. In this way He inundated the whole town of Navadvīpa with the chanting of Hare Kṛṣṇa."
 }

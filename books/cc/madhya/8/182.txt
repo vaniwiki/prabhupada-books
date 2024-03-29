@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.182",
-    "h1":"Text 182",
+    "h1":"Cc. Madhya 8.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.182",
     "description":"\" 'If one asks about the origin of love of Kṛṣṇa, the answer is that the origin is in Śrīmatī Rādhārāṇī alone. Who is the most dear friend of Kṛṣṇa? The answer again is Śrīmatī Rādhārāṇī alone. No one else. Śrīmatī Rādhārāṇī's hair is very curly, Her two eyes are always moving to and fro, and Her breasts are firm. Since all transcendental qualities are manifest in Śrīmatī Rādhārāṇī, She alone is able to fulfill all the desires of Kṛṣṇa. No one else.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.104",
-    "h1":"Text 104",
+    "h1":"Cc. Madhya 12.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.104",
     "description":"The Lord mopped the rooms with His own clothes, and He polished the throne with them also."
 }

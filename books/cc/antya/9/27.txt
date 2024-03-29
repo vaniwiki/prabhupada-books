@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 9.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.27",
     "description":"\"Hearing this criticism, the prince became very angry. Going before the King, he made some false allegations against Gopīnātha Paṭṭanāyaka."
 }

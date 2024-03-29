@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.119",
-    "h1":"Text 119",
+    "h1":"Cc. Madhya 6.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.119",
     "description":"When they entered the temple, Sārvabhauma Bhaṭṭācārya offered Caitanya Mahāprabhu a seat, while he himself sat down on the floor out of due respect for a sannyāsī."
 }

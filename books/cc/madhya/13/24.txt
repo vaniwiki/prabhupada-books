@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 13.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.24",
     "description":"Having taken permission from the goddess of fortune, the Lord came out to ride on the Ratha car and perform His pastimes for the pleasure of the devotees."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.62",
-    "h1":"Text 62",
+    "h1":"Cc. Antya 11.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.62",
     "description":"The body of Haridāsa Ṭhākura was then raised onto a carrier that resembled an airship and taken to the sea, accompanied by congregational chanting."
 }

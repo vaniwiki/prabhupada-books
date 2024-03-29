@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 6.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.11",
     "description":"He [Advaita Ācārya] helps in the pastimes of the puruṣa, with whose material energy and by whose will He creates innumerable universes."
 }

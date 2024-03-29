@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.78",
-    "h1":"Text 78",
+    "h1":"Cc. Madhya 12.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.78",
     "description":"As soon as the superintendent understood the desire of the Lord, he immediately delivered a hundred new waterpots and a hundred brooms for sweeping the temple."
 }

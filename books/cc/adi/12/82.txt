@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.82",
-    "h1":"Text 82",
+    "h1":"Cc. Ādi 12.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.82",
     "description":"The eleventh branch of Gadādhara Gosvāmī was Bhūgarbha Gosāñi, and the twelfth was Bhāgavata dāsa. Both of them went to Vṛndāvana and resided there for life."
 }

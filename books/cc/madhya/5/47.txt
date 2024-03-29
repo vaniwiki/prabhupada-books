@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 5.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.47",
     "description":"The elderly brāhmaṇa prayed, \"My dear Lord Gopāla, I have taken shelter of Your lotus feet, and therefore I request You to please protect my religious principles from disturbance and at the same time save my kinsmen from dying.\""
 }

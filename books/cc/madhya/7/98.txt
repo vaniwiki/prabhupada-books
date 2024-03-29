@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 7.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.98",
     "description":"Whoever heard Lord Caitanya Mahāprabhu chant \"Hari, Hari,\" also chanted the holy name of Lord Hari and Kṛṣṇa. In this way they all followed the Lord, very eager to see Him."
 }

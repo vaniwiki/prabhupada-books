@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 9.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.18",
     "description":"After seeing the Deity of Lord Rāmacandra, the descendant of King Raghu, the Lord offered His prayers and obeisances. Then a brāhmaṇa invited the Lord to take lunch."
 }

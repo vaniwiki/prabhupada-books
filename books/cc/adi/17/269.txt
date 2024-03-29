@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.269",
-    "h1":"Text 269",
+    "h1":"Cc. Ādi 17.269",
+    "label":"Text 269",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.269",
     "description":"The Lord offered him respectful obeisances and invited him to His house. After feeding him sumptuously, He submitted to him His petition."
 }

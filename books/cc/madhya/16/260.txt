@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.260",
-    "h1":"Text 260",
+    "h1":"Cc. Madhya 16.260",
+    "label":"Text 260",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.260",
     "description":"\"With great difficulty I went to the town of Rāmakeli, where I met two brothers named Rūpa and Sanātana."
 }

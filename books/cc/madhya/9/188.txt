@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 9.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.188",
     "description":"\"My dear Sir, mother Sītā is the mother of the universe and the supreme goddess of fortune. She has been touched by the demon Rāvaṇa, and I am troubled upon hearing this news."
 }

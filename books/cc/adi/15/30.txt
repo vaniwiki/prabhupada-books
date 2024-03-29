@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.30",
-    "h1":"Text 30",
+    "h1":"Cc. Ādi 15.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.30",
     "description":"Following the indications of Śacīdevī, Vanamālī Ghaṭaka arranged the marriage, and thus in due course the Lord married Lakṣmīdevī."
 }

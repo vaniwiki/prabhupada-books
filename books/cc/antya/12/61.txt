@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 12.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.61",
     "description":"All the devotees engaged in the cleansing ceremony of the Guṇḍicā temple and danced in front of the Ratha-yātrā chariot, just as they had done in the past."
 }

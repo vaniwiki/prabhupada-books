@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.306",
-    "h1":"Text 306",
+    "h1":"Cc. Madhya 9.306",
+    "label":"Text 306",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.306",
     "description":"Śrī Caitanya Mahāprabhu was very much pleased to hear the book Kṛṣṇa-karṇāmṛta, and with great eagerness He had it copied and took it with Him."
 }

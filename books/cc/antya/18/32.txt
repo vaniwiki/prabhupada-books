@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 18.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.32",
     "description":"Lord Kṛṣṇa performed pastimes with the gopīs in the waters of the Yamunā, and Śrī Caitanya Mahāprabhu fully merged in those pastimes."
 }

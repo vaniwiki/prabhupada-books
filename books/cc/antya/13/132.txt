@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.132",
-    "h1":"Text 132",
+    "h1":"Cc. Antya 13.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.132",
     "description":"Raghunātha Bhaṭṭa would neither hear nor speak about anything of the material world. He would simply discuss Kṛṣṇa and worship the Lord day and night."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.211",
-    "h1":"Text 211",
+    "h1":"Cc. Madhya 3.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.211",
     "description":"When everything was arranged, Lord Caitanya Mahāprabhu circumambulated His mother and then started for Jagannātha Purī. In the house of Advaita Ācārya there arose tumultuous crying."
 }

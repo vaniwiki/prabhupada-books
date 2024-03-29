@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 24.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.233",
     "description":"\"When he went farther, he saw a rabbit that was also suffering. Nārada Muni was greatly pained at heart to see living entities suffer so."
 }

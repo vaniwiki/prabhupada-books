@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.54",
-    "h1":"Text 54",
+    "h1":"Cc. Ādi 4.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.54",
     "description":"Having first given hints about the verse describing the principal reason why the Lord appeared, now I shall manifest its full meaning."
 }

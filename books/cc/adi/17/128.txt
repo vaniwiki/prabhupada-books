@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.128",
-    "h1":"Text 128",
+    "h1":"Cc. Ādi 17.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.128",
     "description":"\"The next time I see someone performing such saṅkīrtana, I shall certainly chastise him by not only confiscating all his property but also converting him into a Muslim.\""
 }

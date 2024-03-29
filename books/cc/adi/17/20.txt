@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.20",
-    "h1":"Text 20",
+    "h1":"Cc. Ādi 17.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.20",
     "description":"After this incident the Lord ate raw rice given by Śuklāmbara Brahmacārī and explained very elaborately the import of the \"harer nāma\" śloka mentioned in the Bṛhan-nāradīya Purāṇa."
 }

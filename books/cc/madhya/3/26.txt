@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 3.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.26",
     "description":"Saying this, Nityānanda Prabhu took Caitanya Mahāprabhu near the Ganges, and the Lord, in His ecstasy, accepted the river Ganges as the river Yamunā."
 }

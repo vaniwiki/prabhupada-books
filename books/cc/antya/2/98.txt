@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 2.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.98",
     "description":"Svarūpa Dāmodara replied, \"Nevertheless, when we hear the Māyāvāda philosophy, we hear that Brahman is knowledge and that the universe of māyā is false, but we gain no spiritual understanding."
 }

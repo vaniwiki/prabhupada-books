@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.273",
-    "h1":"Text 273",
+    "h1":"Cc. Antya 6.273",
+    "label":"Text 273",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.273",
     "description":"The Lord asked, \"Why has Raghunātha dāsa stopped inviting Me?\" Svarūpa Dāmodara replied, \"He must have reconsidered something in his mind."
 }

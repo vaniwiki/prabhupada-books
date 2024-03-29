@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.49",
-    "h1":"Text 49",
+    "h1":"Cc. Antya 6.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.49",
     "description":"Lord Nityānanda was by nature very merciful and funny. Being merciful, He spoke to Raghunātha dāsa as follows."
 }

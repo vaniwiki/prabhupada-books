@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.155",
-    "h1":"Text 155",
+    "h1":"Cc. Madhya 16.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.155",
     "description":"Rāmānanda Rāya's separation from Caitanya Mahāprabhu is very difficult to describe. It is almost intolerable, and therefore I cannot describe it further."
 }

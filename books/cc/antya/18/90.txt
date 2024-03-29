@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.90",
-    "h1":"Text 90",
+    "h1":"Cc. Antya 18.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.90",
     "description":"\"Kṛṣṇa expanded Himself into as many forms as there were gopīs and then took away all the garments that covered them. The water of the River Yamunā was crystal clear, and Kṛṣṇa saw the glittering bodies of the gopīs in great happiness."
 }

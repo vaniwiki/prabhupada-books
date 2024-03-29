@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.69",
-    "h1":"Text 69",
+    "h1":"Cc. Ādi 7.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.69",
     "description":"\"Meditation and the study of Vedānta are the sole duties of a sannyāsī. Why do You abandon these to dance with fanatics?"
 }

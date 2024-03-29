@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.190",
-    "h1":"Text 190",
+    "h1":"Cc. Ādi 5.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.190",
     "description":"His red stick moving in His hand, He seemed like a maddened lion. All around the four sides of His feet were bumblebees."
 }

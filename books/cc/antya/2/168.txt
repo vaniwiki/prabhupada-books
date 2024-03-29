@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.168",
-    "h1":"Text 168",
+    "h1":"Cc. Antya 2.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.168",
     "description":"This incident manifests the mercy of Śrī Caitanya Mahāprabhu, His teaching that a sannyāsī should remain in the renounced order, and the deep attachment to Him felt by His faithful devotees."
 }

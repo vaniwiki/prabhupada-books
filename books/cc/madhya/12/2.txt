@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.2",
-    "h1":"Text 2",
+    "h1":"Cc. Madhya 12.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.2",
     "description":"All glories to Gauracandra! All glories to Nityānanda! All glories to Advaitacandra! And all glories to the devotees of Lord Śrī Caitanya Mahāprabhu!"
 }

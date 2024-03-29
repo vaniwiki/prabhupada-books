@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.156",
-    "h1":"Text 156",
+    "h1":"Cc. Ādi 7.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.156",
     "description":"The crowd at the door of His residence was so great that it numbered hundreds of thousands."
 }

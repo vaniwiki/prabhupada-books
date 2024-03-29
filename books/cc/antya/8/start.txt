@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8",
-    "h1":"Chapter 8",
+    "h1":"Rāmacandra Purī Criticizes the Lord",
+    "label":"Chapter 8",
     "title":"Cc. Antya 8: Rāmacandra Purī Criticizes the Lord",
     "description":""
 }

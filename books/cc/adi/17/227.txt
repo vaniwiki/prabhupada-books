@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.227",
-    "h1":"Text 227",
+    "h1":"Cc. Ādi 17.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.227",
     "description":"One day the two brothers Lord Nityānanda Prabhu and Śrī Caitanya Mahāprabhu were dancing in the holy house of Śrīvāsa Ṭhākura."
 }

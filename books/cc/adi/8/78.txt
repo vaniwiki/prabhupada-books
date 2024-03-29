@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 8.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.78",
     "description":"Actually Śrī Caitanya-caritāmṛta is not my writing but the dictation of Śrī Madana-mohana. My writing is like the repetition of a parrot."
 }

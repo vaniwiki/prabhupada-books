@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 17.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.100",
     "description":"Even though He had not made such a plan, Śrī Caitanya Mahāprabhu remained for ten days at Vārāṇasī, being obligated by the requests of His two servants."
 }

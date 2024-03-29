@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 8.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.3",
     "description":"According to His previous program, Lord Śrī Caitanya Mahāprabhu went forward on His tour and after some days arrived at the place of pilgrimage known as Jiyaḍa-nṛsiṁha."
 }

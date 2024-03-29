@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 11.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.53",
     "description":"The dancer Gopāla was the seventy-first, Rāmabhadra the seventy-second, Gaurāṅga dāsa the seventy-third, Nṛsiṁha-caitanya the seventy-fourth and Mīnaketana Rāmadāsa the seventy-fifth."
 }

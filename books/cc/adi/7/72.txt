@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 7.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.72",
     "description":"\" 'You are a fool,' he said. 'You are not qualified to study Vedānta philosophy, and therefore You must always chant the holy name of Kṛṣṇa. This is the essence of all mantras, or Vedic hymns."
 }

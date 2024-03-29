@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.80",
-    "h1":"Text 80",
+    "h1":"Cc. Madhya 6.80",
+    "label":"Text 80",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.80",
     "description":"The disciples of Sārvabhauma Bhaṭṭācārya retaliated, \"By what evidence do you conclude that Śrī Caitanya Mahāprabhu is the Supreme Lord?\" Gopīnātha Ācārya replied, \"The statements of authorized ācāryas who understand the Supreme Personality of Godhead are proof.\""
 }

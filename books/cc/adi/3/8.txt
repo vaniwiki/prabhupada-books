@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 3.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.8",
     "description":"Seventy-one divya-yugas constitute one manv-antara. There are fourteen manv-antaras in one day of Brahmā."
 }

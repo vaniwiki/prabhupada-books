@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.172",
-    "h1":"Text 172",
+    "h1":"Cc. Antya 6.172",
+    "label":"Text 172",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.172",
     "description":"Thinking of the lotus feet of Śrī Caitanya Mahāprabhu and Lord Nityānanda Prabhu, he left the general path and proceeded with great haste on the one not generally used."
 }

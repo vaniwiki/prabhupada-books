@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 12.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.69",
     "description":"Thus Śrī Caitanya Mahāprabhu acts in the society of His pure devotees, performing His pastimes and spreading the saṅkīrtana movement."
 }

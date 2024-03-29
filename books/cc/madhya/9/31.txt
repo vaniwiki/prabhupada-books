@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.31",
-    "h1":"Text 31",
+    "h1":"Cc. Madhya 9.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.31",
     "description":"\"As far as the holy names of Rāma and Kṛṣṇa are concerned, they are on an equal level, but for further advancement we receive some specific information from revealed scriptures."
 }

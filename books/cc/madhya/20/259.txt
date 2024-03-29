@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.259",
-    "h1":"Text 259",
+    "h1":"Cc. Madhya 20.259",
+    "label":"Text 259",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.259",
     "description":"\"By the agency of the material energy, this same Lord Saṅkarṣaṇa creates all the universes. The dull material energy-known in modern language as nature-is not the cause of the material universe."
 }

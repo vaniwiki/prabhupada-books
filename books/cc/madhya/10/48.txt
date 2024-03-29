@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.48",
-    "h1":"Text 48",
+    "h1":"Cc. Madhya 10.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.48",
     "description":"After this introduction, everyone fell to the ground like rods. Being very merciful upon them all, Śrī Caitanya Mahāprabhu embraced each one of them."
 }

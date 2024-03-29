@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 16.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.1",
     "description":"Let me offer my respectful obeisances unto Śrī Caitanya Mahāprabhu, who personally tasted the nectar of ecstatic love for Kṛṣṇa and then instructed His devotees how to taste it. Thus He enlightened them about ecstatic love of Kṛṣṇa to initiate them into transcendental knowledge."
 }

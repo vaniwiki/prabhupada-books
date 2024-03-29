@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 8.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.72",
     "description":"Paramānanda Purī said, \"My Godbrother Rāmacandra Purī is by nature a bad critic. If You give up eating because of his words, what will be the profit?"
 }

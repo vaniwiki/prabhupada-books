@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.277",
-    "h1":"Text 277",
+    "h1":"Cc. Madhya 25.277",
+    "label":"Text 277",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.277",
     "description":"The pastimes of Śrī Caitanya Mahāprabhu are full of nectar, and the pastimes of Lord Kṛṣṇa are like camphor. When one mixes these, they taste very sweet. By the mercy of the pure devotees, whoever tastes them can understand the depths of that sweetness."
 }

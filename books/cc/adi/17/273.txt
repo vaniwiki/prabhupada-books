@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.273",
-    "h1":"Text 273",
+    "h1":"Cc. Ādi 17.273",
+    "label":"Text 273",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.273",
     "description":"When Śrī Caitanya Mahāprabhu accepted sannyāsa, three personalities were with Him to perform all the necessary activities. They were Nityānanda Prabhu, Candraśekhara Ācārya and Mukunda Datta."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 13.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.105",
     "description":"Tears came forcefully from the eyes of the Lord, as if from a syringe, and all the people surrounding Him became wet."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.183",
-    "h1":"Text 183",
+    "h1":"Cc. Madhya 13.183",
+    "label":"Text 183",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.183",
     "description":"Not even Lord Nityānanda Prabhu, Kāśīśvara or Govinda took care of Lord Caitanya Mahāprabhu when He fell down. Nityānanda was in great ecstasy, and Kāśīśvara and Govinda were elsewhere."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 5.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.70",
     "description":"Pradyumna Miśra said, \"My dear Lord, You have made me extremely obliged to You because You have drowned me in a nectarean ocean of talks about Kṛṣṇa."
 }

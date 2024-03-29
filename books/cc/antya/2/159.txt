@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.159",
-    "h1":"Text 159",
+    "h1":"Cc. Antya 2.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.159",
     "description":"\"Haridāsa cannot have been degraded; he must have attained liberation. This is a pastime of Śrī Caitanya Mahāprabhu. You will all understand it later.\""
 }

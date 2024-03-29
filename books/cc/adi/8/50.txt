@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 8.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.50",
     "description":"In Vṛndāvana, in a great place of pilgrimage underneath the desire trees, is a golden throne bedecked with jewels."
 }

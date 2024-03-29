@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 10.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.147",
     "description":"After Sārvabhauma Bhaṭṭācārya said this, Śrī Caitanya Mahāprabhu embraced Govinda and engaged him in the service of His personal body."
 }

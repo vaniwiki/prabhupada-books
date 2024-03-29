@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 4.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.42",
     "description":"\" 'It is impossible for me to give up the lotus feet of Lord Raghunātha. When I even think of giving them up, my heart breaks.'"
 }

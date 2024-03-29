@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.187",
-    "h1":"Text 187",
+    "h1":"Cc. Ādi 17.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.187",
     "description":"After this description, the Kazi showed his chest. Having heard him and seen the marks, all the people there accepted the wonderful incident."
 }

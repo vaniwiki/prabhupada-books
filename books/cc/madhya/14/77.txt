@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 14.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.77",
     "description":"While in the water they sometimes formed a circle and sometimes many circles, and while in the water they used to play cymbals and imitate the croaking of frogs."
 }

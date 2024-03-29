@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 20.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.180",
     "description":"\" 'My dear friend, this dramatic actor appears like a second form of My own self. Like a picture, He displays My pastimes as a cowherd boy overflowing with wonderfully attractive sweetness and fragrance, which are so dear to the damsels of Vraja. When I see such a display, My heart becomes greatly excited. I long for such pastimes and desire a form exactly like the damsels of Vraja.'"
 }

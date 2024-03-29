@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.131",
-    "h1":"Text 131",
+    "h1":"Cc. Ādi 17.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.131",
     "description":"Returning home, all the citizens began performing saṅkīrtana, but because of the order of the Kazi, they were not carefree but always full of anxiety."
 }

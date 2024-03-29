@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.224",
-    "h1":"Text 224",
+    "h1":"Cc. Antya 3.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.224",
     "description":"Determined to deliver all the fallen souls, Advaita Ācārya decided to cause Kṛṣṇa to descend. With this vow, he began to offer Ganges water and tulasī leaves to worship the Lord."
 }

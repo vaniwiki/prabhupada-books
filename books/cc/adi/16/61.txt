@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 16.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.61",
     "description":"\"Not only is there the fault avimṛṣṭa-vidheyāṁśa, but there is also another fault, which I shall point out to you. Kindly hear Me with great attention."
 }

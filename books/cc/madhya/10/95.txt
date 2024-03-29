@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.95",
-    "h1":"Text 95",
+    "h1":"Cc. Madhya 10.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.95",
     "description":"Paramānanda Purī very soon arrived at Śrī Caitanya Mahāprabhu's place. The Lord was very happy to see him."
 }

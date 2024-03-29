@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.137",
-    "h1":"Text 137",
+    "h1":"Cc. Madhya 12.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.137",
     "description":"All around Śrī Caitanya Mahāprabhu all the devotees performed congregational chanting. The Lord, just like a maddened lion, danced in the middle."
 }

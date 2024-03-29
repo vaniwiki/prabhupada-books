@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.87",
-    "h1":"Text 87",
+    "h1":"Cc. Antya 14.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.87",
     "description":"Reciting this verse, Śrī Caitanya Mahāprabhu ran toward the sand dune as fast as the wind. Govinda ran after Him, but he could not approach Him."
 }

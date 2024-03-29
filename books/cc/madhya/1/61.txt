@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 1.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.61",
     "description":"After composing this verse, Rūpa Gosvāmī wrote it on a palm leaf and put it on the roof of the thatched house in which he was living."
 }

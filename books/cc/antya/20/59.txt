@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 20.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.59",
     "description":"\"My happiness is in the service of Kṛṣṇa, and Kṛṣṇa's happiness is in union with Me. For this reason, I give My body in charity to the lotus feet of Kṛṣṇa, who accepts Me as His loved one and calls Me His most beloved. It is then that I consider Myself His maidservant."
 }

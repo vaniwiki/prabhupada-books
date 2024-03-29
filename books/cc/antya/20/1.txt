@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 20.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.1",
     "description":"Only the most fortunate will relish the mad words of Śrī Caitanya Mahāprabhu, which mixed with jubilation, envy, agitation, submissiveness and grief, all produced by ecstatic loving emotions."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.253",
-    "h1":"Text 253",
+    "h1":"Cc. Madhya 14.253",
+    "label":"Text 253",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.253",
     "description":"Every year thereafter, when the Guṇḍicā temple was being cleansed, Satyarāja and Rāmānanda Vasu would come with other devotees and with great pleasure bring silken rope."
 }

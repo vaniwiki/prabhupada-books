@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.39",
-    "h1":"Text 39",
+    "h1":"Cc. Antya 20.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.39",
     "description":"\"My Lord Govinda, because of separation from You, I consider even a moment a great millennium. Tears flow from My eyes like torrents of rain, and I see the entire world as void."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 3.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.46",
     "description":"There was sukhta, bitter melon mixed with all kinds of vegetables, defying the taste of nectar. There were five types of bitter and pungent sukhtas."
 }

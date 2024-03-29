@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 15.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.41",
     "description":"\" 'You are all just like dear friends to us. Kindly tell us which way Kṛṣṇa has gone and save our lives.'"
 }

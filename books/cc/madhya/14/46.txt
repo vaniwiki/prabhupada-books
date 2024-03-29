@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 14.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.46",
     "description":"As soon as the beggars chanted the holy name, \"Hari bol,\" they were immediately absorbed in ecstatic love of Godhead. In this way Śrī Caitanya Mahāprabhu performed wonderful pastimes."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 4.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.15",
     "description":"When the Deity's helmet fell upon His head, Śrī Caitanya Mahāprabhu became very pleased, and thus He chanted and danced in various ways with His devotees."
 }

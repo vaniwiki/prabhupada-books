@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.52",
-    "h1":"Text 52",
+    "h1":"Cc. Ādi 5.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.52",
     "description":"Surrounding Vaikuṇṭha is a mass of water that is endless, unfathomed and unlimited."
 }

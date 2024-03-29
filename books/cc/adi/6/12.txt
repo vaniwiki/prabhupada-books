@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 6.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.12",
     "description":"Śrī Advaita Ācārya is all-auspicious to the world, for He is a reservoir of all auspicious attributes. His characteristics, activities and name are always auspicious."
 }

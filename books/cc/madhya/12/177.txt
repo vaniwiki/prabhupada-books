@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 12.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.177",
     "description":"The Lord made Sārvabhauma Bhaṭṭācārya sit on His left side, and when Sārvabhauma saw the behavior of Svarūpa Dāmodara and Jagadānanda, he smiled."
 }

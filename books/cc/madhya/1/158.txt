@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 1.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.158",
     "description":"These lakes had bathing places constructed with jewels, and they were filled with blossoming lotus flowers. There were various birds chirping, and the water was exactly like nectar."
 }

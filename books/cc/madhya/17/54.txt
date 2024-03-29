@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.54",
-    "h1":"Text 54",
+    "h1":"Cc. Madhya 17.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.54",
     "description":"Śrī Caitanya Mahāprabhu gave even the Bheels an opportunity to chant the holy name and come to the platform of ecstatic love. Thus He delivered all of them. Who has the power to understand the transcendental pastimes of the Lord?"
 }

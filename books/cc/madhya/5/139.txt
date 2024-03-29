@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 5.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.139",
     "description":"Thus with great pleasure Lord Śrī Caitanya Mahāprabhu passed that night in the temple. After seeing the maṅgala-ārati ceremony in the morning, He started on His journey."
 }

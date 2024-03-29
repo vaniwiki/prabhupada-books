@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.126",
-    "h1":"Text 126",
+    "h1":"Cc. Madhya 12.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.126",
     "description":"\"This person from Bengal has washed My feet within the temple of the Personality of Godhead. Not only that, but he has drunk the water himself."
 }

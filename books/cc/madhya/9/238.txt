@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.238",
-    "h1":"Text 238",
+    "h1":"Cc. Madhya 9.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.238",
     "description":"Śrī Caitanya Mahāprabhu was greatly happy to find a chapter of that scripture, and symptoms of ecstatic transformation-trembling, tears, perspiration, trance and jubilation-were manifest in His body."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 4.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.7",
     "description":"I am therefore presenting only a synopsis of those events already described elaborately by Vṛndāvana dāsa Ṭhākura in his Caitanya-maṅgala [now known as Caitanya-bhāgavata]."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 14.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.72",
     "description":"One day mother Śacī went to catch her son, wanting to rebuke Him, but He fled from the spot."
 }

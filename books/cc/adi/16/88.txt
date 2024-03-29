@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 16.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.88",
     "description":"He wanted to say something, but no reply could come from his mouth. He then began to consider this puzzle within his mind."
 }

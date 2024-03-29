@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.189",
-    "h1":"Text 189",
+    "h1":"Cc. Antya 3.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.189",
     "description":"\"My devotees do not accept sālokya, sārṣṭi, sārūpya, sāmīpya, or oneness with Me-even if I offer these liberations-in preference to serving Me.' \""
 }

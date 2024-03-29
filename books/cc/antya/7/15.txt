@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 7.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.15",
     "description":"\"There may be many all-auspicious incarnations of the Personality of Godhead, but who other than Lord Śrī Kṛṣṇa can bestow love of God upon the surrendered souls?' \""
 }

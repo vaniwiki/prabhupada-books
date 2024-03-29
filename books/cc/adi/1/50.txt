@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 1.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.50",
     "description":"The Supreme Personality of Godhead [svayaṁ bhagavān] taught Brahmā and made him self-realized."
 }

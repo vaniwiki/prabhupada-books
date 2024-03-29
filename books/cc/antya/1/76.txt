@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.76",
-    "h1":"Text 76",
+    "h1":"Cc. Antya 1.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.76",
     "description":"Only Svarūpa Dāmodara Gosvāmī knew the purpose for which the Lord recited that verse. According to the Lord's attitude, he used to quote other verses to enable the Lord to relish mellows."
 }

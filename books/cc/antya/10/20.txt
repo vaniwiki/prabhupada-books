@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.20",
-    "h1":"Text 20",
+    "h1":"Cc. Antya 10.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.20",
     "description":"Because of sincere affection, she thought that eating this sukutā would cure the Lord's disease. Considering these affectionate thoughts of Damayantī, the Lord was very pleased."
 }

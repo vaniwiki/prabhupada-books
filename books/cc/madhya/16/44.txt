@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.44",
-    "h1":"Text 44",
+    "h1":"Cc. Madhya 16.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.44",
     "description":"Then Śrī Caitanya Mahāprabhu and all His devotees visited Lord Jagannātha. Finally, accompanied by them all, He returned to His own residence."
 }

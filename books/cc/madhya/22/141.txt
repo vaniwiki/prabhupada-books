@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.141",
-    "h1":"Text 141",
+    "h1":"Cc. Madhya 22.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.141",
     "description":"\" 'One who has given up all material duties and taken full shelter at the lotus feet of Mukunda, who gives shelter to all, is not indebted to the demigods, great sages, ordinary living beings, relatives, friends, mankind or even one's forefathers who have passed away.'"
 }

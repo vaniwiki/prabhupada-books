@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.281",
-    "h1":"Text 281",
+    "h1":"Cc. Madhya 9.281",
+    "label":"Text 281",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.281",
     "description":"Śrī Caitanya Mahāprabhu then visited the town of Kolāpura, where He saw the goddess of fortune in the temple of Kṣīra-bhagavatī and Lāṅga-gaṇeśa in another temple, known as Cora-pārvatī."
 }

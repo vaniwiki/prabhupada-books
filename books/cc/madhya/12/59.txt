@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 12.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.59",
     "description":"The prince was dressed in yellow cloth, and there were jeweled ornaments decorating his body. Therefore anyone who saw him would remember Lord Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 17.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.25",
     "description":"When the Lord passed through the solitary forest chanting the holy name of Kṛṣṇa, the tigers and elephants, seeing Him, gave way."
 }

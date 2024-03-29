@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 5.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.128",
     "description":"Considering this, the Queen offered her obeisances to Gopāla and returned to her palace. That night she dreamed that Gopāla appeared and began to speak to her as follows."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.44",
-    "h1":"Text 44",
+    "h1":"Cc. Ādi 2.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.44",
     "description":"\"Both in this material world and in the transcendental world, You see all the deeds of all living beings, in the past, present and future. Since You are the witness of all such deeds, You know the essence of everything."
 }

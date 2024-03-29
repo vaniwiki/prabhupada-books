@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.120",
-    "h1":"Text 120",
+    "h1":"Cc. Antya 10.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.120",
     "description":"\"All these are gifts of Ācāryaratna, and these varieties of gifts are from Ācāryanidhi."
 }

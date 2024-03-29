@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 18.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.75",
     "description":"After some time, the sound of the holy name entered the ear of the Lord, who immediately got up, making a great noise."
 }

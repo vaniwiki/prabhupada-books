@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 1.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.28",
     "description":"Although Nityānanda Prabhu is none other than Balarāma Himself, He nonetheless always thinks of Himself as the eternal servant of Lord Śrī Caitanya Mahāprabhu."
 }

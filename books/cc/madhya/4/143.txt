@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.143",
-    "h1":"Text 143",
+    "h1":"Cc. Madhya 4.143",
+    "label":"Text 143",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.143",
     "description":"Walking and walking, Mādhavendra Purī finally reached Jagannātha Purī, which is also known as Nīlācala. There he saw Lord Jagannātha and was overwhelmed with loving ecstasy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 18.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.13",
     "description":"Śrī Caitanya Mahāprabhu thus offered prayers to Rādhā-kuṇḍa. Overwhelmed by ecstatic love, He danced on the bank, remembering the pastimes Lord Kṛṣṇa performed on the bank of Rādhā-kuṇḍa."
 }

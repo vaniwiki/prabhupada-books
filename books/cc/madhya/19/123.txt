@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 19.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.123",
     "description":"Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī were the objects of love and honor for all the great stalwart devotees of Śrī Caitanya Mahāprabhu."
 }

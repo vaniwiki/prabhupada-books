@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.200",
-    "h1":"Text 200",
+    "h1":"Cc. Antya 6.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.200",
     "description":"\"By His own free will, Lord Kṛṣṇa has delivered you from such a condemned materialistic life. Therefore the glories of Lord Kṛṣṇa's causeless mercy cannot be expressed.\""
 }

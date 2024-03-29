@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.154",
-    "h1":"Text 154",
+    "h1":"Cc. Madhya 10.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.154",
     "description":"When Śrī Caitanya Mahāprabhu and His devotees approached him, they saw that he was covered with a deerskin. Seeing this, Śrī Caitanya Mahāprabhu became very unhappy."
 }

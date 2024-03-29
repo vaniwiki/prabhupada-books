@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 17.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.72",
     "description":"Once the Lord explained the glories of the holy name to the devotees, but some ordinary students who heard Him fashioned their own interpretation."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 16.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.46",
     "description":"Kālidāsa drank one palmful and then a second and a third. Then Śrī Caitanya Mahāprabhu forbade him to drink more."
 }

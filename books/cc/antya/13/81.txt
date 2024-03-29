@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.81",
-    "h1":"Text 81",
+    "h1":"Cc. Antya 13.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.81",
     "description":"As the Lord ran in ecstasy to meet the singer, thorny hedges pricked His body."
 }

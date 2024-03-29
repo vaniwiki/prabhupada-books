@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.113",
-    "h1":"Text 113",
+    "h1":"Cc. Ādi 13.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.113",
     "description":"There were also tiger nails set in gold, waist decorations of silk and lace, ornaments for the hands and legs, nicely printed silken sārīs and a child's garment, also made of silk. Many other riches, including gold and silver coins, were also presented to the child."
 }

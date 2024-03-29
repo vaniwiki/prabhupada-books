@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.291",
-    "h1":"Text 291",
+    "h1":"Cc. Antya 6.291",
+    "label":"Text 291",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.291",
     "description":"The Lord would put the stone to His heart or sometimes to His eyes. Sometimes He would smell it with His nose and sometimes place it on His head."
 }

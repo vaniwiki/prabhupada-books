@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.257",
-    "h1":"Text 257",
+    "h1":"Cc. Antya 6.257",
+    "label":"Text 257",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.257",
     "description":"After hearing this, the messenger returned to Govardhana Majumadāra and informed him all about Raghunātha dāsa."
 }

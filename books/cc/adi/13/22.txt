@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.22",
-    "h1":"Text 22",
+    "h1":"Cc. Ādi 13.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.22",
     "description":"At His birth, in His childhood, in His early and later boyhood as well as in His youth, Lord Caitanya Mahāprabhu, under different pleas, induced people to chant the holy name of Hari [the Hare Kṛṣṇa mahā-mantra]."
 }

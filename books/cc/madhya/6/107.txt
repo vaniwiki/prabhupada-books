@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 6.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.107",
     "description":"\"The false arguments and philosophical word jugglery of your disciples are not faults of theirs. They have simply received the benediction of Māyāvāda philosophy."
 }

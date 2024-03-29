@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.271",
-    "h1":"Text 271",
+    "h1":"Cc. Madhya 8.271",
+    "label":"Text 271",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.271",
     "description":"\"I actually see You in this way, and this is very wonderful. My Lord, please tell me without duplicity what is causing this.\""
 }

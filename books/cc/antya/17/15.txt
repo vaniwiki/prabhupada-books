@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 17.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.15",
     "description":"After searching here and there, they finally came to the cow shed near the Siṁha-dvāra. There they saw Śrī Caitanya Mahāprabhu lying unconscious among the cows."
 }

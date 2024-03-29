@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.364",
-    "h1":"Text 364",
+    "h1":"Cc. Madhya 20.364",
+    "label":"Text 364",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.364",
     "description":"Sanātana Gosvāmī, \"The color of the personality in whom the characteristics of the Lord are found is yellowish. His activities include the distribution of love of Godhead and the chanting of the holy names of the Lord."
 }

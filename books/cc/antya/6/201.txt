@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.201",
-    "h1":"Text 201",
+    "h1":"Cc. Antya 6.201",
+    "label":"Text 201",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.201",
     "description":"Seeing Raghunātha dāsa skinny and dirty because of having traveled for twelve days and fasted, Lord Śrī Caitanya Mahāprabhu, His heart melting due to causeless mercy, spoke to Svarūpa Dāmodara."
 }

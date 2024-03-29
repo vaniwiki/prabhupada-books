@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 4.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.61",
     "description":"After the first bathing, further bathings were conducted with pañca-gavya and then with pañcāmṛta. Then the mahā-snāna was performed with ghee and water, which had been brought in one hundred pots."
 }

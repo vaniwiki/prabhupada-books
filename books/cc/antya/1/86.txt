@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 1.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.86",
     "description":"How could Rūpa Gosvāmī have understood My heart?\" the Lord asked. Svarūpa Dāmodara replied, \"I can understand that You have already bestowed Your causeless mercy upon him."
 }

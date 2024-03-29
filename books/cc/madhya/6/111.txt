@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.111",
-    "h1":"Text 111",
+    "h1":"Cc. Madhya 6.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.111",
     "description":"\"Take jagannātha-prasāda and first give it to Caitanya Mahāprabhu and His associates. After that, come back here and teach me well.\""
 }

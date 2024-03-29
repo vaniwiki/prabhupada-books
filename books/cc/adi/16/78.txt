@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 16.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.78",
     "description":"\"The use of the words 'lakṣmīr iva' ['like Lakṣmī'] manifests the ornament of meaning called upamā [analogy]. There is also the further ornament of meaning called virodhābhāsa, or a contradictory indication."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.78-79",
-    "h1":"Text 78-79",
+    "h1":"Cc. Antya 3.78-79",
+    "label":"Text 78-79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.78-79",
     "description":"Haridāsa said, \"My Lord, as long as You are situated within the material world, You will send to the spiritual sky all the developed moving and nonmoving living entities in different species. Then again You will awaken the living entities who are not yet developed and engage them in activities."
 }

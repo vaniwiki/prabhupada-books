@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 14.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.131",
     "description":"In an angry mood, the goddess of fortune arrived at the main gate of the temple accompanied by many members of her family, all of whom exhibited uncommon opulence."
 }

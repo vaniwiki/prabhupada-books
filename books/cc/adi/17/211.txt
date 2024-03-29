@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.211",
-    "h1":"Text 211",
+    "h1":"Cc. Ādi 17.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.211",
     "description":"\" 'Now the lower classes are chanting the Hare Kṛṣṇa mahā-mantra again and again. For this sinful activity, the entire city of Navadvīpa will become deserted."
 }

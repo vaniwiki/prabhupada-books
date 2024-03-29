@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 3.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.37",
     "description":"Advaita Ācārya then suggested that since Caitanya Mahāprabhu had taken His bath in the river Yamunā and His underwear was now wet, the Lord should change His underwear for dry garments."
 }

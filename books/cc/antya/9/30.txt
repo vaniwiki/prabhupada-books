@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 9.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.30",
     "description":"\"Thus the prince went back, raised Gopīnātha Paṭṭanāyaka onto the platform of the cāṅga and spread swords below upon which to throw him.\""
 }

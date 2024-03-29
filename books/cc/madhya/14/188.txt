@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 14.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.188",
     "description":"Svarūpa Dāmodara said, \"Timidity, jubilation, ambition, respect, fear and the characteristics of the left-wing gopīs were all ecstatic symptoms combined to agitate Śrīmatī Rādhārāṇī."
 }

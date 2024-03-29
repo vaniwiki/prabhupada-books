@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.113",
-    "h1":"Text 113",
+    "h1":"Cc. Madhya 19.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.113",
     "description":"Vallabha Bhaṭṭācārya avoided the River Yamunā. Putting the Lord on a boat in the River Ganges, he went with Him to Prayāga."
 }

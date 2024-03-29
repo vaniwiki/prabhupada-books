@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.155",
-    "h1":"Text 155",
+    "h1":"Cc. Madhya 9.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.155",
     "description":"\"There is no difference between the transcendental forms of the Lord. Different forms are manifest due to different attachments of different devotees. Actually the Lord is one, but He appears in different forms just to satisfy His devotees."
 }

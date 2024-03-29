@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 14.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.43",
     "description":"\"My dear friends,\" He said, \"please hear of Kṛṣṇa's sweetness. Because of a great desire for that sweetness, My mind has given up all social and Vedic religious principles and taken to the profession of begging, exactly like a mystic yogī."
 }

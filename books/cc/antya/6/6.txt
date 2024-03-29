@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 6.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.6",
     "description":"When the Lord acutely felt pangs of separation from Kṛṣṇa, only Śrī Rāma-nanda Rāya's talk about Kṛṣṇa and the sweet songs of Svarūpa Dāmodara kept Him alive."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 5.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.40",
     "description":"In that spiritual sky, on the four sides of Nārāyaṇa, are the second expansions of the quadruple expansions of Dvārakā."
 }

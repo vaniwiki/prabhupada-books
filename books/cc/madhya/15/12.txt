@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.12",
-    "h1":"Text 12",
+    "h1":"Cc. Madhya 15.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.12",
     "description":"In this way both Advaita Ācārya and Śrī Caitanya Mahāprabhu would offer Their respectful obeisances unto one another. Then Advaita Ācārya would extend invitations to Śrī Caitanya Mahāprabhu again and again."
 }

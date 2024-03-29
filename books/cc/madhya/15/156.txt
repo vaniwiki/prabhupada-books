@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.156",
-    "h1":"Text 156",
+    "h1":"Cc. Madhya 15.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.156",
     "description":"\"In this way, I congratulated Murāri Gupta, saying, 'Indeed, you are the incarnation of Hanumān. Consequently you are the eternal servant of Lord Rāmacandra. Why should you give up the worship of Lord Rāmacandra and His lotus feet?' \""
 }

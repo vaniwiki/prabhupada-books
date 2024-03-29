@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 5.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.23",
     "description":"He manifests His own, form in Mathurā and Dvārakā. He enjoys pastimes in various ways by expanding into the quadruple forms."
 }

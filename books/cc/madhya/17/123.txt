@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 17.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.123",
     "description":"The brāhmaṇa's mind was already purified by seeing the Supreme Personality of Godhead, Śrī Caitanya Mahāprabhu. He therefore went to Śrī Caitanya Mahāprabhu and described what took place before the Māyāvādī sannyāsī Prakāśānanda."
 }

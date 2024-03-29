@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 20.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.67",
     "description":"By the order of Śrī Caitanya Mahāprabhu, Sanātana Gosvāmī met both Tapana Miśra and Candraśekhara."
 }

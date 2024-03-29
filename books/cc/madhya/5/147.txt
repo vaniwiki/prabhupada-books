@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 5.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.147",
     "description":"Thus walking and walking, the Lord eventually arrived at the place known as Āṭhāranālā. Arriving there, He expressed His external consciousness, speaking to Śrī Nityānanda Prabhu."
 }

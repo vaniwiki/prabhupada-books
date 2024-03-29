@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.34",
-    "h1":"Text 34",
+    "h1":"Cc. Antya 3.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.34",
     "description":"\"I went there in great haste and ate everything. When you saw Me eating, you felt great happiness."
 }

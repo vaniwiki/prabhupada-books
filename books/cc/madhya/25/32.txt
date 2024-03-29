@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 25.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.32",
     "description":"\" 'O lotus-eyed one, those who think they are liberated in this life but who are devoid of devotional service to You are of impure intelligence. Although they accept severe austerities and penances and rise to the spiritual position, to impersonal Brahman realization, they fall down again because they neglect to worship Your lotus feet.'"
 }

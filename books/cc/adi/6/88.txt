@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 6.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.88",
     "description":"The source of the sentiment of servitude is indeed Lord Balarāma. The plenary expansions who follow Him are all influenced by that ecstasy."
 }

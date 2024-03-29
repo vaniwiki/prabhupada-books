@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.34",
-    "h1":"Text 34",
+    "h1":"Cc. Ādi 3.34",
+    "label":"Text 34",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.34",
     "description":"In His later pastimes He is known as Lord Śrī Kṛṣṇa Caitanya. He blesses the whole world by teaching about the name and fame of Lord Śrī Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.70",
-    "h1":"Text 70",
+    "h1":"Cc. Ādi 2.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.70",
     "description":"All the incarnations of Godhead are plenary portions or parts of the plenary portions of the puruṣa-avatāras, but the primeval Lord is Śrī Kṛṣṇa. He is the Supreme Personality of Godhead, the fountainhead of all incarnations."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 24.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.13",
     "description":"\"The word ātmārāma refers to one who enjoys these seven items [the Absolute Truth, body, mind, and so on]. Later, I shall enumerate the ātmārāmas."
 }

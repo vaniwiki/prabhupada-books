@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 17.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.57",
     "description":"Along the way, Balabhadra Bhaṭṭācārya collected all kinds of spinach, roots and fruit whenever possible."
 }

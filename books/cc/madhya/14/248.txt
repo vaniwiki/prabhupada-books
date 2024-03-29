@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.248",
-    "h1":"Text 248",
+    "h1":"Cc. Madhya 14.248",
+    "label":"Text 248",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.248",
     "description":"Rāmānanda and Satyarāja Khān were present from Kulīna-grāma, and Śrī Caitanya Mahāprabhu, with great respect, gave them the following orders."
 }

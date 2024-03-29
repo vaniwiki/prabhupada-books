@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.266",
-    "h1":"Text 266",
+    "h1":"Cc. Ādi 17.266",
+    "label":"Text 266",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.266",
     "description":"\"Offering obeisances will relieve them of all the reactions to their offenses. Then, by My grace, devotional service [bhakti] will awaken in their pure hearts."
 }

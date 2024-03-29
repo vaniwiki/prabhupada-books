@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.150",
-    "h1":"Text 150",
+    "h1":"Cc. Antya 4.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.150",
     "description":"The Lord took them both with Him and sat down in a sacred place. Then Sanātana Gosvāmī, who was advanced in renunciation, began to speak."
 }

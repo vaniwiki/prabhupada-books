@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 1.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.47",
     "description":"After attending the Ratha-yātrā ceremony at Jagannātha Purī, all the devotees remained there for four months, greatly enjoying the company of Śrī Caitanya Mahāprabhu by performing kīrtana [chanting and dancing]."
 }

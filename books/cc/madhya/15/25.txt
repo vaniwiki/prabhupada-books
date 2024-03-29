@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 15.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.25",
     "description":"When Śrī Caitanya Mahāprabhu whirled the rod in a circle like a firebrand, the heart of everyone who saw it was astonished."
 }

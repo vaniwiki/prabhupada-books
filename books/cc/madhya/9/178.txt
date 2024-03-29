@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 9.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.178",
     "description":"When Śrī Caitanya Mahāprabhu arrived at southern Mathurā from Kāmakoṣṭhī, He met a brāhmaṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.113",
-    "h1":"Text 113",
+    "h1":"Cc. Antya 16.113",
+    "label":"Text 113",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.113",
     "description":"\"An uncommon, greatly enchanting fragrance and taste that makes one forget all other experiences are attributes of Kṛṣṇa's lips."
 }

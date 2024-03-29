@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 6.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.209",
     "description":"While Sārvabhauma Bhaṭṭācārya was in this ecstasy. Gopīnātha Ācārya was very pleased, The associates of Śrī Caitanya Mahāprabhu all laughed to see the Bhaṭṭācārya dance so."
 }

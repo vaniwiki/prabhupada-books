@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 8.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.191",
     "description":"Śrī Caitanya Mahāprabhu said, \"This is all right, but please continue.\" At that time Rāya Rāmānanda replied, \"I don't think my intelligence goes beyond this.\""
 }

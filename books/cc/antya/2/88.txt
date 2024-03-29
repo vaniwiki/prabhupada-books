@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.88",
-    "h1":"Text 88",
+    "h1":"Cc. Antya 2.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.88",
     "description":"Bhagavān Ācārya's father, whose name was Śatānanda Khān, was an expert statesman, whereas Bhagavān Ācārya was not at all interested in the management of the state. Indeed, he was almost in the renounced order of life."
 }

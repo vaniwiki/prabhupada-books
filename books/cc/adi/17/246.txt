@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.246",
-    "h1":"Text 246",
+    "h1":"Cc. Ādi 17.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.246",
     "description":"That night the Lord stayed at the house of Vijaya Ācārya. In the morning the Lord took all His devotees and returned home."
 }

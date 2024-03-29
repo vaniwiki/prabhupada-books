@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.21",
-    "h1":"Text 21",
+    "h1":"Cc. Ādi 6.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.21",
     "description":"Śrī Advaita Ācārya is the creator of millions and millions of universes, and by His expansions [as Garbhodakaśāyī Viṣṇu] He maintains each and every universe."
 }

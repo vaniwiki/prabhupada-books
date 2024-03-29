@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.130",
-    "h1":"Text 130",
+    "h1":"Cc. Madhya 10.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.130",
     "description":"The next day Śrī Caitanya Mahāprabhu sat with all the devotees, headed by Sārvabhauma Bhaṭṭācārya, and they discussed the pastimes of Kṛṣṇa."
 }

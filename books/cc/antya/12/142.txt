@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.142",
-    "h1":"Text 142",
+    "h1":"Cc. Antya 12.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.142",
     "description":"Jagadānanda replied, \"My Lord, You go take rest. I shall take prasāda after I finish making some arrangements."
 }

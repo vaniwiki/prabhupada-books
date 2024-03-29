@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.114",
-    "h1":"Text 114",
+    "h1":"Cc. Madhya 8.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.114",
     "description":"\"The rāsa dance does not shine in the heart of Kṛṣṇa without Śrīmatī Rādhārāṇī. Therefore, He also gave up the circle of the rāsa dance and went out to search for Her."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 18.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.91",
     "description":"Everywhere the Lord went, all the people said, \"Kṛṣṇa has again manifest at Vṛndāvana.\""
 }

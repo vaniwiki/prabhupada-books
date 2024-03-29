@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"Bg. Verse Index",
+    "name":"Bg. Verses",
     "h1":"Bhagavad-gītā Verse Index",
     "label":"Verses",
     "title":"Bhagavad-gītā As It Is Verse Index",

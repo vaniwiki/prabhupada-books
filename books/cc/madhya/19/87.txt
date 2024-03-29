@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.87",
-    "h1":"Text 87",
+    "h1":"Cc. Madhya 19.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.87",
     "description":"Vallabhācārya worshiped the Lord with great pomp, offering scents, incense, flowers and lamps, and with great respect he induced Balabhadra Bhaṭṭa [the Lord's cook] to cook."
 }

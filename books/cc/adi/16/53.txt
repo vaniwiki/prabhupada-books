@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 16.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.53",
     "description":"The poet said, \"All right, let me see what qualities and faults You have found.\" The Lord replied, \"Let Me speak, and please hear Me without becoming angry."
 }

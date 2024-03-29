@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 8.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.208",
     "description":"\"The happiness of the gopīs increases ten million times when they serve to engage Śrī Śrī Rādhā and Kṛṣṇa in Their transcendental pastimes."
 }

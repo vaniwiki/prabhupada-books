@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 9.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.26",
     "description":"Since Śrī Kṛṣṇa Caitanya Mahāprabhu was the original trunk, the taste of the fruits that grew on the branches and subbranches surpassed the taste of nectar."
 }

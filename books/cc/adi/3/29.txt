@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.29",
-    "h1":"Text 29",
+    "h1":"Cc. Ādi 3.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.29",
     "description":"Thinking thus, the Personality of Godhead, Śrī Kṛṣṇa Himself, descended at Nadia early in the Age of Kali."
 }

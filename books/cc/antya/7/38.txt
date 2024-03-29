@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.38",
-    "h1":"Text 38",
+    "h1":"Cc. Antya 7.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.38",
     "description":"\"The transcendental mellow of ecstatic love is personified by Svarūpa Dāmodara. By his association I have understood Vṛndāvana's transcendental mellow of conjugal love."
 }

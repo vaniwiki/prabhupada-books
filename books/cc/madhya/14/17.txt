@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.17",
-    "h1":"Text 17",
+    "h1":"Cc. Madhya 14.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.17",
     "description":"Finally Śrī Caitanya Mahāprabhu said, \"Who are you? You have done so much for Me. All of a sudden you have come here and made Me drink the nectar of the pastimes of Lord Kṛṣṇa.\""
 }

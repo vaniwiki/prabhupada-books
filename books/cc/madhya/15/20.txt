@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 15.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.20",
     "description":"At that time, King Pratāparudra was also personally present with Kāśī Miśra, Sārvabhauma Bhaṭṭācārya and Tulasī Paḍichāpātra."
 }

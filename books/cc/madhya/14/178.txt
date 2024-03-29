@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.178",
-    "h1":"Text 178",
+    "h1":"Cc. Madhya 14.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.178",
     "description":"\"Indeed, they are compared to a combination of yogurt, candy, ghee, honey, black pepper, camphor and cardamom, which, when mixed together, are very tasty and sweet."
 }

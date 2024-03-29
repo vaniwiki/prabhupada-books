@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.99",
-    "h1":"Text 99",
+    "h1":"Cc. Madhya 21.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.99",
     "description":"When Śrī Caitanya Mahāprabhu described the opulences and spiritual potencies of Kṛṣṇa in this way, there was an awakening of love of Kṛṣṇa within Him. His mind was immersed in the sweetness of conjugal love, and He quoted the following verse from Śrīmad-Bhāgavatam."
 }

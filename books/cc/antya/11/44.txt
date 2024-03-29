@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 11.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.44",
     "description":"After embracing him, Śrī Caitanya Mahāprabhu left to perform His noon duties and went to the sea to take His bath."
 }

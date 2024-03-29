@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.137",
-    "h1":"Text 137",
+    "h1":"Cc. Madhya 7.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.137",
     "description":"Although suffering from leprosy, the brāhmaṇa Vāsudeva was enlightened. As soon as one worm fell from his body, he would pick it up and place it back again in the same location."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 4.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.25",
     "description":"When the Lord asked about all the Vaiṣṇavas at Mathurā, Sanātana Gosvāmī informed Him of their good health and fortune."
 }

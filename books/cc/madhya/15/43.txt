@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 15.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.43",
     "description":"Nityānanda Prabhu was given assistants like Rāmadāsa, Gadādhara dāsa and several others. Śrī Caitanya Mahāprabhu said, \"I give them to You to assist You."
 }

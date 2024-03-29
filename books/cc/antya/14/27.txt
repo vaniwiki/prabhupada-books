@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 14.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.27",
     "description":"When the woman came to her senses, however, she quickly climbed back down to the ground and, seeing Śrī Caitanya Mahāprabhu, immediately begged at His lotus feet for forgiveness."
 }

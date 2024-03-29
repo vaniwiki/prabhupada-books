@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.160",
-    "h1":"Text 160",
+    "h1":"Cc. Madhya 25.160",
+    "label":"Text 160",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.160",
     "description":"At this time the brāhmaṇa from the province of Mahārāṣṭra mentioned Lord Caitanya's explanation of the ātmārāma verse."
 }

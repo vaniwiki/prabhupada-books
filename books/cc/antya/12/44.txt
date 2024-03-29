@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 12.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.44",
     "description":"Śivānanda Sena introduced his three sons to Śrī Caitanya Mahāprabhu. Because they were his sons, the Lord showed the boys great mercy."
 }

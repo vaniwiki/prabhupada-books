@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.20",
-    "h1":"Text 20",
+    "h1":"Cc. Ādi 6.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.20",
     "description":"In the form of Advaita He infuses the material ingredients with creative energy. Therefore, Advaita is the original cause of creation."
 }

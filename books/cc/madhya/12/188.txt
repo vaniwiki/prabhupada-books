@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 12.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.188",
     "description":"Śrī Advaita Ācārya and Nityānanda Prabhu sat side by side, and when prasāda was being distributed They engaged in a type of mock fighting."
 }

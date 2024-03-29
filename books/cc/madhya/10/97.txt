@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.97",
-    "h1":"Text 97",
+    "h1":"Cc. Madhya 10.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.97",
     "description":"Śrī Caitanya Mahāprabhu said, \"Please stay with Me and thus show Me favor, accepting the shelter of Jagannātha Purī.\""
 }

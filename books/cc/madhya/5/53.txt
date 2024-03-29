@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 5.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.53",
     "description":"Seeing a stick in the hand of the son, the younger brāhmaṇa fled. The next day, however, he gathered together all the people of the village."
 }

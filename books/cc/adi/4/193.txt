@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.193",
-    "h1":"Text 193",
+    "h1":"Cc. Ādi 4.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.193",
     "description":"In this way a competition takes place between them in which no one acknowledges defeat."
 }

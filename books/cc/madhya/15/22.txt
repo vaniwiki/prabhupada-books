@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 15.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.22",
     "description":"It was at this time that Śrīla Advaita Ācārya said, \"Please do not be angry. I speak the truth. I shall know whether You are a cowherd boy only if You can wheel this rod about.\""
 }

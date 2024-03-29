@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 19.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.43",
     "description":"Everyone was astounded to see the greatness of Śrī Caitanya Mahāprabhu. Indeed, I cannot properly describe the pastimes of the Lord at Prayāga."
 }

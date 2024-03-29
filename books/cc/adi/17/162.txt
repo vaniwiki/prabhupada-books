@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.162",
-    "h1":"Text 162",
+    "h1":"Cc. Ādi 17.162",
+    "label":"Text 162",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.162",
     "description":"\"The killing and rejuvenation of such old and invalid cows was not truly killing but an act of great benefit."
 }

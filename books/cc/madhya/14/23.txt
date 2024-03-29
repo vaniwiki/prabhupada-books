@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.23",
-    "h1":"Text 23",
+    "h1":"Cc. Madhya 14.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.23",
     "description":"After this, Vāṇīnātha Rāya brought all kinds of prasāda, and Śrī Caitanya Mahāprabhu accepted lunch with the devotees."
 }

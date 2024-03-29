@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.298",
-    "h1":"Text 298",
+    "h1":"Cc. Madhya 9.298",
+    "label":"Text 298",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.298",
     "description":"He also remembered how Śrī Jagannātha Miśra's wife, Śacīmātā, was expert in cooking. He recalled that she was very affectionate toward the sannyāsīs and fed them exactly like her own sons."
 }

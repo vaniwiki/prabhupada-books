@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.194",
-    "h1":"Text 194",
+    "h1":"Cc. Madhya 12.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.194",
     "description":"\"One who participates in Your impersonal monistic philosophy does not accept anything but the one Brahman.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 6.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.170",
     "description":"\"The Vedānta-sūtra aims at establishing that the cosmic manifestation has come into being by the transformation of the inconceivable potency of the Supreme Personality of Godhead."
 }

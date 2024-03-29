@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 9.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.38",
     "description":"After showing mercy to the brāhmaṇa, Lord Śrī Caitanya Mahāprabhu left the next day and arrived at Vṛddhakāśī, where He visited the temple of Lord Śiva."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 1.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.94",
     "description":"One day while Rūpa Gosvāmī was writing his book, Śrī Caitanya Mahāprabhu suddenly appeared."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.127",
-    "h1":"Text 127",
+    "h1":"Cc. Antya 20.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.127",
     "description":"Also in that chapter is a description of the attraction of Lord Caitanya's five senses to Kṛṣṇa and how He searched for Kṛṣṇa in the rāsa dance."
 }

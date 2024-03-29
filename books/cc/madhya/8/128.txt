@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 8.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.128",
     "description":"\"Whether one is a brāhmaṇa, a sannyāsī or a śūdra-regardless of what he is-he can become a spiritual master if he knows the science of Kṛṣṇa.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 16.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.61",
     "description":"Seeing the face of Advaita Ācārya, Lord Śrī Caitanya Mahāprabhu smiled. Understanding that the Lord had accepted the proposal, Advaita Ācārya started to dance."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.131",
-    "h1":"Text 131",
+    "h1":"Cc. Madhya 19.131",
+    "label":"Text 131",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.131",
     "description":"\"Sometimes they write transcendental literatures about devotional service, and sometimes they hear about Śrī Caitanya Mahāprabhu and spend their time thinking about the Lord.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.104",
-    "h1":"Text 104",
+    "h1":"Cc. Madhya 21.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.104",
     "description":"\"The wonder of Kṛṣṇa in His personal feature is so great that it attracts even Kṛṣṇa to taste His own association. Thus Kṛṣṇa becomes very eager to taste that wonder. Total beauty, knowledge, wealth, strength, fame and renunciation are the six opulences of Kṛṣṇa. He is eternally situated in His opulences."
 }

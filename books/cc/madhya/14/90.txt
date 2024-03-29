@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 14.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.90",
     "description":"Manifesting His personal potency, Advaita Ācārya floated about on the water, carrying Śrī Caitanya Mahāprabhu."
 }

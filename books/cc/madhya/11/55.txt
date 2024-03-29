@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 11.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.55",
     "description":"\"On that Ratha-yātrā festival day, after dancing before the Lord, Śrī Caitanya Mahāprabhu will enter the Guṇḍicā garden. At that time you should go there alone, stripped of your royal dress."
 }

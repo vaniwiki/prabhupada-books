@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.173",
-    "h1":"Text 173",
+    "h1":"Cc. Madhya 16.173",
+    "label":"Text 173",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.173",
     "description":"\"The Mohammedan governor is very eager, and he has submitted this petition with great respect. It is a proposal for peace. You need not fear that we will fight.\""
 }

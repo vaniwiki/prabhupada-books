@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.17",
-    "h1":"Text 17",
+    "h1":"Cc. Antya 1.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.17",
     "description":"While going to Jagannātha Purī, Śivānanda Sena allowed a dog to go with him. He supplied it food to eat and maintained it."
 }

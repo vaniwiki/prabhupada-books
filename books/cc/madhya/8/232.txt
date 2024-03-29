@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.232",
-    "h1":"Text 232",
+    "h1":"Cc. Madhya 8.232",
+    "label":"Text 232",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.232",
     "description":"\" 'When Lord Śrī Kṛṣṇa was dancing with the gopīs in the rāsa-līlā, the gopīs were embraced around the neck by the Lord's arms. This transcendental favor was never enjoyed by the goddess of fortune or other consorts in the spiritual world. Nor was such a thing ever imagined by the most beautiful girls from the heavenly planets, whose bodily luster and aroma exactly resemble a lotus flower. And what to speak of worldly women who are very beautiful according to the material estimation?' \""
 }

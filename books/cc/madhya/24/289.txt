@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.289",
-    "h1":"Text 289",
+    "h1":"Cc. Madhya 24.289",
+    "label":"Text 289",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.289",
     "description":"\"By executing regulative devotional service, one is elevated to the platform of an eternally perfect associate-such as a servant, friend, superior or beloved woman. These are of four varieties."
 }

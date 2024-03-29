@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 2.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.123",
     "description":"\"Haridāsa has committed a small offense,\" they said. \"Therefore, O Lord, please be merciful to him. Now he has received a sufficient lesson. In the future he will not commit such a offense.\""
 }

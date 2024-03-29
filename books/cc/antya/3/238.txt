@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.238",
-    "h1":"Text 238",
+    "h1":"Cc. Antya 3.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.238",
     "description":"After saying this, she began to manifest various postures, which even the greatest philosopher would lose his patience upon seeing."
 }

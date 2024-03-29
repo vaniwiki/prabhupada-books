@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.78",
-    "h1":"Text 78",
+    "h1":"Cc. Antya 18.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.78",
     "description":"When the Lord is deeply absorbed in internal consciousness but He nevertheless exhibits some external consciousness, devotees call His condition ardha-bāhya, or half-external consciousness."
 }

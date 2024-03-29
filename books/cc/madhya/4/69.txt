@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 4.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.69",
     "description":"Ten brāhmaṇas cooked the food grains, and five brāhmaṇas cooked both dry and liquid vegetables."
 }

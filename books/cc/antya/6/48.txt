@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 6.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.48",
     "description":"The Lord called him, but Raghunātha dāsa did not go near the Lord. Then the Lord forcibly caught him and placed His lotus feet upon Raghunātha dāsa's head."
 }

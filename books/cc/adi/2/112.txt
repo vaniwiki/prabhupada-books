@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.112",
-    "h1":"Text 112",
+    "h1":"Cc. Ādi 2.112",
+    "label":"Text 112",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.112",
     "description":"All other incarnations are situated in potential form in the original body of the primeval Lord. Thus according to one's opinion, one may address Him as any one of the incarnations."
 }

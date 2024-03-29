@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.157",
-    "h1":"Text 157",
+    "h1":"Cc. Madhya 5.157",
+    "label":"Text 157",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.157",
     "description":"The devotees could not understand why Nityānanda Prabhu broke the staff, why Śrī Caitanya Mahāprabhu permitted Him to do so, or why, after permitting Him, Caitanya Mahāprabhu became angry."
 }

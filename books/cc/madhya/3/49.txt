@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 3.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.49",
     "description":"There were small cakes in sweet and sour sauce and five or six kinds of sour preparations. All the vegetables were so made that everyone present could take prasāda."
 }

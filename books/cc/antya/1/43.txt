@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.43",
-    "h1":"Text 43",
+    "h1":"Cc. Antya 1.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.43",
     "description":"After having that dream, Śrīla Rūpa Gosvāmī considered, \"It is the order of Satyabhāmā that I write a separate drama for her."
 }

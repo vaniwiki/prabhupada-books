@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.231",
-    "h1":"Text 231",
+    "h1":"Cc. Ādi 4.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.231",
     "description":"All these conclusions are unfit to disclose in public. But if they are not disclosed, no one will understand them."
 }

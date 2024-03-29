@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 14.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.70",
     "description":"After they chanted in this way for a long time, the holy name of Kṛṣṇa entered the heart of Śrī Caitanya Mahāprabhu, and He suddenly arose with a loud shout of \"Hari bol.\""
 }

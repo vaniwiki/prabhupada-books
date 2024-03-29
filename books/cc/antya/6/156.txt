@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.156",
-    "h1":"Text 156",
+    "h1":"Cc. Antya 6.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.156",
     "description":"There, however, the watchmen alertly kept guard. Raghunātha dāsa was thinking of various means by which to escape their vigilance."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.84",
-    "h1":"Text 84",
+    "h1":"Cc. Madhya 8.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.84",
     "description":"\" 'Increasing love is experienced in various tastes, one above another. But that love which has the highest taste in the gradual succession of desires manifests itself in the form of conjugal love.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.91",
-    "h1":"Text 91",
+    "h1":"Cc. Antya 5.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.91",
     "description":"A brāhmaṇa from Bengal wrote a drama about the characteristics of Śrī Caitanya Mahāprabhu and came with his manuscript to induce the Lord to hear it."
 }

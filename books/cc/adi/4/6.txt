@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 4.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.6",
     "description":"Although this is true, this is but the external reason for the Lord's incarnation. Please hear one other reason—the confidential reason-for the Lord's appearance."
 }

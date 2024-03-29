@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.26",
-    "h1":"Text 26",
+    "h1":"Cc. Antya 13.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.26",
     "description":"Because of affection for Jagadānanda Paṇḍita, Śrī Caitanya Mahāprabhu would not permit him to depart, but Jagadānanda Paṇḍita repeatedly insisted that the Lord give him permission to go."
 }

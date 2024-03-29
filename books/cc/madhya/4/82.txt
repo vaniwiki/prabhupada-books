@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 4.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.82",
     "description":"A temporary temple was constructed by covering the bed all around with a straw mattress. Thus there was a bed and a straw mattress to cover it."
 }

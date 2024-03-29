@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 24.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.107",
     "description":"\"There are two kinds of worshipers on the path of philosophical speculation-one is brahma-upāsaka, a worshiper of the impersonal Brahman, and the other is called mokṣākāṅkṣī, one who desires liberation."
 }

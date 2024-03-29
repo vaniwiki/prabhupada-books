@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.110",
-    "h1":"Text 110",
+    "h1":"Cc. Antya 9.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.110",
     "description":"Gopīnātha Paṭṭanāyaka was lifted onto the cāṅga to be killed, and all his money was taken away, but instead his debts were excused, and he was appointed collector in the same place."
 }

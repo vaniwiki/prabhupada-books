@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 16.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.120",
     "description":"Upon seeing the Lord, they all felt themselves overwhelmed with love of Godhead, and, tears pouring from their eyes, they began to chant the holy name, \"Kṛṣṇa! Kṛṣṇa!\""
 }

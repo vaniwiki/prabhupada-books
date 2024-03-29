@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 7.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.5",
     "description":"Spiritually there are no differences between these five tattvas, for on the transcendental platform everything is absolute. Yet there are also varieties in the spiritual world, and in order to taste these spiritual varieties one should distinguish between them."
 }

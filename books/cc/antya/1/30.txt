@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.30",
-    "h1":"Text 30",
+    "h1":"Cc. Antya 1.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.30",
     "description":"Seeing the dog eating the green coconut pulp and chanting \"Kṛṣṇa, Kṛṣṇa\" again and again, all the devotees present were very much surprised."
 }

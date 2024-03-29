@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 4.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.3",
     "description":"When Śrīla Rūpa Gosvāmī returned from Jagannātha Purī to Bengal, Sanātana Gosvāmī went from Mathurā to Jagannātha Purī to see Śrī Caitanya Mahāprabhu."
 }

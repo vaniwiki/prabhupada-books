@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.137",
-    "h1":"Text 137",
+    "h1":"Cc. Antya 10.137",
+    "label":"Text 137",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.137",
     "description":"They also offered phula-baḍī, liquid mung dhal and many vegetables, all cooked according to the Lord's taste."
 }

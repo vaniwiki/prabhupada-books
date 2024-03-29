@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.12",
-    "h1":"Text 12",
+    "h1":"Cc. Ādi 10.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.12",
     "description":"Another big branch was Ācāryaratna, and his associates were subbranches."
 }

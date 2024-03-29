@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.222",
-    "h1":"Text 222",
+    "h1":"Cc. Madhya 8.222",
+    "label":"Text 222",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.222",
     "description":"\"In his liberated stage the devotee is attracted by one of the five humors in the transcendental loving service of the Lord. As he continues to serve the Lord in that transcendental mood, he attains a spiritual body to serve Kṛṣṇa in Goloka Vṛndāvana."
 }

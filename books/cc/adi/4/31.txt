@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.31",
-    "h1":"Text 31",
+    "h1":"Cc. Ādi 4.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.31",
     "description":"\"Pure attachment will unite us even at the expense of moral and religious duties [dharma]. Destiny will sometimes bring us together and sometimes separate us."
 }

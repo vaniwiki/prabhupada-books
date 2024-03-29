@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.237",
-    "h1":"Text 237",
+    "h1":"Cc. Antya 4.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.237",
     "description":"Thus I have described the Lord's meeting again with Sanātana Gosvāmī. By hearing this I can understand the Lord's desire."
 }

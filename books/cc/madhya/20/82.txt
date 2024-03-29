@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.82",
-    "h1":"Text 82",
+    "h1":"Cc. Madhya 20.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.82",
     "description":"Śrī Caitanya Mahāprabhu felt unlimited happiness to observe Sanātana Gosvāmī's strict following of the principles of sannyāsa. However, He repeatedly glanced at the woolen blanket Sanātana Gosvāmī was wearing."
 }

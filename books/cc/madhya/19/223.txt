@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 19.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.223",
     "description":"\"On the sakhya-rasa platform, the devotee sometimes offers the Lord service and sometimes makes Kṛṣṇa serve him in exchange. In their mock fighting, the cowherd boys would sometimes climb on Kṛṣṇa's shoulders, and sometimes they would make Kṛṣṇa climb on their shoulders."
 }

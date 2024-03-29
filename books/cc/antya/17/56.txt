@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 17.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.56",
     "description":"\"While speaking in this way, Śrīmatī Rādhārāṇī suddenly remembered Kṛṣṇa. Indeed, He appeared within Her heart. Greatly astonished, She told Her friends, 'The person I want to forget is lying in My heart.'"
 }

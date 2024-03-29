@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 7.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.140",
     "description":"When Vāsudeva, the leper brāhmaṇa, was lamenting due to not being able to see Caitanya Mahāprabhu, the Lord immediately returned to that spot and embraced him."
 }

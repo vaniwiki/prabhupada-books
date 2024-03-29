@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.237",
-    "h1":"Text 237",
+    "h1":"Cc. Ādi 17.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.237",
     "description":"Śrīvāsa Ṭhākura extensively explained how the gopīs were attracted to the forests of Vṛndāvana by the vibration of Kṛṣṇa's flute and how they wandered together in the forest."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 1.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.220",
     "description":"In accordance with the instructions of Śrī Caitanya Mahāprabhu, the two brothers, Rūpa and Sanātana, immediately touched the lotus feet of these Vaiṣṇavas, who all became very happy and congratulated the two brothers for having received the mercy of the Lord."
 }

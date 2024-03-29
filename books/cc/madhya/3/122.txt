@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 3.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.122",
     "description":"Advaita Ācārya raised the body of Śrī Caitanya Mahāprabhu to help Him dance, but the Lord, after hearing the stanzas sung by Mukunda, could not be held due to His bodily symptoms."
 }

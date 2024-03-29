@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.81",
-    "h1":"Text 81",
+    "h1":"Cc. Ādi 10.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.81",
     "description":"All the inhabitants of Kulīna-grāma village, headed by Vāṇīnātha Vasu, were servants of Lord Caitanya, who was their only life and wealth."
 }

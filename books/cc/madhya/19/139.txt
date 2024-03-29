@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.139",
-    "h1":"Text 139",
+    "h1":"Cc. Madhya 19.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.139",
     "description":"\"The length and breadth of the living entity is described as one tenthousandth part of the tip of a hair. This is the original subtle nature of the living entity."
 }

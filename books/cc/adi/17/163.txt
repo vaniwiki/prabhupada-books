@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.163",
-    "h1":"Text 163",
+    "h1":"Cc. Ādi 17.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.163",
     "description":"\"Formerly there were powerful brāhmaṇas who could make such experiments using Vedic hymns, but now, because of the Kali-yuga, brāhmaṇas are not so powerful. Therefore the killing of cows and bulls for rejuvenation is forbidden."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.176",
-    "h1":"Text 176",
+    "h1":"Cc. Madhya 25.176",
+    "label":"Text 176",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.176",
     "description":"When Śrī Caitanya Mahāprabhu passed by the people, He would raise His arms and say, \"Please chant Kṛṣṇa! Please chant Hari!\" All the people received Him by chanting Hare Kṛṣṇa, and they offered their respects to Him by this chanting."
 }

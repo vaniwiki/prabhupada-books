@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 19.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.70",
     "description":"Hearing the holy name constantly vibrated by the two brothers, Vallabha Bhaṭṭācārya could understand the hints of Śrī Caitanya Mahāprabhu."
 }

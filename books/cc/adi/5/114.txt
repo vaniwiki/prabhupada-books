@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.114",
-    "h1":"Text 114",
+    "h1":"Cc. Ādi 5.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.114",
     "description":"Unable to see Him, the demigods go to the bank of the ocean of milk and offer prayers to Him."
 }

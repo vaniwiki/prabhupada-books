@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 16.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.209",
     "description":"The Lord stayed there for seven days and delivered all kinds of offenders and sinners."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.61",
-    "h1":"Text 61",
+    "h1":"Cc. Ādi 11.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.61",
     "description":"With an ardent desire to serve the purpose of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate Śrī Caitanya-caritāmṛta, following in their footsteps."
 }

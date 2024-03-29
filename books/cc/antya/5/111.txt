@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.111",
-    "h1":"Text 111",
+    "h1":"Cc. Antya 5.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.111",
     "description":"Svarūpa Dāmodara Gosvāmī sat down with other devotees to hear the poetry, and then the poet began to read the introductory verse."
 }

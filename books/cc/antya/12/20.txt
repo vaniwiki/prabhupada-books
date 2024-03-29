@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.20",
-    "h1":"Text 20",
+    "h1":"Cc. Antya 12.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.20",
     "description":"\"Śivānanda Sena has not arranged for My residence,\" He complained, \"and I am so hungry I could die. Because he has not come, I curse his three sons to die.\""
 }

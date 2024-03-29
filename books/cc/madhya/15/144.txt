@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.144",
-    "h1":"Text 144",
+    "h1":"Cc. Madhya 15.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.144",
     "description":"\"Murāri Gupta then replied, 'I am Your servant and Your order carrier. I have no independent existence.'"
 }

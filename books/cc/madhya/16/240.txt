@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.240",
-    "h1":"Text 240",
+    "h1":"Cc. Madhya 16.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.240",
     "description":"\"You may see me at Nīlācala, Jagannātha Purī, when I return after visiting Vṛndāvana. By that time you can think of some trick to escape."
 }

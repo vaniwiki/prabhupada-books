@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 3.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.32",
     "description":"\"During the last Māgha-saṅkrānti festival, you cooked varieties of vegetables, condensed milk, cakes and sweet rice for Me."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.152",
-    "h1":"Text 152",
+    "h1":"Cc. Madhya 4.152",
+    "label":"Text 152",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.152",
     "description":"One brāhmaṇa and one servant were given to Mādhavendra Purī just to carry the sandalwood. He was also given the necessary traveling expenses."
 }

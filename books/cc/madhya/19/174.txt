@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 19.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.174",
     "description":"\" 'Bhakti-yoga, as described above, is the ultimate goal of life. By rendering devotional service to the Supreme Personality of Godhead, one transcends the modes of material nature and attains the spiritual position on the platform of direct devotional service'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 8.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.71",
     "description":"Hearing up to the point of spontaneous love, the Lord said, \"This is all right, but if you know more, please tell Me.\" In reply, Rāmānanda Rāya said, \"Spontaneous loving service in servitude-as exchanged by master and servant-is the highest perfection."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.249",
-    "h1":"Text 249",
+    "h1":"Cc. Madhya 9.249",
+    "label":"Text 249",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.249",
     "description":"Śrī Caitanya Mahāprabhu received great pleasure in seeing this beautiful form of Gopāla. For a long time He danced and chanted in ecstatic love."
 }

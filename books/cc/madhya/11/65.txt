@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 11.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.65",
     "description":"In this way Sārvabhauma Bhaṭṭācārya brought Lord Caitanya back to Jagannātha Purī. He then went to King Pratāparudra and informed him of the Lord's arrival."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.27",
-    "h1":"Text 27",
+    "h1":"Cc. Ādi 1.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.27",
     "description":"In these six verses I have described the truth about Lord Caitanya, whereas in the next five I have described the glory of Lord Nityānanda."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.51",
-    "h1":"Text 51",
+    "h1":"Cc. Ādi 6.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.51",
     "description":"Thus they dance, sing and laugh like madmen, and they instruct everyone, \"Just be loving servants of Lord Caitanya.\""
 }

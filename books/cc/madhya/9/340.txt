@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.340",
-    "h1":"Text 340",
+    "h1":"Cc. Madhya 9.340",
+    "label":"Text 340",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.340",
     "description":"Śrī Nityānanda Rāya, Jagadānanda, Dāmodara Paṇḍita and Mukunda all became ecstatic in their happiness, and dancing along the way, they went to meet the Lord."
 }

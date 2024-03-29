@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.102",
-    "h1":"Text 102",
+    "h1":"Cc. Madhya 8.102",
+    "label":"Text 102",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.102",
     "description":"\"During the rāsa dance Śrī Kṛṣṇa did not exchange loving affairs with Śrīmatī Rādhārāṇī due to the presence of the other gopīs. Because of the dependence of the others, the intensity of love between Rādhā and Kṛṣṇa was not manifest. Therefore He stole Her away."
 }

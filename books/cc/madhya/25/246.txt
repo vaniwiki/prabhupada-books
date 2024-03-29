@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.246",
-    "h1":"Text 246",
+    "h1":"Cc. Madhya 25.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.246",
     "description":"In the Fourth Chapter I have described Mādhavendra Purī's installation of the Gopāla Deity as well as Gopīnātha's stealing a pot of condensed milk at Remuṇā."
 }

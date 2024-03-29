@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.74-75",
-    "h1":"Text 74-75",
+    "h1":"Cc. Ādi 4.74-75",
+    "label":"Text 74-75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.74-75",
     "description":"The beloved consorts of Lord Kṛṣṇa are of three kinds: the goddesses of fortune, the queens, and the milkmaids of Vraja, who are the foremost of all. These consorts all proceed from Rādhikā."
 }

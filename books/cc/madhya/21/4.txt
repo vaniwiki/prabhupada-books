@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 21.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.4",
     "description":"\"The breadth of each Vaikuṇṭha planet is described as eight miles multiplied by one hundred, by one thousand, by ten thousand, by one hundred thousand, and by ten million. In other words, each Vaikuṇṭha planet is expanded beyond our ability to measure."
 }

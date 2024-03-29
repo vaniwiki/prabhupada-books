@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.155",
-    "h1":"Text 155",
+    "h1":"Cc. Madhya 8.155",
+    "label":"Text 155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.155",
     "description":"\"Hlādinī is His aspect of bliss; sandhinī, of eternal existence; and samvit, of cognizance, which is also accepted as knowledge."
 }

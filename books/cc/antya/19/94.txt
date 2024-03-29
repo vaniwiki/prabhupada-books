@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 19.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.94",
     "description":"\"Kṛṣṇa's eyes, navel and face, hands and feet are like eight lotus flowers on His body. From those eight lotuses emanates a fragrance like a mixture of camphor and lotus. That is the scent associated with His body."
 }

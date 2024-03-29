@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 3.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.118",
     "description":"So speaking, Advaita Ācārya performed congregational chanting with great pleasure for three hours that night and danced all the time."
 }

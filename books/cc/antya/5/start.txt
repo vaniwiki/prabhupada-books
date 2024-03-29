@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5",
-    "h1":"Chapter 5",
+    "h1":"How Pradyumna Miśra Received Instructions from Rāmānanda Rāya",
+    "label":"Chapter 5",
     "title":"Cc. Antya 5: How Pradyumna Miśra Received Instructions from Rāmānanda Rāya",
     "description":""
 }

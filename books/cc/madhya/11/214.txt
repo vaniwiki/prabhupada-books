@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.214",
-    "h1":"Text 214",
+    "h1":"Cc. Madhya 11.214",
+    "label":"Text 214",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.214",
     "description":"After seeing the dhūpa-ārati of the Lord, they all began congregational chanting. Then the paḍichā, the superintendent of the temple, came and offered flower garlands and sandalwood pulp to everyone."
 }

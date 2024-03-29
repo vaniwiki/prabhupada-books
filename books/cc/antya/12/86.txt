@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.86",
-    "h1":"Text 86",
+    "h1":"Cc. Antya 12.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.86",
     "description":"The previous year, Jagadānanda Paṇḍita, following the Lord's order, had returned to the city of Nadia to see Śacīmātā."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 19.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.26",
     "description":"Sanātana Gosvāmī said, \"You are the supreme ruler of Bengal and are completely independent. Whenever someone commits a fault, you punish him accordingly.\""
 }

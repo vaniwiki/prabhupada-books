@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.106",
-    "h1":"Text 106",
+    "h1":"Cc. Ādi 4.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.106",
     "description":"The heart of Lord Caitanya is the image of Śrī Rādhikā's emotions. Thus feelings of pleasure and pain arise constantly therein."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 15.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.88",
     "description":"\"Thus with great care and attention Rāghava Paṇḍita would prepare spinach, other vegetables, radishes, fruits, chipped rice, powdered rice and sweetmeats."
 }

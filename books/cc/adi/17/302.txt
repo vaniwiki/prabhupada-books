@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.302",
-    "h1":"Text 302",
+    "h1":"Cc. Ādi 17.302",
+    "label":"Text 302",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.302",
     "description":"In kṛṣṇa-lilā the Lord's complexion is blackish. Holding a flute to His mouth, He enjoys as a cowherd boy. Now the selfsame person has appeared with a fair complexion, sometimes acting as a brāhmaṇa and sometimes accepting the renounced order of life."
 }

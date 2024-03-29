@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.213",
-    "h1":"Text 213",
+    "h1":"Cc. Antya 1.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.213",
     "description":"In this way Śrīla Rūpa Gosvāmī passed his time in close association with Haridāsa Ṭhākura by discussing the pastimes of Lord Kṛṣṇa in great happiness."
 }

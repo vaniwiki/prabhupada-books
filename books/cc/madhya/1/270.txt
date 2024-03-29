@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.270",
-    "h1":"Text 270",
+    "h1":"Cc. Madhya 1.270",
+    "label":"Text 270",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.270",
     "description":"Not liking the chanting of His transcendental qualities, Śrī Caitanya Mahāprabhu chastised them as if He were angry. \"What kind of chanting is this?\" He asked. \"Are you leaving aside the chanting of the holy name of the Lord?\""
 }

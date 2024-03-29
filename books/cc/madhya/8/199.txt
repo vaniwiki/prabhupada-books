@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 8.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.199",
     "description":"\"Within these three worlds who is so undisturbed that he can remain steady as You manipulate Your different energies?"
 }

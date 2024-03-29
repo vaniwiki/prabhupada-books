@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.4",
-    "h1":"Text 4",
+    "h1":"Cc. Madhya 25.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.4",
     "description":"For as long as Śrī Caitanya Mahāprabhu was in Vārāṇasī, Paramānanda Kīrtanīyā, who was a friend of Candraśekhara's, chanted the Hare Kṛṣṇa mahā-mantra and other songs to Śrī Caitanya Mahāprabhu in a very humorous way."
 }

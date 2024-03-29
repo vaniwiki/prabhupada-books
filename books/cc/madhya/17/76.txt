@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 17.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.76",
     "description":"Śrī Caitanya Mahāprabhu then embraced Balabhadra Bhaṭṭācārya and told him, \"It is only by your kindness that I am now so happy.\""
 }

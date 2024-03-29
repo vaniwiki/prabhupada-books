@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 4.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.109",
     "description":"Before leaving, Mādhavendra Purī made all arrangements for regular Deity worship, and he engaged different people in various duties. Then, taking up the order of Gopāla, he started for Bengal."
 }

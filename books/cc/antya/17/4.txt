@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 17.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.4",
     "description":"In the company of Svarūpa Dāmodara Gosvāmī and Rāmānanda Rāya, Śrī Caitanya Mahāprabhu once passed half the night talking about the pastimes of Lord Kṛṣṇa."
 }

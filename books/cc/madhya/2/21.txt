@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 2.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.21",
     "description":"\"By nature loving affairs are very crooked. They are not entered with sufficient knowledge, nor do they consider whether a place is suitable or not, nor do they look forward to the results. By the ropes of His good qualities, Kṛṣṇa, who is so unkind, has bound My neck and hands, and I am unable to get relief."
 }

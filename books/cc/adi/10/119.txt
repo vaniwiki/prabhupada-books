@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.119",
-    "h1":"Text 119",
+    "h1":"Cc. Ādi 10.119",
+    "label":"Text 119",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.119",
     "description":"Bhāgavatācārya, Cirañjīva, Śrī Raghunandana, Mādhavācārya, Kamalākānta and Śrī Yadunandana were all among the branches of the Caitanya tree."
 }

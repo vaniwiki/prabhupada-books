@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.278",
-    "h1":"Text 278",
+    "h1":"Cc. Antya 6.278",
+    "label":"Text 278",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.278",
     "description":"\"When one eats food offered by a materialistic man, one's mind becomes contaminated, and when the mind is contaminated, one is unable to think of Kṛṣṇa properly."
 }

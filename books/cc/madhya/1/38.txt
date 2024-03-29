@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.38",
-    "h1":"Text 38",
+    "h1":"Cc. Madhya 1.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.38",
     "description":"The books compiled by Śrī Rūpa Gosvāmī include the Bhakti-rasāmṛta-sindhu, Vidagdha-mādhava, Ujjvala-nīlamaṇi and Lalita-mādhava."
 }

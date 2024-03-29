@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.136",
-    "h1":"Text 136",
+    "h1":"Cc. Ādi 17.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.136",
     "description":"In the front party danced Ṭhākura Haridāsa, and in the middle party danced Advaita Ācārya with great jubilition."
 }

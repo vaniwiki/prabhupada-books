@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17",
-    "h1":"Chapter 17",
+    "h1":"The Lord Travels to Vṛndāvana",
+    "label":"Chapter 17",
     "title":"Cc. Madhya 17: The Lord Travels to Vṛndāvana",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 4.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.158",
     "description":"Mādhavendra Purī dreamed that Gopāla came before him and said, \"O Mādhavendra Purī, I have already received all the sandalwood and camphor."
 }

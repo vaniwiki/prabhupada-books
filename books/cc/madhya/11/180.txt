@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.180",
-    "h1":"Text 180",
+    "h1":"Cc. Madhya 11.180",
+    "label":"Text 180",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.180",
     "description":"Gopīnātha was then shown all the residential places, and Vāṇīnātha was given large quantities of food [mahā-prasāda] left by Lord Jagannātha."
 }

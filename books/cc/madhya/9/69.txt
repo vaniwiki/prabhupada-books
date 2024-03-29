@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 9.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.69",
     "description":"The Lord then visited a holy place known as Viṣṇu-kāñcī. There He saw Lakṣmī-Nārāyaṇa Deities, and He offered His respects and many prayers to please Them."
 }

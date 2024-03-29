@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 4.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.206",
     "description":"When all the pots of sweet rice, remnants left by Gopīnātha, were placed before Śrī Caitanya Mahāprabhu, He became very pleased. In order to feed the devotees, He accepted five of them."
 }

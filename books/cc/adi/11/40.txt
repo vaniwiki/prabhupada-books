@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.40",
-    "h1":"Text 40",
+    "h1":"Cc. Ādi 11.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.40",
     "description":"Śrī Kānu Ṭhākura, a very respectable gentleman, was the son of Puruṣottama dāsa Ṭhākura. He was such a great devotee that Lord Kṛṣṇa always lived in his body."
 }

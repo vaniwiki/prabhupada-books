@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 14.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.108",
     "description":"King Pratāparudra said, \"Hold this festival in such a gorgeous way that upon seeing it, Caitanya Mahāprabhu will be completely pleased and astonished."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.231",
-    "h1":"Text 231",
+    "h1":"Cc. Madhya 15.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.231",
     "description":"\"Take away Kṛṣṇa's sitting place and put it aside. Then give me prasāda on a different plate.\""
 }

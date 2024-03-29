@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.59",
-    "h1":"Text 59",
+    "h1":"Cc. Ādi 8.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.59",
     "description":"Ananta Ācārya was a disciple of Gadādhara Paṇḍita. His body was always absorbed in love of Godhead. He was magnanimous and advanced in all respects."
 }

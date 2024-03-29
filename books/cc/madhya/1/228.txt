@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.228",
-    "h1":"Text 228",
+    "h1":"Cc. Madhya 1.228",
+    "label":"Text 228",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.228",
     "description":"That night the Lord considered Sanātana Gosvāmī's proposal that He should not go to Vṛndāvana followed by so many people."
 }

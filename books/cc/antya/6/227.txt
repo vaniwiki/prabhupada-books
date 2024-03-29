@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.227",
-    "h1":"Text 227",
+    "h1":"Cc. Antya 6.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.227",
     "description":"\"One who is subservient to the tongue and who thus goes here and there, devoted to the genitals and the belly, cannot attain Kṛṣṇa.\""
 }

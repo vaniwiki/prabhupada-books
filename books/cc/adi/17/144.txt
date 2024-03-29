@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.144",
-    "h1":"Text 144",
+    "h1":"Cc. Ādi 17.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.144",
     "description":"When the Kazi came, his head bowed down, the Lord gave him proper respect and a seat."
 }

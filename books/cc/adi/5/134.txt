@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.134",
-    "h1":"Text 134",
+    "h1":"Cc. Ādi 5.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.134",
     "description":"Thus Lord Nityānanda has unlimited incarnations. In transcendental emotion He calls Himself a servant of Lord Caitanya."
 }

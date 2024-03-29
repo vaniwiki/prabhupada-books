@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.28",
-    "h1":"Text 28",
+    "h1":"Cc. Madhya 13.28",
+    "label":"Text 28",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.28",
     "description":"Sometimes the car would stand still and not move, even though it was pulled very vigorously. The chariot therefore moved by the will of the Lord, not by the strength of any ordinary person."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.170",
-    "h1":"Text 170",
+    "h1":"Cc. Ādi 17.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.170",
     "description":"\"I know that our scriptures are full of imagination and mistaken ideas, yet because I am a Muslim I accept them for the sake of my community, despite their insufficient support."
 }

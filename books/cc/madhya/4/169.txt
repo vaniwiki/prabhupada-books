@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.169",
-    "h1":"Text 169",
+    "h1":"Cc. Madhya 4.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.169",
     "description":"At the end of summer Mādhavendra Purī returned to Jagannātha Purī, where he remained with great pleasure during the whole period of Cāturmāsya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 23.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.46",
     "description":"\"These five transcendental mellows exist permanently. The devotee may be attracted to one of these mellows, and thus he becomes happy. Kṛṣṇa also becomes inclined toward such a devotee and comes under his control."
 }

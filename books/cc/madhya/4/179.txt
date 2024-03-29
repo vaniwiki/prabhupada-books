@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 4.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.179",
     "description":"Caitanya Mahāprabhu continued, \"Śrī Mādhavendra Purī used to remain alone. He was completely renounced and always very silent. He was uninterested in everything material, and for fear of talking about mundane things, he always lived without a companion."
 }

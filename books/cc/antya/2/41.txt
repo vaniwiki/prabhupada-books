@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 2.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.41",
     "description":"\"This year I shall personally go to Bengal and meet all the devotees there, headed by Advaita Ācārya."
 }

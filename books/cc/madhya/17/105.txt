@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 17.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.105",
     "description":"One brāhmaṇa who saw the wonderful behavior of Śrī Caitanya Mahāprabhu came to Prakāśānanda Sarasvatī and described the Lord's characteristics."
 }

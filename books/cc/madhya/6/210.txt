@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.210",
-    "h1":"Text 210",
+    "h1":"Cc. Madhya 6.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.210",
     "description":"Gopīnātha Ācārya told Lord Caitanya Mahāprabhu, \"Sir, You have brought all this upon Sārvabhauma Bhaṭṭācārya.\""
 }

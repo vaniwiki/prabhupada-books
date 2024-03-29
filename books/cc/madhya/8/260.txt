@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.260",
-    "h1":"Text 260",
+    "h1":"Cc. Madhya 8.260",
+    "label":"Text 260",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.260",
     "description":"In this way Caitanya Mahāprabhu and Rāmānanda Rāya passed the full night relishing the mellow of kṛṣṇa-kathā, topics about Kṛṣṇa. While they were chanting, dancing and crying, the night ended."
 }

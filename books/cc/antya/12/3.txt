@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.3",
-    "h1":"Text 3",
+    "h1":"Cc. Antya 12.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.3",
     "description":"All glories to Advaita Ācārya, who is also an ocean of mercy! All glories to all the devotees of Śrī Caitanya Mahāprabhu, whose hearts are always filled with mercy!"
 }

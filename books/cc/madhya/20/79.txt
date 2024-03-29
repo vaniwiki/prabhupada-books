@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.79",
-    "h1":"Text 79",
+    "h1":"Cc. Madhya 20.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.79",
     "description":"When Caitanya Mahāprabhu introduced the Mahārāṣṭrīya brāhmaṇa to Sanātana, the brāhmaṇa immediately invited Sanātana Gosvāmī for full meals."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.138",
-    "h1":"Text 138",
+    "h1":"Cc. Ādi 10.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.138",
     "description":"Brahmacārī Kāśīśvara was a disciple of Īśvara Purī, and Śrī Govinda was another of his dear disciples."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.210",
-    "h1":"Text 210",
+    "h1":"Cc. Madhya 18.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.210",
     "description":"Bestowing His mercy upon them in this way, Śrī Caitanya Mahāprabhu left. All the Pāṭhāna Mohammedans then became mendicants."
 }

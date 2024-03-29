@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.42",
-    "h1":"Text 42",
+    "h1":"Cc. Ādi 13.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.42",
     "description":"The Lord used to read the books of Vidyāpati, Jayadeva and Caṇḍīdāsa, relishing their songs with His confidential associates like Śrī Rāmānanda Rāya and Svarūpa Dāmodara Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.7",
-    "h1":"Text 7",
+    "h1":"Cc. Antya 4.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.7",
     "description":"\"When I go to Jagannātha Purī, I shall not be able to see Lord Jagannātha, nor shall I always be able to see Śrī Caitanya Mahāprabhu."
 }

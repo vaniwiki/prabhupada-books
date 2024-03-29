@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.142",
-    "h1":"Text 142",
+    "h1":"Cc. Madhya 20.142",
+    "label":"Text 142",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.142",
     "description":"\"The goal of love of Godhead is not to become materially rich or free from material bondage. The real goal is to be situated in devotional service to the Lord and to enjoy transcendental bliss."
 }

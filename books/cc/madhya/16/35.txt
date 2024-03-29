@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 16.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.35",
     "description":"Walking and walking in this way, the devotees arrived at the city of Kaṭaka, where they remained for a day and saw the temple of Sākṣi-gopāla."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.248",
-    "h1":"Text 248",
+    "h1":"Cc. Madhya 24.248",
+    "label":"Text 248",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.248",
     "description":"\"The hunter replied, 'My dear sir, what are you asking of me? What is wrong with the animals' lying there half-killed? Will you please explain this to me?'"
 }

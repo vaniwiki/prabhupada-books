@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.168",
-    "h1":"Text 168",
+    "h1":"Cc. Madhya 25.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.168",
     "description":"Among His own associates, Śrī Caitanya Mahāprabhu laughingly said, \"I came here to sell My emotional ecstatic love."
 }

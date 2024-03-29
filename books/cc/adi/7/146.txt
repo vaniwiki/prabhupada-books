@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.146",
-    "h1":"Text 146",
+    "h1":"Cc. Ādi 7.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.146",
     "description":"\"One's relationship with the Supreme Personality of Godhead, activities in terms of that relationship, and the ultimate goal of life [to develop love of God]—these three subjects are explained in every aphorism of the Vedānta-sūtra, for they form the culmination of the entire Vedānta philosophy.\""
 }

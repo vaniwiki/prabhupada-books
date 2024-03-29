@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 5.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.74",
     "description":"\"In this way the Lord speaks through my mouth to preach the cult of Kṛṣṇa consciousness. Within the world, who will understand this pastime of the Lord?'"
 }

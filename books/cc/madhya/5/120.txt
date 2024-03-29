@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 5.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.120",
     "description":"Later there was a fight, and this country was conquered by King Puruṣottama-deva of Orissa."
 }

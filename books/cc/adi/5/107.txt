@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.107",
-    "h1":"Text 107",
+    "h1":"Cc. Ādi 5.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.107",
     "description":"That Lord Nārāyaṇa is a part of a plenary part of Lord Nityānanda Balarāma, who is the source of all incarnations."
 }

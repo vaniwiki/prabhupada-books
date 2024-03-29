@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.68",
-    "h1":"Text 68",
+    "h1":"Cc. Antya 2.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.68",
     "description":"Pradyumna Brahmacārī was deeply eager to understand this fact. Therefore Śrī Caitanya Mahāprabhu revealed it to him by a practical demonstration."
 }

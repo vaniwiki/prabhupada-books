@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 7.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.49",
     "description":"\"My dear Lord, You are the independent Supreme Personality of Godhead. Certainly You will depart. I know that. Still, I ask You to stay here a few days more so that I can see Your lotus feet.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.56",
-    "h1":"Text 56",
+    "h1":"Cc. Antya 10.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.56",
     "description":"Govinda thoroughly emptied the bags from the previous year and kept them in another room to fill them with other goods."
 }

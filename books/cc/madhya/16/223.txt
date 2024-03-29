@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 16.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.223",
     "description":"When Śrī Caitanya Mahāprabhu returned to Śāntipura after accepting the renounced order, Raghunātha dāsa met Him."
 }

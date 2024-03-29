@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.234",
-    "h1":"Text 234",
+    "h1":"Cc. Antya 3.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.234",
     "description":"After coming there, the woman offered obeisances to the tulasī plant, and after circumambulating the tulasī plant she came to the door of the cave where Haridāsa Ṭhākura was sitting."
 }

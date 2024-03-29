@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 10.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.175",
     "description":"\"I have been meditating on the impersonal Brahman since my birth, but since I have seen You, I have fully experienced Kṛṣṇa.\""
 }

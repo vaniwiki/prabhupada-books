@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.150",
-    "h1":"Text 150",
+    "h1":"Cc. Madhya 6.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.150",
     "description":"\"The Vedic 'apāṇi-pāda' mantra rejects material hands and legs, yet it states that the Lord goes very fast and accepts everything offered to Him."
 }

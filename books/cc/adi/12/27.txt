@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.27",
-    "h1":"Text 27",
+    "h1":"Cc. Ādi 12.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.27",
     "description":"The other sons of Advaita Ācārya were Śrī Balarāma, Svarūpa and Jagadīśa."
 }

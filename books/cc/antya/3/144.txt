@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.144",
-    "h1":"Text 144",
+    "h1":"Cc. Antya 3.144",
+    "label":"Text 144",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.144",
     "description":"By inducing a prostitute to disturb Haridāsa Ṭhākura, Rāmacandra Khān caused a seed of offense at his lotus feet to germinate. This seed later became a tree, and when it fructified, Rāmacandra Khān ate its fruits."
 }

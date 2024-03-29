@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 18.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.61",
     "description":"\"I am a famous exorcist,\" he said, \"and I know how to rid you of this ghost.\" He then chanted some mantras and placed his hand on the top of the fisherman's head."
 }

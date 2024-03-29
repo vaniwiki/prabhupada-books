@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.194",
-    "h1":"Text 194",
+    "h1":"Cc. Ādi 5.194",
+    "label":"Text 194",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.194",
     "description":"I was overwhelmed with transcendental ecstasy, not knowing anything else. Then Lord Nityānanda smiled and spoke to me as follows."
 }

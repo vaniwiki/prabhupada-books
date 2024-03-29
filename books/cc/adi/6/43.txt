@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 6.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.43",
     "description":"He forgets Himself in the joy of that conception and teaches all living entities, \"You are servants of Śrī Caitanya Mahāprabhu.\""
 }

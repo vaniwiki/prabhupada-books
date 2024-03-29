@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.76",
-    "h1":"Text 76",
+    "h1":"Cc. Ādi 16.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.76",
     "description":"\"Although the words 'śrī' and 'lakṣmī' convey the same meaning and are therefore almost redundant, they are nevertheless not redundant."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 14.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.22",
     "description":"Submissively offering prayers to the devotees with folded hands and offering obeisances to Śrī Caitanya Mahāprabhu, the King went outside."
 }

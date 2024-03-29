@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 19.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.4",
     "description":"Jagadānanda Paṇḍita was a very dear devotee of Śrī Caitanya Mahāprabhu. The Lord derived great pleasure from his activities."
 }

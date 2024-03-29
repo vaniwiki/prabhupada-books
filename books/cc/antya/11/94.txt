@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 11.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.94",
     "description":"\"Being merciful upon Me, Kṛṣṇa gave Me the association of Haridāsa Ṭhākura. Being independent in His desires, He has now broken that association."
 }

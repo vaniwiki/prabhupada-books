@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.146",
-    "h1":"Text 146",
+    "h1":"Cc. Madhya 17.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.146",
     "description":"After saying this, Śrī Caitanya Mahāprabhu accepted that brāhmaṇa as His devotee. The next morning, rising very early, the Lord started for Mathurā."
 }

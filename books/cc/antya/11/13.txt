@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 11.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.13",
     "description":"Śrī Caitanya Mahāprabhu very happily passed His days in this way at Nīlācala, Jagannātha Purī. Feeling separation from Kṛṣṇa, He exhibited many transcendental symptoms all over His body."
 }

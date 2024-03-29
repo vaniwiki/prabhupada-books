@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 4.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.140",
     "description":"Each day, Mādhavendra Purī would eat one piece of that earthen pot, and after eating it he would immediately be overwhelmed with ecstasy. These are wonderful stories."
 }

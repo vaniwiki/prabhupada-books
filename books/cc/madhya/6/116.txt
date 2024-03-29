@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 6.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.116",
     "description":"Hearing this, Śrī Caitanya Mahāprabhu said, \"Do not speak like that. Sārvabhauma Bhaṭṭācārya has shown great affection and mercy toward Me."
 }

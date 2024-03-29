@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.18",
-    "h1":"Text 18",
+    "h1":"Cc. Antya 11.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.18",
     "description":"\"Please rise and take your mahā-prasāda,\" Govinda said. Haridāsa Ṭhākura replied, \"Today I shall observe fasting."
 }

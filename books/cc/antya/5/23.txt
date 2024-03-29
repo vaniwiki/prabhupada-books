@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.23",
-    "h1":"Text 23",
+    "h1":"Cc. Antya 5.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.23",
     "description":"He taught them how to express the symptoms of continuous, natural and transitional ecstasies with the movements of their faces, their eyes and the other parts of their bodies."
 }

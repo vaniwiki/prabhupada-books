@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 11.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.164",
     "description":"All the devotees then went to Haridāsa Ṭhākura, saying, \"The Lord wants to meet you. Please come immediately.\""
 }

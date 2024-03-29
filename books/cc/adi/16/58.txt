@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.58",
-    "h1":"Text 58",
+    "h1":"Cc. Ādi 16.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.58",
     "description":"\" 'Without first mentioning what is known, one should not introduce the unknown, for that which has no solid basis can never be established anywhere.'"
 }

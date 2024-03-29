@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.109",
-    "h1":"Text 109",
+    "h1":"Cc. Madhya 14.109",
+    "label":"Text 109",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.109",
     "description":"\"Take as many printed cloths, small bells, umbrellas and cāmaras as there are in my storehouse and in the Deity's storehouse."
 }

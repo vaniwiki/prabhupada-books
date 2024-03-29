@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.234",
-    "h1":"Text 234",
+    "h1":"Cc. Madhya 6.234",
+    "label":"Text 234",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.234",
     "description":"\"Today your mind has become fit to take shelter of the lotus feet of Kṛṣṇa because, surpassing the Vedic regulative principles, you have eaten the remnants of food offered to the Lord."
 }

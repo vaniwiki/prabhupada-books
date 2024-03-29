@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.129",
-    "h1":"Text 129",
+    "h1":"Cc. Madhya 14.129",
+    "label":"Text 129",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.129",
     "description":"The palanquin was also surrounded by people carrying umbrellas, cāmara whisks and flags, and it was preceded by musicians and dancing girls."
 }

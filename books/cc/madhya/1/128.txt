@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 1.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.128",
     "description":"Upon the order of Śrī Caitanya Mahāprabhu, Śrī Rāmānanda Rāya took leave of the King and returned to Jagannātha Purī. After he arrived, Śrī Caitanya Mahāprabhu very much enjoyed talking with him both day and night about Lord Kṛṣṇa and His pastimes."
 }

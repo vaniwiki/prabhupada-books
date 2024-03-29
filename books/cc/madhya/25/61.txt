@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 25.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.61",
     "description":"While the Lord was on His way, the Mahārāṣṭrian brāhmaṇa informed Him about the incident that took place in the camp of Prakāśānanda Sarasvatī. Hearing this, Śrī Caitanya Mahāprabhu smiled happily."
 }

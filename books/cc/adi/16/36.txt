@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.36",
-    "h1":"Text 36",
+    "h1":"Cc. Ādi 16.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.36",
     "description":"When the brāhmaṇa, Keśava Kāśmīrī, heard this, he became still more puffed up, and within one hour he composed one hundred verses describing mother Ganges."
 }

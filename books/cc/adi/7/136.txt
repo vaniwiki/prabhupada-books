@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.136",
-    "h1":"Text 136",
+    "h1":"Cc. Ādi 7.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.136",
     "description":"\"We know that all this word jugglery springs from the imagination of Śaṅkarārārya, and yet because we belong to his sect, we accept it although it does not satisfy us."
 }

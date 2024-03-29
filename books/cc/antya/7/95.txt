@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 7.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.95",
     "description":"Thus Paṇḍita Gosāñi fell into a dilemma. Be was in such doubt that he could not decide alone what to do."
 }

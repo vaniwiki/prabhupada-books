@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.20",
-    "h1":"Text 20",
+    "h1":"Cc. Madhya 21.20",
+    "label":"Text 20",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.20",
     "description":"\"Each of the cowherd boys was tending calves to the extent of a koṭi, arbuda, śaṅkha and padma. That is the way of counting."
 }

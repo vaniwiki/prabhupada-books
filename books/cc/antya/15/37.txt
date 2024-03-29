@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 15.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.37",
     "description":"\"When the trees did not reply, the gopīs guessed,'Since all of these trees belong to the male class, all of them must be friends of Kṛṣṇa."
 }

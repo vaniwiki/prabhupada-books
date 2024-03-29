@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.5",
-    "h1":"Text 5",
+    "h1":"Cc. Ādi 14.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.5",
     "description":"Let me offer my respectful obeisances unto the childhood pastimes of Lord Śrī Caitanya Mahāprabhu, who is Lord Kṛṣṇa Himself. Although such pastimes appear exactly like those of an ordinary child, they should be understood as various pastimes of the Supreme Personality of Godhead."
 }

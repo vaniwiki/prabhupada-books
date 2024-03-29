@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 14.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.98",
     "description":"As Śrī Caitanya Mahāprabhu danced beneath each and every tree, Vāsudeva Datta sang alone."
 }

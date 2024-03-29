@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.61",
-    "h1":"Text 61",
+    "h1":"Cc. Madhya 5.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.61",
     "description":"\"Having taken all my father's money, this rogue claimed that it was taken by some thief. Now he is claiming that my father has promised to give him his daughter in charity."
 }

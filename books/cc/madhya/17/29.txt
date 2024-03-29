@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.29",
-    "h1":"Text 29",
+    "h1":"Cc. Madhya 17.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.29",
     "description":"The Lord said, \"Chant the holy name of Kṛṣṇa!\" The tiger immediately got up and began to dance and chant, \"Kṛṣṇa! Kṛṣṇa!\""
 }

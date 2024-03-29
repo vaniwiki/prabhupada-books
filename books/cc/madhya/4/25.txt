@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.25",
-    "h1":"Text 25",
+    "h1":"Cc. Madhya 4.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.25",
     "description":"\"O Mādhavendra Purī, please drink the milk I have brought. Why don't you beg some food to eat? What kind of meditation are you undergoing?\""
 }

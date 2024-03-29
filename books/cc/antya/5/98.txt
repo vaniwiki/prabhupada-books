@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 5.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.98",
     "description":"Therefore Śrī Caitanya Mahāprabhu would not hear anything before Svarūpa Dāmodara heard it first. The Lord made this etiquette a regulative principle."
 }

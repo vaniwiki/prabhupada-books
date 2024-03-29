@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.58",
-    "h1":"Text 58",
+    "h1":"Cc. Ādi 12.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.58",
     "description":"Bhāgavata Ācārya, Viṣṇudāsa Ācārya, Cakrapāṇi Ācārya and Ananta Ācārya were the sixth, seventh, eighth and ninth branches of Advaita Ācārya."
 }

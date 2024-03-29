@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 16.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.6",
     "description":"Kālidāsa was a very advanced devotee, yet he was simple and liberal. He would chant the holy name of Kṛṣṇa while performing all his ordinary dealings."
 }

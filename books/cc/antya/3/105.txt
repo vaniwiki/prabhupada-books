@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.105",
-    "h1":"Text 105",
+    "h1":"Cc. Antya 3.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.105",
     "description":"Rāmacandra Khān said to the prostitutes, \"There is a mendicant named Haridāsa Ṭhākura. All of you devise a way to deviate him from his vows of austerity.\""
 }

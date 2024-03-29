@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.78",
-    "h1":"Text 78",
+    "h1":"Cc. Madhya 7.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.78",
     "description":"All around Śrī Caitanya Mahāprabhu, who is also known as Gaurahari, people began to shout the holy name of Hari. Lord Caitanya, immersed in His usual ecstasy of love, danced in the midst of them."
 }

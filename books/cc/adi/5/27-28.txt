@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.27-28",
-    "h1":"Text 27-28",
+    "h1":"Cc. Ādi 5.27-28",
+    "label":"Text 27-28",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.27-28",
     "description":"Kṛṣṇa's own form has only two hands, but in the form of Lord Nārāyaṇa He has four hands. Lord Nārāyaṇa holds a conchshell, disc, club and lotus flower, and He is full of great opulence. The śrī, bhū and nīlā energies serve at His lotus feet."
 }

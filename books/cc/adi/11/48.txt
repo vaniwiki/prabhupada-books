@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.48",
-    "h1":"Text 48",
+    "h1":"Cc. Ādi 11.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.48",
     "description":"Among Lord Nityānanda's devotees, Nakaḍi was the thirty-seventh, Mukunda the thirty-eighth, Sūrya the thirty-ninth, Mādhava the fortieth, Śrīdhara the forty-first, Rāmānanda the forty-second, Jagannātha the forty-third and Mahīdhara the forty-fourth."
 }

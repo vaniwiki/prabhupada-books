@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 24.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.57",
     "description":"\"The women of Vṛndāvana, who are on the level of superior guardians, are attracted maternally. The men of Vṛndāvana are attracted as servants, friends and fathers to Lord Kṛṣṇa."
 }

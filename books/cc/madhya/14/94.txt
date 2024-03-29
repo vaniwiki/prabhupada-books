@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 14.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.94",
     "description":"In the afternoon, the Lord went to the Guṇḍicā temple to visit the Lord and dance. At night He went to the garden to take rest."
 }

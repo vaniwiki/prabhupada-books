@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.95",
-    "h1":"Text 95",
+    "h1":"Cc. Ādi 5.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.95",
     "description":"Entering the universe, He found only darkness, with no place in which to reside. Thus He began to consider."
 }

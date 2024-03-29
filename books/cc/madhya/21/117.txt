@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.117",
-    "h1":"Text 117",
+    "h1":"Cc. Madhya 21.117",
+    "label":"Text 117",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.117",
     "description":"\"The quintessence of Kṛṣṇa's sweet bodily luster is so perfect that there is no perfection above it. He is the immutable mine of all transcendental qualities. In His other manifestations and personal expansions, there is only a partial exhibition of such qualities. We understand all His personal expansions in this way."
 }

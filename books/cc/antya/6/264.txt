@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.264",
-    "h1":"Text 264",
+    "h1":"Cc. Antya 6.264",
+    "label":"Text 264",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.264",
     "description":"\"Because he is very pleasing to all the devotees, Raghunātha dāsa Gosvāmī easily became like the fertile earth of good fortune in which it was suitable for the seed of Lord Caitanya Mahāprabhu to be sown. At the same time that the seed was sown, it grew into a matchless tree of the love of Śrī Caitanya Mahāprabhu and produced fruit.\""
 }

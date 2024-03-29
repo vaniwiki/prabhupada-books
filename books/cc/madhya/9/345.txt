@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.345",
-    "h1":"Text 345",
+    "h1":"Cc. Madhya 9.345",
+    "label":"Text 345",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.345",
     "description":"Sārvabhauma Bhaṭṭācārya cried in great ecstatic love. Then the Lord, accompanied by them all, went to the temple of Jagannātha."
 }

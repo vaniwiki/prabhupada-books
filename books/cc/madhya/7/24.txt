@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 7.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.24",
     "description":"\"Of course, Mukunda does not say anything, but I know that he is very unhappy within, and upon seeing him unhappy, I become twice as unhappy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.165",
-    "h1":"Text 165",
+    "h1":"Cc. Ādi 5.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.165",
     "description":"When someone saw the eyes of Mīnaketana Rāmadāsa, tears would automatically flow from his own eyes, for a constant shower of tears flowed from the eyes of Mīnaketana Rāmadāsa."
 }

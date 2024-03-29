@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 14.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.88",
     "description":"After Gopīnātha Ācārya finished talking, Śrī Caitanya Mahāprabhu smiled and, calling for Advaita Ācārya, made Him act like the Śeṣa Nāga bed."
 }

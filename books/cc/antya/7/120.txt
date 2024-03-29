@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.120",
-    "h1":"Text 120",
+    "h1":"Cc. Antya 7.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.120",
     "description":"Returning home that night, Vallabha Bhaṭṭa thought, \"Previously, at Prayāga, Lord Caitanya was very kind to me."
 }

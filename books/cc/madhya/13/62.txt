@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 13.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.62",
     "description":"When the two great personalities Sārvabhauma Bhaṭṭācārya and Kāśī Miśra saw Caitanya Mahāprabhu's causeless mercy upon the King, they were astonished."
 }

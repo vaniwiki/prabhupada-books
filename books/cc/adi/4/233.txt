@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.233",
-    "h1":"Text 233",
+    "h1":"Cc. Ādi 4.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.233",
     "description":"Anyone who has captured Lord Caitanya Mahāprabhu and Lord Nityānanda Prabhu in his heart will become blissful by hearing all these transcendental conclusions."
 }

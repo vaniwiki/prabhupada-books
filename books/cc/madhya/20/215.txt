@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.215",
-    "h1":"Text 215",
+    "h1":"Cc. Madhya 20.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.215",
     "description":"\"Lord Keśava eternally resides at Mathurā, and Lord Puruṣottama, known by the name Jagannātha, eternally resides at Nīlācala."
 }

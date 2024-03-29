@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.271",
-    "h1":"Text 271",
+    "h1":"Cc. Madhya 6.271",
+    "label":"Text 271",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.271",
     "description":"Lord Śrī Caitanya Mahāprabhu replied, \"The word 'mukti-pade' has another meaning. Mukti-pada directly refers to the Supreme Personality of Godhead."
 }

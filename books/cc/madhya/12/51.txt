@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 12.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.51",
     "description":"\"As soon as the general public finds a little fault in the behavior of a sannyāsī, they advertise it like wildfire. A black spot of ink cannot be hidden on a white cloth. It is always very prominent.\""
 }

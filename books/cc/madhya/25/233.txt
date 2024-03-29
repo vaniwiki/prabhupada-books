@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 25.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.233",
     "description":"The priests immediately brought them flower garlands and prasāda. The temple's watchman, who was named Tulasī, also came and offered his obeisances to Śrī Caitanya Mahāprabhu."
 }

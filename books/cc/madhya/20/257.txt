@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.257",
-    "h1":"Text 257",
+    "h1":"Cc. Madhya 20.257",
+    "label":"Text 257",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.257",
     "description":"\"Although there is no question of creation as far as the spiritual world is concerned, the spiritual world is nonetheless manifest by the supreme will of Saṅkarṣaṇa. The spiritual world is the abode of the pastimes of the eternal spiritual energy."
 }

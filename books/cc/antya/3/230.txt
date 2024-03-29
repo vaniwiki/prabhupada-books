@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.230",
-    "h1":"Text 230",
+    "h1":"Cc. Antya 3.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.230",
     "description":"The night was full of moonlight, which made the waves of the Ganges look dazzling. All directions were clear and bright."
 }

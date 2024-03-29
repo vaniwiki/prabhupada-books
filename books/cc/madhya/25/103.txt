@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 25.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.103",
     "description":"\"Lord Kṛṣṇa says, 'I am the center of all relationships. Knowledge of Me and the practical application of that knowledge is actual knowledge. Approaching Me for devotional service is called abhidheya."
 }

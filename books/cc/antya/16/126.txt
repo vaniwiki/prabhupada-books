@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.126",
-    "h1":"Text 126",
+    "h1":"Cc. Antya 16.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.126",
     "description":"\"Thereupon, the flute said angrily to Me, 'Give up Your shame, fear and religion and come drink the lips of Kṛṣṇa. On that condition, I shall give up my attachment for them. If You do not give up Your shame and fear, however, I shall continuously drink the nectar of Kṛṣṇa's lips. I am slightly fearful because You also have the right to drink that nectar, but as for the others, I consider them like straw.'"
 }

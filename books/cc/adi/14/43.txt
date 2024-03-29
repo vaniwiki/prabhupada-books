@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 14.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.43",
     "description":"Thus rebuked by His mother, he Lord would go in anger to a room and break all the pots within it."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.284",
-    "h1":"Text 284",
+    "h1":"Cc. Ādi 17.284",
+    "label":"Text 284",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.284",
     "description":"\"Just see!\" the gopīs said, seeing Kṛṣṇa from a distant place. \"Here within a bush is Kṛṣṇa, the son of Nanda Mahārāja.\""
 }

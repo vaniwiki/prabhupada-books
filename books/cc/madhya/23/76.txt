@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 23.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.76",
     "description":"\" 'Kṛṣṇa is the Supreme, and He is always glorified as the Supreme Lord and controller. Thus all the previously mentioned transcendental qualities are in Him. The fifty qualities of the Supreme Personality of Godhead above mentioned are as deep as an ocean. In other words, they are difficult to fully comprehend."
 }

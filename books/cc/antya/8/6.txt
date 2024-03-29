@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 8.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.6",
     "description":"Thus Śrī Caitanya Mahāprabhu, at Jagannātha Purī, performed His various pastimes with His own devotees in the waves of love for Kṛṣṇa."
 }

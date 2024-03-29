@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 24.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.24",
     "description":"\" 'These are the different meanings of the word krama. It is used in the sense of potency, systematic arrangement, step, moving or trembling.'"
 }

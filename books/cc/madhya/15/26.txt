@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.26",
-    "h1":"Text 26",
+    "h1":"Cc. Madhya 15.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.26",
     "description":"Nityānanda Prabhu also played at whirling the rod. Who can understand how They were ecstatically immersed in the deep emotions of the cowherd boys?"
 }

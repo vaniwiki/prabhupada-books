@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.149",
-    "h1":"Text 149",
+    "h1":"Cc. Antya 9.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.149",
     "description":"I have simply described the chastisement of Gopīnātha Paṭṭanāyaka and Śrī Caitanya Mahāprabhu's indifference. But the deep meaning of this behavior is very difficult to understand."
 }

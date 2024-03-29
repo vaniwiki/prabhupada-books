@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 17.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.115",
     "description":"Prakāśānanda Sarasvatī laughed very much to hear this description. Joking and laughing at the brāhmaṇa, he began to speak as follows."
 }

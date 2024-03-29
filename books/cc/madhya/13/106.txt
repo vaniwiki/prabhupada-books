@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 13.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.106",
     "description":"Everyone saw the complexion of His body change from white to pink, so that His luster resembled that of the mallikā flower."
 }

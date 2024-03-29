@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 5.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.40",
     "description":"The elderly brāhmaṇa said, \"How can I undo the promise I made in a holy place while on pilgrimage? Whatever may happen, I must give him my daughter in charity.\""
 }

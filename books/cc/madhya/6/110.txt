@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.110",
-    "h1":"Text 110",
+    "h1":"Cc. Madhya 6.110",
+    "label":"Text 110",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.110",
     "description":"After hearing this from Gopīnātha Ācārya, Sārvabhauma Bhaṭṭācārya said, \"First go to the place where Śrī Caitanya Mahāprabhu is staying and invite Him here with His associates. Ask Him on my account."
 }

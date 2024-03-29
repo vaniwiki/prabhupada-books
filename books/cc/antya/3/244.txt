@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.244",
-    "h1":"Text 244",
+    "h1":"Cc. Antya 3.244",
+    "label":"Text 244",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.244",
     "description":"In this way, as he chanted and chanted, the morning approached, and when the woman saw that it was morning, she got up and left."
 }

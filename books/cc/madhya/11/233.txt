@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.233",
-    "h1":"Text 233",
+    "h1":"Cc. Madhya 11.233",
+    "label":"Text 233",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.233",
     "description":"In His own pastimes in Vṛndāvana, when Kṛṣṇa used to eat on the bank of the Yamunā and sit in the center of His friends, every one of the cowherd boys would perceive that Kṛṣṇa was looking at him. In the same way, when Caitanya Mahāprabhu was dancing, everyone saw that Caitanya Mahāprabhu was facing him."
 }

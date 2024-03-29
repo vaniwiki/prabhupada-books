@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 18.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.5",
     "description":"The Lord then understood that the holy place called Rādhā-kuṇḍa was no longer visible. However, being the omniscient Supreme Personality of Godhead, He discovered Rādhā-kuṇḍa and Śyāma-kuṇḍa in two paddy fields. There was only a little water, but He took His bath there."
 }

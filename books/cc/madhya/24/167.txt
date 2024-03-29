@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.167",
-    "h1":"Text 167",
+    "h1":"Cc. Madhya 24.167",
+    "label":"Text 167",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.167",
     "description":"\"Being attracted by the transcendental qualities of Kṛṣṇa, yogīs become great saints. At that time, not being hampered by the yogic process, they engage in unalloyed devotional service."
 }

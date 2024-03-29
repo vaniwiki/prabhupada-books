@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.104",
-    "h1":"Text 104",
+    "h1":"Cc. Antya 13.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.104",
     "description":"The Lord asked Govinda to arrange for Raghunātha Bhaṭṭa's accommodations and then introduced him to all the devotees, headed by Svarūpa Dāmodara Gosvāmī."
 }

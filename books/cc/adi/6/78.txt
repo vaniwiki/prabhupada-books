@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.78",
-    "h1":"Text 78",
+    "h1":"Cc. Ādi 6.78",
+    "label":"Text 78",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.78",
     "description":"He who is Śeṣa, Saṅkarṣaṇa, with His thousands of mouths, serves Śrī Kṛṣṇa by assuming ten forms."
 }

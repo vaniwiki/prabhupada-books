@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.195",
-    "h1":"Text 195",
+    "h1":"Cc. Ādi 17.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.195",
     "description":"\" 'Vibrating \"Hari, Hari,\" the Hindus make a tumultuous sound. If the king [pātasāha] hears it, certainly he will punish you.'"
 }

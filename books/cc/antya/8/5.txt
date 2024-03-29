@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.5",
-    "h1":"Text 5",
+    "h1":"Cc. Antya 8.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.5",
     "description":"All glories to all the devotees, headed by Śrīvāsa Ṭhākura. Śrī Kṛṣṇa Caitanya Mahāprabhu is their life and soul."
 }

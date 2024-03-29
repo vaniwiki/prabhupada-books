@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.41",
-    "h1":"Text 41",
+    "h1":"Cc. Ādi 11.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.41",
     "description":"Uddhāraṇa Datta Ṭhākura, the eleventh among the twelve cowherd boys, was an exalted devotee of Lord Nityānanda Prabhu. He worshiped the lotus feet of Lord Nityānanda in all respects."
 }

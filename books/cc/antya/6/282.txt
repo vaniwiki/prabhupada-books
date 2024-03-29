@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.282",
-    "h1":"Text 282",
+    "h1":"Cc. Antya 6.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.282",
     "description":"When Śrī Caitanya Mahāprabhu heard this news from Govinda, He inquired from Svarūpa Dāmodara, \"Why does Raghunātha dāsa no longer stand at the Siṁha-dvāra gate to beg alms?\""
 }

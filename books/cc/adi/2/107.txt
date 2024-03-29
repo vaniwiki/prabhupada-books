@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.107",
-    "h1":"Text 107",
+    "h1":"Cc. Ādi 2.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.107",
     "description":"\" 'Kṛṣṇa, who is known as Govinda, is the supreme controller. He has an eternal, blissful, spiritual body. He is the origin of all. He has no other origin, for He is the prime cause of all causes.'"
 }

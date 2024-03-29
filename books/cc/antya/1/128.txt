@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.128",
-    "h1":"Text 128",
+    "h1":"Cc. Antya 1.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.128",
     "description":"\"May the pastimes of Śrī Kṛṣṇa reduce the miseries existing in the material world and nullify all unwanted desires. The pastimes of the Supreme Personality of Godhead are like śikhariṇī, a blend of yogurt and sugar candy. They overpower the pride of even the nectar produced on the moon, for they distribute the sweet fragrance of the concentrated loving affairs of Śrīmatī Rādhārāṇī and the gopīs.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.161",
-    "h1":"Text 161",
+    "h1":"Cc. Madhya 10.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.161",
     "description":"As soon as Brahmānanda Bhāratī gave up his deerskin and covered himself with sannyāsī robes, Śrī Caitanya Mahāprabhu came and offered His respects at his lotus feet."
 }

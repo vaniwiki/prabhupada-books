@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 19.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.27",
     "description":"Hearing this, the Nawab of Bengal stood up and returned to his home. He ordered the arrest of Sanātana Gosvāmī so that he would not be able to leave."
 }

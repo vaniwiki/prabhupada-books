@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 11.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.158",
     "description":"Saying this, the Lord embraced Murāri and had him sit down by His side. The Lord then began to cleanse his body with His own hands."
 }

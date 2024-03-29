@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.32",
-    "h1":"Text 32",
+    "h1":"Cc. Madhya 12.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.32",
     "description":"\"For instance, some of the wives of the brāhmaṇas who were performing sacrifices gave up their lives in the presence of their husbands for the sake of Kṛṣṇa.\""
 }

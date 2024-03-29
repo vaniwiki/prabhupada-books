@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 2.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.3",
     "description":"During His last twelve years, Śrī Caitanya Mahāprabhu always manifested all the symptoms of ecstasy in separation from Kṛṣṇa."
 }

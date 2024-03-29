@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.126",
-    "h1":"Text 126",
+    "h1":"Cc. Ādi 5.126",
+    "label":"Text 126",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.126",
     "description":"From these conclusions we can know the limit of the truth of Lord Nityānanda. But what glory is there in calling Him Ananta?"
 }

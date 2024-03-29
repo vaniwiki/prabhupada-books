@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.96",
-    "h1":"Text 96",
+    "h1":"Cc. Antya 16.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.96",
     "description":"The Lord said again and again, \"Only by great fortune may one come by a particle of the remnants of food offered to the Lord.\" The servants of the Jagannātha temple inquired, \"What is the meaning of this?\""
 }

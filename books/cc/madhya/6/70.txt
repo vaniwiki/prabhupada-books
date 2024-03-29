@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 6.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.70",
     "description":"\"From which sampradāya has He accepted the sannyāsa order, and what is His name?\""
 }

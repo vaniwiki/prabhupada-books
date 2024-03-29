@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 4.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.133",
     "description":"Holding the pot of sweet rice, the priest called, \"Will he whose name is Mādhavendra Purī please come and take this pot! Gopīnātha has stolen this pot of sweet rice for you!\""
 }

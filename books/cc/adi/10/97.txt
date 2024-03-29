@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 10.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.97",
     "description":"Because Raghunātha dāsa Gosvāmī was an assistant to Svarūpa Dāmodara, he knew much about the external and internal features of the pastimes of Lord Caitanya. Thus the two brothers Rūpa and Sanātana always used to hear of this from him."
 }

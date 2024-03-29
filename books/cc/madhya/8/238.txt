@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.238",
-    "h1":"Text 238",
+    "h1":"Cc. Madhya 8.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.238",
     "description":"The Lord replied, \"Having heard about your good qualities, I have come here. I have come to hear about Kṛṣṇa from you and thus purify My mind."
 }

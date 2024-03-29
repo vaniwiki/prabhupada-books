@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 12.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.29",
     "description":"\"The dust of Your lotus feet is not attainable even by Lord Brahmā, yet Your lotus feet have touched my wretched body."
 }

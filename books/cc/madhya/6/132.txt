@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.132",
-    "h1":"Text 132",
+    "h1":"Cc. Madhya 6.132",
+    "label":"Text 132",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.132",
     "description":"\"You do not explain the direct meaning of the Brahma-sūtras. Indeed, it appears that your business is to cover their real meaning.\""
 }

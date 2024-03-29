@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.61",
-    "h1":"Text 61",
+    "h1":"Cc. Antya 11.61",
+    "label":"Text 61",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.61",
     "description":"Śrī Caitanya Mahāprabhu danced for some time, and then Svarūpa Dāmodara Gosvāmī informed Him of other rituals for the body of Ṭhākura Haridāsa."
 }

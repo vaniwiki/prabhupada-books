@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.14",
-    "h1":"Text 14",
+    "h1":"Cc. Madhya 4.14",
+    "label":"Text 14",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.14",
     "description":"When Śrī Caitanya Mahāprabhu offered His obeisances at the lotus feet of the Gopīnātha Deity, the helmet of flowers on the head of Gopīnātha fell down and landed on the head of Caitanya Mahāprabhu."
 }

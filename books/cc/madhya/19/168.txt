@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.168",
-    "h1":"Text 168",
+    "h1":"Cc. Madhya 19.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.168",
     "description":"\"A pure devotee must not cherish any other desire than to serve Kṛṣṇa. He should not offer worship to the demigods or to mundane personalities. He should not cultivate artificial knowledge, which is devoid of Kṛṣṇa consciousness, and he should not engage himself in anything other than Kṛṣṇa conscious activities. One must engage all one's purified senses in the service of the Lord. This is the favorable execution of Kṛṣṇa conscious activities."
 }

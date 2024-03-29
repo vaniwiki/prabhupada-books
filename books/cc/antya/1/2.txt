@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.2",
-    "h1":"Text 2",
+    "h1":"Cc. Antya 1.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.2",
     "description":"My path is very difficult. I am blind, and my feet are slipping again and again. Therefore, may the saints help me by granting me the stick of their mercy as my support."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 15.23",
-    "h1":"Text 23",
+    "h1":"Cc. Ādi 15.23",
+    "label":"Text 23",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 15.23",
     "description":"After some days, Jagannātha Miśra passed away from this world to the transcendental world, and both mother and son were very much aggrieved in their hearts."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 12.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.51",
     "description":"No one can cross over the ocean of Śivānanda Sena's good fortune, for the Lord considered Śivānanda's whole family His own."
 }

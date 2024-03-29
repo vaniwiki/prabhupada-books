@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.48",
-    "h1":"Text 48",
+    "h1":"Cc. Antya 13.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.48",
     "description":"Sanātana Gosvāmī attended to all of Jagadānanda Paṇḍita's needs. He begged in the area of Mahāvana and brought Jagadānanda all kinds of things to eat and drink."
 }

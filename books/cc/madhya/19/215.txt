@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.215",
-    "h1":"Text 215",
+    "h1":"Cc. Madhya 19.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.215",
     "description":"\"When a devotee is situated on the platform of śānta-rasa, he desires neither elevation to the heavenly planets nor liberation. These are the results of karma and jñāna, and the devotee considers them no better than hell. A person situated on the śānta-rasa platform manifests the two transcendental qualities of detachment from all material desire and full attachment to Kṛṣṇa."
 }

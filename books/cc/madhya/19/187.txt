@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.187",
-    "h1":"Text 187",
+    "h1":"Cc. Madhya 19.187",
+    "label":"Text 187",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.187",
     "description":"\"In addition to the five direct mellows, there are seven indirect mellows, known as laughter, wonder, chivalry, compassion, anger, disaster and fear."
 }

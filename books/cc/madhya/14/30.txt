@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.30",
-    "h1":"Text 30",
+    "h1":"Cc. Madhya 14.30",
+    "label":"Text 30",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.30",
     "description":"There were also sweets like hari-vallabha and sweets made of seṅoti flowers, karpūra flowers and mālatī flowers. There were pomegranates, sweets made with black pepper, sweets made with fused sugar, and amṛti-jilipi."
 }

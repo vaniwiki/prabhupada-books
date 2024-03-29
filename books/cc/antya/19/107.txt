@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.107",
-    "h1":"Text 107",
+    "h1":"Cc. Antya 19.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.107",
     "description":"The evidence of the truth of these talks is found in Śrīmad-Bhāgavatam. There, in the section of the Tenth Canto known as the Bhramara-gītā, \"the Song to the Bumblebee,\" Śrīmatī Rādhārāṇī speaks insanely in ecstatic love for Kṛṣṇa."
 }

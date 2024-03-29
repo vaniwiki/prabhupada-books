@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10",
-    "h1":"Chapter 10",
+    "h1":"The Lord’s Return to Jagannātha Purī",
+    "label":"Chapter 10",
     "title":"Cc. Madhya 10: The Lord’s Return to Jagannātha Purī",
     "description":""
 }

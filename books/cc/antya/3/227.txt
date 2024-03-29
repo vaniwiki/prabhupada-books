@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.227",
-    "h1":"Text 227",
+    "h1":"Cc. Antya 3.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.227",
     "description":"There is another incident concerning Haridāsa Ṭhākura's uncommon behavior. One will be astonished to hear about it."
 }

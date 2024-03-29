@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.25",
-    "h1":"Text 25",
+    "h1":"Cc. Antya 19.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.25",
     "description":"Śrī Caitanya Mahāprabhu replied, \"Advaita Ācārya is a great worshiper of the Lord and is very expert in the regulative principles enjoined in the Vedic literatures."
 }

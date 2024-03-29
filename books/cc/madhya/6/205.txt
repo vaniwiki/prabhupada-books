@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 6.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.205",
     "description":"By the mercy of the Lord, all truths were revealed to Sārvabhauma Bhaṭṭācārya, and he could understand the importance of chanting the holy name and distributing love of Godhead everywhere."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 19.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.65",
     "description":"Thereafter, Vallabha Bhaṭṭa invited Śrī Caitanya Mahāprabhu for lunch, and the Lord introduced the brothers Rūpa and Vallabha to him."
 }

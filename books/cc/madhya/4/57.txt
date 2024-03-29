@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 4.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.57",
     "description":"During the festival at the installation ceremony, some people sang and some danced. All the milk, yogurt and clarified butter in the village was brought to the festival."
 }

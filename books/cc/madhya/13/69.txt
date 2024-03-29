@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 13.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.69",
     "description":"Thus Lord Jagannātha mounted His car, and Lord Śrī Caitanya Mahāprabhu inspired all His devotees to dance in front of it."
 }

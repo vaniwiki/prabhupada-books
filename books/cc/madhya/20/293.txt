@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.293",
-    "h1":"Text 293",
+    "h1":"Cc. Madhya 20.293",
+    "label":"Text 293",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.293",
     "description":"\"This second Personality of Godhead, known as Garbhodakaśāyī Viṣṇu, is the master of each and every universe and the shelter of the external energy. Nonetheless, He remains beyond the touch of the external energy."
 }

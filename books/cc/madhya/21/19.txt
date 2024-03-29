@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.19",
-    "h1":"Text 19",
+    "h1":"Cc. Madhya 21.19",
+    "label":"Text 19",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.19",
     "description":"\"According to Śukadeva Gosvāmī, Kṛṣṇa had unlimited cows and cowherd boys with Him. No one could count their actual number."
 }

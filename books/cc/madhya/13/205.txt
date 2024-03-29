@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 13.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.205",
     "description":"Thus I have described the great performance of congregational chanting by Lord Śrī Caitanya Mahāprabhu as He danced in front of Lord Jagannātha."
 }

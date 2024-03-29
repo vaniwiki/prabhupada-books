@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 8.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.89",
     "description":"\"Lord Kṛṣṇa told the gopīs, 'The means of attaining My favor is loving service unto Me, and fortunately you are all thus engaged. Those living beings who render service unto Me are eligible to be transferred to the spiritual world and attain eternal life with knowledge and bliss.'"
 }

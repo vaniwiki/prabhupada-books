@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.130",
-    "h1":"Text 130",
+    "h1":"Cc. Ādi 10.130",
+    "label":"Text 130",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.130",
     "description":"There was Sārvabhauma Bhaṭṭācārya, one of the biggest branches of the tree of the Lord, and his sister's husband, Śrī Gopīnātha Ācārya."
 }

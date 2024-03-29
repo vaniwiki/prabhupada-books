@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.297",
-    "h1":"Text 297",
+    "h1":"Cc. Ādi 17.297",
+    "label":"Text 297",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.297",
     "description":"Śrī Nityānanda Prabhu overflooded the entire world by distributing transcendental loving service. No one can understand His character and activities."
 }

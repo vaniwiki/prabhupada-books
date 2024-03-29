@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.57",
-    "h1":"Text 57",
+    "h1":"Cc. Ādi 10.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.57",
     "description":"The appearance of Lord Śrī Caitanya Mahāprabhu in every devotee's presence is called sākṣāt. His appearance in Nakula Brahmacārī as a symptom of special prowess is an example of āveśa."
 }

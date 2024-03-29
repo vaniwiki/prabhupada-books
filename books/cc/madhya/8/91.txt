@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.91",
-    "h1":"Text 91",
+    "h1":"Cc. Madhya 8.91",
+    "label":"Text 91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.91",
     "description":"\"According to Lord Kṛṣṇa in the Bhagavad-gītā [4.11],'As all surrender unto Me, I reward them accordingly. Everyone follows My path in all respects, O son of Pṛthā.'"
 }

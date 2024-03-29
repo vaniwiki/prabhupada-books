@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 6.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.47",
     "description":"Hearing this, Lord Nityānanda Prabhu said, \"You are a thief. Now you have come to see Me. Come here, come here. Today I shall punish you!\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.46",
-    "h1":"Text 46",
+    "h1":"Cc. Madhya 8.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.46",
     "description":"\"Knowing this, in order to rectify My heart, which is very hard, Sārvabhauma Bhaṭṭācārya asked Me to meet you.\""
 }

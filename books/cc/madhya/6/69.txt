@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 6.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.69",
     "description":"\"The sannyāsī is very meek and humble by nature, and His person is very beautiful to see. Consequently my affection for Him increases."
 }

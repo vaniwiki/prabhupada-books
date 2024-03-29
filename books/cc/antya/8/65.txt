@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.65",
-    "h1":"Text 65",
+    "h1":"Cc. Antya 8.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.65",
     "description":"\"I have heard that You have cut Your eating in half. Indeed, I see that You are skinny. Such dry renunciation is also not the religion of a sannyāsī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 18.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.27",
     "description":"Brightened by the shining light of the moon, the high waves of the sea glittered like the waters of the River Yamunā."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 13.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.52",
     "description":"Lord Caitanya Mahāprabhu then exhibited another mystic power by performing pastimes simultaneously in all seven groups."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 19.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.81",
     "description":"Due to the Lord's heavy weight, the boat began to tilt. It began filling up with water and was on the verge of sinking."
 }

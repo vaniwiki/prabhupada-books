@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.67",
-    "h1":"Text 67",
+    "h1":"Cc. Madhya 17.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.67",
     "description":"While traveling in this secluded forest and feeling very happy, Śrī Caitanya Mahāprabhu made the following statement."
 }

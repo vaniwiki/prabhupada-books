@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 6.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.206",
     "description":"Sārvabhauma Bhaṭṭācārya composed one hundred verses in a very short time. Indeed, not even Bṛhaspati, the priest of the heavenly planets, could compose verses as quickly."
 }

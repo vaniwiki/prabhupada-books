@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 22.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.7",
     "description":"\"Kṛṣṇa is the nondual Absolute Truth, the Supreme Personality of Godhead. Although He is one, He maintains different personal expansions and energies for His pastimes."
 }

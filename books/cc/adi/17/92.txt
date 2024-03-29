@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.92",
-    "h1":"Text 92",
+    "h1":"Cc. Ādi 17.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.92",
     "description":"In the mood of Lord Nṛsiṁhadeva, Lord Caitanya ran through the city streets, club in hand, ready to kill all the atheists."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 16.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.41",
     "description":"On the northern side of the Siṁha-dvāra, behind the door, there are twenty-two steps leading to the temple, and at the bottom of those steps is a ditch."
 }

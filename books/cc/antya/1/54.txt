@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 1.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.54",
     "description":"On the next day, Caitanya Mahāprabhu again met Rūpa Gosvāmī, and with great mercy the Lord introduced him to all the devotees."
 }

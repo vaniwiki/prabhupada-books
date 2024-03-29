@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.135",
-    "h1":"Text 135",
+    "h1":"Cc. Madhya 6.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.135",
     "description":"\"Although there is other evidence, the evidence given in the Vedic version must be taken as foremost. Vedic versions understood directly are first-class evidence.\""
 }

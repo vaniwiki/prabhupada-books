@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 16.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.57",
     "description":"The Lord's favorite vegetables were cooked by Mālinīdevī, the wife of Śrīvāsa Ṭhākura. She devotedly considered herself a maidservant of Śrī Caitanya Mahāprabhu's, but in affection she was just like a mother."
 }

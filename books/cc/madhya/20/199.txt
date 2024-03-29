@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.199",
-    "h1":"Text 199",
+    "h1":"Cc. Madhya 20.199",
+    "label":"Text 199",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.199",
     "description":"\"The predominating Deity for the month of Māgha is Mādhava, and the predominating Deity for the month of Phālguna is Govinda. Viṣṇu is the predominating Deity for Caitra, and Madhusūdana is the predominating Deity for Vaiśākha."
 }

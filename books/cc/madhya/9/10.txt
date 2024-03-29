@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 9.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.10",
     "description":"By the influence of Śrī Caitanya Mahāprabhu, all these people abandoned their own opinions and became Vaiṣṇavas, devotees of Kṛṣṇa."
 }

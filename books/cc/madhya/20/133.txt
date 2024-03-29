@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.133",
-    "h1":"Text 133",
+    "h1":"Cc. Madhya 20.133",
+    "label":"Text 133",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.133",
     "description":"\" 'If you dig on the western side, there is a ghost who will create such a disturbance that your hands will not even touch the treasure."
 }

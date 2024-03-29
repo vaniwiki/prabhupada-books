@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.156",
-    "h1":"Text 156",
+    "h1":"Cc. Ādi 17.156",
+    "label":"Text 156",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.156",
     "description":"\"According to the Koran, there are two ways of advancement—through increasing the propensity to enjoy and decreasing the propensity to enjoy. On the path of decreasing attachment [nivṛtti-mārga], the killing of animals is prohibited."
 }

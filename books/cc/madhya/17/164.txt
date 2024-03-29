@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 17.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.164",
     "description":"After this, Śrī Caitanya Mahāprabhu took aside the brāhmaṇa. Sitting in a solitary place, the Lord began to question him."
 }

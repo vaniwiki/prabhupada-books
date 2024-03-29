@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.21",
-    "h1":"Text 21",
+    "h1":"Cc. Antya 19.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.21",
     "description":"\"Those now mad in ecstatic love are no longer interested in the material world. Tell Śrī Caitanya Mahāprabhu that Advaita Prabhu, who has also become a madman in ecstatic love, has spoken these words.\""
 }

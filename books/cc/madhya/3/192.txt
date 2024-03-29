@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 3.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.192",
     "description":"In this way, Śrī Caitanya Mahāprabhu, offering due respects to all the devotees and smiling very mildly, bid them farewell."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.190",
-    "h1":"Text 190",
+    "h1":"Cc. Madhya 15.190",
+    "label":"Text 190",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.190",
     "description":"When Sārvabhauma requested Caitanya Mahāprabhu to accept lunch for fifteen days, the Lord said, \"I shall accept lunch at your place for one day only.\""
 }

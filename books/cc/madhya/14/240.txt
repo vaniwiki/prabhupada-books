@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.240",
-    "h1":"Text 240",
+    "h1":"Cc. Madhya 14.240",
+    "label":"Text 240",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.240",
     "description":"Then there arrived in large quantities a variety of food that had been offered to Śrī Jagannātha and a variety that had been offered to the goddess of fortune."
 }

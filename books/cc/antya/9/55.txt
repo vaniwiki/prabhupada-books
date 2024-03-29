@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 9.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.55",
     "description":"Śrī Caitanya Mahāprabhu inquired from the messenger, \"What was Vāṇīnātha doing when he was arrested and brought there?\""
 }

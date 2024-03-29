@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.114",
-    "h1":"Text 114",
+    "h1":"Cc. Antya 5.114",
+    "label":"Text 114",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.114",
     "description":"The poet said, \"Lord Jagannātha is a most beautiful body, and Śrī Caitanya Mahāprabhu, who is exceptionally grave, is the owner of that body."
 }

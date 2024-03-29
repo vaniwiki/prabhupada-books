@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 11.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.179",
     "description":"Saying this, Kāśī Miśra and the temple inspector took their leave, and Gopīnātha and Vāṇīnātha went with them."
 }

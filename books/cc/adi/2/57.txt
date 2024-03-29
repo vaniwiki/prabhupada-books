@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.57",
-    "h1":"Text 57",
+    "h1":"Cc. Ādi 2.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.57",
     "description":"\"The source of these three features is the Nārāyaṇa in the spiritual sky. He is Your vilāsa expansion. Therefore You are the ultimate Nārāyaṇa.\""
 }

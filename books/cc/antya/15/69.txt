@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 15.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.69",
     "description":"In a faltering voice, Śrī Caitanya Mahāprabhu again said, \"Alas, go on reading, Rāma Rāya.\" Thus Rāmānanda Rāya began to read a verse. While listening to this verse, the Lord was sometimes very jubilant and sometimes overcome by lamentation. Afterwards the Lord personally explained the verse."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.67",
-    "h1":"Text 67",
+    "h1":"Cc. Ādi 14.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.67",
     "description":"On hearing the order of the Supreme Lord, Śrī Caitanya Mahāprabhu, Lakṣmī immediately worshiped Him, offering sandalwood pulp and flowers for His body, garlanding Him with mallikā flowers, and offering prayers."
 }

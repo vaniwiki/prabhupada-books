@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 1.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.38",
     "description":"There are innumerable devotees of the Lord, of whom Śrīvāsa Ṭhākura is the foremost. I offer my respectful obeisances thousands of times unto their lotus feet."
 }

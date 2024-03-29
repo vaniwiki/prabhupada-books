@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.191",
-    "h1":"Text 191",
+    "h1":"Cc. Madhya 18.191",
+    "label":"Text 191",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.191",
     "description":"\"According to the Koran, the Lord has a supreme, blissful, transcendental body. He is the Absolute Truth, the all-pervading, omniscient and eternal being. He is the origin of everything."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.158",
-    "h1":"Text 158",
+    "h1":"Cc. Madhya 22.158",
+    "label":"Text 158",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.158",
     "description":"\" 'The advanced devotee who is inclined to spontaneous loving service should follow the activities of a particular associate of Kṛṣṇa in Vṛndāvana. He should execute service externally as a regulative devotee as well as internally from his self-realized position. Thus he should perform devotional service both externally and internally.'"
 }

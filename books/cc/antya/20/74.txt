@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.74",
-    "h1":"Text 74",
+    "h1":"Cc. Antya 20.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.74",
     "description":"I have only very briefly described the pastimes of Śrī Caitanya Mahāprabhu not described by Vṛndāvana dāsa Ṭhākura. Nevertheless, because those transcendental pastimes are so numerous, the size of this book has increased."
 }

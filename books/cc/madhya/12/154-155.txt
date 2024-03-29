@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.154-155",
-    "h1":"Text 154-155",
+    "h1":"Cc. Madhya 12.154-155",
+    "label":"Text 154-155",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.154-155",
     "description":"Kāśī Miśra and Tulasī, the superintendent of the temple, brought as much prasāda as five hundred men could eat. Seeing the large quantity of prasāda, which consisted of rice, cakes, sweet rice and a variety of vegetables, Śrī Caitanya Mahāprabhu was very much satisfied."
 }

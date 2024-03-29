@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 3.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.90",
     "description":"After filling a pot with vegetables, Advaita Ācārya requested Them to eat more, and Caitanya Mahāprabhu said, \"How much more can I go on eating?\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 3.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.127",
     "description":"The transcendental ecstatic symptoms of disappointment, moroseness, pleasure, restlessness, pride and humility all began to fight like soldiers within the Lord."
 }

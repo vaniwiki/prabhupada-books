@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.79",
-    "h1":"Text 79",
+    "h1":"Cc. Antya 8.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.79",
     "description":"\"Of the two rules, Rāmacandra Purī obeys the first by abandoning praise, but although he knows that the second is more prominent, he neglects it by criticizing others."
 }

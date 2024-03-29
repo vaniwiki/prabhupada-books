@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.168",
-    "h1":"Text 168",
+    "h1":"Cc. Madhya 16.168",
+    "label":"Text 168",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.168",
     "description":"After saying this, the messenger began to chant the holy names of Hari and Kṛṣṇa. He also began to laugh and cry, dance and sing exactly like a madman."
 }

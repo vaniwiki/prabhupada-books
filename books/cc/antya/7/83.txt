@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.83",
-    "h1":"Text 83",
+    "h1":"Cc. Antya 7.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.83",
     "description":"\"I simply sit and try to chant the holy name of Kṛṣṇa, and although I chant all day and night, I nevertheless cannot complete the chanting of my prescribed number of rounds.\""
 }

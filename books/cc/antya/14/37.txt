@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.37",
-    "h1":"Text 37",
+    "h1":"Cc. Antya 14.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.37",
     "description":"Śrī Caitanya Mahāprabhu said, \"I found Kṛṣṇa, the Lord of Vṛndāvana, but I have lost Him again. Who has taken My Kṛṣṇa? Where have I come?\""
 }

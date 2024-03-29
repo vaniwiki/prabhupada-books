@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.1",
-    "h1":"Text 1",
+    "h1":"Cc. Ādi 12.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.1",
     "description":"The followers of Śrī Advaita Prabhu were of two kinds. Some were real followers, and the others were false. Rejecting the false followers, I offer my respectful obeisances to Śrī Advaita Ācārya's real followers, whose life and soul was Śrī Caitanya Mahāprabhu."
 }

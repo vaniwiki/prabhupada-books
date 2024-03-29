@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 20.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.60",
     "description":"Śrī Caitanya Mahāprabhu continued, \"By seeing you, by touching you and by glorifying your transcendental qualities, one can perfect the purpose of all sense activity. This is the verdict of the revealed scriptures."
 }

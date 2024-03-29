@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 7.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.99",
     "description":"Although Gadādhara Paṇḍita Gosāñi was not in the least at fault, some of Śrī Caitanya Mahāprabhu's devotees showed affectionate anger toward him."
 }

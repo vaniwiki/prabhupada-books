@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 24.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.223",
     "description":"\"The word ca also means anvācaye, which means to present a secondary thing to be done at the same time. This is the way of understanding the word anvācaye. An example is: 'O brahmacārī, go out to collect alms and at the same time bring in the cows.'"
 }

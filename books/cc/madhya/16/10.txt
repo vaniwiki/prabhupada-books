@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 16.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.10",
     "description":"In this way they both presented many impediments, indirectly not granting the Lord permission to go to Vṛndāvana. They did this because they were afraid of separation from Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.245",
-    "h1":"Text 245",
+    "h1":"Cc. Ādi 17.245",
+    "label":"Text 245",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.245",
     "description":"Immediately He ran to the river Ganges and jumped in to counteract the sinful activities of that woman. Lord Nityānanda and Haridāsa Ṭhākura caught Him and raised Him from the river."
 }

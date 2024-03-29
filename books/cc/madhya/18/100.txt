@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 18.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.100",
     "description":"When Balabhadra Bhaṭṭācārya asked to see Kṛṣṇa at Kālīya-daha, Śrī Caitanya Mahāprabhu mercifully slapped him, saying, \"You are a learned scholar, but you have become a fool influenced by the statements of other fools."
 }

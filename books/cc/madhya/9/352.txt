@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.352",
-    "h1":"Text 352",
+    "h1":"Cc. Madhya 9.352",
+    "label":"Text 352",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.352",
     "description":"Accompanied by all His associates, Śrī Caitanya Mahāprabhu went to Sārvabhauma Bhaṭṭācārya's house and took His noon lunch there."
 }

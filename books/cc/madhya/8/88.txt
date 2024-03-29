@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 8.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.88",
     "description":"\"Complete attainment of the lotus feet of Lord Kṛṣṇa is made possible by love of Godhead, specifically mādhurya-rasa, or conjugal love. Lord Kṛṣṇa is indeed captivated by this standard of love. This is stated in Śrīmad-Bhāgavatam."
 }

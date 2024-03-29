@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 13.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.33",
     "description":"There were altogether four parties of kīrtana performers, comprising twenty-four chanters. In each party there were also two mṛdaṅga players, making an additional eight persons."
 }

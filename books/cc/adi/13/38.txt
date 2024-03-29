@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 13.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.38",
     "description":"For six of the eighteen years He continuously stayed in Jagannātha Purī, He regularly performed kīrtana, inducing all the devotees to love Kṛṣṇa simply by chanting and dancing."
 }

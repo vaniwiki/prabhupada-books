@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 2.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.75",
     "description":"\"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter."
 }

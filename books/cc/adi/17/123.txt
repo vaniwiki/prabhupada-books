@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.123",
-    "h1":"Text 123",
+    "h1":"Cc. Ādi 17.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.123",
     "description":"When the saṅkīrtana movement thus started, no one in Navadvīpa could hear any sound other than the words \"Hari! Hari!\" and the beating of the mrdaṅga and clashing of hand bells."
 }

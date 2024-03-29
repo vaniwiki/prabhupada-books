@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.51",
-    "h1":"Text 51",
+    "h1":"Cc. Antya 2.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.51",
     "description":"Hearing this, Nṛsiṁhānanda Brahmacārī replied, \"Please be satisfied. I assure you that I shall bring Him here three days from now.\""
 }

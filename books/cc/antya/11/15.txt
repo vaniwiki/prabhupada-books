@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 11.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.15",
     "description":"Svarūpa Dāmodara Gosvāmī and Rāmānanda Rāya, the chief assistants in Śrī Caitanya Mahāprabhu's pastimes, remained with Him both day and night."
 }

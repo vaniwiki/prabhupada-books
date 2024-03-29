@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.82",
-    "h1":"Text 82",
+    "h1":"Cc. Ādi 7.82",
+    "label":"Text 82",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.82",
     "description":"\" 'Chanting the holy name in ecstasy causes Me to dance, laugh and cry.' When My spiritual master heard all this, he smiled and then began to speak."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.204",
-    "h1":"Text 204",
+    "h1":"Cc. Antya 3.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.204",
     "description":"With all the members of the assembly, the two Majumadāras fell at the lotus feet of Haridāsa Ṭhākura. Haridāsa Ṭhākura was smiling, however, and he spoke in a sweet voice."
 }

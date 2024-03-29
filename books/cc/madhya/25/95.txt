@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.95",
-    "h1":"Text 95",
+    "h1":"Cc. Madhya 25.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.95",
     "description":"\"Whatever was spoken by the Supreme Personality of Godhead to Lord Brahmā in the four verses of Śrīmad-Bhāgavatam, was also explained to Nārada by Lord Brahmā."
 }

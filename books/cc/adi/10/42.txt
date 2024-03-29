@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.42",
-    "h1":"Text 42",
+    "h1":"Cc. Ādi 10.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.42",
     "description":"Śrīla Vāsudeva Datta Ṭhākura wanted to suffer for the sinful activities of all the people of the world so that Lord Caitanya Mahāprabhu might deliver them."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 18.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.12",
     "description":"As I have previously indicated, I am describing the mad speeches and bodily transformations of the Lord only in brief."
 }

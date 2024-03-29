@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 4.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.59",
     "description":"The villagers brought a large quantity of tulasī leaves, flowers, and various kinds of garments. Then Śrī Mādhavendra Purī personally began the abhiṣeka [bathing ceremony]."
 }

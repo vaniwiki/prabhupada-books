@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.182",
-    "h1":"Text 182",
+    "h1":"Cc. Antya 3.182",
+    "label":"Text 182",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.182",
     "description":"After reciting this verse, Haridāsa Ṭhākura said, \"O learned scholars, please explain the meaning of this verse.\" But the audience requested Haridāsa Ṭhākura, \"It is better for you to explain the meaning of this important verse.\""
 }

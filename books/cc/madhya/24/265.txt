@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.265",
-    "h1":"Text 265",
+    "h1":"Cc. Madhya 24.265",
+    "label":"Text 265",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.265",
     "description":"\"After all this, Nārada Muni went to his destination. After the hunter returned home, he exactly followed the instructions of his spiritual master, Nārada."
 }

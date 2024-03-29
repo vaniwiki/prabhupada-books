@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.41",
-    "h1":"Text 41",
+    "h1":"Cc. Antya 10.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.41",
     "description":"Thus all the Vaiṣṇavas from Bengal went to Jagannātha Purī. By chance, they arrived on the day when Lord Jagannātha performs pastimes in the water."
 }

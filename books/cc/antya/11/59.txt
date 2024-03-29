@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 11.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.59",
     "description":"The Lord raised the body of Haridāsa Ṭhākura and placed it on His lap. Then He began to dance in the courtyard in great ecstatic love."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.99",
-    "h1":"Text 99",
+    "h1":"Cc. Antya 6.99",
+    "label":"Text 99",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.99",
     "description":"After receiving the remnants of food left by Lord Nityānanda Prabhu, Raghunātha dāsa, who was greatly happy, ate some and distributed the rest among his own associates."
 }

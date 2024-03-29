@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 15.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.3",
     "description":"All glories to the listeners of Śrī Caitanya-caritāmṛta who have accepted it as their life and soul."
 }

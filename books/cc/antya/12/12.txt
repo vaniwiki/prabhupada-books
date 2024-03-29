@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.12",
-    "h1":"Text 12",
+    "h1":"Cc. Antya 12.12",
+    "label":"Text 12",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.12",
     "description":"The wife of Śivānanda Sena also came, along with their three sons. Rāghava Paṇḍita joined them, carrying his famous bags of food."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.223",
-    "h1":"Text 223",
+    "h1":"Cc. Madhya 15.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.223",
     "description":"After Sārvabhauma Bhaṭṭācārya washed the Lord's feet, the Lord entered the room to take His lunch."
 }

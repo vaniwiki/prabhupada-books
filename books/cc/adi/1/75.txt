@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 1.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 1.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 1.75",
     "description":"\"If numerous forms, all equal in their features, are displayed simultaneously, such forms are called prakāśa-vigrahas of the Lord.\""
 }

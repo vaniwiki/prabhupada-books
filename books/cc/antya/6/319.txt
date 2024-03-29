@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.319",
-    "h1":"Text 319",
+    "h1":"Cc. Antya 6.319",
+    "label":"Text 319",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.319",
     "description":"One day Svarūpa Dāmodara saw the activities of Raghunātha dāsa. Thus he smiled and asked for a small portion of that food and ate it."
 }

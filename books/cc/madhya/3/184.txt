@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.184",
-    "h1":"Text 184",
+    "h1":"Cc. Madhya 3.184",
+    "label":"Text 184",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.184",
     "description":"\"All you devotees will be able to come and go, and sometimes He may also come to take His bath in the Ganges."
 }

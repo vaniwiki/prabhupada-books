@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.11",
-    "h1":"Text 11",
+    "h1":"Cc. Ādi 2.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.11",
     "description":"\"Learned transcendentalists who know the Absolute Truth say that it is nondual knowledge and is called impersonal Brahman, localized Paramātmā and the Personality of Godhead.\""
 }

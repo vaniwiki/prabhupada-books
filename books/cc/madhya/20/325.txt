@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.325",
-    "h1":"Text 325",
+    "h1":"Cc. Madhya 20.325",
+    "label":"Text 325",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.325",
     "description":"\"In the Svāyambhuva-manvantara, the avatāra was named Yajña. In the Svārociṣa-manvantara, he was named Vibhu. In the Auttama-manvantara, he was named Satyasena, and in the Tāmasa-manvantara he was named Hari."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 4.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.47",
     "description":"\"If by chance a servant falls down and goes somewhere else, glorious is that master who captures him and brings him back by the hair."
 }

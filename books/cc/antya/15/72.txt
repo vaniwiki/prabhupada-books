@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.72",
-    "h1":"Text 72",
+    "h1":"Cc. Antya 15.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.72",
     "description":"\"My dear friend, Kṛṣṇa acts just like a hunter. This hunter does not care for piety or impiety; He simply creates many devices to conquer the cores of the hearts of the doelike gopīs."
 }

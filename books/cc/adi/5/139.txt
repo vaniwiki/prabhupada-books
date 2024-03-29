@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.139",
-    "h1":"Text 139",
+    "h1":"Cc. Ādi 5.139",
+    "label":"Text 139",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.139",
     "description":"\"Sometimes when Lord Kṛṣṇa's elder brother, Lord Balarāma, felt tired after playing and lay His head on the lap of a cowherd boy, Lord Kṛṣṇa Himself served Him by massaging His feet.\""
 }

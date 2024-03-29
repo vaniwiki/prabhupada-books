@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.86",
-    "h1":"Text 86",
+    "h1":"Cc. Ādi 4.86",
+    "label":"Text 86",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.86",
     "description":"Or, She is identical with Lord Kṛṣṇa, for She embodies the mellows of love. The energy of Lord Kṛṣṇa is identical with Him."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.76",
-    "h1":"Text 76",
+    "h1":"Cc. Madhya 6.76",
+    "label":"Text 76",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.76",
     "description":"Sārvabhauma Bhaṭṭācārya then suggested, \"If Śrī Caitanya Mahāprabhu would like, I could bring Him into a first-class sampradāya by offering Him saffron cloth and performing the reformatory process again.\""
 }

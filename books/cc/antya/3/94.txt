@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.94",
-    "h1":"Text 94",
+    "h1":"Cc. Antya 3.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.94",
     "description":"Śrī Caitanya Mahāprabhu derives great pleasure from glorifying His devotees, and among the devotees, Haridāsa Ṭhākura is the foremost."
 }

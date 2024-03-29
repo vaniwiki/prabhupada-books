@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.87",
-    "h1":"Text 87",
+    "h1":"Cc. Ādi 6.87",
+    "label":"Text 87",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.87",
     "description":"Saying this, Advaita Prabhu dances and loudly sings. Then at the next moment He quietly sits down."
 }

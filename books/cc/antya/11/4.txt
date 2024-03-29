@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 11.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.4",
     "description":"All glories to Lord Śrī Caitanya, who is very dear to Kāśī Miśra. He is the Lord of the life of Jagadānanda and the Lord of Rūpa Gosvāmī, Sanātana Gosvāmī and Raghunātha dāsa Gosvāmī."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.238",
-    "h1":"Text 238",
+    "h1":"Cc. Madhya 24.238",
+    "label":"Text 238",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.238",
     "description":"\"The hunter addressed Nārada Muni: 'O gosvāmī! O great saintly person! Why have you left the general path through the forest to come to me? Simply by seeing you, all the animals I was hunting have now fled.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 3.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.101",
     "description":"For his bodily maintenance he would go to a brāhmaṇa's house and beg some food. He was spiritually so influential that all the neighboring people worshiped him."
 }

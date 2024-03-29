@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.13",
-    "h1":"Text 13",
+    "h1":"Cc. Madhya 17.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.13",
     "description":"Śrī Caitanya Mahāprabhu said, \"I shall not take any of My associates with Me because if I choose someone, all the others will be unhappy."
 }

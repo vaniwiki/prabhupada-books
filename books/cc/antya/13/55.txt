@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.55",
-    "h1":"Text 55",
+    "h1":"Cc. Antya 13.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.55",
     "description":"Sanātana Gosvāmī, however, knew Jagadānanda Paṇḍita very well and was consequently somewhat ashamed. Jagadānanda therefore left the cooking pot on the stove and spoke as follows."
 }

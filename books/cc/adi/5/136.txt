@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.136",
-    "h1":"Text 136",
+    "h1":"Cc. Ādi 5.136",
+    "label":"Text 136",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.136",
     "description":"Playing like a bull, Lord Balarāma fights with Kṛṣṇa head to head. And sometimes Lord Kṛṣṇa massages the feet of Lord Balarāma."
 }

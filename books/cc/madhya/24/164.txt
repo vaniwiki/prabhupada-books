@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 24.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.164",
     "description":"\"These thirteen types of yogīs and munis are called śānta-bhaktas, for they render transcendental loving service to the Supreme Personality of Godhead in the neutral stage."
 }

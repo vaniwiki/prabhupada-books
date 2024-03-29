@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.43",
-    "h1":"Text 43",
+    "h1":"Cc. Madhya 5.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.43",
     "description":"His son replied, \"The Deity may be a witness, but He is in a distant country. How can He come to bear witness against you? Why are you so anxious over this?"
 }

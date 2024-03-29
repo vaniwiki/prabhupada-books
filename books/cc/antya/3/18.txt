@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.18",
-    "h1":"Text 18",
+    "h1":"Cc. Antya 3.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.18",
     "description":"Having said this, Dāmodara Paṇḍita became silent. Śrī Caitanya Mahāprabhu smiled, pleased within Himself, and considered the impudence of Dāmodara Paṇḍita."
 }

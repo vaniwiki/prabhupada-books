@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.118",
-    "h1":"Text 118",
+    "h1":"Cc. Antya 12.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.118",
     "description":"Jagadānanda Paṇḍita replied, \"Who tells You all these false stories? I never brought any oil from Bengal.\""
 }

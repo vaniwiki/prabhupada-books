@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 5.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.54",
     "description":"\"Go hastily while he is in the assembly room.\" Hearing this, Pradyumna Miśra immediately departed."
 }

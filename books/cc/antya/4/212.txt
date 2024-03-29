@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.212",
-    "h1":"Text 212",
+    "h1":"Cc. Antya 4.212",
+    "label":"Text 212",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.212",
     "description":"As soon as Sanātana Gosvāmī visited a place where Śrī Caitanya Mahāprabhu had performed His pastimes on the way, he was immediately filled with ecstatic love."
 }

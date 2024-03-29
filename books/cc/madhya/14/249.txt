@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.249",
-    "h1":"Text 249",
+    "h1":"Cc. Madhya 14.249",
+    "label":"Text 249",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.249",
     "description":"Śrī Caitanya Mahāprabhu ordered Rāmānanda and Satyarāja Khān to become the worshipers of these ropes and every year bring silken ropes from their village."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 6.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.92",
     "description":"\"A person influenced by the external energy is called bahirmukha jana, a mundane person, because despite his perception, he cannot understand the real substance.\" Hearing Gopīnātha Ācārya say this, Sārvabhauma Bhaṭṭācārya smiled and began to speak as follows."
 }

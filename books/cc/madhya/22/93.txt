@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.93",
-    "h1":"Text 93",
+    "h1":"Cc. Madhya 22.93",
+    "label":"Text 93",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.93",
     "description":"\"Without hesitation, one should take the exclusive shelter of Lord Kṛṣṇa with full confidence, giving up bad association and even neglecting the regulative principles of the four varṇas and four āśramas. That is to say, one should abandon all material attachment."
 }

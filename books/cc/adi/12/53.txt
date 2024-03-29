@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 12.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.53",
     "description":"When Caitanya Mahāprabhu gave this instruction to Kamalākānta, all present considered it to be meant for everyone. Thus Advaita Ācārya was greatly pleased."
 }

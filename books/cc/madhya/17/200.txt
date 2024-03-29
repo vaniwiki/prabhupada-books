@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.200",
-    "h1":"Text 200",
+    "h1":"Cc. Madhya 17.200",
+    "label":"Text 200",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.200",
     "description":"Upon seeing Śrī Caitanya Mahāprabhu, the trees and creepers of Vṛndāvana became jubilant. Their twigs stood up, and they began to shed tears of ecstasy in the form of honey."
 }

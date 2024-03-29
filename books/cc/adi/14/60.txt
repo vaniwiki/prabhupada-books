@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.60",
-    "h1":"Text 60",
+    "h1":"Cc. Ādi 14.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.60",
     "description":"The girls then brought the offerings before the Lord, who ate them all and blessed the girls to their satisfaction."
 }

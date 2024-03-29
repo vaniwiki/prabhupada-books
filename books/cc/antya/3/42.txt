@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 3.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.42",
     "description":"In this way Dāmodara Paṇḍita went to Nadia [Navadvīpa]. After meeting mother Śacī, he stayed under the care of her lotus feet."
 }

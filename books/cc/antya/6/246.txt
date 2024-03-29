@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.246",
-    "h1":"Text 246",
+    "h1":"Cc. Antya 6.246",
+    "label":"Text 246",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.246",
     "description":"He also met Śivānanda Sena, who informed him, \"Your father sent ten men to take you away."
 }

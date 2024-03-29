@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.267",
-    "h1":"Text 267",
+    "h1":"Cc. Ādi 4.267",
+    "label":"Text 267",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.267",
     "description":"\"Unless I accept the luster of the ecstatic love of Śrī Rādhikā, these three desires cannot be fulfilled."
 }

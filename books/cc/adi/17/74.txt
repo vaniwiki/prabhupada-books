@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.74",
-    "h1":"Text 74",
+    "h1":"Cc. Ādi 17.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.74",
     "description":"Without even changing His garments, Lord Caitanya took a bath in the Ganges with His companions. There He explained the glories of devotional service."
 }

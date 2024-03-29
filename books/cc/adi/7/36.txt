@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.36",
-    "h1":"Text 36",
+    "h1":"Cc. Ādi 7.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.36",
     "description":"Thus the students, infidels, fruitive workers and critics all came to surrender unto the lotus feet of the Lord."
 }

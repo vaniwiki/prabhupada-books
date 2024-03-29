@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.36",
-    "h1":"Text 36",
+    "h1":"Cc. Ādi 6.36",
+    "label":"Text 36",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.36",
     "description":"The glory and attributes of Advaita Ācārya are unlimited. How can the insignificant living entities fathom them?"
 }

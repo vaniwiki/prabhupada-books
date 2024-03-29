@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.267",
-    "h1":"Text 267",
+    "h1":"Cc. Antya 3.267",
+    "label":"Text 267",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.267",
     "description":"In the activities of Lord Śrī Caitanya Mahāprabhu, the three worlds dance and chant, having come in touch with love of Godhead. This is the characteristic of His pastimes."
 }

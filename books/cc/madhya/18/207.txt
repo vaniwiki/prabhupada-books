@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 18.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.207",
     "description":"In this way Śrī Caitanya Mahāprabhu indirectly initiated the saintly Mohammedan by advising him to chant the holy name of Kṛṣṇa. The Mohammedan's name was changed to Rāmadāsa. There was also another Pāṭhāna Moslem present whose name was Vijulī Khān."
 }

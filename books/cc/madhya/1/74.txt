@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.74",
-    "h1":"Text 74",
+    "h1":"Cc. Madhya 1.74",
+    "label":"Text 74",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.74",
     "description":"\"I accept Śrīla Rūpa Gosvāmī as quite fit to understand the confidential mellows of devotional service, and I recommend that you explain devotional service to him further.\""
 }

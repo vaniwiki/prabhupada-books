@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.280",
-    "h1":"Text 280",
+    "h1":"Cc. Madhya 25.280",
+    "label":"Text 280",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.280",
     "description":"In conclusion, I submit to Śrī Caitanya Mahāprabhu, Nityānanda Prabhu, Advaita Prabhu, and all the other devotees and readers that I accept your lotus feet as the helmet on my head. In this way, all my purposes will be served."
 }

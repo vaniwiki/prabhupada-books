@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 3.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.6",
     "description":"Once in a day of Brahmā, He descends to this world to manifest His transcendental pastimes."
 }

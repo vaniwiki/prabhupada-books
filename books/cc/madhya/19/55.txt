@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.55",
-    "h1":"Text 55",
+    "h1":"Cc. Madhya 19.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.55",
     "description":"After this, Śrī Caitanya Mahāprabhu sat them down by His side and asked them, \"What news do you have of Sanātana?\""
 }

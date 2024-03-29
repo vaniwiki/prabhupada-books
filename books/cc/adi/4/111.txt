@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.111",
-    "h1":"Text 111",
+    "h1":"Cc. Ādi 4.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.111",
     "description":"To analyze these pastimes is not necessary now. Later I shall describe them in detail."
 }

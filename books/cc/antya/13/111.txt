@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.111",
-    "h1":"Text 111",
+    "h1":"Cc. Antya 13.111",
+    "label":"Text 111",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.111",
     "description":"Rāmadāsa Viśvāsa then took up residence in Jagannātha Purī and taught the Kāvya-prakāśa to the Paṭṭanāyaka family [the descendants of Bhavānanda Rāya]."
 }

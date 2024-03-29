@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.49",
-    "h1":"Text 49",
+    "h1":"Cc. Madhya 14.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.49",
     "description":"The King then arranged for big wrestlers to try to pull the car, and even the King himself joined in, but the car could not be moved."
 }

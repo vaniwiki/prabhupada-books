@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 15.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.207",
     "description":"First, three mānas of cooked rice-almost six pounds-was poured on a big banana leaf."
 }

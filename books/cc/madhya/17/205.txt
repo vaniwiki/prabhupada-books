@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 17.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.205",
     "description":"The Lord's body was restless, and tears, trembling and jubilation were manifest. He said very loudly, \"Chant Kṛṣṇa! Chant Kṛṣṇa!\""
 }

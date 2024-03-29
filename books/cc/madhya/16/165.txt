@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.165",
-    "h1":"Text 165",
+    "h1":"Cc. Madhya 16.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.165",
     "description":"\"Many millions upon millions of people come to see Him, and after they see Him, they cannot return home."
 }

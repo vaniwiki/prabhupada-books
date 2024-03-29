@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.1",
-    "h1":"Text 1",
+    "h1":"Cc. Antya 9.1",
+    "label":"Text 1",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.1",
     "description":"The innumerable, glorious followers of Śrī Caitanya Mahāprabhu brought a constant flood to the desertlike hearts of the unfortunate with an inundation of ecstatic love."
 }

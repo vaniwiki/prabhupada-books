@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.276",
-    "h1":"Text 276",
+    "h1":"Cc. Ādi 4.276",
+    "label":"Text 276",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.276",
     "description":"Thus the auspicious invocation, the essential nature of the truth of Lord Caitanya, and the need for His appearance have been set forth in six verses."
 }

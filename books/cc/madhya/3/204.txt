@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.204",
-    "h1":"Text 204",
+    "h1":"Cc. Madhya 3.204",
+    "label":"Text 204",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.204",
     "description":"As mother Śacī constantly saw the face of her son and fed Him, her own happiness increased and was indeed complete."
 }

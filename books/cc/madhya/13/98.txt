@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.98",
-    "h1":"Text 98",
+    "h1":"Cc. Madhya 13.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.98",
     "description":"Everyone was astonished by the dancing of Caitanya Mahāprabhu, and even Lord Jagannātha became extremely happy to see Him."
 }

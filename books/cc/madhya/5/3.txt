@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.3",
-    "h1":"Text 3",
+    "h1":"Cc. Madhya 5.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.3",
     "description":"Walking and walking, Śrī Caitanya Mahāprabhu and His party finally arrived at Yājapura on the river Vaitaraṇī. There He saw the temple of Varāhadeva and offered His obeisances unto Him."
 }

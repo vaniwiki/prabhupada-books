@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.326",
-    "h1":"Text 326",
+    "h1":"Cc. Madhya 20.326",
+    "label":"Text 326",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.326",
     "description":"\"In the Raivata-manvantara, the avatāra was named Vaikuṇṭha, and in the Cākṣuṣa-manvantara, he was named Ajita. In the Vaivasvata-manvantara, he was named Vāmana, and in the Sāvarṇya-manvantara, he was named Sārvabhauma. In the Dakṣa-sāvarṇya-manvantara, he was named Ṛṣabha."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 18.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.107",
     "description":"\"Actually Lord Kṛṣṇa has again returned to Vṛndāvana. That also is a truth, and people have seen Him."
 }

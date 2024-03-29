@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.44",
-    "h1":"Text 44",
+    "h1":"Cc. Antya 16.44",
+    "label":"Text 44",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.44",
     "description":"Because of the Lord's strict order, no living being could take the water. Some of His intimate devotees, however, would take it by some trick."
 }

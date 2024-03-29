@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.237",
-    "h1":"Text 237",
+    "h1":"Cc. Madhya 8.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.237",
     "description":"\"But for You, there is no one who can deliver all the living entities, for You alone can deliver love of Kṛṣṇa.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.5",
-    "h1":"Text 5",
+    "h1":"Cc. Madhya 24.5",
+    "label":"Text 5",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.5",
     "description":"\" 'Those who are self-satisfied and unattracted by external material desires are also attracted to the loving service of Śrī Kṛṣṇa, whose qualities are transcendental and whose activities are wonderful. Hari, the Personality of Godhead, is called Kṛṣṇa because He has such transcendentally attractive features.'"
 }

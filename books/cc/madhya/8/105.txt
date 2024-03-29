@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.105",
-    "h1":"Text 105",
+    "h1":"Cc. Madhya 8.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.105",
     "description":"\"Finding Herself treated equally with all the other gopīs, Śrīmatī Rādhārāṇī displayed Her tricky behavior and left the circle of the rāsa dance. Missing Śrīmatī Rādhārāṇī's presence, Kṛṣṇa became very unhappy and began to lament and wander throughout the forest to search Her out."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 14.53",
-    "h1":"Text 53",
+    "h1":"Cc. Ādi 14.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 14.53",
     "description":"\"Therefore it does not behoove You to act like this. Don't take our paraphernalia for worship of the demigods. Don't create a disturbance in this way.\""
 }

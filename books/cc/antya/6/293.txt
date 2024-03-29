@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.293",
-    "h1":"Text 293",
+    "h1":"Cc. Antya 6.293",
+    "label":"Text 293",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.293",
     "description":"For three years He kept the stone and garland. Then, greatly satisfied by the behavior of Raghunātha dāsa, the Lord delivered both of them to him."
 }

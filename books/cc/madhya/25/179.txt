@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.179",
-    "h1":"Text 179",
+    "h1":"Cc. Madhya 25.179",
+    "label":"Text 179",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.179",
     "description":"These five devotees were Tapana Miśra, Raghunātha, the Mahārāṣṭrian brāhmaṇa, Candraśekhara and Paramānanda Kīrtanīyā."
 }

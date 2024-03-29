@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 12.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.90",
     "description":"The Lord then told the devotees, \"I can tell how much you have labored and how well you have cleansed the temple simply by seeing all the straw and dust you have collected outside.\""
 }

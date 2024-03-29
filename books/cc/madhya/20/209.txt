@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.209",
-    "h1":"Text 209",
+    "h1":"Cc. Madhya 20.209",
+    "label":"Text 209",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.209",
     "description":"\"Of them, Padmanābha, Trivikrama, Nṛsiṁha, Vāmana, Hari, Kṛṣṇa, and so on all have different bodily features."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 15.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.145",
     "description":"\"After this, Murāri Gupta went home and spent the whole night thinking how he would be able to give up the association of Raghunātha, Lord Rāmacandra. Thus he was overwhelmed."
 }

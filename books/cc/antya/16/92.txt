@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.92",
-    "h1":"Text 92",
+    "h1":"Cc. Antya 16.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.92",
     "description":"Śrī Caitanya Mahāprabhu tasted a portion of the prasāda. Govinda took the rest and bound it in the end of his wrapper."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.90-91",
-    "h1":"Text 90-91",
+    "h1":"Cc. Madhya 20.90-91",
+    "label":"Text 90-91",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.90-91",
     "description":"Śrī Caitanya Mahāprabhu then said, \"I have already deliberately considered this matter. Since Lord Kṛṣṇa is very merciful, He has nullified your attachment for material things. Why should Kṛṣṇa allow you to maintain a last bit of material attachment? After vanquishing a disease, a good physician does not allow any of the disease to remain."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.169",
-    "h1":"Text 169",
+    "h1":"Cc. Antya 6.169",
+    "label":"Text 169",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.169",
     "description":"\"You may go home without anxiety. Following your order, I shall persuade the brāhmaṇa.\" On this plea, after asking permission, he decided to go away."
 }

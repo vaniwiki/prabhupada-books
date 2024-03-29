@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.177",
-    "h1":"Text 177",
+    "h1":"Cc. Madhya 11.177",
+    "label":"Text 177",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.177",
     "description":"Kāśī Miśra then told Śrī Caitanya Mahāprabhu: \"Everything belongs to You. What is the use of Your begging? By Your own will You can take whatever You like."
 }

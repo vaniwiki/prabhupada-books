@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.108",
-    "h1":"Text 108",
+    "h1":"Cc. Antya 3.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.108",
     "description":"The prostitute replied, \"First let me have union with him once; then the second time I shall take your constable with me to arrest him.\""
 }

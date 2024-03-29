@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.9",
-    "h1":"Text 9",
+    "h1":"Cc. Ādi 5.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.9",
     "description":"He Himself helps in the pastimes of Lord Kṛṣṇa, and He does the work of creation in four other forms."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.226",
-    "h1":"Text 226",
+    "h1":"Cc. Madhya 17.226",
+    "label":"Text 226",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.226",
     "description":"Śrī Caitanya Mahāprabhu's mind was absorbed in ecstatic love at Jagannātha Purī, but when He passed along the road on the way to Vṛndāvana, that love increased a hundred times."
 }

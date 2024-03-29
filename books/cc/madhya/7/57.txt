@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 7.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.57",
     "description":"Thus receiving Lord Jagannātha's permission in the form of a garland, Śrī Caitanya Mahāprabhu offered obeisances, and then in great jubilation He prepared to depart for South India."
 }

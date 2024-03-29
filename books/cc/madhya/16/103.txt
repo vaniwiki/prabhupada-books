@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 16.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.103",
     "description":"The King was very happy to hear the news, and he hastily went there. Upon seeing the Lord, he fell flat to offer Him obeisances."
 }

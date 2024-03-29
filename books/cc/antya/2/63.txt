@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.63",
-    "h1":"Text 63",
+    "h1":"Cc. Antya 2.63",
+    "label":"Text 63",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.63",
     "description":"Pradyumna Brahmacārī was overwhelmed by transcendental ecstasy upon seeing Caitanya Mahāprabhu eating everything. Thus tears flowed from his eyes. Nevertheless, he expressed dismay, saying, \"Alas, alas! My dear Lord, what are You doing? You are eating everyone's food!"
 }

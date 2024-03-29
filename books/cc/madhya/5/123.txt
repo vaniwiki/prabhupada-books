@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.123",
-    "h1":"Text 123",
+    "h1":"Cc. Madhya 5.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.123",
     "description":"When the King begged Him to come to his kingdom, Gopāla, who was already obliged for his devotional service, accepted his prayer. Thus the King took the Gopāla Deity and went back to Kaṭaka."
 }

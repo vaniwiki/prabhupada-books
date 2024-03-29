@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.241",
-    "h1":"Text 241",
+    "h1":"Cc. Ādi 17.241",
+    "label":"Text 241",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.241",
     "description":"Thereafter a dramatization of Kṛṣṇa's pastimes was performed in the house of Advaita Ācārya. The Lord personally took the part of Rukmiṇī, the foremost of Kṛṣṇa's queens."
 }

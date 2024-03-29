@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.230",
-    "h1":"Text 230",
+    "h1":"Cc. Ādi 5.230",
+    "label":"Text 230",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.230",
     "description":"The dust and shade of the lotus feet of the Vaiṣṇavas have been granted to this fallen soul by the mercy of Lord Nityānanda."
 }

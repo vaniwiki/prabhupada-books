@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 16.85",
-    "h1":"Text 85",
+    "h1":"Cc. Ādi 16.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 16.85",
     "description":"\"You have achieved poetic imagination and ingenuity by the grace of your worshipable demigod. But poetry not well reviewed is certainly subject to criticism."
 }

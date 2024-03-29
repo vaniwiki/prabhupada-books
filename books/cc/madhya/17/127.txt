@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.127",
-    "h1":"Text 127",
+    "h1":"Cc. Madhya 17.127",
+    "label":"Text 127",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.127",
     "description":"\"Although he spoke Your name three times, he did not utter the name of Kṛṣṇa. Because he uttered Your name in contempt, I was very much aggrieved."
 }

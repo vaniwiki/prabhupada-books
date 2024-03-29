@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.75",
-    "h1":"Text 75",
+    "h1":"Cc. Antya 4.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.75",
     "description":"\"I am lowborn. Indeed, I am the lowest. I am condemned, for I have all the characteristics of a sinful man. If You keep me alive, what will be the profit?\""
 }

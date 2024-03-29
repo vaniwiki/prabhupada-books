@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.121",
-    "h1":"Text 121",
+    "h1":"Cc. Madhya 23.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.121",
     "description":"\"The conclusions that You have told me are the ocean of the ambrosia of truth. My mind is unable to approach even a drop of that ocean."
 }

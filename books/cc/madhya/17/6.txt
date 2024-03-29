@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.6",
-    "h1":"Text 6",
+    "h1":"Cc. Madhya 17.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.6",
     "description":"\"If someone wants to follow Me, please stop him. I don't want anyone to go with Me."
 }

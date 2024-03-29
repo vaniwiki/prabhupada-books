@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.193",
-    "h1":"Text 193",
+    "h1":"Cc. Madhya 20.193",
+    "label":"Text 193",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.193",
     "description":"\"Thus the original quadruple forms again manifest Themselves in a second quadruple expansion. The residences of these second quadruple expansions cover the four directions."
 }

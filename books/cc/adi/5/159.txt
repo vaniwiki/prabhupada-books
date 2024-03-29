@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.159",
-    "h1":"Text 159",
+    "h1":"Cc. Ādi 5.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.159",
     "description":"To disclose it is not proper, for it should be kept as confidential as the Vedas, yet I shall speak of it to make His mercy known to all."
 }

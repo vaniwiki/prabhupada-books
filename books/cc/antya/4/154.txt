@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.154",
-    "h1":"Text 154",
+    "h1":"Cc. Antya 4.154",
+    "label":"Text 154",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.154",
     "description":"\"My dear sir, You do not have even a pinch of aversion to touching my body, which is in a horrible condition. Because of this offense, everything auspicious will be vanquished for me."
 }

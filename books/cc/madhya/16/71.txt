@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.71",
-    "h1":"Text 71",
+    "h1":"Cc. Madhya 16.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.71",
     "description":"The inhabitant of Kulīna-grāma said, \"Please let me know who is actually a Vaiṣṇava and what his symptoms are.\" Understanding his mind, Śrī Caitanya Mahāprabhu smiled and gave the following reply."
 }

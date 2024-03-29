@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.51",
-    "h1":"Text 51",
+    "h1":"Cc. Madhya 10.51",
+    "label":"Text 51",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.51",
     "description":"Śrī Caitanya Mahāprabhu embraced Bhavānanda Rāya and with great respect spoke of his son Rāmānanda Rāya."
 }

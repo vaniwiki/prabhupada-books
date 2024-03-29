@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.229",
-    "h1":"Text 229",
+    "h1":"Cc. Ādi 17.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.229",
     "description":"Śrī Caitanya Mahāprabhu caused the dead son to speak about knowledge, and then the two brothers personally became the sons of Śrīvāsa Ṭhākura."
 }

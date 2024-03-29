@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.85",
-    "h1":"Text 85",
+    "h1":"Cc. Madhya 7.85",
+    "label":"Text 85",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.85",
     "description":"After finishing Their baths, They returned at noon to the temple. Admitting His own men, Śrī Nityānanda Prabhu closed the outside door."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.45",
-    "h1":"Text 45",
+    "h1":"Cc. Antya 7.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.45",
     "description":"\"Completely distinct from love of Kṛṣṇa in opulence, pure love of Kṛṣṇa is on the highest level. On the surface of the world there is no devotee greater than Uddhava."
 }

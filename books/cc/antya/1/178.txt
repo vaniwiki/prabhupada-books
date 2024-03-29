@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.178",
-    "h1":"Text 178",
+    "h1":"Cc. Antya 1.178",
+    "label":"Text 178",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.178",
     "description":"Although Śrī Caitanya Mahāprabhu was inwardly greatly pleased when He heard this verse, externally He spoke as if angry."
 }

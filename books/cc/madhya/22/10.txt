@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.10",
-    "h1":"Text 10",
+    "h1":"Cc. Madhya 22.10",
+    "label":"Text 10",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.10",
     "description":"\"The living entities [jīvas] are divided into two categories. Some are eternally liberated, and others are eternally conditioned."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 11.2",
-    "h1":"Text 2",
+    "h1":"Cc. Antya 11.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 11.2",
     "description":"All glories to Lord Śrī Caitanya Mahāprabhu, who is very merciful and who is very dear to Advaita Ācārya and Lord Nityānanda."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 15.6",
-    "h1":"Text 6",
+    "h1":"Cc. Antya 15.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 15.6",
     "description":"Actually, Śrī Caitanya Mahāprabhu was always merged in ecstatic emotion, but just as a potter's wheel turns without the potter's touching it, the Lord's bodily activities, like bathing, going to the temple to see Lord Jagannātha, and taking lunch, went on automatically."
 }

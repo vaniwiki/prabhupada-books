@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.150",
-    "h1":"Text 150",
+    "h1":"Cc. Antya 20.150",
+    "label":"Text 150",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.150",
     "description":"I now worship the lotus feet of all my readers, for by the mercy of their lotus feet there is all good fortune."
 }

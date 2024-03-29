@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.100",
-    "h1":"Text 100",
+    "h1":"Cc. Ādi 2.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.100",
     "description":"\"In these six kinds of forms there are innumerable varieties. Although they are many, they are all one: there is no difference between them."
 }

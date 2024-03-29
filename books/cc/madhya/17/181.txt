@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.181",
-    "h1":"Text 181",
+    "h1":"Cc. Madhya 17.181",
+    "label":"Text 181",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.181",
     "description":"Therefore Śrī Caitanya Mahāprabhu willingly requested food from the brāhmaṇa, and the brāhmaṇa, feeling a natural humility, began to speak as follows."
 }

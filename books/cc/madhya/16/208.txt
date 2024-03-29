@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 16.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.208",
     "description":"When the Lord stayed at the house of Mādhava dāsa, many hundreds and thousands of people came to see Him."
 }

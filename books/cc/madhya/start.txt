@@ -1,13 +1,17 @@
 ---json
 {
     "name":"Cc. Madhya-līlā",
-    "h1":"Madhya-līlā",
+    "h1":"Cc. Madhya-līlā",
+    "label":"Cc. Madhya-līlā",
     "title":"Śrī Caitanya-caritāmṛta Madhya-līlā",
     "description":""
 }
 ---
 
 ====== Śrī Caitanya-caritāmṛta Madhya-līlā ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:cc:madhya:1:start|The Later Pastimes of Lord Śrī Caitanya Mahāprabhu]]
   - [[books:cc:madhya:2:start|The Ecstatic Manifestations of Lord Śrī Caitanya Mahāprabhu]]
@@ -34,3 +38,5 @@
   - [[books:cc:madhya:23:start|Life's Ultimate Goal — Love of Godhead]]
   - [[books:cc:madhya:24:start|The Sixty-One Explanations of the Ātmārāma Verse]]
   - [[books:cc:madhya:25:start|How All the Residents of Vārāṇasī Became Vaiṣṇavas]]
+
+</card>

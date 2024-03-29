@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.231",
-    "h1":"Text 231",
+    "h1":"Cc. Madhya 9.231",
+    "label":"Text 231",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.231",
     "description":"Upon hearing Śrī Caitanya Mahāprabhu, all the Bhaṭṭathāris came running from all sides with weapons in their hands, desiring to hurt the Lord."
 }

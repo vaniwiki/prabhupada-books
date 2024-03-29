@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.69",
-    "h1":"Text 69",
+    "h1":"Cc. Madhya 18.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.69",
     "description":"After seeing Gokula, Śrī Caitanya Mahāprabhu returned to Mathurā, where He saw the birthplace of the Lord. While there, He stayed at the house of the Sanoḍiyā brāhmaṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 4.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.107",
     "description":"\"Bring sandalwood pulp from Jagannātha Purī. Kindly go quickly. Since no one else can do it, you must.\""
 }

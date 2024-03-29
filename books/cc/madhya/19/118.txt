@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.118",
-    "h1":"Text 118",
+    "h1":"Cc. Madhya 19.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.118",
     "description":"In his book Caitanya-candrodaya, Kavi-karṇapūra, the son of Śivānanda Sena, has elaborately described the meeting between Śrī Rūpa Gosvāmī and Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.65",
-    "h1":"Text 65",
+    "h1":"Cc. Ādi 4.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.65",
     "description":"Kṛṣṇa's mother, father, abode, house, bedding, seats and so on are all transformations of śuddha-sattva."
 }

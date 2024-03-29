@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.3",
-    "h1":"Text 3",
+    "h1":"Cc. Ādi 8.3",
+    "label":"Text 3",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.3",
     "description":"Let me offer my respectful obeisances unto Advaita Ācārya, who is very merciful, and also to that great personality Gadādhara Paṇḍita, the learned scholar."
 }

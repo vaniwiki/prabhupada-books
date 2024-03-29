@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.70",
-    "h1":"Text 70",
+    "h1":"Cc. Madhya 13.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.70",
     "description":"Now please hear about Lord Jagannātha's going to the Guṇḍicā temple while Śrī Caitanya Mahāprabhu danced before the Ratha car."
 }

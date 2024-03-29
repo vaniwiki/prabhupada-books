@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.207",
-    "h1":"Text 207",
+    "h1":"Cc. Madhya 1.207",
+    "label":"Text 207",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.207",
     "description":"After hearing the prayer of Dabira Khāsa and Sākara Mallika, Śrī Caitanya Mahāprabhu said, \"My dear Dabira Khāsa, you two brothers are My old servants."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.123",
-    "h1":"Text 123",
+    "h1":"Cc. Antya 7.123",
+    "label":"Text 123",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.123",
     "description":"\"I am falsely proud, advertising myself as a learned scholar. Therefore Śrī Caitanya Mahāprabhu insults me just to favor me by cutting down this false pride."
 }

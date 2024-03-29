@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 18.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.164",
     "description":"Seeing the Lord unconscious, the soldiers thought, \"This sannyāsī must have possessed a large quantity of gold."
 }

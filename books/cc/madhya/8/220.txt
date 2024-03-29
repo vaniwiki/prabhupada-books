@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.220",
-    "h1":"Text 220",
+    "h1":"Cc. Madhya 8.220",
+    "label":"Text 220",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.220",
     "description":"\"One who is attracted by that ecstatic love of the gopīs does not care about popular opinion or the regulative principles of Vedic life. Rather, he completely surrenders unto Kṛṣṇa and renders service unto Him."
 }

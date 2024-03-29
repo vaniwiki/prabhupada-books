@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.38",
-    "h1":"Text 38",
+    "h1":"Cc. Ādi 5.38",
+    "label":"Text 38",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.38",
     "description":"That impersonal Brahman effulgence consists only of the effulgent rays of the Lord. Those fit for sāyujya liberation merge into that effulgence."
 }

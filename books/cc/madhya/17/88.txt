@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 17.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.88",
     "description":"He washed the lotus feet of Śrī Caitanya Mahāprabhu, and afterwards he and his whole family drank the wash water. He also worshiped Balabhadra Bhaṭṭācārya and showed him respect."
 }

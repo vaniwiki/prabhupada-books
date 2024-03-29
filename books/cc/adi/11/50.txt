@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.50",
-    "h1":"Text 50",
+    "h1":"Cc. Ādi 11.50",
+    "label":"Text 50",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.50",
     "description":"Vasanta was the fifty-first, Navanī Hoḍa the fifty-second, Gopāla the fifty-third, Sanātana the fifty-fourth, Viṣṇāi the fifty-fifth, Kṛṣṇānanda the fifty-sixth and Sulocana the fifty-seventh."
 }

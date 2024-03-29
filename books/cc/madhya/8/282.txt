@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.282",
-    "h1":"Text 282",
+    "h1":"Cc. Madhya 8.282",
+    "label":"Text 282",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.282",
     "description":"Lord Śrī Kṛṣṇa is the reservoir of all pleasure, and Śrīmatī Rādhārāṇī is the personification of ecstatic love of Godhead. These two forms has combined as one in Śrī Caitanya Mahāprabhu. This being the case, Lord Śrī Caitanya Mahāprabhu revealed His real form to Rāmānanda Rāya."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.8",
-    "h1":"Text 8",
+    "h1":"Cc. Madhya 6.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 6.8",
     "description":"While Lord Caitanya Mahāprabhu was unconscious, Sārvabhauma Bhaṭṭācārya, with the help of the watchmen and some disciples, carried Him to his home and laid Him down in a very sanctified room."
 }

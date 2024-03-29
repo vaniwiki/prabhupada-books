@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.37",
-    "h1":"Text 37",
+    "h1":"Cc. Madhya 21.37",
+    "label":"Text 37",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.37",
     "description":"\"Lord Brahmā said, 'Following the will of the Supreme Personality of Godhead, I create, Lord Śiva destroys, and He Himself in the form of Kṣīrodakaśāyī Viṣṇu maintains all the affairs of material nature. Thus the supreme controller of the three modes of material nature is Lord Viṣṇu.'"
 }

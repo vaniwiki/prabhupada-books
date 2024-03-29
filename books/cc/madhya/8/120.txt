@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 8.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.120",
     "description":"\"Kindly explain all these truths to Me. But for yourself, no one can do so.\""
 }

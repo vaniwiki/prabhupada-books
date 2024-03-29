@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.320",
-    "h1":"Text 320",
+    "h1":"Cc. Ādi 17.320",
+    "label":"Text 320",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.320",
     "description":"The Seventh Chapter describes the Pañca-tattva-Śrī Caitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhara and Śrīvāsa. They all combined together to distribute love of Godhead everywhere."
 }

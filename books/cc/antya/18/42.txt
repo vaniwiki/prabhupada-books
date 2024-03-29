@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.42",
-    "h1":"Text 42",
+    "h1":"Cc. Antya 18.42",
+    "label":"Text 42",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.42",
     "description":"Svarūpa Dāmodara proceeded east with others, looking for the Lord on the beach or in the water."
 }

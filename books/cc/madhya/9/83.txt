@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.83",
-    "h1":"Text 83",
+    "h1":"Cc. Madhya 9.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.83",
     "description":"Śrī Veṅkaṭa Bhaṭṭa took Śrī Caitanya Mahāprabhu to his home. After he washed the Lord's feet, all the members of his family drank the water."
 }

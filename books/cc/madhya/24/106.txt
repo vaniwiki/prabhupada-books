@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.106",
-    "h1":"Text 106",
+    "h1":"Cc. Madhya 24.106",
+    "label":"Text 106",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.106",
     "description":"\"I have given all these explanations just to indicate the purpose of the verse. Allow Me to explain the real purpose of the verse."
 }

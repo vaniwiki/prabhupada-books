@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.65",
-    "h1":"Text 65",
+    "h1":"Cc. Madhya 8.65",
+    "label":"Text 65",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.65",
     "description":"Rāmānanda Rāya continued, \"According to the Bhagavad-gītā, 'One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments or desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto Me.' \""
 }

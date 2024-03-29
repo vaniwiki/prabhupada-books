@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.59",
-    "h1":"Text 59",
+    "h1":"Cc. Madhya 25.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.59",
     "description":"After hearing all these statements, the Mahārāṣṭrian brāhmaṇa very jubilantly went to inform Lord Śrī Caitanya Mahāprabhu."
 }

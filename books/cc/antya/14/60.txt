@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 14.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.60",
     "description":"After some time, Svarūpa Dāmodara could no longer hear Śrī Caitanya Mahāprabhu chanting. When he entered the room, he found the three doors locked, but Śrī Caitanya Mahāprabhu had gone."
 }

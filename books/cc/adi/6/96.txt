@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.96",
-    "h1":"Text 96",
+    "h1":"Cc. Ādi 6.96",
+    "label":"Text 96",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.96",
     "description":"These are all incarnations of Lord Kṛṣṇa, yet we always find that they act as devotees."
 }

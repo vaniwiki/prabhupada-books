@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.105",
-    "h1":"Text 105",
+    "h1":"Cc. Ādi 4.105",
+    "label":"Text 105",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.105",
     "description":"Svarūpa Gosāñi is the most intimate associate of the Lord. He, therefore, knows all these topics well."
 }

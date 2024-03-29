@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.68",
-    "h1":"Text 68",
+    "h1":"Cc. Madhya 20.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.68",
     "description":"Tapana Miśra then extended an invitation to Sanātana, and Lord Caitanya Mahāprabhu asked Sanātana to go get a shave."
 }

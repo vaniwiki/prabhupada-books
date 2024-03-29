@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.259",
-    "h1":"Text 259",
+    "h1":"Cc. Ādi 17.259",
+    "label":"Text 259",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.259",
     "description":"Lord Śrī Caitanya Mahāprabhu, being omniscient, could understand the degradation of these students. Thus He sat at home, contemplating how to rescue them."
 }

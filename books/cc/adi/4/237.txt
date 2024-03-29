@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.237",
-    "h1":"Text 237",
+    "h1":"Cc. Ādi 4.237",
+    "label":"Text 237",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.237",
     "description":"Therefore after offering obeisances to the devotees, for their satisfaction I shall speak without hesitating."
 }

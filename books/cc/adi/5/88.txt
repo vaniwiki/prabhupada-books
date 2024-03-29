@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.88",
-    "h1":"Text 88",
+    "h1":"Cc. Ādi 5.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.88",
     "description":"Thus the Bhagavad-gītā also states again and again that the Absolute Truth always possesses inconceivable power."
 }

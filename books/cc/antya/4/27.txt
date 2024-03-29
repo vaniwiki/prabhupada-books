@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.27",
-    "h1":"Text 27",
+    "h1":"Cc. Antya 4.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.27",
     "description":"\"Your brother Anupama is now dead. He was a very good devotee who had firm conviction in Raghunātha [Lord Rāmacandra].\""
 }

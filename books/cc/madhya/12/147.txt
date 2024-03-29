@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 12.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.147",
     "description":"When the boy did not regain consciousness after some time, Advaita Ācārya and the other devotees began to cry."
 }

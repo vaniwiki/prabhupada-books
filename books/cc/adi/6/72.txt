@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.72",
-    "h1":"Text 72",
+    "h1":"Cc. Ādi 6.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.72",
     "description":"In Dvārakā-dhāma, all the queens, headed by Rukmiṇī, also consider themselves maidservants of Lord Kṛṣṇa."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.67",
-    "h1":"Text 67",
+    "h1":"Cc. Antya 16.67",
+    "label":"Text 67",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.67",
     "description":"Śrī Caitanya Mahāprabhu asked the boy again and again to chant the name of Kṛṣṇa, but the boy would not utter the holy name."
 }

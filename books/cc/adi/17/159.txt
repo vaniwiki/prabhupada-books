@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.159",
-    "h1":"Text 159",
+    "h1":"Cc. Ādi 17.159",
+    "label":"Text 159",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.159",
     "description":"Refuting the Kazi's statement, the Lord immediately replied, \"The Vedas clearly enjoin that cows should not be killed. Therefore every Hindu, whoever he may be, avoids indulging in cow-killing."
 }

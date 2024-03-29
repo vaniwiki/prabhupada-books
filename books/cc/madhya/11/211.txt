@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.211",
-    "h1":"Text 211",
+    "h1":"Cc. Madhya 11.211",
+    "label":"Text 211",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.211",
     "description":"After thus accepting prasāda, they all went to take rest at their respective residences, and in the evening they again came to meet Śrī Caitanya Mahāprabhu."
 }

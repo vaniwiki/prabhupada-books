@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.103",
-    "h1":"Text 103",
+    "h1":"Cc. Madhya 8.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.103",
     "description":"\"If Lord Kṛṣṇa rejected the company of the other gopīs for Śrīmatī Rādhārāṇī, we can understand that Lord Śrī Kṛṣṇa has intense affection for Her.\""
 }

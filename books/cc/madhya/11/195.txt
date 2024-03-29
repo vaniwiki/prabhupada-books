@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.195",
-    "h1":"Text 195",
+    "h1":"Cc. Madhya 11.195",
+    "label":"Text 195",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.195",
     "description":"\"Remain here peacefully and look at the cakra on the top of the temple and offer obeisances. As far as your prasāda is concerned, I shall arrange to have that sent here.\""
 }

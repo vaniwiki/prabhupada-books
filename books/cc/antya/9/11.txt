@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.11",
-    "h1":"Text 11",
+    "h1":"Cc. Antya 9.11",
+    "label":"Text 11",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.11",
     "description":"Being unable to see Śrī Caitanya Mahāprabhu, the populace outside His room would make a tumultuous sound. Thus Śrī Caitanya Mahāprabhu would go outside and tell them, \"Chant Hare Kṛṣṇa.\""
 }

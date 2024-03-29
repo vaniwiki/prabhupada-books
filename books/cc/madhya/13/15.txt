@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 13.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.15",
     "description":"While the Lord was being carried from the throne to the car, King Pratāparudra personally engaged in the Lord's service by cleansing the road with a broom that had a golden handle."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 17.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.153",
     "description":"When the Lord toured South India, He delivered many people, and when He traveled in the western sector, He similarly converted many people to Vaiṣṇavism."
 }

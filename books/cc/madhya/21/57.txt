@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.57",
-    "h1":"Text 57",
+    "h1":"Cc. Madhya 21.57",
+    "label":"Text 57",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.57",
     "description":"\"The three-fourths part of Lord Kṛṣṇa's energy is beyond our speaking power. Let us therefore hear elaborately about the remaining one fourth of His energy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.95",
-    "h1":"Text 95",
+    "h1":"Cc. Antya 3.95",
+    "label":"Text 95",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.95",
     "description":"The transcendental qualities of Haridāsa Ṭhākura are innumerable and unfathomable. One may describe a portion of them, but to count them all is impossible."
 }

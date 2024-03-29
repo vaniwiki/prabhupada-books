@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.395",
-    "h1":"Text 395",
+    "h1":"Cc. Madhya 20.395",
+    "label":"Text 395",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.395",
     "description":"\"Since all Kṛṣṇa's pastimes are taking place continuously, at every moment some pastime is existing in one universe or another. Consequently these pastimes are called eternal by the Vedas and Purāṇas."
 }

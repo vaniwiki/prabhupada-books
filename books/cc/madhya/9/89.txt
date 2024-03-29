@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.89",
-    "h1":"Text 89",
+    "h1":"Cc. Madhya 9.89",
+    "label":"Text 89",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.89",
     "description":"Many hundreds of thousands of people from various countries came to see the Lord, and after seeing Him they all chanted the Hare Kṛṣṇa mahā-mantra."
 }

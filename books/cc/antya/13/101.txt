@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.101",
-    "h1":"Text 101",
+    "h1":"Cc. Antya 13.101",
+    "label":"Text 101",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.101",
     "description":"Raghunātha Bhaṭṭa fell straight as a rod at the lotus feet of Śrī Caitanya Mahāprabhu. Then the Lord embraced him, knowing well who he was."
 }

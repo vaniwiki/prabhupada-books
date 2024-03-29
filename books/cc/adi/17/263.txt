@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.263",
-    "h1":"Text 263",
+    "h1":"Cc. Ādi 17.263",
+    "label":"Text 263",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.263",
     "description":"\"If these rogues offer Me obeisances, the reactions of their sinful activities will be nullified. Then, if I induce them, they will take to devotional service."
 }

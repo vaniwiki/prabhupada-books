@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.60",
-    "h1":"Text 60",
+    "h1":"Cc. Ādi 11.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.60",
     "description":"I have briefly described only some of the followers and devotees of Lord Nityānanda Prabhu. Even the thousand-mouthed Śeṣa Nāga cannot describe all of these unlimited devotees."
 }

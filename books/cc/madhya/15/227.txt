@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.227",
-    "h1":"Text 227",
+    "h1":"Cc. Madhya 15.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.227",
     "description":"\"I hope the food has already been offered to Kṛṣṇa, since I see there are tulasī flowers over the plates."
 }

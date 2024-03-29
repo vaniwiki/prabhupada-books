@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.71",
-    "h1":"Text 71",
+    "h1":"Cc. Ādi 6.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.71",
     "description":"\"O My Lord, O My husband, O most dearly beloved! O mighty-armed Lord! Where are You? Where are You? O My friend, reveal Yourself to Your maidservant, who is very much aggrieved by Your absence.\""
 }

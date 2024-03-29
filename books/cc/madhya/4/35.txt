@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.35",
-    "h1":"Text 35",
+    "h1":"Cc. Madhya 4.35",
+    "label":"Text 35",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.35",
     "description":"In a dream Mādhavendra Purī saw the very same boy. The boy came before him and, holding his hand, took him to a bush in the jungle."
 }

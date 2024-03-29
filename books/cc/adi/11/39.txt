@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.39",
-    "h1":"Text 39",
+    "h1":"Cc. Ādi 11.39",
+    "label":"Text 39",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.39",
     "description":"From birth, Puruṣottama dāsa was merged in the service of the lotus feet of Lord Nityānanda Prabhu, and he always engaged in childish play with Lord Kṛṣṇa."
 }

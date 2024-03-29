@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.47",
-    "h1":"Text 47",
+    "h1":"Cc. Madhya 9.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.47",
     "description":"One of them was a leader of the Buddhist cult and was a very learned scholar. To establish the nine philosophical conclusions of Buddhism, he came before the Lord and began to speak."
 }

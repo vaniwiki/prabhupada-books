@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 17.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.41",
     "description":"When all the tigers and does danced and jumped, Balabhadra Bhaṭṭācārya saw them and was struck with wonder."
 }

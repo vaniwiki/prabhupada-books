@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.236",
-    "h1":"Text 236",
+    "h1":"Cc. Antya 4.236",
+    "label":"Text 236",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.236",
     "description":"These three-Rūpa Gosvāmī, Sanātana Gosvāmī and Jīva Gosvāmī-are my spiritual masters, and so also is Raghunātha dāsa Gosvāmī. I therefore offer prayers at their lotus feet, for I am their servant."
 }

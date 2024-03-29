@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 21.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 21.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 21.60",
     "description":"\"When Kṛṣṇa was so informed, He immediately asked the doorman, 'Which Brahmā? What is his name?' The doorman therefore returned and questioned Lord Brahmā."
 }

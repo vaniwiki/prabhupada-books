@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.206",
-    "h1":"Text 206",
+    "h1":"Cc. Madhya 3.206",
+    "label":"Text 206",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.206",
     "description":"The next day, Lord Caitanya Mahāprabhu requested all the devotees to return to their respective homes."
 }

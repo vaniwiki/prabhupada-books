@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.210",
-    "h1":"Text 210",
+    "h1":"Cc. Ādi 4.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.210",
     "description":"The gopīs are the helpers, teachers, friends, wives, dear disciples, confidantes and serving maids of Lord Kṛṣṇa."
 }

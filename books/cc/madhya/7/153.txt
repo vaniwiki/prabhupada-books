@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.153",
-    "h1":"Text 153",
+    "h1":"Cc. Madhya 7.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.153",
     "description":"I admit that I do not know the beginning or the end of Śrī Caitanya Mahāprabhu's pastimes. However, whatever I have written I have heard from the mouths of great personalities."
 }

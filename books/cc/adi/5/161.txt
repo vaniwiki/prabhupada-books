@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.161",
-    "h1":"Text 161",
+    "h1":"Cc. Ādi 5.161",
+    "label":"Text 161",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.161",
     "description":"Lord Nityānanda Prabhu had a servant named Śrī Mīnaketana Rāmadāsa, who was a reservoir of love."
 }

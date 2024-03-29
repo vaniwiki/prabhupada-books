@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.88",
-    "h1":"Text 88",
+    "h1":"Cc. Madhya 1.88",
+    "label":"Text 88",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.88",
     "description":"The last twelve years of Śrī Caitanya Mahāprabhu were passed in this transcendental craziness. Thus He executed His last pastimes in three ways."
 }

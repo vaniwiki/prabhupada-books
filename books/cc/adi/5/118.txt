@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.118",
-    "h1":"Text 118",
+    "h1":"Cc. Ādi 5.118",
+    "label":"Text 118",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.118",
     "description":"His thousands of extended hoods are adorned with dazzling jewels surpassing the sun."
 }

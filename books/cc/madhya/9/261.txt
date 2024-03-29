@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.261",
-    "h1":"Text 261",
+    "h1":"Cc. Madhya 9.261",
+    "label":"Text 261",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.261",
     "description":"\"When one comes to the platform of loving service to Lord Kṛṣṇa by executing these nine processes beginning with hearing and chanting, he has attained the fifth platform of success and the limit of life's goals."
 }

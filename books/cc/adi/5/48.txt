@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.48",
-    "h1":"Text 48",
+    "h1":"Cc. Ādi 5.48",
+    "label":"Text 48",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.48",
     "description":"That Saṅkarṣaṇa, who is transcendental pure goodness, is a partial expansion of Nityānanda Balarāma."
 }

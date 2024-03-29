@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 5.208",
-    "h1":"Text 208",
+    "h1":"Cc. Ādi 5.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 5.208",
     "description":"Because He is intoxicated by ecstatic love and is an incarnation of mercy, He does not distinguish between the good and the bad."
 }

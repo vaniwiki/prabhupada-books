@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.22",
-    "h1":"Text 22",
+    "h1":"Cc. Madhya 2.22",
+    "label":"Text 22",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.22",
     "description":"\"In My loving affairs there is a person named Madana. His qualities are thus: Personally He possesses no gross body, yet He is very expert in giving pains to others. He has five arrows, and fixing them on His bow, He shoots them into the bodies of innocent women. Thus these women become invalids. It would be better if He took My life without hesitation, but He does not do so. He simply gives Me pain."
 }

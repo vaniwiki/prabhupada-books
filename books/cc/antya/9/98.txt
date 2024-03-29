@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.98",
-    "h1":"Text 98",
+    "h1":"Cc. Antya 9.98",
+    "label":"Text 98",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.98",
     "description":"The King replied, \"I have no desire to give pain to Gopīnātha Paṭṭanāyaka and his family, nor did I know about his being lifted on the cāṅga to be thrown on the swords and killed."
 }

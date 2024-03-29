@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.189",
-    "h1":"Text 189",
+    "h1":"Cc. Madhya 25.189",
+    "label":"Text 189",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.189",
     "description":"Later Hussain Khān somehow or other was appointed Nawab by the central Mohammedan government. As a matter of obligation, he increased the opulences of Subuddhi Rāya."
 }

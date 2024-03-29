@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.198",
-    "h1":"Text 198",
+    "h1":"Cc. Madhya 12.198",
+    "label":"Text 198",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.198",
     "description":"After taking their lunch, all the Vaiṣṇavas stood up and chanted the holy name of Hari, and the resounding noise filled all the upper and lower planetary systems."
 }

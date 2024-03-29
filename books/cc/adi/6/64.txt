@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 6.64",
-    "h1":"Text 64",
+    "h1":"Cc. Ādi 6.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 6.64",
     "description":"\"Some of the friends of Śrī Kṛṣṇa, the Supreme Personality of Godhead, massaged His feet, and others whose sinful reactions had been destroyed fanned Him with hand-held fans.\""
 }

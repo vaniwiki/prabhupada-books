@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18",
-    "h1":"Chapter 18",
+    "h1":"Lord Śrī Caitanya Mahāprabhu’s Visit to Śrī Vṛndāvana",
+    "label":"Chapter 18",
     "title":"Cc. Madhya 18: Lord Śrī Caitanya Mahāprabhu’s Visit to Śrī Vṛndāvana",
     "description":""
 }

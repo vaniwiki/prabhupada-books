@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.77",
-    "h1":"Text 77",
+    "h1":"Cc. Madhya 10.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.77",
     "description":"This good news gave much pleasure to mother Śacī, as well as to all the devotees of Navadvīpa, headed by Śrīvāsa Ṭhākura."
 }

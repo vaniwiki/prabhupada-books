@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.8",
-    "h1":"Text 8",
+    "h1":"Cc. Ādi 13.8",
+    "label":"Text 8",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.8",
     "description":"Lord Śrī Caitanya Mahāprabhu, adventing Himself in Navadvīpa, was visible for forty-eight years, enjoying His pastimes."
 }

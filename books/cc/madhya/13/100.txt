@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.100",
-    "h1":"Text 100",
+    "h1":"Cc. Madhya 13.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.100",
     "description":"The goddess of fortune, Subhadrā, and Lord Balarāma both felt great happiness and ecstasy within Their hearts. Indeed, They were seen smiling at the dancing."
 }

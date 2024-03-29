@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.210",
-    "h1":"Text 210",
+    "h1":"Cc. Antya 3.210",
+    "label":"Text 210",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.210",
     "description":"The brāhmaṇa's toes and fingers were beautiful like golden-colored campaka buds, but because of leprosy they all withered and gradually melted away."
 }

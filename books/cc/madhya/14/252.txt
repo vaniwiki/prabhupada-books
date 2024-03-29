@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 14.252",
-    "h1":"Text 252",
+    "h1":"Cc. Madhya 14.252",
+    "label":"Text 252",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 14.252",
     "description":"After receiving orders from the Lord for the rendering of service, the fortunate Satyarāja and Rāmānanda Vasu were highly pleased."
 }

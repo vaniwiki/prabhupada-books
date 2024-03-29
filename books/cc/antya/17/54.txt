@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 17.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.54",
     "description":"Suddenly, Śrī Caitanya Mahāprabhu became calm and considered His state of mind. He remembered the words of Piṅgalā, and this aroused an ecstasy that moved Him to speak. Thus He explained the meaning of the verse."
 }

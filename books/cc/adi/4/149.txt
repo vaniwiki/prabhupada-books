@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.149",
-    "h1":"Text 149",
+    "h1":"Cc. Ādi 4.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.149",
     "description":"The thirst of one who always drinks the nectar of that sweetness is never satisfied. Rather, that thirst increases constantly."
 }

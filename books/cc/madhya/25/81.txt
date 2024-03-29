@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.81",
-    "h1":"Text 81",
+    "h1":"Cc. Madhya 25.81",
+    "label":"Text 81",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.81",
     "description":"Prakāśānanda replied, \"You are the Supreme Personality of Godhead, Kṛṣṇa Himself. Nonetheless, You are considering Yourself His eternal servant."
 }

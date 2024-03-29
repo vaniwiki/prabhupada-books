@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 6.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.69",
     "description":"Others, who could not get a place even on the bank of the Ganges, got down into the water and began eating their two kinds of chipped rice."
 }

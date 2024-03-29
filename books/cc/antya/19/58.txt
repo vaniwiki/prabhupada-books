@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 19.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.58",
     "description":"Feeling separation from Kṛṣṇa, Śrī Caitanya Mahāprabhu was so distraught that in great anxiety He stood up and began rubbing His face against the walls of the Gambhīrā."
 }

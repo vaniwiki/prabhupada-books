@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.40",
-    "h1":"Text 40",
+    "h1":"Cc. Madhya 22.40",
+    "label":"Text 40",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.40",
     "description":"\" 'Whenever Kṛṣṇa is requested to fulfill one's desire, He undoubtedly does so, but He does not award anything which, after being enjoyed, will cause someone to petition Him again and again to fulfill further desires. When one has other desires but engages in the Lord's service, Kṛṣṇa forcibly gives one shelter at His lotus feet, where one will forget all other desires.'"
 }

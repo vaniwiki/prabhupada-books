@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.13",
-    "h1":"Text 13",
+    "h1":"Cc. Antya 1.13",
+    "label":"Text 13",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.13",
     "description":"When Śrī Caitanya Mahāprabhu returned to Jagannātha Purī from Vṛndāvana, Svarūpa Dāmodara Gosāñi immediately sent news of the Lord's arrival to the devotees in Bengal."
 }

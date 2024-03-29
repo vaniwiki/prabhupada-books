@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 8.100",
-    "h1":"Text 100",
+    "h1":"Cc. Antya 8.100",
+    "label":"Text 100",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 8.100",
     "description":"Śrī Caitanya Mahāprabhu did not consider the offenses of Rāmacandra Purī, for the Lord considered him His spiritual master. However, his character instructed everyone about the result of offending the spiritual master."
 }

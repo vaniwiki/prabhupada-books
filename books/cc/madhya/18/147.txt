@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.147",
-    "h1":"Text 147",
+    "h1":"Cc. Madhya 18.147",
+    "label":"Text 147",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.147",
     "description":"\"Tell the Lord of the happiness you will feel in traveling via the banks of the Ganges.\" Balabhadra Bhaṭṭācārya therefore submitted this prayer to Śrī Caitanya Mahāprabhu."
 }

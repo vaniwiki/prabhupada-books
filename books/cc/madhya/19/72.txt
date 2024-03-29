@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 19.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.72",
     "description":"Vallabha Bhaṭṭācārya then recited the following verse: \" 'My dear Lord, one who always keeps Your holy name on his tongue becomes greater than an initiated brāhmaṇa. Although he may be born in a family of dog-eaters and may therefore, by material calculation, be the lowest among men, he is still glorious. This is the wonderful effect of chanting the holy name of the Lord. It is therefore concluded that one who chants the holy name of the Lord should be understood to have performed all kinds of austerities and great sacrifices mentioned in the Vedas. He has already taken his bath in all the holy places of pilgrimage. He has studied all the Vedas, and he is actually an Āryan.' \""
 }

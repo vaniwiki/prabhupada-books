@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.68",
-    "h1":"Text 68",
+    "h1":"Cc. Ādi 3.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.68",
     "description":"According to the evidence of the revealed scriptures, a bodily limb [aṅga] is also called a part [aṁśa], and a part of a limb is called a partial part [upāṅga]."
 }

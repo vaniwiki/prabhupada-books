@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.90",
-    "h1":"Text 90",
+    "h1":"Cc. Madhya 7.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.90",
     "description":"Śrī Caitanya Mahāprabhu then passed the night there and discussed the pastimes of Lord Kṛṣṇa with His devotees with great pleasure."
 }

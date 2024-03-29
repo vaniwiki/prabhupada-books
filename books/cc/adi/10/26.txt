@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.26",
-    "h1":"Text 26",
+    "h1":"Cc. Ādi 10.26",
+    "label":"Text 26",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.26",
     "description":"The foods Damayantī cooked for Lord Caitanya when He was at Purī were carried in bags by her brother Rāghava without the knowledge of others."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 10.60",
-    "h1":"Text 60",
+    "h1":"Cc. Madhya 10.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 10.60",
     "description":"Saying this, Śrī Caitanya Mahāprabhu embraced Bhavānanda Rāya. The Lord then touched the heads of his sons with His lotus feet."
 }

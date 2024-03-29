@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 13.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.69",
     "description":"Soon afterward, Sanātana Gosvāmī selected a place where Śrī Caitanya Mahāprabhu could stay while in Vṛndāvana. It was a temple in the highlands named Dvādaśāditya-ṭilā."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 18.128",
-    "h1":"Text 128",
+    "h1":"Cc. Madhya 18.128",
+    "label":"Text 128",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 18.128",
     "description":"Śrī Caitanya Mahāprabhu remained for some days in Akrūra-tīrtha. He delivered everyone there simply by distributing the holy name of Kṛṣṇa and ecstatic love for the Lord."
 }

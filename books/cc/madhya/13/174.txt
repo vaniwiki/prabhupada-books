@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.174",
-    "h1":"Text 174",
+    "h1":"Cc. Madhya 13.174",
+    "label":"Text 174",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.174",
     "description":"Upon seeing all these symptoms, everyone's mind and consciousness were attracted. Indeed, the Lord sprinkled everyone's mind with the nectar of transcendental love of Godhead."
 }

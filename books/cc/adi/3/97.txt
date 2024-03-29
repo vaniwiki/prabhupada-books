@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.97",
-    "h1":"Text 97",
+    "h1":"Cc. Ādi 3.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.97",
     "description":"Everyone was engaged in material enjoyment, whether sinfully or virtuously. No one was interested in the transcendental service of the Lord, which can give total relief from the repetition of birth and death."
 }

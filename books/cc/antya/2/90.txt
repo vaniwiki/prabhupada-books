@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.90",
-    "h1":"Text 90",
+    "h1":"Cc. Antya 2.90",
+    "label":"Text 90",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.90",
     "description":"Bhagavān Ācārya took his brother to meet Śrī Caitanya Mahāprabhu, but the Lord, knowing that Gopāla Bhaṭṭācārya was a Māyāvādī philosopher, could not get much happiness from meeting him."
 }

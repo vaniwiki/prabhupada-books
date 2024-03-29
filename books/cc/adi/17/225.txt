@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.225",
-    "h1":"Text 225",
+    "h1":"Cc. Ādi 17.225",
+    "label":"Text 225",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.225",
     "description":"The Lord asked the Kazi to go back home. Then the son of mother Śacī came back to His own home, dancing and dancing."
 }

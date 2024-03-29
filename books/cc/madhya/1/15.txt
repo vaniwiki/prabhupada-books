@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.15",
-    "h1":"Text 15",
+    "h1":"Cc. Madhya 1.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.15",
     "description":"For twenty-four years, Lord Śrī Caitanya Mahāprabhu remained at home, and whatever pastimes He performed during that time are called the ādi-līlā."
 }

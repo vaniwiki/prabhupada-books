@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 14.53",
-    "h1":"Text 53",
+    "h1":"Cc. Antya 14.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 14.53",
     "description":"\"The ten bodily transformations resulting from separation from Kṛṣṇa are anxiety, wakefulness, mental agitation, thinness, uncleanliness, talking like a madman, disease, madness, illusion and death.\""
 }

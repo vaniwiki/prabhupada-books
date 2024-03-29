@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.192",
-    "h1":"Text 192",
+    "h1":"Cc. Madhya 4.192",
+    "label":"Text 192",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.192",
     "description":"Continuous rubbing increases the aroma of Malaya sandalwood. Similarly, consideration of this verse increases one's understanding of its importance."
 }

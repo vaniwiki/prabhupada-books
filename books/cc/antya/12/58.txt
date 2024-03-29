@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.58",
-    "h1":"Text 58",
+    "h1":"Cc. Antya 12.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.58",
     "description":"Śrī Caitanya Mahāprabhu said, \"Parameśvara, may you be blessed. It is very good that you have come here.\" Parameśvara then informed the Lord, \"Mukundāra Mātā has also come.\""
 }

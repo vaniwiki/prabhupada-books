@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.79",
-    "h1":"Text 79",
+    "h1":"Cc. Ādi 8.79",
+    "label":"Text 79",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.79",
     "description":"As a wooden doll is made to dance by a magician, I write as Madana-gopāla orders me to do so."
 }

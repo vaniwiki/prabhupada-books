@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 13.121",
-    "h1":"Text 121",
+    "h1":"Cc. Ādi 13.121",
+    "label":"Text 121",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 13.121",
     "description":"After calculating the birth moment of Lord Caitanya Mahāprabhu, Nīlāmbara Cakravartī privately said to Jagannātha Miśra that he saw all the different symptoms of a great personality in both the body and birth moment of the child. Thus he understood that in the future this child would deliver all the three worlds."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 4.134",
-    "h1":"Text 134",
+    "h1":"Cc. Antya 4.134",
+    "label":"Text 134",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 4.134",
     "description":"Although Sanātana Gosvāmī forbade Śrī Caitanya Mahāprabhu to embrace him, the Lord did so. Thus His body was smeared with the moisture from Sanātana's body, and Sanātana became greatly distressed."
 }

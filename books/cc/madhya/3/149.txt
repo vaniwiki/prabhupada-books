@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.149",
-    "h1":"Text 149",
+    "h1":"Cc. Madhya 3.149",
+    "label":"Text 149",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.149",
     "description":"Saying this, the Lord offered obeisances to His mother again and again, and mother Śacī, being pleased, took Him again and again on her lap."
 }

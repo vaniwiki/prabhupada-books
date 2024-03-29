@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 19.31",
-    "h1":"Text 31",
+    "h1":"Cc. Antya 19.31",
+    "label":"Text 31",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 19.31",
     "description":"As His feelings of separation in the ecstasy of Śrīmatī Rādhārāṇī increased at every moment, the Lord's activities, both day and night, were now wild, insane performances."
 }

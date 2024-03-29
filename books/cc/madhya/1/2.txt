@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.2",
-    "h1":"Text 2",
+    "h1":"Cc. Madhya 1.2",
+    "label":"Text 2",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.2",
     "description":"I offer my respectful obeisances unto Śrī Kṛṣṇa Caitanya and Lord Nityānanda, who are like the sun and moon. They have arisen simultaneously on the horizon of Gauḍa to dissipate the darkness of ignorance and thus wonderfully bestow benediction upon all."
 }

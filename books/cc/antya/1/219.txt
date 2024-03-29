@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.219",
-    "h1":"Text 219",
+    "h1":"Cc. Antya 1.219",
+    "label":"Text 219",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.219",
     "description":"\"Establish the service of Lord Kṛṣṇa and preach the mellows of Lord Kṛṣṇa's devotional service. I shall also go to Vṛndāvana once more.\""
 }

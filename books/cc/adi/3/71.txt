@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.71",
-    "h1":"Text 71",
+    "h1":"Cc. Ādi 3.71",
+    "label":"Text 71",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.71",
     "description":"The word \"aṅga\" indeed refers to plenary portions. Such manifestations should never be considered products of material nature, for they are all transcendental, full of knowledge and full of bliss."
 }

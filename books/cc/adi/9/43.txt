@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 9.43",
-    "h1":"Text 43",
+    "h1":"Cc. Ādi 9.43",
+    "label":"Text 43",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 9.43",
     "description":"\" 'By his work, thoughts and words, an intelligent man must perform actions which will be beneficial for all living entities in this life and in the next.'"
 }

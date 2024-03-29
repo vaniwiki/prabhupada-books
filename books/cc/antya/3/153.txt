@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.153",
-    "h1":"Text 153",
+    "h1":"Cc. Antya 3.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.153",
     "description":"\"You might go to the house of a milkman, for the cow shed is spacious, whereas the space here in the Durgā-maṇḍapa is insufficient because You have many followers with You.\""
 }

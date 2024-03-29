@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.197",
-    "h1":"Text 197",
+    "h1":"Cc. Madhya 3.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.197",
     "description":"Lord Caitanya Mahāprabhu assured Haridāsa Ṭhākura that He would place a petition before Lord Jagannātha and that He would certainly take him there to Jagannātha Purī."
 }

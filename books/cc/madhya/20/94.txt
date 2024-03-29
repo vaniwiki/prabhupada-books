@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.94",
-    "h1":"Text 94",
+    "h1":"Cc. Madhya 20.94",
+    "label":"Text 94",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.94",
     "description":"Being pleased with Sanātana Gosvāmī, Śrī Caitanya Mahāprabhu bestowed His causeless mercy upon him. By the Lord's mercy, Sanātana Gosvāmī received the spiritual strength to inquire from Him."
 }

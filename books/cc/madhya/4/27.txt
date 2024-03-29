@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.27",
-    "h1":"Text 27",
+    "h1":"Cc. Madhya 4.27",
+    "label":"Text 27",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.27",
     "description":"Mādhavendra Purī said, \"Who are You ? Where do You reside? And how did You know that I was fasting?\""
 }

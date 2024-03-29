@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.49",
-    "h1":"Text 49",
+    "h1":"Cc. Ādi 3.49",
+    "label":"Text 49",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 3.49",
     "description":"\"In His early pastimes He appears as a householder with a golden complexion. His limbs are beautiful, and His body, smeared with the pulp of sandalwood, seems like molten gold. In His later pastimes He accepts the sannyāsa order, and He is equipoised and peaceful. He is the highest abode of peace and devotion, for He silences the impersonalist nondevotees.\""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.153",
-    "h1":"Text 153",
+    "h1":"Cc. Ādi 17.153",
+    "label":"Text 153",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.153",
     "description":"The Lord said, \"You drink cows' milk; therefore the cow is your mother. And the bull produces grains for your maintenance; therefore he is your father."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.239",
-    "h1":"Text 239",
+    "h1":"Cc. Madhya 11.239",
+    "label":"Text 239",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.239",
     "description":"The superintendent of the temple then brought large quantities of prasāda, which Śrī Caitanya Mahāprabhu personally distributed to all the devotees."
 }

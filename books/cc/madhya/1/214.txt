@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.214",
-    "h1":"Text 214",
+    "h1":"Cc. Madhya 1.214",
+    "label":"Text 214",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.214",
     "description":"\"It is very good that you two brothers have come to see Me. Now you can go home. Do not fear anything."
 }

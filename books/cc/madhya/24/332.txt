@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 24.332",
-    "h1":"Text 332",
+    "h1":"Cc. Madhya 24.332",
+    "label":"Text 332",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 24.332",
     "description":"\"In the morning, one should regularly brush his teeth, take his bath, offer prayers to the Lord and offer obeisances to the spiritual master. One should render service to the spiritual master and paint one's body in twelve places with ūrdhva-puṇḍra [tilaka]. One should stamp the holy names of the Lord on his body, or one should stamp the symbols of the Lord, such as the disc and club."
 }

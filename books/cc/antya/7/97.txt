@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.97",
-    "h1":"Text 97",
+    "h1":"Cc. Antya 7.97",
+    "label":"Text 97",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.97",
     "description":"Because Vallabha Bhaṭṭa was a learned brāhmaṇa, Gadādhara Paṇḍita could not forbid him. Thus he began to think of Lord Kṛṣṇa. \"My dear Lord Kṛṣṇa,\" he requested, \"please protect me in this danger. I have taken shelter of You."
 }

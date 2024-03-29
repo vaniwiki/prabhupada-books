@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.9",
-    "h1":"Text 9",
+    "h1":"Cc. Madhya 4.9",
+    "label":"Text 9",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.9",
     "description":"I thus offer my respectful obeisances unto the lotus feet of Vṛndāvana dāsa Ṭhākura. I hope that I will not offend his lotus feet by this action."
 }

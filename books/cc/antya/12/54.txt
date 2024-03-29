@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.54",
-    "h1":"Text 54",
+    "h1":"Cc. Antya 12.54",
+    "label":"Text 54",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.54",
     "description":"There was a resident of Nadia named Parameśvara, who was a confectioner living near the home of Śrī Caitanya Mahāprabhu."
 }

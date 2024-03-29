@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 23.116",
-    "h1":"Text 116",
+    "h1":"Cc. Madhya 23.116",
+    "label":"Text 116",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 23.116",
     "description":"In the revealed scripture Hari-vaṁśa, there is a description of Goloka Vṛndāvana, the planet where Lord Śrī Kṛṣṇa eternally resides. This information was given by King Indra when he surrendered to Kṛṣṇa and offered prayers after Kṛṣṇa had raised Govardhana Hill."
 }

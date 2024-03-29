@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.197",
-    "h1":"Text 197",
+    "h1":"Cc. Antya 1.197",
+    "label":"Text 197",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.197",
     "description":"Śrī Caitanya Mahāprabhu replied, \"I met Śrīla Rūpa Gosvāmī at Prayāga. He attracted and satisfied Me because of his qualities.\""
 }

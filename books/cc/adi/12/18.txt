@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.18",
-    "h1":"Text 18",
+    "h1":"Cc. Ādi 12.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.18",
     "description":"Kṛṣṇa Miśra was a son of Advaita Ācārya. Lord Caitanya Mahāprabhu always sat in his heart."
 }

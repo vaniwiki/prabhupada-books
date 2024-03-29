@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.229",
-    "h1":"Text 229",
+    "h1":"Cc. Ādi 4.229",
+    "label":"Text 229",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.229",
     "description":"I have given a hint of the sixth verse. Now please hear as I reveal the meaning of that original verse."
 }

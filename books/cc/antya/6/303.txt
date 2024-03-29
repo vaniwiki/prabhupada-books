@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.303",
-    "h1":"Text 303",
+    "h1":"Cc. Antya 6.303",
+    "label":"Text 303",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.303",
     "description":"After Raghunātha dāsa had thus worshiped the govardhana-śilā for some time, Svarūpa Dāmodara one day spoke to him as follows."
 }

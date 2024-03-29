@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 5.163",
-    "h1":"Text 163",
+    "h1":"Cc. Antya 5.163",
+    "label":"Text 163",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 5.163",
     "description":"Anyone who reads and hears these pastimes with faith and love can understand the truth about devotional service, devotees and the transcendental mellows of the pastimes of Lord Śrī Caitanya Mahāprabhu."
 }

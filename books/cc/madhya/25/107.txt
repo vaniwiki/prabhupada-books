@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.107",
-    "h1":"Text 107",
+    "h1":"Cc. Madhya 25.107",
+    "label":"Text 107",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.107",
     "description":"\" 'I shall explain to you My actual form and situation, My attributes, activities and six opulences.'"
 }

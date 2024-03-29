@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.215",
-    "h1":"Text 215",
+    "h1":"Cc. Madhya 11.215",
+    "label":"Text 215",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.215",
     "description":"Four parties were then distributed in four directions to perform saṅkīrtana, and in the middle of them the Lord Himself, known as the son of mother Śacī, began to dance."
 }

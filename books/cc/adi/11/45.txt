@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.45",
-    "h1":"Text 45",
+    "h1":"Cc. Ādi 11.45",
+    "label":"Text 45",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.45",
     "description":"The thirty-first devotee of Lord Nityānanda Prabhu was Paramānanda Gupta, who was greatly devoted to Lord Kṛṣṇa and highly advanced in spiritual consciousness. Formerly Nityānanda Prabhu also resided at his house for some time."
 }

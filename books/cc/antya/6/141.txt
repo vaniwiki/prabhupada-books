@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.141",
-    "h1":"Text 141",
+    "h1":"Cc. Antya 6.141",
+    "label":"Text 141",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.141",
     "description":"\"Lord Śrī Caitanya Mahāprabhu, Gaurahari, came here personally to deliver you. Now rest assured that all the impediments meant for your bondage are gone."
 }

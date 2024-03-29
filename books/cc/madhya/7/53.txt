@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.53",
-    "h1":"Text 53",
+    "h1":"Cc. Madhya 7.53",
+    "label":"Text 53",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.53",
     "description":"Later I shall tell about this in elaborate detail, but at present I wish to describe Śrī Caitanya Mahāprabhu's South Indian tour."
 }

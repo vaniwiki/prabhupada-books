@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.164",
-    "h1":"Text 164",
+    "h1":"Cc. Madhya 22.164",
+    "label":"Text 164",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.164",
     "description":"\"If one engages in spontaneous loving service to the Lord, his affection at the lotus feet of Kṛṣṇa gradually increases."
 }

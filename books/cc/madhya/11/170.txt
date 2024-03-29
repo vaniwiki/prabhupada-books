@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.170",
-    "h1":"Text 170",
+    "h1":"Cc. Madhya 11.170",
+    "label":"Text 170",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.170",
     "description":"Upon seeing all the Vaiṣṇavas together, Kāśī Miśra and the superintendent became very happy. With great happiness they met with the devotees in a befitting manner."
 }

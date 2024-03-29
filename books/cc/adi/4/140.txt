@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.140",
-    "h1":"Text 140",
+    "h1":"Cc. Ādi 4.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.140",
     "description":"\"Although Rādhā's love is pure like a mirror, its purity increases at every moment."
 }

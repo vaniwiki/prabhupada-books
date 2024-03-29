@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 2.64",
-    "h1":"Text 64",
+    "h1":"Cc. Antya 2.64",
+    "label":"Text 64",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 2.64",
     "description":"\"My dear Lord, You are one with Jagannātha; therefore I have no objection to Your eating His offering. But why are You touching the offering to Lord Nṛsiṁhadeva?"
 }

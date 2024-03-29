@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.312",
-    "h1":"Text 312",
+    "h1":"Cc. Antya 6.312",
+    "label":"Text 312",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.312",
     "description":"He never touched anything to wear except a small torn cloth and a patchwork wrapper. Thus he very rigidly executed the order of Śrī Caitanya Mahāprabhu."
 }

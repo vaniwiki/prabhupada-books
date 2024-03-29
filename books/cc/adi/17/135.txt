@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.135",
-    "h1":"Text 135",
+    "h1":"Cc. Ādi 17.135",
+    "label":"Text 135",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.135",
     "description":"In the evening Lord Gaurasundara went out and formed three parties to perform kīrtana."
 }

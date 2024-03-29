@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.104",
-    "h1":"Text 104",
+    "h1":"Cc. Madhya 22.104",
+    "label":"Text 104",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.104",
     "description":"\"My dear Sanātana, please now hear about the regulative principles for the execution of devotional service. By this process, one can attain the highest perfection of love of Godhead, which is the most desirable treasure."
 }

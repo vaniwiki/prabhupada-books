@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.46",
-    "h1":"Text 46",
+    "h1":"Cc. Antya 1.46",
+    "label":"Text 46",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.46",
     "description":"Out of affectionate love and mercy, Haridāsa Ṭhākura told Śrīla Rūpa Gosvāmī, \"Śrī Caitanya Mahāprabhu has already informed me that you would come here.\""
 }

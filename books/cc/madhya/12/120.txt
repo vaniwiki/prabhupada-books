@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 12.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.120",
     "description":"In this way the meeting place was washed, the entire yard, the raised sitting places, the kitchen and every other room."
 }

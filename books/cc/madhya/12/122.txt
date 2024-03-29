@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.122",
-    "h1":"Text 122",
+    "h1":"Cc. Madhya 12.122",
+    "label":"Text 122",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.122",
     "description":"After everything was thoroughly washed, a Vaiṣṇava from Bengal, who was very intelligent and simple, came and poured water on the lotus feet of the Lord."
 }

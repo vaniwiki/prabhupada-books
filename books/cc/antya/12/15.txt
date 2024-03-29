@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 12.15",
-    "h1":"Text 15",
+    "h1":"Cc. Antya 12.15",
+    "label":"Text 15",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 12.15",
     "description":"Śivānanda Sena managed the payment of tolls at different places. Maintaining everyone, he guided all the devotees in great happiness."
 }

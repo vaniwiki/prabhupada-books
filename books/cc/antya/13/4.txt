@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 13.4",
-    "h1":"Text 4",
+    "h1":"Cc. Antya 13.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 13.4",
     "description":"The unhappiness of separation from Kṛṣṇa exhausted the Lord's mind and reduced the structure of His body, but when He felt emotions of ecstatic love, He again became developed and healthy."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.84",
-    "h1":"Text 84",
+    "h1":"Cc. Ādi 12.84",
+    "label":"Text 84",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.84",
     "description":"The fifteenth branch was Śrīnātha Cakravartī; the sixteenth, Uddhava; the seventeenth, Jitāmitra; and the eighteenth, Jagannātha dāsa."
 }

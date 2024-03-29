@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 17.188",
-    "h1":"Text 188",
+    "h1":"Cc. Madhya 17.188",
+    "label":"Text 188",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 17.188",
     "description":"People came by hundreds of thousands, and no one could count them. Therefore Śrī Caitanya Mahāprabhu came out of the house to give audience to the people."
 }

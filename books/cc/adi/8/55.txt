@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.55",
-    "h1":"Text 55",
+    "h1":"Cc. Ādi 8.55",
+    "label":"Text 55",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.55",
     "description":"He was gentle, tolerant, peaceful, magnanimous, grave, sweet in his words and very sober in his endeavors."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.293",
-    "h1":"Text 293",
+    "h1":"Cc. Madhya 9.293",
+    "label":"Text 293",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.293",
     "description":"In this way they discussed topics about Lord Kṛṣṇa continually for five to seven days."
 }

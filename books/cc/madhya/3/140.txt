@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.140",
-    "h1":"Text 140",
+    "h1":"Cc. Madhya 3.140",
+    "label":"Text 140",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.140",
     "description":"As soon as mother Śacī appeared on the scene, Caitanya Mahāprabhu fell before her like a stick. Mother Śacī began to cry, taking the Lord on her lap."
 }

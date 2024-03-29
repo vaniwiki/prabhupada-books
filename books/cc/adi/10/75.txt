@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 10.75",
-    "h1":"Text 75",
+    "h1":"Cc. Ādi 10.75",
+    "label":"Text 75",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 10.75",
     "description":"Garuḍa Paṇḍita, the thirty-seventh branch of the tree, always engaged in chanting the auspicious name of the Lord. Because of the strength of this chanting, even the effects of poison could not touch him."
 }

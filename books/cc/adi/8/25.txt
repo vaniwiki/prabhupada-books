@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 8.25",
-    "h1":"Text 25",
+    "h1":"Cc. Ādi 8.25",
+    "label":"Text 25",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 8.25",
     "description":"\"If one's heart does not change, tears do not flow from his eyes, his body does not shiver, and his bodily hairs do not stand on end as he chants the Hare Kṛṣṇa mahā-mantra, it should be understood that his heart is as hard as iron. This is due to his offenses at the lotus feet of the Lord's holy name.\""
 }

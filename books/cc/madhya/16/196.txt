@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.196",
-    "h1":"Text 196",
+    "h1":"Cc. Madhya 16.196",
+    "label":"Text 196",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.196",
     "description":"One of the boats had been newly constructed, and it had a room in the middle. It was on this boat that they put Śrī Caitanya Mahāprabhu and His associates."
 }

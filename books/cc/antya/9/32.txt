@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.32",
-    "h1":"Text 32",
+    "h1":"Cc. Antya 9.32",
+    "label":"Text 32",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.32",
     "description":"\"Gopīnātha Paṭṭanāyaka is in charge of collecting money on behalf of the government, but he misappropriates it. Not fearing the King, he squanders it to see dancing girls."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.216",
-    "h1":"Text 216",
+    "h1":"Cc. Madhya 19.216",
+    "label":"Text 216",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.216",
     "description":"\" 'A person who is devoted to the Supreme Personality of Godhead, Nārāyaṇa, is not afraid of anything. Elevation to the heavenly kingdom, condemnation to hell and liberation from material bondage all appear the same to a devotee.'"
 }

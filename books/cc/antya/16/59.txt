@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.59",
-    "h1":"Text 59",
+    "h1":"Cc. Antya 16.59",
+    "label":"Text 59",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.59",
     "description":"The remnants of food offered to Lord Kṛṣṇa are called mahā-prasāda. After this same mahā-prasāda has been taken by a devotee, the remnants are elevated to mahā-mahā-prasāda."
 }

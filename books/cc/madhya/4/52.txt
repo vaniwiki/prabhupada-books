@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.52",
-    "h1":"Text 52",
+    "h1":"Cc. Madhya 4.52",
+    "label":"Text 52",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.52",
     "description":"After they cleansed the body of the Deity, some of them said, \"The Deity is very heavy. No one person can move Him.\""
 }

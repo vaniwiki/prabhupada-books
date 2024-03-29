@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.24",
-    "h1":"Text 24",
+    "h1":"Cc. Madhya 12.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.24",
     "description":"Śrī Caitanya Mahāprabhu continued, \"What to speak of spiritual advancement-all the people will blaspheme Me. And what to speak of all the people-Dāmodara would chastise Me."
 }

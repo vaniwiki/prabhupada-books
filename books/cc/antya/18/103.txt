@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 18.103",
-    "h1":"Text 103",
+    "h1":"Cc. Antya 18.103",
+    "label":"Text 103",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 18.103",
     "description":"\"The gopīs peeled all the fruits and placed them together on large plates on a platform in the jeweled cottage. They arranged the fruit in orderly rows for eating, and in front of it they made a place to sit."
 }

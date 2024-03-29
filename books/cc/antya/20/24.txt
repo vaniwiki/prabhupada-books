@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.24",
-    "h1":"Text 24",
+    "h1":"Cc. Antya 20.24",
+    "label":"Text 24",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.24",
     "description":"\"The tree delivers its fruits, flowers and whatever it possesses to anyone and everyone. It tolerates scorching heat and torrents of rain, yet it still gives shelter to others."
 }

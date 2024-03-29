@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.72",
-    "h1":"Text 72",
+    "h1":"Cc. Madhya 12.72",
+    "label":"Text 72",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.72",
     "description":"Śrī Caitanya Mahāprabhu first of all called for Kāśī Miśra, then for the superintendent of the temple, then for Sārvabhauma Bhaṭṭācārya."
 }

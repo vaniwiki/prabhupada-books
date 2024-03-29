@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.165",
-    "h1":"Text 165",
+    "h1":"Cc. Ādi 17.165",
+    "label":"Text 165",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.165",
     "description":"\"Since you Muslims cannot bring killed animals back to life, you are responsible for killing them. Therefore you are going to hell; there is no way for your deliverance."
 }

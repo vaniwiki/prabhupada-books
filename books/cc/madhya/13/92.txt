@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 13.92",
-    "h1":"Text 92",
+    "h1":"Cc. Madhya 13.92",
+    "label":"Text 92",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 13.92",
     "description":"While the King beheld the dancing, Śrīvāsa Ṭhākura, standing in front of him, became ecstatic as he saw the dancing of Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.70",
-    "h1":"Text 70",
+    "h1":"Cc. Antya 10.70",
+    "label":"Text 70",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.70",
     "description":"Raising His two arms, the Lord said, \"Chant! Chant!\" Floating in transcendental bliss, the people responded by chanting the holy name of Hari."
 }

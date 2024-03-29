@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 17.29",
-    "h1":"Text 29",
+    "h1":"Cc. Antya 17.29",
+    "label":"Text 29",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 17.29",
     "description":"In great ecstasy, Śrī Caitanya Mahāprabhu said to Svarūpa Dāmodara in a faltering voice, \"My ears are dying of thirst. Please recite something to quench this thirst. Let me hear it.\""
 }

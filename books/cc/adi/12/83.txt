@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 12.83",
-    "h1":"Text 83",
+    "h1":"Cc. Ādi 12.83",
+    "label":"Text 83",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 12.83",
     "description":"The thirteenth branch was Vāṇīnātha Brahmacārī, and the fourteenth was Vallabha-caitanya dāsa. Both of these great personalities were always filled with love of Kṛṣṇa."
 }

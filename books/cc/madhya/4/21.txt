@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 4.21",
-    "h1":"Text 21",
+    "h1":"Cc. Madhya 4.21",
+    "label":"Text 21",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 4.21",
     "description":"Once, Śrī Mādhavendra Purī traveled to Vṛndāvana, where he came upon the hill known as Govardhana."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.4",
-    "h1":"Text 4",
+    "h1":"Cc. Ādi 2.4",
+    "label":"Text 4",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.4",
     "description":"Let me describe the meaning of the third verse [of the first fourteen]. It is an auspicious vibration that describes the Absolute Truth."
 }

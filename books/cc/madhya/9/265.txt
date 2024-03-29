@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 9.265",
-    "h1":"Text 265",
+    "h1":"Cc. Madhya 9.265",
+    "label":"Text 265",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 9.265",
     "description":"\" 'Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.'"
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.115",
-    "h1":"Text 115",
+    "h1":"Cc. Madhya 15.115",
+    "label":"Text 115",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.115",
     "description":"Mukunda replied, \"Raghunandana is my father, and I am his son. This is my decision."
 }

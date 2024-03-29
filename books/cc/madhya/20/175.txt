@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.175",
-    "h1":"Text 175",
+    "h1":"Cc. Madhya 20.175",
+    "label":"Text 175",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 20.175",
     "description":"\"An example of vaibhava-prakāśa is the son of Devakī. He sometimes has two hands and sometimes four hands."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 20.66",
-    "h1":"Text 66",
+    "h1":"Cc. Antya 20.66",
+    "label":"Text 66",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 20.66",
     "description":"Although Śrī Caitanya Mahāprabhu is as deep and grave as millions of oceans, when the moon of His various emotions rises, He becomes restless."
 }

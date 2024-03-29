@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.33",
-    "h1":"Text 33",
+    "h1":"Cc. Madhya 11.33",
+    "label":"Text 33",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.33",
     "description":"Paramānanda Purī, Brahmānanda Bhāratī Gosāñi, Svarūpa Dāmodara Gosāñi, Lord Nityānanda, Jagadānanda, Mukunda and others were present before the Lord at that time."
 }

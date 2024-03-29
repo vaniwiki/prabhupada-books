@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 16.146",
-    "h1":"Text 146",
+    "h1":"Cc. Antya 16.146",
+    "label":"Text 146",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 16.146",
     "description":"\" 'When Kṛṣṇa takes His bath in universally purifying rivers like the Yamunā and the Ganges of the celestial world, the great personalities of those rivers greedily and jubilantly drink the remnants of the nectarean juice from His lips."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 3.205",
-    "h1":"Text 205",
+    "h1":"Cc. Madhya 3.205",
+    "label":"Text 205",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 3.205",
     "description":"In this way, at Advaita Ācārya's house all the devotees met and passed some days together in a greatly festive mood."
 }

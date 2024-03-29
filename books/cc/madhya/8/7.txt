@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 8.7",
-    "h1":"Text 7",
+    "h1":"Cc. Madhya 8.7",
+    "label":"Text 7",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 8.7",
     "description":"In this way Lord Śrī Caitanya Mahāprabhu recited different verses from the śāstra. The priest of Lord Nṛsiṁhadeva then brought garlands and the remnants of the Lord's food and offered them to Śrī Caitanya Mahāprabhu."
 }

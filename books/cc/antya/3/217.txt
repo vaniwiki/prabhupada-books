@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.217",
-    "h1":"Text 217",
+    "h1":"Cc. Antya 3.217",
+    "label":"Text 217",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.217",
     "description":"Haridāsa Ṭhākura accepted food daily at the house of Advaita Ācārya. Meeting together, the two of them would taste the nectar of discourses on the subject matter of Kṛṣṇa."
 }

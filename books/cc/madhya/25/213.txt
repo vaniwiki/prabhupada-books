@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 25.213",
-    "h1":"Text 213",
+    "h1":"Cc. Madhya 25.213",
+    "label":"Text 213",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 25.213",
     "description":"Subuddhi Rāya and Sanātana Gosvāmī knew one another before accepting the renounced order. Therefore Subuddhi Rāya showed much affection to Sanātana Gosvāmī, but Sanātana Gosvāmī hesitated to accept his sentiments and affections."
 }

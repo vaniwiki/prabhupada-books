@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 17.319",
-    "h1":"Text 319",
+    "h1":"Cc. Ādi 17.319",
+    "label":"Text 319",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 17.319",
     "description":"The Sixth Chapter considers the truth of Advaita Ācārya. He is an incarnation of Mahā-Viṣṇu."
 }

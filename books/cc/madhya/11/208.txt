@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.208",
-    "h1":"Text 208",
+    "h1":"Cc. Madhya 11.208",
+    "label":"Text 208",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.208",
     "description":"Then Svarūpa Dāmodara Gosvāmī, Dāmodara Paṇḍita and Jagadānanda all began to distribute prasāda to the devotees with great pleasure."
 }

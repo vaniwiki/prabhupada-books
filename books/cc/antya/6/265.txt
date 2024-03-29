@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.265",
-    "h1":"Text 265",
+    "h1":"Cc. Antya 6.265",
+    "label":"Text 265",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.265",
     "description":"In these verses, the great poet Kavi-karṇapūra gives the same information that Śivānanda Sena conveyed to the messenger from Raghunātha dāsa's father."
 }

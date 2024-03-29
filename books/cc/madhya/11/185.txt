@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 11.185",
-    "h1":"Text 185",
+    "h1":"Cc. Madhya 11.185",
+    "label":"Text 185",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 11.185",
     "description":"After this, Śrī Caitanya Mahāprabhu went to meet Haridāsa Ṭhākura, and He saw him engaged in chanting the mahā-mantra with ecstatic love. Haridāsa chanted, \"Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare.\""
 }

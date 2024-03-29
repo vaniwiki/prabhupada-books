@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.56",
-    "h1":"Text 56",
+    "h1":"Cc. Ādi 7.56",
+    "label":"Text 56",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.56",
     "description":"Lord Caitanya smiled and accepted the invitation of the brāhmaṇa. He made this gesture to show His mercy to the Māyāvādī sannyāsīs."
 }

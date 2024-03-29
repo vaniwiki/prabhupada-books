@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 7.18",
-    "h1":"Text 18",
+    "h1":"Cc. Madhya 7.18",
+    "label":"Text 18",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 7.18",
     "description":"The Lord replied, \"I am simply a dancer, and You are the wire-puller. However You pull the wires to make Me dance, I shall dance in that way."
 }

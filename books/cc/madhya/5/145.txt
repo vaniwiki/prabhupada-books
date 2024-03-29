@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.145",
-    "h1":"Text 145",
+    "h1":"Cc. Madhya 5.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.145",
     "description":"All the devotees became ecstatic in the association of Lord Caitanya, and thus absorbed in love of God, they were dancing and singing while going along the main road."
 }

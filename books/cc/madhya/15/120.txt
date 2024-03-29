@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 15.120",
-    "h1":"Text 120",
+    "h1":"Cc. Madhya 15.120",
+    "label":"Text 120",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 15.120",
     "description":"\"Mukunda dāsa externally appears to be a royal physician engaged in governmental service, but internally he has a deep love for Kṛṣṇa. Who can understand his love?"
 }

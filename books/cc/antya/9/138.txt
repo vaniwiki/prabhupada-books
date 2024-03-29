@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.138",
-    "h1":"Text 138",
+    "h1":"Cc. Antya 9.138",
+    "label":"Text 138",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.138",
     "description":"\"Your real mercy has been granted to Rāmānanda Rāya and Vāṇīnātha Rāya, for You have detached them from all material opulence. I think that I have not been favored by such mercy."
 }

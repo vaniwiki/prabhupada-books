@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.108",
-    "h1":"Text 108",
+    "h1":"Cc. Madhya 19.108",
+    "label":"Text 108",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.108",
     "description":"Vallabha Bhaṭṭācārya was struck with wonder to see Śrī Caitanya Mahāprabhu and Raghupati Upādhyāya dance. He even brought forward his two sons and made them fall down at the Lord's lotus feet."
 }

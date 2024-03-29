@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 1.186",
-    "h1":"Text 186",
+    "h1":"Cc. Antya 1.186",
+    "label":"Text 186",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 1.186",
     "description":"To explain an unclear word, men generally join it with other words. Such an attempt is called udghātyaka.' \""
 }

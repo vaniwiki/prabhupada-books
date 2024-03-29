@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 7.69",
-    "h1":"Text 69",
+    "h1":"Cc. Antya 7.69",
+    "label":"Text 69",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 7.69",
     "description":"Vallabha Bhaṭṭa had brought a large quantity of mahā-prasāda offered to Lord Jagannātha. Thus all the sannyāsīs sat down to eat with Śrī Caitanya Mahāprabhu."
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.77",
-    "h1":"Text 77",
+    "h1":"Cc. Ādi 7.77",
+    "label":"Text 77",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 7.77",
     "description":"\"Since I received this order from My spiritual master, I always chant the holy name, but I think that by chanting and chanting the holy name I have been bewildered."
 }

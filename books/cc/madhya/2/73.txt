@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 2.73",
-    "h1":"Text 73",
+    "h1":"Cc. Madhya 2.73",
+    "label":"Text 73",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 2.73",
     "description":"When Śrī Caitanya Mahāprabhu was thus unconscious, He happened to meet the Supreme Personality of Godhead. Consequently He got up and immediately made a tumultuous sound, very loudly declaring, \"Now Kṛṣṇa, the great personality, is present.\" In this way, because of Kṛṣṇa's sweet qualities, Caitanya Mahāprabhu made different types of mistakes in His mind. Thus by reciting the following verse, He ascertained the presence of Lord Kṛṣṇa."
 }

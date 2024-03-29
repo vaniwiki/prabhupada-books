@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 10.47",
-    "h1":"Text 47",
+    "h1":"Cc. Antya 10.47",
+    "label":"Text 47",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 10.47",
     "description":"Because of the pastimes in the water, there was great jubilation on the shore, with music, singing, chanting, dancing and tumultuous crying."
 }

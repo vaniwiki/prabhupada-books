@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 9.60",
-    "h1":"Text 60",
+    "h1":"Cc. Antya 9.60",
+    "label":"Text 60",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 9.60",
     "description":"\"I cannot stay here any longer,\" the Lord said.\"I shall go to Ālālanātha. There are too many disturbances here, and I cannot get any rest."
 }

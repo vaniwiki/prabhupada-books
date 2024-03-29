@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 22.62",
-    "h1":"Text 62",
+    "h1":"Cc. Madhya 22.62",
+    "label":"Text 62",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 22.62",
     "description":"\"By rendering transcendental loving service to Kṛṣṇa, one automatically performs all subsidiary activities. This confident, firm faith, favorable to the discharge of devotional service, is called śraddhā."
 }

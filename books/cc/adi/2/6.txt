@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 2.6",
-    "h1":"Text 6",
+    "h1":"Cc. Ādi 2.6",
+    "label":"Text 6",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 2.6",
     "description":"Impersonal Brahman, localized Paramātmā and the Personality of Godhead are three subjects, and the glowing effulgence, the partial manifestation and the original form are their three respective predicates."
 }

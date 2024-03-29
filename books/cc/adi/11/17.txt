@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 11.17",
-    "h1":"Text 17",
+    "h1":"Cc. Ādi 11.17",
+    "label":"Text 17",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 11.17",
     "description":"Śrīla Gadādhara dāsa was always fully absorbed in ecstasy as a gopī. In his house Lord Nityānanda enacted the drama Dānakeli."
 }

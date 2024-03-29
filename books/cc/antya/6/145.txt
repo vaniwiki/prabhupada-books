@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 6.145",
-    "h1":"Text 145",
+    "h1":"Cc. Antya 6.145",
+    "label":"Text 145",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 6.145",
     "description":"After taking leave of Lord Nityānanda Prabhu and then all the other Vaiṣṇavas, Srī Raghunātha dāsa consulted secretly with Rāghava Paṇḍita."
 }

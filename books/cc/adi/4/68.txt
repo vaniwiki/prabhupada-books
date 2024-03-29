@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 4.68",
-    "h1":"Text 68",
+    "h1":"Cc. Ādi 4.68",
+    "label":"Text 68",
     "title":"Śrī Caitanya-caritāmṛta, Ādi-līlā 4.68",
     "description":"The essence of the hlādinī potency is love of God, the essence of love of God is emotion [bhāva], and the ultimate development of emotion is mahābhāva."
 }

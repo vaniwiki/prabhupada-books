@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 1.227",
-    "h1":"Text 227",
+    "h1":"Cc. Madhya 1.227",
+    "label":"Text 227",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 1.227",
     "description":"In the morning, the Lord left and went to a place known as Kānāi Nāṭaśālā. While there, He saw may pastimes of Lord Kṛṣṇa."
 }

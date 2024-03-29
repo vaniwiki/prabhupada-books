@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 16.249",
-    "h1":"Text 249",
+    "h1":"Cc. Madhya 16.249",
+    "label":"Text 249",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 16.249",
     "description":"Clasping the feet of His mother, Śrī Caitanya Mahāprabhu very humbly requested her permission. Thus she gave Him leave to go to Vṛndāvana."
 }

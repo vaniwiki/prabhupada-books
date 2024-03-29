@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 12.41",
-    "h1":"Text 41",
+    "h1":"Cc. Madhya 12.41",
+    "label":"Text 41",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 12.41",
     "description":"The King told Rāmānanda Rāya, \"Śrī Caitanya Mahāprabhu is very, very merciful to you. Therefore please solicit my meeting with Him without fail.\""
 }

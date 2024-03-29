@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 19.224",
-    "h1":"Text 224",
+    "h1":"Cc. Madhya 19.224",
+    "label":"Text 224",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 19.224",
     "description":"\"Since the platform of fraternity is predominated by confidential service, awe and veneration are absent. Therefore sakhya-rasa is characterized by three qualities."
 }

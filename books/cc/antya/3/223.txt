@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Antya 3.223",
-    "h1":"Text 223",
+    "h1":"Cc. Antya 3.223",
+    "label":"Text 223",
     "title":"Śrī Caitanya-caritāmṛta, Antya-līlā 3.223",
     "description":"Advaita Ācārya was always absorbed in thoughts of how to deliver the fallen souls of the entire world. \"The entire world is full of nondevotees,\" He thought. \"How will they be delivered?\""
 }

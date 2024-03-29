@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 5.58",
-    "h1":"Text 58",
+    "h1":"Cc. Madhya 5.58",
+    "label":"Text 58",
     "title":"Śrī Caitanya-caritāmṛta, Madhya-līlā 5.58",
     "description":"When the elderly brāhmaṇa's son heard this, he took the opportunity to juggle some words. Becoming very impudent, he stood before the assembly and spoke as follows."
 }

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 7.14.29",
+    "h1":"SB 7.14.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 7.14.29",
     "description":"Auspicious indeed are the places where there is a temple of the Supreme Personality of Godhead, Kṛṣṇa, in which He is duly worshiped, and also the places where there flow the celebrated sacred rivers mentioned in the Purāṇas, the supplementary Vedic literatures. Anything spiritual done there is certainly very effective."
 }
 ---

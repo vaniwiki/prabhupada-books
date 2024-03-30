@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.1.11",
+    "h1":"SB 8.1.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.1.11",
     "description":"Although the Supreme Personality of Godhead constantly watches the activities of the world, no one sees Him. However, one should not think that because no one sees Him, He does not see, for His power to see is never diminished. Therefore, everyone should worship the Supersoul, who always stays with the individual soul as a friend."
 }
 ---

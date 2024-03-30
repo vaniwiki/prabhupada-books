@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.31-34",
-    "h1":"Text 31-34",
-    "title":" Śrīmad Bhāgavatam 9.11.31-34",
+    "h1":"SB 9.11.31-34",
+    "label":"Text 31-34",
+    "title":"Śrīmad Bhāgavatam 9.11.31-34",
     "description":"Thereafter, Lord Rāmacandra entered the palace of His forefathers. Within the palace were various treasures and valuable wardrobes. The sitting places on the two sides of the entrance door were made of coral, the yards were surrounded by pillars of vaidūrya-maṇi, the floor was made of highly polished marakata-maṇi, and the foundation was made of marble. The entire palace was decorated with flags and garlands and bedecked with valuable stones, shining with a celestial effulgence. The palace was fully decorated with pearls and surrounded by lamps and incense. The men and women within the palace all resembled demigods and were decorated with various ornaments, which seemed beautiful because of being placed on their bodies."
 }
 ---

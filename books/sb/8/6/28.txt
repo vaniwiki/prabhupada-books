@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.6.28",
+    "h1":"SB 8.6.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.6.28",
     "description":"Mahārāja Bali, a most celebrated king of the demons, knew very well when to make peace and when to fight. Thus although his commanders and captains were agitated and were about to kill the demigods, Mahārāja Bali, seeing that the demigods were coming to him without a militant attitude, forbade his commanders to kill them."
 }
 ---

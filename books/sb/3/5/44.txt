@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.5.44",
+    "h1":"SB 3.5.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.5.44",
     "description":"O Lord, persons who are entangled by undesirable eagerness for the temporary body and kinsmen, and who are bound by thoughts of \"mine\" and \"I,\" are unable to see Your lotus feet, although Your lotus feet are situated within their own bodies. But let us take shelter of Your lotus feet."
 }
 ---

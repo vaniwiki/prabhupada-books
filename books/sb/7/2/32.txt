@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 7.2.32",
+    "h1":"SB 7.2.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 7.2.32",
     "description":"As the queens loudly cried, their tears glided down their breasts, becoming reddened by kuṅkuma powder, and fell upon the lotus feet of their husband. Their hair became disarrayed, their ornaments fell, and in a way that evoked sympathy from the hearts of others, the queens began lamenting their husband's death."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.6.1",
+    "h1":"SB 3.6.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.6.1",
     "description":"The Ṛṣi Maitreya said: The Lord thus heard about the suspension of the progressive creative functions of the universe due to the noncombination of His potencies, such as the mahat-tattva."
 }
 ---

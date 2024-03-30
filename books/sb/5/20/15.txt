@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.20.15",
+    "h1":"SB 5.20.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.20.15",
     "description":"In those seven islands there are seven boundary mountains, known as Cakra, Catuḥśṛṅga, Kapila, Citrakūṭa, Devānīka, Ūrdhvaromā and Draviṇa. There are also seven rivers, known as Ramakulyā, Madhukulyā, Mitravindā, Śrutavindā, Devagarbhā, Ghṛtacyutā and Mantramālā."
 }
 ---

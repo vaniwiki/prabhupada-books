@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.8.8",
+    "h1":"SB 4.8.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.8.8",
     "description":"King Uttānapāda had two queens, named Sunīti and Suruci. Suruci was much more dear to the King; Sunīti, who had a son named Dhruva, was not his favorite."
 }
 ---

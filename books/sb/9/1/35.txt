@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.1.35",
+    "h1":"SB 9.1.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.1.35",
     "description":"The beautiful woman also desired to accept Budha, the son of the king of the moon, as her husband. Thus Budha begot in her womb a son named Purūravā."
 }
 ---

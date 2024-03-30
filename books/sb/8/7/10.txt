@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 8.7.10",
+    "h1":"SB 8.7.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 8.7.10",
     "description":"O King, when the demigods and demons, by the strength of their arms, rotated Mandara Mountain on the back of the extraordinary tortoise, the tortoise accepted the rolling of the mountain as a means of scratching His body, and thus He felt a pleasing sensation."
 }
 ---

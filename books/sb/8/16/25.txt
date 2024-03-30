@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 8.16.25",
+    "h1":"SB 8.16.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 8.16.25",
     "description":"In the bright fortnight of the month of Phālguna [February and March], for twelve days ending with Dvādaśī, one should observe the vow of subsisting only on milk and should worship the lotus-eyed Supreme Personality of Godhead with all devotion."
 }
 ---

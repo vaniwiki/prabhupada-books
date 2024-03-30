@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.14.37",
+    "h1":"SB 3.14.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.14.37",
     "description":"Maitreya said: The great sage Kaśyapa thus addressed his wife, who was trembling because of fear that her husband was offended. She understood that he had been dissuaded from his daily duties of offering evening prayers, yet she desired the welfare of her children in the world."
 }
 ---

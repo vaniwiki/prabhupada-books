@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.15-16",
-    "h1":"Text 15-16",
-    "title":" Śrīmad Bhāgavatam 10.5.15-16",
+    "h1":"SB 10.5.15-16",
+    "label":"Text 15-16",
+    "title":"Śrīmad Bhāgavatam 10.5.15-16",
     "description":"The great-minded Mahārāja Nanda gave clothing, ornaments and cows in charity to the cowherd men in order to please Lord Viṣṇu, and thus he improved the condition of his own son in all respects. He distributed charity to the sūtas, the māgadhas, the vandīs, and men of all other professions, according to their educational qualifications, and satisfied everyone's desires."
 }
 ---

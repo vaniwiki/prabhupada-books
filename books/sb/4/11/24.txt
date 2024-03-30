@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.11.24",
+    "h1":"SB 4.11.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.11.24",
     "description":"My dear son, those Yakṣas, who are descendants of Kuvera, are not actually the killers of your brother; the birth and death of every living entity are caused by the Supreme, who is certainly the cause of all causes."
 }
 ---

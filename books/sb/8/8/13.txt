@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.8.13",
+    "h1":"SB 8.8.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.8.13",
     "description":"The clouds in personified form beat various types of drums, known as mṛdaṅgas, paṇavas, murajas and ānakas. They also blew conchshells and bugles known as gomukhas and played flutes and stringed instruments. The combined sound of these instruments was tumultuous."
 }
 ---

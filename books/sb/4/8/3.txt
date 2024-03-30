@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.8.3",
+    "h1":"SB 4.8.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.8.3",
     "description":"Maitreya told Vidura: O great soul, from Dambha and Māyā were born Greed and Nikṛti, or Cunning. From their combination came children named Krodha (Anger) and Hiṁsā (Envy), and from their combination were born Kali and his sister Durukti (Harsh Speech)."
 }
 ---

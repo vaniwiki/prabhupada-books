@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.8.56",
+    "h1":"SB 4.8.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.8.56",
     "description":"It is possible to worship a form of the Lord made of physical elements such as earth, water, pulp, wood and metal. In the forest one can make a form with no more than earth and water and worship Him according to the above principles. A devotee who has full control over his self should be very sober and peaceful and must be satisfied simply with eating whatever fruits and vegetables are available in the forest."
 }
 ---

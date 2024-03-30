@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.21.41",
+    "h1":"SB 4.21.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.21.41",
     "description":"Although the Supreme Personality of Godhead, Ananta, eats through the fire sacrifices offered in the names of the different demigods, He does not take as much pleasure in eating through fire as He does in accepting offerings through the mouths of learned sages and devotees, for then He does not leave the association of devotees."
 }
 ---

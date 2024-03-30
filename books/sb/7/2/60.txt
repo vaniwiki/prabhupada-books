@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 7.2.60",
+    "h1":"SB 7.2.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 7.2.60",
     "description":"Therefore none of you should be aggrieved for the loss of the body—whether your own or those of others. Only in ignorance does one make bodily distinctions, thinking \"Who am I? Who are the others? What is mine? What is for others?\""
 }
 ---

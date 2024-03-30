@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.27.10",
+    "h1":"SB 4.27.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.27.10",
     "description":"These sons and grandsons were virtually plunderers of King Purañjana's riches, including his home, treasury, servants, secretaries and all other paraphernalia. Purañjana's attachment for these things was very deep-rooted."
 }
 ---

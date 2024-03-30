@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 9.20.34",
+    "h1":"SB 9.20.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 9.20.34",
     "description":"O King Parīkṣit, Mahārāja Bharata had three pleasing wives, who were daughters of the King of Vidarbha. When all three of them bore children who did not resemble the King, these wives thought that he would consider them unfaithful queens and reject them, and therefore they killed their own sons."
 }
 ---

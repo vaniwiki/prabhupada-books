@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.30.24",
+    "h1":"SB 4.30.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.30.24",
     "description":"Dear Lord, we offer our respectful obeisances unto You because Your existence is completely independent of all material influences. Your Lordship always takes away the devotee's miserable conditions, for Your brain plans how to do so. You live everywhere as Paramātmā; therefore You are known as Vāsudeva. You also accept Vasudeva as Your father, and You are celebrated by the name Kṛṣṇa. You are so kind that You always increase the influence of all kinds of devotees."
 }
 ---

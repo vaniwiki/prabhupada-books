@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.1.45",
+    "h1":"SB 4.1.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.1.45",
     "description":"From Mṛkaṇḍa, Mārkaṇḍeya Muni was born, and from Prāṇa the sage Vedaśirā, whose son was Uśanā [Śukrācārya], also known as Kavi. Thus Kavi also belonged to the descendants of the Bhṛgu dynasty."
 }
 ---

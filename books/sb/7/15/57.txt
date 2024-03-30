@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 7.15.57",
+    "h1":"SB 7.15.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 7.15.57",
     "description":"He who exists internally and externally, at the beginning and end of everything and of all living beings, as that which is enjoyable and as the enjoyer of everything, superior and inferior, is the Supreme Truth. He always exists as knowledge and the object of knowledge, as expression and the object of understanding, as darkness and as light. Thus He, the Supreme Lord, is everything."
 }
 ---

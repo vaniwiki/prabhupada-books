@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 8.12.45",
+    "h1":"SB 8.12.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 8.12.45",
     "description":"Śukadeva Gosvāmī said: My dear King, the person who bore the great mountain on His back for the churning of the ocean of milk is the same Supreme Personality of Godhead, known as Śārṅga-dhanvā. I have now described to you His prowess."
 }
 ---

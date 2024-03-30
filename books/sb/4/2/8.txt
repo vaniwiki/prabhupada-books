@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.2.8",
+    "h1":"SB 4.2.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.2.8",
     "description":"Before taking his seat, however, Dakṣa was very much offended to see Lord Śiva sitting and not showing him any respect. At that time, Dakṣa became greatly angry, and, his eyes glowing, he began to speak very strongly against Lord Śiva."
 }
 ---

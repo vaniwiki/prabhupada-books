@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 8.10.51",
+    "h1":"SB 8.10.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 8.10.51",
     "description":"Thereafter, whirlpools and sea waves, agitated by fierce blasts of wind, appeared everywhere, before everyone's vision, in a furious flood."
 }
 ---

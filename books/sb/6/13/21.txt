@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.13.21",
+    "h1":"SB 6.13.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.13.21",
     "description":"King Indra was favored by Marīci and the other great sages. They performed the sacrifice just according to the rules and regulations, worshiping the Supreme Personality of Godhead, the Supersoul, the original person. Thus Indra regained his exalted position and was again honored by everyone."
 }
 ---

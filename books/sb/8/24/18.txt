@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.24.18",
+    "h1":"SB 8.24.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.24.18",
     "description":"O My dear King, I do not like living in this waterpot with such great difficulty. Therefore, please find some better reservoir of water where I can live comfortably."
 }
 ---

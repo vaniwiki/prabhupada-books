@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 6.7.32",
+    "h1":"SB 6.7.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 6.7.32",
     "description":"Since you are completely aware of the Supreme Brahman, you are a perfect brāhmaṇa, and therefore you are the spiritual master of all orders of life. We accept you as our spiritual master and director so that by the power of your austerity we may easily defeat the enemies who have conquered us."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 10.1.67",
+    "h1":"SB 10.1.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 10.1.67",
     "description":"Kings greedy for sense gratification on this earth almost always kill their enemies indiscriminately. To satisfy their own whims, they may kill anyone, even their mothers, fathers, brothers or friends."
 }
 ---

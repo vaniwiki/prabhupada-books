@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.19.21",
+    "h1":"SB 3.19.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.19.21",
     "description":"Cruel and savage slogans were uttered by hosts of ruffian Yakṣas and Rākṣasas, who all either marched on foot or rode on horses, elephants or chariots."
 }
 ---

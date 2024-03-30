@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.23.27",
+    "h1":"SB 4.23.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.23.27",
     "description":"In this material world, every human being has a short span of life, but those who are engaged in devotional service go back home, back to Godhead, for they are actually on the path of liberation. For such persons, there is nothing which is not available."
 }
 ---

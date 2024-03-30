@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.19.29",
+    "h1":"SB 4.19.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.19.29",
     "description":"My dear Vidura, after giving the King this advice, the priests who had been engaged in performing the sacrifice called for Indra, the King of heaven, in a mood of great anger. When they were just ready to put the oblation in the fire, Lord Brahmā appeared on the scene and forbade them to start the sacrifice."
 }
 ---

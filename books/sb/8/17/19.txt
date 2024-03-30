@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.17.19",
+    "h1":"SB 8.17.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.17.19",
     "description":"Always thinking of Me as being situated within the body of your husband, Kaśyapa, go worship your husband, who has been purified by his austerity."
 }
 ---

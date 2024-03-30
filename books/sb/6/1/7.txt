@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 6.1.7",
+    "h1":"SB 6.1.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 6.1.7",
     "description":"Śukadeva Gosvāmī replied: My dear King, if before one's next death whatever impious acts one has performed in this life with his mind, words and body are not counteracted through proper atonement according to the description of the Manu-saṁhitā and other dharma-śāstras, one will certainly enter the hellish planets after death and undergo terrible suffering, as I have previously described to you."
 }
 ---

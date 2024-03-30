@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.24.20",
+    "h1":"SB 3.24.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.24.20",
     "description":"Śrī Maitreya said: After thus speaking to Kardama Muni and his wife Devahūti, Lord Brahmā, the creator of the universe, who is also known as Haṁsa, went back to the highest of the three planetary systems on his swan carrier with the four Kumāras and Nārada."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.8.29",
+    "h1":"SB 3.8.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.8.29",
     "description":"As a sandalwood tree is decorated with fragrant flowers and branches, the Lord's body was decorated with valuable jewels and pearls. He was the self-situated tree, the Lord of all others in the universe. And as a sandalwood tree is covered with many snakes, so the Lord's body was also covered by the hoods of Ananta."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 6.1.45",
+    "h1":"SB 6.1.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 6.1.45",
     "description":"In proportion to the extent of one's religious or irreligious actions in this life, one must enjoy or suffer the corresponding reactions of his karma in the next."
 }
 ---

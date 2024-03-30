@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.20.39",
+    "h1":"SB 3.20.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.20.39",
     "description":"After that, Brahmā gave up that shining and beloved form of moonlight. Viśvāvasu and other Gandharvas gladly took possession of it."
 }
 ---

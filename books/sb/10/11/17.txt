@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.11.17",
+    "h1":"SB 10.11.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.11.17",
     "description":"Nanda Mahārāja, the King of Vraja, is now waiting to eat. O my dear son Balarāma, he is waiting for You. Therefore, come back to please us. All the boys playing with You and Kṛṣṇa should now go to their homes."
 }
 ---

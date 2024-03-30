@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.19.10",
+    "h1":"SB 4.19.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.19.10",
     "description":"King Pṛthu was dependent on the Supreme Personality of Godhead, who is known as Adhokṣaja. Because King Pṛthu Performed so many sacrifices, he was superhumanly enhanced by the mercy of the Supreme Lord. King Pṛthu's opulence, however, could not be tolerated by the King of heaven, Indra, who tried to impede the progress of his opulence."
 }
 ---

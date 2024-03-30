@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 5.19.27",
+    "h1":"SB 5.19.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 5.19.27",
     "description":"The Supreme Personality of Godhead fulfills the material desires of a devotee who approaches Him with such motives, but He does not bestow benedictions upon the devotee that will cause him to demand more benedictions again. However, the Lord willingly gives the devotee shelter at His own lotus feet, even though such a person does not aspire for it, and that shelter satisfies all his desires. That is the Supreme Personality's special mercy."
 }
 ---

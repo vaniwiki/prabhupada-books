@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 2.7.42",
+    "h1":"SB 2.7.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 2.7.42",
     "description":"But anyone who is specifically favored by the Supreme Lord, the Personality of Godhead, due to unalloyed surrender unto the service of the Lord, can overcome the insurmountable ocean of illusion and can understand the Lord. But those who are attached to this body, which is meant to be eaten at the end by dogs and jackals, cannot do so."
 }
 ---

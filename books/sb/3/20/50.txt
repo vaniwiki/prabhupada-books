@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 3.20.50",
+    "h1":"SB 3.20.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 3.20.50",
     "description":"The self-possessed creator gave them his own human form. On seeing the Manus, those who had been created earlier—the demigods, the Gandharvas and so on—applauded Brahmā, the lord of the universe."
 }
 ---

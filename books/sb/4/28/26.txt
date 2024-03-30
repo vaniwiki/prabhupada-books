@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.28.26",
+    "h1":"SB 4.28.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.28.26",
     "description":"That most unkind king, Purañjana, had killed many animals in various sacrifices. Now, taking advantage of this opportunity, all these animals began to pierce him with their horns. It was as though he were being cut to pieces by axes."
 }
 ---

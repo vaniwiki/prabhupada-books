@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.1.11",
+    "h1":"SB 4.1.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.1.11",
     "description":"Svāyambhuva Manu handed over his daughter Prasūti to the son of Brahmā named Dakṣa, who was also one of the progenitors of the living entities. The descendants of Dakṣa are spread throughout the three worlds."
 }
 ---

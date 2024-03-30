@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.16-17",
-    "h1":"Text 16-17",
-    "title":" Śrīmad Bhāgavatam 8.21.16-17",
+    "h1":"SB 8.21.16-17",
+    "label":"Text 16-17",
+    "title":"Śrīmad Bhāgavatam 8.21.16-17",
     "description":"Nanda, Sunanda, Jaya, Vijaya, Prabala, Bala, Kumuda, Kumudākṣa, Viṣvaksena, Patattrirāṭ [Garuḍa], Jayanta, Śrutadeva, Puṣpadanta and Sātvata were all associates of Lord Viṣṇu. They were as powerful as ten thousand elephants, and now they began killing the soldiers of the demons."
 }
 ---

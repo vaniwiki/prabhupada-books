@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.25.14",
+    "h1":"SB 3.25.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.25.14",
     "description":"O most pious mother, I shall now explain unto you the ancient yoga system, which I explained formerly to the great sages. It is serviceable and practical in every way."
 }
 ---

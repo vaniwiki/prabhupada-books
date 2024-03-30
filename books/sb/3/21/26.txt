@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.21.26",
+    "h1":"SB 3.21.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.21.26",
     "description":"The day after tomorrow, O brāhmaṇa, that celebrated emperor, who is expert in religious activities, will come here with his queen, Śatarūpā, wishing to see you."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.12.9",
+    "h1":"SB 4.12.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.12.9",
     "description":"The son of Iḍaviḍā, Lord Kuvera, was very pleased, and happily he gave Dhruva Mahārāja the benediction he wanted. Thereafter he disappeared from Dhruva's presence, and Dhruva Mahārāja returned to his capital city."
 }
 ---

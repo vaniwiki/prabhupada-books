@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 6.4.19",
+    "h1":"SB 6.4.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 6.4.19",
     "description":"With his mind, Prajāpati Dakṣa first created all kinds of demigods, demons, human beings, birds, beasts, aquatics and so on."
 }
 ---

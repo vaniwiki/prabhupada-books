@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.78",
-    "h1":"Text 78",
-    "title":" Śrīmad Bhāgavatam 4.24.78",
+    "h1":"SB 4.24.78",
+    "label":"Text 78",
+    "title":"Śrīmad Bhāgavatam 4.24.78",
     "description":"A devotee who rises early in the morning and with folded hands chants these prayers sung by Lord Śiva and gives facility to others to hear them certainly becomes free from all bondage to fruitive activities."
 }
 ---

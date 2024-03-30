@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.8.22",
+    "h1":"SB 6.8.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.8.22",
     "description":"May the Supreme Personality of Godhead, who bears the Śrīvatsa on His chest, protect me after midnight until the sky becomes pinkish. May Lord Janārdana, who carries a sword in His hand, protect me at the end of night [during the last four ghaṭikās of night]. May Lord Dāmodara protect me in the early morning, and may Lord Viśveśvara protect me during the junctions of day and night."
 }
 ---

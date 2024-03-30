@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.1.30",
+    "h1":"SB 3.1.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.1.30",
     "description":"O gentle one, does Sāmba fare well? He exactly resembles the son of the Personality of Godhead. In a previous birth he was born as Kārttikeya in the womb of the wife of Lord Śiva, and now he has been born in the womb of Jāmbavatī, the most enriched wife of Kṛṣṇa."
 }
 ---

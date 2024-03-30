@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.25.32",
+    "h1":"SB 4.25.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.25.32",
     "description":"Nārada continued: My dear King, when Purañjana became so attracted and impatient to touch the girl and enjoy her, the girl also became attracted by his words and accepted his request by smiling. By this time she was certainly attracted by the King."
 }
 ---

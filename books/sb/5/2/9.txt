@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.2.9",
+    "h1":"SB 5.2.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.2.9",
     "description":"Seeing the bumblebees following Pūrvacitti, Mahārāja Āgnīdhra said: My dear Lord, the bumblebees surrounding your body are like disciples surrounding your worshipable self. They are incessantly chanting the mantras of the Sāma Veda and the Upaniṣads, thus offering prayers to you. Just as great sages resort to the branches of Vedic literatures, the bumblebees are enjoying the showers of flowers falling from your hair."
 }
 ---

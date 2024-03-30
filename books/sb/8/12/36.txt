@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 8.12.36",
+    "h1":"SB 8.12.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 8.12.36",
     "description":"Thus Lord Śiva could understand his position and that of the Supreme Personality of Godhead, who has unlimited potencies. Having reached this understanding, he was not at all surprised by the wonderful way Lord Viṣṇu had acted upon him."
 }
 ---

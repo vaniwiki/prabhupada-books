@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.20.28",
+    "h1":"SB 9.20.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.20.28",
     "description":"When Mahārāja Bharata performed the sacrifice known as Maṣṇāra [or a sacrifice in the place known as Maṣṇāra], he gave in charity fourteen lakhs of excellent elephants with white tusks and black bodies, completely covered with golden ornaments."
 }
 ---

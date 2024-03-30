@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.12.30",
+    "h1":"SB 3.12.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.12.30",
     "description":"O father, this performance in which you are endeavoring to complicate yourself was never attempted by any other Brahmā, nor by anyone else, nor by you in previous kalpas, nor will anyone dare to attempt it in the future. You are the supreme being in the universe, so how is it that you want to have sex with your daughter and cannot control your desire?"
 }
 ---

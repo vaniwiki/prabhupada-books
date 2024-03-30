@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.18.4",
+    "h1":"SB 8.18.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.18.4",
     "description":"At that time, there was happiness in all directions, in the reservoirs of water like the rivers and oceans, and in the core of everyone's heart. The various seasons displayed their respective qualities, and all living entities in the upper planetary system, in outer space and on the surface of the earth were jubilant. The demigods, the cows, the brāhmaṇas and the hills and mountains were all filled with joy."
 }
 ---

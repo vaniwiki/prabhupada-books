@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.1.16",
+    "h1":"SB 4.1.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.1.16",
     "description":"After hearing this, Vidura inquired from Maitreya: My dear master, how is it that the three deities Brahmā, Viṣṇu and Śiva, who are the creator, maintainer and destroyer of the whole creation, became the offspring of the wife of Atri Muni?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.10.28",
+    "h1":"SB 10.10.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.10.28",
     "description":"Thereafter, in that very place where the two arjuna trees had fallen, two great, perfect personalities, who appeared like fire personified, came out of the two trees. The effulgence of their beauty illuminating all directions, with bowed heads they offered obeisances to Kṛṣṇa, and with hands folded they spoke the following words."
 }
 ---

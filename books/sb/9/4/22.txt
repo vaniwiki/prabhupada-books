@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 9.4.22",
+    "h1":"SB 9.4.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 9.4.22",
     "description":"In desert countries where there flowed the River Sarasvatī, Mahārāja Ambarīṣa performed great sacrifices like the aśvamedha-yajña and thus satisfied the master of all yajñas, the Supreme Personality of Godhead. Such sacrifices were performed with great opulence and suitable paraphernalia and with contributions of dakṣiṇā to the brāhmaṇas, who were supervised by great personalities like Vasiṣṭha, Asita and Gautama, representing the king, the performer of the sacrifices."
 }
 ---

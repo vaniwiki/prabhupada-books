@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.2.33",
+    "h1":"SB 4.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.2.33",
     "description":"The sage Maitreya said: When such cursing and countercursing was going on between Lord Śiva's followers and the parties of Dakṣa and Bhṛgu, Lord Śiva became very morose. Not saying anything, he left the arena of the sacrifice, followed by his disciples."
 }
 ---

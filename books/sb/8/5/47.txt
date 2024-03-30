@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 8.5.47",
+    "h1":"SB 8.5.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 8.5.47",
     "description":"Karmīs are always anxious to accumulate wealth for their sense gratification, but for that purpose they must work very hard. Yet even though they work hard, the results are not satisfying. Indeed, sometimes their work results only in frustration. But devotees who have dedicated their lives to the service of the Lord can achieve substantial results without working very hard. These results exceed the devotee's expectations."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 10.3.11",
+    "h1":"SB 10.3.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 10.3.11",
     "description":"When Vasudeva saw his extraordinary son, his eyes were struck with wonder. In transcendental jubilation, he mentally collected ten thousand cows and distributed them among the brāhmaṇas as a transcendental festival."
 }
 ---

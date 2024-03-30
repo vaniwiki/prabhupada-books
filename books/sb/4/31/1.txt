@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.31.1",
+    "h1":"SB 4.31.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.31.1",
     "description":"The great saint Maitreya continued: After that, the Pracetās lived at home for thousands of years and developed perfect knowledge in spiritual consciousness. At last they remembered the blessings of the Supreme Personality of Godhead and left home, putting their wife in charge of a perfect son."
 }
 ---

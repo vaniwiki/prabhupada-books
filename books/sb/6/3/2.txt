@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 6.3.2",
+    "h1":"SB 6.3.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 6.3.2",
     "description":"O great sage, never before has it been heard anywhere that an order from Yamarāja has been baffled. Therefore I think that people will have doubts about this that no one but you can eradicate. Since that is my firm conviction, kindly explain the reasons for these events."
 }
 ---

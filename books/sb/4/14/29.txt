@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.14.29",
+    "h1":"SB 4.14.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.14.29",
     "description":"The great sage Maitreya continued: Thus the King, who became unintelligent due to his sinful life and deviation from the right path, became actually bereft of all good fortune. He could not accept the requests of the great sages, which the sages put before him with great respect, and therefore he was condemned."
 }
 ---

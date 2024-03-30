@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.29.3",
+    "h1":"SB 4.29.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.29.3",
     "description":"The person I have described as unknown is the Supreme Personality of Godhead, the master and eternal friend of the living entity. Since the living entities cannot realize the Supreme Personality of Godhead by material names, activities or qualities, He remains everlastingly unknown to the conditioned soul."
 }
 ---

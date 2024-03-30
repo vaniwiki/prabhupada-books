@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 5.20.14",
+    "h1":"SB 5.20.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 5.20.14",
     "description":"O King, another son of Mahārāja Priyavrata, Hiraṇyaretā, was the king of this island. He divided it into seven parts, which he delivered to his seven sons according to the rights of inheritance. The King then retired from family life to engage in austerities. The names of those sons are Vasu, Vasudāna, Dṛḍharuci, Stutyavrata, Nābhigupta, Vivikta and Vāmadeva."
 }
 ---

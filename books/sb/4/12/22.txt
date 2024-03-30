@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.12.22",
+    "h1":"SB 4.12.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.12.22",
     "description":"Dhruva Mahārāja was always absorbed in thinking of the lotus feet of Lord Kṛṣṇa. His heart was full with Kṛṣṇa. When the two confidential servants of the Supreme Lord, who were named Nanda and Sunanda, approached him, smiling happily, Dhruva stood with folded hands, bowing humbly. They then addressed him as follows."
 }
 ---

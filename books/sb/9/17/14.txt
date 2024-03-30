@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.17.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.17.14",
+    "h1":"SB 9.17.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.17.14",
     "description":"Upon Rajī's death, Indra begged Rajī's sons for the return of the heavenly planet. They did not return it, however, although they agreed to return Indra's shares in ritualistic ceremonies."
 }
 ---

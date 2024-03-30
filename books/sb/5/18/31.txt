@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.18.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 5.18.31",
+    "h1":"SB 5.18.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 5.18.31",
     "description":"My dear Lord, this visible cosmic manifestation is a demonstration of Your own creative energy. Since the countless varieties of forms within this cosmic manifestation are simply a display of Your external energy, this virāṭ-rūpa [universal body] is not Your real form. Except for a devotee in transcendental consciousness, no one can perceive Your actual form. Therefore I offer my respectful obeisances unto You."
 }
 ---

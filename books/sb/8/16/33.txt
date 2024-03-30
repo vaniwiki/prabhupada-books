@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.16.33",
+    "h1":"SB 8.16.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.16.33",
     "description":"I offer my respectful obeisances unto You, who are situated as Hiraṇyagarbha, the source of life, the Supersoul of every living entity. Your body is the source of the opulence of all mystic power. I offer my respectful obeisances unto You."
 }
 ---

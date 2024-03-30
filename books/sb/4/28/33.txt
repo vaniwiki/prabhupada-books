@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.28.33",
+    "h1":"SB 4.28.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.28.33",
     "description":"After this, the great saintly King Malayadhvaja divided his entire kingdom among his sons. Then, in order to worship Lord Kṛṣṇa with full attention, he went to a solitary place known as Kulācala."
 }
 ---

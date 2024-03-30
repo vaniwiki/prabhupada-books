@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.5.8",
+    "h1":"SB 4.5.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.5.8",
     "description":"Conjecturing on the origin of the storm, they said: There is no wind blowing, and no cows are passing, nor is it possible that this dust storm could be raised by plunderers, for there is still the strong King Barhi, who would punish them. Where is this dust storm blowing from? Is the dissolution of the planet now to occur?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 7.9.26",
+    "h1":"SB 7.9.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 7.9.26",
     "description":"O my Lord, O Supreme, because I was born in a family full of the hellish material qualities of passion and ignorance, what is my position? And what is to be said of Your causeless mercy, which was never offered even to Lord Brahmā, Lord Śiva or the goddess of fortune, Lakṣmī? You never put Your lotus hand upon their heads, but You have put it upon mine."
 }
 ---

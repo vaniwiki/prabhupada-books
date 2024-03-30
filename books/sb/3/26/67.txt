@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 3.26.67",
+    "h1":"SB 3.26.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 3.26.67",
     "description":"Lord Viṣṇu entered His feet with the faculty of locomotion, but the virāṭ-puruṣa refused to stand up even then. The rivers entered His blood vessels with the blood and the power of circulation, but still the Cosmic Being could not be made to stir."
 }
 ---

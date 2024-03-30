@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.20.33",
+    "h1":"SB 9.20.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.20.33",
     "description":"As the ruler of the entire universe, Emperor Bharata had the opulences of a great kingdom and unconquerable soldiers. His sons and family had seemed to him to be his entire life. But finally he thought of all this as an impediment to spiritual advancement, and therefore he ceased from enjoying it."
 }
 ---

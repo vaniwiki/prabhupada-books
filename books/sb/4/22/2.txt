@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.22.2",
+    "h1":"SB 4.22.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.22.2",
     "description":"Seeing the glowing effulgence of the four Kumāras, the masters of all mystic Power, the King and his associates could recognize them as they descended from the sky."
 }
 ---

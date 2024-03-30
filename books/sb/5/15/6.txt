@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.15.6",
+    "h1":"SB 5.15.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.15.6",
     "description":"In the womb of his wife, Ṛṣikulyā, King Bhūmā begot a son named Udgītha. From Udgītha's wife, Devakulyā, a son named Prastāva was born, and Prastāva begot a son named Vibhu through his wife, Niyutsā. In the womb of his wife, Ratī, Vibhu begot a son named Pṛthuṣeṇa. Pṛthuṣeṇa begot a son named Nakta in the womb of his wife, named Ākūti. Nakta's wife was Druti, and from her womb the great King Gaya was born. Gaya was very famous and pious; he was the best of saintly kings. Lord Viṣṇu and His expansions, who are meant to protect the universe, are always situated in the transcendental mode of goodness, known as viśuddha-sattva. Being the direct expansion of Lord Viṣṇu, King Gaya was also situated in the viśuddha-sattva. Because of this, Mahārāja Gaya was fully equipped with transcendental knowledge. Therefore he was called Mahāpuruṣa."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 6.9.55",
+    "h1":"SB 6.9.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 6.9.55",
     "description":"When Vṛtrāsura is killed because of My spiritual strength, you will regain your strength, weapons and wealth. Thus there will be all good fortune for all of you. Although Vṛtrāsura can destroy all the three worlds, do not fear that he will harm you. He is also a devotee and will never be envious of you."
 }
 ---

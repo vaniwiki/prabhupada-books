@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 6.14.54",
+    "h1":"SB 6.14.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 6.14.54",
     "description":"Alas, O Providence, O Creator, You are certainly inexperienced in creation, for during the lifetime of a father You have caused the death of his son, thus acting in opposition to Your creative laws. If You are determined to contradict these laws, You are certainly the enemy of living entities and are never merciful."
 }
 ---

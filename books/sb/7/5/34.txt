@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 7.5.34",
+    "h1":"SB 7.5.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 7.5.34",
     "description":"Indignant and angry, his reddish eyes like molten copper, Hiraṇyakaśipu said to his servants: O demons, take this boy away from me! He deserves to be killed. Kill him as soon as possible!"
 }
 ---

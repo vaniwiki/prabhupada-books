@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.15.8",
+    "h1":"SB 4.15.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.15.8",
     "description":"Conchshells, bugles, drums and kettledrums vibrated in outer space. Great sages, forefathers and personalities from the heavenly planets all came to earth from various planetary systems."
 }
 ---

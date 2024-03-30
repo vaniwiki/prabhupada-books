@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.14.8",
+    "h1":"SB 4.14.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.14.8",
     "description":"When the great sages consulted one another, they saw that the people were in a dangerous position from both directions. When a fire blazes on both ends of a log, the ants in the middle are in a very dangerous situation. Similarly, at that time the people in general were in a dangerous position due to an irresponsible king on one side and thieves and rogues on the other."
 }
 ---

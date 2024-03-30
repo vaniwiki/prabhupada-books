@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 10.2.23",
+    "h1":"SB 10.2.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 10.2.23",
     "description":"Śukadeva Gosvāmī said: Deliberating in this way, Kaṁsa, although determined to continue in enmity toward the Supreme Personality of Godhead, refrained from the vicious killing of his sister. He decided to wait until the Lord was born and then do what was needed."
 }
 ---

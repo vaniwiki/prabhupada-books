@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.4.22",
+    "h1":"SB 3.4.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.4.22",
     "description":"There in Badarikāśrama the Personality of Godhead, in His incarnation as the sages Nara and Nārāyaṇa, has been undergoing great penance since time immemorial for the welfare of all amiable living entities."
 }
 ---

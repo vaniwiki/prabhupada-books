@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.27.5",
+    "h1":"SB 3.27.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.27.5",
     "description":"It is the duty of every conditioned soul to engage his polluted consciousness, which is now attached to material enjoyment, in very serious devotional service with detachment. Thus his mind and consciousness will be under full control."
 }
 ---

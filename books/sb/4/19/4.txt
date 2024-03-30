@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.19.4",
+    "h1":"SB 4.19.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.19.4",
     "description":"When Lord Viṣṇu appeared in the sacrificial arena, Lord Brahmā, Lord Śiva and all the chief predominating personalities of every planet, as well as their followers, came with Him. When He appeared on the scene, the residents of Gandharvaloka, the great sages, and the residents of Apsaroloka all praised Him."
 }
 ---

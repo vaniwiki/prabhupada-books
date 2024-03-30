@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 3.5.51",
+    "h1":"SB 3.5.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 3.5.51",
     "description":"O Supreme Self, please give us, who are created in the beginning from the mahat-tattva, the total cosmic energy, Your kind directions on how we shall act. Kindly award us Your perfect knowledge and potency so that we can render You service in the different departments of subsequent creation."
 }
 ---

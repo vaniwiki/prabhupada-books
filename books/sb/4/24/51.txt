@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.24.51",
+    "h1":"SB 4.24.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.24.51",
     "description":"The lower part of the Lord's waist is dark and covered with yellow garments and a belt bedecked with golden embroidery work. His symmetrical lotus feet and the calves, thighs and joints of His legs are extraordinarily beautiful. Indeed, the Lord's entire body appears to be well built."
 }
 ---

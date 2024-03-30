@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 4.12.52",
+    "h1":"SB 4.12.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 4.12.52",
     "description":"The transcendental activities of Dhruva Mahārāja are well known all over the world, and they are very pure. In childhood Dhruva Mahārāja rejected all kinds of toys and playthings, left the protection of his mother and seriously took shelter of the Supreme Personality of Godhead, Viṣṇu. My dear Vidura, I therefore conclude this narration, for I have described to you all its details."
 }
 ---

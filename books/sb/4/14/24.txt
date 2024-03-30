@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.14.24",
+    "h1":"SB 4.14.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.14.24",
     "description":"Those who, out of gross ignorance, do not worship the king, who is actually the Supreme Personality of Godhead, experience happiness neither in this world nor in the world after death."
 }
 ---

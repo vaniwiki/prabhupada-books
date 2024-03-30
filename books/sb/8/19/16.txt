@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.19.16",
+    "h1":"SB 8.19.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.19.16",
     "description":"O King of the Daityas, from Your Majesty, who come from such a noble family and who are able to give charity munificently, I ask only three paces of land, to the measurement of My steps."
 }
 ---

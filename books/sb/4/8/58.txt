@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 4.8.58",
+    "h1":"SB 4.8.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 4.8.58",
     "description":"One should follow in the footsteps of previous devotees regarding how to worship the Supreme Lord with the prescribed paraphernalia, or one should offer worship within the heart by reciting the mantra to the Personality of Godhead, who is nondifferent from the mantra."
 }
 ---

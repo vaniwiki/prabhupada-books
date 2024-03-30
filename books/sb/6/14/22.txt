@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.14.22",
+    "h1":"SB 6.14.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.14.22",
     "description":"Śukadeva Gosvāmī said: O King Parīkṣit, although the great sage Aṅgirā knew everything, he inquired from the King in this way. Thus King Citraketu, desiring a son, bent low in great humility and spoke to the great sage as follows."
 }
 ---

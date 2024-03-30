@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.22.10",
+    "h1":"SB 4.22.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.22.10",
     "description":"A person who is not very rich and is attached to family life becomes highly glorified when saintly persons are present in his home. The master and servants who are engaged in offering the exalted visitors water, a sitting place and paraphernalia for reception are glorified, and the home itself is also glorified."
 }
 ---

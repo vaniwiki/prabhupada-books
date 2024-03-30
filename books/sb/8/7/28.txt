@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.7.28",
+    "h1":"SB 8.7.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.7.28",
     "description":"O lord, you are the three Vedas personified. The seven seas are your abdomen, and the mountains are your bones. All drugs, creepers and vegetables are the hairs on your body, the Vedic mantras like Gāyatrī are the seven layers of your body, and the Vedic religious system is the core of your heart."
 }
 ---

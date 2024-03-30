@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.22.7",
+    "h1":"SB 3.22.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.22.7",
     "description":"I have fortunately been instructed by you, and thus great favor has been bestowed upon me. I thank God that I have listened with open ears to your pure words."
 }
 ---

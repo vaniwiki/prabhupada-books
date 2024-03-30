@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 6.7.28",
+    "h1":"SB 6.7.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 6.7.28",
     "description":"O brāhmaṇa, the highest duty of a son, even though he has sons of his own, is to serve his parents, and what to speak of a son who is a brahmacārī?"
 }
 ---

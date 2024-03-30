@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 10.4.38",
+    "h1":"SB 10.4.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 10.4.38",
     "description":"As a disease, if initially neglected, becomes acute and impossible to cure, or as the senses, if not controlled at first, are impossible to control later, an enemy, if neglected in the beginning, later becomes insurmountable."
 }
 ---

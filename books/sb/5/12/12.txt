@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 5.12.12",
+    "h1":"SB 5.12.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 5.12.12",
     "description":"My dear King Rahūgaṇa, unless one has the opportunity to smear his entire body with the dust of the lotus feet of great devotees, one cannot realize the Absolute Truth. One cannot realize the Absolute Truth simply by observing celibacy [brahmacarya], strictly following the rules and regulations of householder life, leaving home as a vānaprastha, accepting sannyāsa, or undergoing severe penances in winter by keeping oneself submerged in water or surrounding oneself in summer by fire and the scorching heat of the sun. There are many other processes to understand the Absolute Truth, but the Absolute Truth is only revealed to one who has attained the mercy of a great devotee."
 }
 ---

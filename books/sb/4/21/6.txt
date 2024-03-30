@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.21.6",
+    "h1":"SB 4.21.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.21.6",
     "description":"Both the important citizens and the common citizens welcomed the King very heartily, and he also bestowed upon them their desired blessings."
 }
 ---

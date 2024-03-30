@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 9.24.12",
+    "h1":"SB 9.24.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 9.24.12",
     "description":"O King, Mahārāja Parīkṣit, who can suppress your enemies, the sons of Vṛṣṇi were Sumitra and Yudhājit. From Yudhājit came Śini and Anamitra, and from Anamitra came a son named Nighna."
 }
 ---

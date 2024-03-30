@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.8.2",
+    "h1":"SB 5.8.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.8.2",
     "description":"O King, while Bharata Mahārāja was sitting on the bank of that river, a doe, being very thirsty, came there to drink."
 }
 ---

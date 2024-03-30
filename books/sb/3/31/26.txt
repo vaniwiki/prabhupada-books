@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.31.26",
+    "h1":"SB 3.31.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.31.26",
     "description":"Laid down on a foul bed infested with sweat and germs, the poor child is incapable of scratching his body to get relief from his itching sensation to say nothing of sitting up, standing or even moving."
 }
 ---

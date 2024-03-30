@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.19.33",
+    "h1":"SB 8.19.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.19.33",
     "description":"You have promised to give Him three steps of land in charity, but when you give it He will occupy the three worlds. You are a rascal! You do not know what a great mistake you have made. After giving everything to Lord Viṣṇu, you will have no means of livelihood. How then shall you live?"
 }
 ---

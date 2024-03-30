@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.1.4",
+    "h1":"SB 4.1.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.1.4",
     "description":"Of the two children born of Ākūti, the male child was directly an incarnation of the Supreme Personality of Godhead, and His name was Yajña, which is another name of Lord Viṣṇu. The female child was a partial incarnation of Lakṣmī, the goddess of fortune, the eternal consort of Lord Viṣṇu."
 }
 ---

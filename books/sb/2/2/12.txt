@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.2.12",
+    "h1":"SB 2.2.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.2.12",
     "description":"The Lord's magnanimous pastimes and the glowing glancing of His smiling face are all indications of His extensive benedictions. One must therefore concentrate on this transcendental form of the Lord, as long as the mind can be fixed on Him by meditation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 6.11.20",
+    "h1":"SB 6.11.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 6.11.20",
     "description":"O Indra, King of heaven, the thunderbolt you carry to kill me has been empowered by the prowess of Lord Viṣṇu and the strength of Dadhīci's austerities. Since you have come here to kill me in accordance with Lord Viṣṇu's order, there is no doubt that I shall be killed by the release of your thunderbolt. Lord Viṣṇu has sided with you. Therefore your victory, opulence and all good qualities are assured."
 }
 ---

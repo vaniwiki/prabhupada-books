@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.2.5",
+    "h1":"SB 4.2.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.2.5",
     "description":"When Dakṣa, the leader of the Prajāpatis, entered that assembly, his personal bodily luster as bright as the effulgence of the sun, the entire assembly was illuminated, and all the assembled personalities became insignificant in his presence."
 }
 ---

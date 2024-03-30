@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.19.7",
+    "h1":"SB 8.19.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.19.7",
     "description":"When Hiraṇyakaśipu heard the news of his brother's being killed, with great anger he went to the residence of Viṣṇu, the killer of his brother, wanting to kill Lord Viṣṇu."
 }
 ---

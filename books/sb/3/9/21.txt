@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.9.21",
+    "h1":"SB 3.9.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.9.21",
     "description":"O object of my worship, I am born from the house of Your lotus navel for the purpose of creating the universe by Your mercy. All these planets of the universe were stationed within Your transcendental abdomen while You were enjoying sleep. Now, Your sleep having ended, Your eyes are open like blossoming lotuses in the morning."
 }
 ---

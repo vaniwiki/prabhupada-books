@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 10.3.13",
+    "h1":"SB 10.3.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 10.3.13",
     "description":"Vasudeva said: My Lord, You are the Supreme Person, beyond material existence, and You are the Supersoul. Your form can be perceived by transcendental knowledge, by which You can be understood as the Supreme Personality of Godhead. I now understand Your position perfectly."
 }
 ---

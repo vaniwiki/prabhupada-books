@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.6.33",
+    "h1":"SB 10.6.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.6.33",
     "description":"The inhabitants of Vraja cut the gigantic body of Pūtanā into pieces with the help of axes. Then they threw the pieces far away, covered them with wood and burned them to ashes."
 }
 ---

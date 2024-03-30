@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.25.9",
+    "h1":"SB 5.25.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.25.9",
     "description":"By His glance, the Supreme Personality of Godhead enables the modes of material nature to act as the causes of universal creation, maintenance and destruction. The Supreme Soul is unlimited and beginningless, and although He is one, He has manifested Himself in many forms. How can human society understand the ways of the Supreme?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.4.14",
+    "h1":"SB 9.4.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.4.14",
     "description":"King Parīkṣit inquired: O great personality, Mahārāja Ambarīṣa was certainly most exalted and meritorious in character. I wish to hear about him. How surprising it is that the curse of a brāhmaṇa, which is insurmountable, could not act upon him."
 }
 ---

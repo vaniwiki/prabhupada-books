@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 9.1.21",
+    "h1":"SB 9.1.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 9.1.21",
     "description":"Śukadeva Gosvāmī said: O King Parīkṣit, after the most famous and powerful Vasiṣṭha made this decision, he offered prayers to the Supreme Person, Viṣṇu, to transform Ilā into a male."
 }
 ---

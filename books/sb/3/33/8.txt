@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.33.8",
+    "h1":"SB 3.33.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.33.8",
     "description":"I believe, my Lord, that You are Lord Viṣṇu Himself under the name of Kapila, and You are the Supreme Personality of Godhead, the Supreme Brahman! The saints and sages, being freed from all the disturbances of the senses and mind, meditate upon You, for by Your mercy only can one become free from the clutches of the three modes of material nature. At the time of dissolution, all the Vedas are sustained in You only."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.25.28",
+    "h1":"SB 3.25.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.25.28",
     "description":"On hearing this statement of the Lord, Devahūti inquired: What kind of devotional service is worth developing and practicing to help me easily and immediately attain the service of Your lotus feet?"
 }
 ---

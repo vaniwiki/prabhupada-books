@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 5.20.39",
+    "h1":"SB 5.20.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 5.20.39",
     "description":"On the top of Lokāloka Mountain are the four gaja-patis, the best of elephants, which were established in the four directions by Lord Brahmā, the supreme spiritual master of the entire universe. The names of those elephants are Ṛṣabha, Puṣkaracūḍa, Vāmana and Aparājita. They are responsible for maintaining the planetary systems of the universe."
 }
 ---

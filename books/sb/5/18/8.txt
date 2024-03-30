@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.18.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.18.8",
+    "h1":"SB 5.18.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.18.8",
     "description":"I offer my respectful obeisances unto Lord Nṛsiṁhadeva, the source of all power. O my Lord who possesses nails and teeth just like thunderbolts, kindly vanquish our demonlike desires for fruitive activity in this material world. Please appear in our hearts and drive away our ignorance so that by Your mercy we may become fearless in the struggle for existence in this material world."
 }
 ---

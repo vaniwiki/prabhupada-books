@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 9.20.12",
+    "h1":"SB 9.20.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 9.20.12",
     "description":"O most beautiful one, it appears to my mind that you must be the daughter of a kṣatriya. Because I belong to the Pūru dynasty, my mind never endeavors to enjoy anything irreligiously."
 }
 ---

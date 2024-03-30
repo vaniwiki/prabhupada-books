@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.18.5",
+    "h1":"SB 3.18.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.18.5",
     "description":"The demon continued: When You fall dead with Your skull smashed by the mace hurled by my arms, the demigods and sages who offer You oblations and sacrifice in devotional service will also automatically cease to exist, like trees without roots."
 }
 ---

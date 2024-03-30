@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.28.4",
+    "h1":"SB 3.28.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.28.4",
     "description":"One should practice nonviolence and truthfulness, should avoid thieving and be satisfied with possessing as much as he needs for his maintenance. He should abstain from sex life, perform austerity, be clean, study the Vedas and worship the supreme form of the Supreme Personality of Godhead."
 }
 ---

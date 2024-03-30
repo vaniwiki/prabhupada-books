@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 10.4.3",
+    "h1":"SB 10.4.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 10.4.3",
     "description":"Kaṁsa immediately got up from bed, thinking, \"Here is Kāla, the supreme time factor, which has taken birth to kill me!\" Thus overwhelmed, Kaṁsa, his hair scattered on his head, at once approached the place where the child had been born."
 }
 ---

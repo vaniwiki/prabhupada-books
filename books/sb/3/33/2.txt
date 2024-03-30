@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.33.2",
+    "h1":"SB 3.33.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.33.2",
     "description":"Devahūti said: Brahmā is said to be unborn because he takes birth from the lotus flower which grows from Your abdomen while You lie in the ocean at the bottom of the universe. But even Brahmā simply meditated upon You, whose body is the source of unlimited universes."
 }
 ---

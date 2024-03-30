@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 3.10.9",
+    "h1":"SB 3.10.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 3.10.9",
     "description":"Lord Brahmā is the most exalted personality in the universe because of his causeless devotional service unto the Lord in mature transcendental knowledge. He therefore created all the fourteen planetary divisions for inhabitation by the different types of living entities."
 }
 ---

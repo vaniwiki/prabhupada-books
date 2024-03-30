@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.8.44",
+    "h1":"SB 4.8.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.8.44",
     "description":"After sitting on your seat, practice the three kinds of breathing exercises, and thus gradually control the life air, the mind and the senses. Completely free yourself from all material contamination, and with great patience begin to meditate on the Supreme Personality of Godhead."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 9.10.25",
+    "h1":"SB 9.10.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 9.10.25",
     "description":"Striking their breasts in affliction because their husbands had been killed by the arrows of Lakṣmaṇa, the women embraced their respective husbands and cried piteously in voices appealing to everyone."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 8.12.23",
+    "h1":"SB 8.12.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 8.12.23",
     "description":"When the ball leaped from Her hand and fell at a distance, the woman began to follow it, but as Lord Śiva observed these activities, a breeze suddenly blew away the fine dress and belt that covered her."
 }
 ---

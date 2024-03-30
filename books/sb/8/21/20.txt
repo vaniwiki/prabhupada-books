@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.21.20",
+    "h1":"SB 8.21.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.21.20",
     "description":"O Daityas, by human efforts no one can supersede the Supreme Personality of Godhead, who can bring happiness and distress to all living entities."
 }
 ---

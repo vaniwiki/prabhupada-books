@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.5.10",
+    "h1":"SB 7.5.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.5.10",
     "description":"O best of your family, has this pollution of your intelligence been brought about by you or by the enemies? We are all your teachers and are very eager to hear about this. Please tell us the truth."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.29.28",
+    "h1":"SB 4.29.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.29.28",
     "description":"Those who are situated in the mode of goodness act piously according to Vedic injunctions. Thus they are elevated to the higher planetary systems where the demigods live. Those who are influenced by the mode of passion engage in various types of productive activities in the planetary systems where human beings live. Similarly, those influenced by the mode of darkness are subjected to various types of misery and live in the animal kingdom."
 }
 ---

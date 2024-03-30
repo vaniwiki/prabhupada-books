@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.10.8",
+    "h1":"SB 7.10.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.10.8",
     "description":"O my Lord, because of lusty desires from the very beginning of one's birth, the functions of one's senses, mind, life, body, religion, patience, intelligence, shyness, opulence, strength, memory and truthfulness are vanquished."
 }
 ---

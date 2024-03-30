@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 6.2.14",
+    "h1":"SB 6.2.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 6.2.14",
     "description":"One who chants the holy name of the Lord is immediately freed from the reactions of unlimited sins, even if he chants indirectly [to indicate something else], jokingly, for musical entertainment, or even neglectfully. This is accepted by all the learned scholars of the scriptures."
 }
 ---

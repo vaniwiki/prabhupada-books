@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.10.4",
+    "h1":"SB 4.10.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.10.4",
     "description":"When Dhruva Mahārāja heard of the killing of his brother Uttama by the Yakṣas in the Himalaya Mountains, being overwhelmed with lamentation and anger, he got on his chariot and went out for victory over the city of the Yakṣas, Alakāpurī."
 }
 ---

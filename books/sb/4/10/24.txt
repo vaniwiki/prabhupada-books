@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.10.24",
+    "h1":"SB 4.10.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.10.24",
     "description":"My dear faultless Vidura, in that rainfall there was blood, mucus, pus, stool, urine and marrow falling heavily before Dhruva Mahārāja, and there were trunks of bodies falling from the sky."
 }
 ---

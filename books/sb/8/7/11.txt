@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.7.11",
+    "h1":"SB 8.7.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.7.11",
     "description":"Thereafter, Lord Viṣṇu entered the demons as the quality of passion, the demigods as the quality of goodness, and Vāsuki as the quality of ignorance to encourage them and increase their various types of strength and energy."
 }
 ---

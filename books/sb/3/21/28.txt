@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.21.28",
+    "h1":"SB 3.21.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.21.28",
     "description":"That princess, O holy sage, will be just the type you have been thinking of in your heart for all these long years. She will soon be yours and will serve you to your heart's content."
 }
 ---

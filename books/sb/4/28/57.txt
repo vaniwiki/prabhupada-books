@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 4.28.57",
+    "h1":"SB 4.28.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 4.28.57",
     "description":"My dear friend, the five gardens are the five objects of sense enjoyment, and the protector is the life air, which passes through the nine gates. The three apartments are the chief ingredients—fire, water and earth. The six families are the aggregate total of the mind and five senses."
 }
 ---

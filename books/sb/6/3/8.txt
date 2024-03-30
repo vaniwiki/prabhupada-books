@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.3.8",
+    "h1":"SB 6.3.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.3.8",
     "description":"But now we see that the punishment ordained under your authority is no longer effective, since your order has been transgressed by four wonderful and perfect persons."
 }
 ---

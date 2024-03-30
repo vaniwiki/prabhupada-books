@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.23.8",
+    "h1":"SB 4.23.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.23.8",
     "description":"By thus practicing severe austerities, Mahārāja Pṛthu gradually became steadfast in spiritual life and completely free of all desires for fruitive activities. He also practiced breathing exercises to control his mind and senses, and by such control he became completely free from all desires for fruitive activity."
 }
 ---

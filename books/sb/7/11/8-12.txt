@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.8-12",
-    "h1":"Text 8-12",
-    "title":" Śrīmad Bhāgavatam 7.11.8-12",
+    "h1":"SB 7.11.8-12",
+    "label":"Text 8-12",
+    "title":"Śrīmad Bhāgavatam 7.11.8-12",
     "description":"These are the general principles to be followed by all human beings: truthfulness, mercy, austerity (observing fasts on certain days of the month), bathing twice a day, tolerance, discrimination between right and wrong, control of the mind, control of the senses, nonviolence, celibacy, charity, reading of scripture, simplicity, satisfaction, rendering service to saintly persons, gradually taking leave of unnecessary engagements, observing the futility of the unnecessary activities of human society, remaining silent and grave and avoiding unnecessary talk, considering whether one is the body or the soul, distributing food equally to all living entities (both men and animals), seeing every soul (especially in the human form) as a part of the Supreme Lord, hearing about the activities and instructions given by the Supreme Personality of Godhead (who is the shelter of the saintly persons), chanting about these activities and instructions, always remembering these activities and instructions, trying to render service, performing worship, offering obeisances, becoming a servant, becoming a friend, and surrendering one's whole self. O King Yudhiṣṭhira, these thirty qualifications must be acquired in the human form of life. Simply by acquiring these qualifications, one can satisfy the Supreme Personality of Godhead."
 }
 ---

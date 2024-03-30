@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.4.4",
+    "h1":"SB 4.4.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.4.4",
     "description":"When they saw Satī leaving alone very rapidly, thousands of Lord Śiva's disciples, headed by Maṇimān and Mada, quickly followed her with his bull Nandī in front and accompanied by the Yakṣas."
 }
 ---

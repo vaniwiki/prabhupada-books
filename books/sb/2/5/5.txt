@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 2.5.5",
+    "h1":"SB 2.5.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 2.5.5",
     "description":"As the spider very easily creates the network of its cobweb and manifests its power of creation without being defeated by others, so also you yourself, by employment of your self-sufficient energy, create without any other's help."
 }
 ---

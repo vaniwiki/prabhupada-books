@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.14.41",
+    "h1":"SB 4.14.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.14.41",
     "description":"The great sages began to think that although a brāhmaṇa is peaceful and impartial because he is equal to everyone, it is still not his duty to neglect poor humans. By such neglect, a brāhmaṇa's spiritual power diminishes, just as water kept in a cracked pot leaks out."
 }
 ---

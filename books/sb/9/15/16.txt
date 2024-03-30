@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 9.15.16",
+    "h1":"SB 9.15.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 9.15.16",
     "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: What was the offense that the kṣatriyas who could not control their senses committed before Lord Paraśurāma, the incarnation of the Supreme Personality of Godhead, for which the Lord annihilated the kṣatriya dynasty again and again?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.18.13",
+    "h1":"SB 4.18.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.18.13",
     "description":"Others, who were as intelligent as King Pṛthu, also took the essence out of the earthly planet. Indeed, everyone took this opportunity to follow in the footsteps of King Pṛthu and get whatever he desired from the planet earth."
 }
 ---

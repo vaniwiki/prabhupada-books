@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.6.22",
+    "h1":"SB 4.6.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.6.22",
     "description":"There is a small lake named Alakanandā in which Satī used to take her bath, and that lake is especially auspicious. All the demigods, after seeing the specific beauty of Kailāsa Hill, were struck with wonder at the great opulence to be found there."
 }
 ---

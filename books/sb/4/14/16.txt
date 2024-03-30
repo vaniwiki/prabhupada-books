@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.14.16",
+    "h1":"SB 4.14.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.14.16",
     "description":"The sages continued: O great hero, for this reason you should not be the cause of spoiling the spiritual life of the general populace. If their spiritual life is spoiled because of your activities, you will certainly fall down from your opulent and royal position."
 }
 ---

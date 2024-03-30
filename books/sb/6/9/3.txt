@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.9.3",
+    "h1":"SB 6.9.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.9.3",
     "description":"Although offering clarified butter in the sacrificial fire in the name of the demigods, without the knowledge of the demigods he also offered oblations to the demons because they were his relatives through his mother."
 }
 ---

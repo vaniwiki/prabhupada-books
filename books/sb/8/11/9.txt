@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 8.11.9",
+    "h1":"SB 8.11.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 8.11.9",
     "description":"You demigods think that your own selves are the cause of your attaining fame and victory. Because of your ignorance, saintly persons feel sorry for you. Therefore, although your words afflict the heart, we do not accept them."
 }
 ---

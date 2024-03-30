@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.11.33",
+    "h1":"SB 4.11.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.11.33",
     "description":"My dear Dhruva, you thought that the Yakṣas killed your brother, and therefore you have killed great numbers of them. But by this action you have agitated the mind of Lord Śiva's brother Kuvera, who is the treasurer of the demigods. Please note that your actions have been very disrespectful to Kuvera and Lord Śiva."
 }
 ---

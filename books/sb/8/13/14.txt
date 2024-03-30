@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.13.14",
+    "h1":"SB 8.13.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.13.14",
     "description":"With great affection, the Personality of Godhead bound Bali and then installed him in the kingdom of Sutala, which is more opulent than the heavenly planets. Mahārāja Bali now resides on that planet and is more comfortably situated than Indra."
 }
 ---

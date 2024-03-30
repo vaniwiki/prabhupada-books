@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 9.16.5",
+    "h1":"SB 9.16.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 9.16.5",
     "description":"The great sage Jamadagni understood the adultery in the mind of his wife. Therefore he was very angry and told his sons, \"My dear sons, kill this sinful woman!\" But the sons did not carry out his order."
 }
 ---

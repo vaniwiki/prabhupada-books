@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 4.7.48",
+    "h1":"SB 4.7.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 4.7.48",
     "description":"Śrī Maitreya said: After Lord Viṣṇu was glorified by all present, Dakṣa, his consciousness purified, arranged to begin again the yajña which had been devastated by the followers of Lord Śiva."
 }
 ---

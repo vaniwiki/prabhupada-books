@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.21.32",
+    "h1":"SB 4.21.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.21.32",
     "description":"When a devotee takes shelter at the lotus feet of the Supreme Personality of Godhead, he is completely cleansed of all misunderstanding or mental speculation, and he manifests renunciation. This is possible only when one is strengthened by practicing bhakti-yoga. Once having taken shelter at the root of the lotus feet of the Lord, a devotee never comes back to this material existence, which is full of the threefold miseries."
 }
 ---

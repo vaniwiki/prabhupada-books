@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 10.3.27",
+    "h1":"SB 10.3.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 10.3.27",
     "description":"No one in this material world has become free from the four principles birth, death, old age and disease, even by fleeing to various planets. But now that You have appeared, My Lord, death is fleeing in fear of You, and the living entities, having obtained shelter at Your lotus feet by Your mercy, are sleeping in full mental peace."
 }
 ---

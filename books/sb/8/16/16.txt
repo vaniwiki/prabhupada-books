@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.16.16",
+    "h1":"SB 8.16.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.16.16",
     "description":"The demons, our formidably powerful enemies, have taken away our opulence, our beauty, our fame and even our residence. Indeed, we have now been exiled, and we are drowning in an ocean of trouble."
 }
 ---

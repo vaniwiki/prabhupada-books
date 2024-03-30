@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.25.8",
+    "h1":"SB 5.25.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.25.8",
     "description":"If persons who are very serious about being liberated from material life hear the glories of Anantadeva from the mouth of a spiritual master in the chain of disciplic succession, and if they always meditate upon Saṅkarṣaṇa, the Lord enters the cores of their hearts, vanquishes all the dirty contamination of the material modes of nature, and cuts to pieces the hard knot within the heart, which has been tied tightly since time immemorial by the desire to dominate material nature through fruitive activities. Nārada Muni, the son of Lord Brahmā, always glorifies Anantadeva in his father's assembly. There he sings blissful verses of his own composition, accompanied by his stringed instrument [or a celestial singer] known as Tumburu."
 }
 ---

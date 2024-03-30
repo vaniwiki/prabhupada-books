@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.16.3",
+    "h1":"SB 8.16.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.16.3",
     "description":"O best of the Kurus, when Kaśyapa Muni had been properly received and welcomed, he took his seat and then spoke as follows to his wife, Aditi, who was very morose."
 }
 ---

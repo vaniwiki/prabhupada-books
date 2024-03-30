@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.19.23",
+    "h1":"SB 9.19.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.19.23",
     "description":"Yayāti enthroned his youngest son, Pūru, as the emperor of the entire world and the proprietor of all its riches, and he placed all the other sons, who were older than Pūru, under Pūru's control."
 }
 ---

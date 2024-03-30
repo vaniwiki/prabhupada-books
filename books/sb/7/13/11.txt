@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 7.13.11",
+    "h1":"SB 7.13.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 7.13.11",
     "description":"As a historical example of this, learned sages recite the story of an ancient discussion between Prahlāda Mahārāja and a great saintly person who was feeding himself like a python."
 }
 ---

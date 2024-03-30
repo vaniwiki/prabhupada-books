@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 4.30.39-40",
+    "h1":"SB 4.30.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 4.30.39-40",
     "description":"Dear Lord, we have studied the Vedas, accepted a spiritual master and offered respect to brāhmaṇas, advanced devotees and aged personalities who are spiritually very advanced. We have offered our respects to them, and we have not been envious of any brother, friends or anyone else. We have also undergone severe austerities within the water and have not taken food for a long time. All these spiritual assets of ours are simply offered for Your satisfaction. We pray for this benediction only, and nothing more."
 }
 ---

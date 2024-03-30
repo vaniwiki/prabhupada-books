@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.7.51",
+    "h1":"SB 4.7.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.7.51",
     "description":"The Lord continued: My dear Dakṣa Dvija, I am the original Personality of Godhead, but in order to create, maintain and annihilate this cosmic manifestation, I act through My material energy, and according to the different grades of activity, My representations are differently named."
 }
 ---

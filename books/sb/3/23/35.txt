@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 3.23.35",
+    "h1":"SB 3.23.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 3.23.35",
     "description":"She was amazed to find herself surrounded by a thousand maids in the presence of her husband and to witness his yogic power."
 }
 ---

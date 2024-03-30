@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 7.14.9",
+    "h1":"SB 7.14.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 7.14.9",
     "description":"One should treat animals such as deer, camels, asses, monkeys, mice, snakes, birds and flies exactly like one's own son. How little difference there actually is between children and these innocent animals."
 }
 ---

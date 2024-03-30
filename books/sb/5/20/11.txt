@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.20.11",
+    "h1":"SB 5.20.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.20.11",
     "description":"Strictly following the cult of varṇāśrama-dharma, the inhabitants of those islands, who are known as Śrutidharas, Vīryadharas, Vasundharas and Iṣandharas, all worship the expansion of the Supreme Personality of Godhead named Soma, the moon-god."
 }
 ---

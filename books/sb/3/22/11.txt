@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.22.11",
+    "h1":"SB 3.22.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.22.11",
     "description":"Therefore please accept her, O chief of the brāhmaṇas, for I offer her with faith and she is in every respect fit to be your wife and take charge of your household duties."
 }
 ---

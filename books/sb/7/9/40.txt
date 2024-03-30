@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 7.9.40",
+    "h1":"SB 7.9.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 7.9.40",
     "description":"My dear Lord, O infallible one, my position is like that of a person who has many wives, all trying to attract him in their own way. For example, the tongue is attracted to palatable dishes, the genitals to sex with an attractive woman, and the sense of touch to contact with soft things. The belly, although filled, still wants to eat more, and the ear, not attempting to hear about You, is generally attracted to cinema songs. The sense of smell is attracted to yet another side, the restless eyes are attracted to scenes of sense gratification, and the active senses are attracted elsewhere. In this way I am certainly embarrassed."
 }
 ---

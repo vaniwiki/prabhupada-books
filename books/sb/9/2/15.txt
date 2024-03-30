@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 9.2.15",
+    "h1":"SB 9.2.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 9.2.15",
     "description":"Being reluctant to accept material enjoyment, Manu's youngest son, whose name was Kavi, gave up the kingdom before attaining full youth. Accompanied by his friends, he went to the forest, always thinking of the self-effulgent Supreme Personality of Godhead within the core of his heart. Thus he attained perfection."
 }
 ---

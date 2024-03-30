@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.25.8",
+    "h1":"SB 3.25.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.25.8",
     "description":"Your Lordship is my only means of getting out of this darkest region of ignorance because You are my transcendental eye, which, by Your mercy only, I have attained after many, many births."
 }
 ---

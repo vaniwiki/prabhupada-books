@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.14.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.14.11",
+    "h1":"SB 8.14.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.14.11",
     "description":"In one kalpa, or one day of Brahmā, there take place the many changes called vikalpas. O King, all of these have been previously described to you by me. Learned scholars who know the past, present and future have ascertained that in one day of Brahmā there are fourteen Manus."
 }
 ---

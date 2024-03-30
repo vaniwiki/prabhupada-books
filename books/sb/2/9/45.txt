@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 2.9.45",
+    "h1":"SB 2.9.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 2.9.45",
     "description":"In succession, O King, the great sage Nārada instructed Śrīmad-Bhāgavatam unto the unlimitedly powerful Vyāsadeva, who meditated in devotional service upon the Supreme Personality of Godhead, the Absolute Truth, on the bank of the River Sarasvatī."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.15.22",
+    "h1":"SB 7.15.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.15.22",
     "description":"By making plans with determination, one should give up lusty desires for sense gratification. Similarly, by giving up envy one should conquer anger, by discussing the disadvantages of accumulating wealth one should give up greed, and by discussing the truth one should give up fear."
 }
 ---

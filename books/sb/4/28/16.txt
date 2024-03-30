@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.28.16",
+    "h1":"SB 4.28.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.28.16",
     "description":"King Purañjana then began to think of his daughters, sons, grandsons, daughters-in-law, sons-in-law, servants and other associates as well as his house, his household paraphernalia and his little accumulation of wealth."
 }
 ---

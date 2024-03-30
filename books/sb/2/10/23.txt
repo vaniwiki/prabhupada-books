@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 2.10.23",
+    "h1":"SB 2.10.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 2.10.23",
     "description":"When there was a desire to perceive the physical characteristics of matter, such as softness, hardness, warmth, cold, lightness and heaviness, the background of sensation, the skin, the skin pores, the hairs on the body and their controlling deities (the trees) were generated. Within and outside the skin is a covering of air through which sense perception became prominent."
 }
 ---

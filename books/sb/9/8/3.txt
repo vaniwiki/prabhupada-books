@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.8.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 9.8.3",
+    "h1":"SB 9.8.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 9.8.3",
     "description":"Bāhuka died when he was old, and one of his wives wanted to die with him, following the satī rite. At that time, however, Aurva Muni, knowing her to be pregnant, forbade her to die."
 }
 ---

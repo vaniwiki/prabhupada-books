@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.4.8",
+    "h1":"SB 5.4.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.4.8",
     "description":"After Nābhi Mahārāja departed for Badarikāśrama, the Supreme Lord, Ṛṣabhadeva, understood that His kingdom was His field of activities. He therefore showed Himself as an example and taught the duties of a householder by first accepting brahmacarya under the direction of spiritual masters. He also went to live at the spiritual masters' place, gurukula. After His education was finished, He gave gifts (guru-dakṣiṇā) to His spiritual masters and then accepted the life of a householder. He took a wife named Jayantī and begot one hundred sons who were as powerful and qualified as He Himself. His wife Jayantī had been offered to Him by Indra, the King of heaven. Ṛṣabhadeva and Jayantī performed householder life in an exemplary way, carrying out ritualistic activities ordained by the śruti and smṛti śāstra."
 }
 ---

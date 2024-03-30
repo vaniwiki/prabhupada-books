@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.10.26",
+    "h1":"SB 9.10.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.10.26",
     "description":"O my lord, O master! You epitomized trouble for others, and therefore you were called Rāvaṇa. But now that you have been defeated, we also are defeated, for without you the state of Laṅkā has been conquered by the enemy. To whom will it go for shelter?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 7.1.13",
+    "h1":"SB 7.1.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 7.1.13",
     "description":"Formerly, O King, when Mahārāja Yudhiṣṭhira was performing the Rājasūya sacrifice, the great sage Nārada, responding to his inquiry, recited historical facts showing how the Supreme Personality of Godhead is always impartial, even when killing demons. In this regard he gave a vivid example."
 }
 ---

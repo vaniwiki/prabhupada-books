@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 2.4.8",
+    "h1":"SB 2.4.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 2.4.8",
     "description":"O learned brāhmaṇa, the transcendental activities of the Lord are all wonderful, and they appear inconceivable because even great endeavors by many learned scholars have still proved insufficient for understanding them."
 }
 ---

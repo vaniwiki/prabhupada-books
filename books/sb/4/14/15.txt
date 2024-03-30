@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.14.15",
+    "h1":"SB 4.14.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.14.15",
     "description":"Those who live according to religious principles and who follow them by words, mind, body and intelligence are elevated to the heavenly kingdom, which is devoid of all miseries. Being thus rid of the material influence, they achieve unlimited happiness in life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 8.8.39-40",
+    "h1":"SB 8.8.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 8.8.39-40",
     "description":"Some of the demons said, \"All the demigods have taken part in churning the ocean of milk. Now, as everyone has an equal right to partake in any public sacrifice, according to the eternal religious system it is befitting that the demigods now have a share of the nectar.\" O King, in this way the weaker demons forbade the stronger demons to take the nectar."
 }
 ---

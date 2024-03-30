@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.27-28",
-    "h1":"Text 27-28",
-    "title":" Śrīmad Bhāgavatam 9.22.27-28",
+    "h1":"SB 9.22.27-28",
+    "label":"Text 27-28",
+    "title":"Śrīmad Bhāgavatam 9.22.27-28",
     "description":"Pāṇḍu was restrained from sexual life because of having been cursed by a sage, and therefore his three sons Yudhiṣṭhira, Bhīma and Arjuna were begotten through the womb of his wife, Kuntī, by Dharmarāja, by the demigod controlling the wind, and by the demigod controlling the rain. Pāṇḍu's second wife, Mādrī, gave birth to Nakula and Sahadeva, who were begotten by the two Aśvinī-kumāras. The five brothers, headed by Yudhiṣṭhira, begot five sons through the womb of Draupadī. These five sons were your uncles."
 }
 ---

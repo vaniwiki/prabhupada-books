@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.12.41",
+    "h1":"SB 4.12.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.12.41",
     "description":"The great sage Nārada said: Simply by the influence of his spiritual advancement and powerful austerity, Dhruva Mahārāja, the son of Sunīti, who was devoted to her husband, acquired an exalted position not possible to attain even for the so-called Vedāntists or strict followers of the Vedic principles, not to speak of ordinary human beings."
 }
 ---

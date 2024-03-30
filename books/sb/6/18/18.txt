@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 6.18.18",
+    "h1":"SB 6.18.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 6.18.18",
     "description":"Since King Bāṇa was a great worshiper of Lord Śiva, he became one of Lord Śiva's most celebrated associates. Even now, Lord Śiva protects King Bāṇa's capital and always stands beside him."
 }
 ---

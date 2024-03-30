@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 4.21.49",
+    "h1":"SB 4.21.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 4.21.49",
     "description":"The audience continued: Dear King Pṛthu, your reputation is the purest of all, for you are preaching the glories of the most glorified of all, the Supreme Personality of Godhead, the Lord of the brāhmaṇas. Since, due to our great fortune, we have you as our master, we think that we are living directly under the agency of the Lord."
 }
 ---

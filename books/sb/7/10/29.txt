@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 7.10.29",
+    "h1":"SB 7.10.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 7.10.29",
     "description":"My dear Lord, O Supreme Personality of Godhead, You are the Supreme Soul. If one meditates upon Your transcendental body, You naturally protect him from all sources of fear, even the imminent danger of death."
 }
 ---

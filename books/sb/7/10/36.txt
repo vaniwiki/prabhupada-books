@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 7.10.36",
+    "h1":"SB 7.10.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 7.10.36",
     "description":"Being cursed by the brāhmaṇas, the same two associates took birth again as Kumbhakarṇa and the ten-headed Rāvaṇa. These two Rākṣasas were killed by Lord Rāmacandra's extraordinary power."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.18.19",
+    "h1":"SB 8.18.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.18.19",
     "description":"After Lord Śrī Vāmanadeva set a sacrificial fire, He offered worship and performed a fire sacrifice on the sacrificial field."
 }
 ---

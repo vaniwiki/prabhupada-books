@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.10.23",
+    "h1":"SB 3.10.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.10.23",
     "description":"The horse, mule, ass, gaura, śarabha bison and wild cow all have only one hoof. Now you may hear from me about the animals who have five nails."
 }
 ---

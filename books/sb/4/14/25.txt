@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.14.25",
+    "h1":"SB 4.14.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.14.25",
     "description":"You are so much devoted to the demigods, but who are they? Indeed, your affection for these demigods is exactly like the affection of an unchaste woman who neglects her married life and gives all attention to her paramour."
 }
 ---

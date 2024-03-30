@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 6.4.14",
+    "h1":"SB 6.4.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 6.4.14",
     "description":"One who inquires into self-realization and thus subdues his powerful anger—which awakens suddenly in the body as if falling from the sky—transcends the influence of the modes of material nature."
 }
 ---

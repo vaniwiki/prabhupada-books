@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.24.40",
+    "h1":"SB 4.24.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.24.40",
     "description":"My dear Lord, by expanding Your transcendental vibrations, You reveal the actual meaning of everything. You are the all-pervading sky within and without, and You are the ultimate goal of pious activities executed both within this material world and beyond it. I therefore offer my respectful obeisances again and again unto You."
 }
 ---

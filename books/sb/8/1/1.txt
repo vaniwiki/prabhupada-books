@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.1.1",
+    "h1":"SB 8.1.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.1.1",
     "description":"King Parīkṣit said: O my lord, my spiritual master, now I have fully heard from Your Grace about the dynasty of Svāyambhuva Manu. But there are also other Manus, and I want to hear about their dynasties. Kindly describe them to us."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 6.12.35",
+    "h1":"SB 6.12.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 6.12.35",
     "description":"O King Parīkṣit, subduer of enemies, the living spark then came forth from Vṛtrāsura's body and returned home, back to Godhead. While all the demigods looked on, he entered the transcendental world to become an associate of Lord Saṅkarṣaṇa."
 }
 ---

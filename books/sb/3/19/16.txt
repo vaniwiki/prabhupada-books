@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.19.16",
+    "h1":"SB 3.19.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.19.16",
     "description":"Hit in this manner by the demon, O Vidura, the Lord, who had appeared as the first boar, did not feel the least quaking in any part of His body, any more than an elephant would when struck with a wreath of flowers."
 }
 ---

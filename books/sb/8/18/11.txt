@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.18.11",
+    "h1":"SB 8.18.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.18.11",
     "description":"When Aditi saw the Supreme Personality of Godhead, who had appeared from her own womb, having accepted a transcendental body by His own spiritual potency, she was struck with wonder and was very happy. Upon seeing the child, Prajāpati Kaśyapa exclaimed, \"Jaya! Jaya!\" in great happiness and wonder."
 }
 ---

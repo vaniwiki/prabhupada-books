@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 10.11.51",
+    "h1":"SB 10.11.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 10.11.51",
     "description":"When Kṛṣṇa, the leader of the Vaiṣṇavas, saw that the demon Bakāsura, the friend of Kaṁsa, was endeavoring to attack Him, with His arms He captured the demon by the two halves of the beak, and in the presence of all the cowherd boys Kṛṣṇa very easily bifurcated him, as a child splits a blade of vīraṇa grass. By thus killing the demon, Kṛṣṇa very much pleased the denizens of heaven."
 }
 ---

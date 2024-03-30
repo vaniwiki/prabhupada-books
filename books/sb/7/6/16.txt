@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 7.6.16",
+    "h1":"SB 7.6.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 7.6.16",
     "description":"O my friends, sons of demons! In this material world, even those who are apparently advanced in education have the propensity to consider, \"This is mine, and that is for others.\" Thus they are always engaged in providing the necessities of life to their families in a limited conception of family life, just like uneducated cats and dogs. They are unable to take to spiritual knowledge; instead, they are bewildered and overcome by ignorance."
 }
 ---

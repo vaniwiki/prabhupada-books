@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 10.1.40",
+    "h1":"SB 10.1.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 10.1.40",
     "description":"Just as a person traveling on the road rests one foot on the ground and then lifts the other, or as a worm on a vegetable transfers itself to one leaf and then gives up the previous one, the conditioned soul takes shelter of another body and then gives up the one he had before."
 }
 ---

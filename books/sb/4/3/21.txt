@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.3.21",
+    "h1":"SB 4.3.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.3.21",
     "description":"One who is conducted by false ego and thus always distressed, both mentally and sensually, cannot tolerate the opulence of self-realized persons. Being unable to rise to the standard of self-realization, he envies such persons as much as demons envy the Supreme Personality of Godhead."
 }
 ---

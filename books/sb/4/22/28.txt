@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.22.28",
+    "h1":"SB 4.22.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.22.28",
     "description":"When the soul exists for sense gratification, he creates different desires, and for that reason he becomes subjected to designations. But when one is in the transcendental position, he is no longer interested in anything except fulfilling the desires of the Lord."
 }
 ---

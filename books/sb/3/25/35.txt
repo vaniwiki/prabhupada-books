@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 3.25.35",
+    "h1":"SB 3.25.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 3.25.35",
     "description":"O My mother, My devotees always see the smiling face of My form, with eyes like the rising morning sun. They like to see My various transcendental forms, which are all benevolent, and they also talk favorably with Me."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.3-4",
-    "h1":"Text 3-4",
-    "title":" Śrīmad Bhāgavatam 2.4.3-4",
+    "h1":"SB 2.4.3-4",
+    "label":"Text 3-4",
+    "title":"Śrīmad Bhāgavatam 2.4.3-4",
     "description":"O great sages, the great soul Mahārāja Parīkṣit, constantly rapt in thought of Lord Kṛṣṇa, knowing well of his imminent death, renounced all sorts of fruitive activities, namely acts of religion, economic development and sense gratification, and thus fixed himself firmly in his natural love for Kṛṣṇa and asked all these questions, exactly as you are asking me."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.16.21",
+    "h1":"SB 6.16.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.16.21",
     "description":"The words and mind of the conditioned soul cannot approach the Supreme Personality of Godhead, for material names and forms are not applicable to the Lord, who is entirely spiritual, beyond the conception of gross and subtle forms. The impersonal Brahman is another of His forms. May He, by His pleasure, protect us."
 }
 ---

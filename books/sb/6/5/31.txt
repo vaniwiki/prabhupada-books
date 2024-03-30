@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 6.5.31",
+    "h1":"SB 6.5.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 6.5.31",
     "description":"A brother aware of the principles of religion follows in the footsteps of his elder brothers. Because of being highly elevated, such a pious brother gets the opportunity to associate and enjoy with demigods like the Maruts, who are all affectionate to their brothers."
 }
 ---

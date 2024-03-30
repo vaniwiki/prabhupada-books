@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.32.4",
+    "h1":"SB 3.32.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.32.4",
     "description":"All the planets of the materialistic persons, including all the heavenly planets, such as the moon, are vanquished when the Supreme Personality of Godhead, Hari, goes to His bed of serpents, which is known as Ananta Śeṣa."
 }
 ---

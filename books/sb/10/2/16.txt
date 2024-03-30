@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 10.2.16",
+    "h1":"SB 10.2.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 10.2.16",
     "description":"Thus the Supreme Personality of Godhead, who is the Supersoul of all living entities and who vanquishes all the fear of His devotees, entered the mind of Vasudeva in full opulence."
 }
 ---

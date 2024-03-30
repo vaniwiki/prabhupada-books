@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 4.7.53",
+    "h1":"SB 4.7.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 4.7.53",
     "description":"A person with average intelligence does not think the head and other parts of the body to be separate. Similarly, My devotee does not differentiate Viṣṇu, the all-pervading Personality of Godhead, from any thing or any living entity."
 }
 ---

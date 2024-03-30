@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 5.20.38",
+    "h1":"SB 5.20.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 5.20.38",
     "description":"Learned scholars who are free from mistakes, illusions and propensities to cheat have thus described the planetary systems and their particular symptoms, measurements and locations. With great deliberation, they have established the truth that the distance between Sumeru and the mountain known as Lokāloka is one fourth of the diameter of the universe—or, in other words, 125,000,000 yojanas [1 billion miles]."
 }
 ---

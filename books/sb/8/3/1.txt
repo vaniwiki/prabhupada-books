@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.3.1",
+    "h1":"SB 8.3.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.3.1",
     "description":"Śrī Śukadeva Gosvāmī continued: Thereafter, the King of the elephants, Gajendra, fixed his mind in his heart with perfect intelligence and chanted a mantra which he had learned in his previous birth as Indradyumna and which he remembered by the grace of Kṛṣṇa."
 }
 ---

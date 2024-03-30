@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.1.13",
+    "h1":"SB 5.1.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.1.13",
     "description":"My dear Priyavrata, by the order of the Supreme Personality of Godhead, all living entities accept different types of bodies for birth and death, activity, lamentation, illusion, fear of future dangers, and happiness and distress."
 }
 ---

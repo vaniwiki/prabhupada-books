@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 5.15.12",
+    "h1":"SB 5.15.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 5.15.12",
     "description":"In Mahārāja Gaya's sacrifices, there was a great supply of the intoxicant known as soma. King Indra used to come and become intoxicated by drinking large quantities of soma-rasa. Also, the Supreme Personality of Godhead, Lord Viṣṇu [the yajña-puruṣa] also came and personally accepted all the sacrifices offered unto Him with pure and firm devotion in the sacrificial arena."
 }
 ---

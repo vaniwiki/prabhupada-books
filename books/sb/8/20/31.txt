@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.20.31",
+    "h1":"SB 8.20.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.20.31",
     "description":"The Lord's conchshell, named Pāñcajanya, which made sounds like that of a cloud; the very forceful club named Kaumodakī; the sword named Vidyādhara, with a shield decorated with hundreds of moonlike spots; and also Akṣayasāyaka, the best of quivers—all of these appeared together to offer prayers to the Lord."
 }
 ---

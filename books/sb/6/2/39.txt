@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 6.2.39",
+    "h1":"SB 6.2.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 6.2.39",
     "description":"Because of a moment's association with devotees [the Viṣṇudūtas], Ajāmila detached himself from the material conception of life with determination. Thus freed from all material attraction, he immediately started for Hardwar."
 }
 ---

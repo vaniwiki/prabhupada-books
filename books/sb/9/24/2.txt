@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 9.24.2",
+    "h1":"SB 9.24.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 9.24.2",
     "description":"The son of Romapāda was Babhru, from whom there came a son named Kṛti. The son of Kṛti was Uśika, and the son of Uśika was Cedi. From Cedi was born the king known as Caidya and others."
 }
 ---

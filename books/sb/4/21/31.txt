@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.21.31",
+    "h1":"SB 4.21.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.21.31",
     "description":"By the inclination to serve the lotus feet of the Supreme Personality of Godhead, suffering humanity can immediately cleanse the dirt which has accumulated in their minds during innumerable births. Like the Ganges water, which emanates from the toes of the lotus feet of the Lord, such a process immediately cleanses the mind, and thus spiritual or Kṛṣṇa consciousness gradually increases."
 }
 ---

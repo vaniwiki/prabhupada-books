@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.28.7",
+    "h1":"SB 3.28.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.28.7",
     "description":"By these processes, or any other true process, one must control the contaminated, unbridled mind, which is always attracted by material enjoyment, and thus fix himself in thought of the Supreme Personality of Godhead."
 }
 ---

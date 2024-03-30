@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 7.10.21",
+    "h1":"SB 7.10.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 7.10.21",
     "description":"Those who follow your example will naturally become My pure devotees. You are the best example of My devotee, and others should follow in your footsteps."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 10.12.18",
+    "h1":"SB 10.12.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 10.12.18",
     "description":"Upon seeing this demon's wonderful form, which resembled a great python, the boys thought that it must be a beautiful scenic spot of Vṛndāvana. Thereafter, they imagined it to be similar to the mouth of a great python. In other words, the boys, unafraid, thought that it was a statue made in the shape of a great python for the enjoyment of their pastimes."
 }
 ---

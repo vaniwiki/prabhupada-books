@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 7.6.19",
+    "h1":"SB 7.6.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 7.6.19",
     "description":"My dear sons of demons, the Supreme Personality of Godhead, Nārāyaṇa, is the original Supersoul, the father of all living entities. Consequently there are no impediments to pleasing Him or worshiping Him under any conditions, whether one be a child or an old man. The relationship between the living entities and the Supreme Personality of Godhead is always a fact, and therefore there is no difficulty in pleasing the Lord."
 }
 ---

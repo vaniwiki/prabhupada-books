@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.1.20",
+    "h1":"SB 3.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.1.20",
     "description":"Thus, when he was in the land of Bhāratavarṣa traveling to all the places of pilgrimage, he visited Prabhāsakṣetra. At that time Mahārāja Yudhiṣṭhira was the emperor and held the world under one military strength and one flag."
 }
 ---

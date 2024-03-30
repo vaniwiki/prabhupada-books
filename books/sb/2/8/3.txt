@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 2.8.3",
+    "h1":"SB 2.8.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 2.8.3",
     "description":"O greatly fortunate Śukadeva Gosvāmī, please continue narrating Śrīmad-Bhāgavatam so that I can place my mind upon the Supreme Soul, Lord Kṛṣṇa, and, being completely freed from material qualities, thus relinquish this body."
 }
 ---

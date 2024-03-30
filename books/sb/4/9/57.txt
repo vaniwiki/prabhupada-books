@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 4.9.57",
+    "h1":"SB 4.9.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 4.9.57",
     "description":"All the quadrangles, lanes and streets in the city, and the raised sitting places at the crossings, were thoroughly cleansed and sprinkled with sandalwood water; and auspicious grains such as rice and barley, and flowers, fruits and many other auspicious presentations were scattered all over the city."
 }
 ---

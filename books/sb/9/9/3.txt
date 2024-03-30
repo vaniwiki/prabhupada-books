@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 9.9.3",
+    "h1":"SB 9.9.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 9.9.3",
     "description":"Thereafter, mother Ganges appeared before King Bhagīratha and said, \"I am very much satisfied with your austerities and am now prepared to give you benedictions as you desire.\" Being thus addressed by Gaṅgādevī, mother Ganges, the King bowed his head before her and explained his desire."
 }
 ---

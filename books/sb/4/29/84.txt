@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.84",
-    "h1":"Text 84",
-    "title":" Śrīmad Bhāgavatam 4.29.84",
+    "h1":"SB 4.29.84",
+    "label":"Text 84",
+    "title":"Śrīmad Bhāgavatam 4.29.84",
     "description":"This narration spoken by the great sage Nārada is full of the transcendental fame of the Supreme Personality of Godhead. Consequently this narration, when described, certainly sanctifies this material world. It purifies the heart of the living entity and helps him attain his spiritual identity. One who relates this transcendental narration will be liberated from all material bondage and will no longer have to wander within this material world."
 }
 ---

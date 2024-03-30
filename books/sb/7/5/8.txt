@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.5.8",
+    "h1":"SB 7.5.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.5.8",
     "description":"When Hiraṇyakaśipu's servants brought the boy Prahlāda back to the guru-kula [the place where the brāhmaṇas taught the boys], the priests of the demons, Ṣaṇḍa and Amarka, pacified him. With very mild voices and affectionate words, they inquired from him as follows."
 }
 ---

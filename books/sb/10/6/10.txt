@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 10.6.10",
+    "h1":"SB 10.6.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 10.6.10",
     "description":"On that very spot, the fiercely dangerous Rākṣasī took Kṛṣṇa on her lap and pushed her breast into His mouth. The nipple of her breast was smeared with a dangerous, immediately effective poison, but the Supreme Personality of Godhead, Kṛṣṇa, becoming very angry at her, took hold of her breast, squeezed it very hard with both hands, and sucked out both the poison and her life."
 }
 ---

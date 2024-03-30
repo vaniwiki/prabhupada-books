@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.14.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.14.1",
+    "h1":"SB 8.14.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.14.1",
     "description":"Mahārāja Parīkṣit inquired: O most opulent Śukadeva Gosvāmī, please explain to me how Manu and the others in each manvantara are engaged in their respective duties, and by whose order they are so engaged."
 }
 ---

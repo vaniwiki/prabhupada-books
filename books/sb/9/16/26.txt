@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.16.26",
+    "h1":"SB 9.16.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.16.26",
     "description":"Lord Paraśurāma still lives as an intelligent brāhmaṇa in the mountainous country known as Mahendra. Completely satisfied, having given up all the weapons of a kṣatriya, he is always worshiped, adored and offered prayers for his exalted character and activities by such celestial beings as the Siddhas, Cāraṇas and Gandharvas."
 }
 ---

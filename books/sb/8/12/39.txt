@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 8.12.39",
+    "h1":"SB 8.12.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 8.12.39",
     "description":"My dear Lord Śambhu, who within this material world but you can surpass My illusory energy? People are generally attached to sense enjoyment and conquered by its influence. Indeed, the influence of material nature is very difficult for them to surmount."
 }
 ---

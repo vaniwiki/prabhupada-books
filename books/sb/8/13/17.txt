@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.13.17",
+    "h1":"SB 8.13.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.13.17",
     "description":"In the eighth manvantara, the greatly powerful Personality of Godhead Sārvabhauma will take birth. His father will be Devaguhya, and His mother will be Sarasvatī. He will take the kingdom away from Purandara [Lord Indra] and give it to Bali Mahārāja."
 }
 ---

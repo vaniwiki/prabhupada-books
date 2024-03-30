@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.19.16",
+    "h1":"SB 4.19.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.19.16",
     "description":"Being thus informed, the grandson of King Vena immediately began to follow Indra, who was fleeing through the sky in great haste. He was very angry with him, and he chased him just as the king of the vultures chased Rāvaṇa."
 }
 ---

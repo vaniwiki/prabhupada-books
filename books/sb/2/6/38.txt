@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 2.6.38",
+    "h1":"SB 2.6.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 2.6.38",
     "description":"Let us offer our respectful obeisances unto that Supreme Personality of Godhead, whose incarnations and activities are chanted by us for glorification, though He can hardly be fully known as He is."
 }
 ---

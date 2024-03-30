@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 2.1.32",
+    "h1":"SB 2.1.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 2.1.32",
     "description":"Modesty is the upper portion of His lips, hankering is His chin, religion is the breast of the Lord, and irreligion is His back. Brahmājī, who generates all living beings in the material world, is His genitals, and the Mitrā-varuṇas are His two testicles. The ocean is His waist, and the hills and mountains are the stacks of His bones."
 }
 ---

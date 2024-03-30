@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.10.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 5.10.23",
+    "h1":"SB 5.10.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 5.10.23",
     "description":"My dear sir, you have said that the relationship between the king and the subject or between the master and the servant are not eternal, but although such relationships are temporary, when a person takes the position of a king, his duty is to rule the citizens and punish those who are disobedient to the laws. By punishing them, he teaches the citizens to obey the laws of the state. Again, you have said that punishing a person who is deaf and dumb is like chewing the chewed or grinding the pulp; that is to say, there is no benefit in it. However, if one is engaged in his own occupational duty as ordered by the Supreme Lord, his sinful activities are certainly diminished. Therefore if one is engaged in his occupational duty by force, he benefits because he can vanquish all his sinful activities in that way."
 }
 ---

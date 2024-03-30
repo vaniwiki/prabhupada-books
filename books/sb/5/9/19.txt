@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.9.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 5.9.19",
+    "h1":"SB 5.9.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 5.9.19",
     "description":"When an envious person commits an offense before a great personality, he is always punished in the way mentioned above."
 }
 ---

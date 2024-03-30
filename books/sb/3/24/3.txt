@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.24.3",
+    "h1":"SB 3.24.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.24.3",
     "description":"You have undertaken sacred vows. God will bless you. Hence you should worship the Lord with great faith, through sensory control, religious observances, austerities and gifts of your money in charity."
 }
 ---

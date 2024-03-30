@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.8.3",
+    "h1":"SB 3.8.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.8.3",
     "description":"Some time ago, being inquisitive to know, Sanat-kumāra, the chief of the boy-saints, accompanied by other great sages, inquired exactly like you about the truths regarding Vāsudeva, the Supreme, from Lord Saṅkarṣaṇa, who is seated at the bottom of the universe."
 }
 ---

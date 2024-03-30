@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.29.14",
+    "h1":"SB 4.29.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.29.14",
     "description":"The city called Grāmaka, which is approached through the lower gate of Āsurī [the genital], is meant for sex, which is very pleasing to common men who are simply fools and rascals. The faculty of procreation is called Durmada, and the rectum is called Nirṛti."
 }
 ---

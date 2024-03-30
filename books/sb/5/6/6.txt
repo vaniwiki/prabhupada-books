@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.6.6",
+    "h1":"SB 5.6.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.6.6",
     "description":"Lord Ṛṣabhadeva was the head of all kings and emperors within this universe, but assuming the dress and language of an avadhūta, He acted as if dull and materially bound. Consequently no one could observe His divine opulence. He adopted this behavior just to teach yogīs how to give up the body. Nonetheless, He maintained His original position as a plenary expansion of Lord Vāsudeva, Kṛṣṇa. Remaining always in that state, He gave up His pastimes as Lord Ṛṣabhadeva within the material world. If, following in the footsteps of Lord Ṛṣabhadeva, one can give up his subtle body, there is no chance that one will accept a material body again."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.4.2",
+    "h1":"SB 5.4.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.4.2",
     "description":"When the son of Mahārāja Nābhi became visible, He evinced all good qualities described by the great poets—namely, a well-built body with all the symptoms of the Godhead, prowess, strength, beauty, name, fame, influence and enthusiasm. When the father, Mahārāja Nābhi, saw all these qualities, he thought his son to be the best of human beings or the supreme being. Therefore he gave Him the name Ṛṣabha."
 }
 ---

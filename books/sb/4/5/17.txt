@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.5.17",
+    "h1":"SB 4.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.5.17",
     "description":"Maṇimān, one of the followers of Lord Śiva, arrested Bhṛgu Muni, and Vīrabhadra, the black demon, arrested Prajāpati Dakṣa. Another follower, who was named Caṇḍeśa, arrested Pūṣā. Nandīśvara arrested the demigod Bhaga."
 }
 ---

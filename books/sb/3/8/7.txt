@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.8.7",
+    "h1":"SB 3.8.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.8.7",
     "description":"Lord Saṅkarṣaṇa thus spoke the purport of Śrīmad-Bhāgavatam to the great sage Sanat-kumāra, who had already taken the vow of renunciation. Sanat-kumāra also, in his turn, when inquired of by Sāṅkhyāyana Muni, explained Śrīmad-Bhāgavatam as he had heard it from Saṅkarṣaṇa."
 }
 ---

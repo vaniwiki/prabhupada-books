@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.12.33",
+    "h1":"SB 4.12.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.12.33",
     "description":"The great associates of Vaikuṇṭhaloka, Nanda and Sunanda, could understand the mind of Dhruva Mahārāja, and thus they showed him that his mother, Sunīti, was going forward in another plane."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.12.10",
+    "h1":"SB 7.12.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.12.10",
     "description":"As long as a living entity is not completely self-realized—as long as he is not independent of the misconception of identifying with his body, which is nothing but a reflection of the original body and senses—he cannot be relieved of the conception of duality, which is epitomized by the duality between man and woman. Thus there is every chance that he will fall down because his intelligence is bewildered."
 }
 ---

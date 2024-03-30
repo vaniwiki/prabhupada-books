@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 4.22.46",
+    "h1":"SB 4.22.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 4.22.46",
     "description":"The kṣatriyas, vaiśyas and śūdras eat their food by virtue of the brāhmaṇas' mercy. It is the brāhmaṇas who enjoy their own property, clothe themselves with their own property and give charity with their own property."
 }
 ---

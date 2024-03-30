@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.3.3",
+    "h1":"SB 4.3.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.3.3",
     "description":"Dakṣa began a sacrifice named vājapeya, and he became excessively confident of his support by Lord Brahmā, He then performed another great sacrifice, named bṛhaspati-sava."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 6.14.28",
+    "h1":"SB 6.14.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 6.14.28",
     "description":"O Parīkṣit Mahārāja, best of the Bhāratas, the remnants of the food offered in the yajña were given by the great sage Aṅgirā to the first and most perfect among Citraketu's millions of queens, whose name was Kṛtadyuti."
 }
 ---

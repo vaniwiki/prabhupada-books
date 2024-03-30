@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.9.26",
+    "h1":"SB 4.9.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.9.26",
     "description":"The great sage Maitreya said: After being worshiped and honored by the boy, Dhruva Mahārāja, and after offering him His abode, Lord Viṣṇu, on the back of Garuḍa, returned to His abode, as Dhruva Mahārāja looked on."
 }
 ---

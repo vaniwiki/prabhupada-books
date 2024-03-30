@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.26.4",
+    "h1":"SB 5.26.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.26.4",
     "description":"King Parīkṣit inquired from Śukadeva Gosvāmī: My dear lord, are the hellish regions outside the universe, within the covering of the universe, or in different places on this planet?"
 }
 ---

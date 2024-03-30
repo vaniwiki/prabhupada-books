@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.13.13",
+    "h1":"SB 5.13.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.13.13",
     "description":"Due to monetary transactions, relationships become very strained and end in enmity. Sometimes the husband and wife walk on the path of material progress, and to maintain their relationship they work very hard. Sometimes due to scarcity of money or due to diseased conditions, they are embarrassed and almost die."
 }
 ---

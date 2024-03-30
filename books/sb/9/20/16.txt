@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 9.20.16",
+    "h1":"SB 9.20.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 9.20.16",
     "description":"When Śakuntalā responded to Mahārāja Duṣmanta's proposal with silence, the agreement was complete. Then the King, who knew the laws of marriage, immediately married her by chanting the Vedic praṇava [oṁkāra], in accordance with the marriage ceremony as performed among the Gandharvas."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.15.2",
+    "h1":"SB 3.15.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.15.2",
     "description":"By the force of the pregnancy of Diti, the light of the sun and moon was impaired in all the planets, and the demigods of various planets, being disturbed by that force, asked the creator of the universe, Brahmā, \"What is this expansion of darkness in all directions?\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 2.9.5",
+    "h1":"SB 2.9.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 2.9.5",
     "description":"Lord Brahmā, the first spiritual master, supreme in the universe, could not trace out the source of his lotus seat, and while thinking of creating the material world, he could not understand the proper direction for such creative work, nor could he find out the process for such creation."
 }
 ---

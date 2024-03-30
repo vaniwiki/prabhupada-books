@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.23.30",
+    "h1":"SB 3.23.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.23.30",
     "description":"Then in a mirror she beheld her own reflection. Her body was completely freed from all dirt, and she was adorned with a garland. Dressed in unsullied robes and decorated with auspicious marks of tilaka, she was served very respectfully by the maids."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 6.19.14",
+    "h1":"SB 6.19.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 6.19.14",
     "description":"You are both the supreme rulers and benedictors of the three worlds. Therefore, my Lord, Uttamaśloka, may my ambitions be fulfilled by Your grace."
 }
 ---

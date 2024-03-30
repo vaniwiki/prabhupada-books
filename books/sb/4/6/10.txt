@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.6.10",
+    "h1":"SB 4.6.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.6.10",
     "description":"Kailāsa is full of mountains filled with all kinds of valuable jewels and minerals and surrounded by all varieties of valuable trees and plants. The top of the hill is nicely decorated by various types of deer."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 10.7.20",
+    "h1":"SB 10.7.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 10.7.20",
     "description":"While the child was sitting on the ground, a demon named Tṛṇāvarta, who was a servant of Kaṁsa's, came there as a whirlwind, at Kaṁsa's instigation, and very easily carried the child away into the air."
 }
 ---

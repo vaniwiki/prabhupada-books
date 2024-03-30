@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.1.10",
+    "h1":"SB 7.1.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.1.10",
     "description":"When the Supreme Personality of Godhead creates different types of bodies, offering a particular body to each living entity according to his character and fruitive actions, the Lord revives all the qualities of material nature—sattva-guṇa, rajo-guṇa and tamo-guṇa. Then, as the Supersoul, He enters each body and influences the qualities of creation, maintenance and annihilation, using sattva-guṇa for maintenance, rajo-guṇa for creation and tamo-guṇa for annihilation."
 }
 ---

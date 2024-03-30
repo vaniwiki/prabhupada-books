@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 8.16.32",
+    "h1":"SB 8.16.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 8.16.32",
     "description":"I offer my respectful obeisances unto You, Lord Śiva, or Rudra, who are the reservoir of all potencies, the reservoir of all knowledge, and the master of everyone."
 }
 ---

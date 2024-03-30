@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.17.2",
+    "h1":"SB 5.17.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.17.2",
     "description":"Dhruva Mahārāja, the famous son of Mahārāja Uttānapāda, is known as the most exalted devotee of the Supreme Lord because of his firm determination in executing devotional service. Knowing that the sacred Ganges water washes the lotus feet of Lord Viṣṇu, Dhruva Mahārāja, situated on his own planet, to this very day accepts that water on his head with great devotion. Because he constantly thinks of Kṛṣṇa very devoutly within the core of his heart, he is overcome with ecstatic anxiety. Tears flow from his half-open eyes, and eruptions appear on his entire body."
 }
 ---

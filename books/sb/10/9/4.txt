@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.9.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 10.9.4",
+    "h1":"SB 10.9.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 10.9.4",
     "description":"While mother Yaśodā was churning butter, Lord Kṛṣṇa, desiring to drink the milk of her breast, appeared before her, and in order to increase her transcendental pleasure, He caught hold of the churning rod and began to prevent her from churning."
 }
 ---

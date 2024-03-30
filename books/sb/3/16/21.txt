@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.16.21",
+    "h1":"SB 3.16.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.16.21",
     "description":"O Lord, You are exceedingly attached to the activities of Your pure devotees, yet You are never attached to the goddesses of fortune who constantly engage in Your transcendental loving service. How can You be purified, therefore, by the dust of the path traversed by the brāhmaṇas, and how can You be glorified or made fortunate by the marks of Śrīvatsa on Your chest?"
 }
 ---

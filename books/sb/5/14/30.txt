@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 5.14.30",
+    "h1":"SB 5.14.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 5.14.30",
     "description":"The pseudo svāmīs, yogīs and incarnations who do not believe in the Supreme Personality of Godhead are known as pāṣaṇḍīs. They themselves are fallen and cheated because they do not know the real path of spiritual advancement, and whoever goes to them is certainly cheated in his turn. When one is thus cheated, he sometimes takes shelter of the real followers of Vedic principles [brāhmaṇas or those in Kṛṣṇa consciousness], who teach everyone how to worship the Supreme Personality of Godhead according to the Vedic rituals. However, being unable to stick to these principles, these rascals again fall down and take shelter among śūdras who are very expert in making arrangements for sex indulgence. Sex is very prominent among animals like monkeys, and such people who are enlivened by sex may be called descendants of monkeys."
 }
 ---

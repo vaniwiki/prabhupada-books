@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.31.44",
+    "h1":"SB 3.31.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.31.44",
     "description":"In this way the living entity gets a suitable body with a material mind and senses, according to his fruitive activities. When the reaction of his particular activity comes to an end, that end is called death, and when a particular type of reaction begins, that beginning is called birth."
 }
 ---

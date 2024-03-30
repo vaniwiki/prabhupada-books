@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 5.20.25",
+    "h1":"SB 5.20.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 5.20.25",
     "description":"The master of this island, also one of the sons of Priyavrata, was known as Medhātithi. He also divided his island into seven sections, named according to the names of his own sons, whom he made the kings of that island. The names of those sons are Purojava, Manojava, Pavamāna, Dhūmrānīka, Citrarepha, Bahurūpa and Viśvadhāra. After dividing the island and situating his sons as its rulers, Medhātithi personally retired, and to fix his mind completely upon the lotus feet of the Supreme Personality of Godhead, he entered a forest suitable for meditation."
 }
 ---

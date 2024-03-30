@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.19.4",
+    "h1":"SB 5.19.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.19.4",
     "description":"The Lord, whose pure form [sac-cid-ānanda-vigraha [Bs. 5.1]] is uncontaminated by the modes of material nature, can be perceived by pure consciousness. In the Vedānta He is described as being one without a second. Because of His spiritual potency, He is untouched by the contamination of material nature, and because He is not subjected to material vision, He is known as transcendental. He has no material activities, nor has He a material form or name. Only in pure consciousness, Kṛṣṇa consciousness, can one perceive the transcendental form of the Lord. Let us be firmly fixed at the lotus feet of Lord Rāmacandra, and let us offer our respectful obeisances unto those transcendental lotus feet."
 }
 ---

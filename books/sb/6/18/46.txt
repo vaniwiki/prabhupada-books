@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 6.18.46",
+    "h1":"SB 6.18.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 6.18.46",
     "description":"Diti replied: My dear brāhmaṇa, I must accept your advice and follow the vow. Now let me understand what I have to do, what is forbidden and what will not break the vow. Please clearly state all this to me."
 }
 ---

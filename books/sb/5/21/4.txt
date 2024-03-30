@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.21.4",
+    "h1":"SB 5.21.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.21.4",
     "description":"When the sun passes through Meṣa [Aries] and Tulā [Libra], the durations of day and night are equal. When it passes through the five signs headed by Vṛṣabha [Taurus], the duration of the days increases [until Cancer], and then it gradually decreases by half an hour each month, until day and night again become equal [in Libra]."
 }
 ---

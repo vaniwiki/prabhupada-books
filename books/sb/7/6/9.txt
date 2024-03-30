@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 7.6.9",
+    "h1":"SB 7.6.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 7.6.9",
     "description":"What person too attached to household life due to being unable to control his senses can liberate himself? An attached householder is bound very strongly by ropes of affection for his family [wife, children and other relatives]."
 }
 ---

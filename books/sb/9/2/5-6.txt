@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.5-6",
-    "h1":"Text 5-6",
-    "title":" Śrīmad Bhāgavatam 9.2.5-6",
+    "h1":"SB 9.2.5-6",
+    "label":"Text 5-6",
+    "title":"Śrīmad Bhāgavatam 9.2.5-6",
     "description":"When the very strong tiger seized the cow, the cow screamed in distress and fear, and Pṛṣadhra, hearing the screaming, immediately followed the sound. He took up his sword, but because the stars were covered by clouds, he mistook the cow for the tiger and mistakenly cut off the cows' head with great force."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.62-63",
-    "h1":"Text 62-63",
-    "title":" Śrīmad Bhāgavatam 10.1.62-63",
+    "h1":"SB 10.1.62-63",
+    "label":"Text 62-63",
+    "title":"Śrīmad Bhāgavatam 10.1.62-63",
     "description":"The inhabitants of Vṛndāvana, headed by Nanda Mahārāja and including his associate cowherd men and their wives, were none but denizens of the heavenly planets, O Mahārāja Parīkṣit, best of the descendants of Bharata, and so too were the descendants of the Vṛṣṇi dynasty, headed by Vasudeva, and Devakī and the other women of the dynasty of Yadu. The friends, relatives and well-wishers of both Nanda Mahārāja and Vasudeva and even those who externally appeared to be followers of Kaṁsa were all demigods."
 }
 ---

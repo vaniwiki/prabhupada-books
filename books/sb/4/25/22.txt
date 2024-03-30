@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.25.22",
+    "h1":"SB 4.25.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.25.22",
     "description":"The woman's nose, teeth and forehead were all very beautiful. Her ears were equally very beautiful and were bedecked with dazzling earrings."
 }
 ---

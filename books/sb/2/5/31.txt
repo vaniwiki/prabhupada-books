@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 2.5.31",
+    "h1":"SB 2.5.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 2.5.31",
     "description":"By further transformation of the mode of passion, the sense organs like the ear, skin, nose, eyes, tongue, mouth, hands, genitals, legs, and the outlet for evacuating, together with intelligence and living energy, are all generated."
 }
 ---

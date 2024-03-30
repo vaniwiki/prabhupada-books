@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.21.7",
+    "h1":"SB 9.21.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.21.7",
     "description":"Thereafter, having divided the remaining food with his relatives, Rantideva was just about to eat his own share when a śūdra guest arrived. Seeing the śūdra in relationship with the Supreme Personality of Godhead, King Rantideva gave him also a share of the food."
 }
 ---

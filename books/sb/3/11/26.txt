@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.11.26",
+    "h1":"SB 3.11.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.11.26",
     "description":"In the creation, during Brahmā's day, the three planetary systems—Svarga, Martya and Pātāla—revolve, and the inhabitants, including the lower animals, human beings, demigods and Pitās, appear and disappear in terms of their fruitive activities."
 }
 ---

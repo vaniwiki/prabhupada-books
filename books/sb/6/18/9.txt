@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.18.9",
+    "h1":"SB 6.18.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.18.9",
     "description":"Later [in the Eighth Canto of Śrīmad-Bhāgavatam] I shall describe how Urukrama, Lord Vāmanadeva, appeared as the son of the great sage Kaśyapa and how He covered the three worlds with three steps. I shall describe the uncommon activities He performed, His qualities, His power and how He took birth from the womb of Aditi."
 }
 ---

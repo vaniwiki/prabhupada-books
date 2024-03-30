@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.20.43",
+    "h1":"SB 3.20.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.20.43",
     "description":"The Pitās themselves took possession of the invisible body, the source of their existence. It is through the medium of this invisible body that those well versed in the rituals offer oblations to the Sādhyas and Pitās [in the form of their departed ancestors] on the occasion of śrāddha."
 }
 ---

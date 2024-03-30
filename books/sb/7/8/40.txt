@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 7.8.40",
+    "h1":"SB 7.8.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 7.8.40",
     "description":"Lord Brahmā prayed: My Lord, You are unlimited, and You possess unending potencies. No one can estimate or calculate Your prowess and wonderful influence, for Your actions are never polluted by the material energy. Through the material qualities, You very easily create the universe, maintain it and again annihilate it, yet You remain the same, without deterioration. I therefore offer my respectful obeisances unto You."
 }
 ---

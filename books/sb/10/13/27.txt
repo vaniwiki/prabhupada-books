@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 10.13.27",
+    "h1":"SB 10.13.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 10.13.27",
     "description":"In this way, Lord Śrī Kṛṣṇa, having Himself become the cowherd boys and groups of calves, maintained Himself by Himself. Thus He continued His pastimes, both in Vṛndāvana and in the forest, for one year."
 }
 ---

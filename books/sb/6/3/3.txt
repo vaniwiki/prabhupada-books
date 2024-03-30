@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.3.3",
+    "h1":"SB 6.3.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.3.3",
     "description":"Śrī Śukadeva Gosvāmī replied: My dear King, when the order carriers of Yamarāja were baffled and defeated by the order carriers of Viṣṇu, they approached their master, the controller of Saṁyamanī-purī and master of sinful persons, to tell him of this incident."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 2.2.31",
+    "h1":"SB 2.2.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 2.2.31",
     "description":"Only the purified soul can attain the perfection of associating with the Personality of Godhead in complete bliss and satisfaction in his constitutional state. Whoever is able to renovate such devotional perfection is never again attracted by this material world, and he never returns."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.68",
-    "h1":"Text 68",
-    "title":" Śrīmad Bhāgavatam 7.10.68",
+    "h1":"SB 7.10.68",
+    "label":"Text 68",
+    "title":"Śrīmad Bhāgavatam 7.10.68",
     "description":"Seated in their airplanes in the sky, the inhabitants of the higher planetary systems beat many kettledrums. The demigods, saints, Pitās, Siddhas and various great personalities showered flowers on the head of Lord Śiva, wishing him all victory, and the Apsarās began to chant and dance with great pleasure."
 }
 ---

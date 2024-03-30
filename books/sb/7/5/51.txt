@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 7.5.51",
+    "h1":"SB 7.5.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 7.5.51",
     "description":"After hearing these instructions of Ṣaṇḍa and Amarka, the sons of his spiritual master, Hiraṇyakaśipu agreed and requested them to instruct Prahlāda in that system of occupational duty which is followed by royal householder families."
 }
 ---

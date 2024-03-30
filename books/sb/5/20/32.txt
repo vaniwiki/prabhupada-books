@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 5.20.32",
+    "h1":"SB 5.20.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 5.20.32",
     "description":"For the fulfillment of material desires, the inhabitants of this tract of land worship the Supreme Personality of Godhead as represented by Lord Brahmā. They offer prayers to the Lord as follows."
 }
 ---

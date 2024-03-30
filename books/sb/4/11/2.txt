@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.11.2",
+    "h1":"SB 4.11.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.11.2",
     "description":"As soon as Dhruva Mahārāja joined the nārāyaṇāstra arrow to his bow, the illusion created by the Yakṣas was immediately vanquished, just as all material pains and pleasures are vanquished when one becomes fully cognizant of the self."
 }
 ---

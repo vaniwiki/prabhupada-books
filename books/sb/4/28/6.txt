@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.28.6",
+    "h1":"SB 4.28.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.28.6",
     "description":"When King Purañjana was embraced by Kālakanyā, he gradually lost all his beauty. Having been too much addicted to sex, he became very poor in intelligence and lost all his opulence. Being bereft of all possessions, he was conquered forcibly by the Gandharvas and the Yavanas."
 }
 ---

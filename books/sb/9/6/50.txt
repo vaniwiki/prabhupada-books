@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 9.6.50",
+    "h1":"SB 9.6.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 9.6.50",
     "description":"Alas! While practicing austerity, even within the depths of the water, and while observing all the rules and regulations practiced by saintly persons, I lost the results of my long austerities simply by association with the sexual affairs of fish. Everyone should observe this falldown and learn from it."
 }
 ---

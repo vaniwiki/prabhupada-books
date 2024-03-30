@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.4.10",
+    "h1":"SB 5.4.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.4.10",
     "description":"Following Bharata, there were ninety-nine other sons. Among these were nine elderly sons, named Kuśāvarta, Ilāvarta, Brahmāvarta, Malaya, Ketu, Bhadrasena, Indraspṛk, Vidarbha and Kīkaṭa."
 }
 ---

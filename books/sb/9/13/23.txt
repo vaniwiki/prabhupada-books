@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.13.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.13.23",
+    "h1":"SB 9.13.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.13.23",
     "description":"The son of Purujit was Ariṣṭanemi, and his son was Śrutāyu. Śrutāyu begot a son named Supārśvaka, and Supārśvaka begot Citraratha. The son of Citraratha was Kṣemādhi, who became the king of Mithilā."
 }
 ---

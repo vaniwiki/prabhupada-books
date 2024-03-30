@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.3.11",
+    "h1":"SB 3.3.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.3.11",
     "description":"Of kings like Śambara, Dvivida, Bāṇa, Mura, Balvala and many other demons, such as Dantavakra, some He killed Himself, and some He caused to be killed by others [Śrī Baladeva, etc.]."
 }
 ---

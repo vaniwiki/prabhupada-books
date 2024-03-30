@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.37-38",
-    "h1":"Text 37-38",
-    "title":" Śrīmad Bhāgavatam 10.3.37-38",
+    "h1":"SB 10.3.37-38",
+    "label":"Text 37-38",
+    "title":"Śrīmad Bhāgavatam 10.3.37-38",
     "description":"O sinless mother Devakī, after the expiry of twelve thousand celestial years, in which you constantly contemplated Me within the core of your heart with great faith, devotion and austerity, I was very much satisfied with you. Since I am the best of all bestowers of benediction, I appeared in this same form as Kṛṣṇa to ask you to take from Me the benediction you desired. You then expressed your desire to have a son exactly like Me."
 }
 ---

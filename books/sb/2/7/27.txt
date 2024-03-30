@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.7.27",
+    "h1":"SB 2.7.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.7.27",
     "description":"There is no doubt about Lord Kṛṣṇa's being the Supreme Lord, otherwise how was it possible for Him to kill a giant demon like Pūtanā when He was just on the lap of His mother, to overturn a cart with His leg when He was only three months old, to uproot a pair of arjuna trees, so high that they touched the sky, when He was only crawling? All these activities are impossible for anyone other than the Lord Himself."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.16.13",
+    "h1":"SB 8.16.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.16.13",
     "description":"O my lord, since you are a Prajāpati and are personally my instructor in the principles of religion, where is the possibility that all my desires will not be fulfilled?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 8.16.53",
+    "h1":"SB 8.16.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 8.16.53",
     "description":"One should satisfy the spiritual master [ācārya], who is very learned in Vedic literature, and should satisfy his assistant priests [known as hotā, udgātā, adhvaryu and brahma]. One should please them by offering them clothing, ornaments and cows. This is the ceremony called viṣṇu-ārādhana, or worship of Lord Viṣṇu."
 }
 ---

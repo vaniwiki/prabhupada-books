@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.25.1",
+    "h1":"SB 3.25.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.25.1",
     "description":"Śrī Śaunaka said: Although He is unborn, the Supreme Personality of Godhead took birth as Kapila Muni by His internal potency. He descended to disseminate transcendental knowledge for the benefit of the whole human race."
 }
 ---

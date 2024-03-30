@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 6.1.1",
+    "h1":"SB 6.1.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 6.1.1",
     "description":"Mahārāja Parīkṣit said: O my lord, O Śukadeva Gosvāmī, you have already described [in the Second Canto] the path of liberation [nivṛtti-mārga]. By following that path, one is certainly elevated gradually to the highest planetary system, Brahmaloka, from which one is promoted to the spiritual world along with Lord Brahmā. Thus one's repetition of birth and death in the material world ceases."
 }
 ---

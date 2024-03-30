@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.29.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.29.33",
+    "h1":"SB 3.29.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.29.33",
     "description":"Therefore I do not find a greater person than he who has no interest outside of Mine and who therefore engages and dedicates all his activities and all his life—everything—unto Me without cessation."
 }
 ---

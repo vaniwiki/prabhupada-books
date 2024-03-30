@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 10.1.64",
+    "h1":"SB 10.1.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 10.1.64",
     "description":"Once the great saint Nārada approached Kaṁsa and informed him of how the demoniac persons who were a great burden on the earth were going to be killed. Thus Kaṁsa was placed into great fear and doubt."
 }
 ---

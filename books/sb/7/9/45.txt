@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 7.9.45",
+    "h1":"SB 7.9.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 7.9.45",
     "description":"Sex life is compared to the rubbing of two hands to relieve an itch. Gṛhamedhis, so-called gṛhasthas who have no spiritual knowledge, think that this itching is the greatest platform of happiness, although actually it is a source of distress. The kṛpaṇas, the fools who are just the opposite of brāhmaṇas, are not satisfied by repeated sensuous enjoyment. Those who are dhīra, however, who are sober and who tolerate this itching, are not subjected to the sufferings of fools and rascals."
 }
 ---

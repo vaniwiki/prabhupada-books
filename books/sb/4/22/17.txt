@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.22.17",
+    "h1":"SB 4.22.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.22.17",
     "description":"The great sage Maitreya continued: Thus Sanat-kumāra, the best of the celibates, after hearing the speech of Pṛthu Mahārāja, which was meaningful, appropriate, full of precise words and very sweet to hear, smiled with full satisfaction and began to speak as follows."
 }
 ---

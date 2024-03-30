@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.8.24",
+    "h1":"SB 5.8.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.8.24",
     "description":"Mahārāja Bharata continued to speak like a madman. Seeing above his head the dark marks on the rising moon, which resembled a deer, he said: Can it be that the moon, who is so kind to an unhappy man, might also be kind upon my deer, knowing that it has strayed from home and has become motherless? This moon has given the deer shelter near itself just to protect it from the fearful attacks of a lion."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.10.17",
+    "h1":"SB 3.10.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.10.17",
     "description":"The fifth creation is that of the controlling deities by the interaction of the mode of goodness, of which the mind is the sum total. The sixth creation is the ignorant darkness of the living entity, by which the master acts as a fool."
 }
 ---

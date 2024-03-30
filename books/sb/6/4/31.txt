@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 6.4.31",
+    "h1":"SB 6.4.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 6.4.31",
     "description":"Let me offer my respectful obeisances unto the all-pervading Supreme Personality of Godhead, who possesses unlimited transcendental qualities. Acting from within the cores of the hearts of all philosophers, who propagate various views, He causes them to forget their own souls while sometimes agreeing and sometimes disagreeing among themselves. Thus He creates within this material world a situation in which they are unable to come to a conclusion. I offer my obeisances unto Him."
 }
 ---

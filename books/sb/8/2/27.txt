@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.2.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.2.27",
+    "h1":"SB 8.2.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.2.27",
     "description":"By the arrangement of providence, O King, a strong crocodile was angry at the elephant and attacked the elephant's leg in the water. The elephant was certainly strong, and he tried his best to get free from this danger sent by providence."
 }
 ---

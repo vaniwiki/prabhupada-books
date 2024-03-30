@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 2.2.22",
+    "h1":"SB 2.2.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 2.2.22",
     "description":"However, O King, if a yogī maintains a desire for improved material enjoyments, like transference to the topmost planet, Brahmaloka, or the achievement of the eightfold perfections, travel in outer space with the Vaihāyasas, or a situation in one of the millions of planets, then he has to take away with him the materially molded mind and senses."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.8.1",
+    "h1":"SB 4.8.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.8.1",
     "description":"The great sage Maitreya said: The four great Kumāra sages headed by Sanaka, as well as Nārada, Ṛbhu, Haṁsa, Aruṇi and Yati, all sons of Brahmā, did not live at home, but became ūrdhva-retā, or naiṣṭhika-brahmacārīs, unadulterated celibates."
 }
 ---

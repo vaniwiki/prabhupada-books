@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 2.10.33",
+    "h1":"SB 2.10.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 2.10.33",
     "description":"Thus by all this, the external feature of the Personality of Godhead is covered by gross forms such as those of planets, which were explained to you by me."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.24.13",
+    "h1":"SB 4.24.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.24.13",
     "description":"King Prācīnabarhi begot ten children in the womb of Śatadruti. All of them were equally endowed with religiosity, and all of them were known as the Pracetās."
 }
 ---

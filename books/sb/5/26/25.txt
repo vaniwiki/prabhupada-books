@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 5.26.25",
+    "h1":"SB 5.26.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 5.26.25",
     "description":"A person who in this life is proud of his eminent position, and who heedlessly sacrifices animals simply for material prestige, is put into the hell called Viśasana after death. There the assistants of Yamarāja kill him after giving him unlimited pain."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.12.39",
+    "h1":"SB 3.12.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.12.39",
     "description":"Then he created the fifth Veda—the Purāṇas and the histories—from all his mouths, since he could see all the past, present and future."
 }
 ---

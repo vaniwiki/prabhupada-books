@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.4.7",
+    "h1":"SB 8.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.4.7",
     "description":"This Gajendra had formerly been a Vaiṣṇava and the king of the country known as Pāṇḍya, which is in the province of Draviḍa [South India]. In his previous life, he was known as Indradyumna Mahārāja."
 }
 ---

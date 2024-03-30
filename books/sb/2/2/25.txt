@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 2.2.25",
+    "h1":"SB 2.2.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 2.2.25",
     "description":"This Śiśumāra is the pivot for the turning of the complete universe, and it is called the navel of Viṣṇu [Garbhodakaśāyī Viṣṇu]. The yogī alone goes beyond this circle of Śiśumāra and attains the planet [Maharloka] where purified saints like Bhṛgu enjoy a duration of life of 4,300,000,000 solar years. This planet is worshipable even for the saints who are transcendentally situated."
 }
 ---

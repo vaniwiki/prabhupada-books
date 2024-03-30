@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.19.1",
+    "h1":"SB 8.19.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.19.1",
     "description":"Śukadeva Gosvāmī continued: When the Supreme Personality of Godhead, Vāmanadeva, heard Bali Mahārāja speaking in this pleasing way, He was very satisfied, for Bali Mahārāja had spoken in terms of religious principles. Thus the Lord began to praise him."
 }
 ---

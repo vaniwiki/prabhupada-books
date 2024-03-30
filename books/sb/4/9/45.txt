@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.9.45",
+    "h1":"SB 4.9.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.9.45",
     "description":"Then Dhruva Mahārāja, the foremost of all nobles, first of all offered his obeisances at the feet of his father and was honored by his father with various questions. He then bowed his head at the feet of his two mothers."
 }
 ---

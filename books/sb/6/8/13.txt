@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 6.8.13",
+    "h1":"SB 6.8.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 6.8.13",
     "description":"May the Lord, who assumes the body of a great fish, protect me in the water from the fierce animals that are associates of the demigod Varuṇa. By expanding His illusory energy, the Lord assumed the form of the dwarf Vāmana. May Vāmana protect me on the land. Since the gigantic form of the Lord, Viśvarūpa, conquers the three worlds, may He protect me in the sky."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 5.5.33",
+    "h1":"SB 5.5.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 5.5.33",
     "description":"Because Lord Ṛṣabhadeva remained in that condition, the public did not disturb Him, but no bad aroma emanated from His stool and urine. Quite the contrary, His stool and urine were so aromatic that they filled eighty miles of the countryside with a pleasant fragrance."
 }
 ---

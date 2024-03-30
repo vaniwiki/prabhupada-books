@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 2.2.30",
+    "h1":"SB 2.2.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 2.2.30",
     "description":"The devotee, thus surpassing the gross and the subtle forms of coverings, enters the plane of egoism. And in that status he merges the material modes of nature [ignorance and passion] in this point of neutralization and thus reaches egoism in goodness. After this, all egoism is merged in the mahat-tattva, and he comes to the point of pure self-realization."
 }
 ---

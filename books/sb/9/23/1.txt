@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.23.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 9.23.1",
+    "h1":"SB 9.23.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 9.23.1",
     "description":"Śukadeva Gosvāmī said: Anu, the fourth son of Yayāti, had three sons, named Sabhānara, Cakṣu and Pareṣṇu. O King, from Sabhānara came a son named Kālanara, and from Kālanara came a son named Sṛñjaya."
 }
 ---

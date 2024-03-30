@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.3.14",
+    "h1":"SB 9.3.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.3.14",
     "description":"After saying this, the Aśvinī-kumāras caught hold of Cyavana Muni, who was an old, diseased invalid with loose skin, white hair, and veins visible all over his body, and all three of them entered the lake."
 }
 ---

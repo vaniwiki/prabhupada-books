@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.17.6",
+    "h1":"SB 8.17.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.17.6",
     "description":"Aditi stood silently with folded hands, unable to offer prayers to the Lord. Because of transcendental bliss, tears filled her eyes, and the hairs on her body stood on end. Because she could see the Supreme Personality of Godhead face to face, she felt ecstasy, and her body trembled."
 }
 ---

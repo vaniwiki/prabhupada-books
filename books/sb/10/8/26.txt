@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 10.8.26",
+    "h1":"SB 10.8.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 10.8.26",
     "description":"O King Parīkṣit, within a very short time both Rāma and Kṛṣṇa began to walk very easily in Gokula on Their legs, by Their own strength, without the need to crawl."
 }
 ---

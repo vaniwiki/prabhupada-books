@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 8.18.26",
+    "h1":"SB 8.18.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 8.18.26",
     "description":"Bali Mahārāja, jubilant at seeing Lord Vāmanadeva, whose beautiful limbs contributed equally to the beauty of His entire body, offered Him a seat with great satisfaction."
 }
 ---

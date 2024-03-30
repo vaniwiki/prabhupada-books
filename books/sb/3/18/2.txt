@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.18.2",
+    "h1":"SB 3.18.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.18.2",
     "description":"He saw there the all-powerful Personality of Godhead in His boar incarnation, bearing the earth upward on the ends of His tusks and robbing him of his splendor with His reddish eyes. The demon laughed: Oh, an amphibious beast!"
 }
 ---

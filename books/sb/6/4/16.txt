@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 6.4.16",
+    "h1":"SB 6.4.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 6.4.16",
     "description":"Śukadeva Gosvāmī continued: My dear King, after thus pacifying the Pracetās, Soma, the king of the moon, gave them the beautiful girl born of Pramlocā Apsarā. The Pracetās all received Pramlocā's daughter, who had high, very beautiful hips, and married her according to the religious system."
 }
 ---

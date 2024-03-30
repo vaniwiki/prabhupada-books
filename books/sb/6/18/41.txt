@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 6.18.41",
+    "h1":"SB 6.18.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 6.18.41",
     "description":"A woman's face is as attractive and beautiful as a blossoming lotus flower during autumn. Her words are very sweet, and they give pleasure to the ear, but if we study a woman's heart, we can understand it to be extremely sharp, like the blade of a razor. In these circumstances, who could understand the dealings of a woman?"
 }
 ---

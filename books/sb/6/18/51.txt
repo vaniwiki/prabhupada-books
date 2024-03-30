@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 6.18.51",
+    "h1":"SB 6.18.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 6.18.51",
     "description":"You should not lie down without having washed both of your feet or without being purified, nor with wet feet or with your head pointed west or north. You should not lie naked, or with other women, or during the sunrise or sunset."
 }
 ---

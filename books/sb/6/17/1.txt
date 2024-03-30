@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 6.17.1",
+    "h1":"SB 6.17.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 6.17.1",
     "description":"Śrīla Śukadeva Gosvāmī said: After offering obeisances to the direction from which Ananta, the Supreme Personality of Godhead, had disappeared, Citraketu began traveling in outer space as the head of the Vidyādharas."
 }
 ---

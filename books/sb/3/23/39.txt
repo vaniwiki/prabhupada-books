@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.23.39",
+    "h1":"SB 3.23.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.23.39",
     "description":"In that aerial mansion he traveled to the pleasure valleys of Mount Meru, which were rendered all the more beautiful by cool, gentle, fragrant breezes that stimulated passion. In these valleys, the treasurer of the gods, Kuvera, surrounded by beautiful women and praised by the Siddhas, generally enjoys pleasure. Kardama Muni also, surrounded by the beautiful damsels and his wife, went there and enjoyed for many, many years."
 }
 ---

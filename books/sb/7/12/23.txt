@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 7.12.23",
+    "h1":"SB 7.12.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 7.12.23",
     "description":"When because of disease or old age one is unable to perform his prescribed duties for advancement in spiritual consciousness or study of the Vedas, he should practice fasting, not taking any food."
 }
 ---

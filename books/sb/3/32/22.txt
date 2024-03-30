@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.32.22",
+    "h1":"SB 3.32.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.32.22",
     "description":"My dear mother, I therefore advise that you take shelter of the Supreme Personality of Godhead, for His lotus feet are worth worshiping. Accept this with all devotion and love, for thus you can be situated in transcendental devotional service."
 }
 ---

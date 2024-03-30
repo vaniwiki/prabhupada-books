@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.13.12",
+    "h1":"SB 4.13.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.13.12",
     "description":"King Vatsara had a very dear wife whose name was Svarvīthi, and she gave birth to six sons, named Puṣpārṇa, Tigmaketu, Iṣa, Ūrja, Vasu and Jaya."
 }
 ---

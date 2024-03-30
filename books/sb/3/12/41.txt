@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 3.12.41",
+    "h1":"SB 3.12.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 3.12.41",
     "description":"Education, charity, penance and truth are said to be the four legs of religion, and to learn this there are four orders of life with different classifications of castes according to vocation. Brahmā created all these in systematic order."
 }
 ---

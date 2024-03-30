@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 4.9.50",
+    "h1":"SB 4.9.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 4.9.50",
     "description":"My dear Vidura, Sunīti was the mother of a great hero. Her tears, together with the milk flowing from her breasts, wet the whole body of Dhruva Mahārāja. This was a great, auspicious sign."
 }
 ---

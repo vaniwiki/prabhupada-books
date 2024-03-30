@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 8.10.43",
+    "h1":"SB 8.10.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 8.10.43",
     "description":"When Bali Mahārāja saw the expert military activities of Indra, he could not restrain his anger. Thus he took up another weapon, known as śakti, which blazed like a great firebrand. But Indra cut that weapon to pieces while it was still in Bali's hand."
 }
 ---

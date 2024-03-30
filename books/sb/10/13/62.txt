@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.62",
-    "h1":"Text 62",
-    "title":" Śrīmad Bhāgavatam 10.13.62",
+    "h1":"SB 10.13.62",
+    "label":"Text 62",
+    "title":"Śrīmad Bhāgavatam 10.13.62",
     "description":"After seeing this, Lord Brahmā hastily got down from his swan carrier, fell down like a golden rod and touched the lotus feet of Lord Kṛṣṇa with the tips of the four crowns on his heads. Offering his obeisances, he bathed the feet of Kṛṣṇa with the water of his tears of joy."
 }
 ---

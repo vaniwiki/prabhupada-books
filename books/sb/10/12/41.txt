@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 10.12.41",
+    "h1":"SB 10.12.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 10.12.41",
     "description":"Mahārāja Parīkṣit inquired: O great sage, how could things done in the past have been described as being done at the present? Lord Śrī Kṛṣṇa performed this pastime of killing Aghāsura during His kaumāra age. How then, during His paugaṇḍa age, could the boys have described this incident as having happened recently?"
 }
 ---

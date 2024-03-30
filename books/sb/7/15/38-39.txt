@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.38-39",
-    "h1":"Text 38-39",
-    "title":" Śrīmad Bhāgavatam 7.15.38-39",
+    "h1":"SB 7.15.38-39",
+    "label":"Text 38-39",
+    "title":"Śrīmad Bhāgavatam 7.15.38-39",
     "description":"It is abominable for a person living in the gṛhastha-āśrama to give up the regulative principles, for a brahmacārī not to follow the brahmacārī vows while living under the care of the guru, for a vānaprastha to live in the village and engage in so-called social activities, or for a sannyāsī to be addicted to sense gratification. One who acts in this way is to be considered the lowest renegade. Such a pretender is bewildered by the external energy of the Supreme Personality of Godhead, and one should either reject him from any position, or taking compassion upon him, teach him, if possible, to resume his original position."
 }
 ---

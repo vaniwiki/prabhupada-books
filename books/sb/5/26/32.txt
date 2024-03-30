@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 5.26.32",
+    "h1":"SB 5.26.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 5.26.32",
     "description":"In this life some people give shelter to animals and birds that come to them for protection in the village or forest, and after making them believe that they will be protected, such people pierce them with lances or threads and play with them like toys, giving them great pain. After death such people are brought by the assistants of Yamarāja to the hell known as Śūlaprota, where their bodies are pierced with sharp, needlelike lances. They suffer from hunger and thirst, and sharp-beaked birds such as vultures and herons come at them from all sides to tear at their bodies. Tortured and suffering, they can then remember the sinful activities they committed in the past."
 }
 ---

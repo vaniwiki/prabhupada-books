@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.10.4",
+    "h1":"SB 3.10.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.10.4",
     "description":"The greatly learned sage Maitreya said: O Vidura, Brahmā thus engaged himself in penances for one hundred celestial years, as advised by the Personality of Godhead, and applied himself in devotional service to the Lord."
 }
 ---

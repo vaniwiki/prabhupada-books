@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 9.4.36",
+    "h1":"SB 9.4.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 9.4.36",
     "description":"After standing up to receive Durvāsā Muni, King Ambarīṣa offered him a seat and paraphernalia of worship. Then, sitting at his feet, the King requested the great sage to eat."
 }
 ---

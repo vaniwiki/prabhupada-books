@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.12.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.12.7",
+    "h1":"SB 9.12.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.12.7",
     "description":"From Maru was born a son named Prasuśruta, from Prasuśruta came Sandhi, from Sandhi came Amarṣaṇa, and from Amarṣaṇa a son named Mahasvān. From Mahasvān, Viśvabāhu took his birth."
 }
 ---

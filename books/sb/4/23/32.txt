@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.23.32",
+    "h1":"SB 4.23.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.23.32",
     "description":"If one hears of the characteristics of Pṛthu Mahārāja and is a brāhmaṇa, he becomes perfectly qualified with brahminical powers; if he is a kṣatriya, he becomes a king of the world; if he is a vaiśya, he becomes a master of other vaiśyas and many animals; and if he is a śūdra, he becomes the topmost devotee."
 }
 ---

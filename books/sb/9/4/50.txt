@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 9.4.50",
+    "h1":"SB 9.4.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 9.4.50",
     "description":"As the blazing flames of a forest fire pursue a snake, the disc of the Supreme Personality of Godhead began following Durvāsā Muni. Durvāsā Muni saw that the disc was almost touching his back, and thus he ran very swiftly, desiring to enter a cave of Sumeru Mountain."
 }
 ---

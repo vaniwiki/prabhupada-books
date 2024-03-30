@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 10.11.49",
+    "h1":"SB 10.11.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 10.11.49",
     "description":"When Balarāma and the other boys saw that Kṛṣṇa had been devoured by the gigantic duck, they became almost unconscious, like senses without life."
 }
 ---

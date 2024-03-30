@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.9.16",
+    "h1":"SB 3.9.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.9.16",
     "description":"Your Lordship is the prime root of the tree of the planetary systems. This tree has grown by first penetrating the material nature in three trunks—as me, Śiva and You, the Almighty—for creation, maintenance and dissolution, and we three have grown with many branches. Therefore I offer my obeisances unto You, the tree of the cosmic manifestation."
 }
 ---

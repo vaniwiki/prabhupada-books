@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 9.11.27",
+    "h1":"SB 9.11.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 9.11.27",
     "description":"The palaces, the palace gates, the assembly houses, the platforms for meeting places, the temples and all such places were decorated with golden waterpots and bedecked with various types of flags."
 }
 ---

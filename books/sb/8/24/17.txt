@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.24.17",
+    "h1":"SB 8.24.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.24.17",
     "description":"But in one night that fish grew so much that He could not move His body comfortably in the water of the pot. He then spoke to the King as follows."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.13.23",
+    "h1":"SB 3.13.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.13.23",
     "description":"While Brahmā was deliberating with his sons, the Supreme Personality of Godhead, Viṣṇu, roared tumultuously like a great mountain."
 }
 ---

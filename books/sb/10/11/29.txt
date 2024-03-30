@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 10.11.29",
+    "h1":"SB 10.11.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 10.11.29",
     "description":"Therefore, let us immediately go today. There is no need to wait any further. If you agree to my proposal, let us prepare all the bullock carts and put the cows in front of us, and let us go there."
 }
 ---

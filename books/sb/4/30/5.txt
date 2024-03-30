@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.30.5",
+    "h1":"SB 4.30.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.30.5",
     "description":"The Personality of Godhead, appearing on the shoulder of Garuḍa, seemed like a cloud resting on the summit of the mountain known as Meru. The transcendental body of the Personality of Godhead was covered by attractive yellow garments, and His neck was decorated with the jewel known as Kaustubha-maṇi. The bodily effulgence of the Lord dissipated all the darkness of the universe."
 }
 ---

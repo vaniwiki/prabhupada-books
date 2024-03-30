@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.30.29",
+    "h1":"SB 4.30.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.30.29",
     "description":"When the Lord, out of His natural compassion, thinks of His devotee, by that process only are all desires of the neophyte devotee fulfilled. The Lord is situated in every living entity's heart, although the living entity may be very insignificant. The Lord knows everything about the living entity, including all his desires. Although we are very insignificant, why should the Lord not know our desires?"
 }
 ---

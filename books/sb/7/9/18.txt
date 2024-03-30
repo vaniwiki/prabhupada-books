@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 7.9.18",
+    "h1":"SB 7.9.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 7.9.18",
     "description":"O my Lord Nṛsiṁhadeva, by engaging in Your transcendental loving service in the association of devotees who are liberated souls [haṁsas], I shall become completely uncontaminated by the association of the three modes of material nature and be able to chant the glories of Your Lordship, who are so dear to me. I shall chant Your glories, following exactly in the footsteps of Lord Brahmā and his disciplic succession. In this way I shall undoubtedly be able to cross the ocean of nescience."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.11.2",
+    "h1":"SB 8.11.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.11.2",
     "description":"When the most powerful Indra became angry and took his thunderbolt in hand to kill Mahārāja Bali, the demons began lamenting, \"Alas, alas!\""
 }
 ---

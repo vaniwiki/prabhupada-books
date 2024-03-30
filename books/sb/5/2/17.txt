@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.2.17",
+    "h1":"SB 5.2.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.2.17",
     "description":"Śukadeva Gosvāmī continued: Mahārāja Āgnīdhra, whose intelligence was like that of a demigod, knew the art of flattering women to win them to his side. He therefore pleased that celestial girl with his lusty words and gained her favor."
 }
 ---

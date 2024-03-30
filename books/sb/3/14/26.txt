@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.14.26",
+    "h1":"SB 3.14.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.14.26",
     "description":"Lord Śiva regards no one as his relative, yet there is no one who is not connected with him; he does not regard anyone as very favorable or abominable. We respectfully worship the remnants of his foodstuff, and we vow to accept what is rejected by him."
 }
 ---

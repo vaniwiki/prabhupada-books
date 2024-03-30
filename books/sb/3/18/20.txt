@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.18.20",
+    "h1":"SB 3.18.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.18.20",
     "description":"O descendant of Kuru, Brahmā, the most independent demigod of the universe, accompanied by his followers, came to see the terrible fight for the sake of the world between the demon and the Personality of Godhead, who appeared in the form of a boar."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.23.14",
+    "h1":"SB 8.23.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.23.14",
     "description":"O best of the brāhmaṇas, Śukrācārya, please describe the fault or discrepancy in your disciple Bali Mahārāja, who engaged in performing sacrifices. This fault will be nullified when judged in the presence of qualified brāhmaṇas."
 }
 ---

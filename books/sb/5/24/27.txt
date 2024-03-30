@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 5.24.27",
+    "h1":"SB 5.24.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 5.24.27",
     "description":"Śukadeva Gosvāmī continued: My dear King, how shall I glorify the character of Bali Mahārāja? The Supreme Personality of Godhead, the master of the three worlds, who is most compassionate to His own devotee, stands with club in hand at Bali Mahārāja's door. When Rāvaṇa, the powerful demon, came to gain victory over Bali Mahārāja, Vāmanadeva kicked him a distance of eighty thousand miles with His big toe. I shall explain the character and activities of Bali Mahārāja later [in the Eighth Canto of Śrīmad-Bhāgavatam]."
 }
 ---

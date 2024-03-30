@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.5.26",
+    "h1":"SB 3.5.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.5.26",
     "description":"The Supreme Living Being in His feature as the transcendental puruṣa incarnation, who is the Lord's plenary expansion, impregnates the material nature of three modes, and thus by the influence of eternal time the living entities appear."
 }
 ---

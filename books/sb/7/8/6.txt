@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 7.8.6",
+    "h1":"SB 7.8.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 7.8.6",
     "description":"My son Prahlāda, you rascal, you know that when I am angry all the planets of the three worlds tremble, along with their chief rulers. By whose power has a rascal like you become so impudent that you appear fearless and overstep my power to rule you?"
 }
 ---

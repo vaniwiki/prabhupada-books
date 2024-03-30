@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.22.18",
+    "h1":"SB 8.22.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.22.18",
     "description":"Śukadeva Gosvāmī continued: O King Parīkṣit, Lord Brahmā then began to speak to the Supreme Personality of Godhead, within the hearing of Prahlāda Mahārāja, who stood nearby with folded hands."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.27.17",
+    "h1":"SB 4.27.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.27.17",
     "description":"Because he had to fight alone with so many soldiers, all of whom were great warriors, the serpent with five hoods became very weak. Seeing that his most intimate friend was weakening, King Purañjana and his friends and citizens living within the city all became very anxious."
 }
 ---

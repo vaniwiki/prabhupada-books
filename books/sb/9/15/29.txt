@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 9.15.29",
+    "h1":"SB 9.15.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 9.15.29",
     "description":"As King Kārtavīryārjuna entered his capital, Māhiṣmatī Purī, he saw Lord Paraśurāma, the best of the Bhṛgu dynasty, coming after him, holding a chopper, shield, bow and arrows. Lord Paraśurāma was covered with a black deerskin, and his matted locks of hair appeared like the sunshine."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 6.5.36",
+    "h1":"SB 6.5.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 6.5.36",
     "description":"Prajāpati Dakṣa said: Alas, Nārada Muni, you wear the dress of a saintly person, but you are not actually a saint. Indeed, although I am now in gṛhastha life, I am a saintly person. By showing my sons the path of renunciation, you have done me an abominable injustice."
 }
 ---

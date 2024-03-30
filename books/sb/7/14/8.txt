@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.14.8",
+    "h1":"SB 7.14.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.14.8",
     "description":"One may claim proprietorship to as much wealth as required to maintain body and soul together, but one who desires proprietorship over more than that must be considered a thief, and he deserves to be punished by the laws of nature."
 }
 ---

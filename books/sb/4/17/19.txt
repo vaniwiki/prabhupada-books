@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.17.19",
+    "h1":"SB 4.17.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.17.19",
     "description":"The cow-shaped earth continued to appeal to the King: I am very poor and have not committed any sinful activities. I do not know why you want to kill me. Since you are supposed to be the knower of all religious principles, why are you so envious of me, and why are you so anxious to kill a woman?"
 }
 ---

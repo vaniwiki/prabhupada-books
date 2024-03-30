@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 2.8.25",
+    "h1":"SB 2.8.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 2.8.25",
     "description":"O great sage, you are as good as Brahmā, the original living being. Others follow custom only, as followed by the previous philosophical speculators."
 }
 ---

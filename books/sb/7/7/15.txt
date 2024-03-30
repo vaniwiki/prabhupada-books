@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 7.7.15",
+    "h1":"SB 7.7.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 7.7.15",
     "description":"Nārada Muni delivered his instructions both to me, who was within the womb, and to my mother, who was engaged in rendering him service. Because he is naturally extremely kind to the fallen souls, being in a transcendental position, he gave instructions on religion and transcendental knowledge. These instructions were free from all material contamination."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 7.8.5",
+    "h1":"SB 7.8.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 7.8.5",
     "description":"Hiraṇyakaśipu said: O most impudent, most unintelligent disruptor of the family, O lowest of mankind, you have violated my power to rule you, and therefore you are an obstinate fool. Today I shall send you to the place of Yamarāja."
 }
 ---

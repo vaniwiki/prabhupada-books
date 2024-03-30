@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 5.14.31",
+    "h1":"SB 5.14.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 5.14.31",
     "description":"In this way the descendants of the monkeys intermingle with each other, and they are generally known as śūdras. Without hesitating, they live and move freely, not knowing the goal of life. They are captivated simply by seeing the faces of one another, which remind them of sense gratification. They are always engaged in material activities, known as grāmya-karma, and they work hard for material benefit. Thus they forget completely that one day their small life spans will be finished and they will be degraded in the evolutionary cycle."
 }
 ---

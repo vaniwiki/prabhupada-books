@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.66",
-    "h1":"Text 66",
-    "title":" Śrīmad Bhāgavatam 4.1.66",
+    "h1":"SB 4.1.66",
+    "label":"Text 66",
+    "title":"Śrīmad Bhāgavatam 4.1.66",
     "description":"The reason is that Satī's father, Dakṣa, used to rebuke Lord Śiva in spite of Śiva's faultlessness. Consequently, before attaining a mature age, Satī gave up her body by dint of yogic mystic power."
 }
 ---

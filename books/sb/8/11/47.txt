@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 8.11.47",
+    "h1":"SB 8.11.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 8.11.47",
     "description":"There, on that hill, Śukrācārya brought to life all the dead demoniac soldiers who had not lost their heads, trunks and limbs. He achieved this by his own mantra, known as Saṁjīvanī."
 }
 ---

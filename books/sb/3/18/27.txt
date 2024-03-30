@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.18.27",
+    "h1":"SB 3.18.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.18.27",
     "description":"The auspicious period known as abhijit, which is most opportune for victory, commenced at midday and has all but passed; therefore, in the interest of Your friends, please dispose of this formidable foe quickly."
 }
 ---

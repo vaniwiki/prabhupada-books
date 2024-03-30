@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 7.11.23",
+    "h1":"SB 7.11.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 7.11.23",
     "description":"Being always devoted to the demigods, the spiritual master and the Supreme Lord, Viṣṇu; endeavoring for advancement in religious principles, economic development and sense gratification [dharma, artha and kāma]; believing in the words of the spiritual master and scripture; and always endeavoring with expertise in earning money—these are the symptoms of the vaiśya."
 }
 ---

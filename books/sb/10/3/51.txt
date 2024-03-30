@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 10.3.51",
+    "h1":"SB 10.3.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 10.3.51",
     "description":"When Vasudeva reached the house of Nanda Mahārāja, he saw that all the cowherd men were fast asleep. Thus he placed his own son on the bed of Yaśodā, picked up her daughter, an expansion of Yogamāyā, and then returned to his residence, the prison house of Kaṁsa."
 }
 ---

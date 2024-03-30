@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 7.2.55",
+    "h1":"SB 7.2.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 7.2.55",
     "description":"The unfortunate baby birds, bereft of their mother, are waiting in the nest for her to feed them. They are still very small and have not yet grown their wings. How shall I be able to maintain them?"
 }
 ---

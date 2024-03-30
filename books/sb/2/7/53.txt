@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 2.7.53",
+    "h1":"SB 2.7.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 2.7.53",
     "description":"The Lord's activities in association with His different energies should be described, appreciated and heard in accordance with the teachings of the Supreme Lord. If this is done regularly with devotion and respect, one is sure to get out of the illusory energy of the Lord."
 }
 ---

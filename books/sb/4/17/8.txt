@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.17.8",
+    "h1":"SB 4.17.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.17.8",
     "description":"Sūta Gosvāmī continued: When Vidura became inspired to hear of the activities of Lord Kṛṣṇa in His various incarnations, Maitreya, also being inspired and being very pleased with Vidura, began to praise him. Then Maitreya spoke as follows."
 }
 ---

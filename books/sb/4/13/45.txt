@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.13.45",
+    "h1":"SB 4.13.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.13.45",
     "description":"Who, if he is considerate and intelligent, would desire such a worthless son? Such a son is nothing but a bond of illusion for the living entity, and he makes one's home miserable."
 }
 ---

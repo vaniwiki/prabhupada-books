@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.1.18",
+    "h1":"SB 3.1.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.1.18",
     "description":"He began to travel alone, thinking only of Kṛṣṇa, through various holy places like Ayodhyā, Dvārakā and Mathurā. He traveled where the air, hill, orchard, river and lake are all pure and sinless and where the forms of the Unlimited decorate the temples. Thus he performed the pilgrim's progress."
 }
 ---

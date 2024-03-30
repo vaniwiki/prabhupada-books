@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.11.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.11.5",
+    "h1":"SB 5.11.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.11.5",
     "description":"Because the mind is absorbed in desires for pious and impious activities, it is naturally subjected to the transformations of lust and anger. In this way, it becomes attracted to material sense enjoyment. In other words, the mind is conducted by the modes of goodness, passion and ignorance. There are eleven senses and five material elements, and out of these sixteen items, the mind is the chief. Therefore the mind brings about birth in different types of bodies among demigods, human beings, animals and birds. When the mind is situated in a higher or lower position, it accepts a higher or lower material body."
 }
 ---

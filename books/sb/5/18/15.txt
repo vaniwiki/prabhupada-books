@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.18.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.18.15",
+    "h1":"SB 5.18.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.18.15",
     "description":"Śukadeva Gosvāmī continued: In the tract of land called Ketumāla-varṣa, Lord Viṣṇu lives in the form of Kāmadeva, only for the satisfaction of His devotees. These include Lakṣmījī [the goddess of fortune], the Prajāpati Saṁvatsara and all of Saṁvatsara's sons and daughters. The daughters of Prajāpati are considered the controlling deities of the nights, and his sons are considered the controllers of the days. The Prajāpati's offspring number 36,000, one for each day and each night in the lifetime of a human being. At the end of each year, the Prajāpati's daughters become very agitated upon seeing the extremely effulgent disc of the Supreme Personality of Godhead, and thus they all suffer miscarriages."
 }
 ---

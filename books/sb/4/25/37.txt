@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.25.37",
+    "h1":"SB 4.25.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.25.37",
     "description":"My dear lord, I have just arranged this city of nine gates for you so that you can have all kinds of sense gratification. You may live here for one hundred years, and everything for your sense gratification will be supplied."
 }
 ---

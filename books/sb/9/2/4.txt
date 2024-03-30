@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 9.2.4",
+    "h1":"SB 9.2.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 9.2.4",
     "description":"Once at night, while it was raining, a tiger entered the land of the cowshed. Upon seeing the tiger, all the cows, who were lying down, got up in fear and scattered here and there on the land."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.7.12",
+    "h1":"SB 6.7.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.7.12",
     "description":"Although I am King of the demigods, who are situated in the mode of goodness, I was proud of a little opulence and polluted by false ego. Under the circumstances, who in this world would accept such riches at the risk of falling down ? Alas! I condemn my wealth and opulence."
 }
 ---

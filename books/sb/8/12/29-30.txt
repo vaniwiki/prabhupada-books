@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.29-30",
-    "h1":"Text 29-30",
-    "title":" Śrīmad Bhāgavatam 8.12.29-30",
+    "h1":"SB 8.12.29-30",
+    "label":"Text 29-30",
+    "title":"Śrīmad Bhāgavatam 8.12.29-30",
     "description":"Being embraced by Lord Śiva like a female elephant embraced by a male, the woman, whose hair was scattered, swirled like a snake. O King, this woman, who had large, high hips, was a woman of yogamāyā presented by the Supreme Personality of Godhead. She released Herself somehow or other from the fond embrace of Lord Śiva's arms and ran away."
 }
 ---

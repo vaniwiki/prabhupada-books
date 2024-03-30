@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.11-12",
-    "h1":"Text 11-12",
-    "title":" Śrīmad Bhāgavatam 9.1.11-12",
+    "h1":"SB 9.1.11-12",
+    "label":"Text 11-12",
+    "title":"Śrīmad Bhāgavatam 9.1.11-12",
     "description":"O King, best of the Bhārata dynasty, from Vivasvān, by the womb of Saṁjñā, Śrāddhadeva Manu was born. Śrāddhadeva Manu, having conquered his senses, begot ten sons in the womb of his wife, Śraddhā. The names of these sons were Ikṣvāku, Nṛga, Śaryāti, Diṣṭa, Dhṛṣṭa, Karūṣaka, Nariṣyanta, Pṛṣadhra, Nabhaga and Kavi."
 }
 ---

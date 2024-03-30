@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.4.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 8.4.10",
+    "h1":"SB 8.4.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 8.4.10",
     "description":"Agastya Muni then spoke this curse against the King: This King Indradyumna is not at all gentle. Being low and uneducated, he has insulted a brāhmaṇa. May he therefore enter the region of darkness and receive the dull, dumb body of an elephant."
 }
 ---

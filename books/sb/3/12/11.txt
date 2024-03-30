@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.12.11",
+    "h1":"SB 3.12.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.12.11",
     "description":"My dear boy, I have already selected the following places for your residence: the heart, the senses, the air of life, the sky, the air, the fire, the water, the earth, the sun, the moon and austerity."
 }
 ---

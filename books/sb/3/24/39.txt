@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.24.39",
+    "h1":"SB 3.24.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.24.39",
     "description":"In your own heart, through your intellect, you will always see Me, the supreme self-effulgent soul dwelling within the hearts of all living entities. Thus you will achieve the state of eternal life, free from all lamentation and fear."
 }
 ---

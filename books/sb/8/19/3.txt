@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.19.3",
+    "h1":"SB 8.19.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.19.3",
     "description":"I know that even until now, no one taking birth in your family has been poor-minded or miserly. No one has refused to give charity to brāhmaṇas, nor after promising to give charity has anyone failed to fulfill his promise."
 }
 ---

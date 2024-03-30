@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 10.10.9",
+    "h1":"SB 10.10.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 10.10.9",
     "description":"Unable to control their senses, rascals who are falsely proud of their riches or their birth in aristocratic families are so cruel that to maintain their perishable bodies, which they think will never grow old or die, they kill poor animals without mercy. Sometimes they kill animals merely to enjoy an excursion."
 }
 ---

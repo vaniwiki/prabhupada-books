@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 7.7.17",
+    "h1":"SB 7.7.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 7.7.17",
     "description":"Prahlāda Mahārāja continued: My dear friends, if you can place your faith in my words, simply by that faith you can also understand transcendental knowledge, just like me, although you are small children. Similarly, a woman can also understand transcendental knowledge and know what is spirit and what is matter."
 }
 ---

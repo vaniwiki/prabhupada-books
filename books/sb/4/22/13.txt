@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.22.13",
+    "h1":"SB 4.22.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.22.13",
     "description":"Pṛthu Mahārāja inquired from the sages about persons entangled in this dangerous material existence because of their previous actions; could such persons, whose only aim is sense gratification, be blessed with any good fortune?"
 }
 ---

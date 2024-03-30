@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 9.15.21",
+    "h1":"SB 9.15.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 9.15.21",
     "description":"Because Kārtavīryārjuna made the water flow in the opposite direction, the camp of Rāvaṇa, which was set up on the bank of the Narmadā near the city of Māhiṣmatī, was inundated. This was unbearable to the ten-headed Rāvaṇa, who considered himself a great hero and could not tolerate Kārtavīryārjuna's power."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 7.7.41",
+    "h1":"SB 7.7.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 7.7.41",
     "description":"A materialistic person, thinking himself very advanced in intelligence, continually acts for economic development. But again and again, as enunciated in the Vedas, he is frustrated by material activities, either in this life or in the next. Indeed, the results one obtains are inevitably the opposite of those one desires."
 }
 ---

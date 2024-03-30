@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.12.17",
+    "h1":"SB 6.12.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.12.17",
     "description":"O my enemy, consider this battle a gambling match in which our lives are the stakes, the arrows are the dice, and the animals acting as carriers are the game board. No one can understand who will be defeated and who will be victorious. It all depends on providence."
 }
 ---

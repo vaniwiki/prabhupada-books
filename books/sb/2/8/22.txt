@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 2.8.22",
+    "h1":"SB 2.8.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 2.8.22",
     "description":"Please also explain how, merged in the body of the Lord, living beings are created, and how the infidels appear in the world. Also please explain how the unconditioned living entities exist."
 }
 ---

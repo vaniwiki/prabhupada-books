@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 6.7.11",
+    "h1":"SB 6.7.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 6.7.11",
     "description":"Alas, what a regrettable deed I have committed because of my lack of intelligence and my pride in my material opulences. I failed to show respect to my spiritual master when he entered this assembly, and thus I have insulted him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.1.3",
+    "h1":"SB 4.1.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.1.3",
     "description":"Ruci, who was very powerful in his brahminical qualifications and was appointed one of the progenitors of the living entities, begot one son and one daughter by his wife, Ākūti."
 }
 ---

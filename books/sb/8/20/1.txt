@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.20.1",
+    "h1":"SB 8.20.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.20.1",
     "description":"Śrī Śukadeva Gosvāmī said: O King Parīkṣit, when Bali Mahārāja was thus advised by his spiritual master, Śukrācārya, his family priest, he remained silent for some time, and then, after full deliberation, he replied to his spiritual master as follows."
 }
 ---

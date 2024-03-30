@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 10.1.52",
+    "h1":"SB 10.1.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 10.1.52",
     "description":"After thus considering the matter as far as his knowledge would allow, Vasudeva submitted his proposal to the sinful Kaṁsa with great respect."
 }
 ---

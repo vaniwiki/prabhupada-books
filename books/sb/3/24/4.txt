@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.24.4",
+    "h1":"SB 3.24.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.24.4",
     "description":"The Personality of Godhead, being worshiped by you, will spread my name and fame. He will vanquish the knot of your heart by becoming your son and teaching knowledge of Brahman."
 }
 ---

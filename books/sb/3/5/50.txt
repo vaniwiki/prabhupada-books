@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 3.5.50",
+    "h1":"SB 3.5.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 3.5.50",
     "description":"You are the original personal founder of all the demigods and the orders of different gradations, yet You are the oldest and are unchanged. O Lord, You have no source or superior. You have impregnated the external energy with the semen of the total living entities, yet You are unborn."
 }
 ---

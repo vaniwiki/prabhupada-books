@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 8.13.23",
+    "h1":"SB 8.13.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 8.13.23",
     "description":"In the home of Viśvasraṣṭā, a plenary portion of the Supreme Personality of Godhead will appear from the womb of Viṣūcī as the incarnation known as Viṣvaksena. He will make friends with Śambhu."
 }
 ---

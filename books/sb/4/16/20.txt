@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.16.20",
+    "h1":"SB 4.16.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.16.20",
     "description":"This King, being uniquely powerful and heroic, will have no competitor. He will travel around the globe on his victorious chariot, holding his invincible bow in his hand and appearing exactly like the sun, which rotates in its own orbit from the south."
 }
 ---

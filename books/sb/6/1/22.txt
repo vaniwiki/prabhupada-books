@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.1.22",
+    "h1":"SB 6.1.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.1.22",
     "description":"This fallen brāhmaṇa, Ajāmila, gave trouble to others by arresting them, by cheating them in gambling or by directly plundering them. This was the way he earned his livelihood and maintained his wife and children."
 }
 ---

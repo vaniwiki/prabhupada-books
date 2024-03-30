@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.7.19",
+    "h1":"SB 3.7.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.7.19",
     "description":"By serving the feet of the spiritual master, one is enabled to develop transcendental ecstasy in the service of the Personality of Godhead, who is the unchangeable enemy of the Madhu demon and whose service vanquishes one's material distresses."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.13.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 9.13.1",
+    "h1":"SB 9.13.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 9.13.1",
     "description":"Śrīla Śukadeva Gosvāmī said: After beginning sacrifices, Mahārāja Nimi, the son of Ikṣvāku, requested the great sage Vasiṣṭha to take the post of chief priest. At that time, Vasiṣṭha replied, \"My dear Mahārāja Nimi, I have already accepted the same post in a sacrifice begun by Lord Indra."
 }
 ---

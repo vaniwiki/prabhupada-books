@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.73",
-    "h1":"Text 73",
-    "title":" Śrīmad Bhāgavatam 7.15.73",
+    "h1":"SB 7.15.73",
+    "label":"Text 73",
+    "title":"Śrīmad Bhāgavatam 7.15.73",
     "description":"Although I took birth as a śūdra from the womb of a maidservant, I engaged in the service of Vaiṣṇavas who were well-versed in Vedic knowledge. Consequently, in this life I got the opportunity to take birth as the son of Lord Brahmā."
 }
 ---

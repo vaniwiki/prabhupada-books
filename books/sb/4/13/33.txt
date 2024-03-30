@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.13.33",
+    "h1":"SB 4.13.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.13.33",
     "description":"When Hari, the supreme enjoyer of all sacrifices, is invited to fulfill your desire for a son, all the demigods will come with Him and take their shares in the sacrifice."
 }
 ---

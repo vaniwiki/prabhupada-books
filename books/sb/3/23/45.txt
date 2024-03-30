@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 3.23.45",
+    "h1":"SB 3.23.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 3.23.45",
     "description":"In that aerial mansion, Devahūti, in the company of her handsome husband, situated on an excellent bed that increased sexual desires, could not realize how much time was passing."
 }
 ---

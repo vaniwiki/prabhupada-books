@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.10.6",
+    "h1":"SB 8.10.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.10.6",
     "description":"Both parties in that fight were extremely angry at heart, and in enmity they beat one another with swords, arrows and varieties of other weapons."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 9.9.9",
+    "h1":"SB 9.9.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 9.9.9",
     "description":"When King Bhagīratha approached Lord Śiva and requested him to sustain the forceful waves of the Ganges, Lord Śiva accepted the proposal by saying, \"Let it be so.\" Then, with great attention, he sustained the Ganges on his head, for the water of the Ganges is purifying, having emanated from the toes of Lord Viṣṇu."
 }
 ---

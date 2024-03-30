@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 4.14.36",
+    "h1":"SB 4.14.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 4.14.36",
     "description":"Once upon a time, the same saintly persons, after taking their bath in the River Sarasvatī, began to perform their daily duties by offering oblations into the sacrificial fires. After this, sitting on the bank of the river, they began to talk about the transcendental person and His pastimes."
 }
 ---

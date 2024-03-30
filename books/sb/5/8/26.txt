@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 5.8.26",
+    "h1":"SB 5.8.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 5.8.26",
     "description":"Śukadeva Gosvāmī continued: My dear King, in this way Bharata Mahārāja was overwhelmed by an uncontrollable desire which was manifest in the form of the deer. Due to the fruitive results of his past deeds, he fell down from mystic yoga, austerity and worship of the Supreme Personality of Godhead. If it were not due to his past fruitive activity, how could he have been attracted to the deer after giving up the association of his own son and family, considering them stumbling blocks on the path of spiritual life? How could he show such uncontrollable affection for a deer? This was definitely due to his past karma. The King was so engrossed in petting and maintaining the deer that he fell down from his spiritual activities. In due course of time, insurmountable death, which is compared to a venomous snake that enters the hole created by a mouse, situated itself before him."
 }
 ---

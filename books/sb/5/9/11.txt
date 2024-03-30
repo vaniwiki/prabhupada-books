@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.9.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.9.11",
+    "h1":"SB 5.9.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.9.11",
     "description":"Jaḍa Bharata used to work only for food. His stepbrothers took advantage of this and engaged him in agricultural field work in exchange for some food, but actually he did not know how to work very well in the field. He did not know where to spread dirt or where to make the ground level or uneven. His brothers used to give him broken rice, oil cakes, the chaff of rice, worm-eaten grains and burned grains that had stuck to the pot, but he gladly accepted all this as if it were nectar. He did not hold any grudges and ate all this very gladly."
 }
 ---

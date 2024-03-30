@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 10.5.26",
+    "h1":"SB 10.5.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 10.5.26",
     "description":"My dear friend Nanda Mahārāja, in the place where you are living with your friends, is the forest favorable for the animals, the cows? I hope there is no disease or inconvenience. The place must be full of water, grass and other plants."
 }
 ---

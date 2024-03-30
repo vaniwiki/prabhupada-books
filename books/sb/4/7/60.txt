@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 4.7.60",
+    "h1":"SB 4.7.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 4.7.60",
     "description":"Maitreya said: My dear Vidura, I heard this story of the Dakṣa yajña, which was devastated by Lord Śiva, from Uddhava, a great devotee and a disciple of Bṛhaspati."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.2.3",
+    "h1":"SB 6.2.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.2.3",
     "description":"A king or governmental official should be so well qualified that he acts as a father, maintainer and protector of the citizens because of affection and love. He should give the citizens good advice and instructions according to the standard scriptures and should be equal to everyone. Yamarāja does this, for he is the supreme master of justice, and so do those who follow in his footsteps. However, if such persons become polluted and exhibit partiality by punishing an innocent, blameless person, where will the citizens go to take shelter for their maintenance and security?"
 }
 ---

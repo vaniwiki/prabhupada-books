@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.16.17",
+    "h1":"SB 6.16.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.16.17",
     "description":"Thereafter, being very much pleased with Citraketu, who was a self-controlled devotee and surrendered soul, Nārada, the most powerful sage, spoke to him the following transcendental instructions."
 }
 ---

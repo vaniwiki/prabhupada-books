@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.11.1",
+    "h1":"SB 7.11.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.11.1",
     "description":"Śukadeva Gosvāmī continued: After hearing about the activities and character of Prahlāda Mahārāja, which are adored and discussed among great personalities like Lord Brahmā and Lord Śiva, Yudhiṣṭhira Mahārāja, the most respectful king among exalted personalities, again inquired from the great saint Nārada Muni in a mood of great pleasure."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.4.33",
+    "h1":"SB 4.4.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.4.33",
     "description":"When Bhṛgu Muni offered oblations in the fire, immediately many thousands of demigods named Ṛbhus became manifested. All of them were powerful, having achieved strength from Soma, the moon."
 }
 ---

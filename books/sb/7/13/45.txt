@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 7.13.45",
+    "h1":"SB 7.13.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 7.13.45",
     "description":"Prahlāda Mahārāja, you are certainly a self-realized soul and a devotee of the Supreme Lord. You do not care for public opinion or so-called scriptures. For this reason I have described to you without hesitation the history of my self-realization."
 }
 ---

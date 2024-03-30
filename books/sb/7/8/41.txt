@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 7.8.41",
+    "h1":"SB 7.8.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 7.8.41",
     "description":"Lord Śiva said: The end of the millennium is the time for Your anger. Now that this insignificant demon Hiraṇyakaśipu has been killed, O my Lord, who are naturally affectionate to Your devotee, kindly protect his son Prahlāda Mahārāja, who is standing nearby as Your fully surrendered devotee."
 }
 ---

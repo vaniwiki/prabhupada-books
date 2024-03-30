@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 3.26.63",
+    "h1":"SB 3.26.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 3.26.63",
     "description":"The god of fire entered His mouth with the organ of speech, but the virāṭ-puruṣa could not be aroused. Then the god of wind entered His nostrils with the sense of smell, but still the virāṭ-puruṣa refused to be awakened."
 }
 ---

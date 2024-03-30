@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 10.13.56",
+    "h1":"SB 10.13.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 10.13.56",
     "description":"Then, by the power of the effulgence of those viṣṇu-mūrtis, Lord Brahmā, his eleven senses jolted by astonishment and stunned by transcendental bliss, became silent, just like a child's clay doll in the presence of the village deity."
 }
 ---

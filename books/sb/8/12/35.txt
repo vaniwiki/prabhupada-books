@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 8.12.35",
+    "h1":"SB 8.12.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 8.12.35",
     "description":"O Mahārāja Parīkṣit, best of kings, when Lord Śiva had fully discharged semen, he could see how he himself had been victimized by the illusion created by the Supreme Personality of Godhead. Thus he restrained himself from any further māyā."
 }
 ---

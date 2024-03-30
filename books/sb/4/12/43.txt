@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 4.12.43",
+    "h1":"SB 4.12.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 4.12.43",
     "description":"Dhruva Mahārāja attained an exalted position at the age of only five or six years, after undergoing austerity for six months. Alas, a great kṣatriya cannot achieve such a position even after undergoing austerities for many, many years."
 }
 ---

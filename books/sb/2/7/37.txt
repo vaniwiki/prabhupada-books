@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 2.7.37",
+    "h1":"SB 2.7.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 2.7.37",
     "description":"When the atheists, after being well versed in the Vedic scientific knowledge, annihilate inhabitants of different planets, flying unseen in the sky on well-built rockets prepared by the great scientist Maya, the Lord will bewilder their minds by dressing Himself attractively as Buddha and will preach on subreligious principles."
 }
 ---

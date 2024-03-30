@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 5.20.28",
+    "h1":"SB 5.20.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 5.20.28",
     "description":"[The inhabitants of Śākadvīpa worship the Supreme Personality of Godhead in the form of Vāyu in the following words.] O Supreme Person, situated as the Supersoul within the body, You direct the various actions of the different airs, such as prāṇa, and thus You maintain all living entities. O Lord, O Supersoul of everyone, O controller of the cosmic manifestation under whom everything exists, may You protect us from all dangers."
 }
 ---

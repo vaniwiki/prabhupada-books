@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 7.13.41",
+    "h1":"SB 7.13.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 7.13.41",
     "description":"O my lord, sometimes I bathe myself very nicely, smear sandalwood pulp all over my body, put on a flower garland, and dress in fine garments and ornaments. Then I travel like a king on the back of an elephant or on a chariot or horse. Sometimes, however, I travel naked, like a person haunted by a ghost."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 9.3.3",
+    "h1":"SB 9.3.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 9.3.3",
     "description":"While that Sukanyā, surrounded by her friends, was collecting various types of fruits from the trees in the forest, she saw within the hole of an earthworm two things glowing like luminaries."
 }
 ---

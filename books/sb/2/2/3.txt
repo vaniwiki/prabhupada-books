@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 2.2.3",
+    "h1":"SB 2.2.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 2.2.3",
     "description":"For this reason the enlightened person should endeavor only for the minimum necessities of life while in the world of names. He should be intelligently fixed and never endeavor for unwanted things, being competent to perceive practically that all such endeavors are merely hard labor for nothing."
 }
 ---

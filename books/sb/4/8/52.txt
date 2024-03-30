@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 4.8.52",
+    "h1":"SB 4.8.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 4.8.52",
     "description":"One who meditates in this way, concentrating his mind upon the always auspicious form of the Lord, is very soon freed from all material contamination, and he does not come down from meditation upon the Lord."
 }
 ---

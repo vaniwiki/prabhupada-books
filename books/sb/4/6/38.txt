@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.6.38",
+    "h1":"SB 4.6.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.6.38",
     "description":"His left leg was placed on his right thigh, and his left hand was placed on his left thigh. In his right hand he held rudrākṣa beads. This sitting posture is called vīrāsana. He sat in the vīrāsana posture, and his finger was in the mode of argument."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.13.16",
+    "h1":"SB 5.13.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.13.16",
     "description":"Sometimes the living entity in the forest of material existence takes shelter of creepers and desires to hear the chirping of the birds in those creepers. Being afraid of roaring lions in the forest, he makes friends with cranes, herons and vultures."
 }
 ---

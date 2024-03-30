@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.20.6",
+    "h1":"SB 5.20.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.20.6",
     "description":"O King, longevity, sensory prowess, physical and mental strength, intelligence and bravery are naturally and equally manifested in all the inhabitants of the five islands headed by Plakṣadvīpa."
 }
 ---

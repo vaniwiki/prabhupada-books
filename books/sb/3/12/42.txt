@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 3.12.42",
+    "h1":"SB 3.12.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 3.12.42",
     "description":"Then the thread ceremony for the twice-born was inaugurated, as were the rules to be followed for at least one year after acceptance of the Vedas, rules for observing complete abstinence from sex life, vocations in terms of Vedic injunctions, various professional duties in household life, and the method of maintaining a livelihood without anyone's cooperation by picking up rejected grains."
 }
 ---

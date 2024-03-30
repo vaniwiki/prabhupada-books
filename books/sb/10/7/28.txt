@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.7.28",
+    "h1":"SB 10.7.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.7.28",
     "description":"With Kṛṣṇa grasping him by the throat, Tṛṇāvarta choked, unable to make even a sound or even to move his hands and legs. His eyes popping out, the demon lost his life and fell, along with the little boy, down to the ground of Vraja."
 }
 ---

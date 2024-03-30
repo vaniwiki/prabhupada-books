@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.3.4",
+    "h1":"SB 3.3.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.3.4",
     "description":"By subduing seven bulls whose noses were not pierced, the Lord achieved the hand of Princess Nāgnijitī in the open competition to select her bridegroom. Although the Lord was victorious, His competitors asked the hand of the princess, and thus there was a fight. Well equipped with weapons, the Lord killed or wounded all of them, but He was not hurt Himself."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.23.10",
+    "h1":"SB 4.23.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.23.10",
     "description":"Mahārāja Pṛthu thus engaged completely in devotional service, executing the rules and regulations strictly according to principles, twenty-four hours daily. Thus his love and devotion unto the Supreme Personality of Godhead, Kṛṣṇa, developed and became unflinching and fixed."
 }
 ---

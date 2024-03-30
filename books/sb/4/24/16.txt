@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.24.16",
+    "h1":"SB 4.24.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.24.16",
     "description":"Vidura asked Maitreya: My dear brāhmaṇa, why did the Pracetās meet Lord Śiva on the way? Please tell me how the meeting happened, how Lord Śiva became very pleased with them and how he instructed them. Certainly such talks are important, and I wish that you please be merciful upon me and describe them."
 }
 ---

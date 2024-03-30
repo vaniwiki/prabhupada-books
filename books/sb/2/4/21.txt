@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 2.4.21",
+    "h1":"SB 2.4.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 2.4.21",
     "description":"It is the Personality of Godhead Śrī Kṛṣṇa who gives liberation. By thinking of His lotus feet at every second, following in the footsteps of authorities, the devotee in trance can see the Absolute Truth. The learned mental speculators, however, think of Him according to their whims. May the Lord be pleased with me."
 }
 ---

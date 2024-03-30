@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.14.44",
+    "h1":"SB 4.14.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.14.44",
     "description":"This person born from King Vena's thighs was named Bāhuka, and his complexion was as black as a crow's. All the limbs of his body were very short, his arms and legs were short, and his jaws were large. His nose was flat, his eyes were reddish, and his hair copper-colored."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 5.24.31",
+    "h1":"SB 5.24.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 5.24.31",
     "description":"Beneath Rasātala is another planetary system, known as Pātāla or Nāgaloka, where there are many demoniac serpents, the masters of Nāgaloka, such as Śaṅkha, Kulika, Mahāśaṅkha, Śveta, Dhanañjaya, Dhṛtarāṣṭra, Śaṅkhacūḍa, Kambala, Aśvatara and Devadatta. The chief among them is Vāsuki. They are all extremely angry, and they have many, many hoods—some snakes five hoods, some seven, some ten, others a hundred and others a thousand. These hoods are bedecked with valuable gems, and the light emanating from the gems illuminates the entire planetary system of bila-svarga."
 }
 ---

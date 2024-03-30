@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.12.17",
+    "h1":"SB 10.12.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.12.17",
     "description":"His lower lip rested on the surface of the earth, and his upper lip was touching the clouds in the sky. The borders of his mouth resembled the sides of a big cave in a mountain, and the middle of his mouth was as dark as possible. His tongue resembled a broad traffic-way, his breath was like a warm wind, and his eyes blazed like fire."
 }
 ---

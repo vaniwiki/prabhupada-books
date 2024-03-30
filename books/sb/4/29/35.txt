@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.29.35",
+    "h1":"SB 4.29.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.29.35",
     "description":"Sometimes we suffer because we see a tiger in a dream or a snake in a vision, but actually there is neither a tiger nor a snake. Thus we create some situation in a subtle form and suffer the consequences. These sufferings cannot be mitigated unless we are awakened from our dream."
 }
 ---

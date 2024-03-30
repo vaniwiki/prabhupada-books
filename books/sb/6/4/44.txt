@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 6.4.44",
+    "h1":"SB 6.4.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 6.4.44",
     "description":"My dear Prajāpati Dakṣa, you have performed extreme austerities for the welfare and growth of the world. My desire also is that everyone within this world be happy. I am therefore very pleased with you because you are endeavoring to fulfill My desire for the welfare of the entire world."
 }
 ---

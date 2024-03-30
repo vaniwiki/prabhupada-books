@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.28.56",
+    "h1":"SB 4.28.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.28.56",
     "description":"In that city [the material body] there are five gardens, nine gates, one protector, three apartments, six families, five stores, five material elements, and one woman who is lord of the house."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 7.2.6",
+    "h1":"SB 7.2.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 7.2.6",
     "description":"My insignificant enemies the demigods have combined to kill my very dear and obedient well-wisher, my brother Hiraṇyākṣa. Although the Supreme Lord, Viṣṇu, is always equal to both of us—namely, the demigods and the demons—this time, being devoutly worshiped by the demigods, He has taken their side and helped them kill Hiraṇyākṣa."
 }
 ---

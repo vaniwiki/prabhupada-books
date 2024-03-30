@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.31.11",
+    "h1":"SB 3.31.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.31.11",
     "description":"The living entity in this frightful condition of life, bound by seven layers of material ingredients, prays with folded hands, appealing to the Lord, who has put him in that condition."
 }
 ---

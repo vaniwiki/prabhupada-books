@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.6.7",
+    "h1":"SB 9.6.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.6.7",
     "description":"Thereafter, Ikṣvāku's son Vikukṣi went to the forest and killed many animals suitable for being offered as oblations. But when fatigued and hungry he became forgetful and ate a rabbit he had killed."
 }
 ---

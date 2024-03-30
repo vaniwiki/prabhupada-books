@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 2.1.5",
+    "h1":"SB 2.1.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 2.1.5",
     "description":"O descendant of King Bharata, one who desires to be free from all miseries must hear about, glorify and also remember the Personality of Godhead, who is the Supersoul, the controller and the savior from all miseries."
 }
 ---

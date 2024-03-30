@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 9.22.20",
+    "h1":"SB 9.22.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 9.22.20",
     "description":"Bhīṣmadeva was the foremost of all warriors. When he defeated Lord Paraśurāma in a fight, Lord Paraśurāma was very satisfied with him. By the semen of Śāntanu in the womb of Satyavatī, the daughter of a fisherman, Citrāṅgada took birth."
 }
 ---

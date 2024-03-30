@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.6.36",
+    "h1":"SB 3.6.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.6.36",
     "description":"In spite of my inability, whatever I have been able to hear [from the spiritual master] and whatever I could assimilate I am now describing in glorification of the Lord by pure speech, for otherwise my power of speaking would remain unchaste."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.5-6",
-    "h1":"Text 5-6",
-    "title":" Śrīmad Bhāgavatam 10.6.5-6",
+    "h1":"SB 10.6.5-6",
+    "label":"Text 5-6",
+    "title":"Śrīmad Bhāgavatam 10.6.5-6",
     "description":"Her hips were full, her breasts were large and firm, seeming to overburden her slim waist, and she was dressed very nicely. Her hair, adorned with a garland of mallikā flowers, was scattered about her beautiful face. Her earrings were brilliant, and as she smiled very attractively, glancing upon everyone, her beauty drew the attention of all the inhabitants of Vraja, especially the men. When the gopīs saw her, they thought that the beautiful goddess of fortune, holding a lotus flower in her hand, had come to see her husband, Kṛṣṇa."
 }
 ---

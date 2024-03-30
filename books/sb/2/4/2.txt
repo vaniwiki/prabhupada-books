@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.4.2",
+    "h1":"SB 2.4.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.4.2",
     "description":"Mahārāja Parīkṣit, as a result of his wholehearted attraction for Lord Kṛṣṇa, was able to give up all deep-rooted affection for his personal body, his wife, his children, his palace, his animals like horses and elephants, his treasury house, his friends and relatives, and his undisputed kingdom."
 }
 ---

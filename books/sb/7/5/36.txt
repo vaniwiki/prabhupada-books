@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 7.5.36",
+    "h1":"SB 7.5.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 7.5.36",
     "description":"Although Prahlāda is only five years old, even at this young age he has given up his affectionate relationship with his father and mother. Therefore, he is certainly untrustworthy. Indeed, it is not at all believable that he will behave well toward Viṣṇu."
 }
 ---

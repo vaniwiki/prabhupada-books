@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 10.4.25",
+    "h1":"SB 10.4.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 10.4.25",
     "description":"When Devakī saw her brother actually repentant while explaining ordained events, she was relieved of all anger. Similarly, Vasudeva was also free from anger. Smiling, he spoke to Kaṁsa as follows."
 }
 ---

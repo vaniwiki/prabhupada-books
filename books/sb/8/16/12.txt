@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.16.12",
+    "h1":"SB 8.16.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.16.12",
     "description":"O beloved husband, the fires, guests, servants and beggars are all being properly cared for by me. Because I always think of you, there is no possibility that any of the religious principles will be neglected."
 }
 ---

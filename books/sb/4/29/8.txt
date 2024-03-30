@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.29.8",
+    "h1":"SB 4.29.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.29.8",
     "description":"The eyes, nostrils and ears are pairs of gates situated in one place. The mouth, genital and rectum are also different gates. Being placed into a body having these nine gates, the living entity acts externally in the material world and enjoys sense objects like form and taste."
 }
 ---

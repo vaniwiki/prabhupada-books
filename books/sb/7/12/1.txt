@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.12.1",
+    "h1":"SB 7.12.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.12.1",
     "description":"Nārada Muni said: A student should practice completely controlling his senses. He should be submissive and should have an attitude of firm friendship for the spiritual master. With a great vow, the brahmacārī should live at the guru-kula, only for the benefit of the guru."
 }
 ---

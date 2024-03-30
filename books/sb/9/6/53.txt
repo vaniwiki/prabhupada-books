@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 9.6.53",
+    "h1":"SB 9.6.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 9.6.53",
     "description":"In this way he passed his life in household affairs for some time, but then he became detached from material enjoyment. To renounce material association, he accepted the vānaprastha order and went to the forest. His devoted wives followed him, for they had no shelter other than their husband."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 4.13.39",
+    "h1":"SB 4.13.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 4.13.39",
     "description":"That boy was born partially in the dynasty of irreligion. His grandfather was death personified, and the boy grew up as his follower; he became a greatly irreligious person."
 }
 ---

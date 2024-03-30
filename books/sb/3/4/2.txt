@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.4.2",
+    "h1":"SB 3.4.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.4.2",
     "description":"As by the friction of bamboos destruction takes place, so also, at sunset, by the interaction of the faults of intoxication, all their minds became unbalanced, and destruction took place."
 }
 ---

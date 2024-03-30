@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.10.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.10.6",
+    "h1":"SB 5.10.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.10.6",
     "description":"King Rahūgaṇa told Jaḍa Bharata: How troublesome this is, my dear brother. You certainly appear very fatigued because you have carried this palanquin alone without assistance for a long time and for a long distance. Besides that, due to your old age you have become greatly troubled. My dear friend, I see that you are not very firm, nor very strong and stout. Aren't your fellow carriers cooperating with you?"
 }
 ---

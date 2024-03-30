@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.27.24",
+    "h1":"SB 3.27.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.27.24",
     "description":"By discovering the faultiness of his desiring to lord it over material nature and by therefore giving it up, the living entity becomes independent and stands in his own glory."
 }
 ---

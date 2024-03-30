@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.19.37",
+    "h1":"SB 4.19.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.19.37",
     "description":"O King Pṛthu, son of Vena, you are the part-and-parcel expansion of Lord Viṣṇu. Due to the mischievous activities of King Vena, religious principles were almost lost. At that opportune moment you descended as the incarnation of Lord Viṣṇu. Indeed, for the protection of religious principles you have appeared from the body of King Vena."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 5.20.43",
+    "h1":"SB 5.20.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 5.20.43",
     "description":"The sun is situated [vertically] in the middle of the universe, in the area between Bhūrloka and Bhuvarloka, which is called antarikṣa, outer space. The distance between the sun and the circumference of the universe is twenty-five koṭi yojanas [two billion miles]."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.3.27",
+    "h1":"SB 3.3.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.3.27",
     "description":"The brāhmaṇas were not only given well-fed cows in charity, but also gold, gold coins, bedding, clothing, animal-skin seats, blankets, horses, elephants, girls and sufficient land for maintenance."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 2.9.30",
+    "h1":"SB 2.9.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 2.9.30",
     "description":"O my Lord, the unborn, You have shaken hands with me just as a friend does with a friend [as if equal in position]. I shall be engaged in the creation of different types of living entities, and I shall be occupied in Your service. I shall have no perturbation, but I pray that all this may not give rise to pride, as if I were the Supreme."
 }
 ---

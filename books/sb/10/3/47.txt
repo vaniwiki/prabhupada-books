@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 10.3.47",
+    "h1":"SB 10.3.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 10.3.47",
     "description":"Thereafter, exactly when Vasudeva, being inspired by the Supreme Personality of Godhead, was about to take the newborn child from the delivery room, Yogamāyā, the Lord's spiritual energy, took birth as the daughter of the wife of Mahārāja Nanda."
 }
 ---

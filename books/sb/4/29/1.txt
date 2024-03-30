@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.29.1",
+    "h1":"SB 4.29.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.29.1",
     "description":"King Prācīnabarhi replied: My dear lord, we could not appreciate completely the purport of your allegorical story of King Purañjana. Actually, those who are perfect in spiritual knowledge can understand, but for us, who are overly attached to fruitive activities, to realize the purpose of your story is very difficult."
 }
 ---

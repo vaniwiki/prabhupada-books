@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.23.22",
+    "h1":"SB 4.23.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.23.22",
     "description":"After this, the Queen executed the necessary funerary functions and offered oblations of water. After bathing in the river, she offered obeisances to various demigods situated in the sky in the different planetary systems. She then circumambulated the fire and, while thinking of the lotus feet of her husband, entered its flames."
 }
 ---

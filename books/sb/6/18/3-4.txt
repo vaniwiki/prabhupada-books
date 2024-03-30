@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.3-4",
-    "h1":"Text 3-4",
-    "title":" Śrīmad Bhāgavatam 6.18.3-4",
+    "h1":"SB 6.18.3-4",
+    "label":"Text 3-4",
+    "title":"Śrīmad Bhāgavatam 6.18.3-4",
     "description":"Dhātā, the seventh son of Aditi, had four wives, named Kuhū, Sinīvālī, Rākā and Anumati. These wives begot four sons, named Sāyam, Darśa, Prātaḥ and Pūrṇamāsa respectively. The wife of Vidhātā, the eighth son of Aditi, was named Kriyā. In her Vidhātā begot the five fire-gods named the Purīṣyas. The wife of Varuṇa, the ninth son of Aditi, was named Carṣaṇī. Bhṛgu, the son of Brahmā, took birth again in her womb."
 }
 ---

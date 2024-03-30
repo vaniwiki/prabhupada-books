@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 9.18.24",
+    "h1":"SB 9.18.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 9.18.24",
     "description":"Thereafter, when the learned King returned to his palace, Devayānī returned home crying and told her father, Śukrācārya, about all that had happened because of Śarmiṣṭhā. She told how she had been thrown into the well but was saved by the King."
 }
 ---

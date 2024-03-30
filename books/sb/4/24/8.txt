@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.24.8",
+    "h1":"SB 4.24.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.24.8",
     "description":"Havirdhāna, the son of Mahārāja Antardhāna, had a wife named Havirdhānī, who gave birth to six sons, named Barhiṣat, Gaya, Śukla, Kṛṣṇa, Satya and Jitavrata."
 }
 ---

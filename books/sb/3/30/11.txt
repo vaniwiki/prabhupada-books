@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.30.11",
+    "h1":"SB 3.30.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.30.11",
     "description":"When he suffers reverses in his occupation, he tries again and again to improve himself, but when he is baffled in all attempts and is ruined, he accepts money from others because of excessive greed."
 }
 ---

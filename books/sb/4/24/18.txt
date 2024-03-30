@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.24.18",
+    "h1":"SB 4.24.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.24.18",
     "description":"Lord Śiva, the most powerful demigod, second only to Lord Viṣṇu, is self-sufficient. Although he has nothing to aspire for in the material world, for the benefit of those in the material world he is always busily engaged everywhere and is accompanied by his dangerous energies like goddess Kālī and goddess Durgā."
 }
 ---

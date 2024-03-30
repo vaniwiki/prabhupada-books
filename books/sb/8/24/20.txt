@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.24.20",
+    "h1":"SB 8.24.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.24.20",
     "description":"The fish then said: My dear King, this reservoir of water is not fit for My happy residence. Please give Me a more extensive pool of water, for I have taken shelter of you."
 }
 ---

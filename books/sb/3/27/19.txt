@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.27.19",
+    "h1":"SB 3.27.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.27.19",
     "description":"Hence even though he is the passive performer of all activities, how can there be freedom for the soul as long as material nature acts on him and binds him?"
 }
 ---

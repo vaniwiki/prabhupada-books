@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 9.5.17",
+    "h1":"SB 9.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 9.5.17",
     "description":"O King, overlooking my offenses, you have saved my life. Thus I am very much obliged to you because you are so merciful."
 }
 ---

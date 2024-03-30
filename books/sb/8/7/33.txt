@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.7.33",
+    "h1":"SB 8.7.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.7.33",
     "description":"Exalted, self-satisfied persons who preach to the entire world think of your lotus feet constantly within their hearts. However, when persons who do not know your austerity see you moving with Umā, they misunderstand you to be lusty, or when they see you wandering in the crematorium they mistakenly think that you are ferocious and envious. Certainly they are shameless. They cannot understand your activities."
 }
 ---

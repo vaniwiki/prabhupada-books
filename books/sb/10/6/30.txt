@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 10.6.30",
+    "h1":"SB 10.6.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 10.6.30",
     "description":"Śrīla Śukadeva Gosvāmī continued: All the gopīs, headed by mother Yaśodā, were bound by maternal affection. After they thus chanted mantras to protect the child, mother Yaśodā gave the child the nipple of her breast to suck and then got Him to lie down on His bed."
 }
 ---

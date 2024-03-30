@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.32.20",
+    "h1":"SB 3.32.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.32.20",
     "description":"Such materialistic persons are allowed to go to the planet called Pitṛloka by the southern course of the sun, but they again come back to this planet and take birth in their own families, beginning again the same fruitive activities from birth to the end of life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 10.11.25",
+    "h1":"SB 10.11.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 10.11.25",
     "description":"Then again, the demon Tṛṇāvarta, in the form of a whirlwind, took the child away into the dangerous sky to kill Him, but the demon fell down onto a slab of stone. In that case also, by the mercy of Lord Viṣṇu or His associates, the child was saved."
 }
 ---

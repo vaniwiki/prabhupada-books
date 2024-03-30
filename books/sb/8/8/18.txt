@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.8.18",
+    "h1":"SB 8.8.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.8.18",
     "description":"Her two breasts, which were symmetrical and nicely situated, were covered with sandalwood pulp and kuṅkuma powder, and her waist was very thin. As she walked here and there, her ankle bells jingling softly, she appeared like a creeper of gold."
 }
 ---

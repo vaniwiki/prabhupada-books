@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 6.14.20",
+    "h1":"SB 6.14.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 6.14.20",
     "description":"If the king's mind is fully controlled, all his family members and governmental officers are subordinate to him. His provincial governors present taxes on time, without resistance, and what to speak of lesser servants?"
 }
 ---

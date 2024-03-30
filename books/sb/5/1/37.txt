@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 5.1.37",
+    "h1":"SB 5.1.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 5.1.37",
     "description":"The King thus began criticizing himself: Alas, how condemned I have become because of my sense gratification! I have now fallen into material enjoyment, which is exactly like a covered well. I have had enough! I am not going to enjoy any more. Just see how I have become like a dancing monkey in the hands of my wife. Because of this, I am condemned."
 }
 ---

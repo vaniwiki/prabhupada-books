@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 2.7.11",
+    "h1":"SB 2.7.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 2.7.11",
     "description":"The Lord appeared as the Hayagrīva incarnation in a sacrifice performed by me [Brahmā]. He is the personified sacrifices, and the hue of His body is golden. He is the personified Vedas as well, and the Supersoul of all demigods. When He breathed, all the sweet sounds of the Vedic hymns came out of His nostrils."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 3.10.15",
+    "h1":"SB 3.10.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 3.10.15",
     "description":"Of the nine creations, the first one is the creation of the mahat-tattva, or the sum total of the material ingredients, wherein the modes interact due to the presence of the Supreme Lord. In the second, the false ego is generated in which the material ingredients, material knowledge and material activities arise."
 }
 ---

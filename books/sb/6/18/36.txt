@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 6.18.36",
+    "h1":"SB 6.18.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 6.18.36",
     "description":"My dear gentle wife, because you have worshiped me with great devotion, considering me a representative of the Supreme Personality of Godhead, I shall reward you by fulfilling your desires, which are unobtainable for an unchaste wife."
 }
 ---

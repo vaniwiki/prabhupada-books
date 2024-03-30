@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.14.9",
+    "h1":"SB 6.14.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.14.9",
     "description":"Śrī Śukadeva Gosvāmī said: O King, I shall speak to you the same history I have heard from the mouths of Vyāsadeva, Nārada and Devala. Please listen with attention."
 }
 ---

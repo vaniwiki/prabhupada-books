@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.15-16",
-    "h1":"Text 15-16",
-    "title":" Śrīmad Bhāgavatam 7.3.15-16",
+    "h1":"SB 7.3.15-16",
+    "label":"Text 15-16",
+    "title":"Śrīmad Bhāgavatam 7.3.15-16",
     "description":"Lord Brahmā, who is carried by a swan airplane, at first could not see where Hiraṇyakaśipu was, for Hiraṇyakaśipu's body was covered by an anthill and by grass and bamboo sticks. Because Hiraṇyakaśipu had been there for a long time, the ants had devoured his skin, fat, flesh and blood. Then Lord Brahmā and the demigods spotted him, resembling a cloud—covered sun, heating all the world by his austerity. Struck with wonder, Lord Brahmā began to smile and then addressed him as follows."
 }
 ---

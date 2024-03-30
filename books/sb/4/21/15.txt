@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.21.15",
+    "h1":"SB 4.21.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.21.15",
     "description":"King Pṛthu's body was tall and sturdy, and his complexion was fair. His arms were full and broad and his eyes as bright as the rising sun. His nose was straight, his face very beautiful and his personality grave. His teeth were set beautifully in his smiling face."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.6.12",
+    "h1":"SB 4.6.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.6.12",
     "description":"On Kailāsa Hill there is always the rhythmical sound of the peacocks' sweet vibrations and the bees' humming. Cuckoos are always singing, and other birds whisper amongst themselves."
 }
 ---

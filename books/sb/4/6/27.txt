@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.6.27",
+    "h1":"SB 4.6.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.6.27",
     "description":"The airplanes of the heavenly denizens are bedecked with pearls, gold and many valuable jewels. The heavenly denizens are compared to clouds in the sky decorated with occasional flashes of electric lightning."
 }
 ---

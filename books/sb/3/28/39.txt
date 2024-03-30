@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.28.39",
+    "h1":"SB 3.28.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.28.39",
     "description":"Because of great affection for family and wealth, one accepts a son and some money as his own, and due to affection for the material body, one thinks that it is his. But actually, as one can understand that his family and wealth are different from him, the liberated soul can understand that he and his body are not the same."
 }
 ---

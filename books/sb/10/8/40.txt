@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 10.8.40",
+    "h1":"SB 10.8.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 10.8.40",
     "description":"[Mother Yaśodā began to argue within herself:] Is this a dream, or is it an illusory creation by the external energy? Has this been manifested by my own intelligence, or is it some mystic power of my child?"
 }
 ---

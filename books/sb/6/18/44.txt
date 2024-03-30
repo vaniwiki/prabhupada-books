@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 6.18.44",
+    "h1":"SB 6.18.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 6.18.44",
     "description":"Śrī Śukadeva Gosvāmī said: Kaśyapa Muni, thinking in this way, became somewhat angry. Condemning himself, O Mahārāja Parīkṣit, descendant of Kuru, he spoke to Diti as follows."
 }
 ---

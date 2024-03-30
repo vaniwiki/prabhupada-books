@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.22.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.22.13",
+    "h1":"SB 5.22.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.22.13",
     "description":"Mercury is described to be similar to Venus, in that it moves sometimes behind the sun, sometimes in front of the sun and sometimes along with it. It is 1,600,000 miles above Venus, or 7,200,000 miles above earth. Mercury, which is the son of the moon, is almost always very auspicious for the inhabitants of the universe, but when it does not move along with the sun, it forbodes cyclones, dust, irregular rainfall, and waterless clouds. In this way it creates fearful conditions due to inadequate or excessive rainfall."
 }
 ---

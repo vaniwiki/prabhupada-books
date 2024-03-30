@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.14.8",
+    "h1":"SB 5.14.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.14.8",
     "description":"Sometimes the conditioned soul is absorbed in finding residential quarters or apartments and getting a supply of water and riches to maintain his body. Absorbed in acquiring a variety of necessities, he forgets everything and perpetually runs around the forest of material existence."
 }
 ---

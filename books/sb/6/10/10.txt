@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 6.10.10",
+    "h1":"SB 6.10.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 6.10.10",
     "description":"This body, which is eatable by jackals and dogs after death, does not actually do any good for me, the spirit soul. It is usable only for a short time and may perish at any moment. The body and its possessions, its riches and relatives, must all be engaged for the benefit of others, or else they will be sources of tribulation and misery."
 }
 ---

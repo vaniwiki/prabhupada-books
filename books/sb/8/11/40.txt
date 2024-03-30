@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 8.11.40",
+    "h1":"SB 8.11.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 8.11.40",
     "description":"Thus Indra, King of heaven, severed Namuci's head with a weapon of foam, which was neither dry nor moist. Then all the sages satisfied Indra, the exalted personality, by showering flowers and garlands upon him, almost covering him."
 }
 ---

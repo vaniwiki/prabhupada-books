@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.81",
-    "h1":"Text 81",
-    "title":" Śrīmad Bhāgavatam 4.29.81",
+    "h1":"SB 4.29.81",
+    "label":"Text 81",
+    "title":"Śrīmad Bhāgavatam 4.29.81",
     "description":"In the presence of his ministers, the saintly King Prācīnabarhi left orders for his sons to protect the citizens. He then left home and went off to undergo austerities in a holy place known as Kapilāśrama."
 }
 ---

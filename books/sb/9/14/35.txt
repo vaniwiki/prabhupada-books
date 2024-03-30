@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.14.35",
+    "h1":"SB 9.14.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.14.35",
     "description":"O goddess, now that you have refused me, my beautiful body will fall down here, and because it is unsuitable for your pleasure, it will be eaten by foxes and vultures."
 }
 ---

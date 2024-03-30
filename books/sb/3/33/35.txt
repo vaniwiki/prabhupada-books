@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 3.33.35",
+    "h1":"SB 3.33.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 3.33.35",
     "description":"Even now Kapila Muni is staying there in trance for the deliverance of the conditioned souls in the three worlds, and all the ācāryas, or great teachers, of the system of Sāṅkhya philosophy are worshiping Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 2.2.36",
+    "h1":"SB 2.2.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 2.2.36",
     "description":"O King, it is therefore essential that every human being hear about, glorify and remember the Supreme Lord, the Personality of Godhead, always and everywhere."
 }
 ---

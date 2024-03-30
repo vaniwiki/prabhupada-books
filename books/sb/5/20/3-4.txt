@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.3-4",
-    "h1":"Text 3-4",
-    "title":" Śrīmad Bhāgavatam 5.20.3-4",
+    "h1":"SB 5.20.3-4",
+    "label":"Text 3-4",
+    "title":"Śrīmad Bhāgavatam 5.20.3-4",
     "description":"The seven islands [varṣas] are named according to the names of those seven sons—Śiva, Yavasa, Subhadra, Śānta, Kṣema, Amṛta and Abhaya. In those seven tracts of land, there are seven mountains and seven rivers. The mountains are named Maṇikūṭa, Vajrakūṭa, Indrasena, Jyotiṣmān, Suparṇa, Hiraṇyaṣṭhīva and Meghamāla, and the rivers are named Aruṇā, Nṛmṇā, Āṅgirasī, Sāvitrī, Suptabhātā, Ṛtambharā and Satyambharā. One can immediately be free from material contamination by touching or bathing in those rivers, and the four castes of people who live in Plakṣadvīpa—the Haṁsas, Pataṅgas, Ūrdhvāyanas and Satyāṅgas—purify themselves in that way. The inhabitants of Plakṣadvīpa live for one thousand years. They are beautiful like the demigods, and they also beget children like the demigods. By completely performing the ritualistic ceremonies mentioned in the Vedas and by worshiping the Supreme Personality of Godhead as represented by the sun-god, they attain the sun, which is a heavenly planet."
 }
 ---

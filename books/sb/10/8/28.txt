@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.8.28",
+    "h1":"SB 10.8.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.8.28",
     "description":"Observing the very attractive childish restlessness of Kṛṣṇa, all the gopīs in the neighborhood, to hear about Kṛṣṇa's activities again and again, would approach mother Yaśodā and speak to her as follows."
 }
 ---

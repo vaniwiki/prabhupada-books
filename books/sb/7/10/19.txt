@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 7.10.19",
+    "h1":"SB 7.10.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 7.10.19",
     "description":"Whenever and wherever there are peaceful, equipoised devotees who are well behaved and decorated with all good qualities, that place and the dynasties there, even if condemned, are purified."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 7.6.28",
+    "h1":"SB 7.6.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 7.6.28",
     "description":"Prahlāda Mahārāja continued: I received this knowledge from the great saint Nārada Muni, who is always engaged in devotional service. This knowledge, which is called bhāgavata-dharma, is fully scientific. It is based on logic and philosophy and is free from all material contamination."
 }
 ---

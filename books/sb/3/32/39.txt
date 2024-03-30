@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.32.39",
+    "h1":"SB 3.32.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.32.39",
     "description":"Lord Kapila continued: This instruction is not meant for the envious, for the agnostics or for persons who are unclean in their behavior. Nor is it for hypocrites or for persons who are proud of material possessions."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.5.1",
+    "h1":"SB 3.5.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.5.1",
     "description":"Śukadeva Gosvāmī said: Vidura, the best amongst the Kuru dynasty, who was perfect in devotional service to the Lord, thus reached the source of the celestial Ganges River [Hardwar], where Maitreya, the great, fathomless learned sage of the world, was seated. Vidura, who was perfect in gentleness and satisfied in transcendence, inquired from him."
 }
 ---

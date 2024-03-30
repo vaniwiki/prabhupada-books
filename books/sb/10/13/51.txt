@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 10.13.51",
+    "h1":"SB 10.13.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 10.13.51",
     "description":"All beings, both moving and nonmoving, from the four-headed Lord Brahmā down to the most insignificant living entity, had taken forms and were differently worshiping those viṣṇu-mūrtis, according to their respective capacities, with various means of worship, such as dancing and singing."
 }
 ---

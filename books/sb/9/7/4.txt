@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.7.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 9.7.4",
+    "h1":"SB 9.7.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 9.7.4",
     "description":"The son of Purukutsa was Trasaddasyu, who was the father of Anaraṇya. Anaraṇya's son was Haryaśva, the father of Prāruṇa. Prāruṇa was the father of Tribandhana."
 }
 ---

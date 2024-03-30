@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.11.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.11.4",
+    "h1":"SB 5.11.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.11.4",
     "description":"As long as the mind of the living entity is contaminated by the three modes of material nature (goodness, passion and ignorance), his mind is exactly like an independent, uncontrolled elephant. It simply expands its jurisdiction of pious and impious activities by using the senses. The result is that the living entity remains in the material world to enjoy and suffer pleasures and pains due to material activity."
 }
 ---

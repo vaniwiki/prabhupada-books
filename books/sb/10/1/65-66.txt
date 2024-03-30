@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.65-66",
-    "h1":"Text 65-66",
-    "title":" Śrīmad Bhāgavatam 10.1.65-66",
+    "h1":"SB 10.1.65-66",
+    "label":"Text 65-66",
+    "title":"Śrīmad Bhāgavatam 10.1.65-66",
     "description":"After the departure of the great saint Nārada, Kaṁsa thought that all the members of the Yadu dynasty were demigods and that any of the children born from the womb of Devakī might be Viṣṇu. Fearing his death, Kaṁsa arrested Vasudeva and Devakī and chained them with iron shackles. Suspecting each of the children to be Viṣṇu, Kaṁsa killed them one after another because of the prophecy that Viṣṇu would kill him."
 }
 ---

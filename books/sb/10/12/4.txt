@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 10.12.4",
+    "h1":"SB 10.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 10.12.4",
     "description":"Although all these boys were already decorated by their mothers with ornaments of kāca, guñjā, pearls and gold, when they went into the forest they further decorated themselves with fruits, green leaves, bunches of flowers, peacock feathers and soft minerals."
 }
 ---

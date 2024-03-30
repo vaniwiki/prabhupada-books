@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.17.5",
+    "h1":"SB 5.17.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.17.5",
     "description":"On top of Mount Meru, the Ganges divides into four branches, each of which gushes in a different direction [east, west, north and south]. These branches, known by the names Sītā, Alakanandā, Cakṣu and Bhadrā, flow down to the ocean."
 }
 ---

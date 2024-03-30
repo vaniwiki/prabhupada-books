@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 2.8.4",
+    "h1":"SB 2.8.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 2.8.4",
     "description":"Persons who hear Śrīmad-Bhāgavatam regularly and are always taking the matter very seriously will have the Personality of Godhead Śrī Kṛṣṇa manifested in their hearts within a short time."
 }
 ---

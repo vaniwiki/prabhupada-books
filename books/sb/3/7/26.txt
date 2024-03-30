@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.7.26",
+    "h1":"SB 3.7.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.7.26",
     "description":"O son of Mitrā, kindly describe how the planets are situated above the earth as well as underneath it, and also please mention their measurement as well as that of the earthly planets."
 }
 ---

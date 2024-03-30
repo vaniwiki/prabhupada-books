@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.10.23",
+    "h1":"SB 6.10.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.10.23",
     "description":"Armed with lances, tridents, axes, swords and other weapons like śataghnīs and bhuśuṇḍis, the demons attacked from different directions and scattered all the chiefs of the demigod armies."
 }
 ---

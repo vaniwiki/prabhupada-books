@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.5.17",
+    "h1":"SB 3.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.5.17",
     "description":"Śukadeva Gosvāmī said: The great sage Maitreya Muni, after honoring Vidura very greatly, began to speak, at Vidura's request, for the greatest welfare of all people."
 }
 ---

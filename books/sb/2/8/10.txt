@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 2.8.10",
+    "h1":"SB 2.8.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 2.8.10",
     "description":"Please also explain the Personality of Godhead, who lies in every heart as the Supersoul, and as the Lord of all energies, but is untouched by His external energy."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 10.4.41",
+    "h1":"SB 10.4.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 10.4.41",
     "description":"The brāhmaṇas, the cows, Vedic knowledge, austerity, truthfulness, control of the mind and senses, faith, mercy, tolerance and sacrifice are the different parts of the body of Lord Viṣṇu, and they are the paraphernalia for a godly civilization."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.23-24",
-    "h1":"Text 23-24",
-    "title":" Śrīmad Bhāgavatam 9.1.23-24",
+    "h1":"SB 9.1.23-24",
+    "label":"Text 23-24",
+    "title":"Śrīmad Bhāgavatam 9.1.23-24",
     "description":"O King Parīkṣit, that hero Sudyumna, accompanied by a few ministers and associates and riding on a horse brought from Sindhupradeśa, once went into the forest to hunt. He wore armor and was decorated with bows and arrows, and he was very beautiful. While following the animals and killing them, he reached the northern part of the forest."
 }
 ---

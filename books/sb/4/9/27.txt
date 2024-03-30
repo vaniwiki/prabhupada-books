@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.9.27",
+    "h1":"SB 4.9.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.9.27",
     "description":"Despite having achieved the desired result of his determination by worshiping the lotus feet of the Lord, Dhruva Mahārāja was not very pleased. Thus he returned to his home."
 }
 ---

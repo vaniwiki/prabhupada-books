@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.30.32",
+    "h1":"SB 4.30.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.30.32",
     "description":"Dear Lord, when the bee approaches the celestial tree called the pārijāta, it certainly does not leave the tree, because there is no need for such action. Similarly, when we have approached Your lotus feet and taken shelter of them, what further benediction may we ask of You?"
 }
 ---

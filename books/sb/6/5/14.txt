@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 6.5.14",
+    "h1":"SB 6.5.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 6.5.14",
     "description":"[Nārada Muni had described a woman who is a professional prostitute. The Haryaśvas understood the identity of this woman.] Mixed with the mode of passion, the unsteady intelligence of every living entity is like a prostitute who changes dresses just to attract one's attention. If one fully engages in temporary fruitive activities, not understanding how this is taking place, what does he actually gain?"
 }
 ---

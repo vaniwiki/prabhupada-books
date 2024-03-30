@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 6.9.28",
+    "h1":"SB 6.9.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 6.9.28",
     "description":"Śrī Śukadeva Gosvāmī said: My dear King, when all the demigods offered Him their prayers, the Supreme Personality of Godhead, Lord Hari, carrying His weapons, the conchshell, disc and club, appeared first within their hearts and then before them."
 }
 ---

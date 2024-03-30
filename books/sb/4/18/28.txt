@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.18.28",
+    "h1":"SB 4.18.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.18.28",
     "description":"Thereafter King Pṛthu was very satisfied with the planet earth, for she sufficiently supplied all food to various living entities. Thus he developed an affection for the planet earth, just as if she were his own daughter."
 }
 ---

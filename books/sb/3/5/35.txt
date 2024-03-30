@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 3.5.35",
+    "h1":"SB 3.5.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 3.5.35",
     "description":"When electricity was surcharged in the air and was glanced over by the Supreme, at that time, by a mixture of eternal time and external energy, there occurred the creation of water and taste."
 }
 ---

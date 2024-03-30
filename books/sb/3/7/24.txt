@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.7.24",
+    "h1":"SB 3.7.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.7.24",
     "description":"O my lord, I think that the process manifest in the forms of sons, grandsons and family members has spread all over the universe in different varieties and species."
 }
 ---

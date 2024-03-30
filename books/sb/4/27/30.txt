@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.27.30",
+    "h1":"SB 4.27.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.27.30",
     "description":"The King of the Yavanas continued: Here is my brother Prajvāra. I now accept you as my sister. I shall employ both of you, as well as my dangerous soldiers, to act imperceptibly within this world."
 }
 ---

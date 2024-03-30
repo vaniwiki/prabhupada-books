@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.13-14",
-    "h1":"Text 13-14",
-    "title":" Śrīmad Bhāgavatam 6.10.13-14",
+    "h1":"SB 6.10.13-14",
+    "label":"Text 13-14",
+    "title":"Śrīmad Bhāgavatam 6.10.13-14",
     "description":"Thereafter, King Indra very firmly took up the thunderbolt manufactured by Viśvakarmā from the bones of Dadhīci. Charged with the exalted power of Dadhīci Muni and enlightened by the power of the Supreme Personality of Godhead, Indra rode on the back of his carrier, Airāvata, surrounded by all the demigods, while all the great sages offered him praise. Thus he shone very beautifully, pleasing the three worlds as he rode off to kill Vṛtrāsura."
 }
 ---

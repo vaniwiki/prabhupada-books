@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.16.30",
+    "h1":"SB 6.16.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.16.30",
     "description":"Upon reaching the shelter of Lord Śeṣa, the Supreme Personality of Godhead, Citraketu saw that He was as white as the white fibers of a lotus flower. He was dressed in bluish garments and adorned with a brilliantly glittering helmet, armlets, belt and bangles. His face was smiling, and His eyes were reddish. He was surrounded by such exalted liberated persons as Sanat-kumāra."
 }
 ---

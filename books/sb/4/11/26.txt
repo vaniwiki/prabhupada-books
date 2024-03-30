@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.11.26",
+    "h1":"SB 4.11.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.11.26",
     "description":"The Supreme Personality of Godhead is the Supersoul of all living entities. He is the controller and maintainer of everyone; through the agency of His external energy, He creates, maintains and annihilates everyone."
 }
 ---

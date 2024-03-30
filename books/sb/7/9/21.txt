@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 7.9.21",
+    "h1":"SB 7.9.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 7.9.21",
     "description":"O Lord, O supreme eternal, by expanding Your plenary portion You have created the subtle bodies of the living entities through the agency of Your external energy, which is agitated by time. Thus the mind entraps the living entity in unlimited varieties of desires to be fulfilled by the Vedic directions of karma-kāṇḍa [fruitive activity] and the sixteen elements. Who can get free from this entanglement unless he takes shelter at Your lotus feet?"
 }
 ---

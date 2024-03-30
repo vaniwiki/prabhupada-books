@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 10.8.7",
+    "h1":"SB 10.8.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 10.8.7",
     "description":"Gargamuni said: My dear Nanda Mahārāja, I am the priestly guide of the Yadu dynasty. This is known everywhere. Therefore, if I perform the purificatory process for your sons, Kaṁsa will consider Them the sons of Devakī."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.12.11",
+    "h1":"SB 4.12.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.12.11",
     "description":"Dhruva Mahārāja rendered devotional service unto the Supreme, the reservoir of everything, with unrelenting force. While carrying out his devotional service to the Lord, he could see that everything is situated in Him only and that He is situated in all living entities. The Lord is called Acyuta because He never fails in His prime duty, to give protection to His devotees."
 }
 ---

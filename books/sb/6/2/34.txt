@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 6.2.34",
+    "h1":"SB 6.2.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 6.2.34",
     "description":"Ajāmila continued: I am a shameless cheater who has killed his brahminical culture. Indeed, I am sin personified. Where am I in comparison to the all-auspicious chanting of the holy name of Lord Nārāyaṇa?"
 }
 ---

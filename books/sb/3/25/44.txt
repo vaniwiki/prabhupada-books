@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.25.44",
+    "h1":"SB 3.25.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.25.44",
     "description":"Therefore persons whose minds are fixed on the Lord engage in the intensive practice of devotional service. That is the only means for attainment of the final perfection of life."
 }
 ---

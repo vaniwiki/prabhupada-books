@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.9.3",
+    "h1":"SB 4.9.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.9.3",
     "description":"When Dhruva Mahārāja saw his Lord just in front of him, he was greatly agitated and offered Him obeisances and respect. He fell flat before Him like a rod and became absorbed in love of Godhead. Dhruva Mahārāja, in ecstasy, looked upon the Lord as if he were drinking the Lord with his eyes, kissing the lotus feet of the Lord with his mouth, and embracing the Lord with his arms."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.9.13",
+    "h1":"SB 8.9.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.9.13",
     "description":"The chiefs of the demons were not very expert in deciding things. Upon hearing the sweet words of Mohinī-mūrti, they immediately assented. \"Yes,\" they answered. \"What You have said is all right.\" Thus the demons agreed to accept Her decision."
 }
 ---

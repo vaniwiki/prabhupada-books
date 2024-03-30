@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.75",
-    "h1":"Text 75",
-    "title":" Śrīmad Bhāgavatam 7.15.75",
+    "h1":"SB 7.15.75",
+    "label":"Text 75",
+    "title":"Śrīmad Bhāgavatam 7.15.75",
     "description":"My dear Mahārāja Yudhiṣṭhira, you Pāṇḍavas are so very fortunate in this world that many, many great saints, who can purify all the planets of the universe, come to your house just like ordinary visitors. Furthermore, the Supreme Personality of Godhead, Kṛṣṇa, is living confidentially with you in your house, just like your brother."
 }
 ---

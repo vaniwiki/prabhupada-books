@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 6.10.28",
+    "h1":"SB 6.10.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 6.10.28",
     "description":"When insignificant persons use rough words to cast false, angry accusations against saintly persons, their fruitless words do not disturb the great personalities. Similarly, all the efforts of the demons against the demigods, who were favorably situated under the protection of Kṛṣṇa, were futile."
 }
 ---

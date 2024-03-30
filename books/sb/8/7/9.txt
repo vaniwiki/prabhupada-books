@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 8.7.9",
+    "h1":"SB 8.7.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 8.7.9",
     "description":"When the demigods and demons saw that Mandara Mountain had been lifted, they were enlivened and encouraged to begin churning again. The mountain rested on the back of the great tortoise, which extended for eight hundred thousand miles like a large island."
 }
 ---

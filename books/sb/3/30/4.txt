@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.30.4",
+    "h1":"SB 3.30.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.30.4",
     "description":"The living entity, in whatever species of life he appears, finds a particular type of satisfaction in that species, and he is never averse to being situated in such a condition."
 }
 ---

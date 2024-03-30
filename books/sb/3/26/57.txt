@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 3.26.57",
+    "h1":"SB 3.26.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 3.26.57",
     "description":"After this, semen (the faculty of procreation) and the god who presides over the waters appeared. Next appeared an anus and then the organs of defecation and thereupon the god of death, who is feared throughout the universe."
 }
 ---

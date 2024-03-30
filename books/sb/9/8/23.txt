@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.8.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.8.23",
+    "h1":"SB 9.8.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.8.23",
     "description":"O my Lord, sages freed from the influence of the three modes of material nature—sages such as the four Kumāras [Sanat, Sanaka, Sanandana and Sanātana]—are able to think of You, who are concentrated knowledge. But how can an ignorant person like me think of You?"
 }
 ---

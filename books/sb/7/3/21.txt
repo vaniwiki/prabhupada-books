@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 7.3.21",
+    "h1":"SB 7.3.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 7.3.21",
     "description":"O best of the asuras, for this reason I am now prepared to give you all benedictions, according to your desire. I belong to the celestial world of demigods, who do not die like human beings. Therefore, although you are subject to death, your audience with me will not go in vain."
 }
 ---

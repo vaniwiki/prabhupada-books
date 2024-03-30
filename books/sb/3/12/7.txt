@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.12.7",
+    "h1":"SB 3.12.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.12.7",
     "description":"Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated."
 }
 ---

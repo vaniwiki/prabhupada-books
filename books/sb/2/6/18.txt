@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 2.6.18",
+    "h1":"SB 2.6.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 2.6.18",
     "description":"The Supreme Personality of Godhead is the controller of immortality and fearlessness, and He is transcendental to death and the fruitive actions of the material world. O Nārada, O brāhmaṇa, it is therefore difficult to measure the glories of the Supreme Person."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.11.34",
+    "h1":"SB 4.11.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.11.34",
     "description":"For this reason, my son, you should immediately pacify Kuvera with gentle words and prayers, and thus his wrath may not affect our family."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.30.47",
+    "h1":"SB 4.30.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.30.47",
     "description":"The remaining trees, being very much afraid of the Pracetās, immediately delivered their daughter at the advice of Lord Brahmā."
 }
 ---

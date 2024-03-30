@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.18.14",
+    "h1":"SB 8.18.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.18.14",
     "description":"At the sacred thread ceremony of Vāmanadeva, the sun-god personally uttered the Gāyatrī mantra, Bṛhaspati offered the sacred thread, and Kaśyapa Muni offered a straw belt."
 }
 ---

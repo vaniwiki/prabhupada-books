@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.13.2",
+    "h1":"SB 5.13.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.13.2",
     "description":"O King Rahūgaṇa, in this forest of material existence there are six very powerful plunderers. When the conditioned soul enters the forest to acquire some material gain, the six plunderers misguide him. Thus the conditioned merchant does not know how to spend his money, and it is taken away by these plunderers. Like tigers, jackals and other ferocious animals in a forest that are ready to take away a lamb from the custody of its protector, the wife and children enter the heart of the merchant and plunder him in so many ways."
 }
 ---

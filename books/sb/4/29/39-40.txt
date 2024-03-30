@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 4.29.39-40",
+    "h1":"SB 4.29.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 4.29.39-40",
     "description":"My dear King, in the place where pure devotees live, following the rules and regulations and thus purely conscious and engaged with great eagerness in hearing and chanting the glories of the Supreme Personality of Godhead, in that place if one gets a chance to hear their constant flow of nectar, which is exactly like the waves of a river, one will forget the necessities of life—namely hunger and thirst—and become immune to all kinds of fear, lamentation and illusion."
 }
 ---

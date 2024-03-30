@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.26.36",
+    "h1":"SB 3.26.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.26.36",
     "description":"Softness and hardness and cold and heat are the distinguishing attributes of touch, which is characterized as the subtle form of air."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.29.13",
+    "h1":"SB 4.29.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.29.13",
     "description":"Nārada Muni continued: The city spoken of as Dakṣiṇa-pañcāla represents the scriptures meant for directing pravṛtti, the process of sense enjoyment in fruitive activities. The other city, named Uttara-pañcāla, represents the scriptures meant for decreasing fruitive activities and increasing knowledge. The living entity receives different kinds of knowledge by means of two ears, and some living entities are promoted to Pitṛloka and some to Devaloka. All this is made possible by the two ears."
 }
 ---

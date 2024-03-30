@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 7.2.44",
+    "h1":"SB 7.2.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 7.2.44",
     "description":"Yamarāja continued: O lamenters, you are all fools! The person named Suyajña, for whom you lament, is still lying before you and has not gone anywhere. Then what is the cause for your lamentation? Previously he heard you and replied to you, but now, not finding him, you are lamenting. This is contradictory behavior, for you have never actually seen the person within the body who heard you and replied. There is no need for your lamentation, for the body you have always seen is lying here."
 }
 ---

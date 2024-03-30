@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.14.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.14.8",
+    "h1":"SB 8.14.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.14.8",
     "description":"In every yuga, the Supreme Personality of Godhead, Hari, assumes the form of Siddhas such as Sanaka to preach transcendental knowledge, He assumes the form of great saintly persons such as Yājñavalkya to teach the way of karma, and He assumes the form of great yogīs such as Dattātreya to teach the system of mystic yoga."
 }
 ---

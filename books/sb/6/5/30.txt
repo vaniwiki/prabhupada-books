@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.5.30",
+    "h1":"SB 6.5.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.5.30",
     "description":"O sons of Dakṣa, please hear my words of instruction attentively. You are all very affectionate to your elder brothers, the Haryaśvas. Therefore you should follow their path."
 }
 ---

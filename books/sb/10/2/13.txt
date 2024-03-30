@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 10.2.13",
+    "h1":"SB 10.2.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 10.2.13",
     "description":"The son of Rohiṇī will also be celebrated as Saṅkarṣaṇa because of being sent from the womb of Devakī to the womb of Rohiṇī. He will be called Rāma because of His ability to please all the inhabitants of Gokula, and He will be known as Balabhadra because of His extensive physical strength."
 }
 ---

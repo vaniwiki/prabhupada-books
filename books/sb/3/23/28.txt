@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.23.28",
+    "h1":"SB 3.23.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.23.28",
     "description":"The girls, being very respectful to Devahūti, brought her forth, and after bathing her with valuable oils and ointments, they gave her fine, new, spotless cloth to cover her body."
 }
 ---

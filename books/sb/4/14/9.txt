@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.14.9",
+    "h1":"SB 4.14.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.14.9",
     "description":"Thinking to save the state from irregularity, the sages began to consider that it was due to a political crisis that they made Vena king although he was not qualified. But alas, now the people were being disturbed by the king himself. Under such circumstances, how could the people be happy?"
 }
 ---

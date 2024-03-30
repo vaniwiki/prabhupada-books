@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 3.15.34",
+    "h1":"SB 3.15.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 3.15.34",
     "description":"Therefore let us consider how these two contaminated persons should be punished. The punishment should be apt, for thus benefit can eventually be bestowed upon them. Since they find duality in the existence of Vaikuṇṭha life, they are contaminated and should be removed from this place to the material world, where the living entities have three kinds of enemies."
 }
 ---

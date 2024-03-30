@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.32-33",
-    "h1":"Text 32-33",
-    "title":" Śrīmad Bhāgavatam 6.8.32-33",
+    "h1":"SB 6.8.32-33",
+    "label":"Text 32-33",
+    "title":"Śrīmad Bhāgavatam 6.8.32-33",
     "description":"The Supreme Personality of Godhead, the living entities, the material energy, the spiritual energy and the entire creation are all individual substances. In the ultimate analysis, however, together they constitute the supreme one, the Personality of Godhead. Therefore those who are advanced in spiritual knowledge see unity in diversity. For such advanced persons, the Lord's bodily decorations, His name, His fame, His attributes and forms and the weapons in His hand are manifestations of the strength of His potency. According to their elevated spiritual understanding, the omniscient Lord, who manifests various forms, is present everywhere. May He always protect us everywhere from all calamities."
 }
 ---

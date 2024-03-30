@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.22.35",
+    "h1":"SB 9.22.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.22.35",
     "description":"My dear King, your four sons—Janamejaya, Śrutasena, Bhīmasena and Ugrasena—are very powerful. Janamejaya is the eldest."
 }
 ---

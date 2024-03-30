@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.16.19",
+    "h1":"SB 8.16.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.16.19",
     "description":"Kaśyapa Muni continued: What is this material body, made of five elements? It is different from the spirit soul. Indeed, the spirit soul is completely different from the material elements from which the body is made. But because of bodily attachment, one is regarded as a husband or son. These illusory relationships are caused by misunderstanding."
 }
 ---

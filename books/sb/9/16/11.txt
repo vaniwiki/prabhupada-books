@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.16.11",
+    "h1":"SB 9.16.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.16.11",
     "description":"The sons of Kārtavīryārjuna were determined to commit sinful deeds. Therefore when they saw Jamadagni sitting by the side of the fire to perform yajña and meditating upon the Supreme Personality of Godhead, who is praised by the best of selected prayers, they took the opportunity to kill him."
 }
 ---

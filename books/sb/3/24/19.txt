@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.24.19",
+    "h1":"SB 3.24.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.24.19",
     "description":"Your son will be the head of all the perfected souls. He will be approved by the ācāryas expert in disseminating real knowledge, and among the people He will be celebrated by the name Kapila. As the son of Devahūti, He will increase your fame."
 }
 ---

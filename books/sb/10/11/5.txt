@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 10.11.5",
+    "h1":"SB 10.11.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 10.11.5",
     "description":"Because of intense paternal affection, the cowherd men, headed by Nanda, could not believe that Kṛṣṇa could have uprooted the trees in such a wonderful way. Therefore they could not put their faith in the words of the boys. Some of the men, however, were in doubt. \"Since Kṛṣṇa was predicted to equal Nārāyaṇa,\" they thought, \"it might be that He could have done it.\""
 }
 ---

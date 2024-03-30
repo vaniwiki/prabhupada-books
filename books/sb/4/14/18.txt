@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.14.18",
+    "h1":"SB 4.14.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.14.18",
     "description":"The king is supposed to be pious in whose state and cities the general populace strictly observes the system of eight social orders of varṇa and āśrama, and where all citizens engage in worshiping the Supreme Personality of Godhead by their particular occupations."
 }
 ---

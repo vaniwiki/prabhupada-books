@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 10.4.18",
+    "h1":"SB 10.4.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 10.4.18",
     "description":"O great souls, your children have suffered their own misfortune. Therefore, please do not lament for them. All living entities are under the control of the Supreme, and they cannot always live together."
 }
 ---

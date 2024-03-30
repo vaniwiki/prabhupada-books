@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 3.21.56",
+    "h1":"SB 3.21.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 3.21.56",
     "description":"In spite of all this, I ask you, O valiant King, the purpose for which you have come here. Whatever it may be, we shall carry it out without reservation."
 }
 ---

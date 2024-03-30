@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 6.16.65",
+    "h1":"SB 6.16.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 6.16.65",
     "description":"Śrī Śukadeva Gosvāmī continued: After thus instructing Citraketu and assuring him of perfection in this way, the Supreme Personality of Godhead, who is the supreme spiritual master, the supreme soul, Saṅkarṣaṇa, disappeared from that place as Citraketu looked on."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 2.5.30",
+    "h1":"SB 2.5.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 2.5.30",
     "description":"From the mode of goodness the mind is generated and becomes manifest, as also the ten demigods controlling the bodily movements. Such demigods are known as the controller of directions, the controller of air, the sun-god, the father of Dakṣa Prajāpati, the Aśvinī-kumāras, the fire-god, the King of heaven, the worshipable deity in heaven, the chief of the Ādityas, and Brahmājī, the Prajāpati. All come into existence."
 }
 ---

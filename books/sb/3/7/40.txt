@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 3.7.40",
+    "h1":"SB 3.7.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 3.7.40",
     "description":"My dear sage, I have put all these questions before you with a view to knowing the pastimes of Hari, the Supreme Personality of Godhead. You are the friend of all, so kindly describe them for all those who have lost their vision."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.6.28",
+    "h1":"SB 9.6.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.6.28",
     "description":"When the brāhmaṇas got up from bed and saw the waterpot empty, they inquired who had done this work of drinking the water meant for begetting a child."
 }
 ---

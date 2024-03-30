@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.12.25",
+    "h1":"SB 4.12.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.12.25",
     "description":"To achieve Viṣṇuloka is very difficult, but by your austerity you have conquered. Even the great ṛṣis and demigods cannot achieve this position. Simply to see the supreme abode [the Viṣṇu planet], the sun and moon and all the other planets, stars, lunar mansions and solar systems are circumambulating it. Now please come; you are welcome to go there."
 }
 ---

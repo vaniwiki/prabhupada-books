@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.1.10",
+    "h1":"SB 5.1.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.1.10",
     "description":"My dear King Parīkṣit, because Lord Brahmā had finally descended from Satyaloka to Bhūloka, Nārada Muni, Prince Priyavrata and Svāyambhuva Manu came forward to offer him objects of worship and to praise him in highly qualified language, according to Vedic etiquette. At that time, Lord Brahmā, the original person of this universe, felt compassion for Priyavrata and, looking upon him with a smiling face, spoke to him as follows."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 10.4.29",
+    "h1":"SB 10.4.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 10.4.29",
     "description":"After that night passed, Kaṁsa summoned his ministers and informed them of all that had been spoken by Yogamāyā [who had revealed that He who was to slay Kaṁsa had already been born somewhere else]."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 2.7.23",
+    "h1":"SB 2.7.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 2.7.23",
     "description":"Due to His causeless mercy upon all living entities within the universe, the Supreme Personality of Godhead, along with His plenary extensions, appeared in the family of Mahārāja Ikṣvāku as the Lord of His internal potency, Sītā. Under the order of His father, Mahārāja Daśaratha, He entered the forest and lived there for considerable years with His wife and younger brother. Rāvaṇa, who was very materially powerful, with ten heads on his shoulders, committed a great offense against Him and was thus ultimately vanquished."
 }
 ---

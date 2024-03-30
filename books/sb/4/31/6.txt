@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.31.6",
+    "h1":"SB 4.31.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.31.6",
     "description":"O master, may we inform you that because of our being overly attached to family affairs, we almost forgot the instructions we received from Lord Śiva and Lord Viṣṇu."
 }
 ---

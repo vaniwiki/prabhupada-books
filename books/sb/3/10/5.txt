@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.10.5",
+    "h1":"SB 3.10.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.10.5",
     "description":"Thereafter Brahmā saw that both the lotus on which he was situated and the water on which the lotus was growing were trembling due to a strong, violent wind."
 }
 ---

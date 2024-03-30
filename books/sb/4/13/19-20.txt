@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.19-20",
-    "h1":"Text 19-20",
-    "title":" Śrīmad Bhāgavatam 4.13.19-20",
+    "h1":"SB 4.13.19-20",
+    "label":"Text 19-20",
+    "title":"Śrīmad Bhāgavatam 4.13.19-20",
     "description":"My dear Vidura, when great sages curse, their words are as invincible as a thunderbolt. Thus when they cursed King Vena out of anger, he died. After his death, since there was no king, all the rogues and thieves flourished, the kingdom became unregulated, and all the citizens suffered greatly. On seeing this, the great sages took the right hand of Vena as a churning rod, and as a result of their churning, Lord Viṣṇu in His partial representation made His advent as King Pṛthu, the original emperor of the world."
 }
 ---

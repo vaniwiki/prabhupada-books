@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.11.8",
+    "h1":"SB 9.11.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.11.8",
     "description":"Śukadeva Gosvāmī continued: Once while Lord Rāmacandra was walking at night incognito, hiding Himself by a disguise to find out the people's opinion of Himself, He heard a man speaking unfavorably about His wife, Sītādevī."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 9.22.49",
+    "h1":"SB 9.22.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 9.22.49",
     "description":"From Subala will come Sunītha; from Sunītha, Satyajit; from Satyajit, Viśvajit; and from Viśvajit, Ripuñjaya. All of these personalities will belong to the dynasty of Bṛhadratha, which will rule the world for one thousand years."
 }
 ---

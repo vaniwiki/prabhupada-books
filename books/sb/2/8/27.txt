@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.8.27",
+    "h1":"SB 2.8.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.8.27",
     "description":"Sūta Gosvāmī said: Thus Śukadeva Gosvāmī, being invited by Mahārāja Parīkṣit to speak on topics of the Lord Śrī Kṛṣṇa with the devotees, was very much pleased."
 }
 ---

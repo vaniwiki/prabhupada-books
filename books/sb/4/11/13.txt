@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.11.13",
+    "h1":"SB 4.11.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.11.13",
     "description":"The Lord is very satisfied with His devotee when the devotee greets other people with tolerance, mercy, friendship and equality."
 }
 ---

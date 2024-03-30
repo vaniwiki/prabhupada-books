@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 7.9.47",
+    "h1":"SB 7.9.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 7.9.47",
     "description":"By authorized Vedic knowledge one can see that the forms of cause and effect in the cosmic manifestation belong to the Supreme Personality of Godhead, for the cosmic manifestation is His energy. Both cause and effect are nothing but energies of the Lord. Therefore, O my Lord, just as a wise man, by considering cause and effect, can see how fire pervades wood, those engaged in devotional service understand how You are both the cause and effect."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.12.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.12.6",
+    "h1":"SB 9.12.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.12.6",
     "description":"Having achieved perfection in the power of mystic yoga, Maru still lives in a place known as Kalāpa-grāma. At the end of Kali-yuga, he will revive the lost Sūrya dynasty by begetting a son."
 }
 ---

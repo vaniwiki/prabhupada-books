@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.26.7",
+    "h1":"SB 4.26.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.26.7",
     "description":"Nārada Muni continued to speak to King Prācīnabarhiṣat: My dear King, any person who works according to the directions of the Vedic scriptures does not become involved in fruitive activities."
 }
 ---

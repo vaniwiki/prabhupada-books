@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.49-50",
-    "h1":"Text 49-50",
-    "title":" Śrīmad Bhāgavatam 10.1.49-50",
+    "h1":"SB 10.1.49-50",
+    "label":"Text 49-50",
+    "title":"Śrīmad Bhāgavatam 10.1.49-50",
     "description":"Vasudeva considered: By delivering all my sons to Kaṁsa, who is death personified, I shall save the life of Devakī. Perhaps Kaṁsa will die before my sons take birth, or, since he is already destined to die at the hands of my son, one of my sons may kill him. For the time being, let me promise to hand over my sons so that Kaṁsa will give up this immediate threat, and if in due course of time Kaṁsa dies, I shall have nothing to fear."
 }
 ---

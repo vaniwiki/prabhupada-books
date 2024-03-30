@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.15.26",
+    "h1":"SB 3.15.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.15.26",
     "description":"Thus the great sages, Sanaka, Sanātana, Sanandana and Sanat-kumāra, upon reaching the above-mentioned Vaikuṇṭha in the spiritual world by dint of their mystic yoga performance, perceived unprecedented happiness. They found that the spiritual sky was illuminated by highly decorated airplanes piloted by the best devotees of Vaikuṇṭha and was predominated by the Supreme Personality of Godhead."
 }
 ---

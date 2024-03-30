@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Summary of Śrīmad Bhāgavatam Canto 10",
+    "name":"SB Canto 10 Summary",
     "h1":"Summary",
-    "title":"(.*?)",
+    "label":"Summary",
+    "title":"Summary of Śrīmad Bhāgavatam Canto 10",
     "description":""
 }
 ---

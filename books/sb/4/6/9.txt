@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.6.9",
+    "h1":"SB 4.6.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.6.9",
     "description":"The abode known as Kailāsa is full of different herbs and vegetables, and it is sanctified by Vedic hymns and mystic yoga practice. Thus the residents of that abode are demigods by birth and have all mystic powers. Besides them there are other human beings, who are known as Kinnaras and Gandharvas and are accompanied by their beautiful wives, who are known as Apsarās, or angels."
 }
 ---

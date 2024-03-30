@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 9.18.5",
+    "h1":"SB 9.18.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 9.18.5",
     "description":"Mahārāja Parīkṣit said: Śukrācārya was a very powerful brāhmaṇa, and Mahārāja Yayāti was a kṣatriya. Therefore I am curious to know how there occurred this pratiloma marriage between a kṣatriya and a brāhmaṇa."
 }
 ---

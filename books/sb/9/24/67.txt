@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 9.24.67",
+    "h1":"SB 9.24.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 9.24.67",
     "description":"Thereafter, Lord Śrī Kṛṣṇa created a misunderstanding between family members just to diminish the burden of the world. Simply by His glance, He annihilated all the demoniac kings on the Battlefield of Kurukṣetra and declared victory for Arjuna. Finally, He instructed Uddhava about transcendental life and devotion and then returned to His abode in His original form."
 }
 ---

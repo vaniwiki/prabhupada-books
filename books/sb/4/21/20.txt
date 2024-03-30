@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.21.20",
+    "h1":"SB 4.21.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.21.20",
     "description":"Mahārāja Pṛthu's speech was very beautiful, full of metaphorical language, clearly understandable and very pleasing to hear. His words were all grave and certain. It appears that when he spoke, he expressed his personal realization of the Absolute Truth in order to benefit all who were present."
 }
 ---

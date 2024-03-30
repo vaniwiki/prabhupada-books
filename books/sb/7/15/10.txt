@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.15.10",
+    "h1":"SB 7.15.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.15.10",
     "description":"Upon seeing the person engaged in performing the sacrifice, animals meant to be sacrificed are extremely afraid, thinking, \"This merciless performer of sacrifices, being ignorant of the purpose of sacrifice and being most satisfied by killing others, will surely kill us.\""
 }
 ---

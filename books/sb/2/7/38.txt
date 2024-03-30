@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 2.7.38",
+    "h1":"SB 2.7.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 2.7.38",
     "description":"Thereafter, at the end of Kali-yuga, when there exist no topics on the subject of God, even at the residences of so-called saints and respectable gentlemen of the three higher castes, and when the power of government is transferred to the hands of ministers elected from the lowborn śūdra class or those less than them, and when nothing is known of the techniques of sacrifice, even by word, at that time the Lord will appear as the supreme chastiser."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.23.8",
+    "h1":"SB 8.23.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.23.8",
     "description":"O my Lord, Your pastimes are all wonderfully performed by Your inconceivable spiritual energy; and by her perverted reflection, the material energy, You have created all the universes. As the Supersoul of all living entities, You are aware of everything, and therefore You are certainly equal toward everyone. Nonetheless, You favor Your devotees. This is not partiality, however, for Your characteristic is just like that of a desire tree, which yields everything according to one's desire."
 }
 ---

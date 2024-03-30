@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 9.18.47",
+    "h1":"SB 9.18.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 9.18.47",
     "description":"In secluded places, engaging her mind, words, body and various paraphernalia, Devayānī, the dear wife of Mahārāja Yayāti, always brought her husband the greatest possible transcendental bliss."
 }
 ---

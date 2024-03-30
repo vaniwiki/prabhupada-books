@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 6.1.18",
+    "h1":"SB 6.1.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 6.1.18",
     "description":"My dear King, as a pot containing liquor cannot be purified even if washed in the waters of many rivers, nondevotees cannot be purified by processes of atonement even if they perform them very well."
 }
 ---

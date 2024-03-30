@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.18.11",
+    "h1":"SB 4.18.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.18.11",
     "description":"My dear King, may I inform you that you have to make the entire surface of the globe level. This will help me, even when the rainy season has ceased. Rainfall comes by the mercy of King Indra. Rainfall will remain on the surface of the globe, always keeping the earth moistened, and thus it will be auspicious for all kinds of production."
 }
 ---

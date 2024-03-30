@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.2-7",
-    "h1":"Text 2-7",
-    "title":" Śrīmad Bhāgavatam 2.3.2-7",
+    "h1":"SB 2.3.2-7",
+    "label":"Text 2-7",
+    "title":"Śrīmad Bhāgavatam 2.3.2-7",
     "description":"One who desires to be absorbed in the impersonal brahmajyoti effulgence should worship the master of the Vedas [Lord Brahmā or Bṛhaspati, the learned priest], one who desires powerful sex should worship the heavenly King, Indra, and one who desires good progeny should worship the great progenitors called the Prajāpatis. One who desires good fortune should worship Durgādevī, the superintendent of the material world. One desiring to be very powerful should worship fire, and one who aspires only after money should worship the Vasus. One should worship the Rudra incarnations of Lord Śiva if he wants to be a great hero. One who wants a large stock of grains should worship Aditi. One who desires to attain the heavenly planets should worship the sons of Aditi. One who desires a worldly kingdom should worship Viśvadeva, and one who wants to be popular with the general mass of population should worship the Sādhya demigod. One who desires a long span of life should worship the demigods known as the Aśvinī-kumāras, and a person desiring a strongly built body should worship the earth. One who desires stability in his post should worship the horizon and the earth combined. One who desires to be beautiful should worship the beautiful residents of the Gandharva planet, and one who desires a good wife should worship the Apsarās and the Urvaśī society girls of the heavenly kingdom. One who desires domination over others should worship Lord Brahmā, the head of the universe. One who desires tangible fame should worship the Personality of Godhead, and one who desires a good bank balance should worship the demigod Varuṇa. If one desires to be a greatly learned man he should worship Lord Śiva, and if one desires a good marital relation he should worship the chaste goddess Umā, the wife of Lord Śiva."
 }
 ---

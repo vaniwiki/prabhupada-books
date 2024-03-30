@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.8.19",
+    "h1":"SB 8.8.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.8.19",
     "description":"While walking among the Gandharvas, Yakṣas, asuras, Siddhas, Cāraṇas and denizens of heaven, Lakṣmīdevī, the goddess of fortune, was scrutinizingly examining them, but she could not find anyone naturally endowed with all good qualities. None of them was devoid of faults, and therefore she could not take shelter of any of them."
 }
 ---

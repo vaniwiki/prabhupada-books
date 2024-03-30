@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 6.12.20",
+    "h1":"SB 6.12.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 6.12.20",
     "description":"You have surmounted the illusory energy of Lord Viṣṇu, and because of this liberation, you have given up the demoniac mentality and have attained the position of an exalted devotee."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 7.7.43",
+    "h1":"SB 7.7.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 7.7.43",
     "description":"A living entity desires comfort for his body and makes many plans for this purpose, but actually the body is the property of others. Indeed, the perishable body embraces the living entity and then leaves him aside."
 }
 ---

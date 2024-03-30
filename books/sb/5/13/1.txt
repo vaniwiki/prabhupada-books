@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 5.13.1",
+    "h1":"SB 5.13.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 5.13.1",
     "description":"Jaḍa Bharata, who had fully realized Brahman, continued: My dear King Rahūgaṇa, the living entity wanders on the path of the material world, which is very difficult for him to traverse, and he accepts repeated birth and death. Being captivated by the material world under the influence of the three modes of material nature (sattva-guṇa, rajo-guṇa and tamo-guṇa), the living entity can see only the three fruits of activities under the spell of material nature. These fruits are auspicious, inauspicious and mixed. He thus becomes attached to religion, economic development, sense gratification and the monistic theory of liberation (merging with the Supreme). He works very hard day and night exactly like a merchant who enters a forest to acquire some articles to sell later for profit. However, he cannot really achieve happiness within this material world."
 }
 ---

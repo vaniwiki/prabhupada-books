@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.15.19",
+    "h1":"SB 4.15.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.15.19",
     "description":"The demigods who always travel in outer space gave King Pṛthu the arts to perform dramas, sing songs, play musical instruments and disappear at his will. The great sages also offered him infallible blessings. The ocean offered him a conchshell produced from the ocean."
 }
 ---

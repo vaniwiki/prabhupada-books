@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 3.12.34",
+    "h1":"SB 3.12.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 3.12.34",
     "description":"Once upon a time, when Brahmā was thinking of how to create the worlds as in the past millennium, the four Vedas, which contain all varieties of knowledge, became manifested from his four mouths."
 }
 ---

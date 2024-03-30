@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.2.33",
+    "h1":"SB 9.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.2.33",
     "description":"Tṛṇabindu had three sons, named Viśāla, Śūnyabandhu and Dhūmraketu. Among these three, Viśāla created a dynasty and constructed a palace called Vaiśālī."
 }
 ---

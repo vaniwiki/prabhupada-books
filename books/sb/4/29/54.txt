@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 4.29.54",
+    "h1":"SB 4.29.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 4.29.54",
     "description":"My dear King, woman, who is very attractive in the beginning but in the end very disturbing, is exactly like the flower, which is attractive in the beginning and detestable at the end. With woman, the living entity is entangled with lusty desires, and he enjoys sex, just as one enjoys the aroma of a flower. He thus enjoys a life of sense gratification—from his tongue to his genitals—and in this way the living entity considers himself very happy in family life. United with his wife, he always remains absorbed in such thoughts. He feels great pleasure in hearing the talks of his wife and children, which are like the sweet humming of bumblebees that collect honey from flower to flower. He forgets that before him is time, which is taking away his life-span with the passing of day and night. He does not see the gradual diminishing of his life, nor does he care about the superintendent of death, who is trying to kill him from behind. Just try to understand this. You are in a precarious position and are threatened from all sides."
 }
 ---

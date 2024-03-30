@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.17.27",
+    "h1":"SB 4.17.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.17.27",
     "description":"You are very much puffed up with pride and have become almost insane. Presently you have assumed the form of a cow by your mystic powers. Nonetheless I shall cut you into small pieces like grain, and I will uphold the entire population by my personal mystic powers."
 }
 ---

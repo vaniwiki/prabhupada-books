@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 8.10.49",
+    "h1":"SB 8.10.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 8.10.49",
     "description":"Fierce clouds, harassed by strong winds, then appeared in the sky. Rumbling very gravely with the sound of thunder, they began to shower live coals."
 }
 ---

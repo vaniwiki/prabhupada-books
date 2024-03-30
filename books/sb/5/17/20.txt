@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 5.17.20",
+    "h1":"SB 5.17.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 5.17.20",
     "description":"For persons with impure vision, the Supreme Lord's eyes appear like those of someone who indiscriminately drinks intoxicating beverages. Thus bewildered, such unintelligent persons become angry at the Supreme Lord, and due to their angry mood the Lord Himself appears angry and very fearful. However, this is an illusion. When the wives of the serpent demon were agitated by the touch of the Lord's lotus feet, due to shyness they could proceed no further in their worship of Him. Yet the Lord remained unagitated by their touch, for He is equipoised in all circumstances. Therefore who will not worship the Supreme Personality of Godhead ?"
 }
 ---

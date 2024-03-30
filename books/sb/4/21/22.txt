@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.21.22",
+    "h1":"SB 4.21.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.21.22",
     "description":"King Pṛthu continued: By the grace of the Supreme Lord I have been appointed the king of this planet, and I carry the scepter to rule the citizens, protect them from all danger and give them employment according to their respective positions in the social order established by Vedic injunction."
 }
 ---

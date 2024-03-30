@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.5.1",
+    "h1":"SB 8.5.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.5.1",
     "description":"Śukadeva Gosvāmī continued: O King, I have described to you the pastime of Gajendra-mokṣaṇa, which is most pious to hear. By hearing of such activities of the Lord, one can be freed from all sinful reactions. Now please listen as I describe Raivata Manu."
 }
 ---

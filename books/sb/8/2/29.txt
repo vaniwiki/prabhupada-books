@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.2.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.2.29",
+    "h1":"SB 8.2.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.2.29",
     "description":"O King, the elephant and the crocodile fought in this way, pulling one another in and out of the water, for one thousand years. Upon seeing the fight, the demigods were very surprised."
 }
 ---

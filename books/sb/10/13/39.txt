@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 10.13.39",
+    "h1":"SB 10.13.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 10.13.39",
     "description":"Lord Baladeva said, \"O supreme controller! These boys are not great demigods, as I previously thought. Nor are these calves great sages like Nārada. Now I can see that You alone are manifesting Yourself in all varieties of difference. Although one, You are existing in the different forms of the calves and boys. Please briefly explain this to Me.\" Having thus been requested by Lord Baladeva, Kṛṣṇa explained the whole situation, and Baladeva understood it."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 3.6.35",
+    "h1":"SB 3.6.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 3.6.35",
     "description":"O Vidura, who can estimate or measure the transcendental time, work and potency of the gigantic form manifested by the internal potency of the Supreme Personality of Godhead?"
 }
 ---

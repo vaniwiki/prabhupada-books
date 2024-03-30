@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.3.11",
+    "h1":"SB 4.3.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.3.11",
     "description":"This manifested cosmos is a wonderful creation of the interaction of the three material modes, or the external energy of the Supreme Lord. This truth is fully known to you. Yet I am but a poor woman, and, as you know, I am not conversant with the truth. Therefore I wish to see my birthplace once more."
 }
 ---

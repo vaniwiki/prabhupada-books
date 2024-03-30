@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.5.7",
+    "h1":"SB 4.5.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.5.7",
     "description":"At that time, all the persons assembled in the sacrificial arena—the priests, the chief of the sacrificial performance, and the brāhmaṇas and their wives—wondered where the darkness was coming from. Later they could understand that it was a dust storm, and all of them were full of anxiety."
 }
 ---

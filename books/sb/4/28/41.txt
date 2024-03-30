@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.28.41",
+    "h1":"SB 4.28.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.28.41",
     "description":"In this way King Malayadhvaja attained perfect knowledge because in his pure state he was directly instructed by the Supreme Personality of Godhead. By means of such enlightening transcendental knowledge, he could understand everything from all angles of vision."
 }
 ---

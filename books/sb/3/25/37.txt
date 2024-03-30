@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.25.37",
+    "h1":"SB 3.25.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.25.37",
     "description":"Thus because he is completely absorbed in thought of Me, the devotee does not desire even the highest benediction obtainable in the upper planetary systems, including Satyaloka. He does not desire the eight material perfections obtained from mystic yoga, nor does he desire to be elevated to the kingdom of God. Yet even without desiring them, the devotee enjoys, even in this life, all the offered benedictions."
 }
 ---

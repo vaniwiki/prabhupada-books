@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.16.42",
+    "h1":"SB 6.16.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.16.42",
     "description":"How can a religious system that produces envy of one's self and of others be beneficial for oneself and for them? What is auspicious about following such a system? What is actually to be gained? By causing pain to one's own self due to self-envy and by causing pain to others, one arouses Your anger and practices irreligion."
 }
 ---

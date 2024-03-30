@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 10.4.13",
+    "h1":"SB 10.4.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 10.4.13",
     "description":"After speaking to Kaṁsa in this way, the goddess Durgā, Yogamāyā, appeared in different places, such as Vārāṇasī, and became celebrated by different names, such as Annapūrṇā, Durgā, Kālī and Bhadrā."
 }
 ---

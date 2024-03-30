@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.12.19",
+    "h1":"SB 8.12.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.12.19",
     "description":"Because the ball was falling down and bouncing up, as She played with it Her breasts trembled, and because of the weight of those breasts and Her heavy flower garlands, Her waist appeared to be all but breaking at every step, as Her two soft feet, which were reddish like coral, moved here and there."
 }
 ---

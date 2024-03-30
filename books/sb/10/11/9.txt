@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 10.11.9",
+    "h1":"SB 10.11.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 10.11.9",
     "description":"To pure devotees throughout the world who could understand His activities, the Supreme Personality of Godhead, Kṛṣṇa, exhibited how much He can be subdued by His devotees, His servants. In this way He increased the pleasure of the Vrajavāsīs by His childhood activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 4.22.58",
+    "h1":"SB 4.22.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 4.22.58",
     "description":"Just as rainfall satisfies everyone's desires, Mahārāja Pṛthu used to satisfy everyone. He was like the sea in that no one could understand his depths, and he was like Meru, the king of hills, in the fixity of his purpose."
 }
 ---

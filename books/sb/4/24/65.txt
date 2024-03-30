@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 4.24.65",
+    "h1":"SB 4.24.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 4.24.65",
     "description":"My dear Lord, Your absolute authority cannot be directly experienced, but one can guess by seeing the activities of the world that everything is being destroyed in due course of time. The force of time is very strong, and everything is being destroyed by something else—just as one animal is being eaten by another animal. Time scatters everything, exactly as the wind scatters clouds in the sky."
 }
 ---

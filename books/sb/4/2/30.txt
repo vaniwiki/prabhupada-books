@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.2.30",
+    "h1":"SB 4.2.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.2.30",
     "description":"Bhṛgu Muni continued: Since you blaspheme the Vedas and the brāhmaṇas, who are followers of the Vedic principles, it is understood that you have already taken shelter of the doctrine of atheism."
 }
 ---

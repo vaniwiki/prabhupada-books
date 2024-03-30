@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.20.9",
+    "h1":"SB 5.20.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.20.9",
     "description":"The son of Mahārāja Priyavrata named Yajñabāhu, the master of Sālmalīdvīpa, divided the island into seven tracts of land, which he gave to his seven sons. The names of those divisions, which correspond to the names of the sons, are Surocana, Saumanasya, Ramaṇaka, Deva-varṣa, Pāribhadra, Āpyāyana and Avijñāta."
 }
 ---

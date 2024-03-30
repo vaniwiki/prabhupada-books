@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.24-25",
-    "h1":"Text 24-25",
-    "title":" Śrīmad Bhāgavatam 8.18.24-25",
+    "h1":"SB 8.18.24-25",
+    "label":"Text 24-25",
+    "title":"Śrīmad Bhāgavatam 8.18.24-25",
     "description":"Appearing as a brāhmaṇa boy, wearing a belt of straw, a sacred thread, an upper garment of deerskin, and matted locks of hair, Lord Vāmanadeva entered the arena of sacrifice. His brilliant effulgence diminished the brilliance of all the priests and their disciples, who thus stood from their seats and welcomed the Lord properly by offering obeisances."
 }
 ---

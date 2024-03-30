@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.3.28",
+    "h1":"SB 8.3.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.3.28",
     "description":"My Lord, You are the controller of formidable strength in three kinds of energy. You appear as the reservoir of all sense pleasure and the protector of the surrendered souls. You possess unlimited energy, but You are unapproachable by those who are unable to control their senses. I offer my respectful obeisances unto You again and again."
 }
 ---

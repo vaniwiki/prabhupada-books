@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.4.1",
+    "h1":"SB 7.4.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.4.1",
     "description":"Nārada Muni continued: Lord Brahmā was very much satisfied by Hiraṇyakaśipu's austerities, which were difficult to perform. Therefore, when solicited for benedictions, he indeed granted them, although they were rarely to be achieved."
 }
 ---

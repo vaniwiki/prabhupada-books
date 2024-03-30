@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.16.1",
+    "h1":"SB 3.16.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.16.1",
     "description":"Lord Brahmā said: After thus congratulating the sages for their nice words, the Supreme Personality of Godhead, whose abode is in the kingdom of God, spoke as follows."
 }
 ---

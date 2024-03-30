@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 9.4.56",
+    "h1":"SB 9.4.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 9.4.56",
     "description":"Lord Śiva said: My dear son, I, Lord Brahmā and the other demigods, who rotate within this universe under the misconception of our greatness, cannot exhibit any power to compete with the Supreme Personality of Godhead, for innumerable universes and their inhabitants come into existence and are annihilated by the simple direction of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.7.14",
+    "h1":"SB 3.7.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.7.14",
     "description":"Simply by chanting and hearing of the transcendental name, form, etc., of the Personality of Godhead, Śrī Kṛṣṇa, one can achieve the cessation of unlimited miserable conditions. Therefore what to speak of those who have attained attraction for serving the flavor of the dust of the Lord's lotus feet?"
 }
 ---

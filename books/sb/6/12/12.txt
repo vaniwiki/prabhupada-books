@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.12.12",
+    "h1":"SB 6.12.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.12.12",
     "description":"A foolish, senseless person cannot understand the Supreme Personality of Godhead. Although always dependent, he falsely thinks himself the Supreme. If one thinks, \"According to one's previous fruitive actions, one's material body is created by the father and mother, and the same body is annihilated by another agent, as another animal is devoured by a tiger,\" this is not proper understanding. The Supreme Personality of Godhead Himself creates and devours the living beings through other living beings."
 }
 ---

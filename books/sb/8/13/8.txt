@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.13.8",
+    "h1":"SB 8.13.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.13.8",
     "description":"O King, I have previously described [in the Sixth Canto] the two daughters of Viśvakarmā, named Saṁjñā and Chāyā, who were the first two wives of Vivasvān."
 }
 ---

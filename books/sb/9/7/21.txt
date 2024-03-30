@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.7.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 9.7.21",
+    "h1":"SB 9.7.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 9.7.21",
     "description":"Thereafter, the famous King Hariścandra, one of the exalted persons in history, performed grand sacrifices by sacrificing a man and pleased all the demigods. In this way his dropsy created by Varuṇa was cured."
 }
 ---

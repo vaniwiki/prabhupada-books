@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.5.7",
+    "h1":"SB 3.5.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.5.7",
     "description":"You may narrate also about the auspicious characteristics of the Lord in His different incarnations for the welfare of the twice-born, the cows and the demigods. Our minds are never satisfied completely, although we continuously hear of His transcendental activities."
 }
 ---

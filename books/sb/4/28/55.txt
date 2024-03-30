@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 4.28.55",
+    "h1":"SB 4.28.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 4.28.55",
     "description":"My dear friend, you are now My very same friend. Since you left Me, you have become more and more materialistic, and not seeing Me, you have been traveling in different forms throughout this material world, which was created by some woman."
 }
 ---

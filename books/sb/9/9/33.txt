@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.9.33",
+    "h1":"SB 9.9.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.9.33",
     "description":"Being condemned by the curse of Vasiṣṭha, King Saudāsa devoured the brāhmaṇa, exactly as a tiger eats its prey. Even though the brāhmaṇa's wife spoke so pitiably, Saudāsa was unmoved by her lamentation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.7.5-6",
-    "h1":"Text 5-6",
-    "title":" Śrīmad Bhāgavatam 9.7.5-6",
+    "h1":"SB 9.7.5-6",
+    "label":"Text 5-6",
+    "title":"Śrīmad Bhāgavatam 9.7.5-6",
     "description":"The son of Tribandhana was Satyavrata, who is celebrated by the name Triśaṅku. Because he kidnapped the daughter of a brāhmaṇa when she was being married, his father cursed him to become a caṇḍāla, lower than a śūdra. Thereafter, by the influence of Viśvāmitra, he went to the higher planetary system, the heavenly planets, in his material body, but because of the prowess of the demigods he fell back downward. Nonetheless, by the power of Viśvāmitra, he did not fall all the way down; even today he can still be seen hanging in the sky, head downward."
 }
 ---

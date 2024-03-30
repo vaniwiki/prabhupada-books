@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.25.1",
+    "h1":"SB 4.25.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.25.1",
     "description":"The great sage Maitreya continued speaking to Vidura: My dear Vidura, in this way Lord Śiva instructed the sons of King Barhiṣat. The sons of the King also worshiped Lord Śiva with great devotion and respect. Finally, Lord Śiva became invisible to the princes."
 }
 ---

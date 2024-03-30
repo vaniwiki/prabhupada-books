@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.6.5",
+    "h1":"SB 5.6.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.6.5",
     "description":"The mind is the root cause of lust, anger, pride, greed, lamentation, illusion and fear. Combined, these constitute bondage to fruitive activity. What learned man would put faith in the mind?"
 }
 ---

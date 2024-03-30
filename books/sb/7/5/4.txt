@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 7.5.4",
+    "h1":"SB 7.5.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 7.5.4",
     "description":"My dear King Yudhiṣṭhira, once upon a time the King of the demons, Hiraṇyakaśipu, took his son Prahlāda on his lap and very affectionately inquired: My dear son, please let me know what you think is the best of all the subjects you have studied from your teachers."
 }
 ---

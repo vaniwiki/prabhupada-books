@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 8.8.36",
+    "h1":"SB 8.8.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 8.8.36",
     "description":"When the jug of nectar was carried off by the demons, the demigods were morose. Thus they sought shelter at the lotus feet of the Supreme Personality of Godhead, Hari."
 }
 ---

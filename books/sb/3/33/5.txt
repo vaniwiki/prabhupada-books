@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.33.5",
+    "h1":"SB 3.33.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.33.5",
     "description":"My dear Lord, You have assumed this body in order to diminish the sinful activities of the fallen and to enrich their knowledge in devotion and liberation. Since these sinful people are dependent on Your direction, by Your own will You assume incarnations as a boar and as other forms. Similarly, You have appeared in order to distribute transcendental knowledge to Your dependents."
 }
 ---

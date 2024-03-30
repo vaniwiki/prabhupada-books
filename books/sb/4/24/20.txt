@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.24.20",
+    "h1":"SB 4.24.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.24.20",
     "description":"While traveling, the Pracetās happened to see a great reservoir of water which seemed almost as big as the ocean. The water of this lake was so calm and quiet that it seemed like the mind of a great soul, and its inhabitants, the aquatics, appeared very peaceful and happy to be under the protection of such a watery reservoir."
 }
 ---

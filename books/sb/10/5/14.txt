@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 10.5.14",
+    "h1":"SB 10.5.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 10.5.14",
     "description":"In gladness, the cowherd men enjoyed the great festival by splashing one another's bodies with a mixture of curd, condensed milk, butter and water. They threw butter on one another and smeared it on one another's bodies."
 }
 ---

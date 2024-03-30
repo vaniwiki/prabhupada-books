@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.9.27",
+    "h1":"SB 2.9.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.9.27",
     "description":"And [please inform me] how You, by Your own Self, manifest different energies for annihilation, generation, acceptance and maintenance by combination and permutation."
 }
 ---

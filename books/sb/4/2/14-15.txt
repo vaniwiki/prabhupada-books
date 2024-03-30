@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.14-15",
-    "h1":"Text 14-15",
-    "title":" Śrīmad Bhāgavatam 4.2.14-15",
+    "h1":"SB 4.2.14-15",
+    "label":"Text 14-15",
+    "title":"Śrīmad Bhāgavatam 4.2.14-15",
     "description":"He lives in filthy places like crematoriums, and his companions are the ghosts and demons. Naked like a madman, sometimes laughing and sometimes crying, he smears crematorium ashes all over his body. He does not bathe regularly, and he ornaments his body with a garland of skulls and bones. Therefore only in name is he Śiva, or auspicious; actually, he is the most mad and inauspicious creature. Thus he is very dear to crazy beings in the gross mode of ignorance, and he is their leader."
 }
 ---

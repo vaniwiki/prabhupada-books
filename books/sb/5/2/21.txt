@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 5.2.21",
+    "h1":"SB 5.2.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 5.2.21",
     "description":"Because of drinking the breast milk of their mother, the nine sons of Āgnīdhra naturally had strong, well-built bodies. Their father gave them each a kingdom in a different part of Jambūdvīpa. The kingdoms were named according to the names of the sons. Thus the sons of Āgnīdhra ruled the kingdoms they received from their father."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 6.16.14",
+    "h1":"SB 6.16.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 6.16.14",
     "description":"Queen Kṛtyadyuti's co-wives, who had poisoned the child, were very much ashamed, and they lost all their bodily luster. While lamenting, O King, they remembered the instructions of Aṅgirā and gave up their ambition to bear children. Following the directions of the brāhmaṇas, they went to the bank of the Yamunā, where they bathed and atoned for their sinful activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 6.6.20",
+    "h1":"SB 6.6.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 6.6.20",
     "description":"Kṛśāśva had two wives, named Arcis and Dhiṣaṇā. In the wife named Arcis he begot Dhūmaketu and in Dhiṣaṇā he begot four sons, named Vedaśirā, Devala, Vayuna and Manu."
 }
 ---

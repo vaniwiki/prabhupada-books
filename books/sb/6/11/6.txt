@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.11.6",
+    "h1":"SB 6.11.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.11.6",
     "description":"Śukadeva Gosvāmī said: Vṛtrāsura, the angry and most powerful hero, terrified the demigods with his stout and strongly built body. When he roared with a resounding voice, nearly all living entities fainted."
 }
 ---

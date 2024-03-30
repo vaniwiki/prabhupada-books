@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 7.10.18",
+    "h1":"SB 7.10.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 7.10.18",
     "description":"The Supreme Personality of Godhead said: My dear Prahlāda, O most pure, O great saintly person, your father has been purified, along with twenty-one forefathers in your family. Because you were born in this family, the entire dynasty has been purified."
 }
 ---

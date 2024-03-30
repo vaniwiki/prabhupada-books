@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 4.17.23",
+    "h1":"SB 4.17.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 4.17.23",
     "description":"Although you are eating green grass every day, you are not filling your milk bag so we can utilize your milk. Since you are willfully committing offenses, it cannot be said that you are not punishable due to your assuming the form of a cow."
 }
 ---

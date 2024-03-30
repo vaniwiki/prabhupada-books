@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 9.20.29",
+    "h1":"SB 9.20.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 9.20.29",
     "description":"As one cannot approach the heavenly planets simply by the strength of his arms (for who can touch the heavenly planets with his hands?), one cannot imitate the wonderful activities of Mahārāja Bharata. No one could perform such activities in the past, nor will anyone be able to do so in the future."
 }
 ---

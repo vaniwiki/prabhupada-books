@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 2.3.25",
+    "h1":"SB 2.3.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 2.3.25",
     "description":"O Sūta Gosvāmī, your words are pleasing to our minds. Please therefore explain this to us as it was spoken by the great devotee Śukadeva Gosvāmī, who is very expert in transcendental knowledge, and who spoke to Mahārāja Parīkṣit upon being asked."
 }
 ---

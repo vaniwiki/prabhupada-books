@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 8.6.36",
+    "h1":"SB 8.6.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 8.6.36",
     "description":"The demigods and demons were frustrated and disheartened, and their arms, thighs and shoulders were broken. Therefore the Supreme Personality of Godhead, who knows everything, appeared there on the back of His carrier, Garuḍa."
 }
 ---

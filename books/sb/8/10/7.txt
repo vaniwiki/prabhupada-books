@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.10.7",
+    "h1":"SB 8.10.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.10.7",
     "description":"The sounds of the conchshells, bugles, drums, bherīs and ḍamarīs [kettledrums], as well as the sounds made by the elephants, horses and soldiers, who were both on chariots and on foot, were tumultuous."
 }
 ---

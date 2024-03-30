@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.26-29",
-    "h1":"Text 26-29",
-    "title":" Śrīmad Bhāgavatam 2.5.26-29",
+    "h1":"SB 2.5.26-29",
+    "label":"Text 26-29",
+    "title":"Śrīmad Bhāgavatam 2.5.26-29",
     "description":"Because the sky is transformed, the air is generated with the quality of touch, and by previous succession the air is also full of sound and the basic principles of duration of life: sense perception, mental power and bodily strength. When the air is transformed in course of time and nature's course, fire is generated, taking shape with the sense of touch and sound. Since fire is also transformed, there is a manifestation of water, full of juice and taste. As previously, it also has form and touch and is also full of sound. And water, being transformed from all variegatedness on earth, appears odorous and, as previously, becomes qualitatively full of juice, touch, sound and form respectively."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.34-36",
-    "h1":"Text 34-36",
-    "title":" Śrīmad Bhāgavatam 6.1.34-36",
+    "h1":"SB 6.1.34-36",
+    "label":"Text 34-36",
+    "title":"Śrīmad Bhāgavatam 6.1.34-36",
     "description":"The order carriers of Yamarāja said: Your eyes are just like the petals of lotus flowers. Dressed in yellow silken garments, decorated with garlands of lotuses, and wearing very attractive helmets on your heads and earrings on your ears, you all appear fresh and youthful. Your four long arms are decorated with bows and quivers of arrows and with swords, clubs, conchshells, discs and lotus flowers. Your effulgence has dissipated the darkness of this place with extraordinary illumination. Now, sirs, why are you obstructing us?"
 }
 ---

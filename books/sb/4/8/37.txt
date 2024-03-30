@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.8.37",
+    "h1":"SB 4.8.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.8.37",
     "description":"O learned brāhmaṇa, I want to occupy a position more exalted than any yet achieved within the three worlds by anyone, even by my fathers and grandfathers. If you will oblige, kindly advise me of an honest path to follow by which I can achieve the goal of my life."
 }
 ---

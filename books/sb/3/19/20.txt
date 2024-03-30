@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.19.20",
+    "h1":"SB 3.19.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.19.20",
     "description":"O sinless Vidura, mountains discharged weapons of various kinds, and naked demonesses armed with tridents appeared with their hair hanging loose."
 }
 ---

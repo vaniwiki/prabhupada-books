@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 9.15.40",
+    "h1":"SB 9.15.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 9.15.40",
     "description":"The duty of a brāhmaṇa is to culture the quality of forgiveness, which is illuminating like the sun. The Supreme Personality of Godhead, Hari, is pleased with those who are forgiving."
 }
 ---

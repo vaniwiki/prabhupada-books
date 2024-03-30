@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 7.11.30",
+    "h1":"SB 7.11.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 7.11.30",
     "description":"Among the mixed classes known as saṅkara, those who are not thieves are known as antevasāyī or caṇḍālas [dog-eaters], and they also have their hereditary customs."
 }
 ---

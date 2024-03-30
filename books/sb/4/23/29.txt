@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.23.29",
+    "h1":"SB 4.23.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.23.29",
     "description":"The great sage Maitreya continued speaking: My dear Vidura, when the wives of the denizens of heaven were thus talking amongst themselves, Queen Arci reached the planet which her husband, Mahārāja Pṛthu, the topmost self-realized soul, had attained."
 }
 ---

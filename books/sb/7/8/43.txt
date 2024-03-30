@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 7.8.43",
+    "h1":"SB 7.8.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 7.8.43",
     "description":"All the saintly persons present offered their prayers in this way: O Lord, O supreme maintainer of those sheltered at Your lotus feet, O original Personality of Godhead, the process of austerity and penance, in which You instructed us before, is the spiritual power of Your very self. It is by austerity that You create the material world, which lies dormant within You. This austerity was almost stopped by the activities of this demon, but now, by Yourself appearing in the form of Nṛsiṁhadeva, which is meant just to give us protection, and by killing this demon, You have again approved the process of austerity."
 }
 ---

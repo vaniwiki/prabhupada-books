@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.13.17",
+    "h1":"SB 5.13.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.13.17",
     "description":"Being cheated by them, the living entity in the forest of the material world tries to give up the association of these so-called yogīs, svāmīs and incarnations and come to the association of real devotees, but due to misfortune he cannot follow the instructions of the spiritual master or advanced devotees; therefore he gives up their company and again returns to the association of monkeys who are simply interested in sense gratification and women. He derives satisfaction by associating with sense gratifiers and enjoying sex and intoxication. In this way he spoils his life simply by indulging in sex and intoxication. Looking into the faces of other sense gratifiers, he becomes forgetful and thus approaches death."
 }
 ---

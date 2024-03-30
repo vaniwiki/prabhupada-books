@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 7.13.33",
+    "h1":"SB 7.13.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 7.13.33",
     "description":"Those who are considered materially powerful and rich are always full of anxieties because of governmental laws, thieves and rogues, enemies, family members, animals, birds, persons seeking charity, the inevitable time factor and even their own selves. Thus they are invariably afraid."
 }
 ---

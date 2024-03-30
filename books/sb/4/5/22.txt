@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.5.22",
+    "h1":"SB 4.5.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.5.22",
     "description":"Then Vīrabhadra, the giantlike personality, sat on the chest of Dakṣa and tried to separate his head from his body with sharp weapons, but was unsuccessful."
 }
 ---

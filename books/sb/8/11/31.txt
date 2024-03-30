@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.11.31",
+    "h1":"SB 8.11.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.11.31",
     "description":"O King, when Indra, King of heaven, saw this very powerful spear falling toward the ground like a blazing meteor, he immediately cut it to pieces with his arrows. Then, being very angry, he struck Namuci's shoulder with his thunderbolt to cut off Namuci's head."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.28.33",
+    "h1":"SB 3.28.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.28.33",
     "description":"With devotion steeped in love and affection, the yogī should meditate within the core of his heart upon the laughter of Lord Viṣṇu. The laughter of Viṣṇu is so captivating that it can be easily meditated upon. When the Supreme Lord is laughing, one can see His small teeth, which resemble jasmine buds rendered rosy by the splendor of His lips. Once devoting his mind to this, the yogī should no longer desire to see anything else."
 }
 ---

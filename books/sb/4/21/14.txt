@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.21.14",
+    "h1":"SB 4.21.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.21.14",
     "description":"In that great assembly, Mahārāja Pṛthu first of all worshiped all the respectable visitors according to their respective positions. After this, he stood up in the midst of the assembly, and it appeared that the full moon had arisen amongst the stars."
 }
 ---

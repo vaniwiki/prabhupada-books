@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.23.7",
+    "h1":"SB 3.23.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.23.7",
     "description":"Kardama Muni continued: I have achieved the blessings of the Lord in discharging my own religious life of austerity, meditation and Kṛṣṇa consciousness. Although you have not yet experienced these achievements, which are free from fear and lamentation, I shall offer them all to you because you are engaged in my service. Now just look at them. I am giving you the transcendental vision to see how nice they are."
 }
 ---

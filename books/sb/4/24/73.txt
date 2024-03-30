@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.73",
-    "h1":"Text 73",
-    "title":" Śrīmad Bhāgavatam 4.24.73",
+    "h1":"SB 4.24.73",
+    "label":"Text 73",
+    "title":"Śrīmad Bhāgavatam 4.24.73",
     "description":"When all the Prajāpatis were ordered to create by Lord Brahmā, we chanted these prayers in praise of the Supreme Personality of Godhead and became completely free from all ignorance. Thus we were able to create different types of living entities."
 }
 ---

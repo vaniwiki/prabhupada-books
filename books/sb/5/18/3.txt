@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.18.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 5.18.3",
+    "h1":"SB 5.18.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 5.18.3",
     "description":"Alas! How wonderful it is that the foolish materialist does not heed the great danger of impending death! He knows that death will surely come, yet he is nevertheless callous and neglectful. If his father dies, he wants to enjoy his father's property, and if his son dies, he wants to enjoy his son's possessions as well. In either case, he heedlessly tries to enjoy material happiness with the acquired money."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.12.12",
+    "h1":"SB 8.12.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.12.12",
     "description":"My Lord, I have seen all kinds of incarnations You have exhibited by Your transcendental qualities, and now that You have appeared as a beautiful young woman, I wish to see that form of Your Lordship."
 }
 ---

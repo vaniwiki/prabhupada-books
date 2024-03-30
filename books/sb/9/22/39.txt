@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 9.22.39",
+    "h1":"SB 9.22.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 9.22.39",
     "description":"The son of Śatānīka will be Sahasrānīka, and from him will come the son named Aśvamedhaja. From Aśvamedhaja will come Asīmakṛṣṇa, and his son will be Nemicakra."
 }
 ---

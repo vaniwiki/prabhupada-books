@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.16.20",
+    "h1":"SB 8.16.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.16.20",
     "description":"My dear Aditi, engage in devotional service to the Supreme Personality of Godhead, who is the master of everything, who can subdue everyone's enemies, and who sits within everyone's heart. Only that Supreme Person—Kṛṣṇa, or Vāsudeva—can bestow all auspicious benedictions upon everyone, for He is the spiritual master of the universe."
 }
 ---

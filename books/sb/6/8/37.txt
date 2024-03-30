@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 6.8.37",
+    "h1":"SB 6.8.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 6.8.37",
     "description":"This prayer, Nārāyaṇa-kavaca, constitutes subtle knowledge transcendentally connected with Nārāyaṇa. One who employs this prayer is never disturbed or put in danger by the government, by plunderers, by evil demons or by any type of disease."
 }
 ---

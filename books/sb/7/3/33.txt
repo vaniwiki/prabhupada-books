@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 7.3.33",
+    "h1":"SB 7.3.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 7.3.33",
     "description":"O my lord, being changelessly situated in your own abode, you expand your universal form within this cosmic manifestation, thus appearing to taste the material world. You are Brahman, the Supersoul, the oldest, the Personality of Godhead."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 10.8.16",
+    "h1":"SB 10.8.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 10.8.16",
     "description":"To increase the transcendental bliss of the cowherd men of Gokula, this child will always act auspiciously for you. And by His grace only, you will surpass all difficulties."
 }
 ---

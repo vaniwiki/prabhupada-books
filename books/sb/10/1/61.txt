@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 10.1.61",
+    "h1":"SB 10.1.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 10.1.61",
     "description":"Vasudeva agreed and took his child back home, but because Kaṁsa had no character and no self-control, Vasudeva knew that he could not rely on Kaṁsa's word."
 }
 ---

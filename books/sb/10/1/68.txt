@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.68",
-    "h1":"Text 68",
-    "title":" Śrīmad Bhāgavatam 10.1.68",
+    "h1":"SB 10.1.68",
+    "label":"Text 68",
+    "title":"Śrīmad Bhāgavatam 10.1.68",
     "description":"In his previous birth, Kaṁsa had been a great demon named Kālanemi and been killed by Viṣṇu. Upon learning this information from Nārada, Kaṁsa became envious of everyone connected with the Yadu dynasty."
 }
 ---

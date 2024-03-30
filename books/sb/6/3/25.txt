@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 6.3.25",
+    "h1":"SB 6.3.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 6.3.25",
     "description":"Because they are bewildered by the illusory energy of the Supreme Personality of Godhead, Yājñavalkya and Jaimini and other compilers of the religious scriptures cannot know the secret, confidential religious system of the twelve mahājanas. They cannot understand the transcendental value of performing devotional service or chanting the Hare Kṛṣṇa mantra. Because their minds are attracted to the ritualistic ceremonies mentioned in the Vedas—especially the Yajur Veda, Sāma Veda and Ṛg Veda—their intelligence has become dull. Thus they are busy collecting the ingredients for ritualistic ceremonies that yield only temporary benefits, such as elevation to Svargaloka for material happiness. They are not attracted to the saṅkīrtana movement; instead, they are interested in dharma, artha, kāma and mokṣa."
 }
 ---

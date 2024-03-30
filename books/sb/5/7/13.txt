@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.7.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.7.13",
+    "h1":"SB 5.7.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.7.13",
     "description":"Mahārāja Bharata appeared very beautiful. He had a wealth of curly hair on his head, which was wet from bathing three times daily. He dressed in a deerskin. He worshiped Lord Nārāyaṇa, whose body was composed of golden effulgence and who resided within the sun. Mahārāja Bharata worshiped Lord Nārāyaṇa by chanting the hymns given in the Ṛg Veda, and he recited the following verse as the sun rose."
 }
 ---

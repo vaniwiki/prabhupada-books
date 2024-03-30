@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.20-23",
-    "h1":"Text 20-23",
-    "title":" Śrīmad Bhāgavatam 7.14.20-23",
+    "h1":"SB 7.14.20-23",
+    "label":"Text 20-23",
+    "title":"Śrīmad Bhāgavatam 7.14.20-23",
     "description":"One should perform the śrāddha ceremony on the Makara-saṅkrānti [the day when the sun begins to move north] or on the Karkaṭa-saṅkrānti [the day when the sun begins to move south]. One should also perform this ceremony on the Meṣa-saṅkrānti day and the Tulā-saṅkrānti day, in the yoga named Vyatīpāta, on that day in which three lunar tithis are conjoined, during an eclipse of either the moon or the sun, on the twelfth lunar day, and in the Śravaṇa-nakṣatra. One should perform this ceremony on the Akṣaya-tṛtīyā day, on the ninth lunar day of the bright fortnight of the month of Kārtika, on the four aṣṭakās in the winter season and cool season, on the seventh lunar day of the bright fortnight of the month of Māgha, during the conjunction of Maghā-nakṣatra and the full-moon day, and on the days when the moon is completely full, or not quite completely full, when these days are conjoined with the nakṣatras from which the names of certain months are derived. One should also perform the śrāddha ceremony on the twelfth lunar day when it is in conjunction with any of the nakṣatras named Anurādhā, Śravaṇa, Uttara-phalgunī, Uttarāṣāḍhā or Uttara-bhādrapadā. Again, one should perform this ceremony when the eleventh lunar day is in conjunction with either Uttara-phalgunī, Uttarāṣāḍhā or Uttara-bhādrapadā. Finally, one should perform this ceremony on days conjoined with one's own birth star [janma-nakṣatra] or with Śravaṇa-nakṣatra."
 }
 ---

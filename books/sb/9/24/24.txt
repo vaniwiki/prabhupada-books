@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 9.24.24",
+    "h1":"SB 9.24.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 9.24.24",
     "description":"Kaṁsa, Sunāmā, Nyagrodha, Kaṅka, Śaṅku, Suhū, Rāṣṭrapāla, Dhṛṣṭi and Tuṣṭimān were the sons of Ugrasena."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.25.34",
+    "h1":"SB 4.25.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.25.34",
     "description":"O great hero, we only know that we are existing in this place. We do not know what will come after. Indeed, we are so foolish that we do not care to understand who has created this beautiful place for our residence."
 }
 ---

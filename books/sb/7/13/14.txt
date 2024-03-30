@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.13.14",
+    "h1":"SB 7.13.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.13.14",
     "description":"Neither by that saintly person's activities, by his bodily features, by his words nor by the symptoms of his varṇāśrama status could people understand whether he was the same person they had known."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 6.4.24",
+    "h1":"SB 6.4.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 6.4.24",
     "description":"As the sense objects [form, taste, touch, smell and sound] cannot understand how the senses perceive them, so the conditioned soul, although residing in his body along with the Supersoul, cannot understand how the supreme spiritual person, the master of the material creation, directs his senses. Let me offer my respectful obeisances unto that Supreme Person, who is the supreme controller."
 }
 ---

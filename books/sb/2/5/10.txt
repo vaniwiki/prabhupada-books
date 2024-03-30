@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 2.5.10",
+    "h1":"SB 2.5.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 2.5.10",
     "description":"Whatever you have spoken about me is not false because unless and until one is aware of the Personality of Godhead, who is the ultimate truth beyond me, one is sure to be illusioned by observing my powerful activities."
 }
 ---

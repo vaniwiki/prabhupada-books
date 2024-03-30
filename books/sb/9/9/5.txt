@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 9.9.5",
+    "h1":"SB 9.9.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 9.9.5",
     "description":"O King, I do not wish to go down to the planet earth, for there the people in general will bathe in my water to cleanse themselves of the reactions of their sinful deeds. When all these sinful reactions accumulate in me, how shall I become free from them? You must consider this very carefully."
 }
 ---

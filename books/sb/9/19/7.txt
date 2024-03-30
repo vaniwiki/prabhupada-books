@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.19.7",
+    "h1":"SB 9.19.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.19.7",
     "description":"When the she-goat who had fallen into the well saw her beloved goat engaged in sexual affairs with another she-goat, she could not tolerate the goat's activities."
 }
 ---

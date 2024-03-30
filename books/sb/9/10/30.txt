@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 9.10.30",
+    "h1":"SB 9.10.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 9.10.30",
     "description":"Thereafter, Lord Rāmacandra found Sītādevī sitting in a small cottage beneath the tree named Siṁśapā in a forest of Aśoka trees. She was lean and thin, being aggrieved because of separation from Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 7.9.3",
+    "h1":"SB 7.9.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 7.9.3",
     "description":"Thereafter Lord Brahmā requested Prahlāda Mahārāja, who was standing very near him: My dear son, Lord Nṛsiṁhadeva is extremely angry at your demoniac father. Please go forward and appease the Lord."
 }
 ---

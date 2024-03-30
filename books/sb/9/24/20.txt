@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 9.24.20",
+    "h1":"SB 9.24.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 9.24.20",
     "description":"The son of Vilomā was Kapotaromā, and his son was Anu, whose friend was Tumburu. From Anu came Andhaka; from Andhaka, Dundubhi; and from Dundubhi, Avidyota. From Avidyota came a son named Punarvasu."
 }
 ---

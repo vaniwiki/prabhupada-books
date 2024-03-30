@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 2.9.41",
+    "h1":"SB 2.9.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 2.9.41",
     "description":"Nārada, the most dear of the inheritor sons of Brahmā, always ready to serve his father, strictly follows the instructions of his father by his mannerly behavior, meekness and sense control."
 }
 ---

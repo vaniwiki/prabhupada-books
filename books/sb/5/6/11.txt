@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.6.11",
+    "h1":"SB 5.6.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.6.11",
     "description":"Low-class people, due to their gross ignorance, introduce a system of religion that deviates from the Vedic principles. Following their own mental concoctions, they automatically fall down into the darkest regions of existence."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.4.21",
+    "h1":"SB 6.4.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.4.21",
     "description":"Near that mountain was a very holy place named Aghamarṣaṇa. There Prajāpati Dakṣa executed ritualistic ceremonies and satisfied the Supreme Personality of Godhead, Hari, by engaging in great austerities to please Him."
 }
 ---

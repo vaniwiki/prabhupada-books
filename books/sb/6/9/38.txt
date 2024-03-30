@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 6.9.38",
+    "h1":"SB 6.9.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 6.9.38",
     "description":"With deliberation, one will see that the Supreme Soul, although manifested in different ways, is actually the basic principle of everything. The total material energy is the cause of the material manifestation, but the material energy is caused by Him. Therefore He is the cause of all causes, the manifester of intelligence and the senses. He is perceived as the Supersoul of everything. Without Him, everything would be dead. You, as that Supersoul, the supreme controller, are the only one remaining."
 }
 ---

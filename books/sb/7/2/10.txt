@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.2.10",
+    "h1":"SB 7.2.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.2.10",
     "description":"While I am engaged in the business of killing Lord Viṣṇu, go down to the planet earth, which is flourishing due to brahminical culture and a kṣatriya government. These people engage in austerity, sacrifice, Vedic study, regulative vows, and charity. Destroy all the people thus engaged!"
 }
 ---

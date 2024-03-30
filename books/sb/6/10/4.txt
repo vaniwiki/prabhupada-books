@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 6.10.4",
+    "h1":"SB 6.10.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 6.10.4",
     "description":"In this material world, every living entity is very much addicted to his material body. Struggling to keep his body forever, everyone tries to protect it by all means, even at the sacrifice of all his possessions. Therefore, who would be prepared to deliver his body to anyone, even if it were demanded by Lord Viṣṇu?"
 }
 ---

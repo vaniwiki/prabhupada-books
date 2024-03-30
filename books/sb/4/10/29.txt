@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.10.29",
+    "h1":"SB 4.10.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.10.29",
     "description":"When the great sages heard that Dhruva Mahārāja was overpowered by the illusory mystic tricks of the demons, they immediately assembled to offer him auspicious encouragement."
 }
 ---

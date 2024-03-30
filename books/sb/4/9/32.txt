@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.9.32",
+    "h1":"SB 4.9.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.9.32",
     "description":"Since all the demigods who are situated in the higher planetary system will have to come down again, they are all envious of my being elevated to Vaikuṇṭhaloka by devotional service. These intolerant demigods have dissipated my intelligence, and only for this reason could I not accept the genuine benediction of the instructions of Sage Nārada."
 }
 ---

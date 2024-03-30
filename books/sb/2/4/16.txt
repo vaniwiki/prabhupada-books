@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 2.4.16",
+    "h1":"SB 2.4.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 2.4.16",
     "description":"Let me offer my respectful obeisances again and again unto the all-auspicious Lord Śrī Kṛṣṇa. The highly intellectual, simply by surrendering unto His lotus feet, are relieved of all attachments to present and future existences and without difficulty progress toward spiritual existence."
 }
 ---

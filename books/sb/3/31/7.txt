@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.31.7",
+    "h1":"SB 3.31.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.31.7",
     "description":"Owing to the mother's eating bitter, pungent foodstuffs, or food which is too salty or too sour, the body of the child incessantly suffers pains which are almost intolerable."
 }
 ---

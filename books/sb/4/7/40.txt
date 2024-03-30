@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.7.40",
+    "h1":"SB 4.7.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.7.40",
     "description":"The personified Vedas said: We offer our respectful obeisances unto You, the Lord, the shelter of the quality of goodness and therefore the source of all religion, austerity and penance, for You are transcendental to all material qualities and no one knows You or Your actual situation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.8.5",
+    "h1":"SB 4.8.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.8.5",
     "description":"My dear Vidura, I have summarily explained the causes of devastation. One who hears this description three times attains piety and washes the sinful contamination from his soul."
 }
 ---

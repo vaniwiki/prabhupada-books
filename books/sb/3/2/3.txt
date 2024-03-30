@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.2.3",
+    "h1":"SB 3.2.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.2.3",
     "description":"Uddhava thus served the Lord continually from childhood, and in his old age that attitude of service never slackened. As soon as he was asked about the message of the Lord, he at once remembered all about Him."
 }
 ---

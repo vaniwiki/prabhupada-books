@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.7.31",
+    "h1":"SB 8.7.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.7.31",
     "description":"O Lord Girīśa, since the impersonal Brahman effulgence is transcendental to the material modes of goodness, passion and ignorance, the various directors of this material world certainly cannot appreciate it or even know where it is. It is not understandable even to Lord Brahmā, Lord Viṣṇu or the King of heaven, Mahendra."
 }
 ---

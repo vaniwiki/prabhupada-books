@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 3.12.56",
+    "h1":"SB 3.12.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 3.12.56",
     "description":"O son of Bharata, in due course of time he [Manu] begot in Śatarūpā five children—two sons, Priyavrata and Uttānapāda, and three daughters, Ākūti, Devahūti and Prasūti."
 }
 ---

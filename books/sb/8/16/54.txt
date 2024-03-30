@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 8.16.54",
+    "h1":"SB 8.16.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 8.16.54",
     "description":"O most auspicious lady, one should perform all the ceremonies under the direction of learned ācāryas and should satisfy them and their priests. By distributing prasāda, one should also satisfy the brāhmaṇas and others who have assembled."
 }
 ---

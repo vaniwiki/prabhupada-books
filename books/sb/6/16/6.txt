@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.16.6",
+    "h1":"SB 6.16.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.16.6",
     "description":"Just as gold and other commodities are continually transferred from one place to another in due course of purchase and sale, so the living entity, as a result of his fruitive activities, wanders throughout the entire universe, being injected into various bodies in different species of life by one kind of father after another."
 }
 ---

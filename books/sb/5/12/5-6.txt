@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.5-6",
-    "h1":"Text 5-6",
-    "title":" Śrīmad Bhāgavatam 5.12.5-6",
+    "h1":"SB 5.12.5-6",
+    "label":"Text 5-6",
+    "title":"Śrīmad Bhāgavatam 5.12.5-6",
     "description":"The self-realized brāhmaṇa Jaḍa Bharata said: Among the various material combinations and permutations, there are various forms and earthly transformations. For some reason, these move on the surface of the earth and are called palanquin carriers. Those material transformations which do not move are gross material objects like stones. In any case, the material body is made of earth and stone in the form of feet, ankles, calves, knees, thighs, torso, throat and head. Upon the shoulders is the wooden palanquin, and within the palanquin is the so-called King of Sauvīra. The body of the King is simply another transformation of earth, but within that body Your Lordship is situated and falsely thinking that you are the King of the state of Sauvīra."
 }
 ---

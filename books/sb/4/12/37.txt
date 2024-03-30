@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.12.37",
+    "h1":"SB 4.12.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.12.37",
     "description":"Persons who are peaceful, equipoised, cleansed and purified, and who know the art of pleasing all other living entities, keep friendship only with devotees of the Lord; they alone can very easily achieve the perfection of going back home, back to Godhead."
 }
 ---

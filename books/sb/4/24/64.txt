@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 4.24.64",
+    "h1":"SB 4.24.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 4.24.64",
     "description":"My dear Lord, after creating by Your own potencies, You enter within the creation in four kinds of forms. Being within the hearts of the living entities, You know them and know how they are enjoying their senses. The so-called happiness of this material creation is exactly like the bees' enjoyment of honey after it has been collected in the honeycomb."
 }
 ---

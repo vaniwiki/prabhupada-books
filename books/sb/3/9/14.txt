@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.9.14",
+    "h1":"SB 3.9.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.9.14",
     "description":"Let me offer my obeisances unto the Supreme Transcendence, who is eternally distinguished by His internal potency. His indistinguishable impersonal feature is realized by intelligence for self-realization. I offer my obeisances unto Him who by His pastimes enjoys the creation, maintenance and dissolution of the cosmic manifestation."
 }
 ---

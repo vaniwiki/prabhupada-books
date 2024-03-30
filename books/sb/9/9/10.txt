@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 9.9.10",
+    "h1":"SB 9.9.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 9.9.10",
     "description":"The great and saintly king Bhagīratha brought the Ganges, which can deliver all the fallen souls, to that place on earth where the bodies of his forefathers lay burnt to ashes."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 3.26.48",
+    "h1":"SB 3.26.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 3.26.48",
     "description":"The sense whose object of perception is form, the distinctive characteristic of fire, is the sense of sight. The sense whose object of perception is taste, the distinctive characteristic of water, is known as the sense of taste. Finally, the sense whose object of perception is odor, the distinctive characteristic of earth, is called the sense of smell."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.16.4",
+    "h1":"SB 3.16.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.16.4",
     "description":"To Me, the brāhmaṇa is the highest and most beloved personality. The disrespect shown by My attendants has actually been displayed by Me because the doormen are My servitors. I take this to be an offense by Myself; therefore I seek your forgiveness for the incident that has arisen."
 }
 ---

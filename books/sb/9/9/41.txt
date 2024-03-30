@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 9.9.41",
+    "h1":"SB 9.9.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 9.9.41",
     "description":"From Bālika came a son named Daśaratha, from Daśaratha came a son named Aiḍaviḍi, and from Aiḍaviḍi came King Viśvasaha. The son of King Viśvasaha was the famous Mahārāja Khaṭvāṅga."
 }
 ---

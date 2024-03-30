@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.20.8",
+    "h1":"SB 5.20.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.20.8",
     "description":"On Sālmalīdvīpa there is a śālmalī tree, from which the island takes its name. That tree is as broad and tall as the plakṣa tree—in other words 100 yojanas [800 miles] broad and 1,100 yojanas [8,800 miles] tall. Learned scholars say that this gigantic tree is the residence of Garuḍa, the king of all birds and carrier of Lord Viṣṇu. In that tree, Garuḍa offers Lord Viṣṇu his Vedic prayers."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 10.1.37",
+    "h1":"SB 10.1.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 10.1.37",
     "description":"Vasudeva said: My dear brother-in-law Kaṁsa, you are the pride of your family, the Bhoja dynasty, and great heroes praise your qualities. How could such a qualified person as you kill a woman, your own sister, especially on the occasion of her marriage?"
 }
 ---

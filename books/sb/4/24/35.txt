@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.24.35",
+    "h1":"SB 4.24.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.24.35",
     "description":"My dear Lord, You are the origin of the subtle material ingredients, the master of all integration as well as the master of all disintegration, the predominating Deity named Saṅkarṣaṇa, and the master of all intelligence, known as the predominating Deity Pradyumna. Therefore, I offer my respectful obeisances unto You."
 }
 ---

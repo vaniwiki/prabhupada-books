@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.7.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.7.9",
+    "h1":"SB 5.7.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.7.9",
     "description":"At Pulaha-āśrama, the Supreme Personality of Godhead, Hari, out of His transcendental affection for His devotee, becomes visible to His devotee, satisfying His devotee's desires."
 }
 ---

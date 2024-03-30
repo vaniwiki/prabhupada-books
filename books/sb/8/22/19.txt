@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.22.19",
+    "h1":"SB 8.22.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.22.19",
     "description":"But Bali Mahārāja's chaste wife, afraid and aggrieved at seeing her husband arrested, immediately offered obeisances to Lord Vāmanadeva [Upendra]. She folded her hands and spoke as follows."
 }
 ---

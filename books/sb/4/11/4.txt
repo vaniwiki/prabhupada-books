@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.11.4",
+    "h1":"SB 4.11.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.11.4",
     "description":"Those sharp arrows dismayed the enemy soldiers, who became almost unconscious, but various Yakṣas on the battlefield, in a rage against Dhruva Mahārāja, somehow or other collected their weapons and attacked. Just as serpents agitated by Garuḍa rush towards Garuḍa with upraised hoods, all the Yakṣa soldiers prepared to overcome Dhruva Mahārāja with their upraised weapons."
 }
 ---

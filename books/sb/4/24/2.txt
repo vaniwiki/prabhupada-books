@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.24.2",
+    "h1":"SB 4.24.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.24.2",
     "description":"Mahārāja Vijitāśva offered the eastern part of the world to his brother Haryakṣa, the southern part to Dhūmrakeśa, the western part to Vṛka and the northern part to Draviṇa."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.17.34",
+    "h1":"SB 4.17.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.17.34",
     "description":"My dear Lord, You are always unborn. Once, in the form of the original boar, You rescued me from the waters in the bottom of the universe. Through Your own energy You created all the physical elements, the senses and the heart, for the maintenance of the world."
 }
 ---

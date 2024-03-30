@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.16.16",
+    "h1":"SB 4.16.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.16.16",
     "description":"The King will be firmly determined and always situated in truth. He will be a lover of the brahminical culture and will render all service to old men and give shelter to all surrendered souls. Giving respect to all, he will always be merciful to the poor and innocent."
 }
 ---

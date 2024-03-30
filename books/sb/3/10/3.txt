@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.10.3",
+    "h1":"SB 3.10.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.10.3",
     "description":"Sūta Gosvāmī said: O son of Bhṛgu, the great sage Maitreya Muni, thus hearing from Vidura, felt very much enlivened. Everything was in his heart, and thus he began to reply to the questions one after another."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.8.29",
+    "h1":"SB 4.8.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.8.29",
     "description":"The process of the Supreme Personality of Godhead is very wonderful. One who is intelligent should accept that process and be satisfied with whatever comes, favorable or unfavorable, by His supreme will."
 }
 ---

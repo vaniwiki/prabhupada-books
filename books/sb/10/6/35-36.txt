@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.35-36",
-    "h1":"Text 35-36",
-    "title":" Śrīmad Bhāgavatam 10.6.35-36",
+    "h1":"SB 10.6.35-36",
+    "label":"Text 35-36",
+    "title":"Śrīmad Bhāgavatam 10.6.35-36",
     "description":"Pūtanā was always hankering for the blood of human children, and with that desire she came to kill Kṛṣṇa; but because she offered her breast to the Lord, she attained the greatest achievement. What then is to be said of those who had natural devotion and affection for Kṛṣṇa as mothers and who offered Him their breasts to suck or offered something very dear, as a mother offers something to a child?"
 }
 ---

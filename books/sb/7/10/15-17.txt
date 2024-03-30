@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.15-17",
-    "h1":"Text 15-17",
-    "title":" Śrīmad Bhāgavatam 7.10.15-17",
+    "h1":"SB 7.10.15-17",
+    "label":"Text 15-17",
+    "title":"Śrīmad Bhāgavatam 7.10.15-17",
     "description":"Prahlāda Mahārāja said: O Supreme Lord, because You are so merciful to the fallen souls, I ask You for only one benediction. I know that my father, at the time of his death, had already been purified by Your glance upon him, but because of his ignorance of Your beautiful power and supremacy, he was unnecessarily angry at You, falsely thinking that You were the killer of his brother. Thus he directly blasphemed Your Lordship, the spiritual master of all living beings, and committed heavily sinful activities directed against me, Your devotee. I wish that he be excused for these sinful activities."
 }
 ---

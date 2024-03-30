@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 10.5.20",
+    "h1":"SB 10.5.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 10.5.20",
     "description":"When Vasudeva heard that Nanda Mahārāja, his very dear friend and brother, had come to Mathurā and already paid the taxes to Kaṁsa, he went to Nanda Mahārāja's residence."
 }
 ---

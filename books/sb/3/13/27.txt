@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.13.27",
+    "h1":"SB 3.13.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.13.27",
     "description":"Before entering the water to rescue the earth, Lord Boar flew in the sky, slashing His tail, His hard hairs quivering. His very glance was luminous, and He scattered the clouds in the sky with His hooves and His glittering white tusks."
 }
 ---

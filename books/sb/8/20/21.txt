@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.20.21",
+    "h1":"SB 8.20.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.20.21",
     "description":"The unlimited Supreme Personality of Godhead, who had assumed the form of Vāmana, then began increasing in size, acting in terms of the material energy, until everything in the universe was within His body, including the earth, the planetary systems, the sky, the directions, the various holes in the universe, the seas, the oceans, the birds, beasts, human beings, the demigods and the great saintly persons."
 }
 ---

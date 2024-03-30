@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.3.6",
+    "h1":"SB 3.3.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.3.6",
     "description":"Narakāsura, the son of Dharitrī, the earth, tried to grasp the whole sky, and for this he was killed by the Lord in a fight. His mother then prayed to the Lord. This led to the return of the kingdom to the son of Narakāsura, and thus the Lord entered the house of the demon."
 }
 ---

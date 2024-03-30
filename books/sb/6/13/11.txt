@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 6.13.11",
+    "h1":"SB 6.13.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 6.13.11",
     "description":"Following the advice of the demigods, Indra killed Vṛtrāsura, and he suffered because of this sinful killing. Although the other demigods were happy, he could not derive happiness from the killing of Vṛtrāsura. Indra's other good qualities, such as tolerance and opulence, could not help him in his grief."
 }
 ---

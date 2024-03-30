@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 6.19.25",
+    "h1":"SB 6.19.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 6.19.25",
     "description":"If this vow or ritualistic ceremony is observed according to the description of śāstra, even in this life a man will be able to achieve all the benedictions he desires from the Lord. A wife who performs this ritualistic ceremony will surely receive good fortune, opulence, sons, a long-living husband, a good reputation and a good home."
 }
 ---

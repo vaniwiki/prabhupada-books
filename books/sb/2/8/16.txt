@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 2.8.16",
+    "h1":"SB 2.8.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 2.8.16",
     "description":"Also, please describe the inner and outer space of the universe by specific divisions, as well as the character and activities of the great souls, and also the characteristics of the different classifications of the castes and orders of social life."
 }
 ---

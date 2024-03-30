@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.6.11",
+    "h1":"SB 9.6.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.6.11",
     "description":"After his father's disappearance, Vikukṣi returned to the country and thus became the king, ruling the planet earth and performing various sacrifices to satisfy the Supreme Personality of Godhead. Vikukṣi later became celebrated as Saśāda."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 2.8.14",
+    "h1":"SB 2.8.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 2.8.14",
     "description":"Then again, kindly describe how the proportionate accumulation of the reactions resulting from the different modes of material nature act upon the desiring living being, promoting or degrading him among the different species of life, beginning from the demigods down to the most insignificant creatures."
 }
 ---

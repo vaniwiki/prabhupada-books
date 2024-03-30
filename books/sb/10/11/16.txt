@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 10.11.16",
+    "h1":"SB 10.11.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 10.11.16",
     "description":"My dear Baladeva, best of our family, please come immediately with Your younger brother, Kṛṣṇa. You both ate in the morning, and now You ought to eat something more."
 }
 ---

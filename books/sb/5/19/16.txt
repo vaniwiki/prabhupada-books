@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.19.16",
+    "h1":"SB 5.19.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.19.16",
     "description":"In the tract of land known as Bhārata-varṣa, as in Ilāvṛta-varṣa, there are many mountains and rivers. Some of the mountains are known as Malaya, Maṅgala-prastha, Maināka, Trikūṭa, Ṛṣabha, Kūṭaka, Kollaka, Sahya, Devagiri, Ṛṣyamūka, Śrī-śaila, Veṅkaṭa, Mahendra, Vāridhāra, Vindhya, Śuktimān, Ṛkṣagiri, Pāriyātra, Droṇa, Citrakūṭa, Govardhana, Raivataka, Kakubha, Nīla, Gokāmukha, Indrakīla and Kāmagiri. Besides these, there are many other hills, with many large and small rivers flowing from their slopes."
 }
 ---

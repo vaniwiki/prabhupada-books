@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 7.13.39",
+    "h1":"SB 7.13.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 7.13.39",
     "description":"To cover my body I use whatever is available, whether it be linen, silk, cotton, bark or deerskin, according to my destiny, and I am fully satisfied and unagitated."
 }
 ---

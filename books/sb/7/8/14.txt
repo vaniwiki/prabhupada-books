@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.8.14",
+    "h1":"SB 7.8.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.8.14",
     "description":"Being obsessed with anger, Hiraṇyakaśipu, who was very great in bodily strength, thus chastised his exalted devotee-son Prahlāda with harsh words. Cursing him again and again, Hiraṇyakaśipu took up his sword, got up from his royal throne, and with great anger struck his fist against the column."
 }
 ---

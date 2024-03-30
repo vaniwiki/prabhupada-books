@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.12.6",
+    "h1":"SB 6.12.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.12.6",
     "description":"Having dropped the thunderbolt from his hand in the presence of his enemy, Indra was practically defeated and was very much ashamed. He dared not pick up his weapon again. Vṛtrāsura, however, encouraged him, saying, \"Take up your thunderbolt and kill your enemy. This is not the time to lament your fate.\""
 }
 ---

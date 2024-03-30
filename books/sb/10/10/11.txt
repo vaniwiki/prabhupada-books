@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 10.10.11",
+    "h1":"SB 10.10.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 10.10.11",
     "description":"While alive, does this body belong to its employer, to the self, to the father, the mother, or the mother's father? Does it belong to the person who takes it away by force, to the slave master who purchases it, or to the sons who burn it in the fire? Or, if the body is not burned, does it belong to the dogs that eat it? Among the many possible claimants, who is the rightful claimant? Not to ascertain this but instead to maintain the body by sinful activities is not good."
 }
 ---

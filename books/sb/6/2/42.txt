@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.2.42",
+    "h1":"SB 6.2.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.2.42",
     "description":"When his intelligence and mind were fixed upon the form of the Lord, the brāhmaṇa Ajāmila once again saw before him four celestial persons. He could understand that they were those he had seen previously, and thus he offered them his obeisances by bowing down before them."
 }
 ---

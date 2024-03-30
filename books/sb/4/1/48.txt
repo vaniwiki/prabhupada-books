@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 4.1.48",
+    "h1":"SB 4.1.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 4.1.48",
     "description":"Dakṣa begot sixteen very beautiful daughters with lotuslike eyes in his wife Prasūti. Of these sixteen daughters, thirteen were given in marriage to Dharma, and one daughter was given to Agni."
 }
 ---

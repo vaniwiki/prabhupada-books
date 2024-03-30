@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 5.4.7",
+    "h1":"SB 5.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 5.4.7",
     "description":"[The second prayer is this.] \"Who is a better worshiper of brāhmaṇas than Mahārāja Nābhi? Because he worshiped the qualified brāhmaṇas to their full satisfaction, the brāhmaṇas, by their brahminical prowess, showed Mahārāja Nābhi the Supreme Personality of Godhead, Nārāyaṇa, in person.\""
 }
 ---

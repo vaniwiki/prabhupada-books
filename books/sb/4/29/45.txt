@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.29.45",
+    "h1":"SB 4.29.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.29.45",
     "description":"Despite the cultivation of Vedic knowledge, which is unlimited, and the worship of different demigods by the symptoms of Vedic mantras, demigod worship does not help one to understand the supreme powerful Personality of Godhead."
 }
 ---

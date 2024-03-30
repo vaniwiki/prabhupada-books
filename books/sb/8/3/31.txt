@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.3.31",
+    "h1":"SB 8.3.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.3.31",
     "description":"After understanding the awkward condition of Gajendra, who had offered his prayers, the Supreme Personality of Godhead, Hari, who lives everywhere, appeared with the demigods, who were offering prayers to Him. Carrying His disc and other weapons, He appeared there on the back of His carrier, Garuḍa, with great speed, according to His desire. Thus He appeared before Gajendra."
 }
 ---

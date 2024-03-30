@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 4.9.55",
+    "h1":"SB 4.9.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 4.9.55",
     "description":"At each and every gate there were burning lamps and big waterpots decorated with differently colored cloth, strings of pearls, flower garlands and hanging mango leaves."
 }
 ---

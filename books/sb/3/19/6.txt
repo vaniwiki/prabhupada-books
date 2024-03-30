@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.19.6",
+    "h1":"SB 3.19.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.19.6",
     "description":"As the discus began to revolve in the Lord's hands and the Lord contended at close quarters with the chief of His Vaikuṇṭha attendants, who had been born as Hiraṇyākṣa, a vile son of Diti, there issued from every direction strange expressions uttered by those who were witnessing from airplanes. They had no knowledge of the Lord's reality, and they cried, \"May victory attend You! Pray dispatch him. Play no more with him.\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.12.28",
+    "h1":"SB 10.12.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.12.28",
     "description":"Now, what was to be done? How could both the killing of this demon and the saving of the devotees be performed simultaneously? Kṛṣṇa, being unlimitedly potent, decided to wait for an intelligent means by which He could simultaneously save the boys and kill the demon. Then He entered the mouth of Aghāsura."
 }
 ---

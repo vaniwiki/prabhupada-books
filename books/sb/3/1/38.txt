@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.1.38",
+    "h1":"SB 3.1.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.1.38",
     "description":"[Please tell me] whether Arjuna, whose bow bears the name Gāṇḍīva and who is always famous amongst the chariot warriors for vanquishing his enemies, is doing well. He once satisfied Lord Śiva by covering him with arrows when Śiva came as an unidentified false hunter."
 }
 ---

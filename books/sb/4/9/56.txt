@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.9.56",
+    "h1":"SB 4.9.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.9.56",
     "description":"In the capital city there were many palaces, city gates and surrounding walls, which were already very, very beautiful, and on this occasion all of them were decorated with golden ornaments. The domes of the city palaces glittered, as did the domes of the beautiful airplanes which hovered over the city."
 }
 ---

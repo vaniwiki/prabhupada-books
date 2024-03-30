@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 4.1.65",
+    "h1":"SB 4.1.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 4.1.65",
     "description":"The sixteenth daughter, whose name was Satī, was the wife of Lord Śiva. She could not produce a child, although she always faithfully engaged in the service of her husband."
 }
 ---

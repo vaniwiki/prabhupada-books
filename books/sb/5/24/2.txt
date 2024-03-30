@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.24.2",
+    "h1":"SB 5.24.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.24.2",
     "description":"The sun globe, which is a source of heat, extends for 10,000 yojanas [80,000 miles]. The moon extends for 20,000 yojanas [160,000 miles], and Rāhu extends for 30,000 yojanas [240,000 miles]. Formerly, when nectar was being distributed, Rāhu tried to create dissension between the sun and moon by interposing himself between them. Rāhu is inimical toward both the sun and the moon, and therefore he always tries to cover the sunshine and moonshine on the dark-moon day and full-moon night."
 }
 ---

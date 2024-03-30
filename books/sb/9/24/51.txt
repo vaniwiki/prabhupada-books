@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 9.24.51",
+    "h1":"SB 9.24.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 9.24.51",
     "description":"Vasudeva also had a wife named Upadevā, from whom came ten sons, headed by Rājanya, Kalpa and Varṣa. From Śrīdevā, another wife, came six sons, such as Vasu, Haṁsa and Suvaṁśa."
 }
 ---

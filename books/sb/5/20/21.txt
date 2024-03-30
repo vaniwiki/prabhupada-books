@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 5.20.21",
+    "h1":"SB 5.20.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 5.20.21",
     "description":"The sons of Mahārāja Ghṛtapṛṣṭha were named Āma, Madhuruha, Meghapṛṣṭha, Sudhāmā, Bhrājiṣṭha, Lohitārṇa and Vanaspati. In their island there are seven mountains, which indicate the boundaries of the seven tracts of land, and there are also seven rivers. The mountains are named Śukla, Vardhamāna, Bhojana, Upabarhiṇa, Nanda, Nandana and Sarvatobhadra. The rivers are named Abhayā, Amṛtaughā, Āryakā, Tīrthavatī, Rūpavatī, Pavitravatī and Śuklā."
 }
 ---

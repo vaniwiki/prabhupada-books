@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.25-26",
-    "h1":"Text 25-26",
-    "title":" Śrīmad Bhāgavatam 7.2.25-26",
+    "h1":"SB 7.2.25-26",
+    "label":"Text 25-26",
+    "title":"Śrīmad Bhāgavatam 7.2.25-26",
     "description":"In his bewildered state, the living entity, accepting the body and mind to be the self, considers some people to be his kinsmen and others to be outsiders. Because of this misconception, he suffers. Indeed, the accumulation of such concocted material ideas is the cause of suffering and so-called happiness in the material world. The conditioned soul thus situated must take birth in different species and work in various types of consciousness, thus creating new bodies. This continued material life is called saṁsāra. Birth, death, lamentation, foolishness and anxiety are due to such material considerations. Thus we sometimes come to a proper understanding and sometimes fall again to a wrong conception of life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.43-45",
-    "h1":"Text 43-45",
-    "title":" Śrīmad Bhāgavatam 2.6.43-45",
+    "h1":"SB 2.6.43-45",
+    "label":"Text 43-45",
+    "title":"Śrīmad Bhāgavatam 2.6.43-45",
     "description":"I myself [Brahmā], Lord Śiva, Lord Viṣṇu, great generators of living beings like Dakṣa and Prajāpati, yourselves [Nārada and the Kumāras], heavenly demigods like Indra and Candra, the leaders of the Bhūrloka planets, the leaders of the earthly planets, the leaders of the lower planets, the leaders of the Gandharva planets, the leaders of the Vidyādhara planets, the leaders of the Cāraṇaloka planets, the leaders of the Yakṣas, Rakṣas and Uragas, the great sages, the great demons, the great atheists and the great spacemen, as well as the dead bodies, evil spirits, satans, jinn, kūṣmāṇḍas, great aquatics, great beasts and great birds, etc.—in other words, anything and everything which is exceptionally possessed of power, opulence, mental and perceptual dexterity, strength, forgiveness, beauty, modesty, opulence, and breeding, whether in form or formless—may appear to be the specific truth and the form of the Lord, but actually they are not so. They are only a fragment of the transcendental potency of the Lord."
 }
 ---

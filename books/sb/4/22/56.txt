@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.22.56",
+    "h1":"SB 4.22.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.22.56",
     "description":"Mahārāja Pṛthu became as celebrated a king as Soma-rāja, the king of the moon. He was also powerful and exacting, just like the sun-god, who distributes heat and light and at the same time exacts all the planetary waters."
 }
 ---

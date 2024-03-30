@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 2.1.34",
+    "h1":"SB 2.1.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 2.1.34",
     "description":"O best amongst the Kurus, the clouds which carry water are the hairs on His head, the terminations of days or nights are His dress, and the supreme cause of material creation is His intelligence. His mind is the moon, the reservoir of all changes."
 }
 ---

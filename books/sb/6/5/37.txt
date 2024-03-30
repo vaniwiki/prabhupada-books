@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 6.5.37",
+    "h1":"SB 6.5.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 6.5.37",
     "description":"Prajāpati Dakṣa said: My sons were not at all freed from their three debts. Indeed, they did not properly consider their obligations. O Nārada Muni, O personality of sinful action, you have obstructed their progress toward good fortune in this world and the next because they are still indebted to the saintly persons, the demigods and their father."
 }
 ---

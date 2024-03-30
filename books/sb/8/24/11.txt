@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.24.11",
+    "h1":"SB 8.24.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.24.11",
     "description":"In this [the present] millennium King Satyavrata later became the son of Vivasvān, the king of the sun planet, and was known as Śrāddhadeva. By the mercy of the Supreme Personality of Godhead, he was given the post of Manu."
 }
 ---

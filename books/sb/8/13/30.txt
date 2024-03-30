@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.13.30",
+    "h1":"SB 8.13.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.13.30",
     "description":"The thirteenth Manu will be named Deva-sāvarṇi, and he will be very advanced in spiritual knowledge. Among his sons will be Citrasena and Vicitra."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.11.7",
+    "h1":"SB 8.11.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.11.7",
     "description":"Bali Mahārāja replied: All those present on this battlefield are certainly under the influence of eternal time, and according to their prescribed activities, they are destined to receive fame, victory, defeat and death, one after another."
 }
 ---

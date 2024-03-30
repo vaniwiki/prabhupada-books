@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.68",
-    "h1":"Text 68",
-    "title":" Śrīmad Bhāgavatam 9.4.68",
+    "h1":"SB 9.4.68",
+    "label":"Text 68",
+    "title":"Śrīmad Bhāgavatam 9.4.68",
     "description":"The pure devotee is always within the core of My heart, and I am always in the heart of the pure devotee. My devotees do not know anything else but Me, and I do not know anyone else but them."
 }
 ---

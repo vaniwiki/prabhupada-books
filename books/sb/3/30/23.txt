@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.30.23",
+    "h1":"SB 3.30.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.30.23",
     "description":"While passing on that road to the abode of Yamarāja, he falls down in fatigue, and sometimes he becomes unconscious, but he is forced to rise again. In this way he is very quickly brought to the presence of Yamarāja."
 }
 ---

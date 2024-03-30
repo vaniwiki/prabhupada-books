@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.12.8",
+    "h1":"SB 5.12.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.12.8",
     "description":"All of us on the surface of the globe are living entities in different forms. Some of us are moving and some not moving. All of us come into existence, remain for some time and are annihilated when the body is again mingled with the earth. We are all simply different transformations of the earth. Different bodies and capacities are simply transformations of the earth that exist in name only, for everything grows out of the earth and when everything is annihilated it again mingles with the earth. In other words, we are but dust, and we shall but be dust. Everyone can consider this point."
 }
 ---

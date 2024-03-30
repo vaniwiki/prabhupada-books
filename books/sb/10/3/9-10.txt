@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.9-10",
-    "h1":"Text 9-10",
-    "title":" Śrīmad Bhāgavatam 10.3.9-10",
+    "h1":"SB 10.3.9-10",
+    "label":"Text 9-10",
+    "title":"Śrīmad Bhāgavatam 10.3.9-10",
     "description":"Vasudeva then saw the newborn child, who had very wonderful lotuslike eyes and who bore in His four hands the four weapons śaṅkha, cakra, gadā and padma. On His chest was the mark of Śrīvatsa and on His neck the brilliant Kaustubha gem. Dressed in yellow, His body blackish like a dense cloud, His scattered hair fully grown, and His helmet and earrings sparkling uncommonly with the valuable gem Vaidūrya, the child, decorated with a brilliant belt, armlets, bangles and other ornaments, appeared very wonderful."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.23.23",
+    "h1":"SB 3.23.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.23.23",
     "description":"My dear Devahūti, you look very much afraid. First bathe in Lake Bindu-sarovara, created by Lord Viṣṇu Himself, which can grant all the desires of a human being, and then mount this airplane."
 }
 ---

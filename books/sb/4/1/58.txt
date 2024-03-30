@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 4.1.58",
+    "h1":"SB 4.1.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 4.1.58",
     "description":"[Maitreya said:] O Vidura, thus the demigods worshiped with prayers the Supreme Personality of Godhead appearing as the sage Nara-Nārāyaṇa. The Lord glanced upon them with mercy and then departed for Gandhamādana Hill."
 }
 ---

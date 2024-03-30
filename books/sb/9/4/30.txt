@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 9.4.30",
+    "h1":"SB 9.4.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 9.4.30",
     "description":"In the month of Kārtika, after observing that vow for one year, after observing a fast for three nights and after bathing in the Yamunā, Mahārāja Ambarīṣa worshiped the Supreme Personality of Godhead, Hari, in Madhuvana."
 }
 ---

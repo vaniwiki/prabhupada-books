@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 5.24.1",
+    "h1":"SB 5.24.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 5.24.1",
     "description":"Śrī Śukadeva Gosvāmī said: My dear King, some historians, the speakers of the Purāṇas, say that 10,000 yojanas [80,000 miles] below the sun is the planet known as Rāhu, which moves like one of the stars. The presiding deity of that planet, who is the son of Siṁhikā, is the most abominable of all asuras, but although he is completely unfit to assume the position of a demigod or planetary deity, he has achieved that position by the grace of the Supreme Personality of Godhead. Later I shall speak further about him."
 }
 ---

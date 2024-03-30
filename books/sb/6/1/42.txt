@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.1.42",
+    "h1":"SB 6.1.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.1.42",
     "description":"The sun, fire, sky, air, demigods, moon, evening, day, night, directions, water, land and Supersoul Himself all witness the activities of the living entity."
 }
 ---

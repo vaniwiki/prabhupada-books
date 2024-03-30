@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.23.4",
+    "h1":"SB 8.23.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.23.4",
     "description":"Thus having delivered the proprietorship of the heavenly planets to Indra and having fulfilled the desire of Aditi, mother of the demigods, the Supreme Personality of Godhead ruled the affairs of the universe."
 }
 ---

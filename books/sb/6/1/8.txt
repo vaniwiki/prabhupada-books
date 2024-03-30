@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.1.8",
+    "h1":"SB 6.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.1.8",
     "description":"Therefore, before one's next death comes, as long as one's body is strong enough, one should quickly adopt the process of atonement according to śāstra; otherwise one's time will be lost, and the reactions of his sins will increase. As an expert physician diagnoses and treats a disease according to its gravity, one should undergo atonement according to the severity of one's sins."
 }
 ---

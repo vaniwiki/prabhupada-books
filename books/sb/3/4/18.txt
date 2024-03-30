@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.4.18",
+    "h1":"SB 3.4.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.4.18",
     "description":"My Lord, kindly explain to us, if You think us competent to receive it, that transcendental knowledge which gives enlightenment about Yourself and which You explained before to Brahmājī."
 }
 ---

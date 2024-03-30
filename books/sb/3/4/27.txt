@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.4.27",
+    "h1":"SB 3.4.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.4.27",
     "description":"Śukadeva Gosvāmī said: O King, after thus discussing with Vidura the transcendental name, fame, qualities, etc., on the bank of the Yamunā, Uddhava was overwhelmed with great affliction. He passed the night as if it were a moment, and thereafter he went away."
 }
 ---

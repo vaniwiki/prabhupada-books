@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 10.11.22",
+    "h1":"SB 10.11.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 10.11.22",
     "description":"At this meeting of all the inhabitants of Gokula, a cowherd man named Upananda, who was the most mature in age and knowledge and was very experienced according to time, circumstances and country, made this suggestion for the benefit of Rāma and Kṛṣṇa."
 }
 ---

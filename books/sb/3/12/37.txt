@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.12.37",
+    "h1":"SB 3.12.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.12.37",
     "description":"Maitreya said: Beginning from the front face of Brahmā, gradually the four Vedas—Ṛk, Yajur, Sāma and Atharva—became manifest. Thereafter, Vedic hymns which had not been pronounced before, priestly rituals, the subject matters of the recitation, and transcendental activities were all established, one after another."
 }
 ---

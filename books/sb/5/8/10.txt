@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.8.10",
+    "h1":"SB 5.8.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.8.10",
     "description":"Even though one is in the renounced order, one who is advanced certainly feels compassion for suffering living entities. One should certainly neglect his own personal interests, although they may be very important, to protect one who has surrendered."
 }
 ---

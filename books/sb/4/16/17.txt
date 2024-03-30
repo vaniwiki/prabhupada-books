@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.16.17",
+    "h1":"SB 4.16.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.16.17",
     "description":"The King will respect all women as if they were his own mother, and he will treat his own wife as the other half of his body. He will be just like an affectionate father to his citizens, and he will treat himself as the most obedient servant of the devotees, who always preach the glories of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.21.6",
+    "h1":"SB 5.21.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.21.6",
     "description":"Until the sun travels to the south the days grow longer, and until it travels to the north the nights grow longer."
 }
 ---

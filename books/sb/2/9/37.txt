@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 2.9.37",
+    "h1":"SB 2.9.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 2.9.37",
     "description":"O Brahmā, just follow this conclusion by fixed concentration of mind, and no pride will disturb you, neither in the partial nor in the final devastation."
 }
 ---

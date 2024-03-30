@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.2.3",
+    "h1":"SB 4.2.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.2.3",
     "description":"My dear Maitreya, to part with one's life is very difficult. Would you kindly explain to me how such a son-in-law and father-in-law could quarrel so bitterly that the great goddess Satī could give up her life?"
 }
 ---

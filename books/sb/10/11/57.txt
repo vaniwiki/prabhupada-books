@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 10.11.57",
+    "h1":"SB 10.11.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 10.11.57",
     "description":"The words of persons in full knowledge of Brahman never become untrue. It is very wonderful that whatever Gargamuni predicted we are now actually experiencing in all detail."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 6.16.63",
+    "h1":"SB 6.16.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 6.16.63",
     "description":"Persons who try to reach the ultimate goal of life must expertly observe the Supreme Absolute Person and the living entity, who are one in quality in their relationship as part and whole. This is the ultimate understanding of life. There is no better truth than this."
 }
 ---

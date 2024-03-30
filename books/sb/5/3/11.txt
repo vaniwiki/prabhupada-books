@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.3.11",
+    "h1":"SB 5.3.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.3.11",
     "description":"Dear Lord, all the great sages who are thoughtful and saintly persons incessantly recount Your spiritual qualities. These sages have already burned up all the unlimited dirty things and, by the fire of knowledge, strengthened their detachment from the material world. Thus they have attained Your qualities and are self-satisfied. Yet even for those who feel spiritual bliss in chanting Your attributes, Your personal presence is very rare."
 }
 ---

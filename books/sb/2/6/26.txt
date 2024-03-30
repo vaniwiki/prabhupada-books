@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 2.6.26",
+    "h1":"SB 2.6.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 2.6.26",
     "description":"Other necessities include invoking the different names of the demigods by specific hymns and vows of recompense, in accordance with the particular scripture, for specific purposes and by specific processes."
 }
 ---

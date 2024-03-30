@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.17.11",
+    "h1":"SB 5.17.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.17.11",
     "description":"Among the nine varṣas, the tract of land known as Bhārata-varṣa is understood to be the field of fruitive activities. Learned scholars and saintly persons declare the other eight varṣas to be meant for very highly elevated pious persons. After returning from the heavenly planets, they enjoy the remaining results of their pious activities in these eight earthly varṣas."
 }
 ---

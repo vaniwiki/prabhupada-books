@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 4.7.59",
+    "h1":"SB 4.7.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 4.7.59",
     "description":"Ambikā [goddess Durgā], who was known as Dākṣāyiṇī [Satī], again accepted Lord Śiva as her husband, just as different energies of the Supreme Personality of Godhead act during the course of a new creation."
 }
 ---

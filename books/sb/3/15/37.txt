@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.15.37",
+    "h1":"SB 3.15.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.15.37",
     "description":"At that very moment, the Lord, who is called Padmanābha because of the lotus grown from His navel and who is the delight of the righteous, learned about the insult offered by His own servants to the saints. Accompanied by His spouse, the goddess of fortune, He went to the spot on those very feet sought for by recluses and great sages."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.21.11",
+    "h1":"SB 5.21.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.21.11",
     "description":"From the residence of Yamarāja the sun travels to Nimlocanī, the residence of Varuṇa, from there to Vibhāvarī, the residence of the moon-god, and from there again to the residence of Indra. In a similar way, the moon, along with the other stars and planets, becomes visible in the celestial sphere and then sets and again becomes invisible."
 }
 ---

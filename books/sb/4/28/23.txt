@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 4.28.23",
+    "h1":"SB 4.28.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 4.28.23",
     "description":"When the Yavanas were taking King Purañjana away to their place, binding him like an animal, the King's followers became greatly aggrieved. While they lamented, they were forced to go along with him."
 }
 ---

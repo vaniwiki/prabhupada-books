@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.21.14",
+    "h1":"SB 9.21.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.21.14",
     "description":"Having spoken thus, King Rantideva, although on the verge of death because of thirst, gave his own portion of water to the caṇḍāla without hesitation, for the King was naturally very kind and sober."
 }
 ---

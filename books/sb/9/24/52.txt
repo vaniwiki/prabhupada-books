@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 9.24.52",
+    "h1":"SB 9.24.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 9.24.52",
     "description":"By the semen of Vasudeva in the womb of Devarakṣitā, nine sons were born, headed by Gadā. Vasudeva, who was religion personified, also had a wife named Sahadevā, by whose womb he begot eight sons, headed by Śruta and Pravara."
 }
 ---

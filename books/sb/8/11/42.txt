@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 8.11.42",
+    "h1":"SB 8.11.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 8.11.42",
     "description":"Vāyu, Agni, Varuṇa and other demigods began killing the demons who opposed them, just as lions kill deer in a forest."
 }
 ---

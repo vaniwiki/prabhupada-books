@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.8.5",
+    "h1":"SB 8.8.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.8.5",
     "description":"Thereafter, O King, eight great elephants, which could go in any direction, were generated. They were headed by Airāvaṇa. Eight she-elephants, headed by Abhramu, were also generated."
 }
 ---

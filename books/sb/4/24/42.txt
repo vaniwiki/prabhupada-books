@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.24.42",
+    "h1":"SB 4.24.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.24.42",
     "description":"My dear Lord, You are the topmost of all bestowers of all benediction, the oldest and supreme enjoyer amongst all enjoyers. You are the master of all the worlds' metaphysical philosophy, for You are the supreme cause of all causes, Lord Kṛṣṇa. You are the greatest of all religious principles, the supreme mind, and You have a brain which is never checked by any condition. Therefore I repeatedly offer my obeisances unto You."
 }
 ---

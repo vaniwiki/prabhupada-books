@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.46-47",
-    "h1":"Text 46-47",
-    "title":" Śrīmad Bhāgavatam 4.1.46-47",
+    "h1":"SB 4.1.46-47",
+    "label":"Text 46-47",
+    "title":"Śrīmad Bhāgavatam 4.1.46-47",
     "description":"My dear Vidura, the population of the universe was thus increased by the descendants of these sages and the daughters of Kardama. Anyone who hears the descriptions of this dynasty with faith will be relieved from all sinful reactions. Another of Manu's daughters, known as Prasūti, married the son of Brahmā named Dakṣa."
 }
 ---

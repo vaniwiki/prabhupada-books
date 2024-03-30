@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.13.34",
+    "h1":"SB 4.13.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.13.34",
     "description":"The performer of the sacrifices [under karma-kāṇḍa activities] achieves the fulfillment of the desire for which he worships the Lord."
 }
 ---

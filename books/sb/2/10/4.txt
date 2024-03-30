@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 2.10.4",
+    "h1":"SB 2.10.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 2.10.4",
     "description":"The right situation for the living entities is to obey the laws of the Lord and thus be in perfect peace of mind under the protection of the Supreme Personality of Godhead. The Manus and their laws are meant to give right direction in life. The impetus for activity is the desire for fruitive work."
 }
 ---

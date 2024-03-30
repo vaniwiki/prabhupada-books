@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.11.3",
+    "h1":"SB 4.11.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.11.3",
     "description":"Even as Dhruva Mahārāja fixed the weapon made by Nārāyaṇa Ṛṣi onto his bow, arrows with golden shafts and feathers like the wings of a swan flew out from it. They entered the enemy soldiers with a great hissing sound, just as peacocks enter a forest with tumultuous crowing."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 6.15.20",
+    "h1":"SB 6.15.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 6.15.20",
     "description":"When I first came to your home, I could have given you the supreme transcendental knowledge, but when I saw that your mind was absorbed in material things, I gave you only a son, who caused you jubilation and lamentation."
 }
 ---

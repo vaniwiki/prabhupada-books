@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 5.20.34",
+    "h1":"SB 5.20.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 5.20.34",
     "description":"Thereafter, beyond the ocean of sweet water and fully surrounding it, is a mountain named Lokāloka, which divides the countries that are full of sunlight from those not lit by the sun."
 }
 ---

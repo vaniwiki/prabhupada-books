@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.28.3",
+    "h1":"SB 4.28.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.28.3",
     "description":"Gradually Kālakanyā, with the help of dangerous soldiers, attacked all the inhabitants of Purañjana's city and thus rendered them useless for all purposes."
 }
 ---

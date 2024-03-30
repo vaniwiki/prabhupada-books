@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.10.31",
+    "h1":"SB 9.10.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.10.31",
     "description":"Seeing His wife in that condition, Lord Rāmacandra was very compassionate. When Rāmacandra came before her, she was exceedingly happy to see her beloved, and her lotuslike mouth showed her joy."
 }
 ---

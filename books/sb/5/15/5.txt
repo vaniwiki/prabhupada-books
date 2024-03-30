@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.15.5",
+    "h1":"SB 5.15.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.15.5",
     "description":"In the womb of his wife Suvarcalā, Pratīha begot three sons, named Pratihartā, Prastotā and Udgātā. These three sons were very expert in performing Vedic rituals. Pratihartā begot two sons, named Aja and Bhūmā, in the womb of his wife, named Stutī."
 }
 ---

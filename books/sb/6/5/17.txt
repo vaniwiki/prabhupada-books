@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.5.17",
+    "h1":"SB 6.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.5.17",
     "description":"[Nārada Muni had said that there is a house made of twenty-five elements. The Haryaśvas understood this analogy.] The Supreme Lord is the reservoir of the twenty-five elements, and as the Supreme Being, the conductor of cause and effect, He causes their manifestation. If one engages in temporary fruitive activities, not knowing that Supreme Person, what benefit will he derive?"
 }
 ---

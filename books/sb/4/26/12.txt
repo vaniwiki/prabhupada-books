@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.26.12",
+    "h1":"SB 4.26.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.26.12",
     "description":"After this, King Purañjana decorated his body with suitable ornaments. He also smeared scented sandalwood pulp over his body and put on flower garlands. In this way he became completely refreshed. After this, he began to search out his Queen."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.15.9",
+    "h1":"SB 6.15.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.15.9",
     "description":"Śrī Śukadeva Gosvāmī continued: Thus enlightened by the instructions of Nārada and Aṅgirā, King Citraketu became hopeful with knowledge. Wiping his shriveled face with his hand, the King began to speak."
 }
 ---

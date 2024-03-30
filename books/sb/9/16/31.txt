@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.16.31",
+    "h1":"SB 9.16.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.16.31",
     "description":"Śunaḥśepha's father sold Śunaḥśepha to be sacrificed as a man-animal in the yajña of King Hariścandra. When Śunaḥśepha was brought into the sacrificial arena, he prayed to the demigods for release and was released by their mercy."
 }
 ---

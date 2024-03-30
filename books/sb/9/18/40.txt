@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 9.18.40",
+    "h1":"SB 9.18.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 9.18.40",
     "description":"Yadu replied: My dear father, you have already achieved old age, although you also were a young man. But I do not welcome your old age and invalidity, for unless one enjoys material happiness, one cannot attain renunciation."
 }
 ---

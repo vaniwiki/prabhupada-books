@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 6.1.49",
+    "h1":"SB 6.1.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 6.1.49",
     "description":"As a sleeping person acts according to the body manifested in his dreams and accepts it to be himself, so one identifies with his present body, which he acquired because of his past religious or irreligious actions, and is unable to know his past or future lives."
 }
 ---

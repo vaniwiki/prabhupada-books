@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 10.4.7",
+    "h1":"SB 10.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 10.4.7",
     "description":"Śukadeva Gosvāmī continued: Piteously embracing her daughter and crying, Devakī begged Kaṁsa for the child, but he was so cruel that he chastised her and forcibly snatched the child from her hands."
 }
 ---

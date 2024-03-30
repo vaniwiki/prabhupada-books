@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 6.16.35",
+    "h1":"SB 6.16.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 6.16.35",
     "description":"My dear Lord, this cosmic manifestation and its creation, maintenance and annihilation are all but Your opulences. Since Lord Brahmā and the other creators are nothing but small portions of a portion of You, their partial power to create does not make them God [īśvara]. Their consciousness of themselves as separate Lords is therefore merely false prestige. It is not valid."
 }
 ---

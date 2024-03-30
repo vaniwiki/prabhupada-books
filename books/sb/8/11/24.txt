@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 8.11.24",
+    "h1":"SB 8.11.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 8.11.24",
     "description":"Other demons covered Indra, along with his chariot and chariot driver, with incessant showers of arrows, just as clouds cover the sun in the rainy season."
 }
 ---

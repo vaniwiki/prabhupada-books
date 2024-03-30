@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.9.8",
+    "h1":"SB 4.9.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.9.8",
     "description":"O my master, Lord Brahmā is fully surrendered unto You. In the beginning You gave him knowledge, and thus he could see and understand the entire universe, just as a person awakens from sleep and visualizes his immediate duties. You are the only shelter of all persons who desire liberation, and You are the friend of all who are distressed. How, therefore, can a learned person who has perfect knowledge ever forget You?"
 }
 ---

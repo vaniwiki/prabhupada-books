@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 6.6.41",
+    "h1":"SB 6.6.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 6.6.41",
     "description":"Chāyā, another wife of the sun-god, begot two sons named Śanaiścara and Sāvarṇi Manu, and one daughter, Tapatī, who married Saṁvaraṇa."
 }
 ---

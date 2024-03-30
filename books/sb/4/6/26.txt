@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.6.26",
+    "h1":"SB 4.6.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.6.26",
     "description":"After the damsels of the heavenly planets bathe in the water, it becomes yellowish and fragrant due to the kuṅkuma from their bodies. Thus the elephants come to bathe there with their wives, the she-elephants, and they also drink the water, although they are not thirsty."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.2.4",
+    "h1":"SB 4.2.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.2.4",
     "description":"The sage Maitreya said: In a former time, the leaders of the universal creation performed a great sacrifice in which all the great sages, philosophers, demigods and fire-gods assembled with their followers."
 }
 ---

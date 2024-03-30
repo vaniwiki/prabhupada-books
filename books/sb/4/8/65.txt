@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 4.8.65",
+    "h1":"SB 4.8.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 4.8.65",
     "description":"The King replied: O best of the brāhmaṇas, I am very much addicted to my wife, and I am so fallen that I have abandoned all merciful behavior, even to my son, who is only five years old. I have banished him and his mother, even though he is a great soul and a great devotee."
 }
 ---

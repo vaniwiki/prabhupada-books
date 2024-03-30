@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.3.29",
+    "h1":"SB 8.3.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.3.29",
     "description":"I offer my respectful obeisances unto the Supreme Personality of Godhead, by whose illusory energy the jīva, who is part and parcel of God, forgets his real identity because of the bodily concept of life. I take shelter of the Supreme Personality of Godhead, whose glories are difficult to understand."
 }
 ---

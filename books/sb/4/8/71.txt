@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.71",
-    "h1":"Text 71",
-    "title":" Śrīmad Bhāgavatam 4.8.71",
+    "h1":"SB 4.8.71",
+    "label":"Text 71",
+    "title":"Śrīmad Bhāgavatam 4.8.71",
     "description":"Elsewhere, Dhruva Mahārāja, having arrived at Madhuvana, took his bath in the River Yamunā and observed fasting in the night with great care and attention. After that, as advised by the great sage Nārada, he engaged himself in worshiping the Supreme Personality of Godhead."
 }
 ---

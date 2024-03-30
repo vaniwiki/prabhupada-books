@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 5.1.26",
+    "h1":"SB 5.1.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 5.1.26",
     "description":"Three among these ten—namely Kavi, Mahāvīra and Savana—lived in complete celibacy. Thus trained in brahmacārī life from the beginning of childhood, they were very conversant with the highest perfection, known as the paramahaṁsa-āśrama."
 }
 ---

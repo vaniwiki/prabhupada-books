@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 3.26.34",
+    "h1":"SB 3.26.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 3.26.34",
     "description":"The activities and characteristics of the ethereal element can be observed as accommodation for the room for the external and internal existences of all living entities, namely the field of activities of the vital air, the senses and the mind."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.17.27",
+    "h1":"SB 8.17.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.17.27",
     "description":"O my Lord, You are the beginning, the manifestation and the ultimate dissolution of the three worlds, and You are celebrated in the Vedas as the reservoir of unlimited potencies, the Supreme Person. O my Lord, as waves attract branches and leaves that have fallen into deep water, You, the supreme eternal time factor, attract everything in this universe."
 }
 ---

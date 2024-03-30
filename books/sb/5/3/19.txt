@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 5.3.19",
+    "h1":"SB 5.3.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 5.3.19",
     "description":"Śukadeva Gosvāmī continued: After saying this, the Lord disappeared. The wife of King Nābhi, Queen Merudevī, was sitting by the side of her husband, and consequently she could hear everything the Supreme Lord had spoken."
 }
 ---

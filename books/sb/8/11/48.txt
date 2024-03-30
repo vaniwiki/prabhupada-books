@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 8.11.48",
+    "h1":"SB 8.11.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 8.11.48",
     "description":"Bali Mahārāja was very experienced in universal affairs. When he regained his senses and memory by the grace of Śukrācārya, he could understand everything that had happened. Therefore, although he had been defeated, he did not lament."
 }
 ---

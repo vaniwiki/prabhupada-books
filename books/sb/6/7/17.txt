@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.7.17",
+    "h1":"SB 6.7.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.7.17",
     "description":"Although Indra searched vigorously with the assistance of the other demigods, he could not find Bṛhaspati. Then Indra thought, \"Alas, my spiritual master has become dissatisfied with me, and now I have no means of achieving good fortune.\" Although Indra was surrounded by demigods, he could not find peace of mind."
 }
 ---

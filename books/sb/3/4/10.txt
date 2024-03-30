@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 3.4.10",
+    "h1":"SB 3.4.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 3.4.10",
     "description":"Maitreya Muni was greatly attached to Him [the Lord], and he was listening in a pleasing attitude, with his shoulder lowered. With a smile and a particular glance upon me, having allowed me to rest, the Lord spoke as follows."
 }
 ---

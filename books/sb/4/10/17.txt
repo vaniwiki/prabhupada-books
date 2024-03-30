@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.10.17",
+    "h1":"SB 4.10.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.10.17",
     "description":"The sharp arrows released from the bow of Dhruva Mahārāja pierced the shields and bodies of the enemy, like the thunderbolts released by the King of heaven, which dismantle the bodies of the mountains."
 }
 ---

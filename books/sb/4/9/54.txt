@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 4.9.54",
+    "h1":"SB 4.9.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 4.9.54",
     "description":"The whole city was decorated with columns of banana trees containing bunches of fruits and flowers, and betel nut trees with leaves and branches were seen here and there. There were also many gates set up which were structured to give the appearance of sharks."
 }
 ---

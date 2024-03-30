@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.6.8",
+    "h1":"SB 3.6.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.6.8",
     "description":"The gigantic universal form of the Supreme Lord is the first incarnation and plenary portion of the Supersoul. He is the Self of an unlimited number of living entities, and in Him rests the aggregate creation, which thus flourishes."
 }
 ---

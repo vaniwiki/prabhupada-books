@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.20.16",
+    "h1":"SB 4.20.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.20.16",
     "description":"My dear King, I am very captivated by your elevated qualities and excellent behavior, and thus I am very favorably inclined toward you. You may therefore ask from Me any benediction you like. One who does not possess elevated qualities and behavior cannot possibly achieve My favor simply by performance of sacrifices, severe austerities or mystic yoga. But I always remain equipoised in the heart of one who is also equipoised in all circumstances."
 }
 ---

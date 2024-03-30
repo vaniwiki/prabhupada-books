@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.18.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 5.18.37",
+    "h1":"SB 5.18.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 5.18.37",
     "description":"The objects of material enjoyment [sound, form, taste, touch and smell], the activities of the senses, the controllers of sensory activities [the demigods], the body, eternal time and egotism are all creations of Your material energy. Those whose intelligence has become fixed by perfect execution of mystic yoga can see that all these elements result from the actions of Your external energy. They can also see Your transcendental form as Supersoul in the background of everything. Therefore I repeatedly offer my respectful obeisances unto You."
 }
 ---

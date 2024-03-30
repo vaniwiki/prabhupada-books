@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.8.32",
+    "h1":"SB 3.8.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.8.32",
     "description":"When Lord Brahmā, the maker of the universal destination, thus saw the Lord, he simultaneously glanced over creation. Lord Brahmā saw the lake in Lord Viṣṇu's navel, and the lotus flower, as well as the devastating water, the drying air and the sky. All became visible to him."
 }
 ---

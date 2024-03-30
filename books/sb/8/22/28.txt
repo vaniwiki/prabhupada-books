@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.22.28",
+    "h1":"SB 8.22.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.22.28",
     "description":"Bali Mahārāja has become the most famous among the demons and nonbelievers, for in spite of being bereft of all material opulences, he is fixed in his devotional service."
 }
 ---

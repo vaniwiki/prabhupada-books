@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.4.15",
+    "h1":"SB 4.4.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.4.15",
     "description":"You are envious of Lord Śiva, who is the friend of all living entities within the three worlds. For the common man he fulfills all desires, and because of their engagement in thinking of his lotus feet, he also blesses higher personalities who are seeking after brahmānanda [transcendental bliss]."
 }
 ---

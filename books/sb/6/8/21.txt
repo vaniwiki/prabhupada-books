@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.8.21",
+    "h1":"SB 6.8.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.8.21",
     "description":"May Lord Madhusūdana, who carries a bow very fearful for the demons, protect me during the fifth part of the day. In the evening, may Lord Mādhava, appearing as Brahmā, Viṣṇu and Maheśvara, protect me, and in the beginning of night may Lord Hṛṣīkeśa protect me. At the dead of night [in the second and third parts of night] may Lord Padmanābha alone protect me."
 }
 ---

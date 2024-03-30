@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 10.6.14",
+    "h1":"SB 10.6.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 10.6.14",
     "description":"O King Parīkṣit, when the gigantic body of Pūtanā fell to the ground, it smashed all the trees within a limit of twelve miles. Appearing in a gigantic body, she was certainly extraordinary."
 }
 ---

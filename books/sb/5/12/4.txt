@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.12.4",
+    "h1":"SB 5.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.12.4",
     "description":"O master of yogic power, you said that fatigue resulting from moving the body here and there is appreciated by direct perception, but actually there is no fatigue. It simply exists as a matter of formality. By such inquiries and answers, no one can come to the conclusion of the Absolute Truth. Because of your presentation of this statement, my mind is a little disturbed."
 }
 ---

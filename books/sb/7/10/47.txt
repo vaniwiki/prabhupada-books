@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 7.10.47",
+    "h1":"SB 7.10.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 7.10.47",
     "description":"Prahlāda Mahārāja was the best among exalted devotees. Anyone who with great attention hears this narration concerning the activities of Prahlāda Mahārāja, the killing of Hiraṇyakaśipu, and the activities of the Supreme Personality of Godhead, Nṛsiṁhadeva, surely reaches the spiritual world, where there is no anxiety."
 }
 ---

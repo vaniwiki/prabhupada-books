@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.5.3",
+    "h1":"SB 8.5.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.5.3",
     "description":"O King, in the millennium of Raivata Manu the King of heaven was known as Vibhu, among the demigods were the Bhūtarayas, and among the seven brāhmaṇas who occupied the seven planets were Hiraṇyaromā, Vedaśirā and Ūrdhvabāhu."
 }
 ---

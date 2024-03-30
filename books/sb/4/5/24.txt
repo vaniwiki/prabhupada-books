@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.5.24",
+    "h1":"SB 4.5.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.5.24",
     "description":"Then Vīrabhadra saw the wooden device in the sacrificial arena by which the animals were to have been killed. He took the opportunity of this facility to behead Dakṣa."
 }
 ---

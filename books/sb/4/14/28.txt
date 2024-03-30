@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.14.28",
+    "h1":"SB 4.14.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.14.28",
     "description":"King Vena continued: For this reason, O brāhmaṇas, you should abandon your envy of me, and, by your ritualistic activities, you should worship me and offer me all paraphernalia. If you are intelligent, you should know that there is no personality superior to me, who can accept the first oblations of all sacrifices."
 }
 ---

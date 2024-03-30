@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 4.19.23",
+    "h1":"SB 4.19.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 4.19.23",
     "description":"Whatever different forms Indra assumed as a mendicant because of his desire to seize the horse were symbols of atheistic philosophy."
 }
 ---

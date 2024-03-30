@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 7.5.33",
+    "h1":"SB 7.5.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 7.5.33",
     "description":"After Prahlāda Mahārāja had spoken in this way and become silent, Hiraṇyakaśipu, blinded by anger, threw him off his lap and onto the ground."
 }
 ---

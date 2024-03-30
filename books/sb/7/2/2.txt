@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 7.2.2",
+    "h1":"SB 7.2.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 7.2.2",
     "description":"Filled with rage and biting his lips, Hiraṇyakaśipu gazed at the sky with eyes that blazed in anger, making the whole sky smoky. Thus he began to speak."
 }
 ---

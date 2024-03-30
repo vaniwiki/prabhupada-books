@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 6.17.16",
+    "h1":"SB 6.17.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 6.17.16",
     "description":"Śrī Śukadeva Gosvāmī continued: My dear King Parīkṣit, when Citraketu was cursed by Pārvatī, he descended from his airplane, bowed before her with great humility and pleased her completely."
 }
 ---

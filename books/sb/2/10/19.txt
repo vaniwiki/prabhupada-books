@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 2.10.19",
+    "h1":"SB 2.10.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 2.10.19",
     "description":"When the Supreme desired to speak, speeches were vibrated from the mouth. Then the controlling deity Fire was generated from the mouth. But when He was lying in the water, all these functions remained suspended."
 }
 ---

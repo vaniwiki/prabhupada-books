@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.10.16",
+    "h1":"SB 4.10.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.10.16",
     "description":"Dhruva Mahārāja's bow and arrows twanged and hissed, causing lamentation in the hearts of his enemies. He began to shoot incessant arrows, shattering all their different weapons, just as the blasting wind scatters the assembled clouds in the sky."
 }
 ---

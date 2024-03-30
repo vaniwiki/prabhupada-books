@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.1.12",
+    "h1":"SB 8.1.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.1.12",
     "description":"The Supreme Personality of Godhead has no beginning, no end and no middle. Nor does He belong to a particular person or nation. He has no inside or outside. The dualities found within this material world, such as beginning and end, mine and theirs, are all absent from the personality of the Supreme Lord. The universe, which emanates from Him, is another feature of the Lord. Therefore the Supreme Lord is the ultimate truth, and He is complete in greatness."
 }
 ---

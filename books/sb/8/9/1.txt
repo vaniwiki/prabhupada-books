@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.9.1",
+    "h1":"SB 8.9.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.9.1",
     "description":"Śukadeva Gosvāmī said: Thereafter, the demons became inimical toward one another. Throwing and snatching the container of nectar, they gave up their friendly relationship. Meanwhile, they saw a very beautiful young woman coming forward toward them."
 }
 ---

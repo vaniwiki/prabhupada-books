@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.26.18",
+    "h1":"SB 4.26.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.26.18",
     "description":"The great sage Nārada continued: My dear King Prācīnabarhi, as soon as King Purañjana saw his Queen lying on the ground, appearing like a mendicant, he immediately became bewildered."
 }
 ---

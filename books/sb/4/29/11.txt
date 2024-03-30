@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.29.11",
+    "h1":"SB 4.29.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.29.11",
     "description":"The two doors named Nalinī and Nālinī should be known as the two nostrils, and the city named Saurabha represents aroma. The companion spoken of as Avadhūta is the sense of smell. The door called Mukhyā is the mouth, and Vipaṇa is the faculty of speech. Rasajña is the sense of taste."
 }
 ---

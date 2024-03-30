@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.9.42",
+    "h1":"SB 6.9.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.9.42",
     "description":"O Lord, as the small sparks of a fire cannot possibly perform the actions of the whole fire, we sparks of Your Lordship cannot inform You of the necessities of our lives. You are the complete whole. Therefore, of what do we need to inform You? You know everything because You are the original cause of the cosmic manifestation, the maintainer and the annihilator of the entire universal creation. You always engage in Your pastimes with Your spiritual and material energies, for You are the controller of all these varied energies. You exist within all living entities, within the cosmic manifestation, and also beyond them. You exist internally as Parabrahman and externally as the ingredients of the material creation. Therefore, although manifested in various stages, at different times and places, and in various bodies, You, the Personality of Godhead, are the original cause of all causes. Indeed, You are the original element. You are the witness of all activities, but because You are as great as the sky, You are never touched by any of them. You are the witness of everything as Parabrahman and Paramātmā. O Supreme Personality of Godhead, nothing is unknown to You."
 }
 ---

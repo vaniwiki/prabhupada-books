@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.24.2",
+    "h1":"SB 3.24.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.24.2",
     "description":"The sage said: Do not be disappointed with yourself, O princess. You are actually praiseworthy. The infallible Supreme Personality of Godhead will shortly enter your womb as your son."
 }
 ---

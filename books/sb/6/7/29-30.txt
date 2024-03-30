@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.29-30",
-    "h1":"Text 29-30",
-    "title":" Śrīmad Bhāgavatam 6.7.29-30",
+    "h1":"SB 6.7.29-30",
+    "label":"Text 29-30",
+    "title":"Śrīmad Bhāgavatam 6.7.29-30",
     "description":"The ācārya, the spiritual master who teaches all the Vedic knowledge and gives initiation by offering the sacred thread, is the personification of all the Vedas. Similarly, a father personifies Lord Brahmā; a brother, King Indra; a mother, the planet earth; and a sister, mercy. A guest personifies religious principles, an invited guest personifies the demigod Agni, and all living entities personify Lord Viṣṇu, the Supreme Personality of Godhead."
 }
 ---

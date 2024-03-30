@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.25.19",
+    "h1":"SB 3.25.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.25.19",
     "description":"Perfection in self-realization cannot be attained by any kind of yogī unless he engages in devotional service to the Supreme Personality of Godhead, for that is the only auspicious path."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.72",
-    "h1":"Text 72",
-    "title":" Śrīmad Bhāgavatam 4.24.72",
+    "h1":"SB 4.24.72",
+    "label":"Text 72",
+    "title":"Śrīmad Bhāgavatam 4.24.72",
     "description":"This prayer was first spoken to us by Lord Brahmā, the master of all creators. The creators, headed by Bhṛgu, were instructed in these prayers because they wanted to create."
 }
 ---

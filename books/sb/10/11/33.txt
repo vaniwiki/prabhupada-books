@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.11.33",
+    "h1":"SB 10.11.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.11.33",
     "description":"The cowherd women, riding on the bullock carts, were dressed very nicely with excellent garments, and their bodies, especially their breasts, were decorated with fresh kuṅkuma powder. As they rode, they began to chant with great pleasure the pastimes of Kṛṣṇa."
 }
 ---

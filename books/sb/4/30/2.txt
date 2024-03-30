@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.30.2",
+    "h1":"SB 4.30.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.30.2",
     "description":"My dear Bārhaspatya, what did the sons of King Barhiṣat, known as the Pracetās, obtain after meeting Lord Śiva, who is very dear to the Supreme Personality of Godhead, the bestower of liberation? Certainly they were transferred to the spiritual world, but apart from that, what did they obtain within this material world, either in this life or in other lives?"
 }
 ---

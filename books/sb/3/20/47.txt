@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 3.20.47",
+    "h1":"SB 3.20.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 3.20.47",
     "description":"Once Brahmā lay down with his body stretched at full length. He was very concerned that the work of creation had not proceeded apace, and in a sullen mood he gave up that body too."
 }
 ---

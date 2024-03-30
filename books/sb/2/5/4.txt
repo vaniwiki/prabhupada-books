@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 2.5.4",
+    "h1":"SB 2.5.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 2.5.4",
     "description":"My dear father, what is the source of your knowledge? Under whose protection are you standing? And under whom are you working? What is your real position? Do you alone create all entities with material elements by your personal energy?"
 }
 ---

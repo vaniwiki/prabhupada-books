@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.4.11",
+    "h1":"SB 3.4.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.4.11",
     "description":"O Vasu, I know from within your mind what you desired in the days of yore when the Vasus and other demigods responsible for expanding the universal affairs performed sacrifices. You particularly desired to achieve My association. This is very difficult to obtain for others, but I award it unto you."
 }
 ---

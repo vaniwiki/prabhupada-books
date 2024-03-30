@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.8.30",
+    "h1":"SB 6.8.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.8.30",
     "description":"May the Supreme Personality of Godhead's holy names, His transcendental forms, His carriers and all the weapons decorating Him as personal associates protect our intelligence, senses, mind and life air from all dangers."
 }
 ---

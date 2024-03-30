@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.4.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.4.13",
+    "h1":"SB 8.4.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.4.13",
     "description":"Upon delivering the King of the elephants from the clutches of the crocodile, and from material existence, which resembles a crocodile, the Lord awarded him the status of sārūpya-mukti. In the presence of the Gandharvas, the Siddhas and the other demigods, who were praising the Lord for His wonderful transcendental activities, the Lord, sitting on the back of His carrier, Garuḍa, returned to His all-wonderful abode and took Gajendra with Him."
 }
 ---

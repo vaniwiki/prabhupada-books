@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 7.11.3",
+    "h1":"SB 7.11.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 7.11.3",
     "description":"O best of the brāhmaṇas, you are directly the son of Prajāpati [Lord Brahmā]. Because of your austerities, mystic yoga and trance, you are considered the best of all of Lord Brahmā's sons."
 }
 ---

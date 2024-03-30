@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 9.9.44",
+    "h1":"SB 9.9.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 9.9.44",
     "description":"I was never attracted, even in my childhood, by insignificant things or irreligious principles. I did not find anything more substantial than the Supreme Personality of Godhead."
 }
 ---

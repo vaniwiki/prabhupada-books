@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.22.41",
+    "h1":"SB 4.22.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.22.41",
     "description":"The great sage Maitreya continued: Being thus enlightened in complete spiritual knowledge by the son of Brahmā—one of the Kumāras, who was complete in spiritual knowledge—the King worshiped them in the following words."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.22.2",
+    "h1":"SB 8.22.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.22.2",
     "description":"Bali Mahārāja said: O best Personality of Godhead, most worshipable for all the demigods, if You think that my promise has become false, I shall certainly rectify matters to make it truthful. I cannot allow my promise to be false. Please, therefore, place Your third lotus footstep on my head."
 }
 ---

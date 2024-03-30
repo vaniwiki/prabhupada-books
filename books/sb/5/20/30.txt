@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 5.20.30",
+    "h1":"SB 5.20.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 5.20.30",
     "description":"In the middle of that island is a great mountain named Mānasottara, which forms the boundary between the inner side and the outer side of the island. Its breadth and height are 10,000 yojanas [80,000 miles]. On that mountain, in the four directions, are the residential quarters of demigods such as Indra. In the chariot of the sun-god, the sun travels on the top of the mountain in an orbit called the Saṁvatsara, encircling Mount Meru. The sun's path on the northern side is called Uttarāyaṇa, and its path on the southern side is called Dakṣiṇāyana. One side represents a day for the demigods, and the other represents their night."
 }
 ---

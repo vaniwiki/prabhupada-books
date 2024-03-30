@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.7.33",
+    "h1":"SB 10.7.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.7.33",
     "description":"Having seen all these incidents in Bṛhadvana, Nanda Mahārāja became more and more astonished, and he remembered the words spoken to him by Vasudeva in Mathurā."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 8.5.49",
+    "h1":"SB 8.5.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 8.5.49",
     "description":"When one pours water on the root of a tree, the trunk and branches of the tree are automatically pleased. Similarly, when one becomes a devotee of Lord Viṣṇu, everyone is served, for the Lord is the Supersoul of everyone."
 }
 ---

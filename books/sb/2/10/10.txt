@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 2.10.10",
+    "h1":"SB 2.10.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 2.10.10",
     "description":"After separating the different universes, the gigantic universal form of the Lord [Mahā-Viṣṇu], which came out of the causal ocean, the place of appearance for the first puruṣa-avatāra, entered into each of the separate universes, desiring to lie on the created transcendental water [Garbhodaka]."
 }
 ---

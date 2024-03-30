@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.13.38",
+    "h1":"SB 4.13.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.13.38",
     "description":"Although the Queen had no son, after eating that food, which had the power to produce a male child, she became pregnant by her husband, and in due course of time she gave birth to a son."
 }
 ---

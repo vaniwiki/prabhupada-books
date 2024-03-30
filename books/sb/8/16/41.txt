@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 8.16.41",
+    "h1":"SB 8.16.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 8.16.41",
     "description":"One should offer all the prasāda to a Vaiṣṇava or offer him some of the prasāda and then take some oneself. After this, one should offer the Deity ācamana and then betel nut and then again worship the Lord."
 }
 ---

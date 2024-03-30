@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.8.27",
+    "h1":"SB 3.8.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.8.27",
     "description":"He also acknowledged the service of the devotees and vanquished their distress by His beautiful smile. The reflection of His face, decorated with earrings, was so pleasing because it dazzled with the rays from His lips and the beauty of His nose and eyebrows."
 }
 ---

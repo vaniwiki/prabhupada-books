@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 10.6.19",
+    "h1":"SB 10.6.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 10.6.19",
     "description":"Thereafter, mother Yaśodā and Rohiṇī, along with the other elderly gopīs, waved about the switch of a cow to give full protection to the child Śrī Kṛṣṇa."
 }
 ---

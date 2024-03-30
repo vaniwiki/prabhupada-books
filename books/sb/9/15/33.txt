@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.15.33",
+    "h1":"SB 9.15.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.15.33",
     "description":"Then Kārtavīryārjuna, with his one thousand arms, simultaneously fixed arrows on five hundred bows to kill Lord Paraśurāma. But Lord Paraśurāma, the best of fighters, released enough arrows with only one bow to cut to pieces immediately all the arrows and bows in the hands of Kārtavīryārjuna."
 }
 ---

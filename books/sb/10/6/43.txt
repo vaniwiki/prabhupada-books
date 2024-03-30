@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 10.6.43",
+    "h1":"SB 10.6.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 10.6.43",
     "description":"O Mahārāja Parīkṣit, best of the Kurus, Nanda Mahārāja was very liberal and simple. He immediately took his son Kṛṣṇa on his lap as if Kṛṣṇa had returned from death, and by formally smelling his son's head, Nanda Mahārāja undoubtedly enjoyed transcendental bliss."
 }
 ---

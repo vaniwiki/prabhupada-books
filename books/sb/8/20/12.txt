@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.20.12",
+    "h1":"SB 8.20.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.20.12",
     "description":"Although He is Viṣṇu Himself, out of fear He has covered Himself in the form of a brāhmaṇa to come to me begging. Under the circumstances, because He has assumed the form of a brāhmaṇa, even if He irreligiously arrests me or even kills me, I shall not retaliate, although He is my enemy."
 }
 ---

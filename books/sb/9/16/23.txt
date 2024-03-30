@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.16.23",
+    "h1":"SB 9.16.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.16.23",
     "description":"Thereafter, having completed the ritualistic sacrificial ceremonies, Lord Paraśurāma took the bath known as the avabhṛtha-snāna. Standing on the bank of the great river Sarasvatī, cleared of all sins, Lord Paraśurāma appeared like the sun in a clear, cloudless sky."
 }
 ---

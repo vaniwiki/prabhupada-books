@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 2.7.24",
+    "h1":"SB 2.7.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 2.7.24",
     "description":"The Personality of Godhead Rāmacandra, being aggrieved for His distant intimate friend [Sītā], glanced over the city of the enemy Rāvaṇa with red-hot eyes like those of Hara [who wanted to burn the kingdom of heaven]. The great ocean, trembling in fear, gave Him His way because its family members, the aquatics like the sharks, snakes and crocodiles, were being burnt by the heat of the angry red-hot eyes of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.16.29",
+    "h1":"SB 3.16.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.16.29",
     "description":"The Lord then said to His attendants, Jaya and Vijaya: Depart this place, but fear not. All glories unto you. Though I am capable of nullifying the brāhmaṇas' curse, I would not do so. On the contrary, it has My approval."
 }
 ---

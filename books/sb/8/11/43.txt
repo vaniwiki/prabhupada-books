@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 8.11.43",
+    "h1":"SB 8.11.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 8.11.43",
     "description":"O King, when Lord Brahmā saw the imminent total annihilation of the demons, he sent a message with Nārada, who went before the demigods to make them stop fighting."
 }
 ---

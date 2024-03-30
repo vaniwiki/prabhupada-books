@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.11.5",
+    "h1":"SB 3.11.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.11.5",
     "description":"The division of gross time is calculated as follows: two atoms make one double atom, and three double atoms make one hexatom. This hexatom is visible in the sunshine which enters through the holes of a window screen. One can clearly see that the hexatom goes up towards the sky."
 }
 ---

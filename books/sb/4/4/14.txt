@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.4.14",
+    "h1":"SB 4.4.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.4.14",
     "description":"Satī continued: My dear father, you are committing the greatest offense by envying Lord Śiva, whose very name, consisting of two syllables, śi and va, purifies one of all sinful activities. His order is never neglected. Lord Śiva is always pure, and no one but you envies him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 6.2.41",
+    "h1":"SB 6.2.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 6.2.41",
     "description":"Ajāmila fully engaged in devotional service. Thus he detached his mind from the process of sense gratification and became fully absorbed in thinking of the form of the Lord."
 }
 ---

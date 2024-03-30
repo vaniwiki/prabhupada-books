@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 9.9.4",
+    "h1":"SB 9.9.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 9.9.4",
     "description":"Mother Ganges replied: When I fall from the sky to the surface of the planet earth, the water will certainly be very forceful. Who will sustain that force? If I am not sustained, I shall pierce the surface of the earth and go down to Rasātala, the Pātāla area of the universe."
 }
 ---

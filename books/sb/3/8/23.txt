@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.8.23",
+    "h1":"SB 3.8.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.8.23",
     "description":"Brahmā could see that on the water there was a gigantic lotuslike white bedstead, the body of Śeṣa-nāga, on which the Personality of Godhead was lying alone. The whole atmosphere was illuminated by the rays of the jewels bedecking the hood of Śeṣa-nāga, and that illumination dissipated all the darkness of those regions."
 }
 ---

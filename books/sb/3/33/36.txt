@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.33.36",
+    "h1":"SB 3.33.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.33.36",
     "description":"My dear son, since you have inquired from me, I have answered. O sinless one, the descriptions of Kapiladeva and His mother and their activities are the purest of all pure discourses."
 }
 ---

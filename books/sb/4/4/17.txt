@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.4.17",
+    "h1":"SB 4.4.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.4.17",
     "description":"Satī continued: If one hears an irresponsible person blaspheme the master and controller of religion, one should block his ears and go away if unable to punish him. But if one is able to kill, then one should by force cut out the blasphemer's tongue and kill the offender, and after that one should give up his own life."
 }
 ---

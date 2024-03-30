@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.25.21",
+    "h1":"SB 4.25.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.25.21",
     "description":"The woman was protected on all sides by a five-hooded snake. She was very beautiful and young, and she appeared very anxious to find a suitable husband."
 }
 ---

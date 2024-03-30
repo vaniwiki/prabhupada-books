@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.6.3",
+    "h1":"SB 6.6.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.6.3",
     "description":"Now please hear from me the names of all these daughters and their descendants, who filled all the three worlds."
 }
 ---

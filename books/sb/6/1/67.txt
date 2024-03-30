@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 6.1.67",
+    "h1":"SB 6.1.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 6.1.67",
     "description":"This brāhmaṇa irresponsibly spent his long lifetime transgressing all the rules and regulations of the holy scripture, living extravagantly and eating food prepared by a prostitute. Therefore he is full of sins. He is unclean and is addicted to forbidden activities."
 }
 ---

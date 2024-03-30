@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.15.3",
+    "h1":"SB 8.15.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.15.3",
     "description":"Śukadeva Gosvāmī said: O King, when Bali Mahārāja lost all his opulence and died in the fight, Śukrācārya, a descendant of Bhṛgu Muni, brought him back to life. Because of this, the great soul Bali Mahārāja became a disciple of Śukrācārya and began to serve him with great faith, offering everything he had."
 }
 ---

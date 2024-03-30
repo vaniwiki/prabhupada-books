@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 6.4.13",
+    "h1":"SB 6.4.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 6.4.13",
     "description":"The Supreme Personality of Godhead is situated as the Supersoul within the cores of the hearts of all living entities, whether moving or nonmoving, including men, birds, animals, trees and, indeed, all living entities. Therefore you should consider every body a residence or temple of the Lord. By such vision you will satisfy the Lord. You should not angrily kill these living entities in the forms of trees."
 }
 ---

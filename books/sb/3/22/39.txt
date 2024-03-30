@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.22.39",
+    "h1":"SB 3.22.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.22.39",
     "description":"I have spoken to you of the wonderful character of Svāyambhuva Manu, the original king, whose reputation is worthy of description. Please hear as I speak of the flourishing of his daughter Devahūti."
 }
 ---

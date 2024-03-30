@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.21.8",
+    "h1":"SB 8.21.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.21.8",
     "description":"Jāmbavān, king of the bears, also joined in the ceremony. Sounding his bugle in all directions, he declared a great festival for Lord Vāmanadeva's victory."
 }
 ---

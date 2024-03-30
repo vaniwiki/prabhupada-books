@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.54-55",
-    "h1":"Text 54-55",
-    "title":" Śrīmad Bhāgavatam 7.10.54-55",
+    "h1":"SB 7.10.54-55",
+    "label":"Text 54-55",
+    "title":"Śrīmad Bhāgavatam 7.10.54-55",
     "description":"Maya Dānava, the great leader of the demons, prepared three invisible residences and gave them to the demons. These dwellings resembled airplanes made of gold, silver and iron, and they contained uncommon paraphernalia. My dear King Yudhiṣṭhira, because of these three dwellings the commanders of the demons remained invisible to the demigods. Taking advantage of this opportunity, the demons, remembering their former enmity, began to vanquish the three worlds—the upper, middle and lower planetary systems."
 }
 ---

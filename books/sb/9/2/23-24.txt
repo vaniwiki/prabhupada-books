@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.23-24",
-    "h1":"Text 23-24",
-    "title":" Śrīmad Bhāgavatam 9.2.23-24",
+    "h1":"SB 9.2.23-24",
+    "label":"Text 23-24",
+    "title":"Śrīmad Bhāgavatam 9.2.23-24",
     "description":"Diṣṭa had a son by the name Nābhāga. This Nābhāga, who was different from the Nābhāga described later, became a vaiśya by occupational duty. The son of Nābhāga was known as Bhalandana, the son of Bhalandana was Vatsaprīti, and his son was Prāṁśu. Prāṁśu's son was Pramati, Pramati's son was Khanitra, Khanitra's son was Cākṣuṣa, and his son was Viviṁśati."
 }
 ---

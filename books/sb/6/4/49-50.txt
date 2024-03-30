@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.49-50",
-    "h1":"Text 49-50",
-    "title":" Śrīmad Bhāgavatam 6.4.49-50",
+    "h1":"SB 6.4.49-50",
+    "label":"Text 49-50",
+    "title":"Śrīmad Bhāgavatam 6.4.49-50",
     "description":"When the chief lord of the universe, Lord Brahmā [Svayambhū], having been inspired by My energy, was attempting to create, he thought himself incapable. Therefore I gave him advice, and in accordance with My instructions he underwent extremely difficult austerities. Because of these austerities, the great Lord Brahmā was able to create nine personalities, including you, to help him in the functions of creation."
 }
 ---

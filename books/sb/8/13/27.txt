@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.13.27",
+    "h1":"SB 8.13.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.13.27",
     "description":"O King, the twelfth Manu will be named Rudra-sāvarṇi. Devavān, Upadeva and Devaśreṣṭha will be among his sons."
 }
 ---

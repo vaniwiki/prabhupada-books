@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 6.6.5",
+    "h1":"SB 6.6.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 6.6.5",
     "description":"O King, a son named Deva-ṛṣabha was born from the womb of Bhānu, and from him came a son named Indrasena. From the womb of Lambā came a son named Vidyota, who generated all the clouds."
 }
 ---

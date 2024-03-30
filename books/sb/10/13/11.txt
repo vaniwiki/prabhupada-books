@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 10.13.11",
+    "h1":"SB 10.13.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 10.13.11",
     "description":"Kṛṣṇa is yajña-bhuk—that is, He eats only offerings of yajña—but to exhibit His childhood pastimes, He now sat with His flute tucked between His waist and His tight cloth on His right side and with His horn bugle and cow-driving stick on His left. Holding in His hand a very nice preparation of yogurt and rice, with pieces of suitable fruit between His fingers, He sat like the whorl of a lotus flower, looking forward toward all His friends, personally joking with them and creating jubilant laughter among them as He ate. At that time, the denizens of heaven were watching, struck with wonder at how the Personality of Godhead, who eats only in yajña, was now eating with His friends in the forest."
 }
 ---

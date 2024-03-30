@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.6.14",
+    "h1":"SB 7.6.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.6.14",
     "description":"One who is too attached cannot understand that he is wasting his valuable life for the maintenance of his family. He also fails to understand that the purpose of human life, a life suitable for realization of the Absolute Truth, is being imperceptibly spoiled. However, he is very cleverly attentive to seeing that not a single farthing is lost by mismanagement. Thus although an attached person in material existence always suffers from threefold miseries, he does not develop a distaste for the way of material existence."
 }
 ---

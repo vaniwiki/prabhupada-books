@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.15.6",
+    "h1":"SB 3.15.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.15.6",
     "description":"O lord, all these planets exist within your self, and all the living entities are generated from you. Therefore you are the cause of this universe, and anyone who meditates upon you without deviation attains devotional service."
 }
 ---

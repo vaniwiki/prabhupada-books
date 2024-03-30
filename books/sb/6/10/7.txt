@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 6.10.7",
+    "h1":"SB 6.10.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 6.10.7",
     "description":"The great sage Dadhīci said: Just to hear from you about religious principles, I refused to offer my body at your request. Now, although my body is extremely dear to me, I must give it up for your better purposes since I know that it will leave me today or tomorrow."
 }
 ---

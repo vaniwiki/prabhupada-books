@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 5.3.20",
+    "h1":"SB 5.3.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 5.3.20",
     "description":"O Viṣṇudatta, Parīkṣit Mahārāja, the Supreme Personality of Godhead was pleased by the great sages at that sacrifice. Consequently the Lord decided to personally exhibit the method of executing religious principles [as observed by brahmacārīs, sannyāsīs, vānaprasthas and gṛhasthas engaged in rituals] and also satisfy Mahārāja Nābhi's desire. Consequently He appeared as the son of Merudevī in His original spiritual form, which is above the modes of material nature."
 }
 ---

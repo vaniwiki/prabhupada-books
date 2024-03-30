@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.1.8",
+    "h1":"SB 7.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.1.8",
     "description":"When the quality of goodness is prominent, the sages and demigods flourish with the help of that quality, with which they are infused and surcharged by the Supreme Lord. Similarly, when the mode of passion is prominent the demons flourish, and when ignorance is prominent the Yakṣas and Rākṣasas flourish. The Supreme Personality of Godhead is present in everyone's heart, fostering the reactions of sattva-guṇa, rajo-guṇa and tamo-guṇa."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.10.3",
+    "h1":"SB 6.10.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.10.3",
     "description":"O elevated demigods, at the time of death, severe, unbearable pain takes away the consciousness of all living entities who have accepted material bodies. Don't you know about this pain?"
 }
 ---

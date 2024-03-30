@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.7.16",
+    "h1":"SB 3.7.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.7.16",
     "description":"O learned sage, your explanations are very good, as they should be. Disturbances to the conditioned soul have no other basis than the movement of the external energy of the Lord."
 }
 ---

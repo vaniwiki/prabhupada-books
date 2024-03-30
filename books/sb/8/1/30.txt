@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.1.30",
+    "h1":"SB 8.1.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.1.30",
     "description":"Also in this manvantara, the Supreme Lord, Viṣṇu, took birth from the womb of Hariṇī, the wife of Harimedhā, and He was known as Hari. Hari saved His devotee Gajendra, the King of the elephants, from the mouth of a crocodile."
 }
 ---

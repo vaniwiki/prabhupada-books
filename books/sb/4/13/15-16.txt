@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.15-16",
-    "h1":"Text 15-16",
-    "title":" Śrīmad Bhāgavatam 4.13.15-16",
+    "h1":"SB 4.13.15-16",
+    "label":"Text 15-16",
+    "title":"Śrīmad Bhāgavatam 4.13.15-16",
     "description":"Sarvatejā's wife, Ākūti, gave birth to a son named Cākṣuṣa, who became the sixth Manu at the end of the Manu millennium. Naḍvalā, the wife of Cākṣuṣa Manu, gave birth to the following faultless sons: Puru, Kutsa, Trita, Dyumna, Satyavān, Ṛta, Vrata, Agniṣṭoma, Atīrātra, Pradyumna, Śibi and Ulmuka."
 }
 ---

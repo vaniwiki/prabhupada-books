@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.24.44",
+    "h1":"SB 3.24.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.24.44",
     "description":"Thus he gradually became unaffected by the false ego of material identity and became free from material affection. Undisturbed, equal to everyone and without duality, he could indeed see himself also. His mind was turned inward and was perfectly calm, like an ocean unagitated by waves."
 }
 ---

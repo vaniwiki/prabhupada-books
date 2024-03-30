@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 8.24.47",
+    "h1":"SB 8.24.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 8.24.47",
     "description":"In hopes of becoming happy in this material world, the foolish conditioned soul performs fruitive activities that result only in suffering. But by rendering service to the Supreme Personality of Godhead, one becomes free from such false desires for happiness. May my supreme spiritual master cut the knot of false desires from the core of my heart."
 }
 ---

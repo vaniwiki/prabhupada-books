@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.23.6",
+    "h1":"SB 4.23.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.23.6",
     "description":"Following the principles of forest living and the footsteps of the great sages and munis, Pṛthu Mahārāja accepted five kinds of heating processes during the summer season, exposed himself to torrents of rain in the rainy season and, in the winter, stood in water up to his neck. He also used to simply lie down on the floor to sleep."
 }
 ---

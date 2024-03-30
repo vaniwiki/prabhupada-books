@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 4.24.39",
+    "h1":"SB 4.24.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 4.24.39",
     "description":"My dear Lord, You are the gigantic universal form which contains all the individual bodies of the living entities. You are the maintainer of the three worlds, and as such You maintain the mind, senses, body, and air of life within them. I therefore offer my respectful obeisances unto You."
 }
 ---

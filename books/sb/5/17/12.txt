@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 5.17.12",
+    "h1":"SB 5.17.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 5.17.12",
     "description":"In these eight varṣas, or tracts of land, human beings live ten thousand years according to earthly calculations. All the inhabitants are almost like demigods. They have the bodily strength of ten thousand elephants. Indeed, their bodies are as sturdy as thunderbolts. The youthful duration of their lives is very pleasing, and both men and women enjoy sexual union with great pleasure for a long time. After years of sensual pleasure—when a balance of one year of life remains—the wife conceives a child. Thus the standard of pleasure for the residents of these heavenly regions is exactly like that of the human beings who lived during Tretā-yuga."
 }
 ---

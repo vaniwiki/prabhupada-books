@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.30.14",
+    "h1":"SB 4.30.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.30.14",
     "description":"Thereafter the child, who was left to the care of the trees, began to cry in hunger. At that time the king of the forest, namely the king of the moon planet, out of compassion placed his finger, which poured forth nectar, within the child's mouth. Thus the child was raised by the mercy of the king of the moon."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 6.14.46",
+    "h1":"SB 6.14.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 6.14.46",
     "description":"When the maidservant approached the child, who was lying down, she saw that his eyes were turned upward. There were no signs of life, all his senses having stopped, and she could understand that the child was dead. Seeing this, she immediately cried, \"Now I am doomed,\" and fell to the ground."
 }
 ---

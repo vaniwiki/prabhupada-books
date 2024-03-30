@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.19.11",
+    "h1":"SB 3.19.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.19.11",
     "description":"When the Lord saw the mace flying toward Him, He stood firmly where He was and caught it with the same ease as Garuḍa, the king of birds, would seize a serpent."
 }
 ---

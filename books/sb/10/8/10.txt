@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 10.8.10",
+    "h1":"SB 10.8.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 10.8.10",
     "description":"Nanda Mahārāja said: My dear great sage, if you think that your performing this process of purification will make Kaṁsa suspicious, then secretly chant the Vedic hymns and perform the purifying process of second birth here in the cow shed of my house, without the knowledge of anyone else, even my relatives, for this process of purification is essential."
 }
 ---

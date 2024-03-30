@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 2.1.13",
+    "h1":"SB 2.1.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 2.1.13",
     "description":"The saintly King Khaṭvāṅga, after being informed that the duration of his life would be only a moment more, at once freed himself from all material activities and took shelter of the supreme safety, the Personality of Godhead."
 }
 ---

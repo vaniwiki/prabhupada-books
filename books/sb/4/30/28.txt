@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.30.28",
+    "h1":"SB 4.30.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.30.28",
     "description":"Dear Lord, You are the killer of all inauspicious things. You are compassionate upon Your poor devotees through the expansion of Your arcā-vigraha. You should certainly think of us as Your eternal servants."
 }
 ---

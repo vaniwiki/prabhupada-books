@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.18.5",
+    "h1":"SB 4.18.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.18.5",
     "description":"A foolish person who manufactures his own ways and means through mental speculation and does not recognize the authority of the sages who lay down unimpeachable directions is simply unsuccessful again and again in his attempts."
 }
 ---

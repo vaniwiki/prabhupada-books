@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.22.21",
+    "h1":"SB 4.22.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.22.21",
     "description":"It has been conclusively decided in the scriptures, after due consideration, that the ultimate goal for the welfare of human society is detachment from the bodily concept of life and increased and steadfast attachment for the Supreme Lord, who is transcendental, beyond the modes of material nature."
 }
 ---

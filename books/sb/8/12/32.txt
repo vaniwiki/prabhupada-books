@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 8.12.32",
+    "h1":"SB 8.12.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 8.12.32",
     "description":"Just as a maddened bull elephant follows a female elephant who is able to conceive pregnancy, Lord Śiva followed the beautiful woman and discharged semen, even though his discharge of semen never goes in vain."
 }
 ---

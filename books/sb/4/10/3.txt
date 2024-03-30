@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.10.3",
+    "h1":"SB 4.10.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.10.3",
     "description":"Dhruva Mahārāja's younger brother Uttama, who was still unmarried, once went on a hunting excursion and was killed by a powerful Yakṣa in the Himalaya Mountains. Along with him, his mother, Suruci, also followed the path of her son [she died]."
 }
 ---

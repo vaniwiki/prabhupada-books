@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.7.21",
+    "h1":"SB 10.7.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.7.21",
     "description":"Covering the whole land of Gokula with particles of dust, that demon, acting as a strong whirlwind, covered everyone's vision and began vibrating everywhere with a greatly fearful sound."
 }
 ---

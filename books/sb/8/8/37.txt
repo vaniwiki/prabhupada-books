@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 8.8.37",
+    "h1":"SB 8.8.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 8.8.37",
     "description":"When the Supreme Personality of Godhead, who always desires to fulfill the ambitions of His devotees, saw that the demigods were morose, He said to them, \"Do not be aggrieved. By My own energy I shall bewilder the demons by creating a quarrel among them. In this way I shall fulfill your desire to have the nectar.\""
 }
 ---

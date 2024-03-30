@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.10.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.10.4",
+    "h1":"SB 5.10.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.10.4",
     "description":"O lord, please note that we are not at all negligent in discharging our duties. We have been faithfully carrying this palanquin according to your desire, but this man who has been recently engaged to work with us cannot walk very swiftly. Therefore we are not able to carry the palanquin with him."
 }
 ---

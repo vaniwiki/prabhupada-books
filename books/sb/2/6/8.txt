@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 2.6.8",
+    "h1":"SB 2.6.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 2.6.8",
     "description":"From the Lord's genitals originate water, semen, generatives, rains, and the procreators. His genitals are the cause of a pleasure that counteracts the distress of begetting."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 9.10.49",
+    "h1":"SB 9.10.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 9.10.49",
     "description":"Lord Rāmacandra, fully bathed and His head clean-shaven, dressed Himself very nicely and was decorated with a garland and ornaments. Thus He shone brightly, surrounded by His brothers and wife, who were similarly dressed and ornamented."
 }
 ---

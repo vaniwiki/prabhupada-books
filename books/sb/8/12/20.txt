@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.12.20",
+    "h1":"SB 8.12.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.12.20",
     "description":"The woman's face was decorated by broad, beautiful, restless eyes, which moved as the ball bounced here and there from Her hand. The two brilliant earrings on Her ears decorated Her shining cheeks like bluish reflections, and the hair scattered on Her face made Her even more beautiful to see."
 }
 ---

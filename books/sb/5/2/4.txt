@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.2.4",
+    "h1":"SB 5.2.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.2.4",
     "description":"The Apsarā sent by Lord Brahmā began strolling in a beautiful park near the place where the King was meditating and worshiping. The park was beautiful because of its dense green foliage and golden creepers. There were pairs of varied birds such as peacocks, and in a lake there were ducks and swans, all vibrating very sweet sounds. Thus the park was magnificently beautiful because of the foliage, the clear water, the lotus flowers and the sweet singing of various kinds of birds."
 }
 ---

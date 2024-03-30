@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 4.28.63",
+    "h1":"SB 4.28.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 4.28.63",
     "description":"As a person sees the reflection of his body in a mirror to be one with himself and not different, whereas others actually see two bodies, so in our material condition, in which the living being is affected and yet not affected, there is a difference between God and the living entity."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.43-45",
-    "h1":"Text 43-45",
-    "title":" Śrīmad Bhāgavatam 2.7.43-45",
+    "h1":"SB 2.7.43-45",
+    "label":"Text 43-45",
+    "title":"Śrīmad Bhāgavatam 2.7.43-45",
     "description":"O Nārada, although the potencies of the Lord are unknowable and immeasurable, still, because we are all surrendered souls, we know how He acts through yogamāyā potencies. And, similarly, the potencies of the Lord are also known to the all-powerful Śiva, the great king of the atheist family, namely Prahlāda Mahārāja, Svāyambhuva Manu, his wife Śatarūpā, his sons and daughters like Priyavrata, Uttānapāda, Ākūti, Devahūti and Prasūti, Prācīnabarhi, Ṛbhu, Aṅga the father of Vena, Mahārāja Dhruva, Ikṣvāku, Aila, Mucukunda, Mahārāja Janaka, Gādhi, Raghu, Ambarīṣa, Sagara, Gaya, Nāhuṣa, Māndhātā, Alarka, Śatadhanve, Anu, Rantideva, Bhīṣma, Bali, Amūrttaraya, Dilīpa, Saubhari, Utaṅka, Śibi, Devala, Pippalāda, Sārasvata, Uddhava, Parāśara, Bhūriṣeṇa, Vibhīṣaṇa, Hanumān, Śukadeva Gosvāmī, Arjuna, Ārṣṭiṣeṇa, Vidura, Śrutadeva, etc."
 }
 ---

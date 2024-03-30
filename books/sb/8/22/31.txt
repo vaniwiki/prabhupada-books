@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.22.31",
+    "h1":"SB 8.22.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.22.31",
     "description":"The Lord continued: Because of his great tolerance, I have given him a place not obtainable even by the demigods. He will become King of the heavenly planets during the period of the Manu known as Sāvarṇi."
 }
 ---

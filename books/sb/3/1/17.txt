@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.1.17",
+    "h1":"SB 3.1.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.1.17",
     "description":"By his piety, Vidura achieved the advantages of the pious Kauravas. After leaving Hastināpura, he took shelter of many places of pilgrimages, which are the Lord's lotus feet. With a desire to gain a high order of pious life, he traveled to holy places where thousands of transcendental forms of the Lord are situated."
 }
 ---

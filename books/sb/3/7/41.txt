@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 3.7.41",
+    "h1":"SB 3.7.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 3.7.41",
     "description":"O spotless one, your answers to all these questions will grant immunity from all material miseries. Such charity is greater than all Vedic charities, sacrifices, penances, etc."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 5.26.37",
+    "h1":"SB 5.26.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 5.26.37",
     "description":"My dear King Parīkṣit, in the province of Yamarāja there are hundreds and thousands of hellish planets. The impious people I have mentioned—and also those I have not mentioned—must all enter these various planets according to the degree of their impiety. Those who are pious, however, enter other planetary systems, namely the planets of the demigods. Nevertheless, both the pious and impious are again brought to earth after the results of their pious or impious acts are exhausted."
 }
 ---

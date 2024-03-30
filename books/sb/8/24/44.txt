@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 8.24.44",
+    "h1":"SB 8.24.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 8.24.44",
     "description":"Then, while the King constantly meditated upon the Supreme Personality of Godhead, a large golden fish appeared in the ocean of inundation. The fish had one horn and was eight million miles long."
 }
 ---

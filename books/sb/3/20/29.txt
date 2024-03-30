@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.20.29",
+    "h1":"SB 3.20.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.20.29",
     "description":"The body given up by Brahmā took the form of the evening twilight, when the day and night meet, a time which kindles passion. The asuras, who are passionate by nature, dominated as they are by the element of rajas, took it for a damsel, whose lotus feet resounded with the tinkling of anklets, whose eyes were wide with intoxication and whose hips were covered by fine cloth, over which shone a girdle."
 }
 ---

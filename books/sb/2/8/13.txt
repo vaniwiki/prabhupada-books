@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 2.8.13",
+    "h1":"SB 2.8.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 2.8.13",
     "description":"O purest of the brāhmaṇas, please also explain the cause of the different durations of time, both short and long, as well as the beginning of time, following the course of action."
 }
 ---

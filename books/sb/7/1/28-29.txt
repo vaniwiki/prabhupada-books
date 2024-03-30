@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.28-29",
-    "h1":"Text 28-29",
-    "title":" Śrīmad Bhāgavatam 7.1.28-29",
+    "h1":"SB 7.1.28-29",
+    "label":"Text 28-29",
+    "title":"Śrīmad Bhāgavatam 7.1.28-29",
     "description":"A grassworm confined in a hole of a wall by a bee always thinks of the bee in fear and enmity and later becomes a bee simply because of such remembrance. Similarly, if the conditioned souls somehow or other think of Kṛṣṇa, who is sac-cid-ānanda-vigraha [Bs. 5.1], they will become free from their sins. Whether thinking of Him as their worshipable Lord or an enemy, because of constantly thinking of Him they will regain their spiritual bodies."
 }
 ---

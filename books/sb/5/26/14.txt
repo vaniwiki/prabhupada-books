@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 5.26.14",
+    "h1":"SB 5.26.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 5.26.14",
     "description":"The killer of a brāhmaṇa is put into the hell known as Kālasūtra, which has a circumference of eighty thousand miles and which is made entirely of copper. Heated from below by fire and from above by the scorching sun, the copper surface of this planet is extremely hot. Thus the murderer of a brāhmaṇa suffers from being burned both internally and externally. Internally he is burning with hunger and thirst, and externally he is burning from the scorching heat of the sun and the fire beneath the copper surface. Therefore he sometimes lies down, sometimes sits, sometimes stands up and sometimes runs here and there. He must suffer in this way for as many thousands of years as there are hairs on the body of an animal."
 }
 ---

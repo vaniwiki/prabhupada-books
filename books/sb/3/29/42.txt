@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.29.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 3.29.42",
+    "h1":"SB 3.29.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 3.29.42",
     "description":"Out of fear of the Supreme Personality of Godhead the rivers flow, and the ocean never overflows. Out of fear of Him only does fire burn and does the earth, with its mountains, not sink in the water of the universe."
 }
 ---

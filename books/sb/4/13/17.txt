@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.13.17",
+    "h1":"SB 4.13.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.13.17",
     "description":"Of the twelve sons, Ulmuka begot six sons in his wife Puṣkariṇī. They were all very good sons, and their names were Aṅga, Sumanā, Khyāti, Kratu, Aṅgirā and Gaya."
 }
 ---

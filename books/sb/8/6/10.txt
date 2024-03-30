@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 8.6.10",
+    "h1":"SB 8.6.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 8.6.10",
     "description":"My dear Lord, who are always fully independent, this entire cosmic manifestation arises from You, rests upon You and ends in You. Your Lordship is the beginning, sustenance and end of everything, like the earth, which is the cause of an earthen pot, which supports the pot, and to which the pot, when broken, finally returns."
 }
 ---

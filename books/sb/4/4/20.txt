@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.4.20",
+    "h1":"SB 4.4.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.4.20",
     "description":"In the Vedas there are directions for two kinds of activities—activities for those who are attached to material enjoyment and activities for those who are materially detached. In consideration of these two kinds of activities, there are two kinds of people, who have different symptoms. If one wants to see two kinds of activities in one person, that is contradictory. But both kinds of activities may be neglected by a person who is transcendentally situated."
 }
 ---

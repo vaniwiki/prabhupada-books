@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 7.1.42",
+    "h1":"SB 7.1.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 7.1.42",
     "description":"Desiring to kill his son Prahlāda, who was a great devotee of Lord Viṣṇu, Hiraṇyakaśipu tortured him in many ways."
 }
 ---

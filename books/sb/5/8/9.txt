@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.8.9",
+    "h1":"SB 5.8.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.8.9",
     "description":"The great King Mahārāja Bharata began to think: Alas, this helpless young deer, by the force of time, an agent of the Supreme Personality of Godhead, has now lost its relatives and friends and has taken shelter of me. It does not know anyone but me, as I have become its father, mother, brother and relatives. This deer is thinking in this way, and it has full faith in me. It does not know anyone but me; therefore I should not be envious and think that for the deer my own welfare will be destroyed. I should certainly raise, protect, gratify and fondle it. When it has taken shelter with me, how can I neglect it? Even though the deer is disturbing my spiritual life, I realize that a helpless person who has taken shelter cannot be neglected. That would be a great fault."
 }
 ---

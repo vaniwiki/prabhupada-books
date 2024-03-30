@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.21-23",
-    "h1":"Text 21-23",
-    "title":" Śrīmad Bhāgavatam 9.24.21-23",
+    "h1":"SB 9.24.21-23",
+    "label":"Text 21-23",
+    "title":"Śrīmad Bhāgavatam 9.24.21-23",
     "description":"Punarvasu had a son and a daughter, named Āhuka and Āhukī respectively, and Āhuka had two sons, named Devaka and Ugrasena. Devaka had four sons, named Devavān, Upadeva, Sudeva and Devavardhana, and he also had seven daughters, named Śāntidevā, Upadevā, Śrīdevā, Devarakṣitā, Sahadevā, Devakī and Dhṛtadevā. Dhṛtadevā was the eldest. Vasudeva, the father of Kṛṣṇa, married all these sisters."
 }
 ---

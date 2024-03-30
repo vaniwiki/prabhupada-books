@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.26.10",
+    "h1":"SB 4.26.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.26.10",
     "description":"In this way King Purañjana killed many animals, including rabbits, boars, buffalo, bison, black deer, porcupines and other game animals. After killing and killing, the King became very tired."
 }
 ---

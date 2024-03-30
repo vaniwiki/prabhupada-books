@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 4.21.50",
+    "h1":"SB 4.21.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 4.21.50",
     "description":"Our dear lord, it is your occupational duty to rule over your citizens. That is not a very wonderful task for a personality like you, who are so affectionate in seeing to the interests of the citizens, because you are full of mercy. That is the greatness of your character."
 }
 ---

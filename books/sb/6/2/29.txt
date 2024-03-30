@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 6.2.29",
+    "h1":"SB 6.2.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 6.2.29",
     "description":"It is now clear that as a consequence of such activities, a sinful person like me must be thrown into hellish conditions meant for those who have broken religious principles and must there suffer extreme miseries."
 }
 ---

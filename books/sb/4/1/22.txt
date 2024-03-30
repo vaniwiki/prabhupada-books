@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.1.22",
+    "h1":"SB 4.1.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.1.22",
     "description":"At that time, the three deities approached the hermitage of Atri Muni, accompanied by the denizens of the heavenly planets, such as the celestial beauties, the Gandharvas, the Siddhas, the Vidyādharas and the Nāgas. Thus they entered the āśrama of the great sage, who had become famous by his austerities."
 }
 ---

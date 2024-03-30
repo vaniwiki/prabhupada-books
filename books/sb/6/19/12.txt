@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.19.12",
+    "h1":"SB 6.19.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.19.12",
     "description":"My Lord, You are the master of energy, and therefore You are the Supreme Person. You are sacrifice [yajña] personified. Lakṣmī, the embodiment of spiritual activities, is the original form of worship offered unto You, whereas You are the enjoyer of all sacrifices."
 }
 ---

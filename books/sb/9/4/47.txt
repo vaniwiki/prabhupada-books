@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 9.4.47",
+    "h1":"SB 9.4.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 9.4.47",
     "description":"Taking a trident in his hand and making the surface of the earth tremble with his footsteps, that blazing creature came before Mahārāja Ambarīṣa. But the King, upon seeing him, was not at all disturbed and did not move even slightly from his position."
 }
 ---

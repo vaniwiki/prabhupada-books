@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 3.26.56",
+    "h1":"SB 3.26.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 3.26.56",
     "description":"Then the universal form of the Lord, the virāṭ-puruṣa, manifested His skin, and thereupon the hair, mustache and beard appeared. After this all the herbs and drugs became manifested, and then His genitals also appeared."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.20.2",
+    "h1":"SB 8.20.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.20.2",
     "description":"Bali Mahārāja said: As you have already stated, the principle of religion that does not hinder one's economic development, sense gratification, fame and means of livelihood is the real occupational duty of the householder. I also think that this religious principle is correct."
 }
 ---

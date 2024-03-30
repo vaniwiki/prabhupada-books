@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 4.25.53",
+    "h1":"SB 4.25.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 4.25.53",
     "description":"Another gate on the western side was known as Nirṛti. Purañjana used to go through this gate to the place known as Vaiśasa, accompanied by his friend Lubdhaka."
 }
 ---

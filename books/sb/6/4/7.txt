@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 6.4.7",
+    "h1":"SB 6.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 6.4.7",
     "description":"O greatly fortunate ones, you should not kill these poor trees by burning them to ashes. Your duty is to wish the citizens [prajās] all prosperity and to act as their protectors."
 }
 ---

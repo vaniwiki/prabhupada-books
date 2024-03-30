@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 6.15.28",
+    "h1":"SB 6.15.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 6.15.28",
     "description":"My dear King, in former days Lord Śiva and other demigods took shelter of the lotus feet of Saṅkarṣaṇa. Thus they immediately got free from the illusion of duality and achieved unequaled and unsurpassed glories in spiritual life. You will very soon attain that very same position."
 }
 ---

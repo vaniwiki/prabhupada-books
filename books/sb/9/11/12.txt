@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 9.11.12",
+    "h1":"SB 9.11.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 9.11.12",
     "description":"O Mahārāja Parīkṣit, Lord Lakṣmaṇa had two sons, named Aṅgada and Citraketu, and Lord Bharata also had two sons, named Takṣa and Puṣkala."
 }
 ---

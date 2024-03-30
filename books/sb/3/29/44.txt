@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.29.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.29.44",
+    "h1":"SB 3.29.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.29.44",
     "description":"Out of fear of the Supreme Personality of Godhead, the directing demigods in charge of the modes of material nature carry out the functions of creation, maintenance and destruction; everything animate and inanimate within this material world is under their control."
 }
 ---

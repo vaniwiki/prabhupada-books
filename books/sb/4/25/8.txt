@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.25.8",
+    "h1":"SB 4.25.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.25.8",
     "description":"All these animals are awaiting your death so that they can avenge the injuries you have inflicted upon them. After you die, they will angrily pierce your body with iron horns."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.4.34",
+    "h1":"SB 4.4.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.4.34",
     "description":"When the Ṛbhu demigods attacked the ghosts and Guhyakas with half-burned fuel from the yajña fire, all these attendants of Satī fled in different directions and disappeared. This was possible simply because of brahma-tejas, brahminical power."
 }
 ---

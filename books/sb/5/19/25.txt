@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 5.19.25",
+    "h1":"SB 5.19.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 5.19.25",
     "description":"Bhārata-varṣa offers the proper land and circumstances in which to execute devotional service, which can free one from the results of jñāna and karma. If one obtains a human body in the land of Bhārata-varṣa, with clear sensory organs with which to execute the saṅkīrtana-yajña, but in spite of this opportunity he does not take to devotional service, he is certainly like liberated forest animals and birds that are careless and are therefore again bound by a hunter."
 }
 ---

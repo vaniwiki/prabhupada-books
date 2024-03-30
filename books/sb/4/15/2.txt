@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.15.2",
+    "h1":"SB 4.15.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.15.2",
     "description":"The great sages were highly learned in Vedic knowledge. When they saw the male and female born of the arms of Vena's body, they were very pleased, for they could understand that the couple was an expansion of a plenary portion of Viṣṇu, the Supreme Personality of Godhead."
 }
 ---

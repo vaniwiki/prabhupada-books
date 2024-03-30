@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 3.13.45",
+    "h1":"SB 3.13.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 3.13.45",
     "description":"O Lord, there is no limit to Your wonderful activities. Anyone who desires to know the limit of Your activities is certainly nonsensical. Everyone in this world is conditioned by the powerful mystic potencies. Please bestow Your causeless mercy upon these conditioned souls."
 }
 ---

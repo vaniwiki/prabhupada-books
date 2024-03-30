@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.17.26",
+    "h1":"SB 4.17.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.17.26",
     "description":"Any cruel person—be he a man, woman or impotent eunuch—who is only interested in his personal maintenance and has no compassion for other living entities may be killed by the king. Such killing can never be considered actual killing."
 }
 ---

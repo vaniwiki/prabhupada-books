@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.32.30",
+    "h1":"SB 3.32.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.32.30",
     "description":"This perfect knowledge can be achieved by a person who is already engaged in devotional service with faith, steadiness and full detachment, and who is always absorbed in thought of the Supreme. He is aloof from material association."
 }
 ---

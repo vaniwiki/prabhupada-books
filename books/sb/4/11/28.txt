@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.11.28",
+    "h1":"SB 4.11.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.11.28",
     "description":"My dear Dhruva, at the age of only five years you were very grievously afflicted by the words of your mother's co-wife, and you very boldly gave up the protection of your mother and went to the forest to engage in the yogic process for realization of the Supreme Personality of Godhead. As a result of this you have already achieved the topmost position in all the three worlds."
 }
 ---

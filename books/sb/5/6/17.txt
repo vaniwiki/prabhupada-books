@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.6.17",
+    "h1":"SB 5.6.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.6.17",
     "description":"Devotees always bathe themselves in devotional service in order to be relieved from the various tribulations of material existence. By doing this, the devotees enjoy supreme bliss, and liberation personified comes to serve them. Nonetheless, they do not accept that service, even if it is offered by the Supreme Personality of Godhead Himself. For the devotees, liberation [mukti] is very unimportant because, having attained the Lord's transcendental loving service, they have attained everything desirable and have transcended all material desires."
 }
 ---

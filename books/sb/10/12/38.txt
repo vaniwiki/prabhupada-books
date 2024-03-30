@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 10.12.38",
+    "h1":"SB 10.12.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 10.12.38",
     "description":"Kṛṣṇa is the cause of all causes. The causes and effects of the material world, both higher and lower, are all created by the Supreme Lord, the original controller. When Kṛṣṇa appeared as the son of Nanda Mahārāja and Yaśodā, He did so by His causeless mercy. Consequently, for Him to exhibit His unlimited opulence was not at all wonderful. Indeed, He showed such great mercy that even Aghāsura, the most sinful miscreant, was elevated to being one of His associates and achieving sārūpya-mukti, which is actually impossible for materially contaminated persons to attain."
 }
 ---

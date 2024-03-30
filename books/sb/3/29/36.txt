@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.29.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.29.36",
+    "h1":"SB 3.29.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.29.36",
     "description":"This puruṣa whom the individual soul must approach is the eternal form of the Supreme Personality of Godhead, who is known as Brahman and Paramātmā. He is the transcendental chief personality, and His activities are all spiritual."
 }
 ---

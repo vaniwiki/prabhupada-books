@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.4.17",
+    "h1":"SB 3.4.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.4.17",
     "description":"O my Lord, Your eternal Self is never divided by the influence of time, and there is no limitation to Your perfect knowledge. Thus You were sufficiently able to consult with Yourself, yet You called upon me for consultation, as if bewildered, although You are never bewildered. And this act of Yours bewilders me."
 }
 ---

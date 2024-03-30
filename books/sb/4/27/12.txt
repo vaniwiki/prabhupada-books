@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.27.12",
+    "h1":"SB 4.27.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.27.12",
     "description":"Thus King Purañjana, being attached to fruitive activities [karma-kāṇḍīya] as well as kith and kin, and being obsessed with polluted consciousness, eventually arrived at that point not very much liked by those who are overly attached to material things."
 }
 ---

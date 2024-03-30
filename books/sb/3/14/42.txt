@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 3.14.42",
+    "h1":"SB 3.14.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 3.14.42",
     "description":"Diti said: It is very good that my sons will be magnanimously killed by the arms of the Personality of Godhead with His Sudarśana weapon. O my husband, may they never be killed by the wrath of the brāhmaṇa devotees."
 }
 ---

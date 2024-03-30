@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.11.4",
+    "h1":"SB 3.11.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.11.4",
     "description":"Atomic time is measured according to its covering a particular atomic space. That time which covers the unmanifest aggregate of atoms is called the great time."
 }
 ---

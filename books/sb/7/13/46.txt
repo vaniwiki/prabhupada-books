@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 7.13.46",
+    "h1":"SB 7.13.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 7.13.46",
     "description":"Nārada Muni continued: After Prahlāda Mahārāja, the King of the demons, heard these instructions from the saint, he understood the occupational duties of a perfect person [paramahaṁsa]. Thus he duly worshiped the saint, took his permission and then left for his own home."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.24.6",
+    "h1":"SB 8.24.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.24.6",
     "description":"Like the air passing through different types of atmosphere, the Supreme Personality of Godhead, although appearing sometimes as a human being and sometimes as a lower animal, is always transcendental. Because He is above the material modes of nature, He is unaffected by higher and lower forms."
 }
 ---

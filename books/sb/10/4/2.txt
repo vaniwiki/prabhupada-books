@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 10.4.2",
+    "h1":"SB 10.4.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 10.4.2",
     "description":"Thereafter, all the watchmen very quickly approached King Kaṁsa, the ruler of the Bhoja dynasty, and submitted the news of the birth of Devakī's child. Kaṁsa, who had awaited this news very anxiously, immediately took action."
 }
 ---

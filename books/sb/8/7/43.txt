@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 8.7.43",
+    "h1":"SB 8.7.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 8.7.43",
     "description":"As if in defamation, the poison born from the ocean of milk manifested its potency by marking Lord Śiva's neck with a bluish line. That line, however, is now accepted as an ornament of the Lord."
 }
 ---

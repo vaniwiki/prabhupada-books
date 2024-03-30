@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.26.8",
+    "h1":"SB 5.26.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.26.8",
     "description":"My dear King, a person who appropriates another's legitimate wife, children or money is arrested at the time of death by the fierce Yamadūtas, who bind him with the rope of time and forcibly throw him into the hellish planet known as Tāmisra. On this very dark planet, the sinful man is chastised by the Yamadūtas, who beat and rebuke him. He is starved, and he is given no water to drink. Thus the wrathful assistants of Yamarāja cause him severe suffering, and sometimes he faints from their chastisement."
 }
 ---

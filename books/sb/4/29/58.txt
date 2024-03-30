@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 4.29.58",
+    "h1":"SB 4.29.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 4.29.58",
     "description":"The results of whatever a living entity does in this life are enjoyed in the next life."
 }
 ---

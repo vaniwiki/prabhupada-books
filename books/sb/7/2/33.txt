@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 7.2.33",
+    "h1":"SB 7.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 7.2.33",
     "description":"O lord, you have now been removed by cruel providence to a state beyond our sight. You had previously sustained the livelihood of the inhabitants of Uśīnara, and thus they were happy, but your condition now is the cause of their unhappiness."
 }
 ---

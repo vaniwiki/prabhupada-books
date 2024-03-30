@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 8.16.47",
+    "h1":"SB 8.16.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 8.16.47",
     "description":"In this way, until twelve days have passed, one should observe this payo-vrata, worshiping the Lord every day, executing the routine duties, performing sacrifices and feeding the brāhmaṇas."
 }
 ---

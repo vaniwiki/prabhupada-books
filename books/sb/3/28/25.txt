@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 3.28.25",
+    "h1":"SB 3.28.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 3.28.25",
     "description":"The yogī should then meditate on His moonlike navel in the center of His abdomen. From His navel, which is the foundation of the entire universe, sprang the lotus stem containing all the different planetary systems. The lotus is the residence of Brahmā, the first created being. In the same way, the yogī should concentrate his mind on the Lord's nipples, which resemble a pair of most exquisite emeralds and which appear whitish because of the rays of the milk-white pearl necklaces adorning His chest."
 }
 ---

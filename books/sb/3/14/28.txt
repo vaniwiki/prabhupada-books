@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.14.28",
+    "h1":"SB 3.14.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.14.28",
     "description":"Unfortunate, foolish persons, not knowing that he is engaged in his own self, laugh at him. Such foolish persons engage in maintaining the body—which is eatable by dogs—with dresses, ornaments, garlands and ointments."
 }
 ---

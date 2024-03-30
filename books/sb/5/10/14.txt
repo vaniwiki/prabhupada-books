@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 5.10.14",
+    "h1":"SB 5.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 5.10.14",
     "description":"Śukadeva Gosvāmī said: O Mahārāja Parīkṣit, when King Rahūgaṇa chastised the exalted devotee Jaḍa Bharata with harsh words, that peaceful, saintly person tolerated it all and replied properly. Nescience is due to the bodily conception, and Jaḍa Bharata was not affected by this false conception. Out of his natural humility, he never considered himself a great devotee, and he agreed to suffer the results of his past karma. Like an ordinary man, he thought that by carrying the palanquin, he was destroying the reactions of his past misdeeds. Thinking in this way, he began to carry the palanquin as before."
 }
 ---

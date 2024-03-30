@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 2.6.25",
+    "h1":"SB 2.6.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 2.6.25",
     "description":"Other requirements are utensils, grains, clarified butter, honey, gold, earth, water, the Ṛg Veda, Yajur Veda and Sāma Veda and four priests to perform the sacrifice."
 }
 ---

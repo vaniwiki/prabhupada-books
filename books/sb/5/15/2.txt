@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.15.2",
+    "h1":"SB 5.15.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.15.2",
     "description":"From Sumati, a son named Devatājit was born by the womb of his wife named Vṛddhasenā."
 }
 ---

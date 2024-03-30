@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 9.24.59",
+    "h1":"SB 9.24.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 9.24.59",
     "description":"Although the demons who take possession of the government are dressed like men of government, they do not know the duty of the government. Consequently, by the arrangement of God, such demons, who possess great military strength, fight with one another, and thus the great burden of demons on the surface of the earth is reduced. The demons increase their military power by the will of the Supreme, so that their numbers will be diminished and the devotees will have a chance to advance in Kṛṣṇa consciousness."
 }
 ---

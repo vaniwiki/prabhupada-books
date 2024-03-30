@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 2.2.4",
+    "h1":"SB 2.2.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 2.2.4",
     "description":"When there are ample earthly flats to lie on, what is the necessity of cots and beds? When one can use his own arms, what is the necessity of a pillow? When one can use the palms of his hands, what is the necessity of varieties of utensils? When there is ample covering, or the skins of trees, what is the necessity of clothing?"
 }
 ---

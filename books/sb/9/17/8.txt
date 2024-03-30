@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.17.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.17.8",
+    "h1":"SB 9.17.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.17.8",
     "description":"From Alarka came a son named Santati, and his son was Sunītha. The son of Sunītha was Niketana, the son of Niketana was Dharmaketu, and the son of Dharmaketu was Satyaketu."
 }
 ---

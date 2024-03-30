@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 6.14.39",
+    "h1":"SB 6.14.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 6.14.39",
     "description":"The other queens were extremely unhappy due to their being sonless. Because of the King's negligence toward them, they condemned themselves in envy and lamented."
 }
 ---

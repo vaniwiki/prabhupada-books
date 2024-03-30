@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.14.6",
+    "h1":"SB 3.14.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.14.6",
     "description":"By hearing these topics from the sage [Nārada], the son of King Uttānapāda [Dhruva] was enlightened regarding the Personality of Godhead, and he ascended to the abode of the Lord, placing his feet over the head of death."
 }
 ---

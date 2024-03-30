@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.15.7",
+    "h1":"SB 9.15.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.15.7",
     "description":"When King Gādhi made this demand, the great sage Ṛcīka could understand the King's mind. Therefore he went to the demigod Varuṇa and brought from him the one thousand horses that Gādhi had demanded. After delivering these horses, the sage married the King's beautiful daughter."
 }
 ---

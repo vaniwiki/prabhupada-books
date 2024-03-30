@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.26.5",
+    "h1":"SB 3.26.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.26.5",
     "description":"Divided into varieties by her threefold modes, material nature creates the forms of the living entities, and the living entities, seeing this, are illusioned by the knowledge—covering feature of the illusory energy."
 }
 ---

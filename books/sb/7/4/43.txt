@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 7.4.43",
+    "h1":"SB 7.4.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 7.4.43",
     "description":"My dear King Yudhiṣṭhira, the demon Hiraṇyakaśipu tormented this exalted, fortunate devotee, although Prahlāda was his own son."
 }
 ---

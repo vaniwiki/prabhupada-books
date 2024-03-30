@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.2.5",
+    "h1":"SB 5.2.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.2.5",
     "description":"As Pūrvacitti passed by on the road in a very beautiful style and mood of her own, the pleasing ornaments on her ankles tinkled with her every step. Although Prince Āgnīdhra was controlling his senses, practicing yoga with half-open eyes, he could see her with his lotuslike eyes, and when he heard the sweet tinkling of her bangles, he opened his eyes slightly more and could see that she was just nearby."
 }
 ---

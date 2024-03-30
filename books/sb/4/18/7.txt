@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.18.7",
+    "h1":"SB 4.18.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.18.7",
     "description":"My dear King, not only are grains and herbs being used by nondevotees, but, as far as I am concerned, I am not being properly maintained. Indeed, I am being neglected by kings who are not punishing these rascals who have turned into thieves by using grains for sense gratification. Consequently I have hidden all these seeds, which were meant for the performance of sacrifice."
 }
 ---

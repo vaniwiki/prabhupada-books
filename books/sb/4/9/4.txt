@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.9.4",
+    "h1":"SB 4.9.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.9.4",
     "description":"Although Dhruva Mahārāja was a small boy, he wanted to offer prayers to the Supreme Personality of Godhead in suitable language. But because he was inexperienced, he could not adjust himself immediately. The Supreme Personality of Godhead, being situated in everyone's heart, could understand Dhruva Mahārāja's awkward position. Out of His causeless mercy He touched His conchshell to the forehead of Dhruva Mahārāja, who stood before Him with folded hands."
 }
 ---

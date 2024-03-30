@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.16.25",
+    "h1":"SB 4.16.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.16.25",
     "description":"This King Pṛthu will meet Sanat-kumāra, one of the four Kumāras, in the garden of his palace compound. The King will worship him with devotion and will be fortunate to receive instructions by which one can enjoy transcendental bliss."
 }
 ---

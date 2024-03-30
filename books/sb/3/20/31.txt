@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.20.31",
+    "h1":"SB 3.20.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.20.31",
     "description":"Adorned with dark tresses, she hid herself, as it were, out of shyness. Upon seeing that girl, the asuras were all infatuated with an appetite for sex."
 }
 ---

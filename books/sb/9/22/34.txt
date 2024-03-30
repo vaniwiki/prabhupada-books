@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 9.22.34",
+    "h1":"SB 9.22.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 9.22.34",
     "description":"After the Kuru dynasty was annihilated in the Battle of Kurukṣetra, you also were about to be destroyed by the brahmāstra atomic weapon released by the son of Droṇācārya, but by the mercy of the Supreme Personality of Godhead, Kṛṣṇa, you were saved from death."
 }
 ---

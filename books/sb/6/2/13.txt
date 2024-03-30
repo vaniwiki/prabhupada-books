@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 6.2.13",
+    "h1":"SB 6.2.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 6.2.13",
     "description":"At the time of death, this Ajāmila helplessly and very loudly chanted the holy name of the Lord, Nārāyaṇa. That chanting alone has already freed him from the reactions of all sinful life. Therefore, O servants of Yamarāja, do not try to take him to your master for punishment in hellish conditions."
 }
 ---

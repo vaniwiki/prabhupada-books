@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.9.15",
+    "h1":"SB 4.9.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.9.15",
     "description":"My Lord, by Your unbroken transcendental glance You are the supreme witness of all stages of intellectual activities. You are eternally liberated, Your existence is situated in pure goodness, and You are existent in the Supersoul without change. You are the original Personality of Godhead, full with six opulences, and You are eternally the master of the three modes of material nature. Thus, You are always different from the ordinary living entities. As Lord Viṣṇu, You maintain all the affairs of the entire universe, and yet You stand aloof and are the enjoyer of the results of all sacrifices."
 }
 ---

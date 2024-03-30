@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.8.17",
+    "h1":"SB 5.8.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.8.17",
     "description":"Alas, is it possible that I shall again see this animal protected by the Lord and fearless of tigers and other animals? Shall I again see him wandering in the garden eating soft grass?"
 }
 ---

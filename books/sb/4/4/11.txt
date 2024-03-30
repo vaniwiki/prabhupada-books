@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.4.11",
+    "h1":"SB 4.4.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.4.11",
     "description":"The blessed goddess said: Lord Śiva is the most beloved of all living entities. He has no rival. No one is very dear to him, and no one is his enemy. No one but you could be envious of such a universal being, who is free from all enmity."
 }
 ---

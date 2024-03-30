@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.11-12",
-    "h1":"Text 11-12",
-    "title":" Śrīmad Bhāgavatam 8.5.11-12",
+    "h1":"SB 8.5.11-12",
+    "label":"Text 11-12",
+    "title":"Śrīmad Bhāgavatam 8.5.11-12",
     "description":"King Parīkṣit inquired: O great brāhmaṇa, Śukadeva Gosvāmī, why and how did Lord Viṣṇu churn the ocean of milk? For what reason did He stay in the water as a tortoise and hold up Mandara Mountain? How did the demigods obtain the nectar, and what other things were produced from the churning of the ocean? Kindly describe all these wonderful activities of the Lord."
 }
 ---

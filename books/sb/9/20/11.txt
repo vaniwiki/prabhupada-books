@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.20.11",
+    "h1":"SB 9.20.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.20.11",
     "description":"O beautiful lotus-eyed woman, who are you? Whose daughter are you? What purpose do you have in this solitary forest? Why are you staying here?"
 }
 ---

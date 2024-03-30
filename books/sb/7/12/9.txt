@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 7.12.9",
+    "h1":"SB 7.12.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 7.12.9",
     "description":"Woman is compared to fire, and man is compared to a butter pot. Therefore a man should avoid associating even with his own daughter in a secluded place. Similarly, he should also avoid association with other women. One should associate with women only for important business and not otherwise."
 }
 ---

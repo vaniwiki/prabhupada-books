@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 7.1.38",
+    "h1":"SB 7.1.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 7.1.38",
     "description":"Thus checked by the doorkeepers Jaya and Vijaya, Sanandana and the other great sages very angrily cursed them. \"You two foolish doorkeepers,\" they said. \"Being agitated by the material qualities of passion and ignorance, you are unfit to live at the shelter of Madhudviṣa's lotus feet, which are free from such modes. It would be better for you to go immediately to the material world and take your birth in a family of most sinful asuras.\""
 }
 ---

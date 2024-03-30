@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.18.4",
+    "h1":"SB 4.18.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.18.4",
     "description":"One who follows the principles and instructions enjoined by the great sages of the past can utilize these instructions for practical purposes. Such a person can very easily enjoy life and pleasures."
 }
 ---

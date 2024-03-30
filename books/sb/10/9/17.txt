@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.9.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.9.17",
+    "h1":"SB 10.9.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.9.17",
     "description":"Thus mother Yaśodā joined whatever ropes were available in the household, but still she failed in her attempt to bind Kṛṣṇa. Mother Yaśodā's friends, the elderly gopīs in the neighborhood, were smiling and enjoying the fun. Similarly, mother Yaśodā, although laboring in that way, was also smiling. All of them were struck with wonder."
 }
 ---

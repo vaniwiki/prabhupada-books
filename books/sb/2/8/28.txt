@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 2.8.28",
+    "h1":"SB 2.8.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 2.8.28",
     "description":"He began to reply to the inquiries of Mahārāja Parīkṣit by saying that the science of the Personality of Godhead was spoken first by the Lord Himself to Brahmā when he was first born. Śrīmad-Bhāgavatam is the supplementary Vedic literature, and it is just in pursuance of the Vedas."
 }
 ---

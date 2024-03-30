@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.2.21",
+    "h1":"SB 3.2.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.2.21",
     "description":"Lord Śrī Kṛṣṇa is the Lord of all kinds of threes and is independently supreme by achievement of all kinds of fortune. He is worshiped by the eternal maintainers of the creation, who offer Him the paraphernalia of worship by touching their millions of helmets to His feet."
 }
 ---

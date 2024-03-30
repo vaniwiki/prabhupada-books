@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 10.8.51",
+    "h1":"SB 10.8.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 10.8.51",
     "description":"Thereafter, O Mahārāja Parīkṣit, best of the Bhāratas, when the Supreme Personality of Godhead became the son of Nanda Mahārāja and Yaśodā, they maintained continuous, unswerving devotional love in parental affection. And in their association, all the other inhabitants of Vṛndāvana, the gopas and gopīs, developed the culture of kṛṣṇa-bhakti."
 }
 ---

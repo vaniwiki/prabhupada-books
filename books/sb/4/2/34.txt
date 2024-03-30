@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.2.34",
+    "h1":"SB 4.2.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.2.34",
     "description":"The sage Maitreya continued: O Vidura, all the progenitors of the universal population thus executed a sacrifice for thousands of years, for sacrifice is the best way to worship the Supreme Lord, Hari, the Personality of Godhead."
 }
 ---

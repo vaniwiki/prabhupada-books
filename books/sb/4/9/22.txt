@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.9.22",
+    "h1":"SB 4.9.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.9.22",
     "description":"After your father goes to the forest and awards you the rule of his kingdom, you will rule continuously the entire world for thirty-six thousand years, and all your senses will continue to be as strong as they are now. You will never become old."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.16.11",
+    "h1":"SB 8.16.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.16.11",
     "description":"Aditi said: O my respected brāhmaṇa husband, all is well with the brāhmaṇas, the cows, religion and the welfare of other people. O master of the house, the three principles of dharma, artha and kāma flourish in household life, which is consequently full of good fortune."
 }
 ---

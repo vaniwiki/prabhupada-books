@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.23.35",
+    "h1":"SB 4.23.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.23.35",
     "description":"By hearing the narration of Pṛthu Mahārāja, one can become great, increase his duration of life, gain promotion to the heavenly planets and counteract the contaminations of this age of Kali. In addition, one can promote the causes of religion, economic development, sense gratification and liberation. Therefore from all sides it is advisable for a materialistic person who is interested in such things to read and hear the narrations of the life and character of Pṛthu Mahārāja."
 }
 ---

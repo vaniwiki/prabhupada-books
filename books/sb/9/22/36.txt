@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 9.22.36",
+    "h1":"SB 9.22.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 9.22.36",
     "description":"Because of your death by the Takṣaka snake, your son Janamejaya will be very angry and will perform a sacrifice to kill all the snakes in the world."
 }
 ---

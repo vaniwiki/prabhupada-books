@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.1.35",
+    "h1":"SB 4.1.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.1.35",
     "description":"Besides these four daughters, she also had another two sons. One of them was known as Utathya, and the other was the learned scholar Bṛhaspati."
 }
 ---

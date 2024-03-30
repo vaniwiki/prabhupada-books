@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 7.5.41",
+    "h1":"SB 7.5.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 7.5.41",
     "description":"Even though a person who has no assets in pious activities performs some good deed, it will have no result. Thus the weapons of the demons had no tangible effects upon Prahlāda Mahārāja because he was a devotee undisturbed by material conditions and fully engaged in meditating upon and serving the Supreme Personality of Godhead, who is unchangeable, who cannot be realized by the material senses, and who is the soul of the entire universe."
 }
 ---

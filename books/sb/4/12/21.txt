@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.12.21",
+    "h1":"SB 4.12.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.12.21",
     "description":"Dhruva Mahārāja, seeing that these uncommon personalities were direct servants of the Supreme Personality of Godhead, immediately stood up. But, being puzzled, in hastiness he forgot how to receive them in the proper way. Therefore he simply offered obeisances with folded hands and chanted and glorified the holy names of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.10.22",
+    "h1":"SB 4.10.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.10.22",
     "description":"In the meantime, while Dhruva Mahārāja, doubtful of his mystic enemies, was talking with his charioteer, they heard a tremendous sound, as if the whole ocean were there, and they found that from the sky a great dust storm was coming over them from all directions."
 }
 ---

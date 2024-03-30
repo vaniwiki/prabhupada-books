@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.28-29",
-    "h1":"Text 28-29",
-    "title":" Śrīmad Bhāgavatam 3.10.28-29",
+    "h1":"SB 3.10.28-29",
+    "label":"Text 28-29",
+    "title":"Śrīmad Bhāgavatam 3.10.28-29",
     "description":"The creation of the demigods is of eight varieties: (1) the demigods, (2) the forefathers, (3) the asuras, or demons, (4) the Gandharvas and Apsarās, or angels, (5) the Yakṣas and Rākṣasas, (6) the Siddhas, Cāraṇas and Vidyādharas, (7) the Bhūtas, Pretas and Piśācas, and (8) the superhuman beings, celestial singers, etc. All are created by Brahmā, the creator of the universe."
 }
 ---

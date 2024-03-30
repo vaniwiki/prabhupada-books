@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.30.27",
+    "h1":"SB 4.30.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.30.27",
     "description":"Dear Lord, we conditioned souls are always covered by ignorance in the bodily conception of life. We therefore always prefer the miserable conditions of material existence. To deliver us from these miserable conditions, You have advented Yourself in this transcendental form. This is evidence of Your unlimited causeless mercy upon those of us who are suffering in this way. What, then, to speak of the devotees to whom You are always so favorably disposed?"
 }
 ---

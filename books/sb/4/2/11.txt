@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.2.11",
+    "h1":"SB 4.2.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.2.11",
     "description":"He has already accepted himself as my subordinate by marrying my daughter in the presence of fire and brāhmaṇas. He has married my daughter, who is equal to Gāyatrī, and has pretended to be just like an honest person."
 }
 ---

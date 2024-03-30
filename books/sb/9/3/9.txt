@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 9.3.9",
+    "h1":"SB 9.3.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 9.3.9",
     "description":"King Śaryāti, being very contemplative and thus understanding Cyavana Muni's purpose, gave his daughter in charity to the sage. Thus released from danger with great difficulty, he took permission from Cyavana Muni and returned home."
 }
 ---

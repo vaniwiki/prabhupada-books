@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 2.10.34",
+    "h1":"SB 2.10.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 2.10.34",
     "description":"Therefore beyond this [gross manifestation] is a transcendental manifestation finer than the finest form. It has no beginning, no intermediate stage and no end; therefore it is beyond the limits of expression or mental speculation and is distinct from the material conception."
 }
 ---

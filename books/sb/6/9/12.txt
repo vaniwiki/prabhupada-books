@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.9.12",
+    "h1":"SB 6.9.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.9.12",
     "description":"Thereafter, from the southern side of the sacrificial fire known as Anvāhārya came a fearful personality who looked like the destroyer of the entire creation at the end of the millennium."
 }
 ---

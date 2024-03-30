@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.32.29",
+    "h1":"SB 3.32.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.32.29",
     "description":"From the total energy, the mahat-tattva, I have manifested the false ego, the three modes of material nature, the five material elements, the individual consciousness, the eleven senses and the material body. Similarly, the entire universe has come from the Supreme Personality of Godhead."
 }
 ---

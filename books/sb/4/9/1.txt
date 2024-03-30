@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.9.1",
+    "h1":"SB 4.9.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.9.1",
     "description":"The great sage Maitreya told Vidura: When the demigods were thus reassured by the Personality of Godhead, they were freed from all fears, and after offering their obeisances, they returned to their heavenly planets. Then the Lord, who is nondifferent from the Sahasraśīrṣā incarnation, got on the back of Garuḍa, who carried Him to the Madhuvana Forest to see His servant Dhruva."
 }
 ---

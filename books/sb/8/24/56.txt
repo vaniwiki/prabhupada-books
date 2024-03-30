@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 8.24.56",
+    "h1":"SB 8.24.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 8.24.56",
     "description":"While sitting in the boat, King Satyavrata, accompanied by the great saintly persons, listened to the instructions of the Supreme Personality of Godhead in regard to self-realization. These instructions were all from the eternal Vedic literature [brahma]. Thus the King and sages had no doubt about the Absolute Truth."
 }
 ---

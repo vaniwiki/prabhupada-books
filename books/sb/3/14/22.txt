@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.14.22",
+    "h1":"SB 3.14.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.14.22",
     "description":"Even though it is not possible to repay you, I shall satisfy your sex desire immediately for the sake of begetting children. But you must wait for only a few seconds so that others may not reproach me."
 }
 ---

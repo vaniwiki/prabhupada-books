@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.4-5",
-    "h1":"Text 4-5",
-    "title":" Śrīmad Bhāgavatam 7.1.4-5",
+    "h1":"SB 7.1.4-5",
+    "label":"Text 4-5",
+    "title":"Śrīmad Bhāgavatam 7.1.4-5",
     "description":"The great sage Śukadeva Gosvāmī said: My dear King, you have put before me an excellent question. Discourses concerning the activities of the Lord, in which the glories of His devotees are also found, are extremely pleasing to devotees. Such wonderful topics always counteract the miseries of the materialistic way of life. Therefore great sages like Nārada always speak upon Śrīmad-Bhāgavatam because it gives one the facility to hear and chant about the wonderful activities of the Lord. Let me offer my respectful obeisances unto Śrīla Vyāsadeva and then begin describing topics concerning the activities of Lord Hari."
 }
 ---

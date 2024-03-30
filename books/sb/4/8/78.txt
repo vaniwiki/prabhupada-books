@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.78",
-    "h1":"Text 78",
-    "title":" Śrīmad Bhāgavatam 4.8.78",
+    "h1":"SB 4.8.78",
+    "label":"Text 78",
+    "title":"Śrīmad Bhāgavatam 4.8.78",
     "description":"When Dhruva Mahārāja thus captured the Supreme Personality of Godhead, who is the refuge of the total material creation and who is the master of all living entities, the three worlds began to tremble."
 }
 ---

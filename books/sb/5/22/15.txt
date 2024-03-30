@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.22.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.22.15",
+    "h1":"SB 5.22.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.22.15",
     "description":"Situated 1,600,000 miles above Mars, or 10,400,000 miles above earth, is the planet Jupiter, which travels through one sign of the zodiac within the period of a Parivatsara. If its movement is not curved, the planet Jupiter is very favorable to the brāhmaṇas of the universe."
 }
 ---

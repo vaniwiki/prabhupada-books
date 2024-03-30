@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 4.24.67",
+    "h1":"SB 4.24.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 4.24.67",
     "description":"My dear Lord, any learned person knows that unless he worships You, his entire life is spoiled. Knowing this, how could he give up worshiping Your lotus feet? Even our father and spiritual master, Lord Brahmā, unhesitatingly worshiped You, and the fourteen Manus followed in his footsteps."
 }
 ---

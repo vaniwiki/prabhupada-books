@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 7.11.2",
+    "h1":"SB 7.11.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 7.11.2",
     "description":"Mahārāja Yudhiṣṭhira said: My dear lord, I wish to hear from you about the principles of religion by which one can attain the ultimate goal of life—devotional service. I wish to hear about the general occupational duties of human society and the system of social and spiritual advancement known as varṇāśrama-dharma."
 }
 ---

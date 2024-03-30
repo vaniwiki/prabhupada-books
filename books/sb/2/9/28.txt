@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 2.9.28",
+    "h1":"SB 2.9.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 2.9.28",
     "description":"O master of all energies, please tell me philosophically all about them. You play like a spider that covers itself by its own energy, and Your determination is infallible."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 10.1.56",
+    "h1":"SB 10.1.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 10.1.56",
     "description":"Each year thereafter, in due course of time, Devakī, the mother of God and all the demigods, gave birth to a child. Thus she bore eight sons, one after another, and a daughter named Subhadrā."
 }
 ---

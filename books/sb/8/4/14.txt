@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.4.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.4.14",
+    "h1":"SB 8.4.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.4.14",
     "description":"My dear King Parīkṣit, I have now described the wonderful power of Kṛṣṇa, as displayed when the Lord delivered the King of the elephants. O best of the Kuru dynasty, those who hear this narration become fit to be promoted to the higher planetary systems. Simply because of hearing this narration, they gain a reputation as devotees, they are unaffected by the contamination of Kali-yuga, and they never see bad dreams."
 }
 ---

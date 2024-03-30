@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.13.26",
+    "h1":"SB 4.13.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.13.26",
     "description":"The priests engaged in the sacrifice then informed King Aṅga: O King, we are properly offering the clarified butter in the sacrifice, but despite all our efforts the demigods do not accept it."
 }
 ---

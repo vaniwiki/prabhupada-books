@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.8.22",
+    "h1":"SB 4.8.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.8.22",
     "description":"My dear boy, you also should take shelter of the Supreme Personality of Godhead, who is very kind to His devotees. Persons seeking liberation from the cycle of birth and death always take shelter of the lotus feet of the Lord in devotional service. Becoming purified by executing your allotted occupation, just situate the Supreme Personality of Godhead in your heart, and without deviating for a moment, engage always in His service."
 }
 ---

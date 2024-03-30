@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.3.33",
+    "h1":"SB 9.3.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.3.33",
     "description":"O King, leave here and offer your daughter to Lord Baladeva, who is still present. He is most powerful. Indeed, He is the Supreme Personality of Godhead, whose plenary portion is Lord Viṣṇu. Your daughter is fit to be given to Him in charity."
 }
 ---

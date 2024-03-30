@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.26.13",
+    "h1":"SB 4.26.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.26.13",
     "description":"After taking his dinner and having his thirst and hunger satisfied, King Purañjana felt some joy within his heart. Instead of being elevated to a higher consciousness, he became captivated by Cupid, and was moved by a desire to find his wife, who kept him satisfied in his household life."
 }
 ---

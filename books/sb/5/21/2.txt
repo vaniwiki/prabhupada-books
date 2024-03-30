@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.21.2",
+    "h1":"SB 5.21.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.21.2",
     "description":"As a grain of wheat is divided into two parts and one can estimate the size of the upper part by knowing that of the lower, so, expert geographers instruct, one can understand the measurements of the upper part of the universe by knowing those of the lower part. The sky between the earthly sphere and heavenly sphere is called antarikṣa, or outer space. It adjoins the top of the sphere of earth and the bottom of that of heaven."
 }
 ---

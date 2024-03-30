@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 2.5.6",
+    "h1":"SB 2.5.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 2.5.6",
     "description":"Whatever we can understand by the nomenclature, characteristics and features of a particular thing—superior, inferior or equal, eternal or temporary—is not created from any source other than that of Your Lordship, thou so great."
 }
 ---

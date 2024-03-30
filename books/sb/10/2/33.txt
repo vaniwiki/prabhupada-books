@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.2.33",
+    "h1":"SB 10.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.2.33",
     "description":"O Mādhava, Supreme Personality of Godhead, Lord of the goddess of fortune, if devotees completely in love with You sometimes fall from the path of devotion, they do not fall like nondevotees, for You still protect them. Thus they fearlessly traverse the heads of their opponents and continue to progress in devotional service."
 }
 ---

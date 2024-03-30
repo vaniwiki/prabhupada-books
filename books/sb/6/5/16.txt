@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 6.5.16",
+    "h1":"SB 6.5.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 6.5.16",
     "description":"[Nārada Muni had said that there is a river flowing in both directions. The Haryaśvas understood the purport of this statement.] Material nature functions in two ways—by creation and dissolution. Thus the river of material nature flows both ways. A living entity who unknowingly falls in this river is submerged in its waves, and since the current is swifter near the banks of the river, he is unable to get out. What will be the benefit of performing fruitive activities in that river of māyā?"
 }
 ---

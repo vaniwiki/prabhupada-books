@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.2.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.2.8",
+    "h1":"SB 8.2.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.2.8",
     "description":"Trikūṭa Mountain has many lakes and rivers, with beaches covered by small gems resembling grains of sand. The water is as clear as crystal, and when the demigod damsels bathe in it, their bodies lend fragrance to the water and the breeze, thus enriching the atmosphere."
 }
 ---

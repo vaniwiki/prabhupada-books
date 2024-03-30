@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.24.7",
+    "h1":"SB 4.24.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.24.7",
     "description":"Although Mahārāja Antardhāna was engaged in performing sacrifices, because he was a self-realized soul he very intelligently rendered devotional service to the Lord, who eradicates all the fears of His devotees. By thus worshiping the Supreme Lord, Mahārāja Antardhāna, rapt in ecstasy, attained His planet very easily."
 }
 ---

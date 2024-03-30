@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.19.3",
+    "h1":"SB 3.19.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.19.3",
     "description":"Struck by the demon's mace, however, the Lord's mace slipped from His hand and looked splendid as it fell down whirling. This was miraculous, for the mace was blazing wonderfully."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 3.5.46",
+    "h1":"SB 3.5.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 3.5.46",
     "description":"O Lord, persons who, because of their serious attitude, attain the stage of enlightened devotional service achieve the complete meaning of renunciation and knowledge and attain the Vaikuṇṭhaloka in the spiritual sky simply by drinking the nectar of Your topics."
 }
 ---

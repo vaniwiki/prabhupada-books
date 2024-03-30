@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 2.5.13",
+    "h1":"SB 2.5.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 2.5.13",
     "description":"The illusory energy of the Lord cannot take precedence, being ashamed of her position, but those who are bewildered by her always talk nonsense, being absorbed in thoughts of \"It is I\" and \"It is mine.\""
 }
 ---

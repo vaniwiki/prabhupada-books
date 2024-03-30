@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.16.12",
+    "h1":"SB 3.16.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.16.12",
     "description":"These servants of Mine have transgressed against you, not knowing the mind of their master. I shall therefore deem it a favor done to Me if you order that, although reaping the fruit of their transgression, they may return to My presence soon and the time of their exile from My abode may expire before long."
 }
 ---

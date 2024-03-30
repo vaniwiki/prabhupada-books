@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.24.32",
+    "h1":"SB 3.24.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.24.32",
     "description":"My dear Lord, Your lotus feet are the reservoir that always deserves to receive worshipful homage from all great sages eager to understand the Absolute Truth. You are full in opulence, renunciation, transcendental fame, knowledge, strength and beauty, and therefore I surrender myself unto Your lotus feet."
 }
 ---

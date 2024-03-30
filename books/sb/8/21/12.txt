@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.21.12",
+    "h1":"SB 8.21.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.21.12",
     "description":"\"Our lord, Bali Mahārāja, is always fixed in truthfulness, and this is especially so at present, since he has been initiated into performing a sacrifice. He is always kind and merciful toward the brāhmaṇas, and he cannot at any time speak lies."
 }
 ---

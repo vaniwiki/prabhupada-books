@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.5.38",
+    "h1":"SB 3.5.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.5.38",
     "description":"The controlling deities of all the above-mentioned physical elements are empowered expansions of Lord Viṣṇu. They are embodied by eternal time under the external energy, and they are His parts and parcels. Because they were entrusted with different functions of universal duties and were unable to perform them, they offered fascinating prayers to the Lord as follows."
 }
 ---

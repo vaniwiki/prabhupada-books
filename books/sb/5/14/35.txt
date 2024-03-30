@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 5.14.35",
+    "h1":"SB 5.14.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 5.14.35",
     "description":"Sometimes conditioned souls exchange money, but in due course of time, enmity arises because of cheating. Although there may be a tiny profit, the conditioned souls cease to be friends and become enemies."
 }
 ---

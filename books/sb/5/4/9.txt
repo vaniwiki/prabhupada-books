@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.4.9",
+    "h1":"SB 5.4.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.4.9",
     "description":"Of Ṛṣabhadeva's one hundred sons, the eldest, named Bharata, was a great, exalted devotee qualified with the best attributes. In his honor, this planet has become known as Bhārata-varṣa."
 }
 ---

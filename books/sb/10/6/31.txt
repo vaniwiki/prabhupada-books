@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 10.6.31",
+    "h1":"SB 10.6.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 10.6.31",
     "description":"Meanwhile, all the cowherd men, headed by Nanda Mahārāja, returned from Mathurā, and when they saw on the way the gigantic body of Pūtanā lying dead, they were struck with great wonder."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 9.11.21",
+    "h1":"SB 9.11.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 9.11.21",
     "description":"Lord Rāmacandra's spotless name and fame, which vanquish all sinful reactions, are celebrated in all directions, like the ornamental cloth of the victorious elephant that conquers all directions. Great saintly persons like Mārkaṇḍeya Ṛṣi still glorify His characteristics in the assemblies of great emperors like Mahārāja Yudhiṣṭhira. Similarly, all the saintly kings and all the demigods, including Lord Śiva and Lord Brahmā, worship the Lord by bowing down with their helmets. Let me offer my obeisances unto His lotus feet."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.16.18",
+    "h1":"SB 4.16.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.16.18",
     "description":"The King will consider all embodied living entities as dear as his own self, and he will always be increasing the pleasures of his friends. He will intimately associate with liberated persons, and he will be a chastising hand to all impious persons."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 7.15.23",
+    "h1":"SB 7.15.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 7.15.23",
     "description":"By discussing spiritual knowledge one can conquer lamentation and illusion, by serving a great devotee one can become prideless, by keeping silent one can avoid obstacles on the path of mystic yoga, and simply by stopping sense gratification one can conquer envy."
 }
 ---

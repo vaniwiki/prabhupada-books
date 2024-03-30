@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 8.16.37",
+    "h1":"SB 8.16.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 8.16.37",
     "description":"All the demigods, as well as the goddess of fortune, engage in the service of His lotus feet. Indeed, they respect the fragrance of those lotus feet. May the Supreme Personality of Godhead be pleased with me."
 }
 ---

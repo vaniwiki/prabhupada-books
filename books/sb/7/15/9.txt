@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 7.15.9",
+    "h1":"SB 7.15.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 7.15.9",
     "description":"Because of an awakening of spiritual knowledge, those who are intelligent in regard to sacrifice, who are actually aware of religious principles and who are free from material desires, control the self in the fire of spiritual knowledge, or knowledge of the Absolute Truth. They may give up the process of ritualistic ceremonies."
 }
 ---

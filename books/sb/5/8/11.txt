@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.8.11",
+    "h1":"SB 5.8.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.8.11",
     "description":"Due to attachment for the deer, Mahārāja Bharata lay down with it, walked about with it, bathed with it and even ate with it. Thus his heart became bound to the deer in affection."
 }
 ---

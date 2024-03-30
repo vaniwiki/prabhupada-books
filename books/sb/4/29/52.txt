@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 4.29.52",
+    "h1":"SB 4.29.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 4.29.52",
     "description":"The great saint Nārada continued: O great personality, I have replied properly about all that you have asked me. Now hear another narration that is accepted by saintly persons and is very confidential."
 }
 ---

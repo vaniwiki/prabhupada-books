@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 8.6.31",
+    "h1":"SB 8.6.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 8.6.31",
     "description":"The proposals submitted by King Indra were immediately accepted by Bali Mahārāja and his assistants, headed by Śambara and Ariṣṭanemi, and by all the other residents of Tripura."
 }
 ---

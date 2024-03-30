@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 2.7.21",
+    "h1":"SB 2.7.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 2.7.21",
     "description":"The Lord in His incarnation of Dhanvantari very quickly cures the diseases of the ever-diseased living entities simply by his fame personified, and only because of him do the demigods achieve long lives. Thus the Personality of Godhead becomes ever glorified. He also exacted a share from the sacrifices, and it is he only who inaugurated the medical science or the knowledge of medicine in the universe."
 }
 ---

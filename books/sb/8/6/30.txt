@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.6.30",
+    "h1":"SB 8.6.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.6.30",
     "description":"After pleasing Bali Mahārāja with mild words, Lord Indra, the King of the demigods, who was most intelligent, very politely submitted all the proposals he had learned from the Supreme Personality of Godhead, Lord Viṣṇu."
 }
 ---

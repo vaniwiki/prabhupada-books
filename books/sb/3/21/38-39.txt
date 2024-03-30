@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.38-39",
-    "h1":"Text 38-39",
-    "title":" Śrīmad Bhāgavatam 3.21.38-39",
+    "h1":"SB 3.21.38-39",
+    "label":"Text 38-39",
+    "title":"Śrīmad Bhāgavatam 3.21.38-39",
     "description":"The holy Lake Bindu-sarovara, flooded by the waters of the River Sarasvatī, was resorted to by hosts of eminent sages. Its holy water was not only auspicious but as sweet as nectar. It was called Bindu-sarovara because drops of tears had fallen there from the eyes of the Lord, who was overwhelmed by extreme compassion for the sage who had sought His protection."
 }
 ---

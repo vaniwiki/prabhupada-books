@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 6.18.2",
+    "h1":"SB 6.18.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 6.18.2",
     "description":"O King, Siddhi, who was the wife of Bhaga, the sixth son of Aditi, bore three sons, named Mahimā, Vibhu and Prabhu, and one extremely beautiful daughter, whose name was Āśī."
 }
 ---

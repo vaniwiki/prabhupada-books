@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.20.17",
+    "h1":"SB 8.20.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.20.17",
     "description":"Bali Mahārāja's wife, known as Vindhyāvali, who was decorated with a necklace of pearls, immediately came and had a large golden waterpot brought there, full of water with which to worship the Lord by washing His feet."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.5.3",
+    "h1":"SB 6.5.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.5.3",
     "description":"In the west, where the River Sindhu meets the sea, there is a great place of pilgrimage known as Nārāyaṇa-saras. Many sages and others advanced in spiritual consciousness live there."
 }
 ---

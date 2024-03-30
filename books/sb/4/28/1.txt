@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.28.1",
+    "h1":"SB 4.28.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.28.1",
     "description":"The great sage Nārada continued: My dear King Prācīnabarhiṣat, afterward, the King of the Yavanas, whose name is fear itself, as well as Prajvāra, Kālakanyā, and his soldiers, began to travel all over the world."
 }
 ---

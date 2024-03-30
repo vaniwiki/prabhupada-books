@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 5.26.29",
+    "h1":"SB 5.26.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 5.26.29",
     "description":"Any brāhmaṇa or brāhmaṇa's wife who drinks liquor is taken by the agents of Yamarāja to the hell known as Ayaḥpāna. This hell also awaits any kṣatriya, vaiśya, or person under a vow who in illusion drinks soma-rasa. In Ayaḥpāna the agents of Yamarāja stand on their chests and pour hot melted iron into their mouths."
 }
 ---

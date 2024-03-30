@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 7.10.30",
+    "h1":"SB 7.10.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 7.10.30",
     "description":"The Personality of Godhead replied: My dear Lord Brahmā, O great lord born from the lotus flower, just as it is dangerous to feed milk to a snake, so it is dangerous to give benedictions to demons, who are by nature ferocious and jealous. I warn you not to give such benedictions to any demon again."
 }
 ---

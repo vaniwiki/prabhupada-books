@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 7.12.31",
+    "h1":"SB 7.12.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 7.12.31",
     "description":"When all the material designations have thus merged into their respective material elements, the living beings, who are all ultimately completely spiritual, being one in quality with the Supreme Being, should cease from material existence, as flames cease when the wood in which they are burning is consumed. When the material body is returned to its various material elements, only the spiritual being remains. This spiritual being is Brahman and is equal in quality with Parabrahman."
 }
 ---

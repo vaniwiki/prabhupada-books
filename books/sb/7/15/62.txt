@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.62",
-    "h1":"Text 62",
-    "title":" Śrīmad Bhāgavatam 7.15.62",
+    "h1":"SB 7.15.62",
+    "label":"Text 62",
+    "title":"Śrīmad Bhāgavatam 7.15.62",
     "description":"After considering the oneness of existence, activity and paraphernalia and after realizing the self to be different from all actions and reactions, the mental speculator [muni], according to his own realization, gives up the three states of wakefulness, dreaming and sleep."
 }
 ---

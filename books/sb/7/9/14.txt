@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.9.14",
+    "h1":"SB 7.9.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.9.14",
     "description":"My Lord Nṛsiṁhadeva, please, therefore, cease Your anger now that my father, the great demon Hiraṇyakaśipu, has been killed. Since even saintly persons take pleasure in the killing of a scorpion or a snake, all the worlds have achieved great satisfaction because of the death of this demon. Now they are confident of their happiness, and they will always remember Your auspicious incarnation in order to be free from fear."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.20.29",
+    "h1":"SB 4.20.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.20.29",
     "description":"Great saintly persons who are always liberated take to Your devotional service because only by devotional service can one be relieved from the illusions of material existence. O my Lord, there is no reason for the liberated souls to take shelter at Your lotus feet except that such souls are constantly thinking of Your feet."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 5.1.22",
+    "h1":"SB 5.1.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 5.1.22",
     "description":"Svāyambhuva Manu, with the assistance of Lord Brahmā, thus fulfilled his desires. With the permission of the great sage Nārada, he delivered to his son the governmental responsibility for maintaining and protecting all the planets of the universe. He thus achieved relief from the most dangerous, poisonous ocean of material desires."
 }
 ---

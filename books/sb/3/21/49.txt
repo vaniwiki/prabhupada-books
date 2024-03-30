@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 3.21.49",
+    "h1":"SB 3.21.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 3.21.49",
     "description":"After receiving the sage's attention, the King sat down and was silent. Recalling the instructions of the Lord, Kardama then spoke to the King as follows, delighting him with his sweet accents."
 }
 ---

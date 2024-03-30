@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.4.8",
+    "h1":"SB 7.4.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.4.8",
     "description":"Hiraṇyakaśipu, who possessed all opulence, began residing in heaven, with its famous Nandana garden, which is enjoyed by the demigods. In fact, he resided in the most opulent palace of Indra, the King of heaven. The palace had been directly constructed by the demigod architect Viśvakarmā and was as beautifully made as if the goddess of fortune of the entire universe resided there."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.6.23",
+    "h1":"SB 6.6.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.6.23",
     "description":"O Mahārāja Parīkṣit, best of the Bhāratas, the constellations named Kṛttikā were all wives of the moon-god. However, because Prajāpati Dakṣa had cursed him to suffer from a disease causing gradual destruction, the moon-god could not beget children in any of his wives."
 }
 ---

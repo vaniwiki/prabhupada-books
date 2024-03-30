@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.15.13",
+    "h1":"SB 4.15.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.15.13",
     "description":"Thus the great King Pṛthu, exquisitely dressed with garments and ornaments, was coronated and placed on the throne. The King and his wife, Arci, who was also exquisitely ornamented, appeared exactly like fire."
 }
 ---

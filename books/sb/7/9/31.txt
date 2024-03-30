@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 7.9.31",
+    "h1":"SB 7.9.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 7.9.31",
     "description":"My dear Lord, O Supreme Personality of Godhead, the entire cosmic creation is caused by You, and the cosmic manifestation is an effect of Your energy. Although the entire cosmos is but You alone, You keep Yourself aloof from it. The conception of \"mine and yours,\" is certainly a type of illusion [māyā] because everything is an emanation from You and is therefore not different from You. Indeed, the cosmic manifestation is nondifferent from You, and the annihilation is also caused by You. This relationship between Your Lordship and the cosmos is illustrated by the example of the seed and the tree, or the subtle cause and the gross manifestation."
 }
 ---

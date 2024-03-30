@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.3.17",
+    "h1":"SB 8.3.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.3.17",
     "description":"Since an animal such as me has surrendered unto You, who are supremely liberated, certainly You will release me from this dangerous position. Indeed, being extremely merciful, You incessantly try to deliver me. By your partial feature as Paramātmā, You are situated in the hearts of all embodied beings. You are celebrated as direct transcendental knowledge, and You are unlimited. I offer my respectful obeisances unto You, the Supreme Personality of Godhead."
 }
 ---

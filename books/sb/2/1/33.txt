@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 2.1.33",
+    "h1":"SB 2.1.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 2.1.33",
     "description":"O King, the rivers are the veins of the gigantic body, the trees are the hairs of His body, and the omnipotent air is His breath. The passing ages are His movements, and His activities are the reactions of the three modes of material nature."
 }
 ---

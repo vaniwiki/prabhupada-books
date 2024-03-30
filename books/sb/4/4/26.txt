@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.4.26",
+    "h1":"SB 4.4.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.4.26",
     "description":"Thus, in order to give up her body, which had been so respectfully and affectionately seated on the lap of Lord Śiva, who is worshiped by great sages and saints, Satī, due to anger towards her father, began to meditate on the fiery air within the body."
 }
 ---

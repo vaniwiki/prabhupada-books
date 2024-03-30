@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.5.16",
+    "h1":"SB 3.5.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.5.16",
     "description":"Kindly chant all those superhuman transcendental activities of the supreme controller, the Personality of Godhead, who accepted incarnations fully equipped with all potency for the full manifestation and maintenance of the cosmic creation."
 }
 ---

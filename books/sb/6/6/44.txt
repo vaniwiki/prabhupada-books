@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 6.6.44",
+    "h1":"SB 6.6.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 6.6.44",
     "description":"Racanā, the daughter of the Daityas, became the wife of Prajāpati Tvaṣṭā. By his semina he begot in her womb two very powerful sons named Sanniveśa and Viśvarūpa."
 }
 ---

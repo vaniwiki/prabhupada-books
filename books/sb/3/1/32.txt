@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.1.32",
+    "h1":"SB 3.1.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.1.32",
     "description":"Please tell me whether Akrūra, the son of Śvaphalka, is doing well. He is a faultless soul surrendered unto the Personality of Godhead. He once lost his mental equilibrium due to his ecstasy of transcendental love and fell down on the dust of a road which was marked with the footprints of Lord Kṛṣṇa."
 }
 ---

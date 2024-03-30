@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.24.29",
+    "h1":"SB 8.24.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.24.29",
     "description":"All Your pastimes and incarnations certainly appear for the welfare of all living entities. Therefore, my Lord, I wish to know the purpose for which You have assumed this form of a fish."
 }
 ---

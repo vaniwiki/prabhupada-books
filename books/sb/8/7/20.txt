@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.7.20",
+    "h1":"SB 8.7.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.7.20",
     "description":"The demigods observed Lord Śiva sitting on the summit of Kailāsa Hill with his wife, Bhavānī, for the auspicious development of the three worlds. He was being worshiped by great saintly persons desiring liberation. The demigods offered him their obeisances and prayers with great respect."
 }
 ---

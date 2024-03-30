@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.7.9",
+    "h1":"SB 6.7.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.7.9",
     "description":"Bṛhaspati knew everything that would happen in the future. Seeing Indra's transgression of etiquette, he completely understood that Indra was puffed up by his material opulence. Although able to curse Indra, he did not do so. Instead, he left the assembly and in silence returned to his home."
 }
 ---

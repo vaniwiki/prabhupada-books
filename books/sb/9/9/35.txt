@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.9.35",
+    "h1":"SB 9.9.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.9.35",
     "description":"O foolish, sinful person, because you have eaten my husband when I was sexually inclined and desiring to have the seed of a child, I shall also see you die when you attempt to discharge semen in your wife. In other words, whenever you attempt to sexually unite with your wife, you shall die."
 }
 ---

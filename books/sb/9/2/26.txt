@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.2.26",
+    "h1":"SB 9.2.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.2.26",
     "description":"From Karandhama came a son named Avīkṣit, and from Avīkṣit a son named Marutta, who was the emperor. The great mystic Saṁvarta, the son of Aṅgirā, engaged Marutta in performing a sacrifice [yajña]."
 }
 ---

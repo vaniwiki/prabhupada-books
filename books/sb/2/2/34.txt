@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 2.2.34",
+    "h1":"SB 2.2.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 2.2.34",
     "description":"The great personality Brahmā, with great attention and concentration of the mind, studied the Vedas three times, and after scrutinizingly examining them, he ascertained that attraction for the Supreme Personality of Godhead Śrī Kṛṣṇa is the highest perfection of religion."
 }
 ---

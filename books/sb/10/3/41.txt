@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 10.3.41",
+    "h1":"SB 10.3.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 10.3.41",
     "description":"Since I found no one else as highly elevated as you in simplicity and other qualities of good character, I appeared in this world as Pṛśnigarbha, or one who is celebrated as having taken birth from Pṛśni."
 }
 ---

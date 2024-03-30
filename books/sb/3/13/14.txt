@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.13.14",
+    "h1":"SB 3.13.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.13.14",
     "description":"Śrī Manu said: O all-powerful lord, O killer of all sins, I shall abide by your order. Now please let me know my place and that of the living entities born of me."
 }
 ---

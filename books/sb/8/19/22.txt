@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 8.19.22",
+    "h1":"SB 8.19.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 8.19.22",
     "description":"If I were not satisfied with three paces of land, then surely I would not be satisfied even with possessing one of the seven islands, consisting of nine varṣas. Even if I possessed one island, I would hope to get others."
 }
 ---

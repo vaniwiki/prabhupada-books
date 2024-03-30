@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.12.5",
+    "h1":"SB 8.12.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.12.5",
     "description":"The manifest, the unmanifest, false ego and the beginning, maintenance and annihilation of this cosmic manifestation all come from You, the Supreme Personality of Godhead. But because You are the Absolute Truth, the supreme absolute spirit soul, the Supreme Brahman, such changes as birth, death and sustenance do not exist in You."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.24.8",
+    "h1":"SB 8.24.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.24.8",
     "description":"At the end of Brahmā's day, when Brahmā felt sleepy and desired to lie down, the Vedas were emanating from his mouth, and the great demon named Hayagrīva stole the Vedic knowledge."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 6.9.45",
+    "h1":"SB 6.9.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 6.9.45",
     "description":"O Lord, O supreme pure, You live within the core of everyone's heart and observe all the desires and activities of the conditioned souls. O Supreme Personality of Godhead known as Lord Kṛṣṇa, Your reputation is bright and illuminating. You have no beginning, for You are the beginning of everything. This is understood by pure devotees because You are easily accessible to the pure and truthful. When the conditioned souls are liberated and sheltered at Your lotus feet after roving throughout the material world for many millions of years, they attain the highest success of life. Therefore, O Lord, O Supreme Personality of Godhead, we offer our respectful obeisances at Your lotus feet."
 }
 ---

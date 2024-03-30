@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 10.1.57",
+    "h1":"SB 10.1.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 10.1.57",
     "description":"Vasudeva was very much disturbed by fear of becoming a liar by breaking his promise. Thus with great pain he delivered his first-born son, named Kīrtimān, into the hands of Kaṁsa."
 }
 ---

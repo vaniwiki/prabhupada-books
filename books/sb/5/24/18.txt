@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 5.24.18",
+    "h1":"SB 5.24.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 5.24.18",
     "description":"Below the planet Vitala is another planet, known as Sutala, where the great son of Mahārāja Virocana, Bali Mahārāja, who is celebrated as the most pious king, resides even now. For the welfare of Indra, the King of heaven, Lord Viṣṇu appeared in the form of a dwarf brahmacārī as the son of Aditi and tricked Bali Mahārāja by begging for only three paces of land but taking all the three worlds. Being very pleased with Bali Mahārāja for giving all his possessions, the Lord returned his kingdom and made him richer than the opulent King Indra. Even now, Bali Mahārāja engages in devotional service by worshiping the Supreme Personality of Godhead in the planet of Sutala."
 }
 ---

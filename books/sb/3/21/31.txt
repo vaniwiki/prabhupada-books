@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.21.31",
+    "h1":"SB 3.21.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.21.31",
     "description":"Showing compassion to all living entities, you will attain self-realization. Giving assurance of safety to all, you will perceive your own self as well as all the universes in Me, and Myself in you."
 }
 ---

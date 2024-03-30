@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 4.25.50",
+    "h1":"SB 4.25.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 4.25.50",
     "description":"The southern gate of the city was known as Pitṛhū, and through that gate King Purañjana used to visit the city named Dakṣiṇa-pañcāla, accompanied by his friend Śrutadhara."
 }
 ---

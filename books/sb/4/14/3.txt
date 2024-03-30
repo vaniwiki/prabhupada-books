@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.14.3",
+    "h1":"SB 4.14.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.14.3",
     "description":"It was already known that Vena was very severe and cruel; therefore, as soon as all the thieves and rogues in the state heard of his ascendance to the royal throne, they became very much afraid of him. Indeed, they hid themselves here and there as rats hide themselves from snakes."
 }
 ---

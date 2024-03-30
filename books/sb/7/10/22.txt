@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.10.22",
+    "h1":"SB 7.10.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.10.22",
     "description":"My dear child, your father has already been purified just by the touch of My body at the time of his death. Nonetheless, the duty of a son is to perform the śrāddha ritualistic ceremony after his father's death so that his father may be promoted to a planetary system where he may become a good citizen and devotee."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.10.30",
+    "h1":"SB 4.10.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.10.30",
     "description":"All the sages said: Dear Dhruva, O son of King Uttānapāda, may the Supreme Personality of Godhead known as Śārṅgadhanvā, who relieves the distresses of His devotees, kill all your threatening enemies. The holy name of the Lord is as powerful as the Lord Himself. Therefore, simply by chanting and hearing the holy name of the Lord, many men can be fully protected from fierce death without difficulty. Thus a devotee is saved."
 }
 ---

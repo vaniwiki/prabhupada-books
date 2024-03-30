@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.2.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.2.7",
+    "h1":"SB 8.2.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.2.7",
     "description":"The valleys beneath Trikūṭa Mountain are beautifully decorated by many varieties of jungle animals, and in the trees, which are maintained in gardens by the demigods, varieties of birds chirp with sweet voices."
 }
 ---

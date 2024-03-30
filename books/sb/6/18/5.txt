@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 6.18.5",
+    "h1":"SB 6.18.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 6.18.5",
     "description":"By the semen of Varuṇa, the great mystic Vālmīki took birth from an anthill. Bhṛgu and Vālmīki were specific sons of Varuṇa, whereas Agastya and Vasiṣṭha Ṛṣis were the common sons of Varuṇa and Mitra, the tenth son of Aditi."
 }
 ---

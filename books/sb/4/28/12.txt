@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.28.12",
+    "h1":"SB 4.28.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.28.12",
     "description":"When the city was set ablaze, all the citizens and servants of the King, as well as all family members, sons, grandsons, wives and other relatives, were within the fire. King Purañjana thus became very unhappy."
 }
 ---

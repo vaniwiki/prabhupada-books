@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 7.13.35",
+    "h1":"SB 7.13.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 7.13.35",
     "description":"The bee and the python are two excellent spiritual masters who give us exemplary instructions regarding how to be satisfied by collecting only a little and how to stay in one place and not move."
 }
 ---

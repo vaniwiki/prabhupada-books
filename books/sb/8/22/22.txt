@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 8.22.22",
+    "h1":"SB 8.22.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 8.22.22",
     "description":"Bali Mahārāja had already offered everything to Your Lordship. Without hesitation, he has offered his land, the planets and whatever else he earned by his pious activities, including even his own body."
 }
 ---

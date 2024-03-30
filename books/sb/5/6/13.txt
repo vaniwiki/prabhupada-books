@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.6.13",
+    "h1":"SB 5.6.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.6.13",
     "description":"Learned scholars chant about the transcendental qualities of Lord Ṛṣabhadeva in this way: \"Oh, this earthly planet contains seven seas and many islands and lands, of which Bhārata-varṣa is considered the most pious. People of Bhārata-varṣa are accustomed to glorifying the activities of the Supreme Personality of Godhead in His incarnations as Lord Ṛṣabhadeva and others. All these activities are very auspicious for the welfare of humanity."
 }
 ---

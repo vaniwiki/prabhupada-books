@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 10.13.2",
+    "h1":"SB 10.13.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 10.13.2",
     "description":"Paramahaṁsas, devotees who have accepted the essence of life, are attached to Kṛṣṇa in the core of their hearts, and He is the aim of their lives. It is their nature to talk only of Kṛṣṇa at every moment, as if such topics were newer and newer. They are attached to such topics, just as materialists are attached to topics of women and sex."
 }
 ---

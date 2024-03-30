@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.66",
-    "h1":"Text 66",
-    "title":" Śrīmad Bhāgavatam 4.24.66",
+    "h1":"SB 4.24.66",
+    "label":"Text 66",
+    "title":"Śrīmad Bhāgavatam 4.24.66",
     "description":"My dear Lord, all living entities within this material world are mad after planning for things, and they are always busy with a desire to do this or that. This is due to uncontrollable greed. The greed for material enjoyment is always existing in the living entity, but Your Lordship is always alert, and in due course of time You strike him, just as a snake seizes a mouse and very easily swallows him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.12.23",
+    "h1":"SB 6.12.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.12.23",
     "description":"Śrī Śukadeva Gosvāmī said: Vṛtrāsura and King Indra spoke about devotional service even on the battlefield, and then as a matter of duty they again began fighting. My dear King, both of them were great fighters and were equally powerful."
 }
 ---

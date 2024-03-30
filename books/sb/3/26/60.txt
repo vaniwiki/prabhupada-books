@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 3.26.60",
+    "h1":"SB 3.26.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 3.26.60",
     "description":"Next grew feelings of hunger and thirst, and in their wake came the manifestation of the oceans. Then a heart became manifest, and in the wake of the heart the mind appeared."
 }
 ---

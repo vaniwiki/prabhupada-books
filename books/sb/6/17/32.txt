@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 6.17.32",
+    "h1":"SB 6.17.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 6.17.32",
     "description":"Neither I [Lord Śiva], nor Brahmā, nor the Aśvinī-kumāras, nor Nārada or the other great sages who are Brahmā's sons, nor even the demigods can understand the pastimes and personality of the Supreme Lord. Although we are part of the Supreme Lord, we consider ourselves independent, separate controllers, and thus we cannot understand His identity."
 }
 ---

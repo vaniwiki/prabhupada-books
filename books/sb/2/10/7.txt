@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 2.10.7",
+    "h1":"SB 2.10.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 2.10.7",
     "description":"The supreme one who is celebrated as the Supreme Being or the Supreme Soul is the supreme source of the cosmic manifestation as well as its reservoir and winding up. Thus He is the Supreme Fountainhead, the Absolute Truth."
 }
 ---

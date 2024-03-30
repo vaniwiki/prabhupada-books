@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.23.20",
+    "h1":"SB 4.23.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.23.20",
     "description":"Although she was not accustomed to such difficulties, Queen Arci followed her husband in the regulative principles of living in the forest like great sages. She lay down on the ground and ate only fruits, flowers and leaves, and because she was not fit for these activities, she became frail and thin. Yet because of the pleasure she derived in serving her husband, she did not feel any difficulties."
 }
 ---

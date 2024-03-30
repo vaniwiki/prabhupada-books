@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.16.13",
+    "h1":"SB 4.16.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.16.13",
     "description":"Since this King will always remain on the path of piety, he will be neutral to both his son and the son of his enemy. If the son of his enemy is not punishable, he will not punish him, but if his own son is punishable, he will immediately punish him."
 }
 ---

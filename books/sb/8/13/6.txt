@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.13.6",
+    "h1":"SB 8.13.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.13.6",
     "description":"In this manvantara, the Supreme Personality of Godhead appeared as the youngest of all the Ādityas, known as Vāmana, the dwarf. His father was Kaśyapa and His mother Aditi."
 }
 ---

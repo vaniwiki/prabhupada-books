@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.22.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 5.22.12",
+    "h1":"SB 5.22.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 5.22.12",
     "description":"Some 1,600,000 miles above this group of stars is the planet Venus, which moves at almost exactly the same pace as the sun according to swift, slow and moderate movements. Sometimes Venus moves behind the sun, sometimes in front of the sun and sometimes along with it. Venus nullifies the influence of planets that are obstacles to rainfall. Consequently its presence causes rainfall, and it is therefore considered very favorable for all living beings within this universe. This has been accepted by learned scholars."
 }
 ---

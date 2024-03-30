@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 3.23.50",
+    "h1":"SB 3.23.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 3.23.50",
     "description":"She stood and scratched the ground with her foot, which was radiant with the luster of her gemlike nails. Her head bent down, she spoke in slow yet charming accents, suppressing her tears."
 }
 ---

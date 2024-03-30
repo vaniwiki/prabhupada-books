@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.28.2",
+    "h1":"SB 4.28.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.28.2",
     "description":"Once the dangerous soldiers attacked the city of Purañjana with great force. Although the city was full of paraphernalia for sense gratification, it was being protected by the old serpent."
 }
 ---

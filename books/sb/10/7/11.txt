@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 10.7.11",
+    "h1":"SB 10.7.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 10.7.11",
     "description":"Thinking that some bad planet had attacked Kṛṣṇa, mother Yaśodā picked up the crying child and allowed Him to suck her breast. Then she called for experienced brāhmaṇas to chant Vedic hymns and perform an auspicious ritualistic ceremony."
 }
 ---

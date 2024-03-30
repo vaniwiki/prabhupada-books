@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 7.8.54",
+    "h1":"SB 7.8.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 7.8.54",
     "description":"The inhabitants of Vaitālika-loka said: Dear Lord, because of chanting Your spotless glories in great assemblies and arenas of sacrifice, we were accustomed to great respect from everyone. This demon, however, usurped that position. Now, to our great fortune, You have killed this great demon, exactly as one cures a chronic disease."
 }
 ---

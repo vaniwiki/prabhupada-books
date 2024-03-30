@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.10.12",
+    "h1":"SB 2.10.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.10.12",
     "description":"One should definitely know that all material ingredients, activities, time and modes, and the living entities who are meant to enjoy them all, exist by His mercy only, and as soon as He does not care for them, everything becomes nonexistent."
 }
 ---

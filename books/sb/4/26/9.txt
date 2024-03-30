@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.26.9",
+    "h1":"SB 4.26.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.26.9",
     "description":"When King Purañjana was hunting in this way, many animals within the forest lost their lives with great pain, being pierced by the sharp arrowheads. Upon seeing these devastating, ghastly activities performed by the King, all the people who were merciful by nature became very unhappy. Such merciful persons could not tolerate seeing all this killing."
 }
 ---

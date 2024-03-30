@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.4.31",
+    "h1":"SB 3.4.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.4.31",
     "description":"Uddhava is not inferior to Me in any way because he is never affected by the modes of material nature. Therefore he may remain in this world in order to disseminate specific knowledge of the Personality of Godhead."
 }
 ---

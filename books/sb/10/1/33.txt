@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.1.33",
+    "h1":"SB 10.1.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.1.33",
     "description":"O beloved son, Mahārāja Parīkṣit, when the bride and bridegroom were ready to start, conchshells, bugles, drums and kettledrums all vibrated in concert for their auspicious departure."
 }
 ---

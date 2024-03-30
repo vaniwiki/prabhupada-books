@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 3.26.54",
+    "h1":"SB 3.26.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 3.26.54",
     "description":"First of all a mouth appeared in Him, and then came forth the organ of speech, and with it the god of fire, the deity who presides over that organ. Then a pair of nostrils appeared, and in them appeared the olfactory sense, as well as prāṇa, the vital air."
 }
 ---

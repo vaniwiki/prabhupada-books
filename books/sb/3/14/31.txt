@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.14.31",
+    "h1":"SB 3.14.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.14.31",
     "description":"Understanding his wife's purpose, he was obliged to perform the forbidden act, and thus after offering his obeisances unto worshipable fate, he lay with her in a secluded place."
 }
 ---

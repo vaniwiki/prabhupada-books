@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.2-3",
-    "h1":"Text 2-3",
-    "title":" Śrīmad Bhāgavatam 8.17.2-3",
+    "h1":"SB 8.17.2-3",
+    "label":"Text 2-3",
+    "title":"Śrīmad Bhāgavatam 8.17.2-3",
     "description":"With full, undiverted attention, Aditi thought of the Supreme Personality of Godhead and in this way brought under full control her mind and senses, which resembled forceful horses. She concentrated her mind upon the Supreme Lord, Vāsudeva. Thus she performed the ritualistic ceremony known as payo-vrata."
 }
 ---

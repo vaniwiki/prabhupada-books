@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 2.7.32",
+    "h1":"SB 2.7.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 2.7.32",
     "description":"When the cowherd men of Vṛndāvana, under instruction of Kṛṣṇa, stopped offering sacrifice to the heavenly King, Indra, the whole tract of land known as Vraja was threatened with being washed away by constant heavy rains for seven days. Lord Kṛṣṇa, out of His causeless mercy upon the inhabitants of Vraja, held up the hill known as Govardhana with one hand only, although He was only seven years old. He did this to protect the animals from the onslaught of water."
 }
 ---

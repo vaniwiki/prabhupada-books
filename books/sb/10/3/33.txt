@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.3.33",
+    "h1":"SB 10.3.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.3.33",
     "description":"When both of you were ordered by Lord Brahmā to create progeny, you first underwent severe austerities by controlling your senses."
 }
 ---

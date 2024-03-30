@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.15.17",
+    "h1":"SB 6.15.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.15.17",
     "description":"Aṅgirā said: My dear King, when you desired to have a son, I approached you. Indeed, I am the same Aṅgirā Ṛṣi who gave you this son. As for this ṛṣi, he is the great sage Nārada, the direct son of Lord Brahmā"
 }
 ---

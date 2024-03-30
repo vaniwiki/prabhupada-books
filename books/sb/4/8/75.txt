@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.75",
-    "h1":"Text 75",
-    "title":" Śrīmad Bhāgavatam 4.8.75",
+    "h1":"SB 4.8.75",
+    "label":"Text 75",
+    "title":"Śrīmad Bhāgavatam 4.8.75",
     "description":"In the fourth month Dhruva Mahārāja became a complete master of the breathing exercise, and thus he inhaled air only every twelfth day. In this way he became completely fixed in his position and worshiped the Supreme Personality of Godhead."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 10.8.12",
+    "h1":"SB 10.8.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 10.8.12",
     "description":"Gargamuni said: This child, the son of Rohiṇī, will give all happiness to His relatives and friends by His transcendental qualities. Therefore He will be known as Rāma. And because He will manifest extraordinary bodily strength, He will also be known as Bala. Moreover, because He unites two families—Vasudeva's family and the family of Nanda Mahārāja—He will be known as Saṅkarṣaṇa."
 }
 ---

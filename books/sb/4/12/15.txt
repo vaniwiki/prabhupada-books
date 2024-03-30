@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.12.15",
+    "h1":"SB 4.12.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.12.15",
     "description":"Śrīla Dhruva Mahārāja realized that this cosmic manifestation bewilders living entities like a dream or phantasmagoria because it is a creation of the illusory, external energy of the Supreme Lord."
 }
 ---

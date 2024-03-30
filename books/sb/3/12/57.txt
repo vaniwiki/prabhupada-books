@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 3.12.57",
+    "h1":"SB 3.12.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 3.12.57",
     "description":"The father, Manu, handed over his first daughter, Ākūti, to the sage Ruci, the middle daughter, Devahūti, to the sage Kardama, and the youngest, Prasūti, to Dakṣa. From them, all the world filled with population."
 }
 ---

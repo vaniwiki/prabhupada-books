@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.33.37",
+    "h1":"SB 3.33.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.33.37",
     "description":"The description of the dealings of Kapiladeva and His mother is very confidential, and anyone who hears or reads this narration becomes a devotee of the Supreme Personality of Godhead, who is carried by Garuḍa, and he thereafter enters into the abode of the Supreme Lord to engage in the transcendental loving service of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.29.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.29.26",
+    "h1":"SB 3.29.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.29.26",
     "description":"As the blazing fire of death, I cause great fear to whoever makes the least discrimination between himself and other living entities because of a differential outlook."
 }
 ---

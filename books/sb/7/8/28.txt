@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 7.8.28",
+    "h1":"SB 7.8.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 7.8.28",
     "description":"Making a loud, shrill sound of laughter, the Supreme Personality of Godhead, Nārāyaṇa, who is extremely strong and powerful, captured Hiraṇyakaśipu, who was protecting himself with his sword and shield, leaving no gaps open. With the speed of a hawk, Hiraṇyakaśipu moved sometimes in the sky and sometimes on the earth, his eyes closed because of fear of Nṛsiṁhadeva's laughter."
 }
 ---

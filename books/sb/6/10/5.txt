@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 6.10.5",
+    "h1":"SB 6.10.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 6.10.5",
     "description":"The demigods replied: O exalted brāhmaṇa, pious persons like you, whose activities are praiseworthy, are very kind and affectionate to people in general. What can't such pious souls give for the benefit of others? They can give everything, including their bodies."
 }
 ---

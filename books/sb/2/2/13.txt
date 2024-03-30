@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 2.2.13",
+    "h1":"SB 2.2.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 2.2.13",
     "description":"The process of meditation should begin from the lotus feet of the Lord and progress to His smiling face. The meditation should be concentrated upon the lotus feet, then the calves, then the thighs, and in this way higher and higher. The more the mind becomes fixed upon the different parts of the limbs, one after another, the more the intelligence becomes purified."
 }
 ---

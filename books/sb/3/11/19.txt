@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.11.19",
+    "h1":"SB 3.11.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.11.19",
     "description":"The duration of the Satya millennium equals 4,800 years of the years of the demigods; the duration of the Treta millennium equals 3600 years of the demigods; the duration of the Dvāpara millennium equals 2,400 years; and that of the Kali millennium is 1,200 years of the demigods."
 }
 ---

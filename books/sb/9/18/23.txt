@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.18.23",
+    "h1":"SB 9.18.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.18.23",
     "description":"Śukadeva Gosvāmī continued: Because such a marriage is not sanctioned by regular scriptures, King Yayāti did not like it, but because it was arranged by providence and because he was attracted by Devayānī's beauty, he accepted her request."
 }
 ---

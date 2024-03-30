@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.5.22",
+    "h1":"SB 7.5.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.5.22",
     "description":"Hiraṇyakaśipu said: My dear Prahlāda, my dear son, O long—lived one, for so much time you have heard many things from your teachers. Now please repeat to me whatever you think is the best of that knowledge."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.13.31",
+    "h1":"SB 4.13.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.13.31",
     "description":"The head priests said: O King, in this life we do not find any sinful activity, even within your mind, so you are not in the least offensive. But we can see that in your previous life you performed sinful activities due to which, in spite of your having all qualifications, you have no son."
 }
 ---

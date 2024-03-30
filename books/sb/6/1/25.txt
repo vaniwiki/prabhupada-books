@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 6.1.25",
+    "h1":"SB 6.1.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 6.1.25",
     "description":"Because of the child's broken language and awkward movements, old Ajāmila was very much attached to him. He always took care of the child and enjoyed the child's activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 10.2.36",
+    "h1":"SB 10.2.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 10.2.36",
     "description":"O Lord, Your transcendental name and form are not ascertained by those who merely speculate on the path of imagination. Your name, form and attributes can be ascertained only through devotional service."
 }
 ---

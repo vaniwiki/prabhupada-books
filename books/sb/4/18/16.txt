@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.18.16",
+    "h1":"SB 4.18.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.18.16",
     "description":"The sons of Diti and the demons transformed Prahlāda Mahārāja, who was born in an asura family, into a calf, and they extracted various kinds of liquor and beer, which they put into a pot made of iron."
 }
 ---

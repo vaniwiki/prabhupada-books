@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 10.11.42",
+    "h1":"SB 10.11.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 10.11.42",
     "description":"When the Supreme Personality of Godhead saw that the demon had assumed the form of a calf and entered among the groups of other calves, He pointed out to Baladeva, \"Here is another demon.\" Then He very slowly approached the demon, as if He did not understand the demon's intentions."
 }
 ---

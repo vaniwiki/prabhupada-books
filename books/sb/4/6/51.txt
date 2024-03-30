@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.6.51",
+    "h1":"SB 4.6.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.6.51",
     "description":"My dear lord, by your mercy the performer of the sacrifice (King Dakṣa) may get back his life, Bhaga may get back his eyes, Bhṛgu his mustache, and Pūṣā his teeth."
 }
 ---

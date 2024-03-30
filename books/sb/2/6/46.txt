@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 2.6.46",
+    "h1":"SB 2.6.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 2.6.46",
     "description":"O Nārada, now I shall state, one after another, the transcendental incarnations of the Lord known as līlā-avatāras. Hearing of their activities counteracts all foul matters accumulated in the ear. These pastimes are pleasing to hear and are to be relished. Therefore they are in my heart."
 }
 ---

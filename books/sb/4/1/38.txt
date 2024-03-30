@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.1.38",
+    "h1":"SB 4.1.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.1.38",
     "description":"Gati, the wife of the sage Pulaha, gave birth to three sons, named Karmaśreṣṭha, Varīyān and Sahiṣṇu, and all of them were great sages."
 }
 ---

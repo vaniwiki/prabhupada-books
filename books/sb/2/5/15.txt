@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.5.15",
+    "h1":"SB 2.5.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.5.15",
     "description":"The Vedic literatures are made by and are meant for the Supreme Lord, the demigods are also meant for serving the Lord as parts of His body, the different planets are also meant for the sake of the Lord, and different sacrifices are performed just to please Him."
 }
 ---

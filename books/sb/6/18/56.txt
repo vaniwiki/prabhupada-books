@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 6.18.56",
+    "h1":"SB 6.18.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 6.18.56",
     "description":"O King, who are respectful to everyone, Indra understood Diti's purpose, and thus he contrived to fulfill his own interests. Following the logic that self-preservation is the first law of nature, he wanted to break Diti's promise. Thus he engaged himself in the service of Diti, his aunt, who was residing in an āśrama."
 }
 ---

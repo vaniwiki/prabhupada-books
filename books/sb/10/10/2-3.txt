@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.2-3",
-    "h1":"Text 2-3",
-    "title":" Śrīmad Bhāgavatam 10.10.2-3",
+    "h1":"SB 10.10.2-3",
+    "label":"Text 2-3",
+    "title":"Śrīmad Bhāgavatam 10.10.2-3",
     "description":"Śukadeva Gosvāmī said: O King Parīkṣit, because the two sons of Kuvera had been elevated to the association of Lord Śiva, of which they were very much proud, they were allowed to wander in a garden attached to Kailāsa Hill, on the bank of the Mandākinī River. Taking advantage of this, they used to drink a kind of liquor called Vāruṇī. Accompanied by women singing after them, they would wander in that garden of flowers, their eyes always rolling in intoxication."
 }
 ---

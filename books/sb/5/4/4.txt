@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.4.4",
+    "h1":"SB 5.4.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.4.4",
     "description":"Due to getting a perfect son according to his desire, King Nābhi was always overwhelmed with transcendental bliss and was very affectionate to his son. It was with ecstasy and a faltering voice that he addressed Him, \"My dear son, my darling.\" This mentality was brought about by yogamāyā, whereby he accepted the Supreme Lord, the supreme father, as his own son. Out of His supreme good will, the Lord became his son and dealt with everyone as if He were an ordinary human being. Thus King Nābhi began to raise his transcendental son with great affection, and he was overwhelmed with transcendental bliss, joy and devotion."
 }
 ---

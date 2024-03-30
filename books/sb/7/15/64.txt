@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 7.15.64",
+    "h1":"SB 7.15.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 7.15.64",
     "description":"My dear Yudhiṣṭhira [Pārtha], when all the activities one performs with his mind, words and body are dedicated directly to the service of the Supreme Personality of Godhead, one reaches oneness of activities, called kriyādvaita."
 }
 ---

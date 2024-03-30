@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.70",
-    "h1":"Text 70",
-    "title":" Śrīmad Bhāgavatam 6.18.70",
+    "h1":"SB 6.18.70",
+    "label":"Text 70",
+    "title":"Śrīmad Bhāgavatam 6.18.70",
     "description":"I prayed for only one son, but now I see that there are forty-nine. How has this happened? My dear son Indra, if you know, please tell me the truth. Do not try to speak lies."
 }
 ---

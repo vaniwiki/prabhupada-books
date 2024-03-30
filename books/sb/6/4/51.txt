@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 6.4.51",
+    "h1":"SB 6.4.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 6.4.51",
     "description":"O My dear son Dakṣa, Prajāpati Pañcajana has a daughter named Asiknī, whom I offer to you so that you may accept her as your wife."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 10.11.12",
+    "h1":"SB 10.11.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 10.11.12",
     "description":"Once, after the uprooting of the yamala-arjuna trees, Rohiṇīdevī went to call Rāma and Kṛṣṇa, who had both gone to the riverside and were playing with the other boys with deep attention."
 }
 ---

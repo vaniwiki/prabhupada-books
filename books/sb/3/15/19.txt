@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.15.19",
+    "h1":"SB 3.15.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.15.19",
     "description":"Although flowering plants like the mandāra, kunda, kurabaka, utpala, campaka, arṇa, punnāga, nāgakeśara, bakula, lily and pārijāta are full of transcendental fragrance, they are still conscious of the austerities performed by tulasī, for tulasī is given special preference by the Lord, who garlands Himself with tulasī leaves."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 7.10.38",
+    "h1":"SB 7.10.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 7.10.38",
     "description":"They both took birth again in human society as Śiśupāla and Dantavakra and continued in the same enmity toward the Lord. It is they who merged into the body of the Lord in your presence."
 }
 ---

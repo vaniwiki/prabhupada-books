@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.24.36",
+    "h1":"SB 3.24.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.24.36",
     "description":"My appearance in this world is especially to explain the philosophy of Sāṅkhya, which is highly esteemed for self-realization by those desiring freedom from the entanglement of unnecessary material desires."
 }
 ---

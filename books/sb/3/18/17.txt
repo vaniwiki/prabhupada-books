@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.18.17",
+    "h1":"SB 3.18.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.18.17",
     "description":"Then with His mace the Lord struck the enemy on the right of his brow, but since the demon was expert in fighting, O gentle Vidura, he protected himself by a maneuver of his own mace."
 }
 ---

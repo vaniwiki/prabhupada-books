@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.34-35",
-    "h1":"Text 34-35",
-    "title":" Śrīmad Bhāgavatam 8.24.34-35",
+    "h1":"SB 8.24.34-35",
+    "label":"Text 34-35",
+    "title":"Śrīmad Bhāgavatam 8.24.34-35",
     "description":"Thereafter, O King, you shall collect all types of herbs and seeds and load them on that great boat. Then, accompanied by the seven ṛṣis and surrounded by all kinds of living entities, you shall get aboard that boat, and without moroseness you shall easily travel with your companions on the ocean of inundation, the only illumination being the effulgence of the great ṛṣis."
 }
 ---

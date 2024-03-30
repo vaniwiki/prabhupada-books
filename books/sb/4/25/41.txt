@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.25.41",
+    "h1":"SB 4.25.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.25.41",
     "description":"O my dear hero, who in this world will not accept a husband like you? You are so famous, so magnanimous, so beautiful and so easily gotten."
 }
 ---

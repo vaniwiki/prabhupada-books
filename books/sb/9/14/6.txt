@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.14.6",
+    "h1":"SB 9.14.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.14.6",
     "description":"Because of enmity between Bṛhaspati and Śukra, Śukra took the side of the moon-god and was joined by the demons. But Lord Śiva, because of affection for the son of his spiritual master, joined the side of Bṛhaspati and was accompanied by all the ghosts and hobgoblins."
 }
 ---

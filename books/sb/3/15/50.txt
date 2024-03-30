@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 3.15.50",
+    "h1":"SB 3.15.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 3.15.50",
     "description":"O Lord, we therefore offer our respectful obeisances unto Your eternal form as the Personality of Godhead, which You have so kindly manifested before us. Your supreme, eternal form cannot be seen by unfortunate, less intelligent persons, but we are so much satisfied in our mind and vision to see it."
 }
 ---

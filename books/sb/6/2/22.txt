@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.2.22",
+    "h1":"SB 6.2.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.2.22",
     "description":"Having been released from the nooses of Yamarāja's servants, the brāhmaṇa Ajāmila, now free from fear, came to his senses and immediately offered obeisances to the Viṣṇudūtas by bowing his head at their lotus feet. He was extremely pleased by their presence, for he had seen them save his life from the hands of the servants of Yamarāja."
 }
 ---

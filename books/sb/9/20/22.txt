@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 9.20.22",
+    "h1":"SB 9.20.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 9.20.22",
     "description":"O King Duṣmanta, he who discharges semen is the actual father, and his son saves him from the custody of Yamarāja. You are the actual procreator of this child. Indeed, Śakuntalā is speaking the truth."
 }
 ---

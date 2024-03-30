@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.7.21",
+    "h1":"SB 3.7.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.7.21",
     "description":"After creating the total material energy, the mahat-tattva, and thereby manifesting the gigantic universal form with senses and sense organs, the Supreme Lord entered within it."
 }
 ---

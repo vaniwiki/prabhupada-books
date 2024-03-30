@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.83",
-    "h1":"Text 83",
-    "title":" Śrīmad Bhāgavatam 4.29.83",
+    "h1":"SB 4.29.83",
+    "label":"Text 83",
+    "title":"Śrīmad Bhāgavatam 4.29.83",
     "description":"My dear Vidura, one who hears this narration concerning the understanding of the living entity's spiritual existence, as described by the great sage Nārada, or who relates it to others, will be liberated from the bodily conception of life."
 }
 ---

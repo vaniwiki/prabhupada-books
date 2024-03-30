@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.8.41",
+    "h1":"SB 4.8.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.8.41",
     "description":"Any person who desires the fruits of the four principles religiosity, economic development, sense gratification and, at the end, liberation, should engage himself in the devotional service of the Supreme Personality of Godhead, for worship of His lotus feet yields the fulfillment of all of these."
 }
 ---

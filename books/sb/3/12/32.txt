@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.12.32",
+    "h1":"SB 3.12.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.12.32",
     "description":"Let us offer our respectful obeisances unto the Personality of Godhead, who, by His own effulgence, while situated in Himself, has manifested this cosmos. May He also protect religion for all goodness."
 }
 ---

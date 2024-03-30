@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 9.1.1",
+    "h1":"SB 9.1.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 9.1.1",
     "description":"King Parīkṣit said: My lord, Śukadeva Gosvāmī, you have elaborately described all the periods of the various Manus and, within those periods, the wonderful activities of the Supreme Personality of Godhead, who has unlimited potency. I am fortunate to have heard all of this from you."
 }
 ---

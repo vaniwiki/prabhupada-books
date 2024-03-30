@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 10.7.34",
+    "h1":"SB 10.7.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 10.7.34",
     "description":"One day mother Yaśodā, having taken Kṛṣṇa up and placed Him on her lap, was feeding Him milk from her breast with maternal affection. The milk was flowing from her breast, and the child was drinking it."
 }
 ---

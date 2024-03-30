@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 6.5.41",
+    "h1":"SB 6.5.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 6.5.41",
     "description":"Material enjoyment is indeed the cause of all unhappiness, but one cannot give it up unless one has personally experienced how much suffering it is. Therefore one should be allowed to remain in so-called material enjoyment while simultaneously advancing in knowledge to experience the misery of this false material happiness. Then, without help from others, one will find material enjoyment detestful. Those whose minds are changed by others do not become as renounced as those who have personal experience."
 }
 ---

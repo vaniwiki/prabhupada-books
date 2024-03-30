@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.18.12",
+    "h1":"SB 3.18.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.18.12",
     "description":"You are supposed to be the commander of many foot soldiers, and now you may take prompt steps to overthrow Us. Give up all your foolish talk and wipe out the cares of your kith and kin by slaying Us. One may be proud, yet he does not deserve a seat in an assembly if he fails to fulfill his promised word."
 }
 ---

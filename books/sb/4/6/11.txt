@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.6.11",
+    "h1":"SB 4.6.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.6.11",
     "description":"There are many waterfalls, and in the mountains there are many beautiful caves in which the very beautiful wives of the mystics are found."
 }
 ---

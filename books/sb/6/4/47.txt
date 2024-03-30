@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 6.4.47",
+    "h1":"SB 6.4.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 6.4.47",
     "description":"Before the creation of this cosmic manifestation, I alone existed with My specific spiritual potencies. Consciousness was then unmanifested, just as one's consciousness is unmanifested during the time of sleep."
 }
 ---

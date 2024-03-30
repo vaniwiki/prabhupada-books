@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 7.9.46",
+    "h1":"SB 7.9.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 7.9.46",
     "description":"O Supreme Personality of Godhead, there are ten prescribed methods on the path to liberation—to remain silent, not to speak to anyone, to observe vows, to amass all kinds of Vedic knowledge, to undergo austerities, to study the Vedas and other Vedic literatures, to execute the duties of varṇāśrama-dharma, to explain the śāstras, to stay in a solitary place, to chant mantras silently, and to be absorbed in trance. These different methods for liberation are generally only a professional practice and means of livelihood for those who have not conquered their senses. Because such persons are falsely proud, these procedures may not be successful."
 }
 ---

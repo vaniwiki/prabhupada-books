@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.18.28",
+    "h1":"SB 8.18.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.18.28",
     "description":"Lord Śiva, the best of demigods, who carries on his forehead the emblem of the moon, receives on his head with great devotion the Ganges water emanating from the toe of Viṣṇu. Being aware of religious principles, Bali Mahārāja knew this. Consequently, following in the footsteps of Lord Śiva, he also placed on his head the water that had washed the Lord's lotus feet."
 }
 ---

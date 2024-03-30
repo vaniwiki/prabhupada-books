@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 6.7.31",
+    "h1":"SB 6.7.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 6.7.31",
     "description":"Dear son, we have been defeated by our enemies, and therefore we are very much aggrieved. Please mercifully fulfill our desires by relieving our distress through the strength of your austerities. Please fulfill our prayers."
 }
 ---

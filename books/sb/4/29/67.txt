@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 4.29.67",
+    "h1":"SB 4.29.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 4.29.67",
     "description":"Sometimes in a dream we see something never experienced or heard of in this life, but all these incidents have been experienced at different times, in different places and in different conditions."
 }
 ---

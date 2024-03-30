@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 7.1.9",
+    "h1":"SB 7.1.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 7.1.9",
     "description":"The all-pervading Personality of Godhead exists within the heart of every living being, and an expert thinker can perceive how He is present there to a large or small extent. Just as one can understand the supply of fire in wood, the water in a waterpot, or the sky within a pot, one can understand whether a living entity is a demon or a demigod by understanding that living entity's devotional performances. A thoughtful man can understand how much a person is favored by the Supreme Lord by seeing his actions."
 }
 ---

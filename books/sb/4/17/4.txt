@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.17.4",
+    "h1":"SB 4.17.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.17.4",
     "description":"The surface of the earth is by nature low in some places and high in others. How did King Pṛthu level the surface of the earth, and why did the King of heaven, Indra, steal the horse meant for the sacrifice ?"
 }
 ---

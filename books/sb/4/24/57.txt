@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 4.24.57",
+    "h1":"SB 4.24.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 4.24.57",
     "description":"If one by chance associates with a devotee, even for a fraction of a moment, he no longer is subject to attraction by the results of karma or jñāna. What interest then can he have in the benedictions of the demigods, who are subject to the laws of birth and death?"
 }
 ---

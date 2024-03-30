@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.5.3",
+    "h1":"SB 3.5.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.5.3",
     "description":"O my lord, great philanthropic souls travel on the earth on behalf of the Supreme Personality of Godhead to show compassion to the fallen souls who are averse to the sense of subordination to the Lord."
 }
 ---

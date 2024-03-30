@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.16.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.16.2",
+    "h1":"SB 5.16.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.16.2",
     "description":"My dear Lord, the rolling wheels of Mahārāja Priyavrata's chariot created seven ditches, in which the seven oceans came into existence. Because of these seven oceans, Bhū-maṇḍala is divided into seven islands. You have given a very general description of their measurement, names and characteristics. Now I wish to know of them in detail. Kindly fulfill my desire."
 }
 ---

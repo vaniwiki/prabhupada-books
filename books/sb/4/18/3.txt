@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.18.3",
+    "h1":"SB 4.18.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.18.3",
     "description":"To benefit all human society, not only in this life but in the next, the great seers and sages have prescribed various methods conducive to the prosperity of the people in general."
 }
 ---

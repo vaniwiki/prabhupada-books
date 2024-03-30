@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.19.26",
+    "h1":"SB 4.19.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.19.26",
     "description":"Mahārāja Pṛthu, who was celebrated as very powerful, immediately took up his bow and arrows and prepared to kill Indra himself, because Indra had introduced such irregular sannyāsa orders."
 }
 ---

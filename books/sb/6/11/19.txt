@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 6.11.19",
+    "h1":"SB 6.11.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 6.11.19",
     "description":"O King of the demigods, since I, your enemy, am standing before you, why don't you hurl your thunderbolt at me? Although your attack upon me with your club was certainly useless, like a request of money from a miser, the thunderbolt you carry will not be useless. You need have no doubts about this."
 }
 ---

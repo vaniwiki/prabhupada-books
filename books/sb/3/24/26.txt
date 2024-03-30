@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.24.26",
+    "h1":"SB 3.24.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.24.26",
     "description":"When Kardama Muni understood that the Supreme Personality of Godhead, the chief of all the demigods, Viṣṇu, had descended, Kardama approached Him in a secluded place, offered obeisances and spoke as follows."
 }
 ---

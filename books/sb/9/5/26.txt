@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.5.26",
+    "h1":"SB 9.5.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.5.26",
     "description":"Śrīla Śukadeva Gosvāmī continued: Thereafter, because of his advanced position in devotional life, Mahārāja Ambarīṣa, who no longer desired to live with material things, retired from active family life. He divided his property among his sons, who were equally as qualified, and he himself took the order of vānaprastha and went to the forest to concentrate his mind fully upon Lord Vāsudeva."
 }
 ---

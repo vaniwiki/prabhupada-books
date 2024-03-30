@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 9.3.17",
+    "h1":"SB 9.3.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 9.3.17",
     "description":"The Aśvinī-kumāras were very pleased to see Sukanyā's chastity and faithfulness. Thus they showed her Cyavana Muni, her husband, and after taking permission from him, they returned to the heavenly planets in their plane."
 }
 ---

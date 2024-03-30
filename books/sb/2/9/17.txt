@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 2.9.17",
+    "h1":"SB 2.9.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 2.9.17",
     "description":"The Lord was seated on His throne and was surrounded by different energies like the four, the sixteen, the five, and the six natural opulences, along with other insignificant energies of the temporary character. But He was the factual Supreme Lord, enjoying His own abode."
 }
 ---

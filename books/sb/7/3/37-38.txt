@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.37-38",
-    "h1":"Text 37-38",
-    "title":" Śrīmad Bhāgavatam 7.3.37-38",
+    "h1":"SB 7.3.37-38",
+    "label":"Text 37-38",
+    "title":"Śrīmad Bhāgavatam 7.3.37-38",
     "description":"Grant me that I not meet death from any entity, living or nonliving. Grant me, further, that I not be killed by any demigod or demon or by any great snake from the lower planets. Since no one can kill you in the battlefield, you have no competitor. Therefore, grant me the benediction that I too may have no rival. Give me sole lordship over all the living entities and presiding deities, and give me all the glories obtained by that position. Furthermore, give me all the mystic powers attained by long austerities and the practice of yoga, for these cannot be lost at any time."
 }
 ---

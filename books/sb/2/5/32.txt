@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 2.5.32",
+    "h1":"SB 2.5.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 2.5.32",
     "description":"O Nārada, best of the transcendentalists, the forms of the body cannot take place as long as these created parts, namely the elements, senses, mind and modes of nature, are not assembled."
 }
 ---

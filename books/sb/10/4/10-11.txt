@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.10-11",
-    "h1":"Text 10-11",
-    "title":" Śrīmad Bhāgavatam 10.4.10-11",
+    "h1":"SB 10.4.10-11",
+    "label":"Text 10-11",
+    "title":"Śrīmad Bhāgavatam 10.4.10-11",
     "description":"The goddess Durgā was decorated with flower garlands, smeared with sandalwood pulp and dressed with excellent garments and ornaments made of valuable jewels. Holding in her hands a bow, a trident, arrows, a shield, a sword, a conchshell, a disc and a club, and being praised by celestial beings like Apsarās, Kinnaras, Uragas, Siddhas, Cāraṇas and Gandharvas, who worshiped her with all kinds of presentations, she spoke as follows."
 }
 ---

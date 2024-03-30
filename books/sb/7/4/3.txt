@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 7.4.3",
+    "h1":"SB 7.4.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 7.4.3",
     "description":"Then Lord Brahmā, who awards infallible benedictions, departed, being worshiped by the best of the demons, Hiraṇyakaśipu, and being praised by great sages and saintly persons."
 }
 ---

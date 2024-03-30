@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 6.16.55",
+    "h1":"SB 6.16.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 6.16.55",
     "description":"Know Me to be the Supreme Brahman, the all-pervading Supersoul through whom the sleeping living entity can understand his dreaming condition and his happiness beyond the activities of the material senses. That is to say, I am the cause of the activities of the sleeping living being."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.16.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 5.16.23",
+    "h1":"SB 5.16.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 5.16.23",
     "description":"The air carrying the scent from the mouths of those who drink that honey perfumes the land for a hundred yojanas around."
 }
 ---

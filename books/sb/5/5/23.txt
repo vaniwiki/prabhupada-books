@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 5.5.23",
+    "h1":"SB 5.5.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 5.5.23",
     "description":"O respectful brāhmaṇas, as far as I am concerned, no one is equal or superior to the brāhmaṇas in this world. I do not find anyone comparable to them. When people know My motive after performing rituals according to the Vedic principles, they offer food to Me with faith and love through the mouth of a brāhmaṇa. When food is thus offered unto Me, I eat it with full satisfaction. Indeed, I derive more pleasure from food offered in that way than from the food offered in the sacrificial fire."
 }
 ---

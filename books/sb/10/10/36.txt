@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 10.10.36",
+    "h1":"SB 10.10.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 10.10.36",
     "description":"O supremely auspicious, we offer our respectful obeisances unto You, who are the supreme good. O most famous descendant and controller of the Yadu dynasty, O son of Vasudeva, O most peaceful, let us offer our obeisances unto Your lotus feet."
 }
 ---

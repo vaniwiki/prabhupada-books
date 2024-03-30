@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.1.16",
+    "h1":"SB 5.1.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.1.16",
     "description":"Even if one is liberated, he nevertheless accepts the body he has received according to his past karma. Without misconceptions, however, he regards his enjoyment and suffering due to that karma the way an awakened person regards a dream he had while sleeping. He thus remains steadfast and never works to achieve another material body under the influence of the three modes of material nature."
 }
 ---

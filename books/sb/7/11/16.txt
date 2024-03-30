@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 7.11.16",
+    "h1":"SB 7.11.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 7.11.16",
     "description":"As an alternative, a brāhmaṇa may also take to the vaiśya's occupational duty of agriculture, cow protection, or trade. He may depend on that which he has received without begging, he may beg in the paddy field every day, he may collect paddy left in a field by its proprietor, or he may collect food grains left here and there in the shops of grain dealers. These are four means of livelihood that may also be adopted by brāhmaṇas. Among these four, each of them in succession is better than the one preceding it."
 }
 ---

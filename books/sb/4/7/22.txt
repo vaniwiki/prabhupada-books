@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.7.22",
+    "h1":"SB 4.7.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.7.22",
     "description":"As soon as Lord Viṣṇu was visible, all the demigods—Lord Brahmā and Lord Śiva, the Gandharvas and all present there—immediately offered their respectful obeisances by falling down straight before Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.1.21",
+    "h1":"SB 6.1.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.1.21",
     "description":"In the city known as Kānyakubja there was a brāhmaṇa named Ajāmila who married a prostitute maidservant and lost all his brahminical qualities because of the association of that low-class woman."
 }
 ---

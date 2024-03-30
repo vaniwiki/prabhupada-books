@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 4.30.39-40",
+    "h1":"SB 4.30.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 4.30.39-40",
     "description":"After being born, Dakṣa, by the superexcellence of his bodily luster, covered all others' bodily opulence. Because he was very expert in performing fruitive activity, he was called by the name Dakṣa, meaning \"the very expert.\" Lord Brahmā therefore engaged Dakṣa in the work of generating living entities and maintaining them. In due course of time, Dakṣa also engaged other Prajāpatis [progenitors] in the process of generation and maintenance."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.24.27",
+    "h1":"SB 3.24.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.24.27",
     "description":"Kardama Muni said: Oh, after a long time the demigods of this universe have become pleased with the suffering souls who are in material entanglement because of their own misdeeds."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.29.47",
+    "h1":"SB 4.29.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.29.47",
     "description":"My dear King Barhiṣmān, you should never out of ignorance take to the Vedic rituals or to fruitive activity, which may be pleasing to hear about or which may appear to be the goal of self-interest. You should never take these to be the ultimate goal of life."
 }
 ---

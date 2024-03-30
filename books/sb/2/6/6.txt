@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 2.6.6",
+    "h1":"SB 2.6.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 2.6.6",
     "description":"The Lord's arms are the productive fields for the great demigods and other leaders of the living entities who protect the general mass."
 }
 ---

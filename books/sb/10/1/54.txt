@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 10.1.54",
+    "h1":"SB 10.1.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 10.1.54",
     "description":"Vasudeva said: O best of the sober, you have nothing to fear from your sister Devakī because of what you have heard from the unseen omen. The cause of death will be her sons. Therefore I promise that when she gives birth to the sons from whom your fear has arisen, I shall deliver them all unto your hands."
 }
 ---

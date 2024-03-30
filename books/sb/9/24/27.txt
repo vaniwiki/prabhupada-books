@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 9.24.27",
+    "h1":"SB 9.24.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 9.24.27",
     "description":"The three sons of Hṛdika were Devamīḍha, Śatadhanu and Kṛtavarmā. The son of Devamīḍha was Śūra, whose wife was named Māriṣā."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.16.22",
+    "h1":"SB 3.16.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.16.22",
     "description":"O Lord, You are the personification of all religion. Therefore You manifest Yourself in three millenniums, and thus You protect this universe, which consists of animate and inanimate beings. By Your grace, which is of pure goodness and is the bestower of all blessings, kindly drive away the elements of rajas and tamas for the sake of the demigods and twice-born."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.12.29",
+    "h1":"SB 3.12.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.12.29",
     "description":"Thus, finding their father so deluded in an act of immorality, the sages headed by Marīci, all sons of Brahmā, spoke as follows with great respect."
 }
 ---

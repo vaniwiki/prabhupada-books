@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 7.15.28",
+    "h1":"SB 7.15.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 7.15.28",
     "description":"Ritualistic ceremonies, regulative principles, austerities and the practice of yoga are all meant to control the senses and mind, but even after one is able to control the senses and mind, if he does not come to the point of meditation upon the Supreme Lord, all such activities are simply labor in frustration."
 }
 ---

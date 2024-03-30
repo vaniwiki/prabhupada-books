@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 2.5.35",
+    "h1":"SB 2.5.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 2.5.35",
     "description":"The Lord [Mahā-Viṣṇu], although lying in the Causal Ocean, came out of it, and dividing Himself as Hiraṇyagarbha, He entered into each universe and assumed the virāṭ-rūpa, with thousands of legs, arms, mouths, heads, etc."
 }
 ---

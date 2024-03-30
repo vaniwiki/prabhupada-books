@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.33.1",
+    "h1":"SB 3.33.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.33.1",
     "description":"Śrī Maitreya said: Thus Devahūti, the mother of Lord Kapila and wife of Kardama Muni, became freed from all ignorance concerning devotional service and transcendental knowledge. She offered her obeisances unto the Lord, the author of the basic principles of the Sāṅkhya system of philosophy, which is the background of liberation, and she satisfied Him with the following verses of prayer."
 }
 ---

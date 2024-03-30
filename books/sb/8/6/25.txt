@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 8.6.25",
+    "h1":"SB 8.6.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 8.6.25",
     "description":"A poison known as kālakūṭa will be generated from the ocean of milk, but you should not fear it. And when various products are churned from the ocean, you should not be greedy for them or anxious to obtain them, nor should you be angry."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 9.18.45",
+    "h1":"SB 9.18.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 9.18.45",
     "description":"Śukadeva Gosvāmī said: In this way, O Mahārāja Parīkṣit, the son named Pūru was very pleased to accept the old age of his father, Yayāti, who took the youth of his son and enjoyed this material world as he required."
 }
 ---

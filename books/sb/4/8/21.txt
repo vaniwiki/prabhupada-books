@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.8.21",
+    "h1":"SB 4.8.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.8.21",
     "description":"Sunīti informed her son: Your grandfather Svāyambhuva Manu executed great sacrifices with distribution of charity, and thereby, with unflinching faith and devotion, he worshiped and satisfied the Supreme Personality of Godhead. By acting in that way, he achieved the greatest success in material happiness and afterwards achieved liberation, which is impossible to obtain by worshiping the demigods."
 }
 ---

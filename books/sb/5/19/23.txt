@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 5.19.23",
+    "h1":"SB 5.19.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 5.19.23",
     "description":"A short life in the land of Bharata-varṣa is preferable to a life achieved in Brahmaloka for millions and billions of years because even if one is elevated to Brahmaloka, he must return to repeated birth and death. Although life in Bhārata-varṣa, in a lower planetary system, is very short, one who lives there can elevate himself to full Kṛṣṇa consciousness and achieve the highest perfection, even in this short life, by fully surrendering unto the lotus feet of the Lord. Thus one attains Vaikuṇṭhaloka, where there is neither anxiety nor repeated birth in a material body."
 }
 ---

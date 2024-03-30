@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.4.6",
+    "h1":"SB 3.4.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.4.6",
     "description":"Thus following, I saw my patron and master [Lord Śrī Kṛṣṇa] sitting alone and deeply thinking, taking shelter on the bank of the River Sarasvatī although He is the shelter of the goddess of fortune."
 }
 ---

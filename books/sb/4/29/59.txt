@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 4.29.59",
+    "h1":"SB 4.29.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 4.29.59",
     "description":"The expert knowers of the Vedic conclusions say that one enjoys or suffers the results of his past activities. But practically it is seen that the body that performed the work in the last birth is already lost. So how is it possible to enjoy or suffer the reactions of that work in a different body?"
 }
 ---

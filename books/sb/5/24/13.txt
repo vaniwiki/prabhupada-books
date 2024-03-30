@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.24.13",
+    "h1":"SB 5.24.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.24.13",
     "description":"Since the residents of these planets drink and bathe in juices and elixirs made from wonderful herbs, they are freed from all anxieties and physical diseases. They have no experience of grey hair, wrinkles or invalidity, their bodily lusters do not fade, their perspiration does not cause a bad smell, and they are not troubled by fatigue or by lack of energy or enthusiasm due to old age."
 }
 ---

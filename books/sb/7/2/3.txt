@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 7.2.3",
+    "h1":"SB 7.2.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 7.2.3",
     "description":"Exhibiting his terrible teeth, fierce glance and frowning eyebrows, terrible to see, he took up his weapon, a trident, and thus began speaking to his associates, the assembled demons."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 2.10.31",
+    "h1":"SB 2.10.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 2.10.31",
     "description":"The seven elements of the body, namely the thin layer on the skin, the skin itself, the flesh, blood, fat, marrow and bone, are all made of earth, water and fire, whereas the life breath is produced by the sky, water and air."
 }
 ---

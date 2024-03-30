@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 9.18.39",
+    "h1":"SB 9.18.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 9.18.39",
     "description":"My dear son, I am not yet satisfied in my sexual desires. But if you are kind to me, you can take the old age given by your maternal grandfather, and I may take your youth so that I may enjoy life for a few years more."
 }
 ---

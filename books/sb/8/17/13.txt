@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.17.13",
+    "h1":"SB 8.17.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.17.13",
     "description":"O Devī, O goddess, I can understand that you want to regain your sons and be together with them to worship Me, after defeating the enemies in battle and retrieving your abode and opulences."
 }
 ---

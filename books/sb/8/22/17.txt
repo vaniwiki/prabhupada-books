@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.22.17",
+    "h1":"SB 8.22.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.22.17",
     "description":"Material opulence is so bewildering that it makes even a learned, self-controlled man forget to search for the goal of self-realization. But the Supreme Personality of Godhead, Nārāyaṇa, the Lord of the universe, can see everything by His will. Therefore I offer my respectful obeisances unto Him."
 }
 ---

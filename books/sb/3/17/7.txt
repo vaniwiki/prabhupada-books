@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.17.7",
+    "h1":"SB 3.17.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.17.7",
     "description":"The ocean with its high waves wailed aloud as if stricken with sorrow, and there was a commotion among the creatures inhabiting the ocean. The rivers and lakes were also agitated, and lotuses withered."
 }
 ---

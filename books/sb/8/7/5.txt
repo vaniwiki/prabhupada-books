@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.7.5",
+    "h1":"SB 8.7.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.7.5",
     "description":"After thus adjusting how the snake was to be held, the sons of Kaśyapa, both demigods and demons, began their activities, desiring to get nectar by churning the ocean of milk."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.7.38",
+    "h1":"SB 3.7.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.7.38",
     "description":"What are the truths regarding the living entities and the Supreme Personality of Godhead? What are their identities ? What are the specific values in the knowledge in the Vedas, and what are the necessities for the spiritual master and his disciples?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.12.10",
+    "h1":"SB 5.12.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.12.10",
     "description":"Since this universe has no real ultimate existence, the things within it—shortness, differences, grossness, skinniness, smallness, bigness, result, cause, living symptoms, and materials—are all imagined. They are all pots made of the same substance, earth, but they are named differently. The differences are characterized by the substance, nature, predisposition, time and activity. You should know that all these are simply mechanical manifestations created by material nature."
 }
 ---

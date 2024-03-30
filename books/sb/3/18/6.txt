@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.18.6",
+    "h1":"SB 3.18.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.18.6",
     "description":"Although the Lord was pained by the shaftlike abusive words of the demon, He bore the pain. But seeing that the earth on the ends of His tusks was frightened, He rose out of the water just as an elephant emerges with its female companion when assailed by an alligator."
 }
 ---

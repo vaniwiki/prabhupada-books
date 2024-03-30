@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.74",
-    "h1":"Text 74",
-    "title":" Śrīmad Bhāgavatam 4.29.74",
+    "h1":"SB 4.29.74",
+    "label":"Text 74",
+    "title":"Śrīmad Bhāgavatam 4.29.74",
     "description":"The five sense objects, the five sense organs, the five knowledge-acquiring senses and the mind are the sixteen material expansions. These combine with the living entity and are influenced by the three modes of material nature. Thus the existence of the conditioned soul is understood."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 9.19.21",
+    "h1":"SB 9.19.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 9.19.21",
     "description":"Śukadeva Gosvāmī said: After speaking in this way to his wife, Devayānī, King Yayāti, who was now free from all material desires, called his youngest son, Pūru, and returned Pūru's youth in exchange for his own old age."
 }
 ---

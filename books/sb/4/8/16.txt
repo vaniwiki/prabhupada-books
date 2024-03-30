@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.8.16",
+    "h1":"SB 4.8.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.8.16",
     "description":"This incident was unbearable to Sunīti's patience. She began to burn as if in a forest fire, and in her grief she became just like a burnt leaf and so lamented. As she remembered the words of her co-wife, her bright, lotuslike face filled with tears, and thus she spoke."
 }
 ---

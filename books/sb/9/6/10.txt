@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 9.6.10",
+    "h1":"SB 9.6.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 9.6.10",
     "description":"Having been instructed by the great and learned brāhmaṇa Vasiṣṭha, who discoursed about the Absolute Truth, Mahārāja Ikṣvāku became renounced. By following the principles for a yogī, he certainly achieved the supreme perfection after giving up his material body."
 }
 ---

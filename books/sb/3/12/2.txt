@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.12.2",
+    "h1":"SB 3.12.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.12.2",
     "description":"Brahmā first created the nescient engagements like self-deception, the sense of death, anger after frustration, the sense of false ownership, and the illusory bodily conception, or forgetfulness of one's real identity."
 }
 ---

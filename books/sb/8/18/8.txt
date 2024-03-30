@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.18.8",
+    "h1":"SB 8.18.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.18.8",
     "description":"Being very pleased, the celestial dancing girls [Apsarās] danced in jubilation, the best of the Gandharvas sang songs, and the great sages, demigods, Manus, Pitās and fire—gods offered prayers to satisfy the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 5.1.41",
+    "h1":"SB 5.1.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 5.1.41",
     "description":"\"As a great follower and devotee of the sage Nārada, Mahārāja Priyavrata considered hellish the opulences he had achieved by dint of fruitive activities and mystic power, whether in the lower or heavenly planetary systems or in human society.\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.18.29",
+    "h1":"SB 4.18.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.18.29",
     "description":"After this, the king of all kings, Mahārāja Pṛthu, leveled all rough places on the surface of the globe by breaking up the hills with the strength of his bow. By his grace the surface of the globe almost became flat."
 }
 ---

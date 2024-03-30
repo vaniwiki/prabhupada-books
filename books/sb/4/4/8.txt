@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.4.8",
+    "h1":"SB 4.4.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.4.8",
     "description":"Although she was received by her sisters and mother, she did not reply to their words of reception, and although she was offered a seat and presents, she did not accept anything, for her father neither talked with her nor welcomed her by asking about her welfare."
 }
 ---

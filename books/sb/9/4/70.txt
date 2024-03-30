@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.70",
-    "h1":"Text 70",
-    "title":" Śrīmad Bhāgavatam 9.4.70",
+    "h1":"SB 9.4.70",
+    "label":"Text 70",
+    "title":"Śrīmad Bhāgavatam 9.4.70",
     "description":"For a brāhmaṇa, austerity and learning are certainly auspicious, but when acquired by a person who is not gentle, such austerity and learning are most dangerous."
 }
 ---

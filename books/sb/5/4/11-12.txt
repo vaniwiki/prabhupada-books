@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.11-12",
-    "h1":"Text 11-12",
-    "title":" Śrīmad Bhāgavatam 5.4.11-12",
+    "h1":"SB 5.4.11-12",
+    "label":"Text 11-12",
+    "title":"Śrīmad Bhāgavatam 5.4.11-12",
     "description":"In addition to these sons were Kavi, Havi, Antarikṣa, Prabuddha, Pippalāyana, Avirhotra, Drumila, Camasa and Karabhājana. These were all very exalted, advanced devotees and authorized preachers of Śrīmad-Bhāgavatam. These devotees were glorified due to their strong devotion to Vāsudeva, the Supreme Personality of Godhead. Therefore they were very exalted. To satisfy the mind perfectly, I [Śukadeva Gosvāmī] shall hereafter describe the characteristics of these nine devotees when I discuss the conversation between Nārada and Vasudeva."
 }
 ---

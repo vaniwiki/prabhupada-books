@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.8.31",
+    "h1":"SB 4.8.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.8.31",
     "description":"Nārada Muni continued: After trying this process for many, many births and remaining unattached to material contamination, placing themselves continually in trance and executing many types of austerities, many mystic yogīs were unable to find the end of the path of God realization."
 }
 ---

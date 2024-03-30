@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.12-13",
-    "h1":"Text 12-13",
-    "title":" Śrīmad Bhāgavatam 6.18.12-13",
+    "h1":"SB 6.18.12-13",
+    "label":"Text 12-13",
+    "title":"Śrīmad Bhāgavatam 6.18.12-13",
     "description":"The wife of Hiraṇyakaśipu was known as Kayādhu. She was the daughter of Jambha and a descendant of Danu. She gave birth to four consecutive sons, known as Saṁhlāda, Anuhlāda, Hlāda and Prahlāda. The sister of these four sons was known as Siṁhikā. She married the demon named Vipracit and gave birth to another demon, named Rāhu."
 }
 ---

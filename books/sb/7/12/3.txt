@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 7.12.3",
+    "h1":"SB 7.12.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 7.12.3",
     "description":"Being called by the spiritual master, the student should study the Vedic mantras regularly. Every day, before beginning his studies and at the end of his studies, the disciple should respectfully offer obeisances unto the spiritual master."
 }
 ---

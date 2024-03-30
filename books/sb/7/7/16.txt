@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 7.7.16",
+    "h1":"SB 7.7.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 7.7.16",
     "description":"Because of the long duration of time that has passed and because of her being a woman and therefore less intelligent, my mother has forgotten all those instructions; but the great sage Nārada blessed me, and therefore I could not forget them."
 }
 ---

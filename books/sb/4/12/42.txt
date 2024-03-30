@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.12.42",
+    "h1":"SB 4.12.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.12.42",
     "description":"The great sage Nārada continued: Just see how Dhruva Mahārāja, aggrieved at the harsh words of his stepmother, went to the forest at the age of only five years and under my direction underwent austerity. Although the Supreme Personality of Godhead is unconquerable, Dhruva Mahārāja defeated Him with the specific qualifications possessed by the Lord's devotees."
 }
 ---

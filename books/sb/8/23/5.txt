@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.23.5",
+    "h1":"SB 8.23.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.23.5",
     "description":"When Prahlāda Mahārāja heard how Bali Mahārāja, his grandson and descendant, had been released from bondage and had achieved the benediction of the Lord, he spoke as follows in a tone of greatly ecstatic devotion."
 }
 ---

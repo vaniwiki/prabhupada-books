@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.25.51",
+    "h1":"SB 4.25.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.25.51",
     "description":"On the northern side was the gate named Devahū. Through that gate, King Purañjana used to go with his friend Śrutadhara to the place known as Uttara-pañcāla."
 }
 ---

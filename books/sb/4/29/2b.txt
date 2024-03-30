@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.2b",
-    "h1":"Text 2b",
-    "title":" Śrīmad Bhāgavatam 4.29.2b",
+    "h1":"SB 4.29.2b",
+    "label":"Text 2b",
+    "title":"Śrīmad Bhāgavatam 4.29.2b",
     "description":"Everything happening within time, which consists of past, present and future, is merely a dream. That is the secret understanding in all Vedic literature."
 }
 ---

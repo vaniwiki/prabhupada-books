@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.30.45",
+    "h1":"SB 4.30.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.30.45",
     "description":"My dear King, at the time of devastation, Lord Śiva emits fire and air from his mouth out of anger. To make the surface of the earth completely treeless, the Pracetās also emitted fire and air from their mouths."
 }
 ---

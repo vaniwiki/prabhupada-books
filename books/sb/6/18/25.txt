@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 6.18.25",
+    "h1":"SB 6.18.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 6.18.25",
     "description":"When dead, the bodies of all the rulers known as kings and great leaders will be transformed into worms, stool or ashes. If one enviously kills others for the protection of such a body, does he actually know the true interest of life? Certainly he does not, for if one is envious of other entities, he surely goes to hell."
 }
 ---

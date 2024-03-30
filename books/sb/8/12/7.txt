@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.12.7",
+    "h1":"SB 8.12.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.12.7",
     "description":"My Lord, You are the Supreme Brahman, complete in everything. Being completely spiritual, You are eternal, free from the material modes of nature, and full of transcendental bliss. Indeed, for You there is no question of lamentation. Since You are the supreme cause, the cause of all causes, nothing can exist without You. Yet we are different from You in a relationship of cause and effect, for in one sense the cause and effect are different. You are the original cause of creation, manifestation and annihilation, and You bestow benedictions upon all living entities. Everyone depends upon You for the results of his activities, but You are always independent."
 }
 ---

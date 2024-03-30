@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.10.11",
+    "h1":"SB 9.10.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.10.11",
     "description":"When Rāmacandra entered the forest and Lakṣmaṇa was also absent, the worst of the Rākṣasas, Rāvaṇa, kidnapped Sītādevī, the daughter of the King of Videha, just as a tiger seizes unprotected sheep when the shepherd is absent. Then Lord Rāmacandra wandered in the forest with His brother Lakṣmaṇa as if very much distressed due to separation from His wife. Thus He showed by His personal example the condition of a person attached to women."
 }
 ---

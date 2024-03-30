@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 10.7.10",
+    "h1":"SB 10.7.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 10.7.10",
     "description":"The assembled gopīs and gopas, unaware that Kṛṣṇa is always unlimited, could not believe that baby Kṛṣṇa had such inconceivable power. They could not believe the statements of the children, and therefore they neglected these statements as being childish talk."
 }
 ---

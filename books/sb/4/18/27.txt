@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.18.27",
+    "h1":"SB 4.18.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.18.27",
     "description":"My dear Vidura, chief of the Kurus, in this way King Pṛthu and all the others who subsist on food created different types of calves and milked out their respective eatables. Thus they received their various foodstuffs, which were symbolized as milk."
 }
 ---

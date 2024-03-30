@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.24.6",
+    "h1":"SB 3.24.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.24.6",
     "description":"After many, many years, the Supreme Personality of Godhead, Madhusūdana, the killer of the demon Madhu, having entered the semen of Kardama, appeared in Devahūti just as fire comes from wood in a sacrifice."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.26.28",
+    "h1":"SB 3.26.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.26.28",
     "description":"The mind of the living entity is known by the name of Lord Aniruddha, the supreme ruler of the senses. He possesses a bluish-black form resembling a lotus flower growing in the autumn. He is found slowly by the yogīs."
 }
 ---

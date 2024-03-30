@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 10.4.19",
+    "h1":"SB 10.4.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 10.4.19",
     "description":"In this world, we can see that pots, dolls and other products of the earth appear, break and then disappear, mixing with the earth. Similarly, the bodies of all conditioned living entities are annihilated, but the living entities, like the earth itself, are unchanging and never annihilated [na hanyate hanyamāne śarīre]."
 }
 ---

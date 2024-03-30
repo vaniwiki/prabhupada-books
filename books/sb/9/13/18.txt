@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.13.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 9.13.18",
+    "h1":"SB 9.13.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 9.13.18",
     "description":"From Hrasvaromā came a son named Śīradhvaja [also called Janaka]. When Śīradhvaja was plowing a field, from the front of his plow [śīra] appeared a daughter named Sītādevī, who later became the wife of Lord Rāmacandra. Thus he was known as Śīradhvaja."
 }
 ---

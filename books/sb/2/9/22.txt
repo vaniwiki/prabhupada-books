@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 2.9.22",
+    "h1":"SB 2.9.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 2.9.22",
     "description":"The highest perfectional ingenuity is the personal perception of My abodes, and this has been possible because of your submissive attitude in the performance of severe penance according to My order."
 }
 ---

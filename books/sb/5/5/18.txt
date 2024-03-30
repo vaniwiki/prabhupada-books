@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 5.5.18",
+    "h1":"SB 5.5.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 5.5.18",
     "description":"\"One who cannot deliver his dependents from the path of repeated birth and death should never become a spiritual master, a father, a husband, a mother or a worshipable demigod."
 }
 ---

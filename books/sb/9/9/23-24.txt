@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.23-24",
-    "h1":"Text 23-24",
-    "title":" Śrīmad Bhāgavatam 9.9.23-24",
+    "h1":"SB 9.9.23-24",
+    "label":"Text 23-24",
+    "title":"Śrīmad Bhāgavatam 9.9.23-24",
     "description":"When Vasiṣṭha understood that the human flesh had been served by the Rākṣasa, not by the King, he undertook twelve years of austerity to cleanse himself for having cursed the faultless King. Meanwhile, King Saudāsa took water and chanted the śapa-mantra, preparing to curse Vasiṣṭha, but his wife, Madayantī, forbade him to do so. Then the King saw that the ten directions, the sky and the surface of the globe were full of living entities everywhere."
 }
 ---

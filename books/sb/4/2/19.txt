@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.2.19",
+    "h1":"SB 4.2.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.2.19",
     "description":"Maitreya continued: My dear Vidura, in spite of the requests of all the members of the sacrificial assembly, Dakṣa, in great anger, cursed Lord Śiva and then left the assembly and went back to his home."
 }
 ---

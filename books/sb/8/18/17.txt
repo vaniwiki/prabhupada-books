@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.18.17",
+    "h1":"SB 8.18.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.18.17",
     "description":"When Vāmanadeva had thus been given the sacred thread, Kuvera, King of the Yakṣas, gave Him a pot for begging alms, and mother Bhagavatī, the wife of Lord Śiva and most chaste mother of the entire universe, gave Him His first alms."
 }
 ---

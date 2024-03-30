@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.27.8",
+    "h1":"SB 4.27.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.27.8",
     "description":"After this, King Purañjana, King of the Pañcāla country, in order to increase the descendants of his paternal family, married his sons with qualified wives and married his daughters with qualified husbands."
 }
 ---

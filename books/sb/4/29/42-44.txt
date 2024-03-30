@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.42-44",
-    "h1":"Text 42-44",
-    "title":" Śrīmad Bhāgavatam 4.29.42-44",
+    "h1":"SB 4.29.42-44",
+    "label":"Text 42-44",
+    "title":"Śrīmad Bhāgavatam 4.29.42-44",
     "description":"The most powerful Lord Brahmā, the father of all progenitors; Lord Śiva; Manu, Dakṣa and the other rulers of humankind; the four saintly first-class brahmacārīs headed by Sanaka and Sanātana; the great sages Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu and Vasiṣṭha; and my humble self [Nārada] are all stalwart brāhmaṇas who can speak authoritatively on Vedic literature. We are very powerful because of austerities, meditation and education. Nonetheless, even after inquiring about the Supreme Personality of Godhead, whom we always see, we do not know perfectly about Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.16-17",
-    "h1":"Text 16-17",
-    "title":" Śrīmad Bhāgavatam 9.9.16-17",
+    "h1":"SB 9.9.16-17",
+    "label":"Text 16-17",
+    "title":"Śrīmad Bhāgavatam 9.9.16-17",
     "description":"Bhagīratha had a son named Śruta, whose son was Nābha. This son was different from the Nābha previously described. Nābha had a son named Sindhudvīpa, from Sindhudvīpa came Ayutāyu, and from Ayutāyu came Ṛtūparṇa, who became a friend of Nalarāja. Ṛtūparṇa taught Nalarāja the art of gambling, and Nalarāja gave Ṛtūparṇa lessons in controlling and maintaining horses. The son of Ṛtūparṇa was Sarvakāma."
 }
 ---

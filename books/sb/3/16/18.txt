@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.16.18",
+    "h1":"SB 3.16.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.16.18",
     "description":"You are the source of the eternal occupation of all living entities, and by Your multimanifestations of Personalities of Godhead, You have always protected religion. You are the supreme objective of religious principles, and in our opinion You are inexhaustible and unchangeable eternally."
 }
 ---

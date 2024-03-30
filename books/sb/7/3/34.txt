@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 7.3.34",
+    "h1":"SB 7.3.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 7.3.34",
     "description":"Let me offer my respectful obeisances unto the Supreme, who in his unlimited, unmanifested form has expanded the cosmic manifestation, the form of the totality of the universe. He possesses external and internal energies and the mixed energy called the marginal potency, which consists of all the living entities."
 }
 ---

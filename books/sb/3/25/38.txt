@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.25.38",
+    "h1":"SB 3.25.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.25.38",
     "description":"The Lord continued: My dear mother, devotees who receive such transcendental opulences are never bereft of them; neither weapons nor the change of time can destroy such opulences. Because the devotees accept Me as their friend, their relative, their son, preceptor, benefactor and Supreme Deity, they cannot be deprived of their possessions at any time."
 }
 ---

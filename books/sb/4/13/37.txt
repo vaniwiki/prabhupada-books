@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.13.37",
+    "h1":"SB 4.13.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.13.37",
     "description":"The King was very liberal, and after taking permission from the priests, he took the preparation in his joined palms, and after smelling it he offered a portion to his wife."
 }
 ---

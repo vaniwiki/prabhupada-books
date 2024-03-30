@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 5.1.27",
+    "h1":"SB 5.1.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 5.1.27",
     "description":"Thus situated in the renounced order from the beginning of their lives, all three of them completely controlled the activities of their senses and thus became great saints. They concentrated their minds always upon the lotus feet of the Supreme Personality of Godhead, who is the resting place of the totality of living entities and who is therefore celebrated as Vāsudeva. Lord Vāsudeva is the only shelter of those who are actually afraid of material existence. By constantly thinking of His lotus feet, these three sons of Mahārāja Priyavrata became advanced in pure devotional service. By the prowess of their devotional service, they could directly perceive the Supreme Personality of Godhead, who is situated in everyone's heart as the Supersoul, and realize that there was qualitatively no difference between themselves and Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.15.8",
+    "h1":"SB 7.15.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.15.8",
     "description":"Persons who want to advance in superior religion are advised to give up all envy of other living entities, whether in relationship to the body, words or mind. There is no religion superior to this."
 }
 ---

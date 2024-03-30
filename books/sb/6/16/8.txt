@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.16.8",
+    "h1":"SB 6.16.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.16.8",
     "description":"Even though one living entity becomes connected with another because of a relationship based on bodies that are perishable, the living entity is eternal. Actually it is the body that is born or lost, not the living entity. One should not accept that the living entity takes birth or dies. The living being actually has no relationship with so-called fathers and mothers. As long as he appears as the son of a certain father and mother as a result of his past fruitive activities, he has a connection with the body given by that father and mother. Thus he falsely accepts himself as their son and acts affectionately. After he dies, however, the relationship is finished. Under these circumstances, one should not be falsely involved with jubilation and lamentation."
 }
 ---

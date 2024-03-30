@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 2.1.17",
+    "h1":"SB 2.1.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 2.1.17",
     "description":"After sitting in the above manner, make the mind remember the three transcendental letters [a-u-m], and by regulating the breathing process, control the mind so as not to forget the transcendental seed."
 }
 ---

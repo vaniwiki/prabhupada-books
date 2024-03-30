@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.15.6",
+    "h1":"SB 6.15.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.15.6",
     "description":"The Supreme Personality of Godhead, the master and proprietor of everything, is certainly not interested in the temporary cosmic manifestation. Nonetheless, just as a boy at the beach creates something in which he is not interested, the Lord, keeping everything under His control, causes creation, maintenance and annihilation. He creates by engaging a father to beget a son, He maintains by engaging a government or king to see to the public's welfare, and He annihilates through agents for killing, such as snakes. The agents for creation, maintenance and annihilation have no independent potency, but because of the spell of the illusory energy, one thinks himself the creator, maintainer and annihilator."
 }
 ---

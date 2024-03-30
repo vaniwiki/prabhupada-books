@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.25.2",
+    "h1":"SB 5.25.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.25.2",
     "description":"Śukadeva Gosvāmī continued: This great universe, situated on one of Lord Anantadeva's thousands of hoods, appears just like a white mustard seed. It is infinitesimal compared to the hood of Lord Ananta."
 }
 ---

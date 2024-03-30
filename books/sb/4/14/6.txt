@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.14.6",
+    "h1":"SB 4.14.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.14.6",
     "description":"All the twice-born [brāhmaṇas] were forbidden henceforward to perform any sacrifice, and they were also forbidden to give charity or offer clarified butter. Thus King Vena sounded kettledrums throughout the countryside. In other words, he stopped all kinds of religious rituals."
 }
 ---

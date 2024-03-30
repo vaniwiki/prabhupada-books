@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.19.8",
+    "h1":"SB 8.19.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.19.8",
     "description":"Seeing Hiraṇyakaśipu coming forward bearing a trident in his hand like personified death, Lord Viṣṇu, the best of all mystics and the knower of the progress of time, thought as follows."
 }
 ---

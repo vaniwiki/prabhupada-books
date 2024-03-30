@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.25.31",
+    "h1":"SB 3.25.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.25.31",
     "description":"Śrī Maitreya said: After hearing the statement of His mother, Kapila could understand her purpose, and He became compassionate towards her because of being born of her body. He described the Sāṅkhya system of philosophy, which is a combination of devotional service and mystic realization, as received by disciplic succession."
 }
 ---

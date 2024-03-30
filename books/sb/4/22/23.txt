@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 4.22.23",
+    "h1":"SB 4.22.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 4.22.23",
     "description":"One has to make progress in spiritual life by not associating with persons who are simply interested in sense gratification and making money. Not only such persons, but one who associates with such persons should be avoided. One should mold his life in such a way that he cannot live in peace without drinking the nectar of the glorification of the Supreme Personality of Godhead, Hari. One can be thus elevated by being disgusted with the taste for sense enjoyment."
 }
 ---

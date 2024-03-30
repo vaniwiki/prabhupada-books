@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 4.8.57",
+    "h1":"SB 4.8.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 4.8.57",
     "description":"My dear Dhruva, besides worshiping the Deity and chanting the mantra three times a day, you should meditate upon the transcendental activities of the Supreme Personality of Godhead in His different incarnations, as exhibited by His supreme will and personal potencies."
 }
 ---

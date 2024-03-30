@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.3.5",
+    "h1":"SB 8.3.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.3.5",
     "description":"In due course of time, when all the causative and effective manifestations of the universe, including the planets and their directors and maintainers, are annihilated, there is a situation of dense darkness. Above this darkness, however, is the Supreme Personality of Godhead. I take shelter of His lotus feet."
 }
 ---

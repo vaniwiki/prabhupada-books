@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.8.15",
+    "h1":"SB 5.8.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.8.15",
     "description":"If Bharata Mahārāja sometimes could not see the deer, his mind would be very agitated. He would become like a miser, who, having obtained some riches, had lost them and had then become very unhappy. When the deer was gone, he would be filled with anxiety and would lament due to separation. Thus he would become illusioned and speak as follows."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.24-25",
-    "h1":"Text 24-25",
-    "title":" Śrīmad Bhāgavatam 6.2.24-25",
+    "h1":"SB 6.2.24-25",
+    "label":"Text 24-25",
+    "title":"Śrīmad Bhāgavatam 6.2.24-25",
     "description":"After hearing the discourses between the Yamadūtas and the Viṣṇudūtas, Ajāmila could understand the religious principles that act under the three modes of material nature. These principles are mentioned in the three Vedas. He could also understand the transcendental religious principles, which are above the modes of material nature and which concern the relationship between the living being and the Supreme Personality of Godhead. Furthermore, Ajāmila heard glorification of the name, fame, qualities and pastimes of the Supreme Personality of Godhead. He thus became a perfectly pure devotee. He could then remember his past sinful activities, which he greatly regretted having performed."
 }
 ---

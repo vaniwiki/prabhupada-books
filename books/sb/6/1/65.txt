@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 6.1.65",
+    "h1":"SB 6.1.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 6.1.65",
     "description":"Because his intelligence was pierced by the lustful glance of the prostitute, the victimized brāhmaṇa Ajāmila engaged in sinful acts in her association. He even gave up the company of his very beautiful young wife, who came from a very respectable brāhmaṇa family."
 }
 ---

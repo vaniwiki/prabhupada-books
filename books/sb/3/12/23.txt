@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.12.23",
+    "h1":"SB 3.12.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.12.23",
     "description":"Nārada was born from the deliberation of Brahmā, which is the best part of the body. Vasiṣṭha was born from his breathing, Dakṣa from a thumb, Bhṛgu from his touch, and Kratu from his hand."
 }
 ---

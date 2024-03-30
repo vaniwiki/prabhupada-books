@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.15.13",
+    "h1":"SB 8.15.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.15.13",
     "description":"Beautiful women protected by the demigods sported in the gardens, which had lotus ponds full of swans, cranes, cakravākas and ducks."
 }
 ---

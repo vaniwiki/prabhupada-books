@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 6.8.15",
+    "h1":"SB 6.8.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 6.8.15",
     "description":"The Supreme indestructible Lord is ascertained through the performance of ritualistic sacrifices and is therefore known as Yajñeśvara. In His incarnation as Lord Boar, He raised the planet earth from the water at the bottom of the universe and kept it on His pointed tusks. May that Lord protect me from rogues on the street. May Paraśurāma protect me on the tops of mountains, and may the elder brother of Bharata, Lord Rāmacandra, along with His brother Lakṣmaṇa, protect me in foreign countries."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 10.1.34",
+    "h1":"SB 10.1.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 10.1.34",
     "description":"While Kaṁsa, controlling the reins of the horses, was driving the chariot along the way, an unembodied voice addressed him, \"You foolish rascal, the eighth child of the woman you are carrying will kill you!\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.18.14",
+    "h1":"SB 4.18.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.18.14",
     "description":"All the great sages transformed Bṛhaspati into a calf, and making the senses into a pot, they milked all kinds of Vedic knowledge to purify words, mind and hearing."
 }
 ---

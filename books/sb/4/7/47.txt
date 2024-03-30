@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.7.47",
+    "h1":"SB 4.7.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.7.47",
     "description":"Dear Lord, we were awaiting Your audience because we have been unable to perform the yajñas according to the Vedic rituals. We pray unto You, therefore, to be pleased with us. Simply by chanting Your holy name, one can surpass all obstacles. We offer our respectful obeisances unto You in Your presence."
 }
 ---

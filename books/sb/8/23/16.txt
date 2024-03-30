@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.23.16",
+    "h1":"SB 8.23.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.23.16",
     "description":"There may be discrepancies in pronouncing the mantras and observing the regulative principles, and, moreover, there may be discrepancies in regard to time, place, person and paraphernalia. But when Your Lordship's holy name is chanted, everything becomes faultless."
 }
 ---

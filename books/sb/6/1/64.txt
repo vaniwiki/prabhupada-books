@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 6.1.64",
+    "h1":"SB 6.1.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 6.1.64",
     "description":"Thus Ajāmila began spending whatever money he had inherited from his father to satisfy the prostitute with various material presentations so that she would remain pleased with him. He gave up all his brahminical activities to satisfy the prostitute."
 }
 ---

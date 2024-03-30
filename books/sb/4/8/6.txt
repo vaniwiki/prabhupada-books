@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.8.6",
+    "h1":"SB 4.8.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.8.6",
     "description":"Maitreya continued: O best of the Kuru dynasty, I shall now describe before you the descendants of Svāyambhuva Manu, who was born of a part of a plenary expansion of the Supreme Personality of Godhead."
 }
 ---

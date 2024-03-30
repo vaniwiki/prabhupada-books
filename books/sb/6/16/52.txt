@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 6.16.52",
+    "h1":"SB 6.16.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 6.16.52",
     "description":"In this world of matter, which the conditioned soul accepts as consisting of enjoyable resources, the conditioned soul expands, thinking that he is the enjoyer of the material world. Similarly, the material world expands in the living entity as a source of enjoyment. In this way they both expand, but because they are My energies, they are both pervaded by Me. As the Supreme Lord, I am the cause of these effects, and one should know that both of them rest in Me."
 }
 ---

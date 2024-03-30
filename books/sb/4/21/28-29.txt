@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.28-29",
-    "h1":"Text 28-29",
-    "title":" Śrīmad Bhāgavatam 4.21.28-29",
+    "h1":"SB 4.21.28-29",
+    "label":"Text 28-29",
+    "title":"Śrīmad Bhāgavatam 4.21.28-29",
     "description":"This is confirmed not only by the evidence of the Vedas but also by the personal behavior of great personalities like Manu, Uttānapāda, Dhruva, Priyavrata and my grandfather Aṅga, as well as by many other great personalities and ordinary living entities, exemplified by Mahārāja Prahlāda and Bali, all of whom are theists, believing in the existence of the Supreme Personality of Godhead, who carries a club."
 }
 ---

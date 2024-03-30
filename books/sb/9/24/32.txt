@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 9.24.32",
+    "h1":"SB 9.24.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 9.24.32",
     "description":"Once when Durvāsā was a guest at the house of Pṛthā's father, Kunti, Pṛthā satisfied Durvāsā by rendering service. Therefore she received a mystic power by which she could call any demigod. To examine the potency of this mystic power, the pious Kuntī immediately called for the sun-god."
 }
 ---

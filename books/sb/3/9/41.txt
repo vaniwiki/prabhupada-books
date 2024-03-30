@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 3.9.41",
+    "h1":"SB 3.9.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 3.9.41",
     "description":"It is the opinion of expert transcendentalists that the ultimate goal of performing all traditional good works, penances, sacrifices, charities, mystic activities, trances, etc., is to invoke My satisfaction."
 }
 ---

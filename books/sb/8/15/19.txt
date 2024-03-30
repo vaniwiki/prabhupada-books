@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.15.19",
+    "h1":"SB 8.15.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.15.19",
     "description":"Apsarās passed on the streets, which were covered with the white, fragrant smoke of aguru incense emanating from windows with golden filigree."
 }
 ---

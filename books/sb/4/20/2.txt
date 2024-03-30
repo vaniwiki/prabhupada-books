@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.20.2",
+    "h1":"SB 4.20.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.20.2",
     "description":"Lord Viṣṇu, the Supreme Personality of Godhead, said: My dear King Pṛthu, Indra, the King of heaven, has disturbed your execution of one hundred sacrifices. Now he has come with Me to be forgiven by you. Therefore excuse him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.15.18",
+    "h1":"SB 4.15.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.15.18",
     "description":"The demigod of fire, Agni, presented him with a bow made of the horns of goats and cows. The sun-god presented him with arrows as brilliant as sunshine. The predominating deity of Bhūrloka presented him with slippers full of mystic power. The demigods from outer space brought him presentations of flowers again and again."
 }
 ---

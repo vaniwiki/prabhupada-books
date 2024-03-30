@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.9-10",
-    "h1":"Text 9-10",
-    "title":" Śrīmad Bhāgavatam 4.15.9-10",
+    "h1":"SB 4.15.9-10",
+    "label":"Text 9-10",
+    "title":"Śrīmad Bhāgavatam 4.15.9-10",
     "description":"Lord Brahmā, the master of the entire universe, arrived there accompanied by all the demigods and their chiefs. Seeing the lines of Lord Viṣṇu's palm on King Pṛthu's right hand and impressions of lotus flowers on the soles of his feet, Lord Brahmā could understand that King Pṛthu was a partial representation of the Supreme Personality of Godhead. One whose palm bears the sign of a disc, as well as other such lines, should be considered a partial representation or incarnation of the Supreme Lord."
 }
 ---

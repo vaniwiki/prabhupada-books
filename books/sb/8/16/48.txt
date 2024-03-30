@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 8.16.48",
+    "h1":"SB 8.16.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 8.16.48",
     "description":"From pratipat until the thirteenth day of the next bright moon [śukla-trayodaśī], one should observe complete celibacy, sleep on the floor, bathe three times a day and thus execute the vow."
 }
 ---

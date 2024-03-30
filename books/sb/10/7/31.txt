@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 10.7.31",
+    "h1":"SB 10.7.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 10.7.31",
     "description":"It is most astonishing that although this innocent child was taken away by the Rākṣasa to be eaten, He has returned without having been killed or even injured. Because this demon was envious, cruel and sinful, he has been killed for his own sinful activities. This is the law of nature. An innocent devotee is always protected by the Supreme Personality of Godhead, and a sinful person is always vanquished for his sinful life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.6.14",
+    "h1":"SB 8.6.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.6.14",
     "description":"My Lord, we, the various demigods, the directors of this universe, have come to Your lotus feet. Please fulfill the purpose for which we have come. You are the witness of everything, from within and without. Nothing is unknown to You, and therefore it is unnecessary to inform You again of anything."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 2.7.1",
+    "h1":"SB 2.7.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 2.7.1",
     "description":"Lord Brahmā said: When the unlimitedly powerful Lord assumed the form of a boar as a pastime, just to lift the planet earth, which was drowned in the great ocean of the universe called the Garbhodaka, the first demon [Hiraṇyākṣa] appeared, and the Lord pierced him with His tusk."
 }
 ---

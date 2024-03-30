@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.11.5",
+    "h1":"SB 4.11.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.11.5",
     "description":"When Dhruva Mahārāja saw the Yakṣas coming forward, he immediately took his arrows and cut the enemies to pieces. Separating their arms, legs, heads and bellies from their bodies, he delivered the Yakṣas to the planetary system which is situated above the sun globe and which is attainable only by first-class brahmacārīs, who have never discharged their semen."
 }
 ---

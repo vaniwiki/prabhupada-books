@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 7.14.26",
+    "h1":"SB 7.14.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 7.14.26",
     "description":"O King Yudhiṣṭhira, at the time prescribed for reformatory ritualistic ceremonies for one's self, one's wife or one's children, or during funeral ceremonies and annual death ceremonies, one must perform the auspicious ceremonies mentioned above in order to flourish in fruitive activities."
 }
 ---

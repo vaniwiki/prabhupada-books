@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.7.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.7.2",
+    "h1":"SB 5.7.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.7.2",
     "description":"Just as the false ego creates the subtle sense objects, Mahārāja Bharata created five sons in the womb of Pañcajanī, his wife. These sons were named Sumati, Rāṣṭrabhṛta, Sudarśana, Āvaraṇa and Dhūmraketu."
 }
 ---

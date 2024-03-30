@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 2.7.16",
+    "h1":"SB 2.7.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 2.7.16",
     "description":"The Personality of Godhead, after hearing the elephant's plea, felt that the elephant needed His immediate help, for he was in great distress. Thus at once the Lord appeared there on the wings of the king of birds, Garuḍa, fully equipped with His weapon, the wheel [cakra]. With the wheel He cut to pieces the mouth of the crocodile to save the elephant, and He delivered the elephant by lifting him by his trunk."
 }
 ---

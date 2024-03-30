@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.5.12",
+    "h1":"SB 2.5.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.5.12",
     "description":"I offer my obeisances and meditate upon Lord Kṛṣṇa [Vāsudeva], the Personality of Godhead, whose invincible potency influences them [the less intelligent class of men] to call me the supreme controller."
 }
 ---

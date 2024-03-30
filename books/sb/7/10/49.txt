@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 7.10.49",
+    "h1":"SB 7.10.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 7.10.49",
     "description":"The impersonal Brahman is Kṛṣṇa Himself because Kṛṣṇa is the source of the impersonal Brahman. He is the origin of the transcendental bliss sought by great saintly persons, yet He, the Supreme Person, is your most dear friend and constant well-wisher and is intimately related to you as the son of your maternal uncle. Indeed, He is always like your body and soul. He is worshipable, yet He acts as your servant and sometimes as your spiritual master."
 }
 ---

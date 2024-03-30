@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.29.2",
+    "h1":"SB 4.29.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.29.2",
     "description":"The great sage Nārada Muni continued: You must understand that Purañjana, the living entity, transmigrates according to his own work into different types of bodies, which may be one-legged, two-legged, three-legged, four-legged, many-legged or simply legless. Transmigrating into these various types of bodies, the living entity, as the so-called enjoyer, is known as Purañjana."
 }
 ---

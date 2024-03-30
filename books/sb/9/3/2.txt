@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 9.3.2",
+    "h1":"SB 9.3.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 9.3.2",
     "description":"Śaryāti had a beautiful lotus-eyed daughter named Sukanyā, with whom he went to the forest to see the āśrama of Cyavana Muni."
 }
 ---

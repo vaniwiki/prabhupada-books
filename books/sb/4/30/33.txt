@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.30.33",
+    "h1":"SB 4.30.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.30.33",
     "description":"Dear Lord, as long as we have to remain within this material world due to our material contamination and wander from one type of body to another and from one planet to another, we pray that we may associate with those who are engaged in discussing Your pastimes. We pray for this benediction life after life, in different bodily forms and on different planets."
 }
 ---

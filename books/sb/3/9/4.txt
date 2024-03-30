@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.9.4",
+    "h1":"SB 3.9.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.9.4",
     "description":"This present form, or any transcendental form expanded by the Supreme Personality of Godhead, Śrī Kṛṣṇa, is equally auspicious for all the universes. Since You have manifested this eternal personal form upon whom Your devotees meditate, I therefore offer my respectful obeisances unto You. Those who are destined to be dispatched to the path of hell neglect Your personal form because of speculating on material topics."
 }
 ---

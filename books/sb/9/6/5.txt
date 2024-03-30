@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 9.6.5",
+    "h1":"SB 9.6.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 9.6.5",
     "description":"Of the one hundred sons, twenty-five became kings in the western side of Āryāvarta, a place between the Himalaya and Vindhya mountains. Another twenty-five sons became kings in the east of Āryāvarta, and the three principal sons became kings in the middle. The other sons became kings in various other places."
 }
 ---

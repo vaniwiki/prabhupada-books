@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.31.6",
+    "h1":"SB 3.31.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.31.6",
     "description":"Bitten again and again all over the body by the hungry worms in the abdomen itself, the child suffers terrible agony because of his tenderness. He thus becomes unconscious moment after moment because of the terrible condition."
 }
 ---

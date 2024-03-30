@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 3.26.45",
+    "h1":"SB 3.26.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 3.26.45",
     "description":"Odor, although one, becomes many—as mixed, offensive, fragrant, mild, strong, acidic and so on—according to the proportions of associated substances."
 }
 ---

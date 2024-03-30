@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.6.2",
+    "h1":"SB 2.6.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.6.2",
     "description":"His two nostrils are the generating centers of our breathing and of all other airs, His smelling powers generate the Aśvinī-kumāra demigods and all kinds of medicinal herbs, and His breathing energies produce different kinds of fragrance."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.77",
-    "h1":"Text 77",
-    "title":" Śrīmad Bhāgavatam 4.24.77",
+    "h1":"SB 4.24.77",
+    "label":"Text 77",
+    "title":"Śrīmad Bhāgavatam 4.24.77",
     "description":"The Supreme Personality of Godhead is the dearmost objective of all auspicious benedictions. A human being who sings this song sung by me can please the Supreme Personality of Godhead. Such a devotee, being fixed in the Lord's devotional service, can acquire whatever he wants from the Supreme Lord."
 }
 ---

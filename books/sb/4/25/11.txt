@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.25.11",
+    "h1":"SB 4.25.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.25.11",
     "description":"King Purañjana began to search for a suitable place to live, and thus he traveled all over the world. Even after a great deal of traveling, he could not find a place just to his liking. Finally he became morose and disappointed."
 }
 ---

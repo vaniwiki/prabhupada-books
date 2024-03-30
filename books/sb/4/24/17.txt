@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.24.17",
+    "h1":"SB 4.24.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.24.17",
     "description":"The great sage Vidura continued: O best of the brāhmaṇas, it is very difficult for living entities encaged within this material body to have personal contact with Lord Śiva. Even great sages who have no material attachments do not contact him, despite their always being absorbed in meditation to attain his personal contact."
 }
 ---

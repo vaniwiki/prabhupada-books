@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 2.1.8",
+    "h1":"SB 2.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 2.1.8",
     "description":"At the end of the Dvāpara-yuga, I studied this great supplement of Vedic literature named Śrīmad-Bhāgavatam, which is equal to all the Vedas, from my father, Śrīla Dvaipāyana Vyāsadeva."
 }
 ---

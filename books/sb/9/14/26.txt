@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.14.26",
+    "h1":"SB 9.14.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.14.26",
     "description":"Not seeing Urvaśī in his assembly, the King of heaven, Lord Indra, said, \"Without Urvaśī my assembly is no longer beautiful.\" Considering this, he requested the Gandharvas to bring her back to his heavenly planet."
 }
 ---

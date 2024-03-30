@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.24.37",
+    "h1":"SB 4.24.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.24.37",
     "description":"My Lord, O Aniruddha, You are the authority by which the doors of the higher planetary systems and liberation are opened. You are always within the pure heart of the living entity. Therefore I offer my obeisances unto You. You are the possessor of semen which is like gold, and thus, in the form of fire, You help the Vedic sacrifices, beginning with cātur-hotra. Therefore I offer my obeisances unto You."
 }
 ---

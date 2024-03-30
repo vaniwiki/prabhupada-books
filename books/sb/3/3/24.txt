@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.3.24",
+    "h1":"SB 3.3.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.3.24",
     "description":"Once upon a time, great sages were made angry by the sporting activities of the princely descendants of the Yadu and Bhoja dynasties, and thus, as desired by the Lord, the sages cursed them."
 }
 ---

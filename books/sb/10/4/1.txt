@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 10.4.1",
+    "h1":"SB 10.4.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 10.4.1",
     "description":"Śukadeva Gosvāmī continued: My dear King Parīkṣit, the doors inside and outside the house closed as before. Thereafter, the inhabitants of the house, especially the watchmen, heard the crying of the newborn child and thus awakened from their beds."
 }
 ---

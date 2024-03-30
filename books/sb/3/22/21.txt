@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.22.21",
+    "h1":"SB 3.22.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.22.21",
     "description":"Śrī Maitreya said: O great warrior Vidura, the sage Kardama said this much only and then became silent, thinking of his worshipable Lord Viṣṇu, who has a lotus on His navel. As he silently smiled, his face captured the mind of Devahūti, who began to meditate upon the great sage."
 }
 ---

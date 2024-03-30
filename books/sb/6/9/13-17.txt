@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.13-17",
-    "h1":"Text 13-17",
-    "title":" Śrīmad Bhāgavatam 6.9.13-17",
+    "h1":"SB 6.9.13-17",
+    "label":"Text 13-17",
+    "title":"Śrīmad Bhāgavatam 6.9.13-17",
     "description":"Like arrows released in the four directions, the demon's body grew, day after day. Tall and blackish, he appeared like a burnt hill and was as lustrous as a bright array of clouds in the evening. The hair on the demon's body and his beard and moustache were the color of melted copper, and his eyes were piercing like the midday sun. He appeared unconquerable, as if holding the three worlds on the points of his blazing trident. Dancing and shouting with a loud voice, he made the entire surface of the earth tremble as if from an earthquake. As he yawned again and again, he seemed to be trying to swallow the whole sky with his mouth, which was as deep as a cave. He seemed to be licking up all the stars in the sky with his tongue and eating the entire universe with his long, sharp teeth. Seeing this gigantic demon, everyone, in great fear, ran here and there in all directions."
 }
 ---

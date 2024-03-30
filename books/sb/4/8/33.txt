@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.8.33",
+    "h1":"SB 4.8.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.8.33",
     "description":"One should try to keep himself satisfied in any condition of life—whether distress or happiness—which is offered by the supreme will. A person who endures in this way is able to cross over the darkness of nescience very easily."
 }
 ---

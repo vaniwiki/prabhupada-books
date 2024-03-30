@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 10.5.30",
+    "h1":"SB 10.5.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 10.5.30",
     "description":"Every man is certainly controlled by destiny, which determines the results of one's fruitive activities. In other words, one has a son or daughter because of unseen destiny, and when the son or daughter is no longer present, this also is due to unseen destiny. Destiny is the ultimate controller of everyone. One who knows this is never bewildered."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 6.1.46",
+    "h1":"SB 6.1.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 6.1.46",
     "description":"O best of the demigods, we can see three different varieties of life, which are due to the contamination of the three modes of nature. The living entities are thus known as peaceful, restless and foolish; as happy, unhappy or in-between; or as religious, irreligious and semireligious. We can deduce that in the next life these three kinds of material nature will similarly act."
 }
 ---

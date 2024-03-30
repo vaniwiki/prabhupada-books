@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.5.16",
+    "h1":"SB 4.5.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.5.16",
     "description":"Some blocked the way of the fleeing sages, some threatened the women assembled there, and some arrested the demigods who were fleeing the pandal."
 }
 ---

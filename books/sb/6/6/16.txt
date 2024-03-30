@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 6.6.16",
+    "h1":"SB 6.6.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 6.6.16",
     "description":"Ūṣā, the wife of Vibhāvasu, gave birth to three sons—Vyuṣṭa, Rociṣa and Ātapa. From Ātapa came Pañcayāma, the span of day, who awakens all living entities to material activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 5.14.20",
+    "h1":"SB 5.14.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 5.14.20",
     "description":"Śukadeva Gosvāmī continued speaking to Mahārāja Parīkṣit: My dear King, sleep is exactly like a python. Those who wander in the forest of material life are always devoured by the python of sleep. Being bitten by this python, they always remain in the darkness of ignorance. They are like dead bodies thrown in a distant forest. Thus the conditioned souls cannot understand what is going on in life."
 }
 ---

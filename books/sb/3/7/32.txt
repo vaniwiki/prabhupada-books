@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.7.32",
+    "h1":"SB 3.7.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.7.32",
     "description":"You may also describe the noncontradictory causes of religiosity, economic development, sense gratification and salvation and also the different means of livelihood and different processes of law and order as mentioned in the revealed scriptures."
 }
 ---

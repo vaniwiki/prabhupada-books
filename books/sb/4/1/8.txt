@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.1.8",
+    "h1":"SB 4.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.1.8",
     "description":"During the time of Svāyambhuva Manu, these sons all became the demigods collectively named the Tuṣitas. Marīci became the head of the seven ṛṣis, and Yajña became the king of the demigods, Indra."
 }
 ---

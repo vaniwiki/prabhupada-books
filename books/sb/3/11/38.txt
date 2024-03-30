@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.11.38",
+    "h1":"SB 3.11.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.11.38",
     "description":"The duration of the two parts of Brahmā's life, as above mentioned, is calculated to be equal to one nimeṣa [less than a second] for the Supreme Personality of Godhead, who is unchanging and unlimited and is the cause of all causes of the universe."
 }
 ---

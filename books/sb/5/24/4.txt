@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.24.4",
+    "h1":"SB 5.24.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.24.4",
     "description":"Below Rāhu by 10,000 yojanas [80,000 miles] are the planets known as Siddhaloka, Cāraṇaloka and Vidyādhara-loka."
 }
 ---

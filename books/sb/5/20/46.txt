@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 5.20.46",
+    "h1":"SB 5.20.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 5.20.46",
     "description":"All living entities, including demigods, human beings, animals, birds, insects, reptiles, creepers and trees, depend upon the heat and light given by the sun-god from the sun planet. Furthermore, it is because of the sun's presence that all living entities can see, and therefore he is called dṛg-īśvara, the Personality of Godhead presiding over sight."
 }
 ---

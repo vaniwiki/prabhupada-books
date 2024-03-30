@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.5.12",
+    "h1":"SB 6.5.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.5.12",
     "description":"[Nārada Muni had said that there is a kingdom where there is only one male. The Haryaśvas realized the purport of this statement.] The only enjoyer is the Supreme Personality of Godhead, who observes everything, everywhere. He is full of six opulences and fully independent of everyone else. He is never subject to the three modes of material nature, for He is always transcendental to this material creation. If the members of human society do not understand Him, the Supreme, through their advancement in knowledge and activities, but simply work very hard like cats and dogs all day and night for temporary happiness, what will be the benefit of their activities?"
 }
 ---

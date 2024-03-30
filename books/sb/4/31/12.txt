@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.31.12",
+    "h1":"SB 4.31.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.31.12",
     "description":"Transcendental practices that do not ultimately help one realize the Supreme Personality of Godhead are useless, be they mystic yoga practices, the analytical study of matter, severe austerity, the acceptance of sannyāsa, or the study of Vedic literature. All these may be very important aspects of spiritual advancement, but unless one understands the Supreme Personality of Godhead, Hari, all these processes are useless."
 }
 ---

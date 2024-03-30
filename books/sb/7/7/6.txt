@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 7.7.6",
+    "h1":"SB 7.7.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 7.7.6",
     "description":"The victorious demigods plundered the palace of Hiraṇyakaśipu, the King of the demons, and destroyed everything within it. Then Indra, King of heaven, arrested my mother, the Queen."
 }
 ---

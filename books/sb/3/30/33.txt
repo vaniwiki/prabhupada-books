@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.30.33",
+    "h1":"SB 3.30.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.30.33",
     "description":"Therefore a person who is very eager to maintain his family and kinsmen simply by black methods certainly goes to the darkest region of hell, which is known as Andha-tāmisra."
 }
 ---

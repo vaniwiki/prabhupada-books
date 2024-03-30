@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.6.31",
+    "h1":"SB 4.6.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.6.31",
     "description":"They also saw that the bathing ghāṭas and their staircases were made of vaidūrya-maṇi. The water was full of lotus flowers. Passing by such lakes, the demigods reached a place where there was a great banyan tree."
 }
 ---

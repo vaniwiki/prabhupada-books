@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.16.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.16.24",
+    "h1":"SB 5.16.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.16.24",
     "description":"Similarly, on Kumuda Mountain there is a great banyan tree, which is called Śatavalśa because it has a hundred main branches. From those branches come many roots, from which many rivers are flowing. These rivers flow down from the top of the mountain to the northern side of Ilāvṛta-varṣa for the benefit of those who live there. Because of these flowing rivers, all the people have ample supplies of milk, yogurt, honey, clarified butter [ghee], molasses, food grains, clothes, bedding, sitting places and ornaments. All the objects they desire are sufficiently supplied for their prosperity, and therefore they are very happy."
 }
 ---

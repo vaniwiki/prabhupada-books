@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.14.30",
+    "h1":"SB 4.14.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.14.30",
     "description":"My dear Vidura, all good fortune unto you. The foolish King, who thought himself very learned, thus insulted the great sages, and the sages, being brokenhearted by the King's words, became very angry at him."
 }
 ---

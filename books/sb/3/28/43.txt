@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.28.43",
+    "h1":"SB 3.28.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.28.43",
     "description":"As fire is exhibited in different forms of wood, so, under different conditions of the modes of material nature, the pure spirit soul manifests itself in different bodies."
 }
 ---

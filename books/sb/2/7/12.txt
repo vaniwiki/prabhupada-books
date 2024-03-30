@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.7.12",
+    "h1":"SB 2.7.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.7.12",
     "description":"At the end of the millennium, the would-be Vaivasvata Manu, of the name Satyavrata, would see that the Lord in the fish incarnation is the shelter of all kinds of living entities, up to those in the earthly planets. Because of my fear of the vast water at the end of the millennium, the Vedas come out of my [Brahmā's] mouth, and the Lord enjoys those vast waters and protects the Vedas."
 }
 ---

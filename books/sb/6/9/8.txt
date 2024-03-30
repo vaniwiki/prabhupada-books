@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.9.8",
+    "h1":"SB 6.9.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.9.8",
     "description":"In return for Indra's benediction that their branches and twigs would grow back when trimmed, the trees accepted one fourth of the reactions for killing a brāhmaṇa. These reactions are visible in the flowing of sap from trees. [Therefore one is forbidden to drink this sap.]"
 }
 ---

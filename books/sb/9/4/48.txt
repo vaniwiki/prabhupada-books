@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 9.4.48",
+    "h1":"SB 9.4.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 9.4.48",
     "description":"As fire in the forest immediately burns to ashes an angry snake, so, by the previous order of the Supreme Personality of Godhead, His disc, the Sudarśana cakra, immediately burnt to ashes the created demon to protect the Lord's devotee."
 }
 ---

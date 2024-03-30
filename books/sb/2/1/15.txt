@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.1.15",
+    "h1":"SB 2.1.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.1.15",
     "description":"At the last stage of one's life, one should be bold enough not to be afraid of death. But one must cut off all attachment to the material body and everything pertaining to it and all desires thereof."
 }
 ---

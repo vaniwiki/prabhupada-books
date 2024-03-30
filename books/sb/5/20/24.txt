@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.20.24",
+    "h1":"SB 5.20.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.20.24",
     "description":"Outside the ocean of milk is another island, Śākadvīpa, which has a width of 3,200,000 yojanas [25,600,000 miles]. As Krauñcadvīpa is surrounded by its own ocean of milk, Śākadvīpa is surrounded by an ocean of churned yogurt as broad as the island itself. In Śākadvīpa there is a big śāka tree, from which the island takes its name. This tree is very fragrant. Indeed, it lends its scent to the entire island."
 }
 ---

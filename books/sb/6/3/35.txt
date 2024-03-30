@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 6.3.35",
+    "h1":"SB 6.3.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 6.3.35",
     "description":"When the great sage Agastya, the son of Kumbha, was residing in the Malaya Hills and worshiping the Supreme Personality of Godhead, I approached him, and he explained to me this confidential history."
 }
 ---

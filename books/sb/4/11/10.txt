@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.11.10",
+    "h1":"SB 4.11.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.11.10",
     "description":"One should not accept the body as the self and thus, like the animals, kill the bodies of others. This is especially forbidden by saintly persons, who follow the path of devotional service to the Supreme Personality of Godhead."
 }
 ---

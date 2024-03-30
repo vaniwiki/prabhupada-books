@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.20.19",
+    "h1":"SB 3.20.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.20.19",
     "description":"Out of disgust, Brahmā threw off the body of ignorance, and taking this opportunity, Yakṣas and Rākṣasas sprang for possession of the body, which continued to exist in the form of night. Night is the source of hunger and thirst."
 }
 ---

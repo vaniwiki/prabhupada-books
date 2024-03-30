@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.45-46",
-    "h1":"Text 45-46",
-    "title":" Śrīmad Bhāgavatam 3.31.45-46",
+    "h1":"SB 3.31.45-46",
+    "label":"Text 45-46",
+    "title":"Śrīmad Bhāgavatam 3.31.45-46",
     "description":"When the eyes lose their power to see color or form due to morbid affliction of the optic nerve, the sense of sight becomes deadened. The living entity, who is the seer of both the eyes and the sight, loses his power of vision. In the same way, when the physical body, the place where perception of objects occurs, is rendered incapable of perceiving, that is known as death. When one begins to view the physical body as one's very self, that is called birth."
 }
 ---

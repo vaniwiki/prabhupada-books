@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 6.2.32",
+    "h1":"SB 6.2.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 6.2.32",
     "description":"I am certainly most abominable and unfortunate to have merged in an ocean of sinful activities, but nevertheless, because of my previous spiritual activities, I could see those four exalted personalities who came to rescue me. Now I feel exceedingly happy because of their visit."
 }
 ---

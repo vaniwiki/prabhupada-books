@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.3.1",
+    "h1":"SB 7.3.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.3.1",
     "description":"Nārada Muni said to Mahārāja Yudhiṣṭhira: The demoniac king Hiraṇyakaśipu wanted to be unconquerable and free from old age and dwindling of the body. He wanted to gain all the yogic perfections like aṇimā and laghimā, to be deathless, and to be the only king of the entire universe, including Brahmaloka."
 }
 ---

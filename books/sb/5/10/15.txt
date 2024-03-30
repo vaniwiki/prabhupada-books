@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.10.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.10.15",
+    "h1":"SB 5.10.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.10.15",
     "description":"Śukadeva Gosvāmī continued: O best of the Pāṇḍu dynasty [Mahārāja Parīkṣit], the King of the Sindhu and Sauvīra states [Mahārāja Rahūgaṇa] had great faith in discussions of the Absolute Truth. Being thus qualified, he heard from Jaḍa Bharata that philosophical presentation which is approved by all scriptures on the mystic yoga process and which slackens the knot in the heart. His material conception of himself as a king was thus destroyed. He immediately descended from his palanquin and fell flat on the ground with his head at the lotus feet of Jaḍa Bharata in such a way that he might be excused for his insulting words against the great brāhmaṇa. He then prayed as follows."
 }
 ---

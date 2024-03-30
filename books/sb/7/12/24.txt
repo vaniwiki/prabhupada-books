@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 7.12.24",
+    "h1":"SB 7.12.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 7.12.24",
     "description":"He should properly place the fire element in his own self and in this way give up bodily affinity, by which one thinks the body to be one's self or one's own. One should gradually merge the material body into the five elements [earth, water, fire, air and sky]."
 }
 ---

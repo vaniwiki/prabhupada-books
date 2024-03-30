@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.29-30",
-    "h1":"Text 29-30",
-    "title":" Śrīmad Bhāgavatam 6.9.29-30",
+    "h1":"SB 6.9.29-30",
+    "label":"Text 29-30",
+    "title":"Śrīmad Bhāgavatam 6.9.29-30",
     "description":"Surrounding and serving the Supreme Personality of Godhead, Nārāyaṇa, were sixteen personal attendants, decorated with ornaments and appearing exactly like Him but without the mark of Śrīvatsa and the Kaustubha jewel. O King, when all the demigods saw the Supreme Lord in that posture, smiling with eyes like the petals of lotuses grown in autumn, they were overwhelmed with happiness and immediately fell down like rods, offering daṇḍavats. Then they slowly rose and pleased the Lord by offering Him prayers."
 }
 ---

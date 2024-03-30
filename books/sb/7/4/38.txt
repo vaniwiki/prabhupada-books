@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 7.4.38",
+    "h1":"SB 7.4.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 7.4.38",
     "description":"Prahlāda Mahārāja was always absorbed in thought of Kṛṣṇa. Thus, being always embraced by the Lord, he did not know how his bodily necessities, such as sitting, walking, eating, lying down, drinking and talking, were being automatically performed."
 }
 ---

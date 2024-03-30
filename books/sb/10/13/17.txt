@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.13.17",
+    "h1":"SB 10.13.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.13.17",
     "description":"When Kṛṣṇa was unable to find the calves and their caretakers, the cowherd boys, anywhere in the forest, He could suddenly understand that this was the work of Lord Brahmā."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.18.3",
+    "h1":"SB 8.18.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.18.3",
     "description":"An uncommonly beautiful garland of flowers decorated His bosom, and because the flowers were extremely fragrant, a large group of bees, making their natural humming sounds, invaded them for honey. When the Lord appeared, wearing the Kaustubha gem on His neck, His effulgence vanquished the darkness in the home of the Prajāpati Kaśyapa."
 }
 ---

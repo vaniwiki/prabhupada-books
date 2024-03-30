@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 10.4.31",
+    "h1":"SB 10.4.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 10.4.31",
     "description":"If this is so, O King of the Bhoja dynasty, beginning today we shall kill all the children born in all the villages, towns and pasturing grounds within the past ten days or slightly more."
 }
 ---

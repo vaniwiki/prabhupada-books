@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.14.16",
+    "h1":"SB 3.14.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.14.16",
     "description":"O hero [Vidura], Diti, being thus afflicted by the contamination of lust, and therefore poor and talkative, was pacified by the son of Marīci in suitable words."
 }
 ---

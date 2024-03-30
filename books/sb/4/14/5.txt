@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.14.5",
+    "h1":"SB 4.14.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.14.5",
     "description":"When he became overly blind due to his opulences, King Vena mounted a chariot and, like an uncontrolled elephant, began to travel through the kingdom, causing the sky and earth to tremble wherever he went."
 }
 ---

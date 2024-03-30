@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.23.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.23.26",
+    "h1":"SB 9.23.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.23.26",
     "description":"For eighty-five thousand years, Kārtavīryārjuna continuously enjoyed material opulences with full bodily strength and unimpaired memory. In other words, he enjoyed inexhaustible material opulences with his six senses."
 }
 ---

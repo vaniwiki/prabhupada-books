@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.34-35",
-    "h1":"Text 34-35",
-    "title":" Śrīmad Bhāgavatam 10.3.34-35",
+    "h1":"SB 10.3.34-35",
+    "label":"Text 34-35",
+    "title":"Śrīmad Bhāgavatam 10.3.34-35",
     "description":"My dear father and mother, you endured rain, wind, strong sun, scorching heat and severe cold, suffering all sorts of inconvenience according to different seasons. By practicing prāṇāyāma to control the air within the body through yoga, and by eating only air and dry leaves fallen from the trees, you cleansed from your minds all dirty things. In this way, desiring a benediction from Me, you worshiped Me with peaceful minds."
 }
 ---

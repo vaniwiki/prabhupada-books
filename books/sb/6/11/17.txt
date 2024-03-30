@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.11.17",
+    "h1":"SB 6.11.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.11.17",
     "description":"You are naturally cruel. If the other demigods, unaware of my prowess, follow you by attacking me with raised weapons, I shall sever their heads with this sharp trident. With those heads I shall perform a sacrifice to Bhairava and the other leaders of the ghosts, along with their hordes."
 }
 ---

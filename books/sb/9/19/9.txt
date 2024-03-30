@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 9.19.9",
+    "h1":"SB 9.19.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 9.19.9",
     "description":"Being very sorry, the he-goat, who was subservient to his wife, followed the she-goat on the road and tried his best to flatter her, but he could not pacify her."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.14.13",
+    "h1":"SB 4.14.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.14.13",
     "description":"The great sages, having thus decided, approached King Vena. Concealing their real anger, they pacified him with sweet words and then spoke as follows."
 }
 ---

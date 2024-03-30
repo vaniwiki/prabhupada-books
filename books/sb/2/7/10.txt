@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 2.7.10",
+    "h1":"SB 2.7.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 2.7.10",
     "description":"The Lord appeared as the son of Sudevī, the wife of King Nābhi, and was known as Ṛṣabhadeva. He performed materialistic yoga to equibalance the mind. This stage is also accepted as the highest perfectional situation of liberation, wherein one is situated in one's self and is completely satisfied."
 }
 ---

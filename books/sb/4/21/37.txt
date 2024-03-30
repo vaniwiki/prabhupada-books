@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.21.37",
+    "h1":"SB 4.21.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.21.37",
     "description":"The brāhmaṇas and Vaiṣṇavas are personally glorified by their characteristic powers of tolerance, penance, knowledge and education. By dint of all these spiritual assets, Vaiṣṇavas are more powerful than royalty. It is therefore advised that the princely order not exhibit its material prowess before these two communities and should avoid offending them."
 }
 ---

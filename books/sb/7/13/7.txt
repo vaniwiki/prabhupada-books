@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 7.13.7",
+    "h1":"SB 7.13.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 7.13.7",
     "description":"Literature that is a useless waste of time—in other words, literature without spiritual benefit—should be rejected. One should not become a professional teacher as a means of earning one's livelihood, nor should one indulge in arguments and counter-arguments. Nor should one take shelter of any cause or faction."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.69",
-    "h1":"Text 69",
-    "title":" Śrīmad Bhāgavatam 10.1.69",
+    "h1":"SB 10.1.69",
+    "label":"Text 69",
+    "title":"Śrīmad Bhāgavatam 10.1.69",
     "description":"Kaṁsa, the most powerful son of Ugrasena, even imprisoned his own father, the King of the Yadu, Bhoja and Andhaka dynasties, and personally ruled the states known as Śūrasena."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 5.14.1",
+    "h1":"SB 5.14.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 5.14.1",
     "description":"When King Parīkṣit asked Śukadeva Gosvāmī about the direct meaning of the material forest, Śukadeva Gosvāmī replied as follows: My dear King, a man belonging to the mercantile community [vaṇik] is always interested in earning money. Sometimes he enters the forest to acquire some cheap commodities like wood and earth and sell them in the city at good prices. Similarly, the conditioned soul, being greedy, enters this material world for some material profit. Gradually he enters the deepest part of the forest, not really knowing how to get out. Having entered the material world, the pure soul becomes conditioned by the material atmosphere, which is created by the external energy under the control of Lord Viṣṇu. Thus the living entity comes under the control of the external energy, daivī māyā. Living independently and bewildered in the forest, he does not attain the association of devotees who are always engaged in the service of the Lord. Once in the bodily conception, he gets different types of bodies one after the other under the influence of material energy and impelled by the modes of material nature [sattva-guṇa, rajo-guṇa and tamo-guṇa]. In this way the conditioned soul goes sometimes to the heavenly planets, sometimes to the earthly planets and sometimes to the lower planets and lower species. Thus he suffers continuously due to different types of bodies. These sufferings and pains are sometimes mixed. Sometimes they are very severe, and sometimes they are not. These bodily conditions are acquired due to the conditioned soul's mental speculation. He uses his mind and five senses to acquire knowledge, and these bring about the different bodies and different conditions. Using the senses under the control of the external energy, māyā, the living entity suffers the miserable conditions of material existence. He is actually searching for relief, but he is generally baffled, although sometimes he is relieved after great difficulty. Struggling for existence in this way, he cannot get the shelter of pure devotees, who are like bumblebees engaged in loving service at the lotus feet of Lord Viṣṇu."
 }
 ---

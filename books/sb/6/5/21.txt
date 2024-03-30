@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.5.21",
+    "h1":"SB 6.5.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.5.21",
     "description":"Śukadeva Gosvāmī continued: My dear King, after hearing the instructions of Nārada, the Haryaśvas, the sons of Prajāpati Dakṣa, were firmly convinced. They all believed in his instructions and reached the same conclusion. Having accepted him as their spiritual master, they circumambulated that great sage and followed the path by which one never returns to this world."
 }
 ---

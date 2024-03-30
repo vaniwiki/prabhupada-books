@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 4.25.55",
+    "h1":"SB 4.25.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 4.25.55",
     "description":"Sometimes he used to go to his private home with one of his chief servants [the mind], who was named Viṣūcīna. At that time, illusion, satisfaction and happiness used to be produced from his wife and children."
 }
 ---

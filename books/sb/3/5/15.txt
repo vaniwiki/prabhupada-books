@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 3.5.15",
+    "h1":"SB 3.5.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 3.5.15",
     "description":"O Maitreya, O friend of the distressed, the glories of the Supreme Lord can alone do good for people all over the world. Therefore, just as bees collect honey from flowers, kindly describe the essence of all topics—the topics of the Lord."
 }
 ---

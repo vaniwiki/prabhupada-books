@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 2.2.24",
+    "h1":"SB 2.2.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 2.2.24",
     "description":"O King, when such a mystic passes over the Milky Way by the illuminating Suṣumṇā to reach the highest planet, Brahmaloka, he goes first to Vaiśvānara, the planet of the deity of fire, wherein he becomes completely cleansed of all contaminations, and thereafter he still goes higher, to the circle of Śiśumāra, to relate with Lord Hari, the Personality of Godhead."
 }
 ---

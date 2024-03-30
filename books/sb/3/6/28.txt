@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.6.28",
+    "h1":"SB 3.6.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.6.28",
     "description":"The demigods, qualified by the superexcellent quality of the mode of goodness, are situated in the heavenly planets, whereas the human beings, because of their nature in the mode of passion, live on the earth in company with their subordinates."
 }
 ---

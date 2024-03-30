@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 10.11.52",
+    "h1":"SB 10.11.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 10.11.52",
     "description":"At that time, the celestial denizens of the higher planetary system showered mallikā-puṣpa, flowers grown in Nandana-kānana, upon Kṛṣṇa, the enemy of Bakāsura. They also congratulated Him by sounding celestial kettledrums and conchshells and by offering prayers. Seeing this, the cowherd boys were struck with wonder."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.8.21",
+    "h1":"SB 8.8.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.8.21",
     "description":"Someone may possess full knowledge of religion but still not be kind to all living entities. In someone, whether human or demigod, there may be renunciation, but that is not the cause of liberation. Someone may possess great power and yet be unable to check the power of eternal time. Someone else may have renounced attachment to the material world, yet he cannot compare to the Supreme Personality of Godhead. Therefore, no one is completely freed from the influence of the material modes of nature."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 6.5.38",
+    "h1":"SB 6.5.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 6.5.38",
     "description":"Prajāpati Dakṣa continued: Thus committing violence against other living entities and yet claiming to be an associate of Lord Viṣṇu, you are defaming the Supreme Personality of Godhead. You needlessly created a mentality of renunciation in innocent boys, and therefore you are shameless and devoid of compassion. How could you travel with the personal associates of the Supreme Lord?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.26.1",
+    "h1":"SB 3.26.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.26.1",
     "description":"The Personality of Godhead, Kapila, continued: My dear mother, now I shall describe unto you the different categories of the Absolute Truth, knowing which any person can be released from the influence of the modes of material nature."
 }
 ---

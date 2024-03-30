@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 4.9.64",
+    "h1":"SB 4.9.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 4.9.64",
     "description":"There were emerald staircases which led to lakes full of variously colored lotus flowers and lilies, and swans, kāraṇḍavas, cakravākas, cranes and similar other valuable birds were visible in those lakes."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.27-28",
-    "h1":"Text 27-28",
-    "title":" Śrīmad Bhāgavatam 6.5.27-28",
+    "h1":"SB 6.5.27-28",
+    "label":"Text 27-28",
+    "title":"Śrīmad Bhāgavatam 6.5.27-28",
     "description":"For a few months the sons of Prajāpati Dakṣa drank only water and ate only air. Thus undergoing great austerities, they recited this mantra: \"Let us offer our respectful obeisances unto Nārāyaṇa, the Supreme Personality of Godhead, who is always situated in His transcendental abode. Since He is the Supreme Person [paramahaṁsa], let us offer our respectful obeisances unto Him.\""
 }
 ---

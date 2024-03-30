@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 4.6.46",
+    "h1":"SB 4.6.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 4.6.46",
     "description":"My dear Lord, devotees who have fully dedicated their lives unto your lotus feet certainly observe your presence as Paramātmā in each and every being, and as such they do not differentiate between one living being and another. Such persons treat all living entities equally. They never become overwhelmed by anger like animals, who can see nothing without differentiation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.16.5",
+    "h1":"SB 3.16.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.16.5",
     "description":"A wrong act committed by a servant leads people in general to blame his master, just as a spot of white leprosy on any part of the body pollutes all of the skin."
 }
 ---

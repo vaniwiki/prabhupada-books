@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.30.38",
+    "h1":"SB 4.30.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.30.38",
     "description":"Dear Lord, by virtue of a moment's association with Lord Śiva, who is very dear to You and who is Your most intimate friend, we were fortunate to attain You. You are the most expert physician, capable of treating the incurable disease of material existence. On account of our great fortune, we have been able to take shelter at Your lotus feet."
 }
 ---

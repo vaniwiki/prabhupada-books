@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.6.27",
+    "h1":"SB 2.6.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.6.27",
     "description":"Thus I had to arrange all these necessary ingredients and paraphernalia of sacrifice from the personal bodily parts of the Personality of Godhead. By invocation of the demigods' names, the ultimate goal, Viṣṇu, was gradually attained, and thus compensation and ultimate offering were complete."
 }
 ---

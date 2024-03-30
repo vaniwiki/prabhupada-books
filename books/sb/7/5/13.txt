@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 7.5.13",
+    "h1":"SB 7.5.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 7.5.13",
     "description":"Persons who always think in terms of \"enemy\" and \"friend\" are unable to ascertain the Supersoul within themselves. Not to speak of them, even such exalted persons as Lord Brahmā, who are fully conversant with the Vedic literature, are sometimes bewildered in following the principles of devotional service. The same Supreme Personality of Godhead who has created this situation has certainly given me the intelligence to take the side of your so-called enemy."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.7.6",
+    "h1":"SB 8.7.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.7.6",
     "description":"O son of the Pāṇḍu dynasty, when Mandara Mountain was thus being used as a churning rod in the ocean of milk, it had no support, and therefore although held by the strong hands of the demigods and demons, it sank into the water."
 }
 ---

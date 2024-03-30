@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 7.2.12",
+    "h1":"SB 7.2.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 7.2.12",
     "description":"Immediately go wherever there is good protection for the cows and brāhmaṇas and wherever the Vedas are studied in terms of the varṇāśrama principles. Set fire to those places and cut from the roots the trees there, which are the source of life."
 }
 ---

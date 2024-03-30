@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.8.10",
+    "h1":"SB 4.8.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.8.10",
     "description":"While the child, Dhruva Mahārāja, was trying to get on the lap of his father, Suruci, his stepmother, became very envious of the child, and with great pride she began to speak so as to be heard by the King himself."
 }
 ---

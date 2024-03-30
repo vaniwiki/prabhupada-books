@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 6.18.24",
+    "h1":"SB 6.18.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 6.18.24",
     "description":"Lord Indra, who is very much fond of sense gratification, has killed the two brothers Hiraṇyākṣa and Hiraṇyakaśipu by means of Lord Viṣṇu. Therefore Indra is cruel, hardhearted and sinful. When will I, having killed him, rest with a pacified mind?"
 }
 ---

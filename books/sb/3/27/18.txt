@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.27.18",
+    "h1":"SB 3.27.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.27.18",
     "description":"As there is no separate existence of the earth and its aroma or of water and its taste, there cannot be any separate existence of intelligence and consciousness."
 }
 ---

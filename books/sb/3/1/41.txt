@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 3.1.41",
+    "h1":"SB 3.1.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 3.1.41",
     "description":"O gentle one, I simply lament for he [Dhṛtarāṣṭra] who rebelled against his brother after death. By him I was driven out of my own house, although I am his sincere well-wisher, because he accepted the line of action adopted by his own sons."
 }
 ---

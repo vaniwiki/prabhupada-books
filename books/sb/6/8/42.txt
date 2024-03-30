@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.8.42",
+    "h1":"SB 6.8.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.8.42",
     "description":"King Indra, who performed one hundred sacrifices, received this prayer of protection from Viśvarūpa. After conquering the demons, he enjoyed all the opulences of the three worlds."
 }
 ---

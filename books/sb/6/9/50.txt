@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 6.9.50",
+    "h1":"SB 6.9.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 6.9.50",
     "description":"A pure devotee who is fully accomplished in the science of devotional service will never instruct a foolish person to engage in fruitive activities for material enjoyment, not to speak of helping him in such activities. Such a devotee is like an experienced physician, who never encourages a patient to eat food injurious to his health, even if the patient desires it."
 }
 ---

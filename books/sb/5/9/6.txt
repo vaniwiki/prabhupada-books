@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.9.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.9.6",
+    "h1":"SB 5.9.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.9.6",
     "description":"The brāhmaṇa father of Jaḍa Bharata considered his son his heart and soul, and therefore he was very much attached to him. He thought it wise to educate his son properly, and being absorbed in this unsuccessful endeavor, he tried to teach his son the rules and regulations of brahmacarya—including the execution of the Vedic vows, cleanliness, study of the Vedas, the regulative methods, service to the spiritual master and the method of offering a fire sacrifice. He tried his best to teach his son in this way, but all his endeavors failed. In his heart he hoped that his son would be a learned scholar, but all his attempts were unsuccessful. Like everyone, this brāhmaṇa was attached to his home, and he had forgotten that someday he would die. Death, however, was not forgetful. At the proper time, death appeared and took him away."
 }
 ---

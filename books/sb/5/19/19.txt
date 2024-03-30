@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 5.19.19",
+    "h1":"SB 5.19.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 5.19.19",
     "description":"The people who take birth in this tract of land are divided according to the qualities of material nature—the modes of goodness [sattva-guṇa], passion [rajo-guṇa], and ignorance [tamo-guṇa]. Some of them are born as exalted personalities, some are ordinary human beings, and some are extremely abominable, for in Bhārata—varṣa one takes birth exactly according to one's past karma. If one's position is ascertained by a bona fide spiritual master and one is properly trained to engage in the service of Lord Viṣṇu according to the four social divisions [brāhmaṇa, kṣatriya, vaiśya and śūdra] and the four spiritual divisions [brahmacārī, gṛhastha, vānaprastha and sannyāsa], one's life becomes perfect."
 }
 ---

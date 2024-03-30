@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.8.38",
+    "h1":"SB 4.8.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.8.38",
     "description":"My dear lord, you are a worthy son of Lord Brahmā, and you travel, playing on your musical instrument, the vīṇā, for the welfare of the entire universe. You are like the sun, which rotates in the universe for the benefit of all living beings."
 }
 ---

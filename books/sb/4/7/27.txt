@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.7.27",
+    "h1":"SB 4.7.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.7.27",
     "description":"The priests addressed the Lord, saying: O Lord, transcendental to material contamination, by the curse offered by Lord Śiva's men we have become attached to fruitive activities, and thus we are now fallen and therefore do not know anything about You. On the contrary, we are now involved in the injunctions of the three departments of the Vedic knowledge under the plea of executing rituals in the name of yajña. We know that You have made arrangements for distributing the respective shares of the demigods."
 }
 ---

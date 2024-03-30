@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.5.12",
+    "h1":"SB 3.5.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.5.12",
     "description":"Your friend the great sage Kṛṣṇa-dvaipāyana Vyāsa has already described the transcendental qualities of the Lord in his great work the Mahābhārata. But the whole idea is to draw the attention of the mass of people to kṛṣṇa-kathā [Bhagavad-gītā] through their strong affinity for hearing mundane topics."
 }
 ---

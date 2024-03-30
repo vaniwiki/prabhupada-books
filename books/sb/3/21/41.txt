@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 3.21.41",
+    "h1":"SB 3.21.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 3.21.41",
     "description":"The area resounded with the notes of overjoyed birds. Intoxicated bees wandered there, intoxicated peacocks proudly danced, and merry cuckoos called one another."
 }
 ---

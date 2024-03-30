@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 7.10.60",
+    "h1":"SB 7.10.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 7.10.60",
     "description":"When the dead bodies of the demons came in touch with the nectar, their bodies became invincible to thunderbolts. Endowed with great strength, they got up like lightning penetrating clouds."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.23.24",
+    "h1":"SB 3.23.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.23.24",
     "description":"The lotus-eyed Devahūti accepted the order of her husband. Because of her dirty dress and the locks of matted hair on her head, she did not look very attractive."
 }
 ---

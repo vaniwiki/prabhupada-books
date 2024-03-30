@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.28.21",
+    "h1":"SB 4.28.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.28.21",
     "description":"King Purañjana continued worrying: \"After I pass from this world, how will my sons and daughters, who are now fully dependent on me, live and continue their lives? Their position will be similar to that of passengers aboard a ship wrecked in the midst of the ocean.\""
 }
 ---

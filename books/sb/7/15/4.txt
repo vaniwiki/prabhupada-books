@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 7.15.4",
+    "h1":"SB 7.15.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 7.15.4",
     "description":"If one arranges to feed many brāhmaṇas or relatives during the śrāddha ceremony, there will be discrepancies in the time, place, respectability and ingredients, the person to be worshiped, and the method of offering worship."
 }
 ---

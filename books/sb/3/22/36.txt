@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.22.36",
+    "h1":"SB 3.22.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.22.36",
     "description":"He passed his time, which lasted seventy-one cycles of the four ages [71 x 4,320,000 years], always thinking of Vāsudeva and always engaged in matters regarding Vāsudeva. Thus he transcended the three destinations."
 }
 ---

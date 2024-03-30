@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.4.42",
+    "h1":"SB 6.4.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.4.42",
     "description":"Although Prajāpati Dakṣa could not say anything, when the Lord, who knows everyone's heart, saw His devotee prostrate in that manner and desiring to increase the population, He addressed him as follows."
 }
 ---

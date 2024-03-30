@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 10.1.29",
+    "h1":"SB 10.1.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 10.1.29",
     "description":"Some time ago, Vasudeva, who belonged to the demigod family [or to the Śūra dynasty], married Devakī. After the marriage, he mounted his chariot to return home with his newly married wife."
 }
 ---

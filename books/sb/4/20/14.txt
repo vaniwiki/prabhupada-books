@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.20.14",
+    "h1":"SB 4.20.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.20.14",
     "description":"To give protection to the general mass of people who are citizens of the state is the prescribed occupational duty for a king. By acting in that way, the king in his next life shares one sixth of the result of the pious activities of the citizens. But a king or executive head of state who simply collects taxes from the citizens but does not give them proper protection as human beings has the results of his own pious activities taken away by the citizens, and in exchange for his not giving protection he becomes liable to punishment for the impious activities of his subjects."
 }
 ---

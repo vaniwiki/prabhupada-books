@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.17.23",
+    "h1":"SB 6.17.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.17.23",
     "description":"Although the Supreme Lord is unattached to our happiness and distress according to karma, and although no one is His enemy or favorite, He creates pious and impious activities through the agency of His material potency. Thus for the continuation of the materialistic way of life He creates happiness and distress, good fortune and bad, bondage and liberation, birth and death."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 10.4.23",
+    "h1":"SB 10.4.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 10.4.23",
     "description":"Kaṁsa begged, \"My dear sister and brother-in-law, please be merciful to such a poor-hearted person as me, since both of you are saintly persons. Please excuse my atrocities.\" Having said this, Kaṁsa fell at the feet of Vasudeva and Devakī, his eyes full of tears of regret."
 }
 ---

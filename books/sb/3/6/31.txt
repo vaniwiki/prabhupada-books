@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.6.31",
+    "h1":"SB 3.6.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.6.31",
     "description":"Thereafter the power of protection was generated from the arms of the gigantic virāṭ form, and in relation to such power the kṣatriyas also came into existence by following the kṣatriya principle of protecting society from the disturbance of thieves and miscreants."
 }
 ---

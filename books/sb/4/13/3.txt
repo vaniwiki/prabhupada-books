@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.13.3",
+    "h1":"SB 4.13.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.13.3",
     "description":"Vidura continued: I know that the great sage Nārada is the greatest of all devotees. He has compiled the pāñcarātrika procedure of devotional service and has directly met the Supreme Personality of Godhead."
 }
 ---

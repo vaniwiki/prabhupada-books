@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 10.8.46",
+    "h1":"SB 10.8.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 10.8.46",
     "description":"Having heard of the great fortune of mother Yaśodā, Parīkṣit Mahārāja inquired from Śukadeva Gosvāmī: O learned brāhmaṇa, mother Yaśodā's breast milk was sucked by the Supreme Personality of Godhead. What past auspicious activities did she and Nanda Mahārāja perform to achieve such perfection in ecstatic love?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.8.21",
+    "h1":"SB 10.8.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.8.21",
     "description":"After a short time passed, both brothers, Rāma and Kṛṣṇa, began to crawl on the ground of Vraja with the strength of Their hands and knees and thus enjoy Their childhood play."
 }
 ---

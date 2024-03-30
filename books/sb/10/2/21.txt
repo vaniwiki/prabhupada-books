@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.2.21",
+    "h1":"SB 10.2.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.2.21",
     "description":"Kaṁsa thought: What is my duty now? The Supreme Lord, who knows His purpose [paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām], will not give up His prowess. Devakī is a woman, she is my sister, and moreover she is now pregnant. If I kill her, my reputation, opulence and duration of life will certainly be vanquished."
 }
 ---

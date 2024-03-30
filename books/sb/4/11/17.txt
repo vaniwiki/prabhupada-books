@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.11.17",
+    "h1":"SB 4.11.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.11.17",
     "description":"My dear Dhruva, the Supreme Personality of Godhead is uncontaminated by the material modes of nature. He is the remote cause of the creation of this material cosmic manifestation. When He gives the impetus, many other causes and effects are produced, and thus the whole universe moves, just as iron moves by the integrated force of a magnet."
 }
 ---

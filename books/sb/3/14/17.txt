@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.14.17",
+    "h1":"SB 3.14.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.14.17",
     "description":"O afflicted one, I shall forthwith gratify whatever desire is dear to you, for who else but you is the source of the three perfections of liberation?"
 }
 ---

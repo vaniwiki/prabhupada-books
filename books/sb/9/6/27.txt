@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 9.6.27",
+    "h1":"SB 9.6.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 9.6.27",
     "description":"Being thirsty one night, the King entered the arena of sacrifice, and when he saw all the brāhmaṇas lying down, he personally drank the sanctified water meant to be drunk by his wife."
 }
 ---

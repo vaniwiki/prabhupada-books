@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 2.3.19",
+    "h1":"SB 2.3.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 2.3.19",
     "description":"Men who are like dogs, hogs, camels and asses praise those men who never listen to the transcendental pastimes of Lord Śrī Kṛṣṇa, the deliverer from evils."
 }
 ---

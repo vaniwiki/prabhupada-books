@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 2.7.6",
+    "h1":"SB 2.7.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 2.7.6",
     "description":"To exhibit His personal way of austerity and penance, He appeared in twin forms as Nārāyaṇa and Nara in the womb of Mūrti, the wife of Dharma and the daughter of Dakṣa. Celestial beauties, the companions of Cupid, went to try to break His vows, but they were unsuccessful, for they saw that many beauties like them were emanating from Him, the Personality of Godhead."
 }
 ---

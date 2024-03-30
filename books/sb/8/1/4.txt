@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.1.4",
+    "h1":"SB 8.1.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.1.4",
     "description":"Śukadeva Gosvāmī said: In the present kalpa there have already been six Manus. I have described to you Svāyambhuva Manu and the appearance of many demigods. In this kalpa of Brahmā, Svāyambhuva is the first Manu."
 }
 ---

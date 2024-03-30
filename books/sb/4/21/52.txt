@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 4.21.52",
+    "h1":"SB 4.21.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 4.21.52",
     "description":"Dear lord, you are situated in your pure existential position of goodness; therefore you are the perfect representative of the Supreme Lord. You are glorified by your own prowess, and thus you are maintaining the entire world by introducing brahminical culture and protecting everyone in your line of duty as a kṣatriya."
 }
 ---

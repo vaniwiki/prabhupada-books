@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 9.16.4",
+    "h1":"SB 9.16.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 9.16.4",
     "description":"Later, understanding that the time for offering the sacrifice had passed, Reṇukā feared a curse from her husband. Therefore when she returned she simply put the waterpot before him and stood there with folded hands."
 }
 ---

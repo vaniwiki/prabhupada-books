@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.19.14",
+    "h1":"SB 3.19.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.19.14",
     "description":"Hurled by the mighty demon with all his strength, the flying trident shone brightly in the sky. The Personality of Godhead, however, tore it to pieces with His discus Sudarśana, which had a sharp-edged rim, even as Indra cut off a wing of Garuḍa."
 }
 ---

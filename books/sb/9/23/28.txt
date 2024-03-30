@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.23.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.23.28",
+    "h1":"SB 9.23.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.23.28",
     "description":"Jayadhvaja had a son named Tālajaṅgha, who had one hundred sons. All the kṣatriyas in that dynasty, known as Tālajaṅgha, were annihilated by the great power received by Mahārāja Sagara from Aurva Ṛṣi."
 }
 ---

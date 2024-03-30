@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 4.9.61",
+    "h1":"SB 4.9.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 4.9.61",
     "description":"The bedding in the palace was as white as the foam of milk and was very soft. The bedsteads were made of ivory with embellishments of gold, and the chairs, benches and other sitting places and furniture were made of gold."
 }
 ---

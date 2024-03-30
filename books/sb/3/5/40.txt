@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 3.5.40",
+    "h1":"SB 3.5.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 3.5.40",
     "description":"O Father, O Lord, O Personality of Godhead, the living entities in the material world can never have any happiness because they are overwhelmed by the three kinds of miseries. Therefore they take shelter of the shade of Your lotus feet, which are full of knowledge, and we also thus take shelter of them."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.21-23",
-    "h1":"Text 21-23",
-    "title":" Śrīmad Bhāgavatam 6.15.21-23",
+    "h1":"SB 6.15.21-23",
+    "label":"Text 21-23",
+    "title":"Śrīmad Bhāgavatam 6.15.21-23",
     "description":"My dear King, now you are actually experiencing the misery of a person who has sons and daughters. O King, owner of the state of Śūrasena, one's wife, his house, the opulence of his kingdom, and his various other opulences and objects of sense perception are all the same in that they are temporary. One's kingdom, military power, treasury, servants, ministers, friends and relatives are all causes of fear, illusion, lamentation and distress. They are like a gandharva-nagara, a nonexistent palace that one imagines to exist in the forest. Because they are impermanent, they are no better than illusions, dreams and mental concoctions."
 }
 ---

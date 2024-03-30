@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 6.19.10",
+    "h1":"SB 6.19.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 6.19.10",
     "description":"One should offer obeisances unto the Lord with a mind humbled through devotion. While offering daṇḍavats by falling on the ground like a rod, one should chant the above mantra ten times. Then one should chant the following prayer."
 }
 ---

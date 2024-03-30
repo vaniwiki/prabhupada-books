@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.10.27",
+    "h1":"SB 2.10.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.10.27",
     "description":"Thereafter, when He desired to evacuate the refuse of eatables, the evacuating hole, anus, and the sensory organ thereof developed along with the controlling deity Mitra. The sensory organ and the evacuating substance are both under the shelter of the controlling deity."
 }
 ---

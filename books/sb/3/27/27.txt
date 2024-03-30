@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.27.27",
+    "h1":"SB 3.27.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.27.27",
     "description":"When a person thus engages in devotional service and self-realization for many, many years and births, he becomes completely reluctant to enjoy any one of the material planets, even up to the highest planet, which is known as Brahmaloka; he becomes fully developed in consciousness."
 }
 ---

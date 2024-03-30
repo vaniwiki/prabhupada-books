@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 6.10.1",
+    "h1":"SB 6.10.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 6.10.1",
     "description":"Śrī Śukadeva Gosvāmī said: After instructing Indra in this way, the Supreme Personality of Godhead, Hari, the cause of the cosmic manifestation, then and there disappeared from the presence of the onlooking demigods."
 }
 ---

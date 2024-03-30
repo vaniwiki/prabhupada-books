@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 3.32.31",
+    "h1":"SB 3.32.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 3.32.31",
     "description":"My dear respectful mother, I have already described the path of understanding the Absolute Truth, by which one can come to understand the real truth of matter and spirit and their relationship."
 }
 ---

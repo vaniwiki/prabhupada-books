@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 10.11.56",
+    "h1":"SB 10.11.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 10.11.56",
     "description":"Although the causes of death, the daityas, were very fierce, they could not kill this boy Kṛṣṇa. Rather, because they came to kill innocent boys, as soon as they approached they themselves were killed, exactly like flies attacking a fire."
 }
 ---

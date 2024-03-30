@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 3.20.51",
+    "h1":"SB 3.20.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 3.20.51",
     "description":"They prayed: O creator of the universe, we are glad; what you have produced is well done. Since ritualistic acts have now been established soundly in this human form, we shall all share the sacrificial oblations."
 }
 ---

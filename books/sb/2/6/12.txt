@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.6.12",
+    "h1":"SB 2.6.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.6.12",
     "description":"Also, the consciousness of that great personality is the abode of religious principles—mine, yours, and those of the four bachelors Sanaka, Sanātana, Sanat-kumāra and Sanandana. That consciousness is also the abode of truth and transcendental knowledge."
 }
 ---

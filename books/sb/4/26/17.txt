@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.26.17",
+    "h1":"SB 4.26.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.26.17",
     "description":"All the women addressed the King: O master of the citizens, we do not know why your dear wife has taken on this sort of existence. O killer of enemies, kindly look! She is lying on the ground without bedding. We cannot understand why she is acting this way."
 }
 ---

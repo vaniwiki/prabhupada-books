@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.11.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 5.11.8",
+    "h1":"SB 5.11.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 5.11.8",
     "description":"When the living entity's mind becomes absorbed in the sense gratification of the material world, it brings about his conditioned life and suffering within the material situation. However, when the mind becomes unattached to material enjoyment, it becomes the cause of liberation. When the flame in a lamp burns the wick improperly, the lamp is blackened, but when the lamp is filled with ghee and is burning properly, there is bright illumination. Similarly, when the mind is absorbed in material sense gratification, it causes suffering, and when detached from material sense gratification, it brings about the original brightness of Kṛṣṇa consciousness."
 }
 ---

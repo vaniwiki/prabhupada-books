@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.24.27",
+    "h1":"SB 8.24.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.24.27",
     "description":"My Lord, You are certainly the inexhaustible Supreme Personality of Godhead, Nārāyaṇa, Śrī Hari. It is to show Your mercy to the living entities that You have now assumed the form of an aquatic."
 }
 ---

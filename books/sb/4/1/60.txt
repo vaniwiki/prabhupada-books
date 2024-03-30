@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 4.1.60",
+    "h1":"SB 4.1.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 4.1.60",
     "description":"The predominating deity of fire begot in his wife, Svāhā, three children, named Pāvaka, Pavamāna and Śuci, who exist by eating the oblations offered to the fire of sacrifice."
 }
 ---

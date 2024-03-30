@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 10.5.22",
+    "h1":"SB 10.5.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 10.5.22",
     "description":"O Mahārāja Parīkṣit, having thus been received and welcomed by Nanda Mahārāja with honor, Vasudeva sat down very peacefully and inquired about his own two sons because of intense love for them."
 }
 ---

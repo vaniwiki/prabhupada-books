@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 4.1.53",
+    "h1":"SB 4.1.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 4.1.53",
     "description":"On the occasion of the appearance of Nara-Nārāyaṇa, the entire world was full of joy. Everyone's mind became tranquil, and thus in all directions the air, the rivers and the mountains became pleasant."
 }
 ---

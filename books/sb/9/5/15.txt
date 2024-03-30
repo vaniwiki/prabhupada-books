@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 9.5.15",
+    "h1":"SB 9.5.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 9.5.15",
     "description":"For those who have achieved the Supreme Personality of Godhead, the master of the pure devotees, what is impossible to do, and what is impossible to give up?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.12.17",
+    "h1":"SB 4.12.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.12.17",
     "description":"In Badarikāśrama Dhruva Mahārāja's senses became completely purified because he bathed regularly in the crystal-clear purified water. He fixed his sitting position and by yogic practice controlled the breathing process and the air of life; in this way his senses were completely withdrawn. Then he concentrated his mind on the arcā-vigraha form of the Lord, which is the exact replica of the Lord and, thus meditating upon Him, entered into complete trance."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.18.27",
+    "h1":"SB 8.18.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.18.27",
     "description":"Thus offering a proper reception to the Supreme Personality of Godhead, who is always beautiful to the liberated souls, Bali Mahārāja worshiped Him by washing His lotus feet."
 }
 ---

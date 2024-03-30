@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.32.16",
+    "h1":"SB 3.32.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.32.16",
     "description":"Persons who are too addicted to this material world execute their prescribed duties very nicely and with great faith. They daily perform all such prescribed duties with attachment to the fruitive result."
 }
 ---

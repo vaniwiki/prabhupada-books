@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 5.13.23",
+    "h1":"SB 5.13.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 5.13.23",
     "description":"I offer my respectful obeisances unto the great personalities, whether they walk on the earth's surface as children, young boys, avadhūtas or great brāhmaṇas. Even if they are hidden under different guises, I offer my respects to all of them. By their mercy, may there be good fortune in the royal dynasties that are always offending them."
 }
 ---

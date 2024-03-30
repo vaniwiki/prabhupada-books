@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 6.18.55",
+    "h1":"SB 6.18.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 6.18.55",
     "description":"O King Parīkṣit, Diti, the wife of Kaśyapa, agreed to undergo the purificatory process known as puṁsavana. \"Yes,\" she said, \"I shall do everything according to your instructions.\" With great jubilation she became pregnant, having taken semen from Kaśyapa, and faithfully began discharging the vow."
 }
 ---

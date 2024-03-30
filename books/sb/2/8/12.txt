@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.8.12",
+    "h1":"SB 2.8.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.8.12",
     "description":"Also please explain the duration of time between creation and annihilation, and that of other subsidiary creations, as well as the nature of time, indicated by the sound of past, present and future. Also, please explain the duration and measurement of life of the different living beings known as the demigods, the human beings, etc., in different planets of the universe."
 }
 ---

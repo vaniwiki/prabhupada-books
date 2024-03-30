@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.74",
-    "h1":"Text 74",
-    "title":" Śrīmad Bhāgavatam 6.18.74",
+    "h1":"SB 6.18.74",
+    "label":"Text 74",
+    "title":"Śrīmad Bhāgavatam 6.18.74",
     "description":"Although those who are interested only in worshiping the Supreme Personality of Godhead do not desire anything material from the Lord and do not even want liberation, Lord Kṛṣṇa fulfills all their desires."
 }
 ---

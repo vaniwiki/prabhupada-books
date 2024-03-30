@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.19.21",
+    "h1":"SB 4.19.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.19.21",
     "description":"When the great sage Atri again gave directions, the son of King Pṛthu became very angry and placed an arrow on his bow. Upon seeing this, King Indra immediately abandoned the false dress of a sannyāsī and, giving up the horse, made himself invisible."
 }
 ---

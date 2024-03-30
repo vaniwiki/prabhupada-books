@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.28.12",
+    "h1":"SB 3.28.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.28.12",
     "description":"When the mind is perfectly purified by this practice of yoga, one should concentrate on the tip of the nose with half-closed eyes and see the form of the Supreme Personality of Godhead."
 }
 ---

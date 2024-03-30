@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 9.15.39",
+    "h1":"SB 9.15.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 9.15.39",
     "description":"My dear son, we are all brāhmaṇas and have become worshipable for the people in general because of our quality of forgiveness. It is because of this quality that Lord Brahmā, the supreme spiritual master of this universe, has achieved his post."
 }
 ---

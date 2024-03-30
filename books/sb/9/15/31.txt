@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.15.31",
+    "h1":"SB 9.15.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.15.31",
     "description":"Lord Paraśurāma, being expert in killing the military strength of the enemy, worked with the speed of the mind and the wind, slicing his enemies with his chopper [paraśu]. Wherever he went, the enemies fell, their legs, arms and shoulders being severed, their chariot drivers killed, and their carriers, the elephants and horses all annihilated."
 }
 ---

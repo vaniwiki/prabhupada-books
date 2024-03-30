@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.9.4",
+    "h1":"SB 8.9.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.9.4",
     "description":"What to speak of human beings, even the demigods, demons, Siddhas, Gandharvas, Cāraṇas and the various directors of the universe, the Prajāpatis, have never touched You before. It is not that we are unable to understand Your identity."
 }
 ---

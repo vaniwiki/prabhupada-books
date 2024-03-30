@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 2.10.9",
+    "h1":"SB 2.10.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 2.10.9",
     "description":"All three of the above-mentioned stages of different living entities are interdependent. In the absence of one, another is not understood. But the Supreme Being who sees every one of them as the shelter of the shelter is independent of all, and therefore He is the supreme shelter."
 }
 ---

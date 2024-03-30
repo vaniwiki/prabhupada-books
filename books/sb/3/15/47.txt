@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 3.15.47",
+    "h1":"SB 3.15.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 3.15.47",
     "description":"We know that You are the Supreme Absolute Truth, the Personality of Godhead, who manifests His transcendental form in the uncontaminated mode of pure goodness. This transcendental, eternal form of Your personality can be understood only by Your mercy, through unflinching devotional service, by great sages whose hearts have been purified in the devotional way."
 }
 ---

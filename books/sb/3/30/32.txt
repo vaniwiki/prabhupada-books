@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.30.32",
+    "h1":"SB 3.30.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.30.32",
     "description":"Thus, by the arrangement of the Supreme Personality of Godhead, the maintainer of kinsmen is put into a hellish condition to suffer for his sinful activities, like a man who has lost his wealth."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 10.13.37",
+    "h1":"SB 10.13.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 10.13.37",
     "description":"Who is this mystic power, and where has she come from? Is she a demigod or a demoness? She must be the illusory energy of My master, Lord Kṛṣṇa, for who else can bewilder Me?"
 }
 ---

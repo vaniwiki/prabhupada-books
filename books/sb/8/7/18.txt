@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.7.18",
+    "h1":"SB 8.7.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.7.18",
     "description":"The fish, sharks, tortoises and snakes were most agitated and perturbed. The entire ocean became turbulent, and even the large aquatic animals like whales, water elephants, crocodiles and timiṅgila fish [large whales that can swallow small whales] came to the surface. While the ocean was being churned in this way, it first produced a fiercely dangerous poison called hālahala."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.1.3",
+    "h1":"SB 6.1.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.1.3",
     "description":"You have also described [at the end of the Fifth Canto] the varieties of hellish life that result from impious activities, and you have described [in the Fourth Canto] the first manvantara, which was presided over by Svāyambhuva Manu, the son of Lord Brahmā."
 }
 ---

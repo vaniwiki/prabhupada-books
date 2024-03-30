@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 4.28.59",
+    "h1":"SB 4.28.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 4.28.59",
     "description":"My dear friend, when you enter such a body along with the woman of material desires, you become overly absorbed in sense enjoyment. Because of this, you have forgotten your spiritual life. Due to your material conceptions, you are placed in various miserable conditions."
 }
 ---

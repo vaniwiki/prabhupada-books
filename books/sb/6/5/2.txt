@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 6.5.2",
+    "h1":"SB 6.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 6.5.2",
     "description":"My dear King, all the sons of Prajāpati Dakṣa were alike in being very gentle and obedient to the orders of their father. When their father ordered them to beget children, they all went in the western direction."
 }
 ---

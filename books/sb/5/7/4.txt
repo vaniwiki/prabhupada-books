@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.7.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.7.4",
+    "h1":"SB 5.7.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.7.4",
     "description":"Mahārāja Bharata was a very learned and experienced king on this earth. He perfectly ruled the citizens, being himself engaged in his own respective duties. Mahārāja Bharata was as affectionate to the citizens as his father and grandfather had been. Keeping them engaged in their occupational duties, he ruled the earth."
 }
 ---

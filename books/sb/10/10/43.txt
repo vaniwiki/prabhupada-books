@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 10.10.43",
+    "h1":"SB 10.10.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 10.10.43",
     "description":"Śukadeva Gosvāmī said: The Supreme Personality of Godhead having spoken to the two demigods in this way, they circumambulated the Lord, who was bound to the wooden mortar, and offered obeisances to Him. After taking the permission of Lord Kṛṣṇa, they returned to their respective homes."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.17.14",
+    "h1":"SB 4.17.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.17.14",
     "description":"When the earth saw that King Pṛthu was taking his bow and arrow to kill her, she became very much afraid and began to tremble. She then began to flee, exactly like a deer, which runs very swiftly when followed by a hunter. Being afraid of King Pṛthu, she took the shape of a cow and began to run."
 }
 ---

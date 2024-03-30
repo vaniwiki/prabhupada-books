@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 3.14.48",
+    "h1":"SB 3.14.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 3.14.48",
     "description":"That topmost devotee of the Lord will have expanded intelligence and expanded influence and will be the greatest of the great souls. Due to matured devotional service, he will certainly be situated in transcendental ecstasy and will enter the spiritual sky after quitting this material world."
 }
 ---

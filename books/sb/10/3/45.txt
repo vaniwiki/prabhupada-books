@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 10.3.45",
+    "h1":"SB 10.3.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 10.3.45",
     "description":"Both of you, husband and wife, constantly think of Me as your son, but always know that I am the Supreme Personality of Godhead. By thus thinking of Me constantly with love and affection, you will achieve the highest perfection: returning home, back to Godhead."
 }
 ---

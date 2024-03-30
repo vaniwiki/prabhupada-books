@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.3.27",
+    "h1":"SB 8.3.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.3.27",
     "description":"I offer my respectful obeisances unto the Supreme, the Supersoul, the master of all mystic yoga, who is seen in the core of the heart by perfect mystics when they are completely purified and freed from the reactions of fruitive activity by practicing bhakti-yoga."
 }
 ---

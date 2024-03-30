@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.11.12",
+    "h1":"SB 6.11.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.11.12",
     "description":"When he saw Indra's carrier elephant thus fatigued and injured and when he saw Indra morose because his carrier had been harmed in that way, the great soul Vṛtrāsura, following religious principles, refrained from again striking Indra with the club. Taking this opportunity, Indra touched the elephant with his nectar-producing hand, thus relieving the animal's pain and curing its injuries. Then the elephant and Indra both stood silently."
 }
 ---

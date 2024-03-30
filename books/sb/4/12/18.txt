@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.12.18",
+    "h1":"SB 4.12.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.12.18",
     "description":"Because of his transcendental bliss, incessant tears flowed from his eyes, his heart melted, and there was shivering and standing of the hairs all over his body. Thus transformed, in a trance of devotional service, Dhruva Mahārāja completely forgot his bodily existence, and thus he immediately became liberated from material bondage."
 }
 ---

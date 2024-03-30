@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 3.21.9",
+    "h1":"SB 3.21.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 3.21.9",
     "description":"Kardama Muni saw the Supreme Personality of Godhead, who is free from material contamination, in His eternal form, effulgent like the sun, wearing a garland of white lotuses and water lilies. The Lord was clad in spotless yellow silk, and His lotus face was fringed with slick dark locks of curly hair."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 5.26.3",
+    "h1":"SB 5.26.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 5.26.3",
     "description":"Just as by executing various pious activities one achieves different positions in heavenly life, by acting impiously one achieves different positions in hellish life. Those who are activated by the material mode of ignorance engage in impious activities, and according to the extent of their ignorance, they are placed in different grades of hellish life. If one acts in the mode of ignorance because of madness, his resulting misery is the least severe. One who acts impiously but knows the distinction between pious and impious activities is placed in a hell of intermediate severity. And for one who acts impiously and ignorantly because of atheism, the resultant hellish life is the worst. Because of ignorance, every living entity has been carried by various desires into thousands of different hellish planets since time immemorial. I shall try to describe them as far as possible."
 }
 ---

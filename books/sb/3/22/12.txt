@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.22.12",
+    "h1":"SB 3.22.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.22.12",
     "description":"To deny an offering that has come of itself is not commendable even for one absolutely free from all attachment, much less one addicted to sensual pleasure."
 }
 ---

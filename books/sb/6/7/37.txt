@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 6.7.37",
+    "h1":"SB 6.7.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 6.7.37",
     "description":"All of you are my superiors. Therefore although accepting priesthood is sometimes reproachable, I cannot refuse even a small request from you. I agree to be your priest. I shall fulfill your request by dedicating my life and possessions."
 }
 ---

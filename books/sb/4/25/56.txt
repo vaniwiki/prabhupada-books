@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.25.56",
+    "h1":"SB 4.25.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.25.56",
     "description":"Being thus entangled in different types of mental concoction and engaged in fruitive activities, King Purañjana came completely under the control of material intelligence and was thus cheated. Indeed, he used to fulfill all the desires of his wife, the Queen."
 }
 ---

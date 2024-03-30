@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 4.7.56",
+    "h1":"SB 4.7.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 4.7.56",
     "description":"With all respect, Dakṣa worshiped Lord Śiva with his share of the remnants of the yajña. After finishing the ritualistic sacrificial activities, he satisfied all the other demigods and the other people assembled there. Then, after finishing all these duties with the priests, he took a bath and was fully satisfied."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.30-31",
-    "h1":"Text 30-31",
-    "title":" Śrīmad Bhāgavatam 7.7.30-31",
+    "h1":"SB 7.7.30-31",
+    "label":"Text 30-31",
+    "title":"Śrīmad Bhāgavatam 7.7.30-31",
     "description":"One must accept the bona fide spiritual master and render service unto him with great devotion and faith. Whatever one has in one's possession should be offered to the spiritual master, and in the association of saintly persons and devotees one should worship the Lord, hear the glories of the Lord with faith, glorify the transcendental qualities and activities of the Lord, always meditate on the Lord's lotus feet, and worship the Deity of the Lord strictly according to the injunctions of the śāstra and guru."
 }
 ---

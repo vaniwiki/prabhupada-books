@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 9.14.24",
+    "h1":"SB 9.14.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 9.14.24",
     "description":"Śukadeva Gosvāmī continued: The best of human beings, Purūravā, began freely enjoying the company of Urvaśī, who engaged in sexual activities with him in many celestial places, such as Caitraratha and Nandana-kānana, where the demigods enjoy."
 }
 ---

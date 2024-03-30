@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.3.23",
+    "h1":"SB 9.3.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.3.23",
     "description":"Thus Sukanyā explained how her husband had received the beautiful body of a young man. When the King heard this he was very surprised, and in great pleasure he embraced his beloved daughter."
 }
 ---

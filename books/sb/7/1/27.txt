@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 7.1.27",
+    "h1":"SB 7.1.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 7.1.27",
     "description":"Nārada Muni continued: By devotional service one cannot achieve such intense absorption in thought of the Supreme Personality of Godhead as one can through enmity toward Him. That is my opinion."
 }
 ---

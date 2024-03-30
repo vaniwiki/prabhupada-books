@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.12.4",
+    "h1":"SB 4.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.12.4",
     "description":"Misidentification of oneself and others as \"I\" and \"you\" on the basis of the bodily concept of life is a product of ignorance. This bodily concept is the cause of repeated birth and death, and it makes us go on continuously in material existence."
 }
 ---

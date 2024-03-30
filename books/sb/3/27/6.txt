@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.27.6",
+    "h1":"SB 3.27.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.27.6",
     "description":"One has to become faithful by practicing the controlling process of the yoga system and must elevate himself to the platform of unalloyed devotional service by chanting and hearing about Me."
 }
 ---

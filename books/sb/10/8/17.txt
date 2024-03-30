@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.8.17",
+    "h1":"SB 10.8.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.8.17",
     "description":"O Nanda Mahārāja, as recorded in history, when there was an irregular, incapable government, Indra having been dethroned, and people were being harassed and disturbed by thieves, this child appeared in order to protect the people and enable them to flourish, and He curbed the rogues and thieves."
 }
 ---

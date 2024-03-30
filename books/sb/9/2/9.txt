@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 9.2.9",
+    "h1":"SB 9.2.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 9.2.9",
     "description":"Although Pṛṣadhra had committed the sin unknowingly, his family priest, Vasiṣṭha, cursed him, saying, \"In your next life you shall not be able to become a kṣatriya. Instead, you shall take birth as a śūdra because of killing the cow.\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 2.3.9",
+    "h1":"SB 2.3.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 2.3.9",
     "description":"One who desires domination over a kingdom or an empire should worship the Manus. One who desires victory over an enemy should worship the demons, and one who desires sense gratification should worship the moon. But one who desires nothing of material enjoyment should worship the Supreme Personality of Godhead."
 }
 ---

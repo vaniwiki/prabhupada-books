@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 10.3.12",
+    "h1":"SB 10.3.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 10.3.12",
     "description":"O Mahārāja Parīkṣit, descendant of King Bharata, Vasudeva could understand that this child was the Supreme Personality of Godhead, Nārāyaṇa. Having concluded this without a doubt, he became fearless. Bowing down with folded hands and concentrating his attention, he began to offer prayers to the child, who illuminated His birthplace by His natural influence."
 }
 ---

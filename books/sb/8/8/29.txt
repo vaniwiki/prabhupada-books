@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.8.29",
+    "h1":"SB 8.8.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.8.29",
     "description":"O King, because of being neglected by the goddess of fortune, the demons and Rākṣasas were depressed, bewildered and frustrated, and thus they became shameless."
 }
 ---

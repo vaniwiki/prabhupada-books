@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.22.33",
+    "h1":"SB 8.22.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.22.33",
     "description":"O Bali Mahārāja [Indrasena], now you may go to the planet Sutala, which is desired even by the demigods. Live there peacefully, surrounded by your friends and relatives. All good fortune unto you."
 }
 ---

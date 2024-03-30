@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.14.11",
+    "h1":"SB 4.14.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.14.11",
     "description":"We appointed this Vena king of the state in order to give protection to the citizens, but now he has become the enemy of the citizens. Despite all these discrepancies, we should at once try to pacify him. By doing so, we may not be touched by the sinful results caused by him."
 }
 ---

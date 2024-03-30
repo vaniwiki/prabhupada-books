@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.6-8",
-    "h1":"Text 6-8",
-    "title":" Śrīmad Bhāgavatam 6.5.6-8",
+    "h1":"SB 6.5.6-8",
+    "label":"Text 6-8",
+    "title":"Śrīmad Bhāgavatam 6.5.6-8",
     "description":"The great sage Nārada said: My dear Haryaśvas, you have not seen the extremities of the earth. There is a kingdom where only one man lives and where there is a hole from which, having entered, no one emerges. A woman there who is extremely unchaste adorns herself with various attractive dresses, and the man who lives there is her husband. In that kingdom, there is a river flowing in both directions, a wonderful home made of twenty-five materials, a swan that vibrates various sounds, and an automatically revolving object made of sharp razors and thunderbolts. You have not seen all this, and therefore you are inexperienced boys without advanced knowledge. How, then, will you create progeny?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.19.22",
+    "h1":"SB 3.19.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.19.22",
     "description":"The Lord, the personal enjoyer of all sacrifices, now discharged His beloved Sudarśana, which was capable of dispersing the magical forces displayed by the demon."
 }
 ---

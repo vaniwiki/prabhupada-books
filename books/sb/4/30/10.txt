@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.30.10",
+    "h1":"SB 4.30.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.30.10",
     "description":"Those who will offer Me the prayers composed by Lord Śiva, both in the morning and in the evening, will be given benedictions by Me. In this way they can both fulfill their desires and attain good intelligence."
 }
 ---

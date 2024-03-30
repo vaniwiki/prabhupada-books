@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 7.1.33",
+    "h1":"SB 7.1.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 7.1.33",
     "description":"Nārada Muni continued: O best of the Pāṇḍavas, your two cousins Śiśupāla and Dantavakra, the sons of your maternal aunt, were formerly associates of Lord Viṣṇu, but because they were cursed by brāhmaṇas, they fell from Vaikuṇṭha to this material world."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 4.12.39",
+    "h1":"SB 4.12.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 4.12.39",
     "description":"Saint Maitreya continued: My dear Vidura, descendant of Kuru, as a herd of bulls circumambulates a central pole on their right side, all the luminaries within the universal sky unceasingly circumambulate the abode of Dhruva Mahārāja with great force and speed."
 }
 ---

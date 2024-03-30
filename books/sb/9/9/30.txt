@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 9.9.30",
+    "h1":"SB 9.9.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 9.9.30",
     "description":"My lord, you are completely aware of the religious principles. As a son never deserves to be killed by his father, here is a brāhmaṇa who should be protected by the king, and never killed. How does he deserve to be killed by a rājarṣi like you?"
 }
 ---

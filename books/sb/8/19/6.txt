@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.19.6",
+    "h1":"SB 8.19.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.19.6",
     "description":"When delivering the earth from the Garbhodaka Sea, Lord Viṣṇu, in His incarnation as a boar, killed Hiraṇyākṣa, who had appeared before Him. The fight was severe, and the Lord killed Hiraṇyākṣa with great difficulty. Later, as the Lord thought about the uncommon prowess of Hiraṇyākṣa, He felt Himself victorious indeed."
 }
 ---

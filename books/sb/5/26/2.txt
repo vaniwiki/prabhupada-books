@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.26.2",
+    "h1":"SB 5.26.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.26.2",
     "description":"The great sage Śukadeva Gosvāmī said: My dear King, in this material world there are three kinds of activities—those in the mode of goodness, the mode of passion and the mode of ignorance. Because all people are influenced by the three modes of material nature, the results of their activities are also divided into three. One who acts in the mode of goodness is religious and happy, one who acts in passion achieves mixed misery and happiness, and one who acts under the influence of ignorance is always unhappy and lives like an animal. Because of the varying degrees to which the living entities are influenced by the different modes of nature, their destinations are also of different varieties."
 }
 ---

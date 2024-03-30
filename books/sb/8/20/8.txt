@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.20.8",
+    "h1":"SB 8.20.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.20.8",
     "description":"O best of the brāhmaṇas, certainly the great demoniac kings who were never reluctant to fight enjoyed this world, but in due course of time everything they had was taken away, except their reputation, by which they continue to exist. In other words, one should try to achieve a good reputation instead of anything else."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.8.2",
+    "h1":"SB 3.8.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.8.2",
     "description":"Let me now begin speaking on the Bhāgavata Purāṇa, which was directly spoken to the great sages by the Personality of Godhead for the benefit of those who are entangled in extreme miseries for the sake of very little pleasure."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 4.1.61",
+    "h1":"SB 4.1.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 4.1.61",
     "description":"From those three sons another forty-five descendants were generated, who are also fire-gods. The total number of fire-gods is therefore forty-nine, including the fathers and the grandfather."
 }
 ---

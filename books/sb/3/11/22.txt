@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.11.22",
+    "h1":"SB 3.11.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.11.22",
     "description":"Outside of the three planetary systems [Svarga, Martya and Pātāla], the four yugas multiplied by one thousand comprise one day on the planet of Brahmā. A similar period comprises a night of Brahmā, in which the creator of the universe goes to sleep."
 }
 ---

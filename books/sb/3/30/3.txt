@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.30.3",
+    "h1":"SB 3.30.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.30.3",
     "description":"The misguided materialist does not know that his very body is impermanent and that the attractions of home, land and wealth, which are in relationship to that body, are also temporary. Out of ignorance only, he thinks that everything is permanent."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.4.6",
+    "h1":"SB 5.4.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.4.6",
     "description":"O Mahārāja Parīkṣit, to glorify Mahārāja Nābhi, the old sages composed two verses. One of them is this: \"Who can attain the perfection of Mahārāja Nābhi? Who can attain his activities? Because of his devotional service, the Supreme Personality of Godhead agreed to become his son.\""
 }
 ---

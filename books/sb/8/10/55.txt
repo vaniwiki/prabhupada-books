@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 8.10.55",
+    "h1":"SB 8.10.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 8.10.55",
     "description":"As the dangers of a dream cease when the dreamer awakens, the illusions created by the jugglery of the demons were vanquished by the transcendental prowess of the Supreme Personality of Godhead as soon as He entered the battlefield. Indeed, simply by remembrance of the Supreme Personality of Godhead, one becomes free from all dangers."
 }
 ---

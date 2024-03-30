@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.9.29",
+    "h1":"SB 3.9.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.9.29",
     "description":"The Supreme Personality of Godhead then said: O Brahmā, O depth of Vedic wisdom, be neither depressed nor anxious about the execution of creation. What you are begging from Me has already been granted before."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.9-10",
-    "h1":"Text 9-10",
-    "title":" Śrīmad Bhāgavatam 8.18.9-10",
+    "h1":"SB 8.18.9-10",
+    "label":"Text 9-10",
+    "title":"Śrīmad Bhāgavatam 8.18.9-10",
     "description":"The Siddhas, Vidyādharas, Kimpuruṣas, Kinnaras, Cāraṇas, Yakṣas, Rākṣasas, Suparṇas, the best of serpents, and the followers of the demigods all showered flowers on Aditi's residence, covering the entire house, while glorifying and praising the Lord and dancing."
 }
 ---

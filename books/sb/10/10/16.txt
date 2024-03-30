@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 10.10.16",
+    "h1":"SB 10.10.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 10.10.16",
     "description":"Always hungry, longing for sufficient food, a poverty-stricken man gradually becomes weaker and weaker. Having no extra potency, his senses are automatically pacified. A poverty-stricken man, therefore, is unable to perform harmful, envious activities. In other words, such a man automatically gains the results of the austerities and penances adopted voluntarily by saintly persons."
 }
 ---

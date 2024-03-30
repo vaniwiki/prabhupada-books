@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.9.12",
+    "h1":"SB 8.9.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.9.12",
     "description":"Thereafter, the Supreme Personality of Godhead, having taken possession of the container of nectar, smiled slightly and spoke in attractive words. She said: My dear demons, if you accept whatever I may do, whether honest or dishonest, then I can take responsibility for dividing the nectar among you."
 }
 ---

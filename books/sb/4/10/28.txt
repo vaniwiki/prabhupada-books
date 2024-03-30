@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.10.28",
+    "h1":"SB 4.10.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.10.28",
     "description":"The demon Yakṣas are by nature very heinous, and by their demoniac power of illusion they can create many strange phenomena to frighten one who is less intelligent."
 }
 ---

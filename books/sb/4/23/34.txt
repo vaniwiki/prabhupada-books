@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.23.34",
+    "h1":"SB 4.23.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.23.34",
     "description":"Also, one who hears this narration three times will become very reputable if he is not recognized in society, and he will become a great scholar if he is illiterate. In other words, hearing of the narrations of Pṛthu Mahārāja is so auspicious that it drives away all bad luck."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.21.42",
+    "h1":"SB 4.21.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.21.42",
     "description":"In brahminical culture a brāhmaṇa's transcendental position is eternally maintained because the injunctions of the Vedas are accepted with faith, austerity, scriptural conclusions, full sense and mind control, and meditation. In this way the real goal of life is illuminated, just as one's face is fully reflected in a clear mirror."
 }
 ---

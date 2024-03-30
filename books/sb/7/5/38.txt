@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 7.5.38",
+    "h1":"SB 7.5.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 7.5.38",
     "description":"Just as uncontrolled senses are the enemies of all yogīs engaged in advancing in spiritual life, this Prahlāda, who appears to be a friend, is an enemy because I cannot control him. Therefore this enemy, whether eating, sitting or sleeping, must be killed by all means."
 }
 ---

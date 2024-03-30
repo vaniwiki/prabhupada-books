@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.20.26",
+    "h1":"SB 3.20.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.20.26",
     "description":"Lord Brahmā, approaching the Lord, addressed Him thus: My Lord, please protect me from these sinful demons, who were created by me under Your order. They are infuriated by an appetite for sex and have come to attack me."
 }
 ---

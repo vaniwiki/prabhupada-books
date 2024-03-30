@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 5.3.1",
+    "h1":"SB 5.3.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 5.3.1",
     "description":"Śukadeva Gosvāmī continued to speak: Mahārāja Nābhi, the son of Āgnīdhra, wished to have sons, and therefore he attentively began to offer prayers and worship the Supreme Personality of Godhead, Lord Viṣṇu, the master and enjoyer of all sacrifices. Mahārāja Nābhi's wife, Merudevī, who had not given birth to any children at that time, also worshiped Lord Viṣṇu along with her husband."
 }
 ---

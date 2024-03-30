@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.12-15",
-    "h1":"Text 12-15",
-    "title":" Śrīmad Bhāgavatam 3.32.12-15",
+    "h1":"SB 3.32.12-15",
+    "label":"Text 12-15",
+    "title":"Śrīmad Bhāgavatam 3.32.12-15",
     "description":"My dear mother, someone may worship the Supreme Personality of Godhead with a special self-interest, but even demigods such as Lord Brahmā, great sages such as Sanat-kumāra and great munis such as Marīci have to come back to the material world again at the time of creation. When the interaction of the three modes of material nature begins, Brahmā, who is the creator of this cosmic manifestation and who is full of Vedic knowledge, and the great sages, who are the authors of the spiritual path and the yoga system, come back under the influence of the time factor. They are liberated by their nonfruitive activities and they attain the first incarnation of the puruṣa, but at the time of creation they come back in exactly the same forms and positions as they had previously."
 }
 ---

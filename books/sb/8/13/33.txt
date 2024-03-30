@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.13.33",
+    "h1":"SB 8.13.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.13.33",
     "description":"The name of the fourteenth Manu will be Indra-sāvarṇi. He will have sons like Uru, Gambhīra and Budha."
 }
 ---

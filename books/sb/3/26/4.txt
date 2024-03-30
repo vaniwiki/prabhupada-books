@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.26.4",
+    "h1":"SB 3.26.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.26.4",
     "description":"As His pastime, that Supreme Personality of Godhead, the greatest of the great, accepted the subtle material energy, which is invested with three material modes of nature and which is related with Viṣṇu."
 }
 ---

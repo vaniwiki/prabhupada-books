@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 6.12.4",
+    "h1":"SB 6.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 6.12.4",
     "description":"Although one of his arms was severed from his body, Vṛtrāsura angrily approached King Indra and struck him on the jaw with an iron mace. He also struck the elephant that carried Indra. Thus Indra dropped the thunderbolt from his hand."
 }
 ---

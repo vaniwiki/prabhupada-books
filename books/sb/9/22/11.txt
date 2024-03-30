@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.22.11",
+    "h1":"SB 9.22.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.22.11",
     "description":"From Ayutāyu came a son named Akrodhana, and his son was Devātithi. The son of Devātithi was Ṛkṣa, the son of Ṛkṣa was Dilīpa, and the son of Dilīpa was Pratīpa."
 }
 ---

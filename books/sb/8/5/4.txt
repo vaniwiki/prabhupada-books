@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.5.4",
+    "h1":"SB 8.5.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.5.4",
     "description":"From the combination of Śubhra and his wife, Vikuṇṭhā, there appeared the Supreme Personality of Godhead, Vaikuṇṭha, along with demigods who were His personal plenary expansions."
 }
 ---

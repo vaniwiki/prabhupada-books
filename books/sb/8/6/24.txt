@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 8.6.24",
+    "h1":"SB 8.6.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 8.6.24",
     "description":"My dear demigods, with patience and peace everything can be done, but if one is agitated by anger, the goal is not achieved. Therefore, whatever the demons ask, agree to their proposal."
 }
 ---

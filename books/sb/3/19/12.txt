@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.19.12",
+    "h1":"SB 3.19.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.19.12",
     "description":"His valor thus frustrated, the great demon felt humiliated and was put out of countenance. He was reluctant to take back the mace when it was offered by the Personality of Godhead."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.18-19",
-    "h1":"Text 18-19",
-    "title":" Śrīmad Bhāgavatam 9.22.18-19",
+    "h1":"SB 9.22.18-19",
+    "label":"Text 18-19",
+    "title":"Śrīmad Bhāgavatam 9.22.18-19",
     "description":"After the dynasty of the moon-god comes to an end in this age of Kali, Devāpi, in the beginning of the next Satya-yuga, will reestablish the Soma dynasty in this world. From Bāhlīka [the brother of Śāntanu] came a son named Somadatta, who had three sons, named Bhūri, Bhūriśravā and Śala. From Śāntanu, through the womb of his wife named Gaṅgā, came Bhīṣma, the exalted, self-realized devotee and learned scholar."
 }
 ---

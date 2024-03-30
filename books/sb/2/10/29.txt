@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 2.10.29",
+    "h1":"SB 2.10.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 2.10.29",
     "description":"When there was a desire to have food and drink, the abdomen and the intestines and also the arteries became manifested. The rivers and seas are the source of their sustenance and metabolism."
 }
 ---

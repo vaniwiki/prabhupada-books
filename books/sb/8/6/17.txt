@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.6.17",
+    "h1":"SB 8.6.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.6.17",
     "description":"Although the Supreme Personality of Godhead, the master of the demigods, was capable of performing the activities of the demigods by Himself, He wanted to enjoy pastimes in churning the ocean. Therefore He spoke as follows."
 }
 ---

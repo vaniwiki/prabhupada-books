@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 4.28.58",
+    "h1":"SB 4.28.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 4.28.58",
     "description":"The five stores are the five working sensory organs. They transact their business through the combined forces of the five elements, which are eternal. Behind all this activity is the soul. The soul is a person and an enjoyer in reality. However, because he is now hidden within the city of the body, he is devoid of knowledge."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.11.35",
+    "h1":"SB 4.11.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.11.35",
     "description":"Thus Svāyambhuva Manu, after giving instruction to Dhruva Mahārāja, his grandson, received respectful obeisances from him. Then Lord Manu and the great sages went back to their respective homes."
 }
 ---

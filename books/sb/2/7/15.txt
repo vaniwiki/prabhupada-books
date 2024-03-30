@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.7.15",
+    "h1":"SB 2.7.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.7.15",
     "description":"The leader of the elephants, whose leg was attacked in a river by a crocodile of superior strength, was much aggrieved. Taking a lotus flower in his trunk, he addressed the Lord, saying, \"O original enjoyer, Lord of the universe! O deliverer, as famous as a place of pilgrimage! All are purified simply by hearing Your holy name, which is worthy to be chanted.\""
 }
 ---

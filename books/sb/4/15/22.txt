@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.15.22",
+    "h1":"SB 4.15.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.15.22",
     "description":"King Pṛthu said: O gentle sūta, māgadha and other devotee offering prayers, the qualities of which you have spoken are not distinct in me. Why then should you praise me for all these qualities when I do not shelter these features? I do not wish for these words meant for me to go in vain, but it is better that they be offered to someone else."
 }
 ---

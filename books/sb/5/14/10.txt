@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.14.10",
+    "h1":"SB 5.14.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.14.10",
     "description":"The conditioned soul sometimes personally appreciates the futility of sense enjoyment in the material world, and he sometimes considers material enjoyment to be full of miseries. However, due to his strong bodily conception, his memory is destroyed, and again and again he runs after material enjoyment, just as an animal runs after a mirage in the desert."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.2.9",
+    "h1":"SB 4.2.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.2.9",
     "description":"All sages, brāhmaṇas and fire-gods present, please hear me with attention, for I speak about the manners of gentle persons. I do not speak out of ignorance or envy."
 }
 ---

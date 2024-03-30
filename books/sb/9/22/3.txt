@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 9.22.3",
+    "h1":"SB 9.22.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 9.22.3",
     "description":"From Mahārāja Drupada, Draupadī was born. Mahārāja Drupada also had many sons, headed by Dhṛṣṭadyumna. From Dhṛṣṭadyumna came a son named Dhṛṣṭaketu. All these personalities are known as descendants of Bharmyāśva or as the dynasty of Pāñcāla."
 }
 ---

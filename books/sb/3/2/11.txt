@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.2.11",
+    "h1":"SB 3.2.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.2.11",
     "description":"Lord Śrī Kṛṣṇa, who manifested His eternal form before the vision of all on the earth, performed His disappearance by removing His form from the sight of those who were unable to see Him [as He is] due to not executing required penance."
 }
 ---

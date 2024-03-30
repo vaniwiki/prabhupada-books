@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.26.44",
+    "h1":"SB 3.26.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.26.44",
     "description":"Due to the interaction of water with the taste perception, the subtle element odor evolves under superior arrangement. Thence the earth and the olfactory sense, by which we can variously experience the aroma of the earth, become manifest."
 }
 ---

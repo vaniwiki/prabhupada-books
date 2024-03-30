@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.17.24",
+    "h1":"SB 3.17.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.17.24",
     "description":"After returning from the heavenly kingdom, the mighty demon, who was like an elephant in wrath, for the sake of sport dived into the deep ocean, which was roaring terribly."
 }
 ---

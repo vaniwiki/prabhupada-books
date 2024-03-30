@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 5.14.37",
+    "h1":"SB 5.14.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 5.14.37",
     "description":"Although people may be enemies, in order to fulfill their desires again and again, they sometimes get married. Unfortunately, these marriages do not last very long, and the people involved are separated again by divorce or other means."
 }
 ---

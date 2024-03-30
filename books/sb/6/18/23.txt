@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.18.23",
+    "h1":"SB 6.18.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.18.23",
     "description":"Śrī Śukadeva Gosvāmī said: Just to help Indra, Lord Viṣṇu killed the two brothers Hiraṇyākṣa and Hiraṇyakaśipu. Because of their being killed, their mother, Diti, overwhelmed with lamentation and anger, contemplated as follows."
 }
 ---

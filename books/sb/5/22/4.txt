@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.22.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.22.4",
+    "h1":"SB 5.22.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.22.4",
     "description":"According to the system of four varṇas and four āśramas, people generally worship the Supreme Personality of Godhead, Nārāyaṇa, who is situated as the sun-god. With great faith they worship the Supreme Personality as the Supersoul according to ritualistic ceremonies handed down in the three Vedas, such as agnihotra and similar higher and lower fruitive acts, and according to the process of mystic yoga. In this way they very easily attain the ultimate goal of life."
 }
 ---

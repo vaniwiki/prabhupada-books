@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 10.10.18",
+    "h1":"SB 10.10.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 10.10.18",
     "description":"Saintly persons [sādhus] think of Kṛṣṇa twenty-four hours a day. They have no other interest. Why should people neglect the association of such exalted spiritual personalities and try to associate with materialists, taking shelter of nondevotees, most of whom are proud and rich?"
 }
 ---

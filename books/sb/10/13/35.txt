@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 10.13.35",
+    "h1":"SB 10.13.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 10.13.35",
     "description":"Because of an increase of affection, the cows had constant attachment even to those calves that were grown up and had stopped sucking milk from their mothers. When Baladeva saw this attachment, He was unable to understand the reason for it, and thus He began to consider as follows."
 }
 ---

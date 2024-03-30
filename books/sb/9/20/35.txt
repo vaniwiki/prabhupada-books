@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.20.35",
+    "h1":"SB 9.20.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.20.35",
     "description":"The King, his attempt for progeny frustrated in this way, performed a sacrifice named marut-stoma to get a son. The demigods known as the Maruts, being fully satisfied with him, then presented him a son named Bharadvāja."
 }
 ---

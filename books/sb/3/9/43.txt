@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.9.43",
+    "h1":"SB 3.9.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.9.43",
     "description":"By following My instructions you can now generate the living entities as before, by dint of your complete Vedic wisdom and the body you have directly received from Me, the supreme cause of everything."
 }
 ---

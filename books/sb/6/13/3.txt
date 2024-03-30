@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 6.13.3",
+    "h1":"SB 6.13.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 6.13.3",
     "description":"Mahārāja Parīkṣit inquired from Śukadeva Gosvāmī: O great sage, what was the reason for Indra's unhappiness? I wish to hear about this. When he killed Vṛtrāsura, all the demigods were extremely happy. Why, then, was Indra himself unhappy?"
 }
 ---

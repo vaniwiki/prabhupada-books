@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.58-59",
-    "h1":"Text 58-59",
-    "title":" Śrīmad Bhāgavatam 4.9.58-59",
+    "h1":"SB 4.9.58-59",
+    "label":"Text 58-59",
+    "title":"Śrīmad Bhāgavatam 4.9.58-59",
     "description":"Thus as Dhruva Mahārāja passed on the road, from every place in the neighborhood all the gentle household ladies assembled to see him, and out of maternal affection they offered their blessings, showering him with white mustard seed, barley, curd, water, newly grown grass, fruits and flowers. In this way Dhruva Mahārāja, while hearing the pleasing songs sung by the ladies, entered the palace of his father."
 }
 ---

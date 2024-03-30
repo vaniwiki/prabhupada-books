@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.18.31",
+    "h1":"SB 9.18.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.18.31",
     "description":"O King Parīkṣit, upon seeing Devayānī with a nice son, Śarmiṣṭhā once approached King Yayāti at the appropriate time for conception. In a secluded place, she requested the King, the husband of her friend Devayānī, to enable her to have a son also."
 }
 ---

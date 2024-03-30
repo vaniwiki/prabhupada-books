@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.3.2",
+    "h1":"SB 8.3.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.3.2",
     "description":"The King of the elephants, Gajendra, said: I offer my respectful obeisances unto the Supreme Person, Vāsudeva [oṁ namo bhagavate vāsudevāya]. Because of Him this material body acts due to the presence of spirit, and He is therefore the root cause of everyone. He is worshipable for such exalted persons as Brahmā and Śiva, and He has entered the heart of every living being. Let me meditate upon Him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.25.26",
+    "h1":"SB 3.25.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.25.26",
     "description":"Thus consciously engaged in devotional service in the association of devotees, a person gains distaste for sense gratification, both in this world and in the next, by constantly thinking about the activities of the Lord. This process of Kṛṣṇa consciousness is the easiest process of mystic power; when one is actually situated on that path of devotional service, he is able to control the mind."
 }
 ---

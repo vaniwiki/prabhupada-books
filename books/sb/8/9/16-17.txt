@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.16-17",
-    "h1":"Text 16-17",
-    "title":" Śrīmad Bhāgavatam 8.9.16-17",
+    "h1":"SB 8.9.16-17",
+    "label":"Text 16-17",
+    "title":"Śrīmad Bhāgavatam 8.9.16-17",
     "description":"O King, as the demigods and demons sat facing east in an arena fully decorated with flower garlands and lamps and fragrant with the smoke of incense, that woman, dressed in a most beautiful sari, Her ankle bells tinkling, entered the arena, walking very slowly because of Her big, low hips. Her eyes were restless due to youthful pride, Her breasts were like water jugs, Her thighs resembled the trunks of elephants, and She carried a waterpot in Her hand."
 }
 ---

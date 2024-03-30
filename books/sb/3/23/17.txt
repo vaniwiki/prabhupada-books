@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.23.17",
+    "h1":"SB 3.23.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.23.17",
     "description":"Its beauty was enhanced by artistic engravings here and there on the walls. The floor was of emerald, with coral daises."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 8.21.24",
+    "h1":"SB 8.21.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 8.21.24",
     "description":"Unless providence is in our favor, we shall not be able to gain victory. Therefore we must wait for that favorable time when our defeating them will be possible."
 }
 ---

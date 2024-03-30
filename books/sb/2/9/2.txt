@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.9.2",
+    "h1":"SB 2.9.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.9.2",
     "description":"The illusioned living entity appears in so many forms offered by the external energy of the Lord. While enjoying in the modes of material nature, the encaged living entity misconceives, thinking in terms of \"I\" and \"mine.\""
 }
 ---

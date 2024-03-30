@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 10.4.5",
+    "h1":"SB 10.4.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 10.4.5",
     "description":"My dear brother, by the influence of destiny you have already killed many babies, each of them as bright and beautiful as fire. But kindly spare this daughter. Give her to me as your gift."
 }
 ---

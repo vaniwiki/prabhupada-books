@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.7.21",
+    "h1":"SB 8.7.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.7.21",
     "description":"The prajāpatis said: O greatest of all demigods, Mahādeva, Supersoul of all living entities and cause of their happiness and prosperity, we have come to the shelter of your lotus feet. Now please save us from this fiery poison, which is spreading all over the three worlds."
 }
 ---

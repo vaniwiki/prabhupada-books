@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 10.1.17",
+    "h1":"SB 10.1.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 10.1.17",
     "description":"Once when mother earth was overburdened by hundreds of thousands of military phalanxes of various conceited demons dressed like kings, she approached Lord Brahmā for relief."
 }
 ---

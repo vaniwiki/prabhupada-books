@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 5.1.35",
+    "h1":"SB 5.1.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 5.1.35",
     "description":"My dear King, a devotee who has taken shelter of the dust from the lotus feet of the Lord can transcend the influence of the six material whips—namely hunger, thirst, lamentation, illusion, old age and death—and he can conquer the mind and five senses. However, this is not very wonderful for a pure devotee of the Lord because even a person beyond the jurisdiction of the four castes—in other words, an untouchable—is immediately relieved of bondage to material existence if he utters the holy name of the Lord even once."
 }
 ---

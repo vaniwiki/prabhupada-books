@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 6.19.17",
+    "h1":"SB 6.19.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 6.19.17",
     "description":"Accepting her husband as the representative of the Supreme Person, a wife should worship him with unalloyed devotion by offering him prasāda. The husband, being very pleased with his wife, should engage himself in the affairs of his family."
 }
 ---

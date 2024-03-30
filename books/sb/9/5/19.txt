@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 9.5.19",
+    "h1":"SB 9.5.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 9.5.19",
     "description":"Thus the King respectfully received Durvāsā Muni, who after eating varieties of palatable food was so satisfied that with great affection he requested the King to eat also, saying, \"Please take your meal.\""
 }
 ---

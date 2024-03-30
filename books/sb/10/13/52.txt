@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 10.13.52",
+    "h1":"SB 10.13.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 10.13.52",
     "description":"All the viṣṇu-mūrtis were surrounded by the opulences, headed by aṇimā-siddhi; by the mystic potencies, headed by Ajā; and by the twenty-four elements for the creation of the material world, headed by the mahat-tattva."
 }
 ---

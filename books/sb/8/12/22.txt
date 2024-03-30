@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 8.12.22",
+    "h1":"SB 8.12.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 8.12.22",
     "description":"While Lord Śiva observed the beautiful woman playing with the ball, She sometimes glanced at him and slightly smiled in bashfulness. As he looked at the beautiful woman and She watched him, he forgot both himself and Umā, his most beautiful wife, as well as his associates nearby."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 9.14.30",
+    "h1":"SB 9.14.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 9.14.30",
     "description":"Purūravā, stricken by the sharp words of Urvaśī like an elephant struck by its driver's pointed rod, became very angry. Not even dressing himself properly, he took a sword in hand and went out naked into the night to follow the Gandharvas who had stolen the lambs."
 }
 ---

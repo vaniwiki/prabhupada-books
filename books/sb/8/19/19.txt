@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.19.19",
+    "h1":"SB 8.19.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.19.19",
     "description":"I am able to give You an entire island because I am the proprietor of the three divisions of the universe. You have come to take something from me and have pleased me by Your sweet words, but You are asking only three paces of land. Therefore You are not very intelligent."
 }
 ---

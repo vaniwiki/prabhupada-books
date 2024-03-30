@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 2.7.51",
+    "h1":"SB 2.7.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 2.7.51",
     "description":"O Nārada, this science of God, Śrīmad-Bhāgavatam, was spoken to me in summary by the Supreme Personality of Godhead, and it was spoken as the accumulation of His diverse potencies. Please expand this science yourself."
 }
 ---

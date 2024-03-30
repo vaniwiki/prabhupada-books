@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.3.23",
+    "h1":"SB 3.3.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.3.23",
     "description":"Every living entity is controlled by a supernatural force, and thus his sense enjoyment is also under the control of that supernatural force. No one, therefore, can put his faith in Lord Kṛṣṇa's transcendental sense activities but one who has become a devotee of the Lord by rendering devotional service."
 }
 ---

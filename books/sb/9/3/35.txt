@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 9.3.35",
+    "h1":"SB 9.3.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 9.3.35",
     "description":"Having received this order from Lord Brahmā, Kakudmī offered obeisances unto him and returned to his own residence. He then saw that his residence was vacant, having been abandoned by his brothers and other relatives, who were living in all directions because of fear of such higher living beings as the Yakṣas."
 }
 ---

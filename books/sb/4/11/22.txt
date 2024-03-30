@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.11.22",
+    "h1":"SB 4.11.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.11.22",
     "description":"The differentiation among varieties of life and their suffering and enjoyment is explained by some to be the result of karma. Others say it is due to nature, others due to time, others due to fate, and still others say that it is due to desire."
 }
 ---

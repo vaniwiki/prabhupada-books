@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.11.11",
+    "h1":"SB 3.11.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.11.11",
     "description":"The aggregate of two fortnights is one month, and that period is one complete day and night for the Pitā planets. Two of such months comprise one season, and six months comprise one complete movement of the sun from south to north."
 }
 ---

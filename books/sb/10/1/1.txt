@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 10.1.1",
+    "h1":"SB 10.1.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 10.1.1",
     "description":"King Parīkṣit said: My dear lord, you have elaborately described the dynasties of both the moon-god and the sun-god, with the exalted and wonderful character of their kings."
 }
 ---

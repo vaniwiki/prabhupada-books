@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.6.29",
+    "h1":"SB 8.6.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.6.29",
     "description":"The demigods approached Bali Mahārāja, the son of Virocana, and sat down near him. Bali Mahārāja was protected by the commanders of the demons and was most opulent, having conquered all the universes."
 }
 ---

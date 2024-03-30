@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.7.28",
+    "h1":"SB 3.7.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.7.28",
     "description":"Please also describe the incarnations of the material modes of nature—Brahmā, Viṣṇu and Maheśvara—and please describe the incarnation of the Supreme Personality of Godhead and His magnanimous activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 2.4.7",
+    "h1":"SB 2.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 2.4.7",
     "description":"Kindly describe how the Supreme Lord, who is all-powerful, engages His different energies and different expansions in maintaining and again winding up the phenomenal world in the sporting spirit of a player."
 }
 ---

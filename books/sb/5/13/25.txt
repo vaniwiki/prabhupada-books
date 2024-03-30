@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.13.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 5.13.25",
+    "h1":"SB 5.13.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 5.13.25",
     "description":"After receiving lessons from the great devotee Jaḍa Bharata, King Rahūgaṇa of the state of Sauvīra became completely aware of the constitutional position of the soul. He thus gave up the bodily conception completely. My dear King, whoever takes shelter of the servant of the servant of the Lord is certainly glorified because he can without difficulty give up the bodily conception [[books:cc:madhya:13:80|[Cc. Madhya 13.80]]]."
 }
 ---

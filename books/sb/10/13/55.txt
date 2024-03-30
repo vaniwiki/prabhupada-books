@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 10.13.55",
+    "h1":"SB 10.13.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 10.13.55",
     "description":"Thus Lord Brahmā saw the Supreme Brahman, by whose energy this entire universe, with its moving and nonmoving living beings, is manifested. He also saw at the same time all the calves and boys as the Lord's expansions."
 }
 ---

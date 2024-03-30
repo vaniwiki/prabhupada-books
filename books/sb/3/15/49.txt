@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 3.15.49",
+    "h1":"SB 3.15.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 3.15.49",
     "description":"O Lord, we pray that You let us be born in any hellish condition of life, just as long as our hearts and minds are always engaged in the service of Your lotus feet, our words are made beautiful [by speaking of Your activities] just as tulasī leaves are beautified when offered unto Your lotus feet, and as long as our ears are always filled with the chanting of Your transcendental qualities."
 }
 ---

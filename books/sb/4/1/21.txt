@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.1.21",
+    "h1":"SB 4.1.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.1.21",
     "description":"While Atri Muni was engaged in these severe austerities, a blazing fire came out of his head by virtue of his breathing exercise, and that fire was seen by the three principal deities of the three worlds."
 }
 ---

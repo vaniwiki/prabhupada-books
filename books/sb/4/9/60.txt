@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 4.9.60",
+    "h1":"SB 4.9.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 4.9.60",
     "description":"Dhruva Mahārāja thereafter lived in his father's palace, which had walls bedecked with highly valuable jewels. His affectionate father took particular care of him, and he dwelled in that house just as the demigods live in their palaces in the higher planetary systems."
 }
 ---

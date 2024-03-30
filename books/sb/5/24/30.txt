@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 5.24.30",
+    "h1":"SB 5.24.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 5.24.30",
     "description":"Beneath Mahātala is the planetary system known as Rasātala, which is the abode of the demoniac sons of Diti and Danu. They are called Paṇis, Nivāta-kavacas, Kāleyas and Hiraṇya-puravāsīs [those living in Hiraṇya-pura]. They are all enemies of the demigods, and they reside in holes like snakes. From birth they are extremely powerful and cruel, and although they are proud of their strength, they are always defeated by the Sudarśana cakra of the Supreme Personality of Godhead, who rules all the planetary systems. When a female messenger from Indra named Saramā chants a particular curse, the serpentine demons of Mahātala become very afraid of Indra."
 }
 ---

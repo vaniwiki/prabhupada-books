@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 10.2.42",
+    "h1":"SB 10.2.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 10.2.42",
     "description":"After thus offering prayers to the Supreme Personality of Godhead, Lord Viṣṇu, the Transcendence, all the demigods, with Lord Brahmā and Lord Śiva before them, returned to their homes in the heavenly planets."
 }
 ---

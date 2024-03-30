@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 2.10.5",
+    "h1":"SB 2.10.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 2.10.5",
     "description":"The science of God describes the incarnations of the Personality of Godhead and His different activities together with the activities of His great devotees."
 }
 ---

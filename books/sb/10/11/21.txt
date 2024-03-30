@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.11.21",
+    "h1":"SB 10.11.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.11.21",
     "description":"Śrī Śukadeva Gosvāmī continued: Then one time, having seen the great disturbances in Bṛhadvana, all the elderly persons among the cowherd men, headed by Nanda Mahārāja, assembled and began to consider what to do to stop the continuous disturbing situations in Vraja."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 7.13.42",
+    "h1":"SB 7.13.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 7.13.42",
     "description":"Different people are of different mentalities. Therefore it is not my business either to praise them or to blaspheme them. I only desire their welfare, hoping that they will agree to become one with the Supersoul, the Supreme Personality of Godhead, Kṛṣṇa."
 }
 ---

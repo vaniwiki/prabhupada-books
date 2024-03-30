@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 2.10.13",
+    "h1":"SB 2.10.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 2.10.13",
     "description":"The Lord, while lying on His bed of mystic slumber, generated the seminal symbol, golden in hue, through external energy out of His desire to manifest varieties of living entities from Himself alone."
 }
 ---

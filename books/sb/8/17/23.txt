@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 8.17.23",
+    "h1":"SB 8.17.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 8.17.23",
     "description":"O King, as the wind promotes friction between two pieces of wood and thus gives rise to fire, Kaśyapa Muni, whose transcendental position was fully absorbed in the Supreme Personality of Godhead, transferred his potency into the womb of Aditi."
 }
 ---

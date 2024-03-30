@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.36-37",
-    "h1":"Text 36-37",
-    "title":" Śrīmad Bhāgavatam 6.2.36-37",
+    "h1":"SB 6.2.36-37",
+    "label":"Text 36-37",
+    "title":"Śrīmad Bhāgavatam 6.2.36-37",
     "description":"Because of identifying oneself with the body, one is subjected to desires for sense gratification, and thus one engages in many different types of pious and impious action. This is what constitutes material bondage. Now I shall disentangle myself from my material bondage, which has been caused by the Supreme Personality of Godhead's illusory energy in the form of a woman. Being a most fallen soul, I was victimized by the illusory energy and have become like a dancing dog led around by a woman's hand. Now I shall give up all lusty desires and free myself from this illusion. I shall become a merciful, well-wishing friend to all living entities and always absorb myself in Kṛṣṇa consciousness."
 }
 ---

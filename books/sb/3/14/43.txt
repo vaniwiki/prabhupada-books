@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.14.43",
+    "h1":"SB 3.14.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.14.43",
     "description":"A person who is condemned by a brāhmaṇa or is always fearful to other living entities is not favored either by those who are already in hell or by those in the species in which he is born."
 }
 ---

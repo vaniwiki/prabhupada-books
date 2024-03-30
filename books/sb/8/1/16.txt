@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.1.16",
+    "h1":"SB 8.1.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.1.16",
     "description":"The Supreme Personality of Godhead, Kṛṣṇa, works just like an ordinary human being, yet He does not desire to enjoy the fruits of work. He is full in knowledge, free from material desires and diversions, and completely independent. As the supreme teacher of human society, He teaches His own way of activities, and thus He inaugurates the real path of religion. I request everyone to follow Him."
 }
 ---

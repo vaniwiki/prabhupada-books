@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.22.6",
+    "h1":"SB 4.22.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.22.6",
     "description":"The four great sages were elder to Lord Śiva, and when they were seated on the golden throne, they appeared just like fire blazing on an altar. Mahārāja Pṛthu, out of his great gentleness and respect for them, began to speak with great restraint as follows."
 }
 ---

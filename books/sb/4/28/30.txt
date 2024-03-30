@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.28.30",
+    "h1":"SB 4.28.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.28.30",
     "description":"King Malayadhvaja fathered one daughter, who had very black eyes. He also had seven sons, who later became rulers of that tract of land known as Draviḍa. Thus there were seven kings in that land."
 }
 ---

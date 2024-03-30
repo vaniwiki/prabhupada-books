@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 7.5.37",
+    "h1":"SB 7.5.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 7.5.37",
     "description":"Although a medicinal herb, being born in the forest, does not belong to the same category as a man, if beneficial it is kept very carefully. Similarly, if someone outside one's family is favorable, he should be given protection like a son. On the other hand, if a limb of one's body is poisoned by disease, it must be amputated so that the rest of the body may live happily. Similarly, even one's own son, if unfavorable, must be rejected, although born of one's own body."
 }
 ---

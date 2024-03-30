@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.15.11",
+    "h1":"SB 4.15.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.15.11",
     "description":"The learned brāhmaṇas, who were very attached to the Vedic ritualistic ceremonies, then arranged for the King's coronation. People from all directions collected all the different paraphernalia for the ceremony. Thus everything was complete."
 }
 ---

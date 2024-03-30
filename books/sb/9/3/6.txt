@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.3.6",
+    "h1":"SB 9.3.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.3.6",
     "description":"How strange it is that one of us has attempted to do something wrong to Cyavana Muni, the son of Bhṛgu. It certainly appears that someone among us has polluted this āśrama."
 }
 ---

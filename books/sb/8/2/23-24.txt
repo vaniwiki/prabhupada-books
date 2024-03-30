@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.2.23-24",
-    "h1":"Text 23-24",
-    "title":" Śrīmad Bhāgavatam 8.2.23-24",
+    "h1":"SB 8.2.23-24",
+    "label":"Text 23-24",
+    "title":"Śrīmad Bhāgavatam 8.2.23-24",
     "description":"Surrounded by the herd's other elephants, including females, and followed by the young ones, Gajapati, the leader of the elephants, made Trikūṭa Mountain tremble all around because of the weight of his body. He was perspiring, liquor dripped from his mouth, and his vision was overwhelmed by intoxication. He was being served by bumblebees who drank honey, and from a distance he could smell the dust of the lotus flowers, which was carried from the lake by the breeze. Thus surrounded by his associates, who were afflicted by thirst, he soon arrived at the bank of the lake."
 }
 ---

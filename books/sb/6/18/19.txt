@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 6.18.19",
+    "h1":"SB 6.18.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 6.18.19",
     "description":"The forty-nine Marut demigods were also born from the womb of Diti. None of them had sons. Although they were born of Diti, King Indra gave them a position as demigods."
 }
 ---

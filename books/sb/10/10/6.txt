@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 10.10.6",
+    "h1":"SB 10.10.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 10.10.6",
     "description":"Upon seeing Nārada, the naked young girls of the demigods were very much ashamed. Afraid of being cursed, they covered their bodies with their garments. But the two sons of Kuvera did not do so; instead, not caring about Nārada, they remained naked."
 }
 ---

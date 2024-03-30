@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.16.5",
+    "h1":"SB 4.16.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.16.5",
     "description":"This King alone, in his own body, will be able in due course of time to maintain all living entities and keep them in a pleasant condition by manifesting himself as different demigods to perform various departmental activities. Thus he will maintain the upper planetary system by inducing the populace to perform Vedic sacrifices. In due course of time he will also maintain this earthly planet by discharging proper rainfall."
 }
 ---

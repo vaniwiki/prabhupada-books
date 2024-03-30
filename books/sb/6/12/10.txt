@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 6.12.10",
+    "h1":"SB 6.12.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 6.12.10",
     "description":"O King Indra, as a wooden doll that looks like a woman or as an animal made of grass and leaves cannot move or dance independently, but depends fully on the person who handles it, all of us dance according to the desire of the supreme controller, the Personality of Godhead. No one is independent."
 }
 ---

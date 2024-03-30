@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 3.16.13",
+    "h1":"SB 3.16.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 3.16.13",
     "description":"Brahmā continued: Even though the sages had been bitten by the serpent of anger, their souls were not satiated with hearing the Lord's lovely and illuminating speech, which was like a series of Vedic hymns."
 }
 ---

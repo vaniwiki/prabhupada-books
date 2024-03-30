@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.21.10",
+    "h1":"SB 4.21.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.21.10",
     "description":"Pṛthu Mahārāja was so great in his activities and magnanimous in his method of ruling that all the kings and demigods on the various planets still follow in his footsteps. Who is there who will not try to hear about his glorious activities? I wish to hear more and more about Pṛthu Mahārāja because his activities are so pious and auspicious."
 }
 ---

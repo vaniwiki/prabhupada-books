@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 9.15.20",
+    "h1":"SB 9.15.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 9.15.20",
     "description":"Once while enjoying in the water of the River Narmadā, the puffed-up Kārtavīryārjuna, surrounded by beautiful women and garlanded with a garland of victory, stopped the flow of the water with his arms."
 }
 ---

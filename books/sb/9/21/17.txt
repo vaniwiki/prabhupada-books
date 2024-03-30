@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 9.21.17",
+    "h1":"SB 9.21.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 9.21.17",
     "description":"O Mahārāja Parīkṣit, because King Rantideva was a pure devotee, always Kṛṣṇa conscious and free from all material desires, the Lord's illusory energy, māyā, could not exhibit herself before him. On the contrary, for him māyā entirely vanished, exactly like a dream."
 }
 ---

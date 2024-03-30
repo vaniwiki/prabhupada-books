@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.4.31",
+    "h1":"SB 4.4.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.4.31",
     "description":"While people were talking among themselves about the wonderful voluntary death of Satī, the attendants who had come with her readied themselves to kill Dakṣa with their weapons."
 }
 ---

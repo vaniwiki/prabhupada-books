@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 2.10.24",
+    "h1":"SB 2.10.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 2.10.24",
     "description":"Thereafter when the Supreme Person desired to perform varieties of work, the two hands and their controlling strength, and Indra, the demigod in heaven, became manifested, as also the acts dependent on both the hands and the demigod."
 }
 ---

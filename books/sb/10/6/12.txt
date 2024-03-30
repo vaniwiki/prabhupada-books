@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 10.6.12",
+    "h1":"SB 10.6.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 10.6.12",
     "description":"As Pūtanā screamed loudly and forcefully, the earth with its mountains, and outer space with its planets, trembled. The lower planets and all directions vibrated, and people fell down, fearing that thunderbolts were falling upon them."
 }
 ---

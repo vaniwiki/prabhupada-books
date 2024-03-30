@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 4.7.36",
+    "h1":"SB 4.7.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 4.7.36",
     "description":"The wife of Dakṣa prayed as follows: My dear Lord, it is very fortunate that You have appeared in this arena of sacrifice. I offer my respectful obeisances unto You, and I request that You be pleased on this occasion. The sacrificial arena is not beautiful without You, just as a body is not beautiful without the head."
 }
 ---

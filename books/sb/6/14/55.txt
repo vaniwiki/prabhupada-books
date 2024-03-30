@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 6.14.55",
+    "h1":"SB 6.14.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 6.14.55",
     "description":"My Lord, You may say that there is no law that a father must die in the lifetime of his son and that a son must be born in the lifetime of his father, since everyone lives and dies according to his own fruitive activity. However, if fruitive activity is so strong that birth and death depend upon it, there is no need of a controller, or God. Again, if You say that a controller is needed because the material energy does not have the power to act, one may answer that if the bonds of affection You have created are disturbed by fruitive action, no one will raise children with affection; instead, everyone will cruelly neglect his children. Since You have cut the bonds of affection that compel a parent to raise his child, You appear inexperienced and unintelligent."
 }
 ---

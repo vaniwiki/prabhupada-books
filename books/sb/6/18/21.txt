@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.18.21",
+    "h1":"SB 6.18.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.18.21",
     "description":"My dear brāhmaṇa, I and all the sages present with me are eager to know about this. Therefore, O great soul, kindly explain to us the reason."
 }
 ---

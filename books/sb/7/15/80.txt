@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.80",
-    "h1":"Text 80",
-    "title":" Śrīmad Bhāgavatam 7.15.80",
+    "h1":"SB 7.15.80",
+    "label":"Text 80",
+    "title":"Śrīmad Bhāgavatam 7.15.80",
     "description":"On all the planets within this universe, the varieties of living entities, moving and nonmoving, including the demigods, demons and human beings, were all generated from the daughters of Mahārāja Dakṣa. I have now described them and their different dynasties."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 2.1.1",
+    "h1":"SB 2.1.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 2.1.1",
     "description":"Śrī Śukadeva Gosvāmī said: My dear King, your question is glorious because it is very beneficial to all kinds of people. The answer to this question is the prime subject matter for hearing, and it is approved by all transcendentalists."
 }
 ---

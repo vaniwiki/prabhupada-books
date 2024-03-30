@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.13.8",
+    "h1":"SB 7.13.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.13.8",
     "description":"A sannyāsī must not present allurements of material benefits to gather many disciples, nor should he unnecessarily read many books or give discourses as a means of livelihood. He must never attempt to increase material opulences unnecessarily."
 }
 ---

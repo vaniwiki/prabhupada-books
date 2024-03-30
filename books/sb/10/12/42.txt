@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 10.12.42",
+    "h1":"SB 10.12.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 10.12.42",
     "description":"O greatest yogī, my spiritual master, kindly describe why this happened. I am very much curious to know about it. I think that it was nothing but another illusion due to Kṛṣṇa."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 3.12.53",
+    "h1":"SB 3.12.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 3.12.53",
     "description":"The two newly separated bodies united together in a sexual relationship."
 }
 ---

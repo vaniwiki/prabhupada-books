@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.9.22",
+    "h1":"SB 7.9.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.9.22",
     "description":"My dear Lord, O supreme great, You have created this material world of sixteen constituents, but You are transcendental to their material qualities. In other words, these material qualities are under Your full control, and You are never conquered by them. Therefore the time element is Your representation. My Lord, O Supreme, no one can conquer You. As for me, however, I am being crushed by the wheel of time, and therefore I surrender fully unto You. Now kindly take me under the protection of Your lotus feet."
 }
 ---

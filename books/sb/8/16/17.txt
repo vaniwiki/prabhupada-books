@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.16.17",
+    "h1":"SB 8.16.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.16.17",
     "description":"O best of sages, best of all those who grant auspicious benedictions, please consider our situation and bestow upon my sons the benedictions by which they can regain what they have lost."
 }
 ---

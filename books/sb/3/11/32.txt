@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 3.11.32",
+    "h1":"SB 3.11.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 3.11.32",
     "description":"The Supreme Lord, the Personality of Godhead, lies down in the water on the seat of Ananta, with His eyes closed, and the inhabitants of the Janaloka planets offer their glorious prayers unto the Lord with folded hands."
 }
 ---

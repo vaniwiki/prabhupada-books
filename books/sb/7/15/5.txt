@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 7.15.5",
+    "h1":"SB 7.15.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 7.15.5",
     "description":"When one gets the opportunity of a suitable auspicious time and place, one should, with love, offer food prepared with ghee to the Deity of the Supreme Personality of Godhead and then offer the prasāda to a suitable person—a Vaiṣṇava or brāhmaṇa. This will be the cause of everlasting prosperity."
 }
 ---

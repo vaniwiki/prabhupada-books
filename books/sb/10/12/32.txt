@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 10.12.32",
+    "h1":"SB 10.12.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 10.12.32",
     "description":"When all the demon's life air had passed away through that hole in the top of his head, Kṛṣṇa glanced over the dead calves and cowherd boys and brought them back to life. Then Mukunda, who can give one liberation, came out from the demon's mouth with His friends and the calves."
 }
 ---

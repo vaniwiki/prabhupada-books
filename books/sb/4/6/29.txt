@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.6.29",
+    "h1":"SB 4.6.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.6.29",
     "description":"In that celestial forest there were many birds whose necks were colored reddish and whose sweet sounds mixed with the humming of the bees. The lakes were abundantly decorated with crying swans as well as strong-stemmed lotus flowers."
 }
 ---

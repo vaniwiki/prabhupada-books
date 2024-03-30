@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 4.8.61",
+    "h1":"SB 4.8.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 4.8.61",
     "description":"If one is very serious about liberation, he must stick to the process of transcendental loving service, engaging twenty-four hours a day in the highest stage of ecstasy, and he must certainly be aloof from all activities of sense gratification."
 }
 ---

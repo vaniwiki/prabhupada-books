@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.19.30",
+    "h1":"SB 8.19.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.19.30",
     "description":"Śukrācārya said: O son of Virocana, this brahmacārī in the form of a dwarf is directly the imperishable Supreme Personality of Godhead, Viṣṇu. Accepting Kaśyapa Muni as His father and Aditi as His mother, He has now appeared in order to fulfill the interests of the demigods."
 }
 ---

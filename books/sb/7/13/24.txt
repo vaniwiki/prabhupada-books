@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 7.13.24",
+    "h1":"SB 7.13.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 7.13.24",
     "description":"Because of insatiable material desires, I was being carried away by the waves of material nature's laws, and thus I was engaging in different activities, struggling for existence in various forms of life."
 }
 ---

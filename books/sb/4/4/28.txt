@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.4.28",
+    "h1":"SB 4.4.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.4.28",
     "description":"When Satī annihilated her body in anger, there was a tumultuous roar all over the universe. Why had Satī, the wife of the most respectable demigod, Lord Śiva, quit her body in such a manner?"
 }
 ---

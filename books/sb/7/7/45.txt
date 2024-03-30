@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 7.7.45",
+    "h1":"SB 7.7.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 7.7.45",
     "description":"All this paraphernalia is very near and dear as long as the body exists, but as soon as the body is destroyed, all things related to the body are also finished. Therefore, actually one has nothing to do with them, but because of ignorance one accepts them as valuable. Compared to the ocean of eternal happiness, they are most insignificant. What is the use of such insignificant relationships for the eternal living being?"
 }
 ---

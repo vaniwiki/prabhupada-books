@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.11.8",
+    "h1":"SB 3.11.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.11.8",
     "description":"Fifteen laghus make one nāḍikā, which is also called a daṇḍa. Two daṇḍas make one muhūrta, and six or seven daṇḍas make one fourth of a day or night, according to human calculation."
 }
 ---

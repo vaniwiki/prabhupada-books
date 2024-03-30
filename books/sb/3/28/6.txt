@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.28.6",
+    "h1":"SB 3.28.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.28.6",
     "description":"Fixing the vital air and the mind in one of the six circles of vital air circulation within the body, thus concentrating one's mind on the transcendental pastimes of the Supreme Personality of Godhead, is called samādhi, or samādhāna, of the mind."
 }
 ---

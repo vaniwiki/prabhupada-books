@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.16.36",
+    "h1":"SB 3.16.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.16.36",
     "description":"It is the prowess of these twin asuras [demons] that has disturbed you, for it has minimized your power. There is no remedy within my power, however, for it is the Lord Himself who desires to do all this."
 }
 ---

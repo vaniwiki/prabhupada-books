@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 10.7.37",
+    "h1":"SB 10.7.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 10.7.37",
     "description":"When mother Yaśodā saw the whole universe within the mouth of her child, her heart began to throb, and in astonishment she wanted to close her restless eyes."
 }
 ---

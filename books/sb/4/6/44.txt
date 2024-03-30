@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.6.44",
+    "h1":"SB 4.6.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.6.44",
     "description":"My dear lord, Your Lordship has introduced the system of sacrifices through the agency of Dakṣa, and thus one may derive the benefits of religious activities and economic development. Under your regulative principles, the institution of the four varṇas and āśramas is respected. The brāhmaṇas therefore vow to follow this system strictly."
 }
 ---

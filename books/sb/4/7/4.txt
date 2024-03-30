@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.7.4",
+    "h1":"SB 4.7.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.7.4",
     "description":"The demigod Pūṣā will be able to chew only through the teeth of his disciples, and if alone, he will have to satisfy himself by eating dough made from chickpea flour. But the demigods who have agreed to give me my share of the sacrifice will recover from all their injuries."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.2.2",
+    "h1":"SB 3.2.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.2.2",
     "description":"He was one who even in his childhood, at the age of five years, was so absorbed in the service of Lord Kṛṣṇa that when he was called by his mother for morning breakfast, he did not wish to have it."
 }
 ---

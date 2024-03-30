@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.6.16",
+    "h1":"SB 4.6.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.6.16",
     "description":"There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī."
 }
 ---

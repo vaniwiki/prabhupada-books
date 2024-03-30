@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.13.35",
+    "h1":"SB 4.13.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.13.35",
     "description":"Thus for the sake of a son for King Aṅga, they decided to offer oblations to Lord Viṣṇu, who is situated in the hearts of all living entities."
 }
 ---

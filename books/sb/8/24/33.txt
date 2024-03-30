@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.24.33",
+    "h1":"SB 8.24.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.24.33",
     "description":"When all the three worlds merge into the water, a large boat sent by Me will appear before you."
 }
 ---

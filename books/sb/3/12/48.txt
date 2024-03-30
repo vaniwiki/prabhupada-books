@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 3.12.48",
+    "h1":"SB 3.12.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 3.12.48",
     "description":"Brahmā is the personal representation of the Supreme Personality of Godhead as the source of transcendental sound and is therefore above the conception of manifested and unmanifested. Brahmā is the complete form of the Absolute Truth and is invested with multifarious energies."
 }
 ---

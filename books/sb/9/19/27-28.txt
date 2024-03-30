@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.27-28",
-    "h1":"Text 27-28",
-    "title":" Śrīmad Bhāgavatam 9.19.27-28",
+    "h1":"SB 9.19.27-28",
+    "label":"Text 27-28",
+    "title":"Śrīmad Bhāgavatam 9.19.27-28",
     "description":"Thereafter, Devayānī, the daughter of Śukrācārya, understood that the materialistic association of husband, friends and relatives is like the association in a hotel full of tourists. The relationships of society, friendship and love are created by the māyā of the Supreme Personality of Godhead, exactly as in a dream. By the grace of Kṛṣṇa, Devayānī gave up her imaginary position in the material world. Completely fixing her mind upon Kṛṣṇa, she achieved liberation from the gross and subtle bodies."
 }
 ---

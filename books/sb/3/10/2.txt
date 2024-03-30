@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.10.2",
+    "h1":"SB 3.10.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.10.2",
     "description":"O greatly learned one, kindly eradicate all my doubts, and let me know of all that I have inquired from you from the beginning to the end."
 }
 ---

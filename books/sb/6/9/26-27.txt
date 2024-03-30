@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.26-27",
-    "h1":"Text 26-27",
-    "title":" Śrīmad Bhāgavatam 6.9.26-27",
+    "h1":"SB 6.9.26-27",
+    "label":"Text 26-27",
+    "title":"Śrīmad Bhāgavatam 6.9.26-27",
     "description":"By His inconceivable internal potency, the Supreme Personality of Godhead expands into various transcendental bodies as Vāmanadeva, the incarnation of strength among the demigods; Paraśurāma, the incarnation among saints; Nṛsiṁhadeva and Varāha, incarnations among animals; and Matsya and Kūrma, incarnations among aquatics. He accepts various transcendental bodies among all types of living entities, and among human beings He especially appears as Lord Kṛṣṇa and Lord Rāma. By His causeless mercy, He protects the demigods, who are always harassed by the demons. He is the supreme worshipable Deity of all living entities. He is the supreme cause, represented as the male and female creative energies. Although different from this universe, He exists in His universal form [virāṭ-rūpa]. In our fearful condition, let us take shelter of Him, for we are sure that the Supreme Lord, the Supreme Soul, will give us His protection."
 }
 ---

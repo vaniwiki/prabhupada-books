@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.5.2",
+    "h1":"SB 4.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.5.2",
     "description":"Thus Lord Śiva, being extremely angry, pressed his lips with his teeth and immediately snatched from his head a strand of hair which blazed like electricity or fire. He stood up at once, laughing like a madman, and dashed the hair to the ground."
 }
 ---

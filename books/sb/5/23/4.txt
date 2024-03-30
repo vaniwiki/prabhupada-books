@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.23.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.23.4",
+    "h1":"SB 5.23.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.23.4",
     "description":"This great machine, consisting of the stars and planets, resembles the form of a śiśumāra [dolphin] in the water. It is sometimes considered an incarnation of Kṛṣṇa, Vāsudeva. Great yogīs meditate upon Vāsudeva in this form because it is actually visible."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 6.5.42",
+    "h1":"SB 6.5.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 6.5.42",
     "description":"Although I live in household life with my wife and children, I honestly follow the Vedic injunctions by engaging in fruitive activities to enjoy life without sinful reactions. I have performed all kinds of yajñas, including the deva-yajña, ṛṣi-yajña, pitṛ-yajña and nṛ-yajña. Because these yajñas are called vratas [vows], I am known as a gṛhavrata. Unfortunately, you have given me great displeasure by misguiding my sons, for no reason, to the path of renunciation. This can be tolerated once."
 }
 ---

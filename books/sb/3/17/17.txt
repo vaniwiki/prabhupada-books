@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.17.17",
+    "h1":"SB 3.17.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.17.17",
     "description":"Their bodies became so tall that they seemed to kiss the sky with the crests of their gold crowns. They blocked the view of all directions and while walking shook the earth at every step. Their arms were adorned with brilliant bracelets, and they stood as if covering the sun with their waists, which were bound with excellent and beautiful girdles."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.13.30",
+    "h1":"SB 4.13.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.13.30",
     "description":"King Aṅga addressed the priestly order: My dear priests, kindly tell me what offense I have committed. Although invited, the demigods are neither taking part in the sacrifice nor accepting their shares."
 }
 ---

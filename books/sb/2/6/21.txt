@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 2.6.21",
+    "h1":"SB 2.6.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 2.6.21",
     "description":"By His energies, the all-pervading Personality of Godhead is thus comprehensively the master in the activities of controlling and in devotional service. He is the ultimate master of both nescience and factual knowledge of all situations."
 }
 ---

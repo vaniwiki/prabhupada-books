@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 7.8.55",
+    "h1":"SB 7.8.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 7.8.55",
     "description":"The Kinnaras said: O supreme controller, we are ever-existing servants of Your Lordship, but instead of rendering service to You, we were engaged by this demon in his service, constantly and without remuneration. This sinful man has now been killed by You. Therefore, O Lord Nṛsiṁhadeva, our master, we offer our respectful obeisances unto You. Please continue to be our patron."
 }
 ---

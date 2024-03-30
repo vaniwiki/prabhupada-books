@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 10.3.43",
+    "h1":"SB 10.3.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 10.3.43",
     "description":"O supremely chaste mother, I, the same personality, have now appeared of you both as your son for the third time. Take My words as the truth."
 }
 ---

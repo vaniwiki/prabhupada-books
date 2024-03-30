@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.16.30",
+    "h1":"SB 3.16.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.16.30",
     "description":"This departure from Vaikuṇṭha was foretold by Lakṣmī, the goddess of fortune. She was very angry because when she left My abode and then returned, you stopped her at the gate while I was sleeping."
 }
 ---

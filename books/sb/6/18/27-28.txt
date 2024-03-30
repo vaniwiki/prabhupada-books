@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.27-28",
-    "h1":"Text 27-28",
-    "title":" Śrīmad Bhāgavatam 6.18.27-28",
+    "h1":"SB 6.18.27-28",
+    "label":"Text 27-28",
+    "title":"Śrīmad Bhāgavatam 6.18.27-28",
     "description":"Thinking in this way [with a desire for a son to kill Indra], Diti began constantly acting to satisfy Kaśyapa by her pleasing behavior. O King, Diti always carried out Kaśyapa's orders very faithfully, as he desired. With service, love, humility and control, with words spoken very sweetly to satisfy her husband, and with smiles and glances at him, Diti attracted his mind and brought it under her control."
 }
 ---

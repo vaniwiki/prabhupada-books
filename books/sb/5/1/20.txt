@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 5.1.20",
+    "h1":"SB 5.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 5.1.20",
     "description":"Śrī Śukadeva Gosvāmī continued: After thus being fully instructed by Lord Brahmā, who is the spiritual master of the three worlds, Priyavrata, his own position being inferior, offered obeisances, accepted the order and carried it out with great respect."
 }
 ---

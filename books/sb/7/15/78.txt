@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.78",
-    "h1":"Text 78",
-    "title":" Śrīmad Bhāgavatam 7.15.78",
+    "h1":"SB 7.15.78",
+    "label":"Text 78",
+    "title":"Śrīmad Bhāgavatam 7.15.78",
     "description":"Śrī Śukadeva Gosvāmī said: Mahārāja Yudhiṣṭhira, the best member of the Bhārata dynasty, thus learned everything from the descriptions of Nārada Muni. After hearing these instructions, he felt great pleasure from within his heart, and in great ecstasy, love and affection, he worshiped Lord Kṛṣṇa."
 }
 ---

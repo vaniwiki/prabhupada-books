@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 9.21.16",
+    "h1":"SB 9.21.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 9.21.16",
     "description":"King Rantideva had no ambition to enjoy material benefits from the demigods. He offered them obeisances, but because he was factually attached to Lord Viṣṇu, Vāsudeva, the Supreme Personality of Godhead, he fixed his mind at Lord Viṣṇu's lotus feet."
 }
 ---

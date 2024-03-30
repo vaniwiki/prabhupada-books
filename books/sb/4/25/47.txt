@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.25.47",
+    "h1":"SB 4.25.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.25.47",
     "description":"The two gates named Khadyotā and Āvirmukhī were situated facing the eastern side, but they were constructed in one place. Through those two gates the King used to go to the city of Vibhrājita accompanied by a friend whose name was Dyumān."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 10.8.43",
+    "h1":"SB 10.8.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 10.8.43",
     "description":"Mother Yaśodā, by the grace of the Lord, could understand the real truth. But then again, the supreme master, by the influence of the internal potency, yogamāyā, inspired her to become absorbed in intense maternal affection for her son."
 }
 ---

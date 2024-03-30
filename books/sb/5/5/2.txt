@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.5.2",
+    "h1":"SB 5.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.5.2",
     "description":"One can attain the path of liberation from material bondage only by rendering service to highly advanced spiritual personalities. These personalities are impersonalists and devotees. Whether one wants to merge into the Lord's existence or wants to associate with the Personality of Godhead, one should render service to the mahātmās. For those who are not interested in such activities, who associate with people fond of women and sex, the path to hell is wide open. The mahātmās are equipoised. They do not see any difference between one living entity and another. They are very peaceful and are fully engaged in devotional service. They are devoid of anger, and they work for the benefit of everyone. They do not behave in any abominable way. Such people are known as mahātmās."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 10.3.23",
+    "h1":"SB 10.3.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 10.3.23",
     "description":"Śukadeva Gosvāmī continued: Thereafter, having seen that her child had all the symptoms of the Supreme Personality of Godhead, Devakī, who was very much afraid of Kaṁsa and unusually astonished, began to offer prayers to the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 3.33.15",
+    "h1":"SB 3.33.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 3.33.15",
     "description":"The home and household paraphernalia of Kardama, who was one of the Prajāpatis, was developed in such a way, by dint of his mystic powers of austerity and yoga, that his opulence was sometimes envied by those who travel in outer space in airplanes."
 }
 ---

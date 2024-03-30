@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 2.7.5",
+    "h1":"SB 2.7.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 2.7.5",
     "description":"To create different planetary systems I had to undergo austerities and penance, and the Lord, thus being pleased with me, incarnated in four sanas [Sanaka, Sanat-kumāra, Sanandana and Sanātana]. In the previous creation the spiritual truth was devastated, but the four sanas explained it so nicely that the truth at once became clearly perceived by the sages."
 }
 ---

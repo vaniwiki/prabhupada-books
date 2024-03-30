@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.11.14",
+    "h1":"SB 4.11.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.11.14",
     "description":"One who actually satisfies the Supreme Personality of Godhead during one's lifetime becomes liberated from the gross and subtle material conditions. Thus being freed from all material modes of nature, he achieves unlimited spiritual bliss."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.27.26",
+    "h1":"SB 4.27.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.27.26",
     "description":"Kālakanyā continued: O gentle one, I am now present before you to serve you. Please accept me and thus show me mercy. It is a gentleman's greatest duty to be compassionate upon a person who is distressed."
 }
 ---

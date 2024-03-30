@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.14.30",
+    "h1":"SB 6.14.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.14.30",
     "description":"As Kṛttikādevī, after receiving the semen of Lord Śiva from Agni, conceived a child named Skanda [Kārttikeya], Kṛtadyuti, having received semen from Citraketu, became pregnant after eating remnants of food from the yajña performed by Aṅgirā."
 }
 ---

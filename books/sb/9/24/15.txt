@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 9.24.15",
+    "h1":"SB 9.24.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 9.24.15",
     "description":"From Vṛṣṇi came the sons named Śvaphalka and Citraratha. From Śvaphalka by his wife Gāndinī came Akrūra. Akrūra was the eldest, but there were twelve other sons, all of whom were most celebrated."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 6.18.64",
+    "h1":"SB 6.18.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 6.18.64",
     "description":"When Indra saw that actually they were his devoted followers, he said to them: If you are all my brothers, you have nothing more to fear from me."
 }
 ---

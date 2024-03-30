@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 7.5.35",
+    "h1":"SB 7.5.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 7.5.35",
     "description":"This boy Prahlāda is the killer of my brother, for he has given up his family to engage in the devotional service of the enemy, Lord Viṣṇu, like a menial servant."
 }
 ---

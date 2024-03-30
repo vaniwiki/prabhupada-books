@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 2.6.34",
+    "h1":"SB 2.6.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 2.6.34",
     "description":"O Nārada, because I have caught hold of the lotus feet of the Supreme Personality of Godhead, Hari, with great zeal, whatever I say has never proved to have been false. Nor is the progress of my mind ever deterred. Nor are my senses ever degraded by temporary attachment to matter."
 }
 ---

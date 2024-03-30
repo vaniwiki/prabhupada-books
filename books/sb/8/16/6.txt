@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.16.6",
+    "h1":"SB 8.16.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.16.6",
     "description":"I wonder whether because of being too attached to the members of your family, you failed to properly receive uninvited guests, who therefore were not welcomed and went away."
 }
 ---

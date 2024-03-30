@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.19.5",
+    "h1":"SB 3.19.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.19.5",
     "description":"As the Lord's mace fell to the ground and a cry of alarm arose from the witnessing crowd of gods and ṛṣis, the Personality of Godhead acknowledged the demon's love of righteousness and therefore invoked His Sudarśana discus."
 }
 ---

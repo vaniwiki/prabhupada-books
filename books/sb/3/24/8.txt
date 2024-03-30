@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.24.8",
+    "h1":"SB 3.24.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.24.8",
     "description":"At the time of the Lord's appearance, the demigods flying freely in the sky showered flowers. All the directions, all the waters and everyone's mind became very satisfied."
 }
 ---

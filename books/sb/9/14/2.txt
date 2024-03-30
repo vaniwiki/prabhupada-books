@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 9.14.2",
+    "h1":"SB 9.14.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 9.14.2",
     "description":"Lord Viṣṇu [Garbhodakaśāyī Viṣṇu] is also known as Sahasra-śīrṣā Puruṣa. From the lake of His navel sprang a lotus, on which Lord Brahmā was generated. Atri, the son of Lord Brahmā, was as qualified as his father."
 }
 ---

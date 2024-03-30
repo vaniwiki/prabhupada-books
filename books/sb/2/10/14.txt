@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 2.10.14",
+    "h1":"SB 2.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 2.10.14",
     "description":"Just hear from me how the potency of His Lordship divides one into three, called the controlling entities, the controlled entities and the material bodies, in the manner mentioned above."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.22-23",
-    "h1":"Text 22-23",
-    "title":" Śrīmad Bhāgavatam 8.23.22-23",
+    "h1":"SB 8.23.22-23",
+    "label":"Text 22-23",
+    "title":"Śrīmad Bhāgavatam 8.23.22-23",
     "description":"O King Parīkṣit, Indra was considered the King of all the universe, but the demigods, headed by Lord Brahmā, wanted Upendra, Lord Vāmanadeva, as the protector of the Vedas, the principles of religion, fame, opulence, auspiciousness, vows, elevation to the higher planetary system, and liberation. Thus they accepted Upendra, Lord Vāmanadeva, as the supreme master of everything. This decision made all living entities extremely happy."
 }
 ---

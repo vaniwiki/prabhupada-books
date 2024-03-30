@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.56",
-    "h1":"Text 56",
-    "title":" Śrīmad Bhāgavatam 7.15.56",
+    "h1":"SB 7.15.56",
+    "label":"Text 56",
+    "title":"Śrīmad Bhāgavatam 7.15.56",
     "description":"Even though situated in a material body, one who is fully aware of the paths known as pitṛ-yāna and deva-yāna, and who thus opens his eyes in terms of Vedic knowledge, is never bewildered in this material world."
 }
 ---

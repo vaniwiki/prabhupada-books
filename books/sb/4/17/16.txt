@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.17.16",
+    "h1":"SB 4.17.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.17.16",
     "description":"The cow-shaped earth ran here and there in outer space between the heavenly planets and the earth, and wherever she ran, the King chased her with his bow and arrows."
 }
 ---

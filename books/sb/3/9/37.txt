@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.9.37",
+    "h1":"SB 3.9.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.9.37",
     "description":"When you were contemplating whether there was a source to the stem of the lotus of your birth and you even entered into that stem, you could not trace out anything. But at that time I manifested My form from within."
 }
 ---

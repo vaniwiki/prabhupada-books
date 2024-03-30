@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.9.51",
+    "h1":"SB 4.9.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.9.51",
     "description":"The residents of the palace praised the Queen: Dear Queen, your beloved son was lost a long time ago, and it is your great fortune that he now has come back. It appears, therefore, that your son will be able to protect you for a very long time and will put an end to all your material pangs."
 }
 ---

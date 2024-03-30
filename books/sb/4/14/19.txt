@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.14.19",
+    "h1":"SB 4.14.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.14.19",
     "description":"O noble one, if the king sees that the Supreme Personality of Godhead, the original cause of the cosmic manifestation and the Supersoul within everyone, is worshiped, the Lord will be satisfied."
 }
 ---

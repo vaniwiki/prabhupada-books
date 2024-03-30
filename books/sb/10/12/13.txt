@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 10.12.13",
+    "h1":"SB 10.12.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 10.12.13",
     "description":"My dear King Parīkṣit, thereafter there appeared a great demon named Aghāsura, whose death was being awaited even by the demigods. The demigods drank nectar every day, but still they feared this great demon and awaited his death. This demon could not tolerate the transcendental pleasure being enjoyed in the forest by the cowherd boys."
 }
 ---

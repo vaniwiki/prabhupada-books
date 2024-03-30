@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.8.25",
+    "h1":"SB 4.8.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.8.25",
     "description":"The great sage Nārada overheard this news, and understanding all the activities of Dhruva Mahārāja, he was struck with wonder. He approached Dhruva, and touching the boy's head with his all-virtuous hand, he spoke as follows."
 }
 ---

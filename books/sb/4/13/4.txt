@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.13.4",
+    "h1":"SB 4.13.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.13.4",
     "description":"While all the Pracetās were executing religious rituals and sacrificial ceremonies and thus worshiping the Supreme Personality of Godhead for His satisfaction, the great sage Nārada described the transcendental qualities of Dhruva Mahārāja."
 }
 ---

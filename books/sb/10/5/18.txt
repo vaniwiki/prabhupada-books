@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 10.5.18",
+    "h1":"SB 10.5.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 10.5.18",
     "description":"O Mahārāja Parīkṣit, the home of Nanda Mahārāja is eternally the abode of the Supreme Personality of Godhead and His transcendental qualities and is therefore always naturally endowed with the opulence of all wealth. Yet beginning from Lord Kṛṣṇa's appearance there, it became the place for the pastimes of the goddess of fortune."
 }
 ---

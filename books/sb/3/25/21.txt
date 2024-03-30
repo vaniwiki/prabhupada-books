@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.25.21",
+    "h1":"SB 3.25.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.25.21",
     "description":"The symptoms of a sādhu are that he is tolerant, merciful and friendly to all living entities. He has no enemies, he is peaceful, he abides by the scriptures, and all his characteristics are sublime."
 }
 ---

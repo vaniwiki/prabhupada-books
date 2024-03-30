@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 4.1.64",
+    "h1":"SB 4.1.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 4.1.64",
     "description":"Svadhā, who was offered to the Pitās, begot two daughters named Vayunā and Dhāriṇī, both of whom were impersonalists and were expert in transcendental and Vedic knowledge."
 }
 ---

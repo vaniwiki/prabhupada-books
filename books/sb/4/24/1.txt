@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.24.1",
+    "h1":"SB 4.24.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.24.1",
     "description":"The great sage Maitreya continued: Vijitāśva, the eldest son of Mahārāja Pṛthu, who had a reputation like his father's, became emperor and gave his younger brothers different directions of the world to govern, for he was very affectionate toward his brothers."
 }
 ---

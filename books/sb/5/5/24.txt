@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.5.24",
+    "h1":"SB 5.5.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.5.24",
     "description":"The Vedas are My eternal transcendental sound incarnation. Therefore the Vedas are śabda-brahma. In this world, the brāhmaṇas thoroughly study all the Vedas, and because they assimilate the Vedic conclusions, they are also to be considered the Vedas personified. The brāhmaṇas are situated in the supreme transcendental mode of nature-sattva-guṇa. Because of this, they are fixed in mind control [śama], sense control [dama], and truthfulness [satya]. They describe the Vedas in their original sense, and out of mercy [anugraha] they preach the purpose of the Vedas to all conditioned souls. They practice penance [tapasya] and tolerance [titikṣā], and they realize the position of the living entity and the Supreme Lord [anubhava]. These are the eight qualifications of the brāhmaṇas. Therefore among all living entities, no one is superior to the brāhmaṇas."
 }
 ---

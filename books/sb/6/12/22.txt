@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.12.22",
+    "h1":"SB 6.12.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.12.22",
     "description":"A person fixed in the devotional service of the Supreme Lord, Hari, the Lord of the highest auspiciousness, swims in the ocean of nectar. For him what is the use of the water in small ditches?"
 }
 ---

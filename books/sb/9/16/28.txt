@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.16.28",
+    "h1":"SB 9.16.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.16.28",
     "description":"Viśvāmitra, the son of Mahārāja Gādhi, was as powerful as the flames of fire. From the position of a kṣatriya, he achieved the position of a powerful brāhmaṇa by undergoing penances and austerities."
 }
 ---

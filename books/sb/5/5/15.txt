@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.5.15",
+    "h1":"SB 5.5.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.5.15",
     "description":"If one is serious about going back home, back to Godhead, he must consider the mercy of the Supreme Personality of Godhead the summum bonum and chief aim of life. If he is a father instructing his sons, a spiritual master instructing his disciples, or a king instructing his citizens, he must instruct them as I have advised. Without being angry, he should continue giving instructions, even if his disciple, son or citizen is sometimes unable to follow his order. Ignorant people who engage in pious and impious activities should be engaged in devotional service by all means. They should always avoid fruitive activity. If one puts into the bondage of karmic activity his disciple, son or citizen who is bereft of transcendental vision, how will one profit? It is like leading a blind man to a dark well and causing him to fall in."
 }
 ---

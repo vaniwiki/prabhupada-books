@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 6.18.53",
+    "h1":"SB 6.18.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 6.18.53",
     "description":"With flower garlands, sandalwood pulp, ornaments and other paraphernalia, a woman following this vow should worship women who have sons and whose husbands are living. The pregnant wife should worship her husband and offer him prayers. She should meditate upon him, thinking that he is situated in her womb."
 }
 ---

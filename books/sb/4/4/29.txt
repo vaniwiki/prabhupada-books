@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.4.29",
+    "h1":"SB 4.4.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.4.29",
     "description":"It was astonishing that Dakṣa, who was Prajāpati, the maintainer of all living entities, was so disrespectful to his own daughter, Satī, who was not only chaste but was also a great soul, that she gave up her body because of his neglect."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.13.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 9.13.22",
+    "h1":"SB 9.13.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 9.13.22",
     "description":"The son of Śatadyumna was named Śuci. From Śuci, Sanadvāja was born, and from Sanadvāja came a son named Ūrjaketu. The son of Ūrjaketu was Aja, and the son of Aja was Purujit."
 }
 ---

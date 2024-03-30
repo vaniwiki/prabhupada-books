@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 8.24.15",
+    "h1":"SB 8.24.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 8.24.15",
     "description":"To please himself, King Satyavrata, not knowing that the fish was the Supreme Personality of Godhead, decided with great pleasure to give the fish protection."
 }
 ---

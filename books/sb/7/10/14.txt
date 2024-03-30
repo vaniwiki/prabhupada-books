@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.10.14",
+    "h1":"SB 7.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.10.14",
     "description":"One who always remembers your activities and My activities also, and who chants the prayers you have offered, becomes free, in due course of time, from the reactions of material activities."
 }
 ---

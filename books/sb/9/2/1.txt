@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 9.2.1",
+    "h1":"SB 9.2.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 9.2.1",
     "description":"Śukadeva Gosvāmī said: Thereafter, when his son Sudyumna had thus gone to the forest to accept the order of vānaprastha, Vaivasvata Manu [Śrāddhadeva], being desirous of getting more sons, performed severe austerities on the bank of the Yamunā for one hundred years."
 }
 ---

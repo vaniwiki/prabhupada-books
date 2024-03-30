@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 9.22.37",
+    "h1":"SB 9.22.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 9.22.37",
     "description":"After conquering throughout the world and after accepting Tura, the son of Kalaṣa, as his priest, Janamejaya will perform aśvamedha-yajñas, for which he will be known as Turaga-medhaṣāṭ."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 9.14.3",
+    "h1":"SB 9.14.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 9.14.3",
     "description":"From Atri's tears of jubilation was born a son named Soma, the moon, who was full of soothing rays. Lord Brahmā appointed him the director of the brāhmaṇas, drugs and luminaries."
 }
 ---

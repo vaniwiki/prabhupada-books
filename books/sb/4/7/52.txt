@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 4.7.52",
+    "h1":"SB 4.7.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 4.7.52",
     "description":"The Lord continued: One who is not in proper knowledge thinks that demigods like Brahmā and Śiva are independent, or he even thinks that the living entities are independent."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 6.16.11",
+    "h1":"SB 6.16.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 6.16.11",
     "description":"The Supreme Lord [ātmā], the creator of cause and effect, does not accept the happiness and distress that result from fruitive actions. He is completely independent of having to accept a material body, and because He has no material body, He is always neutral. The living entities, being part and parcel of the Lord, possess His qualities in a minute quantity. Therefore one should not be affected by lamentation."
 }
 ---

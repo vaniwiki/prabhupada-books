@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.24.38",
+    "h1":"SB 4.24.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.24.38",
     "description":"My Lord, You are the provider of the Pitṛlokas as well as all the demigods. You are the predominating deity of the moon and the master of all three Vedas. I offer my respectful obeisances unto You because You are the original source of satisfaction for all living entities."
 }
 ---

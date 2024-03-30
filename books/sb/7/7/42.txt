@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 7.7.42",
+    "h1":"SB 7.7.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 7.7.42",
     "description":"In this material world, every materialist desires to achieve happiness and diminish his distress, and therefore he acts accordingly. Actually, however, one is happy as long as one does not endeavor for happiness; as soon as one begins his activities for happiness, his conditions of distress begin."
 }
 ---

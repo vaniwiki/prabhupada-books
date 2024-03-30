@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.1.44",
+    "h1":"SB 4.1.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.1.44",
     "description":"The sage Meru had two daughters, named Āyati and Niyati, whom he gave in charity to Dhātā and Vidhātā. Āyati and Niyati gave birth to two sons, Mṛkaṇḍa and Prāṇa."
 }
 ---

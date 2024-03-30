@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.17.9",
+    "h1":"SB 5.17.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.17.9",
     "description":"Similarly, the branch of the Ganges known as Alakanandā flows from the southern side of Brahmapurī [Brahma-sadana]. Passing over the tops of mountains in various lands, it falls down with fierce force upon the peaks of the mountains Hemakūṭa and Himakūṭa. After inundating the tops of those mountains, the Ganges falls down onto the tract of land known as Bhārata-varṣa, which she also inundates. Then the Ganges flows into the ocean of salt water in the south. Persons who come to bathe in this river are fortunate. It is not very difficult for them to achieve with every step the results of performing great sacrifices like the Rājasūya and Aśvamedha yajñas."
 }
 ---

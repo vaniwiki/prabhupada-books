@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.10.21",
+    "h1":"SB 4.10.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.10.21",
     "description":"Dhruva Mahārāja, the best of human beings, observed that in that great battlefield not one of the opposing soldiers was left standing with proper weapons. He then desired to see the city of Alakāpurī, but he thought to himself, \"No one knows the plans of the mystic Yakṣas.\""
 }
 ---

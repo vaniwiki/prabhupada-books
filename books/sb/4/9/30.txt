@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.9.30",
+    "h1":"SB 4.9.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.9.30",
     "description":"Dhruva Mahārāja thought to himself: To endeavor to be situated in the shade of the lotus feet of the Lord is not an ordinary task because even the great brahmacārīs headed by Sanandana, who practiced aṣṭāṅga-yoga in trance, attained the shelter of the Lord's lotus feet only after many, many births. Within six months I achieved the same result, yet due to my thinking differently from the Lord, I fell down from my position."
 }
 ---

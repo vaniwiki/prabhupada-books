@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.12.21",
+    "h1":"SB 10.12.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.12.21",
     "description":"On the left and right, the two depressions resembling mountain caves are the corners of its mouth, and the high mountain peaks are its teeth."
 }
 ---

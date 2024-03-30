@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 8.5.41",
+    "h1":"SB 8.5.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 8.5.41",
     "description":"The brāhmaṇas and Vedic knowledge come from the mouth of the Supreme Personality of Godhead, the kṣatriyas and bodily strength come from His arms, the vaiśyas and their expert knowledge in productivity and wealth come from His thighs, and the śūdras, who are outside of Vedic knowledge, come from His feet. May that Supreme Personality of Godhead, who is full in prowess, be pleased with us."
 }
 ---

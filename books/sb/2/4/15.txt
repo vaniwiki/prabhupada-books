@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.4.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.4.15",
+    "h1":"SB 2.4.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.4.15",
     "description":"Let me offer my respectful obeisances unto the all-auspicious Lord Śrī Kṛṣṇa, about whom glorification, remembrances, audience, prayers, hearing and worship can at once cleanse the effects of all sins of the performer."
 }
 ---

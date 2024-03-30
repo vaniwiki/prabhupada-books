@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.28.45",
+    "h1":"SB 4.28.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.28.45",
     "description":"The daughter of King Vidarbha continued as usual to serve her husband, who was seated in a steady posture, until she could ascertain that he had passed away from the body."
 }
 ---

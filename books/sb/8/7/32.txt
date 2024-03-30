@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 8.7.32",
+    "h1":"SB 8.7.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 8.7.32",
     "description":"When annihilation is performed by the flames and sparks emanating from your eyes, the entire creation is burned to ashes. Nonetheless, you do not know how this happens. What then is to be said of your destroying the Dakṣa-yajña, Tripurāsura and the kālakūṭa poison? Such activities cannot be subject matters for prayers offered to you."
 }
 ---

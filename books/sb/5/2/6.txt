@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.2.6",
+    "h1":"SB 5.2.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.2.6",
     "description":"Like a honeybee, the Apsarā smelled the beautiful and attractive flowers. She could attract the minds and vision of both humans and demigods by her playful movements, her shyness and humility, her glances, the very pleasing sounds that poured from her mouth as she spoke, and the motion of her limbs. By all these qualities, she opened for Cupid, who bears an arrow of flowers, a path of aural reception into the minds of men. When she spoke, nectar seemed to flow from her mouth. As she breathed, the bees, mad for the taste of her breath, tried to hover about her beautiful lotuslike eyes. Disturbed by the bees, she tried to move hastily, but as she raised her feet to walk quickly, her hair, the belt on her hips, and her breasts, which were like water jugs, also moved in a way that made her extremely beautiful and attractive. Indeed, she seemed to be making a path for the entrance of Cupid, who is most powerful. Therefore the prince, completely subdued by seeing her, spoke to her as follows."
 }
 ---

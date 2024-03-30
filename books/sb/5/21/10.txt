@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.21.10",
+    "h1":"SB 5.21.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.21.10",
     "description":"When the sun travels from Devadhānī, the residence of Indra, to Saṁyamanī, the residence of Yamarāja, it travels 23,775,000 yojanas [190,200,000 miles] in fifteen ghaṭikās [six hours]."
 }
 ---

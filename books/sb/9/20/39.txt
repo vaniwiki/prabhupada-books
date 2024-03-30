@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 9.20.39",
+    "h1":"SB 9.20.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 9.20.39",
     "description":"Although encouraged by the demigods to maintain the child, Mamatā considered him useless because of his illicit birth, and therefore she left him. Consequently, the demigods known as the Maruts maintained the child, and when Mahārāja Bharata was disappointed for want of a child, this child was given to him as his son."
 }
 ---

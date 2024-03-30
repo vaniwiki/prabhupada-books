@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 6.1.51",
+    "h1":"SB 6.1.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 6.1.51",
     "description":"The subtle body is endowed with sixteen parts—the five knowledge-acquiring senses, the five working senses, the five objects of sense gratification, and the mind. This subtle body is an effect of the three modes of material nature. It is composed of insurmountably strong desires, and therefore it causes the living entity to transmigrate from one body to another in human life, animal life and life as a demigod. When the living entity gets the body of a demigod, he is certainly very jubilant, when he gets a human body he is always in lamentation, and when he gets the body of an animal, he is always afraid. In all conditions, however, he is actually miserable. His miserable condition is called saṁsṛti, or transmigration in material life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 2.6.3",
+    "h1":"SB 2.6.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 2.6.3",
     "description":"His eyes are the generating centers of all kinds of forms, and they glitter and illuminate. His eyeballs are like the sun and the heavenly planets. His ears hear from all sides and are receptacles for all the Vedas, and His sense of hearing is the generating center of the sky and of all kinds of sound."
 }
 ---

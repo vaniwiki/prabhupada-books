@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.4-5",
-    "h1":"Text 4-5",
-    "title":" Śrīmad Bhāgavatam 5.3.4-5",
+    "h1":"SB 5.3.4-5",
+    "label":"Text 4-5",
+    "title":"Śrīmad Bhāgavatam 5.3.4-5",
     "description":"The priests began to offer prayers to the Lord, saying: O most worshipable one, we are simply Your servants. Although You are full in Yourself, please, out of Your causeless mercy, accept a little service from us, Your eternal servants. We are not actually aware of Your transcendental form, but we can simply offer our respectful obeisances again and again, as instructed by the Vedic literatures and authorized ācāryas. Materialistic living entities are very much attracted to the modes of material nature, and therefore they are never perfect, but You are above the jurisdiction of all material conceptions. Your name, form and qualities are all transcendental and beyond the conception of experimental knowledge. Indeed, who can conceive of You? In the material world we can perceive only material names and qualities. We have no other power than to offer our respectful obeisances and prayers unto You, the transcendental person. The chanting of Your auspicious transcendental qualities will wipe out the sins of all mankind. That is the most auspicious activity for us, and we can thus partially understand Your supernatural position."
 }
 ---

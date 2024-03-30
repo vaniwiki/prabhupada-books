@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 10.3.22",
+    "h1":"SB 10.3.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 10.3.22",
     "description":"O my Lord, Lord of the demigods, after hearing the prophecy that You would take birth in our home and kill him, this uncivilized Kaṁsa killed so many of Your elder brothers. As soon as he hears from his lieutenants that You have appeared, he will immediately come with weapons to kill You."
 }
 ---

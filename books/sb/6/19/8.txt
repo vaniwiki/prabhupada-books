@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.19.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.19.8",
+    "h1":"SB 6.19.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.19.8",
     "description":"Śukadeva Gosvāmī continued: After worshiping the Lord with all the paraphernalia mentioned above, one should chant the following mantra while offering twelve oblations of ghee on the sacred fire: oṁ namo bhagavate mahā-puruṣāya mahāvibhūti-pataye svāhā."
 }
 ---

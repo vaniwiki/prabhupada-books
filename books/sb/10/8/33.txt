@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.8.33",
+    "h1":"SB 10.8.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.8.33",
     "description":"Upon hearing this from Kṛṣṇa's playmates, mother Yaśodā, who was always full of anxiety over Kṛṣṇa's welfare, picked Kṛṣṇa up with her hands to look into His mouth and chastise Him. Her eyes fearful, she spoke to her son as follows."
 }
 ---

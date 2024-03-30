@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.16.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.16.16",
+    "h1":"SB 5.16.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.16.16",
     "description":"On the lower slopes of Mandara Mountain is a mango tree named Devacūta. It is 1,100 yojanas high. Mangoes as big as mountain peaks and as sweet as nectar fall from the top of this tree for the enjoyment of the denizens of heaven."
 }
 ---

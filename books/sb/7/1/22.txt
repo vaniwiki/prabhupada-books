@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.1.22",
+    "h1":"SB 7.1.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.1.22",
     "description":"Śrī Śukadeva Gosvāmī said: After hearing the request of Mahārāja Yudhiṣṭhira, Nārada Muni, the most powerful spiritual master, who knew everything, was very pleased. Thus he replied in the presence of everyone taking part in the yajña."
 }
 ---

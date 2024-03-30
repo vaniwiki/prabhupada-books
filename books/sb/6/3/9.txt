@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.3.9",
+    "h1":"SB 6.3.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.3.9",
     "description":"We were bringing the most sinful Ajāmila toward the hellish planets, following your order, when those beautiful persons from Siddhaloka forcibly cut the knots of the ropes with which we were arresting him."
 }
 ---

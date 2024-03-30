@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 6.18.1",
+    "h1":"SB 6.18.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 6.18.1",
     "description":"Śrī Śukadeva Gosvāmī said: Pṛśni, who was the wife of Savitā, the fifth of the twelve sons of Aditi, gave birth to three daughters—Sāvitrī, Vyāhṛti and Trayī—and the sons named Agnihotra, Paśu, Soma, Cāturmāsya and the five Mahāyajñas."
 }
 ---

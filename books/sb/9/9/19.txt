@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 9.9.19",
+    "h1":"SB 9.9.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 9.9.19",
     "description":"King Parīkṣit said: O Śukadeva Gosvāmī, why did Vasiṣṭha, the spiritual master of Saudāsa, curse that great soul? I wish to know of this. If it is not a confidential matter, please describe it to me."
 }
 ---

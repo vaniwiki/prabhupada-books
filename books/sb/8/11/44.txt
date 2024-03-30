@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 8.11.44",
+    "h1":"SB 8.11.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 8.11.44",
     "description":"The great sage Nārada said: All of you demigods are protected by the arms of Nārāyaṇa, the Supreme Personality of Godhead, and by His grace you have gotten the nectar. By the grace of the goddess of fortune, you are glorious in every way. Therefore, please stop this fighting."
 }
 ---

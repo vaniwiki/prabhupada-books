@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.3.8",
+    "h1":"SB 7.3.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.3.8",
     "description":"Hiraṇyakaśipu has undertaken a most severe type of austerity. Although his plan is not unknown to you, kindly listen as we submit his intentions."
 }
 ---

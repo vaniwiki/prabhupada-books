@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.24.26",
+    "h1":"SB 9.24.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.24.26",
     "description":"The son of Citraratha was Vidūratha, the son of Vidūratha was Śūra, and his son was Bhajamāna. The son of Bhajamāna was Śini, the son of Śini was Bhoja, and the son of Bhoja was Hṛdika."
 }
 ---

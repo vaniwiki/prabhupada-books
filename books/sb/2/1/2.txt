@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.1.2",
+    "h1":"SB 2.1.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.1.2",
     "description":"Those persons who are materially engrossed, being blind to the knowledge of ultimate truth, have many subject matters for hearing in human society, O Emperor."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 8.16.61",
+    "h1":"SB 8.16.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 8.16.61",
     "description":"This is the best process for pleasing the transcendental Supreme Personality of Godhead, known as Adhokṣaja. It is the best of all regulative principles, the best austerity, the best process of giving charity, and the best process of sacrifice."
 }
 ---

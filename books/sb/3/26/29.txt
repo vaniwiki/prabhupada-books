@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.26.29",
+    "h1":"SB 3.26.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.26.29",
     "description":"By transformation of the false ego in passion, intelligence takes birth, O virtuous lady. The functions of intelligence are to help in ascertaining the nature of objects when they come into view, and to help the senses."
 }
 ---

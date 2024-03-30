@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.8.28",
+    "h1":"SB 3.8.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.8.28",
     "description":"O my dear Vidura, the Lord's waist was covered with yellow cloth resembling the saffron dust of the kadamba flower, and it was encircled by a well-decorated belt. His chest was decorated with the śrīvatsa marking and a necklace of unlimited value."
 }
 ---

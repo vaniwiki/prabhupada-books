@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 9.14.38",
+    "h1":"SB 9.14.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 9.14.38",
     "description":"Women are very easily seduced by men. Therefore, polluted women give up the friendship of a man who is their well-wisher and establish false friendship among fools. Indeed, they seek newer and newer friends, one after another."
 }
 ---

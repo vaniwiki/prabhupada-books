@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.24.14",
+    "h1":"SB 4.24.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.24.14",
     "description":"When all these Pracetās were ordered by their father to marry and beget children, they all entered the ocean and practiced austerities and penances for ten thousand years. Thus they worshiped the master of all austerity, the Supreme Personality of Godhead."
 }
 ---

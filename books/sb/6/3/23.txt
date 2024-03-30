@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.3.23",
+    "h1":"SB 6.3.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.3.23",
     "description":"My dear servants, who are as good as my sons, just see how glorious is the chanting of the holy name of the Lord. The greatly sinful Ajāmila chanted only to call his son, not knowing that he was chanting the Lord's holy name. Nevertheless, by chanting the holy name of the Lord, he remembered Nārāyaṇa, and thus he was immediately saved from the ropes of death."
 }
 ---

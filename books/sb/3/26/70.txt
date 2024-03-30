@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.70",
-    "h1":"Text 70",
-    "title":" Śrīmad Bhāgavatam 3.26.70",
+    "h1":"SB 3.26.70",
+    "label":"Text 70",
+    "title":"Śrīmad Bhāgavatam 3.26.70",
     "description":"However, when the inner controller, the deity presiding over consciousness, entered the heart with reason, at that very moment the Cosmic Being arose from the causal waters."
 }
 ---

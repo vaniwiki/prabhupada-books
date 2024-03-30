@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 4.22.49",
+    "h1":"SB 4.22.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 4.22.49",
     "description":"Amongst great personalities, Mahārāja Pṛthu was the chief by virtue of his fixed position in relation to spiritual enlightenment. He remained satisfied as one who has achieved all success in spiritual understanding."
 }
 ---

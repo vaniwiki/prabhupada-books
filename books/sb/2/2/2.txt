@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.2.2",
+    "h1":"SB 2.2.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.2.2",
     "description":"The way of presentation of the Vedic sounds is so bewildering that it directs the intelligence of the people to meaningless things like the heavenly kingdoms. The conditioned souls hover in dreams of such heavenly illusory pleasures, but actually they do not relish any tangible happiness in such places."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.6.30",
+    "h1":"SB 3.6.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.6.30",
     "description":"O chief of the Kuru dynasty, the Vedic wisdom became manifested from the mouth of the virāṭ, the gigantic form. Those who are inclined to this Vedic knowledge are called brāhmaṇas, and they are the natural teachers and spiritual masters of all the orders of society."
 }
 ---

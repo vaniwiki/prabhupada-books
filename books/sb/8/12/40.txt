@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 8.12.40",
+    "h1":"SB 8.12.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 8.12.40",
     "description":"The material, external energy [māyā], who cooperates with Me in creation and who is manifested in the three modes of nature, will not be able to bewilder you any longer."
 }
 ---

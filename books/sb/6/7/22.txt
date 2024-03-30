@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.7.22",
+    "h1":"SB 6.7.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.7.22",
     "description":"Because of your misbehavior toward Bṛhaspati, you have been defeated by the demons. My dear demigods, since the demons were weak, having been defeated by you several times, how else could you, who were so advanced in opulence, be defeated by them?"
 }
 ---

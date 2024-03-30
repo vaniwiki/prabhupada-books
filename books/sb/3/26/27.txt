@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.26.27",
+    "h1":"SB 3.26.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.26.27",
     "description":"From the false ego of goodness, another transformation takes place. From this evolves the mind, whose thoughts and reflections give rise to desire."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.1.30",
+    "h1":"SB 6.1.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.1.30",
     "description":"My dear King, the order carriers of Viṣṇu, the Viṣṇudūtas, immediately arrived when they heard the holy name of their master from the mouth of the dying Ajāmila, who had certainly chanted without offense because he had chanted in complete anxiety."
 }
 ---

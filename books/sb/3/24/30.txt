@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.24.30",
+    "h1":"SB 3.24.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.24.30",
     "description":"Kardama Muni said: You, my dear Lord, who are always increasing the honor of Your devotees, have descended in my home just to fulfill Your word and disseminate the process of real knowledge."
 }
 ---

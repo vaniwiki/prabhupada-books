@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.21.11",
+    "h1":"SB 4.21.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.21.11",
     "description":"The great saintly sage Maitreya told Vidura: My dear Vidura, King Pṛthu lived in the tract of land between the two great rivers Ganges and Yamunā. Because he was very opulent, it appeared that he was enjoying his destined fortune in order to diminish the results of his past pious activities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.67",
-    "h1":"Text 67",
-    "title":" Śrīmad Bhāgavatam 4.8.67",
+    "h1":"SB 4.8.67",
+    "label":"Text 67",
+    "title":"Śrīmad Bhāgavatam 4.8.67",
     "description":"Alas, just see how I was conquered by my wife! Just imagine my cruelty! Out of love and affection the boy was trying to get up on my lap, but I did not receive him, nor did I even pat him for a moment. Just imagine how hardhearted I am."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 6.16.27",
+    "h1":"SB 6.16.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 6.16.27",
     "description":"Fasting and drinking only water, Citraketu for one week continuously chanted with great care and attention the mantra given by Nārada Muni."
 }
 ---

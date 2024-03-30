@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 9.18.41",
+    "h1":"SB 9.18.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 9.18.41",
     "description":"O Mahārāja Parīkṣit, Yayāti similarly requested his sons Turvasu, Druhyu and Anu to exchange their youth for his old age, but because they were unaware of religious principles, they thought that their flickering youth was eternal, and therefore they refused to carry out their father's order."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 10.1.8",
+    "h1":"SB 10.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 10.1.8",
     "description":"My dear Śukadeva Gosvāmī, you have already explained that Saṅkarṣaṇa, who belongs to the second quadruple, appeared as the son of Rohiṇī named Balarāma. If Balarāma was not transferred from one body to another, how is it possible that He was first in the womb of Devakī and then in the womb of Rohiṇī? Kindly explain this to me."
 }
 ---

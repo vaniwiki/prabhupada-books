@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.30.3",
+    "h1":"SB 4.30.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.30.3",
     "description":"The great sage Maitreya said: The sons of King Prācīnabarhi, known as the Pracetās, underwent severe austerities within the seawater to carry out the order of their father. By chanting and repeating the mantras given by Lord Śiva, they were able to satisfy Lord Viṣṇu, the Supreme Personality of Godhead."
 }
 ---

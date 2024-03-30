@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 10.11.48",
+    "h1":"SB 10.11.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 10.11.48",
     "description":"That great-bodied demon was named Bakāsura. He had assumed the body of a duck with a very sharp beak. Having come there, he immediately swallowed Kṛṣṇa."
 }
 ---

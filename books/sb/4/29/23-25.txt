@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.23-25",
-    "h1":"Text 23-25",
-    "title":" Śrīmad Bhāgavatam 4.29.23-25",
+    "h1":"SB 4.29.23-25",
+    "label":"Text 23-25",
+    "title":"Śrīmad Bhāgavatam 4.29.23-25",
     "description":"The followers of Yavaneśvara [Yamarāja] are called the soldiers of death, and they are known as the various types of disturbances that pertain to the body and mind. Prajvāra represents the two types of fever: extreme heat and extreme cold—typhoid and pneumonia. The living entity lying down within the body is disturbed by many tribulations pertaining to providence, to other living entities and to his own body and mind. Despite all kinds of tribulations, the living entity, subjected to the necessities of the body, mind and senses and suffering from various types of disease, is carried away by many plans due to his lust to enjoy the world. Although transcendental to this material existence, the living entity, out of ignorance, accepts all these material miseries under the pretext of false egoism (\"I\" and \"mine\"). In this way he lives for a hundred years within this body."
 }
 ---

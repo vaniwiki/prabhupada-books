@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 7.5.50",
+    "h1":"SB 7.5.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 7.5.50",
     "description":"Until the return of our spiritual master, Śukrācārya, arrest this child with the ropes of Varuṇa so that he will not flee in fear. In any case, by the time he is somewhat grown up and has assimilated our instructions or served our spiritual master, he will change in his intelligence. Thus there need be no cause for anxiety."
 }
 ---

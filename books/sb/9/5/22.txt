@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 9.5.22",
+    "h1":"SB 9.5.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 9.5.22",
     "description":"Śrī Śukadeva Gosvāmī continued: Thus being satisfied in all respects, the great mystic yogī Durvāsā took permission and left, continuously glorifying the King. Through the skyways, he went to Brahmaloka, which is devoid of agnostics and dry philosophical speculators."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.20.11",
+    "h1":"SB 8.20.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.20.11",
     "description":"O great sage, great saintly persons like you, being completely aware of the Vedic principles for performing ritualistic ceremonies and yajñas, worship Lord Viṣṇu in all circumstances. Therefore, whether that same Lord Viṣṇu has come here to give me all benedictions or to punish me as an enemy, I must carry out His order and give Him the requested tract of land without hesitation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 6.6.13",
+    "h1":"SB 6.6.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 6.6.13",
     "description":"From the womb of Vāsanā, the wife of Arka, came many sons, headed by Tarṣa. Dhārā, the wife of the Vasu named Agni, gave birth to many sons, headed by Draviṇaka."
 }
 ---

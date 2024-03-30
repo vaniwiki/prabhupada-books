@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.8.6",
+    "h1":"SB 5.8.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.8.6",
     "description":"Being separated from its flock and distressed by its miscarriage, the black doe, having crossed the river, was very much distressed. Indeed, it fell down in a cave and died immediately."
 }
 ---

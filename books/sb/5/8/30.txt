@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.8.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 5.8.30",
+    "h1":"SB 5.8.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 5.8.30",
     "description":"Although Bharata Mahārāja received the body of a deer, by constant repentance he became completely detached from all material things. He did not disclose these things to anyone, but he left his mother deer in a place known as Kālañjara Mountain, where he was born. He again went to the forest of Śālagrāma and to the āśrama of Pulastya and Pulaha."
 }
 ---

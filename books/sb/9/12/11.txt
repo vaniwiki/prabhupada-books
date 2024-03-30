@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.12.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.12.11",
+    "h1":"SB 9.12.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.12.11",
     "description":"Thereafter, from Divāka will come a son named Sahadeva, and from Sahadeva a great hero named Bṛhadaśva. From Bṛhadaśva will come Bhānumān, and from Bhānumān will come Pratīkāśva. The son of Pratīkāśva will be Supratīka."
 }
 ---

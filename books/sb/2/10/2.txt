@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.10.2",
+    "h1":"SB 2.10.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.10.2",
     "description":"To isolate the transcendence of the summum bonum, the symptoms of the rest are described sometimes by Vedic inference, sometimes by direct explanation, and sometimes by summary explanations given by the great sages."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.17.15",
+    "h1":"SB 5.17.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.17.15",
     "description":"Śukadeva Gosvāmī said: In the tract of land known as Ilāvṛta-varṣa, the only male person is Lord Śiva, the most powerful demigod. Goddess Durgā, the wife of Lord Śiva, does not like any man to enter that land. If any foolish man dares to do so, she immediately turns him into a woman. I shall explain this later [in the Ninth Canto of Śrīmad-Bhāgavatam]."
 }
 ---

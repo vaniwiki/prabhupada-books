@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.19.5",
+    "h1":"SB 4.19.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.19.5",
     "description":"The Lord was accompanied by the residents of Siddhaloka and Vidyādhara-loka, all the descendants of Diti, and the demons and the Yakṣas. He was also accompanied by His chief associates, headed by Sunanda and Nanda."
 }
 ---

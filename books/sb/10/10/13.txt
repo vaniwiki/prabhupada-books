@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 10.10.13",
+    "h1":"SB 10.10.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 10.10.13",
     "description":"Atheistic fools and rascals who are very much proud of wealth fail to see things as they are. Therefore, returning them to poverty is the proper ointment for their eyes so they may see things as they are. At least a poverty-stricken man can realize how painful poverty is, and therefore he will not want others to be in a painful condition like his own."
 }
 ---

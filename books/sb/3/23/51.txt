@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 3.23.51",
+    "h1":"SB 3.23.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 3.23.51",
     "description":"Śrī Devahūti said: My lord, you have fulfilled all the promises you gave me, yet because I am your surrendered soul, you should give me fearlessness too."
 }
 ---

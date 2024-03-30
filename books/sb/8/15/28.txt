@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.15.28",
+    "h1":"SB 8.15.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.15.28",
     "description":"Bṛhaspati, the spiritual master of the demigods, said: O Indra, I know the cause for your enemy's becoming so powerful. The brāhmaṇa descendants of Bhṛgu Muni, being pleased by Bali Mahārāja, their disciple, endowed him with such extraordinary power."
 }
 ---

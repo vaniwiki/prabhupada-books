@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 10.3.31",
+    "h1":"SB 10.3.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 10.3.31",
     "description":"At the time of devastation, the entire cosmos, containing all created moving and nonmoving entities, enters Your transcendental body and is held there without difficulty. But now this transcendental form has taken birth from my womb. People will not be able to believe this, and I shall become an object of ridicule."
 }
 ---

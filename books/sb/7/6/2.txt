@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 7.6.2",
+    "h1":"SB 7.6.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 7.6.2",
     "description":"The human form of life affords one a chance to return home, back to Godhead. Therefore every living entity, especially in the human form of life, must engage in devotional service to the lotus feet of Lord Viṣṇu. This devotional service is natural because Lord Viṣṇu, the Supreme Personality of Godhead, is the most beloved, the master of the soul, and the well-wisher of all other living beings."
 }
 ---

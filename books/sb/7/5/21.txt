@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 7.5.21",
+    "h1":"SB 7.5.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 7.5.21",
     "description":"Nārada Muni continued: My dear King Yudhiṣṭhira, Hiraṇyakaśipu seated Prahlāda Mahārāja on his lap and began smelling his head. With affectionate tears gliding down from his eyes and moistening the child's smiling face, he spoke to his son as follows."
 }
 ---

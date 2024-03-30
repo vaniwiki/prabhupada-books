@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.21.40",
+    "h1":"SB 4.21.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.21.40",
     "description":"By regular service to the brāhmaṇas and Vaiṣṇavas, one can clear the dirt from his heart and thus enjoy supreme peace and liberation from material attachment and be satisfied. In this world there is no fruitive activity superior to serving the brāhmaṇa class, for this can bring pleasure to the demigods, for whom the many sacrifices are recommended."
 }
 ---

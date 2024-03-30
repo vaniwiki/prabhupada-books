@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 6.1.61",
+    "h1":"SB 6.1.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 6.1.61",
     "description":"The śūdra, his arm decorated with turmeric powder, was embracing the prostitute. When Ajāmila saw her, the dormant lusty desires in his heart awakened, and in illusion he fell under their control."
 }
 ---

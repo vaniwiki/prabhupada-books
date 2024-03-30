@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 2.6.19",
+    "h1":"SB 2.6.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 2.6.19",
     "description":"The Supreme Personality of Godhead is to be known as the supreme reservoir of all material opulences by the one fourth of His energy in which all the living entities exist. Deathlessness, fearlessness and freedom from the anxieties of old age and disease exist in the kingdom of God, which is beyond the three higher planetary systems and beyond the material coverings."
 }
 ---

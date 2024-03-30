@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 9.18.48",
+    "h1":"SB 9.18.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 9.18.48",
     "description":"King Yayāti performed various sacrifices, in which he offered abundant gifts to the brāhmaṇas to satisfy the Supreme Lord, Hari, who is the reservoir of all the demigods and the object of all Vedic knowledge."
 }
 ---

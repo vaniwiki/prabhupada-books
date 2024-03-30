@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 10.10.14",
+    "h1":"SB 10.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 10.10.14",
     "description":"By seeing their faces, one whose body has been pricked by pins can understand the pain of others who are pinpricked. Realizing that this pain is the same for everyone, he does not want others to suffer in this way. But one who has never been pricked by pins cannot understand this pain."
 }
 ---

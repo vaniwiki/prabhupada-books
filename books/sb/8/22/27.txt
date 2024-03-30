@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.22.27",
+    "h1":"SB 8.22.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.22.27",
     "description":"Although aristocratic birth and other such opulences are impediments to advancement in devotional service because they are causes of false prestige and pride, these opulences never disturb a pure devotee of the Supreme Personality of Godhead."
 }
 ---

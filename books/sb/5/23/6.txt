@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.23.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.23.6",
+    "h1":"SB 5.23.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.23.6",
     "description":"On the right and left sides of where the loins might be on the Śiśumāra-cakra are the stars named Punarvasu and Puṣyā. Ārdrā and Aśleṣā are on its right and left feet, Abhijit and Uttarāṣāḍhā are on its right and left nostrils, Śravaṇā and Pūrvāṣāḍhā are at its right and left eyes, and Dhaniṣṭhā and Mūlā are on its right and left ears. The eight stars from Maghā to Anurādhā, which mark the southern course, are on the ribs of the left of its body, and the eight stars from Mṛgaśīrṣā to Pūrvabhādra, which mark the northern course, are on the ribs on the right side. Śatabhiṣā and Jyeṣṭhā are on the right and left shoulders."
 }
 ---

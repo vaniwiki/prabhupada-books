@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.15.21",
+    "h1":"SB 4.15.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.15.21",
     "description":"Thus when the greatly powerful King Pṛthu, the son of Vena, saw the professionals before him, to congratulate them he smiled, and with the gravity of the vibrating sounds of clouds he spoke as follows."
 }
 ---

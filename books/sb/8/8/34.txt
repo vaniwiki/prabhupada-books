@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 8.8.34",
+    "h1":"SB 8.8.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 8.8.34",
     "description":"This person was Dhanvantari, a plenary portion of a plenary portion of Lord Viṣṇu. He was very conversant with the science of medicine, and as one of the demigods he was permitted to take a share in sacrifices."
 }
 ---

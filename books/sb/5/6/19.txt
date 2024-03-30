@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 5.6.19",
+    "h1":"SB 5.6.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 5.6.19",
     "description":"The Supreme Personality of Godhead, Lord Ṛṣabhadeva, was fully aware of His true identity; therefore He was self-sufficient, and He did not desire external gratification. There was no need for Him to aspire for success, since He was complete in Himself. Those who unnecessarily engage in bodily conceptions and create an atmosphere of materialism are always ignorant of their real self-interest. Out of His causeless mercy, Lord Ṛṣabhadeva taught the self's real identity and the goal of life. We therefore offer our respectful obeisances unto the Lord, who appeared as Lord Ṛṣabhadeva."
 }
 ---

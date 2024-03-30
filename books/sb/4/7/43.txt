@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 4.7.43",
+    "h1":"SB 4.7.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 4.7.43",
     "description":"The Gandharvas said: Dear Lord, all the demigods, including Lord Śiva, Lord Brahmā, Indra and Marīci and the great sages, are all only differentiated parts and parcels of Your body. You are the Supreme Almighty Great; the whole creation is just like a plaything for You. We always accept You as the Supreme Personality of Godhead, and we offer our respectful obeisances unto You."
 }
 ---

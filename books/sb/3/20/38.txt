@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 3.20.38",
+    "h1":"SB 3.20.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 3.20.38",
     "description":"With a laugh full of deep significance, the worshipful Brahmā then evolved by his own loveliness, which seemed to enjoy itself by itself, the hosts of Gandharvas and Apsarās."
 }
 ---

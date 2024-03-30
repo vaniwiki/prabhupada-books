@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.33-34",
-    "h1":"Text 33-34",
-    "title":" Śrīmad Bhāgavatam 9.6.33-34",
+    "h1":"SB 9.6.33-34",
+    "label":"Text 33-34",
+    "title":"Śrīmad Bhāgavatam 9.6.33-34",
     "description":"Māndhātā, the son of Yuvanāśva, was the cause of fear for Rāvaṇa and other thieves and rogues who caused anxiety. O King Parīkṣit, because they feared him, the son of Yuvanāśva was known as Trasaddasyu. This name was given by King Indra. By the mercy of the Supreme Personality of Godhead, the son of Yuvanāśva was so powerful that when he became emperor he ruled the entire world, consisting of seven islands, without any second ruler."
 }
 ---

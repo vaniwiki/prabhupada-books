@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.13-16",
-    "h1":"Text 13-16",
-    "title":" Śrīmad Bhāgavatam 2.6.13-16",
+    "h1":"SB 2.6.13-16",
+    "label":"Text 13-16",
+    "title":"Śrīmad Bhāgavatam 2.6.13-16",
     "description":"Beginning from me [Brahmā] down to you and Bhava [Śiva], all the great sages who were born before you, the demigods, the demons, the Nāgas, the human beings, the birds, the beasts, as well as the reptiles, etc., and all phenomenal manifestations of the universes, namely the planets, stars, asteroids, luminaries, lightning, thunder, and the inhabitants of the different planetary systems, namely the Gandharvas, Apsarās, Yakṣas, Rakṣas, Bhūtagaṇas, Uragas, Paśus, Pitās, Siddhas, Vidyādharas, Cāraṇas, and all other different varieties of living entities, including the birds, beasts, trees and everything that be, are all covered by the universal form of the Lord at all times, namely past, present and future, although He is transcendental to all of them, eternally existing in a form not exceeding nine inches."
 }
 ---

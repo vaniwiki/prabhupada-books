@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.9.5",
+    "h1":"SB 4.9.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.9.5",
     "description":"At that time Dhruva Mahārāja became perfectly aware of the Vedic conclusion and understood the Absolute Truth and His relationship with all living entities. In accordance with the line of devotional service to the Supreme Lord, whose fame is widespread, Dhruva, who in the future would receive a planet which would never be annihilated, even during the time of dissolution, offered his deliberate and conclusive prayers."
 }
 ---

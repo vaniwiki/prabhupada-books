@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 2.3.24",
+    "h1":"SB 2.3.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 2.3.24",
     "description":"Certainly that heart is steel-framed which, in spite of one's chanting the holy name of the Lord with concentration, does not change when ecstasy takes place, tears fill the eyes and the hairs stand on end."
 }
 ---

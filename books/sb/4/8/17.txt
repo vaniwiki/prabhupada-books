@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.8.17",
+    "h1":"SB 4.8.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.8.17",
     "description":"She also was breathing very heavily, and she did not know the factual remedy for the painful situation. Not finding any remedy, she said to her son: My dear son, don't wish for anything inauspicious for others. Anyone who inflicts pains upon others suffers himself from that pain."
 }
 ---

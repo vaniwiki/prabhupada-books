@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.26-27",
-    "h1":"Text 26-27",
-    "title":" Śrīmad Bhāgavatam 4.29.26-27",
+    "h1":"SB 4.29.26-27",
+    "label":"Text 26-27",
+    "title":"Śrīmad Bhāgavatam 4.29.26-27",
     "description":"The living entity by nature has minute independence to choose his own good or bad fortune, but when he forgets his supreme master, the Personality of Godhead, he gives himself up unto the modes of material nature. Being influenced by the modes of material nature, he identifies himself with the body and, for the interest of the body, becomes attached to various activities. Sometimes he is under the influence of the mode of ignorance, sometimes the mode of passion and sometimes the mode of goodness. The living entity thus gets different types of bodies under the modes of material nature."
 }
 ---

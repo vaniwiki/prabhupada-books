@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.23.21",
+    "h1":"SB 4.23.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.23.21",
     "description":"When Queen Arci saw that her husband, who had been so merciful to her and the earth, no longer showed symptoms of life, she lamented for a little while and then built a fiery pyre on top of a hill and placed the body of her husband on it."
 }
 ---

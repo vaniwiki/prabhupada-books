@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 6.2.21",
+    "h1":"SB 6.2.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 6.2.21",
     "description":"My dear Mahārāja Parīkṣit, O subduer of all enemies, after the servants of Yamarāja had been answered by the order carriers of Lord Viṣṇu, they went to Yamarāja and explained to him everything that had happened."
 }
 ---

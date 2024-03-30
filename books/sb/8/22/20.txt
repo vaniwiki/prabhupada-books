@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.22.20",
+    "h1":"SB 8.22.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.22.20",
     "description":"Śrīmatī Vindhyāvali said: O my Lord, You have created the entire universe for the enjoyment of Your personal pastimes, but foolish, unintelligent men have claimed proprietorship for material enjoyment. Certainly they are shameless agnostics. Falsely claiming proprietorship, they think they can give charity and enjoy. In such a condition, what good can they do for You, who are the independent creator, maintainer and annihilator of this universe?"
 }
 ---

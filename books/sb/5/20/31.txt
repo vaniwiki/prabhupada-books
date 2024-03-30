@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 5.20.31",
+    "h1":"SB 5.20.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 5.20.31",
     "description":"The ruler of this island, the son of Mahārāja Priyavrata named Vītihotra, had two sons named Ramaṇaka and Dhātaki. He granted the two sides of the island to these two sons and then personally engaged himself in activities for the sake of the Supreme Personality of Godhead like his elder brother Medhātithi."
 }
 ---

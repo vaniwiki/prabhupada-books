@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 8.10.36",
+    "h1":"SB 8.10.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 8.10.36",
     "description":"They severed one another's heads, using weapons like bhuśuṇḍis, cakras, clubs, ṛṣṭis, paṭṭiśas, śaktis, ulmukas, prāsas, paraśvadhas, nistriṁśas, lances, parighas, mudgaras and bhindipālas."
 }
 ---

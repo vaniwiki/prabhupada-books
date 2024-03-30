@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.3.2",
+    "h1":"SB 3.3.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.3.2",
     "description":"The Lord learned all the Vedas with their different branches simply by hearing them once from His teacher, Sāndīpani Muni, whom He rewarded by bringing back his dead son from the region of Yamaloka."
 }
 ---

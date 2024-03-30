@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.10.1",
+    "h1":"SB 8.10.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.10.1",
     "description":"Śukadeva Gosvāmī said: O King, the demons and Daityas all engaged with full attention and effort in churning the ocean, but because they were not devotees of Vāsudeva, the Supreme Personality of Godhead, Kṛṣṇa, they were not able to drink the nectar."
 }
 ---

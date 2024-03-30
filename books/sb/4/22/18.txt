@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.22.18",
+    "h1":"SB 4.22.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.22.18",
     "description":"Sanat-kumāra said: My dear King Pṛthu, I am very nicely questioned by you. Such questions are beneficial for all living entities, especially because they are raised by you, who are always thinking of the good of others. Although you know everything, you ask such questions because that is the behavior of saintly persons. Such intelligence is befitting your position."
 }
 ---

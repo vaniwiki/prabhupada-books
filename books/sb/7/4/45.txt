@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.4.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 7.4.45",
+    "h1":"SB 7.4.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 7.4.45",
     "description":"A father and mother are always affectionate to their children. When the children are disobedient the parents chastise them, not due to enmity but only for the child's instruction and welfare. How did Hiraṇyakaśipu, the father of Prahlāda Mahārāja, chastise such a noble son? This is what I am eager to know."
 }
 ---

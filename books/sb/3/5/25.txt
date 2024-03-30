@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 3.5.25",
+    "h1":"SB 3.5.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 3.5.25",
     "description":"The Lord is the seer, and the external energy, which is seen, works as both cause and effect in the cosmic manifestation. O greatly fortunate Vidura, this external energy is known as māyā or illusion, and through her agency only is the entire material manifestation made possible."
 }
 ---

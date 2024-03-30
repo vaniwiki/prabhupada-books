@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 2.5.7",
+    "h1":"SB 2.5.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 2.5.7",
     "description":"Yet we are moved to wonder about the existence of someone more powerful than you when we think of your great austerities in perfect discipline, although your good self is so powerful in the matter of creation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 3.14.27",
+    "h1":"SB 3.14.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 3.14.27",
     "description":"Although no one in the material world is equal to or greater than Lord Śiva, and although his unimpeachable character is followed by great souls to dismantle the mass of nescience, he nevertheless remains as if a devil to give salvation to all devotees of the Lord."
 }
 ---

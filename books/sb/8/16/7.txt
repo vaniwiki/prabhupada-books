@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.16.7",
+    "h1":"SB 8.16.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.16.7",
     "description":"Homes from which guests go away without having been received even with an offering of a little water are like those holes in the field which are the homes of jackals."
 }
 ---

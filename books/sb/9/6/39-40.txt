@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 9.6.39-40",
+    "h1":"SB 9.6.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 9.6.39-40",
     "description":"Saubhari Ṛṣi was engaged in austerity, deep in the water of the River Yamunā, when he saw a pair of fish engaged in sexual affairs. Thus he perceived the pleasure of sex life, and induced by this desire he went to King Māndhātā and begged for one of the King's daughters. In response to this request, the King said, \"O brāhmaṇa, any of my daughters may accept any husband according to her personal selection.\""
 }
 ---

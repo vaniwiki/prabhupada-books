@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 5.5.30",
+    "h1":"SB 5.5.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 5.5.30",
     "description":"Ṛṣabhadeva began to tour through cities, villages, mines, countrysides, valleys, gardens, military camps, cow pens, the homes of cowherd men, transient hotels, hills, forests and hermitages. Wherever He traveled, all bad elements surrounded Him, just as flies surround the body of an elephant coming from a forest. He was always being threatened, beaten, urinated upon and spat upon. Sometimes people threw stones, stool and dust at Him, and sometimes people passed foul air before Him. Thus people called Him many bad names and gave Him a great deal of trouble, but He did not care about this, for He understood that the body is simply meant for such an end. He was situated on the spiritual platform, and, being in His spiritual glory, He did not care for all these material insults. In other words, He completely understood that matter and spirit are separate, and He had no bodily conception. Thus, without being angry at anyone, He walked through the whole world alone."
 }
 ---

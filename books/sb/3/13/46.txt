@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 3.13.46",
+    "h1":"SB 3.13.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 3.13.46",
     "description":"The sage Maitreya said: The Lord, being thus worshiped by all the great sages and transcendentalists, touched the earth with His hooves and placed it on the water."
 }
 ---

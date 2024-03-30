@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 3.20.40",
+    "h1":"SB 3.20.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 3.20.40",
     "description":"The glorious Brahmā next evolved from his sloth the ghosts and fiends, but he closed his eyes when he saw them stand naked with their hair scattered."
 }
 ---

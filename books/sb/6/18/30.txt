@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.18.30",
+    "h1":"SB 6.18.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.18.30",
     "description":"In the beginning of creation, Lord Brahmā, the father of the living entities of the universe, saw that all the living entities were unattached. To increase population, he then created woman from the better half of man's body, for woman's behavior carries away a man's mind."
 }
 ---

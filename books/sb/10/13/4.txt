@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 10.13.4",
+    "h1":"SB 10.13.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 10.13.4",
     "description":"Then, after saving the boys and calves from the mouth of Aghāsura, who was death personified, Lord Kṛṣṇa, the Supreme Personality of Godhead, brought them all to the bank of the river and spoke the following words."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 7.14.42",
+    "h1":"SB 7.14.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 7.14.42",
     "description":"My dear King Yudhiṣṭhira, the brāhmaṇas, especially those engaged in preaching the glories of the Lord throughout the entire world, are recognized and worshiped by the Supreme Personality of Godhead, who is the heart and soul of all creation. The brāhmaṇas, by their preaching, sanctify the three worlds with the dust of their lotus feet, and thus they are worshipable even for Kṛṣṇa."
 }
 ---

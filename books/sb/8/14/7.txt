@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.14.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.14.7",
+    "h1":"SB 8.14.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.14.7",
     "description":"Indra, King of heaven, receiving benedictions from the Supreme Personality of Godhead and thus enjoying highly developed opulences, maintains the living entities all over the three worlds by pouring sufficient rain on all the planets."
 }
 ---

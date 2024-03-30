@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.14.28",
+    "h1":"SB 9.14.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.14.28",
     "description":"Urvaśī treated the two lambs like her own sons. Therefore, when they were being taken by the Gandharvas and began crying, Urvaśī heard them and rebuked her husband. \"Now I am being killed,\" she said, \"under the protection of an unworthy husband, who is a coward and a eunuch although he thinks himself a great hero."
 }
 ---

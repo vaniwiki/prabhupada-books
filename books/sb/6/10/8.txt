@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.10.8",
+    "h1":"SB 6.10.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.10.8",
     "description":"O demigods, one who has no compassion for humanity in its suffering and does not sacrifice his impermanent body for the higher causes of religious principles or eternal glory is certainly pitied even by the immovable beings."
 }
 ---

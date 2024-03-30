@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.8.2",
+    "h1":"SB 4.8.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.8.2",
     "description":"Another son of Lord Brahmā was Irreligion, whose wife's name was Falsity. From their combination were born two demons named Dambha, or Bluffing, and Māyā, or Cheating. These two demons were taken by a demon named Nirṛti, who had no children."
 }
 ---

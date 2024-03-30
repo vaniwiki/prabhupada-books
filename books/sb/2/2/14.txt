@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 2.2.14",
+    "h1":"SB 2.2.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 2.2.14",
     "description":"Unless the gross materialist develops a sense of loving service unto the Supreme Lord, the seer of both the transcendental and material worlds, he should remember or meditate upon the universal form of the Lord at the end of his prescribed duties."
 }
 ---

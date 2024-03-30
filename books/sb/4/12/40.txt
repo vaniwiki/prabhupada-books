@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.12.40",
+    "h1":"SB 4.12.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.12.40",
     "description":"After observing the glories of Dhruva Mahārāja, the great sage Nārada, playing his vīṇā, went to the sacrificial arena of the Pracetās and very happily chanted the following three verses."
 }
 ---

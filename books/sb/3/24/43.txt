@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.24.43",
+    "h1":"SB 3.24.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.24.43",
     "description":"He fixed his mind upon the Supreme Personality of Godhead, Parabrahman, who is beyond cause and effect, who manifests the three modes of material nature, who is beyond those three modes, and who is perceived only through unfailing devotional service."
 }
 ---

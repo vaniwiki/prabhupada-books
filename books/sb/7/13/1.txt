@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.13.1",
+    "h1":"SB 7.13.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.13.1",
     "description":"Śrī Nārada Muni said: A person able to cultivate spiritual knowledge should renounce all material connections, and merely keeping the body inhabitable, he should travel from one place to another, passing only one night in each village. In this way, without dependence in regard to the needs of the body, the sannyāsī should travel all over the world."
 }
 ---

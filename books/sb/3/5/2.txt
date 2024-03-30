@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.5.2",
+    "h1":"SB 3.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.5.2",
     "description":"Vidura said: O great sage, everyone in this world engages in fruitive activities to attain happiness, but one finds neither satiation nor the mitigation of distress. On the contrary, one is only aggravated by such activities. Please, therefore, give us directions on how one should live for real happiness."
 }
 ---

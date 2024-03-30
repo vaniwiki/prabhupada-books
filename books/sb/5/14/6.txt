@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.14.6",
+    "h1":"SB 5.14.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.14.6",
     "description":"Sometimes in this house in the sky [gandharva-pura] the conditioned soul drinks, eats and has sex. Being overly attached, he chases after the objects of the senses just as a deer chases a mirage in the desert."
 }
 ---

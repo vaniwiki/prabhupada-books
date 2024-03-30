@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 7.6.27",
+    "h1":"SB 7.6.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 7.6.27",
     "description":"Nārāyaṇa, the Supreme Personality of Godhead, the well-wisher and friend of all living entities, formerly explained this transcendental knowledge to the great saint Nārada. Such knowledge is extremely difficult to understand without the mercy of a saintly person like Nārada, but everyone who has taken shelter of Nārada's disciplic succession can understand this confidential knowledge."
 }
 ---

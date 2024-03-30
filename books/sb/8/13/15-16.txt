@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.15-16",
-    "h1":"Text 15-16",
-    "title":" Śrīmad Bhāgavatam 8.13.15-16",
+    "h1":"SB 8.13.15-16",
+    "label":"Text 15-16",
+    "title":"Śrīmad Bhāgavatam 8.13.15-16",
     "description":"O King, during the eighth manvantara, the great personalities Gālava, Dīptimān, Paraśurāma, Aśvatthāmā, Kṛpācārya, Ṛṣyaśṛṅga and our father, Vyāsadeva, the incarnation of Nārāyaṇa, will be the seven sages. For the present, they are all residing in their respective āśramas."
 }
 ---

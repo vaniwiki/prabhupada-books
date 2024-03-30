@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 4.21.36",
+    "h1":"SB 4.21.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 4.21.36",
     "description":"The Supreme Personality of Godhead is the master and enjoyer of the results of all sacrifices, and He is the supreme spiritual master as well. All of you citizens on the surface of the globe who have a relationship with me and are worshiping Him by dint of your occupational duties are bestowing your mercy upon me. Therefore, O my citizens, I thank you."
 }
 ---

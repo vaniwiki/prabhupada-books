@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.22-23",
-    "h1":"Text 22-23",
-    "title":" Śrīmad Bhāgavatam 3.24.22-23",
+    "h1":"SB 3.24.22-23",
+    "label":"Text 22-23",
+    "title":"Śrīmad Bhāgavatam 3.24.22-23",
     "description":"Kardama Muni handed over his daughter Kalā to Marīci, and another daughter, Anasūyā, to Atri. He delivered Śraddhā to Aṅgirā, and Havirbhū to Pulastya. He delivered Gati to Pulaha, the chaste Kriyā to Kratu, Khyāti to Bhṛgu, and Arundhatī to Vasiṣṭha."
 }
 ---

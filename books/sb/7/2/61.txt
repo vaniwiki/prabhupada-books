@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 7.2.61",
+    "h1":"SB 7.2.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 7.2.61",
     "description":"Śrī Nārada Muni continued: Diti, the mother of Hiraṇyakaśipu and Hiraṇyākṣa, heard the instructions of Hiraṇyakaśipu along with her daughter-in-law, Ruṣābhānu, Hiraṇyākṣa's wife. She then forgot her grief over her son's death and thus engaged her mind and attention in understanding the real philosophy of life."
 }
 ---

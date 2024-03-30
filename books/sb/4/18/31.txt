@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.18.31",
+    "h1":"SB 4.18.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.18.31",
     "description":"In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages."
 }
 ---

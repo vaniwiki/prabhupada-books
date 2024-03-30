@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 8.9.22",
+    "h1":"SB 8.9.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 8.9.22",
     "description":"O King, since the demons had promised to accept whatever the woman did, whether just or unjust, now, to keep this promise, to show their equilibrium and to save themselves from fighting with a woman, they remained silent."
 }
 ---

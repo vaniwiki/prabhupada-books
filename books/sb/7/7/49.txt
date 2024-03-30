@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 7.7.49",
+    "h1":"SB 7.7.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 7.7.49",
     "description":"The Supreme Personality of Godhead, Hari, is the soul and the Supersoul of all living entities. Every living entity is a manifestation of His energy in terms of the living soul and the material body. Therefore the Lord is the most dear, and He is the supreme controller."
 }
 ---

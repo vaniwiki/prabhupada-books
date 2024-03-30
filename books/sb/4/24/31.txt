@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.24.31",
+    "h1":"SB 4.24.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.24.31",
     "description":"Now I shall chant one mantra which is not only transcendental, pure and auspicious, but is the best prayer for anyone who is aspiring to attain the ultimate goal of life. When I chant this mantra, please hear it carefully and attentively."
 }
 ---

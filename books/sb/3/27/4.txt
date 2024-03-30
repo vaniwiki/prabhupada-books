@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.27.4",
+    "h1":"SB 3.27.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.27.4",
     "description":"Actually a living entity is transcendental to material existence, but because of his mentality of lording it over material nature, his material existential condition does not cease, and just as in a dream, he is affected by all sorts of disadvantages."
 }
 ---

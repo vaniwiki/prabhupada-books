@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.13.18",
+    "h1":"SB 8.13.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.13.18",
     "description":"O King, the ninth Manu will be Dakṣa-sāvarṇi, who is born of Varuṇa. Among his sons will be Bhūtaketu, and Dīptaketu."
 }
 ---

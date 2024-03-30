@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.2.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 5.2.22",
+    "h1":"SB 5.2.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 5.2.22",
     "description":"After Pūrvacitti's departure, King Āgnīdhra, his lusty desires not at all satisfied, always thought of her. Therefore, in accordance with the Vedic injunctions, the King, after his death, was promoted to the same planet as his celestial wife. That planet, which is called Pitṛloka, is where the pitās, the forefathers, live in great delight."
 }
 ---

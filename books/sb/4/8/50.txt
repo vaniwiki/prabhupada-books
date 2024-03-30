@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 4.8.50",
+    "h1":"SB 4.8.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 4.8.50",
     "description":"Real yogīs meditate upon the transcendental form of the Lord as He stands on the whorl of the lotus of their hearts, the jewellike nails of His lotus feet glittering."
 }
 ---

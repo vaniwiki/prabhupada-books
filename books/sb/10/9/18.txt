@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.9.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 10.9.18",
+    "h1":"SB 10.9.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 10.9.18",
     "description":"Because of mother Yaśodā's hard labor, her whole body became covered with perspiration, and the flowers and comb were falling from her hair. When child Kṛṣṇa saw His mother thus fatigued, He became merciful to her and agreed to be bound."
 }
 ---

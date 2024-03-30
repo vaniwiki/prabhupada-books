@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 7.5.11",
+    "h1":"SB 7.5.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 7.5.11",
     "description":"Prahlāda Mahārāja replied: Let me offer my respectful obeisances unto the Supreme Personality of Godhead, whose external energy has created the distinctions of \"my friend\" and \"my enemy\" by deluding the intelligence of men. Indeed, I am now actually experiencing this, although I have previously heard of it from authoritative sources."
 }
 ---

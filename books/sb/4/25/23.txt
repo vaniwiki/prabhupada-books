@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 4.25.23",
+    "h1":"SB 4.25.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 4.25.23",
     "description":"The waist and hips of the woman were very beautiful. She was dressed in a yellow sārī with a golden belt. While she walked, her ankle bells rang. She appeared exactly like a denizen of the heavens."
 }
 ---

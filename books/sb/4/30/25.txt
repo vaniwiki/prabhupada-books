@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.30.25",
+    "h1":"SB 4.30.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.30.25",
     "description":"Dear Lord, we offer our respectful obeisances unto You because from Your abdomen sprouts the lotus flower, the origin of all living entities. You are always decorated with a lotus garland, and Your feet resemble the lotus flower with all its fragrance. Your eyes are also like the petals of a lotus flower. Therefore we always offer our respectful obeisances unto You."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.74",
-    "h1":"Text 74",
-    "title":" Śrīmad Bhāgavatam 4.24.74",
+    "h1":"SB 4.24.74",
+    "label":"Text 74",
+    "title":"Śrīmad Bhāgavatam 4.24.74",
     "description":"A devotee of Lord Kṛṣṇa whose mind is always absorbed in Him, who with great attention and reverence chants this stotra [prayer], will achieve the greatest perfection of life without delay."
 }
 ---

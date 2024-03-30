@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.9.44",
+    "h1":"SB 4.9.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.9.44",
     "description":"Reunion with Dhruva Mahārāja fulfilled King Uttānapāda's long-cherished desire, and for this reason he smelled Dhruva's head again and again and bathed him with torrents of very cold tears."
 }
 ---

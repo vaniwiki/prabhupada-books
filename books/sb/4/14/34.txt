@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.14.34",
+    "h1":"SB 4.14.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.14.34",
     "description":"The great sages, thus manifesting their covert anger, immediately decided to kill the King. King Vena was already as good as dead due to his blasphemy against the Supreme Personality of Godhead. Thus without using any weapons, the sages killed King Vena simply by high-sounding words."
 }
 ---

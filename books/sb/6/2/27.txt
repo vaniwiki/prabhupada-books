@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 6.2.27",
+    "h1":"SB 6.2.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 6.2.27",
     "description":"Alas, all condemnation upon me! I acted so sinfully that I degraded my family tradition. Indeed, I gave up my chaste and beautiful young wife to have sexual intercourse with a fallen prostitute accustomed to drinking wine. All condemnation upon me!"
 }
 ---

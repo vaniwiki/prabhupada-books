@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.28.42",
+    "h1":"SB 4.28.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.28.42",
     "description":"King Malayadhvaja could thus observe that the Supersoul was sitting by his side, and that he, as the individual soul, was sitting by the side of the Supersoul. Since both were together, there was no need for separate interests; thus he ceased from such activities."
 }
 ---

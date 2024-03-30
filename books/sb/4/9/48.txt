@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 4.9.48",
+    "h1":"SB 4.9.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 4.9.48",
     "description":"The two brothers Uttama and Dhruva Mahārāja also exchanged their tears. They were overwhelmed by the ecstasy of love and affection, and when they embraced one another, the hair on their bodies stood up."
 }
 ---

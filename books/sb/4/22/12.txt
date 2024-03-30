@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.22.12",
+    "h1":"SB 4.22.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.22.12",
     "description":"Mahārāja Pṛthu offered his welcome to the four Kumāras, addressing them as the best of the brāhmaṇas. He welcomed them, saying: From the beginning of your birth you strictly observed the vows of celibacy, and although you are experienced in the path of liberation, you are keeping yourselves just like small children."
 }
 ---

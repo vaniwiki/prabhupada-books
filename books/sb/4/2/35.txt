@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.2.35",
+    "h1":"SB 4.2.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.2.35",
     "description":"My dear Vidura, carrier of bows and arrows, all the demigods who were performing the sacrifice took their bath at the confluence of the Ganges and the Yamunā after completing the yajña performance. Such a bath is called avabhṛtha-snāna. After thus becoming purified in heart, they departed for their respective abodes."
 }
 ---

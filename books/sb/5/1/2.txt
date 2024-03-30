@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.1.2",
+    "h1":"SB 5.1.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.1.2",
     "description":"Devotees are certainly liberated persons. Therefore, O greatest of the brāhmaṇas, they cannot possibly be absorbed in family affairs."
 }
 ---

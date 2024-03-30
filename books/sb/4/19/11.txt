@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.19.11",
+    "h1":"SB 4.19.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.19.11",
     "description":"When Pṛthu Mahārāja was performing the last horse sacrifice [aśvamedha-yajña], King Indra, invisible to everyone, stole the horse intended for sacrifice. He did this because of his great envy of King Pṛthu."
 }
 ---

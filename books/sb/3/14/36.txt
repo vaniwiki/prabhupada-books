@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.14.36",
+    "h1":"SB 3.14.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.14.36",
     "description":"Let him be pleased with us, since he is my brother-in-law, the husband of my sister Satī. He is also the worshipable lord of all women. He is the personality of all opulences and can show mercy towards women, who are excused even by the uncivilized hunters."
 }
 ---

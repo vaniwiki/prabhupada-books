@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 7.12.7",
+    "h1":"SB 7.12.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 7.12.7",
     "description":"A brahmacārī, or one who has not accepted the gṛhastha-āśrama [family life], must rigidly avoid talking with women or about women, for the senses are so powerful that they may agitate even the mind of a sannyāsī, a member of the renounced order of life."
 }
 ---

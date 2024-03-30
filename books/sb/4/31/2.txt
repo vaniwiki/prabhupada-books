@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.31.2",
+    "h1":"SB 4.31.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.31.2",
     "description":"The Pracetās went to the seashore in the west where the great liberated sage Jājali was residing. After perfecting the spiritual knowledge by which one becomes equal toward all living entities, the Pracetās became perfect in Kṛṣṇa consciousness."
 }
 ---

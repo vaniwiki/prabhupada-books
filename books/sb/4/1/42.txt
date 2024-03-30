@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.1.42",
+    "h1":"SB 4.1.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.1.42",
     "description":"Citti, wife of the sage Atharvā, gave birth to a son named Aśvaśirā by accepting a great vow called Dadhyañca. Now you may hear from me about the descendants of the sage Bhṛgu."
 }
 ---

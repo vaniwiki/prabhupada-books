@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 9.5.18",
+    "h1":"SB 9.5.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 9.5.18",
     "description":"Expecting the return of Durvāsā Muni, the King had not taken his food. Therefore, when the sage returned, the King fell at his lotus feet, pleasing him in all respects, and fed him sumptuously."
 }
 ---

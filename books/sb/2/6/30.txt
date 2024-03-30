@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 2.6.30",
+    "h1":"SB 2.6.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 2.6.30",
     "description":"Thereafter, the Manus, the fathers of mankind, the great sages, the forefathers, the learned scholars, the Daityas and mankind performed sacrifices meant to please the Supreme Lord."
 }
 ---

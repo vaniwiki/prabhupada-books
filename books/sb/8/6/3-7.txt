@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.3-7",
-    "h1":"Text 3-7",
-    "title":" Śrīmad Bhāgavatam 8.6.3-7",
+    "h1":"SB 8.6.3-7",
+    "label":"Text 3-7",
+    "title":"Śrīmad Bhāgavatam 8.6.3-7",
     "description":"Lord Brahmā, along with Lord Śiva, saw the crystal-clear personal beauty of the Supreme Personality of Godhead, whose blackish body resembles a marakata gem, whose eyes are reddish like the depths of a lotus, who is dressed with garments that are yellow like molten gold, and whose entire body is attractively decorated. They saw His beautiful, smiling, lotuslike face, crowned by a helmet bedecked with valuable jewels. The Lord has attractive eyebrows, and His cheeks are adorned with earrings. Lord Brahmā and Lord Śiva saw the belt on the Lord's waist, the bangles on His arms, the necklace on His chest, and the ankle bells on His legs. The Lord is bedecked with flower garlands, His neck is decorated with the Kaustubha gem, and He carries with Him the goddess of fortune and His personal weapons, like His disc and club. When Lord Brahmā, along with Lord Śiva and the other demigods, thus saw the form of the Lord, they all immediately fell to the ground, offering their obeisances."
 }
 ---

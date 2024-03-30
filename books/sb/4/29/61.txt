@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 4.29.61",
+    "h1":"SB 4.29.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 4.29.61",
     "description":"The living entity, while dreaming, gives up the actual living body. Through the activities of his mind and intelligence, he acts in another body, either as a god or a dog. After giving up this gross body, the living entity enters either an animal body or a demigod's body on this planet or on another planet. He thus enjoys the results of the actions of his past life."
 }
 ---

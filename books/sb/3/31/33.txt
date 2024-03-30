@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.31.33",
+    "h1":"SB 3.31.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.31.33",
     "description":"He becomes devoid of truthfulness, cleanliness, mercy, gravity, spiritual intelligence, shyness, austerity, fame, forgiveness, control of the mind, control of the senses, fortune and all such opportunities."
 }
 ---

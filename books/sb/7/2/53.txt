@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 7.2.53",
+    "h1":"SB 7.2.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 7.2.53",
     "description":"Alas, how merciless is Providence! My wife, unable to be helped by anyone, is in such an awkward position and lamenting for me. What will Providence gain by taking away this poor bird? What will be the profit?"
 }
 ---

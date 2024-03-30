@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.25.4",
+    "h1":"SB 4.25.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.25.4",
     "description":"Nārada Muni asked King Prācīnabarhiṣat: My dear King, what do you desire to achieve by performing these fruitive activities? The chief aim of life is to get rid of all miseries and enjoy happiness, but these two things cannot be realized by fruitive activity."
 }
 ---

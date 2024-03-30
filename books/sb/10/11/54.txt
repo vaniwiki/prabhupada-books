@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 10.11.54",
+    "h1":"SB 10.11.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 10.11.54",
     "description":"When the cowherd men and women heard about the killing of Bakāsura in the forest, they were very much astonished. Upon seeing Kṛṣṇa and hearing the story, they received Kṛṣṇa very eagerly, thinking that Kṛṣṇa and the other boys had returned from the mouth of death. Thus they looked upon Kṛṣṇa and the boys with silent eyes, not wanting to turn their eyes aside now that the boys were safe."
 }
 ---

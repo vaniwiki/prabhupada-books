@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.71",
-    "h1":"Text 71",
-    "title":" Śrīmad Bhāgavatam 4.29.71",
+    "h1":"SB 4.29.71",
+    "label":"Text 71",
+    "title":"Śrīmad Bhāgavatam 4.29.71",
     "description":"When the living entity is in deep sleep, when he faints, when there is some great shock on account of severe loss, at the time of death, or when the body temperature is very high, the movement of the life air is arrested. At that time the living entity loses knowledge of identifying the body with the self."
 }
 ---

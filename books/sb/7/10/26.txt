@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 7.10.26",
+    "h1":"SB 7.10.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 7.10.26",
     "description":"Lord Brahmā said: O Supreme Lord of all lords, proprietor of the entire universe, O benedictor of all living entities, O original person [Cc. Ādi-puruṣa], because of our good fortune You have now killed this sinful demon, who was giving trouble to the entire universe."
 }
 ---

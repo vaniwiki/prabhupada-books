@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 7.9.52",
+    "h1":"SB 7.9.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 7.9.52",
     "description":"The Supreme Personality of Godhead said: My dear Prahlāda, most gentle one, best of the family of the asuras, all good fortune unto you. I am very much pleased with you. It is My pastime to fulfill the desires of all living beings, and therefore you may ask from Me any benediction that you desire to be fulfilled."
 }
 ---

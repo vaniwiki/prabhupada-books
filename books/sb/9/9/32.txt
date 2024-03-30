@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 9.9.32",
+    "h1":"SB 9.9.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 9.9.32",
     "description":"Without my husband, I cannot live for a moment. If you want to eat my husband, it would be better to eat me first, for without my husband I am as good as a dead body."
 }
 ---

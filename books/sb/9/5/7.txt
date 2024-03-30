@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.5.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.5.7",
+    "h1":"SB 9.5.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.5.7",
     "description":"O master of speech, by your effulgence, full of religious principles, the darkness of the world is dissipated, and the knowledge of learned persons or great souls is manifested. Indeed, no one can surpass your effulgence, for all things, manifested and unmanifested, gross and subtle, superior and inferior, are but various forms of you that are manifested by your effulgence."
 }
 ---

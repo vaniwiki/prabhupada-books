@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.13.12",
+    "h1":"SB 3.13.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.13.12",
     "description":"O King, if you can give proper protection to the living beings in the material world, that will be the best service for me. When the Supreme Lord sees you to be a good protector of the conditioned souls, certainly the master of the senses will be very pleased with you."
 }
 ---

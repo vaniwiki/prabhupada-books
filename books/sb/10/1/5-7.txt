@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.5-7",
-    "h1":"Text 5-7",
-    "title":" Śrīmad Bhāgavatam 10.1.5-7",
+    "h1":"SB 10.1.5-7",
+    "label":"Text 5-7",
+    "title":"Śrīmad Bhāgavatam 10.1.5-7",
     "description":"Taking the boat of Kṛṣṇa's lotus feet, my grandfather Arjuna and others crossed the ocean of the Battlefield of Kurukṣetra, in which such commanders as Bhīṣmadeva resembled great fish that could very easily have swallowed them. By the mercy of Lord Kṛṣṇa, my grandfathers crossed this ocean, which was very difficult to cross, as easily as one steps over the hoofprint of a calf. Because my mother surrendered unto Lord Kṛṣṇa's lotus feet, the Lord, Sudarśana-cakra in hand, entered her womb and saved my body, the body of the last remaining descendant of the Kurus and the Pāṇḍavas, which was almost destroyed by the fiery weapon of Aśvatthāmā. Lord Śrī Kṛṣṇa, appearing within and outside of all materially embodied living beings by His own potency in the forms of eternal time—that is, as Paramātmā and as virāṭ-rūpa—gave liberation to everyone, either as cruel death or as life. Kindly enlighten me by describing His transcendental characteristics."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 9.4.63",
+    "h1":"SB 9.4.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 9.4.63",
     "description":"The Supreme Personality of Godhead said to the brāhmaṇa: I am completely under the control of My devotees. Indeed, I am not at all independent. Because My devotees are completely devoid of material desires, I sit only within the cores of their hearts. What to speak of My devotee, even those who are devotees of My devotee are very dear to Me."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 2.6.4",
+    "h1":"SB 2.6.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 2.6.4",
     "description":"His bodily surface is the breeding ground for the active principles of everything and for all kinds of auspicious opportunities. His skin, like the moving air, is the generating center for all kinds of sense of touch and is the place for performing all kinds of sacrifice."
 }
 ---

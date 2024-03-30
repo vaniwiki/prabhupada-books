@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 6.17.11",
+    "h1":"SB 6.17.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 6.17.11",
     "description":"The goddess Pārvatī said: Alas, has this upstart now received a post from which to punish shameless persons like us? Has he been appointed ruler, carrier of the rod of punishment? Is he now the only master of everything?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 8.22.25",
+    "h1":"SB 8.22.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 8.22.25",
     "description":"While rotating in the cycle of birth and death again and again in different species because of his own fruitive activities, the dependent living entity, by good fortune, may happen to become a human being. This human birth is very rarely obtained."
 }
 ---

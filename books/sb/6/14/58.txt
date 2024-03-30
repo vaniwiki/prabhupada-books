@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 6.14.58",
+    "h1":"SB 6.14.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 6.14.58",
     "description":"My dear son, I am certainly most unfortunate, for I can no longer see your mild smiling. You have closed your eyes forever. I therefore conclude that you have been taken from this planet to another, from which you will not return. My dear son, I can no longer hear your pleasing voice."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 9.14.37",
+    "h1":"SB 9.14.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 9.14.37",
     "description":"Women as a class are merciless and cunning. They cannot tolerate even a slight offense. For their own pleasure they can do anything irreligious, and therefore they do not fear killing even a faithful husband or brother."
 }
 ---

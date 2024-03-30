@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.23.3",
+    "h1":"SB 8.23.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.23.3",
     "description":"Śukadeva Gosvāmī continued: After speaking in this way, Bali Mahārāja offered his obeisances first to the Supreme Personality of Godhead, Hari, and then to Lord Brahmā and Lord Śiva. Thus he was released from the bondage of the nāga-pāśa [the ropes of Varuṇa], and in full satisfaction he entered the planet known as Sutala."
 }
 ---

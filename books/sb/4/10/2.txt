@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.10.2",
+    "h1":"SB 4.10.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.10.2",
     "description":"The greatly powerful Dhruva Mahārāja had another wife, named Ilā, who was the daughter of the demigod Vāyu. By her he begot a son named Utkala and a very beautiful daughter."
 }
 ---

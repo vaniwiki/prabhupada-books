@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 2.9.34",
+    "h1":"SB 2.9.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 2.9.34",
     "description":"O Brahmā, whatever appears to be of any value, if it is without relation to Me, has no reality. Know it as My illusory energy, that reflection which appears to be in darkness."
 }
 ---

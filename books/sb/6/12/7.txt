@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 6.12.7",
+    "h1":"SB 6.12.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 6.12.7",
     "description":"Vṛtrāsura continued: O Indra, no one is guaranteed of being always victorious but the original enjoyer, the Supreme Personality of Godhead, Bhagavān. He is the cause of creation, maintenance and annihilation, and He knows everything. Being dependent and being obliged to accept material bodies, belligerent subordinates are sometimes victorious and sometimes defeated."
 }
 ---

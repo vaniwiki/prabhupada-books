@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.11.30",
+    "h1":"SB 8.11.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.11.30",
     "description":"Being angry and roaring like a lion, the demon Namuci took up a steel spear, which was bound with bells and decorated with ornaments of gold. He loudly cried, \"Now you are killed!\" Thus coming before Indra to kill him, Namuci released his weapon."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.9.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.9.20",
+    "h1":"SB 3.9.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.9.20",
     "description":"My Lord, You accept the pleasure of sleeping in the water of devastation, where there are violent waves, and You enjoy pleasure on the bed of snakes, showing the happiness of Your sleep to intelligent persons. At that time, all the universal planets are stationed within Your abdomen."
 }
 ---

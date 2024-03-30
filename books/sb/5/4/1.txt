@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.4.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 5.4.1",
+    "h1":"SB 5.4.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 5.4.1",
     "description":"Śrī Śukadeva Gosvāmī said: As soon as the Lord was born as the son of Mahārāja Nābhi, He manifested symptoms of the Supreme Lord, such as marks on the bottoms of His feet [the flag, thunderbolt, etc.]. This son was equal to everyone and very peaceful. He could control His senses and His mind, and, possessing all opulence, He did not hanker for material enjoyment. Endowed with all these attributes, the son of Mahārāja Nābhi became more powerful day after day. Due to this, the citizens, learned brāhmaṇas, demigods and ministers wanted Ṛṣabhadeva to be appointed ruler of the earth."
 }
 ---

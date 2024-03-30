@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.22.11",
+    "h1":"SB 4.22.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.22.11",
     "description":"On the contrary, even though full of all opulence and material prosperity, any householder's house where the devotees of the Lord are never allowed to come in, and where there is no water for washing their feet, is to be considered a tree in which all venomous serpents live."
 }
 ---

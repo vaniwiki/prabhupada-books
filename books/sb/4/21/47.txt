@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.21.47",
+    "h1":"SB 4.21.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.21.47",
     "description":"Similarly, Hiraṇyakaśipu, who by dint of his sinful activities always defied the supremacy of the Supreme Personality of Godhead, entered into the darkest region of hellish life; but by the grace of his great son, Prahlāda Mahārāja, he also was delivered and went back home, back to Godhead."
 }
 ---

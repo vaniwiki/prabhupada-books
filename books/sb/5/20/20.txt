@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 5.20.20",
+    "h1":"SB 5.20.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 5.20.20",
     "description":"The ruler of this island was another son of Mahārāja Priyavrata. His name was Ghṛtapṛṣṭha, and he was a very learned scholar. He also divided his own island among his seven sons. After dividing the island into seven parts, named according to the names of his sons, Ghṛtapṛṣṭha Mahārāja completely retired from family life and took shelter at the lotus feet of the Lord, the soul of all souls, who has all auspicious qualities. Thus he attained perfection."
 }
 ---

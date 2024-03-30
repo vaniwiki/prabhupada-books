@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.28.28",
+    "h1":"SB 3.28.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.28.28",
     "description":"The yogī should meditate upon His club, which is named Kaumodakī and is very dear to Him. This club smashes the demons, who are always inimical soldiers, and is smeared with their blood. One should also concentrate on the nice garland on the neck of the Lord, which is always surrounded by bumblebees, with their nice buzzing sound, and one should meditate upon the pearl necklace on the Lord's neck, which is considered to represent the pure living entities who are always engaged in His service."
 }
 ---

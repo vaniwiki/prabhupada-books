@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.31.16",
+    "h1":"SB 4.31.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.31.16",
     "description":"Just as the sunshine is nondifferent from the sun, the cosmic manifestation is also nondifferent from the Supreme Personality of Godhead. The Supreme Personality is therefore all-pervasive within this material creation. When the senses are active, they appear to be part and parcel of the body, but when the body is asleep, their activities are unmanifest. Similarly, the whole cosmic creation appears different and yet nondifferent from the Supreme Person."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 4.9.63",
+    "h1":"SB 4.9.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 4.9.63",
     "description":"The King's residence was surrounded by gardens wherein there were varieties of trees brought from the heavenly planets. In those trees there were pairs of sweetly singing birds and almost-mad bumblebees, which made a very relishable buzzing sound."
 }
 ---

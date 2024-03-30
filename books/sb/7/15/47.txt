@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 7.15.47",
+    "h1":"SB 7.15.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 7.15.47",
     "description":"According to the Vedas, there are two kinds of activities-pravṛtti and nivṛtti. Pravṛtti activities involve raising oneself from a lower to a higher condition of materialistic life, whereas nivṛtti means the cessation of material desire. Through pravṛtti activities one suffers from material entanglement, but by nivṛtti activities one is purified and becomes fit to enjoy eternal, blissful life."
 }
 ---

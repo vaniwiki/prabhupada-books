@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 6.16.24",
+    "h1":"SB 6.16.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 6.16.24",
     "description":"As iron has the power to burn when made red-hot in the association of fire, so the body, senses, living force, mind and intelligence, although merely lumps of matter, can function in their activities when infused with a particle of consciousness by the Supreme Personality of Godhead. As iron cannot burn unless heated by fire, the bodily senses cannot act unless favored by the Supreme Brahman."
 }
 ---

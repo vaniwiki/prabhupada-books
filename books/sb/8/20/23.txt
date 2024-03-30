@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 8.20.23",
+    "h1":"SB 8.20.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 8.20.23",
     "description":"Thereafter, Bali Mahārāja, who was occupying the seat of King Indra, could see the lower planetary systems, such as Rasātala, on the soles of the feet of the Lord's universal form. He saw on the Lord's feet the surface of the globe, on the surface of His calves all the mountains, on His knees the various birds, and on His thighs the varieties of air."
 }
 ---

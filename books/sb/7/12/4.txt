@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 7.12.4",
+    "h1":"SB 7.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 7.12.4",
     "description":"Carrying pure kuśa grass in his hand, the brahmacārī should dress regularly with a belt of straw and with deerskin garments. He should wear matted hair, carry a rod and waterpot and be decorated with a sacred thread, as recommended in the śāstras."
 }
 ---

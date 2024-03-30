@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.11.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.11.13",
+    "h1":"SB 8.11.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.11.13",
     "description":"When the demon Jambhāsura saw that his friend Bali had fallen, he appeared before Indra, the enemy, just to serve Bali Mahārāja with friendly behavior."
 }
 ---

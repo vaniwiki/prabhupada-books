@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 6.7.10",
+    "h1":"SB 6.7.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 6.7.10",
     "description":"Indra, the King of heaven, could immediately understand his mistake. Realizing he had disrespected his spiritual master, he condemned himself in the presence of all the members of the assembly."
 }
 ---

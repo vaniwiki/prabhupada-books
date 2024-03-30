@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 4.24.59",
+    "h1":"SB 4.24.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 4.24.59",
     "description":"The devotee whose heart has been completely cleansed by the process of devotional service and who is favored by Bhaktidevī does not become bewildered by the external energy, which is just like a dark well. Being completely cleansed of all material contamination in this way, a devotee is able to understand very happily Your name, fame, form, activities, etc."
 }
 ---

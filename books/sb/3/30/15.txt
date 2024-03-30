@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 3.30.15",
+    "h1":"SB 3.30.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 3.30.15",
     "description":"Thus he remains at home just like a pet dog and eats whatever is so negligently given to him. Afflicted with many illnesses, such as dyspepsia and loss of appetite, he eats only very small morsels of food, and he becomes an invalid, who cannot work any more."
 }
 ---

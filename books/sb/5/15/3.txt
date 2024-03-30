@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 5.15.3",
+    "h1":"SB 5.15.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 5.15.3",
     "description":"Thereafter, in the womb of Āsurī, the wife of Devatājit, a son named Devadyumna was begotten. Devadyumna begot in the womb of his wife, Dhenumatī, a son named Parameṣṭhī. Parameṣṭhī begot a son named Pratīha in the womb of his wife, Suvarcalā."
 }
 ---

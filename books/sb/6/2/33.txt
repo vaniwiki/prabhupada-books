@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 6.2.33",
+    "h1":"SB 6.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 6.2.33",
     "description":"Were it not for my past devotional service, how could I, a most unclean keeper of a prostitute, have gotten an opportunity to chant the holy name of Vaikuṇṭhapati when I was just ready to die? Certainly it could not have been possible."
 }
 ---

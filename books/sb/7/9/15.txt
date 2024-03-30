@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 7.9.15",
+    "h1":"SB 7.9.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 7.9.15",
     "description":"My Lord, who are never conquered by anyone, I am certainly not afraid of Your ferocious mouth and tongue, Your eyes bright like the sun or Your frowning eyebrows. I do not fear Your sharp, pinching teeth, Your garland of intestines, Your mane soaked with blood, or Your high, wedgelike ears. Nor do I fear Your tumultuous roaring, which makes elephants flee to distant places, or Your nails, which are meant to kill Your enemies."
 }
 ---

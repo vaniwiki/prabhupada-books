@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.23.7",
+    "h1":"SB 4.23.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.23.7",
     "description":"Mahārāja Pṛthu underwent all these severe austerities in order to control his words and his senses, to refrain from discharging his semen and to control the life air within his body. All this he did for the satisfaction of Kṛṣṇa. He had no other purpose."
 }
 ---

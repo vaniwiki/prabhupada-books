@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 3.12.1",
+    "h1":"SB 3.12.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 3.12.1",
     "description":"Śrī Maitreya said: O learned Vidura, so far I have explained to you the glories of the form of the Supreme Personality of Godhead in His feature of kāla. Now you can hear from me about the creation of Brahmā, the reservoir of all Vedic knowledge."
 }
 ---

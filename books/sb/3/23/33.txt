@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.23.33",
+    "h1":"SB 3.23.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.23.33",
     "description":"Her countenance shone, with beautiful teeth and charming eyebrows. Her eyes, distinguished by lovely moist corners, defeated the beauty of lotus buds. Her face was surrounded by dark curling tresses."
 }
 ---

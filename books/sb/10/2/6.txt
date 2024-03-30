@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 10.2.6",
+    "h1":"SB 10.2.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 10.2.6",
     "description":"To protect the Yadus, His personal devotees, from Kaṁsa's attack, the Personality of Godhead, Viśvātmā, the Supreme Soul of everyone, ordered Yogamāyā as follows."
 }
 ---

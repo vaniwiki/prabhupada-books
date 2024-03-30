@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 8.12.10",
+    "h1":"SB 8.12.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 8.12.10",
     "description":"O my Lord, I, who am considered to be the best of the demigods, and Lord Brahmā and the great ṛṣis, headed by Marīci, are born of the mode of goodness. Nonetheless, we are bewildered by Your illusory energy and cannot understand what this creation is. Aside from us, what is to be said of others, like the demons and human beings, who are in the base modes of material nature [rajo-guṇa and tamo-guṇa]? How will they know You?"
 }
 ---

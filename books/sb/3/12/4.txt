@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.12.4",
+    "h1":"SB 3.12.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.12.4",
     "description":"In the beginning, Brahmā created four great sages named Sanaka, Sananda, Sanātana and Sanat-kumāra. All of them were unwilling to adopt materialistic activities because they were highly elevated due to their semen's flowing upwards."
 }
 ---

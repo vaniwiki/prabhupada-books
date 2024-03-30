@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.31.4",
+    "h1":"SB 3.31.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.31.4",
     "description":"Within four months from the date of conception, the seven essential ingredients of the body, namely chyle, blood, flesh, fat, bone, marrow and semen, come into existence. At the end of five months, hunger and thirst make themselves felt, and at the end of six months, the fetus, enclosed by the amnion, begins to move on the right side of the abdomen."
 }
 ---

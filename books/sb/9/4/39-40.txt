@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 9.4.39-40",
+    "h1":"SB 9.4.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 9.4.39-40",
     "description":"The King said: \"To transgress the laws of respectful behavior toward the brāhmaṇas is certainly a great offense. On the other hand, if one does not observe the breaking of the fast within the time of Dvādaśī, there is a flaw in one's observance of the vow. Therefore, O brāhmaṇas, if you think that it will be auspicious and not irreligious, I shall break the fast by drinking water.\" In this way, after consulting with the brāhmaṇas, the King reached this decision, for according to brahminical opinion, drinking water may be accepted as eating and also as not eating."
 }
 ---

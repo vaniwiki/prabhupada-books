@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.15.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 6.15.25",
+    "h1":"SB 6.15.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 6.15.25",
     "description":"The living entity in the bodily conception of life is absorbed in the body, which is a combination of the physical elements, the five senses for gathering knowledge, and the five senses of action, along with the mind. Through the mind the living entity suffers three kinds of tribulations—adhibhautika, adhidaivika and adhyātmika. Therefore this body is a source of all miseries."
 }
 ---

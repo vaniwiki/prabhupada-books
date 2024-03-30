@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.16.20",
+    "h1":"SB 3.16.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.16.20",
     "description":"The goddess of fortune, Lakṣmī, the dust of whose feet is worn on the head by others, waits upon You, as appointed, for she is anxious to secure a place in the abode of the king of bees, who hovers on the fresh wreath of tulasī leaves offered at Your feet by some blessed devotee."
 }
 ---

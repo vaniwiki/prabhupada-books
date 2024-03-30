@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 7.13.26",
+    "h1":"SB 7.13.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 7.13.26",
     "description":"In this human form of life, men and women unite for the sensual pleasure of sex, but by actual experience we have observed that none of them are happy. Therefore, seeing the contrary results, I have stopped taking part in materialistic activities."
 }
 ---

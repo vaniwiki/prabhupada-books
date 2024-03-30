@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.27.7",
+    "h1":"SB 4.27.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.27.7",
     "description":"O Prajāpati, King Prācīnabarhiṣat, in this way King Purañjana also begot 110 daughters. All of these were equally glorified like the father and mother. Their behavior was gentle, and they possessed magnanimity and other good qualities."
 }
 ---

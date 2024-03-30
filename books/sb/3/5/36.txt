@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.5.36",
+    "h1":"SB 3.5.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.5.36",
     "description":"Thereafter the water produced from electricity was glanced over by the Supreme Personality of Godhead and mixed with eternal time and external energy. Thus it was transformed into the earth, which is qualified primarily by smell."
 }
 ---

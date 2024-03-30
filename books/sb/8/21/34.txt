@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 8.21.34",
+    "h1":"SB 8.21.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 8.21.34",
     "description":"Being falsely proud of your possessions, you promised to give Me land, but you could not fulfill your promise. Therefore, because your promise was false, you must live for a few years in hellish life."
 }
 ---

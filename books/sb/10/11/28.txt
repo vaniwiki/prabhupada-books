@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.11.28",
+    "h1":"SB 10.11.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.11.28",
     "description":"Between Nandeśvara and Mahāvana is a place named Vṛndāvana. This place is very suitable because it is lush with grass, plants and creepers for the cows and other animals. It has nice gardens and tall mountains and is full of facilities for the happiness of all the gopas and gopīs and our animals."
 }
 ---

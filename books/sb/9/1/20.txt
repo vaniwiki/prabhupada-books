@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 9.1.20",
+    "h1":"SB 9.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 9.1.20",
     "description":"This discrepancy in the objective is due to your priest's deviation from the original purpose. However, by my own prowess I shall give you a good son."
 }
 ---

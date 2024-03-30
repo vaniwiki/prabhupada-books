@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.4.6",
+    "h1":"SB 9.4.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.4.6",
     "description":"Thereafter, while Nābhāga was accepting the riches, a black-looking person from the north came to him and said, \"All the wealth from this sacrificial arena belongs to me.\""
 }
 ---

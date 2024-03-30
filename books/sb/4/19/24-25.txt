@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.24-25",
-    "h1":"Text 24-25",
-    "title":" Śrīmad Bhāgavatam 4.19.24-25",
+    "h1":"SB 4.19.24-25",
+    "label":"Text 24-25",
+    "title":"Śrīmad Bhāgavatam 4.19.24-25",
     "description":"In this way, King Indra, in order to steal the horse from King Pṛthu's sacrifice, adopted several orders of sannyāsa. Some sannyāsīs go naked, and sometimes they wear red garments and pass under the name of kāpālika. These are simply symbolic representations of their sinful activities. These so-called sannyāsīs are very much appreciated by sinful men because they are all godless atheists and very expert in putting forward arguments and reasons to support their case. We must know, however, that they are only passing as adherents of religion and are not so in fact. Unfortunately, bewildered persons accept them as religious, and being attracted to them, they spoil their life."
 }
 ---

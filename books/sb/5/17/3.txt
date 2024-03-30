@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 5.17.3",
+    "h1":"SB 5.17.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 5.17.3",
     "description":"The seven great sages [Marīci, Vasiṣṭha, Atri and so on] reside on planets beneath Dhruvaloka. Well aware of the influence of the water of the Ganges, to this day they keep Ganges water on the tufts of hair on their heads. They have concluded that this is the ultimate wealth, the perfection of all austerities, and the best means of prosecuting transcendental life. Having obtained uninterrupted devotional service to the Supreme Personality of Godhead, they neglect all other beneficial processes like religion, economic development, sense gratification and even merging into the Supreme. Just as jñānīs think that merging into the existence of the Lord is the highest truth, these seven exalted personalities accept devotional service as the perfection of life."
 }
 ---

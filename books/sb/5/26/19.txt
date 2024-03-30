@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 5.26.19",
+    "h1":"SB 5.26.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 5.26.19",
     "description":"My dear King, a person who in the absence of an emergency robs a brāhmaṇa—or, indeed, anyone else—of his gems and gold is put into a hell known as Sandaṁśa. There his skin is torn and separated by red-hot iron balls and tongs. In this way, his entire body is cut to pieces."
 }
 ---

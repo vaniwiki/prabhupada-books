@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 9.3.32",
+    "h1":"SB 9.3.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 9.3.32",
     "description":"Twenty-seven catur-yugas have already passed. Those upon whom you may have decided are now gone, and so are their sons, grandsons and other descendants. You cannot even hear about their names."
 }
 ---

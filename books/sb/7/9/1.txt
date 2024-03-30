@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.9.1",
+    "h1":"SB 7.9.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.9.1",
     "description":"The great saint Nārada Muni continued: The demigods, headed by Lord Brahmā, Lord Śiva and other great demigods, dared not come forward before the Lord, who at that time was extremely angry."
 }
 ---

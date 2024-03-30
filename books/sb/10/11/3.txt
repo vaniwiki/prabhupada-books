@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 10.11.3",
+    "h1":"SB 10.11.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 10.11.3",
     "description":"Kṛṣṇa was bound by the rope to the ulūkhala, the mortar, which He was dragging. But how could He have pulled down the trees? Who had actually done it? Where was the source for this incident? Considering all these astounding things, the cowherd men were doubtful and bewildered."
 }
 ---

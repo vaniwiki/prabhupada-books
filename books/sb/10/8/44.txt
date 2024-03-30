@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 10.8.44",
+    "h1":"SB 10.8.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 10.8.44",
     "description":"Immediately forgetting yogamāyā's illusion that Kṛṣṇa had shown the universal form within His mouth, mother Yaśodā took her son on her lap as before, feeling increased affection in her heart for her transcendental child."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.2.33",
+    "h1":"SB 3.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.2.33",
     "description":"O sober Vidura, King Indra, his honor having been insulted, poured water incessantly on Vṛndāvana, and thus the inhabitants of Vraja, the land of cows, were greatly distressed. But the compassionate Lord Kṛṣṇa saved them from danger with His pastime umbrella, the Govardhana Hill."
 }
 ---

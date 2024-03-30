@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 7.10.31",
+    "h1":"SB 7.10.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 7.10.31",
     "description":"Nārada Muni continued: O King Yudhiṣṭhira, the Supreme Personality of Godhead, who is not visible to an ordinary human being, spoke in this way, instructing Lord Brahmā. Then, being worshiped by Brahmā, the Lord disappeared from that place."
 }
 ---

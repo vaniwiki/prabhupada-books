@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.1.2",
+    "h1":"SB 4.1.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.1.2",
     "description":"Ākūti had two brothers, but in spite of her brothers, King Svāyambhuva Manu handed her over to Prajāpati Ruci on the condition that the son born of her be returned to Manu as his son. This he did in consultation with his wife, Śatarūpā."
 }
 ---

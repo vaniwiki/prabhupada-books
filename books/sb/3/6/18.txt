@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.6.18",
+    "h1":"SB 3.6.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.6.18",
     "description":"When there was a separate manifestation of skin, the controlling deities of sensations and their different parts entered into it, and thus the living entities feel itching and happiness due to touch."
 }
 ---

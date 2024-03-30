@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 3.31.47",
+    "h1":"SB 3.31.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 3.31.47",
     "description":"Therefore, one should not view death with horror, nor have recourse to defining the body as soul, nor give way to exaggeration in enjoying the bodily necessities of life. Realizing the true nature of the living entity, one should move about in the world free from attachment and steadfast in purpose."
 }
 ---

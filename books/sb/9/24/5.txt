@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 9.24.5",
+    "h1":"SB 9.24.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 9.24.5",
     "description":"From Daśaratha came a son named Śakuni and from Śakuni a son named Karambhi. The son of Karambhi was Devarāta, and his son was Devakṣatra. The son of Devakṣatra was Madhu, and his son was Kuruvaśa, from whom there came a son named Anu."
 }
 ---

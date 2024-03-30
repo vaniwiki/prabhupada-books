@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.32-34",
-    "h1":"Text 32-34",
-    "title":" Śrīmad Bhāgavatam 8.10.32-34",
+    "h1":"SB 8.10.32-34",
+    "label":"Text 32-34",
+    "title":"Śrīmad Bhāgavatam 8.10.32-34",
     "description":"O Mahārāja Parīkṣit, suppressor of enemies [Arindama], Lord Śiva fought with Jambha, and Vibhāvasu fought with Mahiṣāsura. Ilvala, along with his brother Vātāpi, fought the sons of Lord Brahmā. Durmarṣa fought with Cupid, the demon Utkala with the Mātṛkā demigoddesses, Bṛhaspati with Śukrācārya, and Śanaiścara [Saturn] with Narakāsura. The Maruts fought Nivātakavaca, the Vasus fought the Kālakeya demons, the Viśvedeva demigods fought the Pauloma demons, and the Rudras fought the Krodhavaśa demons, who were victims of anger."
 }
 ---

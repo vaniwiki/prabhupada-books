@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 4.28.43",
+    "h1":"SB 4.28.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 4.28.43",
     "description":"The daughter of King Vidarbha accepted her husband all in all as the Supreme. She gave up all sensual enjoyment and in complete renunciation followed the principles of her husband, who was so advanced. Thus she remained engaged in his service."
 }
 ---

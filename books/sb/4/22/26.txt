@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.22.26",
+    "h1":"SB 4.22.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.22.26",
     "description":"Upon becoming fixed in his attachment to the Supreme Personality of Godhead by the grace of the spiritual master and by awakening knowledge and detachment, the living entity, situated within the heart of the body and covered by the five elements, burns up his material surroundings exactly as fire, arising from wood, burns the wood itself."
 }
 ---

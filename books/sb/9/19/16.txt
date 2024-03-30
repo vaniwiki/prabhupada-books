@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 9.19.16",
+    "h1":"SB 9.19.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 9.19.16",
     "description":"For those who are too attached to material enjoyment, sense gratification is very difficult to give up. Even when one is an invalid because of old age, one cannot give up such desires for sense gratification. Therefore, one who actually desires happiness must give up such unsatisfied desires, which are the cause of all tribulations."
 }
 ---

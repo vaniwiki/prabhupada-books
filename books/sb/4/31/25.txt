@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.31.25",
+    "h1":"SB 4.31.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.31.25",
     "description":"My dear Vidura, I have told you everything you wanted to know about the conversation between Nārada and the Pracetās, the conversation describing the glories of the Lord. I have related this as far as possible."
 }
 ---

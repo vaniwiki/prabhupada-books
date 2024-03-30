@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.6.17",
+    "h1":"SB 4.6.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.6.17",
     "description":"Kailāsa Hill is also decorated with such trees as kata, jackfruit, julara, banyan trees, plakṣas, nyagrodhas and trees producing asafoetida. Also there are trees of betel nuts and bhūrja-patra, as well as rājapūga, blackberries and similar other trees."
 }
 ---

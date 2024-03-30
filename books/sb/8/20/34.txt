@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.20.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 8.20.34",
+    "h1":"SB 8.20.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 8.20.34",
     "description":"As the Lord took His second step, He covered the heavenly planets. And not even a spot remained for the third step, for the Lord's foot extended higher and higher, beyond Maharloka, Janaloka, Tapoloka and even Satyaloka."
 }
 ---

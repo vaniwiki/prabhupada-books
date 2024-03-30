@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 4.25.44",
+    "h1":"SB 4.25.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 4.25.44",
     "description":"Many professional singers used to sing about the glories of King Purañjana and his glorious activities. When it was too hot in the summer, he used to enter a reservoir of water. He would surround himself with many women and enjoy their company."
 }
 ---

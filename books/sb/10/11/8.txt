@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 10.11.8",
+    "h1":"SB 10.11.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 10.11.8",
     "description":"Sometimes mother Yaśodā and her gopī friends would tell Kṛṣṇa, \"Bring this article\" or \"Bring that article.\" Sometimes they would order Him to bring a wooden plank, wooden shoes or a wooden measuring pot, and Kṛṣṇa, when thus ordered by the mothers, would try to bring them. Sometimes, however, as if unable to raise these things, He would touch them and stand there. Just to invite the pleasure of His relatives, He would strike His body with His arms to show that He had sufficient strength."
 }
 ---

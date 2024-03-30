@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 5.24.26",
+    "h1":"SB 5.24.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 5.24.26",
     "description":"Bali Mahārāja said: Persons like us, who are still attached to material enjoyment, who are contaminated by the modes of material nature and who lack the mercy of the Supreme Personality of Godhead, cannot follow the supreme path of Prahlāda Mahārāja, the exalted devotee of the Lord."
 }
 ---

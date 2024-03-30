@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 5.1.34",
+    "h1":"SB 5.1.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 5.1.34",
     "description":"King Priyavrata then gave his daughter, Ūrjasvatī, in marriage to Śukrācārya, who begot in her a daughter named Devayānī."
 }
 ---

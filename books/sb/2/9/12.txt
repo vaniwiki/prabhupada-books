@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 2.9.12",
+    "h1":"SB 2.9.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 2.9.12",
     "description":"Some of them are effulgent like coral and diamonds in complexion and have garlands on their heads, blooming like lotus flowers, and some wear earrings."
 }
 ---

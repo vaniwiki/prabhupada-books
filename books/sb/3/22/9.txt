@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 3.22.9",
+    "h1":"SB 3.22.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 3.22.9",
     "description":"My daughter is the sister of Priyavrata and Uttānapāda. She is seeking a suitable husband in terms of age, character and good qualities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.31.29",
+    "h1":"SB 4.31.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.31.29",
     "description":"Śrī Vidura said: O great mystic, O greatest of all devotees, by your causeless mercy I have been shown the path of liberation from this world of darkness. By following this path, a person liberated from the material world can return home, back to Godhead."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 10.5.32",
+    "h1":"SB 10.5.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 10.5.32",
     "description":"Śukadeva Gosvāmī said: After Vasudeva advised Nanda Mahārāja in this way, Nanda Mahārāja and his associates, the cowherd men, took permission from Vasudeva, yoked their bulls to the bullock carts, and started riding for Gokula."
 }
 ---

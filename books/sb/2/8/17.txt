@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 2.8.17",
+    "h1":"SB 2.8.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 2.8.17",
     "description":"Please explain all the different ages in the duration of the creation, and also the duration of such ages. Also tell me about the different activities of the different incarnations of the Lord in different ages."
 }
 ---

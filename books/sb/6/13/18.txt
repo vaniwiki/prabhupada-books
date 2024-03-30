@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 6.13.18",
+    "h1":"SB 6.13.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 6.13.18",
     "description":"O King, when Lord Indra reached the heavenly planets, the saintly brāhmaṇas approached him and properly initiated him into a horse sacrifice [aśvamedha-yajña] meant to please the Supreme Lord."
 }
 ---

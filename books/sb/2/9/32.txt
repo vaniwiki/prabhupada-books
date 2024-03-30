@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 2.9.32",
+    "h1":"SB 2.9.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 2.9.32",
     "description":"All of Me, namely My actual eternal form and My transcendental existence, color, qualities and activities—let all be awakened within you by factual realization, out of My causeless mercy."
 }
 ---

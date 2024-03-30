@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.3.15",
+    "h1":"SB 2.3.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.3.15",
     "description":"Mahārāja Parīkṣit, the grandson of the Pāṇḍavas, was from his very childhood a great devotee of the Lord. Even while playing with dolls, he used to worship Lord Kṛṣṇa by imitating the worship of the family Deity."
 }
 ---

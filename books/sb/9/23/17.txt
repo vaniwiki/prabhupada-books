@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.23.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 9.23.17",
+    "h1":"SB 9.23.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 9.23.17",
     "description":"The son of Bhānumān was Tribhānu, and his son was the magnanimous Karandhama. Karandhama's son was Maruta, who had no sons and who therefore adopted a son of the Pūru dynasty [Mahārāja Duṣmanta] as his own."
 }
 ---

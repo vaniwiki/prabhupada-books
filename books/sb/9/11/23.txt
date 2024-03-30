@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 9.11.23",
+    "h1":"SB 9.11.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 9.11.23",
     "description":"O King Parīkṣit, anyone who aurally receives the narrations concerning the characteristics of Lord Rāmacandra's pastimes will ultimately be freed from the disease of envy and thus be liberated from the bondage of fruitive activities."
 }
 ---

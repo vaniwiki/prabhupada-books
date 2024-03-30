@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.14.11",
+    "h1":"SB 5.14.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.14.11",
     "description":"Sometimes the conditioned soul is very aggrieved by the chastisement of his enemies and government servants, who use harsh words against him directly or indirectly. At that time his heart and ears become very saddened. Such chastisement may be compared to the sounds of owls and crickets."
 }
 ---

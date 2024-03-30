@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 4.19.41",
+    "h1":"SB 4.19.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 4.19.41",
     "description":"With great respect, the original king, Pṛthu, offered all kinds of rewards to the brāhmaṇas present at the sacrifice. Since all these brāhmaṇas were very much satisfied, they gave their heartfelt blessings to the King."
 }
 ---

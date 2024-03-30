@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.27.21",
+    "h1":"SB 3.27.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.27.21",
     "description":"The Supreme Personality of Godhead said: One can get liberation by seriously discharging devotional service unto Me and thereby hearing for a long time about Me or from Me. By thus executing one's prescribed duties, there will be no reaction, and one will be freed from the contamination of matter."
 }
 ---

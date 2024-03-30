@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 7.13.22",
+    "h1":"SB 7.13.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 7.13.22",
     "description":"Nārāyaṇa, the Supreme Personality of Godhead, who is full of all opulences, is predominant within the core of your heart because of your being a pure devotee. He always drives away all the darkness of ignorance, as the sun drives away the darkness of the universe."
 }
 ---

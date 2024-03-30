@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.77",
-    "h1":"Text 77",
-    "title":" Śrīmad Bhāgavatam 4.8.77",
+    "h1":"SB 4.8.77",
+    "label":"Text 77",
+    "title":"Śrīmad Bhāgavatam 4.8.77",
     "description":"He completely controlled his senses and their objects, and in this way he fixed his mind, without diversion to anything else, upon the form of the Supreme Personality of Godhead."
 }
 ---

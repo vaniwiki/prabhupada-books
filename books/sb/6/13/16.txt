@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 6.13.16",
+    "h1":"SB 6.13.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 6.13.16",
     "description":"As long as King Indra lived in the water, wrapped in the stem of the lotus, Nahuṣa was equipped with the ability to rule the heavenly kingdom, due to his knowledge, austerity and mystic power. Nahuṣa, however, blinded and maddened by power and opulence, made undesirable proposals to Indra's wife with a desire to enjoy her. Thus Nahuṣa was cursed by a brāhmaṇa and later became a snake."
 }
 ---

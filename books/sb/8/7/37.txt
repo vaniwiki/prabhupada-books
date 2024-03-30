@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 8.7.37",
+    "h1":"SB 8.7.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 8.7.37",
     "description":"Lord Śiva said: My dear Bhavānī, just see how all these living entities have been placed in danger because of the poison produced from the churning of the ocean of milk."
 }
 ---

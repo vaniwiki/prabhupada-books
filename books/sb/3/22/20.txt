@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.22.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.22.20",
+    "h1":"SB 3.22.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.22.20",
     "description":"The highest authority for me is the unlimited Supreme Personality of Godhead, from whom this wonderful creation emanates and in whom its sustenance and dissolution rest. He is the origin of all Prajāpatis, the personalities meant to produce living entities in this world."
 }
 ---

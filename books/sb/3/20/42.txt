@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 3.20.42",
+    "h1":"SB 3.20.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 3.20.42",
     "description":"Recognizing himself to be full of desire and energy, the worshipful Brahmā, the creator of the living entities, evolved from his own invisible form, from his navel, the hosts of Sādhyas and Pitās."
 }
 ---

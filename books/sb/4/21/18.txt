@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 4.21.18",
+    "h1":"SB 4.21.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 4.21.18",
     "description":"As Mahārāja Pṛthu was being initiated to perform the sacrifice, he had to leave aside his valuable dress, and therefore his natural bodily beauty was visible. It was very pleasing to see him put on a black deerskin and wear a ring of kuśa grass on his finger, for this increased the natural beauty of his body. It appears that Mahārāja Pṛthu observed all the regulative principles before he performed the sacrifice."
 }
 ---

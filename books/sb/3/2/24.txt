@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.2.24",
+    "h1":"SB 3.2.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.2.24",
     "description":"I consider the demons, who are inimical toward the Lord, to be more than the devotees because while fighting with the Lord, absorbed in thoughts of enmity, they are able to see the Lord carried on the shoulder of Garuḍa, the son of Tārkṣya [Kaśyapa], and carrying the wheel weapon in His hand."
 }
 ---

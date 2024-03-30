@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.22.3",
+    "h1":"SB 4.22.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.22.3",
     "description":"Seeing the four Kumāras, Pṛthu Mahārāja was greatly anxious to receive them. Therefore the King, with all his officers, very hastily got up, as anxiously as a conditioned soul whose senses are immediately attracted by the modes of material nature."
 }
 ---

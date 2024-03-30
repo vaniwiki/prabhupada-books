@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 8.10.53",
+    "h1":"SB 8.10.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 8.10.53",
     "description":"O King, when the demigods could find no way to counteract the activities of the demons, they wholeheartedly meditated upon the Supreme Personality of Godhead, the creator of the universe, who then immediately appeared."
 }
 ---

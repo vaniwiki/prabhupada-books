@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.29.38",
+    "h1":"SB 4.29.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.29.38",
     "description":"O best of kings, one who is faithful, who is always hearing the glories of the Supreme Personality of Godhead, who is always engaged in the culture of Kṛṣṇa consciousness and in hearing of the Lord's activities, very soon becomes eligible to see the Supreme Personality of Godhead face to face."
 }
 ---

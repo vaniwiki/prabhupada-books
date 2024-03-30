@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 8.3.25",
+    "h1":"SB 8.3.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 8.3.25",
     "description":"I do not wish to live anymore after I am released from the attack of the crocodile. What is the use of an elephant's body covered externally and internally by ignorance? I simply desire eternal liberation from the covering of ignorance. That covering is not destroyed by the influence of time."
 }
 ---

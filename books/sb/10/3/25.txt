@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 10.3.25",
+    "h1":"SB 10.3.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 10.3.25",
     "description":"After millions of years, at the time of cosmic annihilation, when everything, manifested and unmanifested, is annihilated by the force of time, the five gross elements enter into the subtle conception, and the manifested categories enter into the unmanifested substance. At that time, You alone remain, and You are known as Ananta Śeṣa-nāga."
 }
 ---

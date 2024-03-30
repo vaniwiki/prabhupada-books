@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 3.1.44",
+    "h1":"SB 3.1.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 3.1.44",
     "description":"The appearance of the Lord is manifested for the annihilation of the upstarts. His activities are transcendental and are enacted for the understanding of all persons. Otherwise, since the Lord is transcendental to all material modes, what purpose could He serve by coming to earth?"
 }
 ---

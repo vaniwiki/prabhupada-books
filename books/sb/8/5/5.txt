@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.5.5",
+    "h1":"SB 8.5.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.5.5",
     "description":"Just to please the goddess of fortune, the Supreme Personality of Godhead, Vaikuṇṭha, at her request, created another Vaikuṇṭha planet, which is worshiped by everyone."
 }
 ---

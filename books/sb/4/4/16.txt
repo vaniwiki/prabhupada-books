@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.4.16",
+    "h1":"SB 4.4.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.4.16",
     "description":"Do you think that greater, more respectable personalities than you, such as Lord Brahmā, do not know this inauspicious person who goes under the name Lord Śiva? He associates with the demons in the crematorium, his locks of hair are scattered all over his body, he is garlanded with human skulls and smeared with ashes from the crematorium, but in spite of all these inauspicious qualities, great personalities like Brahmā honor him by accepting the flowers offered to his lotus feet and placing them with great respect on their heads."
 }
 ---

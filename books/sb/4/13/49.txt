@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 4.13.49",
+    "h1":"SB 4.13.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 4.13.49",
     "description":"When the citizens could not find any trace of the King after searching for him everywhere, they were very disappointed, and they returned to the city, where all the great sages of the country assembled because of the King's absence. With tears in their eyes the citizens offered respectful obeisances and informed the sages in full detail that they were unable to find the King anywhere."
 }
 ---

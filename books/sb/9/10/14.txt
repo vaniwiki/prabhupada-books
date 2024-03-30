@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.10.14",
+    "h1":"SB 9.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.10.14",
     "description":"O all-pervading Supreme Person, we are dull-minded and did not understand who You are, but now we understand that You are the Supreme Person, the master of the entire universe, the unchanging and original Personality of Godhead. The demigods are infatuated with the mode of goodness, the Prajāpatis with the mode of passion, and the lord of ghosts with the mode of ignorance, but You are the master of all these qualities."
 }
 ---

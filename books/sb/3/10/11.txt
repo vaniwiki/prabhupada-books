@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.10.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.10.11",
+    "h1":"SB 3.10.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.10.11",
     "description":"Maitreya said: Eternal time is the primeval source of the interactions of the three modes of material nature. It is unchangeable and limitless, and it works as the instrument of the Supreme Personality of Godhead for His pastimes in the material creation."
 }
 ---

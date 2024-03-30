@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.10.27",
+    "h1":"SB 8.10.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.10.27",
     "description":"The demigods and demons came before each other and reproached one another with words piercing to the heart. Then they drew near and began fighting face to face in pairs."
 }
 ---

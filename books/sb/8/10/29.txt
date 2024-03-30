@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.10.29",
+    "h1":"SB 8.10.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.10.29",
     "description":"Yamarāja fought with Kālanābha, Viśvakarmā with Maya Dānava, Tvaṣṭā with Śambara, and the sun-god with Virocana."
 }
 ---

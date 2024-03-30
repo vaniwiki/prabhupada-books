@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.3.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.3.8",
+    "h1":"SB 9.3.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.3.8",
     "description":"After hearing this statement by his daughter, King Śaryāti was very much afraid. In various ways, he tried to appease Cyavana Muni, for it was he who sat within the hole of the earthworm."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.10.10",
+    "h1":"SB 4.10.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.10.10",
     "description":"Just like serpents, who cannot tolerate being trampled upon by anyone's feet, the Yakṣas, being intolerant of the wonderful prowess of Dhruva Mahārāja, threw twice as many arrows—six from each of their soldiers—and thus they very valiantly exhibited their prowess."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.28.36",
+    "h1":"SB 3.28.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.28.36",
     "description":"Thus situated in the highest transcendental stage, the mind ceases from all material reaction and becomes situated in its own glory, transcendental to all material conceptions of happiness and distress. At that time the yogī realizes the truth of his relationship with the Supreme Personality of Godhead. He discovers that pleasure and pain as well as their interactions, which he attributed to his own self, are actually due to the false ego, which is a product of ignorance."
 }
 ---

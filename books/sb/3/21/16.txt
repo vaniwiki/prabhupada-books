@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.21.16",
+    "h1":"SB 3.21.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.21.16",
     "description":"O my Lord, You are the master and leader of all living entities. Under Your direction, all conditioned souls, as if bound by rope, are constantly engaged in satisfying their desires. Following them, O embodiment of religion, I also bear oblations for You, who are eternal time."
 }
 ---

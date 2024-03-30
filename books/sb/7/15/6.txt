@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 7.15.6",
+    "h1":"SB 7.15.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 7.15.6",
     "description":"One should offer prasāda to the demigods, the saintly persons, one's forefathers, the people in general, one's family members, one's relatives and one's friends, seeing them all as devotees of the Supreme Personality of Godhead."
 }
 ---

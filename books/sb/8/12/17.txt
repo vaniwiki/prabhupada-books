@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.12.17",
+    "h1":"SB 8.12.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.12.17",
     "description":"Śukadeva Gosvāmī continued: After speaking in this way, the Supreme Personality of Godhead, Viṣṇu, immediately disappeared, and Lord Śiva remained there with Umā, looking for Him all around with moving eyes."
 }
 ---

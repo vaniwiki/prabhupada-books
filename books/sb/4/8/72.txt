@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.72",
-    "h1":"Text 72",
-    "title":" Śrīmad Bhāgavatam 4.8.72",
+    "h1":"SB 4.8.72",
+    "label":"Text 72",
+    "title":"Śrīmad Bhāgavatam 4.8.72",
     "description":"For the first month Dhruva Mahārāja ate only fruits and berries on every third day, only to keep his body and soul together, and in this way he progressed in his worship of the Supreme Personality of Godhead."
 }
 ---

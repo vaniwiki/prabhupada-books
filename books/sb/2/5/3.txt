@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 2.5.3",
+    "h1":"SB 2.5.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 2.5.3",
     "description":"My dear father, all this is known to you scientifically because whatever was created in the past, whatever will be created in the future, or whatever is being created at present, as well as everything within the universe, is within your grip, just like a walnut."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 10.4.14",
+    "h1":"SB 10.4.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 10.4.14",
     "description":"After hearing the words of the goddess Durgā, Kaṁsa was struck with wonder. Thus he approached his sister Devakī and brother-in-law Vasudeva, released them immediately from their shackles, and very humbly spoke as follows."
 }
 ---

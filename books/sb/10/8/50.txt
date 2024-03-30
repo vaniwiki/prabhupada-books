@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 10.8.50",
+    "h1":"SB 10.8.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 10.8.50",
     "description":"When Brahmā said, \"Yes, let it be so,\" the most fortune Droṇa, who was equal to Bhagavān, appeared in Vrajapura, Vṛndāvana, as the most famous Nanda Mahārāja, and his wife, Dharā, appeared as mother Yaśodā."
 }
 ---

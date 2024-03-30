@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 3.3.20",
+    "h1":"SB 3.3.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 3.3.20",
     "description":"He was there in His transcendental body, the residence of the goddess of fortune, with His usual gentle and sweetly smiling face, His nectarean words and His flawless character."
 }
 ---

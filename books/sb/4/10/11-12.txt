@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.11-12",
-    "h1":"Text 11-12",
-    "title":" Śrīmad Bhāgavatam 4.10.11-12",
+    "h1":"SB 4.10.11-12",
+    "label":"Text 11-12",
+    "title":"Śrīmad Bhāgavatam 4.10.11-12",
     "description":"The Yakṣa soldiers were 130,000 strong, all greatly angry and all desiring to defeat the wonderful activities of Dhruva Mahārāja. With full strength they showered upon Mahārāja Dhruva, along with his chariot and charioteer, various types of feathered arrows, parighas [iron bludgeons], nistriṁśas [swords], prāsaśūlas [tridents], paraśvadhas [lances], śaktis [pikes], ṛṣṭis [spears] and bhuśuṇḍī weapons."
 }
 ---

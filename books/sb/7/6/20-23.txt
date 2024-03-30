@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.20-23",
-    "h1":"Text 20-23",
-    "title":" Śrīmad Bhāgavatam 7.6.20-23",
+    "h1":"SB 7.6.20-23",
+    "label":"Text 20-23",
+    "title":"Śrīmad Bhāgavatam 7.6.20-23",
     "description":"The Supreme Personality of Godhead, the supreme controller, who is infallible and indefatigable, is present in different forms of life, from the inert living beings [sthāvara], such as the plants, to Brahmā, the foremost created living being. He is also present in the varieties of material creations and in the material elements, the total material energy and the modes of material nature [sattva-guṇa, rajo-guṇa and tamo-guṇa], as well as the unmanifested material nature and the false ego. Although He is one, He is present everywhere, and He is also the transcendental Supersoul, the cause of all causes, who is present as the observer in the cores of the hearts of all living entities. He is indicated as that which is pervaded and as the all-pervading Supersoul, but actually He cannot be indicated. He is changeless and undivided. He is simply perceived as the supreme sac-cid-ānanda [eternity, knowledge and bliss]. Being covered by the curtain of the external energy, to the atheist He appears nonexistent."
 }
 ---

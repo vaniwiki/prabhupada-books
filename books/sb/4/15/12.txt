@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.15.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.15.12",
+    "h1":"SB 4.15.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.15.12",
     "description":"All the rivers, seas, hills, mountains, serpents, cows, birds, animals, heavenly planets, the earthly planet and all other living entities collected various presentations, according to their ability, to offer the King."
 }
 ---

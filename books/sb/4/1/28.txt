@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.1.28",
+    "h1":"SB 4.1.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.1.28",
     "description":"I called for the Supreme Personality of Godhead, desiring a son like Him, and I thought of Him only. But although He is far beyond the mental speculation of man, all three of you have come here. Kindly let me know how you have come, for I am greatly bewildered about this."
 }
 ---

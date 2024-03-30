@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.6.5",
+    "h1":"SB 4.6.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.6.5",
     "description":"You have excluded Lord Śiva from taking part in the sacrificial results, and therefore you are all offenders at his lotus feet. Still, if you go without mental reservations and surrender unto him and fall down at his lotus feet, he will be very pleased."
 }
 ---

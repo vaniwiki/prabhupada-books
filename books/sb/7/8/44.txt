@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 7.8.44",
+    "h1":"SB 7.8.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 7.8.44",
     "description":"The inhabitants of Pitṛloka prayed: Let us offer our respectful obeisances unto Lord Nṛsiṁhadeva, the maintainer of the religious principles of the universe. He has killed Hiraṇyakaśipu, the demon who by force enjoyed all the offerings of the śrāddha ceremonies performed by our sons and grandsons on the anniversaries of our death and who drank the water with sesame seeds offered in holy places of pilgrimage. By killing this demon, O Lord, You have taken back all this stolen property from his abdomen by piercing it with Your nails. We therefore wish to offer our respectful obeisances unto You."
 }
 ---

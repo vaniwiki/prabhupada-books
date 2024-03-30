@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.33.16",
+    "h1":"SB 3.33.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.33.16",
     "description":"The opulence of the household of Kardama Muni is described herein. The bedsheets and mattresses were all as white as the foam of milk, the chairs and benches were made of ivory and were covered by cloths of lace with golden filigree, and the couches were made of gold and had very soft pillows."
 }
 ---

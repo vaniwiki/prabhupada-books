@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.4.28",
+    "h1":"SB 3.4.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.4.28",
     "description":"The King inquired: At the end of the pastimes of the Lord of the three worlds, Śrī Kṛṣṇa, and after the disappearance of the members of the Vṛṣṇi and Bhoja dynasties, who were the best of the great commanders, why did Uddhava alone remain?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.6.22",
+    "h1":"SB 3.6.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.6.22",
     "description":"Thereafter the legs of the gigantic form separately became manifest, and the demigod named Viṣṇu [not the Personality of Godhead] entered with partial movement. This helps the living entity move to his destination."
 }
 ---

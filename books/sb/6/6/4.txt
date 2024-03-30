@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 6.6.4",
+    "h1":"SB 6.6.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 6.6.4",
     "description":"The ten daughters given to Yamarāja were named Bhānu, Lambā, Kakud, Yāmi, Viśvā, Sādhyā, Marutvatī, Vasu, Muhūrtā and Saṅkalpā. Now hear the names of their sons."
 }
 ---

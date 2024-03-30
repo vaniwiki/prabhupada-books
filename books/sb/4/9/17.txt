@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.9.17",
+    "h1":"SB 4.9.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.9.17",
     "description":"My Lord, O Supreme Lord, You are the supreme personified form of all benediction. Therefore, for one who abides in Your devotional service with no other desire, worshiping Your lotus feet is better than becoming king and lording it over a kingdom. That is the benediction of worshiping Your lotus feet. To ignorant devotees like me, You are the causelessly merciful maintainer, just like a cow, who takes care of the newly born calf by supplying milk and giving it protection from attack."
 }
 ---

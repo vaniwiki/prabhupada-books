@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 8.5.35",
+    "h1":"SB 8.5.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 8.5.35",
     "description":"Fire, which is born for the sake of accepting oblations in ritualistic ceremonies, is the mouth of the Supreme Personality of Godhead. Fire exists within the depths of the ocean to produce wealth, and fire is also present in the abdomen to digest food and produce various secretions for the maintenance of the body. May that supremely powerful Personality of Godhead be pleased with us."
 }
 ---

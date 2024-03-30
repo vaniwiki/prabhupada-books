@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 6.1.40",
+    "h1":"SB 6.1.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 6.1.40",
     "description":"The Yamadūtas replied: That which is prescribed in the Vedas constitutes dharma, the religious principles, and the opposite of that is irreligion. The Vedas are directly the Supreme Personality of Godhead, Nārāyaṇa, and are self-born. This we have heard from Yamarāja."
 }
 ---

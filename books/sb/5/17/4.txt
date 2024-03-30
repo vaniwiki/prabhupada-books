@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.17.4",
+    "h1":"SB 5.17.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.17.4",
     "description":"After purifying the seven planets near Dhruvaloka [the polestar], the Ganges water is carried through the spaceways of the demigods in billions of celestial airplanes. Then it inundates the moon [Candraloka] and finally reaches Lord Brahmā's abode atop Mount Meru."
 }
 ---

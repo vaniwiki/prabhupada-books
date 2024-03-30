@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 8.5.50",
+    "h1":"SB 8.5.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 8.5.50",
     "description":"My Lord, all obeisances unto You, who are eternal, beyond time's limits of past, present and future. You are inconceivable in Your activities, You are the master of the three modes of material nature, and, being transcendental to all material qualities, You are free from material contamination. You are the controller of all three of the modes of nature, but at the present You are in favor of the quality of goodness. Let us offer our respectful obeisances unto You."
 }
 ---

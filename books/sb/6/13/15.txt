@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 6.13.15",
+    "h1":"SB 6.13.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 6.13.15",
     "description":"Always thinking of how he could be relieved from the sinful reaction for killing a brāhmaṇa, King Indra, invisible to everyone, lived in the lake for one thousand years in the subtle fibers of the stem of a lotus. The fire-god used to bring him his share of all yajñas, but because the fire-god was afraid to enter the water, Indra was practically starving."
 }
 ---

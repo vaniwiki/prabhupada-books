@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.17.13",
+    "h1":"SB 4.17.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.17.13",
     "description":"Having arrived at a conclusion, the King took up his bow and arrow and aimed them at the earth, exactly like Lord Śiva, who destroys the whole world out of anger."
 }
 ---

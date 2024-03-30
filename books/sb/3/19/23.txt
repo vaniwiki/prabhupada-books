@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.19.23",
+    "h1":"SB 3.19.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.19.23",
     "description":"At that very moment, a shudder suddenly ran through the heart of Diti, the mother of Hiraṇyākṣa. She recalled the words of her husband, Kaśyapa, and blood flowed from her breasts."
 }
 ---

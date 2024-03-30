@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.18.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.18.17",
+    "h1":"SB 4.18.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.18.17",
     "description":"The inhabitants of Gandharvaloka and Apsaroloka made Viśvāvasu into a calf, and they drew the milk into a lotus flower pot. The milk took the shape of sweet musical art and beauty."
 }
 ---

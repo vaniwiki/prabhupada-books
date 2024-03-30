@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.5.2",
+    "h1":"SB 8.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.5.2",
     "description":"The brother of Tāmasa Manu was the fifth Manu, named Raivata. His sons were headed by Arjuna, Bali and Vindhya."
 }
 ---

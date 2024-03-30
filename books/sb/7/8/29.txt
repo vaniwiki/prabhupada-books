@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 7.8.29",
+    "h1":"SB 7.8.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 7.8.29",
     "description":"As a snake captures a mouse or Garuḍa captures a very venomous snake, Lord Nṛsiṁhadeva captured Hiraṇyakaśipu, who could not be pierced even by the thunderbolt of King Indra. As Hiraṇyakaśipu moved his limbs here, there and all around, very much afflicted at being captured, Lord Nṛsiṁhadeva placed the demon on His lap, supporting him with His thighs, and in the doorway of the assembly hall the Lord very easily tore the demon to pieces with the nails of His hand."
 }
 ---

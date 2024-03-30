@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.17.22",
+    "h1":"SB 3.17.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.17.22",
     "description":"His mental and bodily strength as well as the boon conferred upon him had made him proud. He feared death at the hands of no one, and there was no checking him. The gods, therefore, were seized with fear at his very sight, and they hid themselves even as snakes hide themselves for fear of Garuḍa."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.1.10",
+    "h1":"SB 4.1.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.1.10",
     "description":"My dear son, Svāyambhuva Manu handed over his very dear daughter Devahūti to Kardama Muni. I have already spoken to you about them, and you have heard about them almost in full."
 }
 ---

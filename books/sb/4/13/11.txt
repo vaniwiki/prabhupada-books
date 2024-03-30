@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.13.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.13.11",
+    "h1":"SB 4.13.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.13.11",
     "description":"For this reason the ministers and all the elderly members of the family thought Utkala to be without intelligence and, in fact, mad. Thus his younger brother, named Vatsara, the son of Bhrami, was elevated to the royal throne, and he became king of the world."
 }
 ---

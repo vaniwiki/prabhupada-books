@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.16.8",
+    "h1":"SB 9.16.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.16.8",
     "description":"Thereafter, by the benediction of Jamadagni, Lord Paraśurāma's mother and brothers immediately came alive and were very happy, as if awakened from sound sleep. Lord Paraśurāma had killed his relatives in accordance with his father's order because he was fully aware of his father's power, austerity and learning."
 }
 ---

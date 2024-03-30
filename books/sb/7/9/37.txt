@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 7.9.37",
+    "h1":"SB 7.9.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 7.9.37",
     "description":"My dear Lord, when You appeared as Hayagrīva, with the head of a horse, You killed two demons known as Madhu and Kaiṭabha, who were full of the modes of passion and ignorance. Then You delivered the Vedic knowledge to Lord Brahmā. For this reason, all the great saints accept Your forms as transcendental, untinged by material qualities."
 }
 ---

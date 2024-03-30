@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 2.10.43",
+    "h1":"SB 2.10.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 2.10.43",
     "description":"Thereafter, at the end of the millennium, the Lord Himself in the form of Rudra, the destroyer, will annihilate the complete creation as the wind displaces the clouds."
 }
 ---

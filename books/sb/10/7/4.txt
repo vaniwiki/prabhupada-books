@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 10.7.4",
+    "h1":"SB 10.7.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 10.7.4",
     "description":"Śukadeva Gosvāmī said: When mother Yaśodā's baby was slanting His body to attempt to rise and turn around, this attempt was observed by a Vedic ceremony. In such a ceremony, called utthāna, which is performed when a child is due to leave the house for the first time, the child is properly bathed. Just after Kṛṣṇa turned three months old, mother Yaśodā celebrated this ceremony with other women of the neighborhood. On that day, there was a conjunction of the moon with the constellation Rohiṇī. As the brāhmaṇas joined by chanting Vedic hymns and professional musicians also took part, this great ceremony was observed by mother Yaśodā."
 }
 ---

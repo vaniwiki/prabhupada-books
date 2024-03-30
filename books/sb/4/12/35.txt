@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.12.35",
+    "h1":"SB 4.12.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.12.35",
     "description":"Dhruva Mahārāja thus surpassed the seven planetary systems of the great sages who are known as saptarṣi. Beyond that region, he achieved the transcendental situation of permanent life in the planet where Lord Viṣṇu lives."
 }
 ---

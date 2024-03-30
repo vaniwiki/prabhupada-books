@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.4.21",
+    "h1":"SB 4.4.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.4.21",
     "description":"My dear father, the opulence we possess is impossible for either you or your flatterers to imagine, for persons who engage in fruitive activities by performing great sacrifices are concerned with satisfying their bodily necessities by eating foodstuff offered as a sacrifice. We can exhibit our opulences simply by desiring to do so. This can be achieved only by great personalities who are renounced, self-realized souls."
 }
 ---

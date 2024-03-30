@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 4.1.29",
+    "h1":"SB 4.1.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 4.1.29",
     "description":"The great sage Maitreya continued: Upon hearing Atri Muni speak in that way, the three great deities smiled, and they replied in the following sweet words."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 8.7.29",
+    "h1":"SB 8.7.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 8.7.29",
     "description":"O lord, the five important Vedic mantras are represented by your five faces, from which the thirty-eight most celebrated Vedic mantras have been generated. Your Lordship, being celebrated as Lord Śiva, is self-illuminated. You are directly situated as the supreme truth, known as Paramātmā."
 }
 ---

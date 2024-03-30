@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.3.2",
+    "h1":"SB 4.3.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.3.2",
     "description":"When Lord Brahmā appointed Dakṣa the chief of all the Prajāpatis, the progenitors of population, Dakṣa became very much puffed up."
 }
 ---

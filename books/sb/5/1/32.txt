@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 5.1.32",
+    "h1":"SB 5.1.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 5.1.32",
     "description":"The names of the islands are Jambū, Plakṣa, Śālmali, Kuśa, Krauñca, Śāka and Puṣkara. Each island is twice as large as the one preceding it, and each is surrounded by a liquid substance, beyond which is the next island."
 }
 ---

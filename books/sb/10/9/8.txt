@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.9.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 10.9.8",
+    "h1":"SB 10.9.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 10.9.8",
     "description":"Kṛṣṇa, at that time, was sitting on an upside-down wooden mortar for grinding spices and was distributing milk preparations such as yogurt and butter to the monkeys as He liked. Because of having stolen, He was looking all around with great anxiety, suspecting that He might be chastised by His mother. Mother Yaśodā, upon seeing Him, very cautiously approached Him from behind."
 }
 ---

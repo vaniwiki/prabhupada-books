@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.24.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.24.24",
+    "h1":"SB 3.24.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.24.24",
     "description":"He delivered Śānti to Atharvā. Because of Śānti, sacrificial ceremonies are well performed. Thus he got the foremost brāhmaṇas married, and he maintained them along with their wives."
 }
 ---

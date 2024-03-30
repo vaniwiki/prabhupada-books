@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.15.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.15.11",
+    "h1":"SB 5.15.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.15.11",
     "description":"Although King Gaya had no personal desire for sense gratification, all his desires were fulfilled by virtue of his performance of Vedic rituals. All the kings with whom Mahārāja Gaya had to fight were forced to fight on religious principles. They were very satisfied with his fighting, and they would present all kinds of gifts to him. Similarly, all the brāhmaṇas in his kingdom were very satisfied with King Gaya's munificent charities. Consequently the brāhmaṇas contributed a sixth of their pious activities for King Gaya's benefit in the next life."
 }
 ---

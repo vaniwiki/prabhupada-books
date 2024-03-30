@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.9.9",
+    "h1":"SB 6.9.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.9.9",
     "description":"In return for Lord Indra's benediction that they would be able to enjoy lusty desires continuously, even during pregnancy for as long as sex is not injurious to the embryo, women accepted one fourth of the sinful reactions. As a result of those reactions, women manifest the signs of menstruation every month."
 }
 ---

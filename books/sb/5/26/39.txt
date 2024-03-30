@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 5.26.39",
+    "h1":"SB 5.26.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 5.26.39",
     "description":"One who is interested in liberation, who accepts the path of liberation and is not attracted to the path of conditional life, is called yati, or a devotee. Such a person should first control his mind by thinking of the virāṭ-rūpa, the gigantic universal form of the Lord, and then gradually think of the spiritual form of Kṛṣṇa [sac-cid-ānanda-vigraha [Bs. 5.1]] after hearing of both forms. Thus one's mind is fixed in samādhi. By devotional service one can then realize the spiritual form of the Lord, which is the destination of devotees. Thus his life becomes successful."
 }
 ---

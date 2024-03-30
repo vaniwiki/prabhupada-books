@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.17.14",
+    "h1":"SB 3.17.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.17.14",
     "description":"Ominous planets such as Mars and Saturn shone brighter and surpassed the auspicious ones such as Mercury, Jupiter and Venus as well as a number of lunar mansions. Taking seemingly retrograde courses, the planets came in conflict with one another."
 }
 ---

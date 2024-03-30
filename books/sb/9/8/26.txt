@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.8.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 9.8.26",
+    "h1":"SB 9.8.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 9.8.26",
     "description":"O Supersoul of all living entities, O Personality of Godhead, simply by seeing You I have now been freed from all lusty desires, which are the root cause of insurmountable illusion and bondage in the material world."
 }
 ---

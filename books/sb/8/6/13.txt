@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.6.13",
+    "h1":"SB 8.6.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.6.13",
     "description":"Elephants afflicted by a forest fire become very happy when they get water from the Ganges. Similarly, O my Lord, from whose navel grows a lotus flower, since You have now appeared before us, we have become transcendentally happy. By seeing Your Lordship, whom we have desired to see for a very long time, we have achieved our ultimate goal in life."
 }
 ---

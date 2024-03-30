@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 7.5.49",
+    "h1":"SB 7.5.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 7.5.49",
     "description":"O lord, we know that when you simply move your eyebrows, all the commanders of the various planets are most afraid. Without the help of any assistant, you have conquered all the three worlds. Therefore, we do not find any reason for you to be morose and full of anxiety. As for Prahlāda, he is nothing but a child and cannot be a cause of anxiety. After all, his bad or good qualities have no value."
 }
 ---

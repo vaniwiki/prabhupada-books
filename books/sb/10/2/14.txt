@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 10.2.14",
+    "h1":"SB 10.2.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 10.2.14",
     "description":"Thus instructed by the Supreme Personality of Godhead, Yogamāyā immediately agreed. With the Vedic mantra oṁ, she confirmed that she would do what He asked. Thus having accepted the order of the Supreme Personality of Godhead, she circumambulated Him and started for the place on earth known as Nanda-gokula. There she did everything just as she had been told."
 }
 ---

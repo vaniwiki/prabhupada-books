@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.9.1-2",
-    "h1":"Text 1-2",
-    "title":" Śrīmad Bhāgavatam 5.9.1-2",
+    "h1":"SB 5.9.1-2",
+    "label":"Text 1-2",
+    "title":"Śrīmad Bhāgavatam 5.9.1-2",
     "description":"Śrīla Śukadeva Gosvāmī continued: My dear King, after giving up the body of a deer, Bharata Mahārāja took birth in a very pure brāhmaṇa family. There was a brāhmaṇa who belonged to the dynasty of Aṅgirā. He was fully qualified with brahminical qualifications. He could control his mind and senses, and he had studied the Vedic literatures and other subsidiary literatures. He was expert in giving charity, and he was always satisfied, tolerant, very gentle, learned and nonenvious. He was self-realized and engaged in the devotional service of the Lord. He remained always in a trance. He had nine equally qualified sons by his first wife, and by his second wife he begot twins—a brother and a sister, of which the male child was said to be the topmost devotee and foremost of saintly kings—Bharata Mahārāja. This, then, is the story of the birth he took after giving up the body of a deer."
 }
 ---

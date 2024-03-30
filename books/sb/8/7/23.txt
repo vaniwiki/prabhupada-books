@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 8.7.23",
+    "h1":"SB 8.7.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 8.7.23",
     "description":"O lord, you are self-effulgent and supreme. You create this material world by your personal energy, and you assume the names Brahmā, Viṣṇu and Maheśvara when you act in creation, maintenance and annihilation."
 }
 ---

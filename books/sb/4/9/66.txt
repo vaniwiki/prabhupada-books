@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.66",
-    "h1":"Text 66",
-    "title":" Śrīmad Bhāgavatam 4.9.66",
+    "h1":"SB 4.9.66",
+    "label":"Text 66",
+    "title":"Śrīmad Bhāgavatam 4.9.66",
     "description":"When, after concentration, King Uttānapāda saw that Dhruva Mahārāja was suitably mature to take charge of the kingdom and that his ministers were agreeable and the citizens were also very fond of him, he enthroned Dhruva as emperor of this planet."
 }
 ---

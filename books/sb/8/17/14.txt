@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.17.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.17.14",
+    "h1":"SB 8.17.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.17.14",
     "description":"You want to see the wives of the demons lamenting for the death of their husbands when those demons, the enemies of your sons, are killed in battle by the demigods, of whom Indra is the chief."
 }
 ---

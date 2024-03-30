@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 8.24.53",
+    "h1":"SB 8.24.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 8.24.53",
     "description":"O Supreme Lord, for self-realization I surrender unto You, who are worshiped by the demigods as the supreme controller of everything. By Your instructions, exposing life's purpose, kindly cut the knot from the core of my heart and let me know the destination of my life."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 6.5.44",
+    "h1":"SB 6.5.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 6.5.44",
     "description":"Śrī Śukadeva Gosvāmī continued: My dear King, since Nārada Muni is an approved saintly person, when cursed by Prajāpati Dakṣa he replied, \"tad bāḍham: Yes, what you have said is good. I accept this curse.\" He could have cursed Prajāpati Dakṣa in return, but because he is a tolerant and merciful sādhu, he took no action."
 }
 ---

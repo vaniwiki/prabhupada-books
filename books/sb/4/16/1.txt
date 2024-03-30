@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.16.1",
+    "h1":"SB 4.16.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.16.1",
     "description":"The great sage Maitreya continued: While King Pṛthu thus spoke, the humility of his nectarean speeches pleased the reciters very much. Then again they continued to praise the King highly with exalted prayers, as they had been instructed by the great sages."
 }
 ---

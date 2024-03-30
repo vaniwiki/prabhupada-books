@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.8.12",
+    "h1":"SB 3.8.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.8.12",
     "description":"The Lord lay down for four thousand yuga cycles in His internal potency, and by His external energy He appeared to be sleeping within the water. When the living entities were coming out for further development of their fruitive activities, actuated by the energy called kāla-śakti, He saw His transcendental body as bluish."
 }
 ---

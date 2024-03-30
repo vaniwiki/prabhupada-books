@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.4.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 10.4.30",
+    "h1":"SB 10.4.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 10.4.30",
     "description":"After hearing their master's statement, the envious asuras, who were enemies of the demigods and were not very expert in their dealings, advised Kaṁsa as follows."
 }
 ---

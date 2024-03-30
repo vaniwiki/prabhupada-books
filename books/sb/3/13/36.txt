@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.13.36",
+    "h1":"SB 3.13.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.13.36",
     "description":"O Lord, Your tongue is a plate of sacrifice, Your nostril is another plate of sacrifice, in Your belly is the eating plate of sacrifice, and another plate of sacrifice is the holes of Your ears. In Your mouth is the Brahmā plate of sacrifice, Your throat is the plate of sacrifice known as soma, and whatever You chew is known as agni-hotra."
 }
 ---

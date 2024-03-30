@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.13.21",
+    "h1":"SB 8.13.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.13.21",
     "description":"The son of Upaśloka known as Brahma-sāvarṇi will be the tenth Manu. Bhūriṣeṇa will be among his sons, and the brāhmaṇas headed by Haviṣmān will be the seven sages."
 }
 ---

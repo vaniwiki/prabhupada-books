@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 8.7.46",
+    "h1":"SB 8.7.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 8.7.46",
     "description":"Scorpions, cobras, poisonous drugs and other animals whose bites are poisonous took the opportunity to drink whatever little poison had fallen and scattered from Lord Śiva's hand while he was drinking."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.1.6",
+    "h1":"SB 9.1.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.1.6",
     "description":"Sūta Gosvāmī said: When Śukadeva Gosvāmī, the greatest knower of religious principles, was thus requested by Mahārāja Parīkṣit in the assembly of all the scholars learned in Vedic knowledge, he then proceeded to speak."
 }
 ---

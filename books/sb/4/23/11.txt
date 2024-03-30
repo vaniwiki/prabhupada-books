@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 4.23.11",
+    "h1":"SB 4.23.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 4.23.11",
     "description":"By regularly discharging devotional service, Pṛthu Mahārāja became transcendental in mind and could therefore constantly think of the lotus feet of the Lord. Because of this, he became completely detached and attained perfect knowledge by which he could transcend all doubt. Thus he was freed from the clutches of false ego and the material conception of life."
 }
 ---

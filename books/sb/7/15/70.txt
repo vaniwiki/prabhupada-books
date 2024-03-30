@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.70",
-    "h1":"Text 70",
-    "title":" Śrīmad Bhāgavatam 7.15.70",
+    "h1":"SB 7.15.70",
+    "label":"Text 70",
+    "title":"Śrīmad Bhāgavatam 7.15.70",
     "description":"I had a beautiful face and a pleasing, attractive bodily structure. Decorated with flower garlands and sandalwood pulp, I was most pleasing to the women of my city. Thus I was bewildered, always feeling lusty desires."
 }
 ---

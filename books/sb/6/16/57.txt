@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 6.16.57",
+    "h1":"SB 6.16.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 6.16.57",
     "description":"When a living entity, thinking himself different from Me, forgets his spiritual identity of qualitative oneness with Me in eternity, knowledge and bliss, his material, conditional life begins. In other words, instead of identifying his interest with Mine, he becomes interested in his bodily expansions like his wife, children and material possessions. In this way, by the influence of his actions, one body comes from another, and after one death, another death takes place."
 }
 ---

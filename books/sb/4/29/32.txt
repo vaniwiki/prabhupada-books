@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.29.32",
+    "h1":"SB 4.29.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.29.32",
     "description":"The living entities are trying to counteract different miserable conditions pertaining to providence, other living entities or the body and mind. Still, they must remain conditioned by the laws of nature, despite all attempts to counter these laws."
 }
 ---

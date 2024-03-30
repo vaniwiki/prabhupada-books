@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 7.7.2",
+    "h1":"SB 7.7.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 7.7.2",
     "description":"Prahlāda Mahārāja said: When our father, Hiraṇyakaśipu, went to Mandarācala Mountain to execute severe austerities, in his absence the demigods, headed by King Indra, made a severe attempt to subdue all the demons in warfare."
 }
 ---

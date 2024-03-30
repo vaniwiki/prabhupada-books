@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.14.17",
+    "h1":"SB 4.14.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.14.17",
     "description":"The saintly persons continued: When the king protects the citizens from the disturbances of mischievous ministers as well as from thieves and rogues, he can, by virtue of such pious activities, accept taxes given by his subjects. Thus a pious king can certainly enjoy himself in this world as well as in the life after death."
 }
 ---

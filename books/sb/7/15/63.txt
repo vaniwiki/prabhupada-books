@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 7.15.63",
+    "h1":"SB 7.15.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 7.15.63",
     "description":"When one understands that result and cause are one and that duality is ultimately unreal, like the idea that the threads of a cloth are different from the cloth itself, one reaches the conception of oneness called bhāvādvaita."
 }
 ---

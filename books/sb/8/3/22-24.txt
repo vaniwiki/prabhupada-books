@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.22-24",
-    "h1":"Text 22-24",
-    "title":" Śrīmad Bhāgavatam 8.3.22-24",
+    "h1":"SB 8.3.22-24",
+    "label":"Text 22-24",
+    "title":"Śrīmad Bhāgavatam 8.3.22-24",
     "description":"The Supreme Personality of Godhead creates His minor parts and parcels, the jīva-tattva, beginning with Lord Brahmā, the demigods and the expansions of Vedic knowledge [Sāma, Ṛg, Yajur and Atharva] and including all other living entities, moving and nonmoving, with their different names and characteristics. As the sparks of a fire or the shining rays of the sun emanate from their source and merge into it again and again, the mind, the intelligence, the senses, the gross and subtle material bodies, and the continuous transformations of the different modes of nature all emanate from the Lord and again merge into Him. He is neither demigod nor demon, neither human nor bird or beast. He is not woman, man, or neuter, nor is He an animal. He is not a material quality, a fruitive activity, a manifestation or nonmanifestation. He is the last word in the discrimination of \"not this, not this,\" and He is unlimited. All glories to the Supreme Personality of Godhead!"
 }
 ---

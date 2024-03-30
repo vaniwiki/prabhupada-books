@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.24.3",
+    "h1":"SB 4.24.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.24.3",
     "description":"Formerly, Mahārāja Vijitāśva pleased the King of heaven, Indra, and from him received the title Antardhāna. His wife's name was Śikhaṇḍinī, and by her he begot three good sons."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 8.21.15",
+    "h1":"SB 8.21.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 8.21.15",
     "description":"O King, when the associates of Lord Viṣṇu saw the soldiers of the demons coming forward in violence, they smiled. Taking up their weapons, they forbade the demons to continue their attempt."
 }
 ---

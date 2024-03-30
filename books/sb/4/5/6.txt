@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.5.6",
+    "h1":"SB 4.5.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.5.6",
     "description":"Many other soldiers of Lord Śiva followed the fierce personality in a tumultuous uproar. He carried a great trident, fearful enough to kill even death, and on his legs he wore bangles which seemed to roar."
 }
 ---

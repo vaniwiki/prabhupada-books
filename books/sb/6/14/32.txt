@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 6.14.32",
+    "h1":"SB 6.14.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 6.14.32",
     "description":"Thereafter, in due course of time, a son was born to the King. Hearing news of this, all the inhabitants of the state of Śūrasena were extremely pleased."
 }
 ---

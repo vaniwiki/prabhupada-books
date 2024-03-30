@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.15.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 3.15.43",
+    "h1":"SB 3.15.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 3.15.43",
     "description":"When the breeze carrying the aroma of tulasī leaves from the toes of the lotus feet of the Personality of Godhead entered the nostrils of those sages, they experienced a change both in body and in mind, even though they were attached to the impersonal Brahman understanding."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.65",
-    "h1":"Text 65",
-    "title":" Śrīmad Bhāgavatam 4.28.65",
+    "h1":"SB 4.28.65",
+    "label":"Text 65",
+    "title":"Śrīmad Bhāgavatam 4.28.65",
     "description":"My dear King Prācīnabarhi, the Supreme Personality of Godhead, the cause of all causes, is celebrated to be known indirectly. Thus I have described the story of Purañjana to you. Actually it is an instruction for self-realization."
 }
 ---

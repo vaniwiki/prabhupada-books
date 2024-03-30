@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.18.21",
+    "h1":"SB 8.18.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.18.21",
     "description":"While engaged in performing the sacrifice in the field known as Bhṛgukaccha, on the northern bank of the Narmadā River, the brahminical priests, the descendants of Bhṛgu, saw Vāmanadeva to be like the sun rising nearby."
 }
 ---

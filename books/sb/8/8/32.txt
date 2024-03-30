@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 8.8.32",
+    "h1":"SB 8.8.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 8.8.32",
     "description":"He was strongly built; his arms were long, stout and strong; his neck, which was marked with three lines, resembled a conchshell; his eyes were reddish; and his complexion was blackish. He was very young, he was garlanded with flowers, and his entire body was fully decorated with various ornaments."
 }
 ---

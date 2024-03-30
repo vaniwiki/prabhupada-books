@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.25.3",
+    "h1":"SB 4.25.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.25.3",
     "description":"While the princes were undergoing severe austerities in the water, their father was performing different types of fruitive activities. At this time the great saint Nārada, master and teacher of all spiritual life, became very compassionate upon the King and decided to instruct him about spiritual life."
 }
 ---

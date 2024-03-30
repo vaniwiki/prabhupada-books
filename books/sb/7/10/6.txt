@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 7.10.6",
+    "h1":"SB 7.10.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 7.10.6",
     "description":"O my Lord, I am Your unmotivated servant, and You are my eternal master. There is no need of our being anything other than master and servant. You are naturally my master, and I am naturally Your servant. We have no other relationship."
 }
 ---

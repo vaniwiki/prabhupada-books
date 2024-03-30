@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.6.37",
+    "h1":"SB 4.6.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.6.37",
     "description":"He was seated on a straw mattress and speaking to all present, including the great sage Nārada, to whom he specifically spoke about the Absolute Truth."
 }
 ---

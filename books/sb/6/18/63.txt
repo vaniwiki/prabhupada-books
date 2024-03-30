@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 6.18.63",
+    "h1":"SB 6.18.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 6.18.63",
     "description":"O King, being very much aggrieved, they pleaded to Indra with folded hands, saying, \"Dear Indra, we are the Maruts, your brothers. Why are you trying to kill us?\""
 }
 ---

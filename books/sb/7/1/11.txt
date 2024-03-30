@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 7.1.11",
+    "h1":"SB 7.1.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 7.1.11",
     "description":"O great King, the Supreme Personality of Godhead, the controller of the material and spiritual energies, who is certainly the creator of the entire cosmos, creates the time factor to allow the material energy and the living entity to act within the limits of time. Thus the Supreme Personality is never under the time factor nor under the material energy."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.13.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 3.13.48",
+    "h1":"SB 3.13.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 3.13.48",
     "description":"If one hears and describes in a devotional service attitude this auspicious narration of Lord Boar, which is worthy of description, the Lord, who is within the heart of everyone, is very pleased."
 }
 ---

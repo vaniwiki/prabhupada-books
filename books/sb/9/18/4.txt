@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 9.18.4",
+    "h1":"SB 9.18.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 9.18.4",
     "description":"King Yayāti had four younger brothers, whom he allowed to rule the four directions. Yayāti himself married Devayānī, the daughter of Śukrācārya, and Śarmiṣṭhā, the daughter of Vṛṣaparvā, and ruled the entire earth."
 }
 ---

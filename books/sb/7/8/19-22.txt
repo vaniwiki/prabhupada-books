@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.19-22",
-    "h1":"Text 19-22",
-    "title":" Śrīmad Bhāgavatam 7.8.19-22",
+    "h1":"SB 7.8.19-22",
+    "label":"Text 19-22",
+    "title":"Śrīmad Bhāgavatam 7.8.19-22",
     "description":"Hiraṇyakaśipu studied the form of the Lord, trying to decide who the form of Nṛsiṁhadeva standing before him was. The Lord's form was extremely fearsome because of His angry eyes, which resembled molten gold; His shining mane, which expanded the dimensions of His fearful face; His deadly teeth; and His razor-sharp tongue, which moved about like a dueling sword. His ears were erect and motionless, and His nostrils and gaping mouth appeared like caves of a mountain. His jaws parted fearfully, and His entire body touched the sky. His neck was very short and thick, His chest broad, His waist thin, and the hairs on His body as white as the rays of the moon. His arms, which resembled flanks of soldiers, spread in all directions as He killed the demons, rogues and atheists with His conchshell, disc, club, lotus and other natural weapons."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 6.18.43",
+    "h1":"SB 6.18.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 6.18.43",
     "description":"I promised to give her a benediction, and this promise cannot be violated, but Indra does not deserve to be killed. In these circumstances, the solution I have is quite suitable."
 }
 ---

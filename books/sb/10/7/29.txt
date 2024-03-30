@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.7.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 10.7.29",
+    "h1":"SB 10.7.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 10.7.29",
     "description":"While the gopīs who had gathered were crying for Kṛṣṇa, the demon fell from the sky onto a big slab of stone, his limbs dislocated, as if he had been pierced by the arrow of Lord Śiva like Tripurāsura."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.16.2",
+    "h1":"SB 4.16.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.16.2",
     "description":"The reciters continued: Dear King, you are a direct incarnation of the Supreme Personality of Godhead, Lord Viṣṇu, and by His causeless mercy you have descended on this earth. Therefore it is not possible for us to actually glorify your exalted activities. Although you have appeared through the body of King Vena, even great orators and speakers like Lord Brahmā and other demigods cannot exactly describe the glorious activities of Your Lordship."
 }
 ---

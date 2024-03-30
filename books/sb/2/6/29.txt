@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 2.6.29",
+    "h1":"SB 2.6.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 2.6.29",
     "description":"My dear son, thereafter your nine brothers, who are the masters of living creatures, performed the sacrifice with proper rituals to satisfy both the manifested and nonmanifested personalities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 10.8.19",
+    "h1":"SB 10.8.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 10.8.19",
     "description":"In conclusion, therefore, O Nanda Mahārāja, this child of yours is as good as Nārāyaṇa. In His transcendental qualities, opulence, name, fame and influence, He is exactly like Nārāyaṇa. You should all raise this child very carefully and cautiously."
 }
 ---

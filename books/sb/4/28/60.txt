@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 4.28.60",
+    "h1":"SB 4.28.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 4.28.60",
     "description":"Actually, you are not the daughter of Vidarbha, nor is this man, Malayadhvaja, your well-wishing husband. Nor were you the actual husband of Purañjanī. You were simply captivated in this body of nine gates."
 }
 ---

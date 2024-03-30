@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 6.14.15",
+    "h1":"SB 6.14.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 6.14.15",
     "description":"Citraketu immediately stood up from his throne and offered him worship. He offered drinking water and eatables and in this way performed his duty as a host to a great guest. When the ṛṣi was seated very comfortably, the King, restraining his mind and senses, sat on the ground at the side of the ṛṣi's feet."
 }
 ---

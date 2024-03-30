@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.19.13",
+    "h1":"SB 8.19.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.19.13",
     "description":"Hiraṇyakaśipu's anger against Lord Viṣṇu persisted until his death. Other people in the bodily concept of life maintain anger only because of false ego and the great influence of ignorance."
 }
 ---

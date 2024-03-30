@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 4.25.49",
+    "h1":"SB 4.25.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 4.25.49",
     "description":"The fifth gate situated on the eastern side was named Mukhyā, or the chief. Through this gate, accompanied by his friends named Rasajña and Vipaṇa, he used to visit two places named Bahūdana and Āpaṇa."
 }
 ---

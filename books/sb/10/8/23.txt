@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 10.8.23",
+    "h1":"SB 10.8.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 10.8.23",
     "description":"Dressed with muddy earth mixed with cow dung and cow urine, the babies looked very beautiful, and when They went to Their mothers, both Yaśodā and Rohiṇī picked Them up with great affection, embraced Them and allowed Them to suck the milk flowing from their breasts. While sucking the breast, the babies smiled, and Their small teeth were visible. Their mothers, upon seeing those beautiful teeth, enjoyed great transcendental bliss."
 }
 ---

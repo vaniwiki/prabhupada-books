@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 5.25.4",
+    "h1":"SB 5.25.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 5.25.4",
     "description":"The pink, transparent toenails on the Lord's lotus feet are exactly like valuable gems polished to a mirror finish. When the unalloyed devotees and the leaders of the snakes offer their obeisances to Lord Saṅkarṣaṇa with great devotion, they become very joyful upon seeing their own beautiful faces reflected in His toenails. Their cheeks are decorated with glittering earrings, and the beauty of their faces is extremely pleasing to see."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 10.1.55",
+    "h1":"SB 10.1.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 10.1.55",
     "description":"Śrīla Śukadeva Gosvāmī continued: Kaṁsa agreed to the logical arguments of Vasudeva, and, having full faith in Vasudeva's words, he refrained from killing his sister. Vasudeva, being pleased with Kaṁsa, pacified him further and entered his own house."
 }
 ---

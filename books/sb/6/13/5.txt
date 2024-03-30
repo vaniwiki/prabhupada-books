@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 6.13.5",
+    "h1":"SB 6.13.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 6.13.5",
     "description":"King Indra replied: When I killed Viśvarūpa, I received extensive sinful reactions, but I was favored by the women, land, trees and water, and therefore I was able to divide the sin among them. But now if I kill Vṛtrāsura, another brāhmaṇa, how shall I free myself from the sinful reactions?"
 }
 ---

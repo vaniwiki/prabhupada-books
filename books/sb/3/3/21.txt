@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.3.21",
+    "h1":"SB 3.3.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.3.21",
     "description":"The Lord enjoyed His pastimes, both in this world and in other worlds [higher planets], specifically in the association of the Yadu dynasty. At leisure hours offered by night, He enjoyed the friendship of conjugal love with women."
 }
 ---

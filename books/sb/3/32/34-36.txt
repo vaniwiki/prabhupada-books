@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.34-36",
-    "h1":"Text 34-36",
-    "title":" Śrīmad Bhāgavatam 3.32.34-36",
+    "h1":"SB 3.32.34-36",
+    "label":"Text 34-36",
+    "title":"Śrīmad Bhāgavatam 3.32.34-36",
     "description":"By performing fruitive activities and sacrifices, by distributing charity, by performing austerities, by studying various literatures, by conducting philosophical research, by controlling the mind, by subduing the senses, by accepting the renounced order of life and by performing the prescribed duties of one's social order; by performing the different divisions of yoga practice, by performing devotional service and by exhibiting the process of devotional service containing the symptoms of both attachment and detachment; by understanding the science of self-realization and by developing a strong sense of detachment, one who is expert in understanding the different processes of self-realization realizes the Supreme Personality of Godhead as He is represented in the material world as well as in transcendence."
 }
 ---

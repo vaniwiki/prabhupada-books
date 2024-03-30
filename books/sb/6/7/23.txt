@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.7.23",
+    "h1":"SB 6.7.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.7.23",
     "description":"O Indra, your enemies, the demons, were extremely weak because of their disrespect toward Śukrācārya, but since they have now worshiped Śukrācārya with great devotion, they have again become powerful. By their devotion to Śukrācārya, they have increased their strength so much that now they are even able to easily seize my abode from me."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.7.19",
+    "h1":"SB 4.7.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.7.19",
     "description":"Lord Nārāyaṇa was seated on the shoulder of Stotra, or Garuḍa, who had big wings. As soon as the Lord appeared, all directions were illuminated, diminishing the luster of Brahmā and the others present."
 }
 ---

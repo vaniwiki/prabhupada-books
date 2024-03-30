@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.9.35",
+    "h1":"SB 4.9.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.9.35",
     "description":"Because of my state of complete foolishness and paucity of pious activities, although the Lord offered me His personal service, I wanted material name, fame and prosperity. My case is just like that of the poor man who, when he satisfied a great emperor who wanted to give him anything he might ask, out of ignorance asked only a few broken grains of husked rice."
 }
 ---

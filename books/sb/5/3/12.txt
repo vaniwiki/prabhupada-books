@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.3.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 5.3.12",
+    "h1":"SB 5.3.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 5.3.12",
     "description":"Dear Lord, we may not be able to remember Your name, form and qualities due to stumbling, hunger, falling down, yawning or being in a miserable diseased condition at the time of death when there is a high fever. We therefore pray unto You, O Lord, for You are very affectionate to Your devotees. Please help us remember You and utter Your holy names, attributes and activities, which can dispel all the reactions of our sinful lives."
 }
 ---

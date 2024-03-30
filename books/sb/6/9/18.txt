@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 6.9.18",
+    "h1":"SB 6.9.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 6.9.18",
     "description":"That very fearful demon, who was actually the son of Tvaṣṭā, covered all the planetary systems by dint of austerity. Therefore he was named Vṛtra, or one who covers everything."
 }
 ---

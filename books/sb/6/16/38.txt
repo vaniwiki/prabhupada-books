@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 6.16.38",
+    "h1":"SB 6.16.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 6.16.38",
     "description":"O Lord, O Supreme, unintelligent persons who thirst for sense enjoyment and who worship various demigods are no better than animals in the human form of life. Because of their animalistic propensities, they fail to worship Your Lordship, and instead they worship the insignificant demigods, who are but small sparks of Your glory. With the destruction of the entire universe, including the demigods, the benedictions received from the demigods also vanish, just like the nobility when a king is no longer in power."
 }
 ---

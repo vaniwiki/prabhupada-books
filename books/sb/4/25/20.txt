@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.25.20",
+    "h1":"SB 4.25.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.25.20",
     "description":"While wandering here and there in that wonderful garden, King Purañjana suddenly came in contact with a very beautiful woman who was walking there without any engagement. She had ten servants with her, and each servant had hundreds of wives accompanying him."
 }
 ---

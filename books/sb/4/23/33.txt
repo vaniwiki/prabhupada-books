@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.23.33",
+    "h1":"SB 4.23.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.23.33",
     "description":"It does not matter whether one is a man or woman. Anyone who, with great respect, hears this narration of Mahārāja Pṛthu will become the father of many children if he is without children and will become the richest of men if he is without money."
 }
 ---

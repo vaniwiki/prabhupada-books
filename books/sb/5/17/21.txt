@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 5.17.21",
+    "h1":"SB 5.17.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 5.17.21",
     "description":"Lord Śiva continued: All the great sages accept the Lord as the source of creation, maintenance and destruction, although He actually has nothing to do with these activities. Therefore the Lord is called unlimited. Although the Lord in His incarnation as Śeṣa holds all the universes on His hoods, each universe feels no heavier than a mustard seed to Him. Therefore, what person desiring perfection will not worship the Lord?"
 }
 ---

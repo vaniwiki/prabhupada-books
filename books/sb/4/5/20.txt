@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.5.20",
+    "h1":"SB 4.5.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.5.20",
     "description":"Vīrabhadra immediately caught Bhaga, who had been moving his eyebrows during Bhṛgu's cursing of Lord Śiva, and out of great anger thrust him to the ground and forcibly put out his eyes."
 }
 ---

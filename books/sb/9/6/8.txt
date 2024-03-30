@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.6.8",
+    "h1":"SB 9.6.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.6.8",
     "description":"Vikukṣi offered the remnants of the flesh to King Ikṣvāku, who gave it to Vasiṣṭha for purification. But Vasiṣṭha could immediately understand that part of the flesh had already been taken by Vikukṣi, and therefore he said that it was unfit to be used in the śrāddha ceremony."
 }
 ---

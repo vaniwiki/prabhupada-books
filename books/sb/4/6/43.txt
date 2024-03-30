@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 4.6.43",
+    "h1":"SB 4.6.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 4.6.43",
     "description":"My dear lord, you create this cosmic manifestation, maintain it, and annihilate it by expansion of your personality, exactly as a spider creates, maintains and winds up its web."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 10.5.25",
+    "h1":"SB 10.5.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 10.5.25",
     "description":"Many planks and sticks, unable to stay together, are carried away by the force of a river's waves. Similarly, although we are intimately related with friends and family members, we are unable to stay together because of our varied past deeds and the waves of time."
 }
 ---

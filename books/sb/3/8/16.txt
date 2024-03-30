@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 3.8.16",
+    "h1":"SB 3.8.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 3.8.16",
     "description":"Brahmā, born out of the lotus flower, could not see the world, although he was situated in the whorl. He therefore circumambulated all of space, and while moving his eyes in all directions he achieved four heads in terms of the four directions."
 }
 ---

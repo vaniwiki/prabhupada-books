@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 6.4.4",
+    "h1":"SB 6.4.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 6.4.4",
     "description":"Śukadeva Gosvāmī said: When the ten sons of Prācīnabarhi emerged from the waters, in which they were performing austerities, they saw that the entire surface of the world was covered by trees."
 }
 ---

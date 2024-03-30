@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.16.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 9.16.27",
+    "h1":"SB 9.16.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 9.16.27",
     "description":"In this way the supreme soul, the Supreme Personality of Godhead, the Lord and the supreme controller, descended as an incarnation in the Bhṛgu dynasty and released the universe from the burden of undesirable kings by killing them many times."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 10.2.10",
+    "h1":"SB 10.2.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 10.2.10",
     "description":"By sacrifices of animals, ordinary human beings will worship you gorgeously, with various paraphernalia, because you are supreme in fulfilling the material desires of everyone."
 }
 ---

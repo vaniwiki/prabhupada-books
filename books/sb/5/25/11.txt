@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 5.25.11",
+    "h1":"SB 5.25.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 5.25.11",
     "description":"Even if he be distressed or degraded, any person who chants the holy name of the Lord, having heard it from a bona fide spiritual master, is immediately purified. Even if he chants the Lord's name jokingly or by chance, he and anyone who hears him are freed from all sins. Therefore how can anyone seeking disentanglement from the material clutches avoid chanting the name of Lord Śeṣa? Of whom else should one take shelter?"
 }
 ---

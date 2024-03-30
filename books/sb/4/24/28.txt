@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 4.24.28",
+    "h1":"SB 4.24.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 4.24.28",
     "description":"Lord Śiva continued: Any person who is surrendered to the Supreme Personality of Godhead, Kṛṣṇa, the controller of everything—material nature as well as the living entity—is actually very dear to me."
 }
 ---

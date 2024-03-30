@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.8-9",
-    "h1":"Text 8-9",
-    "title":" Śrīmad Bhāgavatam 8.3.8-9",
+    "h1":"SB 8.3.8-9",
+    "label":"Text 8-9",
+    "title":"Śrīmad Bhāgavatam 8.3.8-9",
     "description":"The Supreme Personality of Godhead has no material birth, activities, name, form, qualities or faults. To fulfill the purpose for which this material world is created and destroyed, He comes in the form of a human being like Lord Rāma or Lord Kṛṣṇa by His original internal potency. He has immense potency, and in various forms, all free from material contamination, He acts wonderfully. He is therefore the Supreme Brahman. I offer my respects to Him."
 }
 ---

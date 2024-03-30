@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 8.21.21",
+    "h1":"SB 8.21.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 8.21.21",
     "description":"The supreme time factor, which represents the Supreme Person, was previously in our favor and not in favor of the demigods, but now that same time factor is against us."
 }
 ---

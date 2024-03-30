@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 7.8.15",
+    "h1":"SB 7.8.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 7.8.15",
     "description":"Then from within the pillar came a fearful sound, which appeared to crack the covering of the universe. O my dear Yudhiṣṭhira, this sound reached even the abodes of the demigods like Lord Brahmā, and when the demigods heard it, they thought, \"Oh, now our planets are being destroyed!\""
 }
 ---

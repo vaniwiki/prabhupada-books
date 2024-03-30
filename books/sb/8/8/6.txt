@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 8.8.6",
+    "h1":"SB 8.8.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 8.8.6",
     "description":"Generated thereafter from the great ocean were the celebrated gems Kaustubha-maṇi and Padmarāga-maṇi. Lord Viṣṇu, to decorate His chest, desired to possess them. Generated next was the pārijāta flower, which decorates the celestial planets. O King, as you fulfill the desires of everyone on this planet by fulfilling all ambitions, the pārijāta fulfills the desires of everyone."
 }
 ---

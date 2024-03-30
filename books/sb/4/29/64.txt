@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 4.29.64",
+    "h1":"SB 4.29.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 4.29.64",
     "description":"Sometimes we suddenly experience something that was never experienced in the present body by sight or hearing. Sometimes we see such things suddenly in dreams."
 }
 ---

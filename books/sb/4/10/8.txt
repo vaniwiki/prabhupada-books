@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.10.8",
+    "h1":"SB 4.10.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.10.8",
     "description":"Dhruva Mahārāja, who was a great charioteer and certainly a great bowman also, immediately began to kill them by simultaneously discharging arrows three at a time."
 }
 ---

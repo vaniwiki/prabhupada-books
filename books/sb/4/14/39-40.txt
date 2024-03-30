@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.39-40",
-    "h1":"Text 39-40",
-    "title":" Śrīmad Bhāgavatam 4.14.39-40",
+    "h1":"SB 4.14.39-40",
+    "label":"Text 39-40",
+    "title":"Śrīmad Bhāgavatam 4.14.39-40",
     "description":"Upon seeing the dust storm, the saintly persons could understand that there were a great deal of irregularities due to the death of King Vena. Without government, the state was devoid of law and order, and consequently there was a great uprising of murderous thieves and rogues, who were plundering the riches of the people in general. Although the great sages could subdue the disturbance by their powers—just as they could kill the King—they considered it improper on their part to do so. Thus they did not attempt to stop the disturbance."
 }
 ---

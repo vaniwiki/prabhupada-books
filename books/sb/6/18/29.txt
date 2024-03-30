@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 6.18.29",
+    "h1":"SB 6.18.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 6.18.29",
     "description":"Although Kaśyapa Muni was a learned scholar, he was captivated by Diti's artificial behavior, which brought him under her control. Therefore he assured his wife that he would fulfill her desires. Such a promise by a husband is not at all astonishing."
 }
 ---

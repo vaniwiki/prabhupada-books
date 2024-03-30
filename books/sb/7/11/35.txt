@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 7.11.35",
+    "h1":"SB 7.11.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 7.11.35",
     "description":"If one shows the symptoms of being a brāhmaṇa, kṣatriya, vaiśya or śūdra, as described above, even if he has appeared in a different class, he should be accepted according to those symptoms of classification."
 }
 ---

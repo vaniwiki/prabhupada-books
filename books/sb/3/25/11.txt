@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.25.11",
+    "h1":"SB 3.25.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.25.11",
     "description":"Devahūti continued: I have taken shelter of Your lotus feet because You are the only person of whom to take shelter. You are the ax which can cut the tree of material existence. I therefore offer my obeisances unto You, who are the greatest of all transcendentalists, and I inquire from You as to the relationship between man and woman and between spirit and matter."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.25.3",
+    "h1":"SB 3.25.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.25.3",
     "description":"Therefore please precisely describe all the activities and pastimes of the Personality of Godhead, who is full of self-desire and who assumes all these activities by His internal potency."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 6.16.9",
+    "h1":"SB 6.16.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 6.16.9",
     "description":"The living entity is eternal and imperishable because he actually has no beginning and no end. He never takes birth or dies. He is the basic principle of all types of bodies, yet he does not belong to the bodily category. The living being is so sublime that he is equal in quality to the Supreme Lord. Nonetheless, because he is extremely small, he is prone to be illusioned by the external energy, and thus he creates various bodies for himself according to his different desires."
 }
 ---

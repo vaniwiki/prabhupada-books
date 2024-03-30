@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 6.1.63",
+    "h1":"SB 6.1.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 6.1.63",
     "description":"In the same way that the sun and moon are eclipsed by a low planet, the brāhmaṇa lost all his good sense. Taking advantage of this situation, he always thought of the prostitute, and within a short time he took her as a servant in his house and abandoned all the regulative principles of a brāhmaṇa."
 }
 ---

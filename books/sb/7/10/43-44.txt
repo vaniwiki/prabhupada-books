@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.43-44",
-    "h1":"Text 43-44",
-    "title":" Śrīmad Bhāgavatam 7.10.43-44",
+    "h1":"SB 7.10.43-44",
+    "label":"Text 43-44",
+    "title":"Śrīmad Bhāgavatam 7.10.43-44",
     "description":"This narration describes the characteristics of the great and exalted devotee Prahlāda Mahārāja, his staunch devotional service, his perfect knowledge, and his perfect detachment from material contamination. It also describes the Supreme Personality of Godhead as the cause of creation, maintenance and annihilation. Prahlāda Mahārāja, in his prayers, has described the transcendental qualities of the Lord and has also described how the various abodes of the demigods and demons, regardless of how materially opulent, are destroyed by the mere direction of the Lord."
 }
 ---

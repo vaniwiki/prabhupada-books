@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.11.2-3",
-    "h1":"Text 2-3",
-    "title":" Śrīmad Bhāgavatam 6.11.2-3",
+    "h1":"SB 6.11.2-3",
+    "label":"Text 2-3",
+    "title":"Śrīmad Bhāgavatam 6.11.2-3",
     "description":"O King Parīkṣit, the demigods, taking advantage of a favorable opportunity presented by time, attacked the army of the demons from the rear and began driving away the demoniac soldiers, scattering them here and there as if their army had no leader. Seeing the pitiable condition of his soldiers, Vṛtrāsura, the best of the asuras, who was called Indraśatru, the enemy of Indra, was very much aggrieved. Unable to tolerate such reverses, he stopped and forcefully rebuked the demigods, speaking the following words in an angry mood."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.1.17",
+    "h1":"SB 5.1.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.1.17",
     "description":"Even if he goes from forest to forest, one who is not self-controlled must always fear material bondage because he is living with six co-wives—the mind and knowledge-acquiring senses. Even householder life, however, cannot harm a self-satisfied, learned man who has conquered his senses."
 }
 ---

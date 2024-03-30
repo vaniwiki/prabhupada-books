@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 10.1.10",
+    "h1":"SB 10.1.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 10.1.10",
     "description":"Lord Kṛṣṇa lived both in Vṛndāvana and in Mathurā. What did He do there? Why did He kill Kaṁsa, His mother's brother? Such killing is not at all sanctioned in the śāstras."
 }
 ---

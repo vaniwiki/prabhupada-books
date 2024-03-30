@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 2.2.10",
+    "h1":"SB 2.2.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 2.2.10",
     "description":"His lotus feet are placed over the whorls of the lotuslike hearts of great mystics. On His chest is the Kaustubha jewel, engraved with a beautiful calf, and there are other jewels on His shoulders. His complete torso is garlanded with fresh flowers."
 }
 ---

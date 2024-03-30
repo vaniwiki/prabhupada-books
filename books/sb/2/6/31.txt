@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 2.6.31",
+    "h1":"SB 2.6.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 2.6.31",
     "description":"All the material manifestations of the universes are therefore situated in His powerful material energies, which He accepts self-sufficiently, although He is eternally without affinity for the material modes."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.17-18",
-    "h1":"Text 17-18",
-    "title":" Śrīmad Bhāgavatam 8.5.17-18",
+    "h1":"SB 8.5.17-18",
+    "label":"Text 17-18",
+    "title":"Śrīmad Bhāgavatam 8.5.17-18",
     "description":"Lord Indra, Varuṇa and the other demigods, seeing their lives in such a state, consulted among themselves, but they could not find any solution. Then all the demigods assembled and went together to the peak of Sumeru Mountain. There, in the assembly of Lord Brahmā, they fell down to offer Lord Brahmā their obeisances, and then they informed him of all the incidents that had taken place."
 }
 ---

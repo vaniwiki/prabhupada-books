@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 3.23.26",
+    "h1":"SB 3.23.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 3.23.26",
     "description":"In a house inside the lake she saw one thousand girls, all in the prime of youth and fragrant like lotuses."
 }
 ---

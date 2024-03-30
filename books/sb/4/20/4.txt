@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.20.4",
+    "h1":"SB 4.20.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.20.4",
     "description":"If a personality like you, who are so much advanced because of executing the instructions of the previous ācāryas, is carried away by the influence of My material energy, then all your advancement may be considered simply a waste of time."
 }
 ---

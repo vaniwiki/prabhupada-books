@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 7.7.10",
+    "h1":"SB 7.7.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 7.7.10",
     "description":"Nārada Muni replied: The child within this woman's womb is faultless and sinless. Indeed, he is a great devotee, a powerful servant of the Supreme Personality of Godhead. Therefore you will not be able to kill him."
 }
 ---

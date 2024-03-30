@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.11.9",
+    "h1":"SB 4.11.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.11.9",
     "description":"My dear son, it has been proved that you are very much affectionate towards your brother and are greatly aggrieved at his being killed by the Yakṣas, but just consider—for one Yakṣa's offense, you have killed many others, who are innocent."
 }
 ---

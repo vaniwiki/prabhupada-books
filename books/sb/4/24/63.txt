@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 4.24.63",
+    "h1":"SB 4.24.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 4.24.63",
     "description":"My dear Lord, You are the only Supreme Person, the cause of all causes. Before the creation of this material world, Your material energy remains in a dormant condition. When Your material energy is agitated, the three qualities—namely goodness, passion and ignorance—act, and as a result the total material energy—egotism, ether, air, fire, water, earth and all the various demigods and saintly persons—becomes manifest. Thus the material world is created."
 }
 ---

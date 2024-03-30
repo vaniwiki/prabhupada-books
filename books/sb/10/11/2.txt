@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.11.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 10.11.2",
+    "h1":"SB 10.11.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 10.11.2",
     "description":"There they saw the fallen yamala-arjuna trees on the ground, but they were bewildered because even though they could directly perceive that the trees had fallen, they could not trace out the cause for their having done so."
 }
 ---

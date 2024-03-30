@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 8.16.50",
+    "h1":"SB 8.16.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 8.16.50",
     "description":"Thereafter, following the directions of the śāstra with help from brāhmaṇas who know the śāstra, on the thirteenth day of the moon one should bathe Lord Viṣṇu with five substances [milk, yogurt, ghee, sugar and honey]."
 }
 ---

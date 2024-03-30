@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 9.14.14",
+    "h1":"SB 9.14.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 9.14.14",
     "description":"O Mahārāja Parīkṣit, when Lord Brahmā saw that the child was deeply intelligent, he gave the child the name Budha. The moon-god, the ruler of the stars, enjoyed great jubilation because of this son."
 }
 ---

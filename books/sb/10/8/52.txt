@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.8.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 10.8.52",
+    "h1":"SB 10.8.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 10.8.52",
     "description":"Thus the Supreme Personality, Kṛṣṇa, along with Balarāma, lived in Vrajabhūmi, Vṛndāvana, just to substantiate the benediction of Brahmā. By exhibiting different pastimes in His childhood, He increased the transcendental pleasure of Nanda and the other inhabitants of Vṛndāvana."
 }
 ---

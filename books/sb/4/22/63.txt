@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 4.22.63",
+    "h1":"SB 4.22.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 4.22.63",
     "description":"Throughout the whole universe—in the higher, lower and middle planetary systems—Pṛthu Mahārāja's reputation was loudly declared, and all ladies and saintly persons heard his glories, which were as sweet as the glories of Lord Rāmacandra."
 }
 ---

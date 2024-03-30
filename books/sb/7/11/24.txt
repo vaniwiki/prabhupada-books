@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 7.11.24",
+    "h1":"SB 7.11.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 7.11.24",
     "description":"Offering obeisances to the higher sections of society [the brāhmaṇas, kṣatriyas and vaiśyas], being always very clean, being free from duplicity, serving one's master, performing sacrifices without uttering mantras, not stealing, always speaking the truth and giving all protection to the cows and brāhmaṇas—these are the symptoms of the śūdra."
 }
 ---

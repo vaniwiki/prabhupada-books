@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.8.8",
+    "h1":"SB 8.8.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.8.8",
     "description":"Then there appeared the goddess of fortune, Ramā, who is absolutely dedicated to being enjoyed by the Supreme Personality of Godhead. She appeared like electricity, surpassing the lightning that might illuminate a marble mountain."
 }
 ---

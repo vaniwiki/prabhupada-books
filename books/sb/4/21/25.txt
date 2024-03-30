@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.21.25",
+    "h1":"SB 4.21.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.21.25",
     "description":"Pṛthu Mahārāja continued: Therefore, my dear citizens, for the welfare of your king after his death, you should execute your duties properly in terms of your positions of varṇa and āśrama and should always think of the Supreme Personality of Godhead within your hearts. By doing so, you will protect your own interests, and you will bestow mercy upon your king for his welfare after death."
 }
 ---

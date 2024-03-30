@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.60",
-    "h1":"Text 60",
-    "title":" Śrīmad Bhāgavatam 4.29.60",
+    "h1":"SB 4.29.60",
+    "label":"Text 60",
+    "title":"Śrīmad Bhāgavatam 4.29.60",
     "description":"The great sage Nārada continued: The living entity acts in a gross body in this life. This body is forced to act by the subtle body, composed of mind, intelligence and ego. After the gross body is lost, the subtle body is still there to enjoy or suffer. Thus there is no change."
 }
 ---

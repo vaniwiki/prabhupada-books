@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 6.16.33",
+    "h1":"SB 6.16.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 6.16.33",
     "description":"Thereafter, by controlling his mind with his intelligence and thus restricting his senses from external engagements, he recovered suitable words with which to express his feelings. Thus he began offering prayers to the Lord, who is the personification of the holy scriptures [the sātvata-saṁhitās like the Brahma-saṁhitā and the Nārada-pañcarātra] and who is the spiritual master of all. He offered his prayers as follows."
 }
 ---

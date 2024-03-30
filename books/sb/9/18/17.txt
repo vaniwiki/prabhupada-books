@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 9.18.17",
+    "h1":"SB 9.18.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 9.18.17",
     "description":"Using such unkind words, Śarmiṣṭhā rebuked Devayānī, the daughter of Śukrācārya. In anger, she took away Devayānī's garments and threw Devayānī into a well."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.25.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.25.5",
+    "h1":"SB 5.25.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.25.5",
     "description":"Lord Ananta's arms are attractively long, beautifully decorated with bangles and completely spiritual. They are white, and so they appear like silver columns. When the beautiful princesses of the serpent kings, hoping for the Lord's auspicious blessing, smear His arms with aguru pulp, sandalwood pulp and kuṅkuma, the touch of His limbs awakens lusty desires within them. Understanding their minds, the Lord looks at the princesses with a merciful smile, and they become bashful, realizing that He knows their desires. Then they smile beautifully and look upon the Lord's lotus face, which is beautified by reddish eyes rolling slightly from intoxication and delighted by love for His devotees."
 }
 ---

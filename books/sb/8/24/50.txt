@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 8.24.50",
+    "h1":"SB 8.24.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 8.24.50",
     "description":"As a blind man, being unable to see, accepts another blind man as his leader, people who do not know the goal of life accept someone as a guru who is a rascal and a fool. But we are interested in self-realization. Therefore we accept You, the Supreme Personality of Godhead, as our spiritual master, for You are able to see in all directions and are omniscient like the sun."
 }
 ---

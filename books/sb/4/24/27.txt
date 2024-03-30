@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.24.27",
+    "h1":"SB 4.24.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.24.27",
     "description":"Lord Śiva said: You are all the sons of King Prācīnabarhi, and I wish all good fortune to you. I also know what you are going to do, and therefore I am visible to you just to show my mercy upon you."
 }
 ---

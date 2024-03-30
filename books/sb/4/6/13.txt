@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.6.13",
+    "h1":"SB 4.6.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.6.13",
     "description":"There are tall trees with straight branches that appear to call the sweet birds, and when herds of elephants pass through the hills, it appears that the Kailāsa Hill moves with them. When the waterfalls resound, it appears that Kailāsa Hill does also."
 }
 ---

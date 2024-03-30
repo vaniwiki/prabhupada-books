@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.19.5",
+    "h1":"SB 8.19.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.19.5",
     "description":"It was in your dynasty that Hiraṇyākṣa was born. Carrying only his own club, he wandered the globe alone, without assistance, to conquer all directions, and no hero he met could rival him."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.66",
-    "h1":"Text 66",
-    "title":" Śrīmad Bhāgavatam 7.15.66",
+    "h1":"SB 7.15.66",
+    "label":"Text 66",
+    "title":"Śrīmad Bhāgavatam 7.15.66",
     "description":"In normal conditions, in the absence of danger, O King Yudhiṣṭhira, a man should perform his prescribed activities according to his status of life with the things, endeavors, process and living place that are not forbidden for him, and not by any other means."
 }
 ---

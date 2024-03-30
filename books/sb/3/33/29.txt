@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 3.33.29",
+    "h1":"SB 3.33.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 3.33.29",
     "description":"Because she was always absorbed in the thought of the Supreme Personality of Godhead, she was not aware that her hair was sometimes loosened or her garments were disarrayed."
 }
 ---

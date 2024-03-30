@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.31.18",
+    "h1":"SB 3.31.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.31.18",
     "description":"My dear Lord, by Your causeless mercy I am awakened to consciousness, although I am only ten months old. For this causeless mercy of the Supreme Personality of Godhead, the friend of all fallen souls, there is no way to express my gratitude but to pray with folded hands."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.1.6",
+    "h1":"SB 6.1.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.1.6",
     "description":"O greatly fortunate and opulent Śukadeva Gosvāmī, now kindly tell me how human beings may be saved from having to enter hellish conditions in which they suffer terrible pains."
 }
 ---

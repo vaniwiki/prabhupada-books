@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 5.21.15",
+    "h1":"SB 5.21.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 5.21.15",
     "description":"My dear King, the carriage of the sun-god's chariot is estimated to be 3,600,000 yojanas [28,800,000 miles] long and one-fourth as wide [900,000 yojanas, or 7,200,000 miles]. The chariot's horses, which are named after Gāyatrī and other Vedic meters, are harnessed by Aruṇadeva to a yoke that is also 900,000 yojanas wide. This chariot continuously carries the sun-god."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 4.6.45",
+    "h1":"SB 4.6.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 4.6.45",
     "description":"O most auspicious lord, you have ordained the heavenly planets, the spiritual Vaikuṇṭha planets and the impersonal Brahman sphere as the respective destinations of the performers of auspicious activities. Similarly, for others, who are miscreants, you have destined different kinds of hells which are horrible and ghastly. Yet sometimes it is found that their destinations are just the opposite. It is very difficult to ascertain the cause of this."
 }
 ---

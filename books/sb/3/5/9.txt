@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 3.5.9",
+    "h1":"SB 3.5.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 3.5.9",
     "description":"O chief amongst the brāhmaṇas, please also describe how Nārāyaṇa, the creator of the universe and the self-sufficient Lord, has differently created the natures, activities, forms, features and names of the different living creatures."
 }
 ---

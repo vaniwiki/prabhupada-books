@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 9.10.44",
+    "h1":"SB 9.10.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 9.10.44",
     "description":"O King Parīkṣit, as the Lord sat on His airplane of flowers, with women offering Him prayers and reciters chanting about His characteristics, He appeared like the moon with the stars and planets."
 }
 ---

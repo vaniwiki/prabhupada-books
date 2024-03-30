@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.5.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 10.5.5",
+    "h1":"SB 10.5.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 10.5.5",
     "description":"The brāhmaṇas recited auspicious Vedic hymns, which purified the environment by their vibration. The experts in reciting old histories like the Purāṇas, the experts in reciting the histories of royal families, and general reciters all chanted, while singers sang and many kinds of musical instruments, like bherīs and dundubhis, played in accompaniment."
 }
 ---

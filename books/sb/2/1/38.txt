@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 2.1.38",
+    "h1":"SB 2.1.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 2.1.38",
     "description":"I have thus explained to you the gross material gigantic conception of the Personality of Godhead. One who seriously desires liberation concentrates his mind on this form of the Lord, because there is nothing more than this in the material world."
 }
 ---

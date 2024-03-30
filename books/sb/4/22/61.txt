@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.61",
-    "h1":"Text 61",
-    "title":" Śrīmad Bhāgavatam 4.22.61",
+    "h1":"SB 4.22.61",
+    "label":"Text 61",
+    "title":"Śrīmad Bhāgavatam 4.22.61",
     "description":"In his bodily beauty he was just like Cupid, and in his thoughtfulness he was like a lion. In his affection he was just like Svāyambhuva Manu, and in his ability to control he was like Lord Brahmā."
 }
 ---

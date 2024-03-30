@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 8.7.2",
+    "h1":"SB 8.7.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 8.7.2",
     "description":"The Personality of Godhead, Ajita, grasped the front portion of the snake, and then the demigods followed."
 }
 ---

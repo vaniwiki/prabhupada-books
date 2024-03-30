@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 3.32.37",
+    "h1":"SB 3.32.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 3.32.37",
     "description":"My dear mother, I have explained to you the process of devotional service and its identity in four different social divisions. I have explained to you as well how eternal time is chasing the living entities, although it is imperceptible to them."
 }
 ---

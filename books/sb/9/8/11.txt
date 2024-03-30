@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.8.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 9.8.11",
+    "h1":"SB 9.8.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 9.8.11",
     "description":"By the influence of Indra, the King of heaven, the sons of Sagara had lost their intelligence and disrespected a great personality. Consequently, fire emanated from their own bodies, and they were immediately burned to ashes."
 }
 ---

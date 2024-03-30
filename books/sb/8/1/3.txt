@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.1.3",
+    "h1":"SB 8.1.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.1.3",
     "description":"O learned brāhmaṇa, kindly describe to us whatever activities the Supreme Personality of Godhead, who created this cosmic manifestation, has performed in the past manvantaras, is performing at present, and will perform in the future manvantaras."
 }
 ---

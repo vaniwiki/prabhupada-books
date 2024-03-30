@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.6.8",
+    "h1":"SB 7.6.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.6.8",
     "description":"One whose mind and senses are uncontrolled becomes increasingly attached to family life because of insatiable lusty desires and very strong illusion. In such a madman's life, the remaining years are also wasted because even during those years he cannot engage himself in devotional service."
 }
 ---

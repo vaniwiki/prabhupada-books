@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 9.1.30",
+    "h1":"SB 9.1.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 9.1.30",
     "description":"When the goddess Ambikā saw the great saintly persons, she was very much ashamed because at that time she was naked. She immediately got up from the lap of her husband and tried to cover her breast."
 }
 ---

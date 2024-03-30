@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.28.25",
+    "h1":"SB 4.28.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.28.25",
     "description":"When King Purañjana was being dragged with great force by the powerful Yavana, out of his gross ignorance he still could not remember his friend and well-wisher, the Supersoul."
 }
 ---

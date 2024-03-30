@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.19.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.19.24",
+    "h1":"SB 5.19.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.19.24",
     "description":"An intelligent person does not take interest in a place, even in the topmost planetary system, if the pure Ganges of topics concerning the Supreme Lord's activities does not flow there, if there are not devotees engaged in service on the banks of such a river of piety, or if there are no festivals of saṅkīrtana-yajña to satisfy the Lord [especially since saṅkīrtana-yajña is recommended in this age]."
 }
 ---

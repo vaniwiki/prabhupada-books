@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.12.38",
+    "h1":"SB 4.12.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.12.38",
     "description":"In this way, the fully Kṛṣṇa conscious Dhruva Mahārāja, the exalted son of Mahārāja Uttānapāda, attained the summit of the three statuses of planetary systems."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 6.7.15",
+    "h1":"SB 6.7.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 6.7.15",
     "description":"King Indra said: Therefore with great frankness and without duplicity I shall now bow my head at the lotus feet of Bṛhaspati, the spiritual master of the demigods. Because he is in the mode of goodness, he is fully aware of all knowledge and is the best of the brāhmaṇas. Now I shall touch his lotus feet and offer my obeisances unto him to try to satisfy him."
 }
 ---

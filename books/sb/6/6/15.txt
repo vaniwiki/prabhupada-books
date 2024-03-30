@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 6.6.15",
+    "h1":"SB 6.6.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 6.6.15",
     "description":"From Āṅgirasī, the wife of the Vasu named Vāstu, was born the great architect Viśvakarmā. Viśvakarmā became the husband of Ākṛtī, from whom the Manu named Cākṣuṣa was born. The sons of Manu were known as the Viśvadevas and Sādhyas."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.19.22",
+    "h1":"SB 4.19.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.19.22",
     "description":"Then the great hero, Vijitāśva, the son of King Pṛthu, again took the horse and returned to his father's sacrificial arena. Since that time, certain men with a poor fund of knowledge have adopted the dress of a false sannyāsī. It was King Indra who introduced this."
 }
 ---

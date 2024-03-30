@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.24.4",
+    "h1":"SB 8.24.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.24.4",
     "description":"Sūta Gosvāmī said: When Parīkṣit Mahārāja thus inquired from Śukadeva Gosvāmī, that most powerful saintly person began describing the pastimes of the Lord's incarnation as a fish."
 }
 ---

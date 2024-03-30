@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.21.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.21.9",
+    "h1":"SB 4.21.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.21.9",
     "description":"Vidura said: My dear brāhmaṇa Maitreya, it is very enlightening to understand that King Pṛthu was enthroned by the great sages and brāhmaṇas. All the demigods presented him with innumerable gifts, and he also expanded his influence upon personally receiving strength from Lord Viṣṇu. Thus he greatly developed the earth."
 }
 ---

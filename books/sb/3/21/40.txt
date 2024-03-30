@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 3.21.40",
+    "h1":"SB 3.21.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 3.21.40",
     "description":"The shore of the lake was surrounded by clusters of pious trees and creepers, rich in fruits and flowers of all seasons, that afforded shelter to pious animals and birds, which uttered various cries. It was adorned by the beauty of groves of forest trees."
 }
 ---

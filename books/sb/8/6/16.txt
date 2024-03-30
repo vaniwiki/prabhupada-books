@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.6.16",
+    "h1":"SB 8.6.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.6.16",
     "description":"Śukadeva Gosvāmī continued: When the Lord was thus offered prayers by the demigods, headed by Lord Brahmā, He understood the purpose for which they had approached Him. Therefore, in a deep voice that resembled the rumbling of clouds, the Lord replied to the demigods, who all stood there attentively with folded hands."
 }
 ---

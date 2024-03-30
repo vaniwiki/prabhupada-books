@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.9.23",
+    "h1":"SB 6.9.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.9.23",
     "description":"The Manu named King Satyavrata formerly saved himself by tying the small boat of the entire world to the horn of the Matsya avatāra, the fish incarnation. By the grace of the Matsya avatāra, Manu saved himself from the great danger of the flood. May that same fish incarnation save us from the great and fearful danger caused by the son of Tvaṣṭā."
 }
 ---

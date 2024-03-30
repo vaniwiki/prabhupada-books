@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 7.7.14",
+    "h1":"SB 7.7.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 7.7.14",
     "description":"My mother, being pregnant, desired the safety of her embryo and desired to give birth after her husband's arrival. Thus she stayed at Nārada Muni's āśrama, where she rendered service unto Nārada Muni with great devotion."
 }
 ---

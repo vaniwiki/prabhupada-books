@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 9.6.20",
+    "h1":"SB 9.6.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 9.6.20",
     "description":"The son of Purañjaya was known as Anenā, Anenā's son was Pṛthu, and Pṛthu's son was Viśvagandhi. Viśvagandhi's son was Candra, and Candra's son was Yuvanāśva."
 }
 ---

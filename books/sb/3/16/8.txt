@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.16.8",
+    "h1":"SB 3.16.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.16.8",
     "description":"I do not enjoy the oblations offered by the sacrificers in the sacrificial fire, which is one of My own mouths, with the same relish as I do the delicacies overflowing with ghee which are offered to the mouths of the brāhmaṇas who have dedicated to Me the results of their activities and who are ever satisfied with My prasāda."
 }
 ---

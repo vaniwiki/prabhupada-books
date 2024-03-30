@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.8.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.8.8",
+    "h1":"SB 3.8.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.8.8",
     "description":"The great sage Sāṅkhyāyana was the chief amongst the transcendentalists, and when he was describing the glories of the Lord in terms of Śrīmad-Bhāgavatam, it so happened that my spiritual master, Parāśara, and Bṛhaspati both heard him."
 }
 ---

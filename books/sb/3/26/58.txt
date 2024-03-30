@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 3.26.58",
+    "h1":"SB 3.26.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 3.26.58",
     "description":"Thereafter the two hands of the universal form of the Lord became manifested, and with them the power of grasping and dropping things, and after that Lord Indra appeared. Next the legs became manifested, and with them the process of movement, and after that Lord Viṣṇu appeared."
 }
 ---

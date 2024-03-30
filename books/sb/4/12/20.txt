@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.12.20",
+    "h1":"SB 4.12.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.12.20",
     "description":"Dhruva Mahārāja saw two very beautiful associates of Lord Viṣṇu in the plane. They had four hands and a blackish bodily luster, they were very youthful, and their eyes were just like reddish lotus flowers. They held clubs in their hands, and they were dressed in very attractive garments with helmets and were decorated with necklaces, bracelets and earrings."
 }
 ---

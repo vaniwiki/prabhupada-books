@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.3-5",
-    "h1":"Text 3-5",
-    "title":" Śrīmad Bhāgavatam 9.21.3-5",
+    "h1":"SB 9.21.3-5",
+    "label":"Text 3-5",
+    "title":"Śrīmad Bhāgavatam 9.21.3-5",
     "description":"Rantideva never endeavored to earn anything. He would enjoy whatever he got by the arrangement of providence, but when guests came he would give them everything. Thus he underwent considerable suffering, along with the members of his family. Indeed, he and his family members shivered for want of food and water, yet Rantideva always remained sober. Once, after fasting for forty-eight days, in the morning Rantideva received some water and some foodstuffs made with milk and ghee, but when he and his family were about to eat, a brāhmaṇa guest arrived."
 }
 ---

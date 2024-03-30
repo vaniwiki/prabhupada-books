@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 2.6.22",
+    "h1":"SB 2.6.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 2.6.22",
     "description":"From that Personality of Godhead, all the universal globes and the universal form with all material elements, qualities and senses are generated. Yet He is aloof from such material manifestations, like the sun, which is separate from its rays and heat."
 }
 ---

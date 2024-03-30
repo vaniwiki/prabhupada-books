@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.8.9",
+    "h1":"SB 4.8.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.8.9",
     "description":"Once upon a time, King Uttānapāda was patting the son of Suruci, Uttama, placing him on his lap. Dhruva Mahārāja was also trying to get on the King's lap, but the King did not very much welcome him."
 }
 ---

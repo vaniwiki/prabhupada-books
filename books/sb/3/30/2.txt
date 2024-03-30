@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.30.2",
+    "h1":"SB 3.30.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.30.2",
     "description":"Whatever is produced by the materialist with great pain and labor for so-called happiness, the Supreme Personality, as the time factor, destroys, and for this reason the conditioned soul laments."
 }
 ---

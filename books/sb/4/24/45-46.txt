@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.45-46",
-    "h1":"Text 45-46",
-    "title":" Śrīmad Bhāgavatam 4.24.45-46",
+    "h1":"SB 4.24.45-46",
+    "label":"Text 45-46",
+    "title":"Śrīmad Bhāgavatam 4.24.45-46",
     "description":"The Lord's beauty resembles a dark cloud during the rainy season. As the rainfall glistens, His bodily features also glisten. Indeed, He is the sum total of all beauty. The Lord has four arms and an exquisitely beautiful face with eyes like lotus petals, a beautiful highly raised nose, a mind-attracting smile, a beautiful forehead and equally beautiful and fully decorated ears."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.3.19",
+    "h1":"SB 4.3.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.3.19",
     "description":"Lord Śiva continued: If one is hurt by the arrows of an enemy, one is not as aggrieved as when cut by the unkind words of a relative, for such grief continues to rend one's heart day and night."
 }
 ---

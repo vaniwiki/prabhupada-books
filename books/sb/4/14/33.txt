@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.14.33",
+    "h1":"SB 4.14.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.14.33",
     "description":"But for King Vena, who is simply inauspicious, who would blaspheme the Supreme Personality of Godhead, by whose mercy one is awarded all kinds of fortune and opulence?"
 }
 ---

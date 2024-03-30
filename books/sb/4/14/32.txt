@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.14.32",
+    "h1":"SB 4.14.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.14.32",
     "description":"The saintly sages continued: This impious, impudent man does not deserve to sit on the throne at all. He is so shameless that he even dared insult the Supreme Personality of Godhead, Lord Viṣṇu."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 5.1.21",
+    "h1":"SB 5.1.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 5.1.21",
     "description":"Lord Brahmā was then worshiped by Manu, who respectfully satisfied him as well as he could. Priyavrata and Nārada also looked upon Brahmā with no tinges of resentment. Having engaged Priyavrata in accepting his father's request, Lord Brahmā returned to his abode, Satyaloka, which is indescribable by the endeavor of mundane mind or words."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 9.14.46",
+    "h1":"SB 9.14.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 9.14.46",
     "description":"From Purūravā's rubbing of the araṇis came a fire. By such a fire one can achieve all success in material enjoyment and be purified in seminal birth, initiation and in the performance of sacrifice, which are invoked with the combined letters a-u-m. Thus the fire was considered the son of King Purūravā."
 }
 ---

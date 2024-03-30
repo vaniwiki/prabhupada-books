@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 9.4.38",
+    "h1":"SB 9.4.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 9.4.38",
     "description":"In the meantime, only a muhūrta of the Dvādaśī day was left on which to break the fast. Consequently, it was imperative that the fast be broken immediately. In this dangerous situation, the King consulted learned brāhmaṇas."
 }
 ---

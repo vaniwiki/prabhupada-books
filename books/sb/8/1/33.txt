@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 8.1.33",
+    "h1":"SB 8.1.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 8.1.33",
     "description":"Śrī Sūta Gosvāmī said: O brāhmaṇas, when Parīkṣit Mahārāja, who was awaiting impending death, thus requested Śukadeva Gosvāmī to speak, Śukadeva Gosvāmī, encouraged by the King's words, offered respect to the King and spoke with great pleasure in the assembly of sages, who desired to hear him."
 }
 ---

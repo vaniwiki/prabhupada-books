@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.9.19",
+    "h1":"SB 8.9.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.9.19",
     "description":"Demons are by nature crooked like snakes. Therefore, to distribute a share of the nectar to them was not at all feasible, since this would be as dangerous as supplying milk to a snake. Considering this, the Supreme Personality of Godhead, who never falls down, did not deliver a share of nectar to the demons."
 }
 ---

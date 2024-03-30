@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.15.8",
+    "h1":"SB 9.15.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.15.8",
     "description":"Thereafter, Ṛcīka Muni's wife and mother-in-law, each desiring a son, requested the Muni to prepare an oblation. Thus Ṛcīka Muni prepared one oblation for his wife with a brāhmaṇa mantra and another for his mother-in-law with a kṣatriya mantra. Then he went out to bathe."
 }
 ---

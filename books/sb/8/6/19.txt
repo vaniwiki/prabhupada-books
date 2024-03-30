@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.6.19",
+    "h1":"SB 8.6.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.6.19",
     "description":"As long as you are not flourishing, you should make a truce with the demons and asuras, who are now being favored by time."
 }
 ---

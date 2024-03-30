@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 2.2.16",
+    "h1":"SB 2.2.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 2.2.16",
     "description":"Thereafter, the yogī should merge his mind, by his unalloyed intelligence, into the living entity, and then merge the living entity into the Superself. And by doing this, the fully satisfied living entity becomes situated in the supreme stage of satisfaction, so that he ceases from all other activities."
 }
 ---

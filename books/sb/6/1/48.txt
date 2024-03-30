@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.48",
-    "h1":"Text 48",
-    "title":" Śrīmad Bhāgavatam 6.1.48",
+    "h1":"SB 6.1.48",
+    "label":"Text 48",
+    "title":"Śrīmad Bhāgavatam 6.1.48",
     "description":"The omnipotent Yamarāja is as good as Lord Brahmā, for while situated in his own abode or in everyone's heart like the Paramātmā, he mentally observes the past activities of a living entity and thus understands how the living entity will act in future lives."
 }
 ---

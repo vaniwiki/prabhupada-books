@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.17.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.17.2",
+    "h1":"SB 3.17.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.17.2",
     "description":"The virtuous lady Diti had been very apprehensive of trouble to the gods from the children in her womb, and her husband predicted the same. She brought forth twin sons after a full one hundred years of pregnancy."
 }
 ---

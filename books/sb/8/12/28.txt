@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.12.28",
+    "h1":"SB 8.12.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.12.28",
     "description":"After following Her with great speed, Lord Śiva caught Her by the braid of Her hair and dragged Her near him. Although She was unwilling, he embraced Her with his arms."
 }
 ---

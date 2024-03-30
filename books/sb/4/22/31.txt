@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.22.31",
+    "h1":"SB 4.22.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.22.31",
     "description":"When one deviates from his original consciousness, he loses the capacity to remember his previous position or recognize his present one. When remembrance is lost, all knowledge acquired is based on a false foundation. When this occurs, learned scholars consider that the soul is lost."
 }
 ---

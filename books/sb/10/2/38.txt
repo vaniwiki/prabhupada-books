@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 10.2.38",
+    "h1":"SB 10.2.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 10.2.38",
     "description":"O Lord, we are fortunate because the heavy burden of the demons upon this earth is immediately removed by Your appearance. Indeed, we are certainly fortunate, for we shall be able to see upon this earth and in the heavenly planets the marks of lotus, conchshell, club and disc that adorn Your lotus feet."
 }
 ---

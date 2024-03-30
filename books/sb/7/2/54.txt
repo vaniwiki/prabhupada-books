@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 7.2.54",
+    "h1":"SB 7.2.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 7.2.54",
     "description":"If unkind Providence takes away my wife, who is half my body, why should He not take me also? What is the use of my living with half of my body, bereaved by loss of my wife? What shall I gain in this way?"
 }
 ---

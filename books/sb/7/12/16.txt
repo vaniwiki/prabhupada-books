@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 7.12.16",
+    "h1":"SB 7.12.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 7.12.16",
     "description":"By practicing in this way, whether one be in the brahmacārī-āśrama, gṛhastha-āśrama, vānaprastha-āśrama or sannyāsa-āśrama, one must always realize the all-pervading presence of the Supreme Lord, for in this way it is possible to understand the Absolute Truth."
 }
 ---

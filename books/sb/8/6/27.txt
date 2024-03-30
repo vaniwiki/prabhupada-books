@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 8.6.27",
+    "h1":"SB 8.6.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 8.6.27",
     "description":"Then Lord Brahmā and Lord Śiva, after offering their respectful obeisances to the Lord, returned to their abodes. All the demigods then approached Mahārāja Bali."
 }
 ---

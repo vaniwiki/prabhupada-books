@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 7.7.1",
+    "h1":"SB 7.7.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 7.7.1",
     "description":"Nārada Muni said: Although Prahlāda Mahārāja was born in a family of asuras, he was the greatest of all devotees. Having thus been questioned by his class friends, the sons of the asuras, he remembered the words spoken to him by me and replied to his friends as follows."
 }
 ---

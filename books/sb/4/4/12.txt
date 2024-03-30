@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.4.12",
+    "h1":"SB 4.4.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.4.12",
     "description":"Twice-born Dakṣa, a man like you can simply find fault in the qualities of others. Lord Śiva, however, not only finds no faults with others' qualities, but if someone has a little good quality, he magnifies it greatly. Unfortunately, you have found fault with such a great soul."
 }
 ---

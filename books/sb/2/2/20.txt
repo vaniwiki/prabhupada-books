@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 2.2.20",
+    "h1":"SB 2.2.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 2.2.20",
     "description":"The meditative devotee should slowly push up the life air from the navel to the heart, from there to the chest and from there to the root of the palate. He should search out the proper places with intelligence."
 }
 ---

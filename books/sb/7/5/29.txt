@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.5.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 7.5.29",
+    "h1":"SB 7.5.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 7.5.29",
     "description":"Śrī Nārada Muni continued: When Hiraṇyakaśipu received this reply from the teacher, he again addressed his son Prahlāda. Hiraṇyakaśipu said: You rascal, most fallen of our family, if you have not received this education from your teachers, where have you gotten it?"
 }
 ---

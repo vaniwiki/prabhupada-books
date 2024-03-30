@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 8.24.30",
+    "h1":"SB 8.24.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 8.24.30",
     "description":"O my Lord, possessing eyes like the petals of a lotus, the worship of the demigods, who are in the bodily concept of life, is fruitless in all respects. But because You are the supreme friend and dearmost Supersoul of everyone, worship of Your lotus feet is never useless. You have therefore manifested Your form as a fish."
 }
 ---

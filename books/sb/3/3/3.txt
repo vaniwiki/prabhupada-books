@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.3.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.3.3",
+    "h1":"SB 3.3.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.3.3",
     "description":"Attracted by the beauty and fortune of Rukmiṇī, the daughter of King Bhīṣmaka, many great princes and kings assembled to marry her. But Lord Kṛṣṇa, stepping over the other hopeful candidates, carried her away as His own share, as Garuḍa carried away nectar."
 }
 ---

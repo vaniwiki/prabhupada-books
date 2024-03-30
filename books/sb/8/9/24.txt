@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 8.9.24",
+    "h1":"SB 8.9.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 8.9.24",
     "description":"Rāhu, the demon who causes eclipses of the sun and moon, covered himself with the dress of a demigod and thus entered the assembly of the demigods and drank nectar without being detected by anyone, even by the Supreme Personality of Godhead. The moon and the sun, however, because of permanent animosity toward Rāhu, understood the situation. Thus Rāhu was detected."
 }
 ---

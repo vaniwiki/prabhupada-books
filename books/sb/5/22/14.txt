@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.22.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 5.22.14",
+    "h1":"SB 5.22.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 5.22.14",
     "description":"Situated 1,600,000 miles above Mercury, or 8,800,000 miles above earth, is the planet Mars. If this planet does not travel in a crooked way, it crosses through each sign of the zodiac in three fortnights and in this way travels through all twelve, one after another. It almost always creates unfavorable conditions in respect to rainfall and other influences."
 }
 ---

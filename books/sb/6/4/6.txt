@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.4.6",
+    "h1":"SB 6.4.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.4.6",
     "description":"My dear King Parīkṣit, when Soma, the king of the trees and predominating deity of the moon, saw the fire and wind burning all the trees to ashes, he felt great sympathy because he is the maintainer of all herbs and trees. To appease the anger of the Pracetās, Soma spoke as follows."
 }
 ---

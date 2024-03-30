@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 6.9.33",
+    "h1":"SB 6.9.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 6.9.33",
     "description":"O Supreme Personality of Godhead, O Nārāyaṇa, O Vāsudeva, original person! O most exalted person, supreme experience, welfare personified! O supreme benediction, supremely merciful and changeless! O support of the cosmic manifestation, sole proprietor of all planetary systems, master of everything and husband of the goddess of fortune! Your Lordship is realized by the topmost sannyāsīs, who wander about the world to preach Kṛṣṇa consciousness, fully absorbed in samādhi through bhakti-yoga. Because their minds are concentrated upon You, they can receive the conception of Your personality in their fully purified hearts. When the darkness in their hearts is completely eradicated and You are revealed to them, the transcendental bliss they enjoy is the transcendental form of Your Lordship. No one but such persons can realize You. Therefore we simply offer You our respectful obeisances."
 }
 ---

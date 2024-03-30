@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.4.7",
+    "h1":"SB 4.4.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.4.7",
     "description":"When Satī, with her followers, reached the arena, because all the people assembled were afraid of Dakṣa, none of them received her well. No one welcomed her but her mother and sisters, who, with tears in their eyes and with glad faces, welcomed her and talked with her very pleasingly."
 }
 ---

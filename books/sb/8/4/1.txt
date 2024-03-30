@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.4.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.4.1",
+    "h1":"SB 8.4.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.4.1",
     "description":"Śrī Śukadeva Gosvāmī said: When the Lord delivered Gajendra, King of the elephants, all the demigods, sages and Gandharvas, headed by Brahmā and Śiva, praised this activity of the Supreme Personality of Godhead and showered flowers upon both the Lord and Gajendra."
 }
 ---

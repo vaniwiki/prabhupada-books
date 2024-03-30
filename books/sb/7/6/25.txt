@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.6.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 7.6.25",
+    "h1":"SB 7.6.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 7.6.25",
     "description":"Nothing is unobtainable for devotees who have satisfied the Supreme Personality of Godhead, who is the cause of all causes, the original source of everything. The Lord is the reservoir of unlimited spiritual qualities. For devotees, therefore, who are transcendental to the modes of material nature, what is the use of following the principles of religion, economic development, sense gratification and liberation, which are all automatically obtainable under the influence of the modes of nature? We devotees always glorify the lotus feet of the Lord, and therefore we need not ask for anything in terms of dharma, kāma, artha and mokṣa."
 }
 ---

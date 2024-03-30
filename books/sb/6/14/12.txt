@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 6.14.12",
+    "h1":"SB 6.14.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 6.14.12",
     "description":"Citraketu, the husband of these millions of wives, was endowed with a beautiful form, magnanimity and youth. He was born in a high family, he had a complete education, and he was wealthy and opulent. Nevertheless, in spite of being endowed with all these assets, he was full of anxiety because he did not have a son."
 }
 ---

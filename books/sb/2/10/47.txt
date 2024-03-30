@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.10.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 2.10.47",
+    "h1":"SB 2.10.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 2.10.47",
     "description":"O King, I shall in due course explain the measurement of time in its gross and subtle features with the specific symptoms of each, but for the present let me explain unto you the Pādma-kalpa."
 }
 ---

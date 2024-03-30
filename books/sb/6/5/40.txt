@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 6.5.40",
+    "h1":"SB 6.5.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 6.5.40",
     "description":"Prajāpati Dakṣa continued: If you think that simply awakening the sense of renunciation will detach one from the material world, I must say that unless full knowledge is awakened, simply changing dresses as you have done cannot possibly bring detachment."
 }
 ---

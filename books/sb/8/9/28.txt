@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.9.28",
+    "h1":"SB 8.9.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.9.28",
     "description":"The place, the time, the cause, the purpose, the activity and the ambition were all the same for both the demigods and the demons, but the demigods achieved one result and the demons another. Because the demigods are always under the shelter of the dust of the Lord's lotus feet, they could very easily drink the nectar and get its result. The demons, however, not having sought shelter at the lotus feet of the Lord, were unable to achieve the result they desired."
 }
 ---

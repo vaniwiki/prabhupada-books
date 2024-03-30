@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.7.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 6.7.40",
+    "h1":"SB 6.7.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 6.7.40",
     "description":"Viśvarūpa, who was most liberal, spoke to King Indra [Sahasrākṣa] the secret hymn that protected Indra and conquered the military power of the demons."
 }
 ---

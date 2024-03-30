@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.1.19",
+    "h1":"SB 4.1.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.1.19",
     "description":"There the great sage concentrated his mind by the yogic breathing exercises, and thereby controlling all attachment, he remained standing on one leg only, eating nothing but air, and stood there on one leg for one hundred years."
 }
 ---

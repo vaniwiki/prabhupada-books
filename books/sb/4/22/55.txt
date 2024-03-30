@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 4.22.55",
+    "h1":"SB 4.22.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 4.22.55",
     "description":"Since Mahārāja Pṛthu was a perfect devotee of the Supreme Personality of Godhead, he wanted to protect the Lord's creation by pleasing the various citizens according to their various desires. Therefore Pṛthu Mahārāja used to please them in all respects by his words, mentality, works and gentle behavior."
 }
 ---

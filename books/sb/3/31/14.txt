@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.31.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.31.14",
+    "h1":"SB 3.31.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.31.14",
     "description":"I am separated from the Supreme Lord because of my being in this material body, which is made of five elements, and therefore my qualities and senses are being misused, although I am essentially spiritual. Because the Supreme Personality of Godhead is transcendental to material nature and the living entities, because He is devoid of such a material body, and because He is always glorious in His spiritual qualities, I offer my obeisances unto Him."
 }
 ---

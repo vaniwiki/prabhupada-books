@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.56-57",
-    "h1":"Text 56-57",
-    "title":" Śrīmad Bhāgavatam 6.1.56-57",
+    "h1":"SB 6.1.56-57",
+    "label":"Text 56-57",
+    "title":"Śrīmad Bhāgavatam 6.1.56-57",
     "description":"In the beginning this brāhmaṇa named Ajāmila studied all the Vedic literatures. He was a reservoir of good character, good conduct and good qualities. Firmly established in executing all the Vedic injunctions, he was very mild and gentle, and he kept his mind and senses under control. Furthermore, he was always truthful, he knew how to chant the Vedic mantras, and he was also very pure. Ajāmila was very respectful to his spiritual master, the fire-god, guests, and the elderly members of his household. Indeed, he was free from false prestige. He was upright, benevolent to all living entities, and well behaved. He would never speak nonsense or envy anyone."
 }
 ---

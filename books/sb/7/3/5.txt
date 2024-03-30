@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 7.3.5",
+    "h1":"SB 7.3.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 7.3.5",
     "description":"Because of the power of his severe austerities, all the rivers and oceans were agitated, the surface of the globe, with its mountains and islands, began trembling, and the stars and planets fell. All directions were ablaze."
 }
 ---

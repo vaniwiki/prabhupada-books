@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.3.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 6.3.13",
+    "h1":"SB 6.3.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 6.3.13",
     "description":"Just as the driver of a bullock cart ties ropes through the nostrils of his bulls to control them, the Supreme Personality of Godhead binds all men through the ropes of His words in the Vedas, which set forth the names and activities of the distinct orders of human society [brāhmaṇa, kṣatriya, vaiśya and śūdra]. In fear, the members of these orders all worship the Supreme Lord by offering Him presentations according to their respective activities."
 }
 ---

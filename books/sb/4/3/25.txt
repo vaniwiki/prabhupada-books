@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.3.25",
+    "h1":"SB 4.3.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.3.25",
     "description":"If in spite of this instruction you decide to go, neglecting my words, the future will not be good for you. You are most respectable, and when you are insulted by your relative, this insult will immediately be equal to death."
 }
 ---

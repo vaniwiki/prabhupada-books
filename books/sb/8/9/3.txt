@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.9.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 8.9.3",
+    "h1":"SB 8.9.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 8.9.3",
     "description":"O wonderfully beautiful girl, You have such nice eyes, resembling the petals of a lotus flower. Who are You? Where do You come from? What is Your purpose in coming here, and to whom do You belong? O You whose thighs are extraordinarily beautiful, our minds are becoming agitated simply because of seeing You."
 }
 ---

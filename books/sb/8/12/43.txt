@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 8.12.43",
+    "h1":"SB 8.12.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 8.12.43",
     "description":"Lord Śiva said: O Goddess, you have now seen the illusory energy of the Supreme Personality of Godhead, who is the unborn master of everyone. Although I am one of the principal expansions of His Lordship, even I was illusioned by His energy. What then is to be said of others, who are fully dependent on māyā?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 10.1.20",
+    "h1":"SB 10.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 10.1.20",
     "description":"After reaching the shore of the ocean of milk, the demigods worshiped the Supreme Personality of Godhead, Lord Viṣṇu, the master of the whole universe, the supreme God of all gods, who provides for everyone and diminishes everyone's suffering. With great attention, they worshiped Lord Viṣṇu, who lies on the ocean of milk, by reciting the Vedic mantras known as the Puruṣa-sūkta."
 }
 ---

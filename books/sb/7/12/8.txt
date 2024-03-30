@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.12.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 7.12.8",
+    "h1":"SB 7.12.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 7.12.8",
     "description":"If the wife of the spiritual master is young, a young brahmacārī should not allow her to care for his hair, massage his body with oil, or bathe him with affection like a mother."
 }
 ---

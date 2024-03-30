@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.64",
-    "h1":"Text 64",
-    "title":" Śrīmad Bhāgavatam 9.4.64",
+    "h1":"SB 9.4.64",
+    "label":"Text 64",
+    "title":"Śrīmad Bhāgavatam 9.4.64",
     "description":"O best of the brāhmaṇas, without saintly persons for whom I am the only destination, I do not desire to enjoy My transcendental bliss and My supreme opulences."
 }
 ---

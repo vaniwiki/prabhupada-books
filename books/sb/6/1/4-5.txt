@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.4-5",
-    "h1":"Text 4-5",
-    "title":" Śrīmad Bhāgavatam 6.1.4-5",
+    "h1":"SB 6.1.4-5",
+    "label":"Text 4-5",
+    "title":"Śrīmad Bhāgavatam 6.1.4-5",
     "description":"My dear lord, you have described the dynasties and characteristics of King Priyavrata and King Uttānapāda. The Supreme Personality of Godhead created this material world with various universes, planetary systems, planets and stars, with varied lands, seas, oceans, mountains, rivers, gardens and trees, all with different characteristics. These are divided among this planet earth, the luminaries in the sky and the lower planetary systems. You have very clearly described these planets and the living entities who live on them."
 }
 ---

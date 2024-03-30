@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 4.10.25",
+    "h1":"SB 4.10.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 4.10.25",
     "description":"Next, a great mountain was visible in the sky, and from all directions hailstones fell, along with lances, clubs, swords, iron bludgeons and great pieces of stone."
 }
 ---

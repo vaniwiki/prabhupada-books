@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.16.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 3.16.24",
+    "h1":"SB 3.16.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 3.16.24",
     "description":"Dear Lord, You never want the auspicious path to be destroyed, for You are the reservoir of all goodness. Just to benefit people in general, You destroy the evil element by Your mighty potency. You are the proprietor of the three creations and the maintainer of the entire universe. Therefore Your potency is not reduced by Your submissive behavior. Rather, by submission You exhibit Your transcendental pastimes."
 }
 ---

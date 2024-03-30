@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 7.13.4",
+    "h1":"SB 7.13.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 7.13.4",
     "description":"The sannyāsī should always try to see the Supreme pervading everything and see everything, including this universe, resting on the Supreme."
 }
 ---

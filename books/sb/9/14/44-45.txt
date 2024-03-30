@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.44-45",
-    "h1":"Text 44-45",
-    "title":" Śrīmad Bhāgavatam 9.14.44-45",
+    "h1":"SB 9.14.44-45",
+    "label":"Text 44-45",
+    "title":"Śrīmad Bhāgavatam 9.14.44-45",
     "description":"When the process of fruitive yajña became manifest within his heart, King Purūravā went to the same spot where he had left Agnisthālī. There he saw that from the womb of a śamī tree, an aśvattha tree had grown. He then took a piece of wood from that tree and made it into two araṇis. Desiring to go to the planet where Urvaśī resided, he chanted mantras, meditating upon the lower araṇi as Urvaśī, the upper one as himself, and the piece of wood between them as his son. In this way he began to ignite a fire."
 }
 ---

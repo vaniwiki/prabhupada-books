@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 10.12.36",
+    "h1":"SB 10.12.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 10.12.36",
     "description":"O King Parīkṣit, when the python-shaped body of Aghāsura dried up into merely a big skin, it became a wonderful place for the inhabitants of Vṛndāvana to visit, and it remained so for a long, long time."
 }
 ---

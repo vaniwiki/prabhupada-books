@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 2.8.15",
+    "h1":"SB 2.8.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 2.8.15",
     "description":"O best of the brāhmaṇas, please also describe how the creation of the globes throughout the universe, the four directions of the heavens, the sky, the planets, the stars, the mountains, the rivers, the seas and the islands, as well as their different kinds of inhabitants, takes place."
 }
 ---

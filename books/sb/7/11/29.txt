@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 7.11.29",
+    "h1":"SB 7.11.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 7.11.29",
     "description":"The woman who engages in the service of her husband, following strictly in the footsteps of the goddess of fortune, surely returns home, back to Godhead, with her devotee husband, and lives very happily in the Vaikuṇṭha planets."
 }
 ---

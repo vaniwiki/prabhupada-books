@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.31.15",
+    "h1":"SB 4.31.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.31.15",
     "description":"During the rainy season, water is generated from the sun, and in due course of time, during the summer season, the very same water is again absorbed by the sun. Similarly, all living entities, moving and inert, are generated from the earth, and again, after some time, they all return to the earth as dust. Similarly, everything emanates from the Supreme Personality of Godhead, and in due course of time everything enters into Him again."
 }
 ---

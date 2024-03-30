@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 3.30.22",
+    "h1":"SB 3.30.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 3.30.22",
     "description":"Under the scorching sun, the criminal has to pass through roads of hot sand with forest fires on both sides. He is whipped on the back by the constables because of his inability to walk, and he is afflicted by hunger and thirst, but unfortunately there is no drinking water, no shelter and no place for rest on the road."
 }
 ---

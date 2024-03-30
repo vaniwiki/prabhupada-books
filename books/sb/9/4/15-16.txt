@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.15-16",
-    "h1":"Text 15-16",
-    "title":" Śrīmad Bhāgavatam 9.4.15-16",
+    "h1":"SB 9.4.15-16",
+    "label":"Text 15-16",
+    "title":"Śrīmad Bhāgavatam 9.4.15-16",
     "description":"Śukadeva Gosvāmī said: Mahārāja Ambarīṣa, the most fortunate personality, achieved the rule of the entire world, consisting of seven islands, and achieved inexhaustible, unlimited opulence and prosperity on earth. Although such a position is rarely obtained, Mahārāja Ambarīṣa did not care for it at all, for he knew very well that all such opulence is material. Like that which is imagined in a dream, such opulence will ultimately be destroyed. The King knew that any nondevotee who attains such opulence merges increasingly into material nature's mode of darkness."
 }
 ---

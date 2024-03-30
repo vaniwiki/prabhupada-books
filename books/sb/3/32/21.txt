@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.32.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.32.21",
+    "h1":"SB 3.32.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.32.21",
     "description":"When the results of their pious activities are exhausted, they fall down by higher arrangement and again come back to this planet, just as any person raised to a high position sometimes all of a sudden falls."
 }
 ---

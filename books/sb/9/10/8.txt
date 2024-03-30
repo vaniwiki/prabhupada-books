@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 9.10.8",
+    "h1":"SB 9.10.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 9.10.8",
     "description":"Carrying out the order of His father, who was bound by a promise to his wife, Lord Rāmacandra left behind His kingdom, opulence, friends, well-wishers, residence and everything else, just as a liberated soul gives up his life, and went to the forest with Sītā."
 }
 ---

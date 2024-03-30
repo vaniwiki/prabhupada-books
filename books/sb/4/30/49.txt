@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 4.30.49",
+    "h1":"SB 4.30.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 4.30.49",
     "description":"His previous body had been destroyed, but he, the same Dakṣa, inspired by the supreme will, created all the desired living entities in the Cākṣuṣa manvantara."
 }
 ---

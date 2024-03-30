@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.28.40",
+    "h1":"SB 4.28.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.28.40",
     "description":"King Malayadhvaja attained perfect knowledge by being able to distinguish the Supersoul from the individual soul. The individual soul is localized, whereas the Supersoul is all-pervasive. He became perfect in knowledge that the material body is not the soul but that the soul is the witness of the material body."
 }
 ---

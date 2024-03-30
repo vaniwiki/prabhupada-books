@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.1.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.1.31",
+    "h1":"SB 9.1.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.1.31",
     "description":"Seeing Lord Śiva and Pārvatī engaged in sexual affairs, all the great saintly persons immediately desisted from going further and departed for the āśrama of Nara-Nārāyaṇa."
 }
 ---

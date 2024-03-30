@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 7.2.45",
+    "h1":"SB 7.2.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 7.2.45",
     "description":"In the body the most important substance is the life air, but that also is neither the listener nor the speaker. Beyond even the life air, the soul also can do nothing, for the Supersoul is actually the director, in cooperation with the individual soul. The Supersoul conducting the activities of the body is different from the body and living force."
 }
 ---

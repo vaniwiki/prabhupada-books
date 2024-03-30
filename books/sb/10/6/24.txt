@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 10.6.24",
+    "h1":"SB 10.6.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 10.6.24",
     "description":"May Hṛṣīkeśa protect Your senses, and Nārāyaṇa Your life air. May the master of Śvetadvīpa protect the core of Your heart, and may Lord Yogeśvara protect Your mind."
 }
 ---

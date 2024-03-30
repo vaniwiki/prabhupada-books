@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 3.6.34",
+    "h1":"SB 3.6.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 3.6.34",
     "description":"All these different social divisions are born, with their occupational duties and living conditions, from the Supreme Personality of Godhead. Thus for unconditional life and self-realization one has to worship the Supreme Lord under the direction of the spiritual master."
 }
 ---

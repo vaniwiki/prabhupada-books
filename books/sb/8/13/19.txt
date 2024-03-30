@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 8.13.19",
+    "h1":"SB 8.13.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 8.13.19",
     "description":"In this ninth manvantara, the Pāras and Marīcigarbhas will be among the demigods. The king of heaven, Indra, will be named Adbhuta, and Dyutimān will be among the seven sages."
 }
 ---

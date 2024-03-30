@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.9.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 10.9.22",
+    "h1":"SB 10.9.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 10.9.22",
     "description":"While mother Yaśodā was very busy with household affairs, the Supreme Lord, Kṛṣṇa, observed twin trees known as yamala-arjuna, which in a former millennium had been the demigod sons of Kuvera."
 }
 ---

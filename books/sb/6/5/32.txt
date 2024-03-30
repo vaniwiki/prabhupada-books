@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.5.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 6.5.32",
+    "h1":"SB 6.5.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 6.5.32",
     "description":"Śukadeva Gosvāmī continued: O best of the advanced Āryans, after saying this much to the sons of Prajāpati Dakṣa, Nārada Muni, whose merciful glance never goes in vain, left as he had planned. The sons of Dakṣa followed their elder brothers. Not attempting to produce children, they engaged themselves in Kṛṣṇa consciousness."
 }
 ---

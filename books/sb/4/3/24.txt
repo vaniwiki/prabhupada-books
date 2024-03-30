@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 4.3.24",
+    "h1":"SB 4.3.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 4.3.24",
     "description":"Therefore you should not see your father, although he is the giver of your body, because he and his followers are envious of me. Because of his envy, O most worshipful one, he has insulted me with cruel words although I am innocent."
 }
 ---

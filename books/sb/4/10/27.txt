@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 4.10.27",
+    "h1":"SB 4.10.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 4.10.27",
     "description":"Then, as if it were the time of the dissolution of the whole world, the fierce sea with foaming waves and great roaring sounds came forward before him."
 }
 ---

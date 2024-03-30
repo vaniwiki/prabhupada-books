@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.10.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 10.10.33",
+    "h1":"SB 10.10.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 10.10.33",
     "description":"O Lord, whose glories are covered by Your own energy, You are the Supreme Personality of Godhead. You are Saṅkarṣaṇa, the origin of creation, and You are Vāsudeva, the origin of the caturvyūha. Because You are everything and are therefore the Supreme Brahman, we simply offer our respectful obeisances unto You."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.28.37",
+    "h1":"SB 4.28.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.28.37",
     "description":"Through austerity, King Malayadhvaja in body and mind gradually became equal to the dualities of cold and heat, happiness and distress, wind and rain, hunger and thirst, the pleasant and the unpleasant. In this way he conquered all relativities."
 }
 ---

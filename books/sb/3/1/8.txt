@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.1.8",
+    "h1":"SB 3.1.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.1.8",
     "description":"Yudhiṣṭhira, who was born without any enemy, was unfairly defeated in gambling. But because he had taken the vow of truthfulness, he went off to the forest. When he came back in due course and begged the return of his rightful share of the kingdom, he was refused by Dhṛtarāṣṭra, who was overwhelmed by illusion."
 }
 ---

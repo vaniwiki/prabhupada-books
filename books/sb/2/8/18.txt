@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 2.8.18",
+    "h1":"SB 2.8.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 2.8.18",
     "description":"Please also explain what may generally be the common religious affiliations of human society, as well as their specific occupational duties in religion, the classification of the social orders as well as the administrative royal orders, and the religious principles for one who may be in distress."
 }
 ---

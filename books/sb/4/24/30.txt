@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.24.30",
+    "h1":"SB 4.24.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.24.30",
     "description":"You are all devotees of the Lord, and as such I appreciate that you are as respectable as the Supreme Personality of Godhead Himself. I know in this way that the devotees also respect me and that I am dear to them. Thus no one can be as dear to the devotees as I am."
 }
 ---

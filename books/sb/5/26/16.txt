@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.26.16",
+    "h1":"SB 5.26.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.26.16",
     "description":"In his next life, a sinful king or governmental representative who punishes an innocent person, or who inflicts corporal punishment upon a brāhmaṇa, is taken by the Yamadūtas to the hell named Sūkaramukha, where the most powerful assistants of Yamarāja crush him exactly as one crushes sugarcane to squeeze out the juice. The sinful living entity cries very pitiably and faints, just like an innocent man undergoing punishments. This is the result of punishing a faultless person."
 }
 ---

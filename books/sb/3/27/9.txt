@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.27.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 3.27.9",
+    "h1":"SB 3.27.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 3.27.9",
     "description":"One's seeing power should be increased through knowledge of spirit and matter, and one should not unnecessarily identify himself with the body and thus become attracted by bodily relationships."
 }
 ---

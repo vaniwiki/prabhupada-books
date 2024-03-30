@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 2.9.6",
+    "h1":"SB 2.9.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 2.9.6",
     "description":"While thus engaged in thinking, in the water, Brahmājī heard twice from nearby two syllables joined together. One of the syllables was taken from the sixteenth and the other from the twenty-first of the sparśa alphabets, and both joined to become the wealth of the renounced order of life."
 }
 ---

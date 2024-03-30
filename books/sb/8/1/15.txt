@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.1.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 8.1.15",
+    "h1":"SB 8.1.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 8.1.15",
     "description":"The Supreme Personality of Godhead is full in opulence by His own gain, yet He acts as the creator, maintainer and annihilator of this material world. In spite of acting in that way, He is never entangled. Hence devotees who follow in His footsteps are also never entangled."
 }
 ---

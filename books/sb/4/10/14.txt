@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.10.14",
+    "h1":"SB 4.10.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.10.14",
     "description":"All the Siddhas from the higher planetary systems were observing the fight from the sky, and when they saw that Dhruva Mahārāja had been covered by the incessant arrows of the enemy, they roared tumultuously, \"The grandson of Manu, Dhruva, is now lost!\" They cried that Dhruva Mahārāja was just like the sun and that now he had set within the ocean of the Yakṣas."
 }
 ---

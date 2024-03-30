@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.22.5",
+    "h1":"SB 4.22.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.22.5",
     "description":"After this, the King took the water which had washed the lotus feet of the Kumāras and sprinkled it over his hair. By such respectful actions, the King, as an exemplary personality, showed how to receive a spiritually advanced personality."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 3.12.45",
+    "h1":"SB 3.12.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 3.12.45",
     "description":"Thereafter the art of literary expression, uṣṇik, was generated from the hairs on the body of the almighty Prajāpati. The principal Vedic hymn, gāyatrī, was generated from the skin, triṣṭup from the flesh, anuṣṭup from the veins, and jagatī from the bones of the lord of the living entities."
 }
 ---

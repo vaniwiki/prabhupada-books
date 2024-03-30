@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 3.21.55",
+    "h1":"SB 3.21.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 3.21.55",
     "description":"If you gave up all thought of the world's situation, unrighteousness would flourish, for men who hanker only after money would be unopposed. Such miscreants would attack, and the world would perish."
 }
 ---

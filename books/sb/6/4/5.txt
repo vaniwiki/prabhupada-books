@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 6.4.5",
+    "h1":"SB 6.4.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 6.4.5",
     "description":"Because of having undergone long austerities in the water, the Pracetās were very angry at the trees. Desiring to burn them to ashes, they generated wind and fire from their mouths."
 }
 ---

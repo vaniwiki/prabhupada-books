@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.5.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.5.14",
+    "h1":"SB 4.5.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.5.14",
     "description":"Some of the soldiers pulled down the pillars which were supporting the pandal of sacrifice, some of them entered the female quarters, some began destroying the sacrificial arena, and some entered the kitchen and the residential quarters."
 }
 ---

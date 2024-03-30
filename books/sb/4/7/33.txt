@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.7.33",
+    "h1":"SB 4.7.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.7.33",
     "description":"The wives of the performers of the sacrifice said: My dear Lord, this sacrifice was arranged under the instruction of Brahmā, but unfortunately Lord Śiva, being angry at Dakṣa, devastated the entire scene, and because of his anger the animals meant for sacrifice are lying dead. Therefore the preparations of the yajña have been lost. Now, by the glance of Your lotus eyes, the sanctity of this sacrificial arena may be again invoked."
 }
 ---

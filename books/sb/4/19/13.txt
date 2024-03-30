@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.19.13",
+    "h1":"SB 4.19.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.19.13",
     "description":"When the son of King Pṛthu was informed by Atri of King Indra's trick, he immediately became very angry and followed Indra to kill him, calling, \"Wait! Wait!\""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.22.8",
+    "h1":"SB 4.22.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.22.8",
     "description":"Any person upon whom the brāhmaṇas and Vaiṣṇavas are pleased can achieve anything which is very rare to obtain in this world as well as after death. Not only that, but one also receives the favor of the auspicious Lord Śiva and Lord Viṣṇu, who accompany the brāhmaṇas and Vaiṣṇavas."
 }
 ---

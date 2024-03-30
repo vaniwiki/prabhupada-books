@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.14-15",
-    "h1":"Text 14-15",
-    "title":" Śrīmad Bhāgavatam 7.1.14-15",
+    "h1":"SB 7.1.14-15",
+    "label":"Text 14-15",
+    "title":"Śrīmad Bhāgavatam 7.1.14-15",
     "description":"O King, at the Rājasūya sacrifice, Mahārāja Yudhiṣṭhira, the son of Mahārāja Pāṇḍu, personally saw Śiśupāla merge into the body of the Supreme Lord, Kṛṣṇa. Therefore, struck with wonder, he inquired about the reason for this from the great sage Nārada, who was seated there. While he inquired, all the sages present also heard him ask his question."
 }
 ---

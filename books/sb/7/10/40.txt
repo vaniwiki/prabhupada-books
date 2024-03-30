@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.10.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 7.10.40",
+    "h1":"SB 7.10.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 7.10.40",
     "description":"By devotional service, pure devotees who incessantly think of the Supreme Personality of Godhead receive bodies similar to His. This is known as sārūpya-mukti. Although Śiśupāla, Dantavakra and other kings thought of Kṛṣṇa as an enemy, they also achieved the same result."
 }
 ---

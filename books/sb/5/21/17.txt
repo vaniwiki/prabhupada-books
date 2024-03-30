@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.21.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.21.17",
+    "h1":"SB 5.21.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.21.17",
     "description":"There are sixty thousand saintly persons named Vālikhilyas, each the size of a thumb, who are located in front of the sun-god and who offer him eloquent prayers of glorification."
 }
 ---

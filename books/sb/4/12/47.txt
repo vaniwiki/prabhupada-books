@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.12.47",
+    "h1":"SB 4.12.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.12.47",
     "description":"Anyone who hears this narration of Dhruva Mahārāja acquires exalted qualities like him. For anyone who desires greatness, prowess or influence, here is the process by which to acquire them, and for thoughtful men who want adoration, here is the proper means."
 }
 ---

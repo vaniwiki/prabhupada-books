@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 10.3.6",
+    "h1":"SB 10.3.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 10.3.6",
     "description":"The Kinnaras and Gandharvas began to sing auspicious songs, the Siddhas and Cāraṇas offered auspicious prayers, and the Vidyādharīs, along with the Apsarās, began to dance in jubilation."
 }
 ---

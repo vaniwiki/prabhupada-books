@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.7.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 8.7.16",
+    "h1":"SB 8.7.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 8.7.16",
     "description":"When nectar did not come from the ocean of milk, despite so much endeavor by the best of the demigods and demons, the Supreme Personality of Godhead, Ajita, personally began to churn the ocean."
 }
 ---

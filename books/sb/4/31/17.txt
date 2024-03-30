@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.31.17",
+    "h1":"SB 4.31.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.31.17",
     "description":"My dear Kings, sometimes in the sky there are clouds, sometimes there is darkness, and sometimes there is illumination. The appearance of all these takes place consecutively. Similarly, in the Supreme Absolute, the modes of passion, darkness and goodness appear as consecutive energies. Sometimes they appear, and sometimes they disappear."
 }
 ---

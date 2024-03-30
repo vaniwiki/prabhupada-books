@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.2.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 10.2.37",
+    "h1":"SB 10.2.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 10.2.37",
     "description":"Even while engaged in various activities, devotees whose minds are completely absorbed at Your lotus feet, and who constantly hear, chant, contemplate and cause others to remember Your transcendental names and forms, are always on the transcendental platform, and thus they can understand the Supreme Personality of Godhead."
 }
 ---

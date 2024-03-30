@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.23.52",
-    "h1":"Text 52",
-    "title":" Śrīmad Bhāgavatam 3.23.52",
+    "h1":"SB 3.23.52",
+    "label":"Text 52",
+    "title":"Śrīmad Bhāgavatam 3.23.52",
     "description":"My dear brāhmaṇa, as far as your daughters are concerned, they will find their own suitable husbands and go away to their respective homes. But who will give me solace after your departure as a sannyāsī?"
 }
 ---

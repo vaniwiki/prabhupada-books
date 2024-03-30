@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.28.3",
+    "h1":"SB 3.28.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.28.3",
     "description":"One should cease performing conventional religious practices and should be attracted to those which lead to salvation. One should eat very frugally and should always remain secluded so that he can achieve the highest perfection of life."
 }
 ---

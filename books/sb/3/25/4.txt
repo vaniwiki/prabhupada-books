@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 3.25.4",
+    "h1":"SB 3.25.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 3.25.4",
     "description":"Śrī Sūta Gosvāmī said: The most powerful sage Maitreya was a friend of Vyāsadeva. Being encouraged and pleased by Vidura's inquiry about transcendental knowledge, Maitreya spoke as follows."
 }
 ---

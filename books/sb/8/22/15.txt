@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 8.22.15",
+    "h1":"SB 8.22.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 8.22.15",
     "description":"When the great personality Prahlāda Mahārāja saw that the Supreme Lord was sitting there, surrounded and worshiped by His intimate associates like Sunanda, he was overwhelmed with tears of jubilation. Approaching the Lord and falling to the ground, he offered obeisances to the Lord with his head."
 }
 ---

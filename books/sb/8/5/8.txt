@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 8.5.8",
+    "h1":"SB 8.5.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 8.5.8",
     "description":"During the reign of Cākṣuṣa Manu, the King of heaven was known as Mantradruma. Among the demigods were the Āpyas, and among the great sages were Haviṣmān and Vīraka."
 }
 ---

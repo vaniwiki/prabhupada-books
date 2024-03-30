@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 2.9.9",
+    "h1":"SB 2.9.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 2.9.9",
     "description":"The Personality of Godhead, being thus very much satisfied with the penance of Lord Brahmā, was pleased to manifest His personal abode, Vaikuṇṭha, the supreme planet above all others. This transcendental abode of the Lord is adored by all self-realized persons freed from all kinds of miseries and fear of illusory existence."
 }
 ---

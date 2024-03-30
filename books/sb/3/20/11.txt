@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.20.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 3.20.11",
+    "h1":"SB 3.20.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 3.20.11",
     "description":"Did they evolve the creation in conjunction with their respective wives, did they remain independent in their action, or did they all jointly produce it?"
 }
 ---

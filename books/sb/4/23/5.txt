@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.23.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.23.5",
+    "h1":"SB 4.23.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.23.5",
     "description":"In the tapo-vana, Mahārāja Pṛthu sometimes ate the trunks and roots of trees, and sometimes he ate fruit and dried leaves, and for some weeks he drank only water. Finally he lived simply by breathing air."
 }
 ---

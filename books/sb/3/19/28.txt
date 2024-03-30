@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 3.19.28",
+    "h1":"SB 3.19.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 3.19.28",
     "description":"Brahmā continued: He was struck by a forefoot of the Lord, whom yogīs, seeking freedom from their unreal material bodies, meditate upon in seclusion in mystic trance. While gazing on His countenance, this crest jewel of Diti's sons has cast off his mortal coil."
 }
 ---

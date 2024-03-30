@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 2.2.33",
+    "h1":"SB 2.2.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 2.2.33",
     "description":"For those who are wandering in the material universe, there is no more auspicious means of deliverance than what is aimed at in the direct devotional service of Lord Kṛṣṇa."
 }
 ---

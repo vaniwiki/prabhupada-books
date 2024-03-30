@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 2.1.35",
+    "h1":"SB 2.1.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 2.1.35",
     "description":"The principle of matter [mahat-tattva] is the consciousness of the omnipresent Lord, as asserted by the experts, and Rudradeva is His ego. The horse, mule, camel and elephant are His nails, and wild animals and all quadrupeds are situated in the belt zone of the Lord."
 }
 ---

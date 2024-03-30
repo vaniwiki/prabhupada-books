@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 9.14.33",
+    "h1":"SB 9.14.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 9.14.33",
     "description":"Once during his travels all over the world, Purūravā saw Urvaśī, accompanied by five companions, on the bank of the Sarasvatī at Kurukṣetra. With jubilation in his face, he then spoke to her in sweet words as follows."
 }
 ---

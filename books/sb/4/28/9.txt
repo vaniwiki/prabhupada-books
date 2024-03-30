@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 4.28.9",
+    "h1":"SB 4.28.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 4.28.9",
     "description":"The objects of enjoyment became stale by the influence of Kālakanyā. Due to the continuance of his lusty desires, King Purañjana became very poor in everything. Thus he did not understand the aim of life. He was still very affectionate toward his wife and children, and he worried about maintaining them."
 }
 ---

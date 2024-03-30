@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.1.20",
+    "h1":"SB 4.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.1.20",
     "description":"He was thinking: May the Lord of the universe, of whom I have taken shelter, kindly he pleased to offer me a son exactly like Him."
 }
 ---

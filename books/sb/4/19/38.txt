@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 4.19.38",
+    "h1":"SB 4.19.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 4.19.38",
     "description":"O protector of the people in general, please consider the purpose of your being incarnated by Lord Viṣṇu. The irreligious principles created by Indra are but mothers of so many unwanted religions. Please therefore stop these imitations immediately."
 }
 ---

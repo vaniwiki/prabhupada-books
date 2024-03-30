@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 5.14.39",
+    "h1":"SB 5.14.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 5.14.39",
     "description":"Saintly persons, who are friends to all living entities, have a peaceful consciousness. They have controlled their senses and minds, and they easily attain the path of liberation, the path back to Godhead. Being unfortunate and attached to the miserable material conditions, a materialistic person cannot associate with them."
 }
 ---

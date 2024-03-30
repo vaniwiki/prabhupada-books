@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.8.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 2.8.20",
+    "h1":"SB 2.8.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 2.8.20",
     "description":"What are the opulences of the great mystics, and what is their ultimate realization? How does the perfect mystic become detached from the subtle astral body? What is the basic knowledge of the Vedic literatures, including the branches of history and the supplementary Purāṇas?"
 }
 ---

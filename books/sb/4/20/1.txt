@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.20.1",
+    "h1":"SB 4.20.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.20.1",
     "description":"The great sage Maitreya continued: My dear Vidura, being very much satisfied by the performance of ninety-nine horse sacrifices, the Supreme Personality of Godhead, Lord Viṣṇu, appeared on the scene. Accompanying Him was King Indra. Lord Viṣṇu then began to speak."
 }
 ---

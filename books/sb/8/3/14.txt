@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 8.3.14",
+    "h1":"SB 8.3.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 8.3.14",
     "description":"My Lord, You are the observer of all the objectives of the senses. Without Your mercy, there is no possibility of solving the problem of doubts. The material world is just like a shadow resembling You. Indeed, one accepts this material world as real because it gives a glimpse of Your existence."
 }
 ---

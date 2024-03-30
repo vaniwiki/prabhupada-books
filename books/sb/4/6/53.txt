@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 4.6.53",
+    "h1":"SB 4.6.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 4.6.53",
     "description":"O destroyer of the sacrifice, please take your portion of the sacrifice and let the sacrifice be completed by your grace."
 }
 ---

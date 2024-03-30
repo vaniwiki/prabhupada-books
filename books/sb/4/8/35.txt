@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 4.8.35",
+    "h1":"SB 4.8.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 4.8.35",
     "description":"Dhruva Mahārāja said: My dear Lord Nāradajī, for a person whose heart is disturbed by the material conditions of happiness and distress, whatever you have so kindly explained for attainment of peace of mind is certainly a very good instruction. But as far as I am concerned, I am covered by ignorance, and this kind of philosophy does not touch my heart."
 }
 ---

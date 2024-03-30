@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 9.10.28",
+    "h1":"SB 9.10.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 9.10.28",
     "description":"O pleasure of the Rākṣasa dynasty, because of you the state of Laṅkā and also we ourselves now have no protector. By your deeds you have made your body fit to be eaten by vultures and your soul fit to go to hell."
 }
 ---

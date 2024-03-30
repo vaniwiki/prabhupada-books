@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.2.13",
+    "h1":"SB 4.2.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.2.13",
     "description":"I had no desire to give my daughter to this person, who has broken all rules of civility. Because of not observing the required rules and regulations, he is impure, but I was obliged to hand over my daughter to him just as one teaches the messages of the Vedas to a śūdra."
 }
 ---

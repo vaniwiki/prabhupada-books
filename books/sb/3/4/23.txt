@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.4.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.4.23",
+    "h1":"SB 3.4.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.4.23",
     "description":"Śrī Śukadeva Gosvāmī said: After hearing from Uddhava all about the annihilation of his friends and relatives, the learned Vidura pacified his overwhelming bereavement by dint of his transcendental knowledge."
 }
 ---

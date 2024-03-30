@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.15.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 9.15.10",
+    "h1":"SB 9.15.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 9.15.10",
     "description":"When the great sage Ṛcīka returned home after bathing and understood what had happened in his absence, he said to his wife, Satyavatī, \"You have done a great wrong. Your son will be a fierce kṣatriya, able to punish everyone, and your brother will be a learned scholar in spiritual science.\""
 }
 ---

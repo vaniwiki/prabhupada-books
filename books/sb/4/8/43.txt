@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.43",
-    "h1":"Text 43",
-    "title":" Śrīmad Bhāgavatam 4.8.43",
+    "h1":"SB 4.8.43",
+    "label":"Text 43",
+    "title":"Śrīmad Bhāgavatam 4.8.43",
     "description":"Nārada Muni instructed: My dear boy, in the waters of the Yamunā River, which is known as Kālindī, you should take three baths daily because the water is very auspicious, sacred and clear. After bathing, you should perform the necessary regulative principles for aṣṭāṅga-yoga and then sit down on your āsana [sitting place] in a calm and quiet position."
 }
 ---

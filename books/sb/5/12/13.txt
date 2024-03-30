@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.12.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 5.12.13",
+    "h1":"SB 5.12.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 5.12.13",
     "description":"Who are the pure devotees mentioned here? In an assembly of pure devotees, there is no question of discussing material subjects like politics and sociology. In an assembly of pure devotees, there is discussion only of the qualities, forms and pastimes of the Supreme Personality of Godhead. He is praised and worshiped with full attention. In the association of pure devotees, by constantly hearing such topics respectfully, even a person who wants to merge into the existence of the Absolute Truth abandons this idea and gradually becomes attached to the service of Vāsudeva."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.31.31",
+    "h1":"SB 4.31.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.31.31",
     "description":"O King, those who hear these topics about kings who are completely surrendered to the Supreme Personality of Godhead obtain without difficulty a long life, wealth, good reputation, good fortune and, ultimately, the opportunity to return home, back to Godhead."
 }
 ---

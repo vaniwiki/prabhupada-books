@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.21.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 8.21.22",
+    "h1":"SB 8.21.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 8.21.22",
     "description":"No one can surpass the time representation of the Supreme Personality of Godhead by material power, by the counsel of ministers, by intelligence, by diplomacy, by fortresses, by mystic mantras, by drugs, by herbs or by any other means."
 }
 ---

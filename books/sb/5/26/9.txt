@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.26.9",
+    "h1":"SB 5.26.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.26.9",
     "description":"The destination of a person who slyly cheats another man and enjoys his wife and children is the hell known as Andhatāmisra. There his condition is exactly like that of a tree being chopped at its roots. Even before reaching Andhatāmisra, the sinful living being is subjected to various extreme miseries. These afflictions are so severe that he loses his intelligence and sight. It is for this reason that learned sages call this hell Andhatāmisra."
 }
 ---

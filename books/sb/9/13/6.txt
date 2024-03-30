@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.13.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 9.13.6",
+    "h1":"SB 9.13.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 9.13.6",
     "description":"After saying this, Mahārāja Nimi, who was expert in the science of spiritual knowledge, gave up his body. Vasiṣṭha, the great-grandfather, gave up his body also, but through the semen discharged by Mitra and Varuṇa when they saw Urvaśī, he was born again."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.16.58",
-    "h1":"Text 58",
-    "title":" Śrīmad Bhāgavatam 8.16.58",
+    "h1":"SB 8.16.58",
+    "label":"Text 58",
+    "title":"Śrīmad Bhāgavatam 8.16.58",
     "description":"This is the religious ritualistic ceremony known as payo-vrata, by which one may worship the Supreme Personality of Godhead. I received this information from Brahmā, my grandfather, and now I have described it to you in all details."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.1.14",
+    "h1":"SB 3.1.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.1.14",
     "description":"While speaking thus, Vidura, whose personal character was esteemed by respectable persons, was insulted by Duryodhana, who was swollen with anger and whose lips were trembling. Duryodhana was in company with Karṇa, his younger brothers and his maternal uncle Śakuni."
 }
 ---

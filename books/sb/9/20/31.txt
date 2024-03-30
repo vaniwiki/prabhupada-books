@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.20.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 9.20.31",
+    "h1":"SB 9.20.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 9.20.31",
     "description":"Formerly, after conquering the demigods, all the demons had taken shelter in the lower planetary system known as Rasātala and had brought all the wives and daughters of the demigods there also. Mahārāja Bharata, however, rescued all those women, along with their associates, from the clutches of the demons, and he returned them to the demigods."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 7.1.20",
+    "h1":"SB 7.1.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 7.1.20",
     "description":"How was it possible for Śiśupāla and Dantavakra in the presence of many exalted persons, to enter very easily into the body of Kṛṣṇa, whose nature is difficult to attain?."
 }
 ---

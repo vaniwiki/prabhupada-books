@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.28.34",
+    "h1":"SB 4.28.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.28.34",
     "description":"Just as the moonshine follows the moon at night, immediately after King Malayadhvaja departed for Kulācala, his devoted wife, whose eyes were very enchanting, followed him, giving up all homely happiness, despite family and children."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 10.13.7",
+    "h1":"SB 10.13.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 10.13.7",
     "description":"Accepting Lord Kṛṣṇa's proposal, the cowherd boys allowed the calves to drink water from the river and then tied them to trees where there was green, tender grass. Then the boys opened their baskets of food and began eating with Kṛṣṇa in great transcendental pleasure."
 }
 ---

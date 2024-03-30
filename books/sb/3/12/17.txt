@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.12.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 3.12.17",
+    "h1":"SB 3.12.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 3.12.17",
     "description":"Brahmā told Rudra: O best among the demigods, there is no need for you to generate living entities of this nature. They have begun to devastate everything on all sides with the fiery flames from their eyes, and they have even attacked me."
 }
 ---

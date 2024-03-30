@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.1.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.1.5",
+    "h1":"SB 5.1.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.1.5",
     "description":"Śrī Śukadeva Gosvāmī said: What you have said is correct. The glories of the Supreme Personality of Godhead, who is praised in eloquent, transcendental verses by such exalted personalities as Brahmā, are very pleasing to great devotees and liberated persons. One who is attached to the nectarean honey of the Lord's lotus feet, and whose mind is always absorbed in His glories, may sometimes be checked by some impediment, but he still never gives up the exalted position he has acquired."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.21.3",
+    "h1":"SB 3.21.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.21.3",
     "description":"O holy brāhmaṇa, O sinless one, you have spoken of his daughter, known by the name Devahūti, as the wife of the sage Kardama, the lord of created beings."
 }
 ---

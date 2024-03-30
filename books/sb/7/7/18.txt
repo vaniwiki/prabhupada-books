@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 7.7.18",
+    "h1":"SB 7.7.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 7.7.18",
     "description":"Just as the fruits and flowers of a tree in due course of time undergo six changes—birth, existence, growth, transformation, dwindling and then death—the material body, which is obtained by the spirit soul under different circumstances, undergoes similar changes. However, there are no such changes for the spirit soul."
 }
 ---

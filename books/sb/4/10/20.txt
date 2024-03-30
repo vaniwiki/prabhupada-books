@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.10.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 4.10.20",
+    "h1":"SB 4.10.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 4.10.20",
     "description":"The remaining Yakṣas who somehow or other were not killed had their limbs cut to pieces by the arrows of the great warrior Dhruva Mahārāja. Thus they began to flee, just as elephants flee when defeated by a lion."
 }
 ---

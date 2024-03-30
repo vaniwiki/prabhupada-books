@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.69",
-    "h1":"Text 69",
-    "title":" Śrīmad Bhāgavatam 4.8.69",
+    "h1":"SB 4.8.69",
+    "label":"Text 69",
+    "title":"Śrīmad Bhāgavatam 4.8.69",
     "description":"My dear King, your son is very competent. He will perform activities which would he impossible even for great kings and sages. Very soon he will complete his task and come back home. You should know that he will also spread your reputation all over the world."
 }
 ---

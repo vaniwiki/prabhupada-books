@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.9.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 7.9.19",
+    "h1":"SB 7.9.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 7.9.19",
     "description":"My Lord Nṛsiṁhadeva, O Supreme, because of a bodily conception of life, embodied souls neglected and not cared for by You cannot do anything for their betterment. Whatever remedies they accept, although perhaps temporarily beneficial, are certainly impermanent. For example, a father and mother cannot protect their child, a physician and medicine cannot relieve a suffering patient, and a boat on the ocean cannot protect a drowning man."
 }
 ---

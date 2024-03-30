@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.30.34",
+    "h1":"SB 4.30.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.30.34",
     "description":"Even a moment's association with a pure devotee cannot be compared to being transferred to heavenly planets or even merging into the Brahman effulgence in complete liberation. For living entities who are destined to give up the body and die, association with pure devotees is the highest benediction."
 }
 ---

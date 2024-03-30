@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 6.14.40",
+    "h1":"SB 6.14.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 6.14.40",
     "description":"A wife who has no sons is neglected at home by her husband and dishonored by her co-wives exactly like a maidservant. Certainly such a woman is condemned in every respect because of her sinful life."
 }
 ---

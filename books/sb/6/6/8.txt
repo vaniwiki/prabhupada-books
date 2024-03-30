@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.6.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 6.6.8",
+    "h1":"SB 6.6.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 6.6.8",
     "description":"The two sons who took birth from the womb of Marutvatī were Marutvān and Jayanta. Jayanta, who is an expansion of Lord Vāsudeva, is known as Upendra."
 }
 ---

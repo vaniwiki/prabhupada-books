@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.19.7",
+    "h1":"SB 3.19.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.19.7",
     "description":"When the demon saw the Personality of Godhead, who had eyes just like lotus petals, standing in position before him, armed with His Sudarśana discus, his senses were overpowered by indignation. He began to hiss like a serpent, and he bit his lip in great resentment."
 }
 ---

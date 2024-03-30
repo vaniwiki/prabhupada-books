@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.18.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 8.18.32",
+    "h1":"SB 8.18.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 8.18.32",
     "description":"O son of a brāhmaṇa, it appears that You have come here to ask me for something. Therefore, whatever You want You may take from me. O best of those who are worshipable. You may take from me a cow, gold, a furnished house, palatable food and drink, the daughter of a brāhmaṇa for Your wife, prosperous villages, horses, elephants, chariots or whatever You desire."
 }
 ---

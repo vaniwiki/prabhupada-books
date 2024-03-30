@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.26.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 3.26.3",
+    "h1":"SB 3.26.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 3.26.3",
     "description":"The Supreme Personality of Godhead is the Supreme Soul, and He has no beginning. He is transcendental to the material modes of nature and beyond the existence of this material world. He is perceivable everywhere because He is self-effulgent, and by His self-effulgent luster the entire creation is maintained."
 }
 ---

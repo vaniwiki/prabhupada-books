@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 9.14.34",
+    "h1":"SB 9.14.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 9.14.34",
     "description":"O my dear wife, O most cruel one, kindly stay, kindly stay. I know that I have never made you happy until now, but you should not give me up for that reason. This is not proper for you. Even if you have decided to give up my company, let us nonetheless talk for some time."
 }
 ---

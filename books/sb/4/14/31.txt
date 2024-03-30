@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.14.31",
+    "h1":"SB 4.14.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.14.31",
     "description":"All the great saintly sages immediately cried: Kill him! Kill him! He is the most dreadful, sinful person. If he lives, he will certainly turn the whole world into ashes in no time."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.13.16-17",
-    "h1":"Text 16-17",
-    "title":" Śrīmad Bhāgavatam 7.13.16-17",
+    "h1":"SB 7.13.16-17",
+    "label":"Text 16-17",
+    "title":"Śrīmad Bhāgavatam 7.13.16-17",
     "description":"Seeing the saintly person to be quite fat, Prahlāda Mahārāja said: My dear sir, you undergo no endeavor to earn your livelihood, but you have a stout body, exactly like that of a materialistic enjoyer. I know that if one is very rich and has nothing to do, he becomes extremely fat by eating and sleeping and performing no work."
 }
 ---

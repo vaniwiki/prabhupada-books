@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.59",
-    "h1":"Text 59",
-    "title":" Śrīmad Bhāgavatam 10.13.59",
+    "h1":"SB 10.13.59",
+    "label":"Text 59",
+    "title":"Śrīmad Bhāgavatam 10.13.59",
     "description":"Then, looking in all directions, Lord Brahmā immediately saw Vṛndāvana before him, filled with trees, which were the means of livelihood for the inhabitants and which were equally pleasing in all seasons."
 }
 ---

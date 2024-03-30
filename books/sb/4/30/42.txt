@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.42",
-    "h1":"Text 42",
-    "title":" Śrīmad Bhāgavatam 4.30.42",
+    "h1":"SB 4.30.42",
+    "label":"Text 42",
+    "title":"Śrīmad Bhāgavatam 4.30.42",
     "description":"Dear Lord, You have no enemies or friends. Therefore You are equal to everyone. You cannot be contaminated by sinful activities, and Your transcendental form is always beyond the material creation. You are the Supreme Personality of Godhead because You remain everywhere within all existence. You are consequently known as Vāsudeva. We offer You our respectful obeisances."
 }
 ---

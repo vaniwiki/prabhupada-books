@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 3.14.33",
+    "h1":"SB 3.14.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 3.14.33",
     "description":"O son of the Bharata family, Diti, after this, went nearer to her husband, her face lowered because of her faulty action. She spoke as follows."
 }
 ---

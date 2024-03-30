@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 2.3.14",
+    "h1":"SB 2.3.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 2.3.14",
     "description":"O learned Sūta Gosvāmī! Please continue to explain such topics to us because we are all eager to hear. Besides that, topics which result in the discussion of the Lord Hari should certainly be discussed in the assembly of devotees."
 }
 ---

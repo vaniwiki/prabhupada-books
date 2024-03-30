@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 10.12.1",
+    "h1":"SB 10.12.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 10.12.1",
     "description":"Śukadeva Gosvāmī continued: O King, one day Kṛṣṇa decided to take His breakfast as a picnic in the forest. Having risen early in the morning, He blew His bugle made of horn and woke all the cowherd boys and calves with its beautiful sound. Then Kṛṣṇa and the boys, keeping their respective groups of calves before them, proceeded from Vrajabhūmi to the forest."
 }
 ---

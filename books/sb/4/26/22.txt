@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.26.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.26.22",
+    "h1":"SB 4.26.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.26.22",
     "description":"My dear slender maiden, when a master chastises his servant, the servant should accept this as great mercy. One who becomes angry must be very foolish not to know that such is the duty of his friend."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.30.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 3.30.7",
+    "h1":"SB 3.30.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 3.30.7",
     "description":"Although he is always burning with anxiety, such a fool always performs all kinds of mischievous activities, with a hope which is never to be fulfilled, in order to maintain his so-called family and society."
 }
 ---

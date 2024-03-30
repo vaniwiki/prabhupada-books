@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.5.17",
+    "h1":"SB 5.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.5.17",
     "description":"If someone is ignorant and addicted to the path of saṁsāra, how can one who is actually learned, merciful and advanced in spiritual knowledge engage him in fruitive activity and thus further entangle him in material existence? If a blind man is walking down the wrong path, how can a gentleman allow him to continue on his way to danger? How can he approve this method? No wise or kind man can allow this."
 }
 ---

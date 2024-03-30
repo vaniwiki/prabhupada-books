@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.24.57",
-    "h1":"Text 57",
-    "title":" Śrīmad Bhāgavatam 8.24.57",
+    "h1":"SB 8.24.57",
+    "label":"Text 57",
+    "title":"Śrīmad Bhāgavatam 8.24.57",
     "description":"At the end of the last inundation [during the period of Svāyambhuva Manu] the Supreme Personality of Godhead killed the demon named Hayagrīva and delivered all the Vedic literatures to Lord Brahmā when Lord Brahmā awakened from sleeping."
 }
 ---

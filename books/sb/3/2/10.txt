@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.2.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 3.2.10",
+    "h1":"SB 3.2.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 3.2.10",
     "description":"Under no circumstances can the words of persons bewildered by the illusory energy of the Lord deviate the intelligence of those who are completely surrendered souls."
 }
 ---

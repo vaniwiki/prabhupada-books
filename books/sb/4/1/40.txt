@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 4.1.40",
+    "h1":"SB 4.1.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 4.1.40",
     "description":"The great sage Vasiṣṭha begot in his wife, Ūrjā, sometimes called Arundhatī, seven spotlessly great sages, headed by the sage named Citraketu."
 }
 ---

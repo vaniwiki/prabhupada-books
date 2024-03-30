@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.25.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 3.25.5",
+    "h1":"SB 3.25.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 3.25.5",
     "description":"Maitreya said: When Kardama left for the forest, Lord Kapila stayed on the strand of the Bindu-sarovara to please His mother, Devahūti."
 }
 ---

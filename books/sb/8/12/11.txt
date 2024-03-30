@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 8.12.11",
+    "h1":"SB 8.12.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 8.12.11",
     "description":"My Lord, You are the supreme knowledge personified. You know everything about this creation and its beginning, maintenance and annihilation, and You know all the endeavors made by the living entities, by which they are either implicated in this material world or liberated from it. As the air enters the vast sky and also enters the bodies of all moving and nonmoving entities, You are present everywhere, and therefore You are the knower of all."
 }
 ---

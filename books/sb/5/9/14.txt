@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.9.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 5.9.14",
+    "h1":"SB 5.9.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 5.9.14",
     "description":"The followers and servants of the dacoit chief considered Jaḍa Bharata to possess qualities quite suitable for a man-animal, and they decided that he was a perfect choice for sacrifice. Their faces bright with happiness, they bound him with ropes and brought him to the temple of the goddess Kālī."
 }
 ---

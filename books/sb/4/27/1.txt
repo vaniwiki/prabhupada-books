@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.27.1",
+    "h1":"SB 4.27.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.27.1",
     "description":"The great sage Nārada continued: My dear King, after bewildering her husband in different ways and bringing him under her control, the wife of King Purañjana gave him all satisfaction and enjoyed sex life with him."
 }
 ---

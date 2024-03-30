@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 7.3.20",
+    "h1":"SB 7.3.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 7.3.20",
     "description":"My dear son of Diti, with your great determination and austerity you have done what was impossible even for great saintly persons, and thus I have certainly been conquered by you."
 }
 ---

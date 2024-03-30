@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 6.4.22",
+    "h1":"SB 6.4.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 6.4.22",
     "description":"My dear King, I shall fully explain to you the Haṁsa-guhya prayers, which were offered to the Supreme Personality of Godhead by Dakṣa, and I shall explain how the Lord was pleased with him for those prayers."
 }
 ---

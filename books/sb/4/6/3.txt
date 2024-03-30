@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 4.6.3",
+    "h1":"SB 4.6.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 4.6.3",
     "description":"Both Lord Brahmā and Viṣṇu had already known that such events would occur in the sacrificial arena of Dakṣa, and knowing beforehand, they did not go to the sacrifice."
 }
 ---

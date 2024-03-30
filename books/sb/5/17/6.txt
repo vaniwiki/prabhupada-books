@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 5.17.6",
+    "h1":"SB 5.17.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 5.17.6",
     "description":"The branch of the Ganges known as the Sītā flows through Brahmapurī atop Mount Meru, and from there it runs down to the nearby peaks of the Kesarācala Mountains, which stand almost as high as Mount Meru itself. These mountains are like a bunch of filaments around Mount Meru. From the Kesarācala Mountains, the Ganges falls to the peak of Gandhamādana Mountain and then flows into the land of Bhadrāśva-varṣa. Finally it reaches the ocean of salt water in the west."
 }
 ---

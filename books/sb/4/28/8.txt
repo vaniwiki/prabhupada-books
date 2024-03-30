@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.28.8",
+    "h1":"SB 4.28.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.28.8",
     "description":"When King Purañjana saw that all his family members, relatives, followers, servants, secretaries and everyone else had turned against him, he certainly became very anxious. But he could not counteract the situation because he was thoroughly overwhelmed by Kālakanyā."
 }
 ---

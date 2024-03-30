@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.12.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 6.12.30",
+    "h1":"SB 6.12.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 6.12.30",
     "description":"When the demigods, along with Brahmā, other prajāpatis and other great saintly persons, saw that Indra had been swallowed by the demon, they became very morose. \"Alas,\" they lamented. \"What a calamity ! What a calamity !\""
 }
 ---

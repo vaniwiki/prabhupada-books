@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.9.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 6.9.49",
+    "h1":"SB 6.9.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 6.9.49",
     "description":"Those who think material assets to be everything or to be the ultimate goal of life are called misers [kṛpaṇas]. They do not know the ultimate necessity of the soul. Moreover, if one awards that which is desired by such fools, he must also be considered foolish."
 }
 ---

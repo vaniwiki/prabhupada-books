@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.63",
-    "h1":"Text 63",
-    "title":" Śrīmad Bhāgavatam 4.29.63",
+    "h1":"SB 4.29.63",
+    "label":"Text 63",
+    "title":"Śrīmad Bhāgavatam 4.29.63",
     "description":"One can understand the mental or conscious position of a living entity by the activities of two kinds of senses—the knowledge—acquiring senses and the executive senses. Similarly, by the mental condition or consciousness of a person, one can understand his position in the previous life."
 }
 ---

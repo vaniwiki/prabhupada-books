@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 2.7.40",
+    "h1":"SB 2.7.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 2.7.40",
     "description":"Who can describe completely the prowess of Viṣṇu? Even the scientist, who might have counted the particles of the atoms of the universe, cannot do so. Because it is He only who in His form of Trivikrama moved His leg effortlessly beyond the topmost planet, Satyaloka, up to the neutral state of the three modes of material nature. And all were moved."
 }
 ---

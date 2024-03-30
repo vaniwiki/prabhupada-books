@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.50",
-    "h1":"Text 50",
-    "title":" Śrīmad Bhāgavatam 7.7.50",
+    "h1":"SB 7.7.50",
+    "label":"Text 50",
+    "title":"Śrīmad Bhāgavatam 7.7.50",
     "description":"If a demigod, demon, human being, Yakṣa, Gandharva or anyone within this universe renders service to the lotus feet of Mukunda, who can deliver liberation, he is actually situated in the most auspicious condition of life, exactly like us [the mahājanas, headed by Prahlāda Mahārāja]."
 }
 ---

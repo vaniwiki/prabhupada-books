@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.1.27",
+    "h1":"SB 2.1.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.1.27",
     "description":"The knees of the universal form are the planetary system of the name Sutala, and the two thighs are the Vitala and Atala planetary systems. The hips are Mahītala, and outer space is the depression of His navel."
 }
 ---

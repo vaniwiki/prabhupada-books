@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.1.25",
-    "h1":"Text 25",
-    "title":" Śrīmad Bhāgavatam 7.1.25",
+    "h1":"SB 7.1.25",
+    "label":"Text 25",
+    "title":"Śrīmad Bhāgavatam 7.1.25",
     "description":"Because of the bodily conception of life, the conditioned soul thinks that when the body is annihilated the living being is annihilated. Lord Viṣṇu, the Supreme Personality of Godhead, is the supreme controller, the Supersoul of all living entities. Because He has no material body, He has no false conception of \"I and mine.\" It is therefore incorrect to think that He feels pleasure or pain when blasphemed or offered prayers. This is impossible for Him. Thus He has no enemy and no friend. When He chastises the demons it is for their good, and when He accepts the prayers of the devotees it is for their good. He is affected neither by prayers nor by blasphemy."
 }
 ---

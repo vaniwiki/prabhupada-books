@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 6.2.49",
+    "h1":"SB 6.2.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 6.2.49",
     "description":"While suffering at the time of death, Ajāmila chanted the holy name of the Lord, and although the chanting was directed toward his son, he nevertheless returned home, back to Godhead. Therefore if one faithfully and inoffensively chants the holy name of the Lord, where is the doubt that he will return to Godhead?"
 }
 ---

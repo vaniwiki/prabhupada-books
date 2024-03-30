@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.16.19",
+    "h1":"SB 4.16.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.16.19",
     "description":"This King is the master of the three worlds, and he is directly empowered by the Supreme Personality of Godhead. He is without change, and he is an incarnation of the Supreme known as a śaktyāveśa-avatāra. Being a liberated soul and completely learned, he sees all material varieties as meaningless because their basic principle is nescience."
 }
 ---

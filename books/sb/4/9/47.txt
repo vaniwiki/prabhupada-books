@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.47",
-    "h1":"Text 47",
-    "title":" Śrīmad Bhāgavatam 4.9.47",
+    "h1":"SB 4.9.47",
+    "label":"Text 47",
+    "title":"Śrīmad Bhāgavatam 4.9.47",
     "description":"Unto one who has transcendental qualities due to friendly behavior with the Supreme Personality of Godhead, all living entities offer honor, just as water automatically flows down by nature."
 }
 ---

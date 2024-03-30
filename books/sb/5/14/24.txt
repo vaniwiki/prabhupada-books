@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 5.14.24",
+    "h1":"SB 5.14.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 5.14.24",
     "description":"Stealing or cheating another person out of his money, the conditioned soul somehow or other keeps it in his possession and escapes punishment. Then another man, named Devadatta, cheats him and takes the money away. Similarly, another man, named Viṣṇumitra, steals the money from Devadatta and takes it away. In any case, the money does not stay in one place. It passes from one hand to another. Ultimately no one can enjoy the money, and it remains the property of the Supreme Personality of Godhead."
 }
 ---

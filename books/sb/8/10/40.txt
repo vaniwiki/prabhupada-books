@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 8.10.40",
+    "h1":"SB 8.10.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 8.10.40",
     "description":"Many headless trunks were generated on that battlefield. With weapons in their arms, those ghostly trunks, which could see with the eyes in the fallen heads, attacked the enemy soldiers."
 }
 ---

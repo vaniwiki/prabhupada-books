@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.17.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.17.32",
+    "h1":"SB 4.17.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.17.32",
     "description":"My dear Lord, although You are one, by Your inconceivable potencies You have expanded Yourself in many forms. Through the agency of Brahmā, You have created this universe. You are therefore directly the Supreme Personality of Godhead. Those who are not sufficiently experienced cannot understand Your transcendental activities because these persons are covered by Your illusory energy."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.7.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.7.37",
+    "h1":"SB 4.7.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.7.37",
     "description":"The governors of various planets spoke as follows: Dear Lord, we believe only in our direct perception, but under the circumstances we do not know whether we have actually seen You with our material senses. By our material senses we can simply perceive the cosmic manifestation, but You are beyond the five elements. You are the sixth. We see You, therefore, as a creation of the material world."
 }
 ---

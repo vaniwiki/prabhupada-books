@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.16.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.16.26",
+    "h1":"SB 4.16.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.16.26",
     "description":"In this way when the chivalrous activities of King Pṛthu come to be known to the people in general, King Pṛthu will always hear about himself and his uniquely powerful activities."
 }
 ---

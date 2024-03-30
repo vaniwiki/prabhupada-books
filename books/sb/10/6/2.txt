@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.6.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 10.6.2",
+    "h1":"SB 10.6.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 10.6.2",
     "description":"While Nanda Mahārāja was returning to Gokula, the same fierce Pūtanā whom Kaṁsa had previously engaged to kill babies was wandering about in the towns, cities and villages, doing her nefarious duty."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 2.5.17",
+    "h1":"SB 2.5.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 2.5.17",
     "description":"Inspired by Him only, I discover what is already created by Him [Nārāyaṇa] under His vision as the all-pervading Supersoul, and I also am created by Him only."
 }
 ---

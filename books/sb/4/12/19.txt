@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.12.19",
+    "h1":"SB 4.12.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.12.19",
     "description":"As soon as the symptoms of his liberation were manifest, he saw a very beautiful airplane coming down from the sky, as if the brilliant full moon were coming down, illuminating all the ten directions."
 }
 ---

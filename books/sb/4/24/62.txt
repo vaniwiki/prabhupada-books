@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.62",
-    "h1":"Text 62",
-    "title":" Śrīmad Bhāgavatam 4.24.62",
+    "h1":"SB 4.24.62",
+    "label":"Text 62",
+    "title":"Śrīmad Bhāgavatam 4.24.62",
     "description":"My dear Lord, Your universal form consists of all five elements, the senses, mind, intelligence, false ego (which is material) and the Paramātmā, Your partial expansion, who is the director of everything. Yogis other than the devotees—namely the karma-yogī and jñāna-yogī—worship You by their respective actions in their respective positions. It is stated both in the Vedas and in the śāstras that are corollaries of the Vedas, and indeed everywhere, that it is only You who are to be worshiped. That is the expert version of all the Vedas."
 }
 ---

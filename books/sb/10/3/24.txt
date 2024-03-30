@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.24",
-    "h1":"Text 24",
-    "title":" Śrīmad Bhāgavatam 10.3.24",
+    "h1":"SB 10.3.24",
+    "label":"Text 24",
+    "title":"Śrīmad Bhāgavatam 10.3.24",
     "description":"Śrī Devakī said: My dear Lord, there are different Vedas, some of which describe You as unperceivable through words and the mind. Yet You are the origin of the entire cosmic manifestation. You are Brahman, the greatest of everything, full of effulgence like the sun. You have no material cause, You are free from change and deviation, and You have no material desires. Thus the Vedas say that You are the substance. Therefore, my Lord, You are directly the origin of all Vedic statements, and by understanding You, one gradually understands everything. You are different from the light of Brahman and Paramātmā, yet You are not different from them. Everything emanates from You. Indeed, You are the cause of all causes, Lord Viṣṇu, the light of all transcendental knowledge."
 }
 ---

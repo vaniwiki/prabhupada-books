@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 9.11.22",
+    "h1":"SB 9.11.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 9.11.22",
     "description":"Lord Rāmacandra returned to His abode, to which bhakti-yogīs are promoted. This is the place to which all the inhabitants of Ayodhyā went after they served the Lord in His manifest pastimes by offering Him obeisances, touching His lotus feet, fully observing Him as a fatherlike King, sitting or lying down with Him like equals, or even just accompanying Him."
 }
 ---

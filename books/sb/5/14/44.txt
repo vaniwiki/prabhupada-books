@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 5.14.44",
+    "h1":"SB 5.14.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 5.14.44",
     "description":"Śukadeva Gosvāmī continued: My dear King, the activities of Bharata Mahārāja are wonderful. He gave up everything difficult for others to give up. He gave up his kingdom, his wife and his family. His opulence was so great that even the demigods envied it, yet he gave it up. It was quite befitting a great personality like him to be a great devotee. He could renounce everything because he was so attracted to the beauty, opulence, reputation, knowledge, strength and renunciation of the Supreme Personality of Godhead, Kṛṣṇa. Kṛṣṇa is so attractive that one can give up all desirable things for His sake. Indeed, even liberation is considered insignificant for those whose minds are attracted to the loving service of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 3.11.10",
+    "h1":"SB 3.11.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 3.11.10",
     "description":"It is calculated that there are four praharas, which are also called yāmas, in the day and four in the night of the human being. Similarly, fifteen days and nights are a fortnight, and there are two fortnights, white and black, in a month."
 }
 ---

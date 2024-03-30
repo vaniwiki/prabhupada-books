@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.1.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 3.1.15",
+    "h1":"SB 3.1.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 3.1.15",
     "description":"Who asked him to come here, this son of a kept mistress? He is so crooked that he spies in the interest of the enemy against those on whose support he has grown up. Toss him out of the palace immediately and leave him with only his breath."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 3.11.6",
+    "h1":"SB 3.11.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 3.11.6",
     "description":"The time duration needed for the integration of three trasareṇus is called a truṭi, and one hundred truṭis make one vedha. Three vedhas make one lava."
 }
 ---

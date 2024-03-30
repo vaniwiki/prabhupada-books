@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.27.13",
+    "h1":"SB 4.27.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.27.13",
     "description":"O King! In Gandharvaloka there is a king named Caṇḍavega. Under him there are 360 very powerful Gandharva soldiers."
 }
 ---

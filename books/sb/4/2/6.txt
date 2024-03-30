@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.2.6",
+    "h1":"SB 4.2.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.2.6",
     "description":"Influenced by his personal bodily luster, all the fire-gods and other participants in that great assembly, with the exceptions of Lord Brahmā and Lord Śiva, gave up their own sitting places and stood in respect for Dakṣa."
 }
 ---

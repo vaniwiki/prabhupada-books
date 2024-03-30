@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.14.2",
+    "h1":"SB 5.14.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.14.2",
     "description":"In the forest of material existence, the uncontrolled senses are like plunderers. The conditioned soul may earn some money for the advancement of Kṛṣṇa consciousness, but unfortunately the uncontrolled senses plunder his money through sense gratification. The senses are plunderers because they make one spend his money unnecessarily for seeing, smelling, tasting, touching, hearing, desiring and willing. In this way the conditioned soul is obliged to gratify his senses, and thus all his money is spent. This money is actually acquired for the execution of religious principles, but it is taken away by the plundering senses."
 }
 ---

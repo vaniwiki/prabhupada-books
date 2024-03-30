@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.21.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 3.21.14",
+    "h1":"SB 3.21.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 3.21.14",
     "description":"Your lotus feet are the true vessel to take one across the ocean of mundane nescience. Only persons deprived of their intelligence by the spell of the deluding energy will worship those feet with a view to attain the trivial and momentary pleasures of the senses, which even persons rotting in hell can attain. However, O my Lord, You are so kind that You bestow mercy even upon them."
 }
 ---

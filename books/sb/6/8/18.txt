@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.8.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 6.8.18",
+    "h1":"SB 6.8.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 6.8.18",
     "description":"May the Supreme Personality of Godhead in His incarnation as Dhanvantari relieve me from undesirable eatables and protect me from physical illness. May Lord Ṛṣabhadeva, who conquered His inner and outer senses, protect me from fear produced by the duality of heat and cold. May Yajña protect me from defamation and harm from the populace, and may Lord Balarāma as Śeṣa protect me from envious serpents."
 }
 ---

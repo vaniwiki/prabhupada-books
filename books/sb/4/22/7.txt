@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 4.22.7",
+    "h1":"SB 4.22.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 4.22.7",
     "description":"King Pṛthu spoke: My dear great sages, auspiciousness personified, it is very difficult for even the mystic yogīs to see you. Indeed, you are very rarely seen. I do not know what kind of pious activity I performed for you to grace me by appearing before me without difficulty."
 }
 ---

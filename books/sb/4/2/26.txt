@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 4.2.26",
+    "h1":"SB 4.2.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 4.2.26",
     "description":"These brāhmaṇas take to education, austerity and vows only for the purpose of maintaining the body. They shall be devoid of discrimination between what to eat and what not to eat. They will acquire money, begging from door to door, simply for the satisfaction of the body."
 }
 ---

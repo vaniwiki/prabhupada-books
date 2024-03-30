@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.45",
-    "h1":"Text 45",
-    "title":" Śrīmad Bhāgavatam 9.24.45",
+    "h1":"SB 9.24.45",
+    "label":"Text 45",
+    "title":"Śrīmad Bhāgavatam 9.24.45",
     "description":"Devakī, Pauravī, Rohiṇī, Bhadrā, Madirā, Rocanā, Ilā and others were all wives of Ānakadundubhi [Vasudeva]. Among them all, Devakī was the chief."
 }
 ---

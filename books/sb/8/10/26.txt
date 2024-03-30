@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 8.10.26",
+    "h1":"SB 8.10.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 8.10.26",
     "description":"Surrounding Lord Indra, King of heaven, were the demigods, seated on various types of vehicles and decorated with flags and weapons. Present among them were Vāyu, Agni, Varuṇa and other rulers of various planets, along with their associates."
 }
 ---

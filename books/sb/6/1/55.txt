@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.55",
-    "h1":"Text 55",
-    "title":" Śrīmad Bhāgavatam 6.1.55",
+    "h1":"SB 6.1.55",
+    "label":"Text 55",
+    "title":"Śrīmad Bhāgavatam 6.1.55",
     "description":"Since the living entity is associated with material nature, he is in an awkward position, but if in the human form of life he is taught how to associate with the Supreme Personality of Godhead or His devotee, this position can be overcome."
 }
 ---

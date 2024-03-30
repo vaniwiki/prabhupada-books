@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 5.20.5",
+    "h1":"SB 5.20.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 5.20.5",
     "description":"[This is the mantra by which the inhabitants of Plakṣadvīpa worship the Supreme Lord.] Let us take shelter of the sun-god, who is a reflection of Lord Viṣṇu, the all-expanding Supreme Personality of Godhead, the oldest of all persons. Viṣṇu is the only worshipable Lord. He is the Vedas, He is religion, and He is the origin of all auspicious and inauspicious results."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 8.23.18",
+    "h1":"SB 8.23.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 8.23.18",
     "description":"Śukadeva Gosvāmī continued: In this way, the most powerful Śukrācārya accepted the order of the Supreme Personality of Godhead with full respect. Along with the best brāhmaṇas, he began to compensate for the discrepancies in the sacrifices performed by Bali Mahārāja."
 }
 ---

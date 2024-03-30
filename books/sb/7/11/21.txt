@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.11.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 7.11.21",
+    "h1":"SB 7.11.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 7.11.21",
     "description":"The symptoms of a brāhmaṇa are control of the mind, control of the senses, austerity and penance, cleanliness, satisfaction, forgiveness, simplicity, knowledge, mercy, truthfulness, and complete surrender to the Supreme Personality of Godhead."
 }
 ---

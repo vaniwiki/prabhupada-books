@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.6.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 8.6.1",
+    "h1":"SB 8.6.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 8.6.1",
     "description":"Śrī Śukadeva Gosvāmī said: O King Parīkṣit, the Supreme Personality of Godhead, Hari, being thus worshiped with prayers by the demigods and Lord Brahmā, appeared before them. His bodily effulgence resembled the simultaneous rising of thousands of suns."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.2.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 7.2.15",
+    "h1":"SB 7.2.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 7.2.15",
     "description":"Some of the demons took digging instruments and broke down the bridges, the protective walls and the gates [gopuras] of the cities. Some took axes and began cutting the important trees that produced mango, jackfruit and other sources of food. Some of the demons took firebrands and set fire to the residential quarters of the citizens."
 }
 ---

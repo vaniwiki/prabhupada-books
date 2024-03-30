@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.14.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.14.6",
+    "h1":"SB 6.14.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.14.6",
     "description":"Vṛtrāsura was situated in the blazing fire of battle and was an infamous, sinful demon, always engaged in giving troubles and anxieties to others. How could such a demon become so greatly Kṛṣṇa conscious?"
 }
 ---

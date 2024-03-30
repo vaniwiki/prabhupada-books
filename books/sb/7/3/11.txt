@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.3.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 7.3.11",
+    "h1":"SB 7.3.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 7.3.11",
     "description":"\"By dint of my severe austerities, I shall reverse the results of pious and impious activities. I shall overturn all the established practices within this world. Even Dhruvaloka will be vanquished at the end of the millennium. Therefore, what is the use of it? I shall prefer to remain in the position of Brahmā.\""
 }
 ---

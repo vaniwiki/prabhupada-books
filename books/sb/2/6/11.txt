@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.6.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 2.6.11",
+    "h1":"SB 2.6.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 2.6.11",
     "description":"The impersonal feature of the Lord is the abode of great oceans, and His belly is the resting place for the materially annihilated living entities. His heart is the abode of the subtle material bodies of living beings. Thus it is known by the intelligent class of men."
 }
 ---

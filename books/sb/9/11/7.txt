@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.11.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 9.11.7",
+    "h1":"SB 9.11.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 9.11.7",
     "description":"O Lord, You are the Supreme Personality of Godhead, who have accepted the brāhmaṇas as Your worshipable deity. Your knowledge and memory are never disturbed by anxiety. You are the chief of all famous persons within this world, and Your lotus feet are worshiped by sages who are beyond the jurisdiction of punishment. O Lord Rāmacandra, let us offer our respectful obeisances unto You."
 }
 ---

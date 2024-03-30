@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 5.20.18",
+    "h1":"SB 5.20.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 5.20.18",
     "description":"Outside the ocean of clarified butter is another island, known as Krauñcadvīpa, which has a width of 1,600,000 yojanas [12,800,000 miles], twice the width of the ocean of clarified butter. As Kuśadvīpa is surrounded by an ocean of clarified butter, Krauñcadvīpa is surrounded by an ocean of milk as broad as the island itself. On Krauñcadvīpa there is a great mountain known as Krauñca, from which the island takes its name."
 }
 ---

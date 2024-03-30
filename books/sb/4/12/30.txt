@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.12.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 4.12.30",
+    "h1":"SB 4.12.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 4.12.30",
     "description":"When Dhruva Mahārāja was attempting to get on the transcendental plane, he saw death personified approach him. Not caring for death, however, he took advantage of the opportunity to put his feet on the head of death, and thus he got up on the airplane, which was as big as a house."
 }
 ---

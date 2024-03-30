@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.7.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 2.7.7",
+    "h1":"SB 2.7.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 2.7.7",
     "description":"Great stalwarts like Lord Śiva can, by their wrathful glances, overcome lust and vanquish him, yet they cannot be free from the overwhelming effects of their own wrath. Such wrath can never enter into the heart of Him [the Lord], who is above all this. So how can lust take shelter in His mind?"
 }
 ---

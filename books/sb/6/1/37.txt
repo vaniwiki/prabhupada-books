@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 6.1.37",
+    "h1":"SB 6.1.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 6.1.37",
     "description":"Śukadeva Gosvāmī continued: Being thus addressed by the messengers of Yamarāja, the servants of Vāsudeva smiled and spoke the following words in voices as deep as the sound of rumbling clouds."
 }
 ---

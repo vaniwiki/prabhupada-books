@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.29.22",
+    "h1":"SB 4.29.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.29.22",
     "description":"What was described as Kālakanyā should be understood as old age. No one wants to accept old age, but Yavaneśvara [Yavana-rāja], who is death, accepts Jarā [old age] as his sister."
 }
 ---

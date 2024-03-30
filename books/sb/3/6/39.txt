@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 3.6.39",
+    "h1":"SB 3.6.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 3.6.39",
     "description":"The wonderful potency of the Supreme Personality of Godhead is bewildering even to the jugglers. That potential power is unknown even to the self-sufficient Lord, so it is certainly unknown to others."
 }
 ---

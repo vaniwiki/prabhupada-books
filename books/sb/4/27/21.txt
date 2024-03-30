@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 4.27.21",
+    "h1":"SB 4.27.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 4.27.21",
     "description":"When I once came to this earth from Brahmaloka, the highest planetary system, the daughter of Time, wandering over the universe, met me. Knowing me to be an avowed brahmacārī, she became lusty and proposed that I accept her."
 }
 ---

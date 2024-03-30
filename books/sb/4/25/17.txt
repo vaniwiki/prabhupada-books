@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.25.17",
+    "h1":"SB 4.25.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.25.17",
     "description":"On the outskirts of that city were many beautiful trees and creepers encircling a nice lake. Also surrounding that lake were many groups of birds and bees that were always chanting and humming."
 }
 ---

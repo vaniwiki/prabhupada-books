@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.6.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 9.6.12",
+    "h1":"SB 9.6.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 9.6.12",
     "description":"The son of Saśāda was Purañjaya, who is also known as Indravāha and sometimes as Kakutstha. Please hear from me how he received different names for different activities."
 }
 ---

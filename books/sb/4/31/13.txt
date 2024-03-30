@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 4.31.13",
+    "h1":"SB 4.31.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 4.31.13",
     "description":"Factually the Supreme Personality of Godhead is the original source of all self-realization. Consequently, the goal of all auspicious activities—karma, jñāna, yoga and bhakti—is the Supreme Personality of Godhead."
 }
 ---

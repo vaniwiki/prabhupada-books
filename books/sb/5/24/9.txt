@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.24.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.24.9",
+    "h1":"SB 5.24.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.24.9",
     "description":"My dear King, in the imitation heavens known as bila-svarga there is a great demon named Maya Dānava, who is an expert artist and architect. He has constructed many brilliantly decorated cities. There are many wonderful houses, walls, gates, assembly houses, temples, yards and temple compounds, as well as many hotels serving as residential quarters for foreigners. The houses for the leaders of these planets are constructed with the most valuable jewels, and they are always crowded with living entities known as Nāgas and Asuras, as well as many pigeons, parrots and similar birds. All in all, these imitation heavenly cities are most beautifully situated and attractively decorated."
 }
 ---

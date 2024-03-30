@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.23.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 5.23.2",
+    "h1":"SB 5.23.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 5.23.2",
     "description":"Established by the supreme will of the Supreme Personality of Godhead, the polestar, which is the planet of Mahārāja Dhruva, constantly shines as the central pivot for all the stars and planets. The unsleeping, invisible, most powerful time factor causes these luminaries to revolve around the polestar without cessation."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.4.41",
-    "h1":"Text 41",
-    "title":" Śrīmad Bhāgavatam 6.4.41",
+    "h1":"SB 6.4.41",
+    "label":"Text 41",
+    "title":"Śrīmad Bhāgavatam 6.4.41",
     "description":"As rivers are filled by water flowing from a mountain, all of Dakṣa's senses were filled with pleasure. Because of his highly elevated happiness, Dakṣa could not say anything, but simply remained flat on the ground."
 }
 ---

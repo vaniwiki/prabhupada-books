@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.10-11",
-    "h1":"Text 10-11",
-    "title":" Śrīmad Bhāgavatam 8.15.10-11",
+    "h1":"SB 8.15.10-11",
+    "label":"Text 10-11",
+    "title":"Śrīmad Bhāgavatam 8.15.10-11",
     "description":"When he assembled with his own soldiers and the demon chiefs, who were equal to him in strength, opulence and beauty, they appeared as if they would swallow the sky and burn all directions with their vision. After thus gathering the demoniac soldiers, Bali Mahārāja departed for the opulent capital of Indra. Indeed, he seemed to make the entire surface of the world tremble."
 }
 ---

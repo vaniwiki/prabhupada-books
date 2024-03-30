@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.16.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 6.16.1",
+    "h1":"SB 6.16.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 6.16.1",
     "description":"Śrī Śukadeva Gosvāmī said: My dear King Parīkṣit, by his mystic power the great sage Nārada brought the dead son into the vision of all the lamenting relatives and then spoke as follows."
 }
 ---

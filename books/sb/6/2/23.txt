@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.2.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 6.2.23",
+    "h1":"SB 6.2.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 6.2.23",
     "description":"O sinless Mahārāja Parīkṣit, the order carriers of the Supreme Personality of Godhead, the Viṣṇudūtas, saw that Ajāmila was attempting to say something, and thus they suddenly disappeared from his presence."
 }
 ---

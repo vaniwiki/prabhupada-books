@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.59-60",
-    "h1":"Text 59-60",
-    "title":" Śrīmad Bhāgavatam 4.8.59-60",
+    "h1":"SB 4.8.59-60",
+    "label":"Text 59-60",
+    "title":"Śrīmad Bhāgavatam 4.8.59-60",
     "description":"Anyone who thus engages in the devotional service of the Lord, seriously and sincerely, with his mind, words and body, and who is fixed in the activities of the prescribed devotional methods, is blessed by the Lord according to his desire. If a devotee desires material religiosity, economic development, sense gratification or liberation from the material world, he is awarded these results."
 }
 ---

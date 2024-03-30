@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.15.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 8.15.12",
+    "h1":"SB 8.15.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 8.15.12",
     "description":"King Indra's city was full of pleasing orchards and gardens, such as the Nandana garden. Because of the weight of the flowers, leaves and fruit, the branches of the eternally existing trees were bending down. The gardens were visited by pairs of chirping birds and singing bees. The entire atmosphere was celestial."
 }
 ---

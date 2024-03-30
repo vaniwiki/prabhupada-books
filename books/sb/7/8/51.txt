@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 7.8.51",
+    "h1":"SB 7.8.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 7.8.51",
     "description":"The inhabitants of the Cāraṇa planet said: O Lord, because You have destroyed the demon Hiraṇyakaśipu, who was always a stake in the hearts of all honest men, we are now relieved, and we eternally take shelter of Your lotus feet, which award the conditioned soul liberation from materialistic contamination."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.3.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.3.4",
+    "h1":"SB 4.3.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.3.4",
     "description":"While the sacrifice was being performed, many brahmarṣis, great sages, ancestral demigods and other demigods, their wives all very nicely decorated with ornaments, attended from different parts of the universe."
 }
 ---

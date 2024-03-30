@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 4.1.6",
+    "h1":"SB 4.1.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 4.1.6",
     "description":"The Lord of the ritualistic performance of yajña later married Dakṣiṇā, who was anxious to have the Personality of Godhead as her husband, and in this wife the Lord was also very much pleased to beget twelve children."
 }
 ---

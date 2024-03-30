@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.25.14",
+    "h1":"SB 4.25.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.25.14",
     "description":"That city was surrounded by walls and parks, and within it were towers, canals, windows and outlets. The houses there were decorated with domes made of gold, silver and iron."
 }
 ---

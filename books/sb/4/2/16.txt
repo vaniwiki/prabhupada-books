@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 4.2.16",
+    "h1":"SB 4.2.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 4.2.16",
     "description":"On the request of Lord Brahmā I handed over my chaste daughter to him, although he is devoid of all cleanliness and his heart is filled with nasty things."
 }
 ---

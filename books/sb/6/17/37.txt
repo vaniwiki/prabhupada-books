@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.17.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 6.17.37",
+    "h1":"SB 6.17.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 6.17.37",
     "description":"The great devotee Citraketu was so powerful that he was quite competent to curse mother Pārvatī in retaliation, but instead of doing so he very humbly accepted the curse and bowed his head before Lord Śiva and his wife. This is very much to be appreciated as the standard behavior of a Vaiṣṇava."
 }
 ---

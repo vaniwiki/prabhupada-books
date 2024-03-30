@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.11.30",
-    "h1":"Text 30",
-    "title":" Śrīmad Bhāgavatam 3.11.30",
+    "h1":"SB 3.11.30",
+    "label":"Text 30",
+    "title":"Śrīmad Bhāgavatam 3.11.30",
     "description":"The devastation takes place due to the fire emanating from the mouth of Saṅkarṣaṇa, and thus great sages like Bhṛgu and other inhabitants of Maharloka transport themselves to Janaloka, being distressed by the warmth of the blazing fire which rages through the three worlds below."
 }
 ---

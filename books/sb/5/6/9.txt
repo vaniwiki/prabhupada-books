@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.6.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 5.6.9",
+    "h1":"SB 5.6.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 5.6.9",
     "description":"Śukadeva Gosvāmī continued speaking to Mahārāja Parīkṣit: My dear King, the King of Koṅka, Veṅka and Kuṭaka whose name was Arhat, heard of the activities of Ṛṣabhadeva and, imitating Ṛṣabhadeva's principles, introduced a new system of religion. Taking advantage of Kali-yuga, the age of sinful activity, King Arhat, being bewildered, gave up the Vedic principles, which are free from risk, and concocted a new system of religion opposed to the Vedas. That was the beginning of the Jain dharma. Many other so-called religions followed this atheistic system."
 }
 ---

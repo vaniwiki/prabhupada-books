@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.8.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 8.8.20",
+    "h1":"SB 8.8.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 8.8.20",
     "description":"The goddess of fortune, examining the assembly, thought in this way: Someone who has undergone great austerity has not yet conquered anger. Someone possesses knowledge, but he has not conquered material desires. Someone is a very great personality, but he cannot conquer lusty desires. Even a great personality depends on something else. How, then, can he be the supreme controller?"
 }
 ---

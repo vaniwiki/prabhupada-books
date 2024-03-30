@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.12.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 8.12.38",
+    "h1":"SB 8.12.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 8.12.38",
     "description":"The Supreme Personality of Godhead said: O best of the demigods, although you have been amply harassed because of My potency in assuming the form of a woman, you are established in your position. Therefore, may all good fortune be upon you."
 }
 ---

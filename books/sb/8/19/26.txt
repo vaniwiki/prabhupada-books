@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.19.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 8.19.26",
+    "h1":"SB 8.19.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 8.19.26",
     "description":"A brāhmaṇa who is satisfied with whatever is providentially obtained is increasingly enlightened with spiritual power, but the spiritual potency of a dissatisfied brāhmaṇa decreases, as fire diminishes in potency when water is sprinkled upon it."
 }
 ---

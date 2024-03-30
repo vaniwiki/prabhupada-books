@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.10.6",
-    "h1":"Text 6",
-    "title":" Śrīmad Bhāgavatam 6.10.6",
+    "h1":"SB 6.10.6",
+    "label":"Text 6",
+    "title":"Śrīmad Bhāgavatam 6.10.6",
     "description":"Those who are too self-interested beg something from others, not knowing of others' pain. But if the beggar knew the difficulty of the giver, he would not ask for anything. Similarly, he who is able to give charity does not know the beggar's difficulty, for otherwise he would not refuse to give the beggar anything he might want as charity."
 }
 ---

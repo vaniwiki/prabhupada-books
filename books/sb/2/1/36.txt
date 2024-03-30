@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 2.1.36",
+    "h1":"SB 2.1.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 2.1.36",
     "description":"Varieties of birds are indications of His masterful artistic sense. Manu, the father of mankind, is the emblem of His standard intelligence, and humanity is His residence. The celestial species of human beings, like the Gandharvas, Vidyādharas, Cāraṇas and angels, all represent His musical rhythm, and the demoniac soldiers are representations of His wonderful prowess."
 }
 ---

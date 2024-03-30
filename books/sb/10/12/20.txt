@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.20",
-    "h1":"Text 20",
-    "title":" Śrīmad Bhāgavatam 10.12.20",
+    "h1":"SB 10.12.20",
+    "label":"Text 20",
+    "title":"Śrīmad Bhāgavatam 10.12.20",
     "description":"Thereafter they decided: Dear friends, this is certainly an animal sitting here to swallow us all. Its upper lip resembles a cloud reddened by the sunshine, and its lower lip resembles the reddish shadows of a cloud."
 }
 ---

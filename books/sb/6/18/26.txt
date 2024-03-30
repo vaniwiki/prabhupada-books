@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.26",
-    "h1":"Text 26",
-    "title":" Śrīmad Bhāgavatam 6.18.26",
+    "h1":"SB 6.18.26",
+    "label":"Text 26",
+    "title":"Śrīmad Bhāgavatam 6.18.26",
     "description":"Diti thought: Indra considers his body eternal, and thus he has become unrestrained. I therefore wish to have a son who can remove Indra's madness. Let me adopt some means to help me in this."
 }
 ---

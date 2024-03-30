@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.9.35",
-    "h1":"Text 35",
-    "title":" Śrīmad Bhāgavatam 2.9.35",
+    "h1":"SB 2.9.35",
+    "label":"Text 35",
+    "title":"Śrīmad Bhāgavatam 2.9.35",
     "description":"O Brahmā, please know that the universal elements enter into the cosmos and at the same time do not enter into the cosmos; similarly, I Myself also exist within everything created, and at the same time I am outside of everything."
 }
 ---

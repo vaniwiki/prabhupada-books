@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.26.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 5.26.28",
+    "h1":"SB 5.26.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 5.26.28",
     "description":"A person who in this life bears false witness or lies while transacting business or giving charity is severely punished after death by the agents of Yamarāja. Such a sinful man is taken to the top of a mountain eight hundred miles high and thrown headfirst into the hell known as Avīcimat. This hell has no shelter and is made of strong stone resembling the waves of water. There is no water there, however, and thus it is called Avīcimat [waterless]. Although the sinful man is repeatedly thrown from the mountain and his body broken to tiny pieces, he still does not die but continuously suffers chastisement."
 }
 ---

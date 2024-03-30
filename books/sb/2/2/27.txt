@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.2.27",
-    "h1":"Text 27",
-    "title":" Śrīmad Bhāgavatam 2.2.27",
+    "h1":"SB 2.2.27",
+    "label":"Text 27",
+    "title":"Śrīmad Bhāgavatam 2.2.27",
     "description":"In that planet of Satyaloka, there is neither bereavement, nor old age nor death. There is no pain of any kind, and therefore there are no anxieties, save that sometimes, due to consciousness, there is a feeling of compassion for those unaware of the process of devotional service, who are subjected to unsurpassable miseries in the material world."
 }
 ---

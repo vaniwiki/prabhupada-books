@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.23.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 8.23.17",
+    "h1":"SB 8.23.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 8.23.17",
     "description":"Lord Viṣṇu, I must nonetheless act in obedience to Your order because obeying Your order is most auspicious and is the first duty of everyone."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.9.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 9.9.1",
+    "h1":"SB 9.9.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 9.9.1",
     "description":"Śukadeva Gosvāmī continued: King Aṁśumān, like his grandfather, performed austerities for a very long time. Nonetheless, he could not bring the Ganges to this material world, and thereafter, in due course of time, he died."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.6.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 4.6.34",
+    "h1":"SB 4.6.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 4.6.34",
     "description":"Lord Śiva sat there, surrounded by saintly persons like Kuvera, the master of the Guhyakas, and the four Kumāras, who were already liberated souls. Lord Śiva was grave and saintly."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.2.35-36",
-    "h1":"Text 35-36",
-    "title":" Śrīmad Bhāgavatam 9.2.35-36",
+    "h1":"SB 9.2.35-36",
+    "label":"Text 35-36",
+    "title":"Śrīmad Bhāgavatam 9.2.35-36",
     "description":"The son of Kṛśāśva was Somadatta, who performed aśvamedha sacrifices and thus satisfied the Supreme Personality of Godhead, Viṣṇu. By worshiping the Supreme Lord, he achieved the most exalted post, a residence on the planet to which great mystic yogīs are elevated. The son of Somadatta was Sumati, whose son was Janamejaya. All these kings appearing in the dynasty of Viśāla properly maintained the celebrated position of King Tṛṇabindu."
 }
 ---

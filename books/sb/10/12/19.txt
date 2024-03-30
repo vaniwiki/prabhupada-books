@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.12.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 10.12.19",
+    "h1":"SB 10.12.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 10.12.19",
     "description":"The boys said: Dear friends, is this creature dead, or is it actually a living python with its mouth spread wide just to swallow us all? Kindly clear up this doubt."
 }
 ---

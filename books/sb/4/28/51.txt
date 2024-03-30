@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.51",
-    "h1":"Text 51",
-    "title":" Śrīmad Bhāgavatam 4.28.51",
+    "h1":"SB 4.28.51",
+    "label":"Text 51",
+    "title":"Śrīmad Bhāgavatam 4.28.51",
     "description":"My dear King, one brāhmaṇa, who was an old friend of King Purañjana, came to that place and began to pacify the Queen with sweet words."
 }
 ---

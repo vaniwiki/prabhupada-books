@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.19.18",
-    "h1":"Text 18",
-    "title":" Śrīmad Bhāgavatam 3.19.18",
+    "h1":"SB 3.19.18",
+    "label":"Text 18",
+    "title":"Śrīmad Bhāgavatam 3.19.18",
     "description":"Fierce winds began to blow from all directions, spreading darkness occasioned by dust and hail storms; stones came in volleys from every corner, as if thrown by machine guns."
 }
 ---

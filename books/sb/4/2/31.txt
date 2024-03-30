@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.31",
-    "h1":"Text 31",
-    "title":" Śrīmad Bhāgavatam 4.2.31",
+    "h1":"SB 4.2.31",
+    "label":"Text 31",
+    "title":"Śrīmad Bhāgavatam 4.2.31",
     "description":"The Vedas give the eternal regulative principles for auspicious advancement in human civilization which have been rigidly followed in the past. The strong evidence of this principle is the Supreme Personality of Godhead, who is called Janārdana, the well-wisher of all living entities."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 3.14.12",
+    "h1":"SB 3.14.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 3.14.12",
     "description":"A woman is honored in the world by the benediction of her husband, and a husband like you will become famous by having children because you are meant for the expansion of living entities."
 }
 ---

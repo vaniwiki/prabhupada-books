@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.49",
-    "h1":"Text 49",
-    "title":" Śrīmad Bhāgavatam 6.18.49",
+    "h1":"SB 6.18.49",
+    "label":"Text 49",
+    "title":"Śrīmad Bhāgavatam 6.18.49",
     "description":"Never eat leftover food, never eat prasāda offered to the goddess Kālī [Durgā], and do not eat anything contaminated by flesh or fish. Do not eat anything brought or touched by a śūdra nor anything seen by a woman in her menstrual period. Do not drink water by joining your palms."
 }
 ---

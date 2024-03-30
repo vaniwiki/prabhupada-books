@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.31.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 4.31.4",
+    "h1":"SB 4.31.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 4.31.4",
     "description":"As soon as the Pracetās saw that the great sage Nārada had appeared, they immediately got up even from their āsanas. As required, they immediately offered obeisances and worshiped him, and when they saw that Nārada Muni was properly seated, they began to ask him questions."
 }
 ---

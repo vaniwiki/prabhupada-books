@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.7.38",
-    "h1":"Text 38",
-    "title":" Śrīmad Bhāgavatam 7.7.38",
+    "h1":"SB 7.7.38",
+    "label":"Text 38",
+    "title":"Śrīmad Bhāgavatam 7.7.38",
     "description":"O my friends, sons of the asuras, the Supreme Personality of Godhead in His Supersoul feature always exists within the cores of the hearts of all living entities. Indeed, He is the well-wisher and friend of all living entities, and there is no difficulty in worshiping the Lord. Why, then, should people not engage in His devotional service? Why are they so addicted to unnecessarily producing artificial paraphernalia for sense gratification?"
 }
 ---

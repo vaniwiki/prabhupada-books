@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.17.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 5.17.10",
+    "h1":"SB 5.17.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 5.17.10",
     "description":"Many other rivers, both big and small, flow from the top of Mount Meru. These rivers are like daughters of the mountain, and they flow to the various tracts of land in hundreds of branches."
 }
 ---

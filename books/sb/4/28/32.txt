@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.28.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 4.28.32",
+    "h1":"SB 4.28.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 4.28.32",
     "description":"The great sage named Agastya married the first-born daughter of Malayadhvaja, the avowed devotee of Lord Kṛṣṇa. From her one son was born, whose name was Dṛḍhacyuta, and from him another son was born, whose name was Idhmavāha."
 }
 ---

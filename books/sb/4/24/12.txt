@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.12",
-    "h1":"Text 12",
-    "title":" Śrīmad Bhāgavatam 4.24.12",
+    "h1":"SB 4.24.12",
+    "label":"Text 12",
+    "title":"Śrīmad Bhāgavatam 4.24.12",
     "description":"While Śatadruti was thus being married, the demons, the denizens of Gandharvaloka, the great sages, and the denizens of Siddhaloka, the earthly planets and Nāgaloka, although highly exalted, were all captivated by the tinkling of her ankle bells."
 }
 ---

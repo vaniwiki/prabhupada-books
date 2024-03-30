@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.19.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 4.19.2",
+    "h1":"SB 4.19.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 4.19.2",
     "description":"When the most powerful Indra, the King of heaven, saw this, he considered the fact that King Pṛthu was going to exceed him in fruitive activities. Thus Indra could not tolerate the great sacrificial ceremonies performed by King Pṛthu."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 2.5.2",
+    "h1":"SB 2.5.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 2.5.2",
     "description":"My dear father, please describe factually the symptoms of this manifest world. What is its background? How is it created? How is it conserved? And under whose control is all this being done?"
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.13.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 8.13.28",
+    "h1":"SB 8.13.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 8.13.28",
     "description":"In this manvantara, the name of Indra will be Ṛtadhāmā, and the demigods will be headed by the Haritas. Among the sages will be Tapomūrti, Tapasvī and Āgnīdhraka."
 }
 ---

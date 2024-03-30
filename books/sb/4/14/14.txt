@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.14.14",
-    "h1":"Text 14",
-    "title":" Śrīmad Bhāgavatam 4.14.14",
+    "h1":"SB 4.14.14",
+    "label":"Text 14",
+    "title":"Śrīmad Bhāgavatam 4.14.14",
     "description":"The great sages said: Dear King, we have come to give you good advice. Kindly hear us with great attention. By doing so, your duration of life and your opulence, strength and reputation will increase."
 }
 ---

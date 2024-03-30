@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.4.53-54",
-    "h1":"Text 53-54",
-    "title":" Śrīmad Bhāgavatam 9.4.53-54",
+    "h1":"SB 9.4.53-54",
+    "label":"Text 53-54",
+    "title":"Śrīmad Bhāgavatam 9.4.53-54",
     "description":"Lord Brahmā said: At the end of the dvi-parārdha, when the pastimes of the Lord come to an end, Lord Viṣṇu, by a flick of His eyebrows, vanquishes the entire universe, including our places of residence. Such personalities as me and Lord Śiva, as well as Dakṣa, Bhṛgu and similar great saints of which they are the head, and also the rulers of the living entities, the rulers of human society and the rulers of the demigods—all of us surrender to that Supreme Personality of Godhead, Lord Viṣṇu, bowing our heads, to carry out His orders for the benefit of all living entities."
 }
 ---

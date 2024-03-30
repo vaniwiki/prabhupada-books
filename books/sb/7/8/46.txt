@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.8.46",
-    "h1":"Text 46",
-    "title":" Śrīmad Bhāgavatam 7.8.46",
+    "h1":"SB 7.8.46",
+    "label":"Text 46",
+    "title":"Śrīmad Bhāgavatam 7.8.46",
     "description":"The inhabitants of Vidyādhara-loka prayed: Our acquired power to appear and disappear in various ways according to varieties of meditation was banned by that foolish Hiraṇyakaśipu because of his pride in his superior bodily strength and his ability to conquer others. Now the Supreme Personality of Godhead has killed him just as if the demon were an animal. Unto that supreme pastime form of Lord Nṛsiṁhadeva, we eternally offer our respectful obeisances."
 }
 ---

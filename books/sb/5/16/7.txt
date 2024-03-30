@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.16.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 5.16.7",
+    "h1":"SB 5.16.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 5.16.7",
     "description":" Amidst these divisions, or varṣas, is the varṣa named Ilāvṛta, which is situated in the middle of the whorl of the lotus. Within Ilāvṛta-varṣa is Sumeru Mountain, which is made of gold. Sumeru Mountain is like the pericarp of the lotuslike Bhū-maṇḍala planetary system. The mountain's height is the same as the width of Jambūdvīpa—or, in other words, 100,000 yojanas [800,000 miles]. Of that, 16,000 yojanas [128,000 miles] are within the earth, and therefore the mountain's height above the earth is 84,000 yojanas [672,000 miles]. The mountain's width is 32,000 yojanas [256,000 miles] at its summit and 16,000 yojanas at its base."
 }
 ---

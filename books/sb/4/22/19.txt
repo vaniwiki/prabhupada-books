@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.22.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 4.22.19",
+    "h1":"SB 4.22.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 4.22.19",
     "description":"When there is a congregation of devotees, their discussions, questions and answers become conclusive to both the speaker and the audience. Thus such a meeting is beneficial for everyone's real happiness."
 }
 ---

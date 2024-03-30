@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.24.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 9.24.13",
+    "h1":"SB 9.24.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 9.24.13",
     "description":"The two sons of Nighna were Satrājita and Prasena. Another son of Anamitra was another Śini, and his son was Satyaka."
 }
 ---

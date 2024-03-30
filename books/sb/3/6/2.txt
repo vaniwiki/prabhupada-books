@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.6.2",
-    "h1":"Text 2",
-    "title":" Śrīmad Bhāgavatam 3.6.2",
+    "h1":"SB 3.6.2",
+    "label":"Text 2",
+    "title":"Śrīmad Bhāgavatam 3.6.2",
     "description":"The Supreme Powerful Lord then simultaneously entered into the twenty-three elements with the goddess Kālī, His external energy, who alone amalgamates all the different elements."
 }
 ---

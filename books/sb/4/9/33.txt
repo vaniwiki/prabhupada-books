@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.9.33",
-    "h1":"Text 33",
-    "title":" Śrīmad Bhāgavatam 4.9.33",
+    "h1":"SB 4.9.33",
+    "label":"Text 33",
+    "title":"Śrīmad Bhāgavatam 4.9.33",
     "description":"Dhruva Mahārāja lamented: I was under the influence of the illusory energy; being ignorant of the actual facts, I was sleeping on her lap. Under a vision of duality, I saw my brother as my enemy, and falsely I lamented within my heart, thinking, \"They are my enemies.\""
 }
 ---

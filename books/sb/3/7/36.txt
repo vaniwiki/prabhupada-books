@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.7.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 3.7.36",
+    "h1":"SB 3.7.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 3.7.36",
     "description":"O best among the brāhmaṇas, those who are spiritual masters are very kind to the needy. They are always kind to their followers, disciples and sons, and without being asked by them, the spiritual master describes all that is knowledge."
 }
 ---

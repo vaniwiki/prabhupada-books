@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.29.79",
-    "h1":"Text 79",
-    "title":" Śrīmad Bhāgavatam 4.29.79",
+    "h1":"SB 4.29.79",
+    "label":"Text 79",
+    "title":"Śrīmad Bhāgavatam 4.29.79",
     "description":"You should always know that this cosmic manifestation is created, maintained and annihilated by the will of the Supreme Personality of Godhead. Consequently, everything within this cosmic manifestation is under the control of the Lord. To be enlightened by this perfect knowledge, one should always engage himself in the devotional service of the Lord."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.11.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 4.11.8",
+    "h1":"SB 4.11.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 4.11.8",
     "description":"My dear son, the killing of the sinless Yakṣas which you have undertaken is not at all approved by authorities, and it does not befit our family, which is supposed to know the laws of religion and irreligion."
 }
 ---

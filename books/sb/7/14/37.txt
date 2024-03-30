@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.14.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 7.14.37",
+    "h1":"SB 7.14.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 7.14.37",
     "description":"The Supreme Personality of Godhead has created many residential places like the bodies of human beings, animals, birds, saints and demigods. In all of these innumerable bodily forms, the Lord resides with the living being as Paramātmā. Thus He is known as the puruṣāvatāra."
 }
 ---

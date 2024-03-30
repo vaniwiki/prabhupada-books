@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.1.37",
+    "h1":"SB 4.1.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.1.37",
     "description":"Viśravā had two wives. The first wife was Iḍaviḍā, from whom Kuvera, the master of all Yakṣas, was born, and the next wife was named Keśinī, from whom three sons were born-Rāvaṇa, Kumbhakarṇa and Vibhīṣaṇa."
 }
 ---

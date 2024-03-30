@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.10.54",
-    "h1":"Text 54",
-    "title":" Śrīmad Bhāgavatam 9.10.54",
+    "h1":"SB 9.10.54",
+    "label":"Text 54",
+    "title":"Śrīmad Bhāgavatam 9.10.54",
     "description":"Lord Rāmacandra took a vow to accept only one wife and have no connection with any other women. He was a saintly king, and everything in His character was good, untinged by qualities like anger. He taught good behavior for everyone, especially for householders, in terms of varṇāśrama-dharma. Thus He taught the general public by His personal activities."
 }
 ---

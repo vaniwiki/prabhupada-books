@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.13",
-    "h1":"Text 13",
-    "title":" Śrīmad Bhāgavatam 8.3.13",
+    "h1":"SB 8.3.13",
+    "label":"Text 13",
+    "title":"Śrīmad Bhāgavatam 8.3.13",
     "description":"I beg to offer my respectful obeisances unto You, who are the Supersoul, the superintendent of everything, and the witness of all that occurs. You are the Supreme Person, the origin of material nature and of the total material energy. You are also the owner of the material body. Therefore, You are the supreme complete. I offer my respectful obeisances unto You."
 }
 ---

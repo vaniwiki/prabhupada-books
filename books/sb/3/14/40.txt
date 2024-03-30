@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.14.40",
-    "h1":"Text 40",
-    "title":" Śrīmad Bhāgavatam 3.14.40",
+    "h1":"SB 3.14.40",
+    "label":"Text 40",
+    "title":"Śrīmad Bhāgavatam 3.14.40",
     "description":"They will kill poor, faultless living entities, torture women and enrage the great souls."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.5.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 2.5.21",
+    "h1":"SB 2.5.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 2.5.21",
     "description":"The Lord, who is the controller of all energies, thus creates, by His own potency, eternal time, the fate of all living entities, and their particular nature, for which they were created, and He again merges them independently."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.15",
-    "h1":"Text 15",
-    "title":" Śrīmad Bhāgavatam 4.25.15",
+    "h1":"SB 4.25.15",
+    "label":"Text 15",
+    "title":"Śrīmad Bhāgavatam 4.25.15",
     "description":"The floors of the houses in that city were made of sapphire, crystal, diamonds, pearls, emeralds and rubies. Because of the luster of the houses in the capital, the city was compared to the celestial town named Bhogavatī."
 }
 ---

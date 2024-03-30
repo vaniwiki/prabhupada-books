@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.3.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 2.3.22",
+    "h1":"SB 2.3.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 2.3.22",
     "description":"The eyes which do not look at the symbolic representations of the Personality of Godhead Viṣṇu [His forms, name, quality, etc.] are like those printed on the plumes of the peacock, and the legs which do not move to the holy places [where the Lord is remembered] are considered to be like tree trunks."
 }
 ---

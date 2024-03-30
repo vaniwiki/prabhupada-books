@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 9.14.29",
+    "h1":"SB 9.14.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 9.14.29",
     "description":"\"Because I depended on him, the plunderers have deprived me of my two sons the lambs, and therefore I am now lost. My husband lies down at night in fear, exactly like a woman, although he appears to be a man during the day.\""
 }
 ---

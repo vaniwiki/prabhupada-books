@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.19.29",
-    "h1":"Text 29",
-    "title":" Śrīmad Bhāgavatam 9.19.29",
+    "h1":"SB 9.19.29",
+    "label":"Text 29",
+    "title":"Śrīmad Bhāgavatam 9.19.29",
     "description":"O Lord Vāsudeva, O Supreme Personality of Godhead, You are the creator of the entire cosmic manifestation. You live as the Supersoul in everyone's heart and are smaller than the smallest, yet You are greater than the greatest and are all-pervading. You appear completely silent, having nothing to do, but this is due to Your all-pervading nature and Your fullness in all opulences. I therefore offer my respectful obeisances unto You."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.25.36",
-    "h1":"Text 36",
-    "title":" Śrīmad Bhāgavatam 4.25.36",
+    "h1":"SB 4.25.36",
+    "label":"Text 36",
+    "title":"Śrīmad Bhāgavatam 4.25.36",
     "description":"O killer of the enemy, you have somehow or other come here. This is certainly great fortune for me. I wish all auspicious things for you. You have a great desire to satisfy your senses, and all my friends and I shall try our best in all respects to fulfill your desires."
 }
 ---

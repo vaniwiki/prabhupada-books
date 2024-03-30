@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.47-48",
-    "h1":"Text 47-48",
-    "title":" Śrīmad Bhāgavatam 10.13.47-48",
+    "h1":"SB 10.13.47-48",
+    "label":"Text 47-48",
+    "title":"Śrīmad Bhāgavatam 10.13.47-48",
     "description":"All those personalities had four arms, holding conchshell, disc, mace and lotus flower in Their hands. They wore helmets on Their heads, earrings on Their ears and garlands of forest flowers around Their necks. On the upper portion of the right side of Their chests was the emblem of the goddess of fortune. Furthermore, They wore armlets on Their arms, the Kaustubha gem around Their necks, which were marked with three lines like a conchshell, and bracelets on Their wrists. With bangles on Their ankles, ornaments on Their feet, and sacred belts around Their waists, They all appeared very beautiful."
 }
 ---

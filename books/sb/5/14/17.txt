@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.14.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 5.14.17",
+    "h1":"SB 5.14.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 5.14.17",
     "description":"Sometimes the conditioned soul imagines that his father or grandfather has again come in the form of his son or grandson. In this way he feels the happiness one sometimes feels in a dream, and the conditioned soul sometimes takes pleasure in such mental concoctions."
 }
 ---

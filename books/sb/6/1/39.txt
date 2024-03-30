@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.39",
-    "h1":"Text 39",
-    "title":" Śrīmad Bhāgavatam 6.1.39",
+    "h1":"SB 6.1.39",
+    "label":"Text 39",
+    "title":"Śrīmad Bhāgavatam 6.1.39",
     "description":"What is the process of punishing others? Who are the actual candidates for punishment? Are all karmīs engaged in fruitive activities punishable, or only some of them?"
 }
 ---

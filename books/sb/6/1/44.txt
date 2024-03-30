@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.1.44",
-    "h1":"Text 44",
-    "title":" Śrīmad Bhāgavatam 6.1.44",
+    "h1":"SB 6.1.44",
+    "label":"Text 44",
+    "title":"Śrīmad Bhāgavatam 6.1.44",
     "description":"O inhabitants of Vaikuṇṭha, you are sinless, but those within this material world are all karmīs, whether acting piously or impiously. Both kinds of action are possible for them because they are contaminated by the three modes of nature and must act accordingly. One who has accepted a material body cannot be inactive, and sinful action is inevitable for one acting under the modes of material nature. Therefore all the living entities within this material world are punishable."
 }
 ---

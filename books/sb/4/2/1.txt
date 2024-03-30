@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.2.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.2.1",
+    "h1":"SB 4.2.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.2.1",
     "description":"Vidura inquired: Why was Dakṣa, who was so affectionate towards his daughter, envious of Lord Śiva, who is the best among the gentle? Why did he neglect his daughter Satī?"
 }
 ---

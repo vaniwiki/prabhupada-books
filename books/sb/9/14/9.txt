@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.14.9",
-    "h1":"Text 9",
-    "title":" Śrīmad Bhāgavatam 9.14.9",
+    "h1":"SB 9.14.9",
+    "label":"Text 9",
+    "title":"Śrīmad Bhāgavatam 9.14.9",
     "description":"Bṛhaspati said: You foolish woman, your womb, which was meant for me to impregnate, has been impregnated by someone other than me. Immediately deliver your child! Immediately deliver it! Be assured that after the child is delivered, I shall not burn you to ashes. I know that although you are unchaste, you wanted a son. Therefore I shall not punish you."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.22.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 8.22.5",
+    "h1":"SB 8.22.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 8.22.5",
     "description":"Since Your Lordship is indirectly the greatest well-wisher of us demons, You act for our best welfare by posing as if our enemy. Because demons like us always aspire for a position of false prestige, by chastising us You give us the eyes by which to see the right path."
 }
 ---

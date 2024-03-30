@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 2.1.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 2.1.28",
+    "h1":"SB 2.1.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 2.1.28",
     "description":"The chest of the Original Personality of the gigantic form is the luminary planetary system, His neck is the Mahar planets, His mouth is the Janas planets, and His forehead is the Tapas planetary system. The topmost planetary system, known as Satyaloka, is the head of He who has one thousand heads."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.14.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 8.14.4",
+    "h1":"SB 8.14.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 8.14.4",
     "description":"At the end of every four yugas, the great saintly persons, upon seeing that the eternal occupational duties of mankind have been misused, reestablish the principles of religion."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 5.20.16",
-    "h1":"Text 16",
-    "title":" Śrīmad Bhāgavatam 5.20.16",
+    "h1":"SB 5.20.16",
+    "label":"Text 16",
+    "title":"Śrīmad Bhāgavatam 5.20.16",
     "description":"The inhabitants of the island of Kuśadvīpa are celebrated as the Kuśalas, Kovidas, Abhiyuktas and Kulakas. They are like the brāhmaṇas, kṣatriyas, vaiśyas and śūdras respectively. By bathing in the waters of those rivers, they all become purified. They are expert in performing ritualistic ceremonies according to the orders of the Vedic scriptures. Thus they worship the Lord in His aspect as the demigod of fire."
 }
 ---

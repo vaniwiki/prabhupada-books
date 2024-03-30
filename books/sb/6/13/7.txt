@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.13.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 6.13.7",
+    "h1":"SB 6.13.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 6.13.7",
     "description":"The ṛṣis continued: O King Indra, by performing an aśvamedha sacrifice and thereby pleasing the Supreme Personality of Godhead, who is the Supersoul, Lord Nārāyaṇa, the supreme controller, one can be relieved even of the sinful reactions for killing the entire world, not to speak of killing a demon like Vṛtrāsura."
 }
 ---

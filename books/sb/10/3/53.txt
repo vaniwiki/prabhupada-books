@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.53",
-    "h1":"Text 53",
-    "title":" Śrīmad Bhāgavatam 10.3.53",
+    "h1":"SB 10.3.53",
+    "label":"Text 53",
+    "title":"Śrīmad Bhāgavatam 10.3.53",
     "description":"Exhausted by the labor of childbirth, Yaśodā was overwhelmed with sleep and unable to understand what kind of child had been born to her."
 }
 ---

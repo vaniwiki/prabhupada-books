@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 6.18.11",
-    "h1":"Text 11",
-    "title":" Śrīmad Bhāgavatam 6.18.11",
+    "h1":"SB 6.18.11",
+    "label":"Text 11",
+    "title":"Śrīmad Bhāgavatam 6.18.11",
     "description":"First the two sons named Hiraṇyakaśipu and Hiraṇyākṣa took birth from Diti's womb. Both of them were very powerful and were worshiped by the Daityas and Dānavas."
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.13.3",
-    "h1":"Text 3",
-    "title":" Śrīmad Bhāgavatam 10.13.3",
+    "h1":"SB 10.13.3",
+    "label":"Text 3",
+    "title":"Śrīmad Bhāgavatam 10.13.3",
     "description":"O King, kindly hear me with great attention. Although the activities of the Supreme Lord are very confidential, no ordinary man being able to understand them, I shall speak about them to you, for spiritual masters explain to a submissive disciple even subject matters that are very confidential and difficult to understand."
 }
 ---

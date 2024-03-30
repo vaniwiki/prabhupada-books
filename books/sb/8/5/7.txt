@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.5.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.5.7",
+    "h1":"SB 8.5.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.5.7",
     "description":"The son of Cakṣu known as Cākṣuṣa was the sixth Manu. He had many sons, headed by Pūru, Pūruṣa and Sudyumna."
 }
 ---

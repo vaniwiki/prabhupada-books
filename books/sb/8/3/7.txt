@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.3.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 8.3.7",
+    "h1":"SB 8.3.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 8.3.7",
     "description":"Renunciants and great sages who see all living beings equally, who are friendly to everyone and who flawlessly practice in the forest the vows of brahmacarya, vānaprastha and sannyāsa desire to see the all-auspicious lotus feet of the Supreme Personality of Godhead. May that same Supreme Personality of Godhead be my destination."
 }
 ---

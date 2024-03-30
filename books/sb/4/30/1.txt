@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.30.1",
-    "h1":"Text 1",
-    "title":" Śrīmad Bhāgavatam 4.30.1",
+    "h1":"SB 4.30.1",
+    "label":"Text 1",
+    "title":"Śrīmad Bhāgavatam 4.30.1",
     "description":"Vidura inquired from Maitreya: O brāhmaṇa, you formerly spoke about the sons of Prācīnabarhi and informed me that they satisfied the Supreme Personality of Godhead by chanting a song composed by Lord Śiva. What did they achieve in this way?"
 }
 ---

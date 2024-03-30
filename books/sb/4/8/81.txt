@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.8.81",
-    "h1":"Text 81",
-    "title":" Śrīmad Bhāgavatam 4.8.81",
+    "h1":"SB 4.8.81",
+    "label":"Text 81",
+    "title":"Śrīmad Bhāgavatam 4.8.81",
     "description":"The demigods said: Dear Lord, You are the refuge of all moving and nonmoving living entities. We feel all living entities to be suffocating, their breathing processes choked up. We have never experienced such a thing. Since You are the ultimate shelter of all surrendered souls, we have therefore approached You; kindly save us from this danger."
 }
 ---

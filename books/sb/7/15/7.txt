@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 7.15.7",
-    "h1":"Text 7",
-    "title":" Śrīmad Bhāgavatam 7.15.7",
+    "h1":"SB 7.15.7",
+    "label":"Text 7",
+    "title":"Śrīmad Bhāgavatam 7.15.7",
     "description":"A person fully aware of religious principles should never offer anything like meat, eggs or fish in the śrāddha ceremony, and even if one is a kṣatriya, he himself should not eat such things. When suitable food prepared with ghee is offered to saintly persons, the function is pleasing to the forefathers and the Supreme Lord, who are never pleased when animals are killed in the name of sacrifice."
 }
 ---

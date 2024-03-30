@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.24.10",
-    "h1":"Text 10",
-    "title":" Śrīmad Bhāgavatam 4.24.10",
+    "h1":"SB 4.24.10",
+    "label":"Text 10",
+    "title":"Śrīmad Bhāgavatam 4.24.10",
     "description":"Mahārāja Barhiṣat executed many sacrifices all over the world. He scattered kuśa grasses and kept the tops of the grasses pointed eastward."
 }
 ---

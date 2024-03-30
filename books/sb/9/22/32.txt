@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.22.32",
-    "h1":"Text 32",
-    "title":" Śrīmad Bhāgavatam 9.22.32",
+    "h1":"SB 9.22.32",
+    "label":"Text 32",
+    "title":"Śrīmad Bhāgavatam 9.22.32",
     "description":"Nakula begot a son named Naramitra through his wife named Kareṇumatī. Similarly, Arjuna begot a son named Irāvān through his wife known as Ulupī, the daughter of the Nāgas, and a son named Babhruvāhana by the womb of the princess of Maṇipura. Babhruvāhana became the adopted son of the king of Maṇipura."
 }
 ---

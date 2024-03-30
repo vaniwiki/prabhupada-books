@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.4",
-    "h1":"Text 4",
-    "title":" Śrīmad Bhāgavatam 10.1.4",
+    "h1":"SB 10.1.4",
+    "label":"Text 4",
+    "title":"Śrīmad Bhāgavatam 10.1.4",
     "description":"Glorification of the Supreme Personality of Godhead is performed in the paramparā system; that is, it is conveyed from spiritual master to disciple. Such glorification is relished by those no longer interested in the false, temporary glorification of this cosmic manifestation. Descriptions of the Lord are the right medicine for the conditioned soul undergoing repeated birth and death. Therefore, who will cease hearing such glorification of the Lord except a butcher or one who is killing his own self?"
 }
 ---

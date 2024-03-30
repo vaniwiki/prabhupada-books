@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.20.37",
-    "h1":"Text 37",
-    "title":" Śrīmad Bhāgavatam 4.20.37",
+    "h1":"SB 4.20.37",
+    "label":"Text 37",
+    "title":"Śrīmad Bhāgavatam 4.20.37",
     "description":"The infallible Supreme Personality of Godhead, having captivated the minds of the King and the priests who were present, returned to His abode in the spiritual sky."
 }
 ---

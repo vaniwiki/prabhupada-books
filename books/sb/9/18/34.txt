@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.18.34",
-    "h1":"Text 34",
-    "title":" Śrīmad Bhāgavatam 9.18.34",
+    "h1":"SB 9.18.34",
+    "label":"Text 34",
+    "title":"Śrīmad Bhāgavatam 9.18.34",
     "description":"When the proud Devayānī understood from outside sources that Śarmiṣṭhā was pregnant by her husband, she was frenzied with anger. Thus she departed for her father's house."
 }
 ---

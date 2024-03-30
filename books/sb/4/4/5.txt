@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.4.5",
-    "h1":"Text 5",
-    "title":" Śrīmad Bhāgavatam 4.4.5",
+    "h1":"SB 4.4.5",
+    "label":"Text 5",
+    "title":"Śrīmad Bhāgavatam 4.4.5",
     "description":"The disciples of Lord Śiva arranged for Satī to be seated on the back of a bull and gave her the bird which was her pet. They bore a lotus flower, a mirror and all such paraphernalia for her enjoyment and covered her with a great canopy. Followed by a singing party with drums, conchshells and bugles, the entire procession was as pompous as a royal parade."
 }
 ---

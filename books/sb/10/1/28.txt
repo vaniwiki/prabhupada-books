@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.1.28",
-    "h1":"Text 28",
-    "title":" Śrīmad Bhāgavatam 10.1.28",
+    "h1":"SB 10.1.28",
+    "label":"Text 28",
+    "title":"Śrīmad Bhāgavatam 10.1.28",
     "description":"Since that time, the city of Mathurā had been the capital of all the kings of the Yadu dynasty. The city and district of Mathurā are very intimately connected with Kṛṣṇa, for Lord Kṛṣṇa lives there eternally."
 }
 ---

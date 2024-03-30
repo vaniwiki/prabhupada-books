@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.5.19",
-    "h1":"Text 19",
-    "title":" Śrīmad Bhāgavatam 3.5.19",
+    "h1":"SB 3.5.19",
+    "label":"Text 19",
+    "title":"Śrīmad Bhāgavatam 3.5.19",
     "description":"O Vidura, it is not at all wonderful that you have so accepted the Lord without deviation of thought, for you were born from the semen of Vyāsadeva."
 }
 ---

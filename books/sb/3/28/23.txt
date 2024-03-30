@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.28.23",
-    "h1":"Text 23",
-    "title":" Śrīmad Bhāgavatam 3.28.23",
+    "h1":"SB 3.28.23",
+    "label":"Text 23",
+    "title":"Śrīmad Bhāgavatam 3.28.23",
     "description":"The yogī should fix in his heart the activities of Lakṣmī, the goddess of fortune, who is worshiped by all demigods and is the mother of the supreme person, Brahmā. She can always be found massaging the legs and thighs of the transcendental Lord, very carefully serving Him in this way."
 }
 ---

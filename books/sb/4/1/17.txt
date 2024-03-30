@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.1.17",
-    "h1":"Text 17",
-    "title":" Śrīmad Bhāgavatam 4.1.17",
+    "h1":"SB 4.1.17",
+    "label":"Text 17",
+    "title":"Śrīmad Bhāgavatam 4.1.17",
     "description":"Maitreya said: When Lord Brahmā ordered Atri Muni to create generations after marrying Anasūyā, Atri Muni and his wife went to perform severe austerities in the valley of the mountain known as Ṛkṣa."
 }
 ---

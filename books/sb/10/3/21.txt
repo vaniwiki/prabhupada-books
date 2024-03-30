@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 10.3.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 10.3.21",
+    "h1":"SB 10.3.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 10.3.21",
     "description":"O my Lord, proprietor of all creation, You have now appeared in my house, desiring to protect this world. I am sure that You will kill all the armies that are moving all over the world under the leadership of politicians who are dressed as kṣatriya rulers but who are factually demons. They must be killed by You for the protection of the innocent public."
 }
 ---

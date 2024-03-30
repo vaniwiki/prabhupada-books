@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.33.21",
-    "h1":"Text 21",
-    "title":" Śrīmad Bhāgavatam 3.33.21",
+    "h1":"SB 3.33.21",
+    "label":"Text 21",
+    "title":"Śrīmad Bhāgavatam 3.33.21",
     "description":"Devahūti's husband had already left home and accepted the renounced order of life, and then her only son, Kapila, left home. Although she knew all the truths of life and death, and although her heart was cleansed of all dirt, she was very aggrieved at the loss of her son, just as a cow is affected when her calf dies."
 }
 ---

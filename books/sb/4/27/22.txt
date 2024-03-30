@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 4.27.22",
-    "h1":"Text 22",
-    "title":" Śrīmad Bhāgavatam 4.27.22",
+    "h1":"SB 4.27.22",
+    "label":"Text 22",
+    "title":"Śrīmad Bhāgavatam 4.27.22",
     "description":"The great sage Nārada continued: When I refused to accept her request, she became very angry at me and cursed me severely. Because I refused her request, she said that I would not be able to stay in one place for a long time."
 }
 ---

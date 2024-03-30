@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 3.18.8",
-    "h1":"Text 8",
-    "title":" Śrīmad Bhāgavatam 3.18.8",
+    "h1":"SB 3.18.8",
+    "label":"Text 8",
+    "title":"Śrīmad Bhāgavatam 3.18.8",
     "description":"The Lord placed the earth within His sight on the surface of the water and transferred to her His own energy in the form of the ability to float on the water. While the enemy stood looking on, Brahmā, the creator of the universe, extolled the Lord, and the other demigods rained flowers on Him."
 }
 ---

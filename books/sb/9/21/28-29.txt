@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 9.21.28-29",
-    "h1":"Text 28-29",
-    "title":" Śrīmad Bhāgavatam 9.21.28-29",
+    "h1":"SB 9.21.28-29",
+    "label":"Text 28-29",
+    "title":"Śrīmad Bhāgavatam 9.21.28-29",
     "description":"From Supārśva came a son named Sumati, from Sumati came Sannatimān, and from Sannatimān came Kṛtī, who achieved mystic power from Brahmā and taught six saṁhitās of the Prācyasāma verses of the Sāma Veda. The son of Kṛtī was Nīpa; the son of Nīpa, Udgrāyudha; the son of Udgrāyudha, Kṣemya; the son of Kṣemya, Suvīra; and the son of Suvīra, Ripuñjaya."
 }
 ---

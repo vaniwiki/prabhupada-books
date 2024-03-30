@@ -1,8 +1,9 @@
 ---json
 {
     "name":"SB 8.10.16-18",
-    "h1":"Text 16-18",
-    "title":" Śrīmad Bhāgavatam 8.10.16-18",
+    "h1":"SB 8.10.16-18",
+    "label":"Text 16-18",
+    "title":"Śrīmad Bhāgavatam 8.10.16-18",
     "description":"For that battle the most celebrated commander in chief, Mahārāja Bali, son of Virocana, was seated on a wonderful airplane named Vaihāyasa. O King, this beautifully decorated airplane had been manufactured by the demon Maya and was equipped with weapons for all types of combat. It was inconceivable and indescribable. Indeed, it was sometimes visible and sometimes not. Seated in this airplane under a beautiful protective umbrella and being fanned by the best of cāmaras, Mahārāja Bali, surrounded by his captains and commanders, appeared just like the moon rising in the evening, illuminating all directions."
 }
 ---

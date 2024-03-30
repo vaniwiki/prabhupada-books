@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Glories of Lord Nityānanda Balarāma",
-    "h1":"Chapter 5",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 5: The Glories of Lord Nityānanda Balarāma",
+    "name":"Cc. Ādi5",
+    "h1":"The Glories of Lord Nityānanda Balarāma",
+    "label":"Chapter 5",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 5: The Glories of Lord Nityānanda Balarāma",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Advent of Lord Śrī Caitanya Mahāprabhu",
-    "h1":"Chapter 13",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 13: The Advent of Lord Śrī Caitanya Mahāprabhu",
+    "name":"Cc. Ādi13",
+    "h1":"The Advent of Lord Śrī Caitanya Mahāprabhu",
+    "label":"Chapter 13",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 13: The Advent of Lord Śrī Caitanya Mahāprabhu",
     "description":""
 }
 ---

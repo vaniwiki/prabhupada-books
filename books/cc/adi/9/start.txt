@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Tree of Devotional Service",
-    "h1":"Chapter 9",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 9: The Tree of Devotional Service",
+    "name":"Cc. Ādi9",
+    "h1":"The Tree of Devotional Service",
+    "label":"Chapter 9",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 9: The Tree of Devotional Service",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Cc. Adi 10",
-    "h1":"Chapter 10",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 10: The Trunk, Branches and Subbranches of the Caitanya Tree",
+    "name":"Cc. Ādi10",
+    "h1":"The Trunk, Branches and Subbranches of the Caitanya Tree",
+    "label":"Chapter 10",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 10: The Trunk, Branches and Subbranches of the Caitanya Tree",
     "description":""
 }
 ---

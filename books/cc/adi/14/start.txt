@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Caitanya’s Childhood Pastimes",
-    "h1":"Chapter 14",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 14: Lord Caitanya’s Childhood Pastimes",
+    "name":"Cc. Ādi14",
+    "h1":"Lord Caitanya’s Childhood Pastimes",
+    "label":"Chapter 14",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 14: Lord Caitanya’s Childhood Pastimes",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Pastimes of Lord Caitanya Mahāprabhu in His Youth",
-    "h1":"Chapter 17",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 17: The Pastimes of Lord Caitanya Mahāprabhu in His Youth",
+    "name":"Cc. Ādi17",
+    "h1":"The Pastimes of Lord Caitanya Mahāprabhu in His Youth",
+    "label":"Chapter 17",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 17: The Pastimes of Lord Caitanya Mahāprabhu in His Youth",
     "description":""
 }
 ---

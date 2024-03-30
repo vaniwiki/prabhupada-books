@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Expansions of Advaita Ācārya and Gadādhara Paṇḍita",
-    "h1":"Chapter 12",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 12: The Expansions of Advaita Ācārya and Gadādhara Paṇḍita",
+    "name":"Cc. Ādi12",
+    "h1":"The Expansions of Advaita Ācārya and Gadādhara Paṇḍita",
+    "label":"Chapter 12",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 12: The Expansions of Advaita Ācārya and Gadādhara Paṇḍita",
     "description":""
 }
 ---

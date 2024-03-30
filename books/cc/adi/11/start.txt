@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Expansions of Lord Nityānanda",
-    "h1":"Chapter 11",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 11: The Expansions of Lord Nityānanda",
+    "name":"Cc. Ādi11",
+    "h1":"The Expansions of Lord Nityānanda",
+    "label":"Chapter 11",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 11: The Expansions of Lord Nityānanda",
     "description":"As the branches and subbranches of Lord Caitanya Mahāprabhu were described in the Tenth Chapter, in this Eleventh Chapter the branches and subbranches of Śrī Nityānanda Prabhu are similarly listed."
 }
 ---

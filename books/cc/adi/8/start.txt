@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Author Receives the Orders of Kṛṣṇa and Guru",
-    "h1":"Chapter 8",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 8: The Author Receives the Orders of Kṛṣṇa and Guru",
+    "name":"Cc. Ādi8",
+    "h1":"The Author Receives the Orders of Kṛṣṇa and Guru",
+    "label":"Chapter 8",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 8: The Author Receives the Orders of Kṛṣṇa and Guru",
     "description":""
 }
 ---

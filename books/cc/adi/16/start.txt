@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Pastimes of the Lord in His Childhood and Youth",
-    "h1":"Chapter 16",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 16: The Pastimes of the Lord in His Childhood and Youth",
+    "name":"Cc. Ādi16",
+    "h1":"The Pastimes of the Lord in His Childhood and Youth",
+    "label":"Chapter 16",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 16: The Pastimes of the Lord in His Childhood and Youth",
     "description":""
 }
 ---

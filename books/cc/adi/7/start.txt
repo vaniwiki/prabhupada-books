@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Caitanya in Five Features",
-    "h1":"Chapter 7",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 7: Lord Caitanya in Five Features",
+    "name":"Cc. Ādi7",
+    "h1":"Lord Caitanya in Five Features",
+    "label":"Chapter 7",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 7: Lord Caitanya in Five Features",
     "description":""
 }
 ---

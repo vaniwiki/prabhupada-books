@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Lord’s Paugaṇḍa-līlā",
-    "h1":"Chapter 15",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 15: The Lord’s Paugaṇḍa-līlā",
+    "name":"Cc. Ādi15",
+    "h1":"The Lord’s Paugaṇḍa-līlā",
+    "label":"Chapter 15",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 15: The Lord’s Paugaṇḍa-līlā",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Glories of Śrī Advaita Ācārya",
-    "h1":"Chapter 6",
-    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, Chapter 6: The Glories of Śrī Advaita Ācārya",
+    "name":"Cc. Ādi6",
+    "h1":"The Glories of Śrī Advaita Ācārya",
+    "label":"Chapter 6",
+    "title":"Śrī Caitanya-caritāmṛta Ādi-līlā, 6: The Glories of Śrī Advaita Ācārya",
     "description":""
 }
 ---

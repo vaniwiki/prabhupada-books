@@ -9,4 +9,8 @@
 
 ====== Books by His Divine Grace ======
 
+<card line-spacing="lg">
+
 {{simplenavi>books}}
+
+</card>

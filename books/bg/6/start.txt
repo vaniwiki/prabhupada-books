@@ -10,9 +10,10 @@
 
 ====== Sāṅkhya-yoga ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_06_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 6}}
 
-<card-columns>
+<masonry>
 <card>
 {{ :books:bg:plate21.jpg?500x500 |}}
 Plate 21 --- “One should meditate on Me within the heart and make Me the ultimate goal of life.” [[books:bg:6:13-14|(Bg. 6.13-14)]]
@@ -29,7 +30,8 @@ Plate 23 --- “The mind is restless, turbulent, obstinate and very strong, O K�
 {{ :books:bg:plate24.jpg?500x500 |}}
 Plate 24 --- “Of all yogīs, he who abides in Me with great faith is the highest of all.” [[books:bg:6:47|(Bg. 6.47)]]
 </card>
-</card-columns>
+</masonry>
+*/
 
 
   ; [[books:bg:6:1|Bg 6.1]]

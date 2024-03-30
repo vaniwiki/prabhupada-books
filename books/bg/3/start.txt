@@ -10,9 +10,10 @@
 
 ====== Karma-yoga ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
 
-<card-columns>
+<masonry>
 <card>
 {{ books:bg:plate12.jpg?500x500 |}}
 Plate 12 --- “Be thou happy by this sacrifice because its performance will bestow upon you all desirable things.” [[books:bg:3:10|(Bg. 3.10)]]
@@ -25,7 +26,8 @@ Plate 13 --- The Demigods, being satisfied by the performance of sacrifice, supp
 {{ books:bg:plate14.jpg?500x500 |}}
 Plate 14 --- The living entity is covered by different degrees of lust. [[books:bg:3:38|(Bg. 3.38)]]
 </card>
-</card-columns>
+</masonry>
+*/
 
 
   ; [[books:bg:3:1|Bg 3.1]]

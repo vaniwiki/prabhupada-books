@@ -10,9 +10,10 @@
 
 ====== The Opulence of the Absolute ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_10_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 10}}
 
-<card-columns>
+<masonry>
 <card>
 {{ :books:bg:plate29.jpg?500x500 |}}
 Plate 29 --- Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” [[books:bg:10:12-13|(Bg. 10.12-13)]]
@@ -21,8 +22,8 @@ Plate 29 --- Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the u
 {{ :books:bg:plate30.jpg?500x500 |}}
 Plate 30. --- “Know that all these beautiful, glorious and mighty creations spring from but a spark of My splendor.” [[books:bg:10:41|(Bg. 10.41)]]
 </card>
-</card-columns>
-
+</masonry>
+*/
 
   ; [[books:bg:10:1|Bg 10.1]]
   : The Supreme Lord said: My dear friend, mighty-armed Arjuna, listen again to My supreme word, which I shall impart to you for your benefit and which will give you great joy.

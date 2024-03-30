@@ -2,6 +2,7 @@
 {
     "name":"NBS 7",
     "h1":"Sūtra 7",
+    "label":"Sūtra 7",
     "title":"Nārada-bhakti-sūtra 7",
     "description":""
 }

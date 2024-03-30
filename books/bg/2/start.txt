@@ -10,7 +10,8 @@
 
 ====== Contents of the Gītā Summarized ======
 
-<card-columns>
+/*
+<masonry>
 <card>
 {{ books:bg:plate07.jpg?500&nolink |}}
 Plate 7 --- The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]
@@ -30,7 +31,8 @@ Plate 10 --- Kṛṣṇa and the living entity are seated on the tree of the bod
 <card>
 {{ books:bg:plate11.jpg?500&nolink |}}
 </card>
-</card-columns>
+</masonry>
+*/
 
 
   ; [[books:bg:2:1|Bg 2.1]]

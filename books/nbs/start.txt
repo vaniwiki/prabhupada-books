@@ -2,6 +2,7 @@
 {
     "name":"Nārada-bhakti-sūtra",
     "h1":"Nārada-bhakti-sūtra",
+    "label":"Nārada-bhakti-sūtra",
     "title":"Nārada-bhakti-sūtra",
     "description":""
 }

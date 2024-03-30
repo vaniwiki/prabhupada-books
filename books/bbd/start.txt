@@ -2,14 +2,13 @@
 {
   "name":"Beyond Birth & Death",
   "h1":"Beyond Birth & Death",
+  "label":"Beyond Birth & Death",
   "title":"Beyond Birth & Death",
   "description":"\"Beyond Birth and Death\" is a profound book written by Srila Prabhupada, the founder-acharya of the International Society for Krishna Consciousness (ISKCON). In this book, Srila Prabhupada explores the concept of life beyond the cycle of birth and death. He explains that we are eternal spirit souls, distinct from our temporary material bodies. Through the teachings of the Bhagavad-gita and Vedic scriptures, Srila Prabhupada reveals the science of reincarnation and offers insights on how to transcend the cycle of birth and death. \"Beyond Birth and Death\" provides a thought-provoking perspective on the purpose of life and the eternal nature of the soul. It is a valuable resource for those seeking spiritual wisdom and a deeper understanding of the self."
 }
 ---
 
 ====== Beyond Birth & Death ======
-
-"Beyond Birth and Death" is a profound book written by Srila Prabhupada, the founder-acharya of the International Society for Krishna Consciousness (ISKCON). In this book, Srila Prabhupada explores the concept of life beyond the cycle of birth and death. He explains that we are eternal spirit souls, distinct from our temporary material bodies. Through the teachings of the Bhagavad-gita and Vedic scriptures, Srila Prabhupada reveals the science of reincarnation and offers insights on how to transcend the cycle of birth and death. "Beyond Birth and Death" provides a thought-provoking perspective on the purpose of life and the eternal nature of the soul. It is a valuable resource for those seeking spiritual wisdom and a deeper understanding of the self.
 
 <card line-spacing="lg">
 <header>Table of contents</header>
@@ -21,3 +20,5 @@
   - [[books:bbd:5|Associating with Kṛṣṇa]]
 
 </card>
+
+"Beyond Birth and Death" is a profound book written by Srila Prabhupada, the founder-acharya of the International Society for Krishna Consciousness (ISKCON). In this book, Srila Prabhupada explores the concept of life beyond the cycle of birth and death. He explains that we are eternal spirit souls, distinct from our temporary material bodies. Through the teachings of the Bhagavad-gita and Vedic scriptures, Srila Prabhupada reveals the science of reincarnation and offers insights on how to transcend the cycle of birth and death. "Beyond Birth and Death" provides a thought-provoking perspective on the purpose of life and the eternal nature of the soul. It is a valuable resource for those seeking spiritual wisdom and a deeper understanding of the self.

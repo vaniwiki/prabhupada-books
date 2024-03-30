@@ -10,14 +10,16 @@
 
 ====== The Three Modes Of Material Nature ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_14_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 14}}
 
-<card-columns>
+<masonry>
 <card>
 {{ :books:bg:plate34.jpg?500x500 |}}
 Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
 </card>
-</card-columns>
+</masonry>
+*/
 
 
   ; [[books:bg:14:1|Bg 14.1]]

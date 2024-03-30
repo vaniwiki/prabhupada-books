@@ -10,9 +10,10 @@
 
 ====== Conclusion — The Perfection of Renunciation ======
 
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_18_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 18}}
 
-<card-columns>
+<masonry>
 <card>
 {{ :books:bg:plate41.jpg?500x500 |}}
 Plate 41 --- The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. [[books:bg:18:13-14|(Bg. 18.13-14)]]
@@ -29,7 +30,8 @@ Plate 43 --- “Always think of Me and become My devotee. Worship Me and offer y
 {{ :books:bg:plate44.jpg?500x500 |}}
 Plate 44 --- “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” [[books:bg:18:72|(Bg. 18.72)]]
 </card>
-</card-columns>
+</masonry>
+*/
 
 
   ; [[books:bg:18:1|Bg 18.1]]

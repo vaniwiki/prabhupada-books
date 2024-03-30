@@ -49,6 +49,7 @@ This edition of the work presents this knowledge as it was originally handed dow
 
 /*
 ===== Setting the scene =====
+/*
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 */
 
@@ -64,7 +65,7 @@ This edition of the work presents this knowledge as it was originally handed dow
 
 ===== Reviews =====
 
-<card-columns>
+<masonry>
 <blockquote>“No work in all Indian literature is more quoted, because none is better loved, in the West, than the Bhagavad-gītā. Translation of such a work demands not only knowledge of Sanskrit, but an inward sympathy with the theme and a verbal artistry. For the poem is a symphony in which God is seen in all things. ... The Swami does a real service for students by investing the beloved Indian epic with fresh meaning. Whatever our outlook may be, we should all be grateful for the labor that has lead to this illuminating work.”
 <cite>Dr. Geddes MacGregor, Emeritus Distinguished Professor of Philosophy,\\ University of Southern California</cite></blockquote>
 
@@ -108,4 +109,5 @@ This edition of the work presents this knowledge as it was originally handed dow
 
 <blockquote>“I can say that in the Bhagavad-gītā As It Is I have found explanations and answers to questions I had always posed regarding the interpretations of this sacred work, whose spiritual discipline I greatly admire. If the aesceticism and ideal of the apostles which form the message of the Bhagavad-gītā As It Is were more widespread and more respected, the world in which we live would be transformed into a better, more fraternal place.”
 <cite>Dr. Paul Lesourd, Author, Professeur Honoraire,\\ Catholic University of Paris</cite></blockquote>
-</card-columns>
+</masonry>
+*/

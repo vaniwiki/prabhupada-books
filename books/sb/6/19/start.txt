@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.19: Performing the Puṁsavana Ritualistic Ceremony",
-    "h1":"Chapter 19",
+    "label":"Chapter 19",
+    "h1":"Performing the Puṁsavana Ritualistic Ceremony",
     "title":"SB 6.19: Performing the Puṁsavana Ritualistic Ceremony",
-    "description":""
+    "description":"This chapter explains how Diti, Kaśyapa Muni's wife, executed Kaśyapa Muni's instructions on devotional service."
 }
 ---
 

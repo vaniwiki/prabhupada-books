@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.9: The Lord Incarnates as Mohinī-Mūrti",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"The Lord Incarnates as Mohinī-Mūrti",
     "title":"SB 8.9: The Lord Incarnates as Mohinī-Mūrti",
-    "description":""
+    "description":"This chapter describes how the demons, being enchanted by the beauty of the Mohinī form, agreed to hand over the container of nectar to Mohinīdevī, who tactfully delivered it to the demigods."
 }
 ---
 

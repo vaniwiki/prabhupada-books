@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.10: The Pastimes of the Supreme Lord, Rāmacandra",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"The Pastimes of the Supreme Lord, Rāmacandra",
     "title":"SB 9.10: The Pastimes of the Supreme Lord, Rāmacandra",
-    "description":""
+    "description":"This Tenth Chapter describes how Lord Rāmacandra appeared in the dynasty of Mahārāja Khaṭvāṅga. It also describes the Lord's activities, telling how He killed Rāvaṇa and returned to Ayodhyā, the capital of His kingdom."
 }
 ---
 

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.1: Genealogical Table of the Daughters of Manu",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"Genealogical Table of the Daughters of Manu",
     "title":"SB 4.1: Genealogical Table of the Daughters of Manu",
     "description":""
 }

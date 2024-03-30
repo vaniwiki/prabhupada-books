@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.19: The Killing of the Demon Hiraṇyākṣa",
-    "h1":"Chapter 19",
+    "label":"Chapter 19",
+    "h1":"The Killing of the Demon Hiraṇyākṣa",
     "title":"SB 3.19: The Killing of the Demon Hiraṇyākṣa",
     "description":""
 }

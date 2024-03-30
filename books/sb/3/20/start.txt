@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.20: Conversation Between Maitreya and Vidura",
-    "h1":"Chapter 20",
+    "label":"Chapter 20",
+    "h1":"Conversation Between Maitreya and Vidura",
     "title":"SB 3.20: Conversation Between Maitreya and Vidura",
     "description":""
 }

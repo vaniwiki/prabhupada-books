@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.2: The Activities of Mahārāja Āgnīdhra",
-    "h1":"Chapter 2",
+    "label":"Chapter 2",
+    "h1":"The Activities of Mahārāja Āgnīdhra",
     "title":"SB 5.2: The Activities of Mahārāja Āgnīdhra",
-    "description":""
+    "description":"In this chapter, the character of Mahārāja Āgnīdhra is described."
 }
 ---
 

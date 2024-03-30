@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.21: Instructions by Mahārāja Pṛthu",
-    "h1":"Chapter 21",
+    "label":"Chapter 21",
+    "h1":"Instructions by Mahārāja Pṛthu",
     "title":"SB 4.21: Instructions by Mahārāja Pṛthu",
     "description":""
 }

@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.1: The Advent of Lord Kṛṣṇa: Introduction",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The Advent of Lord Kṛṣṇa: Introduction",
     "title":"SB 10.1: The Advent of Lord Kṛṣṇa: Introduction",
-    "description":""
+    "description":"The summary of the First Chapter is as follows. This chapter describes how Kaṁsa, frightened by hearing an omen about his being killed by the eighth son of Devakī, killed Devakī's sons one after another."
 }
 ---
 

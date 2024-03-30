@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.11: Lord Rāmacandra Rules the World",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"Lord Rāmacandra Rules the World",
     "title":"SB 9.11: Lord Rāmacandra Rules the World",
-    "description":""
+    "description":"This chapter describes how Lord Rāmacandra resided in Ayodhyā with His younger brothers and performed various sacrifices."
 }
 ---
 

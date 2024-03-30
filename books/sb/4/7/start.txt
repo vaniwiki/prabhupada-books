@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.7: The Sacrifice Performed by Dakṣa",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"The Sacrifice Performed by Dakṣa",
     "title":"SB 4.7: The Sacrifice Performed by Dakṣa",
     "description":""
 }

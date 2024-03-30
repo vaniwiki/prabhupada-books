@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.16: The Two Doorkeepers of Vaikuṇṭha, Jaya and Vijaya, Cursed by the Sages",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"The Two Doorkeepers of Vaikuṇṭha, Jaya and Vijaya, Cursed by the Sages",
     "title":"SB 3.16: The Two Doorkeepers of Vaikuṇṭha, Jaya and Vijaya, Cursed by the Sages",
     "description":""
 }

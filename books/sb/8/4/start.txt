@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.4: Gajendra Returns to the Spiritual World",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"Gajendra Returns to the Spiritual World",
     "title":"SB 8.4: Gajendra Returns to the Spiritual World",
-    "description":""
+    "description":"This Fourth Chapter describes the previous birth of Gajendra and the crocodile. It tells how the crocodile became a Gandharva and how Gajendra became an associate of the Supreme Personality of Godhead."
 }
 ---
 

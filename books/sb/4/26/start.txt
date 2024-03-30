@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.26: King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry",
-    "h1":"Chapter 26",
+    "label":"Chapter 26",
+    "h1":"King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry",
     "title":"SB 4.26: King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry",
     "description":""
 }

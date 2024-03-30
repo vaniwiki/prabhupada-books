@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.16: King Citraketu Meets the Supreme Lord",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"King Citraketu Meets the Supreme Lord",
     "title":"SB 6.16: King Citraketu Meets the Supreme Lord",
-    "description":""
+    "description":"As related in this chapter, Citraketu was able to talk with his dead son and hear from him the truth of life. When Citraketu was appeased, the great sage Nārada gave him a mantra, and by chanting this mantra Citraketu found shelter at the lotus feet of Saṅkarṣaṇa."
 }
 ---
 

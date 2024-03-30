@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.11: Jaḍa Bharata Instructs King Rahūgaṇa",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"Jaḍa Bharata Instructs King Rahūgaṇa",
     "title":"SB 5.11: Jaḍa Bharata Instructs King Rahūgaṇa",
-    "description":""
+    "description":"In this chapter the brāhmaṇa Jaḍa Bharata instructs Mahārāja Rahūgaṇa in detail."
 }
 ---
 

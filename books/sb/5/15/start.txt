@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.15: The Glories of the Descendants of King Priyavrata",
-    "h1":"Chapter 15",
+    "label":"Chapter 15",
+    "h1":"The Glories of the Descendants of King Priyavrata",
     "title":"SB 5.15: The Glories of the Descendants of King Priyavrata",
-    "description":""
+    "description":"In this chapter the descendants of Bharata Mahārāja and many other kings are described."
 }
 ---
 

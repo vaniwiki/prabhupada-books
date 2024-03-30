@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.5: Lord Ṛṣabhadeva’s Teachings to His Sons",
-    "h1":"Chapter 5",
+    "label":"Chapter 5",
+    "h1":"Lord Ṛṣabhadeva’s Teachings to His Sons",
     "title":"SB 5.5: Lord Ṛṣabhadeva’s Teachings to His Sons",
-    "description":""
+    "description":"In this chapter there is a description of bhāgavata-dharma, religious principles in devotional service that transcend religious principles for liberation and the mitigation of material misery."
 }
 ---
 

@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.15: The Saints Nārada and Aṅgirā Instruct King Citraketu",
-    "h1":"Chapter 15",
+    "label":"Chapter 15",
+    "h1":"The Saints Nārada and Aṅgirā Instruct King Citraketu",
     "title":"SB 6.15: The Saints Nārada and Aṅgirā Instruct King Citraketu",
-    "description":""
+    "description":"In this chapter, Aṅgirā Ṛṣi, along with Nārada, consoles Citraketu as far as possible. Aṅgirā and Nārada Ṛṣi came to relieve the King from excessive lamentation by instructing him about the spiritual significance of life."
 }
 ---
 

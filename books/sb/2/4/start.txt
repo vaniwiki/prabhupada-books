@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.4: The Process of Creation",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"The Process of Creation",
     "title":"SB 2.4: The Process of Creation",
     "description":""
 }

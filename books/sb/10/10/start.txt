@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.10: Deliverance of the Yamala-arjuna Trees",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"Deliverance of the Yamala-arjuna Trees",
     "title":"SB 10.10: Deliverance of the Yamala-arjuna Trees",
-    "description":""
+    "description":"This chapter describes how Kṛṣṇa broke the twin arjuna trees, from which Nalakūvara and Maṇigrīva, the sons of Kuvera, then came out."
 }
 ---
 

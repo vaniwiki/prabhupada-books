@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.3: The Marriage of Sukanyā and Cyavana Muni",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"The Marriage of Sukanyā and Cyavana Muni",
     "title":"SB 9.3: The Marriage of Sukanyā and Cyavana Muni",
-    "description":""
+    "description":"This chapter describes the dynasty of Śaryāti, another son of Manu, and also tells about Sukanyā and Revatī."
 }
 ---
 

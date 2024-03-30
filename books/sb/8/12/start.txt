@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.12: The Mohinī-mūrti Incarnation Bewilders Lord Śiva",
-    "h1":"Chapter 12",
+    "label":"Chapter 12",
+    "h1":"The Mohinī-mūrti Incarnation Bewilders Lord Śiva",
     "title":"SB 8.12: The Mohinī-mūrti Incarnation Bewilders Lord Śiva",
-    "description":""
+    "description":"This chapter describes how Lord Śiva was bewildered upon seeing the beautiful Mohinī-mūrti incarnation of the Supreme Personality of Godhead and how he later came to his senses."
 }
 ---
 

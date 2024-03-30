@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.16: Lord Paraśurāma Destroys the World’s Ruling Class",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"Lord Paraśurāma Destroys the World’s Ruling Class",
     "title":"SB 9.16: Lord Paraśurāma Destroys the World’s Ruling Class",
-    "description":""
+    "description":"When Jamadagni was killed by the sons of Kārtavīryārjuna, as described in this chapter, Paraśurāma rid the entire world of kṣatriyas twenty-one times. This chapter also describes the descendants of Viśvāmitra."
 }
 ---
 

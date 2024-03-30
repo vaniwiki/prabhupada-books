@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.22: The Orbits of the Planets",
-    "h1":"Chapter 22",
+    "label":"Chapter 22",
+    "h1":"The Orbits of the Planets",
     "title":"SB 5.22: The Orbits of the Planets",
-    "description":""
+    "description":"In this chapter the orbits of the planets are described. According to the movements of the moon and other planets, all the inhabitants of the universe are prone to auspicious and inauspicious situations. This is referred to as the influence of the stars."
 }
 ---
 

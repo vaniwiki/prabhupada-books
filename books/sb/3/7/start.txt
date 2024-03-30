@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.7: Further Inquires by Vidura",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"Further Inquires by Vidura",
     "title":"SB 3.7: Further Inquires by Vidura",
     "description":""
 }

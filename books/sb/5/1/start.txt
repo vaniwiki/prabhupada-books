@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.1: The Activities of Mahārāja Priyavrata",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The Activities of Mahārāja Priyavrata",
     "title":"SB 5.1: The Activities of Mahārāja Priyavrata",
-    "description":""
+    "description":"This chapter describes how King Priyavrata enjoyed royal opulence and majesty and then returned to full knowledge."
 }
 ---
 

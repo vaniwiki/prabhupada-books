@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.19: A Description of the Island of Jambūdvīpa",
-    "h1":"Chapter 19",
+    "label":"Chapter 19",
+    "h1":"A Description of the Island of Jambūdvīpa",
     "title":"SB 5.19: A Description of the Island of Jambūdvīpa",
-    "description":""
+    "description":"This chapter describes the glories of Bhārata-varṣa, and it also describes how Lord Rāmacandra is being worshiped in the tract of land known as Kimpuruṣa-varṣa."
 }
 ---
 

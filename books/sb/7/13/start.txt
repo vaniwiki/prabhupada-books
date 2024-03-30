@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.13: The Behavior of a Perfect Person",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"The Behavior of a Perfect Person",
     "title":"SB 7.13: The Behavior of a Perfect Person",
-    "description":""
+    "description":"This Thirteenth Chapter describes the regulative principles for sannyāsīs and also describes the history of an avadhūta. It concludes with a description of perfection for the student in spiritual advancement."
 }
 ---
 

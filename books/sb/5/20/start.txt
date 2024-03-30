@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.20: Studying the Structure of the Universe",
-    "h1":"Chapter 20",
+    "label":"Chapter 20",
+    "h1":"Studying the Structure of the Universe",
     "title":"SB 5.20: Studying the Structure of the Universe",
-    "description":""
+    "description":"In this chapter there is a description of various islands, beginning with Plakṣadvīpa, and the oceans that surround them. There is also a description of the location and dimensions of the mountain known as Lokāloka."
 }
 ---
 

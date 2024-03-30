@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.1: The Manus, Administrators of the Universe",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The Manus, Administrators of the Universe",
     "title":"SB 8.1: The Manus, Administrators of the Universe",
-    "description":""
+    "description":"This First Chapter of the Eighth Canto may be summarized as a description of four Manus, namely Svāyambhuva, Svārociṣa, Uttama and Tāmasa."
 }
 ---
 

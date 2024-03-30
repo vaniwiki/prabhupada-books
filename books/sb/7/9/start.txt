@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.9: Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers",
     "title":"SB 7.9: Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers",
-    "description":""
+    "description":"As related in this chapter, Prahlāda Mahārāja, following the order of Lord Brahmā, pacified the Lord when the Lord was extremely angry after having killed Hiraṇyakaśipu."
 }
 ---
 

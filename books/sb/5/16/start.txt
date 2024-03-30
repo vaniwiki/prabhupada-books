@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.16: A Description of Jambūdvīpa",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"A Description of Jambūdvīpa",
     "title":"SB 5.16: A Description of Jambūdvīpa",
-    "description":""
+    "description":"While describing the character of Mahārāja Priyavrata and his descendants, Śukadeva Gosvāmī also described Meru Mountain and the planetary system known as Bhū-maṇḍala."
 }
 ---
 

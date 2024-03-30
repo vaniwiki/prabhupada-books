@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.5: Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu",
-    "h1":"Chapter 5",
+    "label":"Chapter 5",
+    "h1":"Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu",
     "title":"SB 7.5: Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu",
-    "description":""
+    "description":"Prahlāda Mahārāja did not carry out the orders of his teachers, for he was always engaged in worshiping Lord Viṣṇu. As described in this chapter, Hiraṇyakaśipu tried to kill Prahlāda Mahārāja, even by having a snake bite him and by putting him under the feet of elephants, yet he was unsuccessful."
 }
 ---
 

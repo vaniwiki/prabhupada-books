@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.4: Ambarīṣa Mahārāja Offended by Durvāsā Muni",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"Ambarīṣa Mahārāja Offended by Durvāsā Muni",
     "title":"SB 9.4: Ambarīṣa Mahārāja Offended by Durvāsā Muni",
-    "description":""
+    "description":"This chapter describes the history of Mahārāja Nabhaga, of his son Nābhāga, and of Mahārāja Ambarīṣa."
 }
 ---
 

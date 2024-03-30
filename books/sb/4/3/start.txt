@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.3: Talks Between Lord Śiva and Satī",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"Talks Between Lord Śiva and Satī",
     "title":"SB 4.3: Talks Between Lord Śiva and Satī",
     "description":""
 }

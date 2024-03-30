@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.10: Bhāgavatam Is the Answer to All Questions",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"Bhāgavatam Is the Answer to All Questions",
     "title":"SB 2.10: Bhāgavatam Is the Answer to All Questions",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.10: Dhruva Mahārāja’s Fight With the Yakṣas",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"Dhruva Mahārāja’s Fight With the Yakṣas",
     "title":"SB 4.10: Dhruva Mahārāja’s Fight With the Yakṣas",
     "description":""
 }

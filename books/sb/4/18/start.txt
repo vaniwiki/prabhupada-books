@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.18: Pṛthu Mahārāja Milks the Earth Planet",
-    "h1":"Chapter 18",
+    "label":"Chapter 18",
+    "h1":"Pṛthu Mahārāja Milks the Earth Planet",
     "title":"SB 4.18: Pṛthu Mahārāja Milks the Earth Planet",
     "description":""
 }

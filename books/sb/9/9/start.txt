@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.9: The Dynasty of Aṁśumān",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"The Dynasty of Aṁśumān",
     "title":"SB 9.9: The Dynasty of Aṁśumān",
-    "description":""
+    "description":"This chapter describes the history of the dynasty of Aṁśumān, up to Khaṭvāṅga, and it also describes how Bhagīratha brought the water of the Ganges to this earth."
 }
 ---
 

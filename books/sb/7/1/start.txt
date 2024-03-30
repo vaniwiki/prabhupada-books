@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.1: The Supreme Lord Is Equal to Everyone",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The Supreme Lord Is Equal to Everyone",
     "title":"SB 7.1: The Supreme Lord Is Equal to Everyone",
-    "description":""
+    "description":"In this chapter, in response to a question by Mahārāja Parīkṣit, Śukadeva Gosvāmī gives his conclusions concerning how the Supreme Personality of Godhead, although the Supersoul, friend and protector of everyone, killed the Daityas, the demons, for the sake of Indra, the King of heaven."
 }
 ---
 

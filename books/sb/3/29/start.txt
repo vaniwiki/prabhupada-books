@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.29: Explanation of Devotional Service by Lord Kapila",
-    "h1":"Chapter 29",
+    "label":"Chapter 29",
+    "h1":"Explanation of Devotional Service by Lord Kapila",
     "title":"SB 3.29: Explanation of Devotional Service by Lord Kapila",
     "description":""
 }

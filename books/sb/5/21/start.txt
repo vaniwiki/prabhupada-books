@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.21: The Movements of the Sun",
-    "h1":"Chapter 21",
+    "label":"Chapter 21",
+    "h1":"The Movements of the Sun",
     "title":"SB 5.21: The Movements of the Sun",
-    "description":""
+    "description":"This chapter informs us of the movements of the sun. The sun is not stationary; it is also moving like the other planets."
 }
 ---
 

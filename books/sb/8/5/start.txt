@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.5: The Demigods Appeal to the Lord for Protection",
-    "h1":"Chapter 5",
+    "label":"Chapter 5",
+    "h1":"The Demigods Appeal to the Lord for Protection",
     "title":"SB 8.5: The Demigods Appeal to the Lord for Protection",
-    "description":""
+    "description":"This chapter describes the fifth and sixth Manus, and it also describes the prayers of the demigods and the curse of Durvāsā Muni."
 }
 ---
 

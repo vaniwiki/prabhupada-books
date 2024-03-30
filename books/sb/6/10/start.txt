@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.10: The Battle Between the Demigods and Vṛtrāsura",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"The Battle Between the Demigods and Vṛtrāsura",
     "title":"SB 6.10: The Battle Between the Demigods and Vṛtrāsura",
-    "description":""
+    "description":"As described in this chapter, after Indra obtained the body of Dadhīci, a thunderbolt was prepared from Dadhīci's bones, and a fight took place between Vṛtrāsura and the demigods."
 }
 ---
 

@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.14: King Purūravā Enchanted by Urvaśī",
-    "h1":"Chapter 14",
+    "label":"Chapter 14",
+    "h1":"King Purūravā Enchanted by Urvaśī",
     "title":"SB 9.14: King Purūravā Enchanted by Urvaśī",
-    "description":""
+    "description":"The summary of this Fourteenth Chapter is given as follows. This chapter describes Soma and how he kidnapped the wife of Bṛhaspati and begot in her womb a son named Budha. Budha begot Purūravā, who begot six sons, headed by Āyu, in the womb of Urvaśī."
 }
 ---
 

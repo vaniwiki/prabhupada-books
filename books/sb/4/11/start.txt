@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.11: Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting",
     "title":"SB 4.11: Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting",
     "description":""
 }

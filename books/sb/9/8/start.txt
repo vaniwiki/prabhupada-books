@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.8: The Sons of Sagara Meet Lord Kapiladeva",
-    "h1":"Chapter 8",
+    "label":"Chapter 8",
+    "h1":"The Sons of Sagara Meet Lord Kapiladeva",
     "title":"SB 9.8: The Sons of Sagara Meet Lord Kapiladeva",
-    "description":""
+    "description":"In this Eighth Chapter the descendants of Rohita are described. In the dynasty of Rohita there was a king named Sagara, whose history is described in relation to Kapiladeva and the destruction of the sons of Sagara."
 }
 ---
 

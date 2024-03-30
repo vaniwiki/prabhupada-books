@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.17: Mahārāja Pṛthu Becomes Angry at the Earth",
-    "h1":"Chapter 17",
+    "label":"Chapter 17",
+    "h1":"Mahārāja Pṛthu Becomes Angry at the Earth",
     "title":"SB 4.17: Mahārāja Pṛthu Becomes Angry at the Earth",
     "description":""
 }

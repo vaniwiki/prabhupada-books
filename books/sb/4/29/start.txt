@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.29: Talks Between Nārada and King Prācīnabarhi",
-    "h1":"Chapter 29",
+    "label":"Chapter 29",
+    "h1":"Talks Between Nārada and King Prācīnabarhi",
     "title":"SB 4.29: Talks Between Nārada and King Prācīnabarhi",
     "description":""
 }

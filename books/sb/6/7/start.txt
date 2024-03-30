@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.7: Indra Offends His Spiritual Master, Bṛhaspati",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"Indra Offends His Spiritual Master, Bṛhaspati",
     "title":"SB 6.7: Indra Offends His Spiritual Master, Bṛhaspati",
-    "description":""
+    "description":"As related in this chapter, Indra, the King of heaven, committed an offense at the feet of his spiritual master, Bṛhaspati. Bṛhaspati therefore left the demigods, who then had no priest. However, at the request of the demigods, Viśvarūpa, the son of the brāhmaṇa Tvaṣṭā, became their priest."
 }
 ---
 

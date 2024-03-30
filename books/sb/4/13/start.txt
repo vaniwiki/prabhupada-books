@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.13: Description of the Descendants of Dhruva Mahārāja",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"Description of the Descendants of Dhruva Mahārāja",
     "title":"SB 4.13: Description of the Descendants of Dhruva Mahārāja",
     "description":""
 }

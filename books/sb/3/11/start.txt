@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.11: Calculation of Time, from the Atom",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"Calculation of Time, from the Atom",
     "title":"SB 3.11: Calculation of Time, from the Atom",
     "description":""
 }

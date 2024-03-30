@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.6: Puruṣa-sūkta Confirmed",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"Puruṣa-sūkta Confirmed",
     "title":"SB 2.6: Puruṣa-sūkta Confirmed",
     "description":""
 }

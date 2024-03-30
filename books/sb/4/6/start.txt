@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.6: Brahmā Satisfies Lord Śiva",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"Brahmā Satisfies Lord Śiva",
     "title":"SB 4.6: Brahmā Satisfies Lord Śiva",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.18: The Battle Between Lord Boar and the Demon Hiraṇyākṣa",
-    "h1":"Chapter 18",
+    "label":"Chapter 18",
+    "h1":"The Battle Between Lord Boar and the Demon Hiraṇyākṣa",
     "title":"SB 3.18: The Battle Between Lord Boar and the Demon Hiraṇyākṣa",
     "description":""
 }

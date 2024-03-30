@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.8: Dhruva Mahārāja Leaves Home for the Forest",
-    "h1":"Chapter 8",
+    "label":"Chapter 8",
+    "h1":"Dhruva Mahārāja Leaves Home for the Forest",
     "title":"SB 4.8: Dhruva Mahārāja Leaves Home for the Forest",
     "description":""
 }

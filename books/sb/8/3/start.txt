@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.3: Gajendra’s Prayers of Surrender",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"Gajendra’s Prayers of Surrender",
     "title":"SB 8.3: Gajendra’s Prayers of Surrender",
-    "description":""
+    "description":"In this chapter, the prayers by Gajendra, the King of the elephants, are described."
 }
 ---
 

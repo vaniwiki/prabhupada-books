@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.23: The Śiśumāra Planetary Systems",
-    "h1":"Chapter 23",
+    "label":"Chapter 23",
+    "h1":"The Śiśumāra Planetary Systems",
     "title":"SB 5.23: The Śiśumāra Planetary Systems",
-    "description":""
+    "description":"This chapter describes how all the planetary systems take shelter of the polestar, Dhruvaloka."
 }
 ---
 

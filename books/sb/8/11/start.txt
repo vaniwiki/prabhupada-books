@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.11: King Indra Annihilates the Demons",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"King Indra Annihilates the Demons",
     "title":"SB 8.11: King Indra Annihilates the Demons",
-    "description":""
+    "description":"As described in this chapter, the great saint Nārada Muni, being very compassionate to the demons who had been killed by the demigods, forbade the demigods to continue killing. Then Śukrācārya, by his mystic power, renewed the lives of all the demons."
 }
 ---
 

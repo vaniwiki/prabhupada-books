@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.6: The Killing of the Demon Pūtanā",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"The Killing of the Demon Pūtanā",
     "title":"SB 10.6: The Killing of the Demon Pūtanā",
-    "description":""
+    "description":"A summary of the Sixth Chapter is as follows: when Nanda Mahārāja, following the instructions of Vasudeva, was returning home, he saw a great demoniac woman lying on the road, and then he heard about her death."
 }
 ---
 

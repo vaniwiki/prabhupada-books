@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.9: Appearance of the Demon Vṛtrāsura",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"Appearance of the Demon Vṛtrāsura",
     "title":"SB 6.9: Appearance of the Demon Vṛtrāsura",
-    "description":""
+    "description":"As described in this chapter, Indra, the King of heaven, killed Viśvarūpa, and therefore Viśvarūpa's father performed a yajña to kill Indra. When Vṛtrāsura appeared from that yajña, the demigods, in fear, sought shelter of the Supreme Personality of Godhead and glorified Him."
 }
 ---
 

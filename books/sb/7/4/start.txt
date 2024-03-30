@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.4: Hiraṇyakaśipu Terrorizes the Universe",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"Hiraṇyakaśipu Terrorizes the Universe",
     "title":"SB 7.4: Hiraṇyakaśipu Terrorizes the Universe",
-    "description":""
+    "description":"This chapter fully describes how Hiraṇyakaśipu obtained power from Lord Brahmā and misused it by harassing all the living entities within this universe."
 }
 ---
 

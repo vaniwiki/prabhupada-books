@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.16: Praise of King Pṛthu by the Professional Reciters",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"Praise of King Pṛthu by the Professional Reciters",
     "title":"SB 4.16: Praise of King Pṛthu by the Professional Reciters",
     "description":""
 }

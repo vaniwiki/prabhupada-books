@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.8: The Nārāyaṇa-kavaca Shield",
-    "h1":"Chapter 8",
+    "label":"Chapter 8",
+    "h1":"The Nārāyaṇa-kavaca Shield",
     "title":"SB 6.8: The Nārāyaṇa-kavaca Shield",
-    "description":""
+    "description":"This chapter describes how Indra, the King of heaven, was victorious over the soldiers of the demons, and it also describes the shield of the Viṣṇu mantra."
 }
 ---
 

@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.13: Description of Future Manus",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"Description of Future Manus",
     "title":"SB 8.13: Description of Future Manus",
-    "description":""
+    "description":"Of the fourteen Manus, six Manus have already been described. Now, this chapter will consecutively describe each Manu from the seventh to the fourteenth."
 }
 ---
 

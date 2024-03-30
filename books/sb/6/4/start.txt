@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.4: The Haṁsa-guhya Prayers",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"The Haṁsa-guhya Prayers",
     "title":"SB 6.4: The Haṁsa-guhya Prayers",
-    "description":""
+    "description":"After Mahārāja Parīkṣit appealed to Śukadeva Gosvāmī to describe in further detail the creation of the living entities within this universe, Śukadeva Gosvāmī informed him that when the Pracetās, the ten sons of Prācīnabarhi, entered the sea to execute austerities, the planet earth was neglected because of the absence of a king."
 }
 ---
 

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.3: Pure Devotional Service: The Change in Heart",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"Pure Devotional Service: The Change in Heart",
     "title":"SB 2.3: Pure Devotional Service: The Change in Heart",
     "description":""
 }

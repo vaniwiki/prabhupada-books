@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.27: Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā",
-    "h1":"Chapter 27",
+    "label":"Chapter 27",
+    "h1":"Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā",
     "title":"SB 4.27: Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā",
     "description":""
 }

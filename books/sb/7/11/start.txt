@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.11: The Perfect Society: Four Social Classes",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"The Perfect Society: Four Social Classes",
     "title":"SB 7.11: The Perfect Society: Four Social Classes",
-    "description":""
+    "description":"This chapter describes the general principles by following which a human being, and specifically one who is interested in advancing in spiritual life, can become perfect."
 }
 ---
 

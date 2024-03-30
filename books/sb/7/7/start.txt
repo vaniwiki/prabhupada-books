@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.7: What Prahlāda Learned in the Womb",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"What Prahlāda Learned in the Womb",
     "title":"SB 7.7: What Prahlāda Learned in the Womb",
-    "description":""
+    "description":"In this chapter, to dissipate the doubts of his class friends, the sons of the demons, Prahlāda Mahārāja states how, within the womb of his mother, he had heard from the mouth of Nārada Muni, who had instructed him in bhāgavata-dharma."
 }
 ---
 

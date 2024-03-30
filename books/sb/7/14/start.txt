@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.14: Ideal Family Life",
-    "h1":"Chapter 14",
+    "label":"Chapter 14",
+    "h1":"Ideal Family Life",
     "title":"SB 7.14: Ideal Family Life",
-    "description":""
+    "description":"This chapter describes the occupational duties of the householder according to the time, the country and the performer."
 }
 ---
 

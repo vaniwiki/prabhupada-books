@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.21: Bali Mahārāja Arrested by the Lord",
-    "h1":"Chapter 21",
+    "label":"Chapter 21",
+    "h1":"Bali Mahārāja Arrested by the Lord",
     "title":"SB 8.21: Bali Mahārāja Arrested by the Lord",
-    "description":""
+    "description":"This chapter describes how Lord Viṣṇu, desiring to advertise the glories of Bali Mahārāja, arrested him for not fulfilling his promise in regard to the Lord's third step."
 }
 ---
 

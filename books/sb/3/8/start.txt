@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.8: Manifestation of Brahmā from Garbhodakaśāyī Viṣṇu",
-    "h1":"Chapter 8",
+    "label":"Chapter 8",
+    "h1":"Manifestation of Brahmā from Garbhodakaśāyī Viṣṇu",
     "title":"SB 3.8: Manifestation of Brahmā from Garbhodakaśāyī Viṣṇu",
     "description":""
 }

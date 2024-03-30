@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.4: The Characteristics of Ṛṣabhadeva, the Supreme Personality of Godhead",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"The Characteristics of Ṛṣabhadeva, the Supreme Personality of Godhead",
     "title":"SB 5.4: The Characteristics of Ṛṣabhadeva, the Supreme Personality of Godhead",
-    "description":""
+    "description":"In this chapter, Ṛṣabhadeva, the son of Mahārāja Nābhi, begot a hundred sons, and during the reign of those sons the world was very happy in all respects."
 }
 ---
 

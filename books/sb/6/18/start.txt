@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.18: Diti Vows to Kill King Indra",
-    "h1":"Chapter 18",
+    "label":"Chapter 18",
+    "h1":"Diti Vows to Kill King Indra",
     "title":"SB 6.18: Diti Vows to Kill King Indra",
-    "description":""
+    "description":"This chapter gives the history of Diti, the wife of Kaśyapa, and how she followed a vow to have a son who would kill Indra. It also describes how Indra attempted to foil her plan by cutting to pieces the son within her womb."
 }
 ---
 

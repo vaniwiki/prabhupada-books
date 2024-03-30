@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.17: The Descent of the River Ganges",
-    "h1":"Chapter 17",
+    "label":"Chapter 17",
+    "h1":"The Descent of the River Ganges",
     "title":"SB 5.17: The Descent of the River Ganges",
-    "description":""
+    "description":"The Seventeenth Chapter describes the origin of the Ganges River and how it flows in and around Ilāvṛta-varṣa. There is also a description of the prayers Lord Śiva offers to Lord Saṅkarṣaṇa, part of the quadruple expansions of the Supreme Personality of Godhead."
 }
 ---
 

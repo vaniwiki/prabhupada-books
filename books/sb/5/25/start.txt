@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.25: The Glories of Lord Ananta",
-    "h1":"Chapter 25",
+    "label":"Chapter 25",
+    "h1":"The Glories of Lord Ananta",
     "title":"SB 5.25: The Glories of Lord Ananta",
-    "description":""
+    "description":"In this chapter, Śukadeva Gosvāmī describes Ananta, the source of Lord Śiva."
 }
 ---
 

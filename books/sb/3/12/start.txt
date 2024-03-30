@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.12: Creation of the Kumāras and Others",
-    "h1":"Chapter 12",
+    "label":"Chapter 12",
+    "h1":"Creation of the Kumāras and Others",
     "title":"SB 3.12: Creation of the Kumāras and Others",
     "description":""
 }

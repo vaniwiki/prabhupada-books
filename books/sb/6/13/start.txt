@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.13: King Indra Afflicted by Sinful Reaction",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"King Indra Afflicted by Sinful Reaction",
     "title":"SB 6.13: King Indra Afflicted by Sinful Reaction",
-    "description":""
+    "description":"This chapter describes Indra's fear at having killed a brāhmaṇa (Vṛtrāsura), and it also describes how he fled and was saved by the grace of Lord Viṣṇu."
 }
 ---
 

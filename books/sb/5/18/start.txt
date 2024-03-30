@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.18: The Prayers Offered to the Lord by the Residents of Jambūdvīpa",
-    "h1":"Chapter 18",
+    "label":"Chapter 18",
+    "h1":"The Prayers Offered to the Lord by the Residents of Jambūdvīpa",
     "title":"SB 5.18: The Prayers Offered to the Lord by the Residents of Jambūdvīpa",
-    "description":""
+    "description":"In this chapter Śukadeva Gosvāmī describes the different varṣas of Jambūdvīpa and the incarnation of the Supreme Lord worshiped in each."
 }
 ---
 

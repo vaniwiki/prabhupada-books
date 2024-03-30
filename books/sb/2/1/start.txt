@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.1: The First Step in God Realization",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The First Step in God Realization",
     "title":"SB 2.1: The First Step in God Realization",
     "description":""
 }

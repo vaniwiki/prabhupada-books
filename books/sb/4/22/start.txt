@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.22: Pṛthu Mahārāja’s Meeting with the Four Kumāras",
-    "h1":"Chapter 22",
+    "label":"Chapter 22",
+    "h1":"Pṛthu Mahārāja’s Meeting with the Four Kumāras",
     "title":"SB 4.22: Pṛthu Mahārāja’s Meeting with the Four Kumāras",
     "description":""
 }

@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.18: Lord Vāmanadeva, the Dwarf Incarnation",
-    "h1":"Chapter 18",
+    "label":"Chapter 18",
+    "h1":"Lord Vāmanadeva, the Dwarf Incarnation",
     "title":"SB 8.18: Lord Vāmanadeva, the Dwarf Incarnation",
-    "description":""
+    "description":"This chapter describes how Lord Vāmanadeva appeared and how He went to the sacrificial arena of Mahārāja Bali, who received Him well and fulfilled His desire by offering Him benedictions."
 }
 ---
 

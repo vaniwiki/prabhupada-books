@@ -1,6 +1,7 @@
 ---json
 {
     "name":"SB 2.1 Invocation",
+    "label":"Invocation",
     "h1":"Invocation",
     "title":" Śrīmad Bhāgavatam 2.1 Invocation",
     "description":"O my Lord, the all-pervading Personality of Godhead, I offer my respectful obeisances unto You."

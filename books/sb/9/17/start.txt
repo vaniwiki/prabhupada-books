@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.17: The Dynasties of the Sons of Purūravā",
-    "h1":"Chapter 17",
+    "label":"Chapter 17",
+    "h1":"The Dynasties of the Sons of Purūravā",
     "title":"SB 9.17: The Dynasties of the Sons of Purūravā",
-    "description":""
+    "description":"Āyu, the eldest son of Purūravā, had five sons. This chapter describes the dynasties of four of them, beginning with Kṣatravṛddha."
 }
 ---
 

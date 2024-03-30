@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.15: Instructions for Civilized Human Beings",
-    "h1":"Chapter 15",
+    "label":"Chapter 15",
+    "h1":"Instructions for Civilized Human Beings",
     "title":"SB 7.15: Instructions for Civilized Human Beings",
-    "description":""
+    "description":"The summary of the Fifteenth Chapter is as follows. In the previous chapter, Śrī Nārada Muni proved the importance of the brāhmaṇa in society. Now, in this chapter, he will show the differences between different grades of brāhmaṇas."
 }
 ---
 

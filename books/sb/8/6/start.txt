@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.6: The Demigods and Demons Declare a Truce",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"The Demigods and Demons Declare a Truce",
     "title":"SB 8.6: The Demigods and Demons Declare a Truce",
-    "description":""
+    "description":"This chapter describes how the Lord appeared before the demigods when they offered Him their prayers. Following the advice of the Supreme Personality of Godhead, the demigods executed a truce with the demons for the purpose of churning nectar from the sea."
 }
 ---
 

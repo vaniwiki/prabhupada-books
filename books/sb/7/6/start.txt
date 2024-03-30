@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.6: Prahlāda Instructs His Demoniac Schoolmates",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"Prahlāda Instructs His Demoniac Schoolmates",
     "title":"SB 7.6: Prahlāda Instructs His Demoniac Schoolmates",
-    "description":""
+    "description":"This chapter describes Prahlāda Mahārāja's instructions to his class friends. In speaking to his friends, who were all sons of demons, Prahlāda Mahārāja stressed that every living entity, especially in human society, must be interested in spiritual realization from the very beginning of life."
 }
 ---
 

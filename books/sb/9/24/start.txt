@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 9.24: Kṛṣṇa the Supreme Personality of Godhead",
-    "h1":"Chapter 24",
+    "label":"Chapter 24",
+    "h1":"Kṛṣṇa the Supreme Personality of Godhead",
     "title":"SB 9.24: Kṛṣṇa the Supreme Personality of Godhead",
     "description":""
 }

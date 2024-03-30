@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.19: King Yayāti Achieves Liberation",
-    "h1":"Chapter 19",
+    "label":"Chapter 19",
+    "h1":"King Yayāti Achieves Liberation",
     "title":"SB 9.19: King Yayāti Achieves Liberation",
-    "description":""
+    "description":"This Nineteenth Chapter describes how Mahārāja Yayāti achieved liberation after he recounted the figurative story of the he-goat and she-goat."
 }
 ---
 

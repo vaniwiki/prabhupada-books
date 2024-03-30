@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.3: Hiraṇyakaśipu’s Plan to Become Immortal",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"Hiraṇyakaśipu’s Plan to Become Immortal",
     "title":"SB 7.3: Hiraṇyakaśipu’s Plan to Become Immortal",
-    "description":""
+    "description":"This chapter describes how Hiraṇyakaśipu performed a severe type of austerity for material benefit, thus causing great distress throughout the universe. Even Lord Brahmā, the chief personality within this universe, became somewhat disturbed and personally went to see why Hiraṇyakaśipu was engaged in such a severe austerity."
 }
 ---
 

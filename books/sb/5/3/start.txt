@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.3: Ṛṣabhadeva’s Appearance in the Womb of Merudevī, the Wife of King Nābhi",
-    "h1":"Chapter 3",
+    "label":"Chapter 3",
+    "h1":"Ṛṣabhadeva’s Appearance in the Womb of Merudevī, the Wife of King Nābhi",
     "title":"SB 5.3: Ṛṣabhadeva’s Appearance in the Womb of Merudevī, the Wife of King Nābhi",
-    "description":""
+    "description":"In this chapter the spotless character of King Nābhi, the oldest son of Āgnīdhra, is described."
 }
 ---
 

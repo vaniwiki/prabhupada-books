@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.7: Lord Śiva Saves the Universe by Drinking Poison",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"Lord Śiva Saves the Universe by Drinking Poison",
     "title":"SB 8.7: Lord Śiva Saves the Universe by Drinking Poison",
-    "description":""
+    "description":"The summary of the Seventh Chapter is as follows. As described in this chapter, the Supreme Personality of Godhead, appearing in His incarnation as a tortoise, dove deep into the ocean to carry Mandara Mountain on His back. At first the churning of the ocean produced //kālakūṭa// poison. Everyone feared this poison, but Lord Śiva satisfied them by drinking it."
 }
 ---
 

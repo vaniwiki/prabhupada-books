@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.13: The Appearance of Lord Varāha",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"The Appearance of Lord Varāha",
     "title":"SB 3.13: The Appearance of Lord Varāha",
     "description":""
 }

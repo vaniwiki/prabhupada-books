@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.31: Nārada Instructs the Pracetās",
-    "h1":"Chapter 31",
+    "label":"Chapter 31",
+    "h1":"Nārada Instructs the Pracetās",
     "title":"SB 4.31: Nārada Instructs the Pracetās",
     "description":""
 }

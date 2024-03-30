@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.5: The Meeting of Nanda Mahārāja and Vasudeva",
-    "h1":"Chapter 5",
+    "label":"Chapter 5",
+    "h1":"The Meeting of Nanda Mahārāja and Vasudeva",
     "title":"SB 10.5: The Meeting of Nanda Mahārāja and Vasudeva",
-    "description":""
+    "description":"As described in this chapter, Nanda Mahārāja very gorgeously performed the birth ceremony for his newborn child. Then he went to Kaṁsa to pay taxes due and met his intimate friend Vasudeva."
 }
 ---
 

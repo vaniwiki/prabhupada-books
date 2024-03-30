@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.26: A Description of the Hellish Planets",
-    "h1":"Chapter 26",
+    "label":"Chapter 26",
+    "h1":"A Description of the Hellish Planets",
     "title":"SB 5.26: A Description of the Hellish Planets",
-    "description":""
+    "description":"The Twenty-sixth Chapter describes how a sinful man goes to different hells, where he is punished in various ways by the assistants of Yamarāja."
 }
 ---
 

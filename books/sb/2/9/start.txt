@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.9: Answers by Citing the Lord’s Version",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"Answers by Citing the Lord’s Version",
     "title":"SB 2.9: Answers by Citing the Lord’s Version",
     "description":""
 }

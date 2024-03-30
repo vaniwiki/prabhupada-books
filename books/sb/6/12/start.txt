@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.12: Vṛtrāsura’s Glorious Death",
-    "h1":"Chapter 12",
+    "label":"Chapter 12",
+    "h1":"Vṛtrāsura’s Glorious Death",
     "title":"SB 6.12: Vṛtrāsura’s Glorious Death",
-    "description":""
+    "description":"This chapter describes how Indra, the King of heaven, killed Vṛtrāsura despite great reluctance."
 }
 ---
 

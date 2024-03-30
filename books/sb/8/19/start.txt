@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.19: Lord Vāmanadeva Begs Charity from Bali Mahārāja",
-    "h1":"Chapter 19",
+    "label":"Chapter 19",
+    "h1":"Lord Vāmanadeva Begs Charity from Bali Mahārāja",
     "title":"SB 8.19: Lord Vāmanadeva Begs Charity from Bali Mahārāja",
-    "description":""
+    "description":"This Nineteenth Chapter describes how Lord Vāmanadeva asked for three paces of land in charity, how Bali Mahārāja agreed to His proposal, and how Śukrācārya forbade Bali Mahārāja to fulfill Lord Vāmanadeva's request."
 }
 ---
 

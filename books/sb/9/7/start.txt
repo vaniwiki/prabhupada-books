@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.7: The Descendants of King Māndhātā",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"The Descendants of King Māndhātā",
     "title":"SB 9.7: The Descendants of King Māndhātā",
-    "description":""
+    "description":"In this chapter the descendants of King Māndhātā are described, and in this connection the histories of Purukutsa and Hariścandra are also given."
 }
 ---
 

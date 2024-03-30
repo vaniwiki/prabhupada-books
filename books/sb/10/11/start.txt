@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.11: The Childhood Pastimes of Kṛṣṇa",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"The Childhood Pastimes of Kṛṣṇa",
     "title":"SB 10.11: The Childhood Pastimes of Kṛṣṇa",
-    "description":""
+    "description":"This chapter describes how the inhabitants of Gokula left Gokula and went to Vṛndāvana and how Kṛṣṇa killed Vatsāsura and Bakāsura."
 }
 ---
 

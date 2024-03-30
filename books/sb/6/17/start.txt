@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.17: Mother Pārvatī Curses Citraketu",
-    "h1":"Chapter 17",
+    "label":"Chapter 17",
+    "h1":"Mother Pārvatī Curses Citraketu",
     "title":"SB 6.17: Mother Pārvatī Curses Citraketu",
-    "description":""
+    "description":"The Seventeenth Chapter is summarized as follows. This chapter describes Citraketu's receiving the body of an asura, or demon, because of joking with Lord Śiva."
 }
 ---
 

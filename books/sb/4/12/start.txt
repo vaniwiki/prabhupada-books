@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.12: Dhruva Mahārāja Goes Back to Godhead",
-    "h1":"Chapter 12",
+    "label":"Chapter 12",
+    "h1":"Dhruva Mahārāja Goes Back to Godhead",
     "title":"SB 4.12: Dhruva Mahārāja Goes Back to Godhead",
     "description":""
 }

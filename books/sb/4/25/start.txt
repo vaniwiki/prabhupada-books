@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.25: The Descriptions of the Characteristics of King Purañjana",
-    "h1":"Chapter 25",
+    "label":"Chapter 25",
+    "h1":"The Descriptions of the Characteristics of King Purañjana",
     "title":"SB 4.25: The Descriptions of the Characteristics of King Purañjana",
     "description":""
 }

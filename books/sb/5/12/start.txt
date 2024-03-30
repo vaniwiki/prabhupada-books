@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.12: Conversation Between Mahārāja Rahūgaṇa and Jaḍa Bharata",
-    "h1":"Chapter 12",
+    "label":"Chapter 12",
+    "h1":"Conversation Between Mahārāja Rahūgaṇa and Jaḍa Bharata",
     "title":"SB 5.12: Conversation Between Mahārāja Rahūgaṇa and Jaḍa Bharata",
-    "description":""
+    "description":"Because Mahārāja Rahūgaṇa was still doubtful about his enlightenment, he asked the //brāhmaṇa// Jaḍa Bharata to repeat his instructions and clarify ideas he could not understand. In this chapter, Mahārāja Rahūgaṇa offers his respectful obeisances to Jaḍa Bharata, who was concealing his real position."
 }
 ---
 

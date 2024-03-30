@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.4: The Atrocities of King Kaṁsa",
-    "h1":"Chapter 4",
+    "label":"Chapter 4",
+    "h1":"The Atrocities of King Kaṁsa",
     "title":"SB 10.4: The Atrocities of King Kaṁsa",
-    "description":""
+    "description":"This chapter describes how Kaṁsa, following the advice of his demoniac friends, considered the persecution of small children to be very diplomatic."
 }
 ---
 

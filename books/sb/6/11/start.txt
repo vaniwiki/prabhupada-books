@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.11: The Transcendental Qualities of Vṛtrāsura",
-    "h1":"Chapter 11",
+    "label":"Chapter 11",
+    "h1":"The Transcendental Qualities of Vṛtrāsura",
     "title":"SB 6.11: The Transcendental Qualities of Vṛtrāsura",
-    "description":""
+    "description":"This chapter describes Vṛtrāsura's great qualities."
 }
 ---
 

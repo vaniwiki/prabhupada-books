@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.15: Bali Mahārāja Conquers the Heavenly Planets",
-    "h1":"Chapter 15",
+    "label":"Chapter 15",
+    "h1":"Bali Mahārāja Conquers the Heavenly Planets",
     "title":"SB 8.15: Bali Mahārāja Conquers the Heavenly Planets",
-    "description":""
+    "description":"This chapter describes how Bali, after performing the Viśvajit-yajña, received the benediction of a chariot and various kinds of paraphernalia for war, with which he attacked the King of heaven. All the demigods, being afraid of him, left the heavenly planets and went away, following the instructions of their guru."
 }
 ---
 

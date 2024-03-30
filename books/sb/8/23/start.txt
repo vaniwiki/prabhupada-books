@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.23: The Demigods Regain the Heavenly Planets",
-    "h1":"Chapter 23",
+    "label":"Chapter 23",
+    "h1":"The Demigods Regain the Heavenly Planets",
     "title":"SB 8.23: The Demigods Regain the Heavenly Planets",
-    "description":""
+    "description":"This chapter describes how Bali Mahārāja, along with his grandfather Prahlāda Mahārāja, entered the planet Sutala and how the Supreme Personality of Godhead allowed Indra to reenter the heavenly planet."
 }
 ---
 

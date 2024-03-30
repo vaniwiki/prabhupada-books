@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.1: The History of the Life of Ajāmila",
-    "h1":"Chapter 1",
+    "label":"Chapter 1",
+    "h1":"The History of the Life of Ajāmila",
     "title":"SB 6.1: The History of the Life of Ajāmila",
-    "description":""
+    "description":"Throughout Śrīmad-Bhāgavatam there are descriptions of ten subject matters, including creation, subsequent creation and the planetary systems. Śukadeva Gosvāmī, the speaker of Śrīmad-Bhāgavatam, has already described creation, subsequent creation and the planetary systems in the Third, Fourth and Fifth Cantos. Now, in this Sixth Canto, which consists of nineteen chapters, he will describe poṣaṇa, or protection by the Lord."
 }
 ---
 

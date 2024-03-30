@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 5.13: Further Talks Between King Rahūgaṇa and Jaḍa Bharata",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"Further Talks Between King Rahūgaṇa and Jaḍa Bharata",
     "title":"SB 5.13: Further Talks Between King Rahūgaṇa and Jaḍa Bharata",
-    "description":""
+    "description":"The brāhmaṇa Jaḍa Bharata became very kind to King Rahūgaṇa, and to disassociate him from the material world, he spoke figuratively of the forest of the material world."
 }
 ---
 

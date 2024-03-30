@@ -1,9 +1,11 @@
 ---json
 {
     "name":"SB 10.7: The Killing of the Demon Tṛṇāvarta",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"The Killing of the Demon Tṛṇāvarta",
     "title":"SB 10.7: The Killing of the Demon Tṛṇāvarta",
-    "description":""
+    "description":"In this chapter, Śrī Kṛṣṇa's pastimes of breaking the cart (śakaṭa-bhañjana), killing the asura known as Tṛṇāvarta, and demonstrating the entire universe within His mouth are especially described.
+"
 }
 ---
 

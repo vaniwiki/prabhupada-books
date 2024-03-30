@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.24: Matsya, the Lord’s Fish Incarnation",
-    "h1":"Chapter 24",
+    "label":"Chapter 24",
+    "h1":"Matsya, the Lord’s Fish Incarnation",
     "title":"SB 8.24: Matsya, the Lord’s Fish Incarnation",
-    "description":""
+    "description":"This chapter describes the Supreme Personality of Godhead's incarnation as a fish, and it also describes the saving of Mahārāja Satyavrata from an inundation."
 }
 ---
 

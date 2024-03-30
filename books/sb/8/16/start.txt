@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.16: Executing the Payo-vrata Process of Worship",
-    "h1":"Chapter 16",
+    "label":"Chapter 16",
+    "h1":"Executing the Payo-vrata Process of Worship",
     "title":"SB 8.16: Executing the Payo-vrata Process of Worship",
-    "description":""
+    "description":"As described in this chapter, because Aditi, the mother of the demigods, was very afflicted, her husband, Kaśyapa Muni, told her how to observe vows in austerities for the benefit of her sons."
 }
 ---
 

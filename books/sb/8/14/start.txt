@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 8.14: The System of Universal Management",
-    "h1":"Chapter 14",
+    "label":"Chapter 14",
+    "h1":"The System of Universal Management",
     "title":"SB 8.14: The System of Universal Management",
-    "description":""
+    "description":"This chapter describes the duties allotted to Manu by the Supreme Personality of Godhead. All the Manus, as well as their sons, the sages, the demigods and the Indras, act under the orders of various incarnations of the Supreme Personality of Godhead."
 }
 ---
 

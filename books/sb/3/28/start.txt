@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.28: Kapila’s Instructions on the Execution of Devotional Service",
-    "h1":"Chapter 28",
+    "label":"Chapter 28",
+    "h1":"Kapila’s Instructions on the Execution of Devotional Service",
     "title":"SB 3.28: Kapila’s Instructions on the Execution of Devotional Service",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.14: The Story of King Vena",
-    "h1":"Chapter 14",
+    "label":"Chapter 14",
+    "h1":"The Story of King Vena",
     "title":"SB 4.14: The Story of King Vena",
     "description":""
 }

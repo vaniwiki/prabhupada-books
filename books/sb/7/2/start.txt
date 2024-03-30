@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.2: Hiraṇyakaśipu, King of the Demons",
-    "h1":"Chapter 2",
+    "label":"Chapter 2",
+    "h1":"Hiraṇyakaśipu, King of the Demons",
     "title":"SB 7.2: Hiraṇyakaśipu, King of the Demons",
-    "description":""
+    "description":"As described in this chapter, after the annihilation of Hiraṇyākṣa, Hiraṇyākṣa's sons and his brother Hiraṇyakaśipu were very much aggrieved. Hiraṇyakaśipu reacted very sinfully by trying to diminish the religious activities of people in general. However, he instructed his nephews about a history just to diminish their aggrievement."
 }
 ---
 

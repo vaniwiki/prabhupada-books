@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 7.10: Prahlāda, the Best Among Exalted Devotees",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"Prahlāda, the Best Among Exalted Devotees",
     "title":"SB 7.10: Prahlāda, the Best Among Exalted Devotees",
-    "description":""
+    "description":"This chapter describes how the Supreme Personality of Godhead Nṛsiṁhadeva disappeared, after pleasing Prahlāda Mahārāja. It also describes a benediction given by Lord Śiva."
 }
 ---
 

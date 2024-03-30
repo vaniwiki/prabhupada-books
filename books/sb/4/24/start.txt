@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.24: Chanting the Song Sung by Lord Śiva",
-    "h1":"Chapter 24",
+    "label":"Chapter 24",
+    "h1":"Chanting the Song Sung by Lord Śiva",
     "title":"SB 4.24: Chanting the Song Sung by Lord Śiva",
     "description":""
 }

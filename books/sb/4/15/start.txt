@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.15: King Pṛthu’s Appearance and Coronation",
-    "h1":"Chapter 15",
+    "label":"Chapter 15",
+    "h1":"King Pṛthu’s Appearance and Coronation",
     "title":"SB 4.15: King Pṛthu’s Appearance and Coronation",
     "description":""
 }

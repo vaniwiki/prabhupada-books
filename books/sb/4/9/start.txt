@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.9: Dhruva Mahārāja Returns Home",
-    "h1":"Chapter 9",
+    "label":"Chapter 9",
+    "h1":"Dhruva Mahārāja Returns Home",
     "title":"SB 4.9: Dhruva Mahārāja Returns Home",
     "description":""
 }

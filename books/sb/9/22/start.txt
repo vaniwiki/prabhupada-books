@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.22: The Descendants of Ajamīḍha",
-    "h1":"Chapter 22",
+    "label":"Chapter 22",
+    "h1":"The Descendants of Ajamīḍha",
     "title":"SB 9.22: The Descendants of Ajamīḍha",
-    "description":""
+    "description":"This chapter describes the descendants of Divodāsa. It also describes Jarāsandha, who belonged to the Ṛkṣa dynasty, as well as Duryodhana, Arjuna and others."
 }
 ---
 

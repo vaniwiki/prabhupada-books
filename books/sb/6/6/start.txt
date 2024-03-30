@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 6.6: The Progeny of the Daughters of Dakṣa",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"The Progeny of the Daughters of Dakṣa",
     "title":"SB 6.6: The Progeny of the Daughters of Dakṣa",
-    "description":""
+    "description":"As described in this chapter, Prajāpati Dakṣa begot sixty daughters in the womb of his wife Asiknī. These daughters were given in charity to various persons to increase the population."
 }
 ---
 

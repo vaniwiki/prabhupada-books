@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 9.6: The Downfall of Saubhari Muni",
-    "h1":"Chapter 6",
+    "label":"Chapter 6",
+    "h1":"The Downfall of Saubhari Muni",
     "title":"SB 9.6: The Downfall of Saubhari Muni",
-    "description":""
+    "description":"After describing the descendants of Mahārāja Ambarīṣa, Śukadeva Gosvāmī described all the kings from Śaśāda to Māndhātā, and in this connection he also described how the great sage Saubhari married the daughters of Māndhātā."
 }
 ---
 

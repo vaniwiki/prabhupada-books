@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 4.28: Purañjana Becomes a Woman in the Next Life",
-    "h1":"Chapter 28",
+    "label":"Chapter 28",
+    "h1":"Purañjana Becomes a Woman in the Next Life",
     "title":"SB 4.28: Purañjana Becomes a Woman in the Next Life",
     "description":""
 }

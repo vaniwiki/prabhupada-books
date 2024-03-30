@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.7: Scheduled Incarnations with Specific Functions",
-    "h1":"Chapter 7",
+    "label":"Chapter 7",
+    "h1":"Scheduled Incarnations with Specific Functions",
     "title":"SB 2.7: Scheduled Incarnations with Specific Functions",
     "description":""
 }

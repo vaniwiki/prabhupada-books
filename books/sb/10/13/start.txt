@@ -1,9 +1,10 @@
 ---json
 {
     "name":"SB 10.13: The Stealing of the Boys and Calves by Brahmā",
-    "h1":"Chapter 13",
+    "label":"Chapter 13",
+    "h1":"The Stealing of the Boys and Calves by Brahmā",
     "title":"SB 10.13: The Stealing of the Boys and Calves by Brahmā",
-    "description":""
+    "description":"This chapter describes Lord Brahmā's attempt to take away the calves and cowherd boys, and it also describes the bewilderment of Lord Brahmā and finally the clearance of his illusion."
 }
 ---
 

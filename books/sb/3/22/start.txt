@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.22: The Marriage of Kardama Muni and Devahūti",
-    "h1":"Chapter 22",
+    "label":"Chapter 22",
+    "h1":"The Marriage of Kardama Muni and Devahūti",
     "title":"SB 3.22: The Marriage of Kardama Muni and Devahūti",
     "description":""
 }

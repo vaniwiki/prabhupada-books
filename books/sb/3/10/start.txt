@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 3.10: Divisions of the Creation",
-    "h1":"Chapter 10",
+    "label":"Chapter 10",
+    "h1":"Divisions of the Creation",
     "title":"SB 3.10: Divisions of the Creation",
     "description":""
 }

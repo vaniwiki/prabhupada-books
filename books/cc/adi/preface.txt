@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"Preface",
+    "name":"Cc. Preface",
     "h1":"Preface",
+    "label":"Preface",
     "title":"Śrī Caitanya-caritāmṛta Ādi-līlā Preface",
     "description":""
 }

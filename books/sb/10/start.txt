@@ -10,6 +10,9 @@
 
 ====== The Summum Bonum ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   * [[books:sb:10:0|Summary of Śrīmad Bhāgavatam Canto 10]]
 
   1. [[books:sb:10:1:start|The Advent of Lord Kṛṣṇa: Introduction]]
@@ -25,3 +28,5 @@
   11. [[books:sb:10:11:start|The Childhood Pastimes of Kṛṣṇa]]
   12. [[books:sb:10:12:start|The Killing of the Demon Aghāsura]]
   13. [[books:sb:10:13:start|The Stealing of the Boys and Calves by Brahmā]]
+
+</card>

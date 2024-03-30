@@ -12,7 +12,8 @@
 
 Details of the history of the descent of the River Ganges from the celestial realm to the studies of the actual Structure of the Universe as well as other planetary systems according to the Vedic perspective.
 
-===== Table of contents =====
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:sb:5:1:start|The Activities of Mahārāja Priyavrata]]
   - [[books:sb:5:2:start|The Activities of Mahārāja Āgnīdhra]]
@@ -40,3 +41,5 @@ Details of the history of the descent of the River Ganges from the celestial rea
   - [[books:sb:5:24:start|The Subterranean Heavenly Planets]]
   - [[books:sb:5:25:start|The Glories of Lord Ananta]]
   - [[books:sb:5:26:start|A Description of the Hellish Planets]]
+
+</card>

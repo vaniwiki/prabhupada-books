@@ -12,7 +12,8 @@
 
 Personal pastimes involving infamous demigods like Lord Brahma and Lord Siva as well as the transcendental sage and spaceman Narada Muni and his musical vina.
 
-===== Table of contents =====
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:sb:4:1:start|Genealogical Table of the Daughters of Manu]]
   - [[books:sb:4:2:start|Dakṣa Curses Lord Śiva]]
@@ -45,3 +46,5 @@ Personal pastimes involving infamous demigods like Lord Brahma and Lord Siva as 
   - [[books:sb:4:29:start|Talks Between Nārada and King Prācīnabarhi]]
   - [[books:sb:4:30:start|The Activities of the Pracetās]]
   - [[books:sb:4:31:start|Nārada Instructs the Pracetās]]
+
+</card>

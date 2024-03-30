@@ -10,6 +10,9 @@
 
 ====== Canto 9: Liberation ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   - [[books:sb:9:1:start|King Sudyumna Becomes a Woman]]
   - [[books:sb:9:2:start|The Dynasties of the Sons of Manu]]
   - [[books:sb:9:3:start|The Marriage of Sukanyā and Cyavana Muni]]
@@ -34,3 +37,5 @@
   - [[books:sb:9:22:start|The Descendants of Ajamīḍha]]
   - [[books:sb:9:23:start|The Dynasties of the Sons of Yayāti]]
   - [[books:sb:9:24:start|Kṛṣṇa the Supreme Personality of Godhead]]
+
+</card>

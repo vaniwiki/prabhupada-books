@@ -12,7 +12,8 @@
 
 In this canto one finds not only a direct description of the Kingdom of God but also details of the fundamental Principles of the Material Nature and the Glories of Devotional Service, or Bhakti Yoga.
 
-===== Table of contents =====
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:sb:3:1:start|Questions by Vidura]]
   - [[books:sb:3:2:start|Remembrance of Lord Kṛṣṇa]]
@@ -47,3 +48,5 @@ In this canto one finds not only a direct description of the Kingdom of God but 
   - [[books:sb:3:31:start|Lord Kapila's Instructions on the Movements of the Living Entities]]
   - [[books:sb:3:32:start|Entanglement in Fruitive Activities]]
   - [[books:sb:3:33:start|Activities of Kapila]]
+
+</card>

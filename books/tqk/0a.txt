@@ -2,7 +2,8 @@
 {
     "name":"TQK Introduction",
     "h1":"Introduction",
-    "title":"(.*?)",
+    "label":"Introduction",
+    "title":"Teaching of Queen Kunti Introduction",
     "description":""
 }
 ---

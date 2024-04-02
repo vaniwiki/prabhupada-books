@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"“We Are Spoiling Our Lives”",
+    "name":"TTP 2: “We Are Spoiling Our Lives”",
     "h1":"Chapter 2",
-    "title":"(.*?)",
-    "description":""
+    "label":"Chapter 2",
+    "title":"TTP 2: “We Are Spoiling Our Lives”",
+    "description":"Therefore, instead of being very anxious to stimulate our senses to increase material happiness, we should try to attain spiritual happiness by practicing Kṛṣṇa consciousness. As Prahlāda Mahārāja says, \"Although your life in this human body is temporary, it is very valuable. So instead of trying to increase your material sense enjoyment, your duty is to dovetail your activities in some way in Kṛṣṇa consciousness.\""
 }
 ---
 

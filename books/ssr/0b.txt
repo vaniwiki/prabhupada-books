@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Foreword",
+    "name":"SSR Foreword",
     "h1":"Foreword",
-    "title":"SSR Foreword",
+    "label":"Foreword",
+    "title":"Science of Self Realization Foreword",
     "description":"From the very start, I knew that His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda was the most extraordinary person I had ever met. The first meeting occurred in the summer of 1966, in New York City. A friend had invited me to hear a lecture by \"an old Indian svāmī\" on lower Manhattan's Bowery. Overwhelmed with curiosity about a svāmī lecturing on skid row, I went there and felt my way up a pitch-black staircase. A bell-like, rhythmic sound got louder and clearer as I climbed higher. Finally I reached the fourth floor and opened the door, and there he was."
 }
 ---

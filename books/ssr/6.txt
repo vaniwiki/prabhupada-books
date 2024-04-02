@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Finding Spiritual Solutions to Material Problems",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"SSR 6",
+    "h1":"Finding Spiritual Solutions to Material Problems",
+    "label":"Chapter 6",
+    "title":"Science of Self Realization 6: Finding Spiritual Solutions to Material Problems",
     "description":"Every year the world spends more money on crime prevention and control. Yet despite these efforts crime rates are soaring, and notably in American public schools, crime has reached almost uncontrollable levels. In this July 1975 discussion with Lieutenant David Mozee, media relations officer for the Chicago Police Department, Śrīla Prabhupāda proposed an amazingly simple yet practical solution to the seemingly insurmountable problem of crime."
 }
 ---

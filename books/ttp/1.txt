@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"The Dearmost Person",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
-    "description":""
+    "name":"TTP 1: The Dearmost Person",
+    "h1":"The Dearmost Person",
+    "label":"Chapter 1",
+    "title":"TTP 1: The Dearmost Person",
+    "description":"Today I shall speak to you of the history of a boy devotee named Prahlāda Mahārāja. He was born in a family that was stubbornly atheistic. There are two kinds of men in this world: the demons and the demigods. What is the difference between them? The main difference is that the demigods, or godly persons, are devoted to the Supreme Lord, whereas the demons are atheistic. They do not believe in God because they are materialists. These two classes of men always exist in this world. At the present moment, due to the Age of Kali (Age of Quarrel), the number of demons has increased, but the classification has existed since the beginning of creation. The incident I am narrating to you occurred very, very long ago, a few million years after the time of creation."
 }
 ---
 

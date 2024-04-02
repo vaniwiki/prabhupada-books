@@ -11,7 +11,10 @@
 
 What follows is based on a series of talks \\
 Śrīla Prabhupāda gave in 1968 on the \\
-[[books:sb:7:6|Śrīmad-Bhāgavatam, Canto 7, Chapter 6]].
+[[books:sb:7:6:start|Śrīmad-Bhāgavatam, Canto 7, Chapter 6]].
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   - [[books:ttp:1|The Dearmost Person]]
   - [[books:ttp:2|"We Are Spoiling Our Lives"]]
@@ -20,3 +23,4 @@ What follows is based on a series of talks \\
   - [[books:ttp:5|Realizing that God Is Everywhere]]
   - [[books:ttp:6|Kṛṣṇa Consciousness: The Perfection of Mercy]]
   
+</card>

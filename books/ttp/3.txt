@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"Family Illusion",
-    "h1":"Chapter 3",
-    "title":"(.*?)",
-    "description":""
+    "name":"TTP 3: Family Illusion",
+    "h1":"Family Illusion",
+    "label":"Chapter 3",
+    "title":"TTP 3: Family Illusion",
+    "description":"Prahlāda Mahārāja told his friends, \"You have to begin Kṛṣṇa consciousness immediately.\" All the boys were born of atheistic, materialistic families, but fortunately they had the association of Prahlāda, who was a great devotee of the Lord from his birth. Whenever he found an opportunity, when the teacher was out of the classroom, he used to say, \"My dear friends, let's chant Hare Kṛṣṇa; this is the time to begin Kṛṣṇa consciousness.\""
 }
 ---
 

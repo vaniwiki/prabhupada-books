@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"“I Love Kṛṣṇa More Than Anything!”",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
-    "description":""
+    "name":"TTP 4: “I Love Kṛṣṇa More Than Anything!”",
+    "h1":"“I Love Kṛṣṇa More Than Anything!”",
+    "label":"Chapter 4",
+    "title":"TTP 4: “I Love Kṛṣṇa More Than Anything!”",
+    "description":"Now Prahlāda Mahārāja makes a further statement about the complications of material life. He compares the attached householder to the silkworm. The silkworm wraps itself in a cocoon made of its own saliva, until he is in a prison from which he cannot escape. In the same way, a materialistic householder's entanglement becomes so tight that he cannot come out of the cocoon of family attraction. Even though there are so many miseries in materialistic family life, he cannot break free. Why? He thinks that sex life and eating palatable dishes are most important. Therefore, in spite of so many miserable conditions, he cannot give them up."
 }
 ---
 

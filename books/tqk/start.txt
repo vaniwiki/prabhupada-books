@@ -1,4 +1,16 @@
+---json
+{
+    "name":"Teachings of Queen Kuntī",
+    "label":"Teachings of Queen Kuntī",
+    "h1":"Teachings of Queen Kuntī",
+    "title":"Teachings of Queen Kuntī",
+    "description":""
+
+
 ====== Teachings of Queen Kuntī ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   * [[books:tqk:0a|Introduction]]
   - [[books:tqk:1|The Original Person]]
@@ -27,3 +39,5 @@
   - [[books:tqk:24|Cutting Off Ties of Affection]]
   - [[books:tqk:25|Unalloyed Devotion]]
   - [[books:tqk:26|Enchantment by Kṛṣṇa's Glories]]
+
+</card>

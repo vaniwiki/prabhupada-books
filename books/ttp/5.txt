@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"Realizing that God Is Everywhere",
-    "h1":"Chapter 5",
-    "title":"(.*?)",
-    "description":""
+    "name":"TTP 5: Realizing that God Is Everywhere",
+    "h1":"Realizing that God Is Everywhere",
+    "label":"Chapter 5",
+    "title":"TTP 5: Realizing that God Is Everywhere",
+    "description":"Mahārāja Prahlāda informed his classmates about the all-pervasiveness of the Supreme Lord. But although the Supreme Lord is all-pervasive by means of His expansions and His energies, that does not mean He has lost His personality. That is significant. Although He is all-pervading, still He is a person. According to our material perception, if something is all-pervading, then it has no personality, no localized aspect. But God is not like that. For example, the sunshine is all-pervading, but the sun also has a localized aspect, the sun planet, and you can see it. Not only is there a sun planet, but within the sun planet is a sun-god, whose name is Vivasvān. We get this information from Vedic literature. There is no way to understand what is taking place on other planets except to hear from authorized sources. In the modern civilization we accept scientists as authorities in these matters. We hear a scientist say, \"We have seen the moon; it is such and such,\" and we believe it. We have not gone with the scientist to see the moon, but we believe him."
 }
 ---
 

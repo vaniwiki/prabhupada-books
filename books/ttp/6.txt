@@ -1,9 +1,10 @@
 ---json
 {
-    "name":"Kṛṣṇa Consciousness: The Perfection of Mercy",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
-    "description":""
+    "name":"TTP 6: Kṛṣṇa Consciousness: The Perfection of Mercy",
+    "h1":"Kṛṣṇa Consciousness: The Perfection of Mercy",
+    "label":"Chapter 6",
+    "title":"TTP 6: Kṛṣṇa Consciousness: The Perfection of Mercy",
+    "description":"Prahlāda Mahārāja now gives his conclusion: \"My dear friends, because the Supreme Lord is present everywhere and because we are part and parcel of the Supreme Lord, our duty is to be merciful to all living entities.\" When a person is in a lower position, we have a duty to help him. For example, because a small child is helpless, he is dependent on the mercy of the parent: \"Mother, I want this.\" \"Yes, my dear child.\" We should be compassionate to all living entities and should show them mercy."
 }
 ---
 

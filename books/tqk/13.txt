@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Vital Force of the Universe",
-    "h1":"Chapter 13",
-    "title":"(.*?)",
+    "name":"TQK 13",
+    "label":"Chapter 13",
+    "h1":"The Vital Force of the Universe",
+    "title":"Teachings of Queen Kunti 13: The Vital Force of the Universe",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Full Surrender",
-    "h1":"Chapter 20",
-    "title":"(.*?)",
+    "name":"TQK 20",
+    "label":"Chapter 20",
+    "h1":"Full Surrender",
+    "title":"Teachings of Queen Kunti 20: Full Surrender",
     "description":""
 }
 ---

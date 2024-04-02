@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Unalloyed Devotion",
-    "h1":"Chapter 25",
-    "title":"(.*?)",
+    "name":"TQK 25",
+    "label":"Chapter 25",
+    "h1":"Unalloyed Devotion",
+    "title":"Teachings of Queen Kunti 25: Unalloyed Devotion",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Liberation from Ignorance and Suffering",
-    "h1":"Chapter 18",
-    "title":"(.*?)",
+    "name":"TQK 18",
+    "label":"Chapter 18",
+    "h1":"Liberation from Ignorance and Suffering",
+    "title":"Teachings of Queen Kunti 18: Liberation from Ignorance and Suffering",
     "description":""
 }
 ---

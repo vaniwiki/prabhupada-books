@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Bewildering Pastimes",
-    "h1":"Chapter 12",
-    "title":"(.*?)",
+    "name":"TQK 12",
+    "label":"Chapter 12",
+    "h1":"Bewildering Pastimes",
+    "title":"Teachings of Queen Kunti 12: Bewildering Pastimes",
     "description":""
 }
 ---

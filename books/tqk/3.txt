@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Most Intelligent Woman",
-    "h1":"Chapter 3",
-    "title":"(.*?)",
+    "name":"TQK 3",
+    "label":"Chapter 3",
+    "h1":"The Most Intelligent Woman",
+    "title":"Teachings of Queen Kunti 3: The Most Intelligent Woman",
     "description":""
 }
 ---

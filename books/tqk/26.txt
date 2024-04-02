@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Enchantment by Kṛṣṇa’s Glories",
-    "h1":"Chapter 26",
-    "title":"(.*?)",
+    "name":"TQK 26",
+    "label":"Chapter 26",
+    "h1":"Enchantment by Kṛṣṇa’s Glories",
+    "title":"Teachings of Queen Kunti 26: Enchantment by Kṛṣṇa’s Glories",
     "description":""
 }
 ---

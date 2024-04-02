@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Property of the Impoverished",
-    "h1":"Chapter 10",
-    "title":"(.*?)",
+    "name":"TQK 10",
+    "label":"Chapter 10",
+    "h1":"The Property of the Impoverished",
+    "title":"Teachings of Queen Kunti 10: The Property of the Impoverished",
     "description":""
 }
 ---

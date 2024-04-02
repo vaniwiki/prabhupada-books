@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Dangerous Encounters",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"TQK 7",
+    "label":"Chapter 7",
+    "h1":"Dangerous Encounters",
+    "title":"Teachings of Queen Kunti 7: Dangerous Encounters",
     "description":""
 }
 ---

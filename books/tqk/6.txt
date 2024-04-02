@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Master of the Senses",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"TQK 6",
+    "label":"Chapter 6",
+    "h1":"The Master of the Senses",
+    "title":"Teachings of Queen Kunti 6: The Master of the Senses",
     "description":""
 }
 ---

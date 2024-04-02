@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Crossing Beyond Illusion’s Currents",
-    "h1":"Chapter 19",
-    "title":"(.*?)",
+    "name":"TQK 19",
+    "label":"Chapter 19",
+    "h1":"Crossing Beyond Illusion’s Currents",
+    "title":"Teachings of Queen Kunti 19: Crossing Beyond Illusion’s Currents",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Original Person",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
+    "name":"TQK 1",
+    "label":"Chapter 1",
+    "h1":"The Original Person",
+    "title":"Teachings of Queen Kunti 1: The Original Person",
     "description":""
 }
 ---

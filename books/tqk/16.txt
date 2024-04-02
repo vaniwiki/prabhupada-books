@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Returning to Our Natural Consciousness",
-    "h1":"Chapter 16",
-    "title":"(.*?)",
+    "name":"TQK 16",
+    "label":"Chapter 16",
+    "h1":"Returning to Our Natural Consciousness",
+    "title":"Teachings of Queen Kunti 16: Returning to Our Natural Consciousness",
     "description":""
 }
 ---

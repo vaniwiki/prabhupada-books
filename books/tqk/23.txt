@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Natural Prosperity",
-    "h1":"Chapter 23",
-    "title":"(.*?)",
+    "name":"TQK 23",
+    "label":"Chapter 23",
+    "h1":"Natural Prosperity",
+    "title":"Teachings of Queen Kunti 23: Natural Prosperity",
     "description":""
 }
 ---

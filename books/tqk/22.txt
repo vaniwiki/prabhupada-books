@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Beauty in Kṛṣṇa’s Presence",
-    "h1":"Chapter 22",
-    "title":"(.*?)",
+    "name":"TQK 22",
+    "label":"Chapter 22",
+    "h1":"Beauty in Kṛṣṇa’s Presence",
+    "title":"Teachings of Queen Kunti 22: Beauty in Kṛṣṇa’s Presence",
     "description":""
 }
 ---

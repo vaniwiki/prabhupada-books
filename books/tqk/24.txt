@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Cutting Off Ties of Affection",
-    "h1":"Chapter 24",
-    "title":"(.*?)",
+    "name":"TQK 24",
+    "label":"Chapter 24",
+    "h1":"Cutting Off Ties of Affection",
+    "title":"Teachings of Queen Kunti 24: Cutting Off Ties of Affection",
     "description":""
 }
 ---

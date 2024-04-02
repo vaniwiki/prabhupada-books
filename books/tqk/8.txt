@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Let There Be Calamities",
-    "h1":"Chapter 8",
-    "title":"(.*?)",
+    "name":"TQK 8",
+    "label":"Chapter 8",
+    "h1":"Let There Be Calamities",
+    "title":"Teachings of Queen Kunti 8: Let There Be Calamities",
     "description":""
 }
 ---

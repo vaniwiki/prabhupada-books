@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Vision of Lotuses",
-    "h1":"Chapter 5",
-    "title":"(.*?)",
+    "name":"TQK 5",
+    "label":"Chapter 5",
+    "h1":"The Vision of Lotuses",
+    "title":"Teachings of Queen Kunti 5: The Vision of Lotuses",
     "description":""
 }
 ---

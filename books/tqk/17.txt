@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lightening the Burden of the World",
-    "h1":"Chapter 17",
-    "title":"(.*?)",
+    "name":"TQK 17",
+    "label":"Chapter 17",
+    "h1":"Lightening the Burden of the World",
+    "title":"Teachings of Queen Kunti 17: Lightening the Burden of the World",
     "description":""
 }
 ---

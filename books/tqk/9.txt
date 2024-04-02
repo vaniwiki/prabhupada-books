@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Decreasing the Fever of Illusion",
-    "h1":"Chapter 9",
-    "title":"(.*?)",
+    "name":"TQK 9",
+    "label":"Chapter 9",
+    "h1":"Decreasing the Fever of Illusion",
+    "title":"Teachings of Queen Kunti 9: Decreasing the Fever of Illusion",
     "description":""
 }
 ---

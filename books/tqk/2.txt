@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Beyond the Senses",
-    "h1":"Chapter 2",
-    "title":"(.*?)",
+    "name":"TQK 2",
+    "label":"Chapter 2",
+    "h1":"Beyond the Senses",
+    "title":"Teachings of Queen Kunti 2: Beyond the Senses",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Beyond Birth and Death",
-    "h1":"Chapter 15",
-    "title":"(.*?)",
+    "name":"TQK 15",
+    "label":"Chapter 15",
+    "h1":"Beyond Birth and Death",
+    "title":"Teachings of Queen Kunti 15: Beyond Birth and Death",
     "description":""
 }
 ---

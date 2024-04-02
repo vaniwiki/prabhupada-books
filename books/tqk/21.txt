@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"What Is Our Actual Value?",
-    "h1":"Chapter 21",
-    "title":"(.*?)",
+    "name":"TQK 21",
+    "label":"Chapter 21",
+    "h1":"What Is Our Actual Value?",
+    "title":"Teachings of Queen Kunti 21: What Is Our Actual Value?",
     "description":""
 }
 ---

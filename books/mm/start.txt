@@ -10,6 +10,9 @@
 
 ====== Mukunda-mālā-stotra ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   ; [[books:mm:1|Sūtra 1]]
   : O Mukunda, my Lord! Please let me become a constant reciter of Your names, addressing You as Śrī-vallabha ["He who is very dear to Lakṣmī"], Varada ["the bestower of benedictions"], Dayāpara ["He who is causelessly merciful"], Bhakta-priya ["He who is very dear to His devotees"], Bhava-luṇṭhana-kovida ["He who is expert at plundering the status quo of repeated birth and death"], Nātha ["the Supreme Lord"], Jagan-nivāsa ["the resort of the cosmos"], and Nāga-śayana ["the Lord who lies down on the serpent bed"].
 
@@ -27,3 +30,5 @@
 
   ; [[books:mm:6|Sūtra 6]]
   : O Lord, killer of the demon Naraka! Let me reside either in the realm of the demigods, in the world of human beings, or in hell, as You please. I pray only that at the point of death I may remember Your two lotus feet, whose beauty defies that of the lotus growing in the Śarat season.
+
+</card>

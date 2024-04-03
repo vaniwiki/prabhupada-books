@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Devotional Service: The Final Perfection",
-    "h1":"Chapter 18",
-    "title":"Devotional Service: The Final Perfection",
+    "name":"TLK 18",
+    "label":"Chapter 18",
+    "h1":"Devotional Service: The Final Perfection",
+    "title":"Teaching of Lord Kapila 18: Devotional Service: The Final Perfection",
     "description":""
 }
 ---

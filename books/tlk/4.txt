@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Approaching a Bona Fide Guru",
-    "h1":"Chapter 4",
-    "title":"Approaching a Bona Fide Guru",
+    "name":"TLK 4",
+    "label":"Chapter 4",
+    "h1":"Approaching a Bona Fide Guru",
+    "title":"Teaching of Lord Kapila 4: Approaching a Bona Fide Guru",
     "description":""
 }
 ---

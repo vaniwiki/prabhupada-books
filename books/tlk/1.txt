@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Purpose of Lord Kapila’s Advent",
-    "h1":"Chapter 1",
-    "title":"The Purpose of Lord Kapila’s Advent",
+    "name":"TLK 1",
+    "label":"Chapter 1",
+    "h1":"The Purpose of Lord Kapila’s Advent",
+    "title":"Teaching of Lord Kapila 1: The Purpose of Lord Kapila’s Advent",
     "description":""
 }
 ---

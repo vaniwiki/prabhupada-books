@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Bhakti-yoga: The Supreme Yoga System",
-    "h1":"Chapter 8",
-    "title":"Bhakti-yoga: The Supreme Yoga System",
+    "name":"TLK 8",
+    "label":"Chapter 8",
+    "h1":"Bhakti-yoga: The Supreme Yoga System",
+    "title":"Teaching of Lord Kapila 8: Bhakti-yoga: The Supreme Yoga System",
     "description":""
 }
 ---

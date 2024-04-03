@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Spiritual Attachment and Material Detachment",
-    "h1":"Chapter 10",
-    "title":"Spiritual Attachment and Material Detachment",
+    "name":"TLK 10",
+    "label":"Chapter 10",
+    "h1":"Spiritual Attachment and Material Detachment",
+    "title":"Teaching of Lord Kapila 10: Spiritual Attachment and Material Detachment",
     "description":""
 }
 ---

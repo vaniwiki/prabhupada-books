@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Purifying the Mind for Self-realization",
-    "h1":"Chapter 9",
-    "title":"Purifying the Mind for Self-realization",
+    "name":"TLK 9",
+    "label":"Chapter 9",
+    "h1":"Purifying the Mind for Self-realization",
+    "title":"Teaching of Lord Kapila 9: Purifying the Mind for Self-realization",
     "description":""
 }
 ---

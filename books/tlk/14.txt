@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Bhakti as Ultimate Liberation",
-    "h1":"Chapter 14",
-    "title":"Bhakti as Ultimate Liberation",
+    "name":"TLK 14",
+    "label":"Chapter 14",
+    "h1":"Bhakti as Ultimate Liberation",
+    "title":"Teaching of Lord Kapila 14: Bhakti as Ultimate Liberation",
     "description":""
 }
 ---

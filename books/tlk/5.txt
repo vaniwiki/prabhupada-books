@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Kapila Takes Charge of His Mother, Devahuti",
-    "h1":"Chapter 5",
-    "title":"Lord Kapila Takes Charge of His Mother, Devahuti",
+    "name":"TLK 5",
+    "label":"Chapter 5",
+    "h1":"Lord Kapila Takes Charge of His Mother, Devahuti",
+    "title":"Teaching of Lord Kapila 5: Lord Kapila Takes Charge of His Mother, Devahuti",
     "description":""
 }
 ---

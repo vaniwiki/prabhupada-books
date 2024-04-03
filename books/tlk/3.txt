@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"How to Understand the Lord’s Activities",
-    "h1":"Chapter 3",
-    "title":"How to Understand the Lord’s Activities",
+    "name":"TLK 3",
+    "label":"Chapter 3",
+    "h1":"How to Understand the Lord’s Activities",
+    "title":"Teaching of Lord Kapila 3: How to Understand the Lord’s Activities",
     "description":""
 }
 ---

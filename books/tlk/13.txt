@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Association with the Supreme Lord Through Hearing",
-    "h1":"Chapter 13",
-    "title":"Association with the Supreme Lord Through Hearing",
+    "name":"TLK 13",
+    "label":"Chapter 13",
+    "h1":"Association with the Supreme Lord Through Hearing",
+    "title":"Teaching of Lord Kapila 13: Association with the Supreme Lord Through Hearing",
     "description":""
 }
 ---

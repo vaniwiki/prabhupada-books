@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Transcendental Matter and Supreme Yogi",
-    "h1":"Chapter 2",
-    "title":"(.*?)",
+    "name":"TLK 2",
+    "label":"Chapter 2",
+    "h1":"The Transcendental Matter and Supreme Yogi",
+    "title":"Teaching of Lord Kapila 2: The Transcendental Matter and Supreme Yogi",
     "description":""
 }
 ---

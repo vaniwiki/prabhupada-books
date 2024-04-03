@@ -2,12 +2,16 @@
 {
     "name":"TLK",
     "h1":"Teachings of Lord Kapila",
+    "label":"Teachings of Lord Kapila",
     "title":"Teachings of Lord Kapila",
     "description":""
 }
 ---
 
 ====== Teachings of Lord Kapila, the Son of Devahuti ======
+
+<card line-spacing="lg">
+<header>Table of contents</header>
 
   * [[books:tlk:0a|Foreword]]
   - [[books:tlk:1|The Purpose of Lord Kapila's Advent]]
@@ -28,3 +32,5 @@
   - [[books:tlk:16|The Pure Devotees' Spiritual Opulences]]
   - [[books:tlk:17|Taking Shelter of Krsna, the Supreme Controller]]
   - [[books:tlk:18|Devotional Service: The Final Perfection]]
+
+</card>

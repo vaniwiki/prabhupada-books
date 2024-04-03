@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Taking Shelter of Krsna, the Supreme Controller",
-    "h1":"Chapter 17",
-    "title":"Taking Shelter of Krsna, the Supreme Controller",
+    "name":"TLK 17",
+    "label":"Chapter 17",
+    "h1":"Taking Shelter of Krsna, the Supreme Controller",
+    "title":"Teaching of Lord Kapila 17: Taking Shelter of Krsna, the Supreme Controller",
     "description":""
 }
 ---

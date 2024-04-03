@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Kapila Begins to Explain Self-realization",
-    "h1":"Chapter 7",
-    "title":"Lord Kapila Begins to Explain Self-realization",
+    "name":"TLK 7",
+    "label":"Chapter 7",
+    "h1":"Lord Kapila Begins to Explain Self-realization",
+    "title":"Teaching of Lord Kapila 7: Lord Kapila Begins to Explain Self-realization",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Symptoms of a Sadhu",
-    "h1":"Chapter 11",
-    "title":"The Symptoms of a Sadhu",
+    "name":"TLK 11",
+    "label":"Chapter 11",
+    "h1":"The Symptoms of a Sadhu",
+    "title":"Teaching of Lord Kapila 11: The Symptoms of a Sadhu",
     "description":""
 }
 ---

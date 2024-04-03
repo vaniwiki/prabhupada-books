@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Meditation on the Lord’s Transcendental Form",
-    "h1":"Chapter 15",
-    "title":"Meditation on the Lord’s Transcendental Form",
+    "name":"TLK 15",
+    "label":"Chapter 15",
+    "h1":"Meditation on the Lord’s Transcendental Form",
+    "title":"Teaching of Lord Kapila 15: Meditation on the Lord’s Transcendental Form",
     "description":""
 }
 ---

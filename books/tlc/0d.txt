@@ -2,7 +2,8 @@
 {
     "name":"TLC Introduction",
     "h1":"Introduction",
-    "title":"(.*?)",
+    "label":"Introduction",
+    "title":"Teachings of Lord Caitanya Introduction",
     "description":""
 }
 ---

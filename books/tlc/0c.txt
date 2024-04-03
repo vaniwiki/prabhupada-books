@@ -2,7 +2,7 @@
 {
     "name":"Lord Caitanya’s Mission",
     "h1":"Lord Caitanya’s Mission",
-    "title":"(.*?)",
+    "title":"Teachings of Lord Caitanya: Lord Caitanya’s Mission",
     "description":""
 }
 ---

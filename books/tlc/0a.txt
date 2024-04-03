@@ -2,7 +2,8 @@
 {
     "name":"TLC Preface",
     "h1":"Preface",
-    "title":"(.*?)",
+    "label":"Preface",
+    "title":"Teachings of Lord Caitanya Preface",
     "description":""
 }
 ---

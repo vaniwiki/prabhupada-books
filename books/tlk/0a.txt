@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Foreword",
+    "name":"TLK Foreword",
     "h1":"Foreword",
-    "title":"TLK Foreword",
+    "label":"Foreword",
+    "title":"Teachings of Lord Kapila Foreword",
     "description":""
 }
 ---

@@ -10,7 +10,7 @@
 
 ====== Mukunda-mālā-stotra ======
 
-<card line-spacing="lg">
+<card>
 <header>Table of contents</header>
 
   ; [[books:mm:1|Sūtra 1]]

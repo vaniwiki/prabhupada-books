@@ -10,6 +10,9 @@
 
 ====== Nārada-bhakti-sūtra ======
 
+<card>
+<header>Table of contents</header>
+
   ; [[books:nbs:1|Sūtra 1]]
   : Now, therefore, I will try to explain the process of devotional service.
 
@@ -33,3 +36,5 @@
 
   ; [[books:nbs:8|Sūtra 8]]
   : Such renunciation in devotional service means to give up all kinds of social customs and religious rituals governed by Vedic injunction.
+
+</card>

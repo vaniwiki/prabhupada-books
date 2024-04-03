@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Supreme Perfection",
-    "h1":"Chapter 31",
-    "title":"(.*?)",
+    "name":"TLC 31",
+    "label":"Chapter 31",
+    "h1":"The Supreme Perfection",
+    "title":"Teaching of Lord Caitanya 31: The Supreme Perfection",
     "description":""
 }
 ---

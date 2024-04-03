@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Devotional Service in Attachment",
-    "h1":"Chapter 13",
-    "title":"(.*?)",
+    "name":"TLC 13",
+    "label":"Chapter 13",
+    "h1":"Devotional Service in Attachment",
+    "title":"Teaching of Lord Caitanya 13: Devotional Service in Attachment",
     "description":""
 }
 ---

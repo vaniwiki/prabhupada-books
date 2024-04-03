@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"How to Approach God",
-    "h1":"Chapter 5",
-    "title":"(.*?)",
+    "name":"TLC 5",
+    "label":"Chapter 5",
+    "h1":"How to Approach God",
+    "title":"Teaching of Lord Caitanya 5: How to Approach God",
     "description":""
 }
 ---

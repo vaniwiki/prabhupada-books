@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Caitanya and Rāmānanda Rāya",
-    "h1":"Chapter 27",
-    "title":"(.*?)",
+    "name":"TLC 27",
+    "label":"Chapter 27",
+    "h1":"Lord Caitanya and Rāmānanda Rāya",
+    "title":"Teaching of Lord Caitanya 27: Lord Caitanya and Rāmānanda Rāya",
     "description":""
 }
 ---

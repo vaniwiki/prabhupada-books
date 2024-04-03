@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Sanātana Gosvāmī",
-    "h1":"Chapter 2",
-    "title":"(.*?)",
+    "name":"TLC 2",
+    "label":"Chapter 2",
+    "h1":"Sanātana Gosvāmī",
+    "title":"Teaching of Lord Caitanya 2: Sanātana Gosvāmī",
     "description":""
 }
 ---

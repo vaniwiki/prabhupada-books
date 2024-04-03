@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Teachings to Rūpa Gosvāmī",
-    "h1":"Chapter 1",
-    "title":"(.*?)",
+    "name":"TLC 1",
+    "label":"Chapter 1",
+    "h1":"Teachings to Rūpa Gosvāmī",
+    "title":"Teaching of Lord Caitanya 1: Teachings to Rūpa Gosvāmī",
     "description":""
 }
 ---

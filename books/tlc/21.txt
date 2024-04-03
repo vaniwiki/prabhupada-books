@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Māyāvādī Philosophers are Converted",
-    "h1":"Chapter 21",
-    "title":"(.*?)",
+    "name":"TLC 21",
+    "label":"Chapter 21",
+    "h1":"The Māyāvādī Philosophers are Converted",
+    "title":"Teaching of Lord Caitanya 21: The Māyāvādī Philosophers are Converted",
     "description":""
 }
 ---

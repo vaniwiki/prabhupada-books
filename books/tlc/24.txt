@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Talks with Sārvabhauma Bhaṭṭācārya",
-    "h1":"Chapter 24",
-    "title":"(.*?)",
+    "name":"TLC 24",
+    "label":"Chapter 24",
+    "h1":"Talks with Sārvabhauma Bhaṭṭācārya",
+    "title":"Teaching of Lord Caitanya 24: Talks with Sārvabhauma Bhaṭṭācārya",
     "description":""
 }
 ---

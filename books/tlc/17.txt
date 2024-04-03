@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Lord Caitanya, the Original Personality of Godhead",
-    "h1":"Chapter 17",
-    "title":"(.*?)",
+    "name":"TLC 17",
+    "label":"Chapter 17",
+    "h1":"Lord Caitanya, the Original Personality of Godhead",
+    "title":"Teaching of Lord Caitanya 17: Lord Caitanya, the Original Personality of Godhead",
     "description":""
 }
 ---

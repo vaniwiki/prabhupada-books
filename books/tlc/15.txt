@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Explanation of the Ātmārāma Verse in Śrīmad Bhāgavatam",
-    "h1":"Chapter 15",
-    "title":"(.*?)",
+    "name":"TLC 15",
+    "label":"Chapter 15",
+    "h1":"Explanation of the Ātmārāma Verse in Śrīmad Bhāgavatam",
+    "title":"Teaching of Lord Caitanya 15: Explanation of the Ātmārāma Verse in Śrīmad Bhāgavatam",
     "description":""
 }
 ---

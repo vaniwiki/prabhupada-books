@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Beauty of Kṛṣṇa",
-    "h1":"Chapter 10",
-    "title":"(.*?)",
+    "name":"TLC 10",
+    "label":"Chapter 10",
+    "h1":"The Beauty of Kṛṣṇa",
+    "title":"Teaching of Lord Caitanya 10: The Beauty of Kṛṣṇa",
     "description":""
 }
 ---

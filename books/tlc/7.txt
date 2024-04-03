@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Unlimited Forms of Godhead",
-    "h1":"Chapter 7",
-    "title":"(.*?)",
+    "name":"TLC 7",
+    "label":"Chapter 7",
+    "h1":"Unlimited Forms of Godhead",
+    "title":"Teaching of Lord Caitanya 7: Unlimited Forms of Godhead",
     "description":""
 }
 ---

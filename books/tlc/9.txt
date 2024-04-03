@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Opulences of Kṛṣṇa",
-    "h1":"Chapter 9",
-    "title":"(.*?)",
+    "name":"TLC 9",
+    "label":"Chapter 9",
+    "h1":"The Opulences of Kṛṣṇa",
+    "title":"Teaching of Lord Caitanya 9: The Opulences of Kṛṣṇa",
     "description":""
 }
 ---

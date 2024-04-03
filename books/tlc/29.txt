@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Pure Love for Kṛṣṇa",
-    "h1":"Chapter 29",
-    "title":"(.*?)",
+    "name":"TLC 29",
+    "label":"Chapter 29",
+    "h1":"Pure Love for Kṛṣṇa",
+    "title":"Teaching of Lord Caitanya 29: Pure Love for Kṛṣṇa",
     "description":""
 }
 ---

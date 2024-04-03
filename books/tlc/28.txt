@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Relationship with the Supreme",
-    "h1":"Chapter 28",
-    "title":"(.*?)",
+    "name":"TLC 28",
+    "label":"Chapter 28",
+    "h1":"Relationship with the Supreme",
+    "title":"Teaching of Lord Caitanya 28: Relationship with the Supreme",
     "description":""
 }
 ---

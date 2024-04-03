@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Avatāras",
-    "h1":"Chapter 8",
-    "title":"(.*?)",
+    "name":"TLC 8",
+    "label":"Chapter 8",
+    "h1":"The Avatāras",
+    "title":"Teaching of Lord Caitanya 8: The Avatāras",
     "description":""
 }
 ---

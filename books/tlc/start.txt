@@ -1,7 +1,8 @@
 ---json
 {
-    "name":"TLC",
+    "name":"Teachings of Lord Caitanya",
     "h1":"Teachings of Lord Caitanya",
+    "label":"Teachings of Lord Caitanya",
     "title":"Teachings of Lord Caitanya",
     "description":"The Teachings of Lord Chaitanya narrate the life and teachings of Sri Chaitanya Mahaprabhu who appeared in West Bengal in 1486 and spread love of Krishna all over India. Later His Divine Grace A.C. Bhaktivedanta Swami Prabhupada expanded this mission to the entire Western world."
 }

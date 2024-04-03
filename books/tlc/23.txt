@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Why Study the Vedānta-sūtra?",
-    "h1":"Chapter 23",
-    "title":"(.*?)",
+    "name":"TLC 23",
+    "label":"Chapter 23",
+    "h1":"Why Study the Vedānta-sūtra?",
+    "title":"Teaching of Lord Caitanya 23: Why Study the Vedānta-sūtra?",
     "description":""
 }
 ---

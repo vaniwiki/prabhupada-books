@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Conversations with Prakāśānanda",
-    "h1":"Chapter 18",
-    "title":"(.*?)",
+    "name":"TLC 18",
+    "label":"Chapter 18",
+    "h1":"The Conversations with Prakāśānanda",
+    "title":"Teaching of Lord Caitanya 18: The Conversations with Prakāśānanda",
     "description":""
 }
 ---

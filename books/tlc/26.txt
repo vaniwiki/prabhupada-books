@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Bhaṭṭācārya is Converted",
-    "h1":"Chapter 26",
-    "title":"(.*?)",
+    "name":"TLC 26",
+    "label":"Chapter 26",
+    "h1":"Bhaṭṭācārya is Converted",
+    "title":"Teaching of Lord Caitanya 26: Bhaṭṭācārya is Converted",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Transcendental Pastimes of Rādhā and Kṛṣṇa",
-    "h1":"Chapter 30",
-    "title":"(.*?)",
+    "name":"TLC 30",
+    "label":"Chapter 30",
+    "h1":"The Transcendental Pastimes of Rādhā and Kṛṣṇa",
+    "title":"Teaching of Lord Caitanya 30: The Transcendental Pastimes of Rādhā and Kṛṣṇa",
     "description":""
 }
 ---

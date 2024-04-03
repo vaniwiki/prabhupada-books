@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Goal of Vedānta Study",
-    "h1":"Chapter 20",
-    "title":"(.*?)",
+    "name":"TLC 20",
+    "label":"Chapter 20",
+    "h1":"The Goal of Vedānta Study",
+    "title":"Teaching of Lord Caitanya 20: The Goal of Vedānta Study",
     "description":""
 }
 ---

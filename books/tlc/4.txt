@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Wise Man",
-    "h1":"Chapter 4",
-    "title":"(.*?)",
+    "name":"TLC 4",
+    "label":"Chapter 4",
+    "h1":"The Wise Man",
+    "title":"Teaching of Lord Caitanya 4: The Wise Man",
     "description":""
 }
 ---

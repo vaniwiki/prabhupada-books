@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Devahuti Desires Transcendental Knowledge",
-    "h1":" Chapter 6 ",
-    "title":"Devahuti Desires Transcendental Knowledge",
+    "name":"TLK 6",
+    "h1":" Devahuti Desires Transcendental Knowledge",
+    "label":" Chapter 6",
+    "title":"Teachings of Lord Kapila 6: Devahuti Desires Transcendental Knowledge",
     "description":""
 }
 ---

@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Personal and Impersonal Realization",
-    "h1":"Chapter 25",
-    "title":"(.*?)",
+    "name":"TLC 25",
+    "label":"Chapter 25",
+    "h1":"Personal and Impersonal Realization",
+    "title":"Teaching of Lord Caitanya 25: Personal and Impersonal Realization",
     "description":""
 }
 ---

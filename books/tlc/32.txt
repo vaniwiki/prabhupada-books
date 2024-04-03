@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"Conclusion",
-    "h1":"Chapter 32",
-    "title":"(.*?)",
+    "name":"TLC 32",
+    "label":"Chapter 32",
+    "h1":"Conclusion",
+    "title":"Teaching of Lord Caitanya 32: Conclusion",
     "description":""
 }
 ---

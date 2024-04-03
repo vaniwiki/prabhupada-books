@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"His Forms Are One and the Same",
-    "h1":"Chapter 6",
-    "title":"(.*?)",
+    "name":"TLC 6",
+    "label":"Chapter 6",
+    "h1":"His Forms Are One and the Same",
+    "title":"Teaching of Lord Caitanya 6: His Forms Are One and the Same",
     "description":""
 }
 ---

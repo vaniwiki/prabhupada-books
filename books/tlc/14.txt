@@ -1,8 +1,9 @@
 ---json
 {
-    "name":"The Ecstasy of the Lord and His Devotees",
-    "h1":"Chapter 14",
-    "title":"(.*?)",
+    "name":"TLC 14",
+    "label":"Chapter 14",
+    "h1":"The Ecstasy of the Lord and His Devotees",
+    "title":"Teaching of Lord Caitanya 14: The Ecstasy of the Lord and His Devotees",
     "description":""
 }
 ---

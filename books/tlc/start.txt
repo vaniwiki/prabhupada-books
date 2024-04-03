@@ -10,6 +10,9 @@
 
 ====== Teachings of Lord Caitanya ======
 
+<card line-spacing="lg">
+<header>Table of contents</header>
+
   * [[books:tlc:0a|Preface]]
   * [[books:tlc:0b|Prologue]]
   * [[books:tlc:0c|Lord Caitanya's Mission]]
@@ -48,6 +51,7 @@
   - [[books:tlc:31|The Supreme Perfection]]
   - [[books:tlc:32|Conclusion]]
 
+</card>
 
 <blockquote>In the Kali Yuga the Supreme Lord comes as One Who always chants the Holy Name of Sri Krishna, Who is Sri Krishna Himself, Whose complexion is yellow.
 <cite>Srimad Bhagwatam (XI:5:32)</cite>

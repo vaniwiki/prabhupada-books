@@ -2,6 +2,7 @@
 {
     "name":"Lord Caitanya’s Mission",
     "h1":"Lord Caitanya’s Mission",
+    "label":"Lord Caitanya’s Mission",
     "title":"Teachings of Lord Caitanya: Lord Caitanya’s Mission",
     "description":""
 }

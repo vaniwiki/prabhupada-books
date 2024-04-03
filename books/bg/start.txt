@@ -13,10 +13,10 @@
 <card line-spacing="lg">
 <header>Table of contents</header>
 
-  * [[books:bg:dedication|Dedication]]
-  * [[books:bg:foreword|Foreword]]
-  * [[books:bg:preface|Preface]]
-  * [[books:bg:introduction|Introduction]]
+  * [[books:bg:0a|Dedication]]
+  * [[books:bg:0b|Foreword]]
+  * [[books:bg:0c|Preface]]
+  * [[books:bg:0d|Introduction]]
 
   - [[books:bg:1:|Observing the Armies on the Battlefield of Kurukṣetra]]
   - [[books:bg:2:|Contents of the Gītā Summarized]]
@@ -46,13 +46,6 @@
 
 This edition of the work presents this knowledge as it was originally handed down, without being adulterated by philosophical interpretation. It is fully indexed and cross-referenced and is illustrated with forty-four magnificent full-color paintings---original works painted especially for this volume to depict events in the Gita and exemplify the teachings of Kṛṣṇa. Containing the original Sanskrit text, Roman transliterations, English synonyms, translation and commentary, Bhagavad-gita As It Is is the most complete and authoritative transmission of this timeless scripture in print and the only one that does not obscure the true spirit of Kṛṣṇa’s teachings.
 </card>
-
-/*
-===== Setting the scene =====
-/*
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
-*/
-
 
 <card width="570">
 {{ :img_0256.jpeg?570x800 |}}
@@ -110,4 +103,3 @@ This edition of the work presents this knowledge as it was originally handed dow
 <blockquote>“I can say that in the Bhagavad-gītā As It Is I have found explanations and answers to questions I had always posed regarding the interpretations of this sacred work, whose spiritual discipline I greatly admire. If the aesceticism and ideal of the apostles which form the message of the Bhagavad-gītā As It Is were more widespread and more respected, the world in which we live would be transformed into a better, more fraternal place.”
 <cite>Dr. Paul Lesourd, Author, Professeur Honoraire,\\ Catholic University of Paris</cite></blockquote>
 </masonry>
-*/

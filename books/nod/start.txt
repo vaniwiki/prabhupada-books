@@ -10,7 +10,7 @@
 
 ====== The Nectar of Devotion ======
 
-<card>
+<card line-spacing="lg">
 <header>Table of contents</header>
 
   * [[books:nod:0a|Preface]]

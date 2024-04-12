@@ -103,5 +103,5 @@
 
 <grid>
 <box><btn align="start" skin="none">[[books:bg:12:start|<- Chapter 12]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:12:start|Chapter 12 ->]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:14:start|Chapter 14 ->]]</btn></box>
 </grid>

@@ -114,7 +114,7 @@ Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:
   : He quickly becomes righteous and attains lasting peace. O son of Kuntī, declare it boldly that My devotee never perishes.
 
   ; [[books:bg:9:32|Bg 9.32]]
-  : O son of Pṛthā, those who take shelter in Me, though they be of lower birth—women, vaiśyas [merchants], as well as śūdras [workers]—can approach the supreme destination.
+  : O son of Pṛthā, those who take shelter in Me, though they be of lower birth—women, vaiśyas [merchants], as well as śūdras [workers]—can approach the supreme destination.
 
   ; [[books:bg:9:33|Bg 9.33]]
   : How much greater then are the brāhmaṇas, the righteous, the devotees and saintly kings who in this temporary miserable world engage in loving service unto Me.
@@ -123,6 +123,6 @@ Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:
   : Engage your mind always in thinking of Me, offer obeisances and worship Me. Being completely absorbed in Me, surely you will come to Me.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:7:start|<- Chapter 7]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:9:start|Chapter 9 ->]]</btn></box>
+<box><btn align="start" skin="none">[[books:bg:8:start|<- Chapter 8]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:10:start|Chapter 10 ->]]</btn></box>
 </grid>

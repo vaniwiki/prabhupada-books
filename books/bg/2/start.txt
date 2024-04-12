@@ -247,4 +247,8 @@ Plate 10 --- Kṛṣṇa and the living entity are seated on the tree of the bod
 
   ; [[books:bg:2:72|Bg 2.72]]
   : That is the way of the spiritual and godly life, after attaining which a man is not bewildered. Being so situated, even at the hour of death, one can enter into the kingdom of God.
-  
+
+<grid>
+<box><btn align="start" skin="none">[[books:bg:1:start|<- Chapter 1]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:3:start|Chapter 3 ->]]</btn></box>
+</grid>

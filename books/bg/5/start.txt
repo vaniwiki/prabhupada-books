@@ -106,3 +106,8 @@ Plate 20 --- The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]
 
   ; [[books:bg:5:29|Bg 5.29]]
   : The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries.
+
+<grid>
+<box><btn align="start" skin="none">[[books:bg:4:start|<- Chapter 4]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:6:start|Chapter 6 ->]]</btn></box>
+</grid>

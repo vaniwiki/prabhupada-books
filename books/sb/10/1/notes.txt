@@ -1,15 +1,14 @@
 ---json
 {
-    "name":"Additional Notes For This Chapter",
-    "h1":" Notes",
-    "title":"(.*?)",
-    "description":""
+    "name":"SB 10.1 Notes",
+    "label":"Additional Notes",
+    "h1":"Additional Notes For This Chapter",
+    "title":"SB 10.1: Additional Notes For This Chapter",
+    "description":"Regarding transmigration of the soul, Śrīla Madhvācārya gives the following notes. When one is awake, whatever one sees or hears is impressed upon the mind, which later works in dreams to show one different experiences, although in dreams one appears to accept a different body. For example, when one is awake one does business and talks with customers, and similarly in dreams one meets various customers, talks about business and gives quotations."
 }
 ---
 
 ====== Additional Notes For This Chapter ======
-
-===== =====
 
 Regarding transmigration of the soul, Śrīla Madhvācārya gives the following notes. When one is awake, whatever one sees or hears is impressed upon the mind, which later works in dreams to show one different experiences, although in dreams one appears to accept a different body. For example, when one is awake one does business and talks with customers, and similarly in dreams one meets various customers, talks about business and gives quotations. Madhvācārya says, therefore, that dreams take place according to what one sees, hears and remembers. When one reawakens, of course, one forgets the body of the dream. This forgetfulness is called //apasmṛti.// Thus we are changing bodies because we are sometimes dreaming, sometimes awake and sometimes forgetful. Forgetfulness of our previously created body is called death, and our work in the present body is called life. After death, one cannot remember the activities of one's previous body, whether imaginary or factual.
 

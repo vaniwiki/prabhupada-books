@@ -159,3 +159,8 @@ Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:
 
   ; [[books:bg:4:42|Bg 4.42]]
   : Therefore the doubts which have arisen in your heart out of ignorance should be slashed by the weapon of knowledge. Armed with yoga, O Bhārata, stand and fight.
+
+<grid>
+<box><btn align="start" skin="none">[[books:bg:3:start|<- Chapter 3]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:5:start|Chapter 5 ->]]</btn></box>
+</grid>

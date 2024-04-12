@@ -121,3 +121,8 @@ Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:
 
   ; [[books:bg:9:34|Bg 9.34]]
   : Engage your mind always in thinking of Me, offer obeisances and worship Me. Being completely absorbed in Me, surely you will come to Me.
+
+<grid>
+<box><btn align="start" skin="none">[[books:bg:7:start|<- Chapter 7]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:9:start|Chapter 9 ->]]</btn></box>
+</grid>

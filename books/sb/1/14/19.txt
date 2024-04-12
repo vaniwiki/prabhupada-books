@@ -2,9 +2,9 @@
 {
     "name":"SB 1.14.19",
     "label":"Text 19",
-    "h1":"Text 19",
-    "title":"(.*?)",
-    "description":""
+    "h1":"SB 1.14.19",
+    "title":"Śrīmad Bhāgavatam 1.14.19",
+    "description":"The calves do not suck the teats of the cows, nor do the cows give milk. They are standing, crying, tears in their eyes, and the bulls take no pleasure in the pasturing grounds."
 }
 ---
 

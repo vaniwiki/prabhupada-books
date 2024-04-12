@@ -100,4 +100,8 @@
 
   ; [[books:bg:13:35|Bg 13.35]]
   : One who knowingly sees this difference between the body and the owner of the body and can understand the process of liberation from this bondage, also attains to the supreme goal.
-  
+
+<grid>
+<box><btn align="start" skin="none">[[books:bg:12:start|<- Chapter 12]]</btn></box>
+<box><btn align="end" skin="none">[[books:bg:12:start|Chapter 12 ->]]</btn></box>
+</grid>

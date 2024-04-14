@@ -5,7 +5,9 @@
     "h1":"Light of the Bhāgavata 1",
     "label":"Text 1",
     "description":"The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life.",
-    "image":":books:lob:lob_01.jpg"
+    "image":":books:lob:lob_01.jpg",
+    "date_published":"1960-01-01"
+
 }
 ---
 

@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 2",
     "label":"Text 2",
     "description":"The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded.",
-    "image":":books:lob:lob_02.jpg"
+    "image":":books:lob:lob_02.jpg",
+    "date_published":"1960-01-02"
 }
 ---
 

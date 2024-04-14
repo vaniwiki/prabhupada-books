@@ -182,6 +182,6 @@ Plate 32 --- At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11
   : My dear Arjuna, one who is engaged in My pure devotional service, free from the contaminations of previous activities and from mental speculation, who is friendly to every living entity, certainly comes to Me.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:10:start|<- Chapter 10]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:12:start|Chapter 12 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:10:start|<- Chapter 10]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:12:start|Chapter 12 ->]]</btn></box>
 </grid>

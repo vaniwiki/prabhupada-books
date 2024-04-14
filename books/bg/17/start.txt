@@ -95,6 +95,6 @@ Plate 40 --- There are three kinds of faith—that in the mode of goodness, that
   : But sacrifices, austerities and charities performed without faith in the Supreme are nonpermanent, O son of Pṛthā, regardless of whatever rites are performed. They are called asat and are useless both in this life and the next.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:16:start|<- Chapter 16]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:18:start|Chapter 18 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:16:start|<- Chapter 16]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:18:start|Chapter 18 ->]]</btn></box>
 </grid>

@@ -95,6 +95,6 @@ Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
   : And I am the basis of the impersonal Brahman, which is the constitutional position of ultimate happiness, and which is immortal, imperishable and eternal.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:13:start|<- Chapter 13]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:15:start|Chapter 15 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:13:start|<- Chapter 13]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:15:start|Chapter 15 ->]]</btn></box>
 </grid>

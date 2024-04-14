@@ -107,6 +107,6 @@ Plate 27 --- “When one goes there, he never comes back. That is My supreme abo
   : A person who accepts the path of devotional service is not bereft of the results derived from studying the Vedas, performing austere sacrifices, giving charity or pursuing philosophical and fruitive activities. At the end he reaches the supreme abode.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:7:start|<- Chapter 7]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:9:start|Chapter 9 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:7:start|<- Chapter 7]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:9:start|Chapter 9 ->]]</btn></box>
 </grid>

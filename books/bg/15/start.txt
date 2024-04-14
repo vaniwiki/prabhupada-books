@@ -88,6 +88,6 @@ Plate 37 --- The living entity in the material world carries his different conce
   : This is the most confidential part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:14:start|<- Chapter 14]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:16:start|Chapter 16 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:14:start|<- Chapter 14]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:16:start|Chapter 16 ->]]</btn></box>
 </grid>

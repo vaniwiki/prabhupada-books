@@ -102,6 +102,6 @@
   : One who knowingly sees this difference between the body and the owner of the body and can understand the process of liberation from this bondage, also attains to the supreme goal.
 
 <grid>
-<box><btn align="start" skin="none">[[books:bg:12:start|<- Chapter 12]]</btn></box>
-<box><btn align="end" skin="none">[[books:bg:14:start|Chapter 14 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="none">[[books:bg:12:start|<- Chapter 12]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:bg:14:start|Chapter 14 ->]]</btn></box>
 </grid>

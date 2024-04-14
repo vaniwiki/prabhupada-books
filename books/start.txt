@@ -2,7 +2,7 @@
 {
     "name":"Books",
     "title":"Books by His Divine Grace",
-    "description":"Srila Prabhupada's original transcendental books, authorized and empowered.",
+    "description":"The original pre-1978 books by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada, the founder of the International Society for Krishna Consciousness (ISKCON). These books cover a wide range of spiritual topics, including philosophy, theology, and practical guidance for spiritual seekers.",
     "template":"index"
 }
 ---

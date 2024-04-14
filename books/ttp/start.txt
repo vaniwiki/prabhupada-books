@@ -3,7 +3,8 @@
     "name":"TTP",
     "h1":"Transcendental Teachings of Prahlāda Mahārāja",
     "title":"Transcendental Teachings of Prahlāda Mahārāja",
-    "description":""
+    "description":"",
+    "image":":books:covers:ttp.jpg"
 }
 ---
 

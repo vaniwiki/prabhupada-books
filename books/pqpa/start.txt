@@ -1,3 +1,14 @@
+---json
+{
+    "name":"Perfect Questions, Perfect Answers",
+    "h1":"Perfect Questions, Perfect Answers",
+    "label":"Perfect Questions, Perfect Answers",
+    "title":"Perfect Questions, Perfect Answers",
+    "description":"",
+    "image":":books:covers:pqpa.jpg"
+}
+---
+
 ====== Perfect Questions, Perfect Answers ======
 
 <card line-spacing="lg">

@@ -3,7 +3,8 @@
     "name":"Rāja-Vidyā",
     "h1":"Rāja-Vidyā",
     "title":"Rāja-Vidyā: The King of Knowledge",
-    "description":""
+    "description":"",
+    "image":":books:covers:rv.jpg"
 }
 ---
 

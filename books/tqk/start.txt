@@ -4,7 +4,8 @@
     "label":"Teachings of Queen Kuntī",
     "h1":"Teachings of Queen Kuntī",
     "title":"Teachings of Queen Kuntī",
-    "description":""
+    "description":"",
+    "image":":books:covers:tqk.jpg"
 }
 ---
 

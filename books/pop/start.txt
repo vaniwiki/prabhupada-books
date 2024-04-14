@@ -4,7 +4,8 @@
     "h1":"The Path of Perfection",
     "label":"The Path of Perfection",
     "title":"The Path of Perfection",
-    "description":""
+    "description":"",
+    "image":":books:covers:pop.jpg"
 }
 ---
 

@@ -4,7 +4,8 @@
     "h1":"The Perfection of Yoga",
     "label":"The Perfection of Yoga",
     "title":"The Perfection of Yoga",
-    "description":""
+    "description":"",
+    "image":":books:covers:poy.jpg"
 }
 ---
 

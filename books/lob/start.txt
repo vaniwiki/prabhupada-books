@@ -4,7 +4,8 @@
     "title":"Light of the Bhāgavata",
     "h1":"Light of the Bhāgavata",
     "label":"Light of the Bhāgavata",
-    "description":""
+    "description":"",
+    "image":":books:covers:lob.jpg"
 }
 ---
 

@@ -4,7 +4,8 @@
     "h1":"Teachings of Lord Kapila",
     "label":"Teachings of Lord Kapila",
     "title":"Teachings of Lord Kapila",
-    "description":""
+    "description":"",
+    "image":":books:covers:tlk.jpg"
 }
 ---
 

@@ -4,7 +4,8 @@
     "h1":"The Nectar of Instruction",
     "label":"The Nectar of Instruction",
     "title":"The Nectar of Instruction",
-    "description":"Across five centuries and half the globe comes this compact guidebook of essential spiritual teachings. How to choose a guru, how to practice yoga, even where to live—you'll find it all in this invaluable work originally written in Sanskrit by Śrīla Rūpa Gosvāmī, the greatest spiritual genius of medieval India."
+    "description":"Across five centuries and half the globe comes this compact guidebook of essential spiritual teachings. How to choose a guru, how to practice yoga, even where to live—you'll find it all in this invaluable work originally written in Sanskrit by Śrīla Rūpa Gosvāmī, the greatest spiritual genius of medieval India.",
+    "image":":books:covers:noi.jpg"
 }
 ---
 

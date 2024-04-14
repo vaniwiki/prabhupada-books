@@ -4,7 +4,8 @@
     "h1":"On The Way to Kṛṣṇa",
     "label":"On The Way to Kṛṣṇa",
     "title":"On The Way to Kṛṣṇa",
-    "description":""
+    "description":"",
+    "image":":books:covers:owk.jpg"
 }
 ---
 

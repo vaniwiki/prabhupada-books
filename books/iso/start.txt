@@ -4,7 +4,8 @@
     "h1":"Śrī Īśopaniṣad",
     "title":"Śrī Īśopaniṣad",
     "label":"Śrī Īśopaniṣad",
-    "description":"Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life."
+    "description":"Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life.",
+    "image":":books:covers:iso.jpg"
 }
 ---
 

@@ -4,7 +4,8 @@
     "h1":"The Matchless Gift",
     "label":"The Matchless Gift",
     "title":"Kṛṣṇa Consciousness, The Matchless Gift",
-    "description":""
+    "description":"",
+    "image":":books:covers:mg.jpg"
 }
 ---
 

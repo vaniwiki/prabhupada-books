@@ -4,7 +4,8 @@
     "title":"KṚṢṆA, The Supreme Personality of Godhead",
     "h1":"KṚṢṆA, The Supreme Personality of Godhead",
     "label":"KṚṢṆA",
-    "description":""
+    "description":"",
+    "image":":books:covers:kb.jpg"
 }
 ---
 

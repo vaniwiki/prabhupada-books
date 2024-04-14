@@ -3,7 +3,8 @@
     "name":"Life Comes from Life",
     "h1":"Life Comes from Life",
     "title":"Life Comes from Life",
-    "description":"Life Comes From Life by Srila Prabhupada challenges the theory of chemical evolution and presents an alternative perspective on the origin of life. The book argues that life cannot arise from mere material combinations and emphasizes the presence of consciousness as an essential element in all living beings. Drawing from Vedic scriptures and spiritual philosophy, Srila Prabhupada invites readers to reconsider their understanding of life and explore the connection between the material and spiritual realms. The book offers a thought-provoking critique of the prevailing scientific paradigm and encourages a more holistic and spiritually oriented worldview."
+    "description":"Life Comes From Life by Srila Prabhupada challenges the theory of chemical evolution and presents an alternative perspective on the origin of life. The book argues that life cannot arise from mere material combinations and emphasizes the presence of consciousness as an essential element in all living beings. Drawing from Vedic scriptures and spiritual philosophy, Srila Prabhupada invites readers to reconsider their understanding of life and explore the connection between the material and spiritual realms. The book offers a thought-provoking critique of the prevailing scientific paradigm and encourages a more holistic and spiritually oriented worldview.",
+    "image":":books:covers:lcfl.jpg"
 }
 ---
 

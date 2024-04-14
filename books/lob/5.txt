@@ -1,10 +1,11 @@
 ---json
 {
     "name":"LOB 5",
-    "title":"Light of the Bhāgavata 5",
+    "title":"Light of the Bhāgavata, Text 5",
     "h1":"Light of the Bhāgavata 5",
     "label":"Text 5",
-    "description":"The evening in the rainy season is dark all around. There is no sight of the twinkling stars on the horizon or the pleasing moon. They are covered by clouds. And the insignificant glowworms become prominent in the absence of the luminaries in the open sky."
+    "description":"The evening in the rainy season is dark all around. There is no sight of the twinkling stars on the horizon or the pleasing moon. They are covered by clouds. And the insignificant glowworms become prominent in the absence of the luminaries in the open sky.",
+    "image":":books:covers:lob_05.jpg"
 }
 ---
 

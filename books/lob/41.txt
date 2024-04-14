@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 41",
-    "title":"Light of the Bhāgavata 41",
+    "title":"Light of the Bhāgavata, Text 41",
     "h1":"Light of the Bhāgavata 41",
     "label":"Text 41",
-    "description":"In the clear sky of autumn, the beautiful moon among the beautiful stars becomes the cynosure of all eyes, just as Lord Śrī Kṛṣṇa is the central attraction in the Vṛṣṇi dynasty or in the family of Yadu."
+    "description":"In the clear sky of autumn, the beautiful moon among the beautiful stars becomes the cynosure of all eyes, just as Lord Śrī Kṛṣṇa is the central attraction in the Vṛṣṇi dynasty or in the family of Yadu.",
+    "image":":books:covers:lob_41.jpg"
 }
 ---
 
-====== Text 41 ======
+====== Light of the Bhāgavata, Text 41 ======
 
 **In the clear sky of autumn, the beautiful moon among the beautiful stars becomes the cynosure of all eyes, just as Lord Śrī Kṛṣṇa is the central attraction in the Vṛṣṇi dynasty or in the family of Yadu.**
 

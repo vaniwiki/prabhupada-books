@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 23",
-    "title":"Light of the Bhāgavata 23",
+    "title":"Light of the Bhāgavata, Text 23",
     "h1":"Light of the Bhāgavata 23",
     "label":"Text 23",
-    "description":"The cows that followed the Lord within the forest moved slowly because of their heavy, milk-laden udders. But when the Lord called them by their specific names they at once became alert, and as they hastened toward Him their milk bags overflowed and poured milk on the ground because of affection for the Lord."
+    "description":"The cows that followed the Lord within the forest moved slowly because of their heavy, milk-laden udders. But when the Lord called them by their specific names they at once became alert, and as they hastened toward Him their milk bags overflowed and poured milk on the ground because of affection for the Lord.",
+    "image":":books:covers:lob_23.jpg"
 }
 ---
 
-====== Text 23 ======
+====== Light of the Bhāgavata, Text 23 ======
 
 **The cows that followed the Lord within the forest moved slowly because of their heavy, milk-laden udders. But when the Lord called them by their specific names they at once became alert, and as they hastened toward Him their milk bags overflowed and poured milk on the ground because of affection for the Lord.**
 

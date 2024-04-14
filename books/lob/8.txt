@@ -1,10 +1,11 @@
 ---json
 {
     "name":"LOB 8",
-    "title":"Light of the Bhāgavata 8",
+    "title":"Light of the Bhāgavata, Text 8",
     "h1":"Light of the Bhāgavata 8",
     "label":"Text 8",
-    "description":"The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets."
+    "description":"The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets.",
+    "image":":books:covers:lob_08.jpg"
 }
 ---
 

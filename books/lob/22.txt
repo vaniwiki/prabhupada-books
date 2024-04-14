@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 22",
-    "title":"Light of the Bhāgavata 22",
+    "title":"Light of the Bhāgavata, Text 22",
     "h1":"Light of the Bhāgavata 22",
     "label":"Text 22",
-    "description":"After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends."
+    "description":"After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends.",
+    "image":":books:covers:lob_22.jpg"
 }
 ---
 
-====== Text 22 ======
+====== Light of the Bhāgavata, Text 22 ======
 
 **After the complete rainy season, the forest of Vṛndāvana was full of fruits like dates and blackberries ripening on the trees and bushes. Lord Śrī Kṛṣṇa, along with His elder brother, Śrī Baladeva, and other cowherd boys of the vicinity, entered the beautiful forest, accompanied by the cows, to display transcendental pastimes with His eternal friends.**
 

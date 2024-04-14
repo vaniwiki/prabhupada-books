@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 32",
-    "title":"Light of the Bhāgavata 32",
+    "title":"Light of the Bhāgavata, Text 32",
     "h1":"Light of the Bhāgavata 32",
     "label":"Text 32",
-    "description":"The beautiful white clouds, freed from all burdens of water distribution, float in midair, like mendicants freed from all family responsibilities."
+    "description":"The beautiful white clouds, freed from all burdens of water distribution, float in midair, like mendicants freed from all family responsibilities.",
+    "image":":books:covers:lob_32.jpg"
 }
 ---
 
-====== Text 32 ======
+====== Light of the Bhāgavata, Text 32 ======
 
 **The beautiful white clouds, freed from all burdens of water distribution, float in midair, like mendicants freed from all family responsibilities.**
 

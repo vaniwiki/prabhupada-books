@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 38",
-    "title":"Light of the Bhāgavata 38",
+    "title":"Light of the Bhāgavata, Text 38",
     "h1":"Light of the Bhāgavata 38",
     "label":"Text 38",
-    "description":"After the rainy season, the farmers begin to rebuild the partitioning walls of the paddy fields so that the water will be conserved, just as yogīs try to use their conserved energy for self-realization.}}"
+    "description":"After the rainy season, the farmers begin to rebuild the partitioning walls of the paddy fields so that the water will be conserved, just as yogīs try to use their conserved energy for self-realization.}}",
+    "image":":books:covers:lob_38.jpg"
 }
 ---
 
-====== Text 38 ======
+====== Light of the Bhāgavata, Text 38 ======
 
 **After the rainy season, the farmers begin to rebuild the partitioning walls of the paddy fields so that the water will be conserved, just as yogīs try to use their conserved energy for self-realization.**
 

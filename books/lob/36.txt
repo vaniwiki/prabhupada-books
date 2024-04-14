@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 36",
-    "title":"Light of the Bhāgavata 36",
+    "title":"Light of the Bhāgavata, Text 36",
     "h1":"Light of the Bhāgavata 36",
     "label":"Text 36",
-    "description":"With the progress of the autumn season the moist earth and muddy places begin to dry up, and the green vegetation begins to fade. This drying up and fading resembles the gradual disappearance of the false sense of affinity and ego."
+    "description":"With the progress of the autumn season the moist earth and muddy places begin to dry up, and the green vegetation begins to fade. This drying up and fading resembles the gradual disappearance of the false sense of affinity and ego.",
+    "image":":books:covers:lob_36.jpg"
 }
 ---
 
-====== Text 36 ======
+====== Light of the Bhāgavata, Text 36 ======
 
 **With the progress of the autumn season the moist earth and muddy places begin to dry up, and the green vegetation begins to fade. This drying up and fading resembles the gradual disappearance of the false sense of affinity and ego.**
 

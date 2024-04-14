@@ -1,14 +1,15 @@
 ---json
 {
     "name":"LOB 40",
-    "title":"Light of the Bhāgavata 40",
+    "title":"Light of the Bhāgavata, Text 40",
     "h1":"Light of the Bhāgavata 40",
     "label":"Text 40",
-    "description":"In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas."
+    "description":"In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas.",
+    "image":":books:covers:lob_40.jpg"
 }
 ---
 
-====== Text 40 ======
+====== Light of the Bhāgavata, Text 40 ======
 
 **In the clear autumn sky the twinkling stars appear brighter and brighter, just like a transcendentalist clear vision of the purpose of the Vedas.**
 

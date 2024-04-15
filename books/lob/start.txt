@@ -5,29 +5,33 @@
     "h1":"Light of the Bhāgavata",
     "label":"Light of the Bhāgavata",
     "description":"We want to show you a description here.",
-    "image":":books:covers:lob.jpg"
+    "image":":books:covers:lob.jpg",
+    "template":"index"
 }
 ---
 
 ====== Light of the Bhāgavata ======
 
-
 <iterator>
-    <data>select where path like '%books:lob:%' order by path asc</data>
-    <card-columns>
+    <data path="books:lob:">select from descendants where path not like '%:0a%' order by date_published asc</data>
+    <grid>
         <fragment>
+            <box width="1:3">
             <card clickable>
-            <page-image ratio="1:1" height="648" />
+            <page-image ratio="4:3" width="550" />
             === $label ===
 
-            ${description | head(500,'...')} [[$path| ]]
+            ${description | head(1024,'...')} [[$path?preview=false&nolink| ]]
             </card>
+            </box>
         </fragment>
-    </card-columns>
+    </grid>
 </iterator>
 
 
+/*
 <card>
+
   * [[books:lob:0a|Preface]]
 
   ; [[books:lob:1|Text 1]]
@@ -173,4 +177,5 @@
 
   ; [[books:lob:48|Text 48]]
   : The moon, or Candraloka, is one of the four important places of residence for the demigods. Beyond Mānasa Lake is Sumeru Mountain. On the eastern side of this mountain is the planet Devadhānī, where Indra resides. On the southern side is the planet known as Saṁyamanī, where Yamarāja resides. On the western side is the planet known as Nimlocanī, the residence of Vāyu, the demigod who controls the wind. And on the northern side of the mountain is the moon, which is also known as Vibhāvarī.
-</card>
+
+</card>*/

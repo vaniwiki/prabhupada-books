@@ -9,8 +9,16 @@
 
 ====== Books by His Divine Grace ======
 
-<card line-spacing="lg">
+<iterator>
+    <data path=":books:">select where path like '%books%' and path like '%start%' and depth = 1 order by title asc</data>
+    <card-columns>
+        <fragment>
+            <card clickable>
+            <page-image ratio="2:3" height="550" />
+            === $title ===
 
-{{simplenavi>books}}
-
-</card>
+            ${description | head(1024,'...')} [[$path?preview=false| ]]
+            </card>
+        </fragment>
+    </card-columns>
+</iterator>

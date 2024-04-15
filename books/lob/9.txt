@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 9",
     "label":"Text 9",
     "description":"A picturesque scene of green paddy fields enlivens the heart of the poor agriculturalist, but it brings gloom to the face of the capitalist who lives by exploiting the poor farmers.",
-    "image":":books:lob:lob_09.jpg"
+    "image":":books:lob:lob_09.jpg",
+    "date_published":"1960-01-09"
 }
 ---
 

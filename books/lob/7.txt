@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 7",
     "label":"Text 7",
     "description":"The small rivulets that almost dried up during the months of May and June now begin to overflow their banks, like upstarts that suddenly overflow the limits of expenditure.",
-    "image":":books:lob:lob_07.jpg"
+    "image":":books:lob:lob_07.jpg",
+    "date_published":"1960-01-07"
 }
 ---
 

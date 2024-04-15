@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 17",
     "label":"Text 17",
     "description":"When the clouds appear in the sky the peacock begins to dance in ecstasy, as a sincere soul becomes overwhelmed with joy on the appearance of a saint at his house.",
-    "image":":books:lob:lob_17.jpg"
+    "image":":books:lob:lob_17.jpg",
+    "date_published":"1960-01-17"
 }
 ---
 

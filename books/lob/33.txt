@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 33",
     "label":"Text 33",
     "description":"There are waterfalls flowing from the hills of the forest, but sometimes water does not flow from them. So the waterfalls are not like ordinary rainfall. They are compared to great reformers, who speak or do not speak, as the time requires.",
-    "image":":books:lob:lob_33.jpg"
+    "image":":books:lob:lob_33.jpg",
+    "date_published":"1960-02-03"
 }
 ---
 

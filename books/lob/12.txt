@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 12",
     "label":"Text 12",
     "description":"The mountains, although being struck by torrents of rain during the rainy season, are not shaken, just as those whose hearts are dedicated to the transcendental Personality of Godhead are never disturbed, even when harassed by great misfortune.",
-    "image":":books:lob:lob_12.jpg"
+    "image":":books:lob:lob_12.jpg",
+    "date_published":"1960-01-12"
 }
 ---
 

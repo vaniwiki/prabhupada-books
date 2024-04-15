@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 6",
     "label":"Text 6",
     "description":"On hearing the sound of the torrential rains, the frogs come out of the mountain caves and begin to chant, like brahmacārīs who chant the Vedic hymns by the order of the spiritual master.",
-    "image":":books:lob:lob_06.jpg"
+    "image":":books:lob:lob_06.jpg",
+    "date_published":"1960-01-06"
 }
 ---
 

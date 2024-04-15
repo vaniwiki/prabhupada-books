@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 32",
     "label":"Text 32",
     "description":"The beautiful white clouds, freed from all burdens of water distribution, float in midair, like mendicants freed from all family responsibilities.",
-    "image":":books:lob:lob_32.jpg"
+    "image":":books:lob:lob_32.jpg",
+    "date_published":"1960-02-02"
 }
 ---
 

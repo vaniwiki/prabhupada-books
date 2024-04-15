@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 30",
     "label":"Text 30",
     "description":"In autumn all the reservoirs of water become enriched with growing lotuses. The muddy water again becomes normally clear and decorated, just as fallen, conditioned souls once more become spiritually enriched in devotional service.",
-    "image":":books:lob:lob_30.jpg"
+    "image":":books:lob:lob_30.jpg",
+    "date_published":"1960-01-30"
 }
 ---
 

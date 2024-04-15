@@ -5,7 +5,8 @@
     "h1":"Light of the Bhāgavata 15",
     "label":"Text 15",
     "description":"In the midst of the thunder in the cloudy sky there appears a rainbow that has no string. Its appearance is compared to the appearance of the Supreme Personality of Godhead or His servants in the midst of the material atmosphere.",
-    "image":":books:lob:lob_15.jpg"
+    "image":":books:lob:lob_15.jpg",
+    "date_published":"1960-01-15"
 }
 ---
 

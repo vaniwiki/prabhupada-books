@@ -10,7 +10,7 @@
 ====== Books by His Divine Grace ======
 
 <iterator>
-    <data path=":books:">select where path like '%books%' and path like '%start%' and depth = 1 order by title asc</data>
+    <data path=":books:">select where path like '%books%' and path like '%start%' and path not like '%mm%' and path not like '%nbs%' depth = 1 order by title asc</data>
     <card-columns>
         <fragment>
             <card clickable>

@@ -5,7 +5,8 @@
     "label":"Chapter 1",
     "title":"Bhagavad-gītā 1: Observing the Armies on the Battlefield of Kurukṣetra",
     "description":"As the opposing armies stand poised for battle, Arjuna, the mighty warrior, sees his intimate relatives, teachers and friends in both armies ready to fight and sacrifice their lives. Overcome by grief and pity, Arjuna fails in strength, his mind becomes bewildered, and he gives up his determination to fight.",
-    "image":":books:bg:plate01.jpg"
+    "image":":books:bg:plate01.jpg",
+    "date_published":"1972-01-01"
 }
 ---
 

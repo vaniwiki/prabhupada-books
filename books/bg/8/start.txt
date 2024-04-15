@@ -10,8 +10,7 @@
 
 ====== Attaining the Supreme ======
 
-/*
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_08_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 8}}
+/*{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_08_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 8}}*/
 
 <masonry>
 <card>
@@ -19,8 +18,6 @@
 Plate 27 --- “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]
 </card>
 </masonry>
-*/
-
 
   ; [[books:bg:8:1|Bg 8.1]]
   : Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.

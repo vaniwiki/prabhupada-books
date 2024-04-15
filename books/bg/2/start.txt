@@ -10,7 +10,6 @@
 
 ====== Contents of the Gītā Summarized ======
 
-/*
 <masonry>
 <card>
 {{ books:bg:plate07.jpg?500&nolink |}}
@@ -32,8 +31,6 @@ Plate 10 --- Kṛṣṇa and the living entity are seated on the tree of the bod
 {{ books:bg:plate11.jpg?500&nolink |}}
 </card>
 </masonry>
-*/
-
 
   ; [[books:bg:2:1|Bg 2.1]]
   : Sañjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words.

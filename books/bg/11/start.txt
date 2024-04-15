@@ -10,8 +10,7 @@
 
 ====== The Universal Form ======
 
-/*
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}
+/*{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}*/
 
 <masonry>
 <card>
@@ -23,7 +22,6 @@ Plate 31 --- The universal form. [[books:bg:10:10|(Bg. 11.10-11)]]
 Plate 32 --- At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]
 </card>
 </masonry>
-*/
 
   ; [[books:bg:11:1|Bg 11.1]]
   : Arjuna said: I have heard Your instruction on confidential spiritual matters which You have so kindly delivered unto me, and my illusion is now dispelled.

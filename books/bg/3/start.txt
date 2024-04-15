@@ -10,8 +10,7 @@
 
 ====== Karma-yoga ======
 
-/*
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
+/*{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}*/
 
 <masonry>
 <card>
@@ -27,8 +26,6 @@ Plate 13 --- The Demigods, being satisfied by the performance of sacrifice, supp
 Plate 14 --- The living entity is covered by different degrees of lust. [[books:bg:3:38|(Bg. 3.38)]]
 </card>
 </masonry>
-*/
-
 
   ; [[books:bg:3:1|Bg 3.1]]
   : Arjuna said: O Janārdana, O Keśava, why do You urge me to engage in this ghastly warfare, if You think that intelligence is better than fruitive work?

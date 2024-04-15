@@ -10,8 +10,7 @@
 
 ====== Devotional Service ======
 
-/*
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_12_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 12}}
+/*{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_12_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 12}}*/
 
 <masonry>
 <card>
@@ -19,7 +18,6 @@
 Plate 33 --- Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
 </card>
 </masonry>
-*/
 
 
   ; [[books:bg:12:1|Bg 12.1]]

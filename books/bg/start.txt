@@ -40,6 +40,10 @@
 
 </card>
 
+===== From the cover =====
+
+<grid>
+<box width="1:2">
 <card>
 {{:books:bg:plate44.jpg?0|}}
 
@@ -47,15 +51,38 @@
 
 This edition of the work presents this knowledge as it was originally handed down, without being adulterated by philosophical interpretation. It is fully indexed and cross-referenced and is illustrated with forty-four magnificent full-color paintings---original works painted especially for this volume to depict events in the Gita and exemplify the teachings of Kṛṣṇa. Containing the original Sanskrit text, Roman transliterations, English synonyms, translation and commentary, Bhagavad-gita As It Is is the most complete and authoritative transmission of this timeless scripture in print and the only one that does not obscure the true spirit of Kṛṣṇa’s teachings.
 </card>
-
-<card width="570">
-{{ :img_0256.jpeg?570x800 |}}
+</box>
+<box width="1:2">
+<card>
+{{ :img_0256.jpeg?700x1000 |}}
 
 **HIS DIVINE GRACE A.C. BHAKTIVEDANTA SWAMI PRABHUPĀDA**, the leading exponent of the science of Kṛṣṇa consciousness in the West and the world’s most distinguished teacher of Vedic religion and thought, is the author of Srimad-Bhagavatam, Kṛṣṇa and many other English versions of Vedic literature. He is a fully self-realized devotee of Lord Kṛṣṇa and is the latest disciple in a succession that originally began with Kṛṣṇa Himself. He is the founder and spiritual master of the international Society for Krishna Consciousness, which now has centers in major cities throughout the world.
 </card>
+</box>
+</grid>
+
 
 <blockquote>"By bringing us a new and living interpretation of a text already known to many A.C. Bhaktivedanta Swami Prabhupāda has increased our understanding manyfold."
 <cite>Professor Edward C. Dimock, Jr.\\ Department of South Asian Languages and Civilization\\ University of Chicago</cite></blockquote>
+
+===== Contents =====
+
+<iterator>
+    <data>select where path like '%books:bg:%' and path like '%start%' and path not like '%books:bg:start%' order by date_published, path asc</data>
+    <grid>
+        <fragment>
+        <box>
+            <card clickable>
+            <page-image ratio="3:4" width="355" />
+      <text>$label</text>
+            === $h1 ===
+
+            ${description | head(1024,'...')} [[$path?preview=false| ]]
+            </card>
+        </box>
+        </fragment>
+    </grid>
+</iterator>
 
 ===== Reviews =====
 

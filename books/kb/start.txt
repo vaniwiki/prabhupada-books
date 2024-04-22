@@ -109,7 +109,26 @@
   - [[books:kb:89|The Superexcellent Power of Kṛṣṇa]]
   - [[books:kb:90|Summary Description of Lord Kṛṣṇa's Pastimes]]
 </card>
-	
+
+<iterator>
+    <data>select decendents where path like '%books:kb:%' and path not like '%start%' and path not like '%kb:0%' order by path asc</data>
+    <grid>
+        <fragment>
+        <box>
+            <card clickable>
+            <page-image ratio="3:4" width="355" />
+      <text>$label</text>
+            === $h1 ===
+
+            ${description | head(1024,'...')} [[$path?preview=false| ]]
+            </card>
+        </box>
+        </fragment>
+    </grid>
+</iterator>
+
+
+
 The most comprehensive and authoritative Vedic scriptural literature is the //Śrīmad-Bhāgavatam// ("The Beautiful Story of the Personality of Godhead"), the mature contribution of Śrīla Vyāsadeva, the compiler of the //Vedas.// Of the twelve cantos of //Śrīmad-Bhāgavatam,// the tenth canto is considered the most confidential, since it describes the transcendental pastimes of Śrī Kṛṣṇa, the Supreme Personality of Godhead. //Kṛṣṇa// is a summary study of the tenth canto of //Śrīmad-Bhāgavatam.//
 
 The activities of Kṛṣṇa, which appear to be like those of an ordinary human being, can only be properly understood with the help of a bona fide spiritual master fully realized in the knowledge of this transcendental nature. A.C. Bhaktivedanta Swami Prabhupāda is authorized by an unbreakable disciplic succession of spiritual masters going back thousands of years to the time when Kṛṣṇa appeared. Because he is the representative of the disciplic succession for this age and because of his complete immersion in love of Kṛṣṇa Prabhupāda is uniquely qualified to present Kṛṣṇa as He is.

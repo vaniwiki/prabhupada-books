@@ -1,84 +1,14 @@
 ---json
 {
-    "name":"Bhagavad-gītā As It Is",
-    "h1":"Bhagavad-gītā As It Is",
-    "label":"Bhagavad-gītā",
-    "title":"Bhagavad-gītā As It Is",
-    "description":"A masterpiece of scriptural literature, Bhagavad-gita is a sacred \"song\" in the form of a battlefield dialogue between the Lord Sri Kṛṣṇa and Arjuna, His friend and disciple. Kṛṣṇa, acting as Arjuna’s adviser, instructs him in the science of self-realization, teaching him how to live as a devotee of the Lord and to thus reach the eternal spiritual world while continuing to perform his earthly duties. Srila Prabhupada’s Gita, completely new in its authenticity, is addressed to all humanity, for it clearly teaches the purpose of the human form of life—to cultivate spiritual knowledge.",
+    "name":"Bg. Reviews",
+    "label":"Reviews",
+    "title":"Reviews for Bhagavad-gītā As It Is",
+    "description":"Sample reviews from scholars for Bhagavad-gita As It Is by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
     "image":":books:bg:plate44.jpg"
 }
 ---
 
-====== Bhagavad-gītā As It Is ======
-
-<card line-spacing="lg">
-<header>Table of contents</header>
-
-  * [[books:bg:0a|Dedication]]
-  * [[books:bg:0b|Foreword]]
-  * [[books:bg:0c|Preface]]
-  * [[books:bg:0d|Introduction]]
-
-  - [[books:bg:1:|Observing the Armies on the Battlefield of Kurukṣetra]]
-  - [[books:bg:2:|Contents of the Gītā Summarized]]
-  - [[books:bg:3:|Karma-yoga]]
-  - [[books:bg:4:|Transcendental Knowledge]]
-  - [[books:bg:5:|Karma-yoga — Action in Kṛṣṇa Consciousness]]
-  - [[books:bg:6:|Sāṅkhya-yoga]]
-  - [[books:bg:7:|Knowledge of the Absolute]]
-  - [[books:bg:8:|Attaining the Supreme]]
-  - [[books:bg:9:|The Most Confidential Knowledge]]
-  - [[books:bg:10:|The Opulence of the Absolute]]
-  - [[books:bg:11:|The Universal Form]]
-  - [[books:bg:12:|Devotional Service]]
-  - [[books:bg:13:|Nature, the Enjoyer, and Consciousness]]
-  - [[books:bg:14:|The Three Modes Of Material Nature]]
-  - [[books:bg:15:|The Yoga of the Supreme Person]]
-  - [[books:bg:16:|The Divine And Demoniac Natures]]
-  - [[books:bg:17:|The Divisions of Faith]]
-  - [[books:bg:18:|Conclusion — The Perfection of Renunciation]]
-
-</card>
-
-<grid>
-<box width="1:1">
-<card>{{:books:bg:plate44.jpg?897&ratio=3:4|}}
-
-**A masterpiece of scriptural literature**, Bhagavad-gita is a sacred "song" in the form of a battlefield dialogue between the Lord Sri Kṛṣṇa and Arjuna, His friend and disciple. Kṛṣṇa, acting as Arjuna’s adviser, instructs him in the science of self-realization, teaching him how to live as a devotee of the Lord and to thus reach the eternal spiritual world while continuing to perform his earthly duties. Srila Prabhupada’s Gita, completely new in its authenticity, is addressed to all humanity, for it clearly teaches the purpose of the human form of life---to cultivate spiritual knowledge. 
-
-This edition of the work presents this knowledge as it was originally handed down, without being adulterated by philosophical interpretation. It is fully indexed and cross-referenced and is illustrated with forty-four magnificent full-color paintings---original works painted especially for this volume to depict events in the Gita and exemplify the teachings of Kṛṣṇa. Containing the original Sanskrit text, Roman transliterations, English synonyms, translation and commentary, Bhagavad-gita As It Is is the most complete and authoritative transmission of this timeless scripture in print and the only one that does not obscure the true spirit of Kṛṣṇa’s teachings.
-</card>
-</box>
-
-/*<box width="1:2">
-<card>{{:img_0256.jpeg?870&ratio=3:4|}}
-
-**HIS DIVINE GRACE A.C. BHAKTIVEDANTA SWAMI PRABHUPĀDA**, the leading exponent of the science of Kṛṣṇa consciousness in the West and the world’s most distinguished teacher of Vedic religion and thought, is the author of Srimad-Bhagavatam, Kṛṣṇa and many other English versions of Vedic literature. He is a fully self-realized devotee of Lord Kṛṣṇa and is the latest disciple in a succession that originally began with Kṛṣṇa Himself. He is the founder and spiritual master of the international Society for Krishna Consciousness, which now has centers in major cities throughout the world.
-</card>
-</box>*/
-</grid>
-
-===== Chapter overview =====
-
-<iterator>
-    <data>select where path like '%books:bg:%' and path like '%start%' and path not like '%books:bg:start%' order by date_published, path asc</data>
-    <grid>
-        <fragment>
-        <box>
-            <card clickable>
-            <page-image ratio="3:4" width="355" />
-      <text>$label</text>
-            === $h1 ===
-
-            ${description | head(1024,'...')} [[$path?preview=false| ]]
-            </card>
-        </box>
-        </fragment>
-    </grid>
-</iterator>
-
-/*
-===== Reviews =====
+====== Reviews ======
 
 <masonry>
 <blockquote>“By bringing us a new and living interpretation of a text already known to many A.C. Bhaktivedanta Swami Prabhupāda has increased our understanding manyfold.”
@@ -128,4 +58,3 @@ This edition of the work presents this knowledge as it was originally handed dow
 <blockquote>“I can say that in the Bhagavad-gītā As It Is I have found explanations and answers to questions I had always posed regarding the interpretations of this sacred work, whose spiritual discipline I greatly admire. If the aesceticism and ideal of the apostles which form the message of the Bhagavad-gītā As It Is were more widespread and more respected, the world in which we live would be transformed into a better, more fraternal place.”
 <cite>Dr. Paul Lesourd, Author, Professeur Honoraire,\\ Catholic University of Paris</cite></blockquote>
 </masonry>
-*/

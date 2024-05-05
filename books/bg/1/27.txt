@@ -4,7 +4,8 @@
     "h1":"Bg. 1.27",
     "label":"Text 27",
     "title":"Bhagavad-gītā As It Is 1.27",
-    "description":"When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus:"
+    "description":"When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus:",
+    "image":"books:bg:plate05.jpg"
 }
 ---
 

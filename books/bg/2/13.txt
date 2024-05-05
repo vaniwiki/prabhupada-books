@@ -4,7 +4,8 @@
     "h1":"Bg. 2.13",
     "label":"Text 13",
     "title":"Bhagavad-gītā As It Is 2.13",
-    "description":"As the embodied soul continually passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death. The self-realized soul is not bewildered by such a change."
+    "description":"As the embodied soul continually passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death. The self-realized soul is not bewildered by such a change.",
+    "image":"books:bg:plate08.jpg"
 }
 ---
 

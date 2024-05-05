@@ -4,7 +4,8 @@
     "h1":"Bg. 1.11",
     "label":"Text 11",
     "title":"Bhagavad-gītā As It Is 1.11",
-    "description":"Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army."
+    "description":"Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army.",
+    "image":"books:bg:plate06.jpg"
 }
 ---
 

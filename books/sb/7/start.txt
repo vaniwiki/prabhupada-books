@@ -11,7 +11,7 @@
 ====== The Science of God ======
 
 <card line-spacing="lg">
-<title h4>Table of contents</title>
+<header h4>Table of contents</header>
   - [[books:sb:7:1:start|The Supreme Lord Is Equal to Everyone]]
   - [[books:sb:7:2:start|Hiraṇyakaśipu, King of the Demons]]
   - [[books:sb:7:3:start|Hiraṇyakaśipu's Plan to Become Immortal]]

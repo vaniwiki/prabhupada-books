@@ -117,7 +117,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:10:6:|[[books:sb:10:6:start|The Killing of the Demon Pūtanā]]</title>
+<title h4>[[books:sb:10:6:start|The Killing of the Demon Pūtanā]]</title>
   * [[books:sb:10:6:|[[books:sb:10:6:|Chapter Summary]]
   * [[books:sb:10:6:|[[books:sb:10:6:|Taking Shelter of the Supreme Controller]]
   * [[books:sb:10:6:|[[books:sb:10:6:|Pūtanā Attempts to Poison Baby Kṛṣṇa]]
@@ -226,4 +226,5 @@
 
 <grid class="pagenav-index">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:9:start|<- Canto 9]]</btn></box>
+<box class="col-6"></box>
 </grid>

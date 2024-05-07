@@ -15,19 +15,19 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate41.jpg?500x500 |}}
+{{ :books:bg:plate41.jpg?500&ratio=3:4 |}}
 Plate 41 --- The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. [[books:bg:18:13-14|(Bg. 18.13-14)]]
 </card>
 <card>
-{{ :books:bg:plate42.jpg?500x500 |}}
+{{ :books:bg:plate42.jpg?500&ratio=3:4 |}}
 Plate 42 --- By worship of the Lord, man can, in the performance of his own duty, become perfect. [[books:bg:18:42|(Bg. 18.42)]]
 </card>
 <card>
-{{ :books:bg:plate43.jpg?500x500 |}}
+{{ :books:bg:plate43.jpg?500&ratio=3:4 |}}
 Plate 43 --- “Always think of Me and become My devotee. Worship Me and offer your homage unto Me.” [[books:bg:18:65|(Bg. 18.65)]]
 </card>
 <card>
-{{ :books:bg:plate44.jpg?500x500 |}}
+{{ :books:bg:plate44.jpg?500&ratio=3:4 |}}
 Plate 44 --- “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” [[books:bg:18:72|(Bg. 18.72)]]
 </card>
 </masonry>

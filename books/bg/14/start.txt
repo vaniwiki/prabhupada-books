@@ -15,7 +15,7 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate34.jpg?500x500 |}}
+{{ :books:bg:plate34.jpg?500&ratio=3:4 |}}
 Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
 </card>
 </masonry>

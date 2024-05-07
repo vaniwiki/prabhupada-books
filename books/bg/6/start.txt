@@ -16,19 +16,19 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate21.jpg?500x500 |}}
+{{ :books:bg:plate21.jpg?500&ratio=3:4 |}}
 Plate 21 --- “One should meditate on Me within the heart and make Me the ultimate goal of life.” [[books:bg:6:13-14|(Bg. 6.13-14)]]
 </card>
 <card>
-{{ :books:bg:plate22.jpg?500x500 |}}
+{{ :books:bg:plate22.jpg?500&ratio=3:4 |}}
 Plate 22 --- One should engage oneself in the practice of yoga with undeviating determination and faith. [[books:bg:6:24#id4|(Bg. 6.24)]]
 </card>
 <card>
-{{ :books:bg:plate23.jpg?500x500 |}}
+{{ :books:bg:plate23.jpg?500&ratio=3:4 |}}
 Plate 23 --- “The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa.” [[books:bg:6:34|(Bg. 6.34)]]
 </card>
 <card>
-{{ :books:bg:plate24.jpg?500x500 |}}
+{{ :books:bg:plate24.jpg?500&ratio=3:4 |}}
 Plate 24 --- “Of all yogīs, he who abides in Me with great faith is the highest of all.” [[books:bg:6:47|(Bg. 6.47)]]
 </card>
 </masonry>

@@ -293,6 +293,7 @@
   * [[books:sb:3:15:|The Lord is the Reservoir of All Pleasure]]
   * [[books:sb:3:15:|The Kumāras Smell the Aroma of Tulasī Leaves]]
   * [[books:sb:3:15:|Prayers of the Kumāras]]
+</card>
 
 <card line-spacing="lg">
 <header>CHAPTER SIXTEEN</header>
@@ -316,10 +317,11 @@
   * [[books:sb:3:17:|The Benediction of Hiraṇyakaśipu]]
   * [[books:sb:3:17:|Hiraṇyākṣa Shows His Splendor]]
   * [[books:sb:3:17:|Varuna Waxes Angry]]
+</card>
 
-
-  * CHAPTER EIGHTEEN
-<b>The Battle Between Lord Boar and the Demon Hiraṇyākṣa</b>
+<card line-spacing="lg">
+<header>CHAPTER EIGHTEEN</header>
+<title h4>[[books:sb:3:18:start|The Battle Between Lord Boar and the Demon Hiraṇyākṣa]]</title>
   * [[books:sb:3:18:|The Lord in His Boar Incarnation]]
   * [[books:sb:3:18:|The Abusive Words of the Demon]]
   * [[books:sb:3:18:|The Lord Expresses His Terrible Anger]]

@@ -297,3 +297,10 @@ I am continuously trying to publish books, as suggested by my spiritual master. 
   * [[books:sb:8:24:|How Materialistic “Gurus” Cheat Foolish Disciples]]
   * [[books:sb:8:24:|The Search for a Bona Fide Spiritual Master]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:7:start|<- Canto 7]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:9:start|Canto 9 ->]]</btn></box>
+</grid>

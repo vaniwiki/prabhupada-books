@@ -300,3 +300,10 @@
   * [[books:sb:9:24:|Freedom from Material Contamination]]
   * [[books:sb:9:24:|Seeing the Lord’s Beauty: A Daily Festival]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:8:start|<- Canto 8]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:10:start|Canto 10 ->]]</btn></box>
+</grid>

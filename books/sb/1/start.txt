@@ -363,3 +363,9 @@
   * [[:books:sb:1:19:25|The Appearance of Sukadeva Gosvami]]
   * [[:books:sb:1:19:37|Questions by the King]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="end" skin="none">[[books:sb:2:start|Canto 2 ->]]</btn></box>
+</grid>

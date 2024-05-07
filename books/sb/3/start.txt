@@ -573,3 +573,10 @@
   * [[books:sb:3:33:|Devahūti Appears Like Fire Surrounded by Smoke]]
   * [[books:sb:3:33:|The Ocean Offers Kapila a Place of Residence]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:2:start|<- Canto 2]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:4:start|Canto 4 ->]]</btn></box>
+</grid>

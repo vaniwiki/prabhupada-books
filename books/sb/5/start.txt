@@ -335,3 +335,10 @@
   * [[books:sb:5:26:|The Punishment for Those who Are like Envious Serpents]]
   * [[books:sb:5:26:|Both the Pious and Impious Return to Earth]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:4:start|<- Canto 4]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:6:start|Canto 6 ->]]</btn></box>
+</grid>

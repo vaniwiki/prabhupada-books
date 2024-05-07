@@ -216,3 +216,9 @@ CHAPTER FIVE
   * [[books:sb:10:13:|Brahmā Stunned by Transcendental Bliss]]
   * [[books:sb:10:13:|The Lord is One Without a Second]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:9:start|<- Canto 9]]</btn></box>
+</grid>

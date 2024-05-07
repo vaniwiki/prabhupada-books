@@ -566,3 +566,10 @@
   * [[books:sb:4:31:|The Lord Relishes the Activities of the Devotees]]
   * [[books:sb:4:31:|The Pracetās Go Back to Godhead]]
 </card>
+
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:3:start|<- Canto 3]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:5:start|Canto 5 ->]]</btn></box>
+</grid>

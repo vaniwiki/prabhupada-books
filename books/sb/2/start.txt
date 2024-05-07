@@ -12,7 +12,6 @@
 
 <card line-spacing="lg">
 <header>Table of contents</header>
-
   - [[books:sb:2:1:start|The First Step in God Realization]]
   - [[books:sb:2:2:start|The Lord in the Heart]]
   - [[books:sb:2:3:start|Pure Devotional Service: The Change in Heart]]
@@ -23,7 +22,6 @@
   - [[books:sb:2:8:start|Questions by King Parīkṣit]]
   - [[books:sb:2:9:start|Answers by Citing the Lord's Version]]
   - [[books:sb:2:10:start|Bhāgavatam Is the Answer to All Questions]]
-
 </card>
 
 
@@ -92,8 +90,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:2:3:start|Pure Devotional Service:]]</title>
-  * [[books:sb:2:3:|The Change in Heart]]
+<title h4>[[books:sb:2:3:start|Pure Devotional Service: The Change in Heart]]</title>
   * [[books:sb:2:3:|Duty of the Intelligent Man on the Threshold of Death]]
   * [[books:sb:2:3:|Different Modes of Worship]]
   * [[books:sb:2:3:|Kṛṣṇa, the Ultimate Beneficiary of All Sacrifices]]
@@ -184,6 +181,7 @@
   * [[books:sb:2:6:|Kṛṣṇa is Pure and Uncontaminated]]
   * [[books:sb:2:6:|Illusory Play of Material Creation]]
   * [[books:sb:2:6:|Śrīmad-Bhāgavatam Gives the Utmost Satisfaction]]
+</card>
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
@@ -294,3 +292,9 @@
   * [[books:sb:2:10:|The Exhaling and Inhaling of Viṣṇu]]
   * [[books:sb:2:10:|Intelligence Behind the Beauty]]
 </card>
+
+
+<grid class="pagenav-index">
+<box class="col-6"><btn align="start" skin="none">[[books:sb:1:start|<- Canto 1]]</btn></box>
+<box class="col-6"><btn align="end" skin="none">[[books:sb:2:start|Canto 3 ->]]</btn></box>
+</grid>

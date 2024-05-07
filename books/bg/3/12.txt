@@ -4,7 +4,8 @@
     "h1":"Bg. 3.12",
     "label":"Text 12",
     "title":"Bhagavad-gītā As It Is 3.12",
-    "description":"In charge of the various necessities of life, the demigods, being satisfied by the performance of yajña [sacrifice], supply all necessities to man. But he who enjoys these gifts, without offering them to the demigods in return, is certainly a thief."
+    "description":"In charge of the various necessities of life, the demigods, being satisfied by the performance of yajña [sacrifice], supply all necessities to man. But he who enjoys these gifts, without offering them to the demigods in return, is certainly a thief.",
+    "image":"books:bg:plate13.jpg"
 }
 ---
 

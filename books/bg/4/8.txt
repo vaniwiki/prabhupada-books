@@ -4,7 +4,8 @@
     "h1":"Bg. 4.8",
     "label":"Text 8",
     "title":"Bhagavad-gītā As It Is 4.8",
-    "description":"In order to deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself millennium after millennium."
+    "description":"In order to deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself millennium after millennium.",
+    "image":"books:bg:plate17.jpg"
 }
 ---
 

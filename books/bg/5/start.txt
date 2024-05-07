@@ -16,11 +16,11 @@
 
 <masonry>
 <card>
-{{ books:bg:plate19.jpg?500&ratio=3:4 |}}
+{{ books:bg:plate19.jpg?550&ratio=25:19 |}}
 Plate 19 --- He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]
 </card>
 <card>
-{{ books:bg:plate20.jpg?500&ratio=3:4 |}}
+{{ books:bg:plate20.jpg?550&ratio=16:21 |}}
 Plate 20 --- The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]
 </card>
 </masonry>

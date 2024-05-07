@@ -4,7 +4,8 @@
     "h1":"Bg. 14.14",
     "label":"Text 14",
     "title":"Bhagavad-gītā As It Is 14.14",
-    "description":"When one dies in the mode of goodness, he attains to the pure higher planets."
+    "description":"When one dies in the mode of goodness, he attains to the pure higher planets.",
+    "image":"books:bg:plate34.jpg"
 }
 ---
 

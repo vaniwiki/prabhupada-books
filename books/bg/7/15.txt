@@ -4,7 +4,8 @@
     "h1":"Bg. 7.15",
     "label":"Text 15",
     "title":"Bhagavad-gītā As It Is 7.15",
-    "description":"Those miscreants who are grossly foolish, lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons, do not surrender unto Me."
+    "description":"Those miscreants who are grossly foolish, lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons, do not surrender unto Me.",
+    "image":"books:bg:plate26.jpg"
 }
 ---
 

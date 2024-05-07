@@ -4,7 +4,8 @@
     "h1":"Bg. 2.62",
     "label":"Text 62",
     "title":"Bhagavad-gītā As It Is 2.62",
-    "description":"While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises."
+    "description":"While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.",
+    "image":"books:bg:plate11.jpg"
 }
 ---
 

@@ -15,7 +15,7 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate40.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate40.jpg?550&ratio=16:21 |}}
 Plate 40 --- There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. [[books:bg:17:4|(Bg. 17.4)]]
 </card>
 </masonry>

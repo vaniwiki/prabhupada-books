@@ -4,7 +4,8 @@
     "h1":"Bg. 16.5",
     "label":"Text 5",
     "title":"Bhagavad-gītā As It Is 16.5",
-    "description":"The transcendental qualities are conducive to liberation, whereas the demonic qualities make for bondage. Do not worry, O son of Pāṇḍu, for you are born with the divine qualities."
+    "description":"The transcendental qualities are conducive to liberation, whereas the demonic qualities make for bondage. Do not worry, O son of Pāṇḍu, for you are born with the divine qualities.",
+    "image":"books:bg:plate38.jpg"
 }
 ---
 

@@ -4,7 +4,8 @@
     "h1":"Bg. 4.7",
     "label":"Text 7",
     "title":"Bhagavad-gītā As It Is 4.7",
-    "description":"Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself."
+    "description":"Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself.",
+    "image":"books:bg:plate16.jpg"
 }
 ---
 

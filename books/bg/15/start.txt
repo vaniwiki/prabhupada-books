@@ -15,15 +15,15 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate35.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate35.jpg?550&ratio=20:23 |}}
 Plate 35 --- There is a banyan tree which has its roots upward and its branches down. [[books:bg:15:1|(Bg. 15.1)]]
 </card>
 <card>
-{{ :books:bg:plate36.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate36.jpg?550&ratio=21:25 |}}
 Plate 36 --- The spiritual and material worlds. [[books:bg:15:6|(Bg. 15.6)]]
 </card>
 <card>
-{{ :books:bg:plate37.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate37.jpg?550&ratio=16:21 |}}
 Plate 37 --- The living entity in the material world carries his different conceptions of life as the air carries aromas. [[books:bg:15:8|(Bg. 15.8)]]
 </card>
 </masonry>

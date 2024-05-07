@@ -4,7 +4,8 @@
     "h1":"Bg. 18.41",
     "label":"Text 41",
     "title":"Bhagavad-gītā As It Is 18.41",
-    "description":"Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by their qualities of work, O chastiser of the enemy, in accordance with the modes of nature."
+    "description":"Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by their qualities of work, O chastiser of the enemy, in accordance with the modes of nature.",
+    "image":"books:bg:plate42.jpg"
 }
 ---
 

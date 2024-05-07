@@ -4,7 +4,8 @@
     "h1":"Bg. 2.63",
     "label":"Text 63",
     "title":"Bhagavad-gītā As It Is 2.63",
-    "description":"From anger, delusion arises, and from delusion bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost, one falls down again into the material pool."
+    "description":"From anger, delusion arises, and from delusion bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost, one falls down again into the material pool.",
+    "image":"books:bg:plate11.jpg"
 }
 ---
 

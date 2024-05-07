@@ -4,7 +4,8 @@
     "h1":"Bg. 9.11",
     "label":"Text 11",
     "title":"Bhagavad-gītā As It Is 9.11",
-    "description":"Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be."
+    "description":"Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be.",
+    "image":"books:bg:plate28.jpg"
 }
 ---
 

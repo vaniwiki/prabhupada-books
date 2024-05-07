@@ -4,7 +4,8 @@
     "h1":"Bg. 3.10",
     "label":"Text 10",
     "title":"Bhagavad-gītā As It Is 3.10",
-    "description":"In the beginning of creation, the Lord of all creatures sent forth generations of men and demigods, along with sacrifices for Viṣṇu, and blessed them by saying, \"Be thou happy by this yajña [sacrifice] because its performance will bestow upon you all desirable things.\""
+    "description":"In the beginning of creation, the Lord of all creatures sent forth generations of men and demigods, along with sacrifices for Viṣṇu, and blessed them by saying, \"Be thou happy by this yajña [sacrifice] because its performance will bestow upon you all desirable things.\"",
+    "image":"books:bg:plate12.jpg"
 }
 ---
 

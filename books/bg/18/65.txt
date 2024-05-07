@@ -4,7 +4,8 @@
     "h1":"Bg. 18.65",
     "label":"Text 65",
     "title":"Bhagavad-gītā As It Is 18.65",
-    "description":"Always think of Me and become My devotee. Worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend."
+    "description":"Always think of Me and become My devotee. Worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend.",
+    "image":"books:bg:plate43.jpg"
 }
 ---
 

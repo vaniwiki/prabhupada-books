@@ -4,7 +4,8 @@
     "h1":"Bg. 15.8",
     "label":"Text 8",
     "title":"Bhagavad-gītā As It Is 15.8",
-    "description":"The living entity in the material world carries his different conceptions of life from one body to another as the air carries aromas."
+    "description":"The living entity in the material world carries his different conceptions of life from one body to another as the air carries aromas.",
+    "image":"books:bg:plate37.jpg"
 }
 ---
 

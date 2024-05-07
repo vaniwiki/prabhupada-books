@@ -4,7 +4,8 @@
     "h1":"Bg. 6.24",
     "label":"Text 24",
     "title":"Bhagavad-gītā As It Is 6.24",
-    "description":"One should engage oneself in the practice of yoga with undeviating determination and faith. One should abandon, without exception, all material desires born of false ego and thus control all the senses on all sides by the mind."
+    "description":"One should engage oneself in the practice of yoga with undeviating determination and faith. One should abandon, without exception, all material desires born of false ego and thus control all the senses on all sides by the mind.",
+    "image":"books:bg:plate22.jpg"
 }
 ---
 

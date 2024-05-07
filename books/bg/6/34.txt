@@ -4,7 +4,8 @@
     "h1":"Bg. 6.34",
     "label":"Text 34",
     "title":"Bhagavad-gītā As It Is 6.34",
-    "description":"For the mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa, and to subdue it is, it seems to me, more difficult than controlling the wind."
+    "description":"For the mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa, and to subdue it is, it seems to me, more difficult than controlling the wind.",
+    "image":"books:bg:plate23.jpg"
 }
 ---
 

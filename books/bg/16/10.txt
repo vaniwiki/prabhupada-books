@@ -4,7 +4,8 @@
     "h1":"Bg. 16.10",
     "label":"Text 10",
     "title":"Bhagavad-gītā As It Is 16.10",
-    "description":"The demoniac, taking shelter of insatiable lust, pride and false prestige, and being thus illusioned, are always sworn to unclean work, attracted by the impermanent."
+    "description":"The demoniac, taking shelter of insatiable lust, pride and false prestige, and being thus illusioned, are always sworn to unclean work, attracted by the impermanent.",
+    "image":"books:bg:plate39.jpg"
 }
 ---
 

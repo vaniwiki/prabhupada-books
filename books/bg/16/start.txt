@@ -15,11 +15,11 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate38.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate38.jpg?550&ratio=16:21 |}}
 Plate 38 --- Bewildered by false ego, strength, pride, lust and anger. [[books:bg:16:18|(Bg. 16.18)]]
 </card>
 <card>
-{{ :books:bg:plate39.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate39.jpg?550&ratio=16:21 |}}
 Plate 39 --- Lust, greed and anger are the three gates leading down to hell. [[books:bg:16:21|(Bg. 16.21)]]
 </card>
 </masonry>

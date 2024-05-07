@@ -15,11 +15,11 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate29.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate29.jpg?550&ratio=16:21 |}}
 Plate 29 --- Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” [[books:bg:10:12-13|(Bg. 10.12-13)]]
 </card>
 <card>
-{{ :books:bg:plate30.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate30.jpg?550&ratio=16:21 |}}
 Plate 30. --- “Know that all these beautiful, glorious and mighty creations spring from but a spark of My splendor.” [[books:bg:10:41|(Bg. 10.41)]]
 </card>
 </masonry>

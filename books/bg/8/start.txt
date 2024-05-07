@@ -16,7 +16,7 @@
 
 <masonry>
 <card>
-{{ :books:bg:plate27.jpg?500&ratio=3:4 |}}
+{{ :books:bg:plate27.jpg?550&ratio=16:21 |}}
 Plate 27 --- “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]
 </card>
 </masonry>

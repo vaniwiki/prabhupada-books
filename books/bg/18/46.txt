@@ -4,7 +4,8 @@
     "h1":"Bg. 18.46",
     "label":"Text 46",
     "title":"Bhagavad-gītā As It Is 18.46",
-    "description":"By worship of the Lord, who is the source of all beings and who is all-pervading, man can, in the performance of his own duty, attain perfection."
+    "description":"By worship of the Lord, who is the source of all beings and who is all-pervading, man can, in the performance of his own duty, attain perfection.",
+    "image":"books:bg:plate42.jpg"
 }
 ---
 

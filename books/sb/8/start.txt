@@ -301,6 +301,6 @@ I am continuously trying to publish books, as suggested by my spiritual master. 
 
 
 <grid class="pagenav-index">
-<box class="col-6"><btn align="start" skin="none">[[books:sb:7:start|<- Canto 7]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:sb:9:start|Canto 9 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="outline">[[books:sb:7:start|<- Canto 7]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:sb:9:start|Canto 9 ->]]</btn></box>
 </grid>

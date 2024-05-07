@@ -304,6 +304,6 @@
 
 
 <grid class="pagenav-index">
-<box class="col-6"><btn align="start" skin="none">[[books:sb:8:start|<- Canto 8]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:sb:10:start|Canto 10 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="outline">[[books:sb:8:start|<- Canto 8]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:sb:10:start|Canto 10 ->]]</btn></box>
 </grid>

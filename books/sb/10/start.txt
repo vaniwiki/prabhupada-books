@@ -220,5 +220,5 @@ CHAPTER FIVE
 
 
 <grid class="pagenav-index">
-<box class="col-6"><btn align="start" skin="none">[[books:sb:9:start|<- Canto 9]]</btn></box>
+<box class="col-6"><btn align="start" skin="outline">[[books:sb:9:start|<- Canto 9]]</btn></box>
 </grid>

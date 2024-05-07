@@ -158,7 +158,7 @@ Plate 14 --- The living entity is covered by different degrees of lust. [[books:
   ; [[books:bg:3:43|Bg 3.43]]
   : Thus knowing oneself to be transcendental to material senses, mind and intelligence, one should control the lower self by the higher self and thus—by spiritual strength—conquer this insatiable enemy known as lust.
 
-<grid>
-<box class="col-6"><btn align="start" skin="none">[[books:bg:2:start|<- Chapter 2]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:bg:4:start|Chapter 4 ->]]</btn></box>
+<grid class="pagenav-chapter">
+<box class="col-6"><btn align="start" skin="outline">[[books:bg:2:start|<- Chapter 2]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:bg:4:start|Chapter 4 ->]]</btn></box>
 </grid>

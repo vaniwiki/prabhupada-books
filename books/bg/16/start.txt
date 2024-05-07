@@ -81,7 +81,7 @@ Plate 39 --- Lust, greed and anger are the three gates leading down to hell. [[b
   ; [[books:bg:16:24|Bg 16.24]]
   : One should understand what is duty and what is not duty by the regulations of the scriptures. Knowing such rules and regulations, one should act so that he may gradually be elevated.
 
-<grid>
-<box class="col-6"><btn align="start" skin="none">[[books:bg:15:start|<- Chapter 15]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:bg:17:start|Chapter 17 ->]]</btn></box>
+<grid class="pagenav-chapter">
+<box class="col-6"><btn align="start" skin="outline">[[books:bg:15:start|<- Chapter 15]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:bg:17:start|Chapter 17 ->]]</btn></box>
 </grid>

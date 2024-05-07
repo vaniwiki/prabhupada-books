@@ -159,7 +159,7 @@ Plate 24 --- “Of all yogīs, he who abides in Me with great faith is the highe
   ; [[books:bg:6:47|Bg 6.47]]
   : And of all yogīs, he who always abides in Me with great faith, worshiping Me in transcendental loving service, is most intimately united with Me in yoga and is the highest of all.
 
-<grid>
-<box class="col-6"><btn align="start" skin="none">[[books:bg:5:start|<- Chapter 5]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:bg:7:start|Chapter 7 ->]]</btn></box>
+<grid class="pagenav-chapter">
+<box class="col-6"><btn align="start" skin="outline">[[books:bg:5:start|<- Chapter 5]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:bg:7:start|Chapter 7 ->]]</btn></box>
 </grid>

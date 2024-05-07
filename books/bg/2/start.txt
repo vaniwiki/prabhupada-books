@@ -248,7 +248,7 @@ Plate 11 --- Needs description.
   ; [[books:bg:2:72|Bg 2.72]]
   : That is the way of the spiritual and godly life, after attaining which a man is not bewildered. Being so situated, even at the hour of death, one can enter into the kingdom of God.
 
-<grid>
-<box class="col-6"><btn align="start" skin="none">[[books:bg:1:start|<- Chapter 1]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:bg:3:start|Chapter 3 ->]]</btn></box>
+<grid class="pagenav-chapter">
+<box class="col-6"><btn align="start" skin="outline">[[books:bg:1:start|<- Chapter 1]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:bg:3:start|Chapter 3 ->]]</btn></box>
 </grid>

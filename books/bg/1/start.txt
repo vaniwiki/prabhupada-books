@@ -159,6 +159,6 @@ Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
   : Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.
 
 <grid class="">
-<box class="col-6"><btn align="start" skin="none">[[books:bg:0d|<- Introduction]]</btn></box>
-<box class="col-6"><btn align="end" skin="none">[[books:bg:2:start|Chapter 2 ->]]</btn></box>
+<box class="col-6"><btn align="start" skin="outline">[[books:bg:0d|<- Introduction]]</btn></box>
+<box class="col-6"><btn align="end" skin="outline">[[books:bg:2:start|Chapter 2 ->]]</btn></box>
 </grid>

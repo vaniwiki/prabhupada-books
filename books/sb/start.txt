@@ -9,6 +9,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== Śrīmad-Bhāgavatam ======
 
 <card line-spacing="lg">

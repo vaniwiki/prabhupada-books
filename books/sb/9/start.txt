@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== Liberation ======
 
 <card line-spacing="lg">

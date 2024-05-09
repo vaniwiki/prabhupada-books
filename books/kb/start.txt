@@ -111,7 +111,7 @@
 </card>
 
 <iterator>
-    <data>select decendents where path like '%books:kb:%' and path not like '%start%' and path not like '%kb:0%' order by path asc</data>
+    <data>select decendents where path like '%books:kb:%' and path not like '%start%' and path not like '%kb:0%' order by published_date, path asc</data>
     <grid>
         <fragment>
         <box>

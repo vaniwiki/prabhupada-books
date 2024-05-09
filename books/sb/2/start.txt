@@ -4,7 +4,7 @@
     "label":"Canto 2",
     "h1":"The Cosmic Manifestation",
     "title":"Śrīmad-Bhāgavatam Canto 2: The Cosmic Manifestation",
-    "description":"Providing not only descriptions regarding the actual Process of Creation but also a list of the particular Functions of the Various Incarnations of the Lord since the beginning of time."
+    "description":"1. The First Step in God Realization; 2. The Lord in the Heart; 3. Pure Devotional Service: The Change in Heart; 4. The Process of Creation; 5. The Cause of All Causes; 6. Puruṣa-sūkta Confirmed; 7. Scheduled Incarnations with Specific Functions; 8. Questions by King Parīkṣit; 9. Answers by Citing the Lord's Version; 10. Bhāgavatam Is the Answer to All Questions."
 }
 ---
 
@@ -12,21 +12,21 @@
 
 <card line-spacing="lg">
 <header>Table of contents</header>
-  - [[books:sb:2:1:start|The First Step in God Realization]]
-  - [[books:sb:2:2:start|The Lord in the Heart]]
-  - [[books:sb:2:3:start|Pure Devotional Service: The Change in Heart]]
-  - [[books:sb:2:4:start|The Process of Creation]]
-  - [[books:sb:2:5:start|The Cause of All Causes]]
-  - [[books:sb:2:6:start|Puruṣa-sūkta Confirmed]]
-  - [[books:sb:2:7:start|Scheduled Incarnations with Specific Functions]]
-  - [[books:sb:2:8:start|Questions by King Parīkṣit]]
-  - [[books:sb:2:9:start|Answers by Citing the Lord's Version]]
-  - [[books:sb:2:10:start|Bhāgavatam Is the Answer to All Questions]]
+  - [[books:sb:2:1:start?preview=false|The First Step in God Realization]]
+  - [[books:sb:2:2:start?preview=false|The Lord in the Heart]]
+  - [[books:sb:2:3:start?preview=false|Pure Devotional Service: The Change in Heart]]
+  - [[books:sb:2:4:start?preview=false|The Process of Creation]]
+  - [[books:sb:2:5:start?preview=false|The Cause of All Causes]]
+  - [[books:sb:2:6:start?preview=false|Puruṣa-sūkta Confirmed]]
+  - [[books:sb:2:7:start?preview=false|Scheduled Incarnations with Specific Functions]]
+  - [[books:sb:2:8:start?preview=false|Questions by King Parīkṣit]]
+  - [[books:sb:2:9:start?preview=false|Answers by Citing the Lord's Version]]
+  - [[books:sb:2:10:start?preview=false|Bhāgavatam Is the Answer to All Questions]]
 </card>
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[books:sb:2:1:start|The First Step in Cod Realization]]</title>
+<title h4>[[books:sb:2:1:start?preview=false|The First Step in Cod Realization]]</title>
   * [[books:sb:2:1:0|Invocation]]
   * [[books:sb:2:1:1|Importance of Hearing Kṛṣṇa-kathā]]
   * [[books:sb:2:1:3|Activities of Envious Householders]]
@@ -58,7 +58,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[books:sb:2:2:start|The Lord in the Heart]]</title>
+<title h4>[[books:sb:2:2:start?preview=false|The Lord in the Heart]]</title>
   * [[books:sb:2:2:1|Even Śrī Brahmājī in a Slumber of Forgetfulness]]
   * [[books:sb:2:2:2|Flowery Words of the Vedas Are Misleading]]
   * [[books:sb:2:2:3|Material Creation: A Jugglery of Names Only]]
@@ -89,7 +89,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:2:3:start|Pure Devotional Service: The Change in Heart]]</title>
+<title h4>[[books:sb:2:3:start?preview=false|Pure Devotional Service: The Change in Heart]]</title>
   * [[books:sb:2:3:1|Duty of the Intelligent Man on the Threshold of Death]]
   * [[books:sb:2:3:2-7|Different Modes of Worship]]
   * [[books:sb:2:3:10|Kṛṣṇa, the Ultimate Beneficiary of All Sacrifices]]
@@ -110,7 +110,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[books:sb:2:4:start|The Process of Creation]]</title>
+<title h4>[[books:sb:2:4:start?preview=false|The Process of Creation]]</title>
   * [[books:sb:2:4:1|The Vedic Adventure]]
   * [[books:sb:2:4:2|Dark Well of Household Life]]
   * [[books:sb:2:4:3-4|Mahārāja Parīkṣit Renounces All Fruitive Activities]]
@@ -133,7 +133,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[books:sb:2:5:start|The Cause of All causes]]</title>
+<title h4>[[books:sb:2:5:start?preview=false|The Cause of All causes]]</title>
   * [[books:sb:2:5:1|Śrī Nārada Muni Inquires from Brahmājī]]
   * [[books:sb:2:5:3|Nārada Mistakes Brahmā for the Cause of All Causes]]
   * [[books:sb:2:5:9|Basic Principle of Missionary Activities]]
@@ -159,7 +159,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:2:6:start|Purusa-sūkta confirmed]]</title>
+<title h4>[[books:sb:2:6:start?preview=false|Purusa-sūkta confirmed]]</title>
   * [[books:sb:2:6:1|Opulences of the Universal Form]]
   * [[books:sb:2:6:6|Kṛṣṇa, the Source of All Power]]
   * [[books:sb:2:6:7|Lotus Feet of the Lord]]
@@ -184,7 +184,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[books:sb:2:7:start|Scheduled incarnations with Specific Functions]]</title>
+<title h4>[[books:sb:2:7:start?preview=false|Scheduled incarnations with Specific Functions]]</title>
   * [[books:sb:2:7:1|Gigantic Boar Incarnation]]
   * [[books:sb:2:7:3|His Lordship Kapila]]
   * [[books:sb:2:7:5|The Four Kumāras]]
@@ -218,7 +218,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[books:sb:2:8:start|Questions by King Parīkṣit]]</title>
+<title h4>[[books:sb:2:8:start?preview=false|Questions by King Parīkṣit]]</title>
   * [[books:sb:2:8:1|Descending Process of Disciplic Succession]]
   * [[books:sb:2:8:4|Professional Bhāgavatam. Reciters are Useless]]
   * [[books:sb:2:8:5|Autumnal Rains upon Muddy Pools]]
@@ -236,7 +236,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[books:sb:2:9:start|Answers by Citing the Lord’s Version]]</title>
+<title h4>[[books:sb:2:9:start?preview=false|Answers by Citing the Lord’s Version]]</title>
   * [[books:sb:2:9:1|Dreaming that One is King]]
   * [[books:sb:2:9:2|Different Dresses Offered by Illusory Energy]]
   * [[books:sb:2:9:3|Misconceptions of “I” and “Mine”]]
@@ -270,7 +270,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[books:sb:2:10:start|Bhāgavatam is The Answer]]</title>
+<title h4>[[books:sb:2:10:start?preview=false|Bhāgavatam is The Answer]]</title>
   * [[books:sb:2:10:3|Sixteen Elementary Manifestations]]
   * [[books:sb:2:10:4|The Right Direction of Life]]
   * [[books:sb:2:10:6|Winding Up the Cosmic Manifestation]]

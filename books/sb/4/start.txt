@@ -4,7 +4,7 @@
     "label":"Canto 4",
     "h1":"The Creation of the Fourth Order",
     "title":"Śrīmad-Bhāgavatam Canto 4: The Creation of the Fourth Order",
-    "description":"Personal pastimes involving infamous demigods like Lord Brahma and Lord Siva as well as the transcendental sage and spaceman Narada Muni and his musical vina."
+    "description":"1. Genealogical Table of the Daughters of Manu; 2. Dakṣa Curses Lord Śiva; 3. Talks Between Lord Śiva and Satī; 4. Satī Quits Her Body; 5. Frustration of the Sacrifice of Dakṣa; 6. Brahmā Satisfies Lord Śiva; 7. The Sacrifice Performed by Dakṣa; 8. Dhruva Mahārāja Leaves Home for the Forest; 9. Dhruva Mahārāja Returns Home; 10. Dhruva Mahārāja's Fight With the Yakṣas; 11. Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting; 12. Dhruva Mahārāja Goes Back to Godhead; 13. Description of the Descendants of Dhruva Mahārāja; 14. The Story of King Vena; 15. King Pṛthu's Appearance and Coronation; 16. Praise of King Pṛthu by the Professional Reciters; 17. Mahārāja Pṛthu Becomes Angry at the Earth; 18. Pṛthu Mahārāja Milks the Earth Planet; 19. King Pṛthu's One Hundred Horse Sacrifices; 20. Lord Viṣṇu's Appearance in the Sacrificial Arena of Mahārāja Pṛthu; 21. Instructions by Mahārāja Pṛthu; 22. Pṛthu Mahārāja's Meeting with the Four Kumāras; 23. Mahārāja Pṛthu's Going Back Home; 24. Chanting the Song Sung by Lord Śiva; 25. The Descriptions of the Characteristics of King Purañjana; 26. King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry; 27. Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā; 28. Purañjana Becomes a Woman in the Next Life; 29. Talks Between Nārada and King Prācīnabarhi; 30. The Activities of the Pracetās; 31. Nārada Instructs the Pracetās."
 }
 ---
 
@@ -12,44 +12,44 @@
 
 <card line-spacing="lg">
 <header>Table of contents</header>
-  - [[books:sb:4:1:start|Genealogical Table of the Daughters of Manu]]
-  - [[books:sb:4:2:start|Dakṣa Curses Lord Śiva]]
-  - [[books:sb:4:3:start|Talks Between Lord Śiva and Satī]]
-  - [[books:sb:4:4:start|Satī Quits Her Body]]
-  - [[books:sb:4:5:start|Frustration of the Sacrifice of Dakṣa]]
-  - [[books:sb:4:6:start|Brahmā Satisfies Lord Śiva]]
-  - [[books:sb:4:7:start|The Sacrifice Performed by Dakṣa]]
-  - [[books:sb:4:8:start|Dhruva Mahārāja Leaves Home for the Forest]]
-  - [[books:sb:4:9:start|Dhruva Mahārāja Returns Home]]
-  - [[books:sb:4:10:start|Dhruva Mahārāja's Fight With the Yakṣas]]
-  - [[books:sb:4:11:start|Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting]]
-  - [[books:sb:4:12:start|Dhruva Mahārāja Goes Back to Godhead]]
-  - [[books:sb:4:13:start|Description of the Descendants of Dhruva Mahārāja]]
-  - [[books:sb:4:14:start|The Story of King Vena]]
-  - [[books:sb:4:15:start|King Pṛthu's Appearance and Coronation]]
-  - [[books:sb:4:16:start|Praise of King Pṛthu by the Professional Reciters]]
-  - [[books:sb:4:17:start|Mahārāja Pṛthu Becomes Angry at the Earth]]
-  - [[books:sb:4:18:start|Pṛthu Mahārāja Milks the Earth Planet]]
-  - [[books:sb:4:19:start|King Pṛthu's One Hundred Horse Sacrifices]]
-  - [[books:sb:4:20:start|Lord Viṣṇu's Appearance in the Sacrificial Arena of Mahārāja Pṛthu]]
-  - [[books:sb:4:21:start|Instructions by Mahārāja Pṛthu]]
-  - [[books:sb:4:22:start|Pṛthu Mahārāja's Meeting with the Four Kumāras]]
-  - [[books:sb:4:23:start|Mahārāja Pṛthu's Going Back Home]]
-  - [[books:sb:4:24:start|Chanting the Song Sung by Lord Śiva]]
-  - [[books:sb:4:25:start|The Descriptions of the Characteristics of King Purañjana]]
-  - [[books:sb:4:26:start|King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry]]
-  - [[books:sb:4:27:start|Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā]]
-  - [[books:sb:4:28:start|Purañjana Becomes a Woman in the Next Life]]
-  - [[books:sb:4:29:start|Talks Between Nārada and King Prācīnabarhi]]
-  - [[books:sb:4:30:start|The Activities of the Pracetās]]
-  - [[books:sb:4:31:start|Nārada Instructs the Pracetās]]
+  - [[books:sb:4:1:start?preview=false|Genealogical Table of the Daughters of Manu]]
+  - [[books:sb:4:2:start?preview=false|Dakṣa Curses Lord Śiva]]
+  - [[books:sb:4:3:start?preview=false|Talks Between Lord Śiva and Satī]]
+  - [[books:sb:4:4:start?preview=false|Satī Quits Her Body]]
+  - [[books:sb:4:5:start?preview=false|Frustration of the Sacrifice of Dakṣa]]
+  - [[books:sb:4:6:start?preview=false|Brahmā Satisfies Lord Śiva]]
+  - [[books:sb:4:7:start?preview=false|The Sacrifice Performed by Dakṣa]]
+  - [[books:sb:4:8:start?preview=false|Dhruva Mahārāja Leaves Home for the Forest]]
+  - [[books:sb:4:9:start?preview=false|Dhruva Mahārāja Returns Home]]
+  - [[books:sb:4:10:start?preview=false|Dhruva Mahārāja's Fight With the Yakṣas]]
+  - [[books:sb:4:11:start?preview=false|Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting]]
+  - [[books:sb:4:12:start?preview=false|Dhruva Mahārāja Goes Back to Godhead]]
+  - [[books:sb:4:13:start?preview=false|Description of the Descendants of Dhruva Mahārāja]]
+  - [[books:sb:4:14:start?preview=false|The Story of King Vena]]
+  - [[books:sb:4:15:start?preview=false|King Pṛthu's Appearance and Coronation]]
+  - [[books:sb:4:16:start?preview=false|Praise of King Pṛthu by the Professional Reciters]]
+  - [[books:sb:4:17:start?preview=false|Mahārāja Pṛthu Becomes Angry at the Earth]]
+  - [[books:sb:4:18:start?preview=false|Pṛthu Mahārāja Milks the Earth Planet]]
+  - [[books:sb:4:19:start?preview=false|King Pṛthu's One Hundred Horse Sacrifices]]
+  - [[books:sb:4:20:start?preview=false|Lord Viṣṇu's Appearance in the Sacrificial Arena of Mahārāja Pṛthu]]
+  - [[books:sb:4:21:start?preview=false|Instructions by Mahārāja Pṛthu]]
+  - [[books:sb:4:22:start?preview=false|Pṛthu Mahārāja's Meeting with the Four Kumāras]]
+  - [[books:sb:4:23:start?preview=false|Mahārāja Pṛthu's Going Back Home]]
+  - [[books:sb:4:24:start?preview=false|Chanting the Song Sung by Lord Śiva]]
+  - [[books:sb:4:25:start?preview=false|The Descriptions of the Characteristics of King Purañjana]]
+  - [[books:sb:4:26:start?preview=false|King Purañjana Goes to the Forest to Hunt, and His Queen Becomes Angry]]
+  - [[books:sb:4:27:start?preview=false|Attack by Caṇḍavega on the City of King Purañjana: the Character of Kālakanyā]]
+  - [[books:sb:4:28:start?preview=false|Purañjana Becomes a Woman in the Next Life]]
+  - [[books:sb:4:29:start?preview=false|Talks Between Nārada and King Prācīnabarhi]]
+  - [[books:sb:4:30:start?preview=false|The Activities of the Pracetās]]
+  - [[books:sb:4:31:start?preview=false|Nārada Instructs the Pracetās]]
 </card>
 
 
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[books:sb:4:1:start|Genealogical Table of the Daughters of Manu]]</title>
+<title h4>[[books:sb:4:1:start?preview=false|Genealogical Table of the Daughters of Manu]]</title>
   * [[books:sb:4:1:|Three Daughters of Svāyambhuva Manu]]
   * [[books:sb:4:1:|Yajna Born of Ākuti]]
   * [[books:sb:4:1:|Twelve Boys Born of Yajna and Dakṣiṇā]]
@@ -66,7 +66,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[books:sb:4:2:start|Dakṣa curses Lord Śiva]]</title>
+<title h4>[[books:sb:4:2:start?preview=false|Dakṣa curses Lord Śiva]]</title>
   * [[books:sb:4:2:|Lord Śiva, Spiritual Master of the World]]
   * [[books:sb:4:2:|Dakṣa Offended by Lord Śiva]]
   * [[books:sb:4:2:|Dakṣa Speaks Against Lord Śiva]]
@@ -79,7 +79,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:4:3:start|Talks Between Lord Śiva and Sati]]</title>
+<title h4>[[books:sb:4:3:start?preview=false|Talks Between Lord Śiva and Sati]]</title>
   * [[books:sb:4:3:|Tension Between Dakṣa and Lord Śiva]]
   * [[books:sb:4:3:|The Great Sacrifice Planned by Dakṣa]]
   * [[books:sb:4:3:|Sati’s Desire to Attend the Sacrifice]]
@@ -93,7 +93,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[books:sb:4:4:start|Sati Quits Her Body]]</title>
+<title h4>[[books:sb:4:4:start?preview=false|Sati Quits Her Body]]</title>
   * [[books:sb:4:4:|Sati’s Mind Unsettled]]
   * [[books:sb:4:4:|Sati Leaves Her Husband]]
   * [[books:sb:4:4:|Sati Dissatisfied by Dakṣa’s Silence]]
@@ -110,7 +110,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[books:sb:4:5:start|Frustration of the Sacrifice of Dakśa]]</title>
+<title h4>[[books:sb:4:5:start?preview=false|Frustration of the Sacrifice of Dakśa]]</title>
   * [[books:sb:4:5:|Śiva Becomes Angry]]
   * [[books:sb:4:5:|The Fearful Black Demon Created]]
   * [[books:sb:4:5:|Śiva’s Soldiers Follow the Fierce Personality]]
@@ -121,7 +121,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:4:6:start|Lord Brahmā Satisfies Lord Śiva]]</title>
+<title h4>[[books:sb:4:6:start?preview=false|Lord Brahmā Satisfies Lord Śiva]]</title>
   * [[books:sb:4:6:|Priests and Demigods Approach Lord Brahmā]]
   * [[books:sb:4:6:|Lord Śiva Easily Pleased]]
   * [[books:sb:4:6:|The Abode of Kailāsa]]
@@ -139,7 +139,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[books:sb:4:7:start|The Sacrifice Performed by Dakṣa]]</title>
+<title h4>[[books:sb:4:7:start?preview=false|The Sacrifice Performed by Dakṣa]]</title>
   * [[books:sb:4:7:|Śiva Pacified by the Words of Lord Brahmā]]
   * [[books:sb:4:7:|Dakṣa Given a Goat’s Head]]
   * [[books:sb:4:7:|Dakṣa's Heart Cleansed]]
@@ -164,7 +164,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[books:sb:4:8:start|Dhruva Mahārāja Leaves Home for the Forest]]</title>
+<title h4>[[books:sb:4:8:start?preview=false|Dhruva Mahārāja Leaves Home for the Forest]]</title>
   * [[books:sb:4:8:|The Brahmacārī Sons of Brahmā]]
   * [[books:sb:4:8:|Irreligion Also Brahmā’s Son]]
   * [[books:sb:4:8:|The Descendants of Svāyambhuva Manu]]
@@ -192,7 +192,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[books:sb:4:9:start|Dhruva Mahārāja Returns Home]]</title>
+<title h4>[[books:sb:4:9:start?preview=false|Dhruva Mahārāja Returns Home]]</title>
   * [[books:sb:4:9:|The Lord Appears Before Dhruva]]
   * [[books:sb:4:9:|Dhruva Offers Conclusive Prayers]]
   * [[books:sb:4:9:|The Lord is Like a Desire Tree]]
@@ -212,7 +212,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[books:sb:4:10:start|Dhruva Mahārāja’s Fight with the Yakṣas]]</title>
+<title h4>[[books:sb:4:10:start?preview=false|Dhruva Mahārāja’s Fight with the Yakṣas]]</title>
   * [[books:sb:4:10:|Dhruva’s Brother Killed by a Yakṣa]]
   * [[books:sb:4:10:|The Yakṣas Valiantly Exhibit Their Prowess]]
   * [[books:sb:4:10:|Dhruva Shoots Incessant Arrows]]
@@ -221,7 +221,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER ELEVEN</header>
-<title h4>[[books:sb:4:11:start|Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting]]</title>
+<title h4>[[books:sb:4:11:start?preview=false|Svāyambhuva Manu Advises Dhruva Mahārāja to Stop Fighting]]</title>
   * [[books:sb:4:11:|Dhruva’s Arrows Dismay the Enemy Soldiers]]
   * [[books:sb:4:11:|Svāyambhuva Manu Gives Good Instruction]]
   * [[books:sb:4:11:|Creation of the Material World]]
@@ -232,7 +232,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWELVE</header>
-<title h4>[[books:sb:4:12:start|Dhruva Mahārāja Goes Back to Godhead]]</title>
+<title h4>[[books:sb:4:12:start?preview=false|Dhruva Mahārāja Goes Back to Godhead]]</title>
   * [[books:sb:4:12:|Kuvera Speaks to Dhruva Mahārāja]]
   * [[books:sb:4:12:|Kuvera Offers a Benediction to Dhruva]]
   * [[books:sb:4:12:|Dhruva Performs Many Ceremonial Sacrifices]]
@@ -249,7 +249,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTEEN</header>
-<title h4>[[books:sb:4:13:start|Description of the Descendants of Dhruva Mahārāja]]</title>
+<title h4>[[books:sb:4:13:start?preview=false|Description of the Descendants of Dhruva Mahārāja]]</title>
   * [[books:sb:4:13:|Vidura Inquires About the Pracetās]]
   * [[books:sb:4:13:|Dhruva’s Son Utkala Does Not Desire the Throne]]
   * [[books:sb:4:13:|Vatsara Elevated to the Royal Throne]]
@@ -262,7 +262,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOURTEEN</header>
-<title h4>[[books:sb:4:14:start|The Story of King vena]]</title>
+<title h4>[[books:sb:4:14:start?preview=false|The Story of King vena]]</title>
   * [[books:sb:4:14:|Vena Installed on the Throne]]
   * [[books:sb:4:14:|King Vena Stops Religious Rituals]]
   * [[books:sb:4:14:|The Great Sages Speak to King Vena]]
@@ -275,7 +275,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIFTEEN</header>
-<title h4>[[books:sb:4:15:start|King Pṛthu's Appearance and coronation]]</title>
+<title h4>[[books:sb:4:15:start?preview=false|King Pṛthu's Appearance and coronation]]</title>
   * [[books:sb:4:15:|Male and Female Born of the Arms of Vena]]
   * [[books:sb:4:15:|The Goddess of Fortune Incarnated as Arci King]]
   * [[books:sb:4:15:|Pṛthu is Placed on the Throne King Pṛthu Speaks]]
@@ -283,7 +283,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIXTEEN</header>
-<title h4>[[books:sb:4:16:start|Praise of King Pṛthu by the Professional Reciters]]</title>
+<title h4>[[books:sb:4:16:start?preview=false|Praise of King Pṛthu by the Professional Reciters]]</title>
   * [[books:sb:4:16:|The Reciters Continue to Praise the King]]
   * [[books:sb:4:16:|King Pṛthu As a Chastiser to the Irreligious]]
   * [[books:sb:4:16:|King Pṛthu As a Protector of the World]]
@@ -294,7 +294,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVENTEEN</header>
-<title h4>[[books:sb:4:17:start|Mahārāja Pṛthu Becomes Angry at the Earth]]</title>
+<title h4>[[books:sb:4:17:start?preview=false|Mahārāja Pṛthu Becomes Angry at the Earth]]</title>
   * [[books:sb:4:17:|The Citizens Suffer Starvation]]
   * [[books:sb:4:17:|The Earth Flees from King Pṛthu]]
   * [[books:sb:4:17:|The Cow-shaped Earth Appeals to the King]]
@@ -306,7 +306,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHTEEN</header>
-<title h4>[[books:sb:4:18:start|Pṛthu Mahārāja Milks the Earth Planet]]</title>
+<title h4>[[books:sb:4:18:start?preview=false|Pṛthu Mahārāja Milks the Earth Planet]]</title>
   * [[books:sb:4:18:|The Planet Earth Tries to Convince the King]]
   * [[books:sb:4:18:|Grains Being Used by Nondevotees]]
   * [[books:sb:4:18:|Earth Fulfills the King’s Desire]]
@@ -317,7 +317,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINETEEN</header>
-<title h4>[[books:sb:4:19:start|King Pṛthu's One Hundred Horse Sacrifices]]</title>
+<title h4>[[books:sb:4:19:start?preview=false|King Pṛthu's One Hundred Horse Sacrifices]]</title>
   * [[books:sb:4:19:|Viṣṇu Present at the Sacrifices of King Pṛthu]]
   * [[books:sb:4:19:|King Pṛthu Presented with Various Gifts]]
   * [[books:sb:4:19:|Indra Takes the Sacrificial Horse]]
@@ -330,7 +330,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY</header>
-<title h4>[[books:sb:4:20:start|Lord Viṣṇu's Appearance in the Sacrificial Arena of Mahārāja Pṛthu]]</title>
+<title h4>[[books:sb:4:20:start?preview=false|Lord Viṣṇu's Appearance in the Sacrificial Arena of Mahārāja Pṛthu]]</title>
   * [[books:sb:4:20:|Lord Viṣṇu Appears on the Scene]]
   * [[books:sb:4:20:|The Intelligent Don’t Become Addicted to the Body]]
   * [[books:sb:4:20:|The Devotee’s Mind Becomes Broader and Transparent]]
@@ -347,7 +347,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-ONE</header>
-<title h4>[[books:sb:4:21:start|instructions by Mahārāja Pṛthu]]</title>
+<title h4>[[books:sb:4:21:start?preview=false|instructions by Mahārāja Pṛthu]]</title>
   * [[books:sb:4:21:|The King’s City Beautifully Decorated]]
   * [[books:sb:4:21:|All the Citizens Welcome the King]]
   * [[books:sb:4:21:|The Demigods Follow in Pṛthu’s Footsteps]]
@@ -367,7 +367,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY- TWO</header>
-<title h4>[[books:sb:4:22:start|Pṛthu Mahārāja's Meeting with the Four Kumāras]]</title>
+<title h4>[[books:sb:4:22:start?preview=false|Pṛthu Mahārāja's Meeting with the Four Kumāras]]</title>
   * [[books:sb:4:22:|The Four Kumāras Arrive on the Spot]]
   * [[books:sb:4:22:|The King Worships the Four Kumāras]]
   * [[books:sb:4:22:|King Pṛthu Speaks with Great Restraint]]
@@ -392,7 +392,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-THREE</header>
-<title h4>[[books:sb:4:23:start|Mahārāja Pṛthu's Going Back Home]]</title>
+<title h4>[[books:sb:4:23:start?preview=false|Mahārāja Pṛthu's Going Back Home]]</title>
   * [[books:sb:4:23:|Mahārāja Pṛthu Goes to the Forest]]
   * [[books:sb:4:23:|Severe Austerities Undergone by Pṛthu Mahārāja]]
   * [[books:sb:4:23:|Mahārāja Pṛthu Engages Completely in Devotional Service]]
@@ -408,7 +408,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-FOUR</header>
-<title h4>[[books:sb:4:24:start|Chanting the Song Sung by Lord Śiva]]</title>
+<title h4>[[books:sb:4:24:start?preview=false|Chanting the Song Sung by Lord Śiva]]</title>
   * [[books:sb:4:24:|Vijitāśva Becomes Emperor of the World]]
   * [[books:sb:4:24:|The Three Sons of Mahārāja Antardhāna]]
   * [[books:sb:4:24:|The Marriage of Mahārāja Barhiṣat]]
@@ -438,7 +438,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-FIVE</header>
-<title h4>[[books:sb:4:25:start|The Descriptions of the characteristics of King Puraṣjana]]</title>
+<title h4>[[books:sb:4:25:start?preview=false|The Descriptions of the characteristics of King Puraṣjana]]</title>
   * [[books:sb:4:25:|Nārada Has Compassion on King Prācīnabarhiṣat]]
   * [[books:sb:4:25:|Those Interested in a So-called Beautiful Life]]
   * [[books:sb:4:25:|Nārada Narrates the History of King Puraṣjana]]
@@ -457,7 +457,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-SIX</header>
-<title h4>[[books:sb:4:26:start|King Puraṣjana Goes to the forest to Hunt, and His Queen Becomes Angry]]</title>
+<title h4>[[books:sb:4:26:start?preview=false|King Puraṣjana Goes to the forest to Hunt, and His Queen Becomes Angry]]</title>
   * [[books:sb:4:26:|The Departure of the King for the Forest]]
   * [[books:sb:4:26:|The King Kills Many Innocent Animals]]
   * [[books:sb:4:26:|A Person Who Acts Whimsically Falls Down]]
@@ -469,7 +469,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-SEVEN</header>
-<title h4>[[books:sb:4:27:start|Attack by Candavega on the City of King Puraṣjana; the character of Kālakanyā]]</title>
+<title h4>[[books:sb:4:27:start?preview=false|Attack by Candavega on the City of King Puraṣjana; the character of Kālakanyā]]</title>
   * [[books:sb:4:27:|King Puraṣjana Enjoys with His Wife]]
   * [[books:sb:4:27:|The King Becomes Deviated from His Good Sense]]
   * [[books:sb:4:27:|The King Begets 1,100 Sons in the Womb of His Wife]]
@@ -483,7 +483,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-EIGHT</header>
-<title h4>[[books:sb:4:28:start|Puraṣjana Becomes a woman in the Next Life]]</title>
+<title h4>[[books:sb:4:28:start?preview=false|Puraṣjana Becomes a woman in the Next Life]]</title>
   * [[books:sb:4:28:|Dangerous Soldiers Attack the City of Puraṣjana]]
   * [[books:sb:4:28:|The King Loses All His Beauty and Opulence]]
   * [[books:sb:4:28:|The King’s City is Smashed by Kālakanyā]]
@@ -506,7 +506,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-NINE</header>
-<title h4>[[books:sb:4:29:start|Talks Between Nārada and King Prācīnabarhiṣat]]</title>
+<title h4>[[books:sb:4:29:start?preview=false|Talks Between Nārada and King Prācīnabarhiṣat]]</title>
   * [[books:sb:4:29:|Transmigration of the Living Entity]]
   * [[books:sb:4:29:|Description of the Senses]]
   * [[books:sb:4:29:|The Eyes Engage in Seeing Forms]]
@@ -534,7 +534,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTY</header>
-<title h4>[[books:sb:4:30:start|The Activities of the Pracetās]]</title>
+<title h4>[[books:sb:4:30:start?preview=false|The Activities of the Pracetās]]</title>
   * [[books:sb:4:30:|The Pracetās Satisfy Lord Viṣṇu]]
   * [[books:sb:4:30:|Description of the Body of the Lord]]
   * [[books:sb:4:30:|The Lord Addresses the Pracetās]]
@@ -555,7 +555,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTY-ONE</header>
-<title h4>[[books:sb:4:31:start|Narada instructs the Pracetās]]</title>
+<title h4>[[books:sb:4:31:start?preview=false|Narada instructs the Pracetās]]</title>
   * [[books:sb:4:31:|The Pracetās Leave Home]]
   * [[books:sb:4:31:|Nārada Comes to See the Pracetās]]
   * [[books:sb:4:31:|Nārada’s Instructions to the Pracetās]]
@@ -567,9 +567,7 @@
   * [[books:sb:4:31:|The Pracetās Go Back to Godhead]]
 </card>
 
-
-
-<grid class="pagenav-index">
+<grid class="pagenav-canto">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:3:start|<- Canto 3]]</btn></box>
 <box class="col-6"><btn align="end" skin="outline">[[books:sb:5:start|Canto 5 ->]]</btn></box>
 </grid>

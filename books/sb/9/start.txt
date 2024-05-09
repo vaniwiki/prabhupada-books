@@ -4,7 +4,7 @@
     "label":"Canto 9",
     "h1":"Liberation",
     "title":"Śrīmad-Bhāgavatam Canto 9: Liberation",
-    "description":""
+    "description":"1. King Sudyumna Becomes a Woman; 2. The Dynasties of the Sons of Manu; 3. The Marriage of Sukanyā and Cyavana Muni; 4. Ambarīṣa Mahārāja Offended by Durvāsā Muni; 5. Durvāsā Muni's Life Spared; 6. The Downfall of Saubhari Muni; 7. The Descendants of King Māndhātā; 8. The Sons of Sagara Meet Lord Kapiladeva; 9. The Dynasty of Aṁśumān; 10. The Pastimes of the Supreme Lord, Rāmacandra; 11. Lord Rāmacandra Rules the World; 12. The Dynasty of Kuśa, the Son of Lord Rāmacandra; 13. The Dynasty of Mahārāja Nimi; 14. King Purūravā Enchanted by Urvaśī; 15. Paraśurāma, the Lord's Warrior Incarnation; 16. Lord Paraśurāma Destroys the World's Ruling Class; 17. The Dynasties of the Sons of Purūravā; 18. King Yayāti Regains His Youth; 19. King Yayāti Achieves Liberation; 20. The Dynasty of Pūru; 21. The Dynasty of Bharata; 22. The Descendants of Ajamīḍha; 23. The Dynasties of the Sons of Yayāti; 24. Kṛṣṇa the Supreme Personality of Godhead."
 }
 ---
 
@@ -12,37 +12,35 @@
 
 <card line-spacing="lg">
 <header>Table of contents</header>
-  - [[books:sb:9:1:start|King Sudyumna Becomes a Woman]]
-  - [[books:sb:9:2:start|The Dynasties of the Sons of Manu]]
-  - [[books:sb:9:3:start|The Marriage of Sukanyā and Cyavana Muni]]
-  - [[books:sb:9:4:start|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]
-  - [[books:sb:9:5:start|Durvāsā Muni's Life Spared]]
-  - [[books:sb:9:6:start|The Downfall of Saubhari Muni]]
-  - [[books:sb:9:7:start|The Descendants of King Māndhātā]]
-  - [[books:sb:9:8:start|The Sons of Sagara Meet Lord Kapiladeva]]
-  - [[books:sb:9:9:start|The Dynasty of Aṁśumān]]
-  - [[books:sb:9:10:start|The Pastimes of the Supreme Lord, Rāmacandra]]
-  - [[books:sb:9:11:start|Lord Rāmacandra Rules the World]]
-  - [[books:sb:9:12:start|The Dynasty of Kuśa, the Son of Lord Rāmacandra]]
-  - [[books:sb:9:13:start|The Dynasty of Mahārāja Nimi]]
-  - [[books:sb:9:14:start|King Purūravā Enchanted by Urvaśī]]
-  - [[books:sb:9:15:start|Paraśurāma, the Lord's Warrior Incarnation]]
-  - [[books:sb:9:16:start|Lord Paraśurāma Destroys the World's Ruling Class]]
-  - [[books:sb:9:17:start|The Dynasties of the Sons of Purūravā]]
-  - [[books:sb:9:18:start|King Yayāti Regains His Youth]]
-  - [[books:sb:9:19:start|King Yayāti Achieves Liberation]]
-  - [[books:sb:9:20:start|The Dynasty of Pūru]]
-  - [[books:sb:9:21:start|The Dynasty of Bharata]]
-  - [[books:sb:9:22:start|The Descendants of Ajamīḍha]]
-  - [[books:sb:9:23:start|The Dynasties of the Sons of Yayāti]]
-  - [[books:sb:9:24:start|Kṛṣṇa the Supreme Personality of Godhead]]
+  - [[books:sb:9:1:start?preview=false|King Sudyumna Becomes a Woman]]
+  - [[books:sb:9:2:start?preview=false|The Dynasties of the Sons of Manu]]
+  - [[books:sb:9:3:start?preview=false|The Marriage of Sukanyā and Cyavana Muni]]
+  - [[books:sb:9:4:start?preview=false|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]
+  - [[books:sb:9:5:start?preview=false|Durvāsā Muni's Life Spared]]
+  - [[books:sb:9:6:start?preview=false|The Downfall of Saubhari Muni]]
+  - [[books:sb:9:7:start?preview=false|The Descendants of King Māndhātā]]
+  - [[books:sb:9:8:start?preview=false|The Sons of Sagara Meet Lord Kapiladeva]]
+  - [[books:sb:9:9:start?preview=false|The Dynasty of Aṁśumān]]
+  - [[books:sb:9:10:start?preview=false|The Pastimes of the Supreme Lord, Rāmacandra]]
+  - [[books:sb:9:11:start?preview=false|Lord Rāmacandra Rules the World]]
+  - [[books:sb:9:12:start?preview=false|The Dynasty of Kuśa, the Son of Lord Rāmacandra]]
+  - [[books:sb:9:13:start?preview=false|The Dynasty of Mahārāja Nimi]]
+  - [[books:sb:9:14:start?preview=false|King Purūravā Enchanted by Urvaśī]]
+  - [[books:sb:9:15:start?preview=false|Paraśurāma, the Lord's Warrior Incarnation]]
+  - [[books:sb:9:16:start?preview=false|Lord Paraśurāma Destroys the World's Ruling Class]]
+  - [[books:sb:9:17:start?preview=false|The Dynasties of the Sons of Purūravā]]
+  - [[books:sb:9:18:start?preview=false|King Yayāti Regains His Youth]]
+  - [[books:sb:9:19:start?preview=false|King Yayāti Achieves Liberation]]
+  - [[books:sb:9:20:start?preview=false|The Dynasty of Pūru]]
+  - [[books:sb:9:21:start?preview=false|The Dynasty of Bharata]]
+  - [[books:sb:9:22:start?preview=false|The Descendants of Ajamīḍha]]
+  - [[books:sb:9:23:start?preview=false|The Dynasties of the Sons of Yayāti]]
+  - [[books:sb:9:24:start?preview=false|Kṛṣṇa the Supreme Personality of Godhead]]
 </card>
-
-
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[books:sb:9:1:start|King Sudyumna Becomes a Woman]]</title>
+<title h4>[[books:sb:9:1:start?preview=false|King Sudyumna Becomes a Woman]]</title>
   * [[books:sb:9:1:|Chapter Summary]]
   * [[books:sb:9:1:|Kṛṣṇa Exists After the Cosmic Annihilation]]
   * [[books:sb:9:1:|The Hare Kṛṣṇa Chant: Relief for All of Humanity]]
@@ -52,7 +50,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[books:sb:9:2:start|The Dynasties of the Sons of Manu]]</title>
+<title h4>[[books:sb:9:2:start?preview=false|The Dynasties of the Sons of Manu]]</title>
   * [[books:sb:9:2:|Chapter Summary]]
   * [[books:sb:9:2:|Prsadhra’s Mishap: Cow Protection is Essential]]
   * [[books:sb:9:2:|Escaping the Laws of Karma]]
@@ -61,7 +59,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:9:3:start|The Marriage of Sukanyā and Cyavana Muni]]</title>
+<title h4>[[books:sb:9:3:start?preview=false|The Marriage of Sukanyā and Cyavana Muni]]</title>
   * [[books:sb:9:3:|Chapter Summary]]
   * [[books:sb:9:3:|The Peaceful Home: Vedic Marital Behavior]]
   * [[books:sb:9:3:|The Exalted Values of Vedic Culture]]
@@ -70,7 +68,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[books:sb:9:4:start|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]</title>
+<title h4>[[books:sb:9:4:start?preview=false|Ambarīṣa Mahārāja Offended by Durvāsā Muni]]</title>
   * [[books:sb:9:4:|Chapter Summary]]
   * [[books:sb:9:4:|Nābhāga Returns Home from the Gurukula]]
   * [[books:sb:9:4:|Materialists Regard Temporary Happiness as Everything]]
@@ -87,7 +85,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[books:sb:9:5:start|Durvāsā Muni’s Life Spared]]</title>
+<title h4>[[books:sb:9:5:start?preview=false|Durvāsā Muni’s Life Spared]]</title>
   * [[books:sb:9:5:|Chapter Summary]]
   * [[books:sb:9:5:|Ambarīṣa Offers Prayers to the Lord’s Disc Weapon]]
   * [[books:sb:9:5:|Durvāsā Spared from the Lord’s Burning Cakra]]
@@ -97,7 +95,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:9:6:start|The Downfall of Saubhari Muni]]</title>
+<title h4>[[books:sb:9:6:start?preview=false|The Downfall of Saubhari Muni]]</title>
   * [[books:sb:9:6:|Chapter Summary]]
   * [[books:sb:9:6:|Beef-eating Strictly Prohibited]]
   * [[books:sb:9:6:|Puranjaya Conquers the Demons]]
@@ -109,7 +107,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[books:sb:9:7:start|The Descendants of King Māndhātā]]</title>
+<title h4>[[books:sb:9:7:start?preview=false|The Descendants of King Māndhātā]]</title>
   * [[books:sb:9:7:|Chapter Summary]]
   * [[books:sb:9:7:|Suffering is Inevitable Within This Material World]]
   * [[books:sb:9:7:|Hariścandra Struggles to Save His Son]]
@@ -117,7 +115,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[books:sb:9:8:start|The Sons of Sagara Meet Lord Kapiladeva]]</title>
+<title h4>[[books:sb:9:8:start?preview=false|The Sons of Sagara Meet Lord Kapiladeva]]</title>
   * [[books:sb:9:8:|Sagara’s Sons Killed by Their Own Bodily Heat]]
   * [[books:sb:9:8:|All Living Entities Are Born Deluded]]
   * [[books:sb:9:8:|The Supreme Lord Has No Material Name or Form]]
@@ -125,7 +123,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[books:sb:9:9:start|The Dynasty of Amsumān]]</title>
+<title h4>[[books:sb:9:9:start?preview=false|The Dynasty of Amsumān]]</title>
   * [[books:sb:9:9:|Chapter Summary]]
   * [[books:sb:9:9:|Neutralizing the Reactions of Sinful Activity]]
   * [[books:sb:9:9:|Bhagiratha Brings the Ganges River to This World]]
@@ -139,7 +137,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[books:sb:9:10:start|The Pastimes of Lord Rāmacandra]]</title>
+<title h4>[[books:sb:9:10:start?preview=false|The Pastimes of Lord Rāmacandra]]</title>
   * [[books:sb:9:10:|Chapter Summary]]
   * [[books:sb:9:10:|The Supreme Lord Expands into Many Incarnations]]
   * [[books:sb:9:10:|Rāmacandra’s Father Exiles Him to the Forest]]
@@ -155,7 +153,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER ELEVEN</header>
-<title h4>[[books:sb:9:11:start|Lord Rāmacandra Rules the World]]</title>
+<title h4>[[books:sb:9:11:start?preview=false|Lord Rāmacandra Rules the World]]</title>
   * [[books:sb:9:11:|Chapter Summary]]
   * [[books:sb:9:11:|Serving the Supreme Lord to Gain Material Profit]]
   * [[books:sb:9:11:|Emotions in the Spiritual World]]
@@ -166,14 +164,14 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWELVE</header>
-<title h4>[[books:sb:9:12:start|The Dynasty of Kusa, the Son of Lord Rāmacandra]]</title>
+<title h4>[[books:sb:9:12:start?preview=false|The Dynasty of Kusa, the Son of Lord Rāmacandra]]</title>
   * [[books:sb:9:12:|Chapter Summary]]
   * [[books:sb:9:12:|The Perfect Yogī Can Live as Long as He Desires]]
 </card>
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTEEN</header>
-<title h4>[[books:sb:9:13:start|The Dynasty of Mahārāja Nimi]]</title>
+<title h4>[[books:sb:9:13:start?preview=false|The Dynasty of Mahārāja Nimi]]</title>
   * [[books:sb:9:13:|Chapter Summary]]
   * [[books:sb:9:13:|Mahārāja Nimi Refuses to Accept a Material Body]]
   * [[books:sb:9:13:|The Temporary Body is the Source of All Problems]]
@@ -183,7 +181,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOURTEEN</header>
-<title h4>[[books:sb:9:14:start|King Purūravā Enchanted by Urvasi]]</title>
+<title h4>[[books:sb:9:14:start?preview=false|King Purūravā Enchanted by Urvasi]]</title>
   * [[books:sb:9:14:|Chapter Summary]]
   * [[books:sb:9:14:|Soma Born from Atri’s Tears of Joy]]
   * [[books:sb:9:14:|Tara, Brihaspati’s Unchaste Wife]]
@@ -197,7 +195,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIFTEEN</header>
-<title h4>[[books:sb:9:15:start|Paraśurāma, the Lord’s Warrior Incarnation]]</title>
+<title h4>[[books:sb:9:15:start?preview=false|Paraśurāma, the Lord’s Warrior Incarnation]]</title>
   * [[books:sb:9:15:|Chapter Summary]]
   * [[books:sb:9:15:|Ṛcīka Pays an Unusual Dowry]]
   * [[books:sb:9:15:|Irreligious Governments Swallow the Citizens]]
@@ -209,7 +207,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIXTEEN</header>
-<title h4>[[books:sb:9:16:start|Lord Paraśurāma Destroys the World’s Ruling Class]]</title>
+<title h4>[[books:sb:9:16:start?preview=false|Lord Paraśurāma Destroys the World’s Ruling Class]]</title>
   * [[books:sb:9:16:|Chapter Summary]]
   * [[books:sb:9:16:|Paraśurāma Kills His Mother and Brothers]]
   * [[books:sb:9:16:|The Cruel Slaying of Jamadagni]]
@@ -220,7 +218,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVENTEEN</header>
-<title h4>[[books:sb:9:17:start|The Dynasties of the Sons of Purūravā]]</title>
+<title h4>[[books:sb:9:17:start?preview=false|The Dynasties of the Sons of Purūravā]]</title>
   * [[books:sb:9:17:|Chapter Summary]]
   * [[books:sb:9:17:|Dhanvantari, Inaugurator of Medical Science]]
   * [[books:sb:9:17:|Rajis Sons Refuse to Return Indra's Heavenly Planet]]
@@ -228,7 +226,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHTEEN</header>
-<title h4>[[books:sb:9:18:start|King Yayāti Regains His Youth]]</title>
+<title h4>[[books:sb:9:18:start?preview=false|King Yayāti Regains His Youth]]</title>
   * [[books:sb:9:18:|Chapter Summary]]
   * [[books:sb:9:18:|Hearing Śrīmad-Bhāgavatam Destroys Material Bondage]]
   * [[books:sb:9:18:|The Quarrel Between Devayānī and Śarmiṣṭhā]]
@@ -241,7 +239,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINETEEN</header>
-<title h4>[[books:sb:9:19:start|King Yayāti Achieves Liberation]]</title>
+<title h4>[[books:sb:9:19:start?preview=false|King Yayāti Achieves Liberation]]</title>
   * [[books:sb:9:19:|Chapter Summary]]
   * [[books:sb:9:19:|The Allegory of the He-goat and She-goat]]
   * [[books:sb:9:19:|When Family Life is a Dark Well]]
@@ -252,7 +250,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY</header>
-<title h4>[[books:sb:9:20:start|The Dynasty of Pūru]]</title>
+<title h4>[[books:sb:9:20:start?preview=false|The Dynasty of Pūru]]</title>
   * [[books:sb:9:20:|Chapter Summary]]
   * [[books:sb:9:20:|Śakuntalā’s Beauty Attracts King Duṣmanta]]
   * [[books:sb:9:20:|Sex Life and Vedic Religious Principles]]
@@ -263,7 +261,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-ONE</header>
-<title h4>[[books:sb:9:21:start|The Dynasty of Bharata]]</title>
+<title h4>[[books:sb:9:21:start?preview=false|The Dynasty of Bharata]]</title>
   * [[books:sb:9:21:|Chapter Summary]]
   * [[books:sb:9:21:|Rantideva, Exalted Devotee of the Lord]]
   * [[books:sb:9:21:|Human Society's Real Welfare Workers]]
@@ -273,7 +271,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-TWO</header>
-<title h4>[[books:sb:9:22:start|The Descendants of Ajamidha]]</title>
+<title h4>[[books:sb:9:22:start?preview=false|The Descendants of Ajamidha]]</title>
   * [[books:sb:9:22:|Chapter Summary]]
   * [[books:sb:9:22:|Bhīṣmadeva, the Greatest Warrior]]
   * [[books:sb:9:22:|The Five Pāndava Brothers]]
@@ -283,7 +281,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-THREE</header>
-<title h4>[[books:sb:9:23:start|The Dynasties of the Sons of Yayāti]]</title>
+<title h4>[[books:sb:9:23:start?preview=false|The Dynasties of the Sons of Yayāti]]</title>
   * [[books:sb:9:23:|Chapter Summary]]
   * [[books:sb:9:23:|Description of the Yadu Dynasty]]
   * [[books:sb:9:23:|Few Understand That the Supreme Truth is a Person]]
@@ -291,7 +289,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWENTY-FOUR</header>
-<title h4>[[books:sb:9:24:start|Kṛṣṇa, the Supreme Personality of Godhead]]</title>
+<title h4>[[books:sb:9:24:start?preview=false|Kṛṣṇa, the Supreme Personality of Godhead]]</title>
   * [[books:sb:9:24:|Chapter Summary]]
   * [[books:sb:9:24:|Kuntī Calls for the Demigod of the Sun]]
   * [[books:sb:9:24:|The Wives and Offspring of Vāsudeva]]
@@ -301,9 +299,7 @@
   * [[books:sb:9:24:|Seeing the Lord’s Beauty: A Daily Festival]]
 </card>
 
-
-
-<grid class="pagenav-index">
+<grid class="pagenav-canto">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:8:start|<- Canto 8]]</btn></box>
 <box class="col-6"><btn align="end" skin="outline">[[books:sb:10:start|Canto 10 ->]]</btn></box>
 </grid>

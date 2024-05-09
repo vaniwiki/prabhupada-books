@@ -1,10 +1,10 @@
----json
+?preview=false---json
 {
     "name":"SB Canto 7",
     "label":"Canto 7",
     "h1":"The Science of God",
     "title":"Śrīmad-Bhāgavatam Canto 7: The Science of God",
-    "description":"1. The Supreme Lord Is Equal to Everyone; 2. Hiraṇyakaśipu, King of the Demons; 3. Hiraṇyakaśipu's Plan to Become Immortal; 4. Hiraṇyakaśipu Terrorizes the Universe; 5. Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu; 6. Prahlāda Instructs His Demoniac Schoolmates; 7. What Prahlāda Learned in the Womb; 8. Lord Nṛsiṁhadeva Slays the King of the Demons; 9. Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers; 10. Prahlāda, the Best Among Exalted Devotees; 11. The Perfect Society: Four Social Classes; 12. The Perfect Society: Four Spiritual Classes; 13. The Behavior of a Perfect Person; 14. Ideal Family Life; 15. Instructions for Civilized Human Beings"
+    "description":"1. The Supreme Lord Is Equal to Everyone; 2. Hiraṇyakaśipu, King of the Demons; 3. Hiraṇyakaśipu's Plan to Become Immortal; 4. Hiraṇyakaśipu Terrorizes the Universe; 5. Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu; 6. Prahlāda Instructs His Demoniac Schoolmates; 7. What Prahlāda Learned in the Womb; 8. Lord Nṛsiṁhadeva Slays the King of the Demons; 9. Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers; 10. Prahlāda, the Best Among Exalted Devotees; 11. The Perfect Society: Four Social Classes; 12. The Perfect Society: Four Spiritual Classes; 13. The Behavior of a Perfect Person; 14. Ideal Family Life; 15. Instructions for Civilized Human Beings."
 }
 ---
 
@@ -12,26 +12,26 @@
 
 <card line-spacing="lg">
 <header h4>Table of contents</header>
-  - [[books:sb:7:1:start|The Supreme Lord Is Equal to Everyone]]
-  - [[books:sb:7:2:start|Hiraṇyakaśipu, King of the Demons]]
-  - [[books:sb:7:3:start|Hiraṇyakaśipu's Plan to Become Immortal]]
-  - [[books:sb:7:4:start|Hiraṇyakaśipu Terrorizes the Universe]]
-  - [[books:sb:7:5:start|Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu]]
-  - [[books:sb:7:6:start|Prahlāda Instructs His Demoniac Schoolmates]]
-  - [[books:sb:7:7:start|What Prahlāda Learned in the Womb]]
-  - [[books:sb:7:8:start|Lord Nṛsiṁhadeva Slays the King of the Demons]]
-  - [[books:sb:7:9:start|Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers]]
-  - [[books:sb:7:10:start|Prahlāda, the Best Among Exalted Devotees]]
-  - [[books:sb:7:11:start|The Perfect Society: Four Social Classes]]
-  - [[books:sb:7:12:start|The Perfect Society: Four Spiritual Classes]]
-  - [[books:sb:7:13:start|The Behavior of a Perfect Person]]
-  - [[books:sb:7:14:start|Ideal Family Life]]
-  - [[books:sb:7:15:start|Instructions for Civilized Human Beings]]
+  - [[books:sb:7:1:start?preview=false|The Supreme Lord Is Equal to Everyone]]
+  - [[books:sb:7:2:start?preview=false|Hiraṇyakaśipu, King of the Demons]]
+  - [[books:sb:7:3:start?preview=false|Hiraṇyakaśipu's Plan to Become Immortal]]
+  - [[books:sb:7:4:start?preview=false|Hiraṇyakaśipu Terrorizes the Universe]]
+  - [[books:sb:7:5:start?preview=false|Prahlāda Mahārāja, the Saintly Son of Hiraṇyakaśipu]]
+  - [[books:sb:7:6:start?preview=false|Prahlāda Instructs His Demoniac Schoolmates]]
+  - [[books:sb:7:7:start?preview=false|What Prahlāda Learned in the Womb]]
+  - [[books:sb:7:8:start?preview=false|Lord Nṛsiṁhadeva Slays the King of the Demons]]
+  - [[books:sb:7:9:start?preview=false|Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers]]
+  - [[books:sb:7:10:start?preview=false|Prahlāda, the Best Among Exalted Devotees]]
+  - [[books:sb:7:11:start?preview=false|The Perfect Society: Four Social Classes]]
+  - [[books:sb:7:12:start?preview=false|The Perfect Society: Four Spiritual Classes]]
+  - [[books:sb:7:13:start?preview=false|The Behavior of a Perfect Person]]
+  - [[books:sb:7:14:start?preview=false|Ideal Family Life]]
+  - [[books:sb:7:15:start?preview=false|Instructions for Civilized Human Beings]]
 </card>
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[books:sb:7:1:start|The Supreme Lord Is Equal to Everyone]]</title>
+<title h4>[[books:sb:7:1:start?preview=false|The Supreme Lord Is Equal to Everyone]]</title>
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
   * [[books:sb:7:1:9|An Expert Thinker Can Perceive the Lord’s Presence]]
@@ -45,7 +45,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[books:sb:7:2:start|Hiranyakasipu, King of the Demons]]</title>
+<title h4>[[books:sb:7:2:start?preview=false|Hiranyakasipu, King of the Demons]]</title>
   * [[books:sb:7:2:1|Hiranyakasipu Laments His Brother’s Death]]
   * [[books:sb:7:2:7-8|Hiranyakasipu Vows to Kill Lord Visnu]]
   * [[books:sb:7:2:10|The Assembled Demons Are Instructed by Hiranyakasipu]]
@@ -63,7 +63,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:7:3:start|Hiranyakasipu’s Plan to Become Immortal]]</title>
+<title h4>[[books:sb:7:3:start?preview=false|Hiranyakasipu’s Plan to Become Immortal]]</title>
   * [[books:sb:7:3:1|Hiranyakasipu Begins His Severe Austerities]]
   * [[books:sb:7:3:6|The Demigods Inform Brahma of Hiranyakasipu’s Intentions]]
   * [[books:sb:7:3:15-16|Brahma, Struck with Wonder, Addresses Hiranyakasipu]]
@@ -74,7 +74,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[books:sb:7:4:start|Hiranyakasipu Terrorizes the Universe]]</title>
+<title h4>[[books:sb:7:4:start?preview=false|Hiranyakasipu Terrorizes the Universe]]</title>
   * [[books:sb:7:4:1|Brahma Benedicts Hiranyakasipu]]
   * [[books:sb:7:4:5-7|Hiranyakasipu Conquers the Entire Universe]]
   * [[books:sb:7:4:9-12|The Opulence of Indra’s Residence]]
@@ -89,7 +89,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[books:sb:7:5:start|Prahlada Maharaja, the Saintly Son of Hiranyakasipu]]</title>
+<title h4>[[books:sb:7:5:start?preview=false|Prahlada Maharaja, the Saintly Son of Hiranyakasipu]]</title>
   * [[books:sb:7:5:1|The Demons Accept Sukracarya as Their Priest]]
   * [[books:sb:7:5:5|Prahlada Instructs the King of the Demons]]
   * [[books:sb:7:5:6|Prahlada Is Faithful to His Father’s Enemies]]
@@ -107,7 +107,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:7:6:start|Prahlada Instructs His Demoniac Schoolmates]]</title>
+<title h4>[[books:sb:7:6:start?preview=false|Prahlada Instructs His Demoniac Schoolmates]]</title>
   * [[books:sb:7:6:1|Teach Every Child Krsna Consciousness]]
   * [[books:sb:7:6:3|Bodily Pleasure Is Available in Any Species of Life]]
   * [[books:sb:7:6:4|Economic Development Is Worthless]]
@@ -125,7 +125,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[books:sb:7:7:start|What Prahlada Learned in the Womb]]</title>
+<title h4>[[books:sb:7:7:start?preview=false|What Prahlada Learned in the Womb]]</title>
   * [[books:sb:7:7:4-5|The Demigods Plunder the Demons]]
   * [[books:sb:7:7:11|Narada Saves the Unborn Hero, Prahlada]]
   * [[books:sb:7:7:15|Prahlada Hears from Narada While in the Womb]]
@@ -142,7 +142,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[books:sb:7:8:start|Lord Nrsimhadeva Slays the King of the Demons]]</title>
+<title h4>[[books:sb:7:8:start?preview=false|Lord Nrsimhadeva Slays the King of the Demons]]</title>
   * [[books:sb:7:8:3-4|Hiranyakasipu Decides to Kill His Son Prahlada]]
   * [[books:sb:7:8:7|Prahlada Preaches to His Father]]
   * [[books:sb:7:8:12|If God Is Everywhere, Why Can’t I See Him]]
@@ -154,7 +154,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[books:sb:7:9:start|Prahlada Pacifies Lord Nrsimhadeva with Prayers]]</title>
+<title h4>[[books:sb:7:9:start?preview=false|Prahlada Pacifies Lord Nrsimhadeva with Prayers]]</title>
   * [[books:sb:7:9:5|Prahlada Approaches Lord Nrsimhadeva]]
   * [[books:sb:7:9:8|Prahlada’s Prayers to the Lord]]
   * [[books:sb:7:9:10|Even a Dog-eater Who Becomes a Devotee Is Exalted]]
@@ -175,7 +175,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[books:sb:7:10:start|Prahlada, the Best Among Exalted Devotees]]</title>
+<title h4>[[books:sb:7:10:start?preview=false|Prahlada, the Best Among Exalted Devotees]]</title>
   * [[books:sb:7:10:2|Devotees Fear Materialistic Life]]
   * [[books:sb:7:10:4|Serving the Lord for Material Profit]]
   * [[books:sb:7:10:6|Krsna Is Naturally Our Master]]
@@ -191,7 +191,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER ELEVEN</header>
-<title h4>[[books:sb:7:11:start|The Perfect Society: Four Social Classes]]</title>
+<title h4>[[books:sb:7:11:start?preview=false|The Perfect Society: Four Social Classes]]</title>
   * [[books:sb:7:11:2|Our Eternal Occupational Duty]]
   * [[books:sb:7:11:8-12|The Qualifications of a Human Being]]
   * [[books:sb:7:11:14|The Intellectual, Administrative, Mercantile and Worker Classes]]
@@ -201,7 +201,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWELVE</header>
-<title h4>[[books:sb:7:12:start|The Perfect Society: Four Spiritual Classes]]</title>
+<title h4>[[books:sb:7:12:start?preview=false|The Perfect Society: Four Spiritual Classes]]</title>
   * [[books:sb:7:12:1|Brahmacari Life: Living under the Care of a Guru]]
   * [[books:sb:7:12:9|Women Are like Fire, Men Are the Butter]]
   * [[books:sb:7:12:13-14|Understanding Vedic Knowledge Is Real Education]]
@@ -210,7 +210,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTEEN</header>
-<title h4>[[books:sb:7:13:start|The Behavior of a Perfect Person]]</title>
+<title h4>[[books:sb:7:13:start?preview=false|The Behavior of a Perfect Person]]</title>
   * [[books:sb:7:13:2|The Renounced Order of Life]]
   * [[books:sb:7:13:7|Avoid Reading Mundane Literature]]
   * [[books:sb:7:13:11|Prahlada’s Conversation with a Perfect Sage]]
@@ -223,7 +223,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOURTEEN</header>
-<title h4>[[books:sb:7:14:start|Ideal Family Life]]</title>
+<title h4>[[books:sb:7:14:start?preview=false|Ideal Family Life]]</title>
   * [[books:sb:7:14:1|How Householders Can Obtain Liberation]]
   * [[books:sb:7:14:5|Plain Living, High Thinking]]
   * [[books:sb:7:14:9|Treat Animals like Your Own Children]]
@@ -235,7 +235,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIFTEEN</header>
-<title h4>[[books:sb:7:15:start|Instructions for Civilized Human Beings]]</title>
+<title h4>[[books:sb:7:15:start?preview=false|Instructions for Civilized Human Beings]]</title>
   * [[books:sb:7:15:5|Offering Food to the Lord and His Devotees]]
   * [[books:sb:7:15:10|Slaughtering Animals for Religion and Food]]
   * [[books:sb:7:15:12|The Five Branches of Pseudoreligion]]
@@ -252,9 +252,7 @@
   * [[books:sb:7:15:75|Krsna Lived with the Pandavas Just like an Ordinary Human Being]]
 </card>
 
-
-
-<grid class="pagenav-index">
+<grid class="pagenav-canto">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:6:start|<- Canto 6]]</btn></box>
 <box class="col-6"><btn align="end" skin="outline">[[books:sb:8:start|Canto 8 ->]]</btn></box>
 </grid>

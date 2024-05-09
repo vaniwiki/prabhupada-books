@@ -4,40 +4,38 @@
     "label":"Canto 1",
     "h1":"Creation",
     "title":"Śrīmad-Bhāgavatam Canto 1: Creation",
-    "description":"Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosophy of devotion. It gives insight into Vyasadeva’s inspiration to write the Srimad Bhagavatam through conversations with the great Sage Narada Muni. The reader is lead from the battlefield of Kuruksetra through the years leading up to King Pariksit’s education on the Ganga River by Sukadeva Goswami."
+    "description":"1. Questions by the Sages; 2. Divinity and Divine Service; 3. Kṛṣṇa Is the Source of All Incarnations; 4. The Appearance of Śrī Nārada; 5. Nārada's Instructions on Śrīmad-Bhāgavatam for Vyāsadeva; 6. Conversation Between Nārada and Vyāsadeva; 7. The Son of Droṇa Punished; 8. Prayers by Queen Kuntī and Parīkṣit Saved; 9. The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa; 10. Departure of Lord Kṛṣṇa for Dvārakā; 11. Lord Kṛṣṇa's Entrance into Dvārakā; 12. Birth of Emperor Parīkṣit; 13. Dhṛtarāṣṭra Quits Home; 14. The Disappearance of Lord Kṛṣṇa; 15. The Pāṇḍavas Retire Timely; 16. How Parīkṣit Received the Age of Kali; 17. Punishment and Reward of Kali; 18. Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy; 19. The Appearance of Śukadeva Gosvāmī."
 }
 ---
 
 ====== Creation ======
 
 <card line-spacing="lg">
-<header>CHAPTER ONE</header>
-<title h4>[[:books:sb:1:1:start|Questions by the Sages]]</title>
-  - [[books:sb:1:1:start|Questions by the Sages]]
-  - [[books:sb:1:2:start|Divinity and Divine Service]]
-  - [[books:sb:1:3:start|Kṛṣṇa Is the Source of All Incarnations]]
-  - [[books:sb:1:4:start|The Appearance of Śrī Nārada]]
-  - [[books:sb:1:5:start|Nārada's Instructions on Śrīmad-Bhāgavatam for Vyāsadeva]]
-  - [[books:sb:1:6:start|Conversation Between Nārada and Vyāsadeva]]
-  - [[books:sb:1:7:start|The Son of Droṇa Punished]]
-  - [[books:sb:1:8:start|Prayers by Queen Kuntī and Parīkṣit Saved]]
-  - [[books:sb:1:9:start|The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa]]
-  - [[books:sb:1:10:start|Departure of Lord Kṛṣṇa for Dvārakā]]
-  - [[books:sb:1:11:start|Lord Kṛṣṇa's Entrance into Dvārakā]]
-  - [[books:sb:1:12:start|Birth of Emperor Parīkṣit]]
-  - [[books:sb:1:13:start|Dhṛtarāṣṭra Quits Home]]
-  - [[books:sb:1:14:start|The Disappearance of Lord Kṛṣṇa]]
-  - [[books:sb:1:15:start|The Pāṇḍavas Retire Timely]]
-  - [[books:sb:1:16:start|How Parīkṣit Received the Age of Kali]]
-  - [[books:sb:1:17:start|Punishment and Reward of Kali]]
-  - [[books:sb:1:18:start|Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy]]
-  - [[books:sb:1:19:start|The Appearance of Śukadeva Gosvāmī]]
-
+<header>Table of contents</header>
+  - [[books:sb:1:1:start?preview=false|Questions by the Sages]]
+  - [[books:sb:1:2:start?preview=false|Divinity and Divine Service]]
+  - [[books:sb:1:3:start?preview=false|Kṛṣṇa Is the Source of All Incarnations]]
+  - [[books:sb:1:4:start?preview=false|The Appearance of Śrī Nārada]]
+  - [[books:sb:1:5:start?preview=false|Nārada's Instructions on Śrīmad-Bhāgavatam for Vyāsadeva]]
+  - [[books:sb:1:6:start?preview=false|Conversation Between Nārada and Vyāsadeva]]
+  - [[books:sb:1:7:start?preview=false|The Son of Droṇa Punished]]
+  - [[books:sb:1:8:start?preview=false|Prayers by Queen Kuntī and Parīkṣit Saved]]
+  - [[books:sb:1:9:start?preview=false|The Passing Away of Bhīṣmadeva in the Presence of Lord Kṛṣṇa]]
+  - [[books:sb:1:10:start?preview=false|Departure of Lord Kṛṣṇa for Dvārakā]]
+  - [[books:sb:1:11:start?preview=false|Lord Kṛṣṇa's Entrance into Dvārakā]]
+  - [[books:sb:1:12:start?preview=false|Birth of Emperor Parīkṣit]]
+  - [[books:sb:1:13:start?preview=false|Dhṛtarāṣṭra Quits Home]]
+  - [[books:sb:1:14:start?preview=false|The Disappearance of Lord Kṛṣṇa]]
+  - [[books:sb:1:15:start?preview=false|The Pāṇḍavas Retire Timely]]
+  - [[books:sb:1:16:start?preview=false|How Parīkṣit Received the Age of Kali]]
+  - [[books:sb:1:17:start?preview=false|Punishment and Reward of Kali]]
+  - [[books:sb:1:18:start?preview=false|Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy]]
+  - [[books:sb:1:19:start?preview=false|The Appearance of Śukadeva Gosvāmī]]
 </card>
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[:books:sb:1:1:start|Questions by the Sages]]</title>
+<title h4>[[:books:sb:1:1:start?preview=false|Questions by the Sages]]</title>
   * [[:books:sb:1:1:1|Purpose of the Gayatri Mantra]]
   * [[:books:sb:1:1:2|Paramesvara the Supreme]]
   * [[:books:sb:1:1:2|Three Divisions of Vedic Ways]]
@@ -49,9 +47,10 @@
   * [[:books:sb:1:1:17|Real Remedy for Peace in the World]]
   * [[:books:sb:1:1:20|Incarnation of Godhead Is Distinguished]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[:books:sb:1:2:start|Divinity and Divine Service]]</title>
+<title h4>[[:books:sb:1:2:start?preview=false|Divinity and Divine Service]]</title>
   * [[:books:sb:1:2:2|Obeisances unto the Spiritual Master and the Lord]]
   * [[:books:sb:1:2:3|Srimad-Bhagavatam Summarized]]
   * [[:books:sb:1:2:10|Scope of Sense Satisfaction]]
@@ -66,9 +65,10 @@
   * [[:books:sb:1:2:28-29|Lord Sri Krsna, or Vasudeva, Is All in All]]
   * [[:books:sb:1:2:32|He Is All-Pervading]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[:books:sb:1:3:start|Krsna Is the Source of All Incarnations]]</title>
+<title h4>[[:books:sb:1:3:start?preview=false|Krsna Is the Source of All Incarnations]]</title>
   * [[:books:sb:1:3:1|Purusa Incarnations: The Cause of Matter and the Material World]]
   * [[:books:sb:1:3:2|From Him Brahma Is Manifested]]
   * [[:books:sb:1:3:3|Description of the Universal Form]]
@@ -105,9 +105,10 @@
   * [[:books:sb:1:3:43|Srimad-Bhagavatam Is the Representation of Lord Krsna]]
   * [[:books:sb:1:3:44|Srimad-Bhagavatam and Its Incompatibilities]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[:books:sb:1:4:start|Appearance of Sri Narada]]</title>
+<title h4>[[:books:sb:1:4:start?preview=false|Appearance of Sri Narada]]</title>
   * [[:books:sb:1:4:5|Paramahamsa Sukadeva Gosvami]]
   * [[:books:sb:1:4:12|The Ideal King, Maharaja Pariksit]]
   * [[:books:sb:1:4:14|Birthdate of Vyasadeva]]
@@ -118,9 +119,10 @@
   * [[:books:sb:1:4:25|Unworthy Sons of the Higher Castes]]
   * [[:books:sb:1:4:30|Dissatisfaction of Vyasadeva and Its Cause]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[:books:sb:1:5:start|Narada’s Instructions on Srimad-Bhagavatam for Vyasadeva]]</title>
+<title h4>[[:books:sb:1:5:start?preview=false|Narada’s Instructions on Srimad-Bhagavatam for Vyasadeva]]</title>
   * [[:books:sb:1:5:2|The Mind and the Body]]
   * [[:books:sb:1:5:5|Identification of Self with the Body or Mind Is the Cause of Despondency]]
   * [[:books:sb:1:5:8|The Cause Explained]]
@@ -147,9 +149,10 @@
   * [[:books:sb:1:5:38|Sound as Form]]
   * [[:books:sb:1:5:38|Concluding Instruction of Narada]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[:books:sb:1:6:start|Conversation Between Narada and Vyasa]]</title>
+<title h4>[[:books:sb:1:6:start?preview=false|Conversation Between Narada and Vyasa]]</title>
   * [[:books:sb:1:6:1|Further Inquiry by Vyasadeva]]
   * [[:books:sb:1:6:5|History of Narada’s Previous Life]]
   * [[:books:sb:1:6:11|His Touring]]
@@ -163,9 +166,10 @@
   * [[:books:sb:1:6:32|The Lord His Constant Companion]]
   * [[:books:sb:1:6:35|Comparative Importance of Bhakti-yoga and Mystic Powers]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[:books:sb:1:7:start|The Son of Drona Punished]]</title>
+<title h4>[[:books:sb:1:7:start?preview=false|The Son of Drona Punished]]</title>
   * [[:books:sb:1:7:2|Vyasadeva’s Meditation]]
   * [[:books:sb:1:7:4|His Clear Conception]]
   * [[:books:sb:1:7:5|Acts of Maya, the Illusory Energy]]
@@ -186,9 +190,10 @@
   * [[:books:sb:1:7:42|Frailties of Women]]
   * [[:books:sb:1:7:53-54|Lord Krsna Solves the Dilemma]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[:books:sb:1:8:start|Prayers by Queen Kunti and Pariksit Saved]]</title>
+<title h4>[[:books:sb:1:8:start?preview=false|Prayers by Queen Kunti and Pariksit Saved]]</title>
   * [[:books:sb:1:8:1|The Battle of Kuruksetra Ends]]
   * [[:books:sb:1:8:8|The Attempt to Slaughter Uttara’s Unborn Child]]
   * [[:books:sb:1:8:13|Lord Krsna Saves Pariksit from Death in the Womb]]
@@ -200,9 +205,10 @@
   * [[:books:sb:1:8:43|Krsna Destroys Demoniac Political Parties]]
   * [[:books:sb:1:8:46|King Yudhisthira Mourns the War’s 640,000,000 Dead]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[:books:sb:1:9:start|The Passing Away of Bhismadeva in the Presence of Lord Krsna]]</title>
+<title h4>[[:books:sb:1:9:start?preview=false|The Passing Away of Bhismadeva in the Presence of Lord Krsna]]</title>
   * [[:books:sb:1:9:1|Bhisma Prepares to Leave His Body]]
   * [[:books:sb:1:9:5|All the Great Souls Assemble at Bhisma’s Deathbed]]
   * [[:books:sb:1:9:12|The Best Protection: God, Brahmanas and Religion]]
@@ -213,9 +219,10 @@
   * [[:books:sb:1:9:33|Description of the Lord’s Beautiful Form]]
   * [[:books:sb:1:9:35|The Supreme Lord Became Arjuna’s Chariot Driver]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[:books:sb:1:10:start|Departure of Lord Krsna for Dvaraka]]</title>
+<title h4>[[:books:sb:1:10:start?preview=false|Departure of Lord Krsna for Dvaraka]]</title>
   * [[:books:sb:1:10:2|The Plan Behind the Universe]]
   * [[:books:sb:1:10:4|Civilized Economic Development: Land and Cows]]
   * [[:books:sb:1:10:9-10|Separation from Krsna Is Intolerable]]
@@ -224,9 +231,10 @@
   * [[:books:sb:1:10:25|Animallike Kings and Administrators]]
   * [[:books:sb:1:10:28|The Glories of the Lord’s Transcendental Wives]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER ELEVEN</header>
-<title h4>[[:books:sb:1:11:start|Lord Krsna’s Entrance into Dvaraka]]</title>
+<title h4>[[:books:sb:1:11:start?preview=false|Lord Krsna’s Entrance into Dvaraka]]</title>
   * [[:books:sb:1:11:3|The Citizens of Dvaraka Rush to Greet the Lord]]
   * [[:books:sb:1:11:12|Description of Dvaraka, the Perfect City]]
   * [[:books:sb:1:11:18|Vedic Hospitality]]
@@ -237,9 +245,10 @@
   * [[:books:sb:1:11:35|The Lord’s Family Life Explained]]
   * [[:books:sb:1:11:39|The Lord’s Wives Do Not Know His Glories]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER TWELVE</header>
-<title h4>[[:books:sb:1:12:start|Birth of Emperor Pariksit]]</title>
+<title h4>[[:books:sb:1:12:start?preview=false|Birth of Emperor Pariksit]]</title>
   * [[:books:sb:1:12:4|Emperor Yudhisthira’s Perfect Administration]]
   * [[:books:sb:1:12:7|Pariksit, in the Womb, Sees the Lord]]
   * [[:books:sb:1:12:12|Planetary Influences at the Time of Birth]]
@@ -249,9 +258,10 @@
   * [[:books:sb:1:12:30|Even a Child Can Be Educated to See God]]
   * [[:books:sb:1:12:34|Pleasing Krsna Destroys Sinful Reactions]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER THIRTEEN</header>
-<title h4>[[:books:sb:1:13:start|Dhrtarastra Quits Home]]</title>
+<title h4>[[:books:sb:1:13:start?preview=false|Dhrtarastra Quits Home]]</title>
   * [[:books:sb:1:13:1|Vidura Returns Home]]
   * [[:books:sb:1:13:2|The Supreme Knowledge]]
   * [[:books:sb:1:13:10|The Sanctity of a Pure Devotee]]
@@ -269,9 +279,10 @@
   * [[:books:sb:1:13:47|One Living Being Is Food for Another]]
   * [[:books:sb:1:13:50|The Mission of Lord Sri Krsna]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER FOURTEEN</header>
-<title h4>[[:books:sb:1:14:start|The Disappearance of Lord Krsna]]</title>
+<title h4>[[:books:sb:1:14:start?preview=false|The Disappearance of Lord Krsna]]</title>
   * [[:books:sb:1:14:1|Yudhisthira’s Anxiety]]
   * [[:books:sb:1:14:3|He Observes Irregularities]]
   * [[:books:sb:1:14:7|Indications of the Lord’s Disappearance]]
@@ -280,9 +291,10 @@
   * [[:books:sb:1:14:25|Yudhisthira’s Anxious Inquiries]]
   * [[:books:sb:1:14:44|Lord Sri Krsna’s Departure Apprehended]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER FIFTEEN</header>
-<title h4>[[:books:sb:1:15:start|The Pandavas Retire Timely]]</title>
+<title h4>[[:books:sb:1:15:start?preview=false|The Pandavas Retire Timely]]</title>
   * [[:books:sb:1:15:1|Feelings of Separation by Arjuna]]
   * [[:books:sb:1:15:5|The Lord’s Disappearance Admitted]]
   * [[:books:sb:1:15:7|How Arjuna Was Successful in Gaining Draupadi]]
@@ -299,9 +311,10 @@
   * [[:books:sb:1:15:38|Maharaja Pariksit Enthroned]]
   * [[:books:sb:1:15:40|Maharaja Yudhisthira Liberated]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER SIXTEEN</header>
-<title h4>[[:books:sb:1:16:start|How Pariksit Received the Age of Kali]]</title>
+<title h4>[[:books:sb:1:16:start?preview=false|How Pariksit Received the Age of Kali]]</title>
   * [[:books:sb:1:16:1|The Reign of Maharaja Pariksit]]
   * [[:books:sb:1:16:4|His World Tour]]
   * [[:books:sb:1:16:10|His Attempt to Exterminate Kali]]
@@ -312,9 +325,10 @@
   * [[:books:sb:1:16:32-33|Lord Krsna Attractive Even for the Goddess of Fortune]]
   * [[:books:sb:1:16:35|The Delightful Earth During the Lord's Presence]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER SEVENTEEN</header>
-<title h4>[[:books:sb:1:17:start|Punishment and Reward of Kali]]</title>
+<title h4>[[:books:sb:1:17:start?preview=false|Punishment and Reward of Kali]]</title>
   * [[:books:sb:1:17:1|Maharaja Pariksit Meets the Pretender Kali]]
   * [[:books:sb:1:17:2|The Bull, Symbol of Religion]]
   * [[:books:sb:1:17:3|Cow the Source of Religious Principles]]
@@ -334,9 +348,10 @@
   * [[:books:sb:1:17:41|Diplomacy in Fighting Evil]]
   * [[:books:sb:1:17:43-44|Spiritual Movements and State Support]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER EIGHTEEN</header>
-<title h4>[[:books:sb:1:18:start|Maharaja Pariksit Cursed by a Brahmana Boy]]</title>
+<title h4>[[:books:sb:1:18:start?preview=false|Maharaja Pariksit Cursed by a Brahmana Boy]]</title>
   * [[:books:sb:1:18:3|Accepting the Spiritual Master]]
   * [[:books:sb:1:18:5|Checking the Evil]]
   * [[:books:sb:1:18:7|A Special Concession for the Fallen Age]]
@@ -351,9 +366,10 @@
   * [[:books:sb:1:18:34|The Puffed-up Brahmana Boy]]
   * [[:books:sb:1:18:43|The Result of Destroying Monarchy]]
 </card>
+
 <card line-spacing="lg">
 <header>CHAPTER NINETEEN</header>
-<title h4>[[:books:sb:1:19:start|The Appearance of Sukadeva Gosvami]]</title>
+<title h4>[[:books:sb:1:19:start?preview=false|The Appearance of Sukadeva Gosvami]]</title>
   * [[:books:sb:1:19:1|The King Repents]]
   * [[:books:sb:1:19:6|The Rivers Ganges and Yamuna]]
   * [[:books:sb:1:19:8|The Arrival of Great Sages and Kings]]
@@ -363,8 +379,6 @@
   * [[:books:sb:1:19:25|The Appearance of Sukadeva Gosvami]]
   * [[:books:sb:1:19:37|Questions by the King]]
 </card>
-
-
 
 <grid class="pagenav-canto">
 <box class="col-6"></box>

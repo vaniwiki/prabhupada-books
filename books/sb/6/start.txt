@@ -12,31 +12,30 @@
 
 <card line-spacing="lg">
 <header>Table of contents</header>
-  - [[books:sb:6:1:start|The History of the Life of Ajāmila]]
-  - [[books:sb:6:2:start|Ajāmila Delivered by the Viṣṇudūtas]]
-  - [[books:sb:6:3:start|Yamarāja Instructs His Messengers]]
-  - [[books:sb:6:4:start|The Haṁsa-guhya Prayers]]
-  - [[books:sb:6:5:start|Nārada Muni Cursed by Prajāpati Dakṣa]]
-  - [[books:sb:6:6:start|The Progeny of the Daughters of Dakṣa]]
-  - [[books:sb:6:7:start|Indra Offends His Spiritual Master, Bṛhaspati]]
-  - [[books:sb:6:8:start|The Nārāyaṇa-kavaca Shield]]
-  - [[books:sb:6:9:start|Appearance of the Demon Vṛtrāsura]]
-  - [[books:sb:6:10:start|The Battle Between the Demigods and Vṛtrāsura]]
-  - [[books:sb:6:11:start|The Transcendental Qualities of Vṛtrāsura]]
-  - [[books:sb:6:12:start|Vṛtrāsura's Glorious Death]]
-  - [[books:sb:6:13:start|King Indra Afflicted by Sinful Reaction]]
-  - [[books:sb:6:14:start|King Citraketu's Lamentation]]
-  - [[books:sb:6:15:start|The Saints Nārada and Aṅgirā Instruct King Citraketu]]
-  - [[books:sb:6:16:start|King Citraketu Meets the Supreme Lord]]
-  - [[books:sb:6:17:start|Mother Pārvatī Curses Citraketu]]
-  - [[books:sb:6:18:start|Diti Vows to Kill King Indra]]
-  - [[books:sb:6:19:start|Performing the Puṁsavana Ritualistic Ceremony]]
+  - [[books:sb:6:1:start?preview=false|The History of the Life of Ajāmila]]
+  - [[books:sb:6:2:start?preview=false|Ajāmila Delivered by the Viṣṇudūtas]]
+  - [[books:sb:6:3:start?preview=false|Yamarāja Instructs His Messengers]]
+  - [[books:sb:6:4:start?preview=false|The Haṁsa-guhya Prayers]]
+  - [[books:sb:6:5:start?preview=false|Nārada Muni Cursed by Prajāpati Dakṣa]]
+  - [[books:sb:6:6:start?preview=false|The Progeny of the Daughters of Dakṣa]]
+  - [[books:sb:6:7:start?preview=false|Indra Offends His Spiritual Master, Bṛhaspati]]
+  - [[books:sb:6:8:start?preview=false|The Nārāyaṇa-kavaca Shield]]
+  - [[books:sb:6:9:start?preview=false|Appearance of the Demon Vṛtrāsura]]
+  - [[books:sb:6:10:start?preview=false|The Battle Between the Demigods and Vṛtrāsura]]
+  - [[books:sb:6:11:start?preview=false|The Transcendental Qualities of Vṛtrāsura]]
+  - [[books:sb:6:12:start?preview=false|Vṛtrāsura's Glorious Death]]
+  - [[books:sb:6:13:start?preview=false|King Indra Afflicted by Sinful Reaction]]
+  - [[books:sb:6:14:start?preview=false|King Citraketu's Lamentation]]
+  - [[books:sb:6:15:start?preview=false|The Saints Nārada and Aṅgirā Instruct King Citraketu]]
+  - [[books:sb:6:16:start?preview=false|King Citraketu Meets the Supreme Lord]]
+  - [[books:sb:6:17:start?preview=false|Mother Pārvatī Curses Citraketu]]
+  - [[books:sb:6:18:start?preview=false|Diti Vows to Kill King Indra]]
+  - [[books:sb:6:19:start?preview=false|Performing the Puṁsavana Ritualistic Ceremony]]
 </card>
-
 
 <card line-spacing="lg">
 <header>CHAPTER ONE</header>
-<title h4>[[books:sb:6:1:start|The History of the Life of Ajāmila]]</title>
+<title h4>[[books:sb:6:1:start?preview=false|The History of the Life of Ajāmila]]</title>
   * [[books:sb:6:1:|The Path Beyond the Highest Planet]]
   * [[books:sb:6:1:|Devotees Want to Save Their Fellow Men]]
   * [[books:sb:6:1:|Proper Atonement Counteracts Impious Deeds]]
@@ -64,7 +63,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWO</header>
-<title h4>[[books:sb:6:2:start|Ajāmila Delivered by the Viṣṇudūtas]]</title>
+<title h4>[[books:sb:6:2:start?preview=false|Ajāmila Delivered by the Viṣṇudūtas]]</title>
   * [[books:sb:6:2:|Needless Punishment of Sinless Persons]]
   * [[books:sb:6:2:|The Duty of Government]]
   * [[books:sb:6:2:|Millions of Lifetimes Can Be Purified by Chanting]]
@@ -82,7 +81,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THREE</header>
-<title h4>[[books:sb:6:3:start|Yamarāja Instructs His Messengers]]</title>
+<title h4>[[books:sb:6:3:start?preview=false|Yamarāja Instructs His Messengers]]</title>
   * [[books:sb:6:3:|The Messengers of Death Had Never Been Defeated]]
   * [[books:sb:6:3:|Justice in the Universe]]
   * [[books:sb:6:3:|Viṣṇu’s Mysterious Messengers]]
@@ -100,7 +99,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOUR</header>
-<title h4>[[books:sb:6:4:start|The Hamsa-Guhya Prayers Offered to the Lord by Prajāpati Dakṣa]]</title>
+<title h4>[[books:sb:6:4:start?preview=false|The Hamsa-Guhya Prayers Offered to the Lord by Prajāpati Dakṣa]]</title>
   * [[books:sb:6:4:|The Anger of the Pracetās After Long Austerities]]
   * [[books:sb:6:4:|Soma Pleads for the Life of the Trees]]
   * [[books:sb:6:4:|The Lord of Lords Provides Food for Everyone]]
@@ -125,7 +124,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIVE</header>
-<title h4>[[books:sb:6:5:start|Nārada Muni Cursed by Prajāpati Dakṣa]]</title>
+<title h4>[[books:sb:6:5:start?preview=false|Nārada Muni Cursed by Prajāpati Dakṣa]]</title>
   * [[books:sb:6:5:|The Haryasvas Perform Austerities]]
   * [[books:sb:6:5:|Nārada Muni’s Allegory]]
   * [[books:sb:6:5:|“The Earth”]]
@@ -153,7 +152,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIX</header>
-<title h4>[[books:sb:6:6:start|The Progeny of the Daughters of Dakṣa]]</title>
+<title h4>[[books:sb:6:6:start?preview=false|The Progeny of the Daughters of Dakṣa]]</title>
   * [[books:sb:6:6:|Dakṣa Begets Sixty Daughters]]
   * [[books:sb:6:6:|Upendra Born of Marutvati]]
   * [[books:sb:6:6:|Viśvakarmā Born of Āṅgirasī]]
@@ -163,7 +162,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVEN</header>
-<title h4>[[books:sb:6:7:start|Indra Offends His Spiritual Master, Bṛhaspati]]</title>
+<title h4>[[books:sb:6:7:start?preview=false|Indra Offends His Spiritual Master, Bṛhaspati]]</title>
   * [[books:sb:6:7:|Bṛhaspati Rejects the Demigods]]
   * [[books:sb:6:7:|Indra Condemns His Own Opulence]]
   * [[books:sb:6:7:|Those Who Mislead People Go to Hell]]
@@ -176,7 +175,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHT</header>
-<title h4>[[books:sb:6:8:start|The Nārāyana-kavaca Shield]]</title>
+<title h4>[[books:sb:6:8:start?preview=false|The Nārāyana-kavaca Shield]]</title>
   * [[books:sb:6:8:|Explanation of the Viṣṇu Mantra Armor]]
   * [[books:sb:6:8:|Prayers to Vāmana and Nṛsṁhadeva]]
   * [[books:sb:6:8:|Prayers to Hayagrīva, Nārada and Kūrma]]
@@ -188,7 +187,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINE</header>
-<title h4>[[books:sb:6:9:start|Appearance of the Demon Vṛtrāsura]]</title>
+<title h4>[[books:sb:6:9:start?preview=false|Appearance of the Demon Vṛtrāsura]]</title>
   * [[books:sb:6:9:|Visvarūpa Offers Oblations to the Demons]]
   * [[books:sb:6:9:|Indra Accepts Sinful Reactions]]
   * [[books:sb:6:9:|Description of Vṛtrāsura]]
@@ -204,7 +203,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TEN</header>
-<title h4>[[books:sb:6:10:start|The Battle Between the Demigods and Vṛtrāsura]]</title>
+<title h4>[[books:sb:6:10:start?preview=false|The Battle Between the Demigods and Vṛtrāsura]]</title>
   * [[books:sb:6:10:|The Demigods Ask Dadhīci for His Body]]
   * [[books:sb:6:10:|The Body Must Be Engaged for the Benefit of Others]]
   * [[books:sb:6:10:|Indra Rides Off to Kill Vṛtrāsura]]
@@ -214,7 +213,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER ELEVEN</header>
-<title h4>[[books:sb:6:11:start|The Transcendental Qualities of Vṛtrāsura]]</title>
+<title h4>[[books:sb:6:11:start?preview=false|The Transcendental Qualities of Vṛtrāsura]]</title>
   * [[books:sb:6:11:|Vṛtrāsura Rebukes the Demigods]]
   * [[books:sb:6:11:|The Demigods Trampled by Vṛtrāsura]]
   * [[books:sb:6:11:|Vṛtrāsura Condemns Indra]]
@@ -225,7 +224,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER TWELVE .</header>
-<title h4>[[books:sb:6:12:start|Vṛtrāsura’s Glorious Death]]</title>
+<title h4>[[books:sb:6:12:start?preview=false|Vṛtrāsura’s Glorious Death]]</title>
   * [[books:sb:6:12:|Vṛtrāsura Attacks Lord Indra]]
   * [[books:sb:6:12:|Lord Indra is Encouraged by Vṛtrāsura]]
   * [[books:sb:6:12:|Everyone Dances to the Desire of the Lord]]
@@ -236,7 +235,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER THIRTEEN</header>
-<title h4>[[books:sb:6:13:start|King Indra Afflicted by Sinful Reaction]]</title>
+<title h4>[[books:sb:6:13:start?preview=false|King Indra Afflicted by Sinful Reaction]]</title>
   * [[books:sb:6:13:|The Unhappiness of Indra]]
   * [[books:sb:6:13:|The Demigods Reassure Lord Indra]]
   * [[books:sb:6:13:|Personified Sin Chases Indra]]
@@ -246,7 +245,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FOURTEEN</header>
-<title h4>[[books:sb:6:14:start|King Citraketu’s Lamentation]]</title>
+<title h4>[[books:sb:6:14:start?preview=false|King Citraketu’s Lamentation]]</title>
   * [[books:sb:6:14:|The Mystery of Vṛtrāsura: Sinful Demon or Great Saint]]
   * [[books:sb:6:14:|A Real Devotee of God is Extremely Rare]]
   * [[books:sb:6:14:|King Citraketu’s Ten Million Barren Wives]]
@@ -263,7 +262,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER FIFTEEN</header>
-<title h4>[[books:sb:6:15:start|The Saints Nārada and Angirā Instruct King Citraketu]]</title>
+<title h4>[[books:sb:6:15:start?preview=false|The Saints Nārada and Angirā Instruct King Citraketu]]</title>
   * [[books:sb:6:15:|Conditioned Souls Are Joined and Separated by Time]]
   * [[books:sb:6:15:|The Supreme Lord Controls Everything]]
   * [[books:sb:6:15:|King Citraketu’s Enlightenment]]
@@ -274,7 +273,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SIXTEEN</header>
-<title h4>[[books:sb:6:16:start|King Citraketu Meets the Supreme Lord]]</title>
+<title h4>[[books:sb:6:16:start?preview=false|King Citraketu Meets the Supreme Lord]]</title>
   * [[books:sb:6:16:|King Citraketu’s Dead Son Speaks]]
   * [[books:sb:6:16:|Traveling from Womb to Womb]]
   * [[books:sb:6:16:|The Living Entity is Equal in Quality to God]]
@@ -296,7 +295,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER SEVENTEEN</header>
-<title h4>[[books:sb:6:17:start|Mother Pārvati Curses Citraketu]]</title>
+<title h4>[[books:sb:6:17:start?preview=false|Mother Pārvati Curses Citraketu]]</title>
   * [[books:sb:6:17:|Citraketu Travels in Outer Space]]
   * [[books:sb:6:17:|Citraketu Laughs at Lord Śiva's Embracing His Wife]]
   * [[books:sb:6:17:|Pārvati is Furious with Citraketu]]
@@ -310,7 +309,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER EIGHTEEN</header>
-<title h4>[[books:sb:6:18:start|Diti Vows to Kill King Indra]]</title>
+<title h4>[[books:sb:6:18:start?preview=false|Diti Vows to Kill King Indra]]</title>
   * [[books:sb:6:18:|The Descendants of Aditi]]
   * [[books:sb:6:18:|Diti’s Demoniac Children]]
   * [[books:sb:6:18:|Diti Won’t Rest until Indra is Dead]]
@@ -327,7 +326,7 @@
 
 <card line-spacing="lg">
 <header>CHAPTER NINETEEN</header>
-<title h4>[[books:sb:6:19:start|Performing the Puṁsavana Ritualistic Ceremony]]</title>
+<title h4>[[books:sb:6:19:start?preview=false|Performing the Puṁsavana Ritualistic Ceremony]]</title>
   * [[books:sb:6:19:|Description of the Puṁsavana Vow]]
   * [[books:sb:6:19:|Prayers to Lord Viṣṇu and Lakṣmī]]
   * [[books:sb:6:19:|The Duty of Everyone is to Worship Lakṣmī-Nārāyana]]
@@ -335,9 +334,7 @@
   * [[books:sb:6:19:|Results of Observing the Puṁsavana Vow]]
 </card>
 
-
-
-<grid class="pagenav-index">
+<grid class="pagenav-canto">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:5:start|<- Canto 5]]</btn></box>
 <box class="col-6"><btn align="end" skin="outline">[[books:sb:7:start|Canto 7 ->]]</btn></box>
 </grid>

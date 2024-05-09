@@ -1,6 +1,6 @@
 ---json
 {
-    "name":"Divinity and Divine Service",
+    "name":"SB 1.2: Divinity and Divine Service",
     "label":"Chapter 2",
     "h1":"Divinity and Divine Service",
     "title":"SB 1.2: Divinity and Divine Service",

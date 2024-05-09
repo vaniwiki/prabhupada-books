@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== The Creative Impetus ======
 
 <card line-spacing="lg">

@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== The Status Quo ======
 
 <card line-spacing="lg">

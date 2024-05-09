@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== Withdrawal of the Cosmic Creations ======
 
 <card line-spacing="lg">

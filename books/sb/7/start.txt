@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== The Science of God ======
 
 <card line-spacing="lg">

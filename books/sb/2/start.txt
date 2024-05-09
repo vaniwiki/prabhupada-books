@@ -8,6 +8,8 @@
 }
 ---
 
+<breadcrumb />
+
 ====== The Cosmic Manifestation ======
 
 <card line-spacing="lg">

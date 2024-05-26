@@ -256,4 +256,5 @@ Plate 44 --- “Wherever there is Kṛṣṇa and Arjuna there will certainly be
 
 <grid class="pagenav-chapter">
 <box class="col-6"><btn align="start" skin="outline">[[books:bg:17:start|<- Chapter 17]]</btn></box>
+<box class="col-6"></box>
 </grid>

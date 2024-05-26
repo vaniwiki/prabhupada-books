@@ -14,56 +14,68 @@
 <card line-spacing="lg">
 <header>Table of contents</header>
 
-  * [[books:ssr:0a|Dedication]]
-  * [[books:ssr:0b|Foreword]]
-  * [[books:ssr:0c|Introduction]]
+  * [[books:ssr:0a?preview=false|Dedication]]
+  * [[books:ssr:0b?preview=false|Foreword]]
+  * [[books:ssr:0c?preview=false|Introduction]]
 
   1. **[[books:ssr:1|Learning the Science of the Self]]**
-    * Discovering the Self
-    * What Is Kṛṣṇa Consciousness?
-    * A Definition of God
-    * Reincarnation and Beyond
-    * Truth and Beauty
-    * The Art of Dying
-    * Soul Research
+    * [[books:ssr:1?preview=false#discovering_the_self|Discovering the Self]]
+    * [[books:ssr:1?preview=false#what_is_krsna_consciousness|What Is Kṛṣṇa Consciousness?]]
+    * [[books:ssr:1?preview=false#a_definition_of_god|A Definition of God]]
+    * [[books:ssr:1?preview=false#reincarnation_and_beyond|Reincarnation and Beyond]]
+    * [[books:ssr:1?preview=false#truth_and_beauty|Truth and Beauty]]
+    * [[books:ssr:1?preview=false#the_art_of_dying|The Art of Dying]]
+    * [[books:ssr:1?preview=false#soul_research|Soul Research]]
   2. **[[books:ssr:2|Choosing a Spiritual Master]]**
-    * What Is a Guru?
-    * Saints and Swindlers
-    * The Absolute Necessity of a Spiritual Master
+    * [[books:ssr:2?preview=false#what_is_a_guru|What Is a Guru?]]
+    * [[books:ssr:2?preview=false#saints_and_swindlers|Saints and Swindlers]]
+    * [[books:ssr:2?preview=false#the_absolute_necessity_of_a_spiritual_master|The Absolute Necessity of a Spiritual Master]]
   3. **[[books:ssr:3|Discovering the Roots]]**
-    * The Immortal Nectar of the Bhagavad-gītā
-    * The Scriptural Basis of Kṛṣṇa Consciousness
-    * Kṛṣṇa Consciousness: Hindu Cult or Divine Culture?
+    * [[books:ssr:3?preview=false#the_immortal_nectar_of_the_bhagavad-gita|The Immortal Nectar of the Bhagavad-gītā]]
+    * [[books:ssr:3?preview=false#the_scriptural_basis_of_krsna_consciousness|The Scriptural Basis of Kṛṣṇa Consciousness]]
+    * [[books:ssr:3?preview=false#krsna_consciousnesshindu_cult_or_divine_culture|Kṛṣṇa Consciousness: Hindu Cult or Divine Culture?]]
   4. **[[books:ssr:4|Understanding Kṛṣṇa and Christ]]**
-    * Kṛṣṇa, Christos, Christ
-    * Jesus Christ Was a Guru
-    * “Thou Shalt Not Kill” or “Thou Shalt Not Murder”?
+    * [[books:ssr:4?preview=false#krsna_christos_christ|Kṛṣṇa, Christos, Christ]]
+    * [[books:ssr:4?preview=false#jesus_christ_was_a_guru|Jesus Christ Was a Guru]]
+    * [[books:ssr:4?preview=false#thou_shalt_not_kill_or_thou_shalt_not_murder|“Thou Shalt Not Kill” or “Thou Shalt Not Murder”?]]
   5. **[[books:ssr:5|Practicing Yoga in the Modern Age]]**
-    * Superconsciousness
-    * The Appearance of Lord Caitanya
-    * Chanting the Hare Kṛṣṇa Mantra
-    * Kṛṣṇa Consciousness—the Yoga for the Modern Age
-    * Meditation and the Self Within
+    * [[books:ssr:5?preview=false#superconsciousness|Superconsciousness]]
+    * [[books:ssr:5?preview=false#the_appearance_of_lord_caitanya|The Appearance of Lord Caitanya]]
+    * [[books:ssr:5?preview=false#chanting_the_hare_krsna_mantra|Chanting the Hare Krsna Mantra]]
+    * [[books:ssr:5?preview=false#krsna_consciousness---the_yoga_for_the_modern_age|Kṛṣṇa Consciousness—the Yoga for the Modern Age]]
+    * [[books:ssr:5?preview=false#meditation_and_the_self_within|Meditation and the Self Within]]
   6. **[[books:ssr:6|Finding Spiritual Solutions to Material Problems]]**
-    * Crime: Why and What to Do?
-    * Human Society or Animal Society?
-    * Altruism: Temporary and Eternal
-    * Declaring Our Dependence on God
-    * The Peace Formula
-    * Spiritual Communism
-    * The Tiny World of Modern Science
+    * [[books:ssr:6?preview=false#crimewhy_and_what_to_do|Crime: Why and What to Do?]]
+    * [[books:ssr:6?preview=false#human_society_or_animal_society|Human Society or Animal Society?]]
+    * [[books:ssr:6?preview=false#altruismtemporary_and_eternal|Altruism: Temporary and Eternal]]
+    * [[books:ssr:6?preview=false#declaring_our_dependence_on_god|Declaring Our Dependence on God]]
+    * [[books:ssr:6?preview=false#the_peace_formula|The Peace Formula]]
+    * [[books:ssr:6?preview=false#spiritual_communism|Spiritual Communism]]
+    * [[books:ssr:6?preview=false#the_tiny_world_of_modern_science|The Tiny World of Modern Science]]
   7. **[[books:ssr:7|Exploring the Spiritual Frontier]]**
-    * Śrīla Prabhupāda Arrives in America
-    * Build Your Nation on the Spiritual Platform
-    * Saintly Compassion
-    * Protecting Oneself from Illusion
-    * An Awareness of What Is Best and Most Beautiful
+    * [[books:ssr:7?preview=false#srila_prabhupada_arrives_in_america|Śrīla Prabhupāda Arrives in America]]
+    * [[books:ssr:7?preview=false#build_your_nation_on_the_spiritual_platform|Build Your Nation on the Spiritual Platform]]
+    * [[books:ssr:7?preview=false#saintly_compassion|Saintly Compassion]]
+    * [[books:ssr:7?preview=false#protecting_oneself_from_illusion|Protecting Oneself from Illusion]]
+    * [[books:ssr:7?preview=false#an_awareness_of_what_is_best_and_most_beautiful|An Awareness of What Is Best and Most Beautiful]]
   8. **[[books:ssr:8|Attaining Perfection]]**
-    * Knowing the Purpose of Life
-    * The Highest Love
-    * The Perfection of Self-realization
-
+    * [[books:ssr:8?preview=false#knowing_the_purpose_of_life|Knowing the Purpose of Life]]
+    * [[books:ssr:8?preview=false#the_highest_love|The Highest Love]]
+    * [[books:ssr:8?preview=false#the_perfection_of_self-realization|The Perfection of Self-realization]]
 </card>
+
+<iterator>
+    <data>select where path like '%:books:ssr%' and path not like '%start%' order by path asc</data>
+    <grid>
+        <fragment>
+            <box><card clickable>
+            <header>$label</header>
+            <title>$h1</title>
+    ${description | head(1024,'...')}[[$path?preview=false| ]]
+            </card></box>
+        </fragment>
+    </grid>
+</iterator>
 
 ===== From the back cover =====
 

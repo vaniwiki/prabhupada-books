@@ -14,16 +14,21 @@
 <card line-spacing="lg">
 <header>Table of contents</header>
 
+  - [[books:ej:0a|Preface]]
   - [[books:ej:1|Antimaterial Worlds]]
   - [[books:ej:2|Varieties of Planetary Systems]]
 
 </card>
 
-
-===== Preface =====
-
-A living being, especially civilized man, has a natural desire to live forever in happiness. This is quite natural because, in his original state, the living being is both eternal and joyful. However, in the present conditioned state of life, he is engaged in a struggle against recurring birth and death. Therefore he has attained neither happiness nor immortality. 
-
-The latest desire man has developed is the desire to travel to other planets. This is also quite natural, because he has the constitutional right to go to any part of the material or spiritual skies. Such travel is very tempting and exciting because these skies are full of unlimited globes of varying qualities, and they are occupied by all types of living entities. The desire to travel there can be fulfilled by the process of //yoga,// which serves as a means by which one can transfer himself to whatever planet he likes---possibly to planets where life is not only eternal and blissful, but where there are multiple varieties of enjoyable energies. Anyone who can attain the freedom of the spiritual planets need never return to this miserable land of birth, old age, disease and death. 
-
-One can attain this stage of perfection very easily by his individual effort. He can simply follow, in his own home, the prescribed method of //bhakti-yoga.// This method, under proper guidance, is simple and enjoyable. An attempt is made herein to give information to the people in general, and to philosophers and religionists in particular, as to how one can transfer oneself to other planets by this process of //bhakti-yoga---//the highest of all yogic processes. 
+<iterator>
+    <data>select where path like '%:books:ej%' and path not like '%start%' order by path asc</data>
+    <grid gutter="my-2">
+        <fragment>
+            <box><card clickable>
+            <header>$label</header>
+            <title>$h1</title>
+		${description | head(1024,'...')}[[$path?preview=false| ]]
+            </card></box>
+        </fragment>
+    </grid>
+</iterator>

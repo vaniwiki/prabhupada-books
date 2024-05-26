@@ -109,5 +109,5 @@
 
 <grid class="pagenav-chapter">
 <box class="col-6"><btn align="start" skin="outline">[[books:sb:4:30:start|<- Chapter 30]]</btn></box>
-<box class="col-6"><btn align="end" skin="outline">[[books:sb:4:32:start|Chapter 32 ->]]</btn></box>
+<box class="col-6"></box>
 </grid>
